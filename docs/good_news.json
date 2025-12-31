@@ -1,5 +1,25 @@
 [
   {
+    "headline": "What to know about Trump administration freezing federal child care funds",
+    "link": "https://apnews.com/article/minnesota-child-care-funds-fraud-trump-1d6edb8511d916fc3a5dc3b339d94e37",
+    "mean_score": 0.2107,
+    "vader_score": 0.4215,
+    "textblob_score": 0.0,
+    "first_sentence": "The Trump administration has said it is freezing child care funds to all states until they provide more verification and administrative data about the programs in a move fueled by a series of fraud schemes at Minnesota day care centers run by Somali residents.",
+    "timestamp": "2025-12-31T21:53:02Z",
+    "source": "Associated Press"
+  },
+  {
+    "headline": "ICE plans $100m yearlong \u2018wartime recruitment\u2019 media blitz to attract new agents",
+    "link": "https://www.theguardian.com/us-news/2025/dec/31/ice-recruitment-media-campaign",
+    "mean_score": 0.2488,
+    "vader_score": 0.3612,
+    "textblob_score": 0.1364,
+    "first_sentence": "US Immigration and Customs Enforcement (ICE) has reportedly planned a $100m, one-year media blitz for what it\u2019s calling \u201cwartime recruitment\u201d, targeting conservative radio show listeners, gun rights aficionados, military affairs followers and men\u2019s interests enthusiasts \u2013 among others in the Maga-verse \u2013 for jobs in the Trump administration\u2019s next phase of its mass deportation campaign.",
+    "timestamp": "2025-12-31T21:52:09Z",
+    "source": "World news | The Guardian"
+  },
+  {
     "headline": "Hong Kong welcomes 2026 without fireworks after fatal apartment blaze",
     "link": "https://www.abc.net.au/news/2026-01-01/people-celebrate-new-years-eve-around-world/106191346",
     "mean_score": 0.3378,
@@ -28,6 +48,16 @@
     "first_sentence": "Israel is banning dozens of charities and aid organisations from operating in Gaza.",
     "timestamp": "2025-12-31T19:27:36Z",
     "source": "Top Stories"
+  },
+  {
+    "headline": "Cole leaves Leicester after 18 years 'with heavy heart'",
+    "link": "https://www.bbc.com/sport/rugby-union/articles/cz7y38214g2o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.2185,
+    "vader_score": 0.6369,
+    "textblob_score": -0.2,
+    "first_sentence": "Leicester Tigers stalwart Dan Cole will leave the club after 18 years due to personal reasons.",
+    "timestamp": "2025-12-31T18:44:08Z",
+    "source": "BBC News"
   },
   {
     "headline": "Quiz: How well prepared are you for what's coming in 2026?",
