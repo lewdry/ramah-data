@@ -170,6 +170,26 @@
     "textblob_score": 0.0
   },
   {
+    "headline": "ITV agrees to invest \u00a33m in fitness app created by Joe Wicks",
+    "link": "https://www.theguardian.com/media/2025/dec/31/itv-joe-wicks-body-coach-app-investment-health-fitness",
+    "mean_score": 0.2997,
+    "vader_score": 0.5994,
+    "textblob_score": 0.0,
+    "first_sentence": "The broadcaster ITV has agreed to invest up to \u00a33m into the health and fitness app The Body Coach, created by Joe Wicks, who shot to fame by getting people exercising in their living rooms during the Covid pandemic.",
+    "timestamp": "2025-12-31T15:35:29Z",
+    "source": "World news | The Guardian"
+  },
+  {
+    "headline": "Watch: Stunning celestial events that lit up the skies in 2025",
+    "link": "https://www.bbc.com/news/videos/c8xdw7j2v2go?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4409,
+    "vader_score": 0.3818,
+    "textblob_score": 0.5,
+    "first_sentence": "From meteor showers to supermoons, many stunning celestial events have been captured on camera over the past year.",
+    "timestamp": "2025-12-31T15:33:33Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "New British passport to feature king\u2019s coat of arms and enhanced security",
     "link": "https://www.theguardian.com/uk-news/2025/dec/31/uk-issues-passports-most-advanced-security-yet",
     "mean_score": 0.2041,

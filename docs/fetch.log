@@ -149,3 +149,14 @@
 2025-12-31 15:33:59,958 - INFO - Checking feed: https://feedx.net/rss/ap.xml
 2025-12-31 15:34:00,278 - INFO - Checking feed: https://feeds.npr.org/1001/rss.xml
 2025-12-31 15:34:00,655 - INFO - Saved 27 stories to data/good_news.json.
+2025-12-31 16:04:42,054 - INFO - Starting Ramah News Fetcher
+2025-12-31 16:04:42,062 - INFO - Checking feed: http://feeds.bbci.co.uk/news/rss.xml
+2025-12-31 16:04:42,339 - INFO - Found good news: Watch: Stunning celestial events that lit up the skies in 2025 (Mean Score: 0.4409, VADER: 0.3818, TextBlob: 0.5000)
+2025-12-31 16:04:42,475 - INFO - Checking feed: https://www.abc.net.au/news/feed/45910/rss.xml
+2025-12-31 16:04:42,871 - INFO - Checking feed: https://www.theguardian.com/world/rss
+2025-12-31 16:04:43,015 - INFO - Found good news: ITV agrees to invest £3m in fitness app created by Joe Wicks (Mean Score: 0.2997, VADER: 0.5994, TextBlob: 0.0000)
+2025-12-31 16:04:43,191 - INFO - Checking feed: https://www.sbs.com.au/news/feed
+2025-12-31 16:04:43,744 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/index
+2025-12-31 16:04:43,861 - INFO - Checking feed: https://feedx.net/rss/ap.xml
+2025-12-31 16:04:44,062 - INFO - Checking feed: https://feeds.npr.org/1001/rss.xml
+2025-12-31 16:04:44,159 - INFO - Saved 29 stories to docs/good_news.json.
