@@ -2,18 +2,27 @@
 
 Ramah is a 'good news' aggregator that filters news headlines from major sources to find stories with a positive sentiment.
 
+```
+██████╗  █████╗ ███╗   ███╗ █████╗ ██╗  ██╗
+██╔══██╗██╔══██╗████╗ ████║██╔══██╗██║  ██║
+██████╔╝███████║██╔████╔██║███████║███████║
+██╔══██╗██╔══██║██║╚██╔╝██║██╔══██║██╔══██║
+██║  ██║██║  ██║██║ ╚═╝ ██║██║  ██║██║  ██║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
+
 ## How it Works
 
 The backend of Ramah is powered by a Python script located at `scripts/fetch_news.py`.
 
-1.  **RSS Fetching**: The script monitors several RSS feeds from BBC News, ABC News (Australia), and The Guardian.
+1.  **RSS Fetching**: The script monitors several RSS feeds from BBC News, ABC News (Australia), The Guardian, SBS News, Ars Technica, AP News, NPR News.
 2.  **Sentiment Analysis**: It uses two sentiment analysis tools to ensure high-quality filtering:
     - **VADER**: A dictionary and rule-based sentiment analysis tool.
     - **TextBlob**: A sentiment analysis tool based on NLTK.
     The script calculates the **mean polarity score** from both tools.
-3.  **Block List**: Before sentiment analysis, headlines are checked against a block list (e.g., "kill", "bomb", "murder"). If a headline contains any of these words, it is immediately disregarded.
-4.  **Filtering**: Only stories with a mean sentiment score above `0.2` are kept.
-5.  **Content Extraction**: For positive stories, the script attempts to scrape the first sentence of the article content using `BeautifulSoup`. If scraping fails, it falls back to the RSS summary/description.
+3.  **Block List**: Before sentiment analysis, headlines are checked against a block list (e.g., "kill", "bomb", "murder" etc.). If a headline contains any of these words, it is immediately disregarded.
+4.  **Filtering**: Only stories with a mean sentiment score above `0.2` (on a scale of -1 to +1) are kept.
+5.  **Content Extraction**: For positive stories, the script attempts to pull the first sentence of the article content using `BeautifulSoup`. If scraping fails, it falls back to the RSS summary/description.
 6.  **Data Storage**: The filtered "good news" items are stored in `data/good_news.json`. Each item includes `mean_score`, `vader_score`, and `textblob_score` as metadata. To keep the feed fresh, this file is capped at 100 stories. Any stories beyond this limit are automatically moved to `data/old_news.json`.
 
 ## Installation & Setup
@@ -51,10 +60,9 @@ After running, check the `data/good_news.json` file for recent stories, `data/ol
 
 ## GitHub Actions Scheduling
 
-You can automate the news fetching process by scheduling it to run as a GitHub Action. This ensures your app always has the latest positive news.
+Automate the news fetching process by scheduling it to run as a GitHub Action. This ensures the app always has the latest positive news.
 
 ### 1. Create the Workflow File
-The workflow is already set up at `.github/workflows/fetch_news.yml`. It runs every hour and pushes any updates back to the repository using the official `github-actions[bot]`.
 
 ### 2. Permissions Note
 Ensure that the GitHub Action has "Read and write permissions" under **Settings > Actions > General > Workflow permissions** so it can commit the updated data file back to your repository.
