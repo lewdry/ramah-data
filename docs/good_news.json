@@ -1,5 +1,15 @@
 [
   {
+    "headline": "In pictures: New Year welcomed around the world",
+    "link": "https://www.bbc.com/news/articles/c050j896q2do?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.2382,
+    "vader_score": 0.34,
+    "textblob_score": 0.1364,
+    "first_sentence": "Nations around the world are welcoming the New Year as midnight strikes across different time zones.",
+    "timestamp": "2025-12-31T15:45:22Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "ITV agrees to invest \u00a33m in fitness app created by Joe Wicks",
     "link": "https://www.theguardian.com/media/2025/dec/31/itv-joe-wicks-body-coach-app-investment-health-fitness",
     "mean_score": 0.2997,
@@ -17,6 +27,16 @@
     "textblob_score": 0.5,
     "first_sentence": "From meteor showers to supermoons, many stunning celestial events have been captured on camera over the past year.",
     "timestamp": "2025-12-31T15:33:33Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Teen jockey Loughnane breaks calendar year wins record on New Year's Eve",
+    "link": "https://www.bbc.com/sport/horse-racing/articles/c20z78px2wvo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3587,
+    "vader_score": 0.5719,
+    "textblob_score": 0.1455,
+    "first_sentence": "Teenage jockey Billy Loughnane has broken the record for the most wins in a calendar year this century.",
+    "timestamp": "2025-12-31T15:18:32Z",
     "source": "BBC News"
   },
   {
