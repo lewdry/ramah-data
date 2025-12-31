@@ -2,13 +2,6 @@
 
 Ramah is a 'good news' aggregator that filters news headlines from major sources to find stories with a positive sentiment.
 
-____      _      __  __      _      _   _ 
-|  _ \    / \    |  \/  |    / \    | | | |
-| |_) |  / _ \   | |\/| |   / _ \   | |_| |
-|  _ <  / ___ \  | |  | |  / ___ \  |  _  |
-|_| \_\/_/   \_\ |_|  |_| /_/   \_\ |_| |_|
-
-
 ## How it Works
 
 The backend of Ramah is powered by a Python script located at `scripts/fetch_news.py`.
