@@ -22,9 +22,9 @@ RSS_FEEDS = [
     "https://feedx.net/rss/ap.xml",  # AP News
     "https://feeds.npr.org/1001/rss.xml",  # NPR News
 ]
-SENTIMENT_THRESHOLD = 0.2
-BLOCK_LIST = ["kill", "bomb", "murder", "rampage"]
-MAX_STORIES = 100
+SENTIMENT_THRESHOLD = 0.5
+BLOCK_LIST = ["kill", "bomb", "murder", "rampage", "fatal", "trump", "ICE"]
+MAX_STORIES = 250
 # Use `docs/` as the storage directory
 DATA_DIR = "docs"
 DATA_FILE = os.path.join(DATA_DIR, "good_news.json")
