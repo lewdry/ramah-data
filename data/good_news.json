@@ -170,6 +170,16 @@
     "textblob_score": 0.0
   },
   {
+    "headline": "New British passport to feature king\u2019s coat of arms and enhanced security",
+    "link": "https://www.theguardian.com/uk-news/2025/dec/31/uk-issues-passports-most-advanced-security-yet",
+    "mean_score": 0.2041,
+    "vader_score": 0.34,
+    "textblob_score": 0.0682,
+    "first_sentence": "A new British passport, claimed to be the most secure ever produced and featuring King Charles\u2019s coat of arms on the front cover, has come into use.",
+    "timestamp": "2025-12-31T15:16:36Z",
+    "source": "World news | The Guardian"
+  },
+  {
     "headline": "\u20ac1m Picasso portrait up for grabs for \u20ac100 in charity auction",
     "link": "https://www.theguardian.com/artanddesign/2025/dec/31/picasso-portrait-charity-auction-alzheimers",
     "mean_score": 0.2107,

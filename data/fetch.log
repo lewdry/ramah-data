@@ -139,3 +139,13 @@
 2026-01-01 02:26:30,179 - INFO - Checking feed: https://feedx.net/rss/ap.xml
 2026-01-01 02:26:31,130 - INFO - Checking feed: https://feeds.npr.org/1001/rss.xml
 2026-01-01 02:26:31,193 - INFO - No new positive stories found.
+2025-12-31 15:33:57,880 - INFO - Starting Ramah News Fetcher
+2025-12-31 15:33:57,888 - INFO - Checking feed: http://feeds.bbci.co.uk/news/rss.xml
+2025-12-31 15:33:58,336 - INFO - Checking feed: https://www.abc.net.au/news/feed/45910/rss.xml
+2025-12-31 15:33:58,940 - INFO - Checking feed: https://www.theguardian.com/world/rss
+2025-12-31 15:33:59,207 - INFO - Found good news: New British passport to feature king’s coat of arms and enhanced security (Mean Score: 0.2041, VADER: 0.3400, TextBlob: 0.0682)
+2025-12-31 15:33:59,355 - INFO - Checking feed: https://www.sbs.com.au/news/feed
+2025-12-31 15:33:59,784 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/index
+2025-12-31 15:33:59,958 - INFO - Checking feed: https://feedx.net/rss/ap.xml
+2025-12-31 15:34:00,278 - INFO - Checking feed: https://feeds.npr.org/1001/rss.xml
+2025-12-31 15:34:00,655 - INFO - Saved 27 stories to data/good_news.json.
