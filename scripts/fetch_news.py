@@ -7,6 +7,10 @@ import json
 import os
 import time
 import logging
+from datetime import datetime, timezone
+from email.utils import parsedate_to_datetime
+import bisect
+import re
 
 # Configuration
 RSS_FEEDS = [
@@ -93,6 +97,60 @@ def load_data(filename):
             return []
     return []
 
+
+def _parse_timestamp_to_epoch(ts):
+    """Parse various timestamp formats into a UTC epoch (float seconds).
+    Returns 0 on failure so items without timestamps sort to the end.
+    Handles RFC 2822/RSS dates via parsedate_to_datetime, ISO8601 with or
+    without a colon in the timezone offset, and trailing Z.
+    """
+    if not ts:
+        return 0.0
+
+    # Try email.utils first (works for many feed timestamps)
+    try:
+        dt = parsedate_to_datetime(ts)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        return dt.astimezone(timezone.utc).timestamp()
+    except Exception:
+        pass
+
+    # Normalize ISO8601 timezone offsets like +1100 to +11:00
+    iso = ts
+    m = re.search(r"([+-]\d{4})$", ts)
+    if m:
+        tz = m.group(1)
+        iso = ts[:-5] + tz[:3] + ':' + tz[3:]
+
+    # Handle Z suffix
+    if iso.endswith('Z'):
+        iso = iso[:-1] + '+00:00'
+
+    try:
+        dt = datetime.fromisoformat(iso)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        return dt.astimezone(timezone.utc).timestamp()
+    except Exception:
+        logging.debug(f"Could not parse timestamp '{ts}'")
+        return 0.0
+
+
+def _ensure_reverse_chrono_sorted(items):
+    """Return a new list sorted reverse-chronologically (newest first).
+    Uses parsed timestamps and falls back to original order for ties.
+    """
+    paired = []
+    for i, itm in enumerate(items):
+        epoch = _parse_timestamp_to_epoch(itm.get('timestamp'))
+        # Use tuple ( -epoch, i ) so newer items (larger epoch) sort first and
+        # tie-breaker keeps original relative order.
+        paired.append(( -epoch, i, itm ))
+
+    paired.sort()
+    return [p[2] for p in paired]
+
 def save_data(data, filename):
     with open(filename, 'w') as f:
         json.dump(data, f, indent=2)
@@ -113,8 +171,10 @@ def archive_old_stories(new_archived_stories):
             added_to_archive += 1
     
     if added_to_archive > 0:
-        # Sort archive by timestamp descending
-        archive_data.sort(key=lambda x: x['timestamp'], reverse=True)
+        # Sort archive by timestamp descending using parsed epochs. This
+        # ensures mixed timestamp formats are sorted correctly and that
+        # the archive contains the true oldest stories at the end.
+        archive_data = _ensure_reverse_chrono_sorted(archive_data)
         save_data(archive_data, ARCHIVE_FILE)
         logging.info(f"Archived {added_to_archive} new stories to {ARCHIVE_FILE}.")
 
@@ -123,11 +183,18 @@ def main():
     analyzer = SentimentIntensityAnalyzer()
     
     current_data = load_data(DATA_FILE)
+
+    # Ensure existing data is reverse-chronologically sorted and build
+    # a helper list of negative epochs for insertion (negatives make it
+    # suitable for bisect on ascending order).
+    current_data = _ensure_reverse_chrono_sorted(current_data)
+    neg_epochs = [ -_parse_timestamp_to_epoch(item.get('timestamp')) for item in current_data ]
+
     # Create a set of existing URLs for fast deduplication
     existing_urls = {item['link'] for item in current_data}
-    
+
     new_stories_count = 0
-    
+
     for feed_url in RSS_FEEDS:
         logging.info(f"Checking feed: {feed_url}")
         try:
@@ -208,21 +275,30 @@ def main():
                     'source': feed.feed.get('title', 'Unknown Source')
                 }
                 
-                current_data.append(news_item)
+                # Insert story in the correctly-sorted position by timestamp.
+                # We compute its epoch and insert using bisect to keep the
+                # list reverse-chronological (newest first). For identical
+                # timestamps we insert after existing equal timestamps so
+                # the newest-arrived stories appear after earlier ones with
+                # the same published time.
+                story_epoch = _parse_timestamp_to_epoch(news_item.get('timestamp'))
+                insert_key = -story_epoch
+                idx = bisect.bisect_right(neg_epochs, insert_key)
+                neg_epochs.insert(idx, insert_key)
+                current_data.insert(idx, news_item)
+
                 existing_urls.add(link)
                 new_stories_count += 1
-                
+
     if new_stories_count > 0:
-        # Sort all stories by timestamp descending
-        current_data.sort(key=lambda x: x['timestamp'], reverse=True)
-        
-        # Split into "keep" and "archive"
+        # Trim/keep the most recent MAX_STORIES (current_data is already
+        # reverse-chronological due to insertion logic)
         keep_stories = current_data[:MAX_STORIES]
         archive_stories = current_data[MAX_STORIES:]
-        
+
         save_data(keep_stories, DATA_FILE)
         logging.info(f"Saved {len(keep_stories)} stories to {DATA_FILE}.")
-        
+
         if archive_stories:
             archive_old_stories(archive_stories)
     else:
