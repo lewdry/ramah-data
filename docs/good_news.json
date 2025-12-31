@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Greens\u2019 Polanski prepared to work with Burnham but not Starmer \u2018to stop Reform\u2019",
+    "link": "https://www.theguardian.com/politics/2025/dec/31/uk-green-party-zack-polanski-labour-andy-burnham-keir-starmer-gary-lineker-bbc",
+    "mean_score": 0.209,
+    "vader_score": 0.418,
+    "textblob_score": 0.0,
+    "first_sentence": "The Green party leader, Zack Polanski, has said he would refuse to work with Keir Starmer but could work with Andy Burnham, Starmer\u2019s potential rival for the Labour leadership, to keep Reform out of power.",
+    "timestamp": "2025-12-31T18:38:43Z",
+    "source": "World news | The Guardian"
+  },
+  {
+    "headline": "McIlroy's omission from honours list questioned",
+    "link": "https://www.bbc.com/news/articles/ceqz5104pr7o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.2107,
+    "vader_score": 0.4215,
+    "textblob_score": 0.0,
+    "first_sentence": "Questions are being asked about why the King's New Year Honours list did not recognise the achievements of Northern Ireland golfer Rory McIlroy.",
+    "timestamp": "2025-12-31T16:38:33Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "In pictures: New Year welcomed around the world",
     "link": "https://www.bbc.com/news/articles/c050j896q2do?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.2382,
@@ -287,6 +307,16 @@
     "textblob_score": 0.5,
     "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
     "timestamp": "2025-12-30T19:18:02Z",
+    "source": "Top Stories"
+  },
+  {
+    "headline": "Tax, super, childcare, medicines and more: Your cheat sheet to big changes in 2026",
+    "link": "https://www.sbs.com.au/news/article/your-guide-to-the-major-2026-changes/zd5258wvu",
+    "mean_score": 0.2181,
+    "vader_score": 0.1585,
+    "textblob_score": 0.2778,
+    "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+    "timestamp": "2025-12-30T18:35:56Z",
     "source": "Top Stories"
   },
   {
