@@ -128,11 +128,23 @@ def main():
     
     for feed_url in RSS_FEEDS:
         logging.info(f"Checking feed: {feed_url}")
-        feed = feedparser.parse(feed_url)
-        
-        if feed.bozo:
-            logging.error(f"Error parsing feed {feed_url}: {feed.bozo_exception}")
+        try:
+            # Use requests with a User-Agent to avoid 403 Forbidden errors
+            headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'}
+            response = requests.get(feed_url, headers=headers, timeout=10)
+            response.raise_for_status()
+            feed = feedparser.parse(response.content)
+        except Exception as e:
+            logging.error(f"Error fetching feed {feed_url}: {e}")
             continue
+            
+        if feed.bozo:
+            # Check if it's just a warning or a fatal error
+            if isinstance(feed.bozo_exception, (feedparser.CharacterEncodingOverride, feedparser.NonXMLContentType)):
+                logging.warning(f"Feed {feed_url} has a parsing warning: {feed.bozo_exception}. Proceeding anyway.")
+            else:
+                logging.error(f"Error parsing feed {feed_url}: {feed.bozo_exception}")
+                continue
             
         for entry in feed.entries:
             link = entry.get('link')

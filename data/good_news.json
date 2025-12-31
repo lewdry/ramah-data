@@ -180,6 +180,16 @@
     "source": "World news | The Guardian"
   },
   {
+    "headline": "Nurse 'lucky to be alive' after crowbar attack at hospital",
+    "link": "https://www.bbc.com/news/articles/c86vl5d8w47o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.2674,
+    "vader_score": 0.3182,
+    "textblob_score": 0.2167,
+    "first_sentence": "A nurse has told how she was \"beaten nearly to death\" after a man went on a rampage with a crowbar in a Merseyside hospital building.",
+    "timestamp": "2025-12-31T14:20:38Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Supply chains, AI, and the cloud: The biggest failures (and one success) of 2025",
     "link": "https://arstechnica.com/security/2025/12/supply-chains-ai-and-the-cloud-the-biggest-failures-and-one-success-of-2025/",
     "mean_score": 0.2389,

@@ -119,3 +119,23 @@
 2026-01-01 02:17:31,774 - INFO - Found good news: Greetings from Vienna, where an imperial palace hosts a holiday market for all (Mean Score: 0.3352, VADER: 0.6705, TextBlob: 0.0000)
 2026-01-01 02:17:32,604 - INFO - Found good news: Out with the mayo: How Ukrainians reclaim holiday food (Mean Score: 0.2009, VADER: 0.4019, TextBlob: 0.0000)
 2026-01-01 02:17:33,536 - INFO - Saved 26 stories to data/good_news.json.
+2026-01-01 02:26:10,147 - INFO - Starting Ramah News Fetcher
+2026-01-01 02:26:10,153 - INFO - Checking feed: http://feeds.bbci.co.uk/news/rss.xml
+2026-01-01 02:26:10,919 - INFO - Found good news: Nurse 'lucky to be alive' after crowbar attack at hospital (Mean Score: 0.2674, VADER: 0.3182, TextBlob: 0.2167)
+2026-01-01 02:26:11,042 - INFO - Checking feed: https://www.abc.net.au/news/feed/45910/rss.xml
+2026-01-01 02:26:11,210 - INFO - Checking feed: https://www.theguardian.com/world/rss
+2026-01-01 02:26:11,344 - INFO - Checking feed: https://www.sbs.com.au/news/feed
+2026-01-01 02:26:11,468 - ERROR - Error fetching feed https://www.sbs.com.au/news/feed: 403 Client Error: Forbidden for url: https://www.sbs.com.au/news/feed
+2026-01-01 02:26:11,468 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/index
+2026-01-01 02:26:11,622 - INFO - Checking feed: https://feedx.net/rss/ap.xml
+2026-01-01 02:26:12,807 - INFO - Checking feed: https://feeds.npr.org/1001/rss.xml
+2026-01-01 02:26:14,173 - INFO - Saved 26 stories to data/good_news.json.
+2026-01-01 02:26:29,203 - INFO - Starting Ramah News Fetcher
+2026-01-01 02:26:29,209 - INFO - Checking feed: http://feeds.bbci.co.uk/news/rss.xml
+2026-01-01 02:26:29,876 - INFO - Checking feed: https://www.abc.net.au/news/feed/45910/rss.xml
+2026-01-01 02:26:29,944 - INFO - Checking feed: https://www.theguardian.com/world/rss
+2026-01-01 02:26:30,033 - INFO - Checking feed: https://www.sbs.com.au/news/feed
+2026-01-01 02:26:30,107 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/index
+2026-01-01 02:26:30,179 - INFO - Checking feed: https://feedx.net/rss/ap.xml
+2026-01-01 02:26:31,130 - INFO - Checking feed: https://feeds.npr.org/1001/rss.xml
+2026-01-01 02:26:31,193 - INFO - No new positive stories found.

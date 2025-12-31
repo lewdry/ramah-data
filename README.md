@@ -48,3 +48,24 @@ To run the news fetcher locally, follow these steps:
     ```
 
 After running, check the `data/good_news.json` file for recent stories, `data/old_news.json` for archived stories, and `data/fetch.log` for execution logs.
+
+## GitHub Actions Scheduling
+
+You can automate the news fetching process by scheduling it to run as a GitHub Action. This ensures your app always has the latest positive news.
+
+### 1. Create the Workflow File
+The workflow is already set up at `.github/workflows/fetch_news.yml`. It runs every hour and pushes any updates back to the repository using the official `github-actions[bot]`.
+
+### 2. Permissions Note
+Ensure that the GitHub Action has "Read and write permissions" under **Settings > Actions > General > Workflow permissions** so it can commit the updated data file back to your repository.
+
+## Maintenance
+
+If you ever change your `BLOCK_LIST` or `SENTIMENT_THRESHOLD` in `fetch_news.py` and want to apply those changes to your existing data immediately, you can run the cleanup utility:
+
+```bash
+export PYTHONPATH=$PYTHONPATH:$(pwd)/scripts
+python3 scripts/cleanup_news.py
+```
+
+This will scan `data/good_news.json` and remove any stories that no longer meet your criteria.
