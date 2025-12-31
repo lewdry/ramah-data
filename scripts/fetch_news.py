@@ -21,12 +21,14 @@ RSS_FEEDS = [
 SENTIMENT_THRESHOLD = 0.2
 BLOCK_LIST = ["kill", "bomb", "murder", "rampage"]
 MAX_STORIES = 100
-DATA_FILE = os.path.join("data", "good_news.json")
-ARCHIVE_FILE = os.path.join("data", "old_news.json")
-LOG_FILE = os.path.join("data", "fetch.log")
+# Use `docs/` as the storage directory
+DATA_DIR = "docs"
+DATA_FILE = os.path.join(DATA_DIR, "good_news.json")
+ARCHIVE_FILE = os.path.join(DATA_DIR, "old_news.json")
+LOG_FILE = os.path.join(DATA_DIR, "fetch.log")
 
 # Setup Logging
-os.makedirs("data", exist_ok=True)
+os.makedirs(DATA_DIR, exist_ok=True)
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s - %(levelname)s - %(message)s",
