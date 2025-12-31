@@ -1,7 +1,6 @@
-# Ramah-Data News Aggregator
+# Ramah-Data: News Aggregator
 
-This repository fetches, filters and publishes curated 'good news' as static JSON,
-intended for consumption by frontend clients.
+This repository fetches, filters and publishes curated 'good news' as static JSON, intended for consumption by frontend clients.
 
 The JSON is published via GitHub Pages.
 
