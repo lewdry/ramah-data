@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Hong Kong welcomes 2026 without fireworks after fatal apartment blaze",
+    "link": "https://www.abc.net.au/news/2026-01-01/people-celebrate-new-years-eve-around-world/106191346",
+    "mean_score": 0.3378,
+    "vader_score": 0.6757,
+    "textblob_score": 0.0,
+    "first_sentence": "People around the world have said goodbye to 2025 and welcomed in 2026.",
+    "timestamp": "2025-12-31T20:12:59Z",
+    "source": "Top Stories"
+  },
+  {
+    "headline": "Stranded travellers welcome in new year in the bush as floods cut roads",
+    "link": "https://www.abc.net.au/news/2026-01-01/floodwaters-north-west-queensland-rainfall-weather-new-years/106189794",
+    "mean_score": 0.3472,
+    "vader_score": 0.2263,
+    "textblob_score": 0.4682,
+    "first_sentence": "Dozens of stranded travellers have welcomed in the new year from cut-off outback towns.",
+    "timestamp": "2025-12-31T20:04:26Z",
+    "source": "Top Stories"
+  },
+  {
     "headline": "'Simply unprecedented': Israel banning dozens of charities from Gaza",
     "link": "https://www.abc.net.au/news/2026-01-01/israel-banning-dozens-of-aid-charities-from-gaza/106191270",
     "mean_score": 0.547,
