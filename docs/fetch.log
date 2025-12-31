@@ -201,3 +201,16 @@
 2025-12-31 19:03:49,906 - INFO - Checking feed: https://feedx.net/rss/ap.xml
 2025-12-31 19:03:50,451 - INFO - Checking feed: https://feeds.npr.org/1001/rss.xml
 2025-12-31 19:03:50,517 - INFO - Saved 34 stories to docs/good_news.json.
+2025-12-31 20:04:08,136 - INFO - Starting Ramah News Fetcher
+2025-12-31 20:04:08,145 - INFO - Checking feed: http://feeds.bbci.co.uk/news/rss.xml
+2025-12-31 20:04:08,458 - INFO - Checking feed: https://www.abc.net.au/news/feed/45910/rss.xml
+2025-12-31 20:04:09,627 - INFO - Found good news: Quiz: How well prepared are you for what's coming in 2026? (Mean Score: 0.2294, VADER: 0.4588, TextBlob: 0.0000)
+2025-12-31 20:04:10,338 - INFO - Found good news: 'Simply unprecedented': Israel banning dozens of charities from Gaza (Mean Score: 0.5470, VADER: 0.4939, TextBlob: 0.6000)
+2025-12-31 20:04:11,124 - INFO - Found good news: Cabinet documents from one of Victoria's most influential governments released (Mean Score: 0.4964, VADER: 0.4927, TextBlob: 0.5000)
+2025-12-31 20:04:11,750 - INFO - Found good news: Shower and tactical change helped Goolagong win first Australian Open (Mean Score: 0.4242, VADER: 0.5859, TextBlob: 0.2625)
+2025-12-31 20:04:12,406 - INFO - Checking feed: https://www.theguardian.com/world/rss
+2025-12-31 20:04:12,684 - INFO - Checking feed: https://www.sbs.com.au/news/feed
+2025-12-31 20:04:13,454 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/index
+2025-12-31 20:04:13,675 - INFO - Checking feed: https://feedx.net/rss/ap.xml
+2025-12-31 20:04:14,001 - INFO - Checking feed: https://feeds.npr.org/1001/rss.xml
+2025-12-31 20:04:14,360 - INFO - Saved 38 stories to docs/good_news.json.
