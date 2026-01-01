@@ -995,3 +995,35 @@
 2026-01-01 16:04:31,478 - INFO - Checking feed: https://feeds.npr.org/1007/rss.xml
 2026-01-01 16:04:31,541 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
 2026-01-01 16:04:31,626 - INFO - Saved 53 stories to docs/good_news.json.
+2026-01-01 17:04:47,203 - INFO - Starting Ramah News Fetcher
+2026-01-01 17:04:47,212 - INFO - Checking feed: http://feeds.bbci.co.uk/news/rss.xml
+2026-01-01 17:04:48,032 - INFO - Checking feed: http://feeds.bbci.co.uk/news/world/rss.xml
+2026-01-01 17:04:48,139 - INFO - Checking feed: http://feeds.bbci.co.uk/news/uk/rss.xml
+2026-01-01 17:04:48,397 - INFO - Checking feed: http://feeds.bbci.co.uk/news/business/rss.xml
+2026-01-01 17:04:48,504 - INFO - Checking feed: http://feeds.bbci.co.uk/news/technology/rss.xml
+2026-01-01 17:04:48,691 - INFO - Checking feed: http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+2026-01-01 17:04:49,081 - INFO - Checking feed: http://feeds.bbci.co.uk/news/health/rss.xml
+2026-01-01 17:04:49,461 - INFO - Checking feed: http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+2026-01-01 17:04:49,647 - INFO - Checking feed: https://www.abc.net.au/news/feed/45910/rss.xml
+2026-01-01 17:04:50,132 - INFO - Checking feed: https://www.abc.net.au/news/feed/51120/rss.xml
+2026-01-01 17:04:50,221 - INFO - Checking feed: https://www.theguardian.com/world/rss
+2026-01-01 17:04:50,435 - INFO - Checking feed: https://www.theguardian.com/au/rss
+2026-01-01 17:04:50,652 - INFO - Found good news: The perfect way to beat the slump: how to tackle mid-afternoon energy dips (Mean Score: 0.8501, VADER: 0.7003, TextBlob: 1.0000)
+2026-01-01 17:04:50,770 - INFO - Checking feed: https://www.theguardian.com/environment/rss
+2026-01-01 17:04:50,891 - INFO - Checking feed: https://www.theguardian.com/science/rss
+2026-01-01 17:04:50,987 - INFO - Checking feed: https://www.theguardian.com/uk/technology/rss
+2026-01-01 17:04:51,083 - INFO - Checking feed: https://www.theguardian.com/lifeandstyle/rss
+2026-01-01 17:04:51,236 - INFO - Checking feed: https://www.sbs.com.au/news/feed
+2026-01-01 17:04:51,818 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/index
+2026-01-01 17:04:51,945 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/science
+2026-01-01 17:04:52,104 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/tech-policy
+2026-01-01 17:04:52,283 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/gaming
+2026-01-01 17:04:52,409 - INFO - Checking feed: https://feedx.net/rss/ap.xml
+2026-01-01 17:04:52,656 - INFO - Checking feed: https://feeds.npr.org/1001/rss.xml
+2026-01-01 17:04:53,031 - INFO - Checking feed: https://feeds.npr.org/1004/rss.xml
+2026-01-01 17:04:53,096 - INFO - Checking feed: https://feeds.npr.org/1014/rss.xml
+2026-01-01 17:04:53,190 - INFO - Checking feed: https://feeds.npr.org/1019/rss.xml
+2026-01-01 17:04:53,261 - INFO - Checking feed: https://feeds.npr.org/1017/rss.xml
+2026-01-01 17:04:53,342 - INFO - Checking feed: https://feeds.npr.org/1007/rss.xml
+2026-01-01 17:04:53,407 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
+2026-01-01 17:04:53,471 - INFO - Saved 54 stories to docs/good_news.json.
