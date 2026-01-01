@@ -37,7 +37,7 @@ SOURCE_MAP = {
 }
 
 SENTIMENT_THRESHOLD = 0.5
-BLOCK_LIST = ["kill", "bomb", "murder", "rampage", "fatal", "trump", "ICE"]
+BLOCK_LIST = ["kill", "bomb", "murder", "rampage", "fatal", "trump", "ICE", "Israel", ]
 MAX_STORIES = 250
 # Use `docs/` as the storage directory
 DATA_DIR = "docs"
