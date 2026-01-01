@@ -14,14 +14,50 @@ import re
 
 # Configuration
 RSS_FEEDS = [
+    # BBC News
     "http://feeds.bbci.co.uk/news/rss.xml",  # BBC News - Top Stories
-    "https://www.abc.net.au/news/feed/45910/rss.xml",  # ABC News (Au) - Top Stories
+    "http://feeds.bbci.co.uk/news/world/rss.xml",  # BBC News - World
+    "http://feeds.bbci.co.uk/news/uk/rss.xml",  # BBC News - UK
+    "http://feeds.bbci.co.uk/news/business/rss.xml",  # BBC News - Business
+    "http://feeds.bbci.co.uk/news/technology/rss.xml",  # BBC News - Technology
+    "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",  # BBC News - Science & Environment
+    "http://feeds.bbci.co.uk/news/health/rss.xml",  # BBC News - Health
+    "http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",  # BBC News - Entertainment & Arts
+
+    # ABC News (Australia)
+    "https://www.abc.net.au/news/feed/45910/rss.xml",  # ABC News - Top Stories
+    "https://www.abc.net.au/news/feed/51120/rss.xml",  # ABC News - National
+
+    # The Guardian
     "https://www.theguardian.com/world/rss",  # The Guardian - World News
-    "https://www.sbs.com.au/news/feed",  # SBS News
-    "https://feeds.arstechnica.com/arstechnica/index",  # ArsTechnica
-    "https://feedx.net/rss/ap.xml",  # AP News
-    "https://feeds.npr.org/1001/rss.xml",  # NPR News
- ]
+    "https://www.theguardian.com/au/rss",  # The Guardian - Australia
+    "https://www.theguardian.com/environment/rss",  # The Guardian - Environment
+    "https://www.theguardian.com/science/rss",  # The Guardian - Science
+    "https://www.theguardian.com/uk/technology/rss",  # The Guardian - Technology
+    "https://www.theguardian.com/lifeandstyle/rss",  # The Guardian - Lifestyle
+
+    # SBS News
+    "https://www.sbs.com.au/news/feed",  # SBS News - Top Stories
+
+    # ArsTechnica
+    "https://feeds.arstechnica.com/arstechnica/index",  # ArsTechnica - Technology
+    "https://feeds.arstechnica.com/arstechnica/science",  # ArsTechnica - Science
+    "https://feeds.arstechnica.com/arstechnica/tech-policy",  # ArsTechnica - Policy / IT
+    "https://feeds.arstechnica.com/arstechnica/gaming",  # ArsTechnica - Gaming
+
+    # AP News
+    "https://feedx.net/rss/ap.xml",  # AP News - Top News
+
+    # NPR
+    "https://feeds.npr.org/1001/rss.xml",  # NPR - Top Stories
+    "https://feeds.npr.org/1004/rss.xml",  # NPR - World News
+    "https://feeds.npr.org/1014/rss.xml",  # NPR - Politics
+    "https://feeds.npr.org/1019/rss.xml",  # NPR - Business
+    "https://feeds.npr.org/1017/rss.xml",  # NPR - Technology
+    "https://feeds.npr.org/1007/rss.xml",  # NPR - Science
+    "https://feeds.npr.org/1128/rss.xml",  # NPR - Health
+]
+
 # Mapping from identifying substring (usually in feed URL or link) to
 # canonical publisher name. Add more entries here as new feeds are added.
 SOURCE_MAP = {
@@ -32,7 +68,7 @@ SOURCE_MAP = {
     'theguardian.com': 'The Guardian',
     'sbs.com.au': 'SBS News',
     'arstechnica.com': 'Ars Technica',
-    'feedx.net/rss/ap.xml': 'AP News',
+    'feedx.net': 'AP News',
     'feeds.npr.org': 'NPR News',
 }
 

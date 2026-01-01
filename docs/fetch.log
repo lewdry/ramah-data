@@ -291,3 +291,199 @@
 2026-01-01 13:04:24,682 - INFO - Checking feed: https://feedx.net/rss/ap.xml
 2026-01-01 13:04:25,971 - INFO - Checking feed: https://feeds.npr.org/1001/rss.xml
 2026-01-01 13:04:26,097 - INFO - No new positive stories found.
+2026-01-01 13:22:37,609 - INFO - Starting Ramah News Fetcher
+2026-01-01 13:22:37,615 - INFO - Checking feed: http://feeds.bbci.co.uk/news/rss.xml
+2026-01-01 13:22:39,773 - INFO - Checking feed: https://www.abc.net.au/news/feed/45910/rss.xml
+2026-01-01 13:22:39,986 - INFO - Checking feed: https://www.theguardian.com/world/rss
+2026-01-01 13:22:40,121 - INFO - Checking feed: https://www.theguardian.com/au/rss
+2026-01-01 13:22:40,275 - INFO - Found good news: What’s the best path to take in 2026? | Fiona Katauskas (Mean Score: 0.8185, VADER: 0.6369, TextBlob: 1.0000)
+2026-01-01 13:22:40,341 - INFO - Found good news: Dear Life review – Brooke Satchwell hauntingly good in an otherwise clunky drama (Mean Score: 0.6852, VADER: 0.6705, TextBlob: 0.7000)
+2026-01-01 13:22:40,761 - INFO - Found good news: The best photos of 2025, taken by Guardian Australia photographers – video (Mean Score: 0.8185, VADER: 0.6369, TextBlob: 1.0000)
+2026-01-01 13:22:40,837 - INFO - Found good news: The WHO learned to love ‘anti-obesity’ jabs in 2025. I don’t fully agree, but I get it | Devi Sridhar (Mean Score: 0.5209, VADER: 0.5418, TextBlob: 0.5000)
+2026-01-01 13:22:41,252 - INFO - Found good news: ChatGPT, cooking and Christopher Walken: how parents got their kids to love reading in 2025 (Mean Score: 0.5685, VADER: 0.6369, TextBlob: 0.5000)
+2026-01-01 13:22:41,701 - INFO - Found good news: The perfect night out: how to ditch the telly – and have next-level fun (Mean Score: 0.7203, VADER: 0.7906, TextBlob: 0.6500)
+2026-01-01 13:22:42,045 - INFO - Found good news: Rukmini Iyer’s quick and easy party platters: halloumi with pineapple salsa and za’atar carrots with labneh | Quick and easy (Mean Score: 0.6005, VADER: 0.8176, TextBlob: 0.3833)
+2026-01-01 13:22:42,391 - INFO - Found good news: The perfect evening routine: how to prepare for bed – from blue light to baths (Mean Score: 0.5193, VADER: 0.5719, TextBlob: 0.4667)
+2026-01-01 13:22:42,853 - INFO - Found good news: Threesomes, rough towels and ‘lesbian bed death’: 23 of the best Sexual Healing columns (Mean Score: 0.5518, VADER: 0.6369, TextBlob: 0.4667)
+2026-01-01 13:22:43,374 - INFO - Found good news: The perfect lunch break: how to get away from your desk – and seize the day (Mean Score: 0.7859, VADER: 0.5719, TextBlob: 1.0000)
+2026-01-01 13:22:43,751 - INFO - Found good news: The secrets of a great sex life: how to keep the flame alive in the bedroom (Mean Score: 0.6109, VADER: 0.7717, TextBlob: 0.4500)
+2026-01-01 13:22:44,284 - INFO - Found good news: Could AI relationships actually be good for us? (Mean Score: 0.5702, VADER: 0.4404, TextBlob: 0.7000)
+2026-01-01 13:22:44,739 - INFO - Found good news: Sign up for Five Great Reads, Guardian Australia’s email newsletter of the week’s best stories (Mean Score: 0.8760, VADER: 0.8519, TextBlob: 0.9000)
+2026-01-01 13:22:45,268 - INFO - Checking feed: https://www.sbs.com.au/news/feed
+2026-01-01 13:22:45,423 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/index
+2026-01-01 13:22:45,596 - INFO - Checking feed: https://feedx.net/rss/ap.xml
+2026-01-01 13:22:46,584 - INFO - Checking feed: https://feeds.npr.org/1001/rss.xml
+2026-01-01 13:22:47,024 - INFO - Saved 21 stories to docs/good_news.json.
+2026-01-01 13:24:07,000 - INFO - Starting Ramah News Fetcher
+2026-01-01 13:24:07,006 - INFO - Checking feed: http://feeds.bbci.co.uk/news/rss.xml
+2026-01-01 13:24:09,500 - INFO - Checking feed: http://feeds.bbci.co.uk/news/world/rss.xml
+2026-01-01 13:24:10,074 - INFO - Checking feed: http://feeds.bbci.co.uk/news/uk/rss.xml
+2026-01-01 13:24:11,036 - INFO - Found good news: 'It's amazing' - Torvill and Dean recognised in New Year Honours (Mean Score: 0.5794, VADER: 0.7906, TextBlob: 0.3682)
+2026-01-01 13:24:12,958 - INFO - Checking feed: http://feeds.bbci.co.uk/news/business/rss.xml
+2026-01-01 13:24:13,973 - INFO - Found good news: Why Croatia's capital wants to hold Europe's best Christmas market (Mean Score: 0.6184, VADER: 0.6369, TextBlob: 0.6000)
+2026-01-01 13:24:16,042 - INFO - Found good news: Why this month's inflation figure may be good news for you (Mean Score: 0.5702, VADER: 0.4404, TextBlob: 0.7000)
+2026-01-01 13:24:17,576 - INFO - Checking feed: http://feeds.bbci.co.uk/news/technology/rss.xml
+2026-01-01 13:24:18,593 - INFO - Checking feed: http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+2026-01-01 13:24:19,610 - INFO - Found good news: Great white sharks face extinction in Mediterranean, say researchers (Mean Score: 0.5125, VADER: 0.6249, TextBlob: 0.4000)
+2026-01-01 13:24:19,699 - INFO - Found good news: Pictured: Winning entries for Wildlife Photographer of the Year 2025 (Mean Score: 0.5133, VADER: 0.5267, TextBlob: 0.5000)
+2026-01-01 13:24:20,823 - INFO - Found good news: These robots can clean, exercise - and care for you in old age. Would you trust them to? (Mean Score: 0.5407, VADER: 0.8481, TextBlob: 0.2333)
+2026-01-01 13:24:21,486 - INFO - Checking feed: http://feeds.bbci.co.uk/news/health/rss.xml
+2026-01-01 13:24:22,503 - INFO - Found good news: Magnesium: Can this 'miracle mineral' really help us sleep? (Mean Score: 0.5087, VADER: 0.8173, TextBlob: 0.2000)
+2026-01-01 13:24:25,205 - INFO - Checking feed: http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+2026-01-01 13:24:26,168 - INFO - Checking feed: https://www.abc.net.au/news/feed/45910/rss.xml
+2026-01-01 13:24:26,673 - INFO - Checking feed: https://www.abc.net.au/news/feed/51120/rss.xml
+2026-01-01 13:24:26,756 - INFO - Checking feed: https://www.abc.net.au/news/feed/51220/rss.xml
+2026-01-01 13:24:26,883 - ERROR - Error fetching feed https://www.abc.net.au/news/feed/51220/rss.xml: 500 Server Error: Internal Server Error for url: https://www.abc.net.au/news/feed/51220/rss.xml
+2026-01-01 13:24:26,883 - INFO - Checking feed: https://www.abc.net.au/news/feed/51240/rss.xml
+2026-01-01 13:24:27,024 - ERROR - Error fetching feed https://www.abc.net.au/news/feed/51240/rss.xml: 500 Server Error: Internal Server Error for url: https://www.abc.net.au/news/feed/51240/rss.xml
+2026-01-01 13:24:27,024 - INFO - Checking feed: https://www.abc.net.au/news/feed/51230/rss.xml
+2026-01-01 13:24:27,188 - ERROR - Error fetching feed https://www.abc.net.au/news/feed/51230/rss.xml: 500 Server Error: Internal Server Error for url: https://www.abc.net.au/news/feed/51230/rss.xml
+2026-01-01 13:24:27,188 - INFO - Checking feed: https://www.abc.net.au/news/feed/51210/rss.xml
+2026-01-01 13:24:27,334 - ERROR - Error fetching feed https://www.abc.net.au/news/feed/51210/rss.xml: 500 Server Error: Internal Server Error for url: https://www.abc.net.au/news/feed/51210/rss.xml
+2026-01-01 13:24:27,335 - INFO - Checking feed: https://www.theguardian.com/world/rss
+2026-01-01 13:24:27,501 - INFO - Checking feed: https://www.theguardian.com/au/rss
+2026-01-01 13:24:27,665 - INFO - Checking feed: https://www.theguardian.com/world/politics/rss
+2026-01-01 13:24:28,580 - ERROR - Error fetching feed https://www.theguardian.com/world/politics/rss: 404 Client Error: Not Found for url: https://www.theguardian.com/world/politics/rss
+2026-01-01 13:24:28,580 - INFO - Checking feed: https://www.theguardian.com/environment/rss
+2026-01-01 13:24:29,223 - INFO - Found good news: Wild animals are great gift givers – and there’s one present in particular I’d love to receive for Christmas | Helen Pilcher (Mean Score: 0.6223, VADER: 0.9313, TextBlob: 0.3133)
+2026-01-01 13:24:29,674 - INFO - Found good news: Australia’s best news agency photography for 2025 – in pictures (Mean Score: 0.8185, VADER: 0.6369, TextBlob: 1.0000)
+2026-01-01 13:24:30,286 - INFO - Checking feed: https://www.theguardian.com/science/rss
+2026-01-01 13:24:30,673 - INFO - Found good news: Astronauts successfully return to Earth after ISS command change – video (Mean Score: 0.6220, VADER: 0.4939, TextBlob: 0.7500)
+2026-01-01 13:24:31,146 - INFO - Found good news: From St Basil’s to Bondi: the brilliant ‘beaver’ supermoon – in pictures (Mean Score: 0.7429, VADER: 0.5859, TextBlob: 0.9000)
+2026-01-01 13:24:32,556 - INFO - Checking feed: https://www.theguardian.com/uk/technology/rss
+2026-01-01 13:24:33,035 - INFO - Found good news: The best cross trainers for a low-impact workout at home, tested (Mean Score: 0.5685, VADER: 0.6369, TextBlob: 0.5000)
+2026-01-01 13:24:33,147 - INFO - Found good news: Apple Watch Ultra 3 review: the biggest and best smartwatch for an iPhone (Mean Score: 0.8185, VADER: 0.6369, TextBlob: 1.0000)
+2026-01-01 13:24:33,877 - INFO - Checking feed: https://www.theguardian.com/lifeandstyle/rss
+2026-01-01 13:24:34,793 - INFO - Found good news: Kids’ own adventures: 25 free school holiday activities around Australia this summer (Mean Score: 0.6563, VADER: 0.8126, TextBlob: 0.5000)
+2026-01-01 13:24:35,729 - INFO - Found good news: 10 of the best Australian sparkling wines for every budget (Mean Score: 0.6253, VADER: 0.7506, TextBlob: 0.5000)
+2026-01-01 13:24:37,086 - INFO - Found good news: Houseplant hacks – are used coffee grounds good for plants? (Mean Score: 0.5702, VADER: 0.4404, TextBlob: 0.7000)
+2026-01-01 13:24:37,643 - INFO - Found good news: The perfect morning routine: how to build a happy, healthy start to the day – from showers to sunshine (Mean Score: 0.8449, VADER: 0.9231, TextBlob: 0.7667)
+2026-01-01 13:24:38,062 - INFO - Checking feed: https://www.sbs.com.au/news/feed
+2026-01-01 13:24:38,202 - INFO - Checking feed: https://www.sbs.com.au/news/world/rss
+2026-01-01 13:24:38,633 - ERROR - Error fetching feed https://www.sbs.com.au/news/world/rss: 404 Client Error: Not Found for url: https://www.sbs.com.au/news/world/rss
+2026-01-01 13:24:38,634 - INFO - Checking feed: https://www.sbs.com.au/news/business/rss
+2026-01-01 13:24:39,107 - ERROR - Error fetching feed https://www.sbs.com.au/news/business/rss: 404 Client Error: Not Found for url: https://www.sbs.com.au/news/business/rss
+2026-01-01 13:24:39,107 - INFO - Checking feed: https://www.sbs.com.au/news/politics/rss
+2026-01-01 13:24:39,652 - ERROR - Error fetching feed https://www.sbs.com.au/news/politics/rss: 404 Client Error: Not Found for url: https://www.sbs.com.au/news/politics/rss
+2026-01-01 13:24:39,652 - INFO - Checking feed: https://www.sbs.com.au/entertainment/rss
+2026-01-01 13:24:39,952 - ERROR - Error fetching feed https://www.sbs.com.au/entertainment/rss: 404 Client Error: Not Found for url: https://www.sbs.com.au/entertainment/rss
+2026-01-01 13:24:39,952 - INFO - Checking feed: https://www.sbs.com.au/nitv/news/rss
+2026-01-01 13:24:40,473 - ERROR - Error fetching feed https://www.sbs.com.au/nitv/news/rss: 404 Client Error: Not Found for url: https://www.sbs.com.au/nitv/news/rss
+2026-01-01 13:24:40,473 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/index
+2026-01-01 13:24:40,611 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/science
+2026-01-01 13:24:41,269 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/tech-policy
+2026-01-01 13:24:41,942 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/gaming
+2026-01-01 13:24:43,146 - INFO - Found good news: Reminder: Donate to win swag in our annual Charity Drive sweepstakes (Mean Score: 0.7825, VADER: 0.7650, TextBlob: 0.8000)
+2026-01-01 13:24:44,661 - INFO - Found good news: Reminder: Donate to win swag in our annual Charity Drive sweepstakes (Mean Score: 0.7825, VADER: 0.7650, TextBlob: 0.8000)
+2026-01-01 13:24:45,942 - INFO - Found good news: Win hardware, collectibles, and more in the 2025 Ars Technica Charity Drive (Mean Score: 0.7075, VADER: 0.7650, TextBlob: 0.6500)
+2026-01-01 13:24:47,395 - INFO - Checking feed: https://feedx.net/rss/ap.xml
+2026-01-01 13:24:48,567 - INFO - Checking feed: https://feedx.net/rss/ap-us.xml
+2026-01-01 13:24:49,457 - ERROR - Error fetching feed https://feedx.net/rss/ap-us.xml: 404 Client Error: Not Found for url: https://feedx.net/rss/ap-us.xml
+2026-01-01 13:24:49,457 - INFO - Checking feed: https://feedx.net/rss/ap-world.xml
+2026-01-01 13:24:50,185 - ERROR - Error fetching feed https://feedx.net/rss/ap-world.xml: 404 Client Error: Not Found for url: https://feedx.net/rss/ap-world.xml
+2026-01-01 13:24:50,186 - INFO - Checking feed: https://feedx.net/rss/ap-politics.xml
+2026-01-01 13:24:51,067 - ERROR - Error fetching feed https://feedx.net/rss/ap-politics.xml: 404 Client Error: Not Found for url: https://feedx.net/rss/ap-politics.xml
+2026-01-01 13:24:51,068 - INFO - Checking feed: https://feedx.net/rss/ap-science.xml
+2026-01-01 13:24:51,791 - ERROR - Error fetching feed https://feedx.net/rss/ap-science.xml: 404 Client Error: Not Found for url: https://feedx.net/rss/ap-science.xml
+2026-01-01 13:24:51,792 - INFO - Checking feed: https://feedx.net/rss/ap-health.xml
+2026-01-01 13:24:52,687 - ERROR - Error fetching feed https://feedx.net/rss/ap-health.xml: 404 Client Error: Not Found for url: https://feedx.net/rss/ap-health.xml
+2026-01-01 13:24:52,687 - INFO - Checking feed: https://feeds.npr.org/1001/rss.xml
+2026-01-01 13:24:52,817 - INFO - Checking feed: https://feeds.npr.org/1004/rss.xml
+2026-01-01 13:24:53,864 - INFO - Checking feed: https://feeds.npr.org/1014/rss.xml
+2026-01-01 13:24:54,083 - INFO - Checking feed: https://feeds.npr.org/1019/rss.xml
+2026-01-01 13:24:55,126 - INFO - Checking feed: https://feeds.npr.org/1017/rss.xml
+2026-01-01 13:24:56,554 - INFO - Checking feed: https://feeds.npr.org/1007/rss.xml
+2026-01-01 13:24:57,971 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
+2026-01-01 13:24:59,530 - INFO - Saved 41 stories to docs/good_news.json.
+2026-01-01 13:25:15,516 - INFO - Starting Ramah News Fetcher
+2026-01-01 13:25:15,522 - INFO - Checking feed: http://feeds.bbci.co.uk/news/rss.xml
+2026-01-01 13:25:18,181 - INFO - Checking feed: http://feeds.bbci.co.uk/news/world/rss.xml
+2026-01-01 13:25:18,992 - INFO - Checking feed: http://feeds.bbci.co.uk/news/uk/rss.xml
+2026-01-01 13:25:19,826 - INFO - Checking feed: http://feeds.bbci.co.uk/news/business/rss.xml
+2026-01-01 13:25:20,427 - INFO - Checking feed: http://feeds.bbci.co.uk/news/technology/rss.xml
+2026-01-01 13:25:21,039 - INFO - Checking feed: http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+2026-01-01 13:25:21,575 - INFO - Checking feed: http://feeds.bbci.co.uk/news/health/rss.xml
+2026-01-01 13:25:22,415 - INFO - Checking feed: http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+2026-01-01 13:25:22,886 - INFO - Checking feed: https://www.abc.net.au/news/feed/45910/rss.xml
+2026-01-01 13:25:23,001 - INFO - Checking feed: https://www.abc.net.au/news/feed/51120/rss.xml
+2026-01-01 13:25:23,081 - INFO - Checking feed: https://www.abc.net.au/news/feed/51220/rss.xml
+2026-01-01 13:25:23,188 - ERROR - Error fetching feed https://www.abc.net.au/news/feed/51220/rss.xml: 500 Server Error: Internal Server Error for url: https://www.abc.net.au/news/feed/51220/rss.xml
+2026-01-01 13:25:23,188 - INFO - Checking feed: https://www.abc.net.au/news/feed/51240/rss.xml
+2026-01-01 13:25:23,293 - ERROR - Error fetching feed https://www.abc.net.au/news/feed/51240/rss.xml: 500 Server Error: Internal Server Error for url: https://www.abc.net.au/news/feed/51240/rss.xml
+2026-01-01 13:25:23,293 - INFO - Checking feed: https://www.abc.net.au/news/feed/51230/rss.xml
+2026-01-01 13:25:23,415 - ERROR - Error fetching feed https://www.abc.net.au/news/feed/51230/rss.xml: 500 Server Error: Internal Server Error for url: https://www.abc.net.au/news/feed/51230/rss.xml
+2026-01-01 13:25:23,415 - INFO - Checking feed: https://www.abc.net.au/news/feed/51210/rss.xml
+2026-01-01 13:25:23,551 - ERROR - Error fetching feed https://www.abc.net.au/news/feed/51210/rss.xml: 500 Server Error: Internal Server Error for url: https://www.abc.net.au/news/feed/51210/rss.xml
+2026-01-01 13:25:23,552 - INFO - Checking feed: https://www.theguardian.com/world/rss
+2026-01-01 13:25:23,697 - INFO - Checking feed: https://www.theguardian.com/au/rss
+2026-01-01 13:25:23,843 - INFO - Checking feed: https://www.theguardian.com/world/politics/rss
+2026-01-01 13:25:24,292 - ERROR - Error fetching feed https://www.theguardian.com/world/politics/rss: 404 Client Error: Not Found for url: https://www.theguardian.com/world/politics/rss
+2026-01-01 13:25:24,292 - INFO - Checking feed: https://www.theguardian.com/environment/rss
+2026-01-01 13:25:24,433 - INFO - Checking feed: https://www.theguardian.com/science/rss
+2026-01-01 13:25:24,507 - INFO - Checking feed: https://www.theguardian.com/uk/technology/rss
+2026-01-01 13:25:24,583 - INFO - Checking feed: https://www.theguardian.com/lifeandstyle/rss
+2026-01-01 13:25:24,687 - INFO - Checking feed: https://www.sbs.com.au/news/feed
+2026-01-01 13:25:24,813 - INFO - Checking feed: https://www.sbs.com.au/news/world/rss
+2026-01-01 13:25:25,220 - ERROR - Error fetching feed https://www.sbs.com.au/news/world/rss: 404 Client Error: Not Found for url: https://www.sbs.com.au/news/world/rss
+2026-01-01 13:25:25,220 - INFO - Checking feed: https://www.sbs.com.au/news/business/rss
+2026-01-01 13:25:25,659 - ERROR - Error fetching feed https://www.sbs.com.au/news/business/rss: 404 Client Error: Not Found for url: https://www.sbs.com.au/news/business/rss
+2026-01-01 13:25:25,659 - INFO - Checking feed: https://www.sbs.com.au/news/politics/rss
+2026-01-01 13:25:26,552 - ERROR - Error fetching feed https://www.sbs.com.au/news/politics/rss: 404 Client Error: Not Found for url: https://www.sbs.com.au/news/politics/rss
+2026-01-01 13:25:26,552 - INFO - Checking feed: https://www.sbs.com.au/entertainment/rss
+2026-01-01 13:25:26,859 - ERROR - Error fetching feed https://www.sbs.com.au/entertainment/rss: 404 Client Error: Not Found for url: https://www.sbs.com.au/entertainment/rss
+2026-01-01 13:25:26,859 - INFO - Checking feed: https://www.sbs.com.au/nitv/news/rss
+2026-01-01 13:25:27,673 - ERROR - Error fetching feed https://www.sbs.com.au/nitv/news/rss: 404 Client Error: Not Found for url: https://www.sbs.com.au/nitv/news/rss
+2026-01-01 13:25:27,673 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/index
+2026-01-01 13:25:27,767 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/science
+2026-01-01 13:25:27,840 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/tech-policy
+2026-01-01 13:25:27,908 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/gaming
+2026-01-01 13:25:27,977 - INFO - Checking feed: https://feedx.net/rss/ap.xml
+2026-01-01 13:25:29,152 - INFO - Checking feed: https://feedx.net/rss/ap-us.xml
+2026-01-01 13:25:29,878 - ERROR - Error fetching feed https://feedx.net/rss/ap-us.xml: 404 Client Error: Not Found for url: https://feedx.net/rss/ap-us.xml
+2026-01-01 13:25:29,878 - INFO - Checking feed: https://feedx.net/rss/ap-world.xml
+2026-01-01 13:25:30,772 - ERROR - Error fetching feed https://feedx.net/rss/ap-world.xml: 404 Client Error: Not Found for url: https://feedx.net/rss/ap-world.xml
+2026-01-01 13:25:30,772 - INFO - Checking feed: https://feedx.net/rss/ap-politics.xml
+2026-01-01 13:25:31,658 - ERROR - Error fetching feed https://feedx.net/rss/ap-politics.xml: 404 Client Error: Not Found for url: https://feedx.net/rss/ap-politics.xml
+2026-01-01 13:25:31,659 - INFO - Checking feed: https://feedx.net/rss/ap-science.xml
+2026-01-01 13:25:32,382 - ERROR - Error fetching feed https://feedx.net/rss/ap-science.xml: 404 Client Error: Not Found for url: https://feedx.net/rss/ap-science.xml
+2026-01-01 13:25:32,382 - INFO - Checking feed: https://feedx.net/rss/ap-health.xml
+2026-01-01 13:25:33,109 - ERROR - Error fetching feed https://feedx.net/rss/ap-health.xml: 404 Client Error: Not Found for url: https://feedx.net/rss/ap-health.xml
+2026-01-01 13:25:33,109 - INFO - Checking feed: https://feeds.npr.org/1001/rss.xml
+2026-01-01 13:25:33,246 - INFO - Checking feed: https://feeds.npr.org/1004/rss.xml
+2026-01-01 13:25:33,346 - INFO - Checking feed: https://feeds.npr.org/1014/rss.xml
+2026-01-01 13:25:33,483 - INFO - Checking feed: https://feeds.npr.org/1019/rss.xml
+2026-01-01 13:25:33,572 - INFO - Checking feed: https://feeds.npr.org/1017/rss.xml
+2026-01-01 13:25:33,707 - INFO - Checking feed: https://feeds.npr.org/1007/rss.xml
+2026-01-01 13:25:33,863 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
+2026-01-01 13:25:33,984 - INFO - No new positive stories found.
+2026-01-01 13:27:45,191 - INFO - Starting Ramah News Fetcher
+2026-01-01 13:27:45,197 - INFO - Checking feed: http://feeds.bbci.co.uk/news/rss.xml
+2026-01-01 13:27:45,461 - INFO - Checking feed: http://feeds.bbci.co.uk/news/world/rss.xml
+2026-01-01 13:27:45,894 - INFO - Checking feed: http://feeds.bbci.co.uk/news/uk/rss.xml
+2026-01-01 13:27:46,695 - INFO - Checking feed: http://feeds.bbci.co.uk/news/business/rss.xml
+2026-01-01 13:27:47,269 - INFO - Checking feed: http://feeds.bbci.co.uk/news/technology/rss.xml
+2026-01-01 13:27:48,102 - INFO - Checking feed: http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+2026-01-01 13:27:48,916 - INFO - Checking feed: http://feeds.bbci.co.uk/news/health/rss.xml
+2026-01-01 13:27:49,409 - INFO - Checking feed: http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+2026-01-01 13:27:50,289 - INFO - Checking feed: https://www.abc.net.au/news/feed/45910/rss.xml
+2026-01-01 13:27:50,409 - INFO - Checking feed: https://www.abc.net.au/news/feed/51120/rss.xml
+2026-01-01 13:27:50,512 - INFO - Checking feed: https://www.theguardian.com/world/rss
+2026-01-01 13:27:50,652 - INFO - Checking feed: https://www.theguardian.com/au/rss
+2026-01-01 13:27:50,806 - INFO - Checking feed: https://www.theguardian.com/environment/rss
+2026-01-01 13:27:51,515 - INFO - Checking feed: https://www.theguardian.com/science/rss
+2026-01-01 13:27:51,893 - INFO - Checking feed: https://www.theguardian.com/uk/technology/rss
+2026-01-01 13:27:52,311 - INFO - Checking feed: https://www.theguardian.com/lifeandstyle/rss
+2026-01-01 13:27:53,060 - INFO - Checking feed: https://www.sbs.com.au/news/feed
+2026-01-01 13:27:53,497 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/index
+2026-01-01 13:27:53,612 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/science
+2026-01-01 13:27:54,334 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/tech-policy
+2026-01-01 13:27:55,040 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/gaming
+2026-01-01 13:27:56,304 - INFO - Checking feed: https://feedx.net/rss/ap.xml
+2026-01-01 13:27:57,459 - INFO - Checking feed: https://feeds.npr.org/1001/rss.xml
+2026-01-01 13:27:59,002 - INFO - Checking feed: https://feeds.npr.org/1004/rss.xml
+2026-01-01 13:27:59,115 - INFO - Checking feed: https://feeds.npr.org/1014/rss.xml
+2026-01-01 13:27:59,215 - INFO - Checking feed: https://feeds.npr.org/1019/rss.xml
+2026-01-01 13:27:59,301 - INFO - Checking feed: https://feeds.npr.org/1017/rss.xml
+2026-01-01 13:27:59,393 - INFO - Checking feed: https://feeds.npr.org/1007/rss.xml
+2026-01-01 13:27:59,461 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
+2026-01-01 13:27:59,548 - INFO - No new positive stories found.

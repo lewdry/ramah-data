@@ -27,6 +27,20 @@ The backend of Ramah is powered by a Python script located at `scripts/fetch_new
 5.  **Content Extraction**: For positive stories, the script attempts to pull the first sentence of the article content using `BeautifulSoup`. If scraping fails, it falls back to the RSS summary/description.
 6.  **Data Storage**: The filtered "good news" items are stored in `docs/good_news.json`. Each item includes `mean_score`, `vader_score`, and `textblob_score` as metadata. To keep the feed fresh, this file is capped at 250 stories. Any stories beyond this limit are automatically moved to `docs/old_news.json`.
 
+## Included RSS Feeds
+
+The fetcher monitors a curated list of feeds from a small set of publishers. Current active feeds include:
+
+- **BBC News**: Top Stories, World, UK, Business, Technology, Science & Environment, Health, Entertainment & Arts
+- **ABC News (Australia)**: Top Stories, National
+- **The Guardian**: World, Australia, Environment, Science, Technology, Lifestyle
+- **SBS News**: Top Stories
+- **Ars Technica**: Technology, Science, Tech Policy, Gaming
+- **AP News**: Top News
+- **NPR**: Top Stories, World, Politics, Business, Technology, Science, Health
+
+Note: Some previously configured sub-feeds (several ABC sub-feeds, a Guardian politics feed, a few SBS sub-feeds, and multiple AP sub-feeds) were returning 404/500 errors and have been pruned to keep the job reliable. If you want specific sub-feeds re-added, I can search for updated endpoints and add them.
+
 ## Installation & Setup
 
 To run the news fetcher locally, follow these steps:
