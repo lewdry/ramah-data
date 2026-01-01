@@ -21,7 +21,21 @@ RSS_FEEDS = [
     "https://feeds.arstechnica.com/arstechnica/index",  # ArsTechnica
     "https://feedx.net/rss/ap.xml",  # AP News
     "https://feeds.npr.org/1001/rss.xml",  # NPR News
-]
+ ]
+# Mapping from identifying substring (usually in feed URL or link) to
+# canonical publisher name. Add more entries here as new feeds are added.
+SOURCE_MAP = {
+    'abc.net.au': 'ABC News',
+    'feeds.bbci.co.uk': 'BBC News',
+    'bbc.co.uk': 'BBC News',
+    'bbc.com': 'BBC News',
+    'theguardian.com': 'The Guardian',
+    'sbs.com.au': 'SBS News',
+    'arstechnica.com': 'Ars Technica',
+    'feedx.net/rss/ap.xml': 'AP News',
+    'feeds.npr.org': 'NPR News',
+}
+
 SENTIMENT_THRESHOLD = 0.5
 BLOCK_LIST = ["kill", "bomb", "murder", "rampage", "fatal", "trump", "ICE"]
 MAX_STORIES = 250
@@ -96,6 +110,53 @@ def load_data(filename):
             logging.error(f"JSON decode error in {filename}. Starting fresh.")
             return []
     return []
+
+
+def canonical_source(feed_url, feed_title=None, link=None):
+    """Return a canonical source name given the feed URL, feed title, or link.
+
+    The priority is:
+    1) Match a known substring in `feed_url` against `SOURCE_MAP`.
+    2) Clean up and prefer the feed title (strip suffixes like " - Top Stories").
+    3) Match a known substring in the article `link` against `SOURCE_MAP`.
+    4) Fallback to deriving from the link's domain or the provided feed title.
+    """
+    # 1) Match by feed URL
+    for key, name in SOURCE_MAP.items():
+        if key in (feed_url or ''):
+            return name
+
+    # 2) Prefer cleaned feed title when it's not generic like "Top Stories"
+    if feed_title:
+        t = feed_title.strip()
+        if ' - ' in t:
+            t = t.split(' - ', 1)[0].strip()
+        if t and t.lower() != 'top stories':
+            return t
+
+    # 3) Try matching by article link
+    if link:
+        for key, name in SOURCE_MAP.items():
+            if key in link:
+                return name
+        m = re.search(r'https?://([^/]+)/', link)
+        if m:
+            domain = m.group(1)
+            if 'abc.net.au' in domain:
+                return 'ABC News'
+            if 'bbc.' in domain:
+                return 'BBC News'
+            if 'theguardian.com' in domain:
+                return 'The Guardian'
+            if 'sbs.com.au' in domain:
+                return 'SBS News'
+            if 'arstechnica.com' in domain:
+                return 'Ars Technica'
+            if 'npr.org' in domain:
+                return 'NPR News'
+
+    # 4) Fallback
+    return feed_title or 'Unknown Source'
 
 
 def _parse_timestamp_to_epoch(ts):
@@ -264,6 +325,9 @@ def main():
                     # Fallback to current time in UTC
                     timestamp = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
 
+                # Determine canonical source name using prioritized heuristics
+                source = canonical_source(feed_url, feed.feed.get('title', 'Unknown Source'), link)
+
                 news_item = {
                     'headline': title,
                     'link': link,
@@ -272,7 +336,7 @@ def main():
                     'textblob_score': round(textblob_score, 4),
                     'first_sentence': first_sentence or "Summary not available.",
                     'timestamp': timestamp,
-                    'source': feed.feed.get('title', 'Unknown Source')
+                    'source': source
                 }
                 
                 # Insert story in the correctly-sorted position by timestamp.

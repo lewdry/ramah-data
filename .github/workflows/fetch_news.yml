@@ -31,11 +31,21 @@ jobs:
           set -e
           python scripts/fetch_news.py
 
+      - name: Run Cleanup Script
+        run: |
+          set -e
+          python scripts/cleanup_news.py
+
+      - name: Normalize Saved Sources
+        run: |
+          set -e
+          python scripts/normalize_sources.py
+
       - name: Commit and Push Changes
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add docs/good_news.json docs/fetch.log
           if [ -f "docs/old_news.json" ]; then git add docs/old_news.json; fi
-          git commit -m "Automated news fetch: $(date)" || echo "No changes to commit"
+          git commit -m "Automated news fetch and cleanup: $(date)" || echo "No changes to commit"
           git push

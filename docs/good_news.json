@@ -1,45 +1,5 @@
 [
   {
-    "headline": "What to know about Trump administration freezing federal child care funds",
-    "link": "https://apnews.com/article/minnesota-child-care-funds-fraud-trump-1d6edb8511d916fc3a5dc3b339d94e37",
-    "mean_score": 0.2107,
-    "vader_score": 0.4215,
-    "textblob_score": 0.0,
-    "first_sentence": "The Trump administration has said it is freezing child care funds to all states until they provide more verification and administrative data about the programs in a move fueled by a series of fraud schemes at Minnesota day care centers run by Somali residents.",
-    "timestamp": "2025-12-31T21:53:02Z",
-    "source": "Associated Press"
-  },
-  {
-    "headline": "ICE plans $100m yearlong \u2018wartime recruitment\u2019 media blitz to attract new agents",
-    "link": "https://www.theguardian.com/us-news/2025/dec/31/ice-recruitment-media-campaign",
-    "mean_score": 0.2488,
-    "vader_score": 0.3612,
-    "textblob_score": 0.1364,
-    "first_sentence": "US Immigration and Customs Enforcement (ICE) has reportedly planned a $100m, one-year media blitz for what it\u2019s calling \u201cwartime recruitment\u201d, targeting conservative radio show listeners, gun rights aficionados, military affairs followers and men\u2019s interests enthusiasts \u2013 among others in the Maga-verse \u2013 for jobs in the Trump administration\u2019s next phase of its mass deportation campaign.",
-    "timestamp": "2025-12-31T21:52:09Z",
-    "source": "World news | The Guardian"
-  },
-  {
-    "headline": "Hong Kong welcomes 2026 without fireworks after fatal apartment blaze",
-    "link": "https://www.abc.net.au/news/2026-01-01/people-celebrate-new-years-eve-around-world/106191346",
-    "mean_score": 0.3378,
-    "vader_score": 0.6757,
-    "textblob_score": 0.0,
-    "first_sentence": "People around the world have said goodbye to 2025 and welcomed in 2026.",
-    "timestamp": "2025-12-31T20:12:59Z",
-    "source": "Top Stories"
-  },
-  {
-    "headline": "Stranded travellers welcome in new year in the bush as floods cut roads",
-    "link": "https://www.abc.net.au/news/2026-01-01/floodwaters-north-west-queensland-rainfall-weather-new-years/106189794",
-    "mean_score": 0.3472,
-    "vader_score": 0.2263,
-    "textblob_score": 0.4682,
-    "first_sentence": "Dozens of stranded travellers have welcomed in the new year from cut-off outback towns.",
-    "timestamp": "2025-12-31T20:04:26Z",
-    "source": "Top Stories"
-  },
-  {
     "headline": "'Simply unprecedented': Israel banning dozens of charities from Gaza",
     "link": "https://www.abc.net.au/news/2026-01-01/israel-banning-dozens-of-aid-charities-from-gaza/106191270",
     "mean_score": 0.547,
@@ -47,127 +7,7 @@
     "textblob_score": 0.6,
     "first_sentence": "Israel is banning dozens of charities and aid organisations from operating in Gaza.",
     "timestamp": "2025-12-31T19:27:36Z",
-    "source": "Top Stories"
-  },
-  {
-    "headline": "Cole leaves Leicester after 18 years 'with heavy heart'",
-    "link": "https://www.bbc.com/sport/rugby-union/articles/cz7y38214g2o?at_medium=RSS&at_campaign=rss",
-    "mean_score": 0.2185,
-    "vader_score": 0.6369,
-    "textblob_score": -0.2,
-    "first_sentence": "Leicester Tigers stalwart Dan Cole will leave the club after 18 years due to personal reasons.",
-    "timestamp": "2025-12-31T18:44:08Z",
-    "source": "BBC News"
-  },
-  {
-    "headline": "Quiz: How well prepared are you for what's coming in 2026?",
-    "link": "https://www.abc.net.au/news/2026-01-01/2026-quiz-events-sport-entertainment/106189880",
-    "mean_score": 0.2294,
-    "vader_score": 0.4588,
-    "textblob_score": 0.0,
-    "first_sentence": "Take a squiz at the ABC's New Quiz topic page and see if you're a whiz at our previous quizzes.",
-    "timestamp": "2025-12-31T18:43:31Z",
-    "source": "Top Stories"
-  },
-  {
-    "headline": "Greens\u2019 Polanski prepared to work with Burnham but not Starmer \u2018to stop Reform\u2019",
-    "link": "https://www.theguardian.com/politics/2025/dec/31/uk-green-party-zack-polanski-labour-andy-burnham-keir-starmer-gary-lineker-bbc",
-    "mean_score": 0.209,
-    "vader_score": 0.418,
-    "textblob_score": 0.0,
-    "first_sentence": "The Green party leader, Zack Polanski, has said he would refuse to work with Keir Starmer but could work with Andy Burnham, Starmer\u2019s potential rival for the Labour leadership, to keep Reform out of power.",
-    "timestamp": "2025-12-31T18:38:43Z",
-    "source": "World news | The Guardian"
-  },
-  {
-    "headline": "Shower and tactical change helped Goolagong win first Australian Open",
-    "link": "https://www.abc.net.au/news/2026-01-01/spotlight-evonne-goolagong-wins-first-aus-open-1974/106180298",
-    "mean_score": 0.4242,
-    "vader_score": 0.5859,
-    "textblob_score": 0.2625,
-    "first_sentence": "Known for her graceful technique, Evonne Goolagong is one of our greatest-ever homegrown tennis players, and on this day in 1974, the Wiradjuri woman won her first Australian Open.",
-    "timestamp": "2025-12-31T18:30:00Z",
-    "source": "Top Stories"
-  },
-  {
-    "headline": "Cabinet documents from one of Victoria's most influential governments released",
-    "link": "https://www.abc.net.au/news/2026-01-01/vic-cabinet-records-cain-kirner/106179460",
-    "mean_score": 0.4964,
-    "vader_score": 0.4927,
-    "textblob_score": 0.5,
-    "first_sentence": "Previously secret cabinet documents from one of the defining periods of Victoria's modern history have been released after more than 30 years.",
-    "timestamp": "2025-12-31T18:16:32Z",
-    "source": "Top Stories"
-  },
-  {
-    "headline": "McIlroy's omission from honours list questioned",
-    "link": "https://www.bbc.com/news/articles/ceqz5104pr7o?at_medium=RSS&at_campaign=rss",
-    "mean_score": 0.2107,
-    "vader_score": 0.4215,
-    "textblob_score": 0.0,
-    "first_sentence": "Questions are being asked about why the King's New Year Honours list did not recognise the achievements of Northern Ireland golfer Rory McIlroy.",
-    "timestamp": "2025-12-31T16:38:33Z",
-    "source": "BBC News"
-  },
-  {
-    "headline": "In pictures: New Year welcomed around the world",
-    "link": "https://www.bbc.com/news/articles/c050j896q2do?at_medium=RSS&at_campaign=rss",
-    "mean_score": 0.2382,
-    "vader_score": 0.34,
-    "textblob_score": 0.1364,
-    "first_sentence": "Nations around the world are welcoming the New Year as midnight strikes across different time zones.",
-    "timestamp": "2025-12-31T15:45:22Z",
-    "source": "BBC News"
-  },
-  {
-    "headline": "ITV agrees to invest \u00a33m in fitness app created by Joe Wicks",
-    "link": "https://www.theguardian.com/media/2025/dec/31/itv-joe-wicks-body-coach-app-investment-health-fitness",
-    "mean_score": 0.2997,
-    "vader_score": 0.5994,
-    "textblob_score": 0.0,
-    "first_sentence": "The broadcaster ITV has agreed to invest up to \u00a33m into the health and fitness app The Body Coach, created by Joe Wicks, who shot to fame by getting people exercising in their living rooms during the Covid pandemic.",
-    "timestamp": "2025-12-31T15:35:29Z",
-    "source": "World news | The Guardian"
-  },
-  {
-    "headline": "Watch: Stunning celestial events that lit up the skies in 2025",
-    "link": "https://www.bbc.com/news/videos/c8xdw7j2v2go?at_medium=RSS&at_campaign=rss",
-    "mean_score": 0.4409,
-    "vader_score": 0.3818,
-    "textblob_score": 0.5,
-    "first_sentence": "From meteor showers to supermoons, many stunning celestial events have been captured on camera over the past year.",
-    "timestamp": "2025-12-31T15:33:33Z",
-    "source": "BBC News"
-  },
-  {
-    "headline": "Teen jockey Loughnane breaks calendar year wins record on New Year's Eve",
-    "link": "https://www.bbc.com/sport/horse-racing/articles/c20z78px2wvo?at_medium=RSS&at_campaign=rss",
-    "mean_score": 0.3587,
-    "vader_score": 0.5719,
-    "textblob_score": 0.1455,
-    "first_sentence": "Teenage jockey Billy Loughnane has broken the record for the most wins in a calendar year this century.",
-    "timestamp": "2025-12-31T15:18:32Z",
-    "source": "BBC News"
-  },
-  {
-    "headline": "New British passport to feature king\u2019s coat of arms and enhanced security",
-    "link": "https://www.theguardian.com/uk-news/2025/dec/31/uk-issues-passports-most-advanced-security-yet",
-    "mean_score": 0.2041,
-    "vader_score": 0.34,
-    "textblob_score": 0.0682,
-    "first_sentence": "A new British passport, claimed to be the most secure ever produced and featuring King Charles\u2019s coat of arms on the front cover, has come into use.",
-    "timestamp": "2025-12-31T15:16:36Z",
-    "source": "World news | The Guardian"
-  },
-  {
-    "headline": "\u20ac1m Picasso portrait up for grabs for \u20ac100 in charity auction",
-    "link": "https://www.theguardian.com/artanddesign/2025/dec/31/picasso-portrait-charity-auction-alzheimers",
-    "mean_score": 0.2107,
-    "vader_score": 0.4215,
-    "textblob_score": 0.0,
-    "first_sentence": "His work is consistently ranked among the world\u2019s most expensive art, with paintings fetching more than a $100m at auction.",
-    "timestamp": "2025-12-31T15:00:12Z",
-    "source": "World news | The Guardian"
+    "source": "ABC News"
   },
   {
     "headline": "Swashbuckling Puss embarks on a brave quest",
@@ -180,54 +20,14 @@
     "textblob_score": 0.8
   },
   {
-    "headline": "Nurse 'lucky to be alive' after crowbar attack at hospital",
-    "link": "https://www.bbc.com/news/articles/c86vl5d8w47o?at_medium=RSS&at_campaign=rss",
-    "mean_score": 0.2674,
-    "vader_score": 0.3182,
-    "textblob_score": 0.2167,
-    "first_sentence": "A nurse has told how she was \"beaten nearly to death\" after a man went on a rampage with a crowbar in a Merseyside hospital building.",
-    "timestamp": "2025-12-31T14:20:38Z",
-    "source": "BBC News"
-  },
-  {
-    "headline": "New year revellers told to wrap up warm with snow expected across UK",
-    "link": "https://www.theguardian.com/uk-news/2025/dec/31/new-year-revellers-told-wrap-up-warm-snow-uk-weather",
-    "first_sentence": "Snowfall is expected across much of the UK in a chilly start to the new year, forecasters have said, as revellers were advised to wrap up with near-freezing temperatures expected on New Year\u2019s Eve.",
-    "timestamp": "2026-01-01T01:01:20+1100",
-    "source": "World news | The Guardian",
-    "mean_score": 0.2192,
-    "vader_score": 0.2263,
-    "textblob_score": 0.2121
-  },
-  {
     "headline": "'I am so happy': Crowd celebrates Thailand's release of Cambodian soldiers",
     "link": "https://www.abc.net.au/news/2025-12-31/thailand-releases-cambodian-soldiers-as-part-of-ceasefire-deal/106190984",
     "first_sentence": "Thailand has released 18 Cambodian soldiers held since fighting between the two nations broke out in July.",
     "timestamp": "2026-01-01T01:01:19+1100",
-    "source": "Top Stories",
+    "source": "ABC News",
     "mean_score": 0.833,
     "vader_score": 0.8659,
     "textblob_score": 0.8
-  },
-  {
-    "headline": "Felix hoping to start 2026 with a bang at Aus Open",
-    "link": "https://www.abc.net.au/news/2025-12-31/felix-auger-aliassime-united-cup-australian-open/106190574",
-    "first_sentence": "Felix Auger-Aliassime says he can challenge at the Australian Open after winning 24 of his last 31 matches to end the year.",
-    "timestamp": "2026-01-01T01:01:19+1100",
-    "source": "Top Stories",
-    "mean_score": 0.2107,
-    "vader_score": 0.4215,
-    "textblob_score": 0.0
-  },
-  {
-    "headline": "Jair Bolsonaro undergoes second procedure to treat persistent hiccups",
-    "link": "https://www.theguardian.com/world/2025/dec/29/brazil-ex-president-jair-bolsonaro-hiccups-treatment",
-    "first_sentence": "Jair Bolsonaro underwent a second \u201cphrenic nerve block procedure\u201d on Monday to treat persistent hiccups.",
-    "timestamp": "2026-01-01T01:01:19+1100",
-    "source": "World news | The Guardian",
-    "mean_score": 0.2009,
-    "vader_score": 0.4019,
-    "textblob_score": 0.0
   },
   {
     "headline": "Some of the best TV in years is to come",
@@ -250,36 +50,6 @@
     "textblob_score": 1.0
   },
   {
-    "headline": "Sir David Attenborough shares his life in sound",
-    "link": "https://www.bbc.co.uk/sounds/play/b03lnzxh?at_mid=m6MbMN3GNI&at_campaign=David_Attenborough_My_Life_in_Sound&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=b03lnzxh&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=David_Attenborough_My_Life_in_Sound&at_bbc_team=BBC",
-    "first_sentence": "In an exclusive interview for Radio 4 David Attenborough talks to Chris Watson about his life in sound.\n\nOne of Sir David's first jobs in natural history film making was as a wildlife sound recordist.",
-    "timestamp": "2026-01-01T01:01:18+1100",
-    "source": "BBC News",
-    "mean_score": 0.348,
-    "vader_score": 0.296,
-    "textblob_score": 0.4
-  },
-  {
-    "headline": "Victoria Wood serves up a large helping of festive comedy",
-    "link": "https://www.bbc.co.uk/iplayer/episode/b007bs2x?at_mid=kQlobvDqXA&at_campaign=Victoria_Wood_with_All_the_Trimmings&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=b007bs2x&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Victoria_Wood_with_All_the_Trimmings&at_bbc_team=BBC",
-    "first_sentence": "Victoria Wood serves up a large helping of Christmas comedy with a series of pastiches.",
-    "timestamp": "2026-01-01T01:01:18+1100",
-    "source": "BBC News",
-    "mean_score": 0.493,
-    "vader_score": 0.7717,
-    "textblob_score": 0.2143
-  },
-  {
-    "headline": "'Are you sure?' - Guardiola questions two-horse race",
-    "link": "https://www.bbc.com/sport/football/articles/c23rle944x8o?at_medium=RSS&at_campaign=rss",
-    "first_sentence": "Pep Guardiola has questioned whether the Premier League title race this season is a two-horse race between his Manchester City side and leaders Arsenal.",
-    "timestamp": "2026-01-01T01:01:18+1100",
-    "source": "BBC News",
-    "mean_score": 0.4091,
-    "vader_score": 0.3182,
-    "textblob_score": 0.5
-  },
-  {
     "headline": "Who was the best men's footballer in 2025?",
     "link": "https://www.bbc.com/sport/football/articles/ckgm37r4z45o?at_medium=RSS&at_campaign=rss",
     "first_sentence": "Another year is almost over and 2025 has been a strong year for many footballers.",
@@ -288,16 +58,6 @@
     "mean_score": 0.8185,
     "vader_score": 0.6369,
     "textblob_score": 1.0
-  },
-  {
-    "headline": "Living the dream - Hood plans to open Chinese with Ally Pally winnings",
-    "link": "https://www.bbc.com/sport/darts/articles/c0lx8k95nplo?at_medium=RSS&at_campaign=rss",
-    "first_sentence": "Every sportsperson has a dream - but for most that is reaching the pinnacle of their chosen pursuit and winning trophies or medals.",
-    "timestamp": "2026-01-01T01:01:18+1100",
-    "source": "BBC News",
-    "mean_score": 0.3352,
-    "vader_score": 0.6705,
-    "textblob_score": 0.0
   },
   {
     "headline": "Who will win what in 2026? Make your predictions",
@@ -310,16 +70,6 @@
     "textblob_score": 0.8
   },
   {
-    "headline": "'That is divine!' - watch every PL goal of the month winnner from 2025",
-    "link": "https://www.bbc.com/sport/football/videos/cq6vryz2163o?at_medium=RSS&at_campaign=rss",
-    "first_sentence": "Watch every winner from Match of the Day's goal of the month votes in 2025, and a selection of December's best Premier League goals.",
-    "timestamp": "2026-01-01T01:01:18+1100",
-    "source": "BBC News",
-    "mean_score": 0.2992,
-    "vader_score": 0.5983,
-    "textblob_score": 0.0
-  },
-  {
     "headline": "Heated Rivalry author says TV success led to help with her Parkinson's",
     "link": "https://www.bbc.com/news/articles/ce8gd0qvyrpo?at_medium=RSS&at_campaign=rss",
     "first_sentence": "The author of Heated Rivalry has revealed the success of the TV adaptation has resulted in her receiving specialist help with her Parkinson's disease.",
@@ -330,86 +80,6 @@
     "textblob_score": 0.3
   },
   {
-    "headline": "Gold and silver see rollercoaster end to blockbuster year",
-    "link": "https://www.bbc.com/news/articles/cp393nz95y5o?at_medium=RSS&at_campaign=rss",
-    "first_sentence": "Gold and silver have seen a rollercoaster end to a year in which their prices are on track to record their biggest annual gains since 1979.",
-    "timestamp": "2026-01-01T01:01:17+1100",
-    "source": "BBC News",
-    "mean_score": 0.2997,
-    "vader_score": 0.5994,
-    "textblob_score": 0.0
-  },
-  {
-    "headline": "Watch: Underwater chess champions compete for world title",
-    "link": "https://www.bbc.com/news/videos/cd9ed29vg2eo?at_medium=RSS&at_campaign=rss",
-    "first_sentence": "The Diving Chess World Championships has taken place in Groningen, Netherlands, with players using weighted pieces and magnetic boards.",
-    "timestamp": "2026-01-01T01:01:17+1100",
-    "source": "BBC News",
-    "mean_score": 0.2633,
-    "vader_score": 0.5267,
-    "textblob_score": 0.0
-  },
-  {
-    "headline": "Supply chains, AI, and the cloud: The biggest failures (and one success) of 2025",
-    "link": "https://arstechnica.com/security/2025/12/supply-chains-ai-and-the-cloud-the-biggest-failures-and-one-success-of-2025/",
-    "mean_score": 0.2389,
-    "vader_score": 0.1779,
-    "textblob_score": 0.3,
-    "first_sentence": "The past year has seen plenty of hacks and outages.",
-    "timestamp": "2025-12-31T13:15:40Z",
-    "source": "Ars Technica - All content"
-  },
-  {
-    "headline": "Greetings from Vienna, where an imperial palace hosts a holiday market for all",
-    "link": "https://www.npr.org/2025/12/31/g-s1-103737/vienna-christmas-market-austria",
-    "mean_score": 0.3352,
-    "vader_score": 0.6705,
-    "textblob_score": 0.0,
-    "first_sentence": "Far-Flung Postcards is a weekly series in which NPR's international team shares moments from their lives and work around the world.",
-    "timestamp": "2025-12-31T13:09:22Z",
-    "source": "NPR Topics: News"
-  },
-  {
-    "headline": "Out with the mayo: How Ukrainians reclaim holiday food",
-    "link": "https://www.npr.org/2025/12/31/nx-s1-5660765/ukrainian-food-holidays",
-    "mean_score": 0.2009,
-    "vader_score": 0.4019,
-    "textblob_score": 0.0,
-    "first_sentence": "WASHINGTON, D.C.",
-    "timestamp": "2025-12-31T12:00:00Z",
-    "source": "NPR Topics: News"
-  },
-  {
-    "headline": "Tim hopes a treechange will help him save a house deposit. He's not alone",
-    "link": "https://www.sbs.com.au/news/the-feed/article/tim-moved-to-the-middle-of-queensland-it-might-just-save-him-100-000/50jef2tiq",
-    "mean_score": 0.4285,
-    "vader_score": 0.857,
-    "textblob_score": 0.0,
-    "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-    "timestamp": "2025-12-31T04:50:20Z",
-    "source": "Top Stories"
-  },
-  {
-    "headline": "Israel to halt operation of more than 30 Gaza aid organisations",
-    "link": "https://www.sbs.com.au/news/article/israel-to-halt-operation-of-some-gaza-aid-organisations/s49img2zj",
-    "mean_score": 0.25,
-    "vader_score": 0.0,
-    "textblob_score": 0.5,
-    "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-    "timestamp": "2025-12-30T19:18:02Z",
-    "source": "Top Stories"
-  },
-  {
-    "headline": "Tax, super, childcare, medicines and more: Your cheat sheet to big changes in 2026",
-    "link": "https://www.sbs.com.au/news/article/your-guide-to-the-major-2026-changes/zd5258wvu",
-    "mean_score": 0.2181,
-    "vader_score": 0.1585,
-    "textblob_score": 0.2778,
-    "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-    "timestamp": "2025-12-30T18:35:56Z",
-    "source": "Top Stories"
-  },
-  {
     "headline": "The 10 best vehicles Ars Technica drove in 2025",
     "link": "https://arstechnica.com/cars/2025/12/the-10-best-vehicles-ars-technica-drove-in-2025/",
     "mean_score": 0.8185,
@@ -417,16 +87,6 @@
     "textblob_score": 1.0,
     "first_sentence": "Of all the cars we\u2019ve driven and reviewed this year, these are our picks.",
     "timestamp": "2025-12-30T13:30:40Z",
-    "source": "Ars Technica - All content"
-  },
-  {
-    "headline": "'My soul asked me to do that': Bondi hero Ahmed Al-Ahmed recounts moment of bravery",
-    "link": "https://www.sbs.com.au/news/article/ahmed-alahmed-recalls-moment-bondi-terror-attack/5ww2ouddv",
-    "mean_score": 0.3891,
-    "vader_score": 0.7783,
-    "textblob_score": 0.0,
-    "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-    "timestamp": "2025-12-29T06:11:20Z",
-    "source": "Top Stories"
+    "source": "Ars Technica"
   }
 ]
