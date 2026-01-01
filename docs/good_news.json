@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Veganuary can be a piece of cake: cooks and dieticians share 12 ways to make delicious plant-based food",
+    "link": "https://www.theguardian.com/food/2026/jan/01/veganuary-can-be-a-piece-of-cake-cooks-and-dieticians-share-12-ways-to-make-delicious-plant-based-food",
+    "mean_score": 0.8548,
+    "vader_score": 0.7096,
+    "textblob_score": 1.0,
+    "first_sentence": "This new year, you may be embarking on Veganuary, or have resolved to eat less meat and dairy in 2026.",
+    "timestamp": "2026-01-01T11:00:37Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "The perfect day for parents: how to keep kids healthy and happy \u2013 without neglecting yourself",
+    "link": "https://www.theguardian.com/lifeandstyle/2025/dec/19/the-perfect-day-for-parents-how-to-keep-kids-healthy-and-happy-without-neglecting-yourself",
+    "mean_score": 0.837,
+    "vader_score": 0.9073,
+    "textblob_score": 0.7667,
+    "first_sentence": "Sometimes, though, it feels impossible to sort the must-dos from the nice-to-dos, the good from the good enough.",
+    "timestamp": "2026-01-01T11:00:36Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "World is in better place than when Eden Project created 25 years ago, founder says",
     "link": "https://www.theguardian.com/uk-news/2026/jan/01/eden-project-25-anniversary-founder-tim-smit",
     "mean_score": 0.5497,
