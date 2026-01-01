@@ -930,3 +930,36 @@
 2026-01-01 14:04:09,857 - INFO - Checking feed: https://feeds.npr.org/1007/rss.xml
 2026-01-01 14:04:09,958 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
 2026-01-01 14:04:10,652 - INFO - No new positive stories found.
+2026-01-01 15:04:09,853 - INFO - Starting Ramah News Fetcher
+2026-01-01 15:04:09,862 - INFO - Checking feed: http://feeds.bbci.co.uk/news/rss.xml
+2026-01-01 15:04:10,615 - INFO - Found good news: The best pictures from around the world as 2026 begins (Mean Score: 0.8185, VADER: 0.6369, TextBlob: 1.0000)
+2026-01-01 15:04:11,002 - INFO - Checking feed: http://feeds.bbci.co.uk/news/world/rss.xml
+2026-01-01 15:04:11,259 - INFO - Checking feed: http://feeds.bbci.co.uk/news/uk/rss.xml
+2026-01-01 15:04:11,554 - INFO - Checking feed: http://feeds.bbci.co.uk/news/business/rss.xml
+2026-01-01 15:04:11,821 - INFO - Checking feed: http://feeds.bbci.co.uk/news/technology/rss.xml
+2026-01-01 15:04:12,222 - INFO - Checking feed: http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+2026-01-01 15:04:12,559 - INFO - Checking feed: http://feeds.bbci.co.uk/news/health/rss.xml
+2026-01-01 15:04:12,888 - INFO - Checking feed: http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+2026-01-01 15:04:13,254 - INFO - Checking feed: https://www.abc.net.au/news/feed/45910/rss.xml
+2026-01-01 15:04:13,948 - INFO - Checking feed: https://www.abc.net.au/news/feed/51120/rss.xml
+2026-01-01 15:04:14,383 - INFO - Checking feed: https://www.theguardian.com/world/rss
+2026-01-01 15:04:14,689 - INFO - Checking feed: https://www.theguardian.com/au/rss
+2026-01-01 15:04:14,931 - INFO - Found good news: My rookie era: nobody sounds good when they first play a violin (Mean Score: 0.5618, VADER: 0.6486, TextBlob: 0.4750)
+2026-01-01 15:04:15,192 - INFO - Checking feed: https://www.theguardian.com/environment/rss
+2026-01-01 15:04:15,454 - INFO - Checking feed: https://www.theguardian.com/science/rss
+2026-01-01 15:04:15,582 - INFO - Checking feed: https://www.theguardian.com/uk/technology/rss
+2026-01-01 15:04:15,704 - INFO - Checking feed: https://www.theguardian.com/lifeandstyle/rss
+2026-01-01 15:04:16,348 - INFO - Checking feed: https://www.sbs.com.au/news/feed
+2026-01-01 15:04:16,956 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/index
+2026-01-01 15:04:17,120 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/science
+2026-01-01 15:04:17,474 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/tech-policy
+2026-01-01 15:04:17,912 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/gaming
+2026-01-01 15:04:18,116 - INFO - Checking feed: https://feedx.net/rss/ap.xml
+2026-01-01 15:04:18,604 - INFO - Checking feed: https://feeds.npr.org/1001/rss.xml
+2026-01-01 15:04:18,945 - INFO - Checking feed: https://feeds.npr.org/1004/rss.xml
+2026-01-01 15:04:19,053 - INFO - Checking feed: https://feeds.npr.org/1014/rss.xml
+2026-01-01 15:04:19,153 - INFO - Checking feed: https://feeds.npr.org/1019/rss.xml
+2026-01-01 15:04:19,256 - INFO - Checking feed: https://feeds.npr.org/1017/rss.xml
+2026-01-01 15:04:19,364 - INFO - Checking feed: https://feeds.npr.org/1007/rss.xml
+2026-01-01 15:04:19,472 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
+2026-01-01 15:04:19,613 - INFO - Saved 52 stories to docs/good_news.json.
