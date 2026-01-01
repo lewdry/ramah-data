@@ -616,3 +616,35 @@
 2026-01-01 04:22:11,700 - INFO - Checking feed: https://feeds.npr.org/1007/rss.xml
 2026-01-01 04:22:11,840 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
 2026-01-01 04:22:11,923 - INFO - No new positive stories found.
+2026-01-01 05:09:31,247 - INFO - Starting Ramah News Fetcher
+2026-01-01 05:09:31,256 - INFO - Checking feed: http://feeds.bbci.co.uk/news/rss.xml
+2026-01-01 05:09:31,507 - INFO - Checking feed: http://feeds.bbci.co.uk/news/world/rss.xml
+2026-01-01 05:09:31,677 - INFO - Checking feed: http://feeds.bbci.co.uk/news/uk/rss.xml
+2026-01-01 05:09:32,289 - INFO - Checking feed: http://feeds.bbci.co.uk/news/business/rss.xml
+2026-01-01 05:09:32,473 - INFO - Checking feed: http://feeds.bbci.co.uk/news/technology/rss.xml
+2026-01-01 05:09:32,744 - INFO - Checking feed: http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+2026-01-01 05:09:33,068 - INFO - Checking feed: http://feeds.bbci.co.uk/news/health/rss.xml
+2026-01-01 05:09:33,333 - INFO - Checking feed: http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+2026-01-01 05:09:33,677 - INFO - Checking feed: https://www.abc.net.au/news/feed/45910/rss.xml
+2026-01-01 05:09:34,077 - INFO - Checking feed: https://www.abc.net.au/news/feed/51120/rss.xml
+2026-01-01 05:09:34,418 - INFO - Checking feed: https://www.theguardian.com/world/rss
+2026-01-01 05:09:34,579 - INFO - Checking feed: https://www.theguardian.com/au/rss
+2026-01-01 05:09:34,782 - INFO - Found good news: World is in better place than when Eden Project created 25 years ago, founder says (Mean Score: 0.5497, VADER: 0.5994, TextBlob: 0.5000)
+2026-01-01 05:09:34,971 - INFO - Checking feed: https://www.theguardian.com/environment/rss
+2026-01-01 05:09:35,074 - INFO - Checking feed: https://www.theguardian.com/science/rss
+2026-01-01 05:09:35,162 - INFO - Checking feed: https://www.theguardian.com/uk/technology/rss
+2026-01-01 05:09:35,241 - INFO - Checking feed: https://www.theguardian.com/lifeandstyle/rss
+2026-01-01 05:09:35,373 - INFO - Checking feed: https://www.sbs.com.au/news/feed
+2026-01-01 05:09:35,856 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/index
+2026-01-01 05:09:36,047 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/science
+2026-01-01 05:09:36,176 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/tech-policy
+2026-01-01 05:09:36,495 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/gaming
+2026-01-01 05:09:36,865 - INFO - Checking feed: https://feedx.net/rss/ap.xml
+2026-01-01 05:09:37,167 - INFO - Checking feed: https://feeds.npr.org/1001/rss.xml
+2026-01-01 05:09:37,386 - INFO - Checking feed: https://feeds.npr.org/1004/rss.xml
+2026-01-01 05:09:37,446 - INFO - Checking feed: https://feeds.npr.org/1014/rss.xml
+2026-01-01 05:09:37,497 - INFO - Checking feed: https://feeds.npr.org/1019/rss.xml
+2026-01-01 05:09:37,552 - INFO - Checking feed: https://feeds.npr.org/1017/rss.xml
+2026-01-01 05:09:38,123 - INFO - Checking feed: https://feeds.npr.org/1007/rss.xml
+2026-01-01 05:09:38,289 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
+2026-01-01 05:09:38,363 - INFO - Saved 47 stories to docs/good_news.json.
