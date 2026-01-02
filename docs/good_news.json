@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Cocktail of the week: the Kirkstyle Inn\u2019s beetroot and sumac shrub \u2013 recipe | The good mixer",
+    "link": "https://www.theguardian.com/food/2026/jan/02/cocktail-of-the-week-beetroot-sumac-shrub-mocktail-recipe-kirkstyle-inn",
+    "mean_score": 0.5702,
+    "vader_score": 0.4404,
+    "textblob_score": 0.7,
+    "first_sentence": "Traditionally, shrubs are made with vinegar, but for this one we use lemon juice to bring a bright sharpness to the base syrup, because it balances the earthy sweetness of the beetroot and sumac.",
+    "timestamp": "2026-01-02T13:00:10Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Record year for wind and solar electricity in Great Britain in 2025",
     "link": "https://www.bbc.com/news/articles/cz947djd3d3o?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.7125,
@@ -27,6 +37,16 @@
     "textblob_score": 0.55,
     "first_sentence": "A sporting bug, caught at the age of three with the help of a tiny snooker set on his parents' coffee table in their Leeds home, would culminate in a professional career that saw him win six major trophies in six years.",
     "timestamp": "2026-01-02T08:50:54Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "'Best bargain' Kamara at heart of Aston Villa success",
+    "link": "https://www.bbc.com/sport/football/articles/czdg84m99vvo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.7907,
+    "vader_score": 0.9313,
+    "textblob_score": 0.65,
+    "first_sentence": "The 26-year-old has quietly evolved into one of the best midfielders in the Premier League.",
+    "timestamp": "2026-01-02T07:54:37Z",
     "source": "BBC News"
   },
   {
