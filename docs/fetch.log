@@ -1788,3 +1788,36 @@
 2026-01-02 17:03:47,808 - INFO - Checking feed: https://feeds.npr.org/1007/rss.xml
 2026-01-02 17:03:48,000 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
 2026-01-02 17:03:48,252 - INFO - No new positive stories found.
+2026-01-02 18:05:42,295 - INFO - Starting Ramah News Fetcher
+2026-01-02 18:05:42,304 - INFO - Checking feed: http://feeds.bbci.co.uk/news/rss.xml
+2026-01-02 18:05:42,788 - INFO - Found good news: Karting champion, 16, aims for F1 top spot (Mean Score: 0.5954, VADER: 0.6908, TextBlob: 0.5000)
+2026-01-02 18:05:42,877 - INFO - Checking feed: http://feeds.bbci.co.uk/news/world/rss.xml
+2026-01-02 18:05:43,107 - INFO - Checking feed: http://feeds.bbci.co.uk/news/uk/rss.xml
+2026-01-02 18:05:43,359 - INFO - Checking feed: http://feeds.bbci.co.uk/news/business/rss.xml
+2026-01-02 18:05:43,661 - INFO - Checking feed: http://feeds.bbci.co.uk/news/technology/rss.xml
+2026-01-02 18:05:43,930 - INFO - Checking feed: http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+2026-01-02 18:05:44,033 - INFO - Checking feed: http://feeds.bbci.co.uk/news/health/rss.xml
+2026-01-02 18:05:44,352 - INFO - Checking feed: http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+2026-01-02 18:05:44,554 - INFO - Checking feed: https://www.abc.net.au/news/feed/45910/rss.xml
+2026-01-02 18:05:44,859 - INFO - Checking feed: https://www.abc.net.au/news/feed/51120/rss.xml
+2026-01-02 18:05:45,090 - INFO - Checking feed: https://www.theguardian.com/world/rss
+2026-01-02 18:05:45,203 - INFO - Checking feed: https://www.theguardian.com/au/rss
+2026-01-02 18:05:45,569 - INFO - Checking feed: https://www.theguardian.com/environment/rss
+2026-01-02 18:05:45,804 - INFO - Checking feed: https://www.theguardian.com/science/rss
+2026-01-02 18:05:45,898 - INFO - Checking feed: https://www.theguardian.com/uk/technology/rss
+2026-01-02 18:05:45,973 - INFO - Checking feed: https://www.theguardian.com/lifeandstyle/rss
+2026-01-02 18:05:46,515 - INFO - Checking feed: https://www.sbs.com.au/news/feed
+2026-01-02 18:05:47,005 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/index
+2026-01-02 18:05:47,110 - INFO - Found good news: Final reminder: Donate to win swag in our annual Charity Drive sweepstakes (Mean Score: 0.5825, VADER: 0.7650, TextBlob: 0.4000)
+2026-01-02 18:05:47,488 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/science
+2026-01-02 18:05:47,562 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/tech-policy
+2026-01-02 18:05:47,780 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/gaming
+2026-01-02 18:05:47,867 - INFO - Checking feed: https://feedx.net/rss/ap.xml
+2026-01-02 18:05:48,253 - INFO - Checking feed: https://feeds.npr.org/1001/rss.xml
+2026-01-02 18:05:48,510 - INFO - Checking feed: https://feeds.npr.org/1004/rss.xml
+2026-01-02 18:05:48,580 - INFO - Checking feed: https://feeds.npr.org/1014/rss.xml
+2026-01-02 18:05:48,665 - INFO - Checking feed: https://feeds.npr.org/1019/rss.xml
+2026-01-02 18:05:48,747 - INFO - Checking feed: https://feeds.npr.org/1017/rss.xml
+2026-01-02 18:05:49,790 - INFO - Checking feed: https://feeds.npr.org/1007/rss.xml
+2026-01-02 18:05:49,869 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
+2026-01-02 18:05:49,946 - INFO - Saved 73 stories to docs/good_news.json.
