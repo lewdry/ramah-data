@@ -72,8 +72,8 @@ SOURCE_MAP = {
     'feeds.npr.org': 'NPR News',
 }
 
-SENTIMENT_THRESHOLD = 0.5
-BLOCK_LIST = ["kill", "bomb", "murder", "rampage", "fatal", "trump", "ICE", "banning"]
+SENTIMENT_THRESHOLD = 0.3
+BLOCK_LIST = ["kill", "bomb", "murder", "rampage", "fatal", "trump", "ICE", "banning", "cricket", "ashes", "soccer"]
 # Substrings of feed URLs or article links to block entirely (skip fetching)
 URL_BLOCKLIST = [
     'bbc.com/sport',

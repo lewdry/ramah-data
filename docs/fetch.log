@@ -1915,3 +1915,83 @@
 2026-01-02 21:03:55,853 - INFO - Checking feed: https://feeds.npr.org/1007/rss.xml
 2026-01-02 21:03:55,917 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
 2026-01-02 21:03:55,995 - INFO - No new positive stories found.
+2026-01-03 09:01:45,162 - INFO - Starting Ramah News Fetcher
+2026-01-03 09:01:45,169 - INFO - Checking feed: http://feeds.bbci.co.uk/news/rss.xml
+2026-01-03 09:01:45,807 - INFO - Found good news: Double record-breaking year for UK as 2025 confirmed as warmest and sunniest on record (Mean Score: 0.4635, VADER: 0.7269, TextBlob: 0.2000)
+2026-01-03 09:01:46,018 - INFO - Found good news: China's BYD overtakes Tesla as world's top EV seller (Mean Score: 0.3512, VADER: 0.2023, TextBlob: 0.5000)
+2026-01-03 09:01:46,094 - INFO - Found good news: Sir David Attenborough explores the surprising wildlife of London (Mean Score: 0.4866, VADER: 0.2732, TextBlob: 0.7000)
+2026-01-03 09:01:46,213 - INFO - Checking feed: http://feeds.bbci.co.uk/news/world/rss.xml
+2026-01-03 09:01:46,712 - INFO - Found good news: Zelensky says peace deal is 90% ready in New Year address (Mean Score: 0.4433, VADER: 0.7184, TextBlob: 0.1682)
+2026-01-03 09:01:46,812 - INFO - Checking feed: http://feeds.bbci.co.uk/news/uk/rss.xml
+2026-01-03 09:01:48,120 - INFO - Found good news: Watch: Stunning celestial events that lit up the skies in 2025 (Mean Score: 0.4409, VADER: 0.3818, TextBlob: 0.5000)
+2026-01-03 09:01:48,216 - INFO - Checking feed: http://feeds.bbci.co.uk/news/business/rss.xml
+2026-01-03 09:01:49,065 - INFO - Found good news: The showers and baths keeping data centre tech cool (Mean Score: 0.3341, VADER: 0.3182, TextBlob: 0.3500)
+2026-01-03 09:01:49,594 - INFO - Found good news: 'It's amazing' – the wonder material very few can make (Mean Score: 0.3780, VADER: 0.5859, TextBlob: 0.1700)
+2026-01-03 09:01:50,224 - INFO - Found good news: Heating tips to keep your home warm when budgets are squeezed (Mean Score: 0.4132, VADER: 0.2263, TextBlob: 0.6000)
+2026-01-03 09:01:50,839 - INFO - Checking feed: http://feeds.bbci.co.uk/news/technology/rss.xml
+2026-01-03 09:01:51,436 - INFO - Found good news: Facebook tests £9.99 monthly subscription for sharing more than two links (Mean Score: 0.4607, VADER: 0.4215, TextBlob: 0.5000)
+2026-01-03 09:01:52,193 - INFO - Found good news: Fire-blocking chemicals promise safer buildings (Mean Score: 0.3125, VADER: 0.6249, TextBlob: 0.0000)
+2026-01-03 09:01:53,248 - INFO - Checking feed: http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+2026-01-03 09:01:54,197 - INFO - Found good news: Why 2026 looks bright for Northern Light sightings (Mean Score: 0.4952, VADER: 0.4404, TextBlob: 0.5500)
+2026-01-03 09:01:54,286 - INFO - Found good news: Green turtle bounces back from brink in conservation 'win' (Mean Score: 0.3930, VADER: 0.5859, TextBlob: 0.2000)
+2026-01-03 09:01:54,932 - INFO - Found good news: Environment prize nominees 'heroes of our time', says William (Mean Score: 0.3825, VADER: 0.7650, TextBlob: 0.0000)
+2026-01-03 09:01:55,553 - INFO - Checking feed: http://feeds.bbci.co.uk/news/health/rss.xml
+2026-01-03 09:01:56,467 - INFO - Found good news: Boris Johnson left Inquiry in a hurry - he'll be pleased not to come back (Mean Score: 0.3035, VADER: 0.4404, TextBlob: 0.1667)
+2026-01-03 09:01:57,087 - INFO - Found good news: 'Getting financial help through my GP has improved my health' (Mean Score: 0.3502, VADER: 0.7003, TextBlob: 0.0000)
+2026-01-03 09:01:58,106 - INFO - Found good news: Is the most expensive lip balm always the best? (Mean Score: 0.4851, VADER: 0.6369, TextBlob: 0.3333)
+2026-01-03 09:01:58,702 - INFO - Found good news: Young women call for better health education (Mean Score: 0.3702, VADER: 0.4404, TextBlob: 0.3000)
+2026-01-03 09:02:00,319 - INFO - Checking feed: http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+2026-01-03 09:02:00,847 - INFO - Checking feed: https://www.abc.net.au/news/feed/45910/rss.xml
+2026-01-03 09:02:00,980 - INFO - Found good news: 'Bánh mì lover': Vietnamese bakeries go viral on social media (Mean Score: 0.3096, VADER: 0.5859, TextBlob: 0.0333)
+2026-01-03 09:02:01,112 - INFO - Found good news: Christmas seafood sales a 'huge relief' amid algal bloom anxiety (Mean Score: 0.4859, VADER: 0.5719, TextBlob: 0.4000)
+2026-01-03 09:02:01,388 - INFO - Checking feed: https://www.abc.net.au/news/feed/51120/rss.xml
+2026-01-03 09:02:01,480 - INFO - Found good news: Trove of unearthed vintage photos reveals forbidden love between men (Mean Score: 0.4200, VADER: 0.3400, TextBlob: 0.5000)
+2026-01-03 09:02:01,593 - INFO - Checking feed: https://www.theguardian.com/world/rss
+2026-01-03 09:02:01,706 - INFO - Found good news: Ministers cannot go on ignoring the Shamima Begum case, for two important reasons (Mean Score: 0.4346, VADER: 0.4692, TextBlob: 0.4000)
+2026-01-03 09:02:01,798 - INFO - Checking feed: https://www.theguardian.com/au/rss
+2026-01-03 09:02:01,941 - INFO - Found good news: Behind the scenes of Brisbane’s 2032 Olympics, a 19th-century story of politics and gay love (Mean Score: 0.4046, VADER: 0.6369, TextBlob: 0.1722)
+2026-01-03 09:02:02,014 - INFO - Found good news: My mother repeated one Cantonese idiom throughout my life: 'you want beauty, you don’t want life' | Michelle Law (Mean Score: 0.3298, VADER: 0.6597, TextBlob: 0.0000)
+2026-01-03 09:02:02,086 - INFO - Found good news: The secret to a perfect nap: when, where and for how long? (Mean Score: 0.3776, VADER: 0.5719, TextBlob: 0.1833)
+2026-01-03 09:02:02,160 - INFO - Found good news: ‘A place of darkness and light’: the uninhabited Japanese island that became a rabbit paradise (Mean Score: 0.3469, VADER: 0.4939, TextBlob: 0.2000)
+2026-01-03 09:02:02,247 - INFO - Found good news: They tried to smear him as an antisemite – but Mayor Zohran Mamdani walks in a rich Jewish tradition | Molly Crabapple (Mean Score: 0.4093, VADER: 0.6310, TextBlob: 0.1875)
+2026-01-03 09:02:02,619 - INFO - Found good news: Chess: Magnus Carlsen wins two more world speed crowns despite mishaps (Mean Score: 0.4859, VADER: 0.5719, TextBlob: 0.4000)
+2026-01-03 09:02:03,128 - INFO - Found good news: ‘I don’t want to resent the thing I love’: Paul Mescal and Josh O’Connor on romance, rationing and retirement (Mean Score: 0.4970, VADER: 0.4939, TextBlob: 0.5000)
+2026-01-03 09:02:03,209 - INFO - Found good news: Dry Cleaning: Secret Love review | Alexis Petridis's album of the week (Mean Score: 0.3240, VADER: 0.6369, TextBlob: 0.0111)
+2026-01-03 09:02:03,741 - INFO - Found good news: Arc Raiders review – pure multiplayer pleasure (Mean Score: 0.3931, VADER: 0.5719, TextBlob: 0.2143)
+2026-01-03 09:02:04,249 - INFO - Found good news: Benjamina Ebuehi’s recipe for yoghurt panna cotta with banana and tahini crumble | The sweet spot (Mean Score: 0.4044, VADER: 0.4588, TextBlob: 0.3500)
+2026-01-03 09:02:04,640 - INFO - Found good news: January isn’t for reinvention – it’s for dishes we know by heart (Mean Score: 0.3185, VADER: 0.6369, TextBlob: 0.0000)
+2026-01-03 09:02:05,177 - INFO - Found good news: Sign up for the Morning Mail newsletter, a free daily news email from Guardian Australia (Mean Score: 0.3553, VADER: 0.5106, TextBlob: 0.2000)
+2026-01-03 09:02:05,532 - INFO - Found good news: Sign up for the Afternoon Update newsletter, a free daily news email from Guardian Australia (Mean Score: 0.3553, VADER: 0.5106, TextBlob: 0.2000)
+2026-01-03 09:02:05,883 - INFO - Checking feed: https://www.theguardian.com/environment/rss
+2026-01-03 09:02:06,589 - INFO - Found good news: Australia could miss clean energy target as solar and wind investment slumps, investors warn (Mean Score: 0.3941, VADER: 0.4215, TextBlob: 0.3667)
+2026-01-03 09:02:07,219 - INFO - Found good news: 'Enormous opportunity': how Australia could become the Saudi Arabia of renewable energy (Mean Score: 0.3180, VADER: 0.6361, TextBlob: 0.0000)
+2026-01-03 09:02:07,744 - INFO - Found good news: Labor’s nature law overhaul contains wins – but we should watch for gremlins in the details | Adam Morton (Mean Score: 0.3145, VADER: 0.3291, TextBlob: 0.3000)
+2026-01-03 09:02:08,264 - INFO - Found good news: The rewriting of Australia’s nature laws comes as a relief, yet I can’t help feel a sense of foreboding | Georgina Woods (Mean Score: 0.3502, VADER: 0.7003, TextBlob: 0.0000)
+2026-01-03 09:02:08,762 - INFO - Checking feed: https://www.theguardian.com/science/rss
+2026-01-03 09:02:08,840 - INFO - Found good news: Conservative and Christian? US right champions psychedelic drugs (Mean Score: 0.3348, VADER: 0.5267, TextBlob: 0.1429)
+2026-01-03 09:02:09,372 - INFO - Found good news: Did you solve it? Are you ready for twenty twenty-six…seven? (Mean Score: 0.3831, VADER: 0.5661, TextBlob: 0.2000)
+2026-01-03 09:02:09,880 - INFO - Found good news: Can you solve it? Are you ready for twenty twenty-six…seven? (Mean Score: 0.3831, VADER: 0.5661, TextBlob: 0.2000)
+2026-01-03 09:02:10,988 - INFO - Found good news: Watch Jeff Bezos's successful Blue Origin rocket launch – video (Mean Score: 0.4804, VADER: 0.5859, TextBlob: 0.3750)
+2026-01-03 09:02:11,518 - INFO - Checking feed: https://www.theguardian.com/uk/technology/rss
+2026-01-03 09:02:12,032 - INFO - Found good news: Oakley Meta Vanguard review: fantastic AI running glasses linked to Garmin (Mean Score: 0.4787, VADER: 0.5574, TextBlob: 0.4000)
+2026-01-03 09:02:12,520 - INFO - Checking feed: https://www.theguardian.com/lifeandstyle/rss
+2026-01-03 09:02:13,891 - INFO - Found good news: Georgina Hayden’s quick and easy recipe for pimento cheese and pickle loaded crisps | Quick and easy (Mean Score: 0.5418, VADER: 0.7003, TextBlob: 0.3833)
+2026-01-03 09:02:14,378 - INFO - Found good news: Helen Goh’s recipe for an espresso martini pavlova bar | The sweet spot (Mean Score: 0.4044, VADER: 0.4588, TextBlob: 0.3500)
+2026-01-03 09:02:14,902 - INFO - Found good news: The secrets of the body clock: how to tune into your natural rhythms – and have a better day (Mean Score: 0.4798, VADER: 0.6597, TextBlob: 0.3000)
+2026-01-03 09:02:15,319 - INFO - Checking feed: https://www.sbs.com.au/news/feed
+2026-01-03 09:02:15,469 - INFO - Found good news: Crowd chants 'tax the rich' as Zohran Mamdani sworn in as first Muslim mayor of New York (Mean Score: 0.4056, VADER: 0.5574, TextBlob: 0.2538)
+2026-01-03 09:02:16,220 - INFO - Found good news: 'Weak agreements only fuel the war': Zelenskyy says Ukraine ready for a 'strong peace' (Mean Score: 0.3110, VADER: 0.5574, TextBlob: 0.0646)
+2026-01-03 09:02:17,175 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/index
+2026-01-03 09:02:17,342 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/science
+2026-01-03 09:02:18,680 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/tech-policy
+2026-01-03 09:02:20,228 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/gaming
+2026-01-03 09:02:20,949 - INFO - Checking feed: https://feedx.net/rss/ap.xml
+2026-01-03 09:02:21,953 - INFO - Checking feed: https://feeds.npr.org/1001/rss.xml
+2026-01-03 09:02:22,066 - INFO - Checking feed: https://feeds.npr.org/1004/rss.xml
+2026-01-03 09:02:23,149 - INFO - Checking feed: https://feeds.npr.org/1014/rss.xml
+2026-01-03 09:02:23,893 - INFO - Checking feed: https://feeds.npr.org/1019/rss.xml
+2026-01-03 09:02:23,982 - INFO - Checking feed: https://feeds.npr.org/1017/rss.xml
+2026-01-03 09:02:25,386 - INFO - Checking feed: https://feeds.npr.org/1007/rss.xml
+2026-01-03 09:02:26,461 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
+2026-01-03 09:02:28,071 - INFO - Found good news: How to make your strength building goals and stick to them in the new year (Mean Score: 0.3151, VADER: 0.4939, TextBlob: 0.1364)
+2026-01-03 09:02:28,935 - INFO - Saved 114 stories to docs/good_news.json.

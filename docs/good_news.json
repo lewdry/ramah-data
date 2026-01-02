@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Trove of unearthed vintage photos reveals forbidden love between men",
+    "link": "https://www.abc.net.au/news/2026-01-03/photographs-of-men-in-love-exhibition-same-sex-couples-canberra/106164254",
+    "mean_score": 0.42,
+    "vader_score": 0.34,
+    "textblob_score": 0.5,
+    "first_sentence": "In a black and white photograph, two young men hold up a sign that reads 'not married but willing to be'.",
+    "timestamp": "2026-01-02T21:26:17Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Christmas seafood sales a 'huge relief' amid algal bloom anxiety",
+    "link": "https://www.abc.net.au/news/rural/2026-01-03/christmas-seafood-sales-show-positive-signs-despite-algal-bloom/106186646",
+    "mean_score": 0.4859,
+    "vader_score": 0.5719,
+    "textblob_score": 0.4,
+    "first_sentence": "The Christmas season has provided SA's seafood industry with a much-needed opportunity for sales.",
+    "timestamp": "2026-01-02T20:12:23Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "'B\u00e1nh m\u00ec lover': Vietnamese bakeries go viral on social media",
+    "link": "https://www.abc.net.au/news/2026-01-03/sydneys-banh-mi-obsession-bakeries-go-viral-on-social-media/105884842",
+    "mean_score": 0.3096,
+    "vader_score": 0.5859,
+    "textblob_score": 0.0333,
+    "first_sentence": "A humble b\u00e1nh m\u00ec appreciation group created by a Sydneysider has played a pivotal role in reinvigorating Australia's love for Vietnamese baguettes.",
+    "timestamp": "2026-01-02T20:00:04Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Two decades on, Waugh's last-ball century completes his perfect day",
     "link": "https://www.abc.net.au/news/2026-01-03/today-in-history-steve-waughs-last-ball-century-scg-ashes/106192024",
     "mean_score": 0.7859,
@@ -8,6 +38,16 @@
     "first_sentence": "They didn't just lose either.",
     "timestamp": "2026-01-02T18:30:00Z",
     "source": "ABC News"
+  },
+  {
+    "headline": "Ministers cannot go on ignoring the Shamima Begum case, for two important reasons",
+    "link": "https://www.theguardian.com/uk-news/2026/jan/02/ministers-cannot-go-on-ignoring-the-shamima-begum-case-for-two-important-reasons",
+    "mean_score": 0.4346,
+    "vader_score": 0.4692,
+    "textblob_score": 0.4,
+    "first_sentence": "While many aspects of UK political polling have shifted drastically since 2019, the public\u2019s view on Shamima Begum has remained largely fixed: a big majority do not want the now 26-year-old woman back in the UK.",
+    "timestamp": "2026-01-02T17:10:15Z",
+    "source": "The Guardian"
   },
   {
     "headline": "Final reminder: Donate to win swag in our annual Charity Drive sweepstakes",
@@ -20,6 +60,26 @@
     "source": "Ars Technica"
   },
   {
+    "headline": "The secret to a perfect nap: when, where and for how long?",
+    "link": "https://www.theguardian.com/lifeandstyle/2025/dec/19/the-perfect-way-to-nap-when-where-and-for-how-long",
+    "mean_score": 0.3776,
+    "vader_score": 0.5719,
+    "textblob_score": 0.1833,
+    "first_sentence": "Many athletes and professional musicians swear by getting some shut-eye during the day, but what\u2019s the best way to ensure you don\u2019t end up feeling groggy?.",
+    "timestamp": "2026-01-02T16:00:12Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "China's BYD overtakes Tesla as world's top EV seller",
+    "link": "https://www.bbc.com/news/articles/cj9rjwpvmpzo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3512,
+    "vader_score": 0.2023,
+    "textblob_score": 0.5,
+    "first_sentence": "China's BYD has overtaken Elon Musk's Tesla as the world's biggest seller of  electric vehicles (EVs), marking the first time it has outpaced its American rival in annual sales.",
+    "timestamp": "2026-01-02T15:03:38Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Karting champion, 16, aims for F1 top spot",
     "link": "https://www.bbc.com/news/articles/cvg5lzn9y9qo?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.5954,
@@ -27,6 +87,36 @@
     "textblob_score": 0.5,
     "first_sentence": "A teenager from Sheffield has said she aims to become a top F1 driver in the footsteps of the sport's biggest names after being crowned a champion in the sport of karting.",
     "timestamp": "2026-01-02T14:53:32Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Behind the scenes of Brisbane\u2019s 2032 Olympics, a 19th-century story of politics and gay love",
+    "link": "https://www.theguardian.com/australia-news/2026/jan/03/behind-the-scenes-of-brisbanes-2032-olympics-a-19th-century-story-of-politics-and-gay-love",
+    "mean_score": 0.4046,
+    "vader_score": 0.6369,
+    "textblob_score": 0.1722,
+    "first_sentence": "Today the story would be unremarkable: two gay men, migrants from England, give their Queensland home a portmanteau of their last names.",
+    "timestamp": "2026-01-02T14:00:13Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "My mother repeated one Cantonese idiom throughout my life: 'you want beauty, you don\u2019t want life' | Michelle Law",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/jan/03/my-mother-repeated-one-idiom-throughout-my-life-you-want-beauty-you-dont-want-life",
+    "mean_score": 0.3298,
+    "vader_score": 0.6597,
+    "textblob_score": 0.0,
+    "first_sentence": "In news that will delight my enemies, I believe there\u2019s a chance I\u2019ll die young and by accidental means.",
+    "timestamp": "2026-01-02T14:00:11Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Double record-breaking year for UK as 2025 confirmed as warmest and sunniest on record",
+    "link": "https://www.bbc.com/weather/articles/c306gpyll19o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4635,
+    "vader_score": 0.7269,
+    "textblob_score": 0.2,
+    "first_sentence": "The Met Office has confirmed 2025 as the warmest and sunniest on record in the United Kingdom.",
+    "timestamp": "2026-01-02T13:12:19Z",
     "source": "BBC News"
   },
   {
@@ -50,6 +140,16 @@
     "source": "The Guardian"
   },
   {
+    "headline": "\u2018A place of darkness and light\u2019: the uninhabited Japanese island that became a rabbit paradise",
+    "link": "https://www.theguardian.com/world/2026/jan/02/japan-island-rabbit-okunoshima",
+    "mean_score": 0.3469,
+    "vader_score": 0.4939,
+    "textblob_score": 0.2,
+    "first_sentence": "The bunny-ear designs on the window aside, there is little to indicate that the ferry has arrived on an island teeming with rabbits.",
+    "timestamp": "2026-01-02T12:00:10Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Record year for wind and solar electricity in Great Britain in 2025",
     "link": "https://www.bbc.com/news/articles/cz947djd3d3o?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.7125,
@@ -68,6 +168,16 @@
     "first_sentence": "The knock-on effects on systemic health are many: \u201cWe know that shift workers have a higher risk of heart disease, hypertension, obesity, diabetes, stroke, depression, anxiety and some types of cancer.\u201d The World Health Organization has classified shift work as \u201cprobably carcinogenic\u201d.",
     "timestamp": "2026-01-02T11:00:06Z",
     "source": "The Guardian"
+  },
+  {
+    "headline": "Heating tips to keep your home warm when budgets are squeezed",
+    "link": "https://www.bbc.com/news/articles/cd6084l4zx6o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4132,
+    "vader_score": 0.2263,
+    "textblob_score": 0.6,
+    "first_sentence": "Freezing winter temperatures can mean higher bills when keeping your home warm.",
+    "timestamp": "2026-01-02T10:23:28Z",
+    "source": "BBC News"
   },
   {
     "headline": "Sailors saved from going over edge of huge dam",
@@ -90,6 +200,16 @@
     "source": "BBC News"
   },
   {
+    "headline": "Chess: Magnus Carlsen wins two more world speed crowns despite mishaps",
+    "link": "https://www.theguardian.com/sport/2026/jan/02/chess-magnus-carlsen-wins-two-more-world-speed-crowns-despite-mishaps",
+    "mean_score": 0.4859,
+    "vader_score": 0.5719,
+    "textblob_score": 0.4,
+    "first_sentence": "The world No 1, Magnus Carlsen, recovered from a series of mishaps to win both the World Rapid and Blitz crowns at Doha, Qatar, last weekend.",
+    "timestamp": "2026-01-02T08:00:02Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Blank Canvas by Grace Murray review \u2013 a superb debut from a 22-year-old author",
     "link": "https://www.theguardian.com/books/2026/jan/02/blank-canvas-by-grace-murray-review-a-superb-debut-from-a-22-year-old-author",
     "mean_score": 0.6422,
@@ -97,6 +217,26 @@
     "textblob_score": 0.5,
     "first_sentence": "Lies offend our sense of justice: generally, we want to see the liar unmasked and punished.",
     "timestamp": "2026-01-02T07:00:02Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Benjamina Ebuehi\u2019s recipe for yoghurt panna cotta with banana and tahini crumble | The sweet spot",
+    "link": "https://www.theguardian.com/food/2026/jan/02/yoghurt-panna-cotta-recipe-banana-and-tahini-crumble-benjamina-ebuehi",
+    "mean_score": 0.4044,
+    "vader_score": 0.4588,
+    "textblob_score": 0.35,
+    "first_sentence": "I\u2019m of the opinion that we still need dessert in January.",
+    "timestamp": "2026-01-02T06:00:00Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "\u2018I don\u2019t want to resent the thing I love\u2019: Paul Mescal and Josh O\u2019Connor on romance, rationing and retirement",
+    "link": "https://www.theguardian.com/film/2026/jan/02/i-dont-want-to-resent-the-thing-i-love-paul-mescal-and-josh-oconnor-on-romance-rationing-and-retirement",
+    "mean_score": 0.497,
+    "vader_score": 0.4939,
+    "textblob_score": 0.5,
+    "first_sentence": "All things considered, telling Paul Mescal I once placed a bet on him is not quite the icebreaker I had hoped.",
+    "timestamp": "2026-01-02T05:00:00Z",
     "source": "The Guardian"
   },
   {
@@ -108,6 +248,16 @@
     "first_sentence": "Larissa Hope truly believes that psilocybin, the active ingredient in magic mushrooms, saved her life.",
     "timestamp": "2026-01-02T00:03:20Z",
     "source": "BBC News"
+  },
+  {
+    "headline": "Crowd chants 'tax the rich' as Zohran Mamdani sworn in as first Muslim mayor of New York",
+    "link": "https://www.sbs.com.au/news/article/zohran-mamdani-sworn-in-as-first-muslim-mayor-of-new-york-city/rtjkk17n9",
+    "mean_score": 0.4056,
+    "vader_score": 0.5574,
+    "textblob_score": 0.2538,
+    "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+    "timestamp": "2026-01-01T23:20:13Z",
+    "source": "SBS News"
   },
   {
     "headline": "Khawaja's on-field brilliance pales in comparison to his true impact",
@@ -170,6 +320,26 @@
     "source": "The Guardian"
   },
   {
+    "headline": "They tried to smear him as an antisemite \u2013 but Mayor Zohran Mamdani walks in a rich Jewish tradition | Molly Crabapple",
+    "link": "https://www.theguardian.com/commentisfree/2026/jan/01/zohran-mamdani-new-york-mayor-antisemitism",
+    "mean_score": 0.4093,
+    "vader_score": 0.631,
+    "textblob_score": 0.1875,
+    "first_sentence": "Billionaires raised fortunes against him.",
+    "timestamp": "2026-01-01T13:00:39Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "January isn\u2019t for reinvention \u2013 it\u2019s for dishes we know by heart",
+    "link": "https://www.theguardian.com/food/2025/dec/30/january-isnt-for-reinvention-its-for-dishes-we-know-by-heart",
+    "mean_score": 0.3185,
+    "vader_score": 0.6369,
+    "textblob_score": 0.0,
+    "first_sentence": "Our friend Bridget is serious about Christmas, and she does it spectacularly: come 1 December, her tree will be up, beautifully lit and decorated, her nearest and dearest (us included, thankfully) will get their bespoke Advent calendar (this year it was a cheesy one for me and a puzzle for Sarit \u2013 perfect) and a month of fun activities will ensue, culminating in a magnificent day.",
+    "timestamp": "2026-01-01T12:30:39Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Film Technica: Our top picks for the best films of 2025",
     "link": "https://arstechnica.com/culture/2026/01/film-technica-our-top-picks-for-the-best-films-of-2025/",
     "mean_score": 0.7342,
@@ -178,6 +348,16 @@
     "first_sentence": "Streamers made a strong showing this year, as did horror.",
     "timestamp": "2026-01-01T12:00:40Z",
     "source": "Ars Technica"
+  },
+  {
+    "headline": "Dry Cleaning: Secret Love review | Alexis Petridis's album of the week",
+    "link": "https://www.theguardian.com/music/2026/jan/01/dry-cleaning-secret-love-review",
+    "mean_score": 0.324,
+    "vader_score": 0.6369,
+    "textblob_score": 0.0111,
+    "first_sentence": "Dry Cleaning\u2019s third album features a lot of strikingly odd lyrics.",
+    "timestamp": "2026-01-01T12:00:37Z",
+    "source": "The Guardian"
   },
   {
     "headline": "Veganuary can be a piece of cake: cooks and dieticians share 12 ways to make delicious plant-based food",
@@ -200,6 +380,26 @@
     "source": "The Guardian"
   },
   {
+    "headline": "How to make your strength building goals and stick to them in the new year",
+    "link": "https://www.npr.org/2026/01/01/nx-s1-5644923/how-to-make-your-strength-building-goals-and-stick-to-them-in-the-new-year",
+    "mean_score": 0.3151,
+    "vader_score": 0.4939,
+    "textblob_score": 0.1364,
+    "first_sentence": "Is building strength your New Year's resolution? Here's how to assess strength, come up with goals, start an effective bodyweight routine and stick with it.",
+    "timestamp": "2026-01-01T09:49:58Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "Sir David Attenborough explores the surprising wildlife of London",
+    "link": "https://www.bbc.co.uk/iplayer/episode/m002hzg7?at_mid=UpOeB35B7u&at_campaign=Wild_London&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002hzg7&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Wild_London&at_bbc_team=BBC",
+    "mean_score": 0.4866,
+    "vader_score": 0.2732,
+    "textblob_score": 0.7,
+    "first_sentence": "Sir David Attenborough explores the surprising wildlife of his hometown \u2013 London.",
+    "timestamp": "2026-01-01T06:00:00Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "The best pictures from around the world as 2026 begins",
     "link": "https://www.bbc.com/news/articles/c050j896q2do?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.8185,
@@ -207,6 +407,16 @@
     "textblob_score": 1.0,
     "first_sentence": "The island of Kiritimati - an atoll in the remote Pacific nation of Kiribati - was the first place to enter 2026.",
     "timestamp": "2026-01-01T05:48:26Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Zelensky says peace deal is 90% ready in New Year address",
+    "link": "https://www.bbc.com/news/articles/cddg7100ym2o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4433,
+    "vader_score": 0.7184,
+    "textblob_score": 0.1682,
+    "first_sentence": "Ukrainian President Volodymyr Zelensky has said a peace agreement to end the war with Russia is \"90% ready\", in a New Year address that largely focused on resistance to Moscow's full-scale invasion.",
+    "timestamp": "2026-01-01T05:22:01Z",
     "source": "BBC News"
   },
   {
@@ -218,6 +428,16 @@
     "first_sentence": "Sir Tim Smit says the world is in a better place than it was when he co-founded the Eden Project 25 years ago and he believes people are more attuned to the natural world.",
     "timestamp": "2026-01-01T05:00:30Z",
     "source": "The Guardian"
+  },
+  {
+    "headline": "'Weak agreements only fuel the war': Zelenskyy says Ukraine ready for a 'strong peace'",
+    "link": "https://www.sbs.com.au/news/article/weak-agreements-only-fuel-the-war-zelenskyy-says-ukraine-ready-for-a-strong-peace/iucd72x2m",
+    "mean_score": 0.311,
+    "vader_score": 0.5574,
+    "textblob_score": 0.0646,
+    "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+    "timestamp": "2026-01-01T02:57:25Z",
+    "source": "SBS News"
   },
   {
     "headline": "What\u2019s the best path to take in 2026? | Fiona Katauskas",
@@ -238,6 +458,16 @@
     "first_sentence": "\u2018It\u2019s nice to have a night out that doesn\u2019t revolve around drinking,\u201d says the person next to me as we put the finishing touches to our lino prints of pomegranates, wintry trees, the anime character Totoro (mine) and a martini-drinking cat, which we\u2019ve spent our Friday evenings crafting.",
     "timestamp": "2025-12-31T16:00:13Z",
     "source": "The Guardian"
+  },
+  {
+    "headline": "Watch: Stunning celestial events that lit up the skies in 2025",
+    "link": "https://www.bbc.com/news/videos/c8xdw7j2v2go?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4409,
+    "vader_score": 0.3818,
+    "textblob_score": 0.5,
+    "first_sentence": "From meteor showers to supermoons, many stunning celestial events have been captured on camera over the past year.",
+    "timestamp": "2025-12-31T15:33:33Z",
+    "source": "BBC News"
   },
   {
     "headline": "The best cross trainers for a low-impact workout at home, tested",
@@ -430,6 +660,36 @@
     "source": "The Guardian"
   },
   {
+    "headline": "Arc Raiders review \u2013 pure multiplayer pleasure",
+    "link": "https://www.theguardian.com/games/2025/dec/29/arc-raiders-review-pure-multiplayer-pleasure",
+    "mean_score": 0.3931,
+    "vader_score": 0.5719,
+    "textblob_score": 0.2143,
+    "first_sentence": "Arc Raiders is an extraction shooter from Embark Studios \u2013 so, a game where you deploy into a map full of other players and do as much shooting and looting as you can before making an escape.",
+    "timestamp": "2025-12-29T10:00:33Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Georgina Hayden\u2019s quick and easy recipe for pimento cheese and pickle loaded crisps | Quick and easy",
+    "link": "https://www.theguardian.com/food/2025/dec/29/quick-and-easy-pimento-cheese-pickle-loaded-crisps-recipe-georgina-hayden",
+    "mean_score": 0.5418,
+    "vader_score": 0.7003,
+    "textblob_score": 0.3833,
+    "first_sentence": "Pimento cheese, a much-loved American spread, has been a permanent fixture in my kitchen this month.",
+    "timestamp": "2025-12-29T06:00:27Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Why 2026 looks bright for Northern Light sightings",
+    "link": "https://www.bbc.com/weather/articles/ce8nz3m3k10o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4952,
+    "vader_score": 0.4404,
+    "textblob_score": 0.55,
+    "first_sentence": "In 2026, there is a good chance that the vivid purples, reds and greens of the Northern Lights will be visible in skies across the  UK.",
+    "timestamp": "2025-12-29T00:58:10Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Could AI relationships actually be good for us?",
     "link": "https://www.theguardian.com/books/2025/dec/28/could-ai-relationships-actually-be-good-for-us",
     "mean_score": 0.5702,
@@ -450,6 +710,26 @@
     "source": "The Guardian"
   },
   {
+    "headline": "Conservative and Christian? US right champions psychedelic drugs",
+    "link": "https://www.theguardian.com/us-news/2025/dec/26/us-right-champions-psychedelic-drugs",
+    "mean_score": 0.3348,
+    "vader_score": 0.5267,
+    "textblob_score": 0.1429,
+    "first_sentence": "For half a century, psychedelics largely belonged to the cultural left: anti-war, anti-capitalist, suspicious of the church and state.",
+    "timestamp": "2025-12-26T13:00:10Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "The secrets of the body clock: how to tune into your natural rhythms \u2013 and have a better day",
+    "link": "https://www.theguardian.com/lifeandstyle/2025/dec/26/secrets-body-clock-natural-rhythms-better-day",
+    "mean_score": 0.4798,
+    "vader_score": 0.6597,
+    "textblob_score": 0.3,
+    "first_sentence": "It\u2019s easy to hate clocks.",
+    "timestamp": "2025-12-26T11:00:08Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Meet the Twixmas jumper \u2013 the perfect knit for right now | Jess Cartner-Morley",
     "link": "https://www.theguardian.com/fashion/2025/dec/26/jess-cartner-morley-on-fashion-twixmas-jumper-knit",
     "mean_score": 0.6074,
@@ -457,6 +737,16 @@
     "textblob_score": 0.6429,
     "first_sentence": "The Guardian\u2019s journalism is independent.",
     "timestamp": "2025-12-26T07:00:04Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Helen Goh\u2019s recipe for an espresso martini pavlova bar | The sweet spot",
+    "link": "https://www.theguardian.com/food/2025/dec/26/espresso-martini-pavlova-bar-new-years-eve-recipes-helen-goh",
+    "mean_score": 0.4044,
+    "vader_score": 0.4588,
+    "textblob_score": 0.35,
+    "first_sentence": "Your favourite cocktail is now a DIY pavlova party! Pile crisp coffee meringues high with espresso cream, boozy cherries, a drizzle of whisky caramel and a flicker of edible gold leaf, then shake, spoon and sparkle your way into the New Year.",
+    "timestamp": "2025-12-26T06:00:03Z",
     "source": "The Guardian"
   },
   {
@@ -477,6 +767,36 @@
     "textblob_score": 0.7,
     "first_sentence": "The problem\n Coffee lovers often wonder if waste from their morning habit can feed their plants.",
     "timestamp": "2025-12-23T10:00:53Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "The showers and baths keeping data centre tech cool",
+    "link": "https://www.bbc.com/news/articles/cp8zd176516o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3341,
+    "vader_score": 0.3182,
+    "textblob_score": 0.35,
+    "first_sentence": "They work 24/7 at high speeds and get searingly hot - but data centre computer chips get plenty of pampering.",
+    "timestamp": "2025-12-23T00:04:45Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Did you solve it? Are you ready for twenty twenty-six\u2026seven?",
+    "link": "https://www.theguardian.com/science/2025/dec/22/did-you-solve-it-are-you-ready-for-twenty-twenty-sixseven",
+    "mean_score": 0.3831,
+    "vader_score": 0.5661,
+    "textblob_score": 0.2,
+    "first_sentence": "Earlier today I set you the following set of numerical challenges to celebrate the arrival of 2026.",
+    "timestamp": "2025-12-22T17:00:32Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Can you solve it? Are you ready for twenty twenty-six\u2026seven?",
+    "link": "https://www.theguardian.com/science/2025/dec/22/can-you-solve-it-are-you-ready-for-twenty-twenty-sixseven",
+    "mean_score": 0.3831,
+    "vader_score": 0.5661,
+    "textblob_score": 0.2,
+    "first_sentence": "As we say goodbye to 2025, let\u2019s delight in its numerical charms one final time.",
+    "timestamp": "2025-12-22T07:10:20Z",
     "source": "The Guardian"
   },
   {
@@ -520,6 +840,16 @@
     "source": "Ars Technica"
   },
   {
+    "headline": "Facebook tests \u00a39.99 monthly subscription for sharing more than two links",
+    "link": "https://www.bbc.com/news/articles/cp9kv3lezgro?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4607,
+    "vader_score": 0.4215,
+    "textblob_score": 0.5,
+    "first_sentence": "Facebook is testing placing a limit on how many links some users can share when they post on the social media platform.",
+    "timestamp": "2025-12-18T12:13:14Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "How to become a good and thoughtful gift-giver",
     "link": "https://www.theguardian.com/wellness/2025/dec/17/how-to-become-a-good-gift-giver",
     "mean_score": 0.6102,
@@ -560,6 +890,16 @@
     "source": "Ars Technica"
   },
   {
+    "headline": "'It's amazing' \u2013 the wonder material very few can make",
+    "link": "https://www.bbc.com/news/articles/c24l223d9n7o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.378,
+    "vader_score": 0.5859,
+    "textblob_score": 0.17,
+    "first_sentence": "Lying on your back in a big hospital scanner, as still as you can, with your arms above your head \u2013 for 45 minutes.",
+    "timestamp": "2025-12-12T00:03:10Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Win hardware, collectibles, and more in the 2025 Ars Technica Charity Drive",
     "link": "https://arstechnica.com/gaming/2025/12/win-hardware-collectibles-and-more-in-the-2025-ars-technica-charity-drive/",
     "mean_score": 0.7075,
@@ -590,6 +930,66 @@
     "source": "The Guardian"
   },
   {
+    "headline": "Young women call for better health education",
+    "link": "https://www.bbc.com/news/videos/c8e9610gwj1o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3702,
+    "vader_score": 0.4404,
+    "textblob_score": 0.3,
+    "first_sentence": "Young women have spoken about the issues faced by a lack of education in schools on health matters.",
+    "timestamp": "2025-12-04T06:24:28Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Australia could miss clean energy target as solar and wind investment slumps, investors warn",
+    "link": "https://www.theguardian.com/environment/2025/dec/01/australia-could-miss-clean-energy-target-as-solar-and-wind-investment-slumps-investors-warn",
+    "mean_score": 0.3941,
+    "vader_score": 0.4215,
+    "textblob_score": 0.3667,
+    "first_sentence": "Renewable energy investors have warned \u201cdeep structural issues\u201d are driving a slump in solar and wind investment in Australia, with commitments on large-scale farms at the lowest level in almost a decade.",
+    "timestamp": "2025-12-01T08:22:30Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Labor\u2019s nature law overhaul contains wins \u2013 but we should watch for gremlins in the details | Adam Morton",
+    "link": "https://www.theguardian.com/australia-news/commentisfree/2025/nov/27/labor-nature-law-overhaul-epbc-act-changes-details",
+    "mean_score": 0.3145,
+    "vader_score": 0.3291,
+    "textblob_score": 0.3,
+    "first_sentence": "We should start at the beginning in assessing the Labor-Greens deal to revamp Australia\u2019s national environment law.",
+    "timestamp": "2025-11-27T06:29:36Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "The rewriting of Australia\u2019s nature laws comes as a relief, yet I can\u2019t help feel a sense of foreboding | Georgina Woods",
+    "link": "https://www.theguardian.com/commentisfree/2025/nov/27/australia-nature-laws-environment-relief-yet-foreboding",
+    "mean_score": 0.3502,
+    "vader_score": 0.7003,
+    "textblob_score": 0.0,
+    "first_sentence": "I got a text from a biodiversity advocate around midday on Thursday asking me: are you glad, or sad?.",
+    "timestamp": "2025-11-27T03:44:24Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Watch Jeff Bezos's successful Blue Origin rocket launch \u2013 video",
+    "link": "https://www.theguardian.com/science/video/2025/nov/14/watch-jeff-bezoss-successful-blue-origin-rocket-launch-video",
+    "mean_score": 0.4804,
+    "vader_score": 0.5859,
+    "textblob_score": 0.375,
+    "first_sentence": "Blue Origin successfully launches its huge New Glenn rocket on Thursday with a pair of Nasa spacecraft destined for Mars.",
+    "timestamp": "2025-11-14T06:21:35Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Fire-blocking chemicals promise safer buildings",
+    "link": "https://www.bbc.com/news/articles/ckgkee0pw4ko?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3125,
+    "vader_score": 0.6249,
+    "textblob_score": 0.0,
+    "first_sentence": "I'm peering into a large vat containing a perfectly clear liquid \u2013 a special kind of flame retardant for wood products.",
+    "timestamp": "2025-11-07T00:13:36Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "From St Basil\u2019s to Bondi: the brilliant \u2018beaver\u2019 supermoon \u2013 in pictures",
     "link": "https://www.theguardian.com/science/gallery/2025/nov/06/november-beaver-supermoon-in-pictures",
     "mean_score": 0.7429,
@@ -597,6 +997,16 @@
     "textblob_score": 0.9,
     "first_sentence": "The largest supermoon of the year, the so-called \u2018beaver\u2019 moon on Wednesday 4 November, was the biggest and brightest of 2025, just 357,000km from EarthWatch November\u2019s \u2018beaver\u2019 supermoon rising over Sydney\u2019s Bondi beach \u2013 videoGlowing September supermoon lights up the sky \u2013 in pictures Continue reading.",
     "timestamp": "2025-11-06T05:00:48Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Oakley Meta Vanguard review: fantastic AI running glasses linked to Garmin",
+    "link": "https://www.theguardian.com/technology/2025/nov/03/oakley-meta-vanguard-review-fantastic-ai-running-glasses-linked-to-garmin",
+    "mean_score": 0.4787,
+    "vader_score": 0.5574,
+    "textblob_score": 0.4,
+    "first_sentence": "The Guardian\u2019s journalism is independent.",
+    "timestamp": "2025-11-03T07:00:26Z",
     "source": "The Guardian"
   },
   {
@@ -630,6 +1040,26 @@
     "source": "BBC News"
   },
   {
+    "headline": "'Getting financial help through my GP has improved my health'",
+    "link": "https://www.bbc.com/news/articles/c0rpq9y2gq0o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3502,
+    "vader_score": 0.7003,
+    "textblob_score": 0.0,
+    "first_sentence": "GP surgeries in south London are giving financial advice to help patients manage debt and handle benefits claims - and the results are striking.",
+    "timestamp": "2025-10-24T05:16:27Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Boris Johnson left Inquiry in a hurry - he'll be pleased not to come back",
+    "link": "https://www.bbc.com/news/articles/cj6nennz0nyo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3035,
+    "vader_score": 0.4404,
+    "textblob_score": 0.1667,
+    "first_sentence": "Papers in hand, Boris Johnson arrived at the Covid Inquiry before the sun came up.",
+    "timestamp": "2025-10-21T16:49:01Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Pictured: Winning entries for Wildlife Photographer of the Year 2025",
     "link": "https://www.bbc.com/news/articles/cx253vrd931o?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.5133,
@@ -640,6 +1070,56 @@
     "source": "BBC News"
   },
   {
+    "headline": "Green turtle bounces back from brink in conservation 'win'",
+    "link": "https://www.bbc.com/news/articles/cg426qqqqnro?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.393,
+    "vader_score": 0.5859,
+    "textblob_score": 0.2,
+    "first_sentence": "The green turtle has been rescued from the brink of extinction in what scientists are calling a major conservation victory.",
+    "timestamp": "2025-10-10T08:01:28Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Environment prize nominees 'heroes of our time', says William",
+    "link": "https://www.bbc.com/news/articles/cz08591znr8o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3825,
+    "vader_score": 0.765,
+    "textblob_score": 0.0,
+    "first_sentence": "The Prince of Wales has described those in the running for his environmental Earthshot prize as \"heroes of our time\".",
+    "timestamp": "2025-10-04T21:04:44Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Is the most expensive lip balm always the best?",
+    "link": "https://www.bbc.co.uk/bitesize/articles/zswkfdm?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4851,
+    "vader_score": 0.6369,
+    "textblob_score": 0.3333,
+    "first_sentence": "Lip care is big business in the UK, worth an estimated \u00a380m and promoted by celebs like Charli XCX.",
+    "timestamp": "2025-07-08T13:38:36Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Sign up for the Afternoon Update newsletter, a free daily news email from Guardian Australia",
+    "link": "https://www.theguardian.com/australia-news/2022/oct/13/afternoon-update-newsletter-best-daily-news-email-guardian-australia-free-sign-up",
+    "mean_score": 0.3553,
+    "vader_score": 0.5106,
+    "textblob_score": 0.2,
+    "first_sentence": "Finish your day with this three-minute snapshot of the day\u2019s main news, straight to your inbox.",
+    "timestamp": "2022-10-13T02:25:43Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Sign up for the Morning Mail newsletter, a free daily news email from Guardian Australia",
+    "link": "https://www.theguardian.com/australia-news/2022/sep/23/morning-mail-newsletter-best-daily-news-email-guardian-australia-free-sign-up-inbox-subscribe",
+    "mean_score": 0.3553,
+    "vader_score": 0.5106,
+    "textblob_score": 0.2,
+    "first_sentence": "Start your day with this curated news roundup, straight to your email inbox.",
+    "timestamp": "2022-09-25T11:56:29Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Sign up for Five Great Reads, Guardian Australia\u2019s email newsletter of the week\u2019s best stories",
     "link": "https://www.theguardian.com/australia-news/2021/dec/21/sign-up-for-five-great-reads-guardian-australias-wrap-of-our-best-summer-stories",
     "mean_score": 0.876,
@@ -647,6 +1127,16 @@
     "textblob_score": 0.9,
     "first_sentence": "We do the heavy lifting for you and find five of the most interesting, entertaining, and thoughtful reads.",
     "timestamp": "2021-12-21T02:02:08Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "'Enormous opportunity': how Australia could become the Saudi Arabia of renewable energy",
+    "link": "https://www.theguardian.com/australia-news/2020/aug/27/enormous-opportunity-how-australia-could-becomehe-saudi-arabia-of-renewable-energy",
+    "mean_score": 0.318,
+    "vader_score": 0.6361,
+    "textblob_score": 0.0,
+    "first_sentence": "Brandon Bickford is only in town for the weekend.",
+    "timestamp": "2020-08-26T17:30:31Z",
     "source": "The Guardian"
   }
 ]
