@@ -1690,3 +1690,36 @@
 2026-01-02 14:04:13,296 - INFO - Checking feed: https://feeds.npr.org/1007/rss.xml
 2026-01-02 14:04:13,382 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
 2026-01-02 14:04:13,493 - INFO - Saved 66 stories to docs/good_news.json.
+2026-01-02 15:04:30,278 - INFO - Starting Ramah News Fetcher
+2026-01-02 15:04:30,287 - INFO - Checking feed: http://feeds.bbci.co.uk/news/rss.xml
+2026-01-02 15:04:30,672 - INFO - Found good news: Sailors saved from going over edge of huge dam (Mean Score: 0.5125, VADER: 0.6249, TextBlob: 0.4000)
+2026-01-02 15:04:31,313 - INFO - Found good news: 'Good idea' or taking 'massive chance' - is Rosenior ready for Chelsea? (Mean Score: 0.5253, VADER: 0.7506, TextBlob: 0.3000)
+2026-01-02 15:04:31,406 - INFO - Checking feed: http://feeds.bbci.co.uk/news/world/rss.xml
+2026-01-02 15:04:31,519 - INFO - Checking feed: http://feeds.bbci.co.uk/news/uk/rss.xml
+2026-01-02 15:04:31,917 - INFO - Checking feed: http://feeds.bbci.co.uk/news/business/rss.xml
+2026-01-02 15:04:32,265 - INFO - Checking feed: http://feeds.bbci.co.uk/news/technology/rss.xml
+2026-01-02 15:04:32,565 - INFO - Checking feed: http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+2026-01-02 15:04:32,708 - INFO - Checking feed: http://feeds.bbci.co.uk/news/health/rss.xml
+2026-01-02 15:04:32,829 - INFO - Checking feed: http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+2026-01-02 15:04:33,217 - INFO - Checking feed: https://www.abc.net.au/news/feed/45910/rss.xml
+2026-01-02 15:04:33,501 - INFO - Checking feed: https://www.abc.net.au/news/feed/51120/rss.xml
+2026-01-02 15:04:33,744 - INFO - Checking feed: https://www.theguardian.com/world/rss
+2026-01-02 15:04:33,878 - INFO - Checking feed: https://www.theguardian.com/au/rss
+2026-01-02 15:04:34,266 - INFO - Checking feed: https://www.theguardian.com/environment/rss
+2026-01-02 15:04:34,501 - INFO - Checking feed: https://www.theguardian.com/science/rss
+2026-01-02 15:04:34,588 - INFO - Checking feed: https://www.theguardian.com/uk/technology/rss
+2026-01-02 15:04:34,663 - INFO - Checking feed: https://www.theguardian.com/lifeandstyle/rss
+2026-01-02 15:04:34,942 - INFO - Checking feed: https://www.sbs.com.au/news/feed
+2026-01-02 15:04:35,430 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/index
+2026-01-02 15:04:35,532 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/science
+2026-01-02 15:04:35,623 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/tech-policy
+2026-01-02 15:04:35,725 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/gaming
+2026-01-02 15:04:35,949 - INFO - Checking feed: https://feedx.net/rss/ap.xml
+2026-01-02 15:04:36,402 - INFO - Checking feed: https://feeds.npr.org/1001/rss.xml
+2026-01-02 15:04:36,628 - INFO - Checking feed: https://feeds.npr.org/1004/rss.xml
+2026-01-02 15:04:36,681 - INFO - Checking feed: https://feeds.npr.org/1014/rss.xml
+2026-01-02 15:04:36,750 - INFO - Checking feed: https://feeds.npr.org/1019/rss.xml
+2026-01-02 15:04:36,816 - INFO - Checking feed: https://feeds.npr.org/1017/rss.xml
+2026-01-02 15:04:36,867 - INFO - Checking feed: https://feeds.npr.org/1007/rss.xml
+2026-01-02 15:04:36,921 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
+2026-01-02 15:04:36,975 - INFO - Saved 68 stories to docs/good_news.json.

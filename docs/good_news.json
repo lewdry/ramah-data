@@ -1,5 +1,15 @@
 [
   {
+    "headline": "'Good idea' or taking 'massive chance' - is Rosenior ready for Chelsea?",
+    "link": "https://www.bbc.com/sport/football/articles/c1503xx5vj4o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.5253,
+    "vader_score": 0.7506,
+    "textblob_score": 0.3,
+    "first_sentence": "Liam Rosenior is the leading contender to be the new Chelsea manager - just 18 months after being sacked by Championship side Hull City - so why is he favourite, and would appointing him be a good decision?.",
+    "timestamp": "2026-01-02T14:13:51Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Cocktail of the week: the Kirkstyle Inn\u2019s beetroot and sumac shrub \u2013 recipe | The good mixer",
     "link": "https://www.theguardian.com/food/2026/jan/02/cocktail-of-the-week-beetroot-sumac-shrub-mocktail-recipe-kirkstyle-inn",
     "mean_score": 0.5702,
@@ -38,6 +48,16 @@
     "first_sentence": "The knock-on effects on systemic health are many: \u201cWe know that shift workers have a higher risk of heart disease, hypertension, obesity, diabetes, stroke, depression, anxiety and some types of cancer.\u201d The World Health Organization has classified shift work as \u201cprobably carcinogenic\u201d.",
     "timestamp": "2026-01-02T11:00:06Z",
     "source": "The Guardian"
+  },
+  {
+    "headline": "Sailors saved from going over edge of huge dam",
+    "link": "https://www.bbc.com/news/videos/cj6wew4958eo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.5125,
+    "vader_score": 0.6249,
+    "textblob_score": 0.4,
+    "first_sentence": "Footage shows captured the moment four men were pulled to safety, after spending hours dangling off the edge of a 40m (130ft) dam in South Africa.",
+    "timestamp": "2026-01-02T09:20:10Z",
+    "source": "BBC News"
   },
   {
     "headline": "'Paul was fun' - Remembering snooker's lost great 20 years on",
