@@ -1995,3 +1995,37 @@
 2026-01-03 09:02:26,461 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
 2026-01-03 09:02:28,071 - INFO - Found good news: How to make your strength building goals and stick to them in the new year (Mean Score: 0.3151, VADER: 0.4939, TextBlob: 0.1364)
 2026-01-03 09:02:28,935 - INFO - Saved 114 stories to docs/good_news.json.
+2026-01-02 22:03:59,105 - INFO - Starting Ramah News Fetcher
+2026-01-02 22:03:59,115 - INFO - Checking feed: http://feeds.bbci.co.uk/news/rss.xml
+2026-01-02 22:03:59,283 - INFO - Checking feed: http://feeds.bbci.co.uk/news/world/rss.xml
+2026-01-02 22:03:59,398 - INFO - Checking feed: http://feeds.bbci.co.uk/news/uk/rss.xml
+2026-01-02 22:03:59,544 - INFO - Checking feed: http://feeds.bbci.co.uk/news/business/rss.xml
+2026-01-02 22:03:59,909 - INFO - Checking feed: http://feeds.bbci.co.uk/news/technology/rss.xml
+2026-01-02 22:04:00,403 - INFO - Checking feed: http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+2026-01-02 22:04:00,879 - INFO - Checking feed: http://feeds.bbci.co.uk/news/health/rss.xml
+2026-01-02 22:04:01,256 - INFO - Checking feed: http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+2026-01-02 22:04:01,767 - INFO - Checking feed: https://www.abc.net.au/news/feed/45910/rss.xml
+2026-01-02 22:04:02,191 - INFO - Checking feed: https://www.abc.net.au/news/feed/51120/rss.xml
+2026-01-02 22:04:02,449 - INFO - Checking feed: https://www.theguardian.com/world/rss
+2026-01-02 22:04:02,632 - INFO - Checking feed: https://www.theguardian.com/au/rss
+2026-01-02 22:04:02,858 - INFO - Checking feed: https://www.theguardian.com/environment/rss
+2026-01-02 22:04:02,954 - INFO - Found good news: ‘Soil is more important than oil’: inside the perennial grain revolution (Mean Score: 0.3608, VADER: 0.2716, TextBlob: 0.4500)
+2026-01-02 22:04:03,210 - INFO - Checking feed: https://www.theguardian.com/science/rss
+2026-01-02 22:04:03,298 - INFO - Checking feed: https://www.theguardian.com/uk/technology/rss
+2026-01-02 22:04:03,376 - INFO - Checking feed: https://www.theguardian.com/lifeandstyle/rss
+2026-01-02 22:04:03,502 - INFO - Found good news: In a reading rut? How to get back into reading for fun (Mean Score: 0.3303, VADER: 0.5106, TextBlob: 0.1500)
+2026-01-02 22:04:03,716 - INFO - Found good news: Fly around or make out with your crush: how to start lucid dreaming (Mean Score: 0.3235, VADER: -0.1531, TextBlob: 0.8000)
+2026-01-02 22:04:03,935 - INFO - Checking feed: https://www.sbs.com.au/news/feed
+2026-01-02 22:04:04,379 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/index
+2026-01-02 22:04:04,481 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/science
+2026-01-02 22:04:04,710 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/tech-policy
+2026-01-02 22:04:04,783 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/gaming
+2026-01-02 22:04:04,882 - INFO - Checking feed: https://feedx.net/rss/ap.xml
+2026-01-02 22:04:05,254 - INFO - Checking feed: https://feeds.npr.org/1001/rss.xml
+2026-01-02 22:04:05,339 - INFO - Checking feed: https://feeds.npr.org/1004/rss.xml
+2026-01-02 22:04:05,414 - INFO - Checking feed: https://feeds.npr.org/1014/rss.xml
+2026-01-02 22:04:05,493 - INFO - Checking feed: https://feeds.npr.org/1019/rss.xml
+2026-01-02 22:04:05,587 - INFO - Checking feed: https://feeds.npr.org/1017/rss.xml
+2026-01-02 22:04:06,786 - INFO - Checking feed: https://feeds.npr.org/1007/rss.xml
+2026-01-02 22:04:06,879 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
+2026-01-02 22:04:06,954 - INFO - Saved 117 stories to docs/good_news.json.
