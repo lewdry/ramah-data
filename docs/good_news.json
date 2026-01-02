@@ -890,6 +890,16 @@
     "source": "Ars Technica"
   },
   {
+    "headline": "\u2018Soil is more important than oil\u2019: inside the perennial grain revolution",
+    "link": "https://www.theguardian.com/environment/2025/dec/12/soil-is-more-important-than-oil-inside-the-perennial-grain-revolution",
+    "mean_score": 0.3608,
+    "vader_score": 0.2716,
+    "textblob_score": 0.45,
+    "first_sentence": "On the concrete floor of a greenhouse in rural Kansas stands a neat grid of 100 plastic plant pots, each holding a straggly crown of strappy, grass-like leaves.",
+    "timestamp": "2025-12-12T12:00:05Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "'It's amazing' \u2013 the wonder material very few can make",
     "link": "https://www.bbc.com/news/articles/c24l223d9n7o?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.378,
@@ -967,6 +977,16 @@
     "textblob_score": 0.0,
     "first_sentence": "I got a text from a biodiversity advocate around midday on Thursday asking me: are you glad, or sad?.",
     "timestamp": "2025-11-27T03:44:24Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "In a reading rut? How to get back into reading for fun",
+    "link": "https://www.theguardian.com/wellness/2025/nov/17/how-to-start-reading-fun",
+    "mean_score": 0.3303,
+    "vader_score": 0.5106,
+    "textblob_score": 0.15,
+    "first_sentence": "Most of us read all day \u2013 texts, emails, menus, utility bills, social media captions and news stories.",
+    "timestamp": "2025-11-17T17:00:09Z",
     "source": "The Guardian"
   },
   {
@@ -1058,6 +1078,16 @@
     "first_sentence": "Papers in hand, Boris Johnson arrived at the Covid Inquiry before the sun came up.",
     "timestamp": "2025-10-21T16:49:01Z",
     "source": "BBC News"
+  },
+  {
+    "headline": "Fly around or make out with your crush: how to start lucid dreaming",
+    "link": "https://www.theguardian.com/wellness/2025/oct/20/how-to-start-lucid-dreaming",
+    "mean_score": 0.3235,
+    "vader_score": -0.1531,
+    "textblob_score": 0.8,
+    "first_sentence": "Usually, we don\u2019t have much say in what we dream about.",
+    "timestamp": "2025-10-20T16:00:17Z",
+    "source": "The Guardian"
   },
   {
     "headline": "Pictured: Winning entries for Wildlife Photographer of the Year 2025",
