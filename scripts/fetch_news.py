@@ -73,7 +73,7 @@ SOURCE_MAP = {
 }
 
 SENTIMENT_THRESHOLD = 0.3
-BLOCK_LIST = ["kill", "bomb", "murder", "rampage", "fatal", "trump", "ICE", "banning", "cricket", "ashes", "soccer"]
+BLOCK_LIST = ["kill", "bomb", "murder", "rampage", "fatal", "trump", "ICE", "banning", "cricket", "ashes", "soccer", "sign up"]
 # Substrings of feed URLs or article links to block entirely (skip fetching)
 URL_BLOCKLIST = [
     'bbc.com/sport',
