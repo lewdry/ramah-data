@@ -1249,3 +1249,34 @@
 2026-01-02 00:15:44,373 - INFO - Checking feed: https://feeds.npr.org/1007/rss.xml
 2026-01-02 00:15:44,447 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
 2026-01-02 00:15:44,530 - INFO - Saved 59 stories to docs/good_news.json.
+2026-01-02 01:32:22,583 - INFO - Starting Ramah News Fetcher
+2026-01-02 01:32:22,595 - INFO - Checking feed: http://feeds.bbci.co.uk/news/rss.xml
+2026-01-02 01:32:22,850 - INFO - Checking feed: http://feeds.bbci.co.uk/news/world/rss.xml
+2026-01-02 01:32:23,140 - INFO - Checking feed: http://feeds.bbci.co.uk/news/uk/rss.xml
+2026-01-02 01:32:23,588 - INFO - Checking feed: http://feeds.bbci.co.uk/news/business/rss.xml
+2026-01-02 01:32:23,950 - INFO - Checking feed: http://feeds.bbci.co.uk/news/technology/rss.xml
+2026-01-02 01:32:24,141 - INFO - Checking feed: http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+2026-01-02 01:32:24,439 - INFO - Checking feed: http://feeds.bbci.co.uk/news/health/rss.xml
+2026-01-02 01:32:24,801 - INFO - Checking feed: http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+2026-01-02 01:32:25,082 - INFO - Checking feed: https://www.abc.net.au/news/feed/45910/rss.xml
+2026-01-02 01:32:25,898 - INFO - Checking feed: https://www.abc.net.au/news/feed/51120/rss.xml
+2026-01-02 01:32:26,020 - INFO - Checking feed: https://www.theguardian.com/world/rss
+2026-01-02 01:32:26,248 - INFO - Checking feed: https://www.theguardian.com/au/rss
+2026-01-02 01:32:26,531 - INFO - Checking feed: https://www.theguardian.com/environment/rss
+2026-01-02 01:32:26,803 - INFO - Checking feed: https://www.theguardian.com/science/rss
+2026-01-02 01:32:26,946 - INFO - Checking feed: https://www.theguardian.com/uk/technology/rss
+2026-01-02 01:32:27,073 - INFO - Checking feed: https://www.theguardian.com/lifeandstyle/rss
+2026-01-02 01:32:27,387 - INFO - Checking feed: https://www.sbs.com.au/news/feed
+2026-01-02 01:32:27,862 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/index
+2026-01-02 01:32:28,041 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/science
+2026-01-02 01:32:28,379 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/tech-policy
+2026-01-02 01:32:28,708 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/gaming
+2026-01-02 01:32:29,065 - INFO - Checking feed: https://feedx.net/rss/ap.xml
+2026-01-02 01:32:29,554 - INFO - Checking feed: https://feeds.npr.org/1001/rss.xml
+2026-01-02 01:32:29,935 - INFO - Checking feed: https://feeds.npr.org/1004/rss.xml
+2026-01-02 01:32:30,075 - INFO - Checking feed: https://feeds.npr.org/1014/rss.xml
+2026-01-02 01:32:30,184 - INFO - Checking feed: https://feeds.npr.org/1019/rss.xml
+2026-01-02 01:32:30,303 - INFO - Checking feed: https://feeds.npr.org/1017/rss.xml
+2026-01-02 01:32:30,410 - INFO - Checking feed: https://feeds.npr.org/1007/rss.xml
+2026-01-02 01:32:30,514 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
+2026-01-02 01:32:30,624 - INFO - No new positive stories found.
