@@ -30,6 +30,16 @@
     "source": "The Guardian"
   },
   {
+    "headline": "Clare Balding pays tribute to 'one of a kind' dad",
+    "link": "https://www.bbc.com/sport/horse-racing/articles/c4g50vg52pxo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.5634,
+    "vader_score": 0.5267,
+    "textblob_score": 0.6,
+    "first_sentence": "Ian Balding, the trainer of the 1971 Epsom Derby winner Mill Reef, has died at the age of 87.",
+    "timestamp": "2026-01-02T12:58:34Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Record year for wind and solar electricity in Great Britain in 2025",
     "link": "https://www.bbc.com/news/articles/cz947djd3d3o?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.7125,
@@ -360,6 +370,16 @@
     "source": "The Guardian"
   },
   {
+    "headline": "The four best stain removers in the US \u2013 tested on red wine, olive oil, coffee and more",
+    "link": "https://www.theguardian.com/thefilter-us/2025/dec/30/best-stain-removers-laundry-tested",
+    "mean_score": 0.5685,
+    "vader_score": 0.6369,
+    "textblob_score": 0.5,
+    "first_sentence": "The Guardian\u2019s journalism is independent.",
+    "timestamp": "2025-12-30T20:15:50Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "The perfect lunch break: how to get away from your desk \u2013 and seize the day",
     "link": "https://www.theguardian.com/lifeandstyle/2025/dec/30/perfect-lunch-break-away-from-desk-seize-the-day",
     "mean_score": 0.7859,
@@ -457,6 +477,16 @@
     "textblob_score": 0.7,
     "first_sentence": "There is much anxiety these days about the dangers of human-AI relationships.",
     "timestamp": "2025-12-28T12:00:06Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "The eight best wine subscriptions in the US let you uncork and unwind at home",
+    "link": "https://www.theguardian.com/thefilter-us/2025/dec/27/best-wine-subscriptions-us",
+    "mean_score": 0.8185,
+    "vader_score": 0.6369,
+    "textblob_score": 1.0,
+    "first_sentence": "The Guardian\u2019s journalism is independent.",
+    "timestamp": "2025-12-27T18:00:44Z",
     "source": "The Guardian"
   },
   {
