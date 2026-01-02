@@ -1098,45 +1098,5 @@
     "first_sentence": "Lip care is big business in the UK, worth an estimated \u00a380m and promoted by celebs like Charli XCX.",
     "timestamp": "2025-07-08T13:38:36Z",
     "source": "BBC News"
-  },
-  {
-    "headline": "Sign up for the Afternoon Update newsletter, a free daily news email from Guardian Australia",
-    "link": "https://www.theguardian.com/australia-news/2022/oct/13/afternoon-update-newsletter-best-daily-news-email-guardian-australia-free-sign-up",
-    "mean_score": 0.3553,
-    "vader_score": 0.5106,
-    "textblob_score": 0.2,
-    "first_sentence": "Finish your day with this three-minute snapshot of the day\u2019s main news, straight to your inbox.",
-    "timestamp": "2022-10-13T02:25:43Z",
-    "source": "The Guardian"
-  },
-  {
-    "headline": "Sign up for the Morning Mail newsletter, a free daily news email from Guardian Australia",
-    "link": "https://www.theguardian.com/australia-news/2022/sep/23/morning-mail-newsletter-best-daily-news-email-guardian-australia-free-sign-up-inbox-subscribe",
-    "mean_score": 0.3553,
-    "vader_score": 0.5106,
-    "textblob_score": 0.2,
-    "first_sentence": "Start your day with this curated news roundup, straight to your email inbox.",
-    "timestamp": "2022-09-25T11:56:29Z",
-    "source": "The Guardian"
-  },
-  {
-    "headline": "Sign up for Five Great Reads, Guardian Australia\u2019s email newsletter of the week\u2019s best stories",
-    "link": "https://www.theguardian.com/australia-news/2021/dec/21/sign-up-for-five-great-reads-guardian-australias-wrap-of-our-best-summer-stories",
-    "mean_score": 0.876,
-    "vader_score": 0.8519,
-    "textblob_score": 0.9,
-    "first_sentence": "We do the heavy lifting for you and find five of the most interesting, entertaining, and thoughtful reads.",
-    "timestamp": "2021-12-21T02:02:08Z",
-    "source": "The Guardian"
-  },
-  {
-    "headline": "'Enormous opportunity': how Australia could become the Saudi Arabia of renewable energy",
-    "link": "https://www.theguardian.com/australia-news/2020/aug/27/enormous-opportunity-how-australia-could-becomehe-saudi-arabia-of-renewable-energy",
-    "mean_score": 0.318,
-    "vader_score": 0.6361,
-    "textblob_score": 0.0,
-    "first_sentence": "Brandon Bickford is only in town for the weekend.",
-    "timestamp": "2020-08-26T17:30:31Z",
-    "source": "The Guardian"
   }
 ]
