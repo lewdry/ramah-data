@@ -73,7 +73,12 @@ SOURCE_MAP = {
 }
 
 SENTIMENT_THRESHOLD = 0.5
-BLOCK_LIST = ["kill", "bomb", "murder", "rampage", "fatal", "trump", "ICE", "banning",]
+BLOCK_LIST = ["kill", "bomb", "murder", "rampage", "fatal", "trump", "ICE", "banning"]
+# Substrings of feed URLs or article links to block entirely (skip fetching)
+URL_BLOCKLIST = [
+    'bbc.com/sport',
+    'theguardian.com/thefilter-us',
+]
 MAX_STORIES = 250
 # Use `docs/` as the storage directory
 DATA_DIR = "docs"
@@ -315,6 +320,11 @@ def main():
         for entry in feed.entries:
             link = entry.get('link')
             
+            # Skip individual entries whose URL matches the blocklist
+            if link and any(block in link for block in URL_BLOCKLIST):
+                logging.debug(f"Skipping blocked URL: {link}")
+                continue
+
             if link in existing_urls:
                 continue
             
