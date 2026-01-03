@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-03T10:04:10Z",
+  "last run": "2026-01-03T10:09:39Z",
   "stories": [
+    {
+      "headline": "\u2018The children were delighted to see themselves in such bright colours\u2019: Moe Wai\u2019s best phone picture",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/03/moe-wai-best-phone-picture",
+      "mean_score": 0.743,
+      "vader_score": 0.886,
+      "textblob_score": 0.6,
+      "first_sentence": "As a tuk-tuk driver, Moe Wai feels that he has honed both his observational and people skills.",
+      "timestamp": "2026-01-03T10:00:35Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Practical tips to save on energy bills this winter",
       "link": "https://www.bbc.com/news/articles/c997gvdm2p7o?at_medium=RSS&at_campaign=rss",
@@ -110,16 +120,6 @@
       "first_sentence": "Clara Pribadi is a \"bit behind\" on her reading goal for 2025.",
       "timestamp": "2026-01-02T18:30:00Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Ministers cannot go on ignoring the Shamima Begum case, for two important reasons",
-      "link": "https://www.theguardian.com/uk-news/2026/jan/02/ministers-cannot-go-on-ignoring-the-shamima-begum-case-for-two-important-reasons",
-      "mean_score": 0.4346,
-      "vader_score": 0.4692,
-      "textblob_score": 0.4,
-      "first_sentence": "While many aspects of UK political polling have shifted drastically since 2019, the public\u2019s view on Shamima Begum has remained largely fixed: a big majority do not want the now 26-year-old woman back in the UK.",
-      "timestamp": "2026-01-02T17:10:15Z",
-      "source": "The Guardian"
     },
     {
       "headline": "Final reminder: Donate to win swag in our annual Charity Drive sweepstakes",

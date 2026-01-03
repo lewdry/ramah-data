@@ -2477,3 +2477,36 @@
 2026-01-03 10:04:10,173 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
 2026-01-03 10:04:10,303 - INFO - No new positive stories found; updated last run timestamp.
 2026-01-03 10:04:10,304 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 963 processed, 0 accepted | Cache: 0 hits, 0 misses | Duration: 6.59s
+2026-01-03 21:09:15,335 - INFO - Starting Ramah News Fetcher
+2026-01-03 21:09:15,342 - INFO - Checking feed: http://feeds.bbci.co.uk/news/rss.xml
+2026-01-03 21:09:16,493 - INFO - Checking feed: http://feeds.bbci.co.uk/news/world/rss.xml
+2026-01-03 21:09:16,989 - INFO - Checking feed: http://feeds.bbci.co.uk/news/uk/rss.xml
+2026-01-03 21:09:17,897 - INFO - Checking feed: http://feeds.bbci.co.uk/news/business/rss.xml
+2026-01-03 21:09:18,561 - INFO - Checking feed: http://feeds.bbci.co.uk/news/technology/rss.xml
+2026-01-03 21:09:19,430 - INFO - Checking feed: http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+2026-01-03 21:09:20,025 - INFO - Checking feed: http://feeds.bbci.co.uk/news/health/rss.xml
+2026-01-03 21:09:20,909 - INFO - Checking feed: http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+2026-01-03 21:09:21,727 - INFO - Checking feed: https://www.abc.net.au/news/feed/45910/rss.xml
+2026-01-03 21:09:21,863 - INFO - Checking feed: https://www.abc.net.au/news/feed/51120/rss.xml
+2026-01-03 21:09:21,966 - INFO - Checking feed: https://www.theguardian.com/world/rss
+2026-01-03 21:09:22,110 - INFO - Checking feed: https://www.theguardian.com/au/rss
+2026-01-03 21:09:22,267 - INFO - Checking feed: https://www.theguardian.com/environment/rss
+2026-01-03 21:09:23,145 - INFO - Checking feed: https://www.theguardian.com/science/rss
+2026-01-03 21:09:23,602 - INFO - Checking feed: https://www.theguardian.com/uk/technology/rss
+2026-01-03 21:09:24,029 - INFO - Checking feed: https://www.theguardian.com/lifeandstyle/rss
+2026-01-03 21:09:24,942 - INFO - Found good news: ‘The children were delighted to see themselves in such bright colours’: Moe Wai’s best phone picture (Mean Score: 0.7430, VADER: 0.8860, TextBlob: 0.6000)
+2026-01-03 21:09:25,464 - INFO - Checking feed: https://www.sbs.com.au/news/feed
+2026-01-03 21:09:25,660 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/index
+2026-01-03 21:09:27,145 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/science
+2026-01-03 21:09:28,469 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/tech-policy
+2026-01-03 21:09:29,839 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/gaming
+2026-01-03 21:09:30,372 - INFO - Checking feed: https://feedx.net/rss/ap.xml
+2026-01-03 21:09:31,468 - INFO - Checking feed: https://feeds.npr.org/1001/rss.xml
+2026-01-03 21:09:31,606 - INFO - Checking feed: https://feeds.npr.org/1004/rss.xml
+2026-01-03 21:09:32,977 - INFO - Checking feed: https://feeds.npr.org/1014/rss.xml
+2026-01-03 21:09:34,125 - INFO - Checking feed: https://feeds.npr.org/1019/rss.xml
+2026-01-03 21:09:35,229 - INFO - Checking feed: https://feeds.npr.org/1017/rss.xml
+2026-01-03 21:09:36,457 - INFO - Checking feed: https://feeds.npr.org/1007/rss.xml
+2026-01-03 21:09:37,673 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
+2026-01-03 21:09:39,128 - INFO - Saved 121 stories to docs/good_news.json.
+2026-01-03 21:09:39,129 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 957 processed, 1 accepted | Cache: 0 hits, 1 misses | Duration: 23.79s
