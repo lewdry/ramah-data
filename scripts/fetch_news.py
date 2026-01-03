@@ -73,7 +73,120 @@ SOURCE_MAP = {
 }
 
 SENTIMENT_THRESHOLD = 0.3
-BLOCK_LIST = ["kill", "bomb", "murder", "rampage", "fatal", "trump", "ICE", "banning", "cricket", "ashes", "soccer", "sign up", "saudi", "shamima begum"]
+BLOCK_LIST = [
+    # Violence / death
+    "kill",
+    "killed",
+    "killing",
+    "murder",
+    "murdered",
+    "homicide",
+    "manslaughter",
+    "fatal",
+    "death",
+    "dead",
+    "assassinated",
+    "lynched",
+    "beheaded",
+    "strangled",
+    "shot dead",
+    "shooting",
+    "stabbed",
+    "stab",
+
+    # Victims / survivors / bereavement
+    "victim",
+    "victims",
+    "survivor",
+    "survivors",
+    "bereaved",
+    "widow",
+    "orphan",
+    "family of",
+
+    # Sexual violence / abuse
+    "rape",
+    "raped",
+    "rapist",
+    "sexual assault",
+    "sexual abuse",
+    "child abuse",
+    "child sexual abuse",
+    "molestation",
+    "grooming",
+    "trafficking",
+
+    # Assault / injury / torture
+    "assault",
+    "attacked",
+    "attack",
+    "beating",
+    "beaten",
+    "torture",
+    "injured",
+    "wounded",
+    "hospitalised",
+    "violence",
+
+    # Legal / court / prison
+    "court",
+    "trial",
+    "sentenced",
+    "sentencing",
+    "convicted",
+    "conviction",
+    "verdict",
+    "prison",
+    "jail",
+    "custody",
+    "parole",
+    "appeal",
+    "appeals",
+
+    # Disasters / accidents
+    "disaster",
+    "tragedy",
+    "catastrophe",
+    "earthquake",
+    "flood",
+    "bushfire",
+    "wildfire",
+    "explosion",
+    "collapse",
+    "crash",
+    "derailment",
+
+    # War / terrorism / bombs
+    "war",
+    "armed conflict",
+    "bomb",
+    "bombing",
+    "airstrike",
+    "missile",
+    "terror",
+    "terrorist",
+    "terrorism",
+    "hostage",
+    "siege",
+
+    # Self-harm / addiction / medical emergencies
+    "suicide",
+    "self-harm",
+    "overdose",
+    "addiction",
+
+    # Existing miscellaneous blocks
+    "rampage",
+    "trump",
+    "ICE",
+    "banning",
+    "cricket",
+    "ashes",
+    "soccer",
+    "sign up",
+    "saudi",
+    "shamima begum",
+]
 # Substrings of feed URLs or article links to block entirely (skip fetching)
 URL_BLOCKLIST = [
     'bbc.com/sport',

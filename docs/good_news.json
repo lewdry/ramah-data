@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-03T11:03:53Z",
+  "last run": "2026-01-03T11:15:45Z",
   "stories": [
+    {
+      "headline": "Tennessee actually just did something amazing for women | Arwa Mahdawi",
+      "link": "https://www.theguardian.com/commentisfree/2026/jan/03/tennessee-actually-just-did-something-amazing-for-women",
+      "mean_score": 0.443,
+      "vader_score": 0.5859,
+      "textblob_score": 0.3,
+      "first_sentence": "Let\u2019s say you\u2019re going on a first date and you want to make sure the person you\u2019re meeting up with isn\u2019t a registered sex offender.",
+      "timestamp": "2026-01-03T11:00:35Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "\u2018The children were delighted to see themselves in such bright colours\u2019: Moe Wai\u2019s best phone picture",
       "link": "https://www.theguardian.com/lifeandstyle/2026/jan/03/moe-wai-best-phone-picture",
@@ -192,16 +202,6 @@
       "source": "The Guardian"
     },
     {
-      "headline": "Double record-breaking year for UK as 2025 confirmed as warmest and sunniest on record",
-      "link": "https://www.bbc.com/weather/articles/c306gpyll19o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4635,
-      "vader_score": 0.7269,
-      "textblob_score": 0.2,
-      "first_sentence": "The Met Office has confirmed 2025 as the warmest and sunniest on record in the United Kingdom.",
-      "timestamp": "2026-01-02T13:12:19Z",
-      "source": "BBC News"
-    },
-    {
       "headline": "Cocktail of the week: the Kirkstyle Inn\u2019s beetroot and sumac shrub \u2013 recipe | The good mixer",
       "link": "https://www.theguardian.com/food/2026/jan/02/cocktail-of-the-week-beetroot-sumac-shrub-mocktail-recipe-kirkstyle-inn",
       "mean_score": 0.5702,
@@ -250,16 +250,6 @@
       "first_sentence": "The knock-on effects on systemic health are many: \u201cWe know that shift workers have a higher risk of heart disease, hypertension, obesity, diabetes, stroke, depression, anxiety and some types of cancer.\u201d The World Health Organization has classified shift work as \u201cprobably carcinogenic\u201d.",
       "timestamp": "2026-01-02T11:00:06Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Heating tips to keep your home warm when budgets are squeezed",
-      "link": "https://www.bbc.com/news/articles/cd6084l4zx6o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4132,
-      "vader_score": 0.2263,
-      "textblob_score": 0.6,
-      "first_sentence": "Freezing winter temperatures can mean higher bills when keeping your home warm.",
-      "timestamp": "2026-01-02T10:23:28Z",
-      "source": "BBC News"
     },
     {
       "headline": "Sailors saved from going over edge of huge dam",
@@ -512,16 +502,6 @@
       "source": "The Guardian"
     },
     {
-      "headline": "'Weak agreements only fuel the war': Zelenskyy says Ukraine ready for a 'strong peace'",
-      "link": "https://www.sbs.com.au/news/article/weak-agreements-only-fuel-the-war-zelenskyy-says-ukraine-ready-for-a-strong-peace/iucd72x2m",
-      "mean_score": 0.311,
-      "vader_score": 0.5574,
-      "textblob_score": 0.0646,
-      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-      "timestamp": "2026-01-01T02:57:25Z",
-      "source": "SBS News"
-    },
-    {
       "headline": "What\u2019s the best path to take in 2026? | Fiona Katauskas",
       "link": "https://www.theguardian.com/commentisfree/picture/2026/jan/01/whats-the-best-path-to-take-in-2026",
       "mean_score": 0.8185,
@@ -659,16 +639,6 @@
       "textblob_score": 1.0,
       "first_sentence": "I confess that I find this idea a bit uninspiring.",
       "timestamp": "2025-12-30T16:00:45Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Threesomes, rough towels and \u2018lesbian bed death\u2019: 23 of the best Sexual Healing columns",
-      "link": "https://www.theguardian.com/lifeandstyle/2025/dec/30/pamela-stephenson-connolly-the-very-best-of-sexual-healing",
-      "mean_score": 0.5518,
-      "vader_score": 0.6369,
-      "textblob_score": 0.4667,
-      "first_sentence": "My wonderful new wife is everything I have always looked for in a woman.",
-      "timestamp": "2025-12-30T14:00:47Z",
       "source": "The Guardian"
     },
     {
@@ -992,16 +962,6 @@
       "source": "BBC News"
     },
     {
-      "headline": "Win hardware, collectibles, and more in the 2025 Ars Technica Charity Drive",
-      "link": "https://arstechnica.com/gaming/2025/12/win-hardware-collectibles-and-more-in-the-2025-ars-technica-charity-drive/",
-      "mean_score": 0.7075,
-      "vader_score": 0.765,
-      "textblob_score": 0.65,
-      "first_sentence": "Help yourself to prizes by helping us raise money for good causes.",
-      "timestamp": "2025-12-10T12:30:29Z",
-      "source": "Ars Technica"
-    },
-    {
       "headline": "Astronauts successfully return to Earth after ISS command change \u2013 video",
       "link": "https://www.theguardian.com/science/video/2025/dec/09/astronauts-return-to-earth-iss-command-change-video",
       "mean_score": 0.622,
@@ -1030,16 +990,6 @@
       "first_sentence": "Young women have spoken about the issues faced by a lack of education in schools on health matters.",
       "timestamp": "2025-12-04T06:24:28Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Australia could miss clean energy target as solar and wind investment slumps, investors warn",
-      "link": "https://www.theguardian.com/environment/2025/dec/01/australia-could-miss-clean-energy-target-as-solar-and-wind-investment-slumps-investors-warn",
-      "mean_score": 0.3941,
-      "vader_score": 0.4215,
-      "textblob_score": 0.3667,
-      "first_sentence": "Renewable energy investors have warned \u201cdeep structural issues\u201d are driving a slump in solar and wind investment in Australia, with commitments on large-scale farms at the lowest level in almost a decade.",
-      "timestamp": "2025-12-01T08:22:30Z",
-      "source": "The Guardian"
     },
     {
       "headline": "Labor\u2019s nature law overhaul contains wins \u2013 but we should watch for gremlins in the details | Adam Morton",
