@@ -207,5 +207,21 @@
     "cache_hits": 0,
     "cache_misses": 0,
     "execution_time_seconds": 5.75
+  },
+  {
+    "timestamp": "2026-01-03T19:03:44Z",
+    "feeds_checked": 29,
+    "feeds_failed": 0,
+    "entries_processed": 950,
+    "entries_blocked": 227,
+    "entries_sentiment_rejected": 629,
+    "entries_accepted": 3,
+    "stories_by_source": {
+      "Ars Technica": 2,
+      "NPR News": 1
+    },
+    "cache_hits": 0,
+    "cache_misses": 3,
+    "execution_time_seconds": 6.32
   }
 ]
