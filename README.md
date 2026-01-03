@@ -120,3 +120,6 @@ The repository includes a scheduled GitHub Actions workflow (`.github/workflows/
 4. Commits and pushes any changes in `docs/` back to the repository.
 
 This keeps the data fresh and consistent without manual intervention.
+## License
+
+Ramah-Data is licensed under the MIT License, see the `LICENSE` file for details.
