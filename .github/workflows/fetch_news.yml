@@ -45,7 +45,7 @@ jobs:
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add docs/good_news.json docs/fetch.log
+          git add docs/good_news.json docs/fetch.log docs/metrics.json docs/sentence_cache.json
           if [ -f "docs/old_news.json" ]; then git add docs/old_news.json; fi
           git commit -m "Automated news fetch and cleanup: $(date)" || echo "No changes to commit"
           git push

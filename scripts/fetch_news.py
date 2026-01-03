@@ -86,6 +86,7 @@ DATA_FILE = os.path.join(DATA_DIR, "good_news.json")
 ARCHIVE_FILE = os.path.join(DATA_DIR, "old_news.json")
 LOG_FILE = os.path.join(DATA_DIR, "fetch.log")
 METRICS_FILE = os.path.join(DATA_DIR, "metrics.json")
+SENTENCE_CACHE_FILE = os.path.join(DATA_DIR, "sentence_cache.json")
 
 # Setup Logging
 os.makedirs(DATA_DIR, exist_ok=True)
@@ -136,6 +137,25 @@ def save_run_metrics(metrics):
     
     with open(METRICS_FILE, 'w') as f:
         json.dump(history, f, indent=2)
+
+def load_sentence_cache():
+    """Load cached first sentences keyed by article URL."""
+    if os.path.exists(SENTENCE_CACHE_FILE):
+        try:
+            with open(SENTENCE_CACHE_FILE, 'r') as f:
+                return json.load(f)
+        except:
+            logging.warning("Failed to load sentence cache. Starting fresh.")
+            return {}
+    return {}
+
+def save_sentence_cache(cache):
+    """Save sentence cache to disk."""
+    try:
+        with open(SENTENCE_CACHE_FILE, 'w') as f:
+            json.dump(cache, f, indent=2)
+    except Exception as e:
+        logging.error(f"Failed to save sentence cache: {e}")
 
 def get_first_sentence(url):
     """
@@ -374,6 +394,11 @@ def main():
     start_time = time.time()
     analyzer = SentimentIntensityAnalyzer()
     
+    # Load sentence cache
+    sentence_cache = load_sentence_cache()
+    cache_hits = 0
+    cache_misses = 0
+    
     # Initialize metrics tracking
     metrics = {
         'timestamp': _current_timestamp_str(),
@@ -384,6 +409,8 @@ def main():
         'entries_sentiment_rejected': 0,
         'entries_accepted': 0,
         'stories_by_source': {},
+        'cache_hits': 0,
+        'cache_misses': 0,
         'execution_time_seconds': 0
     }
     
@@ -452,8 +479,16 @@ def main():
                 metrics['entries_accepted'] += 1
                 logging.info(f"Found good news: {title} (Mean Score: {mean_score:.4f}, VADER: {vader_score:.4f}, TextBlob: {textblob_score:.4f})")
                 
-                # Fetch first sentence
-                first_sentence = get_first_sentence(link)
+                # Check cache first, then fetch first sentence if not cached
+                if link in sentence_cache:
+                    first_sentence = sentence_cache[link]
+                    cache_hits += 1
+                    logging.debug(f"Cache hit for {link}")
+                else:
+                    first_sentence = get_first_sentence(link)
+                    cache_misses += 1
+                    if first_sentence:
+                        sentence_cache[link] = first_sentence
                 
                 # If scraping failed, try using description/summary from RSS
                 if not first_sentence:
@@ -533,9 +568,13 @@ def main():
     
     # Calculate execution time and save metrics
     metrics['execution_time_seconds'] = round(time.time() - start_time, 2)
+    metrics['cache_hits'] = cache_hits
+    metrics['cache_misses'] = cache_misses
     save_run_metrics(metrics)
+    save_sentence_cache(sentence_cache)
     logging.info(f"Run metrics - Feeds: {metrics['feeds_checked']} checked, {metrics['feeds_failed']} failed | "
                  f"Entries: {metrics['entries_processed']} processed, {metrics['entries_accepted']} accepted | "
+                 f"Cache: {cache_hits} hits, {cache_misses} misses | "
                  f"Duration: {metrics['execution_time_seconds']}s")
 
 if __name__ == "__main__":
