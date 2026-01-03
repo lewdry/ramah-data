@@ -2611,3 +2611,35 @@
 2026-01-03 12:05:54,399 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
 2026-01-03 12:05:54,458 - INFO - Saved 119 stories to docs/good_news.json.
 2026-01-03 12:05:54,458 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 961 processed, 3 accepted | Cache: 0 hits, 3 misses | Duration: 5.32s
+2026-01-03 13:11:41,705 - INFO - Starting Ramah News Fetcher
+2026-01-03 13:11:41,715 - INFO - Checking feed: http://feeds.bbci.co.uk/news/rss.xml
+2026-01-03 13:11:42,210 - INFO - Checking feed: http://feeds.bbci.co.uk/news/world/rss.xml
+2026-01-03 13:11:42,406 - INFO - Checking feed: http://feeds.bbci.co.uk/news/uk/rss.xml
+2026-01-03 13:11:42,694 - INFO - Checking feed: http://feeds.bbci.co.uk/news/business/rss.xml
+2026-01-03 13:11:42,993 - INFO - Checking feed: http://feeds.bbci.co.uk/news/technology/rss.xml
+2026-01-03 13:11:43,375 - INFO - Checking feed: http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+2026-01-03 13:11:43,813 - INFO - Checking feed: http://feeds.bbci.co.uk/news/health/rss.xml
+2026-01-03 13:11:44,251 - INFO - Checking feed: http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+2026-01-03 13:11:44,516 - INFO - Checking feed: https://www.abc.net.au/news/feed/45910/rss.xml
+2026-01-03 13:11:45,029 - INFO - Checking feed: https://www.abc.net.au/news/feed/51120/rss.xml
+2026-01-03 13:11:45,163 - INFO - Checking feed: https://www.theguardian.com/world/rss
+2026-01-03 13:11:45,428 - INFO - Checking feed: https://www.theguardian.com/au/rss
+2026-01-03 13:11:45,723 - INFO - Checking feed: https://www.theguardian.com/environment/rss
+2026-01-03 13:11:45,887 - INFO - Checking feed: https://www.theguardian.com/science/rss
+2026-01-03 13:11:46,018 - INFO - Checking feed: https://www.theguardian.com/uk/technology/rss
+2026-01-03 13:11:46,148 - INFO - Checking feed: https://www.theguardian.com/lifeandstyle/rss
+2026-01-03 13:11:46,459 - INFO - Checking feed: https://www.sbs.com.au/news/feed
+2026-01-03 13:11:47,031 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/index
+2026-01-03 13:11:47,239 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/science
+2026-01-03 13:11:47,444 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/tech-policy
+2026-01-03 13:11:47,779 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/gaming
+2026-01-03 13:11:47,993 - INFO - Checking feed: https://feedx.net/rss/ap.xml
+2026-01-03 13:11:48,332 - INFO - Checking feed: https://feeds.npr.org/1001/rss.xml
+2026-01-03 13:11:48,687 - INFO - Checking feed: https://feeds.npr.org/1004/rss.xml
+2026-01-03 13:11:48,784 - INFO - Checking feed: https://feeds.npr.org/1014/rss.xml
+2026-01-03 13:11:48,899 - INFO - Checking feed: https://feeds.npr.org/1019/rss.xml
+2026-01-03 13:11:48,994 - INFO - Checking feed: https://feeds.npr.org/1017/rss.xml
+2026-01-03 13:11:49,515 - INFO - Checking feed: https://feeds.npr.org/1007/rss.xml
+2026-01-03 13:11:49,681 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
+2026-01-03 13:11:49,806 - INFO - No new positive stories found; updated last run timestamp.
+2026-01-03 13:11:49,806 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 969 processed, 0 accepted | Cache: 0 hits, 0 misses | Duration: 8.1s
