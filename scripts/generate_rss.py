@@ -88,14 +88,14 @@ def main():
     generate_rss_feed(
         good_news_json,
         good_news_xml,
-        "Ramah - Good News Feed",
-        "Curated positive news stories from around the world, filtered by sentiment analysis"
+        "Ramah: Good News Feed",
+        "Positive news stories from around the world, filtered by sentiment analysis"
     )
     
     generate_rss_feed(
         old_news_json,
         old_news_xml,
-        "Ramah - Archived Good News",
+        "Ramah: Archived Good News",
         "Archived positive news stories from the Ramah collection"
     )
 
