@@ -41,11 +41,17 @@ jobs:
           set -e
           python scripts/normalize_sources.py
 
+      - name: Generate RSS Feeds
+        run: |
+          set -e
+          python scripts/generate_rss.py
+
       - name: Commit and Push Changes
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add docs/good_news.json docs/fetch.log docs/metrics.json docs/sentence_cache.json
+          git add docs/good_news.json docs/good_news.xml docs/fetch.log docs/metrics.json docs/sentence_cache.json
           if [ -f "docs/old_news.json" ]; then git add docs/old_news.json; fi
+          if [ -f "docs/old_news.xml" ]; then git add docs/old_news.xml; fi
           git commit -m "Automated news fetch and cleanup: $(date)" || echo "No changes to commit"
           git push
