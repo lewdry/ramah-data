@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-03T11:15:45Z",
+  "last run": "2026-01-03T12:05:54Z",
   "stories": [
+    {
+      "headline": "From squirrel picnics to penpals, karaoke to crochet: 43 easy ways to lift your spirits",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/03/from-squirrel-picnics-to-penpals-karaoke-to-crochet-43-easy-ways-to-lift-your-spirits",
+      "mean_score": 0.4369,
+      "vader_score": 0.4404,
+      "textblob_score": 0.4333,
+      "first_sentence": "During the pandemic, my husband found some wood on our street and used it to build a tiny, squirrel-sized picnic table.",
+      "timestamp": "2026-01-03T12:00:37Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Tennessee actually just did something amazing for women | Arwa Mahdawi",
       "link": "https://www.theguardian.com/commentisfree/2026/jan/03/tennessee-actually-just-did-something-amazing-for-women",
@@ -762,6 +772,16 @@
       "source": "The Guardian"
     },
     {
+      "headline": "In the \u201990s, Wing Commander: Privateer made me realize what kind of games I love",
+      "link": "https://arstechnica.com/gaming/2025/12/in-the-90s-wing-commander-privateer-made-me-realize-what-kind-of-games-i-love/",
+      "mean_score": 0.5935,
+      "vader_score": 0.6369,
+      "textblob_score": 0.55,
+      "first_sentence": "Most things Privateer did have been done better, but it\u2019s still a classic.",
+      "timestamp": "2025-12-26T13:35:38Z",
+      "source": "Ars Technica"
+    },
+    {
       "headline": "Conservative and Christian? US right champions psychedelic drugs",
       "link": "https://www.theguardian.com/us-news/2025/dec/26/us-right-champions-psychedelic-drugs",
       "mean_score": 0.3348,
@@ -770,6 +790,16 @@
       "first_sentence": "For half a century, psychedelics largely belonged to the cultural left: anti-war, anti-capitalist, suspicious of the church and state.",
       "timestamp": "2025-12-26T13:00:10Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "Ars Technica\u2019s Top 20 video games of 2025",
+      "link": "https://arstechnica.com/gaming/2025/12/ars-technicas-top-20-video-games-of-2025/",
+      "mean_score": 0.3512,
+      "vader_score": 0.2023,
+      "textblob_score": 0.5,
+      "first_sentence": "A mix of expected sequels and out-of-nowhere indie gems made 2025 a joy.",
+      "timestamp": "2025-12-26T12:00:09Z",
+      "source": "Ars Technica"
     },
     {
       "headline": "The secrets of the body clock: how to tune into your natural rhythms \u2013 and have a better day",

@@ -2576,3 +2576,38 @@
 2026-01-03 22:15:44,424 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
 2026-01-03 22:15:45,184 - INFO - Saved 122 stories to docs/good_news.json.
 2026-01-03 22:15:45,184 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 960 processed, 1 accepted | Cache: 0 hits, 1 misses | Duration: 20.84s
+2026-01-03 12:05:49,142 - INFO - Starting Ramah News Fetcher
+2026-01-03 12:05:49,152 - INFO - Checking feed: http://feeds.bbci.co.uk/news/rss.xml
+2026-01-03 12:05:49,348 - INFO - Checking feed: http://feeds.bbci.co.uk/news/world/rss.xml
+2026-01-03 12:05:49,419 - INFO - Checking feed: http://feeds.bbci.co.uk/news/uk/rss.xml
+2026-01-03 12:05:49,594 - INFO - Checking feed: http://feeds.bbci.co.uk/news/business/rss.xml
+2026-01-03 12:05:49,688 - INFO - Checking feed: http://feeds.bbci.co.uk/news/technology/rss.xml
+2026-01-03 12:05:49,774 - INFO - Checking feed: http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+2026-01-03 12:05:49,951 - INFO - Checking feed: http://feeds.bbci.co.uk/news/health/rss.xml
+2026-01-03 12:05:50,313 - INFO - Checking feed: http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+2026-01-03 12:05:50,479 - INFO - Checking feed: https://www.abc.net.au/news/feed/45910/rss.xml
+2026-01-03 12:05:50,859 - INFO - Checking feed: https://www.abc.net.au/news/feed/51120/rss.xml
+2026-01-03 12:05:51,131 - INFO - Checking feed: https://www.theguardian.com/world/rss
+2026-01-03 12:05:51,345 - INFO - Checking feed: https://www.theguardian.com/au/rss
+2026-01-03 12:05:51,566 - INFO - Checking feed: https://www.theguardian.com/environment/rss
+2026-01-03 12:05:51,667 - INFO - Checking feed: https://www.theguardian.com/science/rss
+2026-01-03 12:05:51,750 - INFO - Checking feed: https://www.theguardian.com/uk/technology/rss
+2026-01-03 12:05:51,825 - INFO - Checking feed: https://www.theguardian.com/lifeandstyle/rss
+2026-01-03 12:05:51,949 - INFO - Found good news: From squirrel picnics to penpals, karaoke to crochet: 43 easy ways to lift your spirits (Mean Score: 0.4369, VADER: 0.4404, TextBlob: 0.4333)
+2026-01-03 12:05:52,042 - INFO - Checking feed: https://www.sbs.com.au/news/feed
+2026-01-03 12:05:52,603 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/index
+2026-01-03 12:05:52,781 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/science
+2026-01-03 12:05:52,891 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/tech-policy
+2026-01-03 12:05:53,033 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/gaming
+2026-01-03 12:05:53,108 - INFO - Found good news: In the ’90s, Wing Commander: Privateer made me realize what kind of games I love (Mean Score: 0.5935, VADER: 0.6369, TextBlob: 0.5500)
+2026-01-03 12:05:53,365 - INFO - Found good news: Ars Technica’s Top 20 video games of 2025 (Mean Score: 0.3512, VADER: 0.2023, TextBlob: 0.5000)
+2026-01-03 12:05:53,550 - INFO - Checking feed: https://feedx.net/rss/ap.xml
+2026-01-03 12:05:53,740 - INFO - Checking feed: https://feeds.npr.org/1001/rss.xml
+2026-01-03 12:05:54,083 - INFO - Checking feed: https://feeds.npr.org/1004/rss.xml
+2026-01-03 12:05:54,135 - INFO - Checking feed: https://feeds.npr.org/1014/rss.xml
+2026-01-03 12:05:54,213 - INFO - Checking feed: https://feeds.npr.org/1019/rss.xml
+2026-01-03 12:05:54,265 - INFO - Checking feed: https://feeds.npr.org/1017/rss.xml
+2026-01-03 12:05:54,345 - INFO - Checking feed: https://feeds.npr.org/1007/rss.xml
+2026-01-03 12:05:54,399 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
+2026-01-03 12:05:54,458 - INFO - Saved 119 stories to docs/good_news.json.
+2026-01-03 12:05:54,458 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 961 processed, 3 accepted | Cache: 0 hits, 3 misses | Duration: 5.32s

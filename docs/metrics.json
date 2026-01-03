@@ -109,5 +109,21 @@
     "cache_hits": 0,
     "cache_misses": 1,
     "execution_time_seconds": 20.84
+  },
+  {
+    "timestamp": "2026-01-03T12:05:49Z",
+    "feeds_checked": 29,
+    "feeds_failed": 0,
+    "entries_processed": 961,
+    "entries_blocked": 234,
+    "entries_sentiment_rejected": 632,
+    "entries_accepted": 3,
+    "stories_by_source": {
+      "The Guardian": 1,
+      "Ars Technica": 2
+    },
+    "cache_hits": 0,
+    "cache_misses": 3,
+    "execution_time_seconds": 5.32
   }
 ]
