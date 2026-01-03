@@ -2943,3 +2943,37 @@
 2026-01-03 22:04:03,360 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
 2026-01-03 22:04:03,412 - INFO - Saved 131 stories to docs/good_news.json.
 2026-01-03 22:04:03,412 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 952 processed, 1 accepted | Cache: 0 hits, 1 misses | Duration: 7.08s
+2026-01-03 23:04:07,244 - INFO - Starting Ramah News Fetcher
+2026-01-03 23:04:07,254 - INFO - Checking feed: http://feeds.bbci.co.uk/news/rss.xml
+2026-01-03 23:04:07,605 - INFO - Checking feed: http://feeds.bbci.co.uk/news/world/rss.xml
+2026-01-03 23:04:07,837 - INFO - Checking feed: http://feeds.bbci.co.uk/news/uk/rss.xml
+2026-01-03 23:04:08,067 - INFO - Checking feed: http://feeds.bbci.co.uk/news/business/rss.xml
+2026-01-03 23:04:08,363 - INFO - Checking feed: http://feeds.bbci.co.uk/news/technology/rss.xml
+2026-01-03 23:04:08,446 - INFO - Checking feed: http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+2026-01-03 23:04:08,547 - INFO - Checking feed: http://feeds.bbci.co.uk/news/health/rss.xml
+2026-01-03 23:04:08,865 - INFO - Checking feed: http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+2026-01-03 23:04:09,105 - INFO - Checking feed: https://www.abc.net.au/news/feed/45910/rss.xml
+2026-01-03 23:04:09,376 - INFO - Checking feed: https://www.abc.net.au/news/feed/51120/rss.xml
+2026-01-03 23:04:09,446 - INFO - Found good news: Top End dams overflow as parks come to life in the wake of Cyclone Fina (Mean Score: 0.3512, VADER: 0.2023, TextBlob: 0.5000)
+2026-01-03 23:04:09,701 - INFO - Found good news: Charity keeps pets at home and out of the pound by helping cover care costs (Mean Score: 0.4010, VADER: 0.8020, TextBlob: 0.0000)
+2026-01-03 23:04:10,223 - INFO - Checking feed: https://www.theguardian.com/world/rss
+2026-01-03 23:04:10,332 - INFO - Checking feed: https://www.theguardian.com/au/rss
+2026-01-03 23:04:10,824 - INFO - Checking feed: https://www.theguardian.com/environment/rss
+2026-01-03 23:04:11,321 - INFO - Checking feed: https://www.theguardian.com/science/rss
+2026-01-03 23:04:11,404 - INFO - Checking feed: https://www.theguardian.com/uk/technology/rss
+2026-01-03 23:04:11,478 - INFO - Checking feed: https://www.theguardian.com/lifeandstyle/rss
+2026-01-03 23:04:12,165 - INFO - Checking feed: https://www.sbs.com.au/news/feed
+2026-01-03 23:04:12,666 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/index
+2026-01-03 23:04:12,769 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/science
+2026-01-03 23:04:12,866 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/tech-policy
+2026-01-03 23:04:12,958 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/gaming
+2026-01-03 23:04:13,037 - INFO - Checking feed: https://feedx.net/rss/ap.xml
+2026-01-03 23:04:13,452 - INFO - Checking feed: https://feeds.npr.org/1001/rss.xml
+2026-01-03 23:04:13,673 - INFO - Checking feed: https://feeds.npr.org/1004/rss.xml
+2026-01-03 23:04:13,723 - INFO - Checking feed: https://feeds.npr.org/1014/rss.xml
+2026-01-03 23:04:13,831 - INFO - Checking feed: https://feeds.npr.org/1019/rss.xml
+2026-01-03 23:04:13,878 - INFO - Checking feed: https://feeds.npr.org/1017/rss.xml
+2026-01-03 23:04:13,966 - INFO - Checking feed: https://feeds.npr.org/1007/rss.xml
+2026-01-03 23:04:14,017 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
+2026-01-03 23:04:14,232 - INFO - Saved 133 stories to docs/good_news.json.
+2026-01-03 23:04:14,233 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 955 processed, 2 accepted | Cache: 0 hits, 2 misses | Duration: 6.99s

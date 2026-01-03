@@ -268,5 +268,20 @@
     "cache_hits": 0,
     "cache_misses": 1,
     "execution_time_seconds": 7.08
+  },
+  {
+    "timestamp": "2026-01-03T23:04:07Z",
+    "feeds_checked": 29,
+    "feeds_failed": 0,
+    "entries_processed": 955,
+    "entries_blocked": 204,
+    "entries_sentiment_rejected": 646,
+    "entries_accepted": 2,
+    "stories_by_source": {
+      "ABC News": 2
+    },
+    "cache_hits": 0,
+    "cache_misses": 2,
+    "execution_time_seconds": 6.99
   }
 ]
