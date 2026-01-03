@@ -4,6 +4,12 @@ This repository fetches, filters and publishes curated 'good news' as static JSO
 
 The JSON is published via GitHub Pages.
 
+## Disclaimer
+
+Ramah does not claim ownership of the news content provided in this feed. Each item contains only brief extracts, headline and first sentence and links directly to the original article on the publisher's website. 
+
+All content rights remain with the respective publishers.
+
 ```
 ██████╗  █████╗ ███╗   ███╗ █████╗ ██╗  ██╗
 ██╔══██╗██╔══██╗████╗ ████║██╔══██╗██║  ██║
