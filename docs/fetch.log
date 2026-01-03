@@ -2708,3 +2708,36 @@
 2026-01-03 15:04:00,965 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
 2026-01-03 15:04:01,020 - INFO - No new positive stories found; updated last run timestamp.
 2026-01-03 15:04:01,021 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 961 processed, 0 accepted | Cache: 0 hits, 0 misses | Duration: 5.51s
+2026-01-03 16:04:19,803 - INFO - Starting Ramah News Fetcher
+2026-01-03 16:04:19,813 - INFO - Checking feed: http://feeds.bbci.co.uk/news/rss.xml
+2026-01-03 16:04:20,273 - INFO - Checking feed: http://feeds.bbci.co.uk/news/world/rss.xml
+2026-01-03 16:04:20,359 - INFO - Checking feed: http://feeds.bbci.co.uk/news/uk/rss.xml
+2026-01-03 16:04:20,523 - INFO - Found good news: First Welsh Netflix drama hopes to build on success (Mean Score: 0.5165, VADER: 0.7579, TextBlob: 0.2750)
+2026-01-03 16:04:20,738 - INFO - Checking feed: http://feeds.bbci.co.uk/news/business/rss.xml
+2026-01-03 16:04:20,941 - INFO - Checking feed: http://feeds.bbci.co.uk/news/technology/rss.xml
+2026-01-03 16:04:21,162 - INFO - Checking feed: http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+2026-01-03 16:04:21,371 - INFO - Checking feed: http://feeds.bbci.co.uk/news/health/rss.xml
+2026-01-03 16:04:21,498 - INFO - Checking feed: http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+2026-01-03 16:04:21,725 - INFO - Checking feed: https://www.abc.net.au/news/feed/45910/rss.xml
+2026-01-03 16:04:22,118 - INFO - Checking feed: https://www.abc.net.au/news/feed/51120/rss.xml
+2026-01-03 16:04:22,379 - INFO - Checking feed: https://www.theguardian.com/world/rss
+2026-01-03 16:04:22,509 - INFO - Checking feed: https://www.theguardian.com/au/rss
+2026-01-03 16:04:22,827 - INFO - Checking feed: https://www.theguardian.com/environment/rss
+2026-01-03 16:04:22,926 - INFO - Checking feed: https://www.theguardian.com/science/rss
+2026-01-03 16:04:23,008 - INFO - Checking feed: https://www.theguardian.com/uk/technology/rss
+2026-01-03 16:04:23,085 - INFO - Checking feed: https://www.theguardian.com/lifeandstyle/rss
+2026-01-03 16:04:23,219 - INFO - Checking feed: https://www.sbs.com.au/news/feed
+2026-01-03 16:04:24,504 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/index
+2026-01-03 16:04:24,613 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/science
+2026-01-03 16:04:24,695 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/tech-policy
+2026-01-03 16:04:24,935 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/gaming
+2026-01-03 16:04:25,076 - INFO - Checking feed: https://feedx.net/rss/ap.xml
+2026-01-03 16:04:25,358 - INFO - Checking feed: https://feeds.npr.org/1001/rss.xml
+2026-01-03 16:04:25,747 - INFO - Checking feed: https://feeds.npr.org/1004/rss.xml
+2026-01-03 16:04:25,807 - INFO - Checking feed: https://feeds.npr.org/1014/rss.xml
+2026-01-03 16:04:25,875 - INFO - Checking feed: https://feeds.npr.org/1019/rss.xml
+2026-01-03 16:04:25,927 - INFO - Checking feed: https://feeds.npr.org/1017/rss.xml
+2026-01-03 16:04:25,987 - INFO - Checking feed: https://feeds.npr.org/1007/rss.xml
+2026-01-03 16:04:26,047 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
+2026-01-03 16:04:26,156 - INFO - Saved 121 stories to docs/good_news.json.
+2026-01-03 16:04:26,156 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 958 processed, 1 accepted | Cache: 0 hits, 1 misses | Duration: 6.35s

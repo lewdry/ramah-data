@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-03T15:04:01Z",
+  "last run": "2026-01-03T16:04:26Z",
   "stories": [
+    {
+      "headline": "First Welsh Netflix drama hopes to build on success",
+      "link": "https://www.bbc.com/news/articles/c4gkjr554y2o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5165,
+      "vader_score": 0.7579,
+      "textblob_score": 0.275,
+      "first_sentence": "The producers behind a Welsh language drama starring Star Wars actor Mark Lewis Jones have said they're hoping to replicate their global success.",
+      "timestamp": "2026-01-03T15:23:50Z",
+      "source": "BBC News"
+    },
     {
       "headline": "European security advisors discuss peace proposals in Kyiv ahead of leaders\u2019 summit",
       "link": "https://apnews.com/article/peace-proposals-diplomacy-ukraine-war-8eaa7d78332ab3664c54e34b0d3df020",
