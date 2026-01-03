@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Trailblazing female jockey remembered for 'courage, grit and progress'",
+    "link": "https://www.abc.net.au/news/2026-01-03/horse-racing-history-making-jockey-diane-crump-dies/106196242",
+    "mean_score": 0.3592,
+    "vader_score": 0.7184,
+    "textblob_score": 0.0,
+    "first_sentence": "Diane Crump was the first woman to ride professionally in a horse race in the United States.",
+    "timestamp": "2026-01-03T00:29:58Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Trove of unearthed vintage photos reveals forbidden love between men",
     "link": "https://www.abc.net.au/news/2026-01-03/photographs-of-men-in-love-exhibition-same-sex-couples-canberra/106164254",
     "mean_score": 0.42,
@@ -36,6 +46,16 @@
     "vader_score": 0.5719,
     "textblob_score": 1.0,
     "first_sentence": "They didn't just lose either.",
+    "timestamp": "2026-01-02T18:30:00Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Reading goals that are good for your brain",
+    "link": "https://www.abc.net.au/news/2026-01-03/how-to-read-more-in-the-new-year/105977668",
+    "mean_score": 0.5702,
+    "vader_score": 0.4404,
+    "textblob_score": 0.7,
+    "first_sentence": "Clara Pribadi is a \"bit behind\" on her reading goal for 2025.",
     "timestamp": "2026-01-02T18:30:00Z",
     "source": "ABC News"
   },
