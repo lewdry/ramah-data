@@ -1,0 +1,13 @@
+[
+  {
+    "timestamp": "2026-01-03T06:35:38Z",
+    "feeds_checked": 29,
+    "feeds_failed": 0,
+    "entries_processed": 956,
+    "entries_blocked": 140,
+    "entries_sentiment_rejected": 720,
+    "entries_accepted": 0,
+    "stories_by_source": {},
+    "execution_time_seconds": 20.28
+  }
+]

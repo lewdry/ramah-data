@@ -85,6 +85,7 @@ DATA_DIR = "docs"
 DATA_FILE = os.path.join(DATA_DIR, "good_news.json")
 ARCHIVE_FILE = os.path.join(DATA_DIR, "old_news.json")
 LOG_FILE = os.path.join(DATA_DIR, "fetch.log")
+METRICS_FILE = os.path.join(DATA_DIR, "metrics.json")
 
 # Setup Logging
 os.makedirs(DATA_DIR, exist_ok=True)
@@ -96,6 +97,45 @@ logging.basicConfig(
         logging.StreamHandler()
     ]
 )
+
+def fetch_feed_with_retry(feed_url, max_retries=3, initial_delay=1):
+    """Fetch RSS feed with exponential backoff retry logic."""
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+    }
+    
+    for attempt in range(max_retries):
+        try:
+            response = requests.get(feed_url, headers=headers, timeout=10)
+            response.raise_for_status()
+            return feedparser.parse(response.content)
+        except Exception as e:
+            if attempt == max_retries - 1:
+                logging.error(f"Failed to fetch {feed_url} after {max_retries} attempts: {e}")
+                return None
+            
+            delay = initial_delay * (2 ** attempt)
+            logging.warning(f"Attempt {attempt + 1} failed for {feed_url}. Retrying in {delay}s...")
+            time.sleep(delay)
+    
+    return None
+
+def save_run_metrics(metrics):
+    """Append run metrics to a rolling log."""
+    history = []
+    if os.path.exists(METRICS_FILE):
+        try:
+            with open(METRICS_FILE, 'r') as f:
+                history = json.load(f)
+        except:
+            history = []
+    
+    history.append(metrics)
+    # Keep only last 100 runs
+    history = history[-100:]
+    
+    with open(METRICS_FILE, 'w') as f:
+        json.dump(history, f, indent=2)
 
 def get_first_sentence(url):
     """
@@ -331,7 +371,21 @@ def archive_old_stories(new_archived_stories):
 
 def main():
     logging.info("Starting Ramah News Fetcher")
+    start_time = time.time()
     analyzer = SentimentIntensityAnalyzer()
+    
+    # Initialize metrics tracking
+    metrics = {
+        'timestamp': _current_timestamp_str(),
+        'feeds_checked': 0,
+        'feeds_failed': 0,
+        'entries_processed': 0,
+        'entries_blocked': 0,
+        'entries_sentiment_rejected': 0,
+        'entries_accepted': 0,
+        'stories_by_source': {},
+        'execution_time_seconds': 0
+    }
     
     current_data = load_data(DATA_FILE)
 
@@ -348,14 +402,11 @@ def main():
 
     for feed_url in RSS_FEEDS:
         logging.info(f"Checking feed: {feed_url}")
-        try:
-            # Use requests with a User-Agent to avoid 403 Forbidden errors
-            headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'}
-            response = requests.get(feed_url, headers=headers, timeout=10)
-            response.raise_for_status()
-            feed = feedparser.parse(response.content)
-        except Exception as e:
-            logging.error(f"Error fetching feed {feed_url}: {e}")
+        metrics['feeds_checked'] += 1
+        
+        feed = fetch_feed_with_retry(feed_url)
+        if feed is None:
+            metrics['feeds_failed'] += 1
             continue
             
         if feed.bozo:
@@ -368,10 +419,12 @@ def main():
             
         for entry in feed.entries:
             link = entry.get('link')
+            metrics['entries_processed'] += 1
             
             # Skip individual entries whose URL matches the blocklist
             if link and any(block in link for block in URL_BLOCKLIST):
                 logging.debug(f"Skipping blocked URL: {link}")
+                metrics['entries_blocked'] += 1
                 continue
 
             if link in existing_urls:
@@ -382,6 +435,7 @@ def main():
             # Block list check
             if any(blocked_word.lower() in title.lower() for blocked_word in BLOCK_LIST):
                 logging.debug(f"Skipping blocked headline: {title}")
+                metrics['entries_blocked'] += 1
                 continue
             
             # Sentiment Analysis
@@ -395,6 +449,7 @@ def main():
             mean_score = (vader_score + textblob_score) / 2
             
             if mean_score > SENTIMENT_THRESHOLD:
+                metrics['entries_accepted'] += 1
                 logging.info(f"Found good news: {title} (Mean Score: {mean_score:.4f}, VADER: {vader_score:.4f}, TextBlob: {textblob_score:.4f})")
                 
                 # Fetch first sentence
@@ -422,6 +477,11 @@ def main():
 
                 # Determine canonical source name using prioritized heuristics
                 source = canonical_source(feed_url, feed.feed.get('title', 'Unknown Source'), link)
+                
+                # Track stories by source
+                if source not in metrics['stories_by_source']:
+                    metrics['stories_by_source'][source] = 0
+                metrics['stories_by_source'][source] += 1
 
                 news_item = {
                     'headline': title,
@@ -448,6 +508,8 @@ def main():
 
                 existing_urls.add(link)
                 new_stories_count += 1
+            else:
+                metrics['entries_sentiment_rejected'] += 1
 
     # Record the time this fetch run completed (UTC).
     last_run = _current_timestamp_str()
@@ -468,6 +530,13 @@ def main():
         # in the data file (preserving wrapped format if present).
         save_data(current_data, DATA_FILE, last_run=last_run)
         logging.info("No new positive stories found; updated last run timestamp.")
+    
+    # Calculate execution time and save metrics
+    metrics['execution_time_seconds'] = round(time.time() - start_time, 2)
+    save_run_metrics(metrics)
+    logging.info(f"Run metrics - Feeds: {metrics['feeds_checked']} checked, {metrics['feeds_failed']} failed | "
+                 f"Entries: {metrics['entries_processed']} processed, {metrics['entries_accepted']} accepted | "
+                 f"Duration: {metrics['execution_time_seconds']}s")
 
 if __name__ == "__main__":
     main()
