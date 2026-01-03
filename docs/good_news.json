@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-03T13:11:49Z",
+  "last run": "2026-01-03T14:04:08Z",
   "stories": [
+    {
+      "headline": "European security advisors discuss peace proposals in Kyiv ahead of leaders\u2019 summit",
+      "link": "https://apnews.com/article/peace-proposals-diplomacy-ukraine-war-8eaa7d78332ab3664c54e34b0d3df020",
+      "mean_score": 0.3548,
+      "vader_score": 0.7096,
+      "textblob_score": 0.0,
+      "first_sentence": "KYIV, Ukraine (AP) \u2014 European national security advisors arrived in Kyiv on Saturday to discuss the latest peace proposals, as a U.S.-led diplomatic push to end the nearly 4-year-old war in Ukraine intensifies.",
+      "timestamp": "2026-01-03T13:53:02Z",
+      "source": "AP News"
+    },
     {
       "headline": "From squirrel picnics to penpals, karaoke to crochet: 43 easy ways to lift your spirits",
       "link": "https://www.theguardian.com/lifeandstyle/2026/jan/03/from-squirrel-picnics-to-penpals-karaoke-to-crochet-43-easy-ways-to-lift-your-spirits",

@@ -138,5 +138,20 @@
     "cache_hits": 0,
     "cache_misses": 0,
     "execution_time_seconds": 8.1
+  },
+  {
+    "timestamp": "2026-01-03T14:04:00Z",
+    "feeds_checked": 29,
+    "feeds_failed": 0,
+    "entries_processed": 962,
+    "entries_blocked": 234,
+    "entries_sentiment_rejected": 633,
+    "entries_accepted": 1,
+    "stories_by_source": {
+      "AP News": 1
+    },
+    "cache_hits": 0,
+    "cache_misses": 1,
+    "execution_time_seconds": 7.41
   }
 ]

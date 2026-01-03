@@ -2643,3 +2643,36 @@
 2026-01-03 13:11:49,681 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
 2026-01-03 13:11:49,806 - INFO - No new positive stories found; updated last run timestamp.
 2026-01-03 13:11:49,806 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 969 processed, 0 accepted | Cache: 0 hits, 0 misses | Duration: 8.1s
+2026-01-03 14:04:00,962 - INFO - Starting Ramah News Fetcher
+2026-01-03 14:04:00,971 - INFO - Checking feed: http://feeds.bbci.co.uk/news/rss.xml
+2026-01-03 14:04:01,805 - INFO - Checking feed: http://feeds.bbci.co.uk/news/world/rss.xml
+2026-01-03 14:04:01,898 - INFO - Checking feed: http://feeds.bbci.co.uk/news/uk/rss.xml
+2026-01-03 14:04:02,114 - INFO - Checking feed: http://feeds.bbci.co.uk/news/business/rss.xml
+2026-01-03 14:04:02,426 - INFO - Checking feed: http://feeds.bbci.co.uk/news/technology/rss.xml
+2026-01-03 14:04:02,820 - INFO - Checking feed: http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+2026-01-03 14:04:03,045 - INFO - Checking feed: http://feeds.bbci.co.uk/news/health/rss.xml
+2026-01-03 14:04:03,292 - INFO - Checking feed: http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+2026-01-03 14:04:03,510 - INFO - Checking feed: https://www.abc.net.au/news/feed/45910/rss.xml
+2026-01-03 14:04:03,652 - INFO - Checking feed: https://www.abc.net.au/news/feed/51120/rss.xml
+2026-01-03 14:04:03,867 - INFO - Checking feed: https://www.theguardian.com/world/rss
+2026-01-03 14:04:04,064 - INFO - Checking feed: https://www.theguardian.com/au/rss
+2026-01-03 14:04:04,296 - INFO - Checking feed: https://www.theguardian.com/environment/rss
+2026-01-03 14:04:04,395 - INFO - Checking feed: https://www.theguardian.com/science/rss
+2026-01-03 14:04:04,480 - INFO - Checking feed: https://www.theguardian.com/uk/technology/rss
+2026-01-03 14:04:04,555 - INFO - Checking feed: https://www.theguardian.com/lifeandstyle/rss
+2026-01-03 14:04:04,689 - INFO - Checking feed: https://www.sbs.com.au/news/feed
+2026-01-03 14:04:05,297 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/index
+2026-01-03 14:04:05,465 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/science
+2026-01-03 14:04:05,552 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/tech-policy
+2026-01-03 14:04:05,873 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/gaming
+2026-01-03 14:04:06,251 - INFO - Checking feed: https://feedx.net/rss/ap.xml
+2026-01-03 14:04:06,980 - INFO - Found good news: European security advisors discuss peace proposals in Kyiv ahead of leaders’ summit (Mean Score: 0.3548, VADER: 0.7096, TextBlob: 0.0000)
+2026-01-03 14:04:07,463 - INFO - Checking feed: https://feeds.npr.org/1001/rss.xml
+2026-01-03 14:04:07,797 - INFO - Checking feed: https://feeds.npr.org/1004/rss.xml
+2026-01-03 14:04:07,922 - INFO - Checking feed: https://feeds.npr.org/1014/rss.xml
+2026-01-03 14:04:07,975 - INFO - Checking feed: https://feeds.npr.org/1019/rss.xml
+2026-01-03 14:04:08,030 - INFO - Checking feed: https://feeds.npr.org/1017/rss.xml
+2026-01-03 14:04:08,099 - INFO - Checking feed: https://feeds.npr.org/1007/rss.xml
+2026-01-03 14:04:08,219 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
+2026-01-03 14:04:08,367 - INFO - Saved 120 stories to docs/good_news.json.
+2026-01-03 14:04:08,368 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 962 processed, 1 accepted | Cache: 0 hits, 1 misses | Duration: 7.41s
