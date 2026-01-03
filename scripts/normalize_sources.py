@@ -22,8 +22,9 @@ def main():
         print(f"No {DATA_FILE} found; nothing to do.")
         return
 
-    with open(DATA_FILE, 'r') as f:
-        data = json.load(f)
+    # Load via fetch_news helper to handle both legacy (list) and wrapped
+    # formats that contain 'last run' and 'stories'.
+    data = fetch_news.load_data(DATA_FILE)
 
     changed = 0
     for item in data:
@@ -35,8 +36,9 @@ def main():
             changed += 1
 
     if changed:
-        with open(DATA_FILE, 'w') as f:
-            json.dump(data, f, indent=2)
+        # Use fetch_news.save_data so we preserve any existing 'last run'
+        # metadata and remain compatible with the wrapped format.
+        fetch_news.save_data(data, DATA_FILE)
         print(f"Wrote {changed} updated entries to {DATA_FILE}.")
     else:
         print("No changes needed.")

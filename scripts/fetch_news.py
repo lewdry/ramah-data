@@ -142,14 +142,38 @@ def get_first_sentence(url):
     
     return None
 
+def _current_timestamp_str():
+    # Use UTC in the same format used elsewhere in this project.
+    return datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+
+
 def load_data(filename):
+    """Load stories from `filename` and return a list of story dicts.
+
+    Supports two formats for backwards compatibility:
+    - legacy: top-level list of story objects
+    - wrapped: object with keys "last run" and "stories"
+    """
     if os.path.exists(filename):
         try:
             with open(filename, 'r') as f:
-                return json.load(f)
+                data = json.load(f)
         except json.JSONDecodeError:
             logging.error(f"JSON decode error in {filename}. Starting fresh.")
             return []
+
+        if isinstance(data, dict):
+            stories = data.get('stories', [])
+            if isinstance(stories, list):
+                return stories
+            logging.error(f"Invalid 'stories' in {filename}; starting fresh.")
+            return []
+        elif isinstance(data, list):
+            return data
+        else:
+            logging.error(f"Unexpected JSON structure in {filename}; starting fresh.")
+            return []
+
     return []
 
 
@@ -253,9 +277,34 @@ def _ensure_reverse_chrono_sorted(items):
     paired.sort()
     return [p[2] for p in paired]
 
-def save_data(data, filename):
-    with open(filename, 'w') as f:
-        json.dump(data, f, indent=2)
+def save_data(data, filename, last_run=None):
+    """Save `data` (list of stories) to `filename`.
+
+    Behavior:
+    - If `last_run` is provided, write wrapped format: {"last run": <str>, "stories": [...]}
+    - If file already exists and is wrapped (dict with 'stories'), preserve wrapped format and existing 'last run' unless `last_run` is provided.
+    - Otherwise write the legacy top-level list format.
+    """
+    existing = None
+    if os.path.exists(filename):
+        try:
+            with open(filename, 'r') as f:
+                existing = json.load(f)
+        except Exception:
+            existing = None
+
+    write_wrapped = last_run is not None or (isinstance(existing, dict) and 'stories' in existing)
+
+    if write_wrapped:
+        lr = last_run if last_run is not None else (existing.get('last run') if isinstance(existing, dict) else None)
+        if not lr:
+            lr = _current_timestamp_str()
+        out = {'last run': lr, 'stories': data}
+        with open(filename, 'w') as f:
+            json.dump(out, f, indent=2)
+    else:
+        with open(filename, 'w') as f:
+            json.dump(data, f, indent=2)
 
 def archive_old_stories(new_archived_stories):
     if not new_archived_stories:
@@ -400,19 +449,25 @@ def main():
                 existing_urls.add(link)
                 new_stories_count += 1
 
+    # Record the time this fetch run completed (UTC).
+    last_run = _current_timestamp_str()
+
     if new_stories_count > 0:
         # Trim/keep the most recent MAX_STORIES (current_data is already
         # reverse-chronological due to insertion logic)
         keep_stories = current_data[:MAX_STORIES]
         archive_stories = current_data[MAX_STORIES:]
 
-        save_data(keep_stories, DATA_FILE)
+        save_data(keep_stories, DATA_FILE, last_run=last_run)
         logging.info(f"Saved {len(keep_stories)} stories to {DATA_FILE}.")
 
         if archive_stories:
             archive_old_stories(archive_stories)
     else:
-        logging.info("No new positive stories found.")
+        # Even if there were no new stories, update the last-run timestamp
+        # in the data file (preserving wrapped format if present).
+        save_data(current_data, DATA_FILE, last_run=last_run)
+        logging.info("No new positive stories found; updated last run timestamp.")
 
 if __name__ == "__main__":
     main()
