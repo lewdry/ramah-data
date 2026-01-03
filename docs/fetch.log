@@ -2378,3 +2378,38 @@
 2026-01-03 17:38:10,047 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
 2026-01-03 17:38:10,121 - INFO - No new positive stories found; updated last run timestamp.
 2026-01-03 17:38:10,122 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 956 processed, 0 accepted | Cache: 0 hits, 0 misses | Duration: 13.66s
+2026-01-03 08:36:15,916 - INFO - Starting Ramah News Fetcher
+2026-01-03 08:36:15,926 - INFO - Checking feed: http://feeds.bbci.co.uk/news/rss.xml
+2026-01-03 08:36:16,254 - INFO - Checking feed: http://feeds.bbci.co.uk/news/world/rss.xml
+2026-01-03 08:36:16,321 - INFO - Checking feed: http://feeds.bbci.co.uk/news/uk/rss.xml
+2026-01-03 08:36:16,518 - INFO - Checking feed: http://feeds.bbci.co.uk/news/business/rss.xml
+2026-01-03 08:36:16,700 - INFO - Found good news: Practical tips to save on energy bills this winter (Mean Score: 0.3243, VADER: 0.6486, TextBlob: 0.0000)
+2026-01-03 08:36:17,207 - INFO - Checking feed: http://feeds.bbci.co.uk/news/technology/rss.xml
+2026-01-03 08:36:17,530 - INFO - Checking feed: http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+2026-01-03 08:36:17,737 - INFO - Checking feed: http://feeds.bbci.co.uk/news/health/rss.xml
+2026-01-03 08:36:17,970 - INFO - Checking feed: http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+2026-01-03 08:36:18,148 - INFO - Checking feed: https://www.abc.net.au/news/feed/45910/rss.xml
+2026-01-03 08:36:18,719 - INFO - Checking feed: https://www.abc.net.au/news/feed/51120/rss.xml
+2026-01-03 08:36:18,969 - INFO - Checking feed: https://www.theguardian.com/world/rss
+2026-01-03 08:36:19,182 - INFO - Found good news: Reddit overtakes TikTok in UK thanks to search algorithms and gen z (Mean Score: 0.3202, VADER: 0.4404, TextBlob: 0.2000)
+2026-01-03 08:36:19,262 - INFO - Checking feed: https://www.theguardian.com/au/rss
+2026-01-03 08:36:19,485 - INFO - Found good news: Hebridean high: joy, tears and camaraderie on a 100km trek for charity across the Isle of Skye (Mean Score: 0.5854, VADER: 0.6908, TextBlob: 0.4800)
+2026-01-03 08:36:19,564 - INFO - Checking feed: https://www.theguardian.com/environment/rss
+2026-01-03 08:36:19,790 - INFO - Checking feed: https://www.theguardian.com/science/rss
+2026-01-03 08:36:19,876 - INFO - Checking feed: https://www.theguardian.com/uk/technology/rss
+2026-01-03 08:36:19,948 - INFO - Checking feed: https://www.theguardian.com/lifeandstyle/rss
+2026-01-03 08:36:20,079 - INFO - Checking feed: https://www.sbs.com.au/news/feed
+2026-01-03 08:36:20,417 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/index
+2026-01-03 08:36:20,632 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/science
+2026-01-03 08:36:20,947 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/tech-policy
+2026-01-03 08:36:21,149 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/gaming
+2026-01-03 08:36:21,329 - INFO - Checking feed: https://feedx.net/rss/ap.xml
+2026-01-03 08:36:22,030 - INFO - Checking feed: https://feeds.npr.org/1001/rss.xml
+2026-01-03 08:36:22,362 - INFO - Checking feed: https://feeds.npr.org/1004/rss.xml
+2026-01-03 08:36:22,410 - INFO - Checking feed: https://feeds.npr.org/1014/rss.xml
+2026-01-03 08:36:22,459 - INFO - Checking feed: https://feeds.npr.org/1019/rss.xml
+2026-01-03 08:36:22,509 - INFO - Checking feed: https://feeds.npr.org/1017/rss.xml
+2026-01-03 08:36:22,574 - INFO - Checking feed: https://feeds.npr.org/1007/rss.xml
+2026-01-03 08:36:22,623 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
+2026-01-03 08:36:22,674 - INFO - Saved 121 stories to docs/good_news.json.
+2026-01-03 08:36:22,675 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 959 processed, 3 accepted | Cache: 0 hits, 3 misses | Duration: 6.76s

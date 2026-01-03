@@ -22,5 +22,21 @@
     "cache_hits": 0,
     "cache_misses": 0,
     "execution_time_seconds": 13.66
+  },
+  {
+    "timestamp": "2026-01-03T08:36:15Z",
+    "feeds_checked": 29,
+    "feeds_failed": 0,
+    "entries_processed": 959,
+    "entries_blocked": 141,
+    "entries_sentiment_rejected": 728,
+    "entries_accepted": 3,
+    "stories_by_source": {
+      "BBC News": 1,
+      "The Guardian": 2
+    },
+    "cache_hits": 0,
+    "cache_misses": 3,
+    "execution_time_seconds": 6.76
   }
 ]
