@@ -8,8 +8,8 @@ def cleanup():
         print("Data file not found.")
         return
         
-    with open(fetch_news.DATA_FILE, 'r') as f:
-        data = json.load(f)
+    # Use load_data to handle both legacy list format and wrapped format
+    data = fetch_news.load_data(fetch_news.DATA_FILE)
         
     initial_count = len(data)
     cleaned_data = []
@@ -37,14 +37,14 @@ def cleanup():
         cleaned_data.append(item) 
         
     if removed_count > 0:
-        with open(fetch_news.DATA_FILE, 'w') as f:
-            json.dump(cleaned_data, f, indent=2)
+        # Use save_data to preserve wrapped format if present
+        fetch_news.save_data(cleaned_data, fetch_news.DATA_FILE)
         print(f"Successfully removed {removed_count} out of {initial_count} items.")
 
         # Additionally, clean the archive file of any URL-blocked links
         if hasattr(fetch_news, 'ARCHIVE_FILE') and os.path.exists(fetch_news.ARCHIVE_FILE):
-            with open(fetch_news.ARCHIVE_FILE, 'r') as f:
-                archive = json.load(f)
+            # Use load_data to handle both formats
+            archive = fetch_news.load_data(fetch_news.ARCHIVE_FILE)
             archive_initial = len(archive)
             new_archive = []
             removed_archive = 0
@@ -55,8 +55,8 @@ def cleanup():
                     continue
                 new_archive.append(item)
             if removed_archive > 0:
-                with open(fetch_news.ARCHIVE_FILE, 'w') as f:
-                    json.dump(new_archive, f, indent=2)
+                # Use save_data to preserve wrapped format if present
+                fetch_news.save_data(new_archive, fetch_news.ARCHIVE_FILE)
                 print(f"Removed {removed_archive} items from archive ({fetch_news.ARCHIVE_FILE}).")
     else:
         print("No items removed.")
