@@ -2840,3 +2840,41 @@
 2026-01-03 19:03:50,360 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
 2026-01-03 19:03:50,417 - INFO - Saved 124 stories to docs/good_news.json.
 2026-01-03 19:03:50,417 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 950 processed, 3 accepted | Cache: 0 hits, 3 misses | Duration: 6.32s
+2026-01-03 20:04:22,799 - INFO - Starting Ramah News Fetcher
+2026-01-03 20:04:22,809 - INFO - Checking feed: http://feeds.bbci.co.uk/news/rss.xml
+2026-01-03 20:04:26,211 - INFO - Checking feed: http://feeds.bbci.co.uk/news/world/rss.xml
+2026-01-03 20:04:26,283 - INFO - Checking feed: http://feeds.bbci.co.uk/news/uk/rss.xml
+2026-01-03 20:04:26,620 - INFO - Checking feed: http://feeds.bbci.co.uk/news/business/rss.xml
+2026-01-03 20:04:26,794 - INFO - Checking feed: http://feeds.bbci.co.uk/news/technology/rss.xml
+2026-01-03 20:04:26,880 - INFO - Checking feed: http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+2026-01-03 20:04:27,147 - INFO - Checking feed: http://feeds.bbci.co.uk/news/health/rss.xml
+2026-01-03 20:04:27,553 - INFO - Checking feed: http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+2026-01-03 20:04:27,709 - INFO - Checking feed: https://www.abc.net.au/news/feed/45910/rss.xml
+2026-01-03 20:04:28,419 - INFO - Found good news: Traditional romance stories get a First Nations twist with 'choc-lit' (Mean Score: 0.3412, VADER: 0.5574, TextBlob: 0.1250)
+2026-01-03 20:04:28,743 - INFO - Checking feed: https://www.abc.net.au/news/feed/51120/rss.xml
+2026-01-03 20:04:29,025 - INFO - Checking feed: https://www.theguardian.com/world/rss
+2026-01-03 20:04:29,269 - INFO - Checking feed: https://www.theguardian.com/au/rss
+2026-01-03 20:04:29,488 - INFO - Found good news: The moment I knew: I was ready to paddle back to shore when she leaned in to kiss me (Mean Score: 0.3743, VADER: 0.6486, TextBlob: 0.1000)
+2026-01-03 20:04:29,588 - INFO - Found good news: In his last days, I couldn’t bear to tell my dying husband what had happened at his beloved Bondi | Julianne Schultz (Mean Score: 0.4303, VADER: 0.5106, TextBlob: 0.3500)
+2026-01-03 20:04:29,689 - INFO - Checking feed: https://www.theguardian.com/environment/rss
+2026-01-03 20:04:29,797 - INFO - Checking feed: https://www.theguardian.com/science/rss
+2026-01-03 20:04:29,886 - INFO - Checking feed: https://www.theguardian.com/uk/technology/rss
+2026-01-03 20:04:29,965 - INFO - Checking feed: https://www.theguardian.com/lifeandstyle/rss
+2026-01-03 20:04:30,107 - INFO - Checking feed: https://www.sbs.com.au/news/feed
+2026-01-03 20:04:30,705 - INFO - Found good news: 'It's important because we're equal': The push to make safe relationships more accessible (Mean Score: 0.4634, VADER: 0.5719, TextBlob: 0.3550)
+2026-01-03 20:04:30,817 - INFO - Found good news: Amanda saves almost $1,000 on her mortgage thanks to a little-known product (Mean Score: 0.3202, VADER: 0.4404, TextBlob: 0.2000)
+2026-01-03 20:04:31,185 - INFO - Found good news: A 'wolf' supermoon is happening tonight. Here's the best time to watch it (Mean Score: 0.8185, VADER: 0.6369, TextBlob: 1.0000)
+2026-01-03 20:04:31,706 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/index
+2026-01-03 20:04:31,893 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/science
+2026-01-03 20:04:31,983 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/tech-policy
+2026-01-03 20:04:32,312 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/gaming
+2026-01-03 20:04:32,482 - INFO - Checking feed: https://feedx.net/rss/ap.xml
+2026-01-03 20:04:32,685 - INFO - Checking feed: https://feeds.npr.org/1001/rss.xml
+2026-01-03 20:04:32,989 - INFO - Checking feed: https://feeds.npr.org/1004/rss.xml
+2026-01-03 20:04:33,078 - INFO - Checking feed: https://feeds.npr.org/1014/rss.xml
+2026-01-03 20:04:33,134 - INFO - Checking feed: https://feeds.npr.org/1019/rss.xml
+2026-01-03 20:04:33,208 - INFO - Checking feed: https://feeds.npr.org/1017/rss.xml
+2026-01-03 20:04:33,281 - INFO - Checking feed: https://feeds.npr.org/1007/rss.xml
+2026-01-03 20:04:33,339 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
+2026-01-03 20:04:33,416 - INFO - Saved 130 stories to docs/good_news.json.
+2026-01-03 20:04:33,417 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 949 processed, 6 accepted | Cache: 0 hits, 6 misses | Duration: 10.62s
