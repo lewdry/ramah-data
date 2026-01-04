@@ -451,5 +451,20 @@
     "cache_hits": 0,
     "cache_misses": 1,
     "execution_time_seconds": 5.48
+  },
+  {
+    "timestamp": "2026-01-04T12:05:56Z",
+    "feeds_checked": 29,
+    "feeds_failed": 0,
+    "entries_processed": 959,
+    "entries_blocked": 223,
+    "entries_sentiment_rejected": 630,
+    "entries_accepted": 1,
+    "stories_by_source": {
+      "BBC News": 1
+    },
+    "cache_hits": 0,
+    "cache_misses": 1,
+    "execution_time_seconds": 9.27
   }
 ]

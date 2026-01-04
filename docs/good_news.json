@@ -1,5 +1,5 @@
 {
-  "last run": "2026-01-04T11:03:30Z",
+  "last run": "2026-01-04T12:06:05Z",
   "stories": [
     {
       "headline": "'I can't believe it' - Joy and uncertainty in Florida's 'Little Venezuela'",
@@ -80,6 +80,16 @@
       "first_sentence": "A new charity is offering vulnerable people and families emergency pet boarding, food drops and financial help for veterinary care.",
       "timestamp": "2026-01-03T22:38:55Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "Watch: 'I'm so happy' - Venezuelans in the US react to Maduro's capture",
+      "link": "https://www.bbc.com/news/videos/c5y2xqgjd7eo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.7474,
+      "vader_score": 0.6948,
+      "textblob_score": 0.8,
+      "first_sentence": "US President Donald Trump says the US launched strikes on Venezuela and captured its President Nicol\u00e1s Maduro.",
+      "timestamp": "2026-01-03T22:20:19Z",
+      "source": "BBC News"
     },
     {
       "headline": "Luke Littler routs Gian van Veen to win PDC World Championship darts final \u2013 live",
