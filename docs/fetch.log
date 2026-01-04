@@ -3401,3 +3401,38 @@
 2026-01-04 12:06:05,547 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
 2026-01-04 12:06:05,631 - INFO - Saved 141 stories to docs/good_news.json.
 2026-01-04 12:06:05,632 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 959 processed, 1 accepted | Cache: 0 hits, 1 misses | Duration: 9.27s
+2026-01-04 13:12:11,447 - INFO - Starting Ramah News Fetcher
+2026-01-04 13:12:11,457 - INFO - Checking feed: http://feeds.bbci.co.uk/news/rss.xml
+2026-01-04 13:12:11,775 - INFO - Checking feed: http://feeds.bbci.co.uk/news/world/rss.xml
+2026-01-04 13:12:11,970 - INFO - Checking feed: http://feeds.bbci.co.uk/news/uk/rss.xml
+2026-01-04 13:12:12,058 - INFO - Checking feed: http://feeds.bbci.co.uk/news/business/rss.xml
+2026-01-04 13:12:12,292 - INFO - Checking feed: http://feeds.bbci.co.uk/news/technology/rss.xml
+2026-01-04 13:12:12,474 - INFO - Checking feed: http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+2026-01-04 13:12:12,565 - INFO - Checking feed: http://feeds.bbci.co.uk/news/health/rss.xml
+2026-01-04 13:12:12,886 - INFO - Checking feed: http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+2026-01-04 13:12:13,073 - INFO - Checking feed: https://www.abc.net.au/news/feed/45910/rss.xml
+2026-01-04 13:12:13,447 - INFO - Found good news: Tears for Thanasi, grins for Nick as Special Ks make their return (Mean Score: 0.3795, VADER: 0.4019, TextBlob: 0.3571)
+2026-01-04 13:12:13,647 - INFO - Checking feed: https://www.abc.net.au/news/feed/51120/rss.xml
+2026-01-04 13:12:13,921 - INFO - Checking feed: https://www.theguardian.com/world/rss
+2026-01-04 13:12:14,037 - INFO - Checking feed: https://www.theguardian.com/au/rss
+2026-01-04 13:12:14,275 - INFO - Checking feed: https://www.theguardian.com/environment/rss
+2026-01-04 13:12:14,379 - INFO - Checking feed: https://www.theguardian.com/science/rss
+2026-01-04 13:12:14,464 - INFO - Checking feed: https://www.theguardian.com/uk/technology/rss
+2026-01-04 13:12:14,540 - INFO - Checking feed: https://www.theguardian.com/lifeandstyle/rss
+2026-01-04 13:12:14,809 - INFO - Found good news: How to make the perfect breakfast tacos – recipe | Felicity Cloake's How to make the perfect … (Mean Score: 0.9063, VADER: 0.8126, TextBlob: 1.0000)
+2026-01-04 13:12:14,988 - INFO - Checking feed: https://www.sbs.com.au/news/feed
+2026-01-04 13:12:16,506 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/index
+2026-01-04 13:12:16,697 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/science
+2026-01-04 13:12:16,772 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/tech-policy
+2026-01-04 13:12:17,002 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/gaming
+2026-01-04 13:12:17,245 - INFO - Checking feed: https://feedx.net/rss/ap.xml
+2026-01-04 13:12:17,600 - INFO - Checking feed: https://feeds.npr.org/1001/rss.xml
+2026-01-04 13:12:17,875 - INFO - Found good news: Wellness trends worth taking into the new year (and some that aren't) (Mean Score: 0.4020, VADER: 0.5859, TextBlob: 0.2182)
+2026-01-04 13:12:18,227 - INFO - Checking feed: https://feeds.npr.org/1004/rss.xml
+2026-01-04 13:12:18,287 - INFO - Checking feed: https://feeds.npr.org/1014/rss.xml
+2026-01-04 13:12:18,374 - INFO - Checking feed: https://feeds.npr.org/1019/rss.xml
+2026-01-04 13:12:18,437 - INFO - Checking feed: https://feeds.npr.org/1017/rss.xml
+2026-01-04 13:12:18,497 - INFO - Checking feed: https://feeds.npr.org/1007/rss.xml
+2026-01-04 13:12:18,555 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
+2026-01-04 13:12:18,757 - INFO - Saved 144 stories to docs/good_news.json.
+2026-01-04 13:12:18,758 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 963 processed, 3 accepted | Cache: 0 hits, 3 misses | Duration: 7.31s
