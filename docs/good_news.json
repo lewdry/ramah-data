@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-04T21:03:51Z",
+  "last run": "2026-01-04T22:04:06Z",
   "stories": [
+    {
+      "headline": "Alford\u2019s red-zone pick saves Falcons\u2019 19-17 win over Saints, giving NFC South title to Panthers",
+      "link": "https://apnews.com/article/saints-falcons-score-7af36fbef8544a69fba5bbeff2f12d12",
+      "mean_score": 0.4972,
+      "vader_score": 0.1943,
+      "textblob_score": 0.8,
+      "first_sentence": "ATLANTA (AP) \u2014 Dee Alford\u2019s red-zone interception stopped a potential go-ahead drive by New Orleans, and the Atlanta Falcons beat the Saints 19-17 on Sunday to give the NFC South title to the Carolina Panthers.",
+      "timestamp": "2026-01-04T21:53:02Z",
+      "source": "AP News"
+    },
+    {
+      "headline": "DNA study could save one of the world's oldest surviving songbirds",
+      "link": "https://www.abc.net.au/news/2026-01-05/dna-project-to-save-rufous-scrub-bird/106191878",
+      "mean_score": 0.3298,
+      "vader_score": 0.6597,
+      "textblob_score": 0.0,
+      "first_sentence": "A project is underway to sequence the genome of five separate Rufous scrub-bird colonies.",
+      "timestamp": "2026-01-04T21:01:33Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Marjorie Taylor Greene made waves. Her constituents don\u2019t agree on whether it was worth it",
       "link": "https://apnews.com/article/marjorie-taylor-greene-trump-georgia-republicans-f0e7f5f606cc63a0ccd57e429c05c762",
