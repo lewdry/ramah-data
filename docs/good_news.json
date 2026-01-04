@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-04T01:33:09Z",
+  "last run": "2026-01-04T02:48:11Z",
   "stories": [
+    {
+      "headline": "US makes 'bold' grab for oil as markets brace for Monday",
+      "link": "https://www.abc.net.au/news/2026-01-04/us-intervention-in-venezuela-impact-on-oil-prices-unclear/106197522",
+      "mean_score": 0.3576,
+      "vader_score": 0.3818,
+      "textblob_score": 0.3333,
+      "first_sentence": "Analysts say the US, and other oil giants, are equipped to extract and refine large volumes of oil from Venezuela.",
+      "timestamp": "2026-01-04T01:33:59Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Who is Mar\u00eda Corina Machado, Venezuela's Nobel Peace Prize winning opposition leader?",
       "link": "https://www.npr.org/2026/01/03/g-s1-104412/venezuela-nicolas-maduro-maria-corina-machado-opposition",
