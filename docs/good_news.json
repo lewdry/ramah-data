@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-04T22:04:06Z",
+  "last run": "2026-01-04T23:04:12Z",
   "stories": [
+    {
+      "headline": "Thanasi Kokkinakis and Nick Kyrgios make emotional doubles comeback with win in Brisbane",
+      "link": "https://www.theguardian.com/sport/2026/jan/05/thanasi-kokkinakis-nick-kyrgios-doubles-comeback",
+      "mean_score": 0.5298,
+      "vader_score": 0.6597,
+      "textblob_score": 0.4,
+      "first_sentence": "Thanasi Kokkinakis\u2019s tears after a doubles match told the story as the injury-plagued Australian won in his latest and most dramatic return to the sport alongside old friend Nick Kyrgios.",
+      "timestamp": "2026-01-04T22:46:29Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Alford\u2019s red-zone pick saves Falcons\u2019 19-17 win over Saints, giving NFC South title to Panthers",
       "link": "https://apnews.com/article/saints-falcons-score-7af36fbef8544a69fba5bbeff2f12d12",
@@ -30,6 +40,16 @@
       "first_sentence": "\u201cEvery thought that we had in our minds, she seemed to be very good at verbalizing,\u201d Harling said.",
       "timestamp": "2026-01-04T17:53:02Z",
       "source": "AP News"
+    },
+    {
+      "headline": "Reed\u2019s rocket rescues Fulham point and denies Liverpool in thrilling finish",
+      "link": "https://www.theguardian.com/football/2026/jan/04/fulham-liverpool-premier-league-match-report",
+      "mean_score": 0.3159,
+      "vader_score": 0.3818,
+      "textblob_score": 0.25,
+      "first_sentence": "Perhaps they underestimated Harrison Reed.",
+      "timestamp": "2026-01-04T17:30:29Z",
+      "source": "The Guardian"
     },
     {
       "headline": "Battery electric cars will overtake diesels in Great Britain by 2030, analysis suggests",
