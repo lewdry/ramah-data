@@ -3567,3 +3567,36 @@
 2026-01-04 17:04:16,417 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
 2026-01-04 17:04:16,497 - INFO - No new positive stories found; updated last run timestamp.
 2026-01-04 17:04:16,498 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 966 processed, 0 accepted | Cache: 0 hits, 0 misses | Duration: 6.62s
+2026-01-04 18:04:57,124 - INFO - Starting Ramah News Fetcher
+2026-01-04 18:04:57,134 - INFO - Checking feed: http://feeds.bbci.co.uk/news/rss.xml
+2026-01-04 18:04:57,407 - INFO - Checking feed: http://feeds.bbci.co.uk/news/world/rss.xml
+2026-01-04 18:04:57,571 - INFO - Checking feed: http://feeds.bbci.co.uk/news/uk/rss.xml
+2026-01-04 18:04:57,817 - INFO - Checking feed: http://feeds.bbci.co.uk/news/business/rss.xml
+2026-01-04 18:04:57,986 - INFO - Checking feed: http://feeds.bbci.co.uk/news/technology/rss.xml
+2026-01-04 18:04:58,199 - INFO - Checking feed: http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+2026-01-04 18:04:58,384 - INFO - Checking feed: http://feeds.bbci.co.uk/news/health/rss.xml
+2026-01-04 18:04:58,884 - INFO - Checking feed: http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+2026-01-04 18:04:59,094 - INFO - Checking feed: https://www.abc.net.au/news/feed/45910/rss.xml
+2026-01-04 18:04:59,610 - INFO - Checking feed: https://www.abc.net.au/news/feed/51120/rss.xml
+2026-01-04 18:05:00,015 - INFO - Checking feed: https://www.theguardian.com/world/rss
+2026-01-04 18:05:00,173 - INFO - Checking feed: https://www.theguardian.com/au/rss
+2026-01-04 18:05:00,421 - INFO - Checking feed: https://www.theguardian.com/environment/rss
+2026-01-04 18:05:00,621 - INFO - Checking feed: https://www.theguardian.com/science/rss
+2026-01-04 18:05:00,716 - INFO - Checking feed: https://www.theguardian.com/uk/technology/rss
+2026-01-04 18:05:00,804 - INFO - Checking feed: https://www.theguardian.com/lifeandstyle/rss
+2026-01-04 18:05:00,962 - INFO - Checking feed: https://www.sbs.com.au/news/feed
+2026-01-04 18:05:01,475 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/index
+2026-01-04 18:05:01,662 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/science
+2026-01-04 18:05:01,769 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/tech-policy
+2026-01-04 18:05:01,912 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/gaming
+2026-01-04 18:05:02,088 - INFO - Checking feed: https://feedx.net/rss/ap.xml
+2026-01-04 18:05:02,317 - INFO - Found good news: Marjorie Taylor Greene made waves. Her constituents don’t agree on whether it was worth it (Mean Score: 0.4133, VADER: 0.5267, TextBlob: 0.3000)
+2026-01-04 18:05:02,813 - INFO - Checking feed: https://feeds.npr.org/1001/rss.xml
+2026-01-04 18:05:02,907 - INFO - Checking feed: https://feeds.npr.org/1004/rss.xml
+2026-01-04 18:05:03,142 - INFO - Checking feed: https://feeds.npr.org/1014/rss.xml
+2026-01-04 18:05:03,207 - INFO - Checking feed: https://feeds.npr.org/1019/rss.xml
+2026-01-04 18:05:03,271 - INFO - Checking feed: https://feeds.npr.org/1017/rss.xml
+2026-01-04 18:05:03,465 - INFO - Checking feed: https://feeds.npr.org/1007/rss.xml
+2026-01-04 18:05:03,878 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
+2026-01-04 18:05:04,339 - INFO - Saved 148 stories to docs/good_news.json.
+2026-01-04 18:05:04,341 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 961 processed, 1 accepted | Cache: 0 hits, 1 misses | Duration: 7.22s

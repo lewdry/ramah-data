@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-04T17:04:16Z",
+  "last run": "2026-01-04T18:05:04Z",
   "stories": [
+    {
+      "headline": "Marjorie Taylor Greene made waves. Her constituents don\u2019t agree on whether it was worth it",
+      "link": "https://apnews.com/article/marjorie-taylor-greene-trump-georgia-republicans-f0e7f5f606cc63a0ccd57e429c05c762",
+      "mean_score": 0.4133,
+      "vader_score": 0.5267,
+      "textblob_score": 0.3,
+      "first_sentence": "\u201cEvery thought that we had in our minds, she seemed to be very good at verbalizing,\u201d Harling said.",
+      "timestamp": "2026-01-04T17:53:02Z",
+      "source": "AP News"
+    },
     {
       "headline": "Battery electric cars will overtake diesels in Great Britain by 2030, analysis suggests",
       "link": "https://www.theguardian.com/business/2026/jan/04/battery-electric-cars-diesels-great-britain-london-ulez",
