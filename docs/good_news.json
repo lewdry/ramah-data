@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-04T13:12:18Z",
+  "last run": "2026-01-04T14:04:07Z",
   "stories": [
+    {
+      "headline": "Starmer ready for closer alignment with the EU 'in the national interest'",
+      "link": "https://www.bbc.com/news/articles/cn56wdlw094o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4353,
+      "vader_score": 0.6705,
+      "textblob_score": 0.2,
+      "first_sentence": "Prime Minister Sir Keir Starmer has told the BBC the UK should move towards closer alignment with EU markets \"if it's in our national interest\".",
+      "timestamp": "2026-01-04T13:58:33Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Man who died trying to save people from sea was true selfless hero, family say",
+      "link": "https://www.bbc.com/news/articles/cy05lkr9pzjo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5342,
+      "vader_score": 0.7184,
+      "textblob_score": 0.35,
+      "first_sentence": "A man who died trying to save two people from the sea in East Yorkshire has been named as Mark Ratcliffe.",
+      "timestamp": "2026-01-04T13:56:19Z",
+      "source": "BBC News"
+    },
     {
       "headline": "How to make the perfect breakfast tacos \u2013 recipe | Felicity Cloake's How to make the perfect \u2026",
       "link": "https://www.theguardian.com/food/2026/jan/04/how-to-make-the-perfect-breakfast-tacos-recipe-felicity-cloake",
