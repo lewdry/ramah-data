@@ -3269,3 +3269,37 @@
 2026-01-04 08:04:50,432 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
 2026-01-04 08:04:50,495 - INFO - No new positive stories found; updated last run timestamp.
 2026-01-04 08:04:50,496 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 953 processed, 0 accepted | Cache: 0 hits, 0 misses | Duration: 6.64s
+2026-01-04 09:04:02,004 - INFO - Starting Ramah News Fetcher
+2026-01-04 09:04:02,014 - INFO - Checking feed: http://feeds.bbci.co.uk/news/rss.xml
+2026-01-04 09:04:02,301 - INFO - Found good news: 'I can finally breathe easy despite rare condition' (Mean Score: 0.3424, VADER: 0.4404, TextBlob: 0.2444)
+2026-01-04 09:04:02,451 - INFO - Checking feed: http://feeds.bbci.co.uk/news/world/rss.xml
+2026-01-04 09:04:02,668 - INFO - Checking feed: http://feeds.bbci.co.uk/news/uk/rss.xml
+2026-01-04 09:04:02,732 - INFO - Checking feed: http://feeds.bbci.co.uk/news/business/rss.xml
+2026-01-04 09:04:02,844 - INFO - Checking feed: http://feeds.bbci.co.uk/news/technology/rss.xml
+2026-01-04 09:04:02,928 - INFO - Checking feed: http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+2026-01-04 09:04:03,031 - INFO - Checking feed: http://feeds.bbci.co.uk/news/health/rss.xml
+2026-01-04 09:04:03,338 - INFO - Checking feed: http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+2026-01-04 09:04:03,545 - INFO - Checking feed: https://www.abc.net.au/news/feed/45910/rss.xml
+2026-01-04 09:04:03,841 - INFO - Checking feed: https://www.abc.net.au/news/feed/51120/rss.xml
+2026-01-04 09:04:04,063 - INFO - Found good news: Damien Martyn awakes from coma in 'some sort of miracle', thanks public (Mean Score: 0.3807, VADER: 0.7281, TextBlob: 0.0333)
+2026-01-04 09:04:04,622 - INFO - Checking feed: https://www.theguardian.com/world/rss
+2026-01-04 09:04:04,760 - INFO - Checking feed: https://www.theguardian.com/au/rss
+2026-01-04 09:04:05,141 - INFO - Checking feed: https://www.theguardian.com/environment/rss
+2026-01-04 09:04:05,242 - INFO - Checking feed: https://www.theguardian.com/science/rss
+2026-01-04 09:04:05,328 - INFO - Checking feed: https://www.theguardian.com/uk/technology/rss
+2026-01-04 09:04:05,403 - INFO - Checking feed: https://www.theguardian.com/lifeandstyle/rss
+2026-01-04 09:04:05,669 - INFO - Checking feed: https://www.sbs.com.au/news/feed
+2026-01-04 09:04:06,123 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/index
+2026-01-04 09:04:06,275 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/science
+2026-01-04 09:04:06,362 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/tech-policy
+2026-01-04 09:04:06,438 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/gaming
+2026-01-04 09:04:06,541 - INFO - Checking feed: https://feedx.net/rss/ap.xml
+2026-01-04 09:04:06,995 - INFO - Checking feed: https://feeds.npr.org/1001/rss.xml
+2026-01-04 09:04:07,211 - INFO - Checking feed: https://feeds.npr.org/1004/rss.xml
+2026-01-04 09:04:07,259 - INFO - Checking feed: https://feeds.npr.org/1014/rss.xml
+2026-01-04 09:04:07,305 - INFO - Checking feed: https://feeds.npr.org/1019/rss.xml
+2026-01-04 09:04:07,367 - INFO - Checking feed: https://feeds.npr.org/1017/rss.xml
+2026-01-04 09:04:07,416 - INFO - Checking feed: https://feeds.npr.org/1007/rss.xml
+2026-01-04 09:04:07,468 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
+2026-01-04 09:04:07,551 - INFO - Saved 139 stories to docs/good_news.json.
+2026-01-04 09:04:07,552 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 949 processed, 2 accepted | Cache: 0 hits, 2 misses | Duration: 5.55s
