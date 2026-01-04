@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-03T23:04:14Z",
+  "last run": "2026-01-04T00:17:24Z",
   "stories": [
+    {
+      "headline": "Live: Ahmed Al Ahmed among Bondi heroes honoured before SCG Test",
+      "link": "https://www.abc.net.au/news/2026-01-04/live-updates-ashes-australia-vs-england-fifth-test-day-one/106197464",
+      "mean_score": 0.4471,
+      "vader_score": 0.7579,
+      "textblob_score": 0.1364,
+      "first_sentence": "The SCG Test is marked with a tribute to the victims of the Bondi terror attack and praise for heroes from the day, including Ahmed Al Ahmed.",
+      "timestamp": "2026-01-03T22:50:49Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Top End dams overflow as parks come to life in the wake of Cyclone Fina",
       "link": "https://www.abc.net.au/news/2026-01-04/fogg-dam-darwin-river-cyclone-fina-monsoon/106194820",
