@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-04T10:04:13Z",
+  "last run": "2026-01-04T11:03:30Z",
   "stories": [
+    {
+      "headline": "'I can't believe it' - Joy and uncertainty in Florida's 'Little Venezuela'",
+      "link": "https://www.bbc.com/news/articles/clygv0pd26eo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3231,
+      "vader_score": 0.34,
+      "textblob_score": 0.3063,
+      "first_sentence": "For years, Florida resident Rosana Mateos had a recurring dream about the fall of Nicolas Maduro in Venezuela.",
+      "timestamp": "2026-01-04T10:35:43Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Damien Martyn awakes from coma in 'some sort of miracle', thanks public",
       "link": "https://www.abc.net.au/news/2026-01-04/australian-cricket-great-damien-martyn-awakes-from-coma/106198212",
