@@ -329,5 +329,18 @@
     "cache_hits": 0,
     "cache_misses": 1,
     "execution_time_seconds": 8.31
+  },
+  {
+    "timestamp": "2026-01-04T03:34:38Z",
+    "feeds_checked": 29,
+    "feeds_failed": 0,
+    "entries_processed": 954,
+    "entries_blocked": 204,
+    "entries_sentiment_rejected": 640,
+    "entries_accepted": 0,
+    "stories_by_source": {},
+    "cache_hits": 0,
+    "cache_misses": 0,
+    "execution_time_seconds": 9.35
   }
 ]
