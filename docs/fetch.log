@@ -4092,3 +4092,36 @@
 2026-01-05 09:08:46,439 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
 2026-01-05 09:08:46,497 - INFO - Saved 160 stories to docs/good_news.json.
 2026-01-05 09:08:46,498 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 962 processed, 1 accepted | Cache: 0 hits, 1 misses | Duration: 6.37s
+2026-01-05 10:05:08,627 - INFO - Starting Ramah News Fetcher
+2026-01-05 10:05:08,637 - INFO - Checking feed: http://feeds.bbci.co.uk/news/rss.xml
+2026-01-05 10:05:08,741 - INFO - Checking feed: http://feeds.bbci.co.uk/news/world/rss.xml
+2026-01-05 10:05:08,800 - INFO - Checking feed: http://feeds.bbci.co.uk/news/uk/rss.xml
+2026-01-05 10:05:09,178 - INFO - Checking feed: http://feeds.bbci.co.uk/news/business/rss.xml
+2026-01-05 10:05:09,267 - INFO - Checking feed: http://feeds.bbci.co.uk/news/technology/rss.xml
+2026-01-05 10:05:09,499 - INFO - Checking feed: http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+2026-01-05 10:05:09,594 - INFO - Checking feed: http://feeds.bbci.co.uk/news/health/rss.xml
+2026-01-05 10:05:09,911 - INFO - Checking feed: http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+2026-01-05 10:05:09,983 - INFO - Checking feed: https://www.abc.net.au/news/feed/45910/rss.xml
+2026-01-05 10:05:10,259 - INFO - Checking feed: https://www.abc.net.au/news/feed/51120/rss.xml
+2026-01-05 10:05:10,564 - INFO - Checking feed: https://www.theguardian.com/world/rss
+2026-01-05 10:05:10,718 - INFO - Checking feed: https://www.theguardian.com/au/rss
+2026-01-05 10:05:11,491 - INFO - Checking feed: https://www.theguardian.com/environment/rss
+2026-01-05 10:05:11,722 - INFO - Checking feed: https://www.theguardian.com/science/rss
+2026-01-05 10:05:11,939 - INFO - Checking feed: https://www.theguardian.com/uk/technology/rss
+2026-01-05 10:05:12,152 - INFO - Checking feed: https://www.theguardian.com/lifeandstyle/rss
+2026-01-05 10:05:12,645 - INFO - Checking feed: https://www.sbs.com.au/news/feed
+2026-01-05 10:05:13,050 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/index
+2026-01-05 10:05:13,154 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/science
+2026-01-05 10:05:13,259 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/tech-policy
+2026-01-05 10:05:13,345 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/gaming
+2026-01-05 10:05:13,575 - INFO - Checking feed: https://feedx.net/rss/ap.xml
+2026-01-05 10:05:14,119 - INFO - Checking feed: https://feeds.npr.org/1001/rss.xml
+2026-01-05 10:05:14,388 - INFO - Checking feed: https://feeds.npr.org/1004/rss.xml
+2026-01-05 10:05:14,433 - INFO - Found good news: Why a power plant is strategically important in the talks between Russia and Ukraine (Mean Score: 0.3012, VADER: 0.2023, TextBlob: 0.4000)
+2026-01-05 10:05:14,590 - INFO - Checking feed: https://feeds.npr.org/1014/rss.xml
+2026-01-05 10:05:14,641 - INFO - Checking feed: https://feeds.npr.org/1019/rss.xml
+2026-01-05 10:05:14,690 - INFO - Checking feed: https://feeds.npr.org/1017/rss.xml
+2026-01-05 10:05:14,748 - INFO - Checking feed: https://feeds.npr.org/1007/rss.xml
+2026-01-05 10:05:14,798 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
+2026-01-05 10:05:14,849 - INFO - Saved 161 stories to docs/good_news.json.
+2026-01-05 10:05:14,851 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 951 processed, 1 accepted | Cache: 0 hits, 1 misses | Duration: 6.22s
