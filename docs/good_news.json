@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-05T06:08:09Z",
+  "last run": "2026-01-05T07:10:06Z",
   "stories": [
+    {
+      "headline": "Sound of 2026: Reluctant rockers Royel Otis tipped for success",
+      "link": "https://www.bbc.com/news/articles/cgl825nz9nlo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.376,
+      "vader_score": 0.4019,
+      "textblob_score": 0.35,
+      "first_sentence": "Aussie guitar duo Royel Otis show up to our interview looking artfully crumpled, beers in hand - but all is not quite what it seems.",
+      "timestamp": "2026-01-05T07:02:28Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Second Root century secures him as 'best player outside of Bradman'",
       "link": "https://www.abc.net.au/news/2026-01-05/joe-root-second-century-scg-don-bradman/106199570",
