@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-05T20:04:31Z",
+  "last run": "2026-01-05T21:04:33Z",
   "stories": [
+    {
+      "headline": "Venezuela swears in interim leader, seeking to show it operates free from U.S. control",
+      "link": "https://www.npr.org/2026/01/05/g-s1-104632/venezuela-government",
+      "mean_score": 0.4712,
+      "vader_score": 0.5423,
+      "textblob_score": 0.4,
+      "first_sentence": "CARACAS, Venezuela \u2014 The Venezuelan government on Monday sought to show its people and the world that the country is being run independently and not controlled by the United States following its stunning weekend arrest of Nicol\u00e1s Maduro, the authoritarian leader who had ruled for almost 13 years.",
+      "timestamp": "2026-01-05T20:41:50Z",
+      "source": "NPR News"
+    },
     {
       "headline": "Aussie teen overcomes 21-year age gap to win at Brisbane International",
       "link": "https://www.abc.net.au/news/2026-01-06/brisbane-international-emerson-jones-kimberly-birrell/106202016",
@@ -10,6 +20,16 @@
       "first_sentence": "Emerson Jones has defeated world number 43 Tatjana Maria 6-3, 6-3.",
       "timestamp": "2026-01-05T19:44:28Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "SanDisk says goodbye to WD Blue and Black SSDs, hello to new \u201cOptimus\u201d drives",
+      "link": "https://arstechnica.com/gadgets/2026/01/sandisk-says-goodbye-to-wd-blue-and-black-ssds-hello-to-new-optimus-drives/",
+      "mean_score": 0.3266,
+      "vader_score": 0.6633,
+      "textblob_score": -0.0101,
+      "first_sentence": "Optimus SSDs will continue with the same model numbers that the WD SSDs used.",
+      "timestamp": "2026-01-05T19:32:28Z",
+      "source": "Ars Technica"
     },
     {
       "headline": "'Money talks': Big win to stop Sydney marina expansion could be short-lived",
@@ -40,6 +60,16 @@
       "first_sentence": "High street retailers Claire's and The Original Factory Shop are being put in to administration, risking 2,500 jobs.",
       "timestamp": "2026-01-05T19:02:52Z",
       "source": "BBC News"
+    },
+    {
+      "headline": "Is Tasmania's 'red tide' a brilliant light show or an environmental problem?",
+      "link": "https://www.abc.net.au/news/2026-01-06/algal-bloom-concerns-near-tasmanian-salmon-farms/106199152",
+      "mean_score": 0.3533,
+      "vader_score": 0.2732,
+      "textblob_score": 0.4333,
+      "first_sentence": "During the night, it's a sparkling blue bioluminescence, attracting curious onlookers.",
+      "timestamp": "2026-01-05T19:02:06Z",
+      "source": "ABC News"
     },
     {
       "headline": "How much do you know about the meat pie? Test yourself (or treat yourself)",
