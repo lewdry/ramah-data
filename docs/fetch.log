@@ -4356,3 +4356,40 @@
 2026-01-05 17:05:55,278 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
 2026-01-05 17:05:55,349 - INFO - Saved 168 stories to docs/good_news.json.
 2026-01-05 17:05:55,351 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 931 processed, 1 accepted | Cache: 0 hits, 1 misses | Duration: 6.35s
+2026-01-05 18:06:47,552 - INFO - Starting Ramah News Fetcher
+2026-01-05 18:06:47,562 - INFO - Checking feed: http://feeds.bbci.co.uk/news/rss.xml
+2026-01-05 18:06:47,787 - INFO - Checking feed: http://feeds.bbci.co.uk/news/world/rss.xml
+2026-01-05 18:06:47,856 - INFO - Checking feed: http://feeds.bbci.co.uk/news/uk/rss.xml
+2026-01-05 18:06:48,144 - INFO - Checking feed: http://feeds.bbci.co.uk/news/business/rss.xml
+2026-01-05 18:06:48,353 - INFO - Checking feed: http://feeds.bbci.co.uk/news/technology/rss.xml
+2026-01-05 18:06:48,951 - INFO - Checking feed: http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+2026-01-05 18:06:49,252 - INFO - Checking feed: http://feeds.bbci.co.uk/news/health/rss.xml
+2026-01-05 18:06:49,488 - INFO - Checking feed: http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+2026-01-05 18:06:49,718 - INFO - Checking feed: https://www.abc.net.au/news/feed/45910/rss.xml
+2026-01-05 18:06:50,364 - INFO - Checking feed: https://www.abc.net.au/news/feed/51120/rss.xml
+2026-01-05 18:06:50,635 - INFO - Checking feed: https://www.theguardian.com/world/rss
+2026-01-05 18:06:50,750 - INFO - Found good news: Scotland to have national bank holiday after first World Cup fixture (Mean Score: 0.3259, VADER: 0.4019, TextBlob: 0.2500)
+2026-01-05 18:06:50,915 - INFO - Checking feed: https://www.theguardian.com/au/rss
+2026-01-05 18:06:51,138 - INFO - Found good news: The one-hour work pattern: is ‘microshifting’ the secret to a happy, balanced life? (Mean Score: 0.3860, VADER: 0.5719, TextBlob: 0.2000)
+2026-01-05 18:06:51,213 - INFO - Found good news: Did you solve it? Are you as smart as Spock? (Mean Score: 0.4041, VADER: 0.5940, TextBlob: 0.2143)
+2026-01-05 18:06:51,387 - INFO - Found good news: Wash well – and don’t forget the lid: how to clean your reusable water bottle (Mean Score: 0.4035, VADER: 0.4404, TextBlob: 0.3667)
+2026-01-05 18:06:51,567 - INFO - Checking feed: https://www.theguardian.com/environment/rss
+2026-01-05 18:06:51,672 - INFO - Checking feed: https://www.theguardian.com/science/rss
+2026-01-05 18:06:51,759 - INFO - Checking feed: https://www.theguardian.com/uk/technology/rss
+2026-01-05 18:06:51,836 - INFO - Checking feed: https://www.theguardian.com/lifeandstyle/rss
+2026-01-05 18:06:51,976 - INFO - Checking feed: https://www.sbs.com.au/news/feed
+2026-01-05 18:06:52,465 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/index
+2026-01-05 18:06:52,570 - INFO - Found good news: Providers dropping common anesthesia drug that’s also a climate super pollutant (Mean Score: 0.3080, VADER: 0.5994, TextBlob: 0.0167)
+2026-01-05 18:06:52,843 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/science
+2026-01-05 18:06:53,041 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/tech-policy
+2026-01-05 18:06:53,267 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/gaming
+2026-01-05 18:06:53,430 - INFO - Checking feed: https://feedx.net/rss/ap.xml
+2026-01-05 18:06:53,851 - INFO - Checking feed: https://feeds.npr.org/1001/rss.xml
+2026-01-05 18:06:54,074 - INFO - Checking feed: https://feeds.npr.org/1004/rss.xml
+2026-01-05 18:06:54,144 - INFO - Checking feed: https://feeds.npr.org/1014/rss.xml
+2026-01-05 18:06:54,255 - INFO - Checking feed: https://feeds.npr.org/1019/rss.xml
+2026-01-05 18:06:54,328 - INFO - Checking feed: https://feeds.npr.org/1017/rss.xml
+2026-01-05 18:06:54,567 - INFO - Checking feed: https://feeds.npr.org/1007/rss.xml
+2026-01-05 18:06:54,716 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
+2026-01-05 18:06:54,784 - INFO - Saved 173 stories to docs/good_news.json.
+2026-01-05 18:06:54,786 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 933 processed, 5 accepted | Cache: 0 hits, 5 misses | Duration: 7.23s

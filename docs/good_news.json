@@ -1,6 +1,56 @@
 {
-  "last run": "2026-01-05T17:05:55Z",
+  "last run": "2026-01-05T18:06:54Z",
   "stories": [
+    {
+      "headline": "Scotland to have national bank holiday after first World Cup fixture",
+      "link": "https://www.theguardian.com/football/2026/jan/05/scotland-national-bank-holiday-after-world-cup-fixture",
+      "mean_score": 0.3259,
+      "vader_score": 0.4019,
+      "textblob_score": 0.25,
+      "first_sentence": "Football fans needn\u2019t worry about the hangover when they celebrate, or otherwise, into the wee hours after Scotland\u2019s first match in the 2026 World Cup \u2013 because the day after the 2am UK time fixture looks likely to be a national bank holiday there.",
+      "timestamp": "2026-01-05T17:19:39Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Did you solve it? Are you as smart as Spock?",
+      "link": "https://www.theguardian.com/science/2026/jan/05/did-you-solve-it-are-you-as-smart-as-spock",
+      "mean_score": 0.4041,
+      "vader_score": 0.594,
+      "textblob_score": 0.2143,
+      "first_sentence": "Earlier today I set the following puzzle, a pre-commemoration of World Logic Day on January 14.",
+      "timestamp": "2026-01-05T17:00:13Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Wash well \u2013 and don\u2019t forget the lid: how to clean your reusable water bottle",
+      "link": "https://www.theguardian.com/wellness/2026/jan/05/clean-your-reusable-water-bottle",
+      "mean_score": 0.4035,
+      "vader_score": 0.4404,
+      "textblob_score": 0.3667,
+      "first_sentence": "Environmentally friendly and convenient, reusable water bottles are on the rise.",
+      "timestamp": "2026-01-05T17:00:13Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "The one-hour work pattern: is \u2018microshifting\u2019 the secret to a happy, balanced life?",
+      "link": "https://www.theguardian.com/money/2026/jan/05/one-hour-work-pattern-microshifting-secret-happy-balanced-life",
+      "mean_score": 0.386,
+      "vader_score": 0.5719,
+      "textblob_score": 0.2,
+      "first_sentence": "That doesn\u2019t help.",
+      "timestamp": "2026-01-05T16:58:01Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Providers dropping common anesthesia drug that\u2019s also a climate super pollutant",
+      "link": "https://arstechnica.com/science/2026/01/providers-dropping-common-anesthesia-drug-thats-also-a-climate-super-pollutant/",
+      "mean_score": 0.308,
+      "vader_score": 0.5994,
+      "textblob_score": 0.0167,
+      "first_sentence": "The European Union now prohibits desflurane\u2019s use during most procedures.",
+      "timestamp": "2026-01-05T16:48:07Z",
+      "source": "Ars Technica"
+    },
     {
       "headline": "The perfect way to switch off from work: the secret to a daily de-stress routine",
       "link": "https://www.theguardian.com/lifeandstyle/2025/dec/19/the-perfect-way-to-switch-off-from-work-how-to-detach-and-de-stress",
