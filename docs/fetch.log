@@ -4393,3 +4393,39 @@
 2026-01-05 18:06:54,716 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
 2026-01-05 18:06:54,784 - INFO - Saved 173 stories to docs/good_news.json.
 2026-01-05 18:06:54,786 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 933 processed, 5 accepted | Cache: 0 hits, 5 misses | Duration: 7.23s
+2026-01-05 19:05:33,065 - INFO - Starting Ramah News Fetcher
+2026-01-05 19:05:33,075 - INFO - Checking feed: http://feeds.bbci.co.uk/news/rss.xml
+2026-01-05 19:05:33,855 - INFO - Found good news: Woman swept away with her daughter was a beautiful soul, says friend (Mean Score: 0.8232, VADER: 0.7964, TextBlob: 0.8500)
+2026-01-05 19:05:34,376 - INFO - Found good news: Claire's and The Original Factory Shop enter administration (Mean Score: 0.3466, VADER: 0.3182, TextBlob: 0.3750)
+2026-01-05 19:05:34,487 - INFO - Checking feed: http://feeds.bbci.co.uk/news/world/rss.xml
+2026-01-05 19:05:34,589 - INFO - Checking feed: http://feeds.bbci.co.uk/news/uk/rss.xml
+2026-01-05 19:05:34,843 - INFO - Checking feed: http://feeds.bbci.co.uk/news/business/rss.xml
+2026-01-05 19:05:34,954 - INFO - Checking feed: http://feeds.bbci.co.uk/news/technology/rss.xml
+2026-01-05 19:05:35,372 - INFO - Checking feed: http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+2026-01-05 19:05:35,498 - INFO - Checking feed: http://feeds.bbci.co.uk/news/health/rss.xml
+2026-01-05 19:05:35,957 - INFO - Checking feed: http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+2026-01-05 19:05:36,411 - INFO - Checking feed: https://www.abc.net.au/news/feed/45910/rss.xml
+2026-01-05 19:05:36,875 - INFO - Found good news: 'I am innocent': Deposed Venezuelan leader Maduro, wife enter pleas in NYC (Mean Score: 0.4200, VADER: 0.3400, TextBlob: 0.5000)
+2026-01-05 19:05:37,533 - INFO - Checking feed: https://www.abc.net.au/news/feed/51120/rss.xml
+2026-01-05 19:05:37,899 - INFO - Found good news: How much do you know about the meat pie? Test yourself (or treat yourself) (Mean Score: 0.3009, VADER: 0.4019, TextBlob: 0.2000)
+2026-01-05 19:05:38,258 - INFO - Checking feed: https://www.theguardian.com/world/rss
+2026-01-05 19:05:38,601 - INFO - Checking feed: https://www.theguardian.com/au/rss
+2026-01-05 19:05:38,970 - INFO - Checking feed: https://www.theguardian.com/environment/rss
+2026-01-05 19:05:39,220 - INFO - Checking feed: https://www.theguardian.com/science/rss
+2026-01-05 19:05:39,322 - INFO - Checking feed: https://www.theguardian.com/uk/technology/rss
+2026-01-05 19:05:39,430 - INFO - Checking feed: https://www.theguardian.com/lifeandstyle/rss
+2026-01-05 19:05:39,711 - INFO - Checking feed: https://www.sbs.com.au/news/feed
+2026-01-05 19:05:40,182 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/index
+2026-01-05 19:05:40,352 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/science
+2026-01-05 19:05:40,591 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/tech-policy
+2026-01-05 19:05:40,831 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/gaming
+2026-01-05 19:05:40,932 - INFO - Checking feed: https://feedx.net/rss/ap.xml
+2026-01-05 19:05:41,608 - INFO - Checking feed: https://feeds.npr.org/1001/rss.xml
+2026-01-05 19:05:41,736 - INFO - Checking feed: https://feeds.npr.org/1004/rss.xml
+2026-01-05 19:05:41,826 - INFO - Checking feed: https://feeds.npr.org/1014/rss.xml
+2026-01-05 19:05:41,922 - INFO - Checking feed: https://feeds.npr.org/1019/rss.xml
+2026-01-05 19:05:43,174 - INFO - Checking feed: https://feeds.npr.org/1017/rss.xml
+2026-01-05 19:05:43,274 - INFO - Checking feed: https://feeds.npr.org/1007/rss.xml
+2026-01-05 19:05:43,362 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
+2026-01-05 19:05:43,464 - INFO - Saved 177 stories to docs/good_news.json.
+2026-01-05 19:05:43,466 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 936 processed, 4 accepted | Cache: 0 hits, 4 misses | Duration: 10.4s
