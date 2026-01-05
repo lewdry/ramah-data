@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-05T07:10:06Z",
+  "last run": "2026-01-05T08:06:21Z",
   "stories": [
+    {
+      "headline": "Root hits masterful century for England before Head leads Australia fightback",
+      "link": "https://www.theguardian.com/sport/2026/jan/05/ashes-australia-england-fifth-test-day-two-cricket-report-joe-root-travis-head",
+      "mean_score": 0.5,
+      "vader_score": 0.0,
+      "textblob_score": 1.0,
+      "first_sentence": "The Richies were out in force for the final time on the second day at the Sydney Cricket Ground, an entire block decked out in either cream, bone, white, off-white, ivory, or beige.",
+      "timestamp": "2026-01-05T07:39:44Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Can you solve it? Are you as smart as Spock?",
+      "link": "https://www.theguardian.com/science/2026/jan/05/can-you-solve-it-are-you-as-smart-as-spock",
+      "mean_score": 0.4041,
+      "vader_score": 0.594,
+      "textblob_score": 0.2143,
+      "first_sentence": "Which it does: World Logic Day is a Unesco-approved date in the academic calendar for the promotion of the study of deductive reasoning.",
+      "timestamp": "2026-01-05T07:10:28Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Sound of 2026: Reluctant rockers Royel Otis tipped for success",
       "link": "https://www.bbc.com/news/articles/cgl825nz9nlo?at_medium=RSS&at_campaign=rss",
