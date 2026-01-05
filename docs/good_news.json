@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-05T15:05:10Z",
+  "last run": "2026-01-05T16:05:31Z",
   "stories": [
+    {
+      "headline": "US oil companies see shares rise amid hopes that Venezuelan reserves can be tapped",
+      "link": "https://www.bbc.com/news/articles/crrnw08qvg7o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3062,
+      "vader_score": 0.6124,
+      "textblob_score": 0.0,
+      "first_sentence": "Shares in US energy companies have jumped as investors bet that the US capture of Venezuelan President Nicol\u00e1s Maduro will open opportunities to tap the country's oil reserves.",
+      "timestamp": "2026-01-05T15:03:58Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Rukmini Iyer\u2019s quick and easy recipe for roast sweet potato, feta and butter bean traybake | Quick and easy",
       "link": "https://www.theguardian.com/food/2026/jan/05/quick-easy-roast-sweet-potato-recipe-feta-butter-bean-traybake-spring-onion-pesto-rukmini-iyer",
