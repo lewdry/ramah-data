@@ -4059,3 +4059,36 @@
 2026-01-05 08:06:21,575 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
 2026-01-05 08:06:21,704 - INFO - Saved 159 stories to docs/good_news.json.
 2026-01-05 08:06:21,705 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 962 processed, 2 accepted | Cache: 0 hits, 2 misses | Duration: 8.7s
+2026-01-05 09:08:40,127 - INFO - Starting Ramah News Fetcher
+2026-01-05 09:08:40,137 - INFO - Checking feed: http://feeds.bbci.co.uk/news/rss.xml
+2026-01-05 09:08:40,270 - INFO - Checking feed: http://feeds.bbci.co.uk/news/world/rss.xml
+2026-01-05 09:08:40,495 - INFO - Checking feed: http://feeds.bbci.co.uk/news/uk/rss.xml
+2026-01-05 09:08:40,868 - INFO - Checking feed: http://feeds.bbci.co.uk/news/business/rss.xml
+2026-01-05 09:08:41,175 - INFO - Checking feed: http://feeds.bbci.co.uk/news/technology/rss.xml
+2026-01-05 09:08:41,421 - INFO - Checking feed: http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+2026-01-05 09:08:41,503 - INFO - Checking feed: http://feeds.bbci.co.uk/news/health/rss.xml
+2026-01-05 09:08:41,827 - INFO - Checking feed: http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+2026-01-05 09:08:42,076 - INFO - Checking feed: https://www.abc.net.au/news/feed/45910/rss.xml
+2026-01-05 09:08:42,484 - INFO - Checking feed: https://www.abc.net.au/news/feed/51120/rss.xml
+2026-01-05 09:08:42,729 - INFO - Checking feed: https://www.theguardian.com/world/rss
+2026-01-05 09:08:42,911 - INFO - Checking feed: https://www.theguardian.com/au/rss
+2026-01-05 09:08:43,320 - INFO - Checking feed: https://www.theguardian.com/environment/rss
+2026-01-05 09:08:43,557 - INFO - Checking feed: https://www.theguardian.com/science/rss
+2026-01-05 09:08:43,638 - INFO - Checking feed: https://www.theguardian.com/uk/technology/rss
+2026-01-05 09:08:43,715 - INFO - Checking feed: https://www.theguardian.com/lifeandstyle/rss
+2026-01-05 09:08:44,257 - INFO - Checking feed: https://www.sbs.com.au/news/feed
+2026-01-05 09:08:44,531 - INFO - Found good news: Joy and insecurity: Venezuelan Australians like Maria are conflicted on US strikes (Mean Score: 0.5250, VADER: 0.2500, TextBlob: 0.8000)
+2026-01-05 09:08:44,795 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/index
+2026-01-05 09:08:44,900 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/science
+2026-01-05 09:08:45,002 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/tech-policy
+2026-01-05 09:08:45,218 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/gaming
+2026-01-05 09:08:45,316 - INFO - Checking feed: https://feedx.net/rss/ap.xml
+2026-01-05 09:08:45,821 - INFO - Checking feed: https://feeds.npr.org/1001/rss.xml
+2026-01-05 09:08:46,135 - INFO - Checking feed: https://feeds.npr.org/1004/rss.xml
+2026-01-05 09:08:46,190 - INFO - Checking feed: https://feeds.npr.org/1014/rss.xml
+2026-01-05 09:08:46,264 - INFO - Checking feed: https://feeds.npr.org/1019/rss.xml
+2026-01-05 09:08:46,320 - INFO - Checking feed: https://feeds.npr.org/1017/rss.xml
+2026-01-05 09:08:46,380 - INFO - Checking feed: https://feeds.npr.org/1007/rss.xml
+2026-01-05 09:08:46,439 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
+2026-01-05 09:08:46,497 - INFO - Saved 160 stories to docs/good_news.json.
+2026-01-05 09:08:46,498 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 962 processed, 1 accepted | Cache: 0 hits, 1 misses | Duration: 6.37s
