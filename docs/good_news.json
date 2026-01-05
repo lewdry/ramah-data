@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-05T16:05:31Z",
+  "last run": "2026-01-05T17:05:55Z",
   "stories": [
+    {
+      "headline": "The perfect way to switch off from work: the secret to a daily de-stress routine",
+      "link": "https://www.theguardian.com/lifeandstyle/2025/dec/19/the-perfect-way-to-switch-off-from-work-how-to-detach-and-de-stress",
+      "mean_score": 0.3859,
+      "vader_score": 0.5719,
+      "textblob_score": 0.2,
+      "first_sentence": "Marilyn Monroe once said: \u201cA career is wonderful, but you can\u2019t curl up with it on a cold night.\u201d Only these days, you can.",
+      "timestamp": "2026-01-05T16:00:12Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "US oil companies see shares rise amid hopes that Venezuelan reserves can be tapped",
       "link": "https://www.bbc.com/news/articles/crrnw08qvg7o?at_medium=RSS&at_campaign=rss",
