@@ -1,5 +1,5 @@
 {
-  "last run": "2026-01-05T03:37:06Z",
+  "last run": "2026-01-05T04:26:49Z",
   "stories": [
     {
       "headline": "Second Root century secures him as 'best player outside of Bradman'",
@@ -20,6 +20,16 @@
       "first_sentence": "Thanasi Kokkinakis\u2019s tears after a doubles match told the story as the injury-plagued Australian won in his latest and most dramatic return to the sport alongside old friend Nick Kyrgios.",
       "timestamp": "2026-01-04T22:46:29Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "Live: Joe Root finally falls after brilliant ton as England all out for 384",
+      "link": "https://www.abc.net.au/news/2026-01-05/ashes-cricket-scg-test-day-two-live-blog/106199006",
+      "mean_score": 0.4657,
+      "vader_score": 0.5859,
+      "textblob_score": 0.3455,
+      "first_sentence": "Joe Root eventually falls for 160, his biggest score on Australian soil and second century of the Ashes tour, as England is bowled out for 384 on day two.",
+      "timestamp": "2026-01-04T22:42:16Z",
+      "source": "ABC News"
     },
     {
       "headline": "Alford\u2019s red-zone pick saves Falcons\u2019 19-17 win over Saints, giving NFC South title to Panthers",
