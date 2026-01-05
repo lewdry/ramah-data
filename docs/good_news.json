@@ -1,5 +1,5 @@
 {
-  "last run": "2026-01-05T00:16:58Z",
+  "last run": "2026-01-05T01:33:22Z",
   "stories": [
     {
       "headline": "Thanasi Kokkinakis and Nick Kyrgios make emotional doubles comeback with win in Brisbane",
@@ -130,6 +130,16 @@
       "first_sentence": "Former Australian Test batsman Damien Martyn is awake and talking after being in an induced coma for several days.",
       "timestamp": "2026-01-04T08:57:18Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "Australians set to swelter in 'one of the most significant heatwaves we've seen'",
+      "link": "https://www.sbs.com.au/news/article/australians-in-these-states-are-set-to-swelter-amid-40c-warnings/wbutwwouy",
+      "mean_score": 0.3546,
+      "vader_score": 0.2716,
+      "textblob_score": 0.4375,
+      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+      "timestamp": "2026-01-04T05:13:56Z",
+      "source": "SBS News"
     },
     {
       "headline": "US makes 'bold' grab for oil as markets brace for Monday",

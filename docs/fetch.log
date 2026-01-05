@@ -3796,3 +3796,36 @@
 2026-01-05 00:16:58,013 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
 2026-01-05 00:16:58,073 - INFO - No new positive stories found; updated last run timestamp.
 2026-01-05 00:16:58,074 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 968 processed, 0 accepted | Cache: 0 hits, 0 misses | Duration: 4.59s
+2026-01-05 01:33:17,165 - INFO - Starting Ramah News Fetcher
+2026-01-05 01:33:17,175 - INFO - Checking feed: http://feeds.bbci.co.uk/news/rss.xml
+2026-01-05 01:33:17,458 - INFO - Checking feed: http://feeds.bbci.co.uk/news/world/rss.xml
+2026-01-05 01:33:17,526 - INFO - Checking feed: http://feeds.bbci.co.uk/news/uk/rss.xml
+2026-01-05 01:33:17,704 - INFO - Checking feed: http://feeds.bbci.co.uk/news/business/rss.xml
+2026-01-05 01:33:17,927 - INFO - Checking feed: http://feeds.bbci.co.uk/news/technology/rss.xml
+2026-01-05 01:33:18,126 - INFO - Checking feed: http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+2026-01-05 01:33:18,321 - INFO - Checking feed: http://feeds.bbci.co.uk/news/health/rss.xml
+2026-01-05 01:33:18,464 - INFO - Checking feed: http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+2026-01-05 01:33:18,640 - INFO - Checking feed: https://www.abc.net.au/news/feed/45910/rss.xml
+2026-01-05 01:33:19,223 - INFO - Checking feed: https://www.abc.net.au/news/feed/51120/rss.xml
+2026-01-05 01:33:19,291 - INFO - Checking feed: https://www.theguardian.com/world/rss
+2026-01-05 01:33:19,513 - INFO - Checking feed: https://www.theguardian.com/au/rss
+2026-01-05 01:33:19,814 - INFO - Checking feed: https://www.theguardian.com/environment/rss
+2026-01-05 01:33:20,015 - INFO - Checking feed: https://www.theguardian.com/science/rss
+2026-01-05 01:33:20,099 - INFO - Checking feed: https://www.theguardian.com/uk/technology/rss
+2026-01-05 01:33:20,174 - INFO - Checking feed: https://www.theguardian.com/lifeandstyle/rss
+2026-01-05 01:33:20,316 - INFO - Checking feed: https://www.sbs.com.au/news/feed
+2026-01-05 01:33:20,761 - INFO - Found good news: Australians set to swelter in 'one of the most significant heatwaves we've seen' (Mean Score: 0.3546, VADER: 0.2716, TextBlob: 0.4375)
+2026-01-05 01:33:21,377 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/index
+2026-01-05 01:33:21,483 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/science
+2026-01-05 01:33:21,574 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/tech-policy
+2026-01-05 01:33:21,755 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/gaming
+2026-01-05 01:33:21,865 - INFO - Checking feed: https://feedx.net/rss/ap.xml
+2026-01-05 01:33:21,997 - INFO - Checking feed: https://feeds.npr.org/1001/rss.xml
+2026-01-05 01:33:22,289 - INFO - Checking feed: https://feeds.npr.org/1004/rss.xml
+2026-01-05 01:33:22,343 - INFO - Checking feed: https://feeds.npr.org/1014/rss.xml
+2026-01-05 01:33:22,393 - INFO - Checking feed: https://feeds.npr.org/1019/rss.xml
+2026-01-05 01:33:22,443 - INFO - Checking feed: https://feeds.npr.org/1017/rss.xml
+2026-01-05 01:33:22,497 - INFO - Checking feed: https://feeds.npr.org/1007/rss.xml
+2026-01-05 01:33:22,544 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
+2026-01-05 01:33:22,612 - INFO - Saved 153 stories to docs/good_news.json.
+2026-01-05 01:33:22,613 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 971 processed, 1 accepted | Cache: 0 hits, 1 misses | Duration: 5.45s
