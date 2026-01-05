@@ -4158,3 +4158,38 @@
 2026-01-05 11:04:32,854 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
 2026-01-05 11:04:32,987 - INFO - Saved 162 stories to docs/good_news.json.
 2026-01-05 11:04:32,989 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 952 processed, 1 accepted | Cache: 0 hits, 1 misses | Duration: 7.39s
+2026-01-05 12:07:02,404 - INFO - Starting Ramah News Fetcher
+2026-01-05 12:07:02,414 - INFO - Checking feed: http://feeds.bbci.co.uk/news/rss.xml
+2026-01-05 12:07:02,599 - INFO - Checking feed: http://feeds.bbci.co.uk/news/world/rss.xml
+2026-01-05 12:07:02,707 - INFO - Checking feed: http://feeds.bbci.co.uk/news/uk/rss.xml
+2026-01-05 12:07:02,962 - INFO - Checking feed: http://feeds.bbci.co.uk/news/business/rss.xml
+2026-01-05 12:07:03,267 - INFO - Checking feed: http://feeds.bbci.co.uk/news/technology/rss.xml
+2026-01-05 12:07:03,555 - INFO - Checking feed: http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+2026-01-05 12:07:03,839 - INFO - Checking feed: http://feeds.bbci.co.uk/news/health/rss.xml
+2026-01-05 12:07:04,420 - INFO - Checking feed: http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+2026-01-05 12:07:04,713 - INFO - Checking feed: https://www.abc.net.au/news/feed/45910/rss.xml
+2026-01-05 12:07:05,164 - INFO - Checking feed: https://www.abc.net.au/news/feed/51120/rss.xml
+2026-01-05 12:07:05,398 - INFO - Checking feed: https://www.theguardian.com/world/rss
+2026-01-05 12:07:05,661 - INFO - Checking feed: https://www.theguardian.com/au/rss
+2026-01-05 12:07:05,904 - INFO - Found good news: Australia ignoring spin forgets that good bowlers are good bowlers | Geoff Lemon (Mean Score: 0.5883, VADER: 0.4767, TextBlob: 0.7000)
+2026-01-05 12:07:06,147 - INFO - Checking feed: https://www.theguardian.com/environment/rss
+2026-01-05 12:07:06,533 - INFO - Checking feed: https://www.theguardian.com/science/rss
+2026-01-05 12:07:06,760 - INFO - Checking feed: https://www.theguardian.com/uk/technology/rss
+2026-01-05 12:07:06,986 - INFO - Checking feed: https://www.theguardian.com/lifeandstyle/rss
+2026-01-05 12:07:07,265 - INFO - Found good news: Crossword editor’s desk: words of the year, welcome Rhea Seehorn and confusion over cheese (Mean Score: 0.5011, VADER: 0.2023, TextBlob: 0.8000)
+2026-01-05 12:07:07,492 - INFO - Found good news: The perfect way to do nothing: how to embrace the art of idling (Mean Score: 0.7047, VADER: 0.4094, TextBlob: 1.0000)
+2026-01-05 12:07:07,734 - INFO - Checking feed: https://www.sbs.com.au/news/feed
+2026-01-05 12:07:08,287 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/index
+2026-01-05 12:07:08,436 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/science
+2026-01-05 12:07:09,376 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/tech-policy
+2026-01-05 12:07:09,649 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/gaming
+2026-01-05 12:07:10,113 - INFO - Checking feed: https://feedx.net/rss/ap.xml
+2026-01-05 12:07:10,745 - INFO - Checking feed: https://feeds.npr.org/1001/rss.xml
+2026-01-05 12:07:11,081 - INFO - Checking feed: https://feeds.npr.org/1004/rss.xml
+2026-01-05 12:07:11,193 - INFO - Checking feed: https://feeds.npr.org/1014/rss.xml
+2026-01-05 12:07:11,272 - INFO - Checking feed: https://feeds.npr.org/1019/rss.xml
+2026-01-05 12:07:11,353 - INFO - Checking feed: https://feeds.npr.org/1017/rss.xml
+2026-01-05 12:07:11,443 - INFO - Checking feed: https://feeds.npr.org/1007/rss.xml
+2026-01-05 12:07:11,535 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
+2026-01-05 12:07:11,615 - INFO - Saved 165 stories to docs/good_news.json.
+2026-01-05 12:07:11,617 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 953 processed, 3 accepted | Cache: 0 hits, 3 misses | Duration: 9.21s

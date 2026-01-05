@@ -797,5 +797,20 @@
     "cache_hits": 0,
     "cache_misses": 1,
     "execution_time_seconds": 7.39
+  },
+  {
+    "timestamp": "2026-01-05T12:07:02Z",
+    "feeds_checked": 29,
+    "feeds_failed": 0,
+    "entries_processed": 953,
+    "entries_blocked": 242,
+    "entries_sentiment_rejected": 612,
+    "entries_accepted": 3,
+    "stories_by_source": {
+      "The Guardian": 3
+    },
+    "cache_hits": 0,
+    "cache_misses": 3,
+    "execution_time_seconds": 9.21
   }
 ]
