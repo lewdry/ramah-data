@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-05T10:05:14Z",
+  "last run": "2026-01-05T11:04:32Z",
   "stories": [
+    {
+      "headline": "Scotland to get public holiday to celebrate World Cup return",
+      "link": "https://www.bbc.com/news/articles/cn42x7yv852o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3753,
+      "vader_score": 0.7506,
+      "textblob_score": 0.0,
+      "first_sentence": "Scots are to get a public holiday to mark the men's national team playing in its first World Cup since 1998.",
+      "timestamp": "2026-01-05T10:20:17Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Why a power plant is strategically important in the talks between Russia and Ukraine",
       "link": "https://www.npr.org/2026/01/05/nx-s1-5664884/why-a-power-plant-is-strategically-important-in-the-talks-between-russia-and-ukraine",
