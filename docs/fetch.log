@@ -5240,3 +5240,40 @@
 2026-01-06 19:03:46,160 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
 2026-01-06 19:03:46,265 - INFO - Saved 220 stories to docs/good_news.json.
 2026-01-06 19:03:46,267 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 940 processed, 1 accepted | Cache: 0 hits, 1 misses | Duration: 7.14s
+2026-01-06 20:04:26,385 - INFO - Starting Ramah News Fetcher
+2026-01-06 20:04:26,395 - INFO - Checking feed: http://feeds.bbci.co.uk/news/rss.xml
+2026-01-06 20:04:26,638 - INFO - Checking feed: http://feeds.bbci.co.uk/news/world/rss.xml
+2026-01-06 20:04:26,763 - INFO - Checking feed: http://feeds.bbci.co.uk/news/uk/rss.xml
+2026-01-06 20:04:27,023 - INFO - Found good news: UK and France to send troops to Ukraine if peace deal agreed (Mean Score: 0.3404, VADER: 0.6808, TextBlob: 0.0000)
+2026-01-06 20:04:27,220 - INFO - Checking feed: http://feeds.bbci.co.uk/news/business/rss.xml
+2026-01-06 20:04:27,509 - INFO - Checking feed: http://feeds.bbci.co.uk/news/technology/rss.xml
+2026-01-06 20:04:27,842 - INFO - Checking feed: http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+2026-01-06 20:04:27,963 - INFO - Checking feed: http://feeds.bbci.co.uk/news/health/rss.xml
+2026-01-06 20:04:28,267 - INFO - Checking feed: http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+2026-01-06 20:04:28,732 - INFO - Checking feed: https://www.abc.net.au/news/feed/45910/rss.xml
+2026-01-06 20:04:29,050 - INFO - Found good news: Echidnas remain a mystery to scientists, but they want your help to change it (Mean Score: 0.3062, VADER: 0.6124, TextBlob: 0.0000)
+2026-01-06 20:04:29,407 - INFO - Found good news: Videos made by SA librarians attract likes from Ariana Grande (Mean Score: 0.3243, VADER: 0.6486, TextBlob: 0.0000)
+2026-01-06 20:04:29,693 - INFO - Checking feed: https://www.abc.net.au/news/feed/51120/rss.xml
+2026-01-06 20:04:30,023 - INFO - Checking feed: https://www.theguardian.com/world/rss
+2026-01-06 20:04:30,380 - INFO - Checking feed: https://www.theguardian.com/au/rss
+2026-01-06 20:04:30,721 - INFO - Found good news: Love, desire and community: the new generation of readers bonding over romance novels (Mean Score: 0.6033, VADER: 0.8885, TextBlob: 0.3182)
+2026-01-06 20:04:30,854 - INFO - Checking feed: https://www.theguardian.com/environment/rss
+2026-01-06 20:04:31,249 - INFO - Checking feed: https://www.theguardian.com/science/rss
+2026-01-06 20:04:31,349 - INFO - Checking feed: https://www.theguardian.com/uk/technology/rss
+2026-01-06 20:04:31,572 - INFO - Checking feed: https://www.theguardian.com/lifeandstyle/rss
+2026-01-06 20:04:31,856 - INFO - Checking feed: https://www.sbs.com.au/news/feed
+2026-01-06 20:04:32,536 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/index
+2026-01-06 20:04:32,684 - INFO - Found good news: News orgs win fight to access 20M ChatGPT logs. Now they want more. (Mean Score: 0.5056, VADER: 0.3612, TextBlob: 0.6500)
+2026-01-06 20:04:33,070 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/science
+2026-01-06 20:04:33,198 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/tech-policy
+2026-01-06 20:04:33,306 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/gaming
+2026-01-06 20:04:33,417 - INFO - Checking feed: https://feedx.net/rss/ap.xml
+2026-01-06 20:04:33,962 - INFO - Checking feed: https://feeds.npr.org/1001/rss.xml
+2026-01-06 20:04:34,081 - INFO - Checking feed: https://feeds.npr.org/1004/rss.xml
+2026-01-06 20:04:34,227 - INFO - Checking feed: https://feeds.npr.org/1014/rss.xml
+2026-01-06 20:04:34,308 - INFO - Checking feed: https://feeds.npr.org/1019/rss.xml
+2026-01-06 20:04:34,499 - INFO - Checking feed: https://feeds.npr.org/1017/rss.xml
+2026-01-06 20:04:34,780 - INFO - Checking feed: https://feeds.npr.org/1007/rss.xml
+2026-01-06 20:04:35,020 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
+2026-01-06 20:04:35,159 - INFO - Saved 225 stories to docs/good_news.json.
+2026-01-06 20:04:35,161 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 940 processed, 5 accepted | Cache: 0 hits, 5 misses | Duration: 8.77s

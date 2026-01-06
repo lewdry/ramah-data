@@ -1,6 +1,46 @@
 {
-  "last run": "2026-01-06T19:03:46Z",
+  "last run": "2026-01-06T20:04:35Z",
   "stories": [
+    {
+      "headline": "UK and France to send troops to Ukraine if peace deal agreed",
+      "link": "https://www.bbc.com/news/articles/c17zee20qpzo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3404,
+      "vader_score": 0.6808,
+      "textblob_score": 0.0,
+      "first_sentence": "The UK and France have signed a declaration of intent on deploying troops in Ukraine if there is a peace deal with Russia, UK Prime Minister Sir Keir Starmer has said.",
+      "timestamp": "2026-01-06T19:34:57Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Echidnas remain a mystery to scientists, but they want your help to change it",
+      "link": "https://www.abc.net.au/news/2026-01-07/echidna-population-count-queensland-conservation/106127158",
+      "mean_score": 0.3062,
+      "vader_score": 0.6124,
+      "textblob_score": 0.0,
+      "first_sentence": "An echidna expert from the University of Queensland says not much is known about how many echidnas there are in the wild.",
+      "timestamp": "2026-01-06T19:23:51Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Videos made by SA librarians attract likes from Ariana Grande",
+      "link": "https://www.abc.net.au/news/2026-01-07/city-of-marion-librarians-go-viral-on-social-media/106202866",
+      "mean_score": 0.3243,
+      "vader_score": 0.6486,
+      "textblob_score": 0.0,
+      "first_sentence": "Several videos by a group of Adelaide librarians have gone viral, amassing their employer's social accounts tens of thousands of followers.",
+      "timestamp": "2026-01-06T19:08:45Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "News orgs win fight to access 20M ChatGPT logs. Now they want more.",
+      "link": "https://arstechnica.com/ai/2026/01/news-orgs-want-openai-to-dig-up-millions-of-deleted-chatgpt-logs/",
+      "mean_score": 0.5056,
+      "vader_score": 0.3612,
+      "textblob_score": 0.65,
+      "first_sentence": "OpenAI\u2019s loss in privacy fight could lead to sharing even more deleted chats.",
+      "timestamp": "2026-01-06T18:59:21Z",
+      "source": "Ars Technica"
+    },
     {
       "headline": "Firefighters face challenging conditions in Vic and SA as heatwave begins",
       "link": "https://www.abc.net.au/news/2026-01-07/victoria-south-australia-authorities-brace-for-fires-heatwave/106203894",
@@ -58,6 +98,16 @@
       "vader_score": 0.3818,
       "textblob_score": 0.5,
       "first_sentence": "Since the Bondi massacre, New South Wales politicians \u2013 unlike their federal colleagues \u2013 have mostly put aside their differences to pass new, tougher gun laws and to mourn.",
+      "timestamp": "2026-01-06T14:00:15Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Love, desire and community: the new generation of readers bonding over romance novels",
+      "link": "https://www.theguardian.com/books/2026/jan/07/love-desire-and-community-the-new-generation-of-readers-bonding-over-romance-novels",
+      "mean_score": 0.6033,
+      "vader_score": 0.8885,
+      "textblob_score": 0.3182,
+      "first_sentence": "In a packed room in Sydney, an excited crowd riffles through stacks of stickers and bookmarks searching for their favourite characters.",
       "timestamp": "2026-01-06T14:00:15Z",
       "source": "The Guardian"
     },

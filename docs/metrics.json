@@ -1277,5 +1277,23 @@
     "cache_hits": 0,
     "cache_misses": 1,
     "execution_time_seconds": 7.14
+  },
+  {
+    "timestamp": "2026-01-06T20:04:26Z",
+    "feeds_checked": 29,
+    "feeds_failed": 0,
+    "entries_processed": 940,
+    "entries_blocked": 223,
+    "entries_sentiment_rejected": 603,
+    "entries_accepted": 5,
+    "stories_by_source": {
+      "BBC News": 1,
+      "ABC News": 2,
+      "The Guardian": 1,
+      "Ars Technica": 1
+    },
+    "cache_hits": 0,
+    "cache_misses": 5,
+    "execution_time_seconds": 8.77
   }
 ]
