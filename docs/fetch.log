@@ -4973,3 +4973,36 @@
 2026-01-06 11:04:28,570 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
 2026-01-06 11:04:28,709 - INFO - Saved 209 stories to docs/good_news.json.
 2026-01-06 11:04:28,711 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 926 processed, 3 accepted | Cache: 0 hits, 3 misses | Duration: 9.13s
+2026-01-06 12:06:17,712 - INFO - Starting Ramah News Fetcher
+2026-01-06 12:06:17,722 - INFO - Checking feed: http://feeds.bbci.co.uk/news/rss.xml
+2026-01-06 12:06:18,410 - INFO - Checking feed: http://feeds.bbci.co.uk/news/world/rss.xml
+2026-01-06 12:06:18,514 - INFO - Checking feed: http://feeds.bbci.co.uk/news/uk/rss.xml
+2026-01-06 12:06:18,776 - INFO - Checking feed: http://feeds.bbci.co.uk/news/business/rss.xml
+2026-01-06 12:06:19,072 - INFO - Checking feed: http://feeds.bbci.co.uk/news/technology/rss.xml
+2026-01-06 12:06:19,497 - INFO - Checking feed: http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+2026-01-06 12:06:19,623 - INFO - Checking feed: http://feeds.bbci.co.uk/news/health/rss.xml
+2026-01-06 12:06:20,076 - INFO - Checking feed: http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+2026-01-06 12:06:20,317 - INFO - Checking feed: https://www.abc.net.au/news/feed/45910/rss.xml
+2026-01-06 12:06:20,765 - INFO - Checking feed: https://www.abc.net.au/news/feed/51120/rss.xml
+2026-01-06 12:06:21,007 - INFO - Checking feed: https://www.theguardian.com/world/rss
+2026-01-06 12:06:21,173 - INFO - Checking feed: https://www.theguardian.com/au/rss
+2026-01-06 12:06:21,533 - INFO - Found good news: ‘Melancholy magic’: how Judi Dench and a host of stars came under the spell of the greatest comedy in history (Mean Score: 0.7609, VADER: 0.7717, TextBlob: 0.7500)
+2026-01-06 12:06:21,777 - INFO - Checking feed: https://www.theguardian.com/environment/rss
+2026-01-06 12:06:22,078 - INFO - Checking feed: https://www.theguardian.com/science/rss
+2026-01-06 12:06:22,184 - INFO - Checking feed: https://www.theguardian.com/uk/technology/rss
+2026-01-06 12:06:22,279 - INFO - Checking feed: https://www.theguardian.com/lifeandstyle/rss
+2026-01-06 12:06:22,619 - INFO - Checking feed: https://www.sbs.com.au/news/feed
+2026-01-06 12:06:23,116 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/index
+2026-01-06 12:06:23,366 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/science
+2026-01-06 12:06:23,511 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/tech-policy
+2026-01-06 12:06:23,623 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/gaming
+2026-01-06 12:06:23,748 - INFO - Checking feed: https://feedx.net/rss/ap.xml
+2026-01-06 12:06:24,444 - INFO - Checking feed: https://feeds.npr.org/1001/rss.xml
+2026-01-06 12:06:24,768 - INFO - Checking feed: https://feeds.npr.org/1004/rss.xml
+2026-01-06 12:06:24,871 - INFO - Checking feed: https://feeds.npr.org/1014/rss.xml
+2026-01-06 12:06:25,026 - INFO - Checking feed: https://feeds.npr.org/1019/rss.xml
+2026-01-06 12:06:25,113 - INFO - Checking feed: https://feeds.npr.org/1017/rss.xml
+2026-01-06 12:06:25,198 - INFO - Checking feed: https://feeds.npr.org/1007/rss.xml
+2026-01-06 12:06:25,367 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
+2026-01-06 12:06:26,075 - INFO - Saved 210 stories to docs/good_news.json.
+2026-01-06 12:06:26,077 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 931 processed, 1 accepted | Cache: 0 hits, 1 misses | Duration: 8.36s
