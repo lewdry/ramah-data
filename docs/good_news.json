@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-06T01:32:29Z",
+  "last run": "2026-01-06T02:40:10Z",
   "stories": [
+    {
+      "headline": "Nvidia announces new, more powerful Vera Rubin chip made for AI",
+      "link": "https://www.theguardian.com/technology/2026/jan/05/nvidia-chips-jensen-huang",
+      "mean_score": 0.3938,
+      "vader_score": 0.4754,
+      "textblob_score": 0.3121,
+      "first_sentence": "Nvidia CEO Jensen Huang said on Monday that the company\u2019s next generation of chips is in \u201cfull production\u201d saying they can deliver five times the artificial-intelligence computing of the company\u2019s previous chips when serving up chatbots and other AI apps.",
+      "timestamp": "2026-01-06T02:17:05Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Why complaining in a restaurant is better than venting online",
+      "link": "https://www.bbc.com/news/articles/cdxwgqpxwkzo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3866,
+      "vader_score": 0.2732,
+      "textblob_score": 0.5,
+      "first_sentence": "When we treat ourselves to a meal out and something's off  - the food is cold or the service is slow - it can be difficult to know how to handle it.",
+      "timestamp": "2026-01-06T02:04:28Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Experience Sydney's new GreenWay trail on its grand opening in this immersive 360 capture \u2013 video",
       "link": "https://www.theguardian.com/lifeandstyle/video/2026/jan/06/sydney-greenway-walk-cycle-path-inner-west-video",
