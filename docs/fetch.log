@@ -5173,3 +5173,37 @@
 2026-01-06 17:06:34,923 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
 2026-01-06 17:06:34,982 - INFO - No new positive stories found; updated last run timestamp.
 2026-01-06 17:06:34,984 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 938 processed, 0 accepted | Cache: 0 hits, 0 misses | Duration: 6.56s
+2026-01-06 18:05:56,793 - INFO - Starting Ramah News Fetcher
+2026-01-06 18:05:56,804 - INFO - Checking feed: http://feeds.bbci.co.uk/news/rss.xml
+2026-01-06 18:05:57,017 - INFO - Checking feed: http://feeds.bbci.co.uk/news/world/rss.xml
+2026-01-06 18:05:57,174 - INFO - Checking feed: http://feeds.bbci.co.uk/news/uk/rss.xml
+2026-01-06 18:05:57,450 - INFO - Checking feed: http://feeds.bbci.co.uk/news/business/rss.xml
+2026-01-06 18:05:58,165 - INFO - Checking feed: http://feeds.bbci.co.uk/news/technology/rss.xml
+2026-01-06 18:05:58,442 - INFO - Checking feed: http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+2026-01-06 18:05:58,815 - INFO - Checking feed: http://feeds.bbci.co.uk/news/health/rss.xml
+2026-01-06 18:05:59,263 - INFO - Checking feed: http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+2026-01-06 18:05:59,527 - INFO - Checking feed: https://www.abc.net.au/news/feed/45910/rss.xml
+2026-01-06 18:06:00,014 - INFO - Checking feed: https://www.abc.net.au/news/feed/51120/rss.xml
+2026-01-06 18:06:00,340 - INFO - Checking feed: https://www.theguardian.com/world/rss
+2026-01-06 18:06:00,516 - INFO - Found good news: Iranian security forces clash with protesters at Tehran’s grand bazaar (Mean Score: 0.5212, VADER: 0.5423, TextBlob: 0.5000)
+2026-01-06 18:06:00,811 - INFO - Checking feed: https://www.theguardian.com/au/rss
+2026-01-06 18:06:01,098 - INFO - Checking feed: https://www.theguardian.com/environment/rss
+2026-01-06 18:06:01,368 - INFO - Checking feed: https://www.theguardian.com/science/rss
+2026-01-06 18:06:01,502 - INFO - Checking feed: https://www.theguardian.com/uk/technology/rss
+2026-01-06 18:06:01,623 - INFO - Found good news: Friction-maxxing: could less convenience lead to much more happiness? (Mean Score: 0.4714, VADER: 0.5984, TextBlob: 0.3444)
+2026-01-06 18:06:01,760 - INFO - Checking feed: https://www.theguardian.com/lifeandstyle/rss
+2026-01-06 18:06:02,375 - INFO - Checking feed: https://www.sbs.com.au/news/feed
+2026-01-06 18:06:03,174 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/index
+2026-01-06 18:06:03,369 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/science
+2026-01-06 18:06:03,532 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/tech-policy
+2026-01-06 18:06:03,681 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/gaming
+2026-01-06 18:06:04,108 - INFO - Checking feed: https://feedx.net/rss/ap.xml
+2026-01-06 18:06:04,630 - INFO - Checking feed: https://feeds.npr.org/1001/rss.xml
+2026-01-06 18:06:04,934 - INFO - Checking feed: https://feeds.npr.org/1004/rss.xml
+2026-01-06 18:06:05,035 - INFO - Checking feed: https://feeds.npr.org/1014/rss.xml
+2026-01-06 18:06:05,148 - INFO - Checking feed: https://feeds.npr.org/1019/rss.xml
+2026-01-06 18:06:05,254 - INFO - Checking feed: https://feeds.npr.org/1017/rss.xml
+2026-01-06 18:06:05,384 - INFO - Checking feed: https://feeds.npr.org/1007/rss.xml
+2026-01-06 18:06:05,503 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
+2026-01-06 18:06:05,620 - INFO - Saved 219 stories to docs/good_news.json.
+2026-01-06 18:06:05,622 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 935 processed, 2 accepted | Cache: 0 hits, 2 misses | Duration: 8.83s
