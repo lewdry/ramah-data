@@ -4903,3 +4903,38 @@
 2026-01-06 09:06:56,574 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
 2026-01-06 09:06:56,635 - INFO - Saved 203 stories to docs/good_news.json.
 2026-01-06 09:06:56,637 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 944 processed, 4 accepted | Cache: 0 hits, 4 misses | Duration: 6.66s
+2026-01-06 10:04:16,939 - INFO - Starting Ramah News Fetcher
+2026-01-06 10:04:16,950 - INFO - Checking feed: http://feeds.bbci.co.uk/news/rss.xml
+2026-01-06 10:04:17,351 - INFO - Found good news: How Geese took flight to become 'Gen Z's first great American band' (Mean Score: 0.4875, VADER: 0.6249, TextBlob: 0.3500)
+2026-01-06 10:04:17,677 - INFO - Checking feed: http://feeds.bbci.co.uk/news/world/rss.xml
+2026-01-06 10:04:17,781 - INFO - Checking feed: http://feeds.bbci.co.uk/news/uk/rss.xml
+2026-01-06 10:04:18,022 - INFO - Checking feed: http://feeds.bbci.co.uk/news/business/rss.xml
+2026-01-06 10:04:18,231 - INFO - Checking feed: http://feeds.bbci.co.uk/news/technology/rss.xml
+2026-01-06 10:04:18,451 - INFO - Checking feed: http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+2026-01-06 10:04:18,604 - INFO - Checking feed: http://feeds.bbci.co.uk/news/health/rss.xml
+2026-01-06 10:04:18,886 - INFO - Checking feed: http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+2026-01-06 10:04:19,033 - INFO - Checking feed: https://www.abc.net.au/news/feed/45910/rss.xml
+2026-01-06 10:04:19,267 - INFO - Checking feed: https://www.abc.net.au/news/feed/51120/rss.xml
+2026-01-06 10:04:19,540 - INFO - Checking feed: https://www.theguardian.com/world/rss
+2026-01-06 10:04:19,705 - INFO - Checking feed: https://www.theguardian.com/au/rss
+2026-01-06 10:04:19,927 - INFO - Checking feed: https://www.theguardian.com/environment/rss
+2026-01-06 10:04:20,029 - INFO - Checking feed: https://www.theguardian.com/science/rss
+2026-01-06 10:04:20,115 - INFO - Checking feed: https://www.theguardian.com/uk/technology/rss
+2026-01-06 10:04:20,187 - INFO - Checking feed: https://www.theguardian.com/lifeandstyle/rss
+2026-01-06 10:04:20,326 - INFO - Checking feed: https://www.sbs.com.au/news/feed
+2026-01-06 10:04:20,858 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/index
+2026-01-06 10:04:20,972 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/science
+2026-01-06 10:04:21,138 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/tech-policy
+2026-01-06 10:04:21,357 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/gaming
+2026-01-06 10:04:21,709 - INFO - Checking feed: https://feedx.net/rss/ap.xml
+2026-01-06 10:04:22,141 - INFO - Checking feed: https://feeds.npr.org/1001/rss.xml
+2026-01-06 10:04:22,550 - INFO - Checking feed: https://feeds.npr.org/1004/rss.xml
+2026-01-06 10:04:22,608 - INFO - Checking feed: https://feeds.npr.org/1014/rss.xml
+2026-01-06 10:04:22,763 - INFO - Checking feed: https://feeds.npr.org/1019/rss.xml
+2026-01-06 10:04:22,820 - INFO - Found good news: Once an industry top dog, Intel hopes to regain dominance with chip made in the U.S. (Mean Score: 0.5798, VADER: 0.6597, TextBlob: 0.5000)
+2026-01-06 10:04:23,139 - INFO - Checking feed: https://feeds.npr.org/1017/rss.xml
+2026-01-06 10:04:23,248 - INFO - Checking feed: https://feeds.npr.org/1007/rss.xml
+2026-01-06 10:04:23,303 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
+2026-01-06 10:04:23,363 - INFO - Found good news: 'People want to look good': Researcher hopes redesigned walker will remove stigma (Mean Score: 0.7092, VADER: 0.7184, TextBlob: 0.7000)
+2026-01-06 10:04:23,541 - INFO - Saved 206 stories to docs/good_news.json.
+2026-01-06 10:04:23,544 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 925 processed, 3 accepted | Cache: 0 hits, 3 misses | Duration: 6.6s
