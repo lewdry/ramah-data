@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-05T23:04:23Z",
+  "last run": "2026-01-06T00:15:33Z",
   "stories": [
+    {
+      "headline": "Experience Sydney's new GreenWay trail on its grand opening in this immersive 360 capture \u2013 video",
+      "link": "https://www.theguardian.com/lifeandstyle/video/2026/jan/06/sydney-greenway-walk-cycle-path-inner-west-video",
+      "mean_score": 0.3885,
+      "vader_score": 0.4588,
+      "textblob_score": 0.3182,
+      "first_sentence": "Use the tilt tool to explore the new six-kilometre environmental, walking and cycling corridor in Sydney's inner west.",
+      "timestamp": "2026-01-05T23:27:35Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Venezuela swears in interim leader, seeking to show it operates free from U.S. control",
       "link": "https://www.npr.org/2026/01/05/g-s1-104632/venezuela-government",
