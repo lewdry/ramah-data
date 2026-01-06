@@ -4833,3 +4833,37 @@
 2026-01-06 07:07:55,257 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
 2026-01-06 07:07:55,340 - INFO - Saved 197 stories to docs/good_news.json.
 2026-01-06 07:07:55,342 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 936 processed, 1 accepted | Cache: 0 hits, 1 misses | Duration: 6.23s
+2026-01-06 08:05:48,622 - INFO - Starting Ramah News Fetcher
+2026-01-06 08:05:48,633 - INFO - Checking feed: http://feeds.bbci.co.uk/news/rss.xml
+2026-01-06 08:05:49,004 - INFO - Checking feed: http://feeds.bbci.co.uk/news/world/rss.xml
+2026-01-06 08:05:49,273 - INFO - Checking feed: http://feeds.bbci.co.uk/news/uk/rss.xml
+2026-01-06 08:05:49,545 - INFO - Checking feed: http://feeds.bbci.co.uk/news/business/rss.xml
+2026-01-06 08:05:49,988 - INFO - Checking feed: http://feeds.bbci.co.uk/news/technology/rss.xml
+2026-01-06 08:05:50,291 - INFO - Checking feed: http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+2026-01-06 08:05:50,415 - INFO - Checking feed: http://feeds.bbci.co.uk/news/health/rss.xml
+2026-01-06 08:05:50,890 - INFO - Checking feed: http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+2026-01-06 08:05:51,311 - INFO - Checking feed: https://www.abc.net.au/news/feed/45910/rss.xml
+2026-01-06 08:05:51,672 - INFO - Found good news: Smith treats Sydney to a Smudge Day, in all its weird and wonderful glory (Mean Score: 0.5040, VADER: 0.7579, TextBlob: 0.2500)
+2026-01-06 08:05:52,006 - INFO - Checking feed: https://www.abc.net.au/news/feed/51120/rss.xml
+2026-01-06 08:05:52,278 - INFO - Checking feed: https://www.theguardian.com/world/rss
+2026-01-06 08:05:52,489 - INFO - Checking feed: https://www.theguardian.com/au/rss
+2026-01-06 08:05:52,848 - INFO - Found good news: Male bonds develop one way, female friendships another. Should we stop trying to make men more like women?  | Gaby Hinsliff (Mean Score: 0.3297, VADER: 0.4927, TextBlob: 0.1667)
+2026-01-06 08:05:53,089 - INFO - Checking feed: https://www.theguardian.com/environment/rss
+2026-01-06 08:05:53,380 - INFO - Checking feed: https://www.theguardian.com/science/rss
+2026-01-06 08:05:53,489 - INFO - Checking feed: https://www.theguardian.com/uk/technology/rss
+2026-01-06 08:05:53,713 - INFO - Checking feed: https://www.theguardian.com/lifeandstyle/rss
+2026-01-06 08:05:54,004 - INFO - Checking feed: https://www.sbs.com.au/news/feed
+2026-01-06 08:05:54,653 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/index
+2026-01-06 08:05:54,825 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/science
+2026-01-06 08:05:55,088 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/tech-policy
+2026-01-06 08:05:55,222 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/gaming
+2026-01-06 08:05:55,494 - INFO - Checking feed: https://feedx.net/rss/ap.xml
+2026-01-06 08:05:56,045 - INFO - Checking feed: https://feeds.npr.org/1001/rss.xml
+2026-01-06 08:05:56,421 - INFO - Checking feed: https://feeds.npr.org/1004/rss.xml
+2026-01-06 08:05:56,524 - INFO - Checking feed: https://feeds.npr.org/1014/rss.xml
+2026-01-06 08:05:56,648 - INFO - Checking feed: https://feeds.npr.org/1019/rss.xml
+2026-01-06 08:05:56,734 - INFO - Checking feed: https://feeds.npr.org/1017/rss.xml
+2026-01-06 08:05:56,809 - INFO - Checking feed: https://feeds.npr.org/1007/rss.xml
+2026-01-06 08:05:56,895 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
+2026-01-06 08:05:56,968 - INFO - Saved 199 stories to docs/good_news.json.
+2026-01-06 08:05:56,970 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 933 processed, 2 accepted | Cache: 0 hits, 2 misses | Duration: 8.35s
