@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-06T18:06:05Z",
+  "last run": "2026-01-06T19:03:46Z",
   "stories": [
+    {
+      "headline": "Firefighters face challenging conditions in Vic and SA as heatwave begins",
+      "link": "https://www.abc.net.au/news/2026-01-07/victoria-south-australia-authorities-brace-for-fires-heatwave/106203894",
+      "mean_score": 0.3266,
+      "vader_score": 0.1531,
+      "textblob_score": 0.5,
+      "first_sentence": "Severe and extreme heatwave warnings are now in place across large parts of Australia's south and south-east.",
+      "timestamp": "2026-01-06T18:04:20Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Friction-maxxing: could less convenience lead to much more happiness?",
       "link": "https://www.theguardian.com/technology/2026/jan/06/friction-maxxing-could-less-convenience-lead-to-much-more-happiness",
