@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-06T21:07:30Z",
+  "last run": "2026-01-06T22:04:25Z",
   "stories": [
+    {
+      "headline": "'People want to look good': Researcher hopes redesigned walker will remove stigma",
+      "link": "https://www.npr.org/2026/01/06/nx-s1-5640140-e1/people-want-to-look-good-researcher-hopes-redesigned-walker-will-remove-stigma",
+      "mean_score": 0.7092,
+      "vader_score": 0.7184,
+      "textblob_score": 0.7,
+      "first_sentence": "People who need walkers are often reluctant to start using them because of stigma.",
+      "timestamp": "2026-01-06T21:47:52Z",
+      "source": "NPR News"
+    },
     {
       "headline": "Tiny school works to save extremely rare 'flying jewel' butterfly",
       "link": "https://www.abc.net.au/news/2026-01-07/meadow-flat-primary-school-purple-copper-butterfly/106173306",
@@ -20,6 +30,16 @@
       "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
       "timestamp": "2026-01-06T20:48:26Z",
       "source": "SBS News"
+    },
+    {
+      "headline": "Dell\u2019s XPS revival is a welcome reprieve from the \u201cAI PC\u201d fad",
+      "link": "https://arstechnica.com/gadgets/2026/01/dells-xps-revival-is-a-welcome-reprieve-from-the-ai-pc-fad/",
+      "mean_score": 0.6997,
+      "vader_score": 0.5994,
+      "textblob_score": 0.8,
+      "first_sentence": "Dell moves from pushing \u201cAI PCs\u201d and back to what matters in laptops.",
+      "timestamp": "2026-01-06T19:55:25Z",
+      "source": "Ars Technica"
     },
     {
       "headline": "UK and France to send troops to Ukraine if peace deal agreed",
@@ -119,6 +139,16 @@
       "textblob_score": 0.1682,
       "first_sentence": "We have some more of the draft statement \u2013 drawn up by Ukraine\u2019s western allies \u2013 now.",
       "timestamp": "2026-01-06T14:40:46Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "What we\u2019re reading: Alan Hollinghurst, Samantha Harvey and Guardian readers on the books they enjoyed in December",
+      "link": "https://www.theguardian.com/books/2026/jan/06/what-were-reading-alan-hollinghurst-samantha-harvey-and-guardian-readers-on-the-books-they-enjoyed-in-december",
+      "mean_score": 0.5053,
+      "vader_score": 0.5106,
+      "textblob_score": 0.5,
+      "first_sentence": "Ever since my father presented me with a copy of The Unicorn, beautifully translated into my mother tongue, I have been an ardent admirer of Iris Murdoch\u2019s.",
+      "timestamp": "2026-01-06T14:33:36Z",
       "source": "The Guardian"
     },
     {
