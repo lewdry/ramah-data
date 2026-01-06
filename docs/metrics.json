@@ -1295,5 +1295,22 @@
     "cache_hits": 0,
     "cache_misses": 5,
     "execution_time_seconds": 8.77
+  },
+  {
+    "timestamp": "2026-01-06T21:07:21Z",
+    "feeds_checked": 29,
+    "feeds_failed": 0,
+    "entries_processed": 941,
+    "entries_blocked": 221,
+    "entries_sentiment_rejected": 604,
+    "entries_accepted": 3,
+    "stories_by_source": {
+      "ABC News": 1,
+      "The Guardian": 1,
+      "SBS News": 1
+    },
+    "cache_hits": 0,
+    "cache_misses": 3,
+    "execution_time_seconds": 9.32
   }
 ]
