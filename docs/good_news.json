@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-06T02:40:10Z",
+  "last run": "2026-01-06T03:32:16Z",
   "stories": [
+    {
+      "headline": "Defending Aus Open champion Keys off to a flier with Brisbane win",
+      "link": "https://www.abc.net.au/news/2026-01-06/brisbane-international-madison-keys/106203350",
+      "mean_score": 0.6136,
+      "vader_score": 0.8271,
+      "textblob_score": 0.4,
+      "first_sentence": "Madison Keys, 2025 Australian Open champion, won her opening match of the Brisbane International.",
+      "timestamp": "2026-01-06T03:06:14Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Selfies and smiles: South Korea seeks 'new phase' in ties with China",
+      "link": "https://www.bbc.com/news/articles/c70lw9x581no?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3065,
+      "vader_score": 0.4767,
+      "textblob_score": 0.1364,
+      "first_sentence": "South Korea's President Lee Jae Myung has called for a \"new phase\" in ties with China as he met its leader Xi Jinping in Beijing on Monday.",
+      "timestamp": "2026-01-06T02:44:22Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Nvidia announces new, more powerful Vera Rubin chip made for AI",
       "link": "https://www.theguardian.com/technology/2026/jan/05/nvidia-chips-jensen-huang",
@@ -30,6 +50,16 @@
       "first_sentence": "Use the tilt tool to explore the new six-kilometre environmental, walking and cycling corridor in Sydney's inner west.",
       "timestamp": "2026-01-05T23:27:35Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "Live: Khawaja gets hero's welcome for last Test after Head finally falls at SCG",
+      "link": "https://www.abc.net.au/news/2026-01-06/ashes-live-scg-test-day-three-australia-england/106202206",
+      "mean_score": 0.3464,
+      "vader_score": 0.4588,
+      "textblob_score": 0.2341,
+      "first_sentence": "Usman Khawaja strides to the crease after Travis Head falls for 163 as Australia piles on the runs on day three of the fifth Ashes Test at the SCG.",
+      "timestamp": "2026-01-05T22:24:04Z",
+      "source": "ABC News"
     },
     {
       "headline": "Venezuela swears in interim leader, seeking to show it operates free from U.S. control",
