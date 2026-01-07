@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-07T18:06:10Z",
+  "last run": "2026-01-07T19:05:29Z",
   "stories": [
+    {
+      "headline": "'Mission accomplished': The day 'El Chapo' was captured",
+      "link": "https://www.abc.net.au/news/2026-01-08/today-in-history-january-8-el-chapo-recaptured/106192234",
+      "mean_score": 0.3202,
+      "vader_score": 0.4404,
+      "textblob_score": 0.2,
+      "first_sentence": "\"Mission accomplished: we got him,\" began the triumphant tweet from Mexico's then-president Enrique Pe\u00f1a Nieto.",
+      "timestamp": "2026-01-07T18:30:00Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Gov. Ron DeSantis calls for special session in April to redraw Florida\u2019s congressional districts",
       "link": "https://apnews.com/article/florida-redistricting-census-desantis-b10b743019ba7f25a2f26d3ccdaf9a67",
@@ -160,6 +170,16 @@
       "first_sentence": "For some reason, we have collectively agreed that new year is the time to reinvent ourselves.",
       "timestamp": "2026-01-07T05:00:35Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "Why the latest inflation dip 'keeps alive' interest rate hike expectations",
+      "link": "https://www.sbs.com.au/news/article/latest-inflation-data-interest-rates/636ddo8pr",
+      "mean_score": 0.4904,
+      "vader_score": 0.6808,
+      "textblob_score": 0.3,
+      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+      "timestamp": "2026-01-07T04:24:22Z",
+      "source": "SBS News"
     },
     {
       "headline": "Kentucky, Vanderbilt into top 10 in women\u2019s AP Top 25 after 4 of top 10 teams fall; UConn, Texas 1-2",
@@ -2480,26 +2500,6 @@
       "first_sentence": "The Prince of Wales has described those in the running for his environmental Earthshot prize as \"heroes of our time\".",
       "timestamp": "2025-10-04T21:04:44Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Is the most expensive lip balm always the best?",
-      "link": "https://www.bbc.co.uk/bitesize/articles/zswkfdm?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4851,
-      "vader_score": 0.6369,
-      "textblob_score": 0.3333,
-      "first_sentence": "Lip care is big business in the UK, worth an estimated \u00a380m and promoted by celebs like Charli XCX.",
-      "timestamp": "2025-07-08T13:38:36Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Amanda saves almost $1,000 on her mortgage thanks to a little-known product",
-      "link": "https://www.sbs.com.au/news/article/energy-efficiency-upgrades-are-saving-homeowners-on-mortgage-costs/fmbaodi1s",
-      "mean_score": 0.3202,
-      "vader_score": 0.4404,
-      "textblob_score": 0.2,
-      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-      "timestamp": "2025-06-28T05:17:21Z",
-      "source": "SBS News"
     }
   ]
 }

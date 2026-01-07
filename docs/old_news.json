@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Is the most expensive lip balm always the best?",
+    "link": "https://www.bbc.co.uk/bitesize/articles/zswkfdm?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4851,
+    "vader_score": 0.6369,
+    "textblob_score": 0.3333,
+    "first_sentence": "Lip care is big business in the UK, worth an estimated \u00a380m and promoted by celebs like Charli XCX.",
+    "timestamp": "2025-07-08T13:38:36Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Amanda saves almost $1,000 on her mortgage thanks to a little-known product",
+    "link": "https://www.sbs.com.au/news/article/energy-efficiency-upgrades-are-saving-homeowners-on-mortgage-costs/fmbaodi1s",
+    "mean_score": 0.3202,
+    "vader_score": 0.4404,
+    "textblob_score": 0.2,
+    "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+    "timestamp": "2025-06-28T05:17:21Z",
+    "source": "SBS News"
+  },
+  {
     "headline": "Vitamin pills and icy swims: Can you really boost your immune system?",
     "link": "https://www.bbc.com/news/articles/cx2m8d44v4go?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.4094,
