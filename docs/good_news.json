@@ -1,5 +1,5 @@
 {
-  "last run": "2026-01-07T03:32:16Z",
+  "last run": "2026-01-07T04:18:08Z",
   "stories": [
     {
       "headline": "Kentucky, Vanderbilt into top 10 in women\u2019s AP Top 25 after 4 of top 10 teams fall; UConn, Texas 1-2",
@@ -10,6 +10,16 @@
       "first_sentence": "Kentucky and Vanderbilt made major jumps in The Associated Press women\u2019s basketball Top 25 on Monday after four of the top 10 teams lost last week, causing a shakeup in the poll.",
       "timestamp": "2026-01-07T01:23:03Z",
       "source": "AP News"
+    },
+    {
+      "headline": "'Very pleasant surprise': inflation cools but remains above RBA target",
+      "link": "https://www.abc.net.au/news/2026-01-07/inflation-abs-monthly-cpi-for-november/106205848",
+      "mean_score": 0.4664,
+      "vader_score": 0.4562,
+      "textblob_score": 0.4767,
+      "first_sentence": "The consumer price index \u00a0rose 3.4 per cent over the year to November, down from 3.8 per cent a month earlier.",
+      "timestamp": "2026-01-07T00:40:46Z",
+      "source": "ABC News"
     },
     {
       "headline": "New year resolutions? How to free yourself from brain rot in 2026 | Jess Harwood",
