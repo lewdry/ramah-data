@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-07T00:14:14Z",
+  "last run": "2026-01-07T01:32:35Z",
   "stories": [
+    {
+      "headline": "Kentucky, Vanderbilt into top 10 in women\u2019s AP Top 25 after 4 of top 10 teams fall; UConn, Texas 1-2",
+      "link": "https://apnews.com/article/ap-top-25-shakeup-d2f425b1952665515f2b7922bbe0a957",
+      "mean_score": 0.5133,
+      "vader_score": 0.5267,
+      "textblob_score": 0.5,
+      "first_sentence": "Kentucky and Vanderbilt made major jumps in The Associated Press women\u2019s basketball Top 25 on Monday after four of the top 10 teams lost last week, causing a shakeup in the poll.",
+      "timestamp": "2026-01-07T01:23:03Z",
+      "source": "AP News"
+    },
+    {
+      "headline": "New year resolutions? How to free yourself from brain rot in 2026 | Jess Harwood",
+      "link": "https://www.theguardian.com/commentisfree/picture/2026/jan/07/new-year-resolutions-how-to-free-yourself-from-social-media-brain-rot-in-2026",
+      "mean_score": 0.3894,
+      "vader_score": 0.5106,
+      "textblob_score": 0.2682,
+      "first_sentence": "Look!! A bird!! Continue reading.",
+      "timestamp": "2026-01-07T00:15:56Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Mystery safe hauled from ocean floor yields potent packet of beef jerky",
       "link": "https://www.abc.net.au/news/2026-01-07/shark-bay-treasure-safe-found-on-seafloor-with-beef-jerky/106200058",
