@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-07T17:07:27Z",
+  "last run": "2026-01-07T18:06:10Z",
   "stories": [
+    {
+      "headline": "Gov. Ron DeSantis calls for special session in April to redraw Florida\u2019s congressional districts",
+      "link": "https://apnews.com/article/florida-redistricting-census-desantis-b10b743019ba7f25a2f26d3ccdaf9a67",
+      "mean_score": 0.3795,
+      "vader_score": 0.4019,
+      "textblob_score": 0.3571,
+      "first_sentence": "ORLANDO, Fla.",
+      "timestamp": "2026-01-07T17:53:02Z",
+      "source": "AP News"
+    },
+    {
+      "headline": "\u2018For a moment, only that story matters\u2019: my plan to reignite the all-consuming love of books",
+      "link": "https://www.theguardian.com/books/commentisfree/2026/jan/07/reading-for-pleasure-young-people-katy-hessel",
+      "mean_score": 0.4435,
+      "vader_score": 0.6369,
+      "textblob_score": 0.25,
+      "first_sentence": "Reading for pleasure rates are shockingly low in young people.",
+      "timestamp": "2026-01-07T17:06:15Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Here are the launches and landings we\u2019re most excited about in 2026",
       "link": "https://arstechnica.com/space/2026/01/here-are-the-launches-and-landings-were-most-excited-about-in-2026/",
@@ -2480,16 +2500,6 @@
       "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
       "timestamp": "2025-06-28T05:17:21Z",
       "source": "SBS News"
-    },
-    {
-      "headline": "Vitamin pills and icy swims: Can you really boost your immune system?",
-      "link": "https://www.bbc.com/news/articles/cx2m8d44v4go?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4094,
-      "vader_score": 0.7688,
-      "textblob_score": 0.05,
-      "first_sentence": "And I feel like I've left my sanity as well as my warm clothes in the changing room as I stride out to the edge of a reservoir in my swim shorts.",
-      "timestamp": "2025-02-09T02:51:39Z",
-      "source": "BBC News"
     }
   ]
 }
