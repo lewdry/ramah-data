@@ -5575,3 +5575,36 @@
 2026-01-07 05:08:00,841 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
 2026-01-07 05:08:01,327 - INFO - No new positive stories found; updated last run timestamp.
 2026-01-07 05:08:01,329 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 948 processed, 0 accepted | Cache: 0 hits, 0 misses | Duration: 7.53s
+2026-01-07 06:05:54,987 - INFO - Starting Ramah News Fetcher
+2026-01-07 06:05:54,999 - INFO - Checking feed: http://feeds.bbci.co.uk/news/rss.xml
+2026-01-07 06:05:55,342 - INFO - Checking feed: http://feeds.bbci.co.uk/news/world/rss.xml
+2026-01-07 06:05:55,440 - INFO - Checking feed: http://feeds.bbci.co.uk/news/uk/rss.xml
+2026-01-07 06:05:55,621 - INFO - Checking feed: http://feeds.bbci.co.uk/news/business/rss.xml
+2026-01-07 06:05:55,818 - INFO - Checking feed: http://feeds.bbci.co.uk/news/technology/rss.xml
+2026-01-07 06:05:56,015 - INFO - Checking feed: http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+2026-01-07 06:05:56,377 - INFO - Checking feed: http://feeds.bbci.co.uk/news/health/rss.xml
+2026-01-07 06:05:56,648 - INFO - Checking feed: http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+2026-01-07 06:05:56,872 - INFO - Checking feed: https://www.abc.net.au/news/feed/45910/rss.xml
+2026-01-07 06:05:57,133 - INFO - Checking feed: https://www.abc.net.au/news/feed/51120/rss.xml
+2026-01-07 06:05:57,215 - INFO - Checking feed: https://www.theguardian.com/world/rss
+2026-01-07 06:05:57,375 - INFO - Checking feed: https://www.theguardian.com/au/rss
+2026-01-07 06:05:57,582 - INFO - Found good news: Art could save your life! Five creative ways to make 2026 happier, healthier and more hopeful (Mean Score: 0.7122, VADER: 0.9244, TextBlob: 0.5000)
+2026-01-07 06:05:57,872 - INFO - Checking feed: https://www.theguardian.com/environment/rss
+2026-01-07 06:05:57,975 - INFO - Checking feed: https://www.theguardian.com/science/rss
+2026-01-07 06:05:58,062 - INFO - Checking feed: https://www.theguardian.com/uk/technology/rss
+2026-01-07 06:05:58,139 - INFO - Checking feed: https://www.theguardian.com/lifeandstyle/rss
+2026-01-07 06:05:58,277 - INFO - Checking feed: https://www.sbs.com.au/news/feed
+2026-01-07 06:05:59,149 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/index
+2026-01-07 06:05:59,513 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/science
+2026-01-07 06:05:59,683 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/tech-policy
+2026-01-07 06:05:59,791 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/gaming
+2026-01-07 06:05:59,995 - INFO - Checking feed: https://feedx.net/rss/ap.xml
+2026-01-07 06:06:00,345 - INFO - Checking feed: https://feeds.npr.org/1001/rss.xml
+2026-01-07 06:06:00,585 - INFO - Checking feed: https://feeds.npr.org/1004/rss.xml
+2026-01-07 06:06:00,638 - INFO - Checking feed: https://feeds.npr.org/1014/rss.xml
+2026-01-07 06:06:00,700 - INFO - Checking feed: https://feeds.npr.org/1019/rss.xml
+2026-01-07 06:06:00,856 - INFO - Checking feed: https://feeds.npr.org/1017/rss.xml
+2026-01-07 06:06:00,917 - INFO - Checking feed: https://feeds.npr.org/1007/rss.xml
+2026-01-07 06:06:00,985 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
+2026-01-07 06:06:01,051 - INFO - Saved 236 stories to docs/good_news.json.
+2026-01-07 06:06:01,053 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 948 processed, 1 accepted | Cache: 0 hits, 1 misses | Duration: 6.06s
