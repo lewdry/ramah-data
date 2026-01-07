@@ -1,5 +1,25 @@
 [
   {
+    "headline": "'Getting financial help through my GP has improved my health'",
+    "link": "https://www.bbc.com/news/articles/c0rpq9y2gq0o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3502,
+    "vader_score": 0.7003,
+    "textblob_score": 0.0,
+    "first_sentence": "GP surgeries in south London are giving financial advice to help patients manage debt and handle benefits claims - and the results are striking.",
+    "timestamp": "2025-10-24T05:16:27Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Boris Johnson left Inquiry in a hurry - he'll be pleased not to come back",
+    "link": "https://www.bbc.com/news/articles/cj6nennz0nyo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3035,
+    "vader_score": 0.4404,
+    "textblob_score": 0.1667,
+    "first_sentence": "Papers in hand, Boris Johnson arrived at the Covid Inquiry before the sun came up.",
+    "timestamp": "2025-10-21T16:49:01Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Fly around or make out with your crush: how to start lucid dreaming",
     "link": "https://www.theguardian.com/wellness/2025/oct/20/how-to-start-lucid-dreaming",
     "mean_score": 0.3235,

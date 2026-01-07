@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-07T20:04:46Z",
+  "last run": "2026-01-07T21:04:39Z",
   "stories": [
+    {
+      "headline": "Two-time major winner Gauff heaps praise on rising Aussie star Joint",
+      "link": "https://www.abc.net.au/news/2026-01-08/united-cup-tennis-coco-gauff-maya-joint-australia-us/106208390",
+      "mean_score": 0.4446,
+      "vader_score": 0.8268,
+      "textblob_score": 0.0625,
+      "first_sentence": "Coco Gauff says Maya Joint will be a tough opponent to get past should they meet in the United Cup quarterfinals.",
+      "timestamp": "2026-01-07T20:10:02Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Is it safe to exercise outside during hot weather amid heatwave?",
       "link": "https://www.abc.net.au/news/2026-01-08/can-you-exercise-safely-in-a-heatwave-australia/106206302",
@@ -130,6 +140,16 @@
       "first_sentence": "The whimsical term has also been the title of countless poems, songs and books about remarkable coincidences or eureka moments.",
       "timestamp": "2026-01-07T10:00:00Z",
       "source": "NPR News"
+    },
+    {
+      "headline": "What\u2019s to like? Why you can hate Timoth\u00e9e Chalamet\u2019s character and still love Marty Supreme",
+      "link": "https://www.theguardian.com/film/2026/jan/07/marty-supreme-timothee-chalamet-likability",
+      "mean_score": 0.3075,
+      "vader_score": 0.765,
+      "textblob_score": -0.15,
+      "first_sentence": "Chalamet\u2019s nogoodnik ping-pong hustler character is the latest in cinema\u2019s rich history of protagonists with shabby morals.",
+      "timestamp": "2026-01-07T09:47:40Z",
+      "source": "The Guardian"
     },
     {
       "headline": "Labyrinth review \u2013 Jim Henson and David Bowie make beguiling magic in charmingly eccentric 80s classic",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.2,
       "first_sentence": "Millions of us are taking magnesium for a whole range of reasons.",
       "timestamp": "2025-10-24T23:04:39Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "'Getting financial help through my GP has improved my health'",
-      "link": "https://www.bbc.com/news/articles/c0rpq9y2gq0o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3502,
-      "vader_score": 0.7003,
-      "textblob_score": 0.0,
-      "first_sentence": "GP surgeries in south London are giving financial advice to help patients manage debt and handle benefits claims - and the results are striking.",
-      "timestamp": "2025-10-24T05:16:27Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Boris Johnson left Inquiry in a hurry - he'll be pleased not to come back",
-      "link": "https://www.bbc.com/news/articles/cj6nennz0nyo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3035,
-      "vader_score": 0.4404,
-      "textblob_score": 0.1667,
-      "first_sentence": "Papers in hand, Boris Johnson arrived at the Covid Inquiry before the sun came up.",
-      "timestamp": "2025-10-21T16:49:01Z",
       "source": "BBC News"
     }
   ]
