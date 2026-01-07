@@ -5778,3 +5778,36 @@
 2026-01-07 11:04:33,342 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
 2026-01-07 11:04:33,445 - INFO - Saved 246 stories to docs/good_news.json.
 2026-01-07 11:04:33,447 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 936 processed, 3 accepted | Cache: 0 hits, 3 misses | Duration: 5.38s
+2026-01-07 12:06:27,428 - INFO - Starting Ramah News Fetcher
+2026-01-07 12:06:27,440 - INFO - Checking feed: http://feeds.bbci.co.uk/news/rss.xml
+2026-01-07 12:06:27,780 - INFO - Checking feed: http://feeds.bbci.co.uk/news/world/rss.xml
+2026-01-07 12:06:28,049 - INFO - Checking feed: http://feeds.bbci.co.uk/news/uk/rss.xml
+2026-01-07 12:06:28,258 - INFO - Checking feed: http://feeds.bbci.co.uk/news/business/rss.xml
+2026-01-07 12:06:28,479 - INFO - Checking feed: http://feeds.bbci.co.uk/news/technology/rss.xml
+2026-01-07 12:06:28,713 - INFO - Checking feed: http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+2026-01-07 12:06:28,976 - INFO - Checking feed: http://feeds.bbci.co.uk/news/health/rss.xml
+2026-01-07 12:06:29,265 - INFO - Checking feed: http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+2026-01-07 12:06:29,471 - INFO - Checking feed: https://www.abc.net.au/news/feed/45910/rss.xml
+2026-01-07 12:06:29,850 - INFO - Checking feed: https://www.abc.net.au/news/feed/51120/rss.xml
+2026-01-07 12:06:30,063 - INFO - Checking feed: https://www.theguardian.com/world/rss
+2026-01-07 12:06:30,175 - INFO - Found good news: Nigel Farage claims Sadiq Khan is ‘deluded’ if he thinks London is the best city in world – UK politics live (Mean Score: 0.6025, VADER: 0.6369, TextBlob: 0.5682)
+2026-01-07 12:06:30,292 - INFO - Checking feed: https://www.theguardian.com/au/rss
+2026-01-07 12:06:31,061 - INFO - Checking feed: https://www.theguardian.com/environment/rss
+2026-01-07 12:06:31,708 - INFO - Checking feed: https://www.theguardian.com/science/rss
+2026-01-07 12:06:31,790 - INFO - Checking feed: https://www.theguardian.com/uk/technology/rss
+2026-01-07 12:06:31,864 - INFO - Checking feed: https://www.theguardian.com/lifeandstyle/rss
+2026-01-07 12:06:32,388 - INFO - Checking feed: https://www.sbs.com.au/news/feed
+2026-01-07 12:06:32,765 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/index
+2026-01-07 12:06:32,868 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/science
+2026-01-07 12:06:32,949 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/tech-policy
+2026-01-07 12:06:33,023 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/gaming
+2026-01-07 12:06:33,129 - INFO - Checking feed: https://feedx.net/rss/ap.xml
+2026-01-07 12:06:33,558 - INFO - Checking feed: https://feeds.npr.org/1001/rss.xml
+2026-01-07 12:06:33,624 - INFO - Checking feed: https://feeds.npr.org/1004/rss.xml
+2026-01-07 12:06:33,675 - INFO - Checking feed: https://feeds.npr.org/1014/rss.xml
+2026-01-07 12:06:33,727 - INFO - Checking feed: https://feeds.npr.org/1019/rss.xml
+2026-01-07 12:06:33,778 - INFO - Checking feed: https://feeds.npr.org/1017/rss.xml
+2026-01-07 12:06:33,829 - INFO - Checking feed: https://feeds.npr.org/1007/rss.xml
+2026-01-07 12:06:33,903 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
+2026-01-07 12:06:33,958 - INFO - Saved 247 stories to docs/good_news.json.
+2026-01-07 12:06:33,960 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 935 processed, 1 accepted | Cache: 0 hits, 1 misses | Duration: 6.53s
