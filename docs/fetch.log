@@ -6124,3 +6124,43 @@
 2026-01-07 21:04:39,153 - INFO - Saved 250 stories to docs/good_news.json.
 2026-01-07 21:04:39,154 - INFO - Archived 2 new stories to docs/old_news.json.
 2026-01-07 21:04:39,156 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 932 processed, 8 accepted | Cache: 2 hits, 6 misses | Duration: 6.85s
+2026-01-07 22:04:11,724 - INFO - Starting Ramah News Fetcher
+2026-01-07 22:04:11,735 - INFO - Checking feed: http://feeds.bbci.co.uk/news/rss.xml
+2026-01-07 22:04:12,125 - INFO - Checking feed: http://feeds.bbci.co.uk/news/world/rss.xml
+2026-01-07 22:04:12,252 - INFO - Checking feed: http://feeds.bbci.co.uk/news/uk/rss.xml
+2026-01-07 22:04:12,600 - INFO - Checking feed: http://feeds.bbci.co.uk/news/business/rss.xml
+2026-01-07 22:04:12,972 - INFO - Checking feed: http://feeds.bbci.co.uk/news/technology/rss.xml
+2026-01-07 22:04:13,394 - INFO - Checking feed: http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+2026-01-07 22:04:13,751 - INFO - Found good news: Pictured: Winning entries for Wildlife Photographer of the Year 2025 (Mean Score: 0.5133, VADER: 0.5267, TextBlob: 0.5000)
+2026-01-07 22:04:13,752 - INFO - Found good news: Green turtle bounces back from brink in conservation 'win' (Mean Score: 0.3930, VADER: 0.5859, TextBlob: 0.2000)
+2026-01-07 22:04:13,753 - INFO - Found good news: Environment prize nominees 'heroes of our time', says William (Mean Score: 0.3825, VADER: 0.7650, TextBlob: 0.0000)
+2026-01-07 22:04:13,759 - INFO - Checking feed: http://feeds.bbci.co.uk/news/health/rss.xml
+2026-01-07 22:04:14,438 - INFO - Found good news: Vitamin pills and icy swims: Can you really boost your immune system? (Mean Score: 0.4094, VADER: 0.7688, TextBlob: 0.0500)
+2026-01-07 22:04:14,448 - INFO - Found good news: Boris Johnson left Inquiry in a hurry - he'll be pleased not to come back (Mean Score: 0.3035, VADER: 0.4404, TextBlob: 0.1667)
+2026-01-07 22:04:14,974 - INFO - Found good news: 'Getting financial help through my GP has improved my health' (Mean Score: 0.3502, VADER: 0.7003, TextBlob: 0.0000)
+2026-01-07 22:04:15,654 - INFO - Found good news: Is the most expensive lip balm always the best? (Mean Score: 0.4851, VADER: 0.6369, TextBlob: 0.3333)
+2026-01-07 22:04:15,661 - INFO - Checking feed: http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+2026-01-07 22:04:16,131 - INFO - Checking feed: https://www.abc.net.au/news/feed/45910/rss.xml
+2026-01-07 22:04:16,721 - INFO - Checking feed: https://www.abc.net.au/news/feed/51120/rss.xml
+2026-01-07 22:04:17,073 - INFO - Checking feed: https://www.theguardian.com/world/rss
+2026-01-07 22:04:17,345 - INFO - Checking feed: https://www.theguardian.com/au/rss
+2026-01-07 22:04:17,598 - INFO - Checking feed: https://www.theguardian.com/environment/rss
+2026-01-07 22:04:17,744 - INFO - Checking feed: https://www.theguardian.com/science/rss
+2026-01-07 22:04:17,863 - INFO - Checking feed: https://www.theguardian.com/uk/technology/rss
+2026-01-07 22:04:17,970 - INFO - Checking feed: https://www.theguardian.com/lifeandstyle/rss
+2026-01-07 22:04:18,144 - INFO - Found good news: Fly around or make out with your crush: how to start lucid dreaming (Mean Score: 0.3235, VADER: -0.1531, TextBlob: 0.8000)
+2026-01-07 22:04:18,151 - INFO - Checking feed: https://www.sbs.com.au/news/feed
+2026-01-07 22:04:18,786 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/index
+2026-01-07 22:04:18,993 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/science
+2026-01-07 22:04:19,223 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/tech-policy
+2026-01-07 22:04:19,536 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/gaming
+2026-01-07 22:04:19,700 - INFO - Checking feed: https://feedx.net/rss/ap.xml
+2026-01-07 22:04:20,066 - INFO - Checking feed: https://feeds.npr.org/1001/rss.xml
+2026-01-07 22:04:20,231 - INFO - Checking feed: https://feeds.npr.org/1004/rss.xml
+2026-01-07 22:04:20,307 - INFO - Checking feed: https://feeds.npr.org/1014/rss.xml
+2026-01-07 22:04:20,470 - INFO - Checking feed: https://feeds.npr.org/1019/rss.xml
+2026-01-07 22:04:20,577 - INFO - Checking feed: https://feeds.npr.org/1017/rss.xml
+2026-01-07 22:04:20,710 - INFO - Checking feed: https://feeds.npr.org/1007/rss.xml
+2026-01-07 22:04:20,844 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
+2026-01-07 22:04:20,982 - INFO - Saved 250 stories to docs/good_news.json.
+2026-01-07 22:04:20,985 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 930 processed, 8 accepted | Cache: 6 hits, 2 misses | Duration: 9.26s
