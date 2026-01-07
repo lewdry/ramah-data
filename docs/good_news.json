@@ -1,6 +1,46 @@
 {
-  "last run": "2026-01-07T22:04:20Z",
+  "last run": "2026-01-07T23:04:10Z",
   "stories": [
+    {
+      "headline": "Newcastle\u2019s Harvey Barnes hits 102nd-minute winner in 4-3 Leeds thriller",
+      "link": "https://www.theguardian.com/football/2026/jan/07/newcastle-leeds-premier-league-match-report",
+      "mean_score": 0.3185,
+      "vader_score": 0.6369,
+      "textblob_score": 0.0,
+      "first_sentence": "Tactical anarchy reigned supreme on a night of chaotic, bewilderingly thrilling, drama played out amid freezing conditions.",
+      "timestamp": "2026-01-07T22:30:46Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Peake's last-ball six hands Renegades controversial win over Scorchers",
+      "link": "https://www.abc.net.au/news/2026-01-08/bbl-ollie-peake-melbourne-renegades-perth-scorchers/106208704",
+      "mean_score": 0.5669,
+      "vader_score": 0.4588,
+      "textblob_score": 0.675,
+      "first_sentence": "Ollie Peake hit a six on the final delivery to clinch a four-wicket win for the Renegades over the Scorchers.",
+      "timestamp": "2026-01-07T22:05:39Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Can You Keep a Secret? review \u2013 Dawn French is like a wild Vicar of Dibley in this charming sitcom",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/jan/07/bbc-can-you-keep-a-secret-review-dawn-french-is-like-a-wild-vicar-of-dibley-in-this-charming-sitcom",
+      "mean_score": 0.4453,
+      "vader_score": 0.7906,
+      "textblob_score": 0.1,
+      "first_sentence": "Debbie Fendon is a force to be reckoned with.",
+      "timestamp": "2026-01-07T22:00:49Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Huge 4.9m-long crocodile pulled from NT creek that feeds popular waterfall",
+      "link": "https://www.abc.net.au/news/2026-01-08/nt-parks-and-wildlife-rangers-crocodile-capture-data-croc-risk/106206212",
+      "mean_score": 0.5625,
+      "vader_score": 0.6249,
+      "textblob_score": 0.5,
+      "first_sentence": "Rangers in the Northern Territory have caught a crocodile a day in the first week of 2026, including one measuring 4.9 metres pulled from near a popular swimming spot.",
+      "timestamp": "2026-01-07T20:51:21Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Two-time major winner Gauff heaps praise on rising Aussie star Joint",
       "link": "https://www.abc.net.au/news/2026-01-08/united-cup-tennis-coco-gauff-maya-joint-australia-us/106208390",
@@ -2460,46 +2500,6 @@
       "first_sentence": "The largest supermoon of the year, the so-called \u2018beaver\u2019 moon on Wednesday 4 November, was the biggest and brightest of 2025, just 357,000km from EarthWatch November\u2019s \u2018beaver\u2019 supermoon rising over Sydney\u2019s Bondi beach \u2013 videoGlowing September supermoon lights up the sky \u2013 in pictures Continue reading.",
       "timestamp": "2025-11-06T05:00:48Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Oakley Meta Vanguard review: fantastic AI running glasses linked to Garmin",
-      "link": "https://www.theguardian.com/technology/2025/nov/03/oakley-meta-vanguard-review-fantastic-ai-running-glasses-linked-to-garmin",
-      "mean_score": 0.4787,
-      "vader_score": 0.5574,
-      "textblob_score": 0.4,
-      "first_sentence": "The Guardian\u2019s journalism is independent.",
-      "timestamp": "2025-11-03T07:00:26Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "These robots can clean, exercise - and care for you in old age. Would you trust them to?",
-      "link": "https://www.bbc.com/news/articles/c9wdzyyglq5o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5407,
-      "vader_score": 0.8481,
-      "textblob_score": 0.2333,
-      "first_sentence": "Hidden away in a lab in north-west London three black metal robotic hands move eerily on an engineering work bench.",
-      "timestamp": "2025-10-28T00:04:09Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Apple Watch Ultra 3 review: the biggest and best smartwatch for an iPhone",
-      "link": "https://www.theguardian.com/technology/2025/oct/27/apple-watch-ultra-3-review-the-biggest-and-best-smartwatch-for-an-iphone",
-      "mean_score": 0.8185,
-      "vader_score": 0.6369,
-      "textblob_score": 1.0,
-      "first_sentence": "The Guardian\u2019s journalism is independent.",
-      "timestamp": "2025-10-27T07:00:24Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Magnesium: Can this 'miracle mineral' really help us sleep?",
-      "link": "https://www.bbc.com/news/articles/czxn1qxrr32o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5087,
-      "vader_score": 0.8173,
-      "textblob_score": 0.2,
-      "first_sentence": "Millions of us are taking magnesium for a whole range of reasons.",
-      "timestamp": "2025-10-24T23:04:39Z",
-      "source": "BBC News"
     }
   ]
 }

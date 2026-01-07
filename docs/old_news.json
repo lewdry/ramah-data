@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Oakley Meta Vanguard review: fantastic AI running glasses linked to Garmin",
+    "link": "https://www.theguardian.com/technology/2025/nov/03/oakley-meta-vanguard-review-fantastic-ai-running-glasses-linked-to-garmin",
+    "mean_score": 0.4787,
+    "vader_score": 0.5574,
+    "textblob_score": 0.4,
+    "first_sentence": "The Guardian\u2019s journalism is independent.",
+    "timestamp": "2025-11-03T07:00:26Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "These robots can clean, exercise - and care for you in old age. Would you trust them to?",
+    "link": "https://www.bbc.com/news/articles/c9wdzyyglq5o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.5407,
+    "vader_score": 0.8481,
+    "textblob_score": 0.2333,
+    "first_sentence": "Hidden away in a lab in north-west London three black metal robotic hands move eerily on an engineering work bench.",
+    "timestamp": "2025-10-28T00:04:09Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Apple Watch Ultra 3 review: the biggest and best smartwatch for an iPhone",
+    "link": "https://www.theguardian.com/technology/2025/oct/27/apple-watch-ultra-3-review-the-biggest-and-best-smartwatch-for-an-iphone",
+    "mean_score": 0.8185,
+    "vader_score": 0.6369,
+    "textblob_score": 1.0,
+    "first_sentence": "The Guardian\u2019s journalism is independent.",
+    "timestamp": "2025-10-27T07:00:24Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Magnesium: Can this 'miracle mineral' really help us sleep?",
+    "link": "https://www.bbc.com/news/articles/czxn1qxrr32o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.5087,
+    "vader_score": 0.8173,
+    "textblob_score": 0.2,
+    "first_sentence": "Millions of us are taking magnesium for a whole range of reasons.",
+    "timestamp": "2025-10-24T23:04:39Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "'Getting financial help through my GP has improved my health'",
     "link": "https://www.bbc.com/news/articles/c0rpq9y2gq0o?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.3502,
