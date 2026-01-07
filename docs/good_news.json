@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-07T09:08:04Z",
+  "last run": "2026-01-07T10:04:37Z",
   "stories": [
+    {
+      "headline": "Labyrinth review \u2013 Jim Henson and David Bowie make beguiling magic in charmingly eccentric 80s classic",
+      "link": "https://www.theguardian.com/film/2026/jan/07/labyrinth-review-jim-henson-david-bowie-jennifer-connelly",
+      "mean_score": 0.3581,
+      "vader_score": 0.4939,
+      "textblob_score": 0.2222,
+      "first_sentence": "Revived for its 40th anniversary, this is one of the most beguilingly eccentric and charming family movies imaginable.",
+      "timestamp": "2026-01-07T09:00:37Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Breaking: UK citizen described as 'good friend' by White Australia movement to be deported",
       "link": "https://www.abc.net.au/news/2026-01-07/uk-citizen-suspected-far-right-links-set-to-be-deported/106207522",
