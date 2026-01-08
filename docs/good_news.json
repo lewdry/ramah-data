@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-08T07:07:10Z",
+  "last run": "2026-01-08T08:05:49Z",
   "stories": [
+    {
+      "headline": "Tesco and M&S report strong  Christmas food sales",
+      "link": "https://www.bbc.com/news/articles/cp82ylmy6d1o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.472,
+      "vader_score": 0.5106,
+      "textblob_score": 0.4333,
+      "first_sentence": "Retail giants Tesco and Marks & Spencer both saw a bump in food sales over the vital Christmas period despite both mentioning a challenging economic backdrop.",
+      "timestamp": "2026-01-08T07:53:38Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Supermarkets could help UK shoppers eat more sustainable local fish \u2013 study",
       "link": "https://www.theguardian.com/environment/2026/jan/08/supermarkets-uk-consumers-sustainable-local-fish-seafood-imports-nutrition",
@@ -2490,16 +2500,6 @@
       "first_sentence": "On the face of it, there is relatively little festive cheer for your finances in the latest inflation figures.",
       "timestamp": "2025-12-17T14:18:10Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Australia\u2019s best news agency photography for 2025 \u2013 in pictures",
-      "link": "https://www.theguardian.com/australia-news/gallery/2025/dec/14/australia-best-news-agency-photography-2025",
-      "mean_score": 0.8185,
-      "vader_score": 0.6369,
-      "textblob_score": 1.0,
-      "first_sentence": "Floods, fires, festivities and legal wins are all captured in the best images from the wire agencies in 2025Follow our Australia news live blog for latest updatesBest of Australian politics 2025 \u2013 in pictures Continue reading.",
-      "timestamp": "2025-12-13T19:00:42Z",
-      "source": "The Guardian"
     }
   ]
 }
