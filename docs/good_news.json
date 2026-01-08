@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-08T14:06:02Z",
+  "last run": "2026-01-08T15:05:57Z",
   "stories": [
+    {
+      "headline": "Matt Damon\u2019s best films \u2013 ranked!",
+      "link": "https://www.theguardian.com/film/2026/jan/08/matt-damons-best-films-ranked",
+      "mean_score": 0.8348,
+      "vader_score": 0.6696,
+      "textblob_score": 1.0,
+      "first_sentence": "Matt Damon is essentially a bland dish that requires the right spice truly to zing, which means he is often at his best when playing beastly.",
+      "timestamp": "2026-01-08T14:35:04Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "The deliciously delusional popularity of Toowoomba pasta \u2013 a viral seafood dish inexplicably named for my home town | Rebecca Shaw",
+      "link": "https://www.theguardian.com/commentisfree/2026/jan/08/toowoomba-pasta-prawns-outback-steakhouse-korea",
+      "mean_score": 0.4592,
+      "vader_score": 0.7184,
+      "textblob_score": 0.2,
+      "first_sentence": "One of the things that happens when you grow up somewhere that isn\u2019t a big city, and then you move to a big city (much like Babe, pig in the city), is that you inevitably carry your home town with you.",
+      "timestamp": "2026-01-08T14:00:11Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "\u2018Brilliant for work-life balance\u2019: how Britain is embracing the \u2018workation\u2019",
       "link": "https://www.theguardian.com/money/2026/jan/08/work-life-balance-britain-embracing-workation",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Earlier today I set you the following set of numerical challenges to celebrate the arrival of 2026.",
       "timestamp": "2025-12-22T17:00:32Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Can you solve it? Are you ready for twenty twenty-six\u2026seven?",
-      "link": "https://www.theguardian.com/science/2025/dec/22/can-you-solve-it-are-you-ready-for-twenty-twenty-sixseven",
-      "mean_score": 0.3831,
-      "vader_score": 0.5661,
-      "textblob_score": 0.2,
-      "first_sentence": "As we say goodbye to 2025, let\u2019s delight in its numerical charms one final time.",
-      "timestamp": "2025-12-22T07:10:20Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Why Croatia's capital wants to hold Europe's best Christmas market",
-      "link": "https://www.bbc.com/news/articles/c8dy5m56477o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.6184,
-      "vader_score": 0.6369,
-      "textblob_score": 0.6,
-      "first_sentence": "Christmas markets are not just tradition across Europe, they are big businesses that give cities a huge economic boost every December.",
-      "timestamp": "2025-12-22T01:05:38Z",
-      "source": "BBC News"
     }
   ]
 }

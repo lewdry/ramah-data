@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Can you solve it? Are you ready for twenty twenty-six\u2026seven?",
+    "link": "https://www.theguardian.com/science/2025/dec/22/can-you-solve-it-are-you-ready-for-twenty-twenty-sixseven",
+    "mean_score": 0.3831,
+    "vader_score": 0.5661,
+    "textblob_score": 0.2,
+    "first_sentence": "As we say goodbye to 2025, let\u2019s delight in its numerical charms one final time.",
+    "timestamp": "2025-12-22T07:10:20Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Why Croatia's capital wants to hold Europe's best Christmas market",
     "link": "https://www.bbc.com/news/articles/c8dy5m56477o?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.6184,
