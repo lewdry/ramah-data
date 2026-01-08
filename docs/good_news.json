@@ -1,5 +1,5 @@
 {
-  "last run": "2026-01-08T11:04:12Z",
+  "last run": "2026-01-08T12:06:45Z",
   "stories": [
     {
       "headline": "Tesco aiming for bumper 2026 after best Christmas market share in decade",
@@ -9,6 +9,16 @@
       "textblob_score": 1.0,
       "first_sentence": "Tesco has said it aims to grab an even bigger slice of the grocery market this year after winning its best share in more than a decade over Christmas with strong sales of fresh food and its Finest own-label range.",
       "timestamp": "2026-01-08T10:48:26Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Martin Chivers was a heavyweight Spurs legend with the heart of a poet",
+      "link": "https://www.theguardian.com/football/2026/jan/08/martin-chivers-was-a-heavyweight-spurs-legend-with-the-heart-of-a-poet",
+      "mean_score": 0.3185,
+      "vader_score": 0.6369,
+      "textblob_score": 0.0,
+      "first_sentence": "The Martin Chivers route from record signing to Tottenham legend was anything but simple.",
+      "timestamp": "2026-01-08T10:30:04Z",
       "source": "The Guardian"
     },
     {
@@ -2490,16 +2500,6 @@
       "first_sentence": "Christmas markets are not just tradition across Europe, they are big businesses that give cities a huge economic boost every December.",
       "timestamp": "2025-12-22T01:05:38Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "10 of the best Australian sparkling wines for every budget",
-      "link": "https://www.theguardian.com/food/2025/dec/21/best-australian-sparkling-wine-every-budget",
-      "mean_score": 0.6253,
-      "vader_score": 0.7506,
-      "textblob_score": 0.5,
-      "first_sentence": "If my Spotify Wrapped is anything to go by, I\u2019ve spent a suspicious amount of time with Phil Collins this year.",
-      "timestamp": "2025-12-20T19:00:39Z",
-      "source": "The Guardian"
     }
   ]
 }
