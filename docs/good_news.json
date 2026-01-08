@@ -1,5 +1,5 @@
 {
-  "last run": "2026-01-08T20:04:36Z",
+  "last run": "2026-01-08T21:04:31Z",
   "stories": [
     {
       "headline": "What landlords are obliged to do to cool your rental",
@@ -9,6 +9,16 @@
       "textblob_score": 0.35,
       "first_sentence": "As Australia swelters through its first heatwave of the year, renters will be looking at how to keep their homes cool.",
       "timestamp": "2026-01-08T18:57:40Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Weather system brews \u2018perfect storm\u2019 for abnormally intense heatwave",
+      "link": "https://www.abc.net.au/news/2026-01-09/heatwave-fire-threat-peaking-as-temps-hit-record-high/106211144",
+      "mean_score": 0.3386,
+      "vader_score": 0.0772,
+      "textblob_score": 0.6,
+      "first_sentence": "A large swathe of the country will again bake through 40 to 45 degrees Celsius heat today, as a scorching north-westerly airstream from the outback strengthens and stretches the hot airmass from northern WA back to the Victorian coast.",
+      "timestamp": "2026-01-08T18:29:34Z",
       "source": "ABC News"
     },
     {
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.6429,
       "first_sentence": "The Guardian\u2019s journalism is independent.",
       "timestamp": "2025-12-26T07:00:04Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Helen Goh\u2019s recipe for an espresso martini pavlova bar | The sweet spot",
-      "link": "https://www.theguardian.com/food/2025/dec/26/espresso-martini-pavlova-bar-new-years-eve-recipes-helen-goh",
-      "mean_score": 0.4044,
-      "vader_score": 0.4588,
-      "textblob_score": 0.35,
-      "first_sentence": "Your favourite cocktail is now a DIY pavlova party! Pile crisp coffee meringues high with espresso cream, boozy cherries, a drizzle of whisky caramel and a flicker of edible gold leaf, then shake, spoon and sparkle your way into the New Year.",
-      "timestamp": "2025-12-26T06:00:03Z",
       "source": "The Guardian"
     }
   ]
