@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-08T09:07:44Z",
+  "last run": "2026-01-08T10:04:41Z",
   "stories": [
+    {
+      "headline": "Elon Musk's Grok AI appears to have made child sexual imagery, says charity",
+      "link": "https://www.bbc.com/news/articles/cvg1mzlryxeo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4607,
+      "vader_score": 0.4215,
+      "textblob_score": 0.5,
+      "first_sentence": "The Internet Watch Foundation (IWF) charity says its analysts have discovered \"criminal imagery\" of girls aged between 11 and 13 which \"appears to have been created\" using Grok.",
+      "timestamp": "2026-01-08T09:58:38Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Asian shares mostly lower after Wall Street\u2019s strong start to the year cools",
+      "link": "https://apnews.com/article/stocks-markets-venezuela-trump-oil-ai-01e18594af8d435ce14ec862eb508f96",
+      "mean_score": 0.4109,
+      "vader_score": 0.5106,
+      "textblob_score": 0.3111,
+      "first_sentence": "HONG KONG (AP) \u2014 Asian shares were mostly lower and U.S.",
+      "timestamp": "2026-01-08T09:23:02Z",
+      "source": "AP News"
+    },
     {
       "headline": "His & Hers review \u2013 this glossy thriller is ideal new year TV",
       "link": "https://www.theguardian.com/tv-and-radio/2026/jan/08/his-hers-review-netflix-jon-bernthal-tessa-thompson-thriller",
@@ -70,6 +90,16 @@
       "first_sentence": "Julia Hughes's eyes sparkle as she contemplates the turquoise waters of the Mediterranean that surround her.",
       "timestamp": "2026-01-08T01:59:50Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "We were fired but got better jobs \u2013 how to find a new role that works for you",
+      "link": "https://www.bbc.com/news/articles/cwyvw1ev9rro?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3449,
+      "vader_score": 0.3716,
+      "textblob_score": 0.3182,
+      "first_sentence": "The new year is a natural time to reflect, and for many of us, that involves thinking about our careers.",
+      "timestamp": "2026-01-08T01:58:50Z",
+      "source": "BBC News"
     },
     {
       "headline": "The best movies and TV series you can watch now \u2014 no fee required",
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.425,
       "first_sentence": "Sweet potatoes can be roasted, mashed, fried and pied \u2013 you might have eaten them so often that they feel old hat.",
       "timestamp": "2025-12-19T17:00:06Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Reminder: Donate to win swag in our annual Charity Drive sweepstakes",
-      "link": "https://arstechnica.com/gaming/2025/12/reminder-donate-to-win-swag-in-our-annual-charity-drive-sweepstakes-18/",
-      "mean_score": 0.7825,
-      "vader_score": 0.765,
-      "textblob_score": 0.8,
-      "first_sentence": "Help increase our charity haul of nearly $18,000 in just over a week.",
-      "timestamp": "2025-12-18T21:35:58Z",
-      "source": "Ars Technica"
-    },
-    {
-      "headline": "Facebook tests \u00a39.99 monthly subscription for sharing more than two links",
-      "link": "https://www.bbc.com/news/articles/cp9kv3lezgro?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4607,
-      "vader_score": 0.4215,
-      "textblob_score": 0.5,
-      "first_sentence": "Facebook is testing placing a limit on how many links some users can share when they post on the social media platform.",
-      "timestamp": "2025-12-18T12:13:14Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "How to become a good and thoughtful gift-giver",
-      "link": "https://www.theguardian.com/wellness/2025/dec/17/how-to-become-a-good-gift-giver",
-      "mean_score": 0.6102,
-      "vader_score": 0.6705,
-      "textblob_score": 0.55,
-      "first_sentence": "My family members are incredible gift-givers.",
-      "timestamp": "2025-12-17T17:00:12Z",
       "source": "The Guardian"
     }
   ]
