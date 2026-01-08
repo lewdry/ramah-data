@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Astronauts successfully return to Earth after ISS command change \u2013 video",
+    "link": "https://www.theguardian.com/science/video/2025/dec/09/astronauts-return-to-earth-iss-command-change-video",
+    "mean_score": 0.622,
+    "vader_score": 0.4939,
+    "textblob_score": 0.75,
+    "first_sentence": "Three crew members left the International Space Station and landed back on Earth after 245 days in space.",
+    "timestamp": "2025-12-09T15:57:58Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Love is in the air: what to wear to a winter wedding",
+    "link": "https://www.theguardian.com/fashion/gallery/2025/dec/05/what-to-wear-to-a-winter-wedding",
+    "mean_score": 0.5685,
+    "vader_score": 0.6369,
+    "textblob_score": 0.5,
+    "first_sentence": "The Guardian\u2019s journalism is independent.",
+    "timestamp": "2025-12-05T06:00:41Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Young women call for better health education",
     "link": "https://www.bbc.com/news/videos/c8e9610gwj1o?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.3702,

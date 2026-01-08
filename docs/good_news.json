@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-08T02:39:47Z",
+  "last run": "2026-01-08T03:32:30Z",
   "stories": [
+    {
+      "headline": "Neale has Lions' 'blessing' if he wants to return to Perth after 2026 season",
+      "link": "https://www.abc.net.au/news/2026-01-08/brisbane-lions-lachie-neale-chris-fagan/106210014",
+      "mean_score": 0.3469,
+      "vader_score": 0.4939,
+      "textblob_score": 0.2,
+      "first_sentence": "Brisbane Lions coach Chris Fagan has given Lachie Neale his blessings if the former co-captain decides to move to WA at the end of the season.",
+      "timestamp": "2026-01-08T02:58:25Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Boom time for active holiday tours drawing travellers with 'young energy'",
       "link": "https://www.abc.net.au/news/2026-01-08/active-holidays-ocean-swimming-popular-on-turkish-lycian-coast/106173770",
@@ -19,6 +29,16 @@
       "textblob_score": 1.0,
       "first_sentence": "The combination of rising monthly fees and new platforms have seen Australian's monthly spend on streaming services hit $42, according to analyst firm Telsyte's 2025 Subscription Entertainment Study.",
       "timestamp": "2026-01-08T01:50:29Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "'Let's be clear, it's too high': RBA deputy downplays easing inflation",
+      "link": "https://www.abc.net.au/news/2026-01-08/rba-deputy-andrew-hauser-inflation-interest-rates/106208716",
+      "mean_score": 0.3437,
+      "vader_score": 0.5574,
+      "textblob_score": 0.13,
+      "first_sentence": "In an exclusive interview, RBA deputy governor Andrew Hauser says it is \"still true\" that Australians have very likely seen the last rate cuts this cycle.",
+      "timestamp": "2026-01-08T01:35:43Z",
       "source": "ABC News"
     },
     {
@@ -2480,26 +2500,6 @@
       "first_sentence": "Lying on your back in a big hospital scanner, as still as you can, with your arms above your head \u2013 for 45 minutes.",
       "timestamp": "2025-12-12T00:03:10Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Astronauts successfully return to Earth after ISS command change \u2013 video",
-      "link": "https://www.theguardian.com/science/video/2025/dec/09/astronauts-return-to-earth-iss-command-change-video",
-      "mean_score": 0.622,
-      "vader_score": 0.4939,
-      "textblob_score": 0.75,
-      "first_sentence": "Three crew members left the International Space Station and landed back on Earth after 245 days in space.",
-      "timestamp": "2025-12-09T15:57:58Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Love is in the air: what to wear to a winter wedding",
-      "link": "https://www.theguardian.com/fashion/gallery/2025/dec/05/what-to-wear-to-a-winter-wedding",
-      "mean_score": 0.5685,
-      "vader_score": 0.6369,
-      "textblob_score": 0.5,
-      "first_sentence": "The Guardian\u2019s journalism is independent.",
-      "timestamp": "2025-12-05T06:00:41Z",
-      "source": "The Guardian"
     }
   ]
 }
