@@ -186,6 +186,8 @@ BLOCK_LIST = [
     "sign up",
     "saudi",
     "shamima begum",
+    "grok",
+    "Elon Musk",
 ]
 # Substrings of feed URLs or article links to block entirely (skip fetching)
 URL_BLOCKLIST = [
