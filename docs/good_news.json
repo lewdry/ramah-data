@@ -1,5 +1,5 @@
 {
-  "last run": "2026-01-08T13:17:00Z",
+  "last run": "2026-01-08T14:06:02Z",
   "stories": [
     {
       "headline": "\u2018Brilliant for work-life balance\u2019: how Britain is embracing the \u2018workation\u2019",
@@ -2490,6 +2490,16 @@
       "first_sentence": "As we say goodbye to 2025, let\u2019s delight in its numerical charms one final time.",
       "timestamp": "2025-12-22T07:10:20Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "Why Croatia's capital wants to hold Europe's best Christmas market",
+      "link": "https://www.bbc.com/news/articles/c8dy5m56477o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.6184,
+      "vader_score": 0.6369,
+      "textblob_score": 0.6,
+      "first_sentence": "Christmas markets are not just tradition across Europe, they are big businesses that give cities a huge economic boost every December.",
+      "timestamp": "2025-12-22T01:05:38Z",
+      "source": "BBC News"
     }
   ]
 }
