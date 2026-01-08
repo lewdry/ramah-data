@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-08T22:04:18Z",
+  "last run": "2026-01-08T23:04:14Z",
   "stories": [
+    {
+      "headline": "Who was Renee Nicole Good?",
+      "link": "https://www.npr.org/2026/01/08/nx-s1-5671206/who-was-renee-nicole-good",
+      "mean_score": 0.5702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.7,
+      "first_sentence": "We're continuing to learn more about the 37-year-old woman who was shot and killed by an Immigration and Customs Enforcement officer in Minneapolis on Wednesday.",
+      "timestamp": "2026-01-08T21:13:52Z",
+      "source": "NPR News"
+    },
     {
       "headline": "What landlords are obliged to do to cool your rental",
       "link": "https://www.abc.net.au/news/2026-01-09/what-rental-landlords-are-obliged-to-do-to-cool-homes/106209220",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.3,
       "first_sentence": "It\u2019s easy to hate clocks.",
       "timestamp": "2025-12-26T11:00:08Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Meet the Twixmas jumper \u2013 the perfect knit for right now | Jess Cartner-Morley",
-      "link": "https://www.theguardian.com/fashion/2025/dec/26/jess-cartner-morley-on-fashion-twixmas-jumper-knit",
-      "mean_score": 0.6074,
-      "vader_score": 0.5719,
-      "textblob_score": 0.6429,
-      "first_sentence": "The Guardian\u2019s journalism is independent.",
-      "timestamp": "2025-12-26T07:00:04Z",
       "source": "The Guardian"
     }
   ]
