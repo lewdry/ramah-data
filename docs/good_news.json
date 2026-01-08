@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-08T17:07:43Z",
+  "last run": "2026-01-08T18:05:46Z",
   "stories": [
+    {
+      "headline": "Ruth Jones excited by first drama role in Netflix series",
+      "link": "https://www.bbc.com/news/articles/cgl80998lk3o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3263,
+      "vader_score": 0.34,
+      "textblob_score": 0.3125,
+      "first_sentence": "Gavin and Stacey star Ruth Jones has revealed her excitement at taking on her first role away from comedy in a top Netflix crime series.",
+      "timestamp": "2026-01-08T18:00:06Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Cat Burns celebrates 'start of new life' after breast reduction surgery",
       "link": "https://www.bbc.com/news/articles/c3veww3deddo?at_medium=RSS&at_campaign=rss",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Americans will be unable to buy the latest and greatest drones because the Federal Communications Commission (FCC) has banned foreign-made drones as of today.",
       "timestamp": "2025-12-23T17:29:57Z",
       "source": "Ars Technica"
-    },
-    {
-      "headline": "Houseplant hacks \u2013 are used coffee grounds good for plants?",
-      "link": "https://www.theguardian.com/lifeandstyle/2025/dec/23/houseplant-hacks-are-used-coffee-grounds-good-for-plants",
-      "mean_score": 0.5702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.7,
-      "first_sentence": "The problem\n Coffee lovers often wonder if waste from their morning habit can feed their plants.",
-      "timestamp": "2025-12-23T10:00:53Z",
-      "source": "The Guardian"
     }
   ]
 }
