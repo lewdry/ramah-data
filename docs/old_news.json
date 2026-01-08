@@ -1,5 +1,25 @@
 [
   {
+    "headline": "The showers and baths keeping data centre tech cool",
+    "link": "https://www.bbc.com/news/articles/cp8zd176516o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3341,
+    "vader_score": 0.3182,
+    "textblob_score": 0.35,
+    "first_sentence": "They work 24/7 at high speeds and get searingly hot - but data centre computer chips get plenty of pampering.",
+    "timestamp": "2025-12-23T00:04:45Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Did you solve it? Are you ready for twenty twenty-six\u2026seven?",
+    "link": "https://www.theguardian.com/science/2025/dec/22/did-you-solve-it-are-you-ready-for-twenty-twenty-sixseven",
+    "mean_score": 0.3831,
+    "vader_score": 0.5661,
+    "textblob_score": 0.2,
+    "first_sentence": "Earlier today I set you the following set of numerical challenges to celebrate the arrival of 2026.",
+    "timestamp": "2025-12-22T17:00:32Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Can you solve it? Are you ready for twenty twenty-six\u2026seven?",
     "link": "https://www.theguardian.com/science/2025/dec/22/can-you-solve-it-are-you-ready-for-twenty-twenty-sixseven",
     "mean_score": 0.3831,
