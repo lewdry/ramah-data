@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-08T01:32:25Z",
+  "last run": "2026-01-08T02:39:47Z",
   "stories": [
+    {
+      "headline": "Boom time for active holiday tours drawing travellers with 'young energy'",
+      "link": "https://www.abc.net.au/news/2026-01-08/active-holidays-ocean-swimming-popular-on-turkish-lycian-coast/106173770",
+      "mean_score": 0.3706,
+      "vader_score": 0.7579,
+      "textblob_score": -0.0167,
+      "first_sentence": "Julia Hughes's eyes sparkle as she contemplates the turquoise waters of the Mediterranean that surround her.",
+      "timestamp": "2026-01-08T01:59:50Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "The best movies and TV series you can watch now \u2014 no fee required",
+      "link": "https://www.abc.net.au/news/2026-01-08/free-movies-free-tv-watch-online/106207308",
+      "mean_score": 0.7294,
+      "vader_score": 0.4588,
+      "textblob_score": 1.0,
+      "first_sentence": "The combination of rising monthly fees and new platforms have seen Australian's monthly spend on streaming services hit $42, according to analyst firm Telsyte's 2025 Subscription Entertainment Study.",
+      "timestamp": "2026-01-08T01:50:29Z",
+      "source": "ABC News"
+    },
     {
       "headline": "'Splash & grab' and 'UK ready to seize more of Putin's ships'",
       "link": "https://www.bbc.com/news/articles/czx3kz4q6yko?at_medium=RSS&at_campaign=rss",
@@ -10,6 +30,16 @@
       "first_sentence": "Sign up for our morning newsletter and get BBC News in your inbox.",
       "timestamp": "2026-01-08T00:56:38Z",
       "source": "BBC News"
+    },
+    {
+      "headline": "Why China's strong backing of Venezuela did not help Maduro",
+      "link": "https://www.abc.net.au/news/2026-01-08/china-close-ties-with-venezuela-inaction-since-maduro-capture/106205836",
+      "mean_score": 0.3581,
+      "vader_score": 0.2828,
+      "textblob_score": 0.4333,
+      "first_sentence": "China is the biggest buyer of Venezuelan oil, providing a vital source of export revenue to the Latin American economy amid US sanctions.",
+      "timestamp": "2026-01-08T00:26:36Z",
+      "source": "ABC News"
     },
     {
       "headline": "Peel boosts Aussie Winter Olympics hopes with World Cup victory",
@@ -30,6 +60,16 @@
       "first_sentence": "It looks like a golden chandelier and contains the coldest place in the universe.",
       "timestamp": "2026-01-08T00:04:43Z",
       "source": "BBC News"
+    },
+    {
+      "headline": "Live: Khawaja receives guard of honour for final Test innings as Smith falls",
+      "link": "https://www.abc.net.au/news/2026-01-08/ashes-live-blog-day-five-scg/106208540",
+      "mean_score": 0.32,
+      "vader_score": 0.5719,
+      "textblob_score": 0.0682,
+      "first_sentence": "Usman Khawaja is playing in his final Test innings as England spinner Will Jacks removes Steve Smith.",
+      "timestamp": "2026-01-07T22:53:46Z",
+      "source": "ABC News"
     },
     {
       "headline": "Newcastle\u2019s Harvey Barnes hits 102nd-minute winner in 4-3 Leeds thriller",
@@ -2459,46 +2499,6 @@
       "textblob_score": 0.5,
       "first_sentence": "The Guardian\u2019s journalism is independent.",
       "timestamp": "2025-12-05T06:00:41Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Young women call for better health education",
-      "link": "https://www.bbc.com/news/videos/c8e9610gwj1o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.3,
-      "first_sentence": "Young women have spoken about the issues faced by a lack of education in schools on health matters.",
-      "timestamp": "2025-12-04T06:24:28Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Labor\u2019s nature law overhaul contains wins \u2013 but we should watch for gremlins in the details | Adam Morton",
-      "link": "https://www.theguardian.com/australia-news/commentisfree/2025/nov/27/labor-nature-law-overhaul-epbc-act-changes-details",
-      "mean_score": 0.3145,
-      "vader_score": 0.3291,
-      "textblob_score": 0.3,
-      "first_sentence": "We should start at the beginning in assessing the Labor-Greens deal to revamp Australia\u2019s national environment law.",
-      "timestamp": "2025-11-27T06:29:36Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The rewriting of Australia\u2019s nature laws comes as a relief, yet I can\u2019t help feel a sense of foreboding | Georgina Woods",
-      "link": "https://www.theguardian.com/commentisfree/2025/nov/27/australia-nature-laws-environment-relief-yet-foreboding",
-      "mean_score": 0.3502,
-      "vader_score": 0.7003,
-      "textblob_score": 0.0,
-      "first_sentence": "I got a text from a biodiversity advocate around midday on Thursday asking me: are you glad, or sad?.",
-      "timestamp": "2025-11-27T03:44:24Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "In a reading rut? How to get back into reading for fun",
-      "link": "https://www.theguardian.com/wellness/2025/nov/17/how-to-start-reading-fun",
-      "mean_score": 0.3303,
-      "vader_score": 0.5106,
-      "textblob_score": 0.15,
-      "first_sentence": "Most of us read all day \u2013 texts, emails, menus, utility bills, social media captions and news stories.",
-      "timestamp": "2025-11-17T17:00:09Z",
       "source": "The Guardian"
     }
   ]

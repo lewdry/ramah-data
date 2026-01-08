@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Young women call for better health education",
+    "link": "https://www.bbc.com/news/videos/c8e9610gwj1o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3702,
+    "vader_score": 0.4404,
+    "textblob_score": 0.3,
+    "first_sentence": "Young women have spoken about the issues faced by a lack of education in schools on health matters.",
+    "timestamp": "2025-12-04T06:24:28Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Labor\u2019s nature law overhaul contains wins \u2013 but we should watch for gremlins in the details | Adam Morton",
+    "link": "https://www.theguardian.com/australia-news/commentisfree/2025/nov/27/labor-nature-law-overhaul-epbc-act-changes-details",
+    "mean_score": 0.3145,
+    "vader_score": 0.3291,
+    "textblob_score": 0.3,
+    "first_sentence": "We should start at the beginning in assessing the Labor-Greens deal to revamp Australia\u2019s national environment law.",
+    "timestamp": "2025-11-27T06:29:36Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "The rewriting of Australia\u2019s nature laws comes as a relief, yet I can\u2019t help feel a sense of foreboding | Georgina Woods",
+    "link": "https://www.theguardian.com/commentisfree/2025/nov/27/australia-nature-laws-environment-relief-yet-foreboding",
+    "mean_score": 0.3502,
+    "vader_score": 0.7003,
+    "textblob_score": 0.0,
+    "first_sentence": "I got a text from a biodiversity advocate around midday on Thursday asking me: are you glad, or sad?.",
+    "timestamp": "2025-11-27T03:44:24Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "In a reading rut? How to get back into reading for fun",
+    "link": "https://www.theguardian.com/wellness/2025/nov/17/how-to-start-reading-fun",
+    "mean_score": 0.3303,
+    "vader_score": 0.5106,
+    "textblob_score": 0.15,
+    "first_sentence": "Most of us read all day \u2013 texts, emails, menus, utility bills, social media captions and news stories.",
+    "timestamp": "2025-11-17T17:00:09Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Watch Jeff Bezos's successful Blue Origin rocket launch \u2013 video",
     "link": "https://www.theguardian.com/science/video/2025/nov/14/watch-jeff-bezoss-successful-blue-origin-rocket-launch-video",
     "mean_score": 0.4804,
