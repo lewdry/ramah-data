@@ -1,5 +1,15 @@
 [
   {
+    "headline": "\u2018Soil is more important than oil\u2019: inside the perennial grain revolution",
+    "link": "https://www.theguardian.com/environment/2025/dec/12/soil-is-more-important-than-oil-inside-the-perennial-grain-revolution",
+    "mean_score": 0.3608,
+    "vader_score": 0.2716,
+    "textblob_score": 0.45,
+    "first_sentence": "On the concrete floor of a greenhouse in rural Kansas stands a neat grid of 100 plastic plant pots, each holding a straggly crown of strappy, grass-like leaves.",
+    "timestamp": "2025-12-12T12:00:05Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "'It's amazing' \u2013 the wonder material very few can make",
     "link": "https://www.bbc.com/news/articles/c24l223d9n7o?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.378,

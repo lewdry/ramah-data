@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-08T05:07:06Z",
+  "last run": "2026-01-08T06:06:22Z",
   "stories": [
+    {
+      "headline": "My favourite family photo: \u2018I bucketed 30 years of tears that day \u2013 then smiled my smiliest smile\u2019",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/08/my-favourite-family-photo-i-bucketed-30-years-of-tears-that-day-then-smiled-my-smiliest-smile",
+      "mean_score": 0.4159,
+      "vader_score": 0.3818,
+      "textblob_score": 0.45,
+      "first_sentence": "Diane and I had been living together for more than 30 years, and our children were 28 and 26 when we got civilled.",
+      "timestamp": "2026-01-08T05:00:01Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Controversial 150-site  'eco-tourism' project approved for Queensland",
       "link": "https://www.abc.net.au/news/2026-01-08/coochin-creek-tourist-park-approved/106209514",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Help raise a charity haul that\u2019s already past $11,000 in just a couple of days.",
       "timestamp": "2025-12-12T21:35:44Z",
       "source": "Ars Technica"
-    },
-    {
-      "headline": "\u2018Soil is more important than oil\u2019: inside the perennial grain revolution",
-      "link": "https://www.theguardian.com/environment/2025/dec/12/soil-is-more-important-than-oil-inside-the-perennial-grain-revolution",
-      "mean_score": 0.3608,
-      "vader_score": 0.2716,
-      "textblob_score": 0.45,
-      "first_sentence": "On the concrete floor of a greenhouse in rural Kansas stands a neat grid of 100 plastic plant pots, each holding a straggly crown of strappy, grass-like leaves.",
-      "timestamp": "2025-12-12T12:00:05Z",
-      "source": "The Guardian"
     }
   ]
 }
