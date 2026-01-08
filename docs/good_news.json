@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-08T00:15:51Z",
+  "last run": "2026-01-08T01:32:25Z",
   "stories": [
+    {
+      "headline": "'Splash & grab' and 'UK ready to seize more of Putin's ships'",
+      "link": "https://www.bbc.com/news/articles/czx3kz4q6yko?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3556,
+      "vader_score": 0.3612,
+      "textblob_score": 0.35,
+      "first_sentence": "Sign up for our morning newsletter and get BBC News in your inbox.",
+      "timestamp": "2026-01-08T00:56:38Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Peel boosts Aussie Winter Olympics hopes with World Cup victory",
+      "link": "https://www.abc.net.au/news/2026-01-08/world-cup-laura-peel-win-gold-ahead-of-winter-olympics/106209106",
+      "mean_score": 0.3125,
+      "vader_score": 0.6249,
+      "textblob_score": 0.0,
+      "first_sentence": "Australia's Laura Peel won gold in the women's aerials at the World Cup event at Lac-Beauport.",
+      "timestamp": "2026-01-08T00:15:46Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Inside the sub-zero lair of the world's most powerful computer",
       "link": "https://www.bbc.com/news/articles/c62r6dvpl5ro?at_medium=RSS&at_campaign=rss",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Most of us read all day \u2013 texts, emails, menus, utility bills, social media captions and news stories.",
       "timestamp": "2025-11-17T17:00:09Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Watch Jeff Bezos's successful Blue Origin rocket launch \u2013 video",
-      "link": "https://www.theguardian.com/science/video/2025/nov/14/watch-jeff-bezoss-successful-blue-origin-rocket-launch-video",
-      "mean_score": 0.4804,
-      "vader_score": 0.5859,
-      "textblob_score": 0.375,
-      "first_sentence": "Blue Origin successfully launches its huge New Glenn rocket on Thursday with a pair of Nasa spacecraft destined for Mars.",
-      "timestamp": "2025-11-14T06:21:35Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Fire-blocking chemicals promise safer buildings",
-      "link": "https://www.bbc.com/news/articles/ckgkee0pw4ko?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3125,
-      "vader_score": 0.6249,
-      "textblob_score": 0.0,
-      "first_sentence": "I'm peering into a large vat containing a perfectly clear liquid \u2013 a special kind of flame retardant for wood products.",
-      "timestamp": "2025-11-07T00:13:36Z",
-      "source": "BBC News"
     }
   ]
 }
