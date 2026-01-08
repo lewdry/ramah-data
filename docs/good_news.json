@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-08T12:06:45Z",
+  "last run": "2026-01-08T13:17:00Z",
   "stories": [
+    {
+      "headline": "\u2018Brilliant for work-life balance\u2019: how Britain is embracing the \u2018workation\u2019",
+      "link": "https://www.theguardian.com/money/2026/jan/08/work-life-balance-britain-embracing-workation",
+      "mean_score": 0.45,
+      "vader_score": 0.0,
+      "textblob_score": 0.9,
+      "first_sentence": "Katherine first caught the bug when she visited Australia a couple of years ago.",
+      "timestamp": "2026-01-08T13:00:10Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Tesco aiming for bumper 2026 after best Christmas market share in decade",
       "link": "https://www.theguardian.com/business/2026/jan/08/tesco-best-christmas-market-share-in-decade",
@@ -20,16 +30,6 @@
       "first_sentence": "The Martin Chivers route from record signing to Tottenham legend was anything but simple.",
       "timestamp": "2026-01-08T10:30:04Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Elon Musk's Grok AI appears to have made child sexual imagery, says charity",
-      "link": "https://www.bbc.com/news/articles/cvg1mzlryxeo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4607,
-      "vader_score": 0.4215,
-      "textblob_score": 0.5,
-      "first_sentence": "The Internet Watch Foundation (IWF) charity says its analysts have discovered \"criminal imagery\" of girls aged between 11 and 13 which \"appears to have been created\" using Grok.",
-      "timestamp": "2026-01-08T09:58:38Z",
-      "source": "BBC News"
     },
     {
       "headline": "Asian shares mostly lower after Wall Street\u2019s strong start to the year cools",
@@ -2490,16 +2490,6 @@
       "first_sentence": "As we say goodbye to 2025, let\u2019s delight in its numerical charms one final time.",
       "timestamp": "2025-12-22T07:10:20Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Why Croatia's capital wants to hold Europe's best Christmas market",
-      "link": "https://www.bbc.com/news/articles/c8dy5m56477o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.6184,
-      "vader_score": 0.6369,
-      "textblob_score": 0.6,
-      "first_sentence": "Christmas markets are not just tradition across Europe, they are big businesses that give cities a huge economic boost every December.",
-      "timestamp": "2025-12-22T01:05:38Z",
-      "source": "BBC News"
     }
   ]
 }
