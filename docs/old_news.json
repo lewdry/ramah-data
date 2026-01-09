@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Why 2026 looks bright for Northern Light sightings",
+    "link": "https://www.bbc.com/weather/articles/ce8nz3m3k10o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4952,
+    "vader_score": 0.4404,
+    "textblob_score": 0.55,
+    "first_sentence": "In 2026, there is a good chance that the vivid purples, reds and greens of the Northern Lights will be visible in skies across the  UK.",
+    "timestamp": "2025-12-29T00:58:10Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Could AI relationships actually be good for us?",
+    "link": "https://www.theguardian.com/books/2025/dec/28/could-ai-relationships-actually-be-good-for-us",
+    "mean_score": 0.5702,
+    "vader_score": 0.4404,
+    "textblob_score": 0.7,
+    "first_sentence": "There is much anxiety these days about the dangers of human-AI relationships.",
+    "timestamp": "2025-12-28T12:00:06Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "The perfect morning routine: how to build a happy, healthy start to the day \u2013 from showers to sunshine",
     "link": "https://www.theguardian.com/lifeandstyle/2025/dec/26/perfect-morning-routine-happy-healthy-start-showers-sunshine",
     "mean_score": 0.8449,

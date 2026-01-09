@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-09T05:07:27Z",
+  "last run": "2026-01-09T06:05:56Z",
   "stories": [
+    {
+      "headline": "Helen Goh\u2019s recipe for baked apples with lemon and tahini | The sweet spot",
+      "link": "https://www.theguardian.com/food/2026/jan/09/baked-apples-with-lemon-and-tahini-recipe-helen-goh",
+      "mean_score": 0.4044,
+      "vader_score": 0.4588,
+      "textblob_score": 0.35,
+      "first_sentence": "After the excesses of December, these baked apples are a light, refreshing vegan pudding.",
+      "timestamp": "2026-01-09T06:00:29Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Experience: I\u2019m Britain\u2019s best gravedigger",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/09/experience-best-gravedigger-britain-good-funeral-awards",
+      "mean_score": 0.8185,
+      "vader_score": 0.6369,
+      "textblob_score": 1.0,
+      "first_sentence": "Not many people can say their happy place is a\u00a0cemetery, but mine certainly is.",
+      "timestamp": "2026-01-09T05:00:30Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "'It's incredible, surreal': Skye Newman wins BBC Sound of 2026",
       "link": "https://www.bbc.com/news/articles/c4g3wd1p7nno?at_medium=RSS&at_campaign=rss",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.3833,
       "first_sentence": "Pimento cheese, a much-loved American spread, has been a permanent fixture in my kitchen this month.",
       "timestamp": "2025-12-29T06:00:27Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Why 2026 looks bright for Northern Light sightings",
-      "link": "https://www.bbc.com/weather/articles/ce8nz3m3k10o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4952,
-      "vader_score": 0.4404,
-      "textblob_score": 0.55,
-      "first_sentence": "In 2026, there is a good chance that the vivid purples, reds and greens of the Northern Lights will be visible in skies across the  UK.",
-      "timestamp": "2025-12-29T00:58:10Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Could AI relationships actually be good for us?",
-      "link": "https://www.theguardian.com/books/2025/dec/28/could-ai-relationships-actually-be-good-for-us",
-      "mean_score": 0.5702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.7,
-      "first_sentence": "There is much anxiety these days about the dangers of human-AI relationships.",
-      "timestamp": "2025-12-28T12:00:06Z",
       "source": "The Guardian"
     }
   ]
