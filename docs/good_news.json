@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-09T14:05:19Z",
+  "last run": "2026-01-09T15:04:40Z",
   "stories": [
+    {
+      "headline": "Healthy living tips from the Gladiators",
+      "link": "https://www.bbc.com/news/videos/c8rm55dkej5o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4509,
+      "vader_score": 0.4019,
+      "textblob_score": 0.5,
+      "first_sentence": "Watch Gladiators on BBC iPlayer.",
+      "timestamp": "2026-01-09T14:16:54Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "I see sounds as shapes. Synaesthesia has given me an extraordinary ability for languages",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/10/auditory-visual-synaesthesia-languages",
+      "mean_score": 0.3258,
+      "vader_score": 0.3182,
+      "textblob_score": 0.3333,
+      "first_sentence": "Car journeys with my partner are a nightmare.",
+      "timestamp": "2026-01-09T14:00:39Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Cocktail of the week: The American Bar at Gleneagles\u2019 smoked cherry \u2013 recipe | The good mixer",
       "link": "https://www.theguardian.com/food/2026/jan/09/cocktail-of-the-week-the-american-bar-at-gleneagles-smoked-cherry-recipe",
@@ -2479,26 +2499,6 @@
       "textblob_score": 1.0,
       "first_sentence": "From schoolies to floods, Guardian Australia was there to photograph every moment.",
       "timestamp": "2025-12-31T14:00:15Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Dear Life review \u2013 Brooke Satchwell hauntingly good in an otherwise clunky drama",
-      "link": "https://www.theguardian.com/tv-and-radio/2026/jan/01/dear-life-review-brooke-satchwell-drama-stan",
-      "mean_score": 0.6852,
-      "vader_score": 0.6705,
-      "textblob_score": 0.7,
-      "first_sentence": "In Stan\u2019s new six-part drama, Brooke Satchwell delivers a painfully good performance as Lillian, a distraught widow whose centre of gravity \u2013 entire footing in the universe, in fact \u2013 has been thrown off by the death of her fiance.",
-      "timestamp": "2025-12-31T14:00:14Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The WHO learned to love \u2018anti-obesity\u2019 jabs in 2025. I don\u2019t fully agree, but I get it | Devi Sridhar",
-      "link": "https://www.theguardian.com/commentisfree/2025/dec/31/world-health-organization-anti-obesity-jabs-2025",
-      "mean_score": 0.5209,
-      "vader_score": 0.5418,
-      "textblob_score": 0.5,
-      "first_sentence": "If there has been a hot topic in health in 2025, it\u2019s definitely been GLP-1s, colloquially referred to as \u201canti-obesity\u201d jabs.",
-      "timestamp": "2025-12-31T13:13:02Z",
       "source": "The Guardian"
     }
   ]
