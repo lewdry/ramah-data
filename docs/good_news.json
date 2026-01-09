@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-09T00:15:41Z",
+  "last run": "2026-01-09T01:32:37Z",
   "stories": [
+    {
+      "headline": "'It's incredible, surreal': Skye Newman wins BBC Sound of 2026",
+      "link": "https://www.bbc.com/news/articles/c4g3wd1p7nno?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5172,
+      "vader_score": 0.5719,
+      "textblob_score": 0.4625,
+      "first_sentence": "Loud, raw, and strikingly honest: Pop singer Skye Newman has won BBC Radio 1's Sound of 2026.",
+      "timestamp": "2026-01-09T00:44:28Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "With five Emmys and two Golden Globes noms, everyone's loving The Pitt",
+      "link": "https://www.abc.net.au/news/2026-01-09/the-pitt-noah-wyle-er-r-scott-gemmill-john-wells/106118716",
+      "mean_score": 0.5247,
+      "vader_score": 0.5994,
+      "textblob_score": 0.45,
+      "first_sentence": "With an ensemble cast including George Clooney and Julianna Margulies (The Good Wife), the Chicago-set series was praised for its realism, pace and the way it dove into the lives of its characters \u2014 and the toll a medical career can take on a person.",
+      "timestamp": "2026-01-09T00:10:46Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Human eggs \u2018rejuvenated\u2019 in advance that could boost IVF success rates",
       "link": "https://www.theguardian.com/science/2026/jan/09/human-eggs-rejuvenated-in-advance-that-could-boost-ivf-success-rates",
@@ -30,6 +50,16 @@
       "first_sentence": "We're continuing to learn more about the 37-year-old woman who was shot and killed by an Immigration and Customs Enforcement officer in Minneapolis on Wednesday.",
       "timestamp": "2026-01-08T21:13:52Z",
       "source": "NPR News"
+    },
+    {
+      "headline": "Venezuela says it is releasing an important number of detainees to \u2018consolidate peace\u2019",
+      "link": "https://www.theguardian.com/world/2026/jan/08/venezuela-to-release-important-number-of-detainees",
+      "mean_score": 0.3366,
+      "vader_score": 0.2732,
+      "textblob_score": 0.4,
+      "first_sentence": "Five days after the US seized Nicol\u00e1s Maduro, Venezuela has announced it is releasing an \u201cimportant number\u201d of detainees in what the congressional president characterised as a gesture to \u201cconsolidate peace\u201d.",
+      "timestamp": "2026-01-08T19:47:14Z",
+      "source": "The Guardian"
     },
     {
       "headline": "What landlords are obliged to do to cool your rental",
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.7,
       "first_sentence": "There is much anxiety these days about the dangers of human-AI relationships.",
       "timestamp": "2025-12-28T12:00:06Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The perfect morning routine: how to build a happy, healthy start to the day \u2013 from showers to sunshine",
-      "link": "https://www.theguardian.com/lifeandstyle/2025/dec/26/perfect-morning-routine-happy-healthy-start-showers-sunshine",
-      "mean_score": 0.8449,
-      "vader_score": 0.9231,
-      "textblob_score": 0.7667,
-      "first_sentence": "The first thing to say about the ideal morning routine is that it probably doesn\u2019t exist.",
-      "timestamp": "2025-12-26T16:00:13Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "In the \u201990s, Wing Commander: Privateer made me realize what kind of games I love",
-      "link": "https://arstechnica.com/gaming/2025/12/in-the-90s-wing-commander-privateer-made-me-realize-what-kind-of-games-i-love/",
-      "mean_score": 0.5935,
-      "vader_score": 0.6369,
-      "textblob_score": 0.55,
-      "first_sentence": "Most things Privateer did have been done better, but it\u2019s still a classic.",
-      "timestamp": "2025-12-26T13:35:38Z",
-      "source": "Ars Technica"
-    },
-    {
-      "headline": "Conservative and Christian? US right champions psychedelic drugs",
-      "link": "https://www.theguardian.com/us-news/2025/dec/26/us-right-champions-psychedelic-drugs",
-      "mean_score": 0.3348,
-      "vader_score": 0.5267,
-      "textblob_score": 0.1429,
-      "first_sentence": "For half a century, psychedelics largely belonged to the cultural left: anti-war, anti-capitalist, suspicious of the church and state.",
-      "timestamp": "2025-12-26T13:00:10Z",
       "source": "The Guardian"
     }
   ]
