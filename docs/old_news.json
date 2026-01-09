@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Ars Technica\u2019s Top 20 video games of 2025",
+    "link": "https://arstechnica.com/gaming/2025/12/ars-technicas-top-20-video-games-of-2025/",
+    "mean_score": 0.3512,
+    "vader_score": 0.2023,
+    "textblob_score": 0.5,
+    "first_sentence": "A mix of expected sequels and out-of-nowhere indie gems made 2025 a joy.",
+    "timestamp": "2025-12-26T12:00:09Z",
+    "source": "Ars Technica"
+  },
+  {
+    "headline": "The secrets of the body clock: how to tune into your natural rhythms \u2013 and have a better day",
+    "link": "https://www.theguardian.com/lifeandstyle/2025/dec/26/secrets-body-clock-natural-rhythms-better-day",
+    "mean_score": 0.4798,
+    "vader_score": 0.6597,
+    "textblob_score": 0.3,
+    "first_sentence": "It\u2019s easy to hate clocks.",
+    "timestamp": "2025-12-26T11:00:08Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Meet the Twixmas jumper \u2013 the perfect knit for right now | Jess Cartner-Morley",
     "link": "https://www.theguardian.com/fashion/2025/dec/26/jess-cartner-morley-on-fashion-twixmas-jumper-knit",
     "mean_score": 0.6074,

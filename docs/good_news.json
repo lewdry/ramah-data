@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-08T23:04:14Z",
+  "last run": "2026-01-09T00:15:41Z",
   "stories": [
+    {
+      "headline": "Human eggs \u2018rejuvenated\u2019 in advance that could boost IVF success rates",
+      "link": "https://www.theguardian.com/science/2026/jan/09/human-eggs-rejuvenated-in-advance-that-could-boost-ivf-success-rates",
+      "mean_score": 0.4503,
+      "vader_score": 0.7506,
+      "textblob_score": 0.15,
+      "first_sentence": "Scientists claim to have \u201crejuvenated\u201d human eggs for the first time in an advance that they predict could revolutionise IVF success rates for older women.",
+      "timestamp": "2026-01-09T00:01:22Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Mamdani says New York child care expansion a real step to fulfilling campaign pledge",
+      "link": "https://www.npr.org/2026/01/08/nx-s1-5671045/nyc-mayor-mamdani-discusses-new-york-state-expansion-of-childcare-funding",
+      "mean_score": 0.331,
+      "vader_score": 0.4939,
+      "textblob_score": 0.1682,
+      "first_sentence": "New York City Mayor Zohran Mamdani's ambitious campaign pledge to offer universal child care took a significant step forward Thursday.",
+      "timestamp": "2026-01-08T21:17:23Z",
+      "source": "NPR News"
+    },
     {
       "headline": "Who was Renee Nicole Good?",
       "link": "https://www.npr.org/2026/01/08/nx-s1-5671206/who-was-renee-nicole-good",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.1429,
       "first_sentence": "For half a century, psychedelics largely belonged to the cultural left: anti-war, anti-capitalist, suspicious of the church and state.",
       "timestamp": "2025-12-26T13:00:10Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Ars Technica\u2019s Top 20 video games of 2025",
-      "link": "https://arstechnica.com/gaming/2025/12/ars-technicas-top-20-video-games-of-2025/",
-      "mean_score": 0.3512,
-      "vader_score": 0.2023,
-      "textblob_score": 0.5,
-      "first_sentence": "A mix of expected sequels and out-of-nowhere indie gems made 2025 a joy.",
-      "timestamp": "2025-12-26T12:00:09Z",
-      "source": "Ars Technica"
-    },
-    {
-      "headline": "The secrets of the body clock: how to tune into your natural rhythms \u2013 and have a better day",
-      "link": "https://www.theguardian.com/lifeandstyle/2025/dec/26/secrets-body-clock-natural-rhythms-better-day",
-      "mean_score": 0.4798,
-      "vader_score": 0.6597,
-      "textblob_score": 0.3,
-      "first_sentence": "It\u2019s easy to hate clocks.",
-      "timestamp": "2025-12-26T11:00:08Z",
       "source": "The Guardian"
     }
   ]
