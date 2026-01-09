@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-09T16:04:55Z",
+  "last run": "2026-01-09T17:06:50Z",
   "stories": [
+    {
+      "headline": "Heated Rivalry creator on why fans love the gay romance drama",
+      "link": "https://www.bbc.com/news/videos/c5y2x79n09eo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.645,
+      "vader_score": 0.8316,
+      "textblob_score": 0.4583,
+      "first_sentence": "Jacob Tierney says the \"sex forward\" gay drama, which is released in the UK on Saturday, features elements of romance that don't get taken seriously enough.",
+      "timestamp": "2026-01-09T15:49:35Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Smart, independent and in demand \u2026 but would Glasner be a good fit for Manchester United?",
       "link": "https://www.theguardian.com/football/2026/jan/09/oliver-glasner-manchester-united-crystal-palace",
@@ -2490,16 +2500,6 @@
       "mean_score": 0.8753,
       "vader_score": 0.7506,
       "textblob_score": 1.0
-    },
-    {
-      "headline": "Heated Rivalry author says TV success led to help with her Parkinson's",
-      "link": "https://www.bbc.com/news/articles/ce8gd0qvyrpo?at_medium=RSS&at_campaign=rss",
-      "first_sentence": "The author of Heated Rivalry has revealed the success of the TV adaptation has resulted in her receiving specialist help with her Parkinson's disease.",
-      "timestamp": "2026-01-01T01:01:17+1100",
-      "source": "BBC News",
-      "mean_score": 0.5253,
-      "vader_score": 0.7506,
-      "textblob_score": 0.3
     }
   ]
 }
