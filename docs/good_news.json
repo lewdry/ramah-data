@@ -1,6 +1,46 @@
 {
-  "last run": "2026-01-09T10:04:32Z",
+  "last run": "2026-01-09T11:04:22Z",
   "stories": [
+    {
+      "headline": "Maduro is out, Congress is in and the quiz is back! Start 2026 with a perfect score",
+      "link": "https://www.npr.org/2026/01/09/g-s1-104965/greenland-quarters-wegovy-maduro-food-pyramid",
+      "mean_score": 0.5557,
+      "vader_score": 0.6114,
+      "textblob_score": 0.5,
+      "first_sentence": "This week started with the capture of a foreign leader and ended with \u2014 well, it's not over yet! Will Greenland be the 51st state by Monday? Who knows? Not the quiz.",
+      "timestamp": "2026-01-09T10:01:00Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "The best exercise bikes for home workouts, spin and getting sweaty, tested",
+      "link": "https://www.theguardian.com/thefilter/2026/jan/09/best-exercise-bike-uk",
+      "mean_score": 0.8185,
+      "vader_score": 0.6369,
+      "textblob_score": 1.0,
+      "first_sentence": "The Guardian\u2019s journalism is independent.",
+      "timestamp": "2026-01-09T10:00:34Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "The 15 best Nintendo Switch 2 games to play in 2026",
+      "link": "https://www.theguardian.com/games/2026/jan/09/the-15-best-nintendo-switch-2-games-to-play-in-2026",
+      "mean_score": 0.8825,
+      "vader_score": 0.765,
+      "textblob_score": 1.0,
+      "first_sentence": "Nintendo\u2019s newest console has been out for a less than a year but it already boasts an impressive catalogue of excellent new games, as well as a variety of enhanced Switch greats.",
+      "timestamp": "2026-01-09T10:00:33Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Your next primary care doctor could be online only, accessed through an AI tool",
+      "link": "https://www.npr.org/sections/shots-health-news/2026/01/09/nx-s1-5670382/primary-care-doctor-shortage-medical-ai-diagnosis",
+      "mean_score": 0.3136,
+      "vader_score": 0.4939,
+      "textblob_score": 0.1333,
+      "first_sentence": "When her doctor died suddenly in August, Tammy MacDonald found herself among the roughly 17% of adults in America without a primary care physician.",
+      "timestamp": "2026-01-09T10:00:00Z",
+      "source": "NPR News"
+    },
     {
       "headline": "Labour chair claims pub business rates rethink not a U-turn, but \u2018sign of confident government\u2019 \u2013 UK politics live",
       "link": "https://www.theguardian.com/politics/live/2026/jan/09/labour-pubs-disability-benefits-assisted-dying-defence-spending-farage-reform-latest-news-updates",
@@ -2459,46 +2499,6 @@
       "textblob_score": 0.3833,
       "first_sentence": "This hot halloumi platter is such a crowdpleaser that it\u2019s worth making with two blocks of halloumi, even for a smaller group.",
       "timestamp": "2025-12-30T11:00:38Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "'It's amazing' - Torvill and Dean recognised in New Year Honours",
-      "link": "https://www.bbc.com/news/videos/c3e0ekgwl92o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5794,
-      "vader_score": 0.7906,
-      "textblob_score": 0.3682,
-      "first_sentence": "Jayne Torvill and Christopher Dean have been recognised for their voluntary work, in the New Year's Honours list.",
-      "timestamp": "2025-12-30T07:21:07Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "'I can finally breathe easy despite rare condition'",
-      "link": "https://www.bbc.com/news/articles/cge5wzwv2p3o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3424,
-      "vader_score": 0.4404,
-      "textblob_score": 0.2444,
-      "first_sentence": "For a long time, everyday tasks like climbing the stairs or doing the washing left Natalie Rekowski breathless.",
-      "timestamp": "2025-12-30T06:14:30Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Great white sharks face extinction in Mediterranean, say researchers",
-      "link": "https://www.bbc.com/news/articles/c9qe9wvq534o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5125,
-      "vader_score": 0.6249,
-      "textblob_score": 0.4,
-      "first_sentence": "Great white sharks in the Mediterranean Sea are in danger of disappearing, with illegal fishing contributing to their decline.",
-      "timestamp": "2025-12-30T01:15:19Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Kids\u2019 own adventures: 25 free school holiday activities around Australia this summer",
-      "link": "https://www.theguardian.com/travel/2025/dec/30/free-school-holiday-activities-summer-australia",
-      "mean_score": 0.6563,
-      "vader_score": 0.8126,
-      "textblob_score": 0.5,
-      "first_sentence": "Need a quick low-cost summer school holiday activity? There are heaps of free workshops, performances and exhibitions all around Australia, with many operating drop-in sessions \u2013 a busy parent\u2019s dream.",
-      "timestamp": "2025-12-29T14:00:42Z",
       "source": "The Guardian"
     }
   ]
