@@ -1,5 +1,25 @@
 [
   {
+    "headline": "The perfect evening routine: how to prepare for bed \u2013 from blue light to baths",
+    "link": "https://www.theguardian.com/lifeandstyle/2025/dec/31/the-perfect-evening-routine-how-to-prepare-for-bed-from-blue-light-to-baths",
+    "mean_score": 0.5193,
+    "vader_score": 0.5719,
+    "textblob_score": 0.4667,
+    "first_sentence": "After a hard day at work, the last thing you want to do is fritter away your precious downtime slumped on the sofa in a dazed doomscroll.",
+    "timestamp": "2025-12-31T11:00:08Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "The perfect lunch break: how to get away from your desk \u2013 and seize the day",
+    "link": "https://www.theguardian.com/lifeandstyle/2025/dec/30/perfect-lunch-break-away-from-desk-seize-the-day",
+    "mean_score": 0.7859,
+    "vader_score": 0.5719,
+    "textblob_score": 1.0,
+    "first_sentence": "I confess that I find this idea a bit uninspiring.",
+    "timestamp": "2025-12-30T16:00:45Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "The 10 best vehicles Ars Technica drove in 2025",
     "link": "https://arstechnica.com/cars/2025/12/the-10-best-vehicles-ars-technica-drove-in-2025/",
     "mean_score": 0.8185,
@@ -188,6 +208,16 @@
     "first_sentence": "Your favourite cocktail is now a DIY pavlova party! Pile crisp coffee meringues high with espresso cream, boozy cherries, a drizzle of whisky caramel and a flicker of edible gold leaf, then shake, spoon and sparkle your way into the New Year.",
     "timestamp": "2025-12-26T06:00:03Z",
     "source": "The Guardian"
+  },
+  {
+    "headline": "Julia Donaldson's joyful tale of love",
+    "link": "https://www.bbc.co.uk/iplayer/episode/m002hzg2?at_mid=NmMWAx3ZZx&at_campaign=The_Scarecrows_Wedding&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002hzg2&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Scarecrows_Wedding&at_bbc_team=BBC",
+    "mean_score": 0.6721,
+    "vader_score": 0.8442,
+    "textblob_score": 0.5,
+    "first_sentence": "Two devoted scarecrows plan the perfect wedding \u2013 until a rival threatens everything.",
+    "timestamp": "2025-12-25T15:37:45Z",
+    "source": "BBC News"
   },
   {
     "headline": "Wild animals are great gift givers \u2013 and there\u2019s one present in particular I\u2019d love to receive for Christmas | Helen Pilcher",

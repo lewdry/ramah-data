@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-09T12:06:30Z",
+  "last run": "2026-01-09T13:16:00Z",
   "stories": [
+    {
+      "headline": "Cocktail of the week: The American Bar at Gleneagles\u2019 smoked cherry \u2013 recipe | The good mixer",
+      "link": "https://www.theguardian.com/food/2026/jan/09/cocktail-of-the-week-the-american-bar-at-gleneagles-smoked-cherry-recipe",
+      "mean_score": 0.3952,
+      "vader_score": 0.4404,
+      "textblob_score": 0.35,
+      "first_sentence": "If, like many people, you\u2019ve got an opened jar of cocktail cherries in the fridge after the festivities, here\u2019s a very classy way to use up some of the syrup.",
+      "timestamp": "2026-01-09T13:00:37Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Tell us about a friend you met at the right moment in your life",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/09/tell-us-about-a-friend-you-met-at-the-right-moment-in-your-life",
+      "mean_score": 0.3898,
+      "vader_score": 0.4939,
+      "textblob_score": 0.2857,
+      "first_sentence": "Do you have a friend who was the right person at the right time? Did they become a great source of support because you met at a certain moment in your life or a particular shared set of circumstances brought you together?.",
+      "timestamp": "2026-01-09T12:25:17Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Alex de Minaur\u2019s win over Hubert Hurkacz sends United Cup quarter-final against Poland to decider",
       "link": "https://www.theguardian.com/sport/2026/jan/09/australia-poland-united-cup-tennis-alex-de-minaur-maya-joint-iga-swiatek",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.5,
       "first_sentence": "If there has been a hot topic in health in 2025, it\u2019s definitely been GLP-1s, colloquially referred to as \u201canti-obesity\u201d jabs.",
       "timestamp": "2025-12-31T13:13:02Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The perfect evening routine: how to prepare for bed \u2013 from blue light to baths",
-      "link": "https://www.theguardian.com/lifeandstyle/2025/dec/31/the-perfect-evening-routine-how-to-prepare-for-bed-from-blue-light-to-baths",
-      "mean_score": 0.5193,
-      "vader_score": 0.5719,
-      "textblob_score": 0.4667,
-      "first_sentence": "After a hard day at work, the last thing you want to do is fritter away your precious downtime slumped on the sofa in a dazed doomscroll.",
-      "timestamp": "2025-12-31T11:00:08Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The perfect lunch break: how to get away from your desk \u2013 and seize the day",
-      "link": "https://www.theguardian.com/lifeandstyle/2025/dec/30/perfect-lunch-break-away-from-desk-seize-the-day",
-      "mean_score": 0.7859,
-      "vader_score": 0.5719,
-      "textblob_score": 1.0,
-      "first_sentence": "I confess that I find this idea a bit uninspiring.",
-      "timestamp": "2025-12-30T16:00:45Z",
       "source": "The Guardian"
     }
   ]
