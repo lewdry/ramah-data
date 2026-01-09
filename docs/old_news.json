@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Some of the best TV in years is to come",
+    "link": "https://www.bbc.com/news/articles/c9qedx5wj45o?at_medium=RSS&at_campaign=rss",
+    "first_sentence": "It looks like 2026 could give us some of the best TV in years, although with scheduling plans often only being made public weeks before transmission, it's impossible to know whether some shows will actually go on air in the coming year, or in 2027.",
+    "timestamp": "2026-01-01T01:01:18+1100",
+    "source": "BBC News",
+    "mean_score": 0.8185,
+    "vader_score": 0.6369,
+    "textblob_score": 1.0
+  },
+  {
+    "headline": "'I've had wonderful support from women', says incoming Archbishop of Canterbury",
+    "link": "https://www.bbc.com/news/articles/cx2lgge2jd3o?at_medium=RSS&at_campaign=rss",
+    "first_sentence": "\"One of the wonderful things over the last couple of months is I've had hundreds and hundreds of letters of support,\" says the incoming Archbishop of Canterbury.",
+    "timestamp": "2026-01-01T01:01:18+1100",
+    "source": "BBC News",
+    "mean_score": 0.8753,
+    "vader_score": 0.7506,
+    "textblob_score": 1.0
+  },
+  {
     "headline": "Heated Rivalry author says TV success led to help with her Parkinson's",
     "link": "https://www.bbc.com/news/articles/ce8gd0qvyrpo?at_medium=RSS&at_campaign=rss",
     "first_sentence": "The author of Heated Rivalry has revealed the success of the TV adaptation has resulted in her receiving specialist help with her Parkinson's disease.",

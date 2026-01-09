@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-09T18:06:13Z",
+  "last run": "2026-01-09T19:05:15Z",
   "stories": [
+    {
+      "headline": "US film stars Meagan Good and Jonathan Majors to become Guinea citizens after DNA tests",
+      "link": "https://www.bbc.com/news/articles/c8d04zp8m26o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.7,
+      "first_sentence": "Husband and wife movie stars Meagan Good and Jonathan Majors have travelled to Guinea, where the US couple are due to be granted citizenship after tracing their ancestry to the West African nation through DNA testing.",
+      "timestamp": "2026-01-09T18:36:51Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Is Orion\u2019s heat shield really safe? New NASA chief conducts final review on eve of flight.",
+      "link": "https://arstechnica.com/space/2026/01/nasa-chief-reviews-orion-heat-shield-expresses-full-confidence-in-it-for-artemis-ii/",
+      "mean_score": 0.3524,
+      "vader_score": 0.4927,
+      "textblob_score": 0.2121,
+      "first_sentence": "WASHINGTON, DC\u2014This week, NASA\u2019s new administrator, Jared Isaacman, said he has \u201cfull confidence\u201d in the space agency\u2019s plans to use the existing heat shield to protect the Orion spacecraft during its upcoming lunar mission.",
+      "timestamp": "2026-01-09T17:17:41Z",
+      "source": "Ars Technica"
+    },
     {
       "headline": "Heated Rivalry creator on why fans love the gay romance drama",
       "link": "https://www.bbc.com/news/videos/c5y2x79n09eo?at_medium=RSS&at_campaign=rss",
@@ -2480,26 +2500,6 @@
       "mean_score": 0.833,
       "vader_score": 0.8659,
       "textblob_score": 0.8
-    },
-    {
-      "headline": "Some of the best TV in years is to come",
-      "link": "https://www.bbc.com/news/articles/c9qedx5wj45o?at_medium=RSS&at_campaign=rss",
-      "first_sentence": "It looks like 2026 could give us some of the best TV in years, although with scheduling plans often only being made public weeks before transmission, it's impossible to know whether some shows will actually go on air in the coming year, or in 2027.",
-      "timestamp": "2026-01-01T01:01:18+1100",
-      "source": "BBC News",
-      "mean_score": 0.8185,
-      "vader_score": 0.6369,
-      "textblob_score": 1.0
-    },
-    {
-      "headline": "'I've had wonderful support from women', says incoming Archbishop of Canterbury",
-      "link": "https://www.bbc.com/news/articles/cx2lgge2jd3o?at_medium=RSS&at_campaign=rss",
-      "first_sentence": "\"One of the wonderful things over the last couple of months is I've had hundreds and hundreds of letters of support,\" says the incoming Archbishop of Canterbury.",
-      "timestamp": "2026-01-01T01:01:18+1100",
-      "source": "BBC News",
-      "mean_score": 0.8753,
-      "vader_score": 0.7506,
-      "textblob_score": 1.0
     }
   ]
 }
