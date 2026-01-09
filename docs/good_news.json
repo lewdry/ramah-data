@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-09T15:04:40Z",
+  "last run": "2026-01-09T16:04:55Z",
   "stories": [
+    {
+      "headline": "Smart, independent and in demand \u2026 but would Glasner be a good fit for Manchester United?",
+      "link": "https://www.theguardian.com/football/2026/jan/09/oliver-glasner-manchester-united-crystal-palace",
+      "mean_score": 0.6183,
+      "vader_score": 0.9081,
+      "textblob_score": 0.3286,
+      "first_sentence": "Oliver Glasner has shown a penchant for one-liners, as well a 3-4-2-1 formation, since he took over at Crystal Palace almost two years ago.",
+      "timestamp": "2026-01-09T14:37:29Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Healthy living tips from the Gladiators",
       "link": "https://www.bbc.com/news/videos/c8rm55dkej5o?at_medium=RSS&at_campaign=rss",
@@ -2490,16 +2500,6 @@
       "mean_score": 0.5253,
       "vader_score": 0.7506,
       "textblob_score": 0.3
-    },
-    {
-      "headline": "The best photos of 2025, taken by Guardian Australia photographers \u2013 video",
-      "link": "https://www.theguardian.com/artanddesign/video/2026/jan/01/the-best-photos-of-2025-taken-by-guardian-australia-photographers-video",
-      "mean_score": 0.8185,
-      "vader_score": 0.6369,
-      "textblob_score": 1.0,
-      "first_sentence": "From schoolies to floods, Guardian Australia was there to photograph every moment.",
-      "timestamp": "2025-12-31T14:00:15Z",
-      "source": "The Guardian"
     }
   ]
 }
