@@ -1,5 +1,35 @@
 [
   {
+    "headline": "The best cross trainers for a low-impact workout at home, tested",
+    "link": "https://www.theguardian.com/thefilter/2025/dec/31/best-cross-trainers-ellipticals-uk",
+    "mean_score": 0.5685,
+    "vader_score": 0.6369,
+    "textblob_score": 0.5,
+    "first_sentence": "A quick admission: I absolutely love an elliptical or cross trainer.",
+    "timestamp": "2025-12-31T15:00:13Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Swashbuckling Puss embarks on a brave quest",
+    "link": "https://www.bbc.co.uk/iplayer/episode/m002nzvn?at_mid=7iCYilTXXa&at_campaign=Puss_in_Boots_The_Last_Wish&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002nzvn&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Puss_in_Boots_The_Last_Wish&at_bbc_team=BBC&at_creation=Film",
+    "first_sentence": "Puss must beat a host of fairy-tale characters to the magical map of the Wishing Star.",
+    "timestamp": "2026-01-01T01:48:10+1100",
+    "source": "BBC News",
+    "mean_score": 0.6633,
+    "vader_score": 0.5267,
+    "textblob_score": 0.8
+  },
+  {
+    "headline": "'I am so happy': Crowd celebrates Thailand's release of Cambodian soldiers",
+    "link": "https://www.abc.net.au/news/2025-12-31/thailand-releases-cambodian-soldiers-as-part-of-ceasefire-deal/106190984",
+    "first_sentence": "Thailand has released 18 Cambodian soldiers held since fighting between the two nations broke out in July.",
+    "timestamp": "2026-01-01T01:01:19+1100",
+    "source": "ABC News",
+    "mean_score": 0.833,
+    "vader_score": 0.8659,
+    "textblob_score": 0.8
+  },
+  {
     "headline": "Some of the best TV in years is to come",
     "link": "https://www.bbc.com/news/articles/c9qedx5wj45o?at_medium=RSS&at_campaign=rss",
     "first_sentence": "It looks like 2026 could give us some of the best TV in years, although with scheduling plans often only being made public weeks before transmission, it's impossible to know whether some shows will actually go on air in the coming year, or in 2027.",
