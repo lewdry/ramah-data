@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Film Technica: Our top picks for the best films of 2025",
+    "link": "https://arstechnica.com/culture/2026/01/film-technica-our-top-picks-for-the-best-films-of-2025/",
+    "mean_score": 0.7342,
+    "vader_score": 0.7184,
+    "textblob_score": 0.75,
+    "first_sentence": "Streamers made a strong showing this year, as did horror.",
+    "timestamp": "2026-01-01T12:00:40Z",
+    "source": "Ars Technica"
+  },
+  {
+    "headline": "Dry Cleaning: Secret Love review | Alexis Petridis's album of the week",
+    "link": "https://www.theguardian.com/music/2026/jan/01/dry-cleaning-secret-love-review",
+    "mean_score": 0.324,
+    "vader_score": 0.6369,
+    "textblob_score": 0.0111,
+    "first_sentence": "Dry Cleaning\u2019s third album features a lot of strikingly odd lyrics.",
+    "timestamp": "2026-01-01T12:00:37Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Veganuary can be a piece of cake: cooks and dieticians share 12 ways to make delicious plant-based food",
+    "link": "https://www.theguardian.com/food/2026/jan/01/veganuary-can-be-a-piece-of-cake-cooks-and-dieticians-share-12-ways-to-make-delicious-plant-based-food",
+    "mean_score": 0.8548,
+    "vader_score": 0.7096,
+    "textblob_score": 1.0,
+    "first_sentence": "This new year, you may be embarking on Veganuary, or have resolved to eat less meat and dairy in 2026.",
+    "timestamp": "2026-01-01T11:00:37Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "The perfect day for parents: how to keep kids healthy and happy \u2013 without neglecting yourself",
+    "link": "https://www.theguardian.com/lifeandstyle/2025/dec/19/the-perfect-day-for-parents-how-to-keep-kids-healthy-and-happy-without-neglecting-yourself",
+    "mean_score": 0.837,
+    "vader_score": 0.9073,
+    "textblob_score": 0.7667,
+    "first_sentence": "Sometimes, though, it feels impossible to sort the must-dos from the nice-to-dos, the good from the good enough.",
+    "timestamp": "2026-01-01T11:00:36Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "How to make your strength building goals and stick to them in the new year",
     "link": "https://www.npr.org/2026/01/01/nx-s1-5644923/how-to-make-your-strength-building-goals-and-stick-to-them-in-the-new-year",
     "mean_score": 0.3151,

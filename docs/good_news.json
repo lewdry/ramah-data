@@ -1,6 +1,46 @@
 {
-  "last run": "2026-01-10T12:05:54Z",
+  "last run": "2026-01-10T13:11:57Z",
   "stories": [
+    {
+      "headline": "Opinion: Remembering Renee Good",
+      "link": "https://www.npr.org/2026/01/10/nx-s1-5666227/opinion-remembering-renee-good",
+      "mean_score": 0.5702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.7,
+      "first_sentence": "Before Renee Good became the center of a tragic news story, she was a writer.",
+      "timestamp": "2026-01-10T13:00:00Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "PHOTOS: Laundry is a chore but there's a beauty and serenity in the way it hangs out",
+      "link": "https://www.npr.org/sections/goats-and-soda/2026/01/10/g-s1-105239/photos-laundry-is-a-chore-but-theres-a-beauty-and-serenity-in-the-way-it-hangs-out",
+      "mean_score": 0.3675,
+      "vader_score": 0.7351,
+      "textblob_score": 0.0,
+      "first_sentence": "In early February, Macy Casta\u00f1eda Lee took a motorbike ride along the Siem Reap River out to the large green swaths of rice and lotus fields that pepper the outskirts of the Cambodian city.",
+      "timestamp": "2026-01-10T12:10:47Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "Freedom from China? The mine at the centre of Europe\u2019s push for rare earth metals",
+      "link": "https://www.theguardian.com/environment/2026/jan/10/china-mine-europe-rare-earth-metals-swedish-producer",
+      "mean_score": 0.4685,
+      "vader_score": 0.6369,
+      "textblob_score": 0.3,
+      "first_sentence": "It is deep winter with temperatures dropping to -20C.",
+      "timestamp": "2026-01-10T12:00:56Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018Bring me a gigantic Gladiator who can cradle me like a baby!\u2019: behind the scenes of the most joyous show on TV",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/jan/10/gladiators-behind-the-scenes-itv",
+      "mean_score": 0.4256,
+      "vader_score": 0.8012,
+      "textblob_score": 0.05,
+      "first_sentence": "I\u2019ve been up until the early hours painting portraits of my favourite Gladiators with the precise hope of making it on to the telly.",
+      "timestamp": "2026-01-10T12:00:56Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "\u2018The boy\u2019s contented face, his red hair matching the pig\u2019s \u2013 you couldn\u2019t plan for it\u2019: Kelli Radwanski\u2019s best phone picture",
       "link": "https://www.theguardian.com/lifeandstyle/2026/jan/10/kelli-radwanski-best-phone-picture",
@@ -2459,46 +2499,6 @@
       "textblob_score": 0.0,
       "first_sentence": "Our friend Bridget is serious about Christmas, and she does it spectacularly: come 1 December, her tree will be up, beautifully lit and decorated, her nearest and dearest (us included, thankfully) will get their bespoke Advent calendar (this year it was a cheesy one for me and a puzzle for Sarit \u2013 perfect) and a month of fun activities will ensue, culminating in a magnificent day.",
       "timestamp": "2026-01-01T12:30:39Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Film Technica: Our top picks for the best films of 2025",
-      "link": "https://arstechnica.com/culture/2026/01/film-technica-our-top-picks-for-the-best-films-of-2025/",
-      "mean_score": 0.7342,
-      "vader_score": 0.7184,
-      "textblob_score": 0.75,
-      "first_sentence": "Streamers made a strong showing this year, as did horror.",
-      "timestamp": "2026-01-01T12:00:40Z",
-      "source": "Ars Technica"
-    },
-    {
-      "headline": "Dry Cleaning: Secret Love review | Alexis Petridis's album of the week",
-      "link": "https://www.theguardian.com/music/2026/jan/01/dry-cleaning-secret-love-review",
-      "mean_score": 0.324,
-      "vader_score": 0.6369,
-      "textblob_score": 0.0111,
-      "first_sentence": "Dry Cleaning\u2019s third album features a lot of strikingly odd lyrics.",
-      "timestamp": "2026-01-01T12:00:37Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Veganuary can be a piece of cake: cooks and dieticians share 12 ways to make delicious plant-based food",
-      "link": "https://www.theguardian.com/food/2026/jan/01/veganuary-can-be-a-piece-of-cake-cooks-and-dieticians-share-12-ways-to-make-delicious-plant-based-food",
-      "mean_score": 0.8548,
-      "vader_score": 0.7096,
-      "textblob_score": 1.0,
-      "first_sentence": "This new year, you may be embarking on Veganuary, or have resolved to eat less meat and dairy in 2026.",
-      "timestamp": "2026-01-01T11:00:37Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The perfect day for parents: how to keep kids healthy and happy \u2013 without neglecting yourself",
-      "link": "https://www.theguardian.com/lifeandstyle/2025/dec/19/the-perfect-day-for-parents-how-to-keep-kids-healthy-and-happy-without-neglecting-yourself",
-      "mean_score": 0.837,
-      "vader_score": 0.9073,
-      "textblob_score": 0.7667,
-      "first_sentence": "Sometimes, though, it feels impossible to sort the must-dos from the nice-to-dos, the good from the good enough.",
-      "timestamp": "2026-01-01T11:00:36Z",
       "source": "The Guardian"
     }
   ]
