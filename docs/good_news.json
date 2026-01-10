@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-10T07:04:19Z",
+  "last run": "2026-01-10T08:05:14Z",
   "stories": [
+    {
+      "headline": "50 inspiring travel ideas for 2026, chosen by readers: beaches, city breaks, family holidays and more",
+      "link": "https://www.theguardian.com/travel/2026/jan/10/50-travel-ideas-2026-readers-tips-beaches-city-breaks-family-holidays",
+      "mean_score": 0.5798,
+      "vader_score": 0.6597,
+      "textblob_score": 0.5,
+      "first_sentence": "Our popular readers\u2019 tips column has been running for 20 years.",
+      "timestamp": "2026-01-10T07:00:52Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Country diary: Look up! Tonight\u2019s the night to see Jupiter at its brightest | Nigel Brown",
       "link": "https://www.theguardian.com/science/2026/jan/10/country-diary-look-up-tonights-the-night-to-see-jupiter-at-its-brightest",
@@ -2489,16 +2499,6 @@
       "textblob_score": 1.0,
       "first_sentence": "The island of Kiritimati - an atoll in the remote Pacific nation of Kiribati - was the first place to enter 2026.",
       "timestamp": "2026-01-01T05:48:26Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Zelensky says peace deal is 90% ready in New Year address",
-      "link": "https://www.bbc.com/news/articles/cddg7100ym2o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4433,
-      "vader_score": 0.7184,
-      "textblob_score": 0.1682,
-      "first_sentence": "Ukrainian President Volodymyr Zelensky has said a peace agreement to end the war with Russia is \"90% ready\", in a New Year address that largely focused on resistance to Moscow's full-scale invasion.",
-      "timestamp": "2026-01-01T05:22:01Z",
       "source": "BBC News"
     }
   ]

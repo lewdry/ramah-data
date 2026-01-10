@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Zelensky says peace deal is 90% ready in New Year address",
+    "link": "https://www.bbc.com/news/articles/cddg7100ym2o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4433,
+    "vader_score": 0.7184,
+    "textblob_score": 0.1682,
+    "first_sentence": "Ukrainian President Volodymyr Zelensky has said a peace agreement to end the war with Russia is \"90% ready\", in a New Year address that largely focused on resistance to Moscow's full-scale invasion.",
+    "timestamp": "2026-01-01T05:22:01Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "World is in better place than when Eden Project created 25 years ago, founder says",
     "link": "https://www.theguardian.com/uk-news/2026/jan/01/eden-project-25-anniversary-founder-tim-smit",
     "mean_score": 0.5497,
