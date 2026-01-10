@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-10T05:05:07Z",
+  "last run": "2026-01-10T06:05:39Z",
   "stories": [
+    {
+      "headline": "Country diary: Look up! Tonight\u2019s the night to see Jupiter at its brightest | Nigel Brown",
+      "link": "https://www.theguardian.com/science/2026/jan/10/country-diary-look-up-tonights-the-night-to-see-jupiter-at-its-brightest",
+      "mean_score": 0.3238,
+      "vader_score": 0.6476,
+      "textblob_score": 0.0,
+      "first_sentence": "As unmissable as new year\u2019s fireworks, the wolf moon held the\u00a0heavens for the first few nights of January, casting an unearthly radiance over everything, night almost as bright as day.",
+      "timestamp": "2026-01-10T05:30:48Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "World\u2019s richest 1% have already used fair share of emissions for 2026, says Oxfam",
+      "link": "https://www.theguardian.com/environment/2026/jan/10/world-richest-used-fair-share-emissions-2026-oxfam",
+      "mean_score": 0.7422,
+      "vader_score": 0.7845,
+      "textblob_score": 0.7,
+      "first_sentence": "The world\u2019s richest 1% have used up their fair share of carbon emissions just 10 days into 2026, analysis has found.",
+      "timestamp": "2026-01-10T05:00:48Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Fidget spinners, filters and carefree fun. What's behind 2016 nostalgia?",
       "link": "https://www.bbc.com/news/articles/cwy1e605dvgo?at_medium=RSS&at_campaign=rss",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Ukrainian President Volodymyr Zelensky has said a peace agreement to end the war with Russia is \"90% ready\", in a New Year address that largely focused on resistance to Moscow's full-scale invasion.",
       "timestamp": "2026-01-01T05:22:01Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "World is in better place than when Eden Project created 25 years ago, founder says",
-      "link": "https://www.theguardian.com/uk-news/2026/jan/01/eden-project-25-anniversary-founder-tim-smit",
-      "mean_score": 0.5497,
-      "vader_score": 0.5994,
-      "textblob_score": 0.5,
-      "first_sentence": "Sir Tim Smit says the world is in a better place than it was when he co-founded the Eden Project 25 years ago and he believes people are more attuned to the natural world.",
-      "timestamp": "2026-01-01T05:00:30Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "What\u2019s the best path to take in 2026? | Fiona Katauskas",
-      "link": "https://www.theguardian.com/commentisfree/picture/2026/jan/01/whats-the-best-path-to-take-in-2026",
-      "mean_score": 0.8185,
-      "vader_score": 0.6369,
-      "textblob_score": 1.0,
-      "first_sentence": "It depends which direction you takeSee more of Fiona Katauskas\u2019s cartoons here Continue reading.",
-      "timestamp": "2025-12-31T22:44:02Z",
-      "source": "The Guardian"
     }
   ]
 }
