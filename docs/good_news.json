@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-10T22:04:05Z",
+  "last run": "2026-01-10T23:04:06Z",
   "stories": [
+    {
+      "headline": "The 'wonderful and unusual' heyday of an island's underwater observatory",
+      "link": "https://www.abc.net.au/news/2026-01-11/great-keppel-island-underwater-observatory-star-attraction/105282860",
+      "mean_score": 0.5859,
+      "vader_score": 0.5719,
+      "textblob_score": 0.6,
+      "first_sentence": "That's how Coral Wedd would answer the phone in the 1980s at the Middle Island Underwater Observatory's souvenir shop in the Pacific Ocean off Queensland.",
+      "timestamp": "2026-01-10T22:34:40Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Chelsea thrash Charlton to get Liam Rosenior era off to winning start",
+      "link": "https://www.theguardian.com/football/2026/jan/10/charlton-chelsea-premier-league-match-report",
+      "mean_score": 0.5133,
+      "vader_score": 0.5267,
+      "textblob_score": 0.5,
+      "first_sentence": "It sums up the uneasy state of affairs at Chelsea that the new head coach winning his first match in charge was not enough to stop the mutiny.",
+      "timestamp": "2026-01-10T22:08:57Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Aussie bobsleigh star Walker claims historic win ahead of Winter Olympics",
       "link": "https://www.abc.net.au/news/2026-01-11/world-cup-monobob-bree-walker-australia-wins-gold/106217414",
@@ -2480,26 +2500,6 @@
       "first_sentence": "All things considered, telling Paul Mescal I once placed a bet on him is not quite the icebreaker I had hoped.",
       "timestamp": "2026-01-02T05:00:00Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "The great debate about whether the NHS should use magic mushrooms to treat mental health",
-      "link": "https://www.bbc.com/news/articles/ckg936l88e7o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5891,
-      "vader_score": 0.7783,
-      "textblob_score": 0.4,
-      "first_sentence": "Larissa Hope truly believes that psilocybin, the active ingredient in magic mushrooms, saved her life.",
-      "timestamp": "2026-01-02T00:03:20Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Crowd chants 'tax the rich' as Zohran Mamdani sworn in as first Muslim mayor of New York",
-      "link": "https://www.sbs.com.au/news/article/zohran-mamdani-sworn-in-as-first-muslim-mayor-of-new-york-city/rtjkk17n9",
-      "mean_score": 0.4056,
-      "vader_score": 0.5574,
-      "textblob_score": 0.2538,
-      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-      "timestamp": "2026-01-01T23:20:13Z",
-      "source": "SBS News"
     }
   ]
 }

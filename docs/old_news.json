@@ -1,5 +1,25 @@
 [
   {
+    "headline": "The great debate about whether the NHS should use magic mushrooms to treat mental health",
+    "link": "https://www.bbc.com/news/articles/ckg936l88e7o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.5891,
+    "vader_score": 0.7783,
+    "textblob_score": 0.4,
+    "first_sentence": "Larissa Hope truly believes that psilocybin, the active ingredient in magic mushrooms, saved her life.",
+    "timestamp": "2026-01-02T00:03:20Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Crowd chants 'tax the rich' as Zohran Mamdani sworn in as first Muslim mayor of New York",
+    "link": "https://www.sbs.com.au/news/article/zohran-mamdani-sworn-in-as-first-muslim-mayor-of-new-york-city/rtjkk17n9",
+    "mean_score": 0.4056,
+    "vader_score": 0.5574,
+    "textblob_score": 0.2538,
+    "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+    "timestamp": "2026-01-01T23:20:13Z",
+    "source": "SBS News"
+  },
+  {
     "headline": "Khawaja's on-field brilliance pales in comparison to his true impact",
     "link": "https://www.abc.net.au/news/2026-01-02/usman-khawaja-retirement-cricket-career-legacy-analysis/106092620",
     "mean_score": 0.5609,
