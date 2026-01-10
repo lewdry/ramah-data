@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Sir David Attenborough explores the surprising wildlife of London",
+    "link": "https://www.bbc.co.uk/iplayer/episode/m002hzg7?at_mid=UpOeB35B7u&at_campaign=Wild_London&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002hzg7&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Wild_London&at_bbc_team=BBC",
+    "mean_score": 0.4866,
+    "vader_score": 0.2732,
+    "textblob_score": 0.7,
+    "first_sentence": "Sir David Attenborough explores the surprising wildlife of his hometown \u2013 London.",
+    "timestamp": "2026-01-01T06:00:00Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "The best pictures from around the world as 2026 begins",
+    "link": "https://www.bbc.com/news/articles/c050j896q2do?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.8185,
+    "vader_score": 0.6369,
+    "textblob_score": 1.0,
+    "first_sentence": "The island of Kiritimati - an atoll in the remote Pacific nation of Kiribati - was the first place to enter 2026.",
+    "timestamp": "2026-01-01T05:48:26Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Zelensky says peace deal is 90% ready in New Year address",
     "link": "https://www.bbc.com/news/articles/cddg7100ym2o?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.4433,

@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-10T10:04:09Z",
+  "last run": "2026-01-10T11:03:58Z",
   "stories": [
+    {
+      "headline": "GoFundMe campaign for Renee Nicole Good raises $1.5m to support her family",
+      "link": "https://www.theguardian.com/us-news/2026/jan/10/renee-nicole-good-fundraising-campaign-ice",
+      "mean_score": 0.6904,
+      "vader_score": 0.6808,
+      "textblob_score": 0.7,
+      "first_sentence": "An online campaign meant to financially support the family of Renee Nicole Good \u2013 the US woman shot to death Wednesday by an Immigration and Customs Enforcement (ICE) agent \u2013 raised more than $1.5m before organizers closed it Friday.",
+      "timestamp": "2026-01-10T10:00:55Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "The 15 best games to play on the Nintendo Switch in 2026",
+      "link": "https://www.theguardian.com/games/2026/jan/10/the-15-best-games-to-play-on-the-nintendo-switch-in-2026",
+      "mean_score": 0.8825,
+      "vader_score": 0.765,
+      "textblob_score": 1.0,
+      "first_sentence": "Although the Nintendo Switch 2 has been out for several months, not everyone has made the leap to the new machine and there is still much to enjoy on the original console in 2026 (and beyond).",
+      "timestamp": "2026-01-10T10:00:54Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "50 inspiring travel ideas for 2026, chosen by readers: beaches, city breaks, family holidays and more",
       "link": "https://www.theguardian.com/travel/2026/jan/10/50-travel-ideas-2026-readers-tips-beaches-city-breaks-family-holidays",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Is building strength your New Year's resolution? Here's how to assess strength, come up with goals, start an effective bodyweight routine and stick with it.",
       "timestamp": "2026-01-01T09:49:58Z",
       "source": "NPR News"
-    },
-    {
-      "headline": "Sir David Attenborough explores the surprising wildlife of London",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m002hzg7?at_mid=UpOeB35B7u&at_campaign=Wild_London&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002hzg7&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Wild_London&at_bbc_team=BBC",
-      "mean_score": 0.4866,
-      "vader_score": 0.2732,
-      "textblob_score": 0.7,
-      "first_sentence": "Sir David Attenborough explores the surprising wildlife of his hometown \u2013 London.",
-      "timestamp": "2026-01-01T06:00:00Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "The best pictures from around the world as 2026 begins",
-      "link": "https://www.bbc.com/news/articles/c050j896q2do?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.8185,
-      "vader_score": 0.6369,
-      "textblob_score": 1.0,
-      "first_sentence": "The island of Kiritimati - an atoll in the remote Pacific nation of Kiribati - was the first place to enter 2026.",
-      "timestamp": "2026-01-01T05:48:26Z",
-      "source": "BBC News"
     }
   ]
 }
