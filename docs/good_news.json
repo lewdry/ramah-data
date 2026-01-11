@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-11T21:03:49Z",
+  "last run": "2026-01-11T22:04:06Z",
   "stories": [
+    {
+      "headline": "Huge Roman villa found under popular park dubbed town's 'Pompeii'",
+      "link": "https://www.bbc.com/news/articles/cgk8j1gkxelo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5625,
+      "vader_score": 0.6249,
+      "textblob_score": 0.5,
+      "first_sentence": "Archaeologists have discovered the largest Roman villa ever found in Wales in an \"amazing discovery\" which they say has the potential to be \"Port Talbot's Pompeii\".",
+      "timestamp": "2026-01-11T21:51:38Z",
+      "source": "BBC News"
+    },
     {
       "headline": "'Super sore' Iga \u015awi\u0105tek plays down fitness concerns on Australian Open eve",
       "link": "https://www.abc.net.au/news/2026-01-12/iga-swiatek-fitness-united-cup-poland-switzerland/106219014",
@@ -59,6 +69,16 @@
       "textblob_score": 0.7,
       "first_sentence": "Minneapolis mayor Jacob Frey called on Sunday for the federal government to allow his state to become involved in the investigation of an Immigration and Customs Enforcement officer\u2019s fatal shooting of Renee Nicole Good, saying that the Trump administration had been \u201cso quick to jump on a narrative as opposed to the truth\u201d.",
       "timestamp": "2026-01-11T19:12:51Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Gabriel Martinelli hat-trick guides Arsenal to win at stubborn Portsmouth",
+      "link": "https://www.theguardian.com/football/2026/jan/11/portsmouth-arsenal-fa-cup-match-report",
+      "mean_score": 0.5366,
+      "vader_score": 0.2732,
+      "textblob_score": 0.8,
+      "first_sentence": "Gabriel Martinelli ended Arsenal\u2019s last game as public enemy No 1 with Liverpool fans and Gary Neville after his clash with Conor Bradley on Thursday.",
+      "timestamp": "2026-01-11T16:23:45Z",
       "source": "The Guardian"
     },
     {
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.2,
       "first_sentence": "Reddit, the online discussion platform, has overtaken TikTok as Britain\u2019s fourth most visited social media service, as search algorithms and gen Z have dramatically transformed its prominence.",
       "timestamp": "2026-01-03T07:00:33Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Hebridean high: joy, tears and camaraderie on a 100km trek for charity across the Isle of Skye",
-      "link": "https://www.theguardian.com/travel/2026/jan/03/100km-cancer-charity-trek-isle-of-skye-scotland",
-      "mean_score": 0.5854,
-      "vader_score": 0.6908,
-      "textblob_score": 0.48,
-      "first_sentence": "The day starts with a\u00a0gentle trek.",
-      "timestamp": "2026-01-03T07:00:31Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The secret to being happy in 2026? It\u2019s far, far simpler than you think \u2026",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/03/secret-being-happy-2026-simpler-than-you-think",
-      "mean_score": 0.3609,
-      "vader_score": 0.5719,
-      "textblob_score": 0.15,
-      "first_sentence": "I have a proposal to make: 2026 should be the year that\u00a0you spend more time doing what you want.",
-      "timestamp": "2026-01-03T06:00:31Z",
       "source": "The Guardian"
     }
   ]
