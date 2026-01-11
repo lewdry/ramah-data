@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-11T07:05:14Z",
+  "last run": "2026-01-11T08:05:16Z",
   "stories": [
+    {
+      "headline": "Festival board members join exodus after author's Writers' Week cancellation",
+      "link": "https://www.abc.net.au/news/2026-01-11/fallout-amid-writers-week-cancellation-of-randa-abdel-fattah/106217646",
+      "mean_score": 0.3298,
+      "vader_score": 0.6597,
+      "textblob_score": 0.0,
+      "first_sentence": "The decision to cancel Palestinian-Australian author Randa Abdel-Fattah from the upcoming Adelaide Writers' Week has prompted ongoing controversy, with writers withdrawing from the event in protest as the SA premier backs the Adelaide Festival board's decision.",
+      "timestamp": "2026-01-11T07:21:35Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Lloyds CEO Charlie Nunn latest banking boss in line for huge bonus hike",
+      "link": "https://www.theguardian.com/business/2026/jan/11/lloyds-ceo-charlie-nunn-latest-banking-boss-in-line-for-huge-bonus-hike",
+      "mean_score": 0.5752,
+      "vader_score": 0.7003,
+      "textblob_score": 0.45,
+      "first_sentence": "Lloyds Banking Group boss, Charlie Nunn, could be in line for a maximum annual pay packet worth more than \u00a313m, as he becomes the latest boss to benefit from the UK\u2019s controversial decision to lift a cap on banker bonuses.",
+      "timestamp": "2026-01-11T07:00:20Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Sydney daycare first to be shut by new regulator over safety breaches",
       "link": "https://www.abc.net.au/news/2026-01-11/fun2learn-childcare-shut-after-decade-safety-breaches/106217916",
@@ -10,6 +30,26 @@
       "first_sentence": "The Fun2Learn childcare centre in Sydney's west has been shut down due to a number of safety breaches over 12 years.",
       "timestamp": "2026-01-11T06:51:13Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "'I have 45 children applying to my special school each week'",
+      "link": "https://www.bbc.com/news/articles/cx2lp6nnjjzo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3795,
+      "vader_score": 0.4019,
+      "textblob_score": 0.3571,
+      "first_sentence": "Every week, about 45 new names land on Steph Smith's desk, all hoping for a place at her school.",
+      "timestamp": "2026-01-11T06:13:25Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Williams sparks 18-point fightback as Bears oust Packers for first playoff win in 15 years",
+      "link": "https://www.theguardian.com/sport/2026/jan/11/caleb-williams-bears-packers-playoff-comeback",
+      "mean_score": 0.5554,
+      "vader_score": 0.5859,
+      "textblob_score": 0.525,
+      "first_sentence": "Caleb Williams dropped back, pump-faked and found DJ Moore wide open down the sideline for the go-ahead touchdown.",
+      "timestamp": "2026-01-11T05:13:23Z",
+      "source": "The Guardian"
     },
     {
       "headline": "Adelaide festival did not dump Jewish columnist from 2024 program despite request from Randa Abdel-Fattah and others",
@@ -2460,46 +2500,6 @@
       "first_sentence": "Stephen Graham had a stellar 2025.",
       "timestamp": "2026-01-02T13:00:10Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018A place of darkness and light\u2019: the uninhabited Japanese island that became a rabbit paradise",
-      "link": "https://www.theguardian.com/world/2026/jan/02/japan-island-rabbit-okunoshima",
-      "mean_score": 0.3469,
-      "vader_score": 0.4939,
-      "textblob_score": 0.2,
-      "first_sentence": "The bunny-ear designs on the window aside, there is little to indicate that the ferry has arrived on an island teeming with rabbits.",
-      "timestamp": "2026-01-02T12:00:10Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Record year for wind and solar electricity in Great Britain in 2025",
-      "link": "https://www.bbc.com/news/articles/cz947djd3d3o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.7125,
-      "vader_score": 0.6249,
-      "textblob_score": 0.8,
-      "first_sentence": "Renewable energy - considered crucial to limiting climate change - produced a record amount of electricity in Great Britain in 2025, BBC analysis shows.",
-      "timestamp": "2026-01-02T11:48:51Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "The perfect way to look after your health if you work shifts",
-      "link": "https://www.theguardian.com/lifeandstyle/2025/dec/19/the-perfect-way-to-look-after-your-health-if-you-work-shifts",
-      "mean_score": 0.7859,
-      "vader_score": 0.5719,
-      "textblob_score": 1.0,
-      "first_sentence": "The knock-on effects on systemic health are many: \u201cWe know that shift workers have a higher risk of heart disease, hypertension, obesity, diabetes, stroke, depression, anxiety and some types of cancer.\u201d The World Health Organization has classified shift work as \u201cprobably carcinogenic\u201d.",
-      "timestamp": "2026-01-02T11:00:06Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Sailors saved from going over edge of huge dam",
-      "link": "https://www.bbc.com/news/videos/cj6wew4958eo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5125,
-      "vader_score": 0.6249,
-      "textblob_score": 0.4,
-      "first_sentence": "Footage shows captured the moment four men were pulled to safety, after spending hours dangling off the edge of a 40m (130ft) dam in South Africa.",
-      "timestamp": "2026-01-02T09:20:10Z",
-      "source": "BBC News"
     }
   ]
 }

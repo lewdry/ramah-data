@@ -1,5 +1,45 @@
 [
   {
+    "headline": "\u2018A place of darkness and light\u2019: the uninhabited Japanese island that became a rabbit paradise",
+    "link": "https://www.theguardian.com/world/2026/jan/02/japan-island-rabbit-okunoshima",
+    "mean_score": 0.3469,
+    "vader_score": 0.4939,
+    "textblob_score": 0.2,
+    "first_sentence": "The bunny-ear designs on the window aside, there is little to indicate that the ferry has arrived on an island teeming with rabbits.",
+    "timestamp": "2026-01-02T12:00:10Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Record year for wind and solar electricity in Great Britain in 2025",
+    "link": "https://www.bbc.com/news/articles/cz947djd3d3o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.7125,
+    "vader_score": 0.6249,
+    "textblob_score": 0.8,
+    "first_sentence": "Renewable energy - considered crucial to limiting climate change - produced a record amount of electricity in Great Britain in 2025, BBC analysis shows.",
+    "timestamp": "2026-01-02T11:48:51Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "The perfect way to look after your health if you work shifts",
+    "link": "https://www.theguardian.com/lifeandstyle/2025/dec/19/the-perfect-way-to-look-after-your-health-if-you-work-shifts",
+    "mean_score": 0.7859,
+    "vader_score": 0.5719,
+    "textblob_score": 1.0,
+    "first_sentence": "The knock-on effects on systemic health are many: \u201cWe know that shift workers have a higher risk of heart disease, hypertension, obesity, diabetes, stroke, depression, anxiety and some types of cancer.\u201d The World Health Organization has classified shift work as \u201cprobably carcinogenic\u201d.",
+    "timestamp": "2026-01-02T11:00:06Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Sailors saved from going over edge of huge dam",
+    "link": "https://www.bbc.com/news/videos/cj6wew4958eo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.5125,
+    "vader_score": 0.6249,
+    "textblob_score": 0.4,
+    "first_sentence": "Footage shows captured the moment four men were pulled to safety, after spending hours dangling off the edge of a 40m (130ft) dam in South Africa.",
+    "timestamp": "2026-01-02T09:20:10Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "'Paul was fun' - Remembering snooker's lost great 20 years on",
     "link": "https://www.bbc.com/news/articles/cn5l3y5dk55o?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.6384,
