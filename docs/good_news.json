@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-11T04:22:26Z",
+  "last run": "2026-01-11T05:09:05Z",
   "stories": [
+    {
+      "headline": "Adelaide festival did not dump Jewish columnist from 2024 program despite request from Randa Abdel-Fattah and others",
+      "link": "https://www.theguardian.com/culture/2026/jan/11/adelaide-festival-did-not-not-dump-jewish-columnist-from-2024-program-despite-request-from-randa-abdel-fattah-and-others",
+      "mean_score": 0.329,
+      "vader_score": 0.658,
+      "textblob_score": 0.0,
+      "first_sentence": "The Adelaide festival board did not dump a Jewish columnist from its 2024 lineup at Adelaide writers\u2019 week, despite being lobbied by a group of 10 academics \u2013 including Randa Abdel-Fattah \u2013 to do so.",
+      "timestamp": "2026-01-11T04:08:56Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Living their best life? What the Highland lynx did next",
       "link": "https://www.bbc.com/news/articles/cm2y1ygjmy2o?at_medium=RSS&at_campaign=rss",
@@ -2490,16 +2500,6 @@
       "first_sentence": "A sporting bug, caught at the age of three with the help of a tiny snooker set on his parents' coffee table in their Leeds home, would culminate in a professional career that saw him win six major trophies in six years.",
       "timestamp": "2026-01-02T08:50:54Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Chess: Magnus Carlsen wins two more world speed crowns despite mishaps",
-      "link": "https://www.theguardian.com/sport/2026/jan/02/chess-magnus-carlsen-wins-two-more-world-speed-crowns-despite-mishaps",
-      "mean_score": 0.4859,
-      "vader_score": 0.5719,
-      "textblob_score": 0.4,
-      "first_sentence": "The world No 1, Magnus Carlsen, recovered from a series of mishaps to win both the World Rapid and Blitz crowns at Doha, Qatar, last weekend.",
-      "timestamp": "2026-01-02T08:00:02Z",
-      "source": "The Guardian"
     }
   ]
 }
