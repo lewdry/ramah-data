@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-11T12:06:16Z",
+  "last run": "2026-01-11T13:12:20Z",
   "stories": [
+    {
+      "headline": "\u2018There is one story we never tell\u2019: will old family photos bring joy to my ailing mother \u2013 or remind us of dark secrets?",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/11/stephen-kelman-mother-alzheimers-old-photographs",
+      "mean_score": 0.4179,
+      "vader_score": 0.5859,
+      "textblob_score": 0.25,
+      "first_sentence": "A couple of months ago, my mother moved into a nursing home.",
+      "timestamp": "2026-01-11T12:00:26Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Dining across the divide: \u2018He agreed with me on a wealth tax, which I thought was unusual for a Reform voter\u2019",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/11/dining-across-the-divide-fraz-peter",
+      "mean_score": 0.4243,
+      "vader_score": 0.6486,
+      "textblob_score": 0.2,
+      "first_sentence": "They bonded over football and felt the same about taxing billionaires.",
+      "timestamp": "2026-01-11T12:00:25Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Caleb Williams rallies Bears from 18 points down for 31-27 playoff win over rival Packers",
       "link": "https://apnews.com/article/packers-bears-score-nfl-playoffs-7729bbfcab314e6eef5bf7b1bba4cdef",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Many athletes and professional musicians swear by getting some shut-eye during the day, but what\u2019s the best way to ensure you don\u2019t end up feeling groggy?.",
       "timestamp": "2026-01-02T16:00:12Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "China's BYD overtakes Tesla as world's top EV seller",
-      "link": "https://www.bbc.com/news/articles/cj9rjwpvmpzo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3512,
-      "vader_score": 0.2023,
-      "textblob_score": 0.5,
-      "first_sentence": "China's BYD has overtaken Elon Musk's Tesla as the world's biggest seller of  electric vehicles (EVs), marking the first time it has outpaced its American rival in annual sales.",
-      "timestamp": "2026-01-02T15:03:38Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Karting champion, 16, aims for F1 top spot",
-      "link": "https://www.bbc.com/news/articles/cvg5lzn9y9qo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5954,
-      "vader_score": 0.6908,
-      "textblob_score": 0.5,
-      "first_sentence": "A teenager from Sheffield has said she aims to become a top F1 driver in the footsteps of the sport's biggest names after being crowned a champion in the sport of karting.",
-      "timestamp": "2026-01-02T14:53:32Z",
-      "source": "BBC News"
     }
   ]
 }

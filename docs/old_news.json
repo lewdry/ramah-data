@@ -1,5 +1,25 @@
 [
   {
+    "headline": "China's BYD overtakes Tesla as world's top EV seller",
+    "link": "https://www.bbc.com/news/articles/cj9rjwpvmpzo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3512,
+    "vader_score": 0.2023,
+    "textblob_score": 0.5,
+    "first_sentence": "China's BYD has overtaken Elon Musk's Tesla as the world's biggest seller of  electric vehicles (EVs), marking the first time it has outpaced its American rival in annual sales.",
+    "timestamp": "2026-01-02T15:03:38Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Karting champion, 16, aims for F1 top spot",
+    "link": "https://www.bbc.com/news/articles/cvg5lzn9y9qo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.5954,
+    "vader_score": 0.6908,
+    "textblob_score": 0.5,
+    "first_sentence": "A teenager from Sheffield has said she aims to become a top F1 driver in the footsteps of the sport's biggest names after being crowned a champion in the sport of karting.",
+    "timestamp": "2026-01-02T14:53:32Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Behind the scenes of Brisbane\u2019s 2032 Olympics, a 19th-century story of politics and gay love",
     "link": "https://www.theguardian.com/australia-news/2026/jan/03/behind-the-scenes-of-brisbanes-2032-olympics-a-19th-century-story-of-politics-and-gay-love",
     "mean_score": 0.4046,
