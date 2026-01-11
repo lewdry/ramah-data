@@ -1,5 +1,65 @@
 [
   {
+    "headline": "Trailblazing female jockey remembered for 'courage, grit and progress'",
+    "link": "https://www.abc.net.au/news/2026-01-03/horse-racing-history-making-jockey-diane-crump-dies/106196242",
+    "mean_score": 0.3592,
+    "vader_score": 0.7184,
+    "textblob_score": 0.0,
+    "first_sentence": "Diane Crump was the first woman to ride professionally in a horse race in the United States.",
+    "timestamp": "2026-01-03T00:29:58Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Trove of unearthed vintage photos reveals forbidden love between men",
+    "link": "https://www.abc.net.au/news/2026-01-03/photographs-of-men-in-love-exhibition-same-sex-couples-canberra/106164254",
+    "mean_score": 0.42,
+    "vader_score": 0.34,
+    "textblob_score": 0.5,
+    "first_sentence": "In a black and white photograph, two young men hold up a sign that reads 'not married but willing to be'.",
+    "timestamp": "2026-01-02T21:26:17Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Christmas seafood sales a 'huge relief' amid algal bloom anxiety",
+    "link": "https://www.abc.net.au/news/rural/2026-01-03/christmas-seafood-sales-show-positive-signs-despite-algal-bloom/106186646",
+    "mean_score": 0.4859,
+    "vader_score": 0.5719,
+    "textblob_score": 0.4,
+    "first_sentence": "The Christmas season has provided SA's seafood industry with a much-needed opportunity for sales.",
+    "timestamp": "2026-01-02T20:12:23Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "'B\u00e1nh m\u00ec lover': Vietnamese bakeries go viral on social media",
+    "link": "https://www.abc.net.au/news/2026-01-03/sydneys-banh-mi-obsession-bakeries-go-viral-on-social-media/105884842",
+    "mean_score": 0.3096,
+    "vader_score": 0.5859,
+    "textblob_score": 0.0333,
+    "first_sentence": "A humble b\u00e1nh m\u00ec appreciation group created by a Sydneysider has played a pivotal role in reinvigorating Australia's love for Vietnamese baguettes.",
+    "timestamp": "2026-01-02T20:00:04Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Two decades on, Waugh's last-ball century completes his perfect day",
+    "link": "https://www.abc.net.au/news/2026-01-03/today-in-history-steve-waughs-last-ball-century-scg-ashes/106192024",
+    "mean_score": 0.7859,
+    "vader_score": 0.5719,
+    "textblob_score": 1.0,
+    "first_sentence": "They didn't just lose either.",
+    "timestamp": "2026-01-02T18:30:00Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Reading goals that are good for your brain",
+    "link": "https://www.abc.net.au/news/2026-01-03/how-to-read-more-in-the-new-year/105977668",
+    "mean_score": 0.5702,
+    "vader_score": 0.4404,
+    "textblob_score": 0.7,
+    "first_sentence": "Clara Pribadi is a \"bit behind\" on her reading goal for 2025.",
+    "timestamp": "2026-01-02T18:30:00Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Final reminder: Donate to win swag in our annual Charity Drive sweepstakes",
     "link": "https://arstechnica.com/gaming/2026/01/final-reminder-donate-to-win-swag-in-our-annual-charity-drive-sweepstakes-4/",
     "mean_score": 0.5825,

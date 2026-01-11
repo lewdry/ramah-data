@@ -1,6 +1,66 @@
 {
-  "last run": "2026-01-11T19:03:33Z",
+  "last run": "2026-01-11T20:04:20Z",
   "stories": [
+    {
+      "headline": "'Super sore' Iga \u015awi\u0105tek plays down fitness concerns on Australian Open eve",
+      "link": "https://www.abc.net.au/news/2026-01-12/iga-swiatek-fitness-united-cup-poland-switzerland/106219014",
+      "mean_score": 0.3575,
+      "vader_score": 0.6705,
+      "textblob_score": 0.0444,
+      "first_sentence": "World number two Iga \u015awi\u0105tek looked distressed during losses to Coco Gauff and Belinda Bencic at the United Cup on the weekend.",
+      "timestamp": "2026-01-11T19:58:55Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "America's top figure skaters dazzled St. Louis. I left with a new love for the sport.",
+      "link": "https://www.npr.org/sections/the-picture-show/2026/01/11/g-s1-105436/americas-top-figure-skaters-dazzled-st-louis-i-left-with-a-new-love-for-the-sport",
+      "mean_score": 0.5012,
+      "vader_score": 0.7184,
+      "textblob_score": 0.2841,
+      "first_sentence": "I'll admit it: this past week was my first real foray into competitive figure skating.",
+      "timestamp": "2026-01-11T19:56:54Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "'Our transition was a lot more gentle': Settling your child into care or kindy",
+      "link": "https://www.abc.net.au/news/2026-01-12/supporting-your-child-when-starting-child-care-or-kindy/106115412",
+      "mean_score": 0.55,
+      "vader_score": 0.7501,
+      "textblob_score": 0.35,
+      "first_sentence": "Prior to Brie's three-year-old son starting kindergarten, he had never been in the care of anyone other than his parents.",
+      "timestamp": "2026-01-11T19:52:27Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Mum's bid to improve opportunities for son with autism after school",
+      "link": "https://www.abc.net.au/news/2026-01-12/qld-campus-life-program-helping-young-people-with-disabilities/106210350",
+      "mean_score": 0.3352,
+      "vader_score": 0.6705,
+      "textblob_score": 0.0,
+      "first_sentence": "Kathy Harris had often worried about what her son would do after high school due to the limited options available for neurodivergent young adults.",
+      "timestamp": "2026-01-11T19:39:55Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Strength is Sabalenka's superpower, but variety will win her the AO",
+      "link": "https://www.abc.net.au/news/2026-01-12/aryna-sabalenka-australian-open-variety-power/106218486",
+      "mean_score": 0.8037,
+      "vader_score": 0.8074,
+      "textblob_score": 0.8,
+      "first_sentence": "As Marta Kostyuk sat in the press conference room after her defeat to Aryna Sabalenka in the Brisbane International final, one reaction spoke volumes.",
+      "timestamp": "2026-01-11T19:21:01Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Minneapolis mayor urges FBI to include state officials in Renee Good inquiry",
+      "link": "https://www.theguardian.com/us-news/2026/jan/11/minneapolis-jacob-frey-renee-nicole-good-fbi-inquiry",
+      "mean_score": 0.5702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.7,
+      "first_sentence": "Minneapolis mayor Jacob Frey called on Sunday for the federal government to allow his state to become involved in the investigation of an Immigration and Customs Enforcement officer\u2019s fatal shooting of Renee Nicole Good, saying that the Trump administration had been \u201cso quick to jump on a narrative as opposed to the truth\u201d.",
+      "timestamp": "2026-01-11T19:12:51Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Draft \u2018Farage clause\u2019 would ensure EU not out of pocket if Reform UK wins election",
       "link": "https://www.theguardian.com/world/2026/jan/11/draft-farage-clause-eu-if-reform-uk-wins-election",
@@ -2440,66 +2500,6 @@
       "first_sentence": "The government has launched a recruitment drive for thousands of new magistrates  to volunteer in England and Wales as part of its efforts to grapple with the crown court backlog.",
       "timestamp": "2026-01-03T05:07:04Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Trailblazing female jockey remembered for 'courage, grit and progress'",
-      "link": "https://www.abc.net.au/news/2026-01-03/horse-racing-history-making-jockey-diane-crump-dies/106196242",
-      "mean_score": 0.3592,
-      "vader_score": 0.7184,
-      "textblob_score": 0.0,
-      "first_sentence": "Diane Crump was the first woman to ride professionally in a horse race in the United States.",
-      "timestamp": "2026-01-03T00:29:58Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Trove of unearthed vintage photos reveals forbidden love between men",
-      "link": "https://www.abc.net.au/news/2026-01-03/photographs-of-men-in-love-exhibition-same-sex-couples-canberra/106164254",
-      "mean_score": 0.42,
-      "vader_score": 0.34,
-      "textblob_score": 0.5,
-      "first_sentence": "In a black and white photograph, two young men hold up a sign that reads 'not married but willing to be'.",
-      "timestamp": "2026-01-02T21:26:17Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Christmas seafood sales a 'huge relief' amid algal bloom anxiety",
-      "link": "https://www.abc.net.au/news/rural/2026-01-03/christmas-seafood-sales-show-positive-signs-despite-algal-bloom/106186646",
-      "mean_score": 0.4859,
-      "vader_score": 0.5719,
-      "textblob_score": 0.4,
-      "first_sentence": "The Christmas season has provided SA's seafood industry with a much-needed opportunity for sales.",
-      "timestamp": "2026-01-02T20:12:23Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "'B\u00e1nh m\u00ec lover': Vietnamese bakeries go viral on social media",
-      "link": "https://www.abc.net.au/news/2026-01-03/sydneys-banh-mi-obsession-bakeries-go-viral-on-social-media/105884842",
-      "mean_score": 0.3096,
-      "vader_score": 0.5859,
-      "textblob_score": 0.0333,
-      "first_sentence": "A humble b\u00e1nh m\u00ec appreciation group created by a Sydneysider has played a pivotal role in reinvigorating Australia's love for Vietnamese baguettes.",
-      "timestamp": "2026-01-02T20:00:04Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Two decades on, Waugh's last-ball century completes his perfect day",
-      "link": "https://www.abc.net.au/news/2026-01-03/today-in-history-steve-waughs-last-ball-century-scg-ashes/106192024",
-      "mean_score": 0.7859,
-      "vader_score": 0.5719,
-      "textblob_score": 1.0,
-      "first_sentence": "They didn't just lose either.",
-      "timestamp": "2026-01-02T18:30:00Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Reading goals that are good for your brain",
-      "link": "https://www.abc.net.au/news/2026-01-03/how-to-read-more-in-the-new-year/105977668",
-      "mean_score": 0.5702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.7,
-      "first_sentence": "Clara Pribadi is a \"bit behind\" on her reading goal for 2025.",
-      "timestamp": "2026-01-02T18:30:00Z",
-      "source": "ABC News"
     }
   ]
 }
