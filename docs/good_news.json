@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-11T15:03:58Z",
+  "last run": "2026-01-11T16:04:27Z",
   "stories": [
+    {
+      "headline": "Draft \u2018Farage clause\u2019 would ensure EU not out of pocket if Reform UK wins election",
+      "link": "https://www.theguardian.com/world/2026/jan/11/draft-farage-clause-eu-if-reform-uk-wins-election",
+      "mean_score": 0.5215,
+      "vader_score": 0.743,
+      "textblob_score": 0.3,
+      "first_sentence": "The EU is reportedly demanding guarantees the UK will compensate the bloc if a future government reneges on the Brexit \u201creset\u201d agreement Keir Starmer is currently negotiating.",
+      "timestamp": "2026-01-11T15:37:46Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "As the year begins, don\u2019t look away from the headlines, look better and deeper | Justine Toh",
       "link": "https://www.theguardian.com/commentisfree/2026/jan/11/dont-avoid-news-headlines-read-better",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Clara Pribadi is a \"bit behind\" on her reading goal for 2025.",
       "timestamp": "2026-01-02T18:30:00Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Final reminder: Donate to win swag in our annual Charity Drive sweepstakes",
-      "link": "https://arstechnica.com/gaming/2026/01/final-reminder-donate-to-win-swag-in-our-annual-charity-drive-sweepstakes-4/",
-      "mean_score": 0.5825,
-      "vader_score": 0.765,
-      "textblob_score": 0.4,
-      "first_sentence": "Today is your last chance to add to this year\u2019s charity haul of nearly $38,000.",
-      "timestamp": "2026-01-02T17:10:12Z",
-      "source": "Ars Technica"
     }
   ]
 }
