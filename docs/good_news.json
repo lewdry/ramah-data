@@ -1,5 +1,5 @@
 {
-  "last run": "2026-01-11T20:04:20Z",
+  "last run": "2026-01-11T21:03:49Z",
   "stories": [
     {
       "headline": "'Super sore' Iga \u015awi\u0105tek plays down fitness concerns on Australian Open eve",
@@ -210,6 +210,16 @@
       "first_sentence": "Three lynx that were found starving after being abandoned in the Highlands a year ago are now thriving in a wildlife park, say their keepers.",
       "timestamp": "2026-01-11T02:36:56Z",
       "source": "BBC News"
+    },
+    {
+      "headline": "After a scorching heatwave, some Australians woke to a cool change. Here's why",
+      "link": "https://www.sbs.com.au/news/article/whats-the-weather-after-the-heatwave/rhbhojy2l",
+      "mean_score": 0.3341,
+      "vader_score": 0.3182,
+      "textblob_score": 0.35,
+      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+      "timestamp": "2026-01-11T02:04:54Z",
+      "source": "SBS News"
     },
     {
       "headline": "Winners and Sinners: What to expect from the Golden Globes",
@@ -2490,16 +2500,6 @@
       "first_sentence": "I have a proposal to make: 2026 should be the year that\u00a0you spend more time doing what you want.",
       "timestamp": "2026-01-03T06:00:31Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Thousands of new magistrates wanted  to help clear backlog",
-      "link": "https://www.bbc.com/news/articles/cp87xm23e8ko?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3834,
-      "vader_score": 0.6486,
-      "textblob_score": 0.1182,
-      "first_sentence": "The government has launched a recruitment drive for thousands of new magistrates  to volunteer in England and Wales as part of its efforts to grapple with the crown court backlog.",
-      "timestamp": "2026-01-03T05:07:04Z",
-      "source": "BBC News"
     }
   ]
 }
