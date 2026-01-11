@@ -1,5 +1,15 @@
 [
   {
+    "headline": "The secret to a perfect nap: when, where and for how long?",
+    "link": "https://www.theguardian.com/lifeandstyle/2025/dec/19/the-perfect-way-to-nap-when-where-and-for-how-long",
+    "mean_score": 0.3776,
+    "vader_score": 0.5719,
+    "textblob_score": 0.1833,
+    "first_sentence": "Many athletes and professional musicians swear by getting some shut-eye during the day, but what\u2019s the best way to ensure you don\u2019t end up feeling groggy?.",
+    "timestamp": "2026-01-02T16:00:12Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "China's BYD overtakes Tesla as world's top EV seller",
     "link": "https://www.bbc.com/news/articles/cj9rjwpvmpzo?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.3512,
