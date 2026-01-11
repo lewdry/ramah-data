@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-11T01:33:08Z",
+  "last run": "2026-01-11T02:47:58Z",
   "stories": [
+    {
+      "headline": "Living their best life? What the Highland lynx did next",
+      "link": "https://www.bbc.com/news/articles/cm2y1ygjmy2o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5685,
+      "vader_score": 0.6369,
+      "textblob_score": 0.5,
+      "first_sentence": "Three lynx that were found starving after being abandoned in the Highlands a year ago are now thriving in a wildlife park, say their keepers.",
+      "timestamp": "2026-01-11T02:36:56Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Winners and Sinners: What to expect from the Golden Globes",
+      "link": "https://www.bbc.com/news/articles/c338d55p0k6o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3883,
+      "vader_score": 0.4767,
+      "textblob_score": 0.3,
+      "first_sentence": "Sinners, Marty Supreme and One Battle After Another are among the films set to compete at the Golden Globe Awards on Sunday night.",
+      "timestamp": "2026-01-11T01:42:16Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Dear Son review \u2013 essays by famous Indigenous fathers make for incredibly moving theatre",
       "link": "https://www.theguardian.com/stage/2026/jan/11/dear-son-review-essays-by-famous-indigenous-fathers-make-for-incredibly-moving-theatre",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.4,
       "first_sentence": "The world No 1, Magnus Carlsen, recovered from a series of mishaps to win both the World Rapid and Blitz crowns at Doha, Qatar, last weekend.",
       "timestamp": "2026-01-02T08:00:02Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Blank Canvas by Grace Murray review \u2013 a superb debut from a 22-year-old author",
-      "link": "https://www.theguardian.com/books/2026/jan/02/blank-canvas-by-grace-murray-review-a-superb-debut-from-a-22-year-old-author",
-      "mean_score": 0.6422,
-      "vader_score": 0.7845,
-      "textblob_score": 0.5,
-      "first_sentence": "Lies offend our sense of justice: generally, we want to see the liar unmasked and punished.",
-      "timestamp": "2026-01-02T07:00:02Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Benjamina Ebuehi\u2019s recipe for yoghurt panna cotta with banana and tahini crumble | The sweet spot",
-      "link": "https://www.theguardian.com/food/2026/jan/02/yoghurt-panna-cotta-recipe-banana-and-tahini-crumble-benjamina-ebuehi",
-      "mean_score": 0.4044,
-      "vader_score": 0.4588,
-      "textblob_score": 0.35,
-      "first_sentence": "I\u2019m of the opinion that we still need dessert in January.",
-      "timestamp": "2026-01-02T06:00:00Z",
       "source": "The Guardian"
     }
   ]
