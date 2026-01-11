@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-11T22:04:06Z",
+  "last run": "2026-01-11T23:04:07Z",
   "stories": [
+    {
+      "headline": "Golden Globes 2026: The full list of winners and nominees",
+      "link": "https://www.bbc.com/news/articles/cwygn18nyllo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4008,
+      "vader_score": 0.4767,
+      "textblob_score": 0.325,
+      "first_sentence": "The Golden Globe Awards take place in Los Angeles, honouring the best in film and television over the last 12 months.",
+      "timestamp": "2026-01-11T22:47:03Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Huge Roman villa found under popular park dubbed town's 'Pompeii'",
       "link": "https://www.bbc.com/news/articles/cgk8j1gkxelo?at_medium=RSS&at_campaign=rss",
@@ -2490,16 +2500,6 @@
       "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
       "timestamp": "2026-01-03T07:04:44Z",
       "source": "SBS News"
-    },
-    {
-      "headline": "Reddit overtakes TikTok in UK thanks to search algorithms and gen z",
-      "link": "https://www.theguardian.com/technology/2026/jan/03/reddit-overtakes-tiktok-uk-search-algorithms-gen-z",
-      "mean_score": 0.3202,
-      "vader_score": 0.4404,
-      "textblob_score": 0.2,
-      "first_sentence": "Reddit, the online discussion platform, has overtaken TikTok as Britain\u2019s fourth most visited social media service, as search algorithms and gen Z have dramatically transformed its prominence.",
-      "timestamp": "2026-01-03T07:00:33Z",
-      "source": "The Guardian"
     }
   ]
 }
