@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-12T06:07:16Z",
+  "last run": "2026-01-12T07:08:55Z",
   "stories": [
+    {
+      "headline": "A new start after 60: I adopted a Guide Dog mum \u2013 and found true love, community and confidence",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/12/new-start-after-60-adopted-guide-dog-mum-found-true-love-community-confidence",
+      "mean_score": 0.6061,
+      "vader_score": 0.8834,
+      "textblob_score": 0.3288,
+      "first_sentence": "She was living in the south of Hesse, in Germany, having moved in 1998 from Shropshire for her husband\u2019s work.",
+      "timestamp": "2026-01-12T06:45:48Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "\u2018The response is a beautiful thing\u2019: how Glasgow is squaring up to Reform",
       "link": "https://www.theguardian.com/uk-news/2026/jan/12/the-response-is-a-beautiful-thing-how-glasgow-is-squaring-up-to-reform",
@@ -2490,16 +2500,6 @@
       "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
       "timestamp": "2026-01-04T05:13:56Z",
       "source": "SBS News"
-    },
-    {
-      "headline": "US makes 'bold' grab for oil as markets brace for Monday",
-      "link": "https://www.abc.net.au/news/2026-01-04/us-intervention-in-venezuela-impact-on-oil-prices-unclear/106197522",
-      "mean_score": 0.3576,
-      "vader_score": 0.3818,
-      "textblob_score": 0.3333,
-      "first_sentence": "Analysts say the US, and other oil giants, are equipped to extract and refine large volumes of oil from Venezuela.",
-      "timestamp": "2026-01-04T01:33:59Z",
-      "source": "ABC News"
     }
   ]
 }
