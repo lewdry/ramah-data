@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-11T23:04:07Z",
+  "last run": "2026-01-12T00:16:25Z",
   "stories": [
+    {
+      "headline": "Revolutionary eye injection saved my sight, says first ever patient",
+      "link": "https://www.bbc.com/news/articles/c89qyv98lzdo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3357,
+      "vader_score": 0.4215,
+      "textblob_score": 0.25,
+      "first_sentence": "Doctors say they have achieved the previously impossible - restoring sight and preventing blindness in people with a rare but dangerous eye conditon called hypotony.",
+      "timestamp": "2026-01-12T00:00:09Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Golden Globes 2026: The full list of winners and nominees",
       "link": "https://www.bbc.com/news/articles/cwygn18nyllo?at_medium=RSS&at_campaign=rss",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Every winter brings a drop in temperatures and rising concerns about heating costs.",
       "timestamp": "2026-01-03T07:12:00Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "A 'wolf' supermoon is happening tonight. Here's the best time to watch it",
-      "link": "https://www.sbs.com.au/news/article/a-wolf-supermoon-is-happening-tonight-heres-what-you-need-to-know/3dn3zf24y",
-      "mean_score": 0.8185,
-      "vader_score": 0.6369,
-      "textblob_score": 1.0,
-      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-      "timestamp": "2026-01-03T07:04:44Z",
-      "source": "SBS News"
     }
   ]
 }

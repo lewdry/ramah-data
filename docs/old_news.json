@@ -1,5 +1,15 @@
 [
   {
+    "headline": "A 'wolf' supermoon is happening tonight. Here's the best time to watch it",
+    "link": "https://www.sbs.com.au/news/article/a-wolf-supermoon-is-happening-tonight-heres-what-you-need-to-know/3dn3zf24y",
+    "mean_score": 0.8185,
+    "vader_score": 0.6369,
+    "textblob_score": 1.0,
+    "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+    "timestamp": "2026-01-03T07:04:44Z",
+    "source": "SBS News"
+  },
+  {
     "headline": "Reddit overtakes TikTok in UK thanks to search algorithms and gen z",
     "link": "https://www.theguardian.com/technology/2026/jan/03/reddit-overtakes-tiktok-uk-search-algorithms-gen-z",
     "mean_score": 0.3202,
