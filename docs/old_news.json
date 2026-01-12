@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Reed\u2019s rocket rescues Fulham point and denies Liverpool in thrilling finish",
+    "link": "https://www.theguardian.com/football/2026/jan/04/fulham-liverpool-premier-league-match-report",
+    "mean_score": 0.3159,
+    "vader_score": 0.3818,
+    "textblob_score": 0.25,
+    "first_sentence": "Perhaps they underestimated Harrison Reed.",
+    "timestamp": "2026-01-04T17:30:29Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Battery electric cars will overtake diesels in Great Britain by 2030, analysis suggests",
     "link": "https://www.theguardian.com/business/2026/jan/04/battery-electric-cars-diesels-great-britain-london-ulez",
     "mean_score": 0.7125,

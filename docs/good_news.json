@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-12T14:06:36Z",
+  "last run": "2026-01-12T15:06:22Z",
   "stories": [
+    {
+      "headline": "Big wins for Aussies in first round of Adelaide International",
+      "link": "https://www.abc.net.au/news/2026-01-13/daria-kasatkina-thanasi-kokkinakis-advance-in-adelaide/106222328",
+      "mean_score": 0.3209,
+      "vader_score": 0.5719,
+      "textblob_score": 0.07,
+      "first_sentence": "Daria Kasatkina has beaten Greek wildcard Maria Sakkari in straight sets in the first round of the Adelaide International.",
+      "timestamp": "2026-01-12T14:22:03Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Georgina Hayden\u2019s quick and easy recipe for antipasti beans on toast | Quick and easy",
       "link": "https://www.theguardian.com/food/2026/jan/12/quick-and-easy-antipasti-beans-on-toast-recipe-georgina-hayden",
@@ -2490,16 +2500,6 @@
       "first_sentence": "\u201cEvery thought that we had in our minds, she seemed to be very good at verbalizing,\u201d Harling said.",
       "timestamp": "2026-01-04T17:53:02Z",
       "source": "AP News"
-    },
-    {
-      "headline": "Reed\u2019s rocket rescues Fulham point and denies Liverpool in thrilling finish",
-      "link": "https://www.theguardian.com/football/2026/jan/04/fulham-liverpool-premier-league-match-report",
-      "mean_score": 0.3159,
-      "vader_score": 0.3818,
-      "textblob_score": 0.25,
-      "first_sentence": "Perhaps they underestimated Harrison Reed.",
-      "timestamp": "2026-01-04T17:30:29Z",
-      "source": "The Guardian"
     }
   ]
 }
