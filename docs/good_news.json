@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-12T12:06:56Z",
+  "last run": "2026-01-12T13:17:21Z",
   "stories": [
+    {
+      "headline": "Georgina Hayden\u2019s quick and easy recipe for antipasti beans on toast | Quick and easy",
+      "link": "https://www.theguardian.com/food/2026/jan/12/quick-and-easy-antipasti-beans-on-toast-recipe-georgina-hayden",
+      "mean_score": 0.5418,
+      "vader_score": 0.7003,
+      "textblob_score": 0.3833,
+      "first_sentence": "Perhaps you still have some cheeseboard odds and sods in the fridge from Christmas? I know I still have a few to get through, but, other than that, my fridge and cupboards are looking pretty bare.",
+      "timestamp": "2026-01-12T13:00:06Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "U-Haul truck speeds through Los Angeles march supporting Iranian people",
+      "link": "https://www.theguardian.com/us-news/2026/jan/12/u-haul-los-angeles-iran-protest",
+      "mean_score": 0.3452,
+      "vader_score": 0.4404,
+      "textblob_score": 0.25,
+      "first_sentence": "Los Angeles police responded Sunday after a person drove a U-Haul box truck down a street crowded with marchers demonstrating in support of the Iranian people, causing protesters to scramble out of the way and then run after the speeding vehicle to try to attack the driver.",
+      "timestamp": "2026-01-12T12:58:49Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Super Stuttgart sweep Leverkusen aside with in-demand Leweling to the fore | Andy Brassell",
       "link": "https://www.theguardian.com/football/2026/jan/12/super-stuttgart-sweep-leverkusen-aside-with-in-demand-leweling-to-the-fore",
@@ -10,6 +30,16 @@
       "first_sentence": "If ever there was a weekend to show up on your best form, then this was it.",
       "timestamp": "2026-01-12T11:39:33Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "The most fascinating monitors at CES 2026",
+      "link": "https://arstechnica.com/gadgets/2026/01/the-most-fascinating-monitors-at-ces-2026/",
+      "mean_score": 0.5924,
+      "vader_score": 0.5849,
+      "textblob_score": 0.6,
+      "first_sentence": "CES 2026 took place in Las Vegas last week, and as usual, we\u2019re looking at the most interesting monitors from the show.",
+      "timestamp": "2026-01-12T11:30:06Z",
+      "source": "Ars Technica"
     },
     {
       "headline": "India and US 'actively engaged' in trade negotiations, says new ambassador",
@@ -2470,36 +2500,6 @@
       "first_sentence": "Perhaps they underestimated Harrison Reed.",
       "timestamp": "2026-01-04T17:30:29Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Battery electric cars will overtake diesels in Great Britain by 2030, analysis suggests",
-      "link": "https://www.theguardian.com/business/2026/jan/04/battery-electric-cars-diesels-great-britain-london-ulez",
-      "mean_score": 0.7125,
-      "vader_score": 0.6249,
-      "textblob_score": 0.8,
-      "first_sentence": "Battery electric cars are poised to overtake diesels on Great Britain\u2019s roads by 2030, according to analysis that suggests London will be the first UK city to go diesel-free.",
-      "timestamp": "2026-01-04T15:00:09Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Starmer ready for closer alignment with the EU 'in the national interest'",
-      "link": "https://www.bbc.com/news/articles/cn56wdlw094o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4353,
-      "vader_score": 0.6705,
-      "textblob_score": 0.2,
-      "first_sentence": "Prime Minister Sir Keir Starmer has told the BBC the UK should move towards closer alignment with EU markets \"if it's in our national interest\".",
-      "timestamp": "2026-01-04T13:58:33Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Man who died trying to save people from sea was true selfless hero, family say",
-      "link": "https://www.bbc.com/news/articles/cy05lkr9pzjo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5342,
-      "vader_score": 0.7184,
-      "textblob_score": 0.35,
-      "first_sentence": "A man who died trying to save two people from the sea in East Yorkshire has been named as Mark Ratcliffe.",
-      "timestamp": "2026-01-04T13:56:19Z",
-      "source": "BBC News"
     }
   ]
 }
