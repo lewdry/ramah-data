@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Can you solve it? Are you as smart as Spock?",
+    "link": "https://www.theguardian.com/science/2026/jan/05/can-you-solve-it-are-you-as-smart-as-spock",
+    "mean_score": 0.4041,
+    "vader_score": 0.594,
+    "textblob_score": 0.2143,
+    "first_sentence": "Which it does: World Logic Day is a Unesco-approved date in the academic calendar for the promotion of the study of deductive reasoning.",
+    "timestamp": "2026-01-05T07:10:28Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Sound of 2026: Reluctant rockers Royel Otis tipped for success",
     "link": "https://www.bbc.com/news/articles/cgl825nz9nlo?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.376,

@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-12T22:04:21Z",
+  "last run": "2026-01-12T23:04:07Z",
   "stories": [
+    {
+      "headline": "Liverpool power past brave Barnsley in the FA Cup to spare Szoboszlai\u2019s blushes",
+      "link": "https://www.theguardian.com/football/2026/jan/12/liverpool-barnsley-fa-cup-match-report",
+      "mean_score": 0.4008,
+      "vader_score": 0.5267,
+      "textblob_score": 0.275,
+      "first_sentence": "A late Florian Wirtz-inspired flourish gave a convincing look to Liverpool\u2019s margin of victory but Barnsley made their hosts battle for a place in round four.",
+      "timestamp": "2026-01-12T21:57:49Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Brooks Koepka returns to PGA Tour after $5m charitable donation",
       "link": "https://www.theguardian.com/sport/2026/jan/12/brooks-koepka-pga-tour-liv-golf",
@@ -2489,16 +2499,6 @@
       "textblob_score": 1.0,
       "first_sentence": "The Richies were out in force for the final time on the second day at the Sydney Cricket Ground, an entire block decked out in either cream, bone, white, off-white, ivory, or beige.",
       "timestamp": "2026-01-05T07:39:44Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Can you solve it? Are you as smart as Spock?",
-      "link": "https://www.theguardian.com/science/2026/jan/05/can-you-solve-it-are-you-as-smart-as-spock",
-      "mean_score": 0.4041,
-      "vader_score": 0.594,
-      "textblob_score": 0.2143,
-      "first_sentence": "Which it does: World Logic Day is a Unesco-approved date in the academic calendar for the promotion of the study of deductive reasoning.",
-      "timestamp": "2026-01-05T07:10:28Z",
       "source": "The Guardian"
     }
   ]
