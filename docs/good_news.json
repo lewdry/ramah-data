@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-12T02:45:30Z",
+  "last run": "2026-01-12T03:34:25Z",
   "stories": [
+    {
+      "headline": "Chalamet beats DiCaprio to Golden Globes glory",
+      "link": "https://www.bbc.com/news/articles/c78e07m02jzo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4212,
+      "vader_score": 0.5423,
+      "textblob_score": 0.3,
+      "first_sentence": "Timothee Chalamet was among the main winners as Hollywood's finest gathered for this year's Golden Globe Awards.",
+      "timestamp": "2026-01-12T03:24:26Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "How to fall in love with winter \u2013 podcast",
+      "link": "https://www.theguardian.com/news/audio/2026/jan/12/how-to-fall-in-love-with-winter-podcast",
+      "mean_score": 0.5685,
+      "vader_score": 0.6369,
+      "textblob_score": 0.5,
+      "first_sentence": "Does winter fill you with dread? The grey skies, the long nights, the prospect it will just go on and on?.",
+      "timestamp": "2026-01-12T03:00:43Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "How I have fun with friends without spending money",
       "link": "https://www.abc.net.au/news/2026-01-12/perspective-koren-on-free-fun-with-friends/106055938",
@@ -50,6 +70,16 @@
       "first_sentence": "Big names from the worlds of film and TV have been walking down the red carpet for this year's Golden Globes, one of Hollywood's leading awards ceremonies, which is taking place in Los Angeles.",
       "timestamp": "2026-01-12T01:22:07Z",
       "source": "BBC News"
+    },
+    {
+      "headline": "Trick play helps 49ers eliminate Super Bowl champion Eagles from NFL playoffs",
+      "link": "https://www.theguardian.com/sport/2026/jan/11/49ers-eagles-nfl-playoffs-wildcard",
+      "mean_score": 0.6226,
+      "vader_score": 0.9118,
+      "textblob_score": 0.3333,
+      "first_sentence": "Brock Purdy threw a go-ahead touchdown pass to Christian McCaffrey late in the fourth quarter, San Francisco used a trick play on a TD toss from wide receiver Jauan Jennings, and the 49ers eliminated the defending Super Bowl champion Philadelphia Eagles with a 23-19 wildcard victory on Sunday.",
+      "timestamp": "2026-01-12T01:18:17Z",
+      "source": "The Guardian"
     },
     {
       "headline": "Revolutionary eye injection saved my sight, says first ever patient",
@@ -160,6 +190,16 @@
       "first_sentence": "Minneapolis mayor Jacob Frey called on Sunday for the federal government to allow his state to become involved in the investigation of an Immigration and Customs Enforcement officer\u2019s fatal shooting of Renee Nicole Good, saying that the Trump administration had been \u201cso quick to jump on a narrative as opposed to the truth\u201d.",
       "timestamp": "2026-01-11T19:12:51Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "Population growth, fertility rates and migration. What could Australia look like in 2035?",
+      "link": "https://www.sbs.com.au/news/article/how-is-australias-population-changing/5a2uxjpbt",
+      "mean_score": 0.3125,
+      "vader_score": 0.6249,
+      "textblob_score": 0.0,
+      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+      "timestamp": "2026-01-11T18:32:41Z",
+      "source": "SBS News"
     },
     {
       "headline": "Homeland security sends more agents to Minneapolis as protests erupt in US",
@@ -2460,46 +2500,6 @@
       "first_sentence": "US President Donald Trump says the US launched strikes on Venezuela and captured its President Nicol\u00e1s Maduro.",
       "timestamp": "2026-01-03T22:20:19Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Luke Littler routs Gian van Veen to win PDC World Championship darts final \u2013 live",
-      "link": "https://www.theguardian.com/sport/live/2026/jan/03/luke-littler-v-gian-van-veen-pdc-world-championship-darts-final-live",
-      "mean_score": 0.5419,
-      "vader_score": 0.7717,
-      "textblob_score": 0.3121,
-      "first_sentence": "[On the emerging rivalry with Van Veen] We\u2019re always gonna have battles \u2013 on the pro tour, Euro tour, majors \u2013 and who knows, we might be back here in the final next year.",
-      "timestamp": "2026-01-03T21:51:03Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "'It's important because we're equal': The push to make safe relationships more accessible",
-      "link": "https://www.sbs.com.au/news/article/new-online-project-australian-with-disability-dv-prevention/8sy71qsbn",
-      "mean_score": 0.4634,
-      "vader_score": 0.5719,
-      "textblob_score": 0.355,
-      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-      "timestamp": "2026-01-03T19:38:47Z",
-      "source": "SBS News"
-    },
-    {
-      "headline": "Traditional romance stories get a First Nations twist with 'choc-lit'",
-      "link": "https://www.abc.net.au/news/2026-01-04/blak-romance-choc-lit-magabala-first-nations-love-stories/106164166",
-      "mean_score": 0.3412,
-      "vader_score": 0.5574,
-      "textblob_score": 0.125,
-      "first_sentence": "Or introduced a new partner to the aunties who have tried to set you up with someone else?.",
-      "timestamp": "2026-01-03T19:03:01Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "The moment I knew: I was ready to paddle back to shore when she leaned in to kiss me",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/03/moment-i-knew-paddleboard-kiss-vanuatu",
-      "mean_score": 0.3743,
-      "vader_score": 0.6486,
-      "textblob_score": 0.1,
-      "first_sentence": "In 2015, I\u2019d been living in Vanuatu for a year, coaching the Vanuatu women\u2019s beach volleyball team as they aimed to qualify for the Rio Olympics.",
-      "timestamp": "2026-01-03T19:00:46Z",
-      "source": "The Guardian"
     }
   ]
 }

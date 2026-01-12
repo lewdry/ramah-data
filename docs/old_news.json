@@ -1,11 +1,51 @@
 [
   {
+    "headline": "Luke Littler routs Gian van Veen to win PDC World Championship darts final \u2013 live",
+    "link": "https://www.theguardian.com/sport/live/2026/jan/03/luke-littler-v-gian-van-veen-pdc-world-championship-darts-final-live",
+    "mean_score": 0.5419,
+    "vader_score": 0.7717,
+    "textblob_score": 0.3121,
+    "first_sentence": "[On the emerging rivalry with Van Veen] We\u2019re always gonna have battles \u2013 on the pro tour, Euro tour, majors \u2013 and who knows, we might be back here in the final next year.",
+    "timestamp": "2026-01-03T21:51:03Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "'It's important because we're equal': The push to make safe relationships more accessible",
+    "link": "https://www.sbs.com.au/news/article/new-online-project-australian-with-disability-dv-prevention/8sy71qsbn",
+    "mean_score": 0.4634,
+    "vader_score": 0.5719,
+    "textblob_score": 0.355,
+    "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+    "timestamp": "2026-01-03T19:38:47Z",
+    "source": "SBS News"
+  },
+  {
+    "headline": "Traditional romance stories get a First Nations twist with 'choc-lit'",
+    "link": "https://www.abc.net.au/news/2026-01-04/blak-romance-choc-lit-magabala-first-nations-love-stories/106164166",
+    "mean_score": 0.3412,
+    "vader_score": 0.5574,
+    "textblob_score": 0.125,
+    "first_sentence": "Or introduced a new partner to the aunties who have tried to set you up with someone else?.",
+    "timestamp": "2026-01-03T19:03:01Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "In his last days, I couldn\u2019t bear to tell my dying husband what had happened at his beloved Bondi | Julianne Schultz",
     "link": "https://www.theguardian.com/commentisfree/2026/jan/04/dying-husband-dementia-last-days",
     "mean_score": 0.4303,
     "vader_score": 0.5106,
     "textblob_score": 0.35,
     "first_sentence": "\u201cNo, nothing,\u201d I said as calmly as I could to the man with whom I had intensely discussed events in the world and at home for nearly 50 years.",
+    "timestamp": "2026-01-03T19:00:46Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "The moment I knew: I was ready to paddle back to shore when she leaned in to kiss me",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/jan/03/moment-i-knew-paddleboard-kiss-vanuatu",
+    "mean_score": 0.3743,
+    "vader_score": 0.6486,
+    "textblob_score": 0.1,
+    "first_sentence": "In 2015, I\u2019d been living in Vanuatu for a year, coaching the Vanuatu women\u2019s beach volleyball team as they aimed to qualify for the Rio Olympics.",
     "timestamp": "2026-01-03T19:00:46Z",
     "source": "The Guardian"
   },
