@@ -1,6 +1,36 @@
 {
-  "last run": "2026-01-12T16:05:50Z",
+  "last run": "2026-01-12T17:06:46Z",
   "stories": [
+    {
+      "headline": "\u2018Her time has come\u2019: did Mondrian owe his success to a crossdressing lesbian artist who lived in a Cornish cove?",
+      "link": "https://www.theguardian.com/artanddesign/2026/jan/12/piet-mondrian-crossdressing-lesbian-artist-marlow-moss-cornish-cove",
+      "mean_score": 0.4359,
+      "vader_score": 0.5719,
+      "textblob_score": 0.3,
+      "first_sentence": "In 1972, the mighty Kunstmuseum in the Hague bought three paintings by a little known British artist called Marlow Moss.",
+      "timestamp": "2026-01-12T16:14:42Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Is Morocco ready to co-host the 2030 World Cup? Afcon indicates yes | Jonathan Wilson",
+      "link": "https://www.theguardian.com/football/2026/jan/12/afcon-morrocco-2030-world-cup",
+      "mean_score": 0.4184,
+      "vader_score": 0.6369,
+      "textblob_score": 0.2,
+      "first_sentence": "More than any other continental tournament, there is always a sense with the Africa Cup of Nations that it is a referendum on the continent\u2019s football generally.",
+      "timestamp": "2026-01-12T15:45:06Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "One bizarre expression after another: DiCaprio\u2019s viral moment won the Golden Globes",
+      "link": "https://www.theguardian.com/film/2026/jan/12/leonardo-dicaprio-golden-globes",
+      "mean_score": 0.345,
+      "vader_score": 0.34,
+      "textblob_score": 0.35,
+      "first_sentence": "The fact that nobody really knows anything about Leonardo DiCaprio is well-established at this point.",
+      "timestamp": "2026-01-12T15:43:49Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Golden Globe highlights: Brazil on a streak, Amy Poehler\u2019s pod wins and Seth Rogen comes full-circle",
       "link": "https://apnews.com/article/2026-golden-globe-awards-highlights-a885ae8a21f6a0ddee5b172849f6ba09",
@@ -2470,36 +2500,6 @@
       "first_sentence": "ATLANTA (AP) \u2014 Dee Alford\u2019s red-zone interception stopped a potential go-ahead drive by New Orleans, and the Atlanta Falcons beat the Saints 19-17 on Sunday to give the NFC South title to the Carolina Panthers.",
       "timestamp": "2026-01-04T21:53:02Z",
       "source": "AP News"
-    },
-    {
-      "headline": "NFL roundup: Falcons\u2019 win over Saints throws NFC South title to Panthers",
-      "link": "https://www.theguardian.com/sport/2026/jan/04/nfl-roundup-week-18-scores",
-      "mean_score": 0.3194,
-      "vader_score": -0.1613,
-      "textblob_score": 0.8,
-      "first_sentence": "Dee Alford\u2019s red-zone interception stopped a potential go-ahead drive by New Orleans, and the Atlanta Falcons beat the Saints 19-17 on Sunday to give the NFC South title to the Carolina Panthers.",
-      "timestamp": "2026-01-04T21:19:59Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "DNA study could save one of the world's oldest surviving songbirds",
-      "link": "https://www.abc.net.au/news/2026-01-05/dna-project-to-save-rufous-scrub-bird/106191878",
-      "mean_score": 0.3298,
-      "vader_score": 0.6597,
-      "textblob_score": 0.0,
-      "first_sentence": "A project is underway to sequence the genome of five separate Rufous scrub-bird colonies.",
-      "timestamp": "2026-01-04T21:01:33Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Joy and insecurity: Venezuelan Australians like Maria are conflicted on US strikes",
-      "link": "https://www.sbs.com.au/news/article/venezuela-local-reaction-australia/94xjas7xz",
-      "mean_score": 0.525,
-      "vader_score": 0.25,
-      "textblob_score": 0.8,
-      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-      "timestamp": "2026-01-04T18:34:32Z",
-      "source": "SBS News"
     }
   ]
 }
