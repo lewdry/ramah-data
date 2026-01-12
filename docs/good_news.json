@@ -1,6 +1,36 @@
 {
-  "last run": "2026-01-12T07:08:55Z",
+  "last run": "2026-01-12T08:06:08Z",
   "stories": [
+    {
+      "headline": "Venezuelans in the US are torn between joy and worry after ousting of Maduro",
+      "link": "https://apnews.com/article/venezuela-us-migrants-maduro-ouster-tps-deportation-2b00b6057435fafe1828a06bd1e7a14c",
+      "mean_score": 0.3871,
+      "vader_score": -0.0258,
+      "textblob_score": 0.8,
+      "first_sentence": "NEW YORK (AP) \u2014 In the days since the Trump administration ousted Venezuelan President Nicol\u00e1s Maduro in a late-night military raid, Alejandra Salima has spoken to fellow Venezuelan migrants in her role as an advocate.",
+      "timestamp": "2026-01-12T07:53:02Z",
+      "source": "AP News"
+    },
+    {
+      "headline": "George Floyd and Renee Good: 5 years between Minneapolis videos, and confusion has increased",
+      "link": "https://apnews.com/article/video-minneapolis-immigration-good-ice-george-floyd-9dc5b1f19af644f861963f0a041516f4",
+      "mean_score": 0.5607,
+      "vader_score": 0.4215,
+      "textblob_score": 0.7,
+      "first_sentence": "Five years ago, video images from a Minneapolis street showing a police officer kneeling on the neck of George Floyd as his life slipped away ignited a social movement.",
+      "timestamp": "2026-01-12T07:23:02Z",
+      "source": "AP News"
+    },
+    {
+      "headline": "\u2018Timoth\u00e9e Chalamet gained over 60 ounces for Marty Supreme!\u2019: the best quotes from the 2026 Golden Globes",
+      "link": "https://www.theguardian.com/film/2026/jan/12/golden-globes-2026-best-quotes-timothee-chalamet-teyana-taylor-snoop-dogg-stellan-skarsgard-jessie-buckley",
+      "mean_score": 0.7229,
+      "vader_score": 0.7959,
+      "textblob_score": 0.65,
+      "first_sentence": "\u201cI of course was not prepared for this, because I thought that I was too old.",
+      "timestamp": "2026-01-12T07:11:04Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "A new start after 60: I adopted a Guide Dog mum \u2013 and found true love, community and confidence",
       "link": "https://www.theguardian.com/lifeandstyle/2026/jan/12/new-start-after-60-adopted-guide-dog-mum-found-true-love-community-confidence",
@@ -10,6 +40,16 @@
       "first_sentence": "She was living in the south of Hesse, in Germany, having moved in 1998 from Shropshire for her husband\u2019s work.",
       "timestamp": "2026-01-12T06:45:48Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "The Traitors star Jessie 'shows those with stammers are not stupid'",
+      "link": "https://www.bbc.com/news/articles/c1lzv54d03yo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3222,
+      "vader_score": 0.2444,
+      "textblob_score": 0.4,
+      "first_sentence": "Spoiler warning: This article contains details of the ongoing series of The Traitors.",
+      "timestamp": "2026-01-12T06:25:45Z",
+      "source": "BBC News"
     },
     {
       "headline": "\u2018The response is a beautiful thing\u2019: how Glasgow is squaring up to Reform",
@@ -2460,46 +2500,6 @@
       "first_sentence": "Nick Kyrgios could not have looked more at ease on Pat Rafter Arena on Sunday night.",
       "timestamp": "2026-01-04T12:05:04Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Wellness trends worth taking into the new year (and some that aren't)",
-      "link": "https://www.npr.org/2026/01/04/nx-s1-5665123/wellness-trends-new-year",
-      "mean_score": 0.402,
-      "vader_score": 0.5859,
-      "textblob_score": 0.2182,
-      "first_sentence": "Trying to keep up with the flood of wellness trends last year was bewildering.",
-      "timestamp": "2026-01-04T12:00:00Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "'I can't believe it' - Joy and uncertainty in Florida's 'Little Venezuela'",
-      "link": "https://www.bbc.com/news/articles/clygv0pd26eo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3231,
-      "vader_score": 0.34,
-      "textblob_score": 0.3063,
-      "first_sentence": "For years, Florida resident Rosana Mateos had a recurring dream about the fall of Nicolas Maduro in Venezuela.",
-      "timestamp": "2026-01-04T10:35:43Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Damien Martyn awakes from coma in 'some sort of miracle', thanks public",
-      "link": "https://www.abc.net.au/news/2026-01-04/australian-cricket-great-damien-martyn-awakes-from-coma/106198212",
-      "mean_score": 0.3807,
-      "vader_score": 0.7281,
-      "textblob_score": 0.0333,
-      "first_sentence": "Former Australian Test batsman Damien Martyn is awake and talking after being in an induced coma for several days.",
-      "timestamp": "2026-01-04T08:57:18Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Australians set to swelter in 'one of the most significant heatwaves we've seen'",
-      "link": "https://www.sbs.com.au/news/article/australians-in-these-states-are-set-to-swelter-amid-40c-warnings/wbutwwouy",
-      "mean_score": 0.3546,
-      "vader_score": 0.2716,
-      "textblob_score": 0.4375,
-      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-      "timestamp": "2026-01-04T05:13:56Z",
-      "source": "SBS News"
     }
   ]
 }

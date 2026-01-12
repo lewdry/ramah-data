@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Wellness trends worth taking into the new year (and some that aren't)",
+    "link": "https://www.npr.org/2026/01/04/nx-s1-5665123/wellness-trends-new-year",
+    "mean_score": 0.402,
+    "vader_score": 0.5859,
+    "textblob_score": 0.2182,
+    "first_sentence": "Trying to keep up with the flood of wellness trends last year was bewildering.",
+    "timestamp": "2026-01-04T12:00:00Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "'I can't believe it' - Joy and uncertainty in Florida's 'Little Venezuela'",
+    "link": "https://www.bbc.com/news/articles/clygv0pd26eo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3231,
+    "vader_score": 0.34,
+    "textblob_score": 0.3063,
+    "first_sentence": "For years, Florida resident Rosana Mateos had a recurring dream about the fall of Nicolas Maduro in Venezuela.",
+    "timestamp": "2026-01-04T10:35:43Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Damien Martyn awakes from coma in 'some sort of miracle', thanks public",
+    "link": "https://www.abc.net.au/news/2026-01-04/australian-cricket-great-damien-martyn-awakes-from-coma/106198212",
+    "mean_score": 0.3807,
+    "vader_score": 0.7281,
+    "textblob_score": 0.0333,
+    "first_sentence": "Former Australian Test batsman Damien Martyn is awake and talking after being in an induced coma for several days.",
+    "timestamp": "2026-01-04T08:57:18Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Australians set to swelter in 'one of the most significant heatwaves we've seen'",
+    "link": "https://www.sbs.com.au/news/article/australians-in-these-states-are-set-to-swelter-amid-40c-warnings/wbutwwouy",
+    "mean_score": 0.3546,
+    "vader_score": 0.2716,
+    "textblob_score": 0.4375,
+    "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+    "timestamp": "2026-01-04T05:13:56Z",
+    "source": "SBS News"
+  },
+  {
     "headline": "US makes 'bold' grab for oil as markets brace for Monday",
     "link": "https://www.abc.net.au/news/2026-01-04/us-intervention-in-venezuela-impact-on-oil-prices-unclear/106197522",
     "mean_score": 0.3576,
