@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-12T08:06:08Z",
+  "last run": "2026-01-12T09:08:27Z",
   "stories": [
+    {
+      "headline": "India and US 'actively engaged' in trade negotiations, says new ambassador",
+      "link": "https://www.bbc.com/news/articles/c4gr6e6dn5lo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.307,
+      "vader_score": 0.6124,
+      "textblob_score": 0.0015,
+      "first_sentence": "India and the US are continuing to actively engage on trade deal negotiations, Sergio Gor, the new US ambassador to India, has said during a trip to Delhi.",
+      "timestamp": "2026-01-12T08:39:20Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Venezuelans in the US are torn between joy and worry after ousting of Maduro",
       "link": "https://apnews.com/article/venezuela-us-migrants-maduro-ouster-tps-deportation-2b00b6057435fafe1828a06bd1e7a14c",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Roll up, roll up for the yummiest start to the day with this tantalising TexMex mishmash of refried beans, eggs, potatoes.",
       "timestamp": "2026-01-04T13:00:07Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Tears for Thanasi, grins for Nick as Special Ks make their return",
-      "link": "https://www.abc.net.au/news/2026-01-04/nick-kyrgios-thanasi-kokkinakis-special-ks/106198254",
-      "mean_score": 0.3795,
-      "vader_score": 0.4019,
-      "textblob_score": 0.3571,
-      "first_sentence": "Nick Kyrgios could not have looked more at ease on Pat Rafter Arena on Sunday night.",
-      "timestamp": "2026-01-04T12:05:04Z",
-      "source": "ABC News"
     }
   ]
 }
