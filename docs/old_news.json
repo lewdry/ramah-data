@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Second Root century secures him as 'best player outside of Bradman'",
+    "link": "https://www.abc.net.au/news/2026-01-05/joe-root-second-century-scg-don-bradman/106199570",
+    "mean_score": 0.5456,
+    "vader_score": 0.7579,
+    "textblob_score": 0.3333,
+    "first_sentence": "Former Australian batter Darren Lehmann has hailed England batter Joe Root as \"the best player outside of Bradman\" following his second Ashes century of the series on day two of the Sydney Test.",
+    "timestamp": "2026-01-05T02:34:05Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Thanasi Kokkinakis and Nick Kyrgios make emotional doubles comeback with win in Brisbane",
+    "link": "https://www.theguardian.com/sport/2026/jan/05/thanasi-kokkinakis-nick-kyrgios-doubles-comeback",
+    "mean_score": 0.5298,
+    "vader_score": 0.6597,
+    "textblob_score": 0.4,
+    "first_sentence": "Thanasi Kokkinakis\u2019s tears after a doubles match told the story as the injury-plagued Australian won in his latest and most dramatic return to the sport alongside old friend Nick Kyrgios.",
+    "timestamp": "2026-01-04T22:46:29Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Live: Joe Root finally falls after brilliant ton as England all out for 384",
+    "link": "https://www.abc.net.au/news/2026-01-05/ashes-cricket-scg-test-day-two-live-blog/106199006",
+    "mean_score": 0.4657,
+    "vader_score": 0.5859,
+    "textblob_score": 0.3455,
+    "first_sentence": "Joe Root eventually falls for 160, his biggest score on Australian soil and second century of the Ashes tour, as England is bowled out for 384 on day two.",
+    "timestamp": "2026-01-04T22:42:16Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Alford\u2019s red-zone pick saves Falcons\u2019 19-17 win over Saints, giving NFC South title to Panthers",
+    "link": "https://apnews.com/article/saints-falcons-score-7af36fbef8544a69fba5bbeff2f12d12",
+    "mean_score": 0.4972,
+    "vader_score": 0.1943,
+    "textblob_score": 0.8,
+    "first_sentence": "ATLANTA (AP) \u2014 Dee Alford\u2019s red-zone interception stopped a potential go-ahead drive by New Orleans, and the Atlanta Falcons beat the Saints 19-17 on Sunday to give the NFC South title to the Carolina Panthers.",
+    "timestamp": "2026-01-04T21:53:02Z",
+    "source": "AP News"
+  },
+  {
     "headline": "NFL roundup: Falcons\u2019 win over Saints throws NFC South title to Panthers",
     "link": "https://www.theguardian.com/sport/2026/jan/04/nfl-roundup-week-18-scores",
     "mean_score": 0.3194,
