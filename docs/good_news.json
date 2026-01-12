@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-12T04:23:35Z",
+  "last run": "2026-01-12T05:10:52Z",
   "stories": [
+    {
+      "headline": "\u2018I\u2019m the product of a smashed-up family\u2019: how Sean Scully became the greatest abstract painter alive",
+      "link": "https://www.theguardian.com/artanddesign/2026/jan/12/smashed-up-family-sean-scully-greatest-abstract-painter-alive",
+      "mean_score": 0.6642,
+      "vader_score": 0.7783,
+      "textblob_score": 0.55,
+      "first_sentence": "It\u2019s clear which choice he has made.",
+      "timestamp": "2026-01-12T05:00:46Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "KPop Demon Hunters wins Golden Globes for best animated film",
+      "link": "https://www.bbc.com/news/articles/cy8pnn9p8lgo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.6847,
+      "vader_score": 0.836,
+      "textblob_score": 0.5333,
+      "first_sentence": "Netflix mega-hit KPop Demon Hunters has won a Golden Globe for best animated feature, while its breakout anthem Golden was named best original song.",
+      "timestamp": "2026-01-12T04:22:07Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Chalamet beats DiCaprio to Golden Globes glory",
       "link": "https://www.bbc.com/news/articles/c78e07m02jzo?at_medium=RSS&at_campaign=rss",
@@ -269,6 +289,16 @@
       "textblob_score": 0.2,
       "first_sentence": "They bonded over football and felt the same about taxing billionaires.",
       "timestamp": "2026-01-11T12:00:25Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "The UK\u2019s high streets have reached a tipping point \u2013 and Reform will reap the benefits | John Harris",
+      "link": "https://www.theguardian.com/commentisfree/2026/jan/11/uk-high-streets-reform-shops-closing-hope",
+      "mean_score": 0.3094,
+      "vader_score": 0.4588,
+      "textblob_score": 0.16,
+      "first_sentence": "Over Christmas, thousands of people must have had much the same experience: a trip to see friends or relatives somewhere familiar, and the realisation that a once-thriving town centre is dangerously close to the economic point of no return, and a future of eerie silence.",
+      "timestamp": "2026-01-11T11:50:19Z",
       "source": "The Guardian"
     },
     {
@@ -2470,36 +2500,6 @@
       "first_sentence": "The SCG Test is marked with a tribute to the victims of the Bondi terror attack and praise for heroes from the day, including Ahmed Al Ahmed.",
       "timestamp": "2026-01-03T22:50:49Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Top End dams overflow as parks come to life in the wake of Cyclone Fina",
-      "link": "https://www.abc.net.au/news/2026-01-04/fogg-dam-darwin-river-cyclone-fina-monsoon/106194820",
-      "mean_score": 0.3512,
-      "vader_score": 0.2023,
-      "textblob_score": 0.5,
-      "first_sentence": "Darwin River Dam began overflowing on New Year's Eve, the earliest its ever done so since the spillway was raised in 2010.",
-      "timestamp": "2026-01-03T22:42:06Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Charity keeps pets at home and out of the pound by helping cover care costs",
-      "link": "https://www.abc.net.au/news/2026-01-04/charity-keeping-pets-out-of-the-pound-funding-vet-care/106101748",
-      "mean_score": 0.401,
-      "vader_score": 0.802,
-      "textblob_score": 0.0,
-      "first_sentence": "A new charity is offering vulnerable people and families emergency pet boarding, food drops and financial help for veterinary care.",
-      "timestamp": "2026-01-03T22:38:55Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Watch: 'I'm so happy' - Venezuelans in the US react to Maduro's capture",
-      "link": "https://www.bbc.com/news/videos/c5y2xqgjd7eo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.7474,
-      "vader_score": 0.6948,
-      "textblob_score": 0.8,
-      "first_sentence": "US President Donald Trump says the US launched strikes on Venezuela and captured its President Nicol\u00e1s Maduro.",
-      "timestamp": "2026-01-03T22:20:19Z",
-      "source": "BBC News"
     }
   ]
 }

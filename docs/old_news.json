@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Top End dams overflow as parks come to life in the wake of Cyclone Fina",
+    "link": "https://www.abc.net.au/news/2026-01-04/fogg-dam-darwin-river-cyclone-fina-monsoon/106194820",
+    "mean_score": 0.3512,
+    "vader_score": 0.2023,
+    "textblob_score": 0.5,
+    "first_sentence": "Darwin River Dam began overflowing on New Year's Eve, the earliest its ever done so since the spillway was raised in 2010.",
+    "timestamp": "2026-01-03T22:42:06Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Charity keeps pets at home and out of the pound by helping cover care costs",
+    "link": "https://www.abc.net.au/news/2026-01-04/charity-keeping-pets-out-of-the-pound-funding-vet-care/106101748",
+    "mean_score": 0.401,
+    "vader_score": 0.802,
+    "textblob_score": 0.0,
+    "first_sentence": "A new charity is offering vulnerable people and families emergency pet boarding, food drops and financial help for veterinary care.",
+    "timestamp": "2026-01-03T22:38:55Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Watch: 'I'm so happy' - Venezuelans in the US react to Maduro's capture",
+    "link": "https://www.bbc.com/news/videos/c5y2xqgjd7eo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.7474,
+    "vader_score": 0.6948,
+    "textblob_score": 0.8,
+    "first_sentence": "US President Donald Trump says the US launched strikes on Venezuela and captured its President Nicol\u00e1s Maduro.",
+    "timestamp": "2026-01-03T22:20:19Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Luke Littler routs Gian van Veen to win PDC World Championship darts final \u2013 live",
     "link": "https://www.theguardian.com/sport/live/2026/jan/03/luke-littler-v-gian-van-veen-pdc-world-championship-darts-final-live",
     "mean_score": 0.5419,
