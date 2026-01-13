@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-13T05:08:01Z",
+  "last run": "2026-01-13T06:05:49Z",
   "stories": [
+    {
+      "headline": "Tennis great Williams departs Hobart International in first round",
+      "link": "https://www.abc.net.au/news/2026-01-13/hobart-international-venus-williams-loses-in-first-round/106224876",
+      "mean_score": 0.4187,
+      "vader_score": 0.6249,
+      "textblob_score": 0.2125,
+      "first_sentence": "Venus Williams lost 6-4, 6-3 to German sixth seed Tatjana Maria in the first round at the Hobart International.",
+      "timestamp": "2026-01-13T05:43:14Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Lovers and fighters: how Les Liaisons Dangereuses reveals the passions of Christopher Hampton",
       "link": "https://www.theguardian.com/stage/2026/jan/13/les-liaisons-dangereuses-christopher-hampton-national-theatre",
@@ -2490,16 +2500,6 @@
       "first_sentence": "The European Union now prohibits desflurane\u2019s use during most procedures.",
       "timestamp": "2026-01-05T16:48:07Z",
       "source": "Ars Technica"
-    },
-    {
-      "headline": "\u2018See no evil, hear no evil\u2019 Starmer goes on full sycophant alert | John Crace",
-      "link": "https://www.theguardian.com/politics/2026/jan/05/starmer-goes-full-sycophant-trump-politics-sketch",
-      "mean_score": 0.4974,
-      "vader_score": 0.5448,
-      "textblob_score": 0.45,
-      "first_sentence": "Let\u2019s face it.",
-      "timestamp": "2026-01-05T16:19:30Z",
-      "source": "The Guardian"
     }
   ]
 }
