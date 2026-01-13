@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-13T00:13:04Z",
+  "last run": "2026-01-13T01:32:21Z",
   "stories": [
+    {
+      "headline": "Australia news live: Penny Wong says Israeli president Isaac Herzog\u2019s visit a \u2018good thing\u2019 despite backlash from Labor party members",
+      "link": "https://www.theguardian.com/australia-news/live/2026/jan/13/anthony-albanese-labor-hate-speech-laws-politics-coalition-sussan-ley-adelaide-festival-writers-week-reactions-victoria-bushfires-queensland-floods-ntwnfb",
+      "mean_score": 0.41,
+      "vader_score": 0.4019,
+      "textblob_score": 0.4182,
+      "first_sentence": "The foreign minister, Penny Wong, says a visit to Australia by the Israeli president, Isaac Herzog, is an important sign of the strength of ties between the two countries in the wake of the Bondi Beach shootings.",
+      "timestamp": "2026-01-13T01:28:42Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "I spent months investigating whether gut health affects ageing - and if I could hack my own gut to age better",
       "link": "https://www.bbc.com/news/articles/c1m8m47jl5eo?at_medium=RSS&at_campaign=rss",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.7,
       "first_sentence": "Why is a middling back-up seamer suddenly better than a quality spinner, whatever the conditions?.",
       "timestamp": "2026-01-05T11:43:22Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The perfect way to do nothing: how to embrace the art of idling",
-      "link": "https://www.theguardian.com/lifeandstyle/2025/dec/19/the-perfect-way-to-do-nothing-how-to-embrace-the-art-of-idling",
-      "mean_score": 0.7047,
-      "vader_score": 0.4094,
-      "textblob_score": 1.0,
-      "first_sentence": "On a rainy afternoon last weekend, plans got cancelled and I found myself at a loose end.",
-      "timestamp": "2026-01-05T11:00:33Z",
       "source": "The Guardian"
     }
   ]
