@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-13T10:04:34Z",
+  "last run": "2026-01-13T11:04:26Z",
   "stories": [
+    {
+      "headline": "The best Apple Watches in 2026: what\u2019s worth buying and what\u2019s not, according to our expert",
+      "link": "https://www.theguardian.com/thefilter/2025/jun/10/best-apple-watch",
+      "mean_score": 0.6885,
+      "vader_score": 0.7269,
+      "textblob_score": 0.65,
+      "first_sentence": "The Guardian\u2019s journalism is independent.",
+      "timestamp": "2026-01-13T10:00:00Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Israel poised to start construction of bypass through heart of West Bank",
       "link": "https://www.theguardian.com/world/2026/jan/13/israel-start-construction-bypass-west-bank-illegal-settlement",
@@ -48,6 +58,16 @@
       "vader_score": 0.802,
       "textblob_score": 1.0,
       "first_sentence": "A brutal nomadic sport, quiet childhood reveries and stark human endurance define the photographs that wowed this year\u2019s judges Continue reading.",
+      "timestamp": "2026-01-13T07:00:28Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Love Machines by James Muldoon review \u2013 inside the uncanny world of AI relationships",
+      "link": "https://www.theguardian.com/books/2026/jan/13/love-machines-by-james-muldoon-review-the-risks-and-rewards-of-getting-intimate-with-ai",
+      "mean_score": 0.5685,
+      "vader_score": 0.6369,
+      "textblob_score": 0.5,
+      "first_sentence": "If much of the discussion of AI risk conjures doomsday scenarios of hyper-intelligent bots brandishing nuclear codes, perhaps we should be thinking closer to home.",
       "timestamp": "2026-01-13T07:00:28Z",
       "source": "The Guardian"
     },
@@ -2480,26 +2500,6 @@
       "first_sentence": "When Dr Karl wants to understand something, he doesn't mess around.",
       "timestamp": "2026-01-05T18:30:00Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Woman swept away with her daughter was a beautiful soul, says friend",
-      "link": "https://www.bbc.com/news/articles/cy4g7xz31lpo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.8232,
-      "vader_score": 0.7964,
-      "textblob_score": 0.85,
-      "first_sentence": "A close friend has paid tribute to a mother and daughter who were swept away at a seaside resort.",
-      "timestamp": "2026-01-05T18:17:52Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Scotland to have national bank holiday after first World Cup fixture",
-      "link": "https://www.theguardian.com/football/2026/jan/05/scotland-national-bank-holiday-after-world-cup-fixture",
-      "mean_score": 0.3259,
-      "vader_score": 0.4019,
-      "textblob_score": 0.25,
-      "first_sentence": "Football fans needn\u2019t worry about the hangover when they celebrate, or otherwise, into the wee hours after Scotland\u2019s first match in the 2026 World Cup \u2013 because the day after the 2am UK time fixture looks likely to be a national bank holiday there.",
-      "timestamp": "2026-01-05T17:19:39Z",
-      "source": "The Guardian"
     }
   ]
 }
