@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-13T20:04:36Z",
+  "last run": "2026-01-13T21:04:35Z",
   "stories": [
+    {
+      "headline": "Easy ways to reduce your exposure to microplastics at home",
+      "link": "https://www.abc.net.au/news/2026-01-14/ways-to-reduce-exposure-to-microplastics-at-home-/106128692",
+      "mean_score": 0.4369,
+      "vader_score": 0.4404,
+      "textblob_score": 0.4333,
+      "first_sentence": "If you're feeling concerned about microplastics it can be hard to know what to do about it.",
+      "timestamp": "2026-01-13T20:00:00Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Newcastle United v Manchester City: Carabao Cup semi-final first leg \u2013 live",
       "link": "https://www.theguardian.com/football/live/2026/jan/13/newcastle-united-v-manchester-city-carabao-cup-semi-final-first-leg-live",
@@ -2490,16 +2500,6 @@
       "first_sentence": "When we treat ourselves to a meal out and something's off  - the food is cold or the service is slow - it can be difficult to know how to handle it.",
       "timestamp": "2026-01-06T02:04:28Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Experience Sydney's new GreenWay trail on its grand opening in this immersive 360 capture \u2013 video",
-      "link": "https://www.theguardian.com/lifeandstyle/video/2026/jan/06/sydney-greenway-walk-cycle-path-inner-west-video",
-      "mean_score": 0.3885,
-      "vader_score": 0.4588,
-      "textblob_score": 0.3182,
-      "first_sentence": "Use the tilt tool to explore the new six-kilometre environmental, walking and cycling corridor in Sydney's inner west.",
-      "timestamp": "2026-01-05T23:27:35Z",
-      "source": "The Guardian"
     }
   ]
 }
