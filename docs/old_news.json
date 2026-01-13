@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Is Tasmania's 'red tide' a brilliant light show or an environmental problem?",
+    "link": "https://www.abc.net.au/news/2026-01-06/algal-bloom-concerns-near-tasmanian-salmon-farms/106199152",
+    "mean_score": 0.3533,
+    "vader_score": 0.2732,
+    "textblob_score": 0.4333,
+    "first_sentence": "During the night, it's a sparkling blue bioluminescence, attracting curious onlookers.",
+    "timestamp": "2026-01-05T19:02:06Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "How much do you know about the meat pie? Test yourself (or treat yourself)",
     "link": "https://www.abc.net.au/news/2026-01-06/dr-karl-how-things-works-pie-quiz/106086912",
     "mean_score": 0.3009,
