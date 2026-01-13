@@ -1,6 +1,36 @@
 {
-  "last run": "2026-01-13T21:04:35Z",
+  "last run": "2026-01-13T22:04:30Z",
   "stories": [
+    {
+      "headline": "Inflation steadies but it's still higher than many would like",
+      "link": "https://www.npr.org/2026/01/13/nx-s1-5675986/inflation-steadies-but-its-still-higher-than-many-would-like",
+      "mean_score": 0.4386,
+      "vader_score": 0.5023,
+      "textblob_score": 0.375,
+      "first_sentence": "Inflation didn't get worse in December.",
+      "timestamp": "2026-01-13T21:08:52Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "Jellyfish sleep and nap like us. Studying them could help human brains",
+      "link": "https://www.npr.org/2026/01/13/nx-s1-5661527/jellyfish-sleep-and-nap-like-us-studying-them-could-help-human-brains",
+      "mean_score": 0.3185,
+      "vader_score": 0.6369,
+      "textblob_score": 0.0,
+      "first_sentence": "A new study analyzed the sleep patterns of jellyfish and sea anemones and found they share some sleep traits with humans.",
+      "timestamp": "2026-01-13T21:08:44Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "28 Years Later: The Bone Temple review \u2013 Ralph Fiennes is phenomenal in best chapter yet of zombie horror",
+      "link": "https://www.theguardian.com/film/2026/jan/13/28-years-later-the-bone-temple-review-ralph-fiennes-is-phenomenal-in-best-chapter-yet-of-zombie-horror",
+      "mean_score": 0.314,
+      "vader_score": 0.128,
+      "textblob_score": 0.5,
+      "first_sentence": "It\u2019s very rare for a fourquel to be the best film in a franchise, but that\u2019s how things stand with the chequered 28 Days Later series.",
+      "timestamp": "2026-01-13T21:00:06Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Easy ways to reduce your exposure to microplastics at home",
       "link": "https://www.abc.net.au/news/2026-01-14/ways-to-reduce-exposure-to-microplastics-at-home-/106128692",
@@ -10,6 +40,16 @@
       "first_sentence": "If you're feeling concerned about microplastics it can be hard to know what to do about it.",
       "timestamp": "2026-01-13T20:00:00Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "Michael Carrick confirmed by Manchester United as interim manager until end of season",
+      "link": "https://www.theguardian.com/football/2026/jan/13/michael-carrick-manchester-united-interim-head-coach-steve-holland-jonathan-woodgate",
+      "mean_score": 0.4108,
+      "vader_score": 0.4215,
+      "textblob_score": 0.4,
+      "first_sentence": "Michael Carrick has called on everyone at Manchester United to \u201cpull together\u201d in order to bring \u00adsuccess back to the club, after being appointed on Tuesday night as head coach until the end of the season.",
+      "timestamp": "2026-01-13T19:48:14Z",
+      "source": "The Guardian"
     },
     {
       "headline": "Newcastle United v Manchester City: Carabao Cup semi-final first leg \u2013 live",
@@ -2460,46 +2500,6 @@
       "first_sentence": "Madison Keys, 2025 Australian Open champion, won her opening match of the Brisbane International.",
       "timestamp": "2026-01-06T03:06:14Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "US will be exempt from global tax deal targeting profits of large multinationals",
-      "link": "https://www.theguardian.com/business/2026/jan/06/us-exemption-oecd-global-tax-deal-multinational-companies",
-      "mean_score": 0.3089,
-      "vader_score": 0.5106,
-      "textblob_score": 0.1071,
-      "first_sentence": "Nearly 150 countries have agreed on a landmark plan to stop large global companies shifting profits to low-tax jurisdictions, but the US will be exempt from the deal, angering tax transparency groups.",
-      "timestamp": "2026-01-06T03:00:54Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Selfies and smiles: South Korea seeks 'new phase' in ties with China",
-      "link": "https://www.bbc.com/news/articles/c70lw9x581no?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3065,
-      "vader_score": 0.4767,
-      "textblob_score": 0.1364,
-      "first_sentence": "South Korea's President Lee Jae Myung has called for a \"new phase\" in ties with China as he met its leader Xi Jinping in Beijing on Monday.",
-      "timestamp": "2026-01-06T02:44:22Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Nvidia announces new, more powerful Vera Rubin chip made for AI",
-      "link": "https://www.theguardian.com/technology/2026/jan/05/nvidia-chips-jensen-huang",
-      "mean_score": 0.3938,
-      "vader_score": 0.4754,
-      "textblob_score": 0.3121,
-      "first_sentence": "Nvidia CEO Jensen Huang said on Monday that the company\u2019s next generation of chips is in \u201cfull production\u201d saying they can deliver five times the artificial-intelligence computing of the company\u2019s previous chips when serving up chatbots and other AI apps.",
-      "timestamp": "2026-01-06T02:17:05Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Why complaining in a restaurant is better than venting online",
-      "link": "https://www.bbc.com/news/articles/cdxwgqpxwkzo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3866,
-      "vader_score": 0.2732,
-      "textblob_score": 0.5,
-      "first_sentence": "When we treat ourselves to a meal out and something's off  - the food is cold or the service is slow - it can be difficult to know how to handle it.",
-      "timestamp": "2026-01-06T02:04:28Z",
-      "source": "BBC News"
     }
   ]
 }
