@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Wash well \u2013 and don\u2019t forget the lid: how to clean your reusable water bottle",
+    "link": "https://www.theguardian.com/wellness/2026/jan/05/clean-your-reusable-water-bottle",
+    "mean_score": 0.4035,
+    "vader_score": 0.4404,
+    "textblob_score": 0.3667,
+    "first_sentence": "Environmentally friendly and convenient, reusable water bottles are on the rise.",
+    "timestamp": "2026-01-05T17:00:13Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "The one-hour work pattern: is \u2018microshifting\u2019 the secret to a happy, balanced life?",
+    "link": "https://www.theguardian.com/money/2026/jan/05/one-hour-work-pattern-microshifting-secret-happy-balanced-life",
+    "mean_score": 0.386,
+    "vader_score": 0.5719,
+    "textblob_score": 0.2,
+    "first_sentence": "That doesn\u2019t help.",
+    "timestamp": "2026-01-05T16:58:01Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Providers dropping common anesthesia drug that\u2019s also a climate super pollutant",
     "link": "https://arstechnica.com/science/2026/01/providers-dropping-common-anesthesia-drug-thats-also-a-climate-super-pollutant/",
     "mean_score": 0.308,
