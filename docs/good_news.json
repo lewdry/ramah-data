@@ -1,6 +1,36 @@
 {
-  "last run": "2026-01-12T23:04:07Z",
+  "last run": "2026-01-13T00:13:04Z",
   "stories": [
+    {
+      "headline": "I spent months investigating whether gut health affects ageing - and if I could hack my own gut to age better",
+      "link": "https://www.bbc.com/news/articles/c1m8m47jl5eo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3869,
+      "vader_score": 0.4404,
+      "textblob_score": 0.3333,
+      "first_sentence": "Guts have become a source of immense fascination.",
+      "timestamp": "2026-01-13T00:05:26Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Why are more bosses sharing the top job?",
+      "link": "https://www.bbc.com/news/articles/c62n5j96nqpo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5483,
+      "vader_score": 0.5965,
+      "textblob_score": 0.5,
+      "first_sentence": "For almost 16 years, Pippa Begg ran Board Intelligence as co-chief executive with Jennifer Sundberg.",
+      "timestamp": "2026-01-13T00:01:51Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Healy overcame the nepo baby tag with sheer brilliance and a wry smile",
+      "link": "https://www.abc.net.au/news/2026-01-13/alyssa-healy-overcomes-weight-of-name-to-become-cricket-great/106222886",
+      "mean_score": 0.4503,
+      "vader_score": 0.7506,
+      "textblob_score": 0.15,
+      "first_sentence": "It's hard enough for women to be taken seriously in the sporting landscape.",
+      "timestamp": "2026-01-12T23:03:27Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Liverpool power past brave Barnsley in the FA Cup to spare Szoboszlai\u2019s blushes",
       "link": "https://www.theguardian.com/football/2026/jan/12/liverpool-barnsley-fa-cup-match-report",
@@ -140,6 +170,16 @@
       "first_sentence": "CES 2026 took place in Las Vegas last week, and as usual, we\u2019re looking at the most interesting monitors from the show.",
       "timestamp": "2026-01-12T11:30:06Z",
       "source": "Ars Technica"
+    },
+    {
+      "headline": "Ardern withdraws from Writers' Week; Adelaide Festival board faces fresh questions",
+      "link": "https://www.sbs.com.au/news/article/adelaide-writers-week-uncertainty/0dnsi7brh",
+      "mean_score": 0.4852,
+      "vader_score": 0.6705,
+      "textblob_score": 0.3,
+      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+      "timestamp": "2026-01-12T08:47:25Z",
+      "source": "SBS News"
     },
     {
       "headline": "India and US 'actively engaged' in trade negotiations, says new ambassador",
@@ -2459,46 +2499,6 @@
       "textblob_score": 1.0,
       "first_sentence": "On a rainy afternoon last weekend, plans got cancelled and I found myself at a loose end.",
       "timestamp": "2026-01-05T11:00:33Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Prominent Labor figures join calls for antisemitism royal commission",
-      "link": "https://www.abc.net.au/news/2026-01-05/former-labor-politicians-plead-albanese-royal-commission-bondi/106201744",
-      "mean_score": 0.5212,
-      "vader_score": 0.5423,
-      "textblob_score": 0.5,
-      "first_sentence": "A group of former Labor MPs, senators and party officials have signed an open letter calling for a national royal commission into the Bondi terror attack.",
-      "timestamp": "2026-01-05T10:37:17Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Scotland to get public holiday to celebrate World Cup return",
-      "link": "https://www.bbc.com/news/articles/cn42x7yv852o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3753,
-      "vader_score": 0.7506,
-      "textblob_score": 0.0,
-      "first_sentence": "Scots are to get a public holiday to mark the men's national team playing in its first World Cup since 1998.",
-      "timestamp": "2026-01-05T10:20:17Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Why a power plant is strategically important in the talks between Russia and Ukraine",
-      "link": "https://www.npr.org/2026/01/05/nx-s1-5664884/why-a-power-plant-is-strategically-important-in-the-talks-between-russia-and-ukraine",
-      "mean_score": 0.3012,
-      "vader_score": 0.2023,
-      "textblob_score": 0.4,
-      "first_sentence": "NPR's A Martinez talks to Henry Sokolski of the Nonproliferation Policy Education Center about the Zaporizhzhia power plant and its importance in the peace talks between Russia and Ukraine.",
-      "timestamp": "2026-01-05T09:47:52Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Root hits masterful century for England before Head leads Australia fightback",
-      "link": "https://www.theguardian.com/sport/2026/jan/05/ashes-australia-england-fifth-test-day-two-cricket-report-joe-root-travis-head",
-      "mean_score": 0.5,
-      "vader_score": 0.0,
-      "textblob_score": 1.0,
-      "first_sentence": "The Richies were out in force for the final time on the second day at the Sydney Cricket Ground, an entire block decked out in either cream, bone, white, off-white, ivory, or beige.",
-      "timestamp": "2026-01-05T07:39:44Z",
       "source": "The Guardian"
     }
   ]
