@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-13T16:06:37Z",
+  "last run": "2026-01-13T17:07:45Z",
   "stories": [
+    {
+      "headline": "Is Dry January a good thing?",
+      "link": "https://www.bbc.com/news/videos/cx20vyr11ewo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3785,
+      "vader_score": 0.4404,
+      "textblob_score": 0.3167,
+      "first_sentence": "Dr May van Schalkwyk from the University of Edinburgh shares her thoughts with Drs Chris and Xand on What's Up Docs?.",
+      "timestamp": "2026-01-13T16:54:44Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Show some gratitude, people \u2013 Nadhim Zahawi has joined Reform for our benefit, apparently | Marina Hyde",
       "link": "https://www.theguardian.com/commentisfree/2026/jan/13/nadhim-zahawi-reform-uk-politicians",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Optimus SSDs will continue with the same model numbers that the WD SSDs used.",
       "timestamp": "2026-01-05T19:32:28Z",
       "source": "Ars Technica"
-    },
-    {
-      "headline": "'Money talks': Big win to stop Sydney marina expansion could be short-lived",
-      "link": "https://www.abc.net.au/news/2026-01-06/local-groups-stop-woolwich-marina-expansion-but-fear-isnt-over/106194942",
-      "mean_score": 0.3909,
-      "vader_score": 0.3818,
-      "textblob_score": 0.4,
-      "first_sentence": "Local groups in Sydney's north fear a legal win to stop the Woolwich Marina expansion could be short-lived.",
-      "timestamp": "2026-01-05T19:27:48Z",
-      "source": "ABC News"
     }
   ]
 }
