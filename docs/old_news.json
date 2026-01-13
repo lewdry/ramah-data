@@ -1,5 +1,15 @@
 [
   {
+    "headline": "How much do you know about the meat pie? Test yourself (or treat yourself)",
+    "link": "https://www.abc.net.au/news/2026-01-06/dr-karl-how-things-works-pie-quiz/106086912",
+    "mean_score": 0.3009,
+    "vader_score": 0.4019,
+    "textblob_score": 0.2,
+    "first_sentence": "When Dr Karl wants to understand something, he doesn't mess around.",
+    "timestamp": "2026-01-05T18:30:00Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Woman swept away with her daughter was a beautiful soul, says friend",
     "link": "https://www.bbc.com/news/articles/cy4g7xz31lpo?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.8232,
