@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-13T14:06:50Z",
+  "last run": "2026-01-13T15:06:04Z",
   "stories": [
+    {
+      "headline": "Show some gratitude, people \u2013 Nadhim Zahawi has joined Reform for our benefit, apparently | Marina Hyde",
+      "link": "https://www.theguardian.com/commentisfree/2026/jan/13/nadhim-zahawi-reform-uk-politicians",
+      "mean_score": 0.3965,
+      "vader_score": 0.743,
+      "textblob_score": 0.05,
+      "first_sentence": "The current crop of politicians are constantly telling us they don\u2019t have to be doing this.",
+      "timestamp": "2026-01-13T14:10:05Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Why AI datacentres are draining our energy and water \u2013 Full Story podcast",
+      "link": "https://www.theguardian.com/australia-news/audio/2026/jan/14/why-ai-datacentres-are-draining-our-energy-and-water-full-story-podcast",
+      "mean_score": 0.3116,
+      "vader_score": 0.2732,
+      "textblob_score": 0.35,
+      "first_sentence": "Australia wants in on the artificial intelligence boom but datacentres needed to run AI require huge amounts of electricity and water.",
+      "timestamp": "2026-01-13T14:00:06Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Sex giggles! Nail clippings on the sofa! The new TV romance so realistic it\u2019s close to perfect",
       "link": "https://www.theguardian.com/tv-and-radio/2026/jan/13/the-new-years-mubi-tv-romance",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Local groups in Sydney's north fear a legal win to stop the Woolwich Marina expansion could be short-lived.",
       "timestamp": "2026-01-05T19:27:48Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Is it worth getting a desk treadmill to boost your steps?",
-      "link": "https://www.abc.net.au/news/2026-01-06/is-a-desk-treadmill-worth-the-cost/106195036",
-      "mean_score": 0.4287,
-      "vader_score": 0.5574,
-      "textblob_score": 0.3,
-      "first_sentence": "Recent surveys estimate more than 6.7 million Australians \u2014 almost half of all workers, and the majority in Sydney, Melbourne and Canberra \u2014 work from home at least some of the time in paid or unpaid roles.",
-      "timestamp": "2026-01-05T19:18:30Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Claire's and The Original Factory Shop enter administration",
-      "link": "https://www.bbc.com/news/articles/c78v6v0j8v4o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3466,
-      "vader_score": 0.3182,
-      "textblob_score": 0.375,
-      "first_sentence": "High street retailers Claire's and The Original Factory Shop are being put in to administration, risking 2,500 jobs.",
-      "timestamp": "2026-01-05T19:02:52Z",
-      "source": "BBC News"
     }
   ]
 }
