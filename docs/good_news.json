@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-13T09:07:38Z",
+  "last run": "2026-01-13T10:04:34Z",
   "stories": [
+    {
+      "headline": "Israel poised to start construction of bypass through heart of West Bank",
+      "link": "https://www.theguardian.com/world/2026/jan/13/israel-start-construction-bypass-west-bank-illegal-settlement",
+      "mean_score": 0.3675,
+      "vader_score": 0.7351,
+      "textblob_score": 0.0,
+      "first_sentence": "Israel plans to start work next month on a bypass road that will close off the heart of the occupied West Bank to Palestinians and cement the de facto annexation of an area critical for the viability of a future Palestinian state.",
+      "timestamp": "2026-01-13T09:37:29Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Nick Kyrgios delights rowdy fans as tennis cultures clash at Kooyong Classic",
+      "link": "https://www.theguardian.com/sport/2026/jan/13/nick-kyrgios-kooyong-classic-tennis-fans",
+      "mean_score": 0.3127,
+      "vader_score": 0.4588,
+      "textblob_score": 0.1667,
+      "first_sentence": "The sign at the Kooyong Lawn Tennis Club reads \u201cdress code applies\u201d, but on Tuesday the rules were relaxed.",
+      "timestamp": "2026-01-13T09:26:58Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Watching James Bond play my great uncle Brendan in Giant was surreal and spooky | Sean Ingle",
       "link": "https://www.theguardian.com/sport/2026/jan/13/james-bond-great-uncle-brendan-ingle-giant-naseem-hamed-boxing",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.25,
       "first_sentence": "Football fans needn\u2019t worry about the hangover when they celebrate, or otherwise, into the wee hours after Scotland\u2019s first match in the 2026 World Cup \u2013 because the day after the 2am UK time fixture looks likely to be a national bank holiday there.",
       "timestamp": "2026-01-05T17:19:39Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "'I am innocent': Deposed Venezuelan leader Maduro, wife enter pleas in NYC",
-      "link": "https://www.abc.net.au/news/2026-01-06/venezuelan-leader-nicol%C3%A1s-maduro-appears-in-new-york-court/106201846",
-      "mean_score": 0.42,
-      "vader_score": 0.34,
-      "textblob_score": 0.5,
-      "first_sentence": "Ousted Venezuelan leader Nicol\u00e1s Maduro and his wife Cilia Flores have pleaded not guilty to multiple charges, including narco-terrorism, in their first court appearance since being captured by US forces.",
-      "timestamp": "2026-01-05T17:12:42Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Did you solve it? Are you as smart as Spock?",
-      "link": "https://www.theguardian.com/science/2026/jan/05/did-you-solve-it-are-you-as-smart-as-spock",
-      "mean_score": 0.4041,
-      "vader_score": 0.594,
-      "textblob_score": 0.2143,
-      "first_sentence": "Earlier today I set the following puzzle, a pre-commemoration of World Logic Day on January 14.",
-      "timestamp": "2026-01-05T17:00:13Z",
       "source": "The Guardian"
     }
   ]
