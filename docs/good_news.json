@@ -1,5 +1,5 @@
 {
-  "last run": "2026-01-14T09:07:50Z",
+  "last run": "2026-01-14T09:35:05Z",
   "stories": [
     {
       "headline": "Pole to Pole With Will Smith review \u2013 every single moment is gorgeous or thrilling",
@@ -80,16 +80,6 @@
       "first_sentence": "Rukmini Iyer\u2019s recipe contains a microwave method for cooking rice, but I\u2019ve successfully made basmati in a rice cooker countless times \u2013 just pop the whole garlic clove in with the rice grains.",
       "timestamp": "2026-01-13T23:51:24Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Inflation steadies but it's still higher than many would like",
-      "link": "https://www.npr.org/2026/01/13/nx-s1-5675986/inflation-steadies-but-its-still-higher-than-many-would-like",
-      "mean_score": 0.4386,
-      "vader_score": 0.5023,
-      "textblob_score": 0.375,
-      "first_sentence": "Inflation didn't get worse in December.",
-      "timestamp": "2026-01-13T21:08:52Z",
-      "source": "NPR News"
     },
     {
       "headline": "Jellyfish sleep and nap like us. Studying them could help human brains",
@@ -182,16 +172,6 @@
       "source": "BBC News"
     },
     {
-      "headline": "Show some gratitude, people \u2013 Nadhim Zahawi has joined Reform for our benefit, apparently | Marina Hyde",
-      "link": "https://www.theguardian.com/commentisfree/2026/jan/13/nadhim-zahawi-reform-uk-politicians",
-      "mean_score": 0.3965,
-      "vader_score": 0.743,
-      "textblob_score": 0.05,
-      "first_sentence": "The current crop of politicians are constantly telling us they don\u2019t have to be doing this.",
-      "timestamp": "2026-01-13T14:10:05Z",
-      "source": "The Guardian"
-    },
-    {
       "headline": "Why AI datacentres are draining our energy and water \u2013 Full Story podcast",
       "link": "https://www.theguardian.com/australia-news/audio/2026/jan/14/why-ai-datacentres-are-draining-our-energy-and-water-full-story-podcast",
       "mean_score": 0.3116,
@@ -229,16 +209,6 @@
       "textblob_score": 0.65,
       "first_sentence": "The Guardian\u2019s journalism is independent.",
       "timestamp": "2026-01-13T10:00:00Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Israel poised to start construction of bypass through heart of West Bank",
-      "link": "https://www.theguardian.com/world/2026/jan/13/israel-start-construction-bypass-west-bank-illegal-settlement",
-      "mean_score": 0.3675,
-      "vader_score": 0.7351,
-      "textblob_score": 0.0,
-      "first_sentence": "Israel plans to start work next month on a bypass road that will close off the heart of the occupied West Bank to Palestinians and cement the de facto annexation of an area critical for the viability of a future Palestinian state.",
-      "timestamp": "2026-01-13T09:37:29Z",
       "source": "The Guardian"
     },
     {
@@ -350,16 +320,6 @@
       "first_sentence": "Peter Malinauskas became emotional when journalists pressed him on a range of topics including Adelaide Writers' Week (AWW) and allegations of homophobia against Adelaide United.",
       "timestamp": "2026-01-13T01:48:32Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Australia news live: Penny Wong says Israeli president Isaac Herzog\u2019s visit a \u2018good thing\u2019 despite backlash from Labor party members",
-      "link": "https://www.theguardian.com/australia-news/live/2026/jan/13/anthony-albanese-labor-hate-speech-laws-politics-coalition-sussan-ley-adelaide-festival-writers-week-reactions-victoria-bushfires-queensland-floods-ntwnfb",
-      "mean_score": 0.41,
-      "vader_score": 0.4019,
-      "textblob_score": 0.4182,
-      "first_sentence": "The foreign minister, Penny Wong, says a visit to Australia by the Israeli president, Isaac Herzog, is an important sign of the strength of ties between the two countries in the wake of the Bondi Beach shootings.",
-      "timestamp": "2026-01-13T01:28:42Z",
-      "source": "The Guardian"
     },
     {
       "headline": "I spent months investigating whether gut health affects ageing - and if I could hack my own gut to age better",
@@ -502,16 +462,6 @@
       "source": "The Guardian"
     },
     {
-      "headline": "U-Haul truck speeds through Los Angeles march supporting Iranian people",
-      "link": "https://www.theguardian.com/us-news/2026/jan/12/u-haul-los-angeles-iran-protest",
-      "mean_score": 0.3452,
-      "vader_score": 0.4404,
-      "textblob_score": 0.25,
-      "first_sentence": "Los Angeles police responded Sunday after a person drove a U-Haul box truck down a street crowded with marchers demonstrating in support of the Iranian people, causing protesters to scramble out of the way and then run after the speeding vehicle to try to attack the driver.",
-      "timestamp": "2026-01-12T12:58:49Z",
-      "source": "The Guardian"
-    },
-    {
       "headline": "Super Stuttgart sweep Leverkusen aside with in-demand Leweling to the fore | Andy Brassell",
       "link": "https://www.theguardian.com/football/2026/jan/12/super-stuttgart-sweep-leverkusen-aside-with-in-demand-leweling-to-the-fore",
       "mean_score": 0.4664,
@@ -550,26 +500,6 @@
       "first_sentence": "India and the US are continuing to actively engage on trade deal negotiations, Sergio Gor, the new US ambassador to India, has said during a trip to Delhi.",
       "timestamp": "2026-01-12T08:39:20Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Venezuelans in the US are torn between joy and worry after ousting of Maduro",
-      "link": "https://apnews.com/article/venezuela-us-migrants-maduro-ouster-tps-deportation-2b00b6057435fafe1828a06bd1e7a14c",
-      "mean_score": 0.3871,
-      "vader_score": -0.0258,
-      "textblob_score": 0.8,
-      "first_sentence": "NEW YORK (AP) \u2014 In the days since the Trump administration ousted Venezuelan President Nicol\u00e1s Maduro in a late-night military raid, Alejandra Salima has spoken to fellow Venezuelan migrants in her role as an advocate.",
-      "timestamp": "2026-01-12T07:53:02Z",
-      "source": "AP News"
-    },
-    {
-      "headline": "George Floyd and Renee Good: 5 years between Minneapolis videos, and confusion has increased",
-      "link": "https://apnews.com/article/video-minneapolis-immigration-good-ice-george-floyd-9dc5b1f19af644f861963f0a041516f4",
-      "mean_score": 0.5607,
-      "vader_score": 0.4215,
-      "textblob_score": 0.7,
-      "first_sentence": "Five years ago, video images from a Minneapolis street showing a police officer kneeling on the neck of George Floyd as his life slipped away ignited a social movement.",
-      "timestamp": "2026-01-12T07:23:02Z",
-      "source": "AP News"
     },
     {
       "headline": "\u2018Timoth\u00e9e Chalamet gained over 60 ounces for Marty Supreme!\u2019: the best quotes from the 2026 Golden Globes",
@@ -840,16 +770,6 @@
       "first_sentence": "As Marta Kostyuk sat in the press conference room after her defeat to Aryna Sabalenka in the Brisbane International final, one reaction spoke volumes.",
       "timestamp": "2026-01-11T19:21:01Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Minneapolis mayor urges FBI to include state officials in Renee Good inquiry",
-      "link": "https://www.theguardian.com/us-news/2026/jan/11/minneapolis-jacob-frey-renee-nicole-good-fbi-inquiry",
-      "mean_score": 0.5702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.7,
-      "first_sentence": "Minneapolis mayor Jacob Frey called on Sunday for the federal government to allow his state to become involved in the investigation of an Immigration and Customs Enforcement officer\u2019s fatal shooting of Renee Nicole Good, saying that the Trump administration had been \u201cso quick to jump on a narrative as opposed to the truth\u201d.",
-      "timestamp": "2026-01-11T19:12:51Z",
-      "source": "The Guardian"
     },
     {
       "headline": "Population growth, fertility rates and migration. What could Australia look like in 2035?",
@@ -1172,16 +1092,6 @@
       "source": "The Guardian"
     },
     {
-      "headline": "Opinion: Remembering Renee Good",
-      "link": "https://www.npr.org/2026/01/10/nx-s1-5666227/opinion-remembering-renee-good",
-      "mean_score": 0.5702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.7,
-      "first_sentence": "Before Renee Good became the center of a tragic news story, she was a writer.",
-      "timestamp": "2026-01-10T13:00:00Z",
-      "source": "NPR News"
-    },
-    {
       "headline": "PHOTOS: Laundry is a chore but there's a beauty and serenity in the way it hangs out",
       "link": "https://www.npr.org/sections/goats-and-soda/2026/01/10/g-s1-105239/photos-laundry-is-a-chore-but-theres-a-beauty-and-serenity-in-the-way-it-hangs-out",
       "mean_score": 0.3675,
@@ -1410,16 +1320,6 @@
       "first_sentence": "Never-say-die Alex de Minaur lit up Ken Rosewall Arena to send Australia\u2019s United Cup quarter-final against Poland into a deciding mixed doubles rubber.",
       "timestamp": "2026-01-09T11:02:59Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Maduro is out, Congress is in and the quiz is back! Start 2026 with a perfect score",
-      "link": "https://www.npr.org/2026/01/09/g-s1-104965/greenland-quarters-wegovy-maduro-food-pyramid",
-      "mean_score": 0.5557,
-      "vader_score": 0.6114,
-      "textblob_score": 0.5,
-      "first_sentence": "This week started with the capture of a foreign leader and ended with \u2014 well, it's not over yet! Will Greenland be the 51st state by Monday? Who knows? Not the quiz.",
-      "timestamp": "2026-01-09T10:01:00Z",
-      "source": "NPR News"
     },
     {
       "headline": "The best exercise bikes for home workouts, spin and getting sweaty, tested",
@@ -1812,16 +1712,6 @@
       "source": "ABC News"
     },
     {
-      "headline": "'Let's be clear, it's too high': RBA deputy downplays easing inflation",
-      "link": "https://www.abc.net.au/news/2026-01-08/rba-deputy-andrew-hauser-inflation-interest-rates/106208716",
-      "mean_score": 0.3437,
-      "vader_score": 0.5574,
-      "textblob_score": 0.13,
-      "first_sentence": "In an exclusive interview, RBA deputy governor Andrew Hauser says it is \"still true\" that Australians have very likely seen the last rate cuts this cycle.",
-      "timestamp": "2026-01-08T01:35:43Z",
-      "source": "ABC News"
-    },
-    {
       "headline": "'Splash & grab' and 'UK ready to seize more of Putin's ships'",
       "link": "https://www.bbc.com/news/articles/czx3kz4q6yko?at_medium=RSS&at_campaign=rss",
       "mean_score": 0.3556,
@@ -1830,16 +1720,6 @@
       "first_sentence": "Sign up for our morning newsletter and get BBC News in your inbox.",
       "timestamp": "2026-01-08T00:56:38Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Why China's strong backing of Venezuela did not help Maduro",
-      "link": "https://www.abc.net.au/news/2026-01-08/china-close-ties-with-venezuela-inaction-since-maduro-capture/106205836",
-      "mean_score": 0.3581,
-      "vader_score": 0.2828,
-      "textblob_score": 0.4333,
-      "first_sentence": "China is the biggest buyer of Venezuelan oil, providing a vital source of export revenue to the Latin American economy amid US sanctions.",
-      "timestamp": "2026-01-08T00:26:36Z",
-      "source": "ABC News"
     },
     {
       "headline": "Peel boosts Aussie Winter Olympics hopes with World Cup victory",
@@ -1979,16 +1859,6 @@
       "textblob_score": 0.2,
       "first_sentence": "The ship has long been part of a shadow fleet used to dodge western sanctions.",
       "timestamp": "2026-01-07T16:56:37Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018It felt like she was asking me to save her\u2019: the film based on a five-year-old Palestinian girl\u2019s dying pleas",
-      "link": "https://www.theguardian.com/film/2026/jan/07/the-voice-of-hind-rajab-film-palestinian-girl",
-      "mean_score": 0.3454,
-      "vader_score": 0.6908,
-      "textblob_score": 0.0,
-      "first_sentence": "When Kaouther Ben Hania heard Hind Rajab\u2019s voice for the first time, she was in Los Angeles airport scrolling through social media.",
-      "timestamp": "2026-01-07T16:09:01Z",
       "source": "The Guardian"
     },
     {
@@ -2142,16 +2012,6 @@
       "source": "The Guardian"
     },
     {
-      "headline": "Why the latest inflation dip 'keeps alive' interest rate hike expectations",
-      "link": "https://www.sbs.com.au/news/article/latest-inflation-data-interest-rates/636ddo8pr",
-      "mean_score": 0.4904,
-      "vader_score": 0.6808,
-      "textblob_score": 0.3,
-      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-      "timestamp": "2026-01-07T04:24:22Z",
-      "source": "SBS News"
-    },
-    {
       "headline": "Kentucky, Vanderbilt into top 10 in women\u2019s AP Top 25 after 4 of top 10 teams fall; UConn, Texas 1-2",
       "link": "https://apnews.com/article/ap-top-25-shakeup-d2f425b1952665515f2b7922bbe0a957",
       "mean_score": 0.5133,
@@ -2160,16 +2020,6 @@
       "first_sentence": "Kentucky and Vanderbilt made major jumps in The Associated Press women\u2019s basketball Top 25 on Monday after four of the top 10 teams lost last week, causing a shakeup in the poll.",
       "timestamp": "2026-01-07T01:23:03Z",
       "source": "AP News"
-    },
-    {
-      "headline": "'Very pleasant surprise': inflation cools but remains above RBA target",
-      "link": "https://www.abc.net.au/news/2026-01-07/inflation-abs-monthly-cpi-for-november/106205848",
-      "mean_score": 0.4664,
-      "vader_score": 0.4562,
-      "textblob_score": 0.4767,
-      "first_sentence": "The consumer price index \u00a0rose 3.4 per cent over the year to November, down from 3.8 per cent a month earlier.",
-      "timestamp": "2026-01-07T00:40:46Z",
-      "source": "ABC News"
     },
     {
       "headline": "New year resolutions? How to free yourself from brain rot in 2026 | Jess Harwood",
@@ -2319,16 +2169,6 @@
       "textblob_score": 1.0,
       "first_sentence": "The Guardian\u2019s journalism is independent.",
       "timestamp": "2026-01-06T15:00:03Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "US reportedly ready to support European-led post-ceasefire defence force for Ukraine \u2013 Europe live",
-      "link": "https://www.theguardian.com/world/live/2026/jan/06/coalition-willing-paris-ukraine-zelenskyy-greenland-denmark-venezuela-trump-latest-news-updates",
-      "mean_score": 0.4245,
-      "vader_score": 0.6808,
-      "textblob_score": 0.1682,
-      "first_sentence": "We have some more of the draft statement \u2013 drawn up by Ukraine\u2019s western allies \u2013 now.",
-      "timestamp": "2026-01-06T14:40:46Z",
       "source": "The Guardian"
     },
     {
