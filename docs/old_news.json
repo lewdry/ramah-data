@@ -1,5 +1,15 @@
 [
   {
+    "headline": "\u2018It all flows\u2019: commuters celebrate as new Sydney Harbour Bridge bike ramp opens",
+    "link": "https://www.theguardian.com/australia-news/2026/jan/06/sydney-harbour-bridge-bike-ramp-opens",
+    "mean_score": 0.3541,
+    "vader_score": 0.5719,
+    "textblob_score": 0.1364,
+    "first_sentence": "The Sydney Harbour Bridge cycle path has a new, smooth ramp, replacing a notorious 55-step staircase and giving cyclists a continuous route from North Sydney into the CBD after decades of campaigns, scrapped designs and local opposition.",
+    "timestamp": "2026-01-06T03:56:02Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Defending Aus Open champion Keys off to a flier with Brisbane win",
     "link": "https://www.abc.net.au/news/2026-01-06/brisbane-international-madison-keys/106203350",
     "mean_score": 0.6136,
