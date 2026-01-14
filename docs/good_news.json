@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-14T14:06:26Z",
+  "last run": "2026-01-14T15:06:08Z",
   "stories": [
+    {
+      "headline": "Yodellers, bathing monkeys and a ballroom clean: photos of the day \u2013 Wednesday",
+      "link": "https://www.theguardian.com/news/gallery/2026/jan/14/yodellers-bathing-monkeys-ballroom-clean-photos-of-the-day-wednesday",
+      "mean_score": 0.3843,
+      "vader_score": 0.4019,
+      "textblob_score": 0.3667,
+      "first_sentence": "The Guardian\u2019s picture editors select photographs from around the world Continue reading.",
+      "timestamp": "2026-01-14T14:15:01Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Bafta names rising stars who are tipped for film success",
       "link": "https://www.bbc.com/news/articles/c701xwdne8ro?at_medium=RSS&at_campaign=rss",
@@ -2490,16 +2500,6 @@
       "first_sentence": "As we say goodbye to 2025, let\u2019s delight in its numerical charms one final time.",
       "timestamp": "2025-12-22T07:10:20Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Why Croatia's capital wants to hold Europe's best Christmas market",
-      "link": "https://www.bbc.com/news/articles/c8dy5m56477o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.6184,
-      "vader_score": 0.6369,
-      "textblob_score": 0.6,
-      "first_sentence": "Christmas markets are not just tradition across Europe, they are big businesses that give cities a huge economic boost every December.",
-      "timestamp": "2025-12-22T01:05:38Z",
-      "source": "BBC News"
     }
   ]
 }
