@@ -73,122 +73,65 @@ SOURCE_MAP = {
 }
 
 SENTIMENT_THRESHOLD = 0.3
+
 BLOCK_LIST = [
-    # Violence / death
-    "kill",
-    "killed",
-    "killing",
-    "murder",
-    "murdered",
-    "homicide",
-    "manslaughter",
-    "fatal",
-    "death",
-    "dead",
-    "assassinated",
-    "lynched",
-    "beheaded",
-    "strangled",
-    "shot dead",
-    "shooting",
-    "stabbed",
-    "stab",
+    # --- VIOLENCE / DEATH ---
+    "kill", "killed", "killing", "murder", "murdered", "homicide", 
+    "manslaughter", "fatal", "death", "dead", "assassinated", 
+    "lynched", "beheaded", "strangled", "shot dead", "shooting", 
+    "stabbed", "stab", "fatality", "execution", "slaughter",
+    "body found", "remains", "clinically dead", "resuscitated",
 
-    # Victims / survivors / bereavement
-    "victim",
-    "victims",
-    "survivor",
-    "survivors",
-    "bereaved",
-    "widow",
-    "orphan",
-    "family of",
+    # --- GEOPOLITICAL / CONFLICT ---
+    "Israel", "West Bank", "Gaza", "Palestine", "Palestinian",
+    "settlement", "annexation", "bypass road", "ceasefire", "truce", 
+    "humanitarian aid", "conflict", "Maduro", "ousted",
 
-    # Sexual violence / abuse
-    "rape",
-    "raped",
-    "rapist",
-    "sexual assault",
-    "sexual abuse",
-    "child abuse",
-    "child sexual abuse",
-    "molestation",
-    "grooming",
-    "trafficking",
+    # --- VICTIMS / SURVIVORS / BEREAVEMENT ---
+    "victim", "victims", "survivor", "survivors", "bereaved", 
+    "widow", "orphan", "family of", "mourning", "grief",
+    "tribute", "memorial",
 
-    # Assault / injury / torture
-    "assault",
-    "attacked",
-    "attack",
-    "beating",
-    "beaten",
-    "torture",
-    "injured",
-    "wounded",
-    "hospitalised",
-    "violence",
+    # --- SEXUAL VIOLENCE / ABUSE ---
+    "rape", "raped", "rapist", "sexual assault", "sexual abuse", 
+    "child abuse", "child sexual abuse", "molestation", "grooming", 
+    "trafficking", "non-consensual",
 
-    # Legal / court / prison
-    "court",
-    "trial",
-    "sentenced",
-    "sentencing",
-    "convicted",
-    "conviction",
-    "verdict",
-    "prison",
-    "jail",
-    "custody",
-    "parole",
-    "appeal",
-    "appeals",
+    # --- ASSAULT / INJURY / TORTURE ---
+    "assault", "attacked", "attack", "beating", "beaten", "torture", 
+    "injured", "wounded", "hospitalised", "violence", "brutality",
+    "u-haul", "ramming", "speeding vehicle",
 
-    # Disasters / accidents
-    "disaster",
-    "tragedy",
-    "catastrophe",
-    "earthquake",
-    "flood",
-    "bushfire",
-    "wildfire",
-    "explosion",
-    "collapse",
-    "crash",
-    "derailment",
+    # --- LEGAL / COURT / PRISON ---
+    "court", "trial", "sentenced", "sentencing", "convicted", 
+    "conviction", "verdict", "prison", "jail", "custody", "parole", 
+    "appeal", "appeals", "litigation", "lawsuit", "refused relief",
+    "denied pay", "justice served",
 
-    # War / terrorism / bombs
-    "war",
-    "armed conflict",
-    "bomb",
-    "bombing",
-    "airstrike",
-    "missile",
-    "terror",
-    "terrorist",
-    "terrorism",
-    "hostage",
-    "siege",
+    # --- DISASTERS / ACCIDENTS ---
+    "disaster", "tragedy", "catastrophe", "earthquake", "flood", 
+    "bushfire", "wildfire", "explosion", "collapse", "crash", 
+    "derailment", "tsunami", "hurricane", "blaze", "collision",
 
-    # Self-harm / addiction / medical emergencies
-    "suicide",
-    "self-harm",
-    "overdose",
-    "addiction",
+    # --- WAR / TERRORISM / BOMBS ---
+    "war", "armed conflict", "bomb", "bombing", "airstrike", 
+    "missile", "terror", "terrorist", "terrorism", "hostage", 
+    "siege", "insurgency", "militant",
 
-    # Existing miscellaneous blocks
-    "rampage",
-    "trump",
-    "ICE",
-    "banning",
-    "cricket",
-    "ashes",
-    "soccer",
-    "sign up",
-    "saudi",
-    "shamima begum",
-    "grok",
-    "Elon Musk",
+    # --- MEDICAL / SELF-HARM / ADDICTION ---
+    "suicide", "self-harm", "overdose", "addiction", "rehab", 
+    "fentanyl", "epidemic", "palliative", "terminal", "hospice",
+    "assisted dying", "euthanasia", "cancer", "diagnosed",
+
+    # --- SPECIFIC CASES & FIGURES ---
+    "George Floyd", "Renee Good", "Isabel Celis", "missing girl", 
+    "missing boy", "trump", "Elon Musk", "JD Vance", "Nadhim Zahawi",
+
+    # --- MISCELLANEOUS BLOCKS ---
+    "rampage", "ICE", "banning", "cricket", "ashes", "soccer", 
+    "sign up", "saudi", "shamima begum", "grok", "inflation"
 ]
+
 # Substrings of feed URLs or article links to block entirely (skip fetching)
 URL_BLOCKLIST = [
     'bbc.com/sport',
