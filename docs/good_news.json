@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-14T09:35:05Z",
+  "last run": "2026-01-14T10:05:27Z",
   "stories": [
+    {
+      "headline": "Sali Hughes on beauty: if you don\u2019t like strong scents, layering could be the answer",
+      "link": "https://www.theguardian.com/fashion/2026/jan/14/sali-hughes-on-beauty-if-you-dont-like-strong-scents-layering-could-be-the-answer",
+      "mean_score": 0.6479,
+      "vader_score": 0.8625,
+      "textblob_score": 0.4333,
+      "first_sentence": "The Guardian\u2019s journalism is independent.",
+      "timestamp": "2026-01-14T10:00:22Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Pole to Pole With Will Smith review \u2013 every single moment is gorgeous or thrilling",
       "link": "https://www.theguardian.com/tv-and-radio/2026/jan/14/pole-to-pole-with-will-smith-review-disney",
@@ -2340,6 +2350,156 @@
       "first_sentence": "Whether we knew it or not, and deep down we probably did, this Ashes series was absolutely crying out for a Smudge Day.",
       "timestamp": "2026-01-06T07:16:49Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "Did you solve it? Are you as smart as Spock?",
+      "link": "https://www.theguardian.com/science/2026/jan/05/did-you-solve-it-are-you-as-smart-as-spock",
+      "mean_score": 0.4041,
+      "vader_score": 0.594,
+      "textblob_score": 0.2143,
+      "first_sentence": "Earlier today I set the following puzzle, a pre-commemoration of World Logic Day on January 14.",
+      "timestamp": "2026-01-05T17:00:13Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Wash well \u2013 and don\u2019t forget the lid: how to clean your reusable water bottle",
+      "link": "https://www.theguardian.com/wellness/2026/jan/05/clean-your-reusable-water-bottle",
+      "mean_score": 0.4035,
+      "vader_score": 0.4404,
+      "textblob_score": 0.3667,
+      "first_sentence": "Environmentally friendly and convenient, reusable water bottles are on the rise.",
+      "timestamp": "2026-01-05T17:00:13Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Providers dropping common anesthesia drug that\u2019s also a climate super pollutant",
+      "link": "https://arstechnica.com/science/2026/01/providers-dropping-common-anesthesia-drug-thats-also-a-climate-super-pollutant/",
+      "mean_score": 0.308,
+      "vader_score": 0.5994,
+      "textblob_score": 0.0167,
+      "first_sentence": "The European Union now prohibits desflurane\u2019s use during most procedures.",
+      "timestamp": "2026-01-05T16:48:07Z",
+      "source": "Ars Technica"
+    },
+    {
+      "headline": "Can you solve it? Are you as smart as Spock?",
+      "link": "https://www.theguardian.com/science/2026/jan/05/can-you-solve-it-are-you-as-smart-as-spock",
+      "mean_score": 0.4041,
+      "vader_score": 0.594,
+      "textblob_score": 0.2143,
+      "first_sentence": "Which it does: World Logic Day is a Unesco-approved date in the academic calendar for the promotion of the study of deductive reasoning.",
+      "timestamp": "2026-01-05T07:10:28Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Final reminder: Donate to win swag in our annual Charity Drive sweepstakes",
+      "link": "https://arstechnica.com/gaming/2026/01/final-reminder-donate-to-win-swag-in-our-annual-charity-drive-sweepstakes-4/",
+      "mean_score": 0.5825,
+      "vader_score": 0.765,
+      "textblob_score": 0.4,
+      "first_sentence": "Today is your last chance to add to this year\u2019s charity haul of nearly $38,000.",
+      "timestamp": "2026-01-02T17:10:12Z",
+      "source": "Ars Technica"
+    },
+    {
+      "headline": "Record year for wind and solar electricity in Great Britain in 2025",
+      "link": "https://www.bbc.com/news/articles/cz947djd3d3o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.7125,
+      "vader_score": 0.6249,
+      "textblob_score": 0.8,
+      "first_sentence": "Renewable energy - considered crucial to limiting climate change - produced a record amount of electricity in Great Britain in 2025, BBC analysis shows.",
+      "timestamp": "2026-01-02T11:48:51Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "In the \u201990s, Wing Commander: Privateer made me realize what kind of games I love",
+      "link": "https://arstechnica.com/gaming/2025/12/in-the-90s-wing-commander-privateer-made-me-realize-what-kind-of-games-i-love/",
+      "mean_score": 0.5935,
+      "vader_score": 0.6369,
+      "textblob_score": 0.55,
+      "first_sentence": "Most things Privateer did have been done better, but it\u2019s still a classic.",
+      "timestamp": "2025-12-26T13:35:38Z",
+      "source": "Ars Technica"
+    },
+    {
+      "headline": "Ars Technica\u2019s Top 20 video games of 2025",
+      "link": "https://arstechnica.com/gaming/2025/12/ars-technicas-top-20-video-games-of-2025/",
+      "mean_score": 0.3512,
+      "vader_score": 0.2023,
+      "textblob_score": 0.5,
+      "first_sentence": "A mix of expected sequels and out-of-nowhere indie gems made 2025 a joy.",
+      "timestamp": "2025-12-26T12:00:09Z",
+      "source": "Ars Technica"
+    },
+    {
+      "headline": "The showers and baths keeping data centre tech cool",
+      "link": "https://www.bbc.com/news/articles/cp8zd176516o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3341,
+      "vader_score": 0.3182,
+      "textblob_score": 0.35,
+      "first_sentence": "They work 24/7 at high speeds and get searingly hot - but data centre computer chips get plenty of pampering.",
+      "timestamp": "2025-12-23T00:04:45Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Did you solve it? Are you ready for twenty twenty-six\u2026seven?",
+      "link": "https://www.theguardian.com/science/2025/dec/22/did-you-solve-it-are-you-ready-for-twenty-twenty-sixseven",
+      "mean_score": 0.3831,
+      "vader_score": 0.5661,
+      "textblob_score": 0.2,
+      "first_sentence": "Earlier today I set you the following set of numerical challenges to celebrate the arrival of 2026.",
+      "timestamp": "2025-12-22T17:00:32Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Can you solve it? Are you ready for twenty twenty-six\u2026seven?",
+      "link": "https://www.theguardian.com/science/2025/dec/22/can-you-solve-it-are-you-ready-for-twenty-twenty-sixseven",
+      "mean_score": 0.3831,
+      "vader_score": 0.5661,
+      "textblob_score": 0.2,
+      "first_sentence": "As we say goodbye to 2025, let\u2019s delight in its numerical charms one final time.",
+      "timestamp": "2025-12-22T07:10:20Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Why Croatia's capital wants to hold Europe's best Christmas market",
+      "link": "https://www.bbc.com/news/articles/c8dy5m56477o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.6184,
+      "vader_score": 0.6369,
+      "textblob_score": 0.6,
+      "first_sentence": "Christmas markets are not just tradition across Europe, they are big businesses that give cities a huge economic boost every December.",
+      "timestamp": "2025-12-22T01:05:38Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Reminder: Donate to win swag in our annual Charity Drive sweepstakes",
+      "link": "https://arstechnica.com/gaming/2025/12/reminder-donate-to-win-swag-in-our-annual-charity-drive-sweepstakes-18/",
+      "mean_score": 0.7825,
+      "vader_score": 0.765,
+      "textblob_score": 0.8,
+      "first_sentence": "Help increase our charity haul of nearly $18,000 in just over a week.",
+      "timestamp": "2025-12-18T21:35:58Z",
+      "source": "Ars Technica"
+    },
+    {
+      "headline": "\u2018Soil is more important than oil\u2019: inside the perennial grain revolution",
+      "link": "https://www.theguardian.com/environment/2025/dec/12/soil-is-more-important-than-oil-inside-the-perennial-grain-revolution",
+      "mean_score": 0.3608,
+      "vader_score": 0.2716,
+      "textblob_score": 0.45,
+      "first_sentence": "On the concrete floor of a greenhouse in rural Kansas stands a neat grid of 100 plastic plant pots, each holding a straggly crown of strappy, grass-like leaves.",
+      "timestamp": "2025-12-12T12:00:05Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "'It's amazing' \u2013 the wonder material very few can make",
+      "link": "https://www.bbc.com/news/articles/c24l223d9n7o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.378,
+      "vader_score": 0.5859,
+      "textblob_score": 0.17,
+      "first_sentence": "Lying on your back in a big hospital scanner, as still as you can, with your arms above your head \u2013 for 45 minutes.",
+      "timestamp": "2025-12-12T00:03:10Z",
+      "source": "BBC News"
     }
   ]
 }
