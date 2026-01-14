@@ -5,7 +5,7 @@
     <link>https://lewdry.github.io/ramah/</link>
     <description>Positive news stories from around the world, filtered by sentiment analysis</description>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Jan 2026 17:08:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 18:06:07 GMT</lastBuildDate>
     <atom:link href="https://lewdry.github.io/ramah/good_news.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Julian Barnes on his last novel: 'I hope it's a good one to go out on'</title>
@@ -22,6 +22,14 @@
       <source>The Guardian</source>
       <pubDate>Wed, 14 Jan 2026 16:42:33 GMT</pubDate>
       <guid isPermaLink="true">https://www.theguardian.com/tv-and-radio/2026/jan/14/euphoria-first-trailer</guid>
+    </item>
+    <item>
+      <title>Gemini can now scan your photos, email, and more to provide better answers</title>
+      <link>https://arstechnica.com/google/2026/01/gemini-can-now-scan-your-photos-email-and-more-to-provide-better-answers/</link>
+      <description>The feature will start with paid users only, and it’s off by default.</description>
+      <source>Ars Technica</source>
+      <pubDate>Wed, 14 Jan 2026 16:42:32 GMT</pubDate>
+      <guid isPermaLink="true">https://arstechnica.com/google/2026/01/gemini-can-now-scan-your-photos-email-and-more-to-provide-better-answers/</guid>
     </item>
     <item>
       <title>Amateur stuns pros to win One Point Slam and A$1m in boost for Australian Open</title>
@@ -1998,14 +2006,6 @@
       <source>Ars Technica</source>
       <pubDate>Fri, 26 Dec 2025 13:35:38 GMT</pubDate>
       <guid isPermaLink="true">https://arstechnica.com/gaming/2025/12/in-the-90s-wing-commander-privateer-made-me-realize-what-kind-of-games-i-love/</guid>
-    </item>
-    <item>
-      <title>Ars Technica’s Top 20 video games of 2025</title>
-      <link>https://arstechnica.com/gaming/2025/12/ars-technicas-top-20-video-games-of-2025/</link>
-      <description>A mix of expected sequels and out-of-nowhere indie gems made 2025 a joy.</description>
-      <source>Ars Technica</source>
-      <pubDate>Fri, 26 Dec 2025 12:00:09 GMT</pubDate>
-      <guid isPermaLink="true">https://arstechnica.com/gaming/2025/12/ars-technicas-top-20-video-games-of-2025/</guid>
     </item>
   </channel>
 </rss>
