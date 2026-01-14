@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-13T23:04:27Z",
+  "last run": "2026-01-14T00:16:07Z",
   "stories": [
+    {
+      "headline": "Eleven quick and easy summer weekday dinners, from pasta to Maggi goreng \u2013 recipes",
+      "link": "https://www.theguardian.com/food/2026/jan/14/quick-easy-summer-recipes-weekday-dinners-pasta-tofu-noodles-chickpeas",
+      "mean_score": 0.4119,
+      "vader_score": 0.4404,
+      "textblob_score": 0.3833,
+      "first_sentence": "Rukmini Iyer\u2019s recipe contains a microwave method for cooking rice, but I\u2019ve successfully made basmati in a rice cooker countless times \u2013 just pop the whole garlic clove in with the rice grains.",
+      "timestamp": "2026-01-13T23:51:24Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Inflation steadies but it's still higher than many would like",
       "link": "https://www.npr.org/2026/01/13/nx-s1-5675986/inflation-steadies-but-its-still-higher-than-many-would-like",
@@ -2490,16 +2500,6 @@
       "first_sentence": "The Sydney Harbour Bridge cycle path has a new, smooth ramp, replacing a notorious 55-step staircase and giving cyclists a continuous route from North Sydney into the CBD after decades of campaigns, scrapped designs and local opposition.",
       "timestamp": "2026-01-06T03:56:02Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Defending Aus Open champion Keys off to a flier with Brisbane win",
-      "link": "https://www.abc.net.au/news/2026-01-06/brisbane-international-madison-keys/106203350",
-      "mean_score": 0.6136,
-      "vader_score": 0.8271,
-      "textblob_score": 0.4,
-      "first_sentence": "Madison Keys, 2025 Australian Open champion, won her opening match of the Brisbane International.",
-      "timestamp": "2026-01-06T03:06:14Z",
-      "source": "ABC News"
     }
   ]
 }
