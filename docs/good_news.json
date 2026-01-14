@@ -1,6 +1,36 @@
 {
-  "last run": "2026-01-14T16:06:32Z",
+  "last run": "2026-01-14T17:08:20Z",
   "stories": [
+    {
+      "headline": "Julian Barnes on his last novel: 'I hope it's a good one to go out on'",
+      "link": "https://www.bbc.com/news/articles/c99kn9xyekeo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5732,
+      "vader_score": 0.7964,
+      "textblob_score": 0.35,
+      "first_sentence": "Julian Barnes is sitting at an ancient electric typewriter in his study in north London.",
+      "timestamp": "2026-01-14T17:00:31Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Sex, drugs and sugar babies: first trailer for Euphoria season three drops",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/jan/14/euphoria-first-trailer",
+      "mean_score": 0.4493,
+      "vader_score": 0.6486,
+      "textblob_score": 0.25,
+      "first_sentence": "The first trailer for the third season of Euphoria promises more sex, drugs and violence, teasing a troubled life after high school for the show\u2019s characters.",
+      "timestamp": "2026-01-14T16:42:33Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Amateur stuns pros to win One Point Slam and A$1m in boost for Australian Open",
+      "link": "https://www.theguardian.com/sport/2026/jan/14/one-point-slam-ends-with-amateur-player-upstaging-world-best",
+      "mean_score": 0.375,
+      "vader_score": 0.6124,
+      "textblob_score": 0.1375,
+      "first_sentence": "A 29-year-old tennis coach from Sydney won the inaugural One Point Slam at the Australian Open and its A$1m prize on Wednesday, after upstaging a field which included Jannik Sinner, Carlos Alcaraz, Iga Swiatek and Coco Gauff.",
+      "timestamp": "2026-01-14T15:44:44Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Yodellers, bathing monkeys and a ballroom clean: photos of the day \u2013 Wednesday",
       "link": "https://www.theguardian.com/news/gallery/2026/jan/14/yodellers-bathing-monkeys-ballroom-clean-photos-of-the-day-wednesday",
@@ -2470,36 +2500,6 @@
       "first_sentence": "A mix of expected sequels and out-of-nowhere indie gems made 2025 a joy.",
       "timestamp": "2025-12-26T12:00:09Z",
       "source": "Ars Technica"
-    },
-    {
-      "headline": "The showers and baths keeping data centre tech cool",
-      "link": "https://www.bbc.com/news/articles/cp8zd176516o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3341,
-      "vader_score": 0.3182,
-      "textblob_score": 0.35,
-      "first_sentence": "They work 24/7 at high speeds and get searingly hot - but data centre computer chips get plenty of pampering.",
-      "timestamp": "2025-12-23T00:04:45Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Did you solve it? Are you ready for twenty twenty-six\u2026seven?",
-      "link": "https://www.theguardian.com/science/2025/dec/22/did-you-solve-it-are-you-ready-for-twenty-twenty-sixseven",
-      "mean_score": 0.3831,
-      "vader_score": 0.5661,
-      "textblob_score": 0.2,
-      "first_sentence": "Earlier today I set you the following set of numerical challenges to celebrate the arrival of 2026.",
-      "timestamp": "2025-12-22T17:00:32Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Can you solve it? Are you ready for twenty twenty-six\u2026seven?",
-      "link": "https://www.theguardian.com/science/2025/dec/22/can-you-solve-it-are-you-ready-for-twenty-twenty-sixseven",
-      "mean_score": 0.3831,
-      "vader_score": 0.5661,
-      "textblob_score": 0.2,
-      "first_sentence": "As we say goodbye to 2025, let\u2019s delight in its numerical charms one final time.",
-      "timestamp": "2025-12-22T07:10:20Z",
-      "source": "The Guardian"
     }
   ]
 }
