@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-14T12:06:40Z",
+  "last run": "2026-01-14T13:16:55Z",
   "stories": [
+    {
+      "headline": "Bafta names rising stars who are tipped for film success",
+      "link": "https://www.bbc.com/news/articles/c701xwdne8ro?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4359,
+      "vader_score": 0.5719,
+      "textblob_score": 0.3,
+      "first_sentence": "The nominees for Bafta's Rising Star award have been announced, shining a spotlight on some of the film industry's most exciting up-and-coming acting talent.",
+      "timestamp": "2026-01-14T12:16:06Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Welsh wind farms win funding with up to 7,000 jobs expected",
       "link": "https://www.bbc.com/news/articles/clyw8n22gwno?at_medium=RSS&at_campaign=rss",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Christmas markets are not just tradition across Europe, they are big businesses that give cities a huge economic boost every December.",
       "timestamp": "2025-12-22T01:05:38Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Reminder: Donate to win swag in our annual Charity Drive sweepstakes",
-      "link": "https://arstechnica.com/gaming/2025/12/reminder-donate-to-win-swag-in-our-annual-charity-drive-sweepstakes-18/",
-      "mean_score": 0.7825,
-      "vader_score": 0.765,
-      "textblob_score": 0.8,
-      "first_sentence": "Help increase our charity haul of nearly $18,000 in just over a week.",
-      "timestamp": "2025-12-18T21:35:58Z",
-      "source": "Ars Technica"
     }
   ]
 }
