@@ -1,5 +1,5 @@
 {
-  "last run": "2026-01-14T06:06:29Z",
+  "last run": "2026-01-14T07:06:58Z",
   "stories": [
     {
       "headline": "Wildcard Preston makes maiden quarters with upset win",
@@ -29,6 +29,16 @@
       "textblob_score": 0.4,
       "first_sentence": "The US government has given chip giant Nvidia the green light to sell its advanced artificial intelligence (AI) processors in China, the Department of Commerce said on Tuesday.",
       "timestamp": "2026-01-14T00:48:55Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "'Welcome to 2976' - North Africa's Amazigh people ring in the new year",
+      "link": "https://www.bbc.com/news/articles/cj0nm44g361o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4635,
+      "vader_score": 0.4588,
+      "textblob_score": 0.4682,
+      "first_sentence": "Across North Africa, the Amazigh people have been coming together to usher in the year 2976.",
+      "timestamp": "2026-01-14T00:37:02Z",
       "source": "BBC News"
     },
     {
@@ -2490,16 +2500,6 @@
       "first_sentence": "Central African Republic (CAR) President Faustin-Archange Touad\u00e9ra has won a third term after securing an outright majority in last month's presidential election, provisional results show.",
       "timestamp": "2026-01-06T06:30:15Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "\u2018I love money!\u2019: Katherine Ryan on success, feminism, bad reviews and ballsiness",
-      "link": "https://www.theguardian.com/stage/2026/jan/06/i-love-money-katherine-ryan-on-success-feminism-bad-reviews-ballsiness",
-      "mean_score": 0.3825,
-      "vader_score": 0.69,
-      "textblob_score": 0.075,
-      "first_sentence": "\u2018Especially in this country, I think you needed me.",
-      "timestamp": "2026-01-06T05:00:29Z",
-      "source": "The Guardian"
     }
   ]
 }
