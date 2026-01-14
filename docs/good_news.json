@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-14T10:05:27Z",
+  "last run": "2026-01-14T11:05:08Z",
   "stories": [
+    {
+      "headline": "Welsh wind farms win funding with up to 7,000 jobs expected",
+      "link": "https://www.bbc.com/news/articles/clyw8n22gwno?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4679,
+      "vader_score": 0.5859,
+      "textblob_score": 0.35,
+      "first_sentence": "Two wind farms off the west and north Wales coastline have secured UK government funding to supply the national grid, with up to 7,000 jobs expected to be created.",
+      "timestamp": "2026-01-14T10:51:06Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Sali Hughes on beauty: if you don\u2019t like strong scents, layering could be the answer",
       "link": "https://www.theguardian.com/fashion/2026/jan/14/sali-hughes-on-beauty-if-you-dont-like-strong-scents-layering-could-be-the-answer",
@@ -9,6 +19,16 @@
       "textblob_score": 0.4333,
       "first_sentence": "The Guardian\u2019s journalism is independent.",
       "timestamp": "2026-01-14T10:00:22Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "The best air fryers in the UK, tried and tested for crisp and crunch",
+      "link": "https://www.theguardian.com/thefilter/2025/mar/02/best-air-fryers",
+      "mean_score": 0.631,
+      "vader_score": 0.6369,
+      "textblob_score": 0.625,
+      "first_sentence": "The Guardian\u2019s journalism is independent.",
+      "timestamp": "2026-01-14T10:00:11Z",
       "source": "The Guardian"
     },
     {
@@ -2480,26 +2500,6 @@
       "first_sentence": "Help increase our charity haul of nearly $18,000 in just over a week.",
       "timestamp": "2025-12-18T21:35:58Z",
       "source": "Ars Technica"
-    },
-    {
-      "headline": "\u2018Soil is more important than oil\u2019: inside the perennial grain revolution",
-      "link": "https://www.theguardian.com/environment/2025/dec/12/soil-is-more-important-than-oil-inside-the-perennial-grain-revolution",
-      "mean_score": 0.3608,
-      "vader_score": 0.2716,
-      "textblob_score": 0.45,
-      "first_sentence": "On the concrete floor of a greenhouse in rural Kansas stands a neat grid of 100 plastic plant pots, each holding a straggly crown of strappy, grass-like leaves.",
-      "timestamp": "2025-12-12T12:00:05Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "'It's amazing' \u2013 the wonder material very few can make",
-      "link": "https://www.bbc.com/news/articles/c24l223d9n7o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.378,
-      "vader_score": 0.5859,
-      "textblob_score": 0.17,
-      "first_sentence": "Lying on your back in a big hospital scanner, as still as you can, with your arms above your head \u2013 for 45 minutes.",
-      "timestamp": "2025-12-12T00:03:10Z",
-      "source": "BBC News"
     }
   ]
 }
