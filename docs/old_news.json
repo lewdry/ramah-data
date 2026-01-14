@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Australian Open prize money increased to record high thanks to Tennis Australia boost",
+    "link": "https://www.theguardian.com/sport/2026/jan/06/australian-open-prizemoney-after-tennis-australia-boost",
+    "mean_score": 0.4825,
+    "vader_score": 0.875,
+    "textblob_score": 0.09,
+    "first_sentence": "Tennis Australia has channelled a share of its spectacular rise in revenue back to players by announcing a $111.5m prize pool for this year\u2019s Australian Open, up 16% on last year.",
+    "timestamp": "2026-01-06T04:43:56Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Machado welcomes \u2018huge step for humanity\u2019 \u2013 as it happened",
+    "link": "https://www.theguardian.com/world/live/2026/jan/05/venezuela-live-updates-trump-us-interim-president-collaborate",
+    "mean_score": 0.401,
+    "vader_score": 0.4019,
+    "textblob_score": 0.4,
+    "first_sentence": "Mar\u00eda Corina Machado, the exiled Venezuelan opposition leader, used an appearance on Sean Hannity\u2019s Fox News show on Monday to assure Donald Trump that she would like to share the Nobel peace prize she won last year with him.",
+    "timestamp": "2026-01-06T04:36:56Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "\u2018It all flows\u2019: commuters celebrate as new Sydney Harbour Bridge bike ramp opens",
     "link": "https://www.theguardian.com/australia-news/2026/jan/06/sydney-harbour-bridge-bike-ramp-opens",
     "mean_score": 0.3541,

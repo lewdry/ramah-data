@@ -15923,3 +15923,71 @@
 2026-01-14 05:07:09,532 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
 2026-01-14 05:07:09,612 - INFO - Saved 250 stories to docs/good_news.json.
 2026-01-14 05:07:09,616 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 954 processed, 33 accepted | Cache: 31 hits, 2 misses | Duration: 9.35s
+2026-01-14 06:06:22,402 - INFO - Starting Ramah News Fetcher
+2026-01-14 06:06:22,414 - INFO - Checking feed: http://feeds.bbci.co.uk/news/rss.xml
+2026-01-14 06:06:22,891 - INFO - Checking feed: http://feeds.bbci.co.uk/news/world/rss.xml
+2026-01-14 06:06:22,986 - INFO - Checking feed: http://feeds.bbci.co.uk/news/uk/rss.xml
+2026-01-14 06:06:23,162 - INFO - Checking feed: http://feeds.bbci.co.uk/news/business/rss.xml
+2026-01-14 06:06:23,388 - INFO - Found good news: The showers and baths keeping data centre tech cool (Mean Score: 0.3341, VADER: 0.3182, TextBlob: 0.3500)
+2026-01-14 06:06:23,389 - INFO - Found good news: Why Croatia's capital wants to hold Europe's best Christmas market (Mean Score: 0.6184, VADER: 0.6369, TextBlob: 0.6000)
+2026-01-14 06:06:23,390 - INFO - Found good news: Why this month's inflation figure may be good news for you (Mean Score: 0.5702, VADER: 0.4404, TextBlob: 0.7000)
+2026-01-14 06:06:23,393 - INFO - Checking feed: http://feeds.bbci.co.uk/news/technology/rss.xml
+2026-01-14 06:06:23,567 - INFO - Found good news: 'It's amazing' – the wonder material very few can make (Mean Score: 0.3780, VADER: 0.5859, TextBlob: 0.1700)
+2026-01-14 06:06:23,569 - INFO - Found good news: Fire-blocking chemicals promise safer buildings (Mean Score: 0.3125, VADER: 0.6249, TextBlob: 0.0000)
+2026-01-14 06:06:23,570 - INFO - Checking feed: http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+2026-01-14 06:06:23,757 - INFO - Found good news: Pictured: Winning entries for Wildlife Photographer of the Year 2025 (Mean Score: 0.5133, VADER: 0.5267, TextBlob: 0.5000)
+2026-01-14 06:06:23,758 - INFO - Found good news: Green turtle bounces back from brink in conservation 'win' (Mean Score: 0.3930, VADER: 0.5859, TextBlob: 0.2000)
+2026-01-14 06:06:23,759 - INFO - Found good news: Environment prize nominees 'heroes of our time', says William (Mean Score: 0.3825, VADER: 0.7650, TextBlob: 0.0000)
+2026-01-14 06:06:23,763 - INFO - Found good news: Record year for wind and solar electricity in Great Britain in 2025 (Mean Score: 0.7125, VADER: 0.6249, TextBlob: 0.8000)
+2026-01-14 06:06:23,766 - INFO - Found good news: These robots can clean, exercise - and care for you in old age. Would you trust them to? (Mean Score: 0.5407, VADER: 0.8481, TextBlob: 0.2333)
+2026-01-14 06:06:23,767 - INFO - Checking feed: http://feeds.bbci.co.uk/news/health/rss.xml
+2026-01-14 06:06:23,985 - INFO - Found good news: Boris Johnson left Inquiry in a hurry - he'll be pleased not to come back (Mean Score: 0.3035, VADER: 0.4404, TextBlob: 0.1667)
+2026-01-14 06:06:23,989 - INFO - Found good news: Magnesium: Can this 'miracle mineral' really help us sleep? (Mean Score: 0.5087, VADER: 0.8173, TextBlob: 0.2000)
+2026-01-14 06:06:23,989 - INFO - Found good news: 'Getting financial help through my GP has improved my health' (Mean Score: 0.3502, VADER: 0.7003, TextBlob: 0.0000)
+2026-01-14 06:06:23,991 - INFO - Found good news: Is the most expensive lip balm always the best? (Mean Score: 0.4851, VADER: 0.6369, TextBlob: 0.3333)
+2026-01-14 06:06:23,998 - INFO - Checking feed: http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+2026-01-14 06:06:24,191 - INFO - Checking feed: https://www.abc.net.au/news/feed/45910/rss.xml
+2026-01-14 06:06:24,392 - INFO - Checking feed: https://www.abc.net.au/news/feed/51120/rss.xml
+2026-01-14 06:06:24,668 - INFO - Found good news: Wildcard Preston makes maiden quarters with upset win (Mean Score: 0.5480, VADER: 0.2960, TextBlob: 0.8000)
+2026-01-14 06:06:24,787 - INFO - Checking feed: https://www.theguardian.com/world/rss
+2026-01-14 06:06:25,042 - INFO - Checking feed: https://www.theguardian.com/au/rss
+2026-01-14 06:06:25,369 - INFO - Found good news: Emma Raducanu recovers in Hobart to post first win in over three months (Mean Score: 0.5554, VADER: 0.5859, TextBlob: 0.5250)
+2026-01-14 06:06:25,491 - INFO - Checking feed: https://www.theguardian.com/environment/rss
+2026-01-14 06:06:25,914 - INFO - Found good news: ‘Soil is more important than oil’: inside the perennial grain revolution (Mean Score: 0.3608, VADER: 0.2716, TextBlob: 0.4500)
+2026-01-14 06:06:25,918 - INFO - Checking feed: https://www.theguardian.com/science/rss
+2026-01-14 06:06:26,027 - INFO - Found good news: Did you solve it? Are you as smart as Spock? (Mean Score: 0.4041, VADER: 0.5940, TextBlob: 0.2143)
+2026-01-14 06:06:26,027 - INFO - Found good news: Can you solve it? Are you as smart as Spock? (Mean Score: 0.4041, VADER: 0.5940, TextBlob: 0.2143)
+2026-01-14 06:06:26,028 - INFO - Found good news: Did you solve it? Are you ready for twenty twenty-six…seven? (Mean Score: 0.3831, VADER: 0.5661, TextBlob: 0.2000)
+2026-01-14 06:06:26,028 - INFO - Found good news: Can you solve it? Are you ready for twenty twenty-six…seven? (Mean Score: 0.3831, VADER: 0.5661, TextBlob: 0.2000)
+2026-01-14 06:06:26,029 - INFO - Found good news: Astronauts successfully return to Earth after ISS command change – video (Mean Score: 0.6220, VADER: 0.4939, TextBlob: 0.7500)
+2026-01-14 06:06:26,029 - INFO - Found good news: Watch Jeff Bezos's successful Blue Origin rocket launch – video (Mean Score: 0.4804, VADER: 0.5859, TextBlob: 0.3750)
+2026-01-14 06:06:26,223 - INFO - Found good news: From St Basil’s to Bondi: the brilliant ‘beaver’ supermoon – in pictures (Mean Score: 0.7429, VADER: 0.5859, TextBlob: 0.9000)
+2026-01-14 06:06:26,340 - INFO - Checking feed: https://www.theguardian.com/uk/technology/rss
+2026-01-14 06:06:26,444 - INFO - Found good news: Oakley Meta Vanguard review: fantastic AI running glasses linked to Garmin (Mean Score: 0.4787, VADER: 0.5574, TextBlob: 0.4000)
+2026-01-14 06:06:26,445 - INFO - Found good news: Apple Watch Ultra 3 review: the biggest and best smartwatch for an iPhone (Mean Score: 0.8185, VADER: 0.6369, TextBlob: 1.0000)
+2026-01-14 06:06:26,446 - INFO - Checking feed: https://www.theguardian.com/lifeandstyle/rss
+2026-01-14 06:06:26,684 - INFO - Found good news: Wash well – and don’t forget the lid: how to clean your reusable water bottle (Mean Score: 0.4035, VADER: 0.4404, TextBlob: 0.3667)
+2026-01-14 06:06:26,688 - INFO - Found good news: In a reading rut? How to get back into reading for fun (Mean Score: 0.3303, VADER: 0.5106, TextBlob: 0.1500)
+2026-01-14 06:06:26,688 - INFO - Found good news: Fly around or make out with your crush: how to start lucid dreaming (Mean Score: 0.3235, VADER: -0.1531, TextBlob: 0.8000)
+2026-01-14 06:06:26,695 - INFO - Found good news: Love is in the air: what to wear to a winter wedding (Mean Score: 0.5685, VADER: 0.6369, TextBlob: 0.5000)
+2026-01-14 06:06:26,696 - INFO - Checking feed: https://www.sbs.com.au/news/feed
+2026-01-14 06:06:27,071 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/index
+2026-01-14 06:06:27,271 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/science
+2026-01-14 06:06:27,445 - INFO - Found good news: Providers dropping common anesthesia drug that’s also a climate super pollutant (Mean Score: 0.3080, VADER: 0.5994, TextBlob: 0.0167)
+2026-01-14 06:06:27,446 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/tech-policy
+2026-01-14 06:06:27,662 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/gaming
+2026-01-14 06:06:27,959 - INFO - Found good news: Final reminder: Donate to win swag in our annual Charity Drive sweepstakes (Mean Score: 0.5825, VADER: 0.7650, TextBlob: 0.4000)
+2026-01-14 06:06:27,960 - INFO - Found good news: In the ’90s, Wing Commander: Privateer made me realize what kind of games I love (Mean Score: 0.5935, VADER: 0.6369, TextBlob: 0.5500)
+2026-01-14 06:06:27,961 - INFO - Found good news: Ars Technica’s Top 20 video games of 2025 (Mean Score: 0.3512, VADER: 0.2023, TextBlob: 0.5000)
+2026-01-14 06:06:27,962 - INFO - Found good news: Reminder: Donate to win swag in our annual Charity Drive sweepstakes (Mean Score: 0.7825, VADER: 0.7650, TextBlob: 0.8000)
+2026-01-14 06:06:27,963 - INFO - Checking feed: https://feedx.net/rss/ap.xml
+2026-01-14 06:06:28,168 - INFO - Checking feed: https://feeds.npr.org/1001/rss.xml
+2026-01-14 06:06:28,675 - INFO - Checking feed: https://feeds.npr.org/1004/rss.xml
+2026-01-14 06:06:28,730 - INFO - Checking feed: https://feeds.npr.org/1014/rss.xml
+2026-01-14 06:06:28,793 - INFO - Checking feed: https://feeds.npr.org/1019/rss.xml
+2026-01-14 06:06:28,850 - INFO - Checking feed: https://feeds.npr.org/1017/rss.xml
+2026-01-14 06:06:28,930 - INFO - Checking feed: https://feeds.npr.org/1007/rss.xml
+2026-01-14 06:06:28,991 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
+2026-01-14 06:06:29,054 - INFO - Saved 250 stories to docs/good_news.json.
+2026-01-14 06:06:29,058 - INFO - Archived 2 new stories to docs/old_news.json.
+2026-01-14 06:06:29,061 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 957 processed, 35 accepted | Cache: 31 hits, 4 misses | Duration: 6.66s
