@@ -1,5 +1,35 @@
 [
   {
+    "headline": "NRA sues the charitable version of itself, alleging a factional \u2018beef\u2019",
+    "link": "https://www.theguardian.com/us-news/2026/jan/06/nra-sues-charity",
+    "mean_score": 0.501,
+    "vader_score": 0.4019,
+    "textblob_score": 0.6,
+    "first_sentence": "The National Rifle Association (NRA) is suing its own charitable arm, the NRA Foundation, claiming that its leaders are trying to seize control of the gun rights organization and illegally \u201crepurposing\u201d $160m in donations to support their \u201cthirst for power\u201d.",
+    "timestamp": "2026-01-06T17:13:15Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Iranian security forces clash with protesters at Tehran\u2019s grand bazaar",
+    "link": "https://www.theguardian.com/world/2026/jan/06/iranian-security-forces-clash-protesters-tehran-grand-bazaar",
+    "mean_score": 0.5212,
+    "vader_score": 0.5423,
+    "textblob_score": 0.5,
+    "first_sentence": "Iranian security forces have clashed with protesters staging a sit-in at Tehran\u2019s grand bazaar, firing teargas and expelling demonstrators as the nationwide protest movement continued to grow in its 10th day.",
+    "timestamp": "2026-01-06T17:04:04Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Rise and shine with the 10 best sunrise alarm clocks in the UK, tried and tested",
+    "link": "https://www.theguardian.com/thefilter/2025/jan/29/best-sunrise-alarm-clocks",
+    "mean_score": 0.7107,
+    "vader_score": 0.4215,
+    "textblob_score": 1.0,
+    "first_sentence": "The Guardian\u2019s journalism is independent.",
+    "timestamp": "2026-01-06T15:00:03Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "What we\u2019re reading: Alan Hollinghurst, Samantha Harvey and Guardian readers on the books they enjoyed in December",
     "link": "https://www.theguardian.com/books/2026/jan/06/what-were-reading-alan-hollinghurst-samantha-harvey-and-guardian-readers-on-the-books-they-enjoyed-in-december",
     "mean_score": 0.5053,

@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-15T22:04:24Z",
+  "last run": "2026-01-15T23:04:23Z",
   "stories": [
+    {
+      "headline": "ADHD diagnosis 'changed' Love Island star's life",
+      "link": "https://www.bbc.com/news/videos/c79rlv3zrw2o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5685,
+      "vader_score": 0.6369,
+      "textblob_score": 0.5,
+      "first_sentence": "Love Island's Dr Alex George believes his ADHD and OCD diagnoses \"completely changed\" his life.",
+      "timestamp": "2026-01-15T23:00:38Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "The 'Sea Shells Teabaggers' swim group helping women find confidence",
+      "link": "https://www.abc.net.au/news/2026-01-16/world-champion-shelley-taylor-smith-runs-swim-group/106233342",
+      "mean_score": 0.3352,
+      "vader_score": 0.6705,
+      "textblob_score": 0.0,
+      "first_sentence": "They call themselves the \"Sea Shells Teabaggers\" \u2014 and with a former world champion at the helm, this ocean swim group has built something much stronger than good technique.",
+      "timestamp": "2026-01-15T22:57:44Z",
+      "source": "ABC News"
+    },
     {
       "headline": "San Francisco to make childcare free for families earning up to $230,000",
       "link": "https://www.theguardian.com/us-news/2026/jan/15/san-francisco-childcare-families",
@@ -10,6 +30,16 @@
       "first_sentence": "San Francisco will offer free childcare to families earning less than $230,000 a year, and a 50% subsidy to those earning up to $310,000, in an expansion of the city\u2019s childcare offerings designed to make one of the world\u2019s most expensive cities more affordable for residents.",
       "timestamp": "2026-01-15T21:49:45Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "Why I\u2019m withholding certainty that \u201cprecise\u201d US cyber-op disrupted Venezuelan electricity",
+      "link": "https://arstechnica.com/security/2026/01/unnamed-officials-tell-nyt-precise-cyber-op-took-out-venezuelas-power-grid/",
+      "mean_score": 0.325,
+      "vader_score": 0.25,
+      "textblob_score": 0.4,
+      "first_sentence": "NYT says US hackers were able to turn off power and then quickly turn it back on.",
+      "timestamp": "2026-01-15T21:29:58Z",
+      "source": "Ars Technica"
     },
     {
       "headline": "Andean artist Antonio Paucar wins Artes Mundi prize in Wales",
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.3444,
       "first_sentence": "The conveniences of modern life such as Uber Eats and ChatGPT are robbing us of satisfaction \u2013 and worse still, infantilising us.",
       "timestamp": "2026-01-06T17:21:21Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "NRA sues the charitable version of itself, alleging a factional \u2018beef\u2019",
-      "link": "https://www.theguardian.com/us-news/2026/jan/06/nra-sues-charity",
-      "mean_score": 0.501,
-      "vader_score": 0.4019,
-      "textblob_score": 0.6,
-      "first_sentence": "The National Rifle Association (NRA) is suing its own charitable arm, the NRA Foundation, claiming that its leaders are trying to seize control of the gun rights organization and illegally \u201crepurposing\u201d $160m in donations to support their \u201cthirst for power\u201d.",
-      "timestamp": "2026-01-06T17:13:15Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Iranian security forces clash with protesters at Tehran\u2019s grand bazaar",
-      "link": "https://www.theguardian.com/world/2026/jan/06/iranian-security-forces-clash-protesters-tehran-grand-bazaar",
-      "mean_score": 0.5212,
-      "vader_score": 0.5423,
-      "textblob_score": 0.5,
-      "first_sentence": "Iranian security forces have clashed with protesters staging a sit-in at Tehran\u2019s grand bazaar, firing teargas and expelling demonstrators as the nationwide protest movement continued to grow in its 10th day.",
-      "timestamp": "2026-01-06T17:04:04Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Rise and shine with the 10 best sunrise alarm clocks in the UK, tried and tested",
-      "link": "https://www.theguardian.com/thefilter/2025/jan/29/best-sunrise-alarm-clocks",
-      "mean_score": 0.7107,
-      "vader_score": 0.4215,
-      "textblob_score": 1.0,
-      "first_sentence": "The Guardian\u2019s journalism is independent.",
-      "timestamp": "2026-01-06T15:00:03Z",
       "source": "The Guardian"
     }
   ]
