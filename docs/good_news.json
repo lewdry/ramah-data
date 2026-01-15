@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-15T21:04:55Z",
+  "last run": "2026-01-15T22:04:24Z",
   "stories": [
+    {
+      "headline": "San Francisco to make childcare free for families earning up to $230,000",
+      "link": "https://www.theguardian.com/us-news/2026/jan/15/san-francisco-childcare-families",
+      "mean_score": 0.4553,
+      "vader_score": 0.5106,
+      "textblob_score": 0.4,
+      "first_sentence": "San Francisco will offer free childcare to families earning less than $230,000 a year, and a 50% subsidy to those earning up to $310,000, in an expansion of the city\u2019s childcare offerings designed to make one of the world\u2019s most expensive cities more affordable for residents.",
+      "timestamp": "2026-01-15T21:49:45Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Andean artist Antonio Paucar wins Artes Mundi prize in Wales",
       "link": "https://www.theguardian.com/artanddesign/2026/jan/15/antonio-paucar-andes-peru-wins-artes-mundi-prize-wales",
@@ -2489,16 +2499,6 @@
       "textblob_score": 1.0,
       "first_sentence": "The Guardian\u2019s journalism is independent.",
       "timestamp": "2026-01-06T15:00:03Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "What we\u2019re reading: Alan Hollinghurst, Samantha Harvey and Guardian readers on the books they enjoyed in December",
-      "link": "https://www.theguardian.com/books/2026/jan/06/what-were-reading-alan-hollinghurst-samantha-harvey-and-guardian-readers-on-the-books-they-enjoyed-in-december",
-      "mean_score": 0.5053,
-      "vader_score": 0.5106,
-      "textblob_score": 0.5,
-      "first_sentence": "Ever since my father presented me with a copy of The Unicorn, beautifully translated into my mother tongue, I have been an ardent admirer of Iris Murdoch\u2019s.",
-      "timestamp": "2026-01-06T14:33:36Z",
       "source": "The Guardian"
     }
   ]
