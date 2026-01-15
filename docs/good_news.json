@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-15T20:04:53Z",
+  "last run": "2026-01-15T21:04:55Z",
   "stories": [
+    {
+      "headline": "Andean artist Antonio Paucar wins Artes Mundi prize in Wales",
+      "link": "https://www.theguardian.com/artanddesign/2026/jan/15/antonio-paucar-andes-peru-wins-artes-mundi-prize-wales",
+      "mean_score": 0.5453,
+      "vader_score": 0.7906,
+      "textblob_score": 0.3,
+      "first_sentence": "An artist and beekeeper from a remote corner of the Andes has won one of the UK\u2019s most prestigious contemporary arts awards and plans to spend the \u00a340,000 prize on building a cultural centre in the Peruvian mountains.",
+      "timestamp": "2026-01-15T20:00:49Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "'Babe, don't move': Woman wakes up to 2.5-metre python curled up on top of her",
       "link": "https://www.abc.net.au/news/2026-01-16/qld-woman-wakes-to-find-python-on-top-of-her-snake-season/106233916",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.5,
       "first_sentence": "Ever since my father presented me with a copy of The Unicorn, beautifully translated into my mother tongue, I have been an ardent admirer of Iris Murdoch\u2019s.",
       "timestamp": "2026-01-06T14:33:36Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "NSW\u2019s opposition is betting on fresh faces. It\u2019s a good start \u2013 but now the Coalition must decide what it stands for",
-      "link": "https://www.theguardian.com/australia-news/2026/jan/07/nsw-opposition-fresh-faces-coalition-shadow-cabinet-ntwnfb",
-      "mean_score": 0.4409,
-      "vader_score": 0.3818,
-      "textblob_score": 0.5,
-      "first_sentence": "Since the Bondi massacre, New South Wales politicians \u2013 unlike their federal colleagues \u2013 have mostly put aside their differences to pass new, tougher gun laws and to mourn.",
-      "timestamp": "2026-01-06T14:00:15Z",
       "source": "The Guardian"
     }
   ]
