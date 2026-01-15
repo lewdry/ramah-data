@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Tomorrowland to hold its first ever Asia festival in Thailand",
+    "link": "https://www.bbc.com/news/articles/cql45lykx5eo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.372,
+    "vader_score": 0.4939,
+    "textblob_score": 0.25,
+    "first_sentence": "Tomorrowland, the hugely popular European electronic dance music or EDM festival, will stage its first-ever full-fledged Asia edition in Thailand this December.",
+    "timestamp": "2026-01-06T10:31:17Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Is AI taking the fun out of fantasy football?",
+    "link": "https://www.bbc.com/news/articles/cewjqxxy2jxo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4053,
+    "vader_score": 0.5106,
+    "textblob_score": 0.3,
+    "first_sentence": "For years, fantasy football has given every armchair manager the space to back up claims they \"could do a better job\" than the real thing.",
+    "timestamp": "2026-01-06T10:21:01Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Narnia! Dune! Charli xcx! The 2026 films Guardian writers are most excited about",
+    "link": "https://www.theguardian.com/culture/2026/jan/06/new-film-releases-2026",
+    "mean_score": 0.4951,
+    "vader_score": 0.5528,
+    "textblob_score": 0.4375,
+    "first_sentence": "From much-anticipated sequels to music mockumentaries to auteur returns, the next 12 months offers up a wide variety of intriguing new moviesDoomed lovers, high heels, and The Odyssey: more films to get excited about this yearThe 50 must-see TV shows for 2026I doubt very much that 2026 will see anything in the Marty Supreme league, but here\u2019s hoping one of the most bizarre side-steps of the decade turns out as interesting as it hopes.",
+    "timestamp": "2026-01-06T10:02:30Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Once an industry top dog, Intel hopes to regain dominance with chip made in the U.S.",
     "link": "https://www.npr.org/2026/01/06/nx-s1-5667545/once-an-industry-top-dog-intel-hopes-to-regain-dominance-with-chip-made-in-the-u-s",
     "mean_score": 0.5798,
