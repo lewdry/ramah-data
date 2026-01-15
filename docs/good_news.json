@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-15T08:05:55Z",
+  "last run": "2026-01-15T09:07:18Z",
   "stories": [
+    {
+      "headline": "'Guerilla' Adelaide writers' festival could get council support",
+      "link": "https://www.abc.net.au/news/2026-01-15/writers-week-alternative-festival-adelaide-city-council/106233354",
+      "mean_score": 0.3548,
+      "vader_score": 0.7096,
+      "textblob_score": 0.0,
+      "first_sentence": "Adelaide City Council will weigh up supporting an alternative literary festival after the 2026 Adelaide Writers' Week was scrapped.",
+      "timestamp": "2026-01-15T08:15:38Z",
+      "source": "ABC News"
+    },
     {
       "headline": "The surprising science of dreams and nightmares \u2013 podcast",
       "link": "https://www.theguardian.com/science/audio/2026/jan/15/unlocking-the-secrets-of-dreams-and-nightmares-podcast",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.25,
       "first_sentence": "The high street retailer Next expects its annual profits to top \u00a31.1bn after it rang up much stronger sales than expected over Christmas \u2013 but it has warned that 2026 will be tougher amid \u201ccontinuing pressures on UK employment\u201d.",
       "timestamp": "2026-01-06T08:02:59Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Male bonds develop one way, female friendships another. Should we stop trying to make men more like women?  | Gaby Hinsliff",
-      "link": "https://www.theguardian.com/commentisfree/2026/jan/06/men-women-friendship-silent-masculine-trains-golf-drink",
-      "mean_score": 0.3297,
-      "vader_score": 0.4927,
-      "textblob_score": 0.1667,
-      "first_sentence": "It\u2019s good to talk.",
-      "timestamp": "2026-01-06T08:00:31Z",
       "source": "The Guardian"
     }
   ]
