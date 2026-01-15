@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-15T11:04:24Z",
+  "last run": "2026-01-15T12:06:48Z",
   "stories": [
+    {
+      "headline": "Brave K\u00f6ln push Bayern but will it be enough to bring calm to Effzeh? | Andy Brassell",
+      "link": "https://www.theguardian.com/football/2026/jan/15/brave-koln-push-bayern-munich-effzeh-bundesliga",
+      "mean_score": 0.4988,
+      "vader_score": 0.631,
+      "textblob_score": 0.3667,
+      "first_sentence": "We didn\u2019t see this coming, and not only because of the fog of pyro lingering over the RheinEnergieSTADION field that furnished us with 11 minutes of first-half stoppage time.",
+      "timestamp": "2026-01-15T11:13:47Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "US sports say parity is essential for success. The Premier League proves that\u2019s untrue | Leander Schaerlaeckens",
+      "link": "https://www.theguardian.com/football/2026/jan/15/premier-league-parity-nfl-nba-mlb",
+      "mean_score": 0.3859,
+      "vader_score": 0.5719,
+      "textblob_score": 0.2,
+      "first_sentence": "David Stern used to tell a joke.",
+      "timestamp": "2026-01-15T11:00:03Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "European troops arrive in Greenland to boost the Arctic island's security",
       "link": "https://www.npr.org/2026/01/15/g-s1-106113/european-troops-arrive-greenland",
@@ -2480,26 +2500,6 @@
       "first_sentence": "From much-anticipated sequels to music mockumentaries to auteur returns, the next 12 months offers up a wide variety of intriguing new moviesDoomed lovers, high heels, and The Odyssey: more films to get excited about this yearThe 50 must-see TV shows for 2026I doubt very much that 2026 will see anything in the Marty Supreme league, but here\u2019s hoping one of the most bizarre side-steps of the decade turns out as interesting as it hopes.",
       "timestamp": "2026-01-06T10:02:30Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Once an industry top dog, Intel hopes to regain dominance with chip made in the U.S.",
-      "link": "https://www.npr.org/2026/01/06/nx-s1-5667545/once-an-industry-top-dog-intel-hopes-to-regain-dominance-with-chip-made-in-the-u-s",
-      "mean_score": 0.5798,
-      "vader_score": 0.6597,
-      "textblob_score": 0.5,
-      "first_sentence": "Intel has announced the launch of a chip that's made in America.",
-      "timestamp": "2026-01-06T09:47:43Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "'People want to look good': Researcher hopes redesigned walker will remove stigma",
-      "link": "https://www.npr.org/2026/01/06/nx-s1-5640140/people-want-to-look-good-researcher-hopes-redesigned-walker-will-remove-stigma",
-      "mean_score": 0.7092,
-      "vader_score": 0.7184,
-      "textblob_score": 0.7,
-      "first_sentence": "People who need walkers are often reluctant to start using them because of stigma.",
-      "timestamp": "2026-01-06T09:45:35Z",
-      "source": "NPR News"
     }
   ]
 }
