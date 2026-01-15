@@ -1,5 +1,5 @@
 {
-  "last run": "2026-01-15T09:07:18Z",
+  "last run": "2026-01-15T10:04:29Z",
   "stories": [
     {
       "headline": "'Guerilla' Adelaide writers' festival could get council support",
@@ -10,6 +10,16 @@
       "first_sentence": "Adelaide City Council will weigh up supporting an alternative literary festival after the 2026 Adelaide Writers' Week was scrapped.",
       "timestamp": "2026-01-15T08:15:38Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "Exclusive: Volvo tells us why having Gemini in your next car is a good thing",
+      "link": "https://arstechnica.com/cars/2026/01/exclusive-volvo-tells-us-why-having-gemini-in-your-next-car-is-a-good-thing/",
+      "mean_score": 0.4383,
+      "vader_score": 0.5267,
+      "textblob_score": 0.35,
+      "first_sentence": "In-car personal assistants are about to get useful, it looks like.",
+      "timestamp": "2026-01-15T08:00:15Z",
+      "source": "Ars Technica"
     },
     {
       "headline": "The surprising science of dreams and nightmares \u2013 podcast",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.25,
       "first_sentence": "Labour will switch to an \u201cincumbency first\u201d model to protect MPs at the next election rather than targeting seats, the deputy leader, Lucy Powell, has told Labour MPs.",
       "timestamp": "2026-01-06T08:27:15Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Next expects profits to top \u00a31.1bn after bumper festive sales",
-      "link": "https://www.theguardian.com/business/2026/jan/06/next-profits-festive-sales-uk-employment",
-      "mean_score": 0.5109,
-      "vader_score": 0.7717,
-      "textblob_score": 0.25,
-      "first_sentence": "The high street retailer Next expects its annual profits to top \u00a31.1bn after it rang up much stronger sales than expected over Christmas \u2013 but it has warned that 2026 will be tougher amid \u201ccontinuing pressures on UK employment\u201d.",
-      "timestamp": "2026-01-06T08:02:59Z",
       "source": "The Guardian"
     }
   ]
