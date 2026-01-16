@@ -1,6 +1,36 @@
 {
-  "last run": "2026-01-16T14:05:15Z",
+  "last run": "2026-01-16T15:05:39Z",
   "stories": [
+    {
+      "headline": "So much for a \u2018final battle\u2019 \u2013 once again the Iranian people\u2019s peaceful and democratic demands have been silenced | Behrouz Boochani and Mehdi Jalali Tehrani",
+      "link": "https://www.theguardian.com/commentisfree/2026/jan/16/iran-protests-iranian-people-demands-silenced-reza-pahlavi",
+      "mean_score": 0.322,
+      "vader_score": 0.4939,
+      "textblob_score": 0.15,
+      "first_sentence": "In late December, Iran experienced the beginnings of an uprising driven primarily by economic pressures, initially emerging among merchant bazaaris and subsequently spreading across broader segments of society.",
+      "timestamp": "2026-01-16T14:01:03Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Civilised but casual, often hilarious, Adelaide writers\u2019 week is everything a festival should be \u2013 except this year | Tory Shepherd",
+      "link": "https://www.theguardian.com/culture/2026/jan/16/adelaide-writers-week-everything-festival-should-be",
+      "mean_score": 0.4382,
+      "vader_score": 0.8765,
+      "textblob_score": -0.0,
+      "first_sentence": "The sun almost always shines on Adelaide writers\u2019 week, held on Kaurna land each year at the tail end of summer.",
+      "timestamp": "2026-01-16T14:00:59Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Alex de Minaur out to break new ground as next generation boost Australia hopes",
+      "link": "https://www.theguardian.com/sport/2026/jan/16/australian-open-women-tennis-alex-de-minaur-daria-kasatkina-emerson-jones",
+      "mean_score": 0.3693,
+      "vader_score": 0.6705,
+      "textblob_score": 0.0682,
+      "first_sentence": "Amid the annual upheaval at the Australian Open, of party courts, one-point fairytales, and ever-expanding festivals, some things don\u2019t change.",
+      "timestamp": "2026-01-16T14:00:59Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Ant and Dec launch their first podcast - a smart move or late to the party?",
       "link": "https://www.bbc.com/news/articles/c78vz0jjgl2o?at_medium=RSS&at_campaign=rss",
@@ -2470,36 +2500,6 @@
       "first_sentence": "Liam Rosenior looks up at the towering Strasbourg Kop.",
       "timestamp": "2026-01-07T08:00:37Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "England's brightest hope and biggest blunder sets up Sydney finale",
-      "link": "https://www.abc.net.au/news/2026-01-07/jacob-bethell-englands-hope-sets-up-sydney-finale-day-four-scg/106206644",
-      "mean_score": 0.3922,
-      "vader_score": 0.7845,
-      "textblob_score": 0.0,
-      "first_sentence": "One of the more painful aspects of this tour for England has been the correct answers it has stumbled upon well after the exam had already been failed.",
-      "timestamp": "2026-01-07T07:33:05Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Welsford eyeing race wins to cap new Ineos-Granadiers contract",
-      "link": "https://www.abc.net.au/news/2026-01-07/sam-welsford-hopes-to-cap-new-ineos-contract-with-national-title/106207662",
-      "mean_score": 0.395,
-      "vader_score": 0.5719,
-      "textblob_score": 0.2182,
-      "first_sentence": "Sam Welsford has signed a contact with Ineos-Grenadiers in the UCI WorldTour.",
-      "timestamp": "2026-01-07T07:02:19Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "These songs from the Hottest 100 of 2005 deserved better",
-      "link": "https://www.abc.net.au/news/2026-01-07/songs-from-hottest-100-of-2005-should-have-been-higher/106145224",
-      "mean_score": 0.4702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.5,
-      "first_sentence": "Revisiting the Hottest 100 of 20 years ago can be a whole heap of nostalgic fun.",
-      "timestamp": "2026-01-07T06:01:00Z",
-      "source": "ABC News"
     }
   ]
 }
