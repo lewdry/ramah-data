@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-16T10:04:44Z",
+  "last run": "2026-01-16T11:04:40Z",
   "stories": [
+    {
+      "headline": "Top two executives at City & Guilds placed on leave",
+      "link": "https://www.theguardian.com/business/2026/jan/16/top-two-executives-at-city-guilds-placed-on-leave",
+      "mean_score": 0.3266,
+      "vader_score": 0.1531,
+      "textblob_score": 0.5,
+      "first_sentence": "The top two executives at City & Guilds have been put on leave shortly after a scandal over millions of pounds of bonuses triggered a Charity Commission investigation into the vocational trainer.",
+      "timestamp": "2026-01-16T10:46:43Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Woman remembers the age-defying love she shared with her husband",
       "link": "https://www.npr.org/2026/01/16/nx-s1-5678471/woman-remembers-the-age-defying-love-she-shared-with-her-husband",
@@ -20,6 +30,16 @@
       "first_sentence": "Uganda's President Yoweri Museveni has taken a strong lead in provisional results from Thursday's presidential election, the electoral agency says.",
       "timestamp": "2026-01-16T07:49:55Z",
       "source": "BBC News"
+    },
+    {
+      "headline": "Live: Tszyu and Zefara set for Brisbane blockbuster after NAS stuns on debut",
+      "link": "https://www.abc.net.au/news/2026-01-16/live-updates-nikita-tszyu-vs-michael-zerafa-nelson-asofa-solomon/106237528",
+      "mean_score": 0.3744,
+      "vader_score": 0.6124,
+      "textblob_score": 0.1364,
+      "first_sentence": "Nikita Tszyu and Michael Zerafa are set to end years of bitter rivalry in a hotly anticipated middleweight fight at the Brisbane Entertainment Centre, as former NRL hard man Nelson Asofa-Solomona makes a victorious start to his boxing career.",
+      "timestamp": "2026-01-16T07:47:28Z",
+      "source": "ABC News"
     },
     {
       "headline": "Chosen Family by Madeleine Gray review \u2013 friends, lovers or something in between?",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Kentucky and Vanderbilt made major jumps in The Associated Press women\u2019s basketball Top 25 on Monday after four of the top 10 teams lost last week, causing a shakeup in the poll.",
       "timestamp": "2026-01-07T01:23:03Z",
       "source": "AP News"
-    },
-    {
-      "headline": "New year resolutions? How to free yourself from brain rot in 2026 | Jess Harwood",
-      "link": "https://www.theguardian.com/commentisfree/picture/2026/jan/07/new-year-resolutions-how-to-free-yourself-from-social-media-brain-rot-in-2026",
-      "mean_score": 0.3894,
-      "vader_score": 0.5106,
-      "textblob_score": 0.2682,
-      "first_sentence": "Look!! A bird!! Continue reading.",
-      "timestamp": "2026-01-07T00:15:56Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Mystery safe hauled from ocean floor yields potent packet of beef jerky",
-      "link": "https://www.abc.net.au/news/2026-01-07/shark-bay-treasure-safe-found-on-seafloor-with-beef-jerky/106200058",
-      "mean_score": 0.4702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.5,
-      "first_sentence": "A small safe buried in a seabed off the coast of Shark Bay has been recovered from the ocean.",
-      "timestamp": "2026-01-06T23:04:05Z",
-      "source": "ABC News"
     }
   ]
 }
