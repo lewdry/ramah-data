@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Breaking: UK citizen described as 'good friend' by White Australia movement to be deported",
+    "link": "https://www.abc.net.au/news/2026-01-07/uk-citizen-suspected-far-right-links-set-to-be-deported/106207522",
+    "mean_score": 0.5384,
+    "vader_score": 0.7269,
+    "textblob_score": 0.35,
+    "first_sentence": "WARNING: This story contains an image of a symbol that may cause offence.",
+    "timestamp": "2026-01-07T08:15:59Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Why Liam Rosenior\u2019s time at Strasbourg was ideal preparation for Chelsea",
+    "link": "https://www.theguardian.com/football/2026/jan/07/liam-rosenior-strasbourg-ideal-preparation-chelsea-young-players-demands-owners",
+    "mean_score": 0.7133,
+    "vader_score": 0.5267,
+    "textblob_score": 0.9,
+    "first_sentence": "Liam Rosenior looks up at the towering Strasbourg Kop.",
+    "timestamp": "2026-01-07T08:00:37Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "England's brightest hope and biggest blunder sets up Sydney finale",
     "link": "https://www.abc.net.au/news/2026-01-07/jacob-bethell-englands-hope-sets-up-sydney-finale-day-four-scg/106206644",
     "mean_score": 0.3922,

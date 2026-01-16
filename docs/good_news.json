@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-16T15:05:39Z",
+  "last run": "2026-01-16T16:05:37Z",
   "stories": [
+    {
+      "headline": "What\u2019s the easiest way to get healthy? I tried biohacking my life to live longer",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/16/whats-the-easiest-way-to-get-healthy-i-tried-biohacking-my-life-to-live-longer",
+      "mean_score": 0.4943,
+      "vader_score": 0.6705,
+      "textblob_score": 0.3182,
+      "first_sentence": "A week into the first lockdown of the pandemic, I vowed I would never set foot in a gym again.",
+      "timestamp": "2026-01-16T15:13:31Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Ferrari doing what it does best: The 12Cilindri review",
+      "link": "https://arstechnica.com/cars/2026/01/driven-the-ferrari-12cilindri-spider-is-open-top-grand-touring-bliss/",
+      "mean_score": 0.8185,
+      "vader_score": 0.6369,
+      "textblob_score": 1.0,
+      "first_sentence": "Retro design and a naturally aspirated V12 deliver tremendous appeal, but it\u2019ll cost ya.",
+      "timestamp": "2026-01-16T15:00:31Z",
+      "source": "Ars Technica"
+    },
     {
       "headline": "So much for a \u2018final battle\u2019 \u2013 once again the Iranian people\u2019s peaceful and democratic demands have been silenced | Behrouz Boochani and Mehdi Jalali Tehrani",
       "link": "https://www.theguardian.com/commentisfree/2026/jan/16/iran-protests-iranian-people-demands-silenced-reza-pahlavi",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.2222,
       "first_sentence": "Revived for its 40th anniversary, this is one of the most beguilingly eccentric and charming family movies imaginable.",
       "timestamp": "2026-01-07T09:00:37Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Breaking: UK citizen described as 'good friend' by White Australia movement to be deported",
-      "link": "https://www.abc.net.au/news/2026-01-07/uk-citizen-suspected-far-right-links-set-to-be-deported/106207522",
-      "mean_score": 0.5384,
-      "vader_score": 0.7269,
-      "textblob_score": 0.35,
-      "first_sentence": "WARNING: This story contains an image of a symbol that may cause offence.",
-      "timestamp": "2026-01-07T08:15:59Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Why Liam Rosenior\u2019s time at Strasbourg was ideal preparation for Chelsea",
-      "link": "https://www.theguardian.com/football/2026/jan/07/liam-rosenior-strasbourg-ideal-preparation-chelsea-young-players-demands-owners",
-      "mean_score": 0.7133,
-      "vader_score": 0.5267,
-      "textblob_score": 0.9,
-      "first_sentence": "Liam Rosenior looks up at the towering Strasbourg Kop.",
-      "timestamp": "2026-01-07T08:00:37Z",
       "source": "The Guardian"
     }
   ]
