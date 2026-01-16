@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-16T00:15:52Z",
+  "last run": "2026-01-16T01:32:50Z",
   "stories": [
+    {
+      "headline": "Perth Glory Women's coach calls for more investment in Australia's 'forgotten' league",
+      "link": "https://www.abc.net.au/news/2026-01-16/stephen-peters-calls-out-lack-of-investment-in-women-football/106234734",
+      "mean_score": 0.4409,
+      "vader_score": 0.3818,
+      "textblob_score": 0.5,
+      "first_sentence": "Perth Glory Women's coach Stephen Peters has criticised a lack of investment in the women's A-League, calling for more funds.",
+      "timestamp": "2026-01-16T01:20:29Z",
+      "source": "ABC News"
+    },
     {
       "headline": "ADHD diagnosis 'changed' Love Island star's life",
       "link": "https://www.bbc.com/news/videos/c79rlv3zrw2o?at_medium=RSS&at_campaign=rss",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Severe and extreme heatwave warnings are now in place across large parts of Australia's south and south-east.",
       "timestamp": "2026-01-06T18:04:20Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Friction-maxxing: could less convenience lead to much more happiness?",
-      "link": "https://www.theguardian.com/technology/2026/jan/06/friction-maxxing-could-less-convenience-lead-to-much-more-happiness",
-      "mean_score": 0.4714,
-      "vader_score": 0.5984,
-      "textblob_score": 0.3444,
-      "first_sentence": "The conveniences of modern life such as Uber Eats and ChatGPT are robbing us of satisfaction \u2013 and worse still, infantilising us.",
-      "timestamp": "2026-01-06T17:21:21Z",
-      "source": "The Guardian"
     }
   ]
 }
