@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-16T07:07:04Z",
+  "last run": "2026-01-16T08:05:50Z",
   "stories": [
+    {
+      "headline": "Museveni takes strong lead in early results of Uganda presidential race",
+      "link": "https://www.bbc.com/news/articles/c78vzye1l2no?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3886,
+      "vader_score": 0.5106,
+      "textblob_score": 0.2667,
+      "first_sentence": "Uganda's President Yoweri Museveni has taken a strong lead in provisional results from Thursday's presidential election, the electoral agency says.",
+      "timestamp": "2026-01-16T07:49:55Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Chosen Family by Madeleine Gray review \u2013 friends, lovers or something in between?",
+      "link": "https://www.theguardian.com/books/2026/jan/16/chosen-family-by-madeleine-gray-review-friends-lovers-or-something-in-between",
+      "mean_score": 0.379,
+      "vader_score": 0.7579,
+      "textblob_score": 0.0,
+      "first_sentence": "Australian author Madeleine Gray\u2019s award-winning debut novel Green Dot was a smart, funny tale of a doomed office affair.",
+      "timestamp": "2026-01-16T07:00:02Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Benjamina Ebuehi\u2019s recipe for Viennese fingers | The sweet spot",
       "link": "https://www.theguardian.com/food/2026/jan/16/viennese-fingers-recipe-benjamina-ebuehi-biscuits",
@@ -2480,26 +2500,6 @@
       "first_sentence": "People who need walkers are often reluctant to start using them because of stigma.",
       "timestamp": "2026-01-06T21:47:52Z",
       "source": "NPR News"
-    },
-    {
-      "headline": "Tiny school works to save extremely rare 'flying jewel' butterfly",
-      "link": "https://www.abc.net.au/news/2026-01-07/meadow-flat-primary-school-purple-copper-butterfly/106173306",
-      "mean_score": 0.4326,
-      "vader_score": 0.7152,
-      "textblob_score": 0.15,
-      "first_sentence": "Kids at a tiny regional school are on a mission to save one of Australia's extremely rare butterflies.",
-      "timestamp": "2026-01-06T20:54:37Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "'As strong as anyone has ever seen': US backs binding security guarantees for Ukraine",
-      "link": "https://www.sbs.com.au/news/article/us-backs-binding-security-guarantees-for-ukraine/2s0ja2fw1",
-      "mean_score": 0.5519,
-      "vader_score": 0.6705,
-      "textblob_score": 0.4333,
-      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-      "timestamp": "2026-01-06T20:48:26Z",
-      "source": "SBS News"
     }
   ]
 }
