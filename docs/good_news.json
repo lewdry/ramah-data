@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-16T12:06:29Z",
+  "last run": "2026-01-16T13:15:48Z",
   "stories": [
+    {
+      "headline": "Female nurses win employment case over NHS changing-room use by trans colleague",
+      "link": "https://www.theguardian.com/law/2026/jan/16/female-nurses-win-employment-case-over-nhs-changing-room-use-by-trans-colleague",
+      "mean_score": 0.4929,
+      "vader_score": 0.5859,
+      "textblob_score": 0.4,
+      "first_sentence": "A group of nurses who complained about a trans colleague using single-sex changing rooms at work suffered harassment, an employment tribunal judge has ruled.",
+      "timestamp": "2026-01-16T12:37:53Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Are our bodies full of microplastics or not? There\u2019s a way to resolve this debate, and scientists must hurry | Debora MacKenzie",
       "link": "https://www.theguardian.com/commentisfree/2026/jan/16/microplastics-bodies-debate",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.25,
       "first_sentence": "\u201cOur children correct us when we don\u2019t pronounce some words with the proper Derbyshire accent,\u201d says Samir*, an Afghan refugee whose family have settled into their new lives in the north of England.",
       "timestamp": "2026-01-07T06:00:34Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Art could save your life! Five creative ways to make 2026 happier, healthier and more hopeful",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/07/art-could-save-your-life-creative-ways-make-2026-happier-healthier",
-      "mean_score": 0.7122,
-      "vader_score": 0.9244,
-      "textblob_score": 0.5,
-      "first_sentence": "For some reason, we have collectively agreed that new year is the time to reinvent ourselves.",
-      "timestamp": "2026-01-07T05:00:35Z",
       "source": "The Guardian"
     }
   ]
