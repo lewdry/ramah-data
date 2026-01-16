@@ -1,5 +1,25 @@
 [
   {
+    "headline": "News orgs win fight to access 20M ChatGPT logs. Now they want more.",
+    "link": "https://arstechnica.com/ai/2026/01/news-orgs-want-openai-to-dig-up-millions-of-deleted-chatgpt-logs/",
+    "mean_score": 0.5056,
+    "vader_score": 0.3612,
+    "textblob_score": 0.65,
+    "first_sentence": "OpenAI\u2019s loss in privacy fight could lead to sharing even more deleted chats.",
+    "timestamp": "2026-01-06T18:59:21Z",
+    "source": "Ars Technica"
+  },
+  {
+    "headline": "Firefighters face challenging conditions in Vic and SA as heatwave begins",
+    "link": "https://www.abc.net.au/news/2026-01-07/victoria-south-australia-authorities-brace-for-fires-heatwave/106203894",
+    "mean_score": 0.3266,
+    "vader_score": 0.1531,
+    "textblob_score": 0.5,
+    "first_sentence": "Severe and extreme heatwave warnings are now in place across large parts of Australia's south and south-east.",
+    "timestamp": "2026-01-06T18:04:20Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Friction-maxxing: could less convenience lead to much more happiness?",
     "link": "https://www.theguardian.com/technology/2026/jan/06/friction-maxxing-could-less-convenience-lead-to-much-more-happiness",
     "mean_score": 0.4714,
