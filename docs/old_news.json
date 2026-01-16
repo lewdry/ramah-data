@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Reflagged by Russia, spied on by UK, seized by US: why so much interest in a rusty tanker in the Atlantic?",
+    "link": "https://www.theguardian.com/world/2026/jan/07/marinera-seized-tanker-atlantic-us-uk-russia",
+    "mean_score": 0.3535,
+    "vader_score": 0.507,
+    "textblob_score": 0.2,
+    "first_sentence": "The ship has long been part of a shadow fleet used to dodge western sanctions.",
+    "timestamp": "2026-01-07T16:56:37Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Here are the launches and landings we\u2019re most excited about in 2026",
+    "link": "https://arstechnica.com/space/2026/01/here-are-the-launches-and-landings-were-most-excited-about-in-2026/",
+    "mean_score": 0.419,
+    "vader_score": 0.4005,
+    "textblob_score": 0.4375,
+    "first_sentence": "A lot could happen in space next year, but let\u2019s get real about what actually will.",
+    "timestamp": "2026-01-07T12:00:41Z",
+    "source": "Ars Technica"
+  },
+  {
     "headline": "Democrats can win back the White House in 2028. Here\u2019s how | Colin Seeberger",
     "link": "https://www.theguardian.com/commentisfree/2026/jan/07/democrats-win-back-white-house-2028",
     "mean_score": 0.4263,
