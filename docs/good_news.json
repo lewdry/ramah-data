@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-16T18:06:01Z",
+  "last run": "2026-01-16T19:05:19Z",
   "stories": [
+    {
+      "headline": "Jenrick\u2019s incredible journey \u2013 from self-centred halfwit to self-centred halfwit | John Crace",
+      "link": "https://www.theguardian.com/politics/2026/jan/16/robert-jenrick-incredible-journey-reform-defection-tories",
+      "mean_score": 0.45,
+      "vader_score": 0.0,
+      "textblob_score": 0.9,
+      "first_sentence": "It\u2019s come down to this.",
+      "timestamp": "2026-01-16T18:04:42Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Timothy Busfield sexual misconduct allegations mount as wife Melissa Gilbert expresses support",
       "link": "https://www.theguardian.com/us-news/2026/jan/16/timothy-busfield-child-abuse-charges-melissa-gilbert",
@@ -2490,16 +2500,6 @@
       "first_sentence": "The whimsical term has also been the title of countless poems, songs and books about remarkable coincidences or eureka moments.",
       "timestamp": "2026-01-07T10:00:00Z",
       "source": "NPR News"
-    },
-    {
-      "headline": "What\u2019s to like? Why you can hate Timoth\u00e9e Chalamet\u2019s character and still love Marty Supreme",
-      "link": "https://www.theguardian.com/film/2026/jan/07/marty-supreme-timothee-chalamet-likability",
-      "mean_score": 0.3075,
-      "vader_score": 0.765,
-      "textblob_score": -0.15,
-      "first_sentence": "Chalamet\u2019s nogoodnik ping-pong hustler character is the latest in cinema\u2019s rich history of protagonists with shabby morals.",
-      "timestamp": "2026-01-07T09:47:40Z",
-      "source": "The Guardian"
     }
   ]
 }
