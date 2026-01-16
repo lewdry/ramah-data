@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-16T04:18:16Z",
+  "last run": "2026-01-16T05:07:06Z",
   "stories": [
+    {
+      "headline": "Australian study finds moderate social media use linked to best teen wellbeing",
+      "link": "https://www.abc.net.au/news/2026-01-16/new-report-social-media-on-teens-mental-health/106224780",
+      "mean_score": 0.4218,
+      "vader_score": 0.6369,
+      "textblob_score": 0.2067,
+      "first_sentence": "Social media's association with adolescent well-being is complex and non-linear, a new study has found.",
+      "timestamp": "2026-01-16T04:01:20Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Australia news live: Christian and Muslim faith leaders express \u2018deep concerns\u2019 about Labor bill\u2019s impact on free speech",
       "link": "https://www.theguardian.com/australia-news/live/2026/jan/16/hate-speech-legislation-political-reaction-anthony-albanese-labor-sussan-ley-coalition-greens-adelaide-festival-writers-week-backlash-sydney-protest-ban-ntwnfb",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.0,
       "first_sentence": "An echidna expert from the University of Queensland says not much is known about how many echidnas there are in the wild.",
       "timestamp": "2026-01-06T19:23:51Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Videos made by SA librarians attract likes from Ariana Grande",
-      "link": "https://www.abc.net.au/news/2026-01-07/city-of-marion-librarians-go-viral-on-social-media/106202866",
-      "mean_score": 0.3243,
-      "vader_score": 0.6486,
-      "textblob_score": 0.0,
-      "first_sentence": "Several videos by a group of Adelaide librarians have gone viral, amassing their employer's social accounts tens of thousands of followers.",
-      "timestamp": "2026-01-06T19:08:45Z",
       "source": "ABC News"
     }
   ]
