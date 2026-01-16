@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-16T11:04:40Z",
+  "last run": "2026-01-16T12:06:29Z",
   "stories": [
+    {
+      "headline": "Are our bodies full of microplastics or not? There\u2019s a way to resolve this debate, and scientists must hurry | Debora MacKenzie",
+      "link": "https://www.theguardian.com/commentisfree/2026/jan/16/microplastics-bodies-debate",
+      "mean_score": 0.3659,
+      "vader_score": 0.3818,
+      "textblob_score": 0.35,
+      "first_sentence": "Are we being injured and killed by ubiquitous, teeny-tiny shards of toxic plastic? Or aren\u2019t we? For many months, the Guardian has reported a series of worrying scientific results  that our bodies are full of jagged microplastic particles that could be giving us everything from heart attacks to reproductive problems.",
+      "timestamp": "2026-01-16T11:00:56Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Top two executives at City & Guilds placed on leave",
       "link": "https://www.theguardian.com/business/2026/jan/16/top-two-executives-at-city-guilds-placed-on-leave",
@@ -2490,16 +2500,6 @@
       "first_sentence": "For some reason, we have collectively agreed that new year is the time to reinvent ourselves.",
       "timestamp": "2026-01-07T05:00:35Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Kentucky, Vanderbilt into top 10 in women\u2019s AP Top 25 after 4 of top 10 teams fall; UConn, Texas 1-2",
-      "link": "https://apnews.com/article/ap-top-25-shakeup-d2f425b1952665515f2b7922bbe0a957",
-      "mean_score": 0.5133,
-      "vader_score": 0.5267,
-      "textblob_score": 0.5,
-      "first_sentence": "Kentucky and Vanderbilt made major jumps in The Associated Press women\u2019s basketball Top 25 on Monday after four of the top 10 teams lost last week, causing a shakeup in the poll.",
-      "timestamp": "2026-01-07T01:23:03Z",
-      "source": "AP News"
     }
   ]
 }
