@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Boom time for active holiday tours drawing travellers with 'young energy'",
+    "link": "https://www.abc.net.au/news/2026-01-08/active-holidays-ocean-swimming-popular-on-turkish-lycian-coast/106173770",
+    "mean_score": 0.3706,
+    "vader_score": 0.7579,
+    "textblob_score": -0.0167,
+    "first_sentence": "Julia Hughes's eyes sparkle as she contemplates the turquoise waters of the Mediterranean that surround her.",
+    "timestamp": "2026-01-08T01:59:50Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "We were fired but got better jobs \u2013 how to find a new role that works for you",
+    "link": "https://www.bbc.com/news/articles/cwyvw1ev9rro?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3449,
+    "vader_score": 0.3716,
+    "textblob_score": 0.3182,
+    "first_sentence": "The new year is a natural time to reflect, and for many of us, that involves thinking about our careers.",
+    "timestamp": "2026-01-08T01:58:50Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "The best movies and TV series you can watch now \u2014 no fee required",
+    "link": "https://www.abc.net.au/news/2026-01-08/free-movies-free-tv-watch-online/106207308",
+    "mean_score": 0.7294,
+    "vader_score": 0.4588,
+    "textblob_score": 1.0,
+    "first_sentence": "The combination of rising monthly fees and new platforms have seen Australian's monthly spend on streaming services hit $42, according to analyst firm Telsyte's 2025 Subscription Entertainment Study.",
+    "timestamp": "2026-01-08T01:50:29Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "'Splash & grab' and 'UK ready to seize more of Putin's ships'",
     "link": "https://www.bbc.com/news/articles/czx3kz4q6yko?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.3556,
