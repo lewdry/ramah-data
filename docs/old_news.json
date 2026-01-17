@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Newcastle\u2019s Harvey Barnes hits 102nd-minute winner in 4-3 Leeds thriller",
+    "link": "https://www.theguardian.com/football/2026/jan/07/newcastle-leeds-premier-league-match-report",
+    "mean_score": 0.3185,
+    "vader_score": 0.6369,
+    "textblob_score": 0.0,
+    "first_sentence": "Tactical anarchy reigned supreme on a night of chaotic, bewilderingly thrilling, drama played out amid freezing conditions.",
+    "timestamp": "2026-01-07T22:30:46Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Peake's last-ball six hands Renegades controversial win over Scorchers",
+    "link": "https://www.abc.net.au/news/2026-01-08/bbl-ollie-peake-melbourne-renegades-perth-scorchers/106208704",
+    "mean_score": 0.5669,
+    "vader_score": 0.4588,
+    "textblob_score": 0.675,
+    "first_sentence": "Ollie Peake hit a six on the final delivery to clinch a four-wicket win for the Renegades over the Scorchers.",
+    "timestamp": "2026-01-07T22:05:39Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Can You Keep a Secret? review \u2013 Dawn French is like a wild Vicar of Dibley in this charming sitcom",
     "link": "https://www.theguardian.com/tv-and-radio/2026/jan/07/bbc-can-you-keep-a-secret-review-dawn-french-is-like-a-wild-vicar-of-dibley-in-this-charming-sitcom",
     "mean_score": 0.4453,
