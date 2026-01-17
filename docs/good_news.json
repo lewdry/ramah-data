@@ -1,5 +1,5 @@
 {
-  "last run": "2026-01-17T05:04:53Z",
+  "last run": "2026-01-17T06:05:38Z",
   "stories": [
     {
       "headline": "Olympic champion Jakara Anthony claims record-breaking win",
@@ -19,6 +19,16 @@
       "textblob_score": 0.4455,
       "first_sentence": "Last year, many of us went protein-mad in the hopes of boosting our strength and fitness.",
       "timestamp": "2026-01-17T00:34:11Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Paracetamol is safe in pregnancy, says study refuting US president's claims about autism",
+      "link": "https://www.bbc.com/news/articles/c74vdgkw1kzo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.5,
+      "first_sentence": "Taking paracetamol while pregnant is safe and there's no evidence it raises the risk of autism, ADHD and developmental issues in children, say experts behind a major new review.",
+      "timestamp": "2026-01-17T00:13:47Z",
       "source": "BBC News"
     },
     {
@@ -2490,16 +2500,6 @@
       "first_sentence": "Despite parts of Australia experiencing the worst heatwave since the 2019-20 Black Summer, people can still be spotted exercising in the hot weather.",
       "timestamp": "2026-01-07T19:48:20Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Bose open-sources its SoundTouch home theater smart speakers ahead of end-of-life",
-      "link": "https://arstechnica.com/gadgets/2026/01/bose-open-sources-its-soundtouch-home-theater-smart-speakers-ahead-of-eol/",
-      "mean_score": 0.3081,
-      "vader_score": 0.4019,
-      "textblob_score": 0.2143,
-      "first_sentence": "If companies insist on bricking gadgets, this is a better way to do it.",
-      "timestamp": "2026-01-07T18:51:37Z",
-      "source": "Ars Technica"
     }
   ]
 }
