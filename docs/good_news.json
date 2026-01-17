@@ -1,5 +1,5 @@
 {
-  "last run": "2026-01-17T20:04:11Z",
+  "last run": "2026-01-17T21:03:48Z",
   "stories": [
     {
       "headline": "'Back to my best': Kerr's comeback continues with FA Cup double",
@@ -20,6 +20,16 @@
       "first_sentence": "The Herd\u2019s heading back on the road to mark 20 years of The Sun Never Sets.",
       "timestamp": "2026-01-17T19:00:34Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "On the world's largest hospital ship volunteers give people a chance at a better life",
+      "link": "https://www.abc.net.au/news/2026-01-18/volunteering-mercy-ships-sierra-leone-africa-healthcare/106077318",
+      "mean_score": 0.5497,
+      "vader_score": 0.5994,
+      "textblob_score": 0.5,
+      "first_sentence": "On the largest civilian hospital ship in the world, Australian volunteer medical experts offer life-changing healthcare that is transforming lives.",
+      "timestamp": "2026-01-17T18:00:00Z",
+      "source": "ABC News"
     },
     {
       "headline": "Carrick has dream start as Mbeumo and Dorgu give Manchester United derby delight",
@@ -2490,16 +2500,6 @@
       "first_sentence": "The Martin Chivers route from record signing to Tottenham legend was anything but simple.",
       "timestamp": "2026-01-08T10:30:04Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Asian shares mostly lower after Wall Street\u2019s strong start to the year cools",
-      "link": "https://apnews.com/article/stocks-markets-venezuela-trump-oil-ai-01e18594af8d435ce14ec862eb508f96",
-      "mean_score": 0.4109,
-      "vader_score": 0.5106,
-      "textblob_score": 0.3111,
-      "first_sentence": "HONG KONG (AP) \u2014 Asian shares were mostly lower and U.S.",
-      "timestamp": "2026-01-08T09:23:02Z",
-      "source": "AP News"
     }
   ]
 }
