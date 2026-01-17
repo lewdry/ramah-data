@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-17T09:04:07Z",
+  "last run": "2026-01-17T10:04:04Z",
   "stories": [
+    {
+      "headline": "'I'm back!' Damien Martyn shares heartfelt update on remarkable recovery",
+      "link": "https://www.abc.net.au/news/2026-01-17/damien-martyn-shares-heartfelt-health-update/106240912",
+      "mean_score": 0.5561,
+      "vader_score": 0.8622,
+      "textblob_score": 0.25,
+      "first_sentence": "Australian cricket great Damien Martyn has shared a positive update on his recovery from meningitis, an infection that causes swelling around the brain and spinal cord, while also revealing he was given a \"50:50\" chance of surviving.",
+      "timestamp": "2026-01-17T09:03:34Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Why Djokovic won't be burdened by grand slam record chase",
       "link": "https://www.abc.net.au/news/2026-01-17/novak-djokovic-australian-open-grand-slam-record-wins/106240934",
@@ -20,6 +30,16 @@
       "first_sentence": "SailGP debutant Sweden is locked in a three-way tie for the lead after the first day of racing in Fremantle, with the Australian boat Flying Roos well placed in fourth spot heading into Sunday's races.",
       "timestamp": "2026-01-17T08:01:27Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "Gran, 93, flies for first time in 30 years to see Philadelphia folk parade she fell in love with",
+      "link": "https://www.bbc.com/news/articles/c5y2v95ex94o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4018,
+      "vader_score": 0.6369,
+      "textblob_score": 0.1667,
+      "first_sentence": "Avril Davidge is 93 and had never been to America in her life, but after going down a YouTube rabbit hole and falling in love with a folk parade in Philadelphia, she boarded a plane for the first time in 30 years to see it for herself.",
+      "timestamp": "2026-01-17T07:24:37Z",
+      "source": "BBC News"
     },
     {
       "headline": "A Knight of the Seven Kingdoms: this glorious grossout comedy is Game of Thrones at its best",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.0,
       "first_sentence": "Australia's Laura Peel won gold in the women's aerials at the World Cup event at Lac-Beauport.",
       "timestamp": "2026-01-08T00:15:46Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Inside the sub-zero lair of the world's most powerful computer",
-      "link": "https://www.bbc.com/news/articles/c62r6dvpl5ro?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4377,
-      "vader_score": 0.4754,
-      "textblob_score": 0.4,
-      "first_sentence": "It looks like a golden chandelier and contains the coldest place in the universe.",
-      "timestamp": "2026-01-08T00:04:43Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Live: Khawaja receives guard of honour for final Test innings as Smith falls",
-      "link": "https://www.abc.net.au/news/2026-01-08/ashes-live-blog-day-five-scg/106208540",
-      "mean_score": 0.32,
-      "vader_score": 0.5719,
-      "textblob_score": 0.0682,
-      "first_sentence": "Usman Khawaja is playing in his final Test innings as England spinner Will Jacks removes Steve Smith.",
-      "timestamp": "2026-01-07T22:53:46Z",
       "source": "ABC News"
     }
   ]

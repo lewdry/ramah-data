@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Inside the sub-zero lair of the world's most powerful computer",
+    "link": "https://www.bbc.com/news/articles/c62r6dvpl5ro?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4377,
+    "vader_score": 0.4754,
+    "textblob_score": 0.4,
+    "first_sentence": "It looks like a golden chandelier and contains the coldest place in the universe.",
+    "timestamp": "2026-01-08T00:04:43Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Live: Khawaja receives guard of honour for final Test innings as Smith falls",
+    "link": "https://www.abc.net.au/news/2026-01-08/ashes-live-blog-day-five-scg/106208540",
+    "mean_score": 0.32,
+    "vader_score": 0.5719,
+    "textblob_score": 0.0682,
+    "first_sentence": "Usman Khawaja is playing in his final Test innings as England spinner Will Jacks removes Steve Smith.",
+    "timestamp": "2026-01-07T22:53:46Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Newcastle\u2019s Harvey Barnes hits 102nd-minute winner in 4-3 Leeds thriller",
     "link": "https://www.theguardian.com/football/2026/jan/07/newcastle-leeds-premier-league-match-report",
     "mean_score": 0.3185,
