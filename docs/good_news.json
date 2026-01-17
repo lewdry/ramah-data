@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-16T23:04:17Z",
+  "last run": "2026-01-17T00:15:00Z",
   "stories": [
+    {
+      "headline": "'Living the dream': Growing up with Australia's first skate park",
+      "link": "https://www.abc.net.au/news/2026-01-17/australia-oldest-skate-park-in-abany-turns-50/106224280",
+      "mean_score": 0.3259,
+      "vader_score": 0.4019,
+      "textblob_score": 0.25,
+      "first_sentence": "A coastal community in Western Australia's south is celebrating the 50th anniversary of the country's oldest skate park.",
+      "timestamp": "2026-01-17T00:06:06Z",
+      "source": "ABC News"
+    },
     {
       "headline": "'Seat of knowledge' tradition lives on, but you need a sense of humour",
       "link": "https://www.abc.net.au/news/2026-01-17/seat-of-knowledge-tradition-lives-on-in-north-queensland/105088332",
@@ -2490,16 +2500,6 @@
       "first_sentence": "ORLANDO, Fla.",
       "timestamp": "2026-01-07T17:53:02Z",
       "source": "AP News"
-    },
-    {
-      "headline": "\u2018For a moment, only that story matters\u2019: my plan to reignite the all-consuming love of books",
-      "link": "https://www.theguardian.com/books/commentisfree/2026/jan/07/reading-for-pleasure-young-people-katy-hessel",
-      "mean_score": 0.4435,
-      "vader_score": 0.6369,
-      "textblob_score": 0.25,
-      "first_sentence": "Reading for pleasure rates are shockingly low in young people.",
-      "timestamp": "2026-01-07T17:06:15Z",
-      "source": "The Guardian"
     }
   ]
 }
