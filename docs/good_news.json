@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-17T07:04:29Z",
+  "last run": "2026-01-17T08:04:51Z",
   "stories": [
+    {
+      "headline": "A Knight of the Seven Kingdoms: this glorious grossout comedy is Game of Thrones at its best",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/jan/17/a-knight-of-the-seven-kingdoms-hbo-game-of-thrones-spin-off-got",
+      "mean_score": 0.6068,
+      "vader_score": 0.9136,
+      "textblob_score": 0.3,
+      "first_sentence": "The Game of Thrones franchise has fruited again, like an abundant oak.",
+      "timestamp": "2026-01-17T07:00:21Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Nasa readies its most powerful rocket for round-the-moon flight",
       "link": "https://www.theguardian.com/science/2026/jan/17/nasa-readies-most-powerful-rocket-round-moon-flight",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Ollie Peake hit a six on the final delivery to clinch a four-wicket win for the Renegades over the Scorchers.",
       "timestamp": "2026-01-07T22:05:39Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Can You Keep a Secret? review \u2013 Dawn French is like a wild Vicar of Dibley in this charming sitcom",
-      "link": "https://www.theguardian.com/tv-and-radio/2026/jan/07/bbc-can-you-keep-a-secret-review-dawn-french-is-like-a-wild-vicar-of-dibley-in-this-charming-sitcom",
-      "mean_score": 0.4453,
-      "vader_score": 0.7906,
-      "textblob_score": 0.1,
-      "first_sentence": "Debbie Fendon is a force to be reckoned with.",
-      "timestamp": "2026-01-07T22:00:49Z",
-      "source": "The Guardian"
     }
   ]
 }
