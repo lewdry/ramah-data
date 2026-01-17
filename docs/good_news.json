@@ -1,5 +1,5 @@
 {
-  "last run": "2026-01-17T10:04:04Z",
+  "last run": "2026-01-17T11:04:00Z",
   "stories": [
     {
       "headline": "'I'm back!' Damien Martyn shares heartfelt update on remarkable recovery",
@@ -2392,6 +2392,16 @@
       "source": "AP News"
     },
     {
+      "headline": "Inside the sub-zero lair of the world's most powerful computer",
+      "link": "https://www.bbc.com/news/articles/c62r6dvpl5ro?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4377,
+      "vader_score": 0.4754,
+      "textblob_score": 0.4,
+      "first_sentence": "It looks like a golden chandelier and contains the coldest place in the universe.",
+      "timestamp": "2026-01-08T08:03:50Z",
+      "source": "BBC News"
+    },
+    {
       "headline": "His & Hers review \u2013 this glossy thriller is ideal new year TV",
       "link": "https://www.theguardian.com/tv-and-radio/2026/jan/08/his-hers-review-netflix-jon-bernthal-tessa-thompson-thriller",
       "mean_score": 0.552,
@@ -2490,16 +2500,6 @@
       "first_sentence": "Sign up for our morning newsletter and get BBC News in your inbox.",
       "timestamp": "2026-01-08T00:56:38Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Peel boosts Aussie Winter Olympics hopes with World Cup victory",
-      "link": "https://www.abc.net.au/news/2026-01-08/world-cup-laura-peel-win-gold-ahead-of-winter-olympics/106209106",
-      "mean_score": 0.3125,
-      "vader_score": 0.6249,
-      "textblob_score": 0.0,
-      "first_sentence": "Australia's Laura Peel won gold in the women's aerials at the World Cup event at Lac-Beauport.",
-      "timestamp": "2026-01-08T00:15:46Z",
-      "source": "ABC News"
     }
   ]
 }
