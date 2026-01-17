@@ -1,6 +1,46 @@
 {
-  "last run": "2026-01-17T13:11:44Z",
+  "last run": "2026-01-17T14:03:51Z",
   "stories": [
+    {
+      "headline": "Uganda\u2019s President Yoweri Museveni wins seventh term with 71.65% of votes",
+      "link": "https://apnews.com/article/uganda-election-bobi-wine-arrested-yoweri-museveni-7ba4e6d8ecf1eace2cb9c46453594346",
+      "mean_score": 0.4359,
+      "vader_score": 0.5719,
+      "textblob_score": 0.3,
+      "first_sentence": "KAMPALA, Uganda (AP) \u2014 Ugandan President Yoweri Museveni won his seventh term with 71.65% of votes, according to official results Saturday, defeating the youthful challenger who campaigned for change after four decades of the same government.",
+      "timestamp": "2026-01-17T13:53:02Z",
+      "source": "AP News"
+    },
+    {
+      "headline": "Ugandan leader to extend 40-year rule after being declared winner of contested poll",
+      "link": "https://www.bbc.com/news/articles/c2lgxxrxd52o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3352,
+      "vader_score": 0.6705,
+      "textblob_score": 0.0,
+      "first_sentence": "President Yoweri Museveni has been declared the winner of Thursday's election extending his four decades in power by another five years.",
+      "timestamp": "2026-01-17T13:44:28Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Ukrainian delegation arrives in US for peace talks as Russia hammers energy sites",
+      "link": "https://apnews.com/article/russia-ukraine-war-peace-talks-energy-c7fc7a01ac9976dd617482b6ef6f1fa0",
+      "mean_score": 0.3404,
+      "vader_score": 0.6808,
+      "textblob_score": 0.0,
+      "first_sentence": "KYIV, Ukraine (AP) \u2014 A Ukrainian delegation arrived in the United States for talks Saturday on a U.S.-led diplomatic push to end the nearly 4-year-old war as Russian attacks again took aim at Ukraine\u2019s power grid, cutting electricity and heating in freezing temperatures.",
+      "timestamp": "2026-01-17T13:23:02Z",
+      "source": "AP News"
+    },
+    {
+      "headline": "Confidence runs high in London\u2019s Little Morocco as Afcon glory beckons",
+      "link": "https://www.theguardian.com/uk-news/2026/jan/17/afcon-little-morocco-london-confidence-high",
+      "mean_score": 0.3823,
+      "vader_score": 0.7783,
+      "textblob_score": -0.0137,
+      "first_sentence": "London\u2019s Little Morocco is brimming with pride and anticipation.",
+      "timestamp": "2026-01-17T13:00:28Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Opinion: Remembering Ai, a remarkably intelligent chimpanzee",
       "link": "https://www.npr.org/2026/01/17/nx-s1-5673199/opinion-remembering-ai-a-remarkably-intelligent-chimpanzee",
@@ -2460,46 +2500,6 @@
       "first_sentence": "Retail giants Tesco and Marks & Spencer both saw a bump in food sales over the vital Christmas period despite both mentioning a challenging economic backdrop.",
       "timestamp": "2026-01-08T07:53:38Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Supermarkets could help UK shoppers eat more sustainable local fish \u2013 study",
-      "link": "https://www.theguardian.com/environment/2026/jan/08/supermarkets-uk-consumers-sustainable-local-fish-seafood-imports-nutrition",
-      "mean_score": 0.3259,
-      "vader_score": 0.4019,
-      "textblob_score": 0.25,
-      "first_sentence": "Supermarkets could help to support British consumers to move away from their reliance on mainly imported seafood \u2013 the \u201cbig 5\u201d of cod, haddock, tuna, salmon and prawns \u2013 to more sustainable, nutritious and locally caught fish such as sardines and anchovies, researchers say.",
-      "timestamp": "2026-01-08T06:00:03Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "My favourite family photo: \u2018I bucketed 30 years of tears that day \u2013 then smiled my smiliest smile\u2019",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/08/my-favourite-family-photo-i-bucketed-30-years-of-tears-that-day-then-smiled-my-smiliest-smile",
-      "mean_score": 0.4159,
-      "vader_score": 0.3818,
-      "textblob_score": 0.45,
-      "first_sentence": "Diane and I had been living together for more than 30 years, and our children were 28 and 26 when we got civilled.",
-      "timestamp": "2026-01-08T05:00:01Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Controversial 150-site  'eco-tourism' project approved for Queensland",
-      "link": "https://www.abc.net.au/news/2026-01-08/coochin-creek-tourist-park-approved/106209514",
-      "mean_score": 0.4,
-      "vader_score": 0.25,
-      "textblob_score": 0.55,
-      "first_sentence": "The state government has approved a 150-site tourist park for Coochin Creek, south of Caloundra.",
-      "timestamp": "2026-01-08T04:59:55Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Neale has Lions' 'blessing' if he wants to return to Perth after 2026 season",
-      "link": "https://www.abc.net.au/news/2026-01-08/brisbane-lions-lachie-neale-chris-fagan/106210014",
-      "mean_score": 0.3469,
-      "vader_score": 0.4939,
-      "textblob_score": 0.2,
-      "first_sentence": "Brisbane Lions coach Chris Fagan has given Lachie Neale his blessings if the former co-captain decides to move to WA at the end of the season.",
-      "timestamp": "2026-01-08T02:58:25Z",
-      "source": "ABC News"
     }
   ]
 }
