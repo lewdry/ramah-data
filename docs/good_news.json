@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-17T21:03:48Z",
+  "last run": "2026-01-17T22:04:08Z",
   "stories": [
+    {
+      "headline": "There are fewer waves, but surfers love this coastal town",
+      "link": "https://www.abc.net.au/news/2026-01-18/agnes-water-surfing-culture/106078546",
+      "mean_score": 0.6391,
+      "vader_score": 0.7783,
+      "textblob_score": 0.5,
+      "first_sentence": "It's the picturesque kind of place travellers visit once and decide to stay.",
+      "timestamp": "2026-01-17T21:59:19Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Only a thrilling final can save a predictable Africa Cup of Nations from being forgotten | Jonathan Wilson",
+      "link": "https://www.theguardian.com/football/2026/jan/17/only-a-thrilling-final-can-save-a-predictable-africa-cup-of-nations-from-being-forgotten",
+      "mean_score": 0.3361,
+      "vader_score": 0.6597,
+      "textblob_score": 0.0125,
+      "first_sentence": "Sometimes a tournament\u2019s greatest strength can be its greatest weakness.",
+      "timestamp": "2026-01-17T20:00:34Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "'Back to my best': Kerr's comeback continues with FA Cup double",
       "link": "https://www.abc.net.au/news/2026-01-18/sam-kerr-comeback-continues-with-fa-cup-double-chelsea/106241588",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.9,
       "first_sentence": "Katherine first caught the bug when she visited Australia a couple of years ago.",
       "timestamp": "2026-01-08T13:00:10Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Tesco aiming for bumper 2026 after best Christmas market share in decade",
-      "link": "https://www.theguardian.com/business/2026/jan/08/tesco-best-christmas-market-share-in-decade",
-      "mean_score": 0.8753,
-      "vader_score": 0.7506,
-      "textblob_score": 1.0,
-      "first_sentence": "Tesco has said it aims to grab an even bigger slice of the grocery market this year after winning its best share in more than a decade over Christmas with strong sales of fresh food and its Finest own-label range.",
-      "timestamp": "2026-01-08T10:48:26Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Martin Chivers was a heavyweight Spurs legend with the heart of a poet",
-      "link": "https://www.theguardian.com/football/2026/jan/08/martin-chivers-was-a-heavyweight-spurs-legend-with-the-heart-of-a-poet",
-      "mean_score": 0.3185,
-      "vader_score": 0.6369,
-      "textblob_score": 0.0,
-      "first_sentence": "The Martin Chivers route from record signing to Tottenham legend was anything but simple.",
-      "timestamp": "2026-01-08T10:30:04Z",
       "source": "The Guardian"
     }
   ]

@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Tesco aiming for bumper 2026 after best Christmas market share in decade",
+    "link": "https://www.theguardian.com/business/2026/jan/08/tesco-best-christmas-market-share-in-decade",
+    "mean_score": 0.8753,
+    "vader_score": 0.7506,
+    "textblob_score": 1.0,
+    "first_sentence": "Tesco has said it aims to grab an even bigger slice of the grocery market this year after winning its best share in more than a decade over Christmas with strong sales of fresh food and its Finest own-label range.",
+    "timestamp": "2026-01-08T10:48:26Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Martin Chivers was a heavyweight Spurs legend with the heart of a poet",
+    "link": "https://www.theguardian.com/football/2026/jan/08/martin-chivers-was-a-heavyweight-spurs-legend-with-the-heart-of-a-poet",
+    "mean_score": 0.3185,
+    "vader_score": 0.6369,
+    "textblob_score": 0.0,
+    "first_sentence": "The Martin Chivers route from record signing to Tottenham legend was anything but simple.",
+    "timestamp": "2026-01-08T10:30:04Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Asian shares mostly lower after Wall Street\u2019s strong start to the year cools",
     "link": "https://apnews.com/article/stocks-markets-venezuela-trump-oil-ai-01e18594af8d435ce14ec862eb508f96",
     "mean_score": 0.4109,
