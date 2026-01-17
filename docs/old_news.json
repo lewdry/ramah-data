@@ -1,5 +1,25 @@
 [
   {
+    "headline": "'Mission accomplished': The day 'El Chapo' was captured",
+    "link": "https://www.abc.net.au/news/2026-01-08/today-in-history-january-8-el-chapo-recaptured/106192234",
+    "mean_score": 0.3202,
+    "vader_score": 0.4404,
+    "textblob_score": 0.2,
+    "first_sentence": "\"Mission accomplished: we got him,\" began the triumphant tweet from Mexico's then-president Enrique Pe\u00f1a Nieto.",
+    "timestamp": "2026-01-07T18:30:00Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Gov. Ron DeSantis calls for special session in April to redraw Florida\u2019s congressional districts",
+    "link": "https://apnews.com/article/florida-redistricting-census-desantis-b10b743019ba7f25a2f26d3ccdaf9a67",
+    "mean_score": 0.3795,
+    "vader_score": 0.4019,
+    "textblob_score": 0.3571,
+    "first_sentence": "ORLANDO, Fla.",
+    "timestamp": "2026-01-07T17:53:02Z",
+    "source": "AP News"
+  },
+  {
     "headline": "\u2018For a moment, only that story matters\u2019: my plan to reignite the all-consuming love of books",
     "link": "https://www.theguardian.com/books/commentisfree/2026/jan/07/reading-for-pleasure-young-people-katy-hessel",
     "mean_score": 0.4435,
