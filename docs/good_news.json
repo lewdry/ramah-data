@@ -1,5 +1,5 @@
 {
-  "last run": "2026-01-18T10:04:14Z",
+  "last run": "2026-01-18T11:03:47Z",
   "stories": [
     {
       "headline": "Australian Open 2026: Sabalenka wins; Alcaraz and Raducanu in action on day one \u2013 live",
@@ -1442,6 +1442,16 @@
       "source": "The Guardian"
     },
     {
+      "headline": "'Lovable giant' Brody finds 'forever home'",
+      "link": "https://www.bbc.com/news/articles/cje17kzxxdjo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4312,
+      "vader_score": 0.6124,
+      "textblob_score": 0.25,
+      "first_sentence": "A \"loveable giant\" dog weighing about 10st (66kg) has found his \"forever home\".",
+      "timestamp": "2026-01-12T15:53:48Z",
+      "source": "BBC News"
+    },
+    {
       "headline": "Is Morocco ready to co-host the 2030 World Cup? Afcon indicates yes | Jonathan Wilson",
       "link": "https://www.theguardian.com/football/2026/jan/12/afcon-morrocco-2030-world-cup",
       "mean_score": 0.4184,
@@ -2490,16 +2500,6 @@
       "first_sentence": "Scientists claim to have \u201crejuvenated\u201d human eggs for the first time in an advance that they predict could revolutionise IVF success rates for older women.",
       "timestamp": "2026-01-09T00:01:22Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Mamdani says New York child care expansion a real step to fulfilling campaign pledge",
-      "link": "https://www.npr.org/2026/01/08/nx-s1-5671045/nyc-mayor-mamdani-discusses-new-york-state-expansion-of-childcare-funding",
-      "mean_score": 0.331,
-      "vader_score": 0.4939,
-      "textblob_score": 0.1682,
-      "first_sentence": "New York City Mayor Zohran Mamdani's ambitious campaign pledge to offer universal child care took a significant step forward Thursday.",
-      "timestamp": "2026-01-08T21:17:23Z",
-      "source": "NPR News"
     }
   ]
 }
