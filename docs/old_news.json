@@ -1,5 +1,35 @@
 [
   {
+    "headline": "The best exercise bikes for home workouts, spin and getting sweaty, tested",
+    "link": "https://www.theguardian.com/thefilter/2026/jan/09/best-exercise-bike-uk",
+    "mean_score": 0.8185,
+    "vader_score": 0.6369,
+    "textblob_score": 1.0,
+    "first_sentence": "The Guardian\u2019s journalism is independent.",
+    "timestamp": "2026-01-09T10:00:34Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "The 15 best Nintendo Switch 2 games to play in 2026",
+    "link": "https://www.theguardian.com/games/2026/jan/09/the-15-best-nintendo-switch-2-games-to-play-in-2026",
+    "mean_score": 0.8825,
+    "vader_score": 0.765,
+    "textblob_score": 1.0,
+    "first_sentence": "Nintendo\u2019s newest console has been out for a less than a year but it already boasts an impressive catalogue of excellent new games, as well as a variety of enhanced Switch greats.",
+    "timestamp": "2026-01-09T10:00:33Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Your next primary care doctor could be online only, accessed through an AI tool",
+    "link": "https://www.npr.org/sections/shots-health-news/2026/01/09/nx-s1-5670382/primary-care-doctor-shortage-medical-ai-diagnosis",
+    "mean_score": 0.3136,
+    "vader_score": 0.4939,
+    "textblob_score": 0.1333,
+    "first_sentence": "When her doctor died suddenly in August, Tammy MacDonald found herself among the roughly 17% of adults in America without a primary care physician.",
+    "timestamp": "2026-01-09T10:00:00Z",
+    "source": "NPR News"
+  },
+  {
     "headline": "Labour chair claims pub business rates rethink not a U-turn, but \u2018sign of confident government\u2019 \u2013 UK politics live",
     "link": "https://www.theguardian.com/politics/live/2026/jan/09/labour-pubs-disability-benefits-assisted-dying-defence-spending-farage-reform-latest-news-updates",
     "mean_score": 0.4834,
