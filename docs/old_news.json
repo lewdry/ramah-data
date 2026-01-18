@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Smart, independent and in demand \u2026 but would Glasner be a good fit for Manchester United?",
+    "link": "https://www.theguardian.com/football/2026/jan/09/oliver-glasner-manchester-united-crystal-palace",
+    "mean_score": 0.6183,
+    "vader_score": 0.9081,
+    "textblob_score": 0.3286,
+    "first_sentence": "Oliver Glasner has shown a penchant for one-liners, as well a 3-4-2-1 formation, since he took over at Crystal Palace almost two years ago.",
+    "timestamp": "2026-01-09T14:37:29Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Healthy living tips from the Gladiators",
+    "link": "https://www.bbc.com/news/videos/c8rm55dkej5o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4509,
+    "vader_score": 0.4019,
+    "textblob_score": 0.5,
+    "first_sentence": "Watch Gladiators on BBC iPlayer.",
+    "timestamp": "2026-01-09T14:16:54Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "I see sounds as shapes. Synaesthesia has given me an extraordinary ability for languages",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/jan/10/auditory-visual-synaesthesia-languages",
+    "mean_score": 0.3258,
+    "vader_score": 0.3182,
+    "textblob_score": 0.3333,
+    "first_sentence": "Car journeys with my partner are a nightmare.",
+    "timestamp": "2026-01-09T14:00:39Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Cocktail of the week: The American Bar at Gleneagles\u2019 smoked cherry \u2013 recipe | The good mixer",
     "link": "https://www.theguardian.com/food/2026/jan/09/cocktail-of-the-week-the-american-bar-at-gleneagles-smoked-cherry-recipe",
     "mean_score": 0.3952,

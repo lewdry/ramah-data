@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-18T20:04:32Z",
+  "last run": "2026-01-18T21:03:51Z",
   "stories": [
+    {
+      "headline": "Lambert breaks through for maiden World Cup win on eve of Olympics",
+      "link": "https://www.abc.net.au/news/2026-01-19/adam-lambert-snowboard-cross-world-cup-win-china/106243394",
+      "mean_score": 0.6929,
+      "vader_score": 0.5859,
+      "textblob_score": 0.8,
+      "first_sentence": "Adam Lambert has won his first snowboard cross World Cup event.",
+      "timestamp": "2026-01-18T20:33:31Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Fun and easy recipes kids can help with in the kitchen",
+      "link": "https://www.abc.net.au/news/2026-01-19/fun-and-easy-recipes-kids-can-help-with/106116250",
+      "mean_score": 0.6013,
+      "vader_score": 0.836,
+      "textblob_score": 0.3667,
+      "first_sentence": "Getting kids involved with cooking is not just a great way for them to learn about food, it may also make mealtimes less of a battle if they're eating something they've helped prepare (winning).",
+      "timestamp": "2026-01-18T20:25:52Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Smith amuses and delights, England all-rounder stars as Sixers lock in finals",
       "link": "https://www.abc.net.au/news/2026-01-19/steve-smith-sam-curran-fire-sixers-to-bbl-finals/106242754",
@@ -79,6 +99,16 @@
       "textblob_score": 0.35,
       "first_sentence": "New year\u2019s resolutions are catnip for perfectionism.",
       "timestamp": "2026-01-18T14:00:59Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Venus Williams sets Australian Open record at age of 45 but falters with win in sight",
+      "link": "https://www.theguardian.com/sport/2026/jan/18/venus-williams-sets-australian-open-record-at-age-of-45-but-falters-with-win-in-sight",
+      "mean_score": 0.5009,
+      "vader_score": 0.7351,
+      "textblob_score": 0.2667,
+      "first_sentence": "Venus Williams set a record just by starting her first-round match at the Australian Open, a testament to her endurance and longevity at the highest level of tennis.",
+      "timestamp": "2026-01-18T13:44:48Z",
       "source": "The Guardian"
     },
     {
@@ -2470,36 +2500,6 @@
       "first_sentence": "Jacob Tierney says the \"sex forward\" gay drama, which is released in the UK on Saturday, features elements of romance that don't get taken seriously enough.",
       "timestamp": "2026-01-09T15:49:35Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Smart, independent and in demand \u2026 but would Glasner be a good fit for Manchester United?",
-      "link": "https://www.theguardian.com/football/2026/jan/09/oliver-glasner-manchester-united-crystal-palace",
-      "mean_score": 0.6183,
-      "vader_score": 0.9081,
-      "textblob_score": 0.3286,
-      "first_sentence": "Oliver Glasner has shown a penchant for one-liners, as well a 3-4-2-1 formation, since he took over at Crystal Palace almost two years ago.",
-      "timestamp": "2026-01-09T14:37:29Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Healthy living tips from the Gladiators",
-      "link": "https://www.bbc.com/news/videos/c8rm55dkej5o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4509,
-      "vader_score": 0.4019,
-      "textblob_score": 0.5,
-      "first_sentence": "Watch Gladiators on BBC iPlayer.",
-      "timestamp": "2026-01-09T14:16:54Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "I see sounds as shapes. Synaesthesia has given me an extraordinary ability for languages",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/10/auditory-visual-synaesthesia-languages",
-      "mean_score": 0.3258,
-      "vader_score": 0.3182,
-      "textblob_score": 0.3333,
-      "first_sentence": "Car journeys with my partner are a nightmare.",
-      "timestamp": "2026-01-09T14:00:39Z",
-      "source": "The Guardian"
     }
   ]
 }
