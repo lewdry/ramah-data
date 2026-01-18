@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-18T04:19:21Z",
+  "last run": "2026-01-18T05:06:40Z",
   "stories": [
+    {
+      "headline": "World's first legally binding treaty to protect oceans takes effect",
+      "link": "https://www.abc.net.au/news/2026-01-18/high-seas-treaty-marine-protection-in-effect/106241974",
+      "mean_score": 0.3419,
+      "vader_score": 0.4588,
+      "textblob_score": 0.225,
+      "first_sentence": "The first legally binding international treaty to protect the world's oceans has taken effect.",
+      "timestamp": "2026-01-18T04:13:54Z",
+      "source": "ABC News"
+    },
     {
       "headline": "David Byrne review \u2013 hope, humanity and dancing in a superbly paced and choreographed show",
       "link": "https://www.theguardian.com/music/2026/jan/18/david-byrne-review-hope-humanity-and-dancing-in-a-superbly-paced-and-choreographed-show",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.5,
       "first_sentence": "Storm Goretti is set to bring heavy snowfall and strong winds across the UK later on Thursday, which could cause travel disruption and damage properties.",
       "timestamp": "2026-01-08T17:28:42Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Cat Burns celebrates 'start of new life' after breast reduction surgery",
-      "link": "https://www.bbc.com/news/articles/c3veww3deddo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3541,
-      "vader_score": 0.5719,
-      "textblob_score": 0.1364,
-      "first_sentence": "Singer and recent Celebrity Traitors finalist Cat Burns has celebrated the start of her \"new life\" following breast reduction surgery.",
-      "timestamp": "2026-01-08T16:59:42Z",
       "source": "BBC News"
     }
   ]
