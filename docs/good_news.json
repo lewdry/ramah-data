@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-18T09:04:23Z",
+  "last run": "2026-01-18T10:04:14Z",
   "stories": [
+    {
+      "headline": "Australian Open 2026: Sabalenka wins; Alcaraz and Raducanu in action on day one \u2013 live",
+      "link": "https://www.theguardian.com/sport/live/2026/jan/18/australian-open-2026-sabalenka-alcaraz-and-raducanu-in-action-on-day-one-live",
+      "mean_score": 0.3396,
+      "vader_score": 0.5719,
+      "textblob_score": 0.1073,
+      "first_sentence": "Alcaraz and Walton are ready.",
+      "timestamp": "2026-01-18T09:52:35Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018Even thinking about Coldplay I get tearful\u2019: Denise Lewis\u2019s honest playlist",
+      "link": "https://www.theguardian.com/music/2026/jan/18/denise-lewis-honest-playlist-queen-whitney-houston-coldplay",
+      "mean_score": 0.5553,
+      "vader_score": 0.5106,
+      "textblob_score": 0.6,
+      "first_sentence": "The former heptathlete throws shapes to Cameo and got gold-medal inspiration from Whitney, but which rapper helps get her out of bed?.",
+      "timestamp": "2026-01-18T09:00:50Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Great Britain edges Australia to win SailGP event in Perth",
       "link": "https://www.abc.net.au/news/2026-01-18/sailgp-perth-great-britain-beats-australia-fremantle/106242568",
@@ -2480,26 +2500,6 @@
       "first_sentence": "New York City Mayor Zohran Mamdani's ambitious campaign pledge to offer universal child care took a significant step forward Thursday.",
       "timestamp": "2026-01-08T21:17:23Z",
       "source": "NPR News"
-    },
-    {
-      "headline": "Who was Renee Nicole Good?",
-      "link": "https://www.npr.org/2026/01/08/nx-s1-5671206/who-was-renee-nicole-good",
-      "mean_score": 0.5702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.7,
-      "first_sentence": "We're continuing to learn more about the 37-year-old woman who was shot and killed by an Immigration and Customs Enforcement officer in Minneapolis on Wednesday.",
-      "timestamp": "2026-01-08T21:13:52Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Venezuela says it is releasing an important number of detainees to \u2018consolidate peace\u2019",
-      "link": "https://www.theguardian.com/world/2026/jan/08/venezuela-to-release-important-number-of-detainees",
-      "mean_score": 0.3366,
-      "vader_score": 0.2732,
-      "textblob_score": 0.4,
-      "first_sentence": "Five days after the US seized Nicol\u00e1s Maduro, Venezuela has announced it is releasing an \u201cimportant number\u201d of detainees in what the congressional president characterised as a gesture to \u201cconsolidate peace\u201d.",
-      "timestamp": "2026-01-08T19:47:14Z",
-      "source": "The Guardian"
     }
   ]
 }
