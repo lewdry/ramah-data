@@ -1,5 +1,35 @@
 [
   {
+    "headline": "'It's incredible, surreal': Skye Newman wins BBC Sound of 2026",
+    "link": "https://www.bbc.com/news/articles/c4g3wd1p7nno?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.5172,
+    "vader_score": 0.5719,
+    "textblob_score": 0.4625,
+    "first_sentence": "Loud, raw, and strikingly honest: Pop singer Skye Newman has won BBC Radio 1's Sound of 2026.",
+    "timestamp": "2026-01-09T00:44:28Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "With five Emmys and two Golden Globes noms, everyone's loving The Pitt",
+    "link": "https://www.abc.net.au/news/2026-01-09/the-pitt-noah-wyle-er-r-scott-gemmill-john-wells/106118716",
+    "mean_score": 0.5247,
+    "vader_score": 0.5994,
+    "textblob_score": 0.45,
+    "first_sentence": "With an ensemble cast including George Clooney and Julianna Margulies (The Good Wife), the Chicago-set series was praised for its realism, pace and the way it dove into the lives of its characters \u2014 and the toll a medical career can take on a person.",
+    "timestamp": "2026-01-09T00:10:46Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Human eggs \u2018rejuvenated\u2019 in advance that could boost IVF success rates",
+    "link": "https://www.theguardian.com/science/2026/jan/09/human-eggs-rejuvenated-in-advance-that-could-boost-ivf-success-rates",
+    "mean_score": 0.4503,
+    "vader_score": 0.7506,
+    "textblob_score": 0.15,
+    "first_sentence": "Scientists claim to have \u201crejuvenated\u201d human eggs for the first time in an advance that they predict could revolutionise IVF success rates for older women.",
+    "timestamp": "2026-01-09T00:01:22Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Mamdani says New York child care expansion a real step to fulfilling campaign pledge",
     "link": "https://www.npr.org/2026/01/08/nx-s1-5671045/nyc-mayor-mamdani-discusses-new-york-state-expansion-of-childcare-funding",
     "mean_score": 0.331,
