@@ -1,6 +1,36 @@
 {
-  "last run": "2026-01-18T07:05:02Z",
+  "last run": "2026-01-18T08:04:47Z",
   "stories": [
+    {
+      "headline": "Great Britain edges Australia to win SailGP event in Perth",
+      "link": "https://www.abc.net.au/news/2026-01-18/sailgp-perth-great-britain-beats-australia-fremantle/106242568",
+      "mean_score": 0.818,
+      "vader_score": 0.836,
+      "textblob_score": 0.8,
+      "first_sentence": "Reigning Sail Grand Prix champions Great Britain have made the best possible start to season 2026, taking the win in Fremantle with a strong two-day performance culminating with victory in Sunday's final.",
+      "timestamp": "2026-01-18T07:21:20Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Why the Lumie Bodyclock Glow sunrise alarm clock is the best wake-up under the sun",
+      "link": "https://www.theguardian.com/thefilter/2026/jan/18/lumie-bodyclock-glow-150-sunrise-alarm-clock-review",
+      "mean_score": 0.7107,
+      "vader_score": 0.4215,
+      "textblob_score": 1.0,
+      "first_sentence": "The Guardian\u2019s journalism is independent.",
+      "timestamp": "2026-01-18T07:00:50Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "'It's all about fun': Cosplayers unite in celebration of geek culture",
+      "link": "https://www.abc.net.au/news/2026-01-18/geektacular-nt-darwin-is-geek-culture-cool-nerd-community/106241848",
+      "mean_score": 0.3306,
+      "vader_score": 0.3612,
+      "textblob_score": 0.3,
+      "first_sentence": "The pop cultural Zeitgeist was captivated by the recent Stanger Things finale, a long-awaited conclusion wrapping up the popular TV show that initially centred on a group of nerdy kids playing Dungeons & Dragons.",
+      "timestamp": "2026-01-18T05:51:19Z",
+      "source": "ABC News"
+    },
     {
       "headline": "World's first legally binding treaty to protect oceans takes effect",
       "link": "https://www.abc.net.au/news/2026-01-18/high-seas-treaty-marine-protection-in-effect/106241974",
@@ -30,6 +60,16 @@
       "first_sentence": "Snowboard king Scotty James has dazzled to reign supreme in the last World Cup halfpipe event before the Olympics, where he\u2019ll be seeking an elusive gold medal.",
       "timestamp": "2026-01-18T01:32:10Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "I want to show the world what Africa is - YouTube star brings joy and tears on tour",
+      "link": "https://www.bbc.com/news/articles/c5y5le7yl7po?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.647,
+      "vader_score": 0.4939,
+      "textblob_score": 0.8,
+      "first_sentence": "One of the world's most popular content creators has been attracting huge crowds, mostly his young fans, as he undertakes a 20-nation tour of Africa, a continent he says is \"full of surprises\".",
+      "timestamp": "2026-01-18T00:21:02Z",
+      "source": "BBC News"
     },
     {
       "headline": "Live: Local wildcard nabs first win of Aus Open as thousands of fans stuck outside",
@@ -2460,46 +2500,6 @@
       "first_sentence": "Five days after the US seized Nicol\u00e1s Maduro, Venezuela has announced it is releasing an \u201cimportant number\u201d of detainees in what the congressional president characterised as a gesture to \u201cconsolidate peace\u201d.",
       "timestamp": "2026-01-08T19:47:14Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "What landlords are obliged to do to cool your rental",
-      "link": "https://www.abc.net.au/news/2026-01-09/what-rental-landlords-are-obliged-to-do-to-cool-homes/106209220",
-      "mean_score": 0.3341,
-      "vader_score": 0.3182,
-      "textblob_score": 0.35,
-      "first_sentence": "As Australia swelters through its first heatwave of the year, renters will be looking at how to keep their homes cool.",
-      "timestamp": "2026-01-08T18:57:40Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Weather system brews \u2018perfect storm\u2019 for abnormally intense heatwave",
-      "link": "https://www.abc.net.au/news/2026-01-09/heatwave-fire-threat-peaking-as-temps-hit-record-high/106211144",
-      "mean_score": 0.3386,
-      "vader_score": 0.0772,
-      "textblob_score": 0.6,
-      "first_sentence": "A large swathe of the country will again bake through 40 to 45 degrees Celsius heat today, as a scorching north-westerly airstream from the outback strengthens and stretches the hot airmass from northern WA back to the Victorian coast.",
-      "timestamp": "2026-01-08T18:29:34Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Ruth Jones excited by first drama role in Netflix series",
-      "link": "https://www.bbc.com/news/articles/cgl80998lk3o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3263,
-      "vader_score": 0.34,
-      "textblob_score": 0.3125,
-      "first_sentence": "Gavin and Stacey star Ruth Jones has revealed her excitement at taking on her first role away from comedy in a top Netflix crime series.",
-      "timestamp": "2026-01-08T18:00:06Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "How to stay safe during a storm and what to do in a power cut",
-      "link": "https://www.bbc.com/news/articles/cm2ezv1e680o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3512,
-      "vader_score": 0.2023,
-      "textblob_score": 0.5,
-      "first_sentence": "Storm Goretti is set to bring heavy snowfall and strong winds across the UK later on Thursday, which could cause travel disruption and damage properties.",
-      "timestamp": "2026-01-08T17:28:42Z",
-      "source": "BBC News"
     }
   ]
 }
