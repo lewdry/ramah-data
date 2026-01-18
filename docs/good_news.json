@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-18T12:06:04Z",
+  "last run": "2026-01-18T13:11:37Z",
   "stories": [
+    {
+      "headline": "\u2018I looked exceptional but I was out of breath\u2019: the bodybuilder who switched to mindful movement",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/18/bodybuilder-obsessed-lifting-weights-switched-mindful-movement",
+      "mean_score": 0.3333,
+      "vader_score": 0.0,
+      "textblob_score": 0.6667,
+      "first_sentence": "That quest became an obsession: \u201cHow can I push myself to these extreme points, and then do it again and again and become better than last time?\u201d He followed unsafe protocols shared by bodybuilding gurus to make his muscles pop, dangerously dehydrating his body ahead of competitions.",
+      "timestamp": "2026-01-18T12:00:54Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Sabalenka is a worthy lead in the theatre of tennis",
       "link": "https://www.abc.net.au/news/2026-01-18/australian-open-aryna-sabalenka-first-round-melbourne-park/106242750",
@@ -50,6 +60,16 @@
       "first_sentence": "The former heptathlete throws shapes to Cameo and got gold-medal inspiration from Whitney, but which rapper helps get her out of bed?.",
       "timestamp": "2026-01-18T09:00:50Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "Mum thanks strangers who rescued nine-month-old baby from burning car",
+      "link": "https://www.bbc.com/news/articles/cvgjvrggnvno?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4454,
+      "vader_score": 0.6908,
+      "textblob_score": 0.2,
+      "first_sentence": "A mother has thanked two strangers who rescued her nine-month-old baby from her burning car moments before it was engulfed in flames.",
+      "timestamp": "2026-01-18T07:27:59Z",
+      "source": "BBC News"
     },
     {
       "headline": "Great Britain edges Australia to win SailGP event in Perth",
@@ -130,6 +150,16 @@
       "first_sentence": "Local wildcard Talia Gibson has become the first winner on day one of the Australian Open, while top seeds Carlos Alcaraz and Aryna Sabalenka are the main attractions tonight.",
       "timestamp": "2026-01-17T23:22:43Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "He loved his millennial style at 41. Then came the mockery",
+      "link": "https://www.bbc.com/news/articles/c78vw30p1d2o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5409,
+      "vader_score": 0.3818,
+      "textblob_score": 0.7,
+      "first_sentence": "He diligently shares mirror selfies on Instagram, where everyone knows the more likes you get, the cooler you are.",
+      "timestamp": "2026-01-17T23:08:39Z",
+      "source": "BBC News"
     },
     {
       "headline": "European Union and Mercosur bloc of South American nations sign landmark free trade agreement",
@@ -2470,36 +2500,6 @@
       "first_sentence": "A PHD student appearing in the latest series of Traitors, is being \"true to herself\" on the show, fellow students say.",
       "timestamp": "2026-01-09T06:29:09Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "The 'superhero' oyster species helping to clean water",
-      "link": "https://www.bbc.com/news/articles/c3wz8qzv1zwo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.483,
-      "vader_score": 0.5994,
-      "textblob_score": 0.3667,
-      "first_sentence": "Thousands of European oysters have been placed on the Belfast Lough seabed, in a bid to bring back native reefs that had almost disappeared.",
-      "timestamp": "2026-01-09T06:16:10Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Helen Goh\u2019s recipe for baked apples with lemon and tahini | The sweet spot",
-      "link": "https://www.theguardian.com/food/2026/jan/09/baked-apples-with-lemon-and-tahini-recipe-helen-goh",
-      "mean_score": 0.4044,
-      "vader_score": 0.4588,
-      "textblob_score": 0.35,
-      "first_sentence": "After the excesses of December, these baked apples are a light, refreshing vegan pudding.",
-      "timestamp": "2026-01-09T06:00:29Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Experience: I\u2019m Britain\u2019s best gravedigger",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/09/experience-best-gravedigger-britain-good-funeral-awards",
-      "mean_score": 0.8185,
-      "vader_score": 0.6369,
-      "textblob_score": 1.0,
-      "first_sentence": "Not many people can say their happy place is a\u00a0cemetery, but mine certainly is.",
-      "timestamp": "2026-01-09T05:00:30Z",
-      "source": "The Guardian"
     }
   ]
 }
