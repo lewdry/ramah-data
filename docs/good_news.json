@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-18T19:03:52Z",
+  "last run": "2026-01-18T20:04:32Z",
   "stories": [
+    {
+      "headline": "Smith amuses and delights, England all-rounder stars as Sixers lock in finals",
+      "link": "https://www.abc.net.au/news/2026-01-19/steve-smith-sam-curran-fire-sixers-to-bbl-finals/106242754",
+      "mean_score": 0.3454,
+      "vader_score": 0.6908,
+      "textblob_score": 0.0,
+      "first_sentence": "The Sydney Sixers secured a BBL finals berth with a five-wicket win over the Brisbane Heat at the Gabba.",
+      "timestamp": "2026-01-18T19:39:43Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "AI is an ethical, social and economic nightmare \u2014 and we're starting to wake up",
+      "link": "https://www.abc.net.au/news/2026-01-19/ai-grok-ethical-social-and-economic-nightmare/106242320",
+      "mean_score": 0.3095,
+      "vader_score": 0.5106,
+      "textblob_score": 0.1083,
+      "first_sentence": "As 2025 began, I thought humanity's biggest problem was climate change.",
+      "timestamp": "2026-01-18T19:01:31Z",
+      "source": "ABC News"
+    },
     {
       "headline": "\u2018It felt amazing to be on the start line again\u2019: the rugby pro who became paralysed \u2013 and is aiming for the Paralympic Games",
       "link": "https://www.theguardian.com/lifeandstyle/2026/jan/18/rugby-pro-car-crash-disabled-aiming-paralympic-games",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.3333,
       "first_sentence": "Car journeys with my partner are a nightmare.",
       "timestamp": "2026-01-09T14:00:39Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Cocktail of the week: The American Bar at Gleneagles\u2019 smoked cherry \u2013 recipe | The good mixer",
-      "link": "https://www.theguardian.com/food/2026/jan/09/cocktail-of-the-week-the-american-bar-at-gleneagles-smoked-cherry-recipe",
-      "mean_score": 0.3952,
-      "vader_score": 0.4404,
-      "textblob_score": 0.35,
-      "first_sentence": "If, like many people, you\u2019ve got an opened jar of cocktail cherries in the fridge after the festivities, here\u2019s a very classy way to use up some of the syrup.",
-      "timestamp": "2026-01-09T13:00:37Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Tell us about a friend you met at the right moment in your life",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/09/tell-us-about-a-friend-you-met-at-the-right-moment-in-your-life",
-      "mean_score": 0.3898,
-      "vader_score": 0.4939,
-      "textblob_score": 0.2857,
-      "first_sentence": "Do you have a friend who was the right person at the right time? Did they become a great source of support because you met at a certain moment in your life or a particular shared set of circumstances brought you together?.",
-      "timestamp": "2026-01-09T12:25:17Z",
       "source": "The Guardian"
     }
   ]
