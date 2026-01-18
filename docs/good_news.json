@@ -1,6 +1,36 @@
 {
-  "last run": "2026-01-18T01:32:59Z",
+  "last run": "2026-01-18T02:47:10Z",
   "stories": [
+    {
+      "headline": "David Byrne review \u2013 hope, humanity and dancing in a superbly paced and choreographed show",
+      "link": "https://www.theguardian.com/music/2026/jan/18/david-byrne-review-hope-humanity-and-dancing-in-a-superbly-paced-and-choreographed-show",
+      "mean_score": 0.7202,
+      "vader_score": 0.4404,
+      "textblob_score": 1.0,
+      "first_sentence": "Dressed from head to foot in iridescent orange, David Byrne and his 12-piece backing band look as if they\u2019re about to burst into flames.",
+      "timestamp": "2026-01-18T01:51:49Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Australia dominate snowboard halfpipe as Scotty James wins final World Cup before Olympics",
+      "link": "https://www.theguardian.com/sport/2026/jan/18/australia-snowboard-halfpipe-scotty-james-wins-world-cup-winter-olympics",
+      "mean_score": 0.322,
+      "vader_score": 0.4939,
+      "textblob_score": 0.15,
+      "first_sentence": "Snowboard king Scotty James has dazzled to reign supreme in the last World Cup halfpipe event before the Olympics, where he\u2019ll be seeking an elusive gold medal.",
+      "timestamp": "2026-01-18T01:32:10Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Live: Local wildcard nabs first win of Aus Open as thousands of fans stuck outside",
+      "link": "https://www.abc.net.au/news/2026-01-18/australian-open-2026-live-updates-sabalenka-alcaraz-berrettini/106238282",
+      "mean_score": 0.3096,
+      "vader_score": 0.4215,
+      "textblob_score": 0.1977,
+      "first_sentence": "Local wildcard Talia Gibson has become the first winner on day one of the Australian Open, while top seeds Carlos Alcaraz and Aryna Sabalenka are the main attractions tonight.",
+      "timestamp": "2026-01-17T23:22:43Z",
+      "source": "ABC News"
+    },
     {
       "headline": "European Union and Mercosur bloc of South American nations sign landmark free trade agreement",
       "link": "https://apnews.com/article/mercosur-european-union-trade-agreement-south-america-b779460da4b7ecb6aa15d322976fa70d",
@@ -2470,36 +2500,6 @@
       "first_sentence": "Singer and recent Celebrity Traitors finalist Cat Burns has celebrated the start of her \"new life\" following breast reduction surgery.",
       "timestamp": "2026-01-08T16:59:42Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "B\u00e9la Tarr\u2019s quest for cinematic perfection made him my ideal, impossible mentor | L\u00e1szl\u00f3 Nemes",
-      "link": "https://www.theguardian.com/film/2026/jan/08/bela-tarr-director-cinematic-perfection-mentor-laszlo-nemes",
-      "mean_score": 0.4371,
-      "vader_score": 0.7964,
-      "textblob_score": 0.0778,
-      "first_sentence": "The last time I saw B\u00e9la Tarr was a few years ago at the Nexus conference in Amsterdam.",
-      "timestamp": "2026-01-08T16:31:35Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "One of UK\u2019s largest concert instruments will sound again after being restored to glory",
-      "link": "https://www.theguardian.com/uk-news/2026/jan/08/bristol-britton-organ-concert-instrument-restored",
-      "mean_score": 0.5548,
-      "vader_score": 0.7096,
-      "textblob_score": 0.4,
-      "first_sentence": "Your browser doesn't support HTML5 video.",
-      "timestamp": "2026-01-08T16:00:11Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Matt Damon\u2019s best films \u2013 ranked!",
-      "link": "https://www.theguardian.com/film/2026/jan/08/matt-damons-best-films-ranked",
-      "mean_score": 0.8348,
-      "vader_score": 0.6696,
-      "textblob_score": 1.0,
-      "first_sentence": "Matt Damon is essentially a bland dish that requires the right spice truly to zing, which means he is often at his best when playing beastly.",
-      "timestamp": "2026-01-08T14:35:04Z",
-      "source": "The Guardian"
     }
   ]
 }
