@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-19T11:05:46Z",
+  "last run": "2026-01-19T12:07:38Z",
   "stories": [
+    {
+      "headline": "NHS trust used charity funds for leaving party",
+      "link": "https://www.bbc.com/news/articles/ce8eg6nexkdo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4158,
+      "vader_score": 0.8316,
+      "textblob_score": 0.0,
+      "first_sentence": "An under-fire NHS trust has apologised after using money from charitable funds to throw a leaving party for its former chairman.",
+      "timestamp": "2026-01-19T11:38:06Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "\u2018I love that there\u2019s this big gay thing in the middle of Scotland\u2019: Ian McKellen and Graham Norton join Alan Cumming for Out in the Hills",
+      "link": "https://www.theguardian.com/stage/2026/jan/19/i-love-that-theres-this-big-gay-thing-in-the-middle-of-scotland-ian-mckellen-and-graham-norton-join-alan-cumming-for-out-in-the-hills",
+      "mean_score": 0.4899,
+      "vader_score": 0.7506,
+      "textblob_score": 0.2292,
+      "first_sentence": "Sir Ian McKellen is on stage blowing up a red balloon.",
+      "timestamp": "2026-01-19T11:14:47Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "\u2018Remarkable\u2019 UPS driver ran into burning home to save woman, 101",
       "link": "https://www.theguardian.com/us-news/2026/jan/19/ups-driver-saves-woman-house-fire-la",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Populations of endangered animals on Kangaroo Island have increased by 90 to 100 per cent in five years.",
       "timestamp": "2026-01-10T19:57:21Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "My daughter showed me the joy in jigsaw puzzles \u2013 now it\u2019s the only way I know how to relax | Nova Weetman",
-      "link": "https://www.theguardian.com/commentisfree/2026/jan/11/jigsaw-person-simplicity-meditation-relaxing",
-      "mean_score": 0.5858,
-      "vader_score": 0.7717,
-      "textblob_score": 0.4,
-      "first_sentence": "When my daughter first started kindergarten many years ago, she\u2019d walk into the room and head straight for the puzzle table.",
-      "timestamp": "2026-01-10T19:00:06Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018It doesn\u2019t really hit your socials\u2019: Is this Australia\u2019s best kept sporting secret? | Sarah Guiney",
-      "link": "https://www.theguardian.com/sport/2026/jan/11/ice-hockey-australia-sporting-secret-heated-rivalry-christina-julien",
-      "mean_score": 0.4518,
-      "vader_score": 0.6369,
-      "textblob_score": 0.2667,
-      "first_sentence": "If there is one thing Australians pride themselves on, it\u2019s playing sport in the elements.",
-      "timestamp": "2026-01-10T19:00:04Z",
-      "source": "The Guardian"
     }
   ]
 }

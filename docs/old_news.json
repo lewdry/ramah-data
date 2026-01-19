@@ -1,5 +1,25 @@
 [
   {
+    "headline": "My daughter showed me the joy in jigsaw puzzles \u2013 now it\u2019s the only way I know how to relax | Nova Weetman",
+    "link": "https://www.theguardian.com/commentisfree/2026/jan/11/jigsaw-person-simplicity-meditation-relaxing",
+    "mean_score": 0.5858,
+    "vader_score": 0.7717,
+    "textblob_score": 0.4,
+    "first_sentence": "When my daughter first started kindergarten many years ago, she\u2019d walk into the room and head straight for the puzzle table.",
+    "timestamp": "2026-01-10T19:00:06Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "\u2018It doesn\u2019t really hit your socials\u2019: Is this Australia\u2019s best kept sporting secret? | Sarah Guiney",
+    "link": "https://www.theguardian.com/sport/2026/jan/11/ice-hockey-australia-sporting-secret-heated-rivalry-christina-julien",
+    "mean_score": 0.4518,
+    "vader_score": 0.6369,
+    "textblob_score": 0.2667,
+    "first_sentence": "If there is one thing Australians pride themselves on, it\u2019s playing sport in the elements.",
+    "timestamp": "2026-01-10T19:00:04Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "TV psychologist on inspiring Prince Naseem film",
     "link": "https://www.bbc.com/news/articles/c620z7z33nmo?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.4607,
