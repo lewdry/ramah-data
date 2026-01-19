@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-19T16:05:57Z",
+  "last run": "2026-01-19T17:06:30Z",
   "stories": [
+    {
+      "headline": "Positive thinking could boost immune response to vaccines, say scientists",
+      "link": "https://www.theguardian.com/society/2026/jan/19/positive-thinking-could-boost-immune-response-to-vaccines-study-finds",
+      "mean_score": 0.5224,
+      "vader_score": 0.8176,
+      "textblob_score": 0.2273,
+      "first_sentence": "Positive thoughts may boost the immune system according to research that points to a connection between the mind and our body\u2019s natural defences.",
+      "timestamp": "2026-01-19T16:08:10Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Nine easy swaps to reduce ultra-processed foods in your diet: it\u2019s not an \u2018all-or-nothing approach\u2019",
       "link": "https://www.theguardian.com/food/2026/jan/19/nine-easy-swaps-to-reduce-ultra-processed-foods-in-your-diet-its-not-an-all-or-nothing-approach",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Sinners, Marty Supreme and One Battle After Another are among the films set to compete at the Golden Globe Awards on Sunday night.",
       "timestamp": "2026-01-11T01:42:16Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Dear Son review \u2013 essays by famous Indigenous fathers make for incredibly moving theatre",
-      "link": "https://www.theguardian.com/stage/2026/jan/11/dear-son-review-essays-by-famous-indigenous-fathers-make-for-incredibly-moving-theatre",
-      "mean_score": 0.5409,
-      "vader_score": 0.3818,
-      "textblob_score": 0.7,
-      "first_sentence": "Such culturally specific yet delightfully accessible humour regularly lightens the wide-ranging, mostly weighty load of Dear Son, the theatrical adaptation of Thomas Mayo\u2019s 2021 collection of essays about fatherhood by 13 prominent Aboriginal and Torres Strait Islander men.",
-      "timestamp": "2026-01-11T00:21:24Z",
-      "source": "The Guardian"
     }
   ]
 }
