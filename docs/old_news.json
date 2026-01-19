@@ -1,5 +1,25 @@
 [
   {
+    "headline": "After a scorching heatwave, some Australians woke to a cool change. Here's why",
+    "link": "https://www.sbs.com.au/news/article/whats-the-weather-after-the-heatwave/rhbhojy2l",
+    "mean_score": 0.3341,
+    "vader_score": 0.3182,
+    "textblob_score": 0.35,
+    "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+    "timestamp": "2026-01-11T02:04:54Z",
+    "source": "SBS News"
+  },
+  {
+    "headline": "Winners and Sinners: What to expect from the Golden Globes",
+    "link": "https://www.bbc.com/news/articles/c338d55p0k6o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3883,
+    "vader_score": 0.4767,
+    "textblob_score": 0.3,
+    "first_sentence": "Sinners, Marty Supreme and One Battle After Another are among the films set to compete at the Golden Globe Awards on Sunday night.",
+    "timestamp": "2026-01-11T01:42:16Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Dear Son review \u2013 essays by famous Indigenous fathers make for incredibly moving theatre",
     "link": "https://www.theguardian.com/stage/2026/jan/11/dear-son-review-essays-by-famous-indigenous-fathers-make-for-incredibly-moving-theatre",
     "mean_score": 0.5409,

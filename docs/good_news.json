@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-19T18:05:49Z",
+  "last run": "2026-01-19T19:05:25Z",
   "stories": [
+    {
+      "headline": "How powerlifting made me feel good at sport",
+      "link": "https://www.abc.net.au/news/2026-01-20/how-powerlifting-gave-me-back-the-power-to-feel-good-at-sport/106234088",
+      "mean_score": 0.5702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.7,
+      "first_sentence": "Movement was fun and instinctive.",
+      "timestamp": "2026-01-19T18:30:00Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Arizona a unanimous No. 1 for first time, Saint Louis and Miami of Ohio join AP Top 25",
+      "link": "https://apnews.com/article/ap-top-25-arizona-miami-ohio-215ad8f1cfb9bbe7a66bad2dada9af06",
+      "mean_score": 0.4169,
+      "vader_score": 0.4588,
+      "textblob_score": 0.375,
+      "first_sentence": "Arizona is the unanimous No.",
+      "timestamp": "2026-01-19T18:23:02Z",
+      "source": "AP News"
+    },
     {
       "headline": "Positive thinking could boost immune response to vaccines, say scientists",
       "link": "https://www.theguardian.com/society/2026/jan/19/positive-thinking-could-boost-immune-response-to-vaccines-study-finds",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.5,
       "first_sentence": "Three lynx that were found starving after being abandoned in the Highlands a year ago are now thriving in a wildlife park, say their keepers.",
       "timestamp": "2026-01-11T02:36:56Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "After a scorching heatwave, some Australians woke to a cool change. Here's why",
-      "link": "https://www.sbs.com.au/news/article/whats-the-weather-after-the-heatwave/rhbhojy2l",
-      "mean_score": 0.3341,
-      "vader_score": 0.3182,
-      "textblob_score": 0.35,
-      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-      "timestamp": "2026-01-11T02:04:54Z",
-      "source": "SBS News"
-    },
-    {
-      "headline": "Winners and Sinners: What to expect from the Golden Globes",
-      "link": "https://www.bbc.com/news/articles/c338d55p0k6o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3883,
-      "vader_score": 0.4767,
-      "textblob_score": 0.3,
-      "first_sentence": "Sinners, Marty Supreme and One Battle After Another are among the films set to compete at the Golden Globe Awards on Sunday night.",
-      "timestamp": "2026-01-11T01:42:16Z",
       "source": "BBC News"
     }
   ]
