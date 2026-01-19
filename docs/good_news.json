@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-19T14:08:17Z",
+  "last run": "2026-01-19T15:06:24Z",
   "stories": [
+    {
+      "headline": "Nine easy swaps to reduce ultra-processed foods in your diet: it\u2019s not an \u2018all-or-nothing approach\u2019",
+      "link": "https://www.theguardian.com/food/2026/jan/19/nine-easy-swaps-to-reduce-ultra-processed-foods-in-your-diet-its-not-an-all-or-nothing-approach",
+      "mean_score": 0.4369,
+      "vader_score": 0.4404,
+      "textblob_score": 0.4333,
+      "first_sentence": "Australia, alongside the US and UK, has one of the world\u2019s highest consumption rates of ultra-processed foods which have been linked to \u201cmultiple diet-related chronic diseases\u201d, according to a global report of which Lawrence was a co-author.",
+      "timestamp": "2026-01-19T14:00:27Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "In Davos, the rich talk about \u2018global threats\u2019. Here\u2019s why they\u2019re silent about the biggest of them all | Ingrid Robeyns",
       "link": "https://www.theguardian.com/global/2026/jan/19/davos-rich-global-threat-economic-inequality-wealth",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Such culturally specific yet delightfully accessible humour regularly lightens the wide-ranging, mostly weighty load of Dear Son, the theatrical adaptation of Thomas Mayo\u2019s 2021 collection of essays about fatherhood by 13 prominent Aboriginal and Torres Strait Islander men.",
       "timestamp": "2026-01-11T00:21:24Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "The 'wonderful and unusual' heyday of an island's underwater observatory",
-      "link": "https://www.abc.net.au/news/2026-01-11/great-keppel-island-underwater-observatory-star-attraction/105282860",
-      "mean_score": 0.5859,
-      "vader_score": 0.5719,
-      "textblob_score": 0.6,
-      "first_sentence": "That's how Coral Wedd would answer the phone in the 1980s at the Middle Island Underwater Observatory's souvenir shop in the Pacific Ocean off Queensland.",
-      "timestamp": "2026-01-10T22:34:40Z",
-      "source": "ABC News"
     }
   ]
 }
