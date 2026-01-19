@@ -1,5 +1,5 @@
 {
-  "last run": "2026-01-19T07:10:40Z",
+  "last run": "2026-01-19T08:06:39Z",
   "stories": [
     {
       "headline": "Wide sandy beaches and amazing seafood in western France",
@@ -120,6 +120,16 @@
       "first_sentence": "The world saw a record number of billionaires created last year, with a collective wealth of $18.3tn (\u00a313.7tn), while global efforts stalled in the fight against poverty and hunger.",
       "timestamp": "2026-01-19T00:01:08Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "Live: Australia's perfect start brought to shuddering halt on day two",
+      "link": "https://www.abc.net.au/news/2026-01-19/australian-open-2026-live-alex-de-minaur-novak-djokovic/106243798",
+      "mean_score": 0.57,
+      "vader_score": 0.5719,
+      "textblob_score": 0.5682,
+      "first_sentence": "Australian wildcard Priscilla Hon gets her first main draw singles win at Melbourne Park since 2020 as Marina Stakusic succumbs to cramps, while men's sixth seed Alex de Minaur starts his grand slam campaign with a straightforward victory on Rod Laver Arena.",
+      "timestamp": "2026-01-18T23:12:53Z",
+      "source": "ABC News"
     },
     {
       "headline": "Lambert breaks through for maiden World Cup win on eve of Olympics",
@@ -2484,16 +2494,6 @@
     {
       "headline": "PHOTOS: Laundry is a chore but there's a beauty and serenity in the way it hangs out",
       "link": "https://www.npr.org/sections/goats-and-soda/2026/01/10/g-s1-105239/photos-laundry-is-a-chore-but-theres-a-beauty-and-serenity-in-the-way-it-hangs-out",
-      "mean_score": 0.3675,
-      "vader_score": 0.7351,
-      "textblob_score": 0.0,
-      "first_sentence": "In early February, Macy Casta\u00f1eda Lee took a motorbike ride along the Siem Reap River out to the large green swaths of rice and lotus fields that pepper the outskirts of the Cambodian city.",
-      "timestamp": "2026-01-10T12:10:47Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "PHOTOS: Laundry is a chore but there's a beauty and serenity in the way it hangs out",
-      "link": "https://www.npr.org/sections/goats-and-soda/2026/01/10/g-s1-105239/photos-laundry-philippines",
       "mean_score": 0.3675,
       "vader_score": 0.7351,
       "textblob_score": 0.0,
