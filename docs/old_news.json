@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Morocco sail into Afcon semi-finals as D\u00edaz sparks fine win over Cameroon",
+    "link": "https://www.theguardian.com/football/2026/jan/09/cameroon-morocco-africa-cup-of-nations-quarter-final-match-report",
+    "mean_score": 0.6446,
+    "vader_score": 0.6808,
+    "textblob_score": 0.6083,
+    "first_sentence": "At last, Morocco have arrived at the tournament they are hosting.",
+    "timestamp": "2026-01-09T21:25:21Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "US film stars Meagan Good and Jonathan Majors to become Guinea citizens after DNA tests",
+    "link": "https://www.bbc.com/news/articles/c8d04zp8m26o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.5702,
+    "vader_score": 0.4404,
+    "textblob_score": 0.7,
+    "first_sentence": "Husband and wife movie stars Meagan Good and Jonathan Majors have travelled to Guinea, where the US couple are due to be granted citizenship after tracing their ancestry to the West African nation through DNA testing.",
+    "timestamp": "2026-01-09T18:36:51Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Is Orion\u2019s heat shield really safe? New NASA chief conducts final review on eve of flight.",
     "link": "https://arstechnica.com/space/2026/01/nasa-chief-reviews-orion-heat-shield-expresses-full-confidence-in-it-for-artemis-ii/",
     "mean_score": 0.3524,

@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-18T23:04:20Z",
+  "last run": "2026-01-19T00:16:52Z",
   "stories": [
+    {
+      "headline": "Socks, salsa and stand-up comedy... easy ways to find joy in January",
+      "link": "https://www.bbc.com/news/articles/cql4e2yele4o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.7324,
+      "vader_score": 0.8481,
+      "textblob_score": 0.6167,
+      "first_sentence": "There is a reason it is called Blue Monday.",
+      "timestamp": "2026-01-19T00:04:16Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Oxfam says super rich should be taxed to tackle inequality",
+      "link": "https://www.abc.net.au/news/2026-01-19/income-inequality-oxfam-report-calls-to-tax-billionaires/106236612",
+      "mean_score": 0.5859,
+      "vader_score": 0.8176,
+      "textblob_score": 0.3542,
+      "first_sentence": "Oxfam Australia is calling on the federal government to tax the super rich to help tackle growing inequality.",
+      "timestamp": "2026-01-19T00:02:59Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Lambert breaks through for maiden World Cup win on eve of Olympics",
       "link": "https://www.abc.net.au/news/2026-01-19/adam-lambert-snowboard-cross-world-cup-win-china/106243394",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.5,
       "first_sentence": "She was a finalist in the Miss Scotland beauty pageant, then started a new job travelling the world as an airline steward.",
       "timestamp": "2026-01-09T22:48:12Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Morocco sail into Afcon semi-finals as D\u00edaz sparks fine win over Cameroon",
-      "link": "https://www.theguardian.com/football/2026/jan/09/cameroon-morocco-africa-cup-of-nations-quarter-final-match-report",
-      "mean_score": 0.6446,
-      "vader_score": 0.6808,
-      "textblob_score": 0.6083,
-      "first_sentence": "At last, Morocco have arrived at the tournament they are hosting.",
-      "timestamp": "2026-01-09T21:25:21Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "US film stars Meagan Good and Jonathan Majors to become Guinea citizens after DNA tests",
-      "link": "https://www.bbc.com/news/articles/c8d04zp8m26o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.7,
-      "first_sentence": "Husband and wife movie stars Meagan Good and Jonathan Majors have travelled to Guinea, where the US couple are due to be granted citizenship after tracing their ancestry to the West African nation through DNA testing.",
-      "timestamp": "2026-01-09T18:36:51Z",
       "source": "BBC News"
     }
   ]
