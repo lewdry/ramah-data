@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-19T13:18:37Z",
+  "last run": "2026-01-19T14:08:17Z",
   "stories": [
+    {
+      "headline": "In Davos, the rich talk about \u2018global threats\u2019. Here\u2019s why they\u2019re silent about the biggest of them all | Ingrid Robeyns",
+      "link": "https://www.theguardian.com/global/2026/jan/19/davos-rich-global-threat-economic-inequality-wealth",
+      "mean_score": 0.3412,
+      "vader_score": 0.5574,
+      "textblob_score": 0.125,
+      "first_sentence": "This week, hundreds of government leaders, heads of state, and business executives are gathering at the annual meeting of the World Economic Forum (WEF) in Davos.",
+      "timestamp": "2026-01-19T13:10:34Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Rukmini Iyer\u2019s quick and easy recipe for harissa-spiked orzo with chickpeas and pine nuts | Quick and easy",
       "link": "https://www.theguardian.com/food/2026/jan/19/quick-and-easy-harissa-spiked-orzo-recipe-chickpeas-pine-nuts-rukmini-iyer",
@@ -2490,16 +2500,6 @@
       "first_sentence": "That's how Coral Wedd would answer the phone in the 1980s at the Middle Island Underwater Observatory's souvenir shop in the Pacific Ocean off Queensland.",
       "timestamp": "2026-01-10T22:34:40Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Chelsea thrash Charlton to get Liam Rosenior era off to winning start",
-      "link": "https://www.theguardian.com/football/2026/jan/10/charlton-chelsea-premier-league-match-report",
-      "mean_score": 0.5133,
-      "vader_score": 0.5267,
-      "textblob_score": 0.5,
-      "first_sentence": "It sums up the uneasy state of affairs at Chelsea that the new head coach winning his first match in charge was not enough to stop the mutiny.",
-      "timestamp": "2026-01-10T22:08:57Z",
-      "source": "The Guardian"
     }
   ]
 }
