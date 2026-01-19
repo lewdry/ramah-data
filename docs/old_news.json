@@ -1,5 +1,25 @@
 [
   {
+    "headline": "TV psychologist on inspiring Prince Naseem film",
+    "link": "https://www.bbc.com/news/articles/c620z7z33nmo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4607,
+    "vader_score": 0.4215,
+    "textblob_score": 0.5,
+    "first_sentence": "A psychologist behind a new movie about former world champion boxer Prince Naseem Hamed and his turbulent partnership with his trainer said it shows exactly how \"relationships develop and can break down\".",
+    "timestamp": "2026-01-10T14:58:56Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Coco Gauff beats Iga Swiatek but Poland best US to reach United Cup final",
+    "link": "https://www.theguardian.com/sport/2026/jan/10/aryna-sabalenka-powers-past-karolina-muchova-into-brisbane-international-tennis-final",
+    "mean_score": 0.6961,
+    "vader_score": 0.8922,
+    "textblob_score": 0.5,
+    "first_sentence": "A statement victory for Coco Gauff over her great rival Iga Swiatek proved to be insufficient to the American\u2019s hopes of leading her team into the final of the United Cup.",
+    "timestamp": "2026-01-10T14:53:41Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Macclesfield pull off FA Cup\u2019s greatest shock by knocking out holders Crystal Palace",
     "link": "https://www.theguardian.com/football/2026/jan/10/macclesfield-crystal-palace-fa-cup-match-report",
     "mean_score": 0.6909,
