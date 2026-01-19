@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-19T22:04:20Z",
+  "last run": "2026-01-19T23:04:10Z",
   "stories": [
+    {
+      "headline": "Kostoulas\u2019s brilliant bicycle kick rescues point for Brighton against Bournemouth",
+      "link": "https://www.theguardian.com/football/2026/jan/19/brighton-bournemouth-premier-league-match-report",
+      "mean_score": 0.8135,
+      "vader_score": 0.7269,
+      "textblob_score": 0.9,
+      "first_sentence": "Just when it seemed another match would be dominated by the dreariness of a debatable video assistant referee decision, a moment of majesty from Charalampos Kostoulas provided a pertinent reminder of the beauty that football can provide.",
+      "timestamp": "2026-01-19T22:10:18Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Karen Solie\u2019s Wellwater wins TS Eliot poetry prize",
       "link": "https://www.theguardian.com/culture/2026/jan/19/karen-solies-wellwater-wins-ts-eliot-poetry-prize",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Every week, about 45 new names land on Steph Smith's desk, all hoping for a place at her school.",
       "timestamp": "2026-01-11T06:13:25Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Williams sparks 18-point fightback as Bears oust Packers for first playoff win in 15 years",
-      "link": "https://www.theguardian.com/sport/2026/jan/11/caleb-williams-bears-packers-playoff-comeback",
-      "mean_score": 0.5554,
-      "vader_score": 0.5859,
-      "textblob_score": 0.525,
-      "first_sentence": "Caleb Williams dropped back, pump-faked and found DJ Moore wide open down the sideline for the go-ahead touchdown.",
-      "timestamp": "2026-01-11T05:13:23Z",
-      "source": "The Guardian"
     }
   ]
 }
