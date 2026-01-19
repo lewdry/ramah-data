@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-19T19:05:25Z",
+  "last run": "2026-01-19T20:04:39Z",
   "stories": [
+    {
+      "headline": "Five quick hits: Stan the man wins as Tomljanovi\u0107 tells her dad to 'be quiet'",
+      "link": "https://www.abc.net.au/news/2026-01-20/australian-open-2026-quick-hits/106243998",
+      "mean_score": 0.3915,
+      "vader_score": 0.5719,
+      "textblob_score": 0.2111,
+      "first_sentence": "Day two of the tournament saw several Australians progress into the second round, however none in more strange fashion than Priscilla Hon.",
+      "timestamp": "2026-01-19T19:28:14Z",
+      "source": "ABC News"
+    },
     {
       "headline": "How powerlifting made me feel good at sport",
       "link": "https://www.abc.net.au/news/2026-01-20/how-powerlifting-gave-me-back-the-power-to-feel-good-at-sport/106234088",
@@ -2490,16 +2500,6 @@
       "first_sentence": "The Adelaide festival board did not dump a Jewish columnist from its 2024 lineup at Adelaide writers\u2019 week, despite being lobbied by a group of 10 academics \u2013 including Randa Abdel-Fattah \u2013 to do so.",
       "timestamp": "2026-01-11T04:08:56Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Living their best life? What the Highland lynx did next",
-      "link": "https://www.bbc.com/news/articles/cm2y1ygjmy2o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5685,
-      "vader_score": 0.6369,
-      "textblob_score": 0.5,
-      "first_sentence": "Three lynx that were found starving after being abandoned in the Highlands a year ago are now thriving in a wildlife park, say their keepers.",
-      "timestamp": "2026-01-11T02:36:56Z",
-      "source": "BBC News"
     }
   ]
 }
