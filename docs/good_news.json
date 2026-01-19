@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-19T00:16:52Z",
+  "last run": "2026-01-19T01:33:04Z",
   "stories": [
+    {
+      "headline": "The Papers: 'EU weighs up \u20ac93bn retaliation' and 'Raducanu's fine start'",
+      "link": "https://www.bbc.com/news/articles/cz7yp923gz8o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3095,
+      "vader_score": 0.2023,
+      "textblob_score": 0.4167,
+      "first_sentence": "Sign up for our morning newsletter and get BBC News in your inbox.",
+      "timestamp": "2026-01-19T01:09:33Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "What it's like to play the world number one at the Australian Open",
+      "link": "https://www.abc.net.au/news/2026-01-19/australian-open-adam-walton-carlos-alcaraz-first-round/106244122",
+      "mean_score": 0.3185,
+      "vader_score": 0.6369,
+      "textblob_score": 0.0,
+      "first_sentence": "After reaching a career-high ranking of 74 three months ago, Adam Walton had reason to believe he could cause an upset or two at the Australian Open.",
+      "timestamp": "2026-01-19T00:46:54Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Socks, salsa and stand-up comedy... easy ways to find joy in January",
       "link": "https://www.bbc.com/news/articles/cql4e2yele4o?at_medium=RSS&at_campaign=rss",
@@ -20,6 +40,26 @@
       "first_sentence": "Oxfam Australia is calling on the federal government to tax the super rich to help tackle growing inequality.",
       "timestamp": "2026-01-19T00:02:59Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "Two short but spectacular HS2 tunnels offer glimmer of hope for stalling project",
+      "link": "https://www.theguardian.com/business/2026/jan/19/hs2-tunnels-chilterns",
+      "mean_score": 0.3459,
+      "vader_score": 0.3919,
+      "textblob_score": 0.3,
+      "first_sentence": "Seventy metres down, in deep incognito beneath a disguised ventilation shaft in the Chilterns countryside, lies HS2\u2019s buried treasure: two 10-mile tunnels, built to avoid an area of outstanding natural beauty, eerily spectacular in gleaming concrete.",
+      "timestamp": "2026-01-19T00:01:09Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018Brazen\u2019 political influence of rich laid bare as wealth of billionaires reaches $18.3tn, says Oxfam",
+      "link": "https://www.theguardian.com/global-development/2026/jan/19/brazen-political-influence-rich-laid-bare-wealth-billionaires-inequality-poverty-instability-oxfam",
+      "mean_score": 0.4661,
+      "vader_score": 0.7906,
+      "textblob_score": 0.1417,
+      "first_sentence": "The world saw a record number of billionaires created last year, with a collective wealth of $18.3tn (\u00a313.7tn), while global efforts stalled in the fight against poverty and hunger.",
+      "timestamp": "2026-01-19T00:01:08Z",
+      "source": "The Guardian"
     },
     {
       "headline": "Lambert breaks through for maiden World Cup win on eve of Olympics",
@@ -2460,46 +2500,6 @@
       "first_sentence": "As unmissable as new year\u2019s fireworks, the wolf moon held the\u00a0heavens for the first few nights of January, casting an unearthly radiance over everything, night almost as bright as day.",
       "timestamp": "2026-01-10T05:30:48Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "World\u2019s richest 1% have already used fair share of emissions for 2026, says Oxfam",
-      "link": "https://www.theguardian.com/environment/2026/jan/10/world-richest-used-fair-share-emissions-2026-oxfam",
-      "mean_score": 0.7422,
-      "vader_score": 0.7845,
-      "textblob_score": 0.7,
-      "first_sentence": "The world\u2019s richest 1% have used up their fair share of carbon emissions just 10 days into 2026, analysis has found.",
-      "timestamp": "2026-01-10T05:00:48Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Fidget spinners, filters and carefree fun. What's behind 2016 nostalgia?",
-      "link": "https://www.bbc.com/news/articles/cwy1e605dvgo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3342,
-      "vader_score": 0.7184,
-      "textblob_score": -0.05,
-      "first_sentence": "The Chainsmokers are playing wall to wall, you've perfected your Snapchat dog filter pose and Leicester City have just won the Premier League.",
-      "timestamp": "2026-01-10T02:09:12Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "'Unprecedented' numbers seeking debt help post-Christmas, say charities",
-      "link": "https://www.bbc.com/news/articles/c0er4n1zelro?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5634,
-      "vader_score": 0.5267,
-      "textblob_score": 0.6,
-      "first_sentence": "Debt charities say they are receiving an influx of calls as people worry their financial situation has slipped towards becoming unmanageable.",
-      "timestamp": "2026-01-10T00:08:52Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "How a friend request led a beauty queen to uncover Scotland's most prolific catfish",
-      "link": "https://www.bbc.com/news/articles/ckgkr15el67o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.6453,
-      "vader_score": 0.7906,
-      "textblob_score": 0.5,
-      "first_sentence": "She was a finalist in the Miss Scotland beauty pageant, then started a new job travelling the world as an airline steward.",
-      "timestamp": "2026-01-09T22:48:12Z",
-      "source": "BBC News"
     }
   ]
 }

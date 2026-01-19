@@ -1,5 +1,45 @@
 [
   {
+    "headline": "World\u2019s richest 1% have already used fair share of emissions for 2026, says Oxfam",
+    "link": "https://www.theguardian.com/environment/2026/jan/10/world-richest-used-fair-share-emissions-2026-oxfam",
+    "mean_score": 0.7422,
+    "vader_score": 0.7845,
+    "textblob_score": 0.7,
+    "first_sentence": "The world\u2019s richest 1% have used up their fair share of carbon emissions just 10 days into 2026, analysis has found.",
+    "timestamp": "2026-01-10T05:00:48Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Fidget spinners, filters and carefree fun. What's behind 2016 nostalgia?",
+    "link": "https://www.bbc.com/news/articles/cwy1e605dvgo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3342,
+    "vader_score": 0.7184,
+    "textblob_score": -0.05,
+    "first_sentence": "The Chainsmokers are playing wall to wall, you've perfected your Snapchat dog filter pose and Leicester City have just won the Premier League.",
+    "timestamp": "2026-01-10T02:09:12Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "'Unprecedented' numbers seeking debt help post-Christmas, say charities",
+    "link": "https://www.bbc.com/news/articles/c0er4n1zelro?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.5634,
+    "vader_score": 0.5267,
+    "textblob_score": 0.6,
+    "first_sentence": "Debt charities say they are receiving an influx of calls as people worry their financial situation has slipped towards becoming unmanageable.",
+    "timestamp": "2026-01-10T00:08:52Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "How a friend request led a beauty queen to uncover Scotland's most prolific catfish",
+    "link": "https://www.bbc.com/news/articles/ckgkr15el67o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.6453,
+    "vader_score": 0.7906,
+    "textblob_score": 0.5,
+    "first_sentence": "She was a finalist in the Miss Scotland beauty pageant, then started a new job travelling the world as an airline steward.",
+    "timestamp": "2026-01-09T22:48:12Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Morocco sail into Afcon semi-finals as D\u00edaz sparks fine win over Cameroon",
     "link": "https://www.theguardian.com/football/2026/jan/09/cameroon-morocco-africa-cup-of-nations-quarter-final-match-report",
     "mean_score": 0.6446,
