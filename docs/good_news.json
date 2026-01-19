@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-19T20:04:39Z",
+  "last run": "2026-01-19T21:04:12Z",
   "stories": [
+    {
+      "headline": "Karen Solie\u2019s Wellwater wins TS Eliot poetry prize",
+      "link": "https://www.theguardian.com/culture/2026/jan/19/karen-solies-wellwater-wins-ts-eliot-poetry-prize",
+      "mean_score": 0.5453,
+      "vader_score": 0.7906,
+      "textblob_score": 0.3,
+      "first_sentence": "The Canadian poet Karen Solie has won the 2025 TS Eliot poetry prize for a collection of work, Wellwater, which explores the destruction of the natural world.",
+      "timestamp": "2026-01-19T19:30:02Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Five quick hits: Stan the man wins as Tomljanovi\u0107 tells her dad to 'be quiet'",
       "link": "https://www.abc.net.au/news/2026-01-20/australian-open-2026-quick-hits/106243998",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.525,
       "first_sentence": "Caleb Williams dropped back, pump-faked and found DJ Moore wide open down the sideline for the go-ahead touchdown.",
       "timestamp": "2026-01-11T05:13:23Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Adelaide festival did not dump Jewish columnist from 2024 program despite request from Randa Abdel-Fattah and others",
-      "link": "https://www.theguardian.com/culture/2026/jan/11/adelaide-festival-did-not-not-dump-jewish-columnist-from-2024-program-despite-request-from-randa-abdel-fattah-and-others",
-      "mean_score": 0.329,
-      "vader_score": 0.658,
-      "textblob_score": 0.0,
-      "first_sentence": "The Adelaide festival board did not dump a Jewish columnist from its 2024 lineup at Adelaide writers\u2019 week, despite being lobbied by a group of 10 academics \u2013 including Randa Abdel-Fattah \u2013 to do so.",
-      "timestamp": "2026-01-11T04:08:56Z",
       "source": "The Guardian"
     }
   ]
