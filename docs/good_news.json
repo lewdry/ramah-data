@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-20T07:09:38Z",
+  "last run": "2026-01-20T08:06:05Z",
   "stories": [
+    {
+      "headline": "State's EPA recommends Valhalla gas project for approval",
+      "link": "https://www.abc.net.au/news/2026-01-20/epa-recommends-kimberley-valhalla-exploration-program/106249136",
+      "mean_score": 0.3062,
+      "vader_score": 0.6124,
+      "textblob_score": 0.0,
+      "first_sentence": "WA's Environmental Protection Authority has recommended a fracking proposal in the state's north go ahead.",
+      "timestamp": "2026-01-20T07:20:31Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Lookout made famous by K-pop star set to close after safety concerns",
       "link": "https://www.abc.net.au/news/2026-01-20/popular-lookout-lincolns-rock-in-blue-mountains-closed/106245326",
@@ -2490,16 +2500,6 @@
       "first_sentence": "CHICAGO (AP) \u2014 Caleb Williams dropped back, pump-faked and found DJ Moore wide open down the sideline for the go-ahead touchdown.",
       "timestamp": "2026-01-11T11:23:02Z",
       "source": "AP News"
-    },
-    {
-      "headline": "UK wants peaceful transition of power in Iran, says minister",
-      "link": "https://www.theguardian.com/politics/2026/jan/11/uk-wants-peaceful-transition-of-power-in-iran-says-uk-minister",
-      "mean_score": 0.3594,
-      "vader_score": 0.4939,
-      "textblob_score": 0.225,
-      "first_sentence": "The UK wants to see a peaceful transition of power in Iran, a cabinet minister has said, after Donald Trump said he could support protesters with military force.",
-      "timestamp": "2026-01-11T11:20:05Z",
-      "source": "The Guardian"
     }
   ]
 }
