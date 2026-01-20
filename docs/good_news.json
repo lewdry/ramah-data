@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-20T13:19:13Z",
+  "last run": "2026-01-20T14:10:10Z",
   "stories": [
+    {
+      "headline": "UK approves Chinese \u2018mega embassy\u2019 in London after reassurances from spy chiefs",
+      "link": "https://www.theguardian.com/uk-news/2026/jan/20/china-mega-embassy-approved-london",
+      "mean_score": 0.3125,
+      "vader_score": 0.6249,
+      "textblob_score": 0.0,
+      "first_sentence": "The UK communities secretary, Steve Reed, has given permission for China to build a vast new embassy near the Tower of London after spy chiefs told him that the risks to national security could be controlled and dealt with.",
+      "timestamp": "2026-01-20T13:57:57Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "King Harold coins from 1066 and Roman artefacts top UK\u2019s 2024 treasure finds",
+      "link": "https://www.theguardian.com/science/2026/jan/20/king-harold-coins-from-1066-and-roman-artefacts-top-uk-2024-treasure-finds",
+      "mean_score": 0.4794,
+      "vader_score": 0.4588,
+      "textblob_score": 0.5,
+      "first_sentence": "A hoard of pennies linked to Harold II and most likely buried on the eve of battle in 1066, a rare Roman vehicle fitting, and a group of early medieval objects are among the archaeological finds and treasure discovered in Britain in 2024.",
+      "timestamp": "2026-01-20T13:09:29Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "The influencer racing to save Thailand\u2019s most endangered sea mammal",
       "link": "https://www.theguardian.com/science/ng-interactive/2026/jan/20/the-influencer-racing-to-save-thailands-most-endangered-sea-mammal",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.5,
       "first_sentence": "Minneapolis protesters \u2013 already outraged by Wednesday\u2019s fatal shooting of a woman by an immigration officer \u2013 braced for a new onslaught as the Department of Homeland Security sent more agents in to the area, carried out what it called its largest enforcement operation ever.",
       "timestamp": "2026-01-11T18:28:11Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Gabriel Martinelli hat-trick guides Arsenal to win at stubborn Portsmouth",
-      "link": "https://www.theguardian.com/football/2026/jan/11/portsmouth-arsenal-fa-cup-match-report",
-      "mean_score": 0.5366,
-      "vader_score": 0.2732,
-      "textblob_score": 0.8,
-      "first_sentence": "Gabriel Martinelli ended Arsenal\u2019s last game as public enemy No 1 with Liverpool fans and Gary Neville after his clash with Conor Bradley on Thursday.",
-      "timestamp": "2026-01-11T16:23:45Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018Iranians are fed up of dictatorship\u2019: the exiled female activists daring to dream of a new era",
-      "link": "https://www.theguardian.com/uk-news/2026/jan/11/iranians-are-fed-up-of-dictatorship-the-exiled-female-activists-daring-to-dream-of-a-new-era",
-      "mean_score": 0.3052,
-      "vader_score": 0.5423,
-      "textblob_score": 0.0682,
-      "first_sentence": "\u201cIn Europe, women are running countries.",
-      "timestamp": "2026-01-11T16:04:13Z",
       "source": "The Guardian"
     }
   ]

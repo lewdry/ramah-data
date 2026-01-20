@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Gabriel Martinelli hat-trick guides Arsenal to win at stubborn Portsmouth",
+    "link": "https://www.theguardian.com/football/2026/jan/11/portsmouth-arsenal-fa-cup-match-report",
+    "mean_score": 0.5366,
+    "vader_score": 0.2732,
+    "textblob_score": 0.8,
+    "first_sentence": "Gabriel Martinelli ended Arsenal\u2019s last game as public enemy No 1 with Liverpool fans and Gary Neville after his clash with Conor Bradley on Thursday.",
+    "timestamp": "2026-01-11T16:23:45Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "\u2018Iranians are fed up of dictatorship\u2019: the exiled female activists daring to dream of a new era",
+    "link": "https://www.theguardian.com/uk-news/2026/jan/11/iranians-are-fed-up-of-dictatorship-the-exiled-female-activists-daring-to-dream-of-a-new-era",
+    "mean_score": 0.3052,
+    "vader_score": 0.5423,
+    "textblob_score": 0.0682,
+    "first_sentence": "\u201cIn Europe, women are running countries.",
+    "timestamp": "2026-01-11T16:04:13Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Draft \u2018Farage clause\u2019 would ensure EU not out of pocket if Reform UK wins election",
     "link": "https://www.theguardian.com/world/2026/jan/11/draft-farage-clause-eu-if-reform-uk-wins-election",
     "mean_score": 0.5215,
