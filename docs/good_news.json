@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-20T09:09:58Z",
+  "last run": "2026-01-20T10:06:29Z",
   "stories": [
+    {
+      "headline": "India tightened its egg donation rules, creating a vibrant black market for sellers",
+      "link": "https://www.npr.org/2026/01/20/nx-s1-5653357/india-tightened-its-egg-donation-rules-creating-a-vibrant-black-market-for-sellers",
+      "mean_score": 0.3404,
+      "vader_score": 0.6808,
+      "textblob_score": 0.0,
+      "first_sentence": "India radically tightened its rules on egg donation to make it altruistic, but that move triggered a vibrant black market for human eggs.",
+      "timestamp": "2026-01-20T09:49:13Z",
+      "source": "NPR News"
+    },
     {
       "headline": "Valentino, designer whose gowns made royals and movie stars feel beautiful, dies at 93",
       "link": "https://apnews.com/article/valentino-garavani-fashion-designer-italy-rome-0d1e0bc038b514e940b9a18aced873d1",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.25,
       "first_sentence": "A couple of months ago, my mother moved into a nursing home.",
       "timestamp": "2026-01-11T12:00:26Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Dining across the divide: \u2018He agreed with me on a wealth tax, which I thought was unusual for a Reform voter\u2019",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/11/dining-across-the-divide-fraz-peter",
-      "mean_score": 0.4243,
-      "vader_score": 0.6486,
-      "textblob_score": 0.2,
-      "first_sentence": "They bonded over football and felt the same about taxing billionaires.",
-      "timestamp": "2026-01-11T12:00:25Z",
       "source": "The Guardian"
     }
   ]
