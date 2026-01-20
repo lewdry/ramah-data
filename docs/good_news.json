@@ -1,5 +1,5 @@
 {
-  "last run": "2026-01-20T20:23:38Z",
+  "last run": "2026-01-20T21:05:31Z",
   "stories": [
     {
       "headline": "Inter v Arsenal, Real Madrid v Monaco, and more: Champions League \u2013 live",
@@ -9,6 +9,16 @@
       "textblob_score": 0.2788,
       "first_sentence": "There is some pinball in the Arsenal box and Sucic senses a chance, arriving at the right time to send into the top corner from 18 yards.",
       "timestamp": "2026-01-20T20:13:49Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "The transatlantic order is crumbling. Greenland is a moment of great rupture | Christopher S Chivvis",
+      "link": "https://www.theguardian.com/commentisfree/2026/jan/20/trump-greenland-berlin-conference",
+      "mean_score": 0.7125,
+      "vader_score": 0.6249,
+      "textblob_score": 0.8,
+      "first_sentence": "The announcement on 17 January that Washington will impose punitive tariffs of 10% to 25% on eight European allies \u2013 unless they facilitate the \u201ccomplete and total purchase\u201d of Greenland \u2013 is likely to be the death knell of the post-1945 transatlantic order.",
+      "timestamp": "2026-01-20T20:00:40Z",
       "source": "The Guardian"
     },
     {
@@ -2490,16 +2500,6 @@
       "first_sentence": "Archaeologists have discovered the largest Roman villa ever found in Wales in an \"amazing discovery\" which they say has the potential to be \"Port Talbot's Pompeii\".",
       "timestamp": "2026-01-11T21:51:38Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Bloodied but unbowed Josh Allen leads Bills to thrilling playoff win over Jaguars",
-      "link": "https://www.theguardian.com/sport/2026/jan/11/buffalo-bills-jacksonville-jaguars-nfl-playoffs-wilcard",
-      "mean_score": 0.7048,
-      "vader_score": 0.8847,
-      "textblob_score": 0.525,
-      "first_sentence": "Josh Allen took a pounding, doled out punishment and delivered Buffalo their first road playoff victory in more than three decades, a 27-24 win over Jacksonville in the AFC\u2019s wildcard opener on Sunday.",
-      "timestamp": "2026-01-11T21:28:17Z",
-      "source": "The Guardian"
     }
   ]
 }
