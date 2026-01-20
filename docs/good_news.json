@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-20T15:08:34Z",
+  "last run": "2026-01-20T16:07:51Z",
   "stories": [
+    {
+      "headline": "Is it ever a good idea to give someone a nickname? | Polly Hudson",
+      "link": "https://www.theguardian.com/commentisfree/2026/jan/20/is-it-ever-a-good-idea-to-give-someone-a-nickname",
+      "mean_score": 0.5702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.7,
+      "first_sentence": "Determined things come in small packages.",
+      "timestamp": "2026-01-20T15:26:33Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Stunning skies as Northern Lights seen in the UK",
       "link": "https://www.bbc.com/news/videos/c9qpe4d2wxeo?at_medium=RSS&at_campaign=rss",
@@ -2490,16 +2500,6 @@
       "first_sentence": "As Marta Kostyuk sat in the press conference room after her defeat to Aryna Sabalenka in the Brisbane International final, one reaction spoke volumes.",
       "timestamp": "2026-01-11T19:21:01Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Population growth, fertility rates and migration. What could Australia look like in 2035?",
-      "link": "https://www.sbs.com.au/news/article/how-is-australias-population-changing/5a2uxjpbt",
-      "mean_score": 0.3125,
-      "vader_score": 0.6249,
-      "textblob_score": 0.0,
-      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-      "timestamp": "2026-01-11T18:32:41Z",
-      "source": "SBS News"
     }
   ]
 }

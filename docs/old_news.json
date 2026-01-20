@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Population growth, fertility rates and migration. What could Australia look like in 2035?",
+    "link": "https://www.sbs.com.au/news/article/how-is-australias-population-changing/5a2uxjpbt",
+    "mean_score": 0.3125,
+    "vader_score": 0.6249,
+    "textblob_score": 0.0,
+    "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+    "timestamp": "2026-01-11T18:32:41Z",
+    "source": "SBS News"
+  },
+  {
     "headline": "Homeland security sends more agents to Minneapolis as protests erupt in US",
     "link": "https://www.theguardian.com/us-news/2026/jan/11/ice-renee-good-minneapolis-protests-kristi-noem",
     "mean_score": 0.314,
