@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Festival board members join exodus after author's Writers' Week cancellation",
+    "link": "https://www.abc.net.au/news/2026-01-11/fallout-amid-writers-week-cancellation-of-randa-abdel-fattah/106217646",
+    "mean_score": 0.3298,
+    "vader_score": 0.6597,
+    "textblob_score": 0.0,
+    "first_sentence": "The decision to cancel Palestinian-Australian author Randa Abdel-Fattah from the upcoming Adelaide Writers' Week has prompted ongoing controversy, with writers withdrawing from the event in protest as the SA premier backs the Adelaide Festival board's decision.",
+    "timestamp": "2026-01-11T07:21:35Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Lloyds CEO Charlie Nunn latest banking boss in line for huge bonus hike",
+    "link": "https://www.theguardian.com/business/2026/jan/11/lloyds-ceo-charlie-nunn-latest-banking-boss-in-line-for-huge-bonus-hike",
+    "mean_score": 0.5752,
+    "vader_score": 0.7003,
+    "textblob_score": 0.45,
+    "first_sentence": "Lloyds Banking Group boss, Charlie Nunn, could be in line for a maximum annual pay packet worth more than \u00a313m, as he becomes the latest boss to benefit from the UK\u2019s controversial decision to lift a cap on banker bonuses.",
+    "timestamp": "2026-01-11T07:00:20Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Sydney daycare first to be shut by new regulator over safety breaches",
     "link": "https://www.abc.net.au/news/2026-01-11/fun2learn-childcare-shut-after-decade-safety-breaches/106217916",
     "mean_score": 0.3073,

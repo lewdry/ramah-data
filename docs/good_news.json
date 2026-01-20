@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-20T04:20:47Z",
+  "last run": "2026-01-20T05:10:26Z",
   "stories": [
+    {
+      "headline": "Climate change triggers 'remarkable response' from Antarctic penguins",
+      "link": "https://www.abc.net.au/news/2026-01-20/antarctic-penguin-breeding-cycles-changing-climate-change/106247472",
+      "mean_score": 0.6537,
+      "vader_score": 0.5574,
+      "textblob_score": 0.75,
+      "first_sentence": "A long-term study has found the breeding cycle of a penguin species in Antarctica is changing at the fastest rate recorded in birds, likely in response to climate change.",
+      "timestamp": "2026-01-20T05:01:17Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "The pub that changed me: \u2018It had some nefarious characters \u2013 but with lovely shoes\u2019",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/20/the-pub-that-changed-me-it-had-some-nefarious-characters-but-with-lovely-shoes",
+      "mean_score": 0.6176,
+      "vader_score": 0.7351,
+      "textblob_score": 0.5,
+      "first_sentence": "In a packed pub, revellers chat, sip lager and look at their phones.",
+      "timestamp": "2026-01-20T05:00:16Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Australians must demand that their cultural custodians uphold freedom of speech | Margaret Simons",
       "link": "https://www.theguardian.com/commentisfree/2026/jan/20/australians-must-demand-that-their-cultural-custodians-uphold-freedom-of-speech",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.15,
       "first_sentence": "It is a long time since Egypt had a night this good.",
       "timestamp": "2026-01-11T08:00:21Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Festival board members join exodus after author's Writers' Week cancellation",
-      "link": "https://www.abc.net.au/news/2026-01-11/fallout-amid-writers-week-cancellation-of-randa-abdel-fattah/106217646",
-      "mean_score": 0.3298,
-      "vader_score": 0.6597,
-      "textblob_score": 0.0,
-      "first_sentence": "The decision to cancel Palestinian-Australian author Randa Abdel-Fattah from the upcoming Adelaide Writers' Week has prompted ongoing controversy, with writers withdrawing from the event in protest as the SA premier backs the Adelaide Festival board's decision.",
-      "timestamp": "2026-01-11T07:21:35Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Lloyds CEO Charlie Nunn latest banking boss in line for huge bonus hike",
-      "link": "https://www.theguardian.com/business/2026/jan/11/lloyds-ceo-charlie-nunn-latest-banking-boss-in-line-for-huge-bonus-hike",
-      "mean_score": 0.5752,
-      "vader_score": 0.7003,
-      "textblob_score": 0.45,
-      "first_sentence": "Lloyds Banking Group boss, Charlie Nunn, could be in line for a maximum annual pay packet worth more than \u00a313m, as he becomes the latest boss to benefit from the UK\u2019s controversial decision to lift a cap on banker bonuses.",
-      "timestamp": "2026-01-11T07:00:20Z",
       "source": "The Guardian"
     }
   ]
