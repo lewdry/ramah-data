@@ -1,5 +1,25 @@
 [
   {
+    "headline": "The UK\u2019s high streets have reached a tipping point \u2013 and Reform will reap the benefits | John Harris",
+    "link": "https://www.theguardian.com/commentisfree/2026/jan/11/uk-high-streets-reform-shops-closing-hope",
+    "mean_score": 0.3094,
+    "vader_score": 0.4588,
+    "textblob_score": 0.16,
+    "first_sentence": "Over Christmas, thousands of people must have had much the same experience: a trip to see friends or relatives somewhere familiar, and the realisation that a once-thriving town centre is dangerously close to the economic point of no return, and a future of eerie silence.",
+    "timestamp": "2026-01-11T11:50:19Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Caleb Williams rallies Bears from 18 points down for 31-27 playoff win over rival Packers",
+    "link": "https://apnews.com/article/packers-bears-score-nfl-playoffs-7729bbfcab314e6eef5bf7b1bba4cdef",
+    "mean_score": 0.4541,
+    "vader_score": 0.5859,
+    "textblob_score": 0.3222,
+    "first_sentence": "CHICAGO (AP) \u2014 Caleb Williams dropped back, pump-faked and found DJ Moore wide open down the sideline for the go-ahead touchdown.",
+    "timestamp": "2026-01-11T11:23:02Z",
+    "source": "AP News"
+  },
+  {
     "headline": "UK wants peaceful transition of power in Iran, says minister",
     "link": "https://www.theguardian.com/politics/2026/jan/11/uk-wants-peaceful-transition-of-power-in-iran-says-uk-minister",
     "mean_score": 0.3594,
