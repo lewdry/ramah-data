@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-20T01:32:49Z",
+  "last run": "2026-01-20T02:42:14Z",
   "stories": [
+    {
+      "headline": "Australians must demand that their cultural custodians uphold freedom of speech | Margaret Simons",
+      "link": "https://www.theguardian.com/commentisfree/2026/jan/20/australians-must-demand-that-their-cultural-custodians-uphold-freedom-of-speech",
+      "mean_score": 0.3359,
+      "vader_score": 0.5719,
+      "textblob_score": 0.1,
+      "first_sentence": "Is there a way forward for Australia\u2019s cultural life after the cancellation of the 2026 Adelaide writers\u2019 week and all the other controversies played out over the past year, in which the custodians of our culture seem to have crumbled under pressure, only to kinda, sorta and belatedly rally?.",
+      "timestamp": "2026-01-20T02:06:36Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Live: Maya Joint hunts maiden Aus Open win first up on day three",
       "link": "https://www.abc.net.au/news/2026-01-20/australian-open-2026-live-updates-jannik-sinner-naomi-osaka/106247690",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Lloyds Banking Group boss, Charlie Nunn, could be in line for a maximum annual pay packet worth more than \u00a313m, as he becomes the latest boss to benefit from the UK\u2019s controversial decision to lift a cap on banker bonuses.",
       "timestamp": "2026-01-11T07:00:20Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Sydney daycare first to be shut by new regulator over safety breaches",
-      "link": "https://www.abc.net.au/news/2026-01-11/fun2learn-childcare-shut-after-decade-safety-breaches/106217916",
-      "mean_score": 0.3073,
-      "vader_score": 0.4215,
-      "textblob_score": 0.1932,
-      "first_sentence": "The Fun2Learn childcare centre in Sydney's west has been shut down due to a number of safety breaches over 12 years.",
-      "timestamp": "2026-01-11T06:51:13Z",
-      "source": "ABC News"
     }
   ]
 }
