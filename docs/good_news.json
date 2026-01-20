@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-20T17:09:05Z",
+  "last run": "2026-01-20T18:06:54Z",
   "stories": [
+    {
+      "headline": "No. 1 Indiana tops final AP Top 25 football poll of season as Big Ten\u2019s title run reaches 3 straight",
+      "link": "https://apnews.com/article/ap-top-25-college-football-d20d33aecbec2021a90e1f8ce8eead7c",
+      "mean_score": 0.4375,
+      "vader_score": 0.7351,
+      "textblob_score": 0.14,
+      "first_sentence": "Indiana achieved one more first to end its magical season full of firsts: The national champion Hoosiers are No.",
+      "timestamp": "2026-01-20T17:53:02Z",
+      "source": "AP News"
+    },
     {
       "headline": "Is it ever a good idea to give someone a nickname? | Polly Hudson",
       "link": "https://www.theguardian.com/commentisfree/2026/jan/20/is-it-ever-a-good-idea-to-give-someone-a-nickname",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.0,
       "first_sentence": "Kathy Harris had often worried about what her son would do after high school due to the limited options available for neurodivergent young adults.",
       "timestamp": "2026-01-11T19:39:55Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Strength is Sabalenka's superpower, but variety will win her the AO",
-      "link": "https://www.abc.net.au/news/2026-01-12/aryna-sabalenka-australian-open-variety-power/106218486",
-      "mean_score": 0.8037,
-      "vader_score": 0.8074,
-      "textblob_score": 0.8,
-      "first_sentence": "As Marta Kostyuk sat in the press conference room after her defeat to Aryna Sabalenka in the Brisbane International final, one reaction spoke volumes.",
-      "timestamp": "2026-01-11T19:21:01Z",
       "source": "ABC News"
     }
   ]
