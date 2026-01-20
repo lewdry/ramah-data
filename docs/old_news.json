@@ -1,5 +1,25 @@
 [
   {
+    "headline": "20yo rookie wins national cycling championships",
+    "link": "https://www.abc.net.au/news/2026-01-11/auscycling-road-nationals-perth/106218174",
+    "mean_score": 0.5423,
+    "vader_score": 0.7845,
+    "textblob_score": 0.3,
+    "first_sentence": "Perth cyclist Mackenzie Coupland is the second 20-year-old rookie in a row to claim the Australian road cycling championship.",
+    "timestamp": "2026-01-11T10:14:03Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Salah inspires Egypt with energy recalling golden generation to evoke recent history | Jonathan Wilson",
+    "link": "https://www.theguardian.com/football/2026/jan/11/egypt-mohamed-salah-africa-cup-of-nations-football",
+    "mean_score": 0.3812,
+    "vader_score": 0.6124,
+    "textblob_score": 0.15,
+    "first_sentence": "It is a long time since Egypt had a night this good.",
+    "timestamp": "2026-01-11T08:00:21Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Festival board members join exodus after author's Writers' Week cancellation",
     "link": "https://www.abc.net.au/news/2026-01-11/fallout-amid-writers-week-cancellation-of-randa-abdel-fattah/106217646",
     "mean_score": 0.3298,

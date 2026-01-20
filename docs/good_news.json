@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-20T05:10:26Z",
+  "last run": "2026-01-20T06:07:08Z",
   "stories": [
+    {
+      "headline": "Lookout made famous by K-pop star set to close after safety concerns",
+      "link": "https://www.abc.net.au/news/2026-01-20/popular-lookout-lincolns-rock-in-blue-mountains-closed/106245326",
+      "mean_score": 0.4607,
+      "vader_score": 0.4215,
+      "textblob_score": 0.5,
+      "first_sentence": "An iconic Blue Mountains viewpoint will be temporarily shut after a viral social media post results in \"alarming\" tourist numbers.",
+      "timestamp": "2026-01-20T05:53:27Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Climate change triggers 'remarkable response' from Antarctic penguins",
       "link": "https://www.abc.net.au/news/2026-01-20/antarctic-penguin-breeding-cycles-changing-climate-change/106247472",
@@ -19,6 +29,16 @@
       "textblob_score": 0.5,
       "first_sentence": "In a packed pub, revellers chat, sip lager and look at their phones.",
       "timestamp": "2026-01-20T05:00:16Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018I thought it was going to perish\u2019: the remarkable revival of an endangered language in Lesotho",
+      "link": "https://www.theguardian.com/world/2026/jan/20/i-thought-it-was-going-to-perish-the-remarkable-revival-of-an-endangered-language-in-lesotho",
+      "mean_score": 0.6537,
+      "vader_score": 0.5574,
+      "textblob_score": 0.75,
+      "first_sentence": "Tsotleho Mohale was addressing a group of people gathered on a mountainside still damp from an intense rainstorm that morning.",
+      "timestamp": "2026-01-20T05:00:13Z",
       "source": "The Guardian"
     },
     {
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.225,
       "first_sentence": "The UK wants to see a peaceful transition of power in Iran, a cabinet minister has said, after Donald Trump said he could support protesters with military force.",
       "timestamp": "2026-01-11T11:20:05Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "20yo rookie wins national cycling championships",
-      "link": "https://www.abc.net.au/news/2026-01-11/auscycling-road-nationals-perth/106218174",
-      "mean_score": 0.5423,
-      "vader_score": 0.7845,
-      "textblob_score": 0.3,
-      "first_sentence": "Perth cyclist Mackenzie Coupland is the second 20-year-old rookie in a row to claim the Australian road cycling championship.",
-      "timestamp": "2026-01-11T10:14:03Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Salah inspires Egypt with energy recalling golden generation to evoke recent history | Jonathan Wilson",
-      "link": "https://www.theguardian.com/football/2026/jan/11/egypt-mohamed-salah-africa-cup-of-nations-football",
-      "mean_score": 0.3812,
-      "vader_score": 0.6124,
-      "textblob_score": 0.15,
-      "first_sentence": "It is a long time since Egypt had a night this good.",
-      "timestamp": "2026-01-11T08:00:21Z",
       "source": "The Guardian"
     }
   ]
