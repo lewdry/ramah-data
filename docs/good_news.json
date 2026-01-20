@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-19T23:04:10Z",
+  "last run": "2026-01-20T00:15:28Z",
   "stories": [
+    {
+      "headline": "Live: Maya Joint hunts maiden Aus Open win first up on day three",
+      "link": "https://www.abc.net.au/news/2026-01-20/australian-open-2026-live-updates-jannik-sinner-naomi-osaka/106247690",
+      "mean_score": 0.4412,
+      "vader_score": 0.5859,
+      "textblob_score": 0.2966,
+      "first_sentence": "Local favourites Maya Joint and Taylah Preston are on court to start day three of the Australian Open, looking to win main draw matches at their home slam for the first time.",
+      "timestamp": "2026-01-19T23:25:44Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Kostoulas\u2019s brilliant bicycle kick rescues point for Brighton against Bournemouth",
       "link": "https://www.theguardian.com/football/2026/jan/19/brighton-bournemouth-premier-league-match-report",
@@ -2490,16 +2500,6 @@
       "first_sentence": "The Fun2Learn childcare centre in Sydney's west has been shut down due to a number of safety breaches over 12 years.",
       "timestamp": "2026-01-11T06:51:13Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "'I have 45 children applying to my special school each week'",
-      "link": "https://www.bbc.com/news/articles/cx2lp6nnjjzo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3795,
-      "vader_score": 0.4019,
-      "textblob_score": 0.3571,
-      "first_sentence": "Every week, about 45 new names land on Steph Smith's desk, all hoping for a place at her school.",
-      "timestamp": "2026-01-11T06:13:25Z",
-      "source": "BBC News"
     }
   ]
 }
