@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-20T18:06:54Z",
+  "last run": "2026-01-20T19:22:50Z",
   "stories": [
+    {
+      "headline": "Bod\u00f8/Glimt v Manchester City: Champions League \u2013 live",
+      "link": "https://www.theguardian.com/football/live/2026/jan/20/bodo-glimt-v-manchester-city-champions-league-live",
+      "mean_score": 0.3315,
+      "vader_score": 0.5267,
+      "textblob_score": 0.1364,
+      "first_sentence": "77 min: Bodo/Glimt triple-substitution: Andreas Helmersen, Sondre Auklend and Ulrik Saltnes are on for Blomberg, Hogh and Evjen, who have all been brilliant.",
+      "timestamp": "2026-01-20T19:18:44Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Tottenham v Borussia Dortmund: Champions League \u2013 live",
+      "link": "https://www.theguardian.com/football/live/2026/jan/20/tottenham-v-borussia-dortmund-champions-league-live",
+      "mean_score": 0.3315,
+      "vader_score": 0.5267,
+      "textblob_score": 0.1364,
+      "first_sentence": "Thomas Frank makes five changes, four of them enforced, to the team that lost against West Ham.",
+      "timestamp": "2026-01-20T19:05:31Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "No. 1 Indiana tops final AP Top 25 football poll of season as Big Ten\u2019s title run reaches 3 straight",
       "link": "https://apnews.com/article/ap-top-25-college-football-d20d33aecbec2021a90e1f8ce8eead7c",
@@ -80,6 +100,16 @@
       "first_sentence": "Briton Sam Watson (Ineos Grenadiers) claimed victory in 4 minutes, 16.9 seconds.",
       "timestamp": "2026-01-20T10:52:53Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "England's top treasure finds revealed by county",
+      "link": "https://www.bbc.com/news/articles/cm2yerrqel7o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4794,
+      "vader_score": 0.4588,
+      "textblob_score": 0.5,
+      "first_sentence": "More treasure was found in Norfolk in 2024 than in any other county in England, according to the latest record-breaking figures.",
+      "timestamp": "2026-01-20T10:12:17Z",
+      "source": "BBC News"
     },
     {
       "headline": "India tightened its egg donation rules, creating a vibrant black market for sellers",
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.0444,
       "first_sentence": "World number two Iga \u015awi\u0105tek looked distressed during losses to Coco Gauff and Belinda Bencic at the United Cup on the weekend.",
       "timestamp": "2026-01-11T19:58:55Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "America's top figure skaters dazzled St. Louis. I left with a new love for the sport.",
-      "link": "https://www.npr.org/sections/the-picture-show/2026/01/11/g-s1-105436/americas-top-figure-skaters-dazzled-st-louis-i-left-with-a-new-love-for-the-sport",
-      "mean_score": 0.5012,
-      "vader_score": 0.7184,
-      "textblob_score": 0.2841,
-      "first_sentence": "I'll admit it: this past week was my first real foray into competitive figure skating.",
-      "timestamp": "2026-01-11T19:56:54Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "'Our transition was a lot more gentle': Settling your child into care or kindy",
-      "link": "https://www.abc.net.au/news/2026-01-12/supporting-your-child-when-starting-child-care-or-kindy/106115412",
-      "mean_score": 0.55,
-      "vader_score": 0.7501,
-      "textblob_score": 0.35,
-      "first_sentence": "Prior to Brie's three-year-old son starting kindergarten, he had never been in the care of anyone other than his parents.",
-      "timestamp": "2026-01-11T19:52:27Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Mum's bid to improve opportunities for son with autism after school",
-      "link": "https://www.abc.net.au/news/2026-01-12/qld-campus-life-program-helping-young-people-with-disabilities/106210350",
-      "mean_score": 0.3352,
-      "vader_score": 0.6705,
-      "textblob_score": 0.0,
-      "first_sentence": "Kathy Harris had often worried about what her son would do after high school due to the limited options available for neurodivergent young adults.",
-      "timestamp": "2026-01-11T19:39:55Z",
       "source": "ABC News"
     }
   ]

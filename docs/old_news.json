@@ -1,5 +1,35 @@
 [
   {
+    "headline": "America's top figure skaters dazzled St. Louis. I left with a new love for the sport.",
+    "link": "https://www.npr.org/sections/the-picture-show/2026/01/11/g-s1-105436/americas-top-figure-skaters-dazzled-st-louis-i-left-with-a-new-love-for-the-sport",
+    "mean_score": 0.5012,
+    "vader_score": 0.7184,
+    "textblob_score": 0.2841,
+    "first_sentence": "I'll admit it: this past week was my first real foray into competitive figure skating.",
+    "timestamp": "2026-01-11T19:56:54Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "'Our transition was a lot more gentle': Settling your child into care or kindy",
+    "link": "https://www.abc.net.au/news/2026-01-12/supporting-your-child-when-starting-child-care-or-kindy/106115412",
+    "mean_score": 0.55,
+    "vader_score": 0.7501,
+    "textblob_score": 0.35,
+    "first_sentence": "Prior to Brie's three-year-old son starting kindergarten, he had never been in the care of anyone other than his parents.",
+    "timestamp": "2026-01-11T19:52:27Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Mum's bid to improve opportunities for son with autism after school",
+    "link": "https://www.abc.net.au/news/2026-01-12/qld-campus-life-program-helping-young-people-with-disabilities/106210350",
+    "mean_score": 0.3352,
+    "vader_score": 0.6705,
+    "textblob_score": 0.0,
+    "first_sentence": "Kathy Harris had often worried about what her son would do after high school due to the limited options available for neurodivergent young adults.",
+    "timestamp": "2026-01-11T19:39:55Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Strength is Sabalenka's superpower, but variety will win her the AO",
     "link": "https://www.abc.net.au/news/2026-01-12/aryna-sabalenka-australian-open-variety-power/106218486",
     "mean_score": 0.8037,
