@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-20T14:10:10Z",
+  "last run": "2026-01-20T15:08:34Z",
   "stories": [
+    {
+      "headline": "Stunning skies as Northern Lights seen in the UK",
+      "link": "https://www.bbc.com/news/videos/c9qpe4d2wxeo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4409,
+      "vader_score": 0.3818,
+      "textblob_score": 0.5,
+      "first_sentence": "Skies across the UK were lit up in hues of green and pink by the Northern Lights on Monday evening.",
+      "timestamp": "2026-01-20T14:10:22Z",
+      "source": "BBC News"
+    },
     {
       "headline": "UK approves Chinese \u2018mega embassy\u2019 in London after reassurances from spy chiefs",
       "link": "https://www.theguardian.com/uk-news/2026/jan/20/china-mega-embassy-approved-london",
@@ -2490,16 +2500,6 @@
       "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
       "timestamp": "2026-01-11T18:32:41Z",
       "source": "SBS News"
-    },
-    {
-      "headline": "Homeland security sends more agents to Minneapolis as protests erupt in US",
-      "link": "https://www.theguardian.com/us-news/2026/jan/11/ice-renee-good-minneapolis-protests-kristi-noem",
-      "mean_score": 0.314,
-      "vader_score": 0.128,
-      "textblob_score": 0.5,
-      "first_sentence": "Minneapolis protesters \u2013 already outraged by Wednesday\u2019s fatal shooting of a woman by an immigration officer \u2013 braced for a new onslaught as the Department of Homeland Security sent more agents in to the area, carried out what it called its largest enforcement operation ever.",
-      "timestamp": "2026-01-11T18:28:11Z",
-      "source": "The Guardian"
     }
   ]
 }
