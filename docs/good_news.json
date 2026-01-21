@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-21T12:06:52Z",
+  "last run": "2026-01-21T13:18:45Z",
   "stories": [
+    {
+      "headline": "I Do review \u2013 immersive hotel drama as wonderful as a real wedding day",
+      "link": "https://www.theguardian.com/stage/2026/jan/21/i-do-review-malmaison-hotel-wedding-day-immersive-play",
+      "mean_score": 0.5859,
+      "vader_score": 0.5719,
+      "textblob_score": 0.6,
+      "first_sentence": "When isn\u2019t there big family drama in the buildup to a wedding? The nerves, the tantrums \u2013 sometimes even charges of \u201cinappropriate\u201d first dances.",
+      "timestamp": "2026-01-21T12:56:30Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Free holiday swimming for thousands of children",
+      "link": "https://www.bbc.com/news/articles/c0mkpj38ll7o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5592,
+      "vader_score": 0.7184,
+      "textblob_score": 0.4,
+      "first_sentence": "Thousands of children will be able to swim for free again this year, during the school holidays.",
+      "timestamp": "2026-01-21T12:29:59Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Australian Open 2026: Tiafoe in action; De Minaur, Zverev and Andreeva win, Raducanu out \u2013 live",
       "link": "https://www.theguardian.com/sport/live/2026/jan/21/australian-open-2026-de-minaur-andreeva-tiafoe-in-action-on-day-four-live",
@@ -49,6 +69,16 @@
       "textblob_score": 0.3714,
       "first_sentence": "In 2018, hopes were not high for Queer Eye.",
       "timestamp": "2026-01-21T09:00:57Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Saipan review \u2013 Roy Keane and Mick McCarthy\u2019s epic spat becomes amusing state-of-the-nation psychodrama",
+      "link": "https://www.theguardian.com/film/2026/jan/21/saipan-review-roy-keane-and-mick-mccarthys-epic-spat-becomes-amusing-state-of-the-nation-psychodrama",
+      "mean_score": 0.3659,
+      "vader_score": 0.3818,
+      "textblob_score": 0.35,
+      "first_sentence": "Here is a sports drama which is also a true-life psychodrama of the Irish republic.",
+      "timestamp": "2026-01-21T09:00:56Z",
       "source": "The Guardian"
     },
     {
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.65,
       "first_sentence": "\u201cI of course was not prepared for this, because I thought that I was too old.",
       "timestamp": "2026-01-12T07:11:04Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "A new start after 60: I adopted a Guide Dog mum \u2013 and found true love, community and confidence",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/12/new-start-after-60-adopted-guide-dog-mum-found-true-love-community-confidence",
-      "mean_score": 0.6061,
-      "vader_score": 0.8834,
-      "textblob_score": 0.3288,
-      "first_sentence": "She was living in the south of Hesse, in Germany, having moved in 1998 from Shropshire for her husband\u2019s work.",
-      "timestamp": "2026-01-12T06:45:48Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The Traitors star Jessie 'shows those with stammers are not stupid'",
-      "link": "https://www.bbc.com/news/articles/c1lzv54d03yo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3222,
-      "vader_score": 0.2444,
-      "textblob_score": 0.4,
-      "first_sentence": "Spoiler warning: This article contains details of the ongoing series of The Traitors.",
-      "timestamp": "2026-01-12T06:25:45Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "\u2018The response is a beautiful thing\u2019: how Glasgow is squaring up to Reform",
-      "link": "https://www.theguardian.com/uk-news/2026/jan/12/the-response-is-a-beautiful-thing-how-glasgow-is-squaring-up-to-reform",
-      "mean_score": 0.7247,
-      "vader_score": 0.5994,
-      "textblob_score": 0.85,
-      "first_sentence": "Selina Hales has a thing about pineapples.",
-      "timestamp": "2026-01-12T05:36:55Z",
       "source": "The Guardian"
     }
   ]
