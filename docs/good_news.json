@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-21T13:18:45Z",
+  "last run": "2026-01-21T14:09:50Z",
   "stories": [
+    {
+      "headline": "Gen Xers the new baby boomers: analysis identifies Australia\u2019s richest landholders by generation",
+      "link": "https://www.theguardian.com/australia-news/2026/jan/22/gen-xers-the-new-baby-boomers-analysis-identifies-australias-richest-landholders-by-generation",
+      "mean_score": 0.3315,
+      "vader_score": 0.5267,
+      "textblob_score": 0.1364,
+      "first_sentence": "Gen X households now hold the most property wealth of any generation, as baby boomers downsize their homes and move more of their money into cash and retirement accounts.",
+      "timestamp": "2026-01-21T14:00:39Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "I Do review \u2013 immersive hotel drama as wonderful as a real wedding day",
       "link": "https://www.theguardian.com/stage/2026/jan/21/i-do-review-malmaison-hotel-wedding-day-immersive-play",
@@ -20,6 +30,16 @@
       "first_sentence": "Thousands of children will be able to swim for free again this year, during the school holidays.",
       "timestamp": "2026-01-21T12:29:59Z",
       "source": "BBC News"
+    },
+    {
+      "headline": "Nato chief urges \u2018thoughtful diplomacy\u2019 after US treasury secretary\u2019s jibe at Denmark",
+      "link": "https://www.theguardian.com/business/2026/jan/21/trump-treasury-secretary-brands-denmark-irrelevant-greenland-row-deepens",
+      "mean_score": 0.3012,
+      "vader_score": 0.2023,
+      "textblob_score": 0.4,
+      "first_sentence": "Donald Trump has landed in Switzerland for the Davos global gathering as Nato\u2019s secretary general said \u201cthoughtful diplomacy\u201d was the only way to deal with growing transatlantic tensions, remarks that came shortly after the US treasury secretary had dismissed Denmark as an irrelevance.",
+      "timestamp": "2026-01-21T12:18:09Z",
+      "source": "The Guardian"
     },
     {
       "headline": "Australian Open 2026: Tiafoe in action; De Minaur, Zverev and Andreeva win, Raducanu out \u2013 live",
@@ -2480,26 +2500,6 @@
       "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
       "timestamp": "2026-01-12T08:47:25Z",
       "source": "SBS News"
-    },
-    {
-      "headline": "India and US 'actively engaged' in trade negotiations, says new ambassador",
-      "link": "https://www.bbc.com/news/articles/c4gr6e6dn5lo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.307,
-      "vader_score": 0.6124,
-      "textblob_score": 0.0015,
-      "first_sentence": "India and the US are continuing to actively engage on trade deal negotiations, Sergio Gor, the new US ambassador to India, has said during a trip to Delhi.",
-      "timestamp": "2026-01-12T08:39:20Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "\u2018Timoth\u00e9e Chalamet gained over 60 ounces for Marty Supreme!\u2019: the best quotes from the 2026 Golden Globes",
-      "link": "https://www.theguardian.com/film/2026/jan/12/golden-globes-2026-best-quotes-timothee-chalamet-teyana-taylor-snoop-dogg-stellan-skarsgard-jessie-buckley",
-      "mean_score": 0.7229,
-      "vader_score": 0.7959,
-      "textblob_score": 0.65,
-      "first_sentence": "\u201cI of course was not prepared for this, because I thought that I was too old.",
-      "timestamp": "2026-01-12T07:11:04Z",
-      "source": "The Guardian"
     }
   ]
 }
