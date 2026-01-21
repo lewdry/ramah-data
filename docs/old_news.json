@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Golden Globes host Nikki Glaser's best jokes",
+    "link": "https://www.bbc.com/news/articles/cvg19pddvkno?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.6925,
+    "vader_score": 0.7351,
+    "textblob_score": 0.65,
+    "first_sentence": "Host Nikki Glaser returned to host the Golden Globes on Sunday, delivering a scorching opening monologue that roasted many of the celebrities in the room.",
+    "timestamp": "2026-01-12T02:21:02Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Full list of Golden Globes winners",
     "link": "https://www.abc.net.au/news/2026-01-12/golden-globes-awards-winners-list-2026/106199402",
     "mean_score": 0.4008,
