@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Brooks Koepka returns to PGA Tour after $5m charitable donation",
+    "link": "https://www.theguardian.com/sport/2026/jan/12/brooks-koepka-pga-tour-liv-golf",
+    "mean_score": 0.501,
+    "vader_score": 0.4019,
+    "textblob_score": 0.6,
+    "first_sentence": "Brooks Koepka is returning to the PGA Tour just five weeks after bolting from LIV Golf, agreeing to a one-time program for elite players that comes with a financial penalty that could rank among the largest in sports.",
+    "timestamp": "2026-01-12T20:16:48Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Where to watch the Golden Globe winners, from streaming to cinema",
     "link": "https://www.abc.net.au/news/2026-01-13/where-to-watch-golden-globe-winners-2026/106221328",
     "mean_score": 0.3883,

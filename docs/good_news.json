@@ -1,5 +1,5 @@
 {
-  "last run": "2026-01-21T19:11:00Z",
+  "last run": "2026-01-21T20:08:31Z",
   "stories": [
     {
       "headline": "Chelsea v Pafos, Newcastle v PSV, Juventus v Benfica, and more: Champions League \u2013 live",
@@ -10,6 +10,16 @@
       "first_sentence": "Below the zigzagging contrails that paint the blue Brussels sky, Christian Burgess is reflecting on the latest chapters of his extraordinary journey, those since joining Royale Union Saint\u2011Gilloise almost six years ago.",
       "timestamp": "2026-01-21T19:09:56Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "Australia earns global praise for economic 'soft landing'",
+      "link": "https://www.abc.net.au/news/2026-01-22/reserve-bank-earns-global-praise-for-economic-soft-landing/106254000",
+      "mean_score": 0.3287,
+      "vader_score": 0.5574,
+      "textblob_score": 0.1,
+      "first_sentence": "A new report from the OECD says Australia's economy is returning to normal but remains vulnerable and lacks dynamism.",
+      "timestamp": "2026-01-21T19:09:13Z",
+      "source": "ABC News"
     },
     {
       "headline": "Marseille v Liverpool: Champions League \u2013 live",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.275,
       "first_sentence": "A late Florian Wirtz-inspired flourish gave a convincing look to Liverpool\u2019s margin of victory but Barnsley made their hosts battle for a place in round four.",
       "timestamp": "2026-01-12T21:57:49Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Brooks Koepka returns to PGA Tour after $5m charitable donation",
-      "link": "https://www.theguardian.com/sport/2026/jan/12/brooks-koepka-pga-tour-liv-golf",
-      "mean_score": 0.501,
-      "vader_score": 0.4019,
-      "textblob_score": 0.6,
-      "first_sentence": "Brooks Koepka is returning to the PGA Tour just five weeks after bolting from LIV Golf, agreeing to a one-time program for elite players that comes with a financial penalty that could rank among the largest in sports.",
-      "timestamp": "2026-01-12T20:16:48Z",
       "source": "The Guardian"
     }
   ]
