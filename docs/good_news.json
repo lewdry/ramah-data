@@ -1,6 +1,36 @@
 {
-  "last run": "2026-01-21T18:14:45Z",
+  "last run": "2026-01-21T19:11:00Z",
   "stories": [
+    {
+      "headline": "Chelsea v Pafos, Newcastle v PSV, Juventus v Benfica, and more: Champions League \u2013 live",
+      "link": "https://www.theguardian.com/football/live/2026/jan/21/chelsea-v-pafos-newcastle-v-psv-juventus-v-benfica-and-more-champions-league-live",
+      "mean_score": 0.4445,
+      "vader_score": 0.5709,
+      "textblob_score": 0.3182,
+      "first_sentence": "Below the zigzagging contrails that paint the blue Brussels sky, Christian Burgess is reflecting on the latest chapters of his extraordinary journey, those since joining Royale Union Saint\u2011Gilloise almost six years ago.",
+      "timestamp": "2026-01-21T19:09:56Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Marseille v Liverpool: Champions League \u2013 live",
+      "link": "https://www.theguardian.com/football/live/2026/jan/21/marseille-v-liverpool-champions-league-live",
+      "mean_score": 0.3315,
+      "vader_score": 0.5267,
+      "textblob_score": 0.1364,
+      "first_sentence": "Marseille: Rulli, Pavard, Balerdi, Medina, Murillo, Hojbjerg, Kondogbia, Weah, Greenwood, Traore, Gouiri.",
+      "timestamp": "2026-01-21T19:05:24Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Fetal heart monitors still available online despite being banned",
+      "link": "https://www.abc.net.au/news/health/2026-01-22/fetal-dopplers-at-home-risks/106155136",
+      "mean_score": 0.5852,
+      "vader_score": 0.7704,
+      "textblob_score": 0.4,
+      "first_sentence": "For expectant parents, knowing their baby's heart is beating at a healthy rate can be deeply reassuring.",
+      "timestamp": "2026-01-21T19:00:00Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Mercy review \u2013 Chris Pratt takes on AI judge Rebecca Ferguson in ingenious sci-fi thriller",
       "link": "https://www.theguardian.com/film/2026/jan/21/mercy-review-chris-pratt-takes-on-ai-judge-rebecca-ferguson-in-ingenious-sci-fi-thriller",
@@ -60,6 +90,16 @@
       "first_sentence": "A teenager's dream came true after her favourite singer serenaded her in front of thousands of people and helped raise awareness of a medical condition.",
       "timestamp": "2026-01-21T15:43:21Z",
       "source": "BBC News"
+    },
+    {
+      "headline": "Storm brews over new F1 rules loopholes as Mercedes and Red Bull gain advantage | Giles Richards",
+      "link": "https://www.theguardian.com/sport/2026/jan/21/mercedes-and-red-bull-facing-tough-questions-as-storm-brews-over-new-f1-rules-loopholes",
+      "mean_score": 0.3639,
+      "vader_score": 0.6597,
+      "textblob_score": 0.0682,
+      "first_sentence": "Unveiling their new engine in Tokyo should have been a significant moment for Honda to celebrate but behind the scenes, the storied marque \u2013 as well as plenty of their Formula One rivals \u2013 are worried that a looming row over new engine regulations is threatening to overshadow the opening of the 2026 season.",
+      "timestamp": "2026-01-21T15:25:40Z",
+      "source": "The Guardian"
     },
     {
       "headline": "EU lawmakers vote to hold up Mercosur trade agreement over legal concerns",
@@ -250,6 +290,16 @@
       "first_sentence": "I love a Bounty, although I call them paradise bars.",
       "timestamp": "2026-01-21T06:00:53Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "'This should be good news': The koala success story with a catch",
+      "link": "https://www.sbs.com.au/news/article/koala-population-booming-south-australia/muvqzwkbc",
+      "mean_score": 0.6325,
+      "vader_score": 0.765,
+      "textblob_score": 0.5,
+      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+      "timestamp": "2026-01-21T05:11:12Z",
+      "source": "SBS News"
     },
     {
       "headline": "My analogue month: would ditching my smartphone make me healthier, happier \u2013 or more stressed?",
@@ -2450,56 +2500,6 @@
       "first_sentence": "Brooks Koepka is returning to the PGA Tour just five weeks after bolting from LIV Golf, agreeing to a one-time program for elite players that comes with a financial penalty that could rank among the largest in sports.",
       "timestamp": "2026-01-12T20:16:48Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Where to watch the Golden Globe winners, from streaming to cinema",
-      "link": "https://www.abc.net.au/news/2026-01-13/where-to-watch-golden-globe-winners-2026/106221328",
-      "mean_score": 0.3883,
-      "vader_score": 0.4767,
-      "textblob_score": 0.3,
-      "first_sentence": "The Golden Globes might be over but there are plenty of award-winning films and television to get caught up on.",
-      "timestamp": "2026-01-12T18:51:55Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "The ship where 'magic happens' set to hand over to successor",
-      "link": "https://www.abc.net.au/news/2026-01-13/young-endeavour-final-hobart-trip-before-upgrade/106220818",
-      "mean_score": 0.5625,
-      "vader_score": 0.6249,
-      "textblob_score": 0.5,
-      "first_sentence": "The ship has hosted a youth development program for 38 years.",
-      "timestamp": "2026-01-12T18:27:40Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Arizona strengthens hold on No. 1 in AP Top 25; Vanderbilt cracks top 10",
-      "link": "https://apnews.com/article/top-25-mens-college-basketball-poll-f8f88d67ca75a626124b8fbfbc227f55",
-      "mean_score": 0.5904,
-      "vader_score": 0.6808,
-      "textblob_score": 0.5,
-      "first_sentence": "Arizona tightened its hold on the top spot in The Associated Press Top 25 men\u2019s college basketball poll on Monday while Vanderbilt\u2019s unbeaten season has landed the Commodores in the top 10.",
-      "timestamp": "2026-01-12T18:23:02Z",
-      "source": "AP News"
-    },
-    {
-      "headline": "\u2018Her time has come\u2019: did Mondrian owe his success to a crossdressing lesbian artist who lived in a Cornish cove?",
-      "link": "https://www.theguardian.com/artanddesign/2026/jan/12/piet-mondrian-crossdressing-lesbian-artist-marlow-moss-cornish-cove",
-      "mean_score": 0.4359,
-      "vader_score": 0.5719,
-      "textblob_score": 0.3,
-      "first_sentence": "In 1972, the mighty Kunstmuseum in the Hague bought three paintings by a little known British artist called Marlow Moss.",
-      "timestamp": "2026-01-12T16:14:42Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "'Lovable giant' Brody finds 'forever home'",
-      "link": "https://www.bbc.com/news/articles/cje17kzxxdjo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4312,
-      "vader_score": 0.6124,
-      "textblob_score": 0.25,
-      "first_sentence": "A \"loveable giant\" dog weighing about 10st (66kg) has found his \"forever home\".",
-      "timestamp": "2026-01-12T15:53:48Z",
-      "source": "BBC News"
     }
   ]
 }

@@ -1,5 +1,55 @@
 [
   {
+    "headline": "Where to watch the Golden Globe winners, from streaming to cinema",
+    "link": "https://www.abc.net.au/news/2026-01-13/where-to-watch-golden-globe-winners-2026/106221328",
+    "mean_score": 0.3883,
+    "vader_score": 0.4767,
+    "textblob_score": 0.3,
+    "first_sentence": "The Golden Globes might be over but there are plenty of award-winning films and television to get caught up on.",
+    "timestamp": "2026-01-12T18:51:55Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "The ship where 'magic happens' set to hand over to successor",
+    "link": "https://www.abc.net.au/news/2026-01-13/young-endeavour-final-hobart-trip-before-upgrade/106220818",
+    "mean_score": 0.5625,
+    "vader_score": 0.6249,
+    "textblob_score": 0.5,
+    "first_sentence": "The ship has hosted a youth development program for 38 years.",
+    "timestamp": "2026-01-12T18:27:40Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Arizona strengthens hold on No. 1 in AP Top 25; Vanderbilt cracks top 10",
+    "link": "https://apnews.com/article/top-25-mens-college-basketball-poll-f8f88d67ca75a626124b8fbfbc227f55",
+    "mean_score": 0.5904,
+    "vader_score": 0.6808,
+    "textblob_score": 0.5,
+    "first_sentence": "Arizona tightened its hold on the top spot in The Associated Press Top 25 men\u2019s college basketball poll on Monday while Vanderbilt\u2019s unbeaten season has landed the Commodores in the top 10.",
+    "timestamp": "2026-01-12T18:23:02Z",
+    "source": "AP News"
+  },
+  {
+    "headline": "\u2018Her time has come\u2019: did Mondrian owe his success to a crossdressing lesbian artist who lived in a Cornish cove?",
+    "link": "https://www.theguardian.com/artanddesign/2026/jan/12/piet-mondrian-crossdressing-lesbian-artist-marlow-moss-cornish-cove",
+    "mean_score": 0.4359,
+    "vader_score": 0.5719,
+    "textblob_score": 0.3,
+    "first_sentence": "In 1972, the mighty Kunstmuseum in the Hague bought three paintings by a little known British artist called Marlow Moss.",
+    "timestamp": "2026-01-12T16:14:42Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "'Lovable giant' Brody finds 'forever home'",
+    "link": "https://www.bbc.com/news/articles/cje17kzxxdjo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4312,
+    "vader_score": 0.6124,
+    "textblob_score": 0.25,
+    "first_sentence": "A \"loveable giant\" dog weighing about 10st (66kg) has found his \"forever home\".",
+    "timestamp": "2026-01-12T15:53:48Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Is Morocco ready to co-host the 2030 World Cup? Afcon indicates yes | Jonathan Wilson",
     "link": "https://www.theguardian.com/football/2026/jan/12/afcon-morrocco-2030-world-cup",
     "mean_score": 0.4184,
