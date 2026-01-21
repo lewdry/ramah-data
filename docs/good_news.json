@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-21T02:41:38Z",
+  "last run": "2026-01-21T03:33:20Z",
   "stories": [
+    {
+      "headline": "'Led with humanity': The remarkable life of Dame Marie Bashir",
+      "link": "https://www.abc.net.au/news/2026-01-21/nsw-dame-marie-bashir-death-tributes-obituary/106251446",
+      "mean_score": 0.6537,
+      "vader_score": 0.5574,
+      "textblob_score": 0.75,
+      "first_sentence": "In her 95 years, she was a respected public servant, a fierce advocate for mental health resourcing and held esteemed titles across the education and psychiatry sectors \u2014 cementing her position as a highly accomplished Australian.",
+      "timestamp": "2026-01-21T03:03:17Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Retiree's trash and treasure trike proves a powerful tool for brain health",
       "link": "https://www.abc.net.au/news/2026-01-21/trash-treasure-trike-broken-hill-brian-slater-brain-health/106234034",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.25,
       "first_sentence": "Doctors say they have achieved the previously impossible - restoring sight and preventing blindness in people with a rare but dangerous eye conditon called hypotony.",
       "timestamp": "2026-01-12T00:00:09Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Golden Globes 2026: The full list of winners and nominees",
-      "link": "https://www.bbc.com/news/articles/cwygn18nyllo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4008,
-      "vader_score": 0.4767,
-      "textblob_score": 0.325,
-      "first_sentence": "The Golden Globe Awards take place in Los Angeles, honouring the best in film and television over the last 12 months.",
-      "timestamp": "2026-01-11T22:47:03Z",
       "source": "BBC News"
     }
   ]
