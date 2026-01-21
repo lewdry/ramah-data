@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-21T10:06:18Z",
+  "last run": "2026-01-21T11:06:13Z",
   "stories": [
+    {
+      "headline": "Driving test cheating up 47% in Great Britain, prompting road safety concerns",
+      "link": "https://www.theguardian.com/money/2026/jan/21/driving-test-cheating-increase-great-britain-road-safety-concerns",
+      "mean_score": 0.6553,
+      "vader_score": 0.5106,
+      "textblob_score": 0.8,
+      "first_sentence": "Attempts to cheat on driving tests in England, Scotland and Wales increased by 47% in a year, figures show, raising concerns about road safety.",
+      "timestamp": "2026-01-21T10:09:00Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Significant sexual safety problem for women working in elite UK sport, says survey",
+      "link": "https://www.theguardian.com/sport/2026/jan/21/significant-sexual-safety-problem-for-women-working-in-elite-uk-sport-says-survey",
+      "mean_score": 0.3319,
+      "vader_score": 0.2263,
+      "textblob_score": 0.4375,
+      "first_sentence": "There is a significant sexual safety problem for women working in elite sport in the UK, according to a survey, with 88% of respondents reporting they had been the target of at least one form of sexual misconduct in the past five years and five people (2%) saying they had been raped in work-related contexts outside the main workplace in that period.",
+      "timestamp": "2026-01-21T10:00:34Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Goodbye, Queer Eye: pure comfort TV that\u2019s too fabulous to exist in this world any more",
       "link": "https://www.theguardian.com/tv-and-radio/2026/jan/21/goodbye-queer-eye-pure-comfort-tv-fabulous",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Taylah Preston has pulled off the biggest victory of her young career in the opening round of the Hobart International.",
       "timestamp": "2026-01-12T05:24:04Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "\u2018I\u2019m the product of a smashed-up family\u2019: how Sean Scully became the greatest abstract painter alive",
-      "link": "https://www.theguardian.com/artanddesign/2026/jan/12/smashed-up-family-sean-scully-greatest-abstract-painter-alive",
-      "mean_score": 0.6642,
-      "vader_score": 0.7783,
-      "textblob_score": 0.55,
-      "first_sentence": "It\u2019s clear which choice he has made.",
-      "timestamp": "2026-01-12T05:00:46Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "'A huge thing to be up here': Australian Rose Byrne wins first Golden Globe",
-      "link": "https://www.sbs.com.au/news/article/australian-rose-byrne-wins-first-golden-globe/xl4wrg0w5",
-      "mean_score": 0.5134,
-      "vader_score": 0.7184,
-      "textblob_score": 0.3083,
-      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-      "timestamp": "2026-01-12T04:35:44Z",
-      "source": "SBS News"
     }
   ]
 }

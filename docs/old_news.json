@@ -1,5 +1,25 @@
 [
   {
+    "headline": "\u2018I\u2019m the product of a smashed-up family\u2019: how Sean Scully became the greatest abstract painter alive",
+    "link": "https://www.theguardian.com/artanddesign/2026/jan/12/smashed-up-family-sean-scully-greatest-abstract-painter-alive",
+    "mean_score": 0.6642,
+    "vader_score": 0.7783,
+    "textblob_score": 0.55,
+    "first_sentence": "It\u2019s clear which choice he has made.",
+    "timestamp": "2026-01-12T05:00:46Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "'A huge thing to be up here': Australian Rose Byrne wins first Golden Globe",
+    "link": "https://www.sbs.com.au/news/article/australian-rose-byrne-wins-first-golden-globe/xl4wrg0w5",
+    "mean_score": 0.5134,
+    "vader_score": 0.7184,
+    "textblob_score": 0.3083,
+    "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+    "timestamp": "2026-01-12T04:35:44Z",
+    "source": "SBS News"
+  },
+  {
     "headline": "KPop Demon Hunters wins Golden Globes for best animated film",
     "link": "https://www.bbc.com/news/articles/cy8pnn9p8lgo?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.6847,
