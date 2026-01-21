@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Full list of Golden Globes winners",
+    "link": "https://www.abc.net.au/news/2026-01-12/golden-globes-awards-winners-list-2026/106199402",
+    "mean_score": 0.4008,
+    "vader_score": 0.4767,
+    "textblob_score": 0.325,
+    "first_sentence": "Here is the full list of winners from the 2026 Golden Globe Awards.",
+    "timestamp": "2026-01-12T01:29:33Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Purdy, 49ers eliminate defending Super Bowl champion Eagles with 23-19 win in wild-card game",
+    "link": "https://apnews.com/article/49ers-eagles-nfl-playoffs-score-2a7a5ecd0146dbd86fe2d2ed93f87268",
+    "mean_score": 0.5781,
+    "vader_score": 0.9118,
+    "textblob_score": 0.2444,
+    "first_sentence": "PHILADELPHIA (AP) \u2014 Brock Purdy threw a go-ahead 6-yard touchdown pass to Christian McCaffrey late in the fourth quarter, San Francisco used a trick play on a TD toss from wide receiver Jauan Jennings, and the 49ers eliminated the defending Super Bowl champion Philadelphia Eagles with a 23-19 wild-card victory Sunday.",
+    "timestamp": "2026-01-12T01:23:02Z",
+    "source": "AP News"
+  },
+  {
     "headline": "Star glamour on the Golden Globes red carpet",
     "link": "https://www.bbc.com/news/articles/cy59ekq0dq3o?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.3383,

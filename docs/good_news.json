@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-21T06:07:00Z",
+  "last run": "2026-01-21T07:10:00Z",
   "stories": [
+    {
+      "headline": "A later-life love triangle? Redefining how to grow old \u2013 in pictures",
+      "link": "https://www.theguardian.com/artanddesign/gallery/2026/jan/21/a-later-life-love-triangle-redefining-how-to-grow-old-in-pictures",
+      "mean_score": 0.4685,
+      "vader_score": 0.6369,
+      "textblob_score": 0.3,
+      "first_sentence": "From naked embraces and sofa snogging to the very final stages of life, a new exhibition proves there is no one way to age  Continue reading.",
+      "timestamp": "2026-01-21T07:00:54Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "'Felt like I was at home': Qualifier S\u00f6nmez thrills passionate Turkish fans",
+      "link": "https://www.abc.net.au/news/2026-01-21/australian-open-zeynep-sonmez-turkiye-second-round-melbourne/106254442",
+      "mean_score": 0.3813,
+      "vader_score": 0.8126,
+      "textblob_score": -0.05,
+      "first_sentence": "Booking a berth in the Australian Open third round is only one part of Zeynep S\u00f6nmez's remarkable story at Melbourne Park.",
+      "timestamp": "2026-01-21T06:44:21Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Australian Open 2026: Alcaraz wins in straight sets after Sabalenka eases through \u2013 live reaction",
       "link": "https://www.theguardian.com/sport/live/2026/jan/21/aryna-sabalenka-carlos-alcaraz-australian-open-tennis-second-round-live",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Host Nikki Glaser returned to host the Golden Globes on Sunday, delivering a scorching opening monologue that roasted many of the celebrities in the room.",
       "timestamp": "2026-01-12T02:21:02Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Full list of Golden Globes winners",
-      "link": "https://www.abc.net.au/news/2026-01-12/golden-globes-awards-winners-list-2026/106199402",
-      "mean_score": 0.4008,
-      "vader_score": 0.4767,
-      "textblob_score": 0.325,
-      "first_sentence": "Here is the full list of winners from the 2026 Golden Globe Awards.",
-      "timestamp": "2026-01-12T01:29:33Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Purdy, 49ers eliminate defending Super Bowl champion Eagles with 23-19 win in wild-card game",
-      "link": "https://apnews.com/article/49ers-eagles-nfl-playoffs-score-2a7a5ecd0146dbd86fe2d2ed93f87268",
-      "mean_score": 0.5781,
-      "vader_score": 0.9118,
-      "textblob_score": 0.2444,
-      "first_sentence": "PHILADELPHIA (AP) \u2014 Brock Purdy threw a go-ahead 6-yard touchdown pass to Christian McCaffrey late in the fourth quarter, San Francisco used a trick play on a TD toss from wide receiver Jauan Jennings, and the 49ers eliminated the defending Super Bowl champion Philadelphia Eagles with a 23-19 wild-card victory Sunday.",
-      "timestamp": "2026-01-12T01:23:02Z",
-      "source": "AP News"
     }
   ]
 }
