@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Healy overcame the nepo baby tag with sheer brilliance and a wry smile",
+    "link": "https://www.abc.net.au/news/2026-01-13/alyssa-healy-overcomes-weight-of-name-to-become-cricket-great/106222886",
+    "mean_score": 0.4503,
+    "vader_score": 0.7506,
+    "textblob_score": 0.15,
+    "first_sentence": "It's hard enough for women to be taken seriously in the sporting landscape.",
+    "timestamp": "2026-01-12T23:03:27Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Liverpool power past brave Barnsley in the FA Cup to spare Szoboszlai\u2019s blushes",
     "link": "https://www.theguardian.com/football/2026/jan/12/liverpool-barnsley-fa-cup-match-report",
     "mean_score": 0.4008,

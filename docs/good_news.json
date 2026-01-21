@@ -1,5 +1,5 @@
 {
-  "last run": "2026-01-21T21:08:35Z",
+  "last run": "2026-01-21T22:05:32Z",
   "stories": [
     {
       "headline": "For 50 years, ABC Classic has connected music lovers across Australia",
@@ -10,6 +10,16 @@
       "first_sentence": "ABC Classic is turning 50 years young on Saturday January 24.",
       "timestamp": "2026-01-21T21:00:00Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "'Beautiful' rare octopus spotted on popular Welsh beach",
+      "link": "https://www.bbc.com/news/articles/cq5yqnej8ejo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.6775,
+      "vader_score": 0.7717,
+      "textblob_score": 0.5833,
+      "first_sentence": "A photographer who was enjoying a walk on a popular Welsh beach says he became \"completely absorbed\" after spotting an octopus.",
+      "timestamp": "2026-01-21T20:28:37Z",
+      "source": "BBC News"
     },
     {
       "headline": "Chelsea v Pafos, Newcastle v PSV, Juventus v Benfica, and more: Champions League \u2013 live",
@@ -2490,16 +2500,6 @@
       "first_sentence": "For almost 16 years, Pippa Begg ran Board Intelligence as co-chief executive with Jennifer Sundberg.",
       "timestamp": "2026-01-13T00:01:51Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Healy overcame the nepo baby tag with sheer brilliance and a wry smile",
-      "link": "https://www.abc.net.au/news/2026-01-13/alyssa-healy-overcomes-weight-of-name-to-become-cricket-great/106222886",
-      "mean_score": 0.4503,
-      "vader_score": 0.7506,
-      "textblob_score": 0.15,
-      "first_sentence": "It's hard enough for women to be taken seriously in the sporting landscape.",
-      "timestamp": "2026-01-12T23:03:27Z",
-      "source": "ABC News"
     }
   ]
 }
