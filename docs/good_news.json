@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-21T08:06:05Z",
+  "last run": "2026-01-21T09:08:42Z",
   "stories": [
+    {
+      "headline": "A former flight attendant posed as a pilot and received hundreds of free flights, US authorities say",
+      "link": "https://apnews.com/article/fake-airline-pilot-fraud-58a2d18d66aabe462e11c3d72002c8ec",
+      "mean_score": 0.3553,
+      "vader_score": 0.5106,
+      "textblob_score": 0.2,
+      "first_sentence": "HONOLULU (AP) \u2014 A former flight attendant for a Canadian airline posed as a commercial pilot and as a current flight attendant to obtain hundreds of free flights from U.S.",
+      "timestamp": "2026-01-21T08:23:02Z",
+      "source": "AP News"
+    },
+    {
+      "headline": "Is listening to an audiobook as good as reading?",
+      "link": "https://www.theguardian.com/books/2026/jan/21/is-listening-to-an-audiobook-as-good-as-reading",
+      "mean_score": 0.5702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.7,
+      "first_sentence": "Queen Camilla has met many disreputable characters in her time as a royal, but her encounter this week with two celebrity reprobates was at least for a good cause.",
+      "timestamp": "2026-01-21T08:00:54Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "A later-life love triangle? Redefining how to grow old \u2013 in pictures",
       "link": "https://www.theguardian.com/artanddesign/gallery/2026/jan/21/a-later-life-love-triangle-redefining-how-to-grow-old-in-pictures",
@@ -90,6 +110,16 @@
       "first_sentence": "The colors show the star\u2019s final breath transforming into the raw ingredients for new worlds.",
       "timestamp": "2026-01-20T23:33:57Z",
       "source": "Ars Technica"
+    },
+    {
+      "headline": "Live: De Minaur starts strong, could be first Australian into the third round",
+      "link": "https://www.abc.net.au/news/2026-01-21/australian-open-2026-live-alex-de-minaur-sabalenka-alcaraz/106252014",
+      "mean_score": 0.3069,
+      "vader_score": 0.5106,
+      "textblob_score": 0.1033,
+      "first_sentence": "Australian Alex de Minaur could be the first local into the third round of the AO if he defeats Serbia's Hamad Medjedovic on Rod Laver Arena tonight.",
+      "timestamp": "2026-01-20T23:28:01Z",
+      "source": "ABC News"
     },
     {
       "headline": "Inter v Arsenal, Real Madrid v Monaco, and more: Champions League \u2013 live",
@@ -2470,36 +2500,6 @@
       "first_sentence": "Netflix mega-hit KPop Demon Hunters has won a Golden Globe for best animated feature, while its breakout anthem Golden was named best original song.",
       "timestamp": "2026-01-12T04:22:07Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Chalamet beats DiCaprio to Golden Globes glory",
-      "link": "https://www.bbc.com/news/articles/c78e07m02jzo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4212,
-      "vader_score": 0.5423,
-      "textblob_score": 0.3,
-      "first_sentence": "Timothee Chalamet was among the main winners as Hollywood's finest gathered for this year's Golden Globe Awards.",
-      "timestamp": "2026-01-12T03:24:26Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "How to fall in love with winter \u2013 podcast",
-      "link": "https://www.theguardian.com/news/audio/2026/jan/12/how-to-fall-in-love-with-winter-podcast",
-      "mean_score": 0.5685,
-      "vader_score": 0.6369,
-      "textblob_score": 0.5,
-      "first_sentence": "Does winter fill you with dread? The grey skies, the long nights, the prospect it will just go on and on?.",
-      "timestamp": "2026-01-12T03:00:43Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "How I have fun with friends without spending money",
-      "link": "https://www.abc.net.au/news/2026-01-12/perspective-koren-on-free-fun-with-friends/106055938",
-      "mean_score": 0.5253,
-      "vader_score": 0.7506,
-      "textblob_score": 0.3,
-      "first_sentence": "When I first moved back to Australia after years living in Spain, I brought home an unexpected skill: how to hang out with friends without spending money.",
-      "timestamp": "2026-01-12T02:31:42Z",
-      "source": "ABC News"
     }
   ]
 }

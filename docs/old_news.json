@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Chalamet beats DiCaprio to Golden Globes glory",
+    "link": "https://www.bbc.com/news/articles/c78e07m02jzo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4212,
+    "vader_score": 0.5423,
+    "textblob_score": 0.3,
+    "first_sentence": "Timothee Chalamet was among the main winners as Hollywood's finest gathered for this year's Golden Globe Awards.",
+    "timestamp": "2026-01-12T03:24:26Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "How to fall in love with winter \u2013 podcast",
+    "link": "https://www.theguardian.com/news/audio/2026/jan/12/how-to-fall-in-love-with-winter-podcast",
+    "mean_score": 0.5685,
+    "vader_score": 0.6369,
+    "textblob_score": 0.5,
+    "first_sentence": "Does winter fill you with dread? The grey skies, the long nights, the prospect it will just go on and on?.",
+    "timestamp": "2026-01-12T03:00:43Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "How I have fun with friends without spending money",
+    "link": "https://www.abc.net.au/news/2026-01-12/perspective-koren-on-free-fun-with-friends/106055938",
+    "mean_score": 0.5253,
+    "vader_score": 0.7506,
+    "textblob_score": 0.3,
+    "first_sentence": "When I first moved back to Australia after years living in Spain, I brought home an unexpected skill: how to hang out with friends without spending money.",
+    "timestamp": "2026-01-12T02:31:42Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Golden Globes host Nikki Glaser's best jokes",
     "link": "https://www.bbc.com/news/articles/cvg19pddvkno?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.6925,
