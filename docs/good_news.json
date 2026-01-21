@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-21T20:08:31Z",
+  "last run": "2026-01-21T21:08:35Z",
   "stories": [
+    {
+      "headline": "For 50 years, ABC Classic has connected music lovers across Australia",
+      "link": "https://www.abc.net.au/news/2026-01-22/abc-classic-presenters-celebrate-50-years-of-broadcasting/106245866",
+      "mean_score": 0.3467,
+      "vader_score": 0.5267,
+      "textblob_score": 0.1667,
+      "first_sentence": "ABC Classic is turning 50 years young on Saturday January 24.",
+      "timestamp": "2026-01-21T21:00:00Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Chelsea v Pafos, Newcastle v PSV, Juventus v Benfica, and more: Champions League \u2013 live",
       "link": "https://www.theguardian.com/football/live/2026/jan/21/chelsea-v-pafos-newcastle-v-psv-juventus-v-benfica-and-more-champions-league-live",
@@ -2490,16 +2500,6 @@
       "first_sentence": "It's hard enough for women to be taken seriously in the sporting landscape.",
       "timestamp": "2026-01-12T23:03:27Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Liverpool power past brave Barnsley in the FA Cup to spare Szoboszlai\u2019s blushes",
-      "link": "https://www.theguardian.com/football/2026/jan/12/liverpool-barnsley-fa-cup-match-report",
-      "mean_score": 0.4008,
-      "vader_score": 0.5267,
-      "textblob_score": 0.275,
-      "first_sentence": "A late Florian Wirtz-inspired flourish gave a convincing look to Liverpool\u2019s margin of victory but Barnsley made their hosts battle for a place in round four.",
-      "timestamp": "2026-01-12T21:57:49Z",
-      "source": "The Guardian"
     }
   ]
 }
