@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-21T17:23:39Z",
+  "last run": "2026-01-21T18:14:45Z",
   "stories": [
+    {
+      "headline": "Mercy review \u2013 Chris Pratt takes on AI judge Rebecca Ferguson in ingenious sci-fi thriller",
+      "link": "https://www.theguardian.com/film/2026/jan/21/mercy-review-chris-pratt-takes-on-ai-judge-rebecca-ferguson-in-ingenious-sci-fi-thriller",
+      "mean_score": 0.4702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.5,
+      "first_sentence": "The film\u2019s ostensible target is the insidious power of AI, though the movie partakes of today\u2019s liberal opinion doublethink, in which we all solemnly concur that AI is very worrying while not having the smallest intention of doing anything about it.",
+      "timestamp": "2026-01-21T17:00:43Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Secret love letter shows softer side of Cambridge spy ring\u2019s alleged fifth man",
       "link": "https://www.theguardian.com/uk-news/2026/jan/21/love-letters-john-cairncross-cambridge-spy-ring-exhibition-national-archives-kew",
@@ -2490,16 +2500,6 @@
       "first_sentence": "A \"loveable giant\" dog weighing about 10st (66kg) has found his \"forever home\".",
       "timestamp": "2026-01-12T15:53:48Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Is Morocco ready to co-host the 2030 World Cup? Afcon indicates yes | Jonathan Wilson",
-      "link": "https://www.theguardian.com/football/2026/jan/12/afcon-morrocco-2030-world-cup",
-      "mean_score": 0.4184,
-      "vader_score": 0.6369,
-      "textblob_score": 0.2,
-      "first_sentence": "More than any other continental tournament, there is always a sense with the Africa Cup of Nations that it is a referendum on the continent\u2019s football generally.",
-      "timestamp": "2026-01-12T15:45:06Z",
-      "source": "The Guardian"
     }
   ]
 }
