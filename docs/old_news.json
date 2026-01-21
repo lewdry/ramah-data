@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Star glamour on the Golden Globes red carpet",
+    "link": "https://www.bbc.com/news/articles/cy59ekq0dq3o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3383,
+    "vader_score": 0.5267,
+    "textblob_score": 0.15,
+    "first_sentence": "Big names from the worlds of film and TV have been walking down the red carpet for this year's Golden Globes, one of Hollywood's leading awards ceremonies, which is taking place in Los Angeles.",
+    "timestamp": "2026-01-12T01:22:07Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Trick play helps 49ers eliminate Super Bowl champion Eagles from NFL playoffs",
+    "link": "https://www.theguardian.com/sport/2026/jan/11/49ers-eagles-nfl-playoffs-wildcard",
+    "mean_score": 0.6226,
+    "vader_score": 0.9118,
+    "textblob_score": 0.3333,
+    "first_sentence": "Brock Purdy threw a go-ahead touchdown pass to Christian McCaffrey late in the fourth quarter, San Francisco used a trick play on a TD toss from wide receiver Jauan Jennings, and the 49ers eliminated the defending Super Bowl champion Philadelphia Eagles with a 23-19 wildcard victory on Sunday.",
+    "timestamp": "2026-01-12T01:18:17Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Revolutionary eye injection saved my sight, says first ever patient",
+    "link": "https://www.bbc.com/news/articles/c89qyv98lzdo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3357,
+    "vader_score": 0.4215,
+    "textblob_score": 0.25,
+    "first_sentence": "Doctors say they have achieved the previously impossible - restoring sight and preventing blindness in people with a rare but dangerous eye conditon called hypotony.",
+    "timestamp": "2026-01-12T00:00:09Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Golden Globes 2026: The full list of winners and nominees",
     "link": "https://www.bbc.com/news/articles/cwygn18nyllo?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.4008,

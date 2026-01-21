@@ -1,6 +1,36 @@
 {
-  "last run": "2026-01-21T05:09:34Z",
+  "last run": "2026-01-21T06:07:00Z",
   "stories": [
+    {
+      "headline": "Australian Open 2026: Alcaraz wins in straight sets after Sabalenka eases through \u2013 live reaction",
+      "link": "https://www.theguardian.com/sport/live/2026/jan/21/aryna-sabalenka-carlos-alcaraz-australian-open-tennis-second-round-live",
+      "mean_score": 0.4559,
+      "vader_score": 0.7845,
+      "textblob_score": 0.1273,
+      "first_sentence": "So a straight sets win for Carlos Alcaraz but probably a stiffer challenge than one he was expecting from his 34-year-old opponent Yannick Hanfmann, who had entered the tournament ranked 102 in the world.",
+      "timestamp": "2026-01-21T06:04:17Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Homemade Bounty bars, savoury granola and flapjacks: Melissa Hemsley\u2019s recipes for healthy sweet treats",
+      "link": "https://www.theguardian.com/food/2026/jan/21/melissa-hemsley-healthy-sweet-treats-recipes-homemade-bounty-bars-savoury-granola-flapjacks",
+      "mean_score": 0.5579,
+      "vader_score": 0.6908,
+      "textblob_score": 0.425,
+      "first_sentence": "I love a Bounty, although I call them paradise bars.",
+      "timestamp": "2026-01-21T06:00:53Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "My analogue month: would ditching my smartphone make me healthier, happier \u2013 or more stressed?",
+      "link": "https://www.theguardian.com/technology/2026/jan/21/my-analogue-month-would-ditching-my-smartphone-make-me-healthier-happier-or-more-stressed",
+      "mean_score": 0.3398,
+      "vader_score": 0.1796,
+      "textblob_score": 0.5,
+      "first_sentence": "When two balaclava-clad men on a motorbike mounted the pavement to rob me, recently, I remained oblivious.",
+      "timestamp": "2026-01-21T05:00:52Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "'Led with humanity': The remarkable life of Dame Marie Bashir",
       "link": "https://www.abc.net.au/news/2026-01-21/nsw-dame-marie-bashir-death-tributes-obituary/106251446",
@@ -2470,36 +2500,6 @@
       "first_sentence": "PHILADELPHIA (AP) \u2014 Brock Purdy threw a go-ahead 6-yard touchdown pass to Christian McCaffrey late in the fourth quarter, San Francisco used a trick play on a TD toss from wide receiver Jauan Jennings, and the 49ers eliminated the defending Super Bowl champion Philadelphia Eagles with a 23-19 wild-card victory Sunday.",
       "timestamp": "2026-01-12T01:23:02Z",
       "source": "AP News"
-    },
-    {
-      "headline": "Star glamour on the Golden Globes red carpet",
-      "link": "https://www.bbc.com/news/articles/cy59ekq0dq3o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3383,
-      "vader_score": 0.5267,
-      "textblob_score": 0.15,
-      "first_sentence": "Big names from the worlds of film and TV have been walking down the red carpet for this year's Golden Globes, one of Hollywood's leading awards ceremonies, which is taking place in Los Angeles.",
-      "timestamp": "2026-01-12T01:22:07Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Trick play helps 49ers eliminate Super Bowl champion Eagles from NFL playoffs",
-      "link": "https://www.theguardian.com/sport/2026/jan/11/49ers-eagles-nfl-playoffs-wildcard",
-      "mean_score": 0.6226,
-      "vader_score": 0.9118,
-      "textblob_score": 0.3333,
-      "first_sentence": "Brock Purdy threw a go-ahead touchdown pass to Christian McCaffrey late in the fourth quarter, San Francisco used a trick play on a TD toss from wide receiver Jauan Jennings, and the 49ers eliminated the defending Super Bowl champion Philadelphia Eagles with a 23-19 wildcard victory on Sunday.",
-      "timestamp": "2026-01-12T01:18:17Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Revolutionary eye injection saved my sight, says first ever patient",
-      "link": "https://www.bbc.com/news/articles/c89qyv98lzdo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3357,
-      "vader_score": 0.4215,
-      "textblob_score": 0.25,
-      "first_sentence": "Doctors say they have achieved the previously impossible - restoring sight and preventing blindness in people with a rare but dangerous eye conditon called hypotony.",
-      "timestamp": "2026-01-12T00:00:09Z",
-      "source": "BBC News"
     }
   ]
 }
