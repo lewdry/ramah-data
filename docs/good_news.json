@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-21T16:09:05Z",
+  "last run": "2026-01-21T17:23:39Z",
   "stories": [
+    {
+      "headline": "Secret love letter shows softer side of Cambridge spy ring\u2019s alleged fifth man",
+      "link": "https://www.theguardian.com/uk-news/2026/jan/21/love-letters-john-cairncross-cambridge-spy-ring-exhibition-national-archives-kew",
+      "mean_score": 0.3185,
+      "vader_score": 0.6369,
+      "textblob_score": -0.0,
+      "first_sentence": "It was a love letter written by one of the more important British spies of the cold war that made Tom Brass realise he had never fully known his mother.",
+      "timestamp": "2026-01-21T16:46:44Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018We played to 8,000 Mexicans who knew every word\u2019: how the Whitest Boy Alive conquered the world",
+      "link": "https://www.theguardian.com/culture/2026/jan/21/whitest-boy-alive-erlend-oye-kings-of-convenience-interview",
+      "mean_score": 0.3562,
+      "vader_score": 0.6124,
+      "textblob_score": 0.1,
+      "first_sentence": "If you were to imagine the recent evolution of music in Europe as a series of scenes from a Where\u2019s Wally?-style puzzle book, one bespectacled, lanky figure would pop up on almost every page.",
+      "timestamp": "2026-01-21T16:31:34Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Prue Leith leaves The Great British Bake Off",
       "link": "https://www.bbc.com/news/articles/cm2j80g4vy3o?at_medium=RSS&at_campaign=rss",
@@ -19,6 +39,16 @@
       "textblob_score": 0.0,
       "first_sentence": "A stencilled outline of a hand found on the Indonesian island of Sulawesi is the world's oldest known cave painting, researchers say.",
       "timestamp": "2026-01-21T16:00:07Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Coldplay help teen's campaign dream come true",
+      "link": "https://www.bbc.com/news/articles/c5y2j4de2g4o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4665,
+      "vader_score": 0.7579,
+      "textblob_score": 0.175,
+      "first_sentence": "A teenager's dream came true after her favourite singer serenaded her in front of thousands of people and helped raise awareness of a medical condition.",
+      "timestamp": "2026-01-21T15:43:21Z",
       "source": "BBC News"
     },
     {
@@ -2470,36 +2500,6 @@
       "first_sentence": "More than any other continental tournament, there is always a sense with the Africa Cup of Nations that it is a referendum on the continent\u2019s football generally.",
       "timestamp": "2026-01-12T15:45:06Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "One bizarre expression after another: DiCaprio\u2019s viral moment won the Golden Globes",
-      "link": "https://www.theguardian.com/film/2026/jan/12/leonardo-dicaprio-golden-globes",
-      "mean_score": 0.345,
-      "vader_score": 0.34,
-      "textblob_score": 0.35,
-      "first_sentence": "The fact that nobody really knows anything about Leonardo DiCaprio is well-established at this point.",
-      "timestamp": "2026-01-12T15:43:49Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Golden Globe highlights: Brazil on a streak, Amy Poehler\u2019s pod wins and Seth Rogen comes full-circle",
-      "link": "https://apnews.com/article/2026-golden-globe-awards-highlights-a885ae8a21f6a0ddee5b172849f6ba09",
-      "mean_score": 0.4359,
-      "vader_score": 0.5719,
-      "textblob_score": 0.3,
-      "first_sentence": "The Golden Globes had some predictable stuff, like \u201cOne Battle After Another\u201d and \u201cAdolescence\u201d cleaning up and host Nikki Glaser making fun of the age of Leonardo DiCaprio\u2019s partners.",
-      "timestamp": "2026-01-12T15:23:02Z",
-      "source": "AP News"
-    },
-    {
-      "headline": "Big wins for Aussies in first round of Adelaide International",
-      "link": "https://www.abc.net.au/news/2026-01-13/daria-kasatkina-thanasi-kokkinakis-advance-in-adelaide/106222328",
-      "mean_score": 0.3209,
-      "vader_score": 0.5719,
-      "textblob_score": 0.07,
-      "first_sentence": "Daria Kasatkina has beaten Greek wildcard Maria Sakkari in straight sets in the first round of the Adelaide International.",
-      "timestamp": "2026-01-12T14:22:03Z",
-      "source": "ABC News"
     }
   ]
 }

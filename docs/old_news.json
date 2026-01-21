@@ -1,5 +1,35 @@
 [
   {
+    "headline": "One bizarre expression after another: DiCaprio\u2019s viral moment won the Golden Globes",
+    "link": "https://www.theguardian.com/film/2026/jan/12/leonardo-dicaprio-golden-globes",
+    "mean_score": 0.345,
+    "vader_score": 0.34,
+    "textblob_score": 0.35,
+    "first_sentence": "The fact that nobody really knows anything about Leonardo DiCaprio is well-established at this point.",
+    "timestamp": "2026-01-12T15:43:49Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Golden Globe highlights: Brazil on a streak, Amy Poehler\u2019s pod wins and Seth Rogen comes full-circle",
+    "link": "https://apnews.com/article/2026-golden-globe-awards-highlights-a885ae8a21f6a0ddee5b172849f6ba09",
+    "mean_score": 0.4359,
+    "vader_score": 0.5719,
+    "textblob_score": 0.3,
+    "first_sentence": "The Golden Globes had some predictable stuff, like \u201cOne Battle After Another\u201d and \u201cAdolescence\u201d cleaning up and host Nikki Glaser making fun of the age of Leonardo DiCaprio\u2019s partners.",
+    "timestamp": "2026-01-12T15:23:02Z",
+    "source": "AP News"
+  },
+  {
+    "headline": "Big wins for Aussies in first round of Adelaide International",
+    "link": "https://www.abc.net.au/news/2026-01-13/daria-kasatkina-thanasi-kokkinakis-advance-in-adelaide/106222328",
+    "mean_score": 0.3209,
+    "vader_score": 0.5719,
+    "textblob_score": 0.07,
+    "first_sentence": "Daria Kasatkina has beaten Greek wildcard Maria Sakkari in straight sets in the first round of the Adelaide International.",
+    "timestamp": "2026-01-12T14:22:03Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Georgina Hayden\u2019s quick and easy recipe for antipasti beans on toast | Quick and easy",
     "link": "https://www.theguardian.com/food/2026/jan/12/quick-and-easy-antipasti-beans-on-toast-recipe-georgina-hayden",
     "mean_score": 0.5418,
