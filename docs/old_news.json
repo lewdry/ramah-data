@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Live: Rose Byrne wins Golden Globe as Jacob Elordi misses out for Frankenstein",
+    "link": "https://www.abc.net.au/news/2026-01-12/golden-globes-live-blog-2026/106195414",
+    "mean_score": 0.3778,
+    "vader_score": 0.4215,
+    "textblob_score": 0.3341,
+    "first_sentence": "Australian actor Rose Byrne has won a Golden Globe for her role in the film If I Had Legs I'd Kick You, while Jacob Elordi missed out for Frankenstein, but has a second chance in a television category.",
+    "timestamp": "2026-01-11T22:39:13Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Huge Roman villa found under popular park dubbed town's 'Pompeii'",
+    "link": "https://www.bbc.com/news/articles/cgk8j1gkxelo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.5625,
+    "vader_score": 0.6249,
+    "textblob_score": 0.5,
+    "first_sentence": "Archaeologists have discovered the largest Roman villa ever found in Wales in an \"amazing discovery\" which they say has the potential to be \"Port Talbot's Pompeii\".",
+    "timestamp": "2026-01-11T21:51:38Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Bloodied but unbowed Josh Allen leads Bills to thrilling playoff win over Jaguars",
     "link": "https://www.theguardian.com/sport/2026/jan/11/buffalo-bills-jacksonville-jaguars-nfl-playoffs-wilcard",
     "mean_score": 0.7048,

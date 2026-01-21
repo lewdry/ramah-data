@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-21T00:16:03Z",
+  "last run": "2026-01-21T01:33:14Z",
   "stories": [
+    {
+      "headline": "Retiree's trash and treasure trike proves a powerful tool for brain health",
+      "link": "https://www.abc.net.au/news/2026-01-21/trash-treasure-trike-broken-hill-brian-slater-brain-health/106234034",
+      "mean_score": 0.4562,
+      "vader_score": 0.6124,
+      "textblob_score": 0.3,
+      "first_sentence": "Brian Slater built a unique trike after seeing one in a motorbike book.",
+      "timestamp": "2026-01-21T00:13:44Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Webb reveals a planetary nebula with phenomenal clarity, and it is spectacular",
+      "link": "https://arstechnica.com/space/2026/01/webb-has-given-us-with-a-stunning-new-view-of-a-well-known-planetary-nebula/",
+      "mean_score": 0.4759,
+      "vader_score": 0.4019,
+      "textblob_score": 0.55,
+      "first_sentence": "The colors show the star\u2019s final breath transforming into the raw ingredients for new worlds.",
+      "timestamp": "2026-01-20T23:33:57Z",
+      "source": "Ars Technica"
+    },
     {
       "headline": "Inter v Arsenal, Real Madrid v Monaco, and more: Champions League \u2013 live",
       "link": "https://www.theguardian.com/football/live/2026/jan/20/inter-v-arsenal-real-madrid-v-monaco-sporting-v-psg-and-more-champions-league-live",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.325,
       "first_sentence": "The Golden Globe Awards take place in Los Angeles, honouring the best in film and television over the last 12 months.",
       "timestamp": "2026-01-11T22:47:03Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Live: Rose Byrne wins Golden Globe as Jacob Elordi misses out for Frankenstein",
-      "link": "https://www.abc.net.au/news/2026-01-12/golden-globes-live-blog-2026/106195414",
-      "mean_score": 0.3778,
-      "vader_score": 0.4215,
-      "textblob_score": 0.3341,
-      "first_sentence": "Australian actor Rose Byrne has won a Golden Globe for her role in the film If I Had Legs I'd Kick You, while Jacob Elordi missed out for Frankenstein, but has a second chance in a television category.",
-      "timestamp": "2026-01-11T22:39:13Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Huge Roman villa found under popular park dubbed town's 'Pompeii'",
-      "link": "https://www.bbc.com/news/articles/cgk8j1gkxelo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5625,
-      "vader_score": 0.6249,
-      "textblob_score": 0.5,
-      "first_sentence": "Archaeologists have discovered the largest Roman villa ever found in Wales in an \"amazing discovery\" which they say has the potential to be \"Port Talbot's Pompeii\".",
-      "timestamp": "2026-01-11T21:51:38Z",
       "source": "BBC News"
     }
   ]
