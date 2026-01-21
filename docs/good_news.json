@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-21T09:08:42Z",
+  "last run": "2026-01-21T10:06:18Z",
   "stories": [
+    {
+      "headline": "Goodbye, Queer Eye: pure comfort TV that\u2019s too fabulous to exist in this world any more",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/jan/21/goodbye-queer-eye-pure-comfort-tv-fabulous",
+      "mean_score": 0.5405,
+      "vader_score": 0.7096,
+      "textblob_score": 0.3714,
+      "first_sentence": "In 2018, hopes were not high for Queer Eye.",
+      "timestamp": "2026-01-21T09:00:57Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "A former flight attendant posed as a pilot and received hundreds of free flights, US authorities say",
       "link": "https://apnews.com/article/fake-airline-pilot-fraud-58a2d18d66aabe462e11c3d72002c8ec",
@@ -2490,16 +2500,6 @@
       "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
       "timestamp": "2026-01-12T04:35:44Z",
       "source": "SBS News"
-    },
-    {
-      "headline": "KPop Demon Hunters wins Golden Globes for best animated film",
-      "link": "https://www.bbc.com/news/articles/cy8pnn9p8lgo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.6847,
-      "vader_score": 0.836,
-      "textblob_score": 0.5333,
-      "first_sentence": "Netflix mega-hit KPop Demon Hunters has won a Golden Globe for best animated feature, while its breakout anthem Golden was named best original song.",
-      "timestamp": "2026-01-12T04:22:07Z",
-      "source": "BBC News"
     }
   ]
 }
