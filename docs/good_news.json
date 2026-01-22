@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-22T05:10:13Z",
+  "last run": "2026-01-22T06:06:34Z",
   "stories": [
+    {
+      "headline": "Novak Djokovic eases into third round with clinical win over Francesco Maestrelli at Australian Open \u2013 as it happened",
+      "link": "https://www.theguardian.com/sport/live/2026/jan/22/australian-open-tennis-2026-novak-djokovic-francesco-maestrelli-second-round-live",
+      "mean_score": 0.4234,
+      "vader_score": 0.7269,
+      "textblob_score": 0.12,
+      "first_sentence": "Thank you for joining me again this afternoon to witness Novak Djokovic joining the other leading men in the third round of the Australian Open.",
+      "timestamp": "2026-01-22T05:28:35Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "How positivity affects health, the rise of scabies and bovine intelligence \u2013 podcast",
       "link": "https://www.theguardian.com/science/audio/2026/jan/22/how-positivity-affects-health-the-rise-of-scabies-and-bovine-intelligence-podcast",
@@ -39,6 +49,16 @@
       "textblob_score": 0.0,
       "first_sentence": "An ABC NEWS Verify investigation has revealed that some of those involved behind the scenes of the March for Australia (MFA) anti-immigration protests previously tried to recruit people to the now disbanded Neo-Nazi White Australia Party.",
       "timestamp": "2026-01-22T01:00:43Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Live: Qualifier keeps Australian women's tilt alive with thrilling second-round win",
+      "link": "https://www.abc.net.au/news/2026-01-22/australian-open-2026-live-novak-djokovic-kyrgios-kokkinakis/106256036",
+      "mean_score": 0.5582,
+      "vader_score": 0.8591,
+      "textblob_score": 0.2573,
+      "first_sentence": "Qualifier Maddison Inglis reaches the third round with a tense victory over German veteran Laura Siegemund to remain the last local alive in the women's singles draw.",
+      "timestamp": "2026-01-21T23:30:27Z",
       "source": "ABC News"
     },
     {
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.3,
       "first_sentence": "In many ways Michael Carrick is the antithesis of Ruben Amorim but Manchester United\u2019s soon-to-be-appointed interim head coach does have something significant in common with his Portuguese predecessor.",
       "timestamp": "2026-01-13T08:00:28Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Monochrome marvels: LensCulture\u2019s best black-and-white photography \u2013 in pictures",
-      "link": "https://www.theguardian.com/artanddesign/gallery/2026/jan/13/lensculture-best-black-and-white-photography-in-pictures",
-      "mean_score": 0.901,
-      "vader_score": 0.802,
-      "textblob_score": 1.0,
-      "first_sentence": "A brutal nomadic sport, quiet childhood reveries and stark human endurance define the photographs that wowed this year\u2019s judges Continue reading.",
-      "timestamp": "2026-01-13T07:00:28Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Love Machines by James Muldoon review \u2013 inside the uncanny world of AI relationships",
-      "link": "https://www.theguardian.com/books/2026/jan/13/love-machines-by-james-muldoon-review-the-risks-and-rewards-of-getting-intimate-with-ai",
-      "mean_score": 0.5685,
-      "vader_score": 0.6369,
-      "textblob_score": 0.5,
-      "first_sentence": "If much of the discussion of AI risk conjures doomsday scenarios of hyper-intelligent bots brandishing nuclear codes, perhaps we should be thinking closer to home.",
-      "timestamp": "2026-01-13T07:00:28Z",
       "source": "The Guardian"
     }
   ]
