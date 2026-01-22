@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-21T23:05:54Z",
+  "last run": "2026-01-22T00:16:34Z",
   "stories": [
+    {
+      "headline": "Some Britons wonder if the U.S. and U.K.'s 'special relationship' may end in divorce",
+      "link": "https://www.npr.org/2026/01/21/nx-s1-5682016/some-britons-wonder-if-the-u-s-and-u-k-s-special-relationship-may-end-in-divorce",
+      "mean_score": 0.3795,
+      "vader_score": 0.4019,
+      "textblob_score": 0.3571,
+      "first_sentence": "Some people in Britain are asking what it would look like for their government to sever security and intelligence ties with its closest ally, the U.S.",
+      "timestamp": "2026-01-21T23:01:24Z",
+      "source": "NPR News"
+    },
     {
       "headline": "Are 'passkeys' better than passwords? This security expert says yes",
       "link": "https://www.npr.org/2026/01/21/nx-s1-5675954/are-passkeys-better-than-passwords-this-security-expert-says-yes",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Peter Malinauskas became emotional when journalists pressed him on a range of topics including Adelaide Writers' Week (AWW) and allegations of homophobia against Adelaide United.",
       "timestamp": "2026-01-13T01:48:32Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "I spent months investigating whether gut health affects ageing - and if I could hack my own gut to age better",
-      "link": "https://www.bbc.com/news/articles/c1m8m47jl5eo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3869,
-      "vader_score": 0.4404,
-      "textblob_score": 0.3333,
-      "first_sentence": "Guts have become a source of immense fascination.",
-      "timestamp": "2026-01-13T00:05:26Z",
-      "source": "BBC News"
     }
   ]
 }
