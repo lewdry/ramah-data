@@ -1,6 +1,36 @@
 {
-  "last run": "2026-01-22T18:06:12Z",
+  "last run": "2026-01-22T19:07:46Z",
   "stories": [
+    {
+      "headline": "Australia blends youth and experience in bid for most successful Winter Games",
+      "link": "https://www.abc.net.au/news/2026-01-23/australia-names-athletes-for-2026-winter-olympics-milan-cortina/106257140",
+      "mean_score": 0.6245,
+      "vader_score": 0.624,
+      "textblob_score": 0.625,
+      "first_sentence": "Australia has named 53 athletes to compete at the 2026 Winter Olympic Games in Milan-Cortina.",
+      "timestamp": "2026-01-22T18:50:45Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Toronto man posed as pilot to rack up hundreds of free flights, prosecutors say",
+      "link": "https://www.theguardian.com/world/2026/jan/22/canada-pilot-airline-tickets",
+      "mean_score": 0.4553,
+      "vader_score": 0.5106,
+      "textblob_score": 0.4,
+      "first_sentence": "A Toronto man posed as a pilot for years in order to fool airlines into giving him hundreds of free flights, prosecutors have alleged, in a case that has prompted comparisons to the Hollywood thriller Catch Me If You Can.",
+      "timestamp": "2026-01-22T18:22:32Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Blue Origin makes impressive strides with reuse\u2014next launch will refly booster",
+      "link": "https://arstechnica.com/space/2026/01/blue-origin-makes-impressive-strides-with-reuse-next-launch-will-refly-booster/",
+      "mean_score": 0.5053,
+      "vader_score": 0.5106,
+      "textblob_score": 0.5,
+      "first_sentence": "With this quick turnaround, Blue Origin takes a step toward a faster cadence.",
+      "timestamp": "2026-01-22T17:49:24Z",
+      "source": "Ars Technica"
+    },
     {
       "headline": "Greenland\u2019s PM says he doesn\u2019t know details of rumoured deal and calls for US to respect red lines \u2013 latest updates",
       "link": "https://www.theguardian.com/world/live/2026/jan/22/zelenskyy-trump-putin-ukraine-russia-us-davos-greenland-eu-europe-live-news",
@@ -2470,36 +2500,6 @@
       "first_sentence": "Across North Africa, the Amazigh people have been coming together to usher in the year 2976.",
       "timestamp": "2026-01-14T00:37:02Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Why you're more like the Traitors than you think",
-      "link": "https://www.bbc.com/news/articles/cd0yne4k7dxo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.46,
-      "vader_score": 0.4201,
-      "textblob_score": 0.5,
-      "first_sentence": "From small social excuses to deliberate deceptions, lying is something most of us do, often without stopping to think about why.",
-      "timestamp": "2026-01-14T00:36:32Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Eleven quick and easy summer weekday dinners, from pasta to Maggi goreng \u2013 recipes",
-      "link": "https://www.theguardian.com/food/2026/jan/14/quick-easy-summer-recipes-weekday-dinners-pasta-tofu-noodles-chickpeas",
-      "mean_score": 0.4119,
-      "vader_score": 0.4404,
-      "textblob_score": 0.3833,
-      "first_sentence": "Rukmini Iyer\u2019s recipe contains a microwave method for cooking rice, but I\u2019ve successfully made basmati in a rice cooker countless times \u2013 just pop the whole garlic clove in with the rice grains.",
-      "timestamp": "2026-01-13T23:51:24Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Jellyfish sleep and nap like us. Studying them could help human brains",
-      "link": "https://www.npr.org/2026/01/13/nx-s1-5661527/jellyfish-sleep-and-nap-like-us-studying-them-could-help-human-brains",
-      "mean_score": 0.3185,
-      "vader_score": 0.6369,
-      "textblob_score": 0.0,
-      "first_sentence": "A new study analyzed the sleep patterns of jellyfish and sea anemones and found they share some sleep traits with humans.",
-      "timestamp": "2026-01-13T21:08:44Z",
-      "source": "NPR News"
     }
   ]
 }
