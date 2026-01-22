@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-22T10:06:30Z",
+  "last run": "2026-01-22T11:06:24Z",
   "stories": [
+    {
+      "headline": "Australian Open 2026: Sinner and Osaka advance, Wawrinka wins in five sets \u2013 live",
+      "link": "https://www.theguardian.com/sport/live/2026/jan/22/australian-open-2026-sinner-osaka-rybakina-fritz-wawrinka-live",
+      "mean_score": 0.3405,
+      "vader_score": 0.5719,
+      "textblob_score": 0.1091,
+      "first_sentence": "Meanwhile, Nick Kyrgios and Thanasi Kokkinakis are up 2-1 up in the second set after their underarm serves let them down in the first, losing 6-4 to fellow Australian duo Jason Kubler and Marc Polman.",
+      "timestamp": "2026-01-22T10:53:19Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Top of the props: meet the unsung heroes behind the memorable objects in your favourite films",
       "link": "https://www.theguardian.com/film/2026/jan/22/top-of-the-props-meet-the-unsung-heroes-behind-the-memorable-objects-in-your-favourite-films",
@@ -2490,16 +2500,6 @@
       "first_sentence": "It is rare to watch a fictional romance and feel genuinely invested in the question of will-they-won\u2019t-they \u2013 and even rarer for it to reflect familiar relationship turbulence.",
       "timestamp": "2026-01-13T12:59:30Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "NHS funds football pitch to help boost island health",
-      "link": "https://www.bbc.com/news/articles/c3wz4pj1z1vo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3298,
-      "vader_score": 0.6597,
-      "textblob_score": 0.0,
-      "first_sentence": "A football club in the Isle of Lewis has started turning an overgrown area into a new training pitch with funding from NHS Western Isles.",
-      "timestamp": "2026-01-13T12:28:59Z",
-      "source": "BBC News"
     }
   ]
 }
