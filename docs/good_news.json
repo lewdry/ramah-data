@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-22T00:16:34Z",
+  "last run": "2026-01-22T01:33:09Z",
   "stories": [
+    {
+      "headline": "Watch: Russian cosmonaut captures stunning aurora from space",
+      "link": "https://www.bbc.com/news/videos/cn40027nej0o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3159,
+      "vader_score": 0.3818,
+      "textblob_score": 0.25,
+      "first_sentence": "Cosmonaut Sergey Kud-Sverchkov captured breathtaking views of aurora lights over Earth, seen from the International Space Station.",
+      "timestamp": "2026-01-22T01:02:05Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "March for Australia admins encouraged people to join White Australia Party",
+      "link": "https://www.abc.net.au/news/2026-01-22/verify-neo-nazi-group-linked-to-political-party/106254196",
+      "mean_score": 0.3753,
+      "vader_score": 0.7506,
+      "textblob_score": 0.0,
+      "first_sentence": "An ABC NEWS Verify investigation has revealed that some of those involved behind the scenes of the March for Australia (MFA) anti-immigration protests previously tried to recruit people to the now disbanded Neo-Nazi White Australia Party.",
+      "timestamp": "2026-01-22T01:00:43Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Some Britons wonder if the U.S. and U.K.'s 'special relationship' may end in divorce",
       "link": "https://www.npr.org/2026/01/21/nx-s1-5682016/some-britons-wonder-if-the-u-s-and-u-k-s-special-relationship-may-end-in-divorce",
@@ -2392,6 +2412,16 @@
       "source": "The Guardian"
     },
     {
+      "headline": "I spent months trying to find out if boosting my gut health could help me age better",
+      "link": "https://www.bbc.com/news/articles/c1m8m47jl5eo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4953,
+      "vader_score": 0.7906,
+      "textblob_score": 0.2,
+      "first_sentence": "Guts have become a source of immense fascination.",
+      "timestamp": "2026-01-13T09:49:40Z",
+      "source": "BBC News"
+    },
+    {
       "headline": "Nick Kyrgios delights rowdy fans as tennis cultures clash at Kooyong Classic",
       "link": "https://www.theguardian.com/sport/2026/jan/13/nick-kyrgios-kooyong-classic-tennis-fans",
       "mean_score": 0.3127,
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.0,
       "first_sentence": "A motion-sensor camera has captured a koala in the wild at a wildlife sanctuary in Googong, near the ACT border.",
       "timestamp": "2026-01-13T04:38:14Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Retired navy captain Mark Kelly sues the Pentagon over free speech",
-      "link": "https://www.abc.net.au/news/2026-01-13/retired-us-navy-captain-mark-kelly-sues-pentagon-free-speech/106222928",
-      "mean_score": 0.4553,
-      "vader_score": 0.5106,
-      "textblob_score": 0.4,
-      "first_sentence": "US Democratic senator Mark Kelly, a retired Navy captain and NASA astronaut, is suing the Pentagon, alleging his constitutional right to free speech is being impinged.",
-      "timestamp": "2026-01-13T02:59:12Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Pianist hauls baby grand to Aussie landmarks for moving outdoor performances",
-      "link": "https://www.abc.net.au/news/2026-01-13/tasmanian-man-takes-his-piano-performances-to-wa/106214210",
-      "mean_score": 0.4794,
-      "vader_score": 0.4588,
-      "textblob_score": 0.5,
-      "first_sentence": "The tune of I Am Australian adds to the dawn chorus as the sun rises on a beautiful January day at Wave Rock, 340 kilometres east of Perth.",
-      "timestamp": "2026-01-13T02:15:55Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "'I do my best to settle my conscience': SA Premier becomes emotional during press conference",
-      "link": "https://www.abc.net.au/news/2026-01-13/sa-peter-malinauskas-emotional-in-press-conference/106224030",
-      "mean_score": 0.6001,
-      "vader_score": 0.7003,
-      "textblob_score": 0.5,
-      "first_sentence": "Peter Malinauskas became emotional when journalists pressed him on a range of topics including Adelaide Writers' Week (AWW) and allegations of homophobia against Adelaide United.",
-      "timestamp": "2026-01-13T01:48:32Z",
       "source": "ABC News"
     }
   ]
