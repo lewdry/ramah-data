@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-22T22:04:38Z",
+  "last run": "2026-01-22T23:04:45Z",
   "stories": [
+    {
+      "headline": "Chris Mason: Andy Burnham faces tricky run to win Labour crown",
+      "link": "https://www.bbc.com/news/articles/cvg553rk7zvo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.647,
+      "vader_score": 0.4939,
+      "textblob_score": 0.8,
+      "first_sentence": "A marble sits at the top of a very long, elaborate and twisting run right now.",
+      "timestamp": "2026-01-22T22:40:55Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Minister told armoured vehicle which left soldiers vomiting was 'safe'",
       "link": "https://www.bbc.com/news/articles/cp3zzv7jw4jo?at_medium=RSS&at_campaign=rss",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Two wind farms off the west and north Wales coastline have secured UK government funding to supply the national grid, with up to 7,000 jobs expected to be created.",
       "timestamp": "2026-01-14T10:51:06Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Sali Hughes on beauty: if you don\u2019t like strong scents, layering could be the answer",
-      "link": "https://www.theguardian.com/fashion/2026/jan/14/sali-hughes-on-beauty-if-you-dont-like-strong-scents-layering-could-be-the-answer",
-      "mean_score": 0.6479,
-      "vader_score": 0.8625,
-      "textblob_score": 0.4333,
-      "first_sentence": "The Guardian\u2019s journalism is independent.",
-      "timestamp": "2026-01-14T10:00:22Z",
-      "source": "The Guardian"
     }
   ]
 }
