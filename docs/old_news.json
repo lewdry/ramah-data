@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Why AI datacentres are draining our energy and water \u2013 Full Story podcast",
+    "link": "https://www.theguardian.com/australia-news/audio/2026/jan/14/why-ai-datacentres-are-draining-our-energy-and-water-full-story-podcast",
+    "mean_score": 0.3116,
+    "vader_score": 0.2732,
+    "textblob_score": 0.35,
+    "first_sentence": "Australia wants in on the artificial intelligence boom but datacentres needed to run AI require huge amounts of electricity and water.",
+    "timestamp": "2026-01-13T14:00:06Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Sex giggles! Nail clippings on the sofa! The new TV romance so realistic it\u2019s close to perfect",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/jan/13/the-new-years-mubi-tv-romance",
+    "mean_score": 0.6498,
+    "vader_score": 0.8652,
+    "textblob_score": 0.4343,
+    "first_sentence": "It is rare to watch a fictional romance and feel genuinely invested in the question of will-they-won\u2019t-they \u2013 and even rarer for it to reflect familiar relationship turbulence.",
+    "timestamp": "2026-01-13T12:59:30Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "NHS funds football pitch to help boost island health",
     "link": "https://www.bbc.com/news/articles/c3wz4pj1z1vo?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.3298,
