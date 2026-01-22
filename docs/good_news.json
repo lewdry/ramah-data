@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-22T14:10:51Z",
+  "last run": "2026-01-22T15:08:24Z",
   "stories": [
+    {
+      "headline": "Special Ks burn brightly but briefly as Kokkinakis and Kyrgios exit doubles",
+      "link": "https://www.theguardian.com/sport/2026/jan/22/australian-open-tennis-kyrgios-kokkinakis-kubler-polmans-doubles",
+      "mean_score": 0.3671,
+      "vader_score": 0.3818,
+      "textblob_score": 0.3524,
+      "first_sentence": "In the end, it was a one-night only affair.",
+      "timestamp": "2026-01-22T14:52:04Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Danish PM thanks Starmer for support over Greenland",
+      "link": "https://www.bbc.com/news/articles/cjrzzn98qv3o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4404,
+      "vader_score": 0.6808,
+      "textblob_score": 0.2,
+      "first_sentence": "Danish Prime Minister Mette Frederiksen has thanked Sir Keir Starmer for his \"strong support\" over US President Donald Trump's threats to annex Greenland, as the pair met in the UK.",
+      "timestamp": "2026-01-22T14:21:17Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Rural California is seeing it\u2019s craziest election in years. Can a progressive win it?",
       "link": "https://www.theguardian.com/us-news/2026/jan/22/audrey-denney-california-special-election",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Video, audio, and image editing apps join up in one subscription on January 28.",
       "timestamp": "2026-01-13T18:24:03Z",
       "source": "Ars Technica"
-    },
-    {
-      "headline": "Competency porn: is there any greater escapism than watching a capable person on TV?",
-      "link": "https://www.theguardian.com/money/2026/jan/13/competency-porn-escapism-watching-capable-person-tv",
-      "mean_score": 0.4874,
-      "vader_score": 0.6249,
-      "textblob_score": 0.35,
-      "first_sentence": "No thanks, porn isn\u2019t really my kind of thing.",
-      "timestamp": "2026-01-13T18:05:32Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Is Dry January a good thing?",
-      "link": "https://www.bbc.com/news/videos/cx20vyr11ewo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3785,
-      "vader_score": 0.4404,
-      "textblob_score": 0.3167,
-      "first_sentence": "Dr May van Schalkwyk from the University of Edinburgh shares her thoughts with Drs Chris and Xand on What's Up Docs?.",
-      "timestamp": "2026-01-13T16:54:44Z",
-      "source": "BBC News"
     }
   ]
 }
