@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-22T08:06:02Z",
+  "last run": "2026-01-22T09:09:29Z",
   "stories": [
+    {
+      "headline": "Top of the props: meet the unsung heroes behind the memorable objects in your favourite films",
+      "link": "https://www.theguardian.com/film/2026/jan/22/top-of-the-props-meet-the-unsung-heroes-behind-the-memorable-objects-in-your-favourite-films",
+      "mean_score": 0.4124,
+      "vader_score": 0.6249,
+      "textblob_score": 0.2,
+      "first_sentence": "The red and blue pills in The Matrix.",
+      "timestamp": "2026-01-22T08:00:02Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "From Bone Temple to Oscar hopefuls, here are January's best movies",
       "link": "https://www.abc.net.au/news/2026-01-22/what-to-watch-in-cinemas-january/106233164",
@@ -2490,16 +2500,6 @@
       "first_sentence": "A football club in the Isle of Lewis has started turning an overgrown area into a new training pitch with funding from NHS Western Isles.",
       "timestamp": "2026-01-13T12:28:59Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "The best Apple Watches in 2026: what\u2019s worth buying and what\u2019s not, according to our expert",
-      "link": "https://www.theguardian.com/thefilter/2025/jun/10/best-apple-watch",
-      "mean_score": 0.6885,
-      "vader_score": 0.7269,
-      "textblob_score": 0.65,
-      "first_sentence": "The Guardian\u2019s journalism is independent.",
-      "timestamp": "2026-01-13T10:00:00Z",
-      "source": "The Guardian"
     }
   ]
 }
