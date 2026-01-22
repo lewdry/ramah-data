@@ -1,5 +1,5 @@
 {
-  "last run": "2026-01-22T20:05:07Z",
+  "last run": "2026-01-22T21:05:28Z",
   "stories": [
     {
       "headline": "Minister told armoured vehicle which left soldiers vomiting was 'safe'",
@@ -109,6 +109,16 @@
       "textblob_score": 0.4,
       "first_sentence": "Stan Wawrinka described his marathon second-round win at the Australian Open as a special moment in his career after becoming the first 40-year-old to reach the third round of a men\u2019s grand slam in 48 years.",
       "timestamp": "2026-01-22T15:31:13Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "R&B star Jill Scott: \u2018I like mystery \u2013 I love Sade but I don\u2019t know what she had for breakfast\u2019",
+      "link": "https://www.theguardian.com/culture/2026/jan/22/jill-scott-interview-rnb-neo-soul-singer-actor",
+      "mean_score": 0.5093,
+      "vader_score": 0.5187,
+      "textblob_score": 0.5,
+      "first_sentence": "In a recent interview you gave an invaluable life lesson which involved a go-go bar and your mother\u2019s love.",
+      "timestamp": "2026-01-22T15:15:16Z",
       "source": "The Guardian"
     },
     {
@@ -239,6 +249,16 @@
       "textblob_score": 0.12,
       "first_sentence": "Thank you for joining me again this afternoon to witness Novak Djokovic joining the other leading men in the third round of the Australian Open.",
       "timestamp": "2026-01-22T05:28:35Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "The Beauty review \u2013 a body horror so delicious you could just pass out",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/jan/22/the-beauty-review-ryan-murphy-body-horror-disney",
+      "mean_score": 0.8521,
+      "vader_score": 0.7042,
+      "textblob_score": 1.0,
+      "first_sentence": "Ryan Murphy\u2019s last screen offering was the existentially terrible All\u2019s Fair.",
+      "timestamp": "2026-01-22T05:00:03Z",
       "source": "The Guardian"
     },
     {
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.4333,
       "first_sentence": "The Guardian\u2019s journalism is independent.",
       "timestamp": "2026-01-14T10:00:22Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The best air fryers in the UK, tried and tested for crisp and crunch",
-      "link": "https://www.theguardian.com/thefilter/2025/mar/02/best-air-fryers",
-      "mean_score": 0.631,
-      "vader_score": 0.6369,
-      "textblob_score": 0.625,
-      "first_sentence": "The Guardian\u2019s journalism is independent.",
-      "timestamp": "2026-01-14T10:00:11Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Pole to Pole With Will Smith review \u2013 every single moment is gorgeous or thrilling",
-      "link": "https://www.theguardian.com/tv-and-radio/2026/jan/14/pole-to-pole-with-will-smith-review-disney",
-      "mean_score": 0.5446,
-      "vader_score": 0.7964,
-      "textblob_score": 0.2929,
-      "first_sentence": "Hollywood stars \u2013 they\u2019re just like us! Except that when we want to go on a massive jolly/rehabilitative journey for ourselves and/or our careers, we have to pay for it.",
-      "timestamp": "2026-01-14T08:00:19Z",
       "source": "The Guardian"
     }
   ]

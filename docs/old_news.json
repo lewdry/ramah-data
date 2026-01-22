@@ -1,5 +1,25 @@
 [
   {
+    "headline": "The best air fryers in the UK, tried and tested for crisp and crunch",
+    "link": "https://www.theguardian.com/thefilter/2025/mar/02/best-air-fryers",
+    "mean_score": 0.631,
+    "vader_score": 0.6369,
+    "textblob_score": 0.625,
+    "first_sentence": "The Guardian\u2019s journalism is independent.",
+    "timestamp": "2026-01-14T10:00:11Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Pole to Pole With Will Smith review \u2013 every single moment is gorgeous or thrilling",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/jan/14/pole-to-pole-with-will-smith-review-disney",
+    "mean_score": 0.5446,
+    "vader_score": 0.7964,
+    "textblob_score": 0.2929,
+    "first_sentence": "Hollywood stars \u2013 they\u2019re just like us! Except that when we want to go on a massive jolly/rehabilitative journey for ourselves and/or our careers, we have to pay for it.",
+    "timestamp": "2026-01-14T08:00:19Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Offshore windfarm contracts to fuel 12m homes in Great Britain after record auction",
     "link": "https://www.theguardian.com/environment/2026/jan/14/offshore-windfarm-contracts-to-fuel-homes-great-britain-record-auction",
     "mean_score": 0.7125,
