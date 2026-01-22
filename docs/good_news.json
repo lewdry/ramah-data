@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-22T04:22:35Z",
+  "last run": "2026-01-22T05:10:13Z",
   "stories": [
+    {
+      "headline": "How positivity affects health, the rise of scabies and bovine intelligence \u2013 podcast",
+      "link": "https://www.theguardian.com/science/audio/2026/jan/22/how-positivity-affects-health-the-rise-of-scabies-and-bovine-intelligence-podcast",
+      "mean_score": 0.3753,
+      "vader_score": 0.7506,
+      "textblob_score": 0.0,
+      "first_sentence": "The Guardian\u2019s science editor, Ian Sample, talks to Madeleine Finlay about three eye-catching science stories from the week, including a study that suggests positive thinking can boost immune response.",
+      "timestamp": "2026-01-22T05:00:02Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018We want to make jacket potatoes sexy again!\u2019: how the humble spud became a fast food sensation",
+      "link": "https://www.theguardian.com/food/2026/jan/22/jacket-potatoes-sexy-again-humble-spud-became-fast-food-sensation",
+      "mean_score": 0.4099,
+      "vader_score": 0.6114,
+      "textblob_score": 0.2083,
+      "first_sentence": "They were once a lunch option that inspired little excitement \u2013 but the jacket potato\u2019s time has finally come.",
+      "timestamp": "2026-01-22T05:00:01Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Watch: Russian cosmonaut captures stunning aurora from space",
       "link": "https://www.bbc.com/news/videos/cn40027nej0o?at_medium=RSS&at_campaign=rss",
@@ -49,6 +69,16 @@
       "textblob_score": 0.1667,
       "first_sentence": "ABC Classic is turning 50 years young on Saturday January 24.",
       "timestamp": "2026-01-21T21:00:00Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "If your kid's asking for brands, your response could make a huge difference",
+      "link": "https://www.abc.net.au/news/2026-01-22/how-to-involve-your-kids-in-back-to-school-budgeting/106225314",
+      "mean_score": 0.3591,
+      "vader_score": 0.3182,
+      "textblob_score": 0.4,
+      "first_sentence": "Covering back-to-school expenses such as shoes and headphones can be daunting enough without your child asking for costly brand-names.",
+      "timestamp": "2026-01-21T20:54:47Z",
       "source": "ABC News"
     },
     {
@@ -2470,36 +2500,6 @@
       "first_sentence": "If much of the discussion of AI risk conjures doomsday scenarios of hyper-intelligent bots brandishing nuclear codes, perhaps we should be thinking closer to home.",
       "timestamp": "2026-01-13T07:00:28Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Tennis great Williams departs Hobart International in first round",
-      "link": "https://www.abc.net.au/news/2026-01-13/hobart-international-venus-williams-loses-in-first-round/106224876",
-      "mean_score": 0.4187,
-      "vader_score": 0.6249,
-      "textblob_score": 0.2125,
-      "first_sentence": "Venus Williams lost 6-4, 6-3 to German sixth seed Tatjana Maria in the first round at the Hobart International.",
-      "timestamp": "2026-01-13T05:43:14Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Lovers and fighters: how Les Liaisons Dangereuses reveals the passions of Christopher Hampton",
-      "link": "https://www.theguardian.com/stage/2026/jan/13/les-liaisons-dangereuses-christopher-hampton-national-theatre",
-      "mean_score": 0.3753,
-      "vader_score": 0.7506,
-      "textblob_score": 0.0,
-      "first_sentence": "I once dubbed Christopher Hampton, who celebrates his 80th birthday this month, \u201cthe quiet man of British theatre\u201d.",
-      "timestamp": "2026-01-13T05:00:27Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Camera footage 'giving us hope that koalas might still be around'",
-      "link": "https://www.abc.net.au/news/2026-01-13/koala-captured-on-camera-rare-sighting-near-canberra/106223142",
-      "mean_score": 0.3243,
-      "vader_score": 0.6486,
-      "textblob_score": 0.0,
-      "first_sentence": "A motion-sensor camera has captured a koala in the wild at a wildlife sanctuary in Googong, near the ACT border.",
-      "timestamp": "2026-01-13T04:38:14Z",
-      "source": "ABC News"
     }
   ]
 }

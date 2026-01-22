@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Tennis great Williams departs Hobart International in first round",
+    "link": "https://www.abc.net.au/news/2026-01-13/hobart-international-venus-williams-loses-in-first-round/106224876",
+    "mean_score": 0.4187,
+    "vader_score": 0.6249,
+    "textblob_score": 0.2125,
+    "first_sentence": "Venus Williams lost 6-4, 6-3 to German sixth seed Tatjana Maria in the first round at the Hobart International.",
+    "timestamp": "2026-01-13T05:43:14Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Lovers and fighters: how Les Liaisons Dangereuses reveals the passions of Christopher Hampton",
+    "link": "https://www.theguardian.com/stage/2026/jan/13/les-liaisons-dangereuses-christopher-hampton-national-theatre",
+    "mean_score": 0.3753,
+    "vader_score": 0.7506,
+    "textblob_score": 0.0,
+    "first_sentence": "I once dubbed Christopher Hampton, who celebrates his 80th birthday this month, \u201cthe quiet man of British theatre\u201d.",
+    "timestamp": "2026-01-13T05:00:27Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Camera footage 'giving us hope that koalas might still be around'",
+    "link": "https://www.abc.net.au/news/2026-01-13/koala-captured-on-camera-rare-sighting-near-canberra/106223142",
+    "mean_score": 0.3243,
+    "vader_score": 0.6486,
+    "textblob_score": 0.0,
+    "first_sentence": "A motion-sensor camera has captured a koala in the wild at a wildlife sanctuary in Googong, near the ACT border.",
+    "timestamp": "2026-01-13T04:38:14Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Retired navy captain Mark Kelly sues the Pentagon over free speech",
     "link": "https://www.abc.net.au/news/2026-01-13/retired-us-navy-captain-mark-kelly-sues-pentagon-free-speech/106222928",
     "mean_score": 0.4553,
