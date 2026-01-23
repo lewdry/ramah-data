@@ -1,6 +1,36 @@
 {
-  "last run": "2026-01-23T15:06:20Z",
+  "last run": "2026-01-23T16:06:24Z",
   "stories": [
+    {
+      "headline": "You\u2019ve got heat on you: how Jessie\u2019s Traitors makeup is inspiring the new \u2018bold beauty\u2019",
+      "link": "https://www.theguardian.com/fashion/2026/jan/23/jessie-traitors-makeup-bold-beauty",
+      "mean_score": 0.3724,
+      "vader_score": 0.4215,
+      "textblob_score": 0.3232,
+      "first_sentence": "\u2018It\u2019s Stephen! It\u2019s Stephen.",
+      "timestamp": "2026-01-23T15:46:31Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "UK ministers urged to release \u2018withheld\u2019 safety reports on smart motorways",
+      "link": "https://www.theguardian.com/uk-news/2026/jan/23/ministers-urged-release-safety-reports-popes-britain-smart-motorways",
+      "mean_score": 0.4424,
+      "vader_score": 0.6705,
+      "textblob_score": 0.2143,
+      "first_sentence": "Road campaigners and motoring organisations have urged UK government ministers to immediately release a series of \u201cwithheld\u201d safety assessments of smart motorways \u2013 some dating back to 2022.",
+      "timestamp": "2026-01-23T15:09:01Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Bouncing back: from an ankle sprain to a shoulder pinch, experts on the best way to recover from common injuries",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/23/experts-best-way-to-recover-from-common-injuries",
+      "mean_score": 0.4351,
+      "vader_score": 0.6369,
+      "textblob_score": 0.2333,
+      "first_sentence": "The Guardian\u2019s journalism is independent.",
+      "timestamp": "2026-01-23T15:00:14Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Tiny falcons are helping keep the food supply safe on cherry farms",
       "link": "https://arstechnica.com/science/2026/01/tiny-falcons-are-helping-keep-the-food-supply-safe-on-cherry-farms/",
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.4,
       "first_sentence": "San Francisco will offer free childcare to families earning less than $230,000 a year, and a 50% subsidy to those earning up to $310,000, in an expansion of the city\u2019s childcare offerings designed to make one of the world\u2019s most expensive cities more affordable for residents.",
       "timestamp": "2026-01-15T21:49:45Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Why I\u2019m withholding certainty that \u201cprecise\u201d US cyber-op disrupted Venezuelan electricity",
-      "link": "https://arstechnica.com/security/2026/01/unnamed-officials-tell-nyt-precise-cyber-op-took-out-venezuelas-power-grid/",
-      "mean_score": 0.325,
-      "vader_score": 0.25,
-      "textblob_score": 0.4,
-      "first_sentence": "NYT says US hackers were able to turn off power and then quickly turn it back on.",
-      "timestamp": "2026-01-15T21:29:58Z",
-      "source": "Ars Technica"
-    },
-    {
-      "headline": "Morocco celebrates Afcon win: 'Today is about couscous not jollof'",
-      "link": "https://www.bbc.com/news/videos/c74vd0yj80do?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.8088,
-      "vader_score": 0.8176,
-      "textblob_score": 0.8,
-      "first_sentence": "Morocco defeated Nigeria in a penalty shootout to advance to the Afcon final.",
-      "timestamp": "2026-01-15T20:22:10Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Andean artist Antonio Paucar wins Artes Mundi prize in Wales",
-      "link": "https://www.theguardian.com/artanddesign/2026/jan/15/antonio-paucar-andes-peru-wins-artes-mundi-prize-wales",
-      "mean_score": 0.5453,
-      "vader_score": 0.7906,
-      "textblob_score": 0.3,
-      "first_sentence": "An artist and beekeeper from a remote corner of the Andes has won one of the UK\u2019s most prestigious contemporary arts awards and plans to spend the \u00a340,000 prize on building a cultural centre in the Peruvian mountains.",
-      "timestamp": "2026-01-15T20:00:49Z",
       "source": "The Guardian"
     }
   ]
