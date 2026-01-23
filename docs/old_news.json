@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Benjamina Ebuehi\u2019s recipe for Viennese fingers | The sweet spot",
+    "link": "https://www.theguardian.com/food/2026/jan/16/viennese-fingers-recipe-benjamina-ebuehi-biscuits",
+    "mean_score": 0.4044,
+    "vader_score": 0.4588,
+    "textblob_score": 0.35,
+    "first_sentence": "If I were to rank my top biscuits of all time, Viennese fingers would sit firmly in my top three.",
+    "timestamp": "2026-01-16T06:00:01Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Australian study finds moderate social media use linked to best teen wellbeing",
+    "link": "https://www.abc.net.au/news/2026-01-16/new-report-social-media-on-teens-mental-health/106224780",
+    "mean_score": 0.4218,
+    "vader_score": 0.6369,
+    "textblob_score": 0.2067,
+    "first_sentence": "Social media's association with adolescent well-being is complex and non-linear, a new study has found.",
+    "timestamp": "2026-01-16T04:01:20Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Australia news live: Christian and Muslim faith leaders express \u2018deep concerns\u2019 about Labor bill\u2019s impact on free speech",
     "link": "https://www.theguardian.com/australia-news/live/2026/jan/16/hate-speech-legislation-political-reaction-anthony-albanese-labor-sussan-ley-coalition-greens-adelaide-festival-writers-week-backlash-sydney-protest-ban-ntwnfb",
     "mean_score": 0.4305,
