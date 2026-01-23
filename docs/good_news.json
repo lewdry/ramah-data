@@ -1,6 +1,36 @@
 {
-  "last run": "2026-01-23T21:04:39Z",
+  "last run": "2026-01-23T22:04:02Z",
   "stories": [
+    {
+      "headline": "Gen Z led the revolution in Bangladesh \u2014 can they win the election?",
+      "link": "https://www.abc.net.au/news/2026-01-24/bangladesh-election-gen-z-revolution-will-they-win/106204040",
+      "mean_score": 0.6929,
+      "vader_score": 0.5859,
+      "textblob_score": 0.8,
+      "first_sentence": "The then-student activist was detained and tortured for helping lead widespread protests in Bangladesh that began in 2024.",
+      "timestamp": "2026-01-23T21:16:51Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Queensland researchers are using a popular pet fish to test rare genetic variants",
+      "link": "https://www.abc.net.au/news/2026-01-24/zebrafish-research-helps-children-with-rare-genetic-variants/106243868",
+      "mean_score": 0.4357,
+      "vader_score": 0.4215,
+      "textblob_score": 0.45,
+      "first_sentence": "Two tiny babies born on different sides of the world have avoided medical treatment costing millions of dollars, thanks to an Australian-based scientist and his tanks of zebrafish.",
+      "timestamp": "2026-01-23T21:04:42Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Five Great Reads: a week without ultra-processed foods, props for the prop masters, and the Old Believers who time forgot",
+      "link": "https://www.theguardian.com/australia-news/2026/jan/23/five-great-reads-a-week-without-ultra-processed-foods-props-for-the-prop-masters-and-the-old-believers-who-time-forgot",
+      "mean_score": 0.5374,
+      "vader_score": 0.6249,
+      "textblob_score": 0.45,
+      "first_sentence": "Dear readers, at the end of another hectic news week I am grateful to Dave Mustaine\u2019s \u201clet there be shred!\u201d declaration for helping take the edge off.",
+      "timestamp": "2026-01-23T21:00:19Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Telly\u2019s \"free\" ad-based TVs make notable revenue\u2014when they\u2019re actually delivered",
       "link": "https://arstechnica.com/gadgets/2026/01/tellys-free-ad-based-tvs-make-notable-revenue-when-theyre-actually-delivered/",
@@ -250,6 +280,16 @@
       "first_sentence": "Sam Welsford claimed a dramatic victory on the third stage of the Tour Down Under, with Jay Vine retaining the leader's ochre jersey.",
       "timestamp": "2026-01-23T06:38:05Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "Producer's pride at legendary debut 20 years on",
+      "link": "https://www.bbc.com/news/articles/cwy88l1egv5o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.67,
+      "vader_score": 0.34,
+      "textblob_score": 1.0,
+      "first_sentence": "One of the producers responsible for shaping Arctic Monkeys' legendary first album has spoken of his pride at working with the Sheffield band, exactly 20 years on from its  release.",
+      "timestamp": "2026-01-23T06:10:57Z",
+      "source": "BBC News"
     },
     {
       "headline": "Helen Goh\u2019s recipe for Breton butter cake with marmalade | The sweet spot",
@@ -2459,46 +2499,6 @@
       "textblob_score": 0.2067,
       "first_sentence": "Social media's association with adolescent well-being is complex and non-linear, a new study has found.",
       "timestamp": "2026-01-16T04:01:20Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Australia news live: Christian and Muslim faith leaders express \u2018deep concerns\u2019 about Labor bill\u2019s impact on free speech",
-      "link": "https://www.theguardian.com/australia-news/live/2026/jan/16/hate-speech-legislation-political-reaction-anthony-albanese-labor-sussan-ley-coalition-greens-adelaide-festival-writers-week-backlash-sydney-protest-ban-ntwnfb",
-      "mean_score": 0.4305,
-      "vader_score": 0.7269,
-      "textblob_score": 0.1341,
-      "first_sentence": "A coalition of faith groups, including the bishop of south Sydney\u2019s Anglican diocese, the head of the Australian National Imams Council and the archbishop of Sydney\u2019s Catholic archdiocese, just issued a letter sent to the prime minister, Anthony Albanese, expressing \u201cserious concern\u201d over the hate speech bill to be debated in parliament next week.",
-      "timestamp": "2026-01-16T03:09:09Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "How young people are finding ways to connect for free",
-      "link": "https://www.abc.net.au/news/2026-01-16/sunrises-and-sunsets-help-young-people-create-social-connection/106130750",
-      "mean_score": 0.3803,
-      "vader_score": 0.5106,
-      "textblob_score": 0.25,
-      "first_sentence": "The ubiquity of social media means, in some ways, we are more connected than ever.",
-      "timestamp": "2026-01-16T02:47:23Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "What we know about the Great Ocean Road's unprecedented weather event",
-      "link": "https://www.abc.net.au/news/2026-01-16/vic-what-caused-great-ocean-road-flash-flooding/106235904",
-      "mean_score": 0.6624,
-      "vader_score": 0.6249,
-      "textblob_score": 0.7,
-      "first_sentence": "Record-breaking rain fell on the popular holiday towns along Victoria's Great Ocean Road in the space of a few hours on Thursday, triggering flash flooding that swept away cars, caravans and tents.",
-      "timestamp": "2026-01-16T02:42:58Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Perth Glory Women's coach calls for more investment in Australia's 'forgotten' league",
-      "link": "https://www.abc.net.au/news/2026-01-16/stephen-peters-calls-out-lack-of-investment-in-women-football/106234734",
-      "mean_score": 0.4409,
-      "vader_score": 0.3818,
-      "textblob_score": 0.5,
-      "first_sentence": "Perth Glory Women's coach Stephen Peters has criticised a lack of investment in the women's A-League, calling for more funds.",
-      "timestamp": "2026-01-16T01:20:29Z",
       "source": "ABC News"
     }
   ]

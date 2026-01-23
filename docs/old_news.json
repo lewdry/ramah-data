@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Australia news live: Christian and Muslim faith leaders express \u2018deep concerns\u2019 about Labor bill\u2019s impact on free speech",
+    "link": "https://www.theguardian.com/australia-news/live/2026/jan/16/hate-speech-legislation-political-reaction-anthony-albanese-labor-sussan-ley-coalition-greens-adelaide-festival-writers-week-backlash-sydney-protest-ban-ntwnfb",
+    "mean_score": 0.4305,
+    "vader_score": 0.7269,
+    "textblob_score": 0.1341,
+    "first_sentence": "A coalition of faith groups, including the bishop of south Sydney\u2019s Anglican diocese, the head of the Australian National Imams Council and the archbishop of Sydney\u2019s Catholic archdiocese, just issued a letter sent to the prime minister, Anthony Albanese, expressing \u201cserious concern\u201d over the hate speech bill to be debated in parliament next week.",
+    "timestamp": "2026-01-16T03:09:09Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "How young people are finding ways to connect for free",
+    "link": "https://www.abc.net.au/news/2026-01-16/sunrises-and-sunsets-help-young-people-create-social-connection/106130750",
+    "mean_score": 0.3803,
+    "vader_score": 0.5106,
+    "textblob_score": 0.25,
+    "first_sentence": "The ubiquity of social media means, in some ways, we are more connected than ever.",
+    "timestamp": "2026-01-16T02:47:23Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "What we know about the Great Ocean Road's unprecedented weather event",
+    "link": "https://www.abc.net.au/news/2026-01-16/vic-what-caused-great-ocean-road-flash-flooding/106235904",
+    "mean_score": 0.6624,
+    "vader_score": 0.6249,
+    "textblob_score": 0.7,
+    "first_sentence": "Record-breaking rain fell on the popular holiday towns along Victoria's Great Ocean Road in the space of a few hours on Thursday, triggering flash flooding that swept away cars, caravans and tents.",
+    "timestamp": "2026-01-16T02:42:58Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Perth Glory Women's coach calls for more investment in Australia's 'forgotten' league",
+    "link": "https://www.abc.net.au/news/2026-01-16/stephen-peters-calls-out-lack-of-investment-in-women-football/106234734",
+    "mean_score": 0.4409,
+    "vader_score": 0.3818,
+    "textblob_score": 0.5,
+    "first_sentence": "Perth Glory Women's coach Stephen Peters has criticised a lack of investment in the women's A-League, calling for more funds.",
+    "timestamp": "2026-01-16T01:20:29Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "ADHD diagnosis 'changed' Love Island star's life",
     "link": "https://www.bbc.com/news/videos/c79rlv3zrw2o?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.5685,
