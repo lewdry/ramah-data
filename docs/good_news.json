@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-23T01:32:46Z",
+  "last run": "2026-01-23T02:41:42Z",
   "stories": [
+    {
+      "headline": "Wollongong sports and entertainment precinct receives $17 million boost",
+      "link": "https://www.abc.net.au/news/2026-01-23/wollongong-sports-entertainment-precinct-funding-announced/106261074",
+      "mean_score": 0.3352,
+      "vader_score": 0.6705,
+      "textblob_score": 0.0,
+      "first_sentence": "The state government will invest $17 million to move plans for Wollongong's sports and entertainment precinct to the next stage.",
+      "timestamp": "2026-01-23T01:30:18Z",
+      "source": "ABC News"
+    },
     {
       "headline": "AI ready: The advantages of being a young entrepreneur",
       "link": "https://www.bbc.com/news/articles/c058d4nvz1go?at_medium=RSS&at_campaign=rss",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.1375,
       "first_sentence": "A 29-year-old tennis coach from Sydney won the inaugural One Point Slam at the Australian Open and its A$1m prize on Wednesday, after upstaging a field which included Jannik Sinner, Carlos Alcaraz, Iga Swiatek and Coco Gauff.",
       "timestamp": "2026-01-14T15:44:44Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Yodellers, bathing monkeys and a ballroom clean: photos of the day \u2013 Wednesday",
-      "link": "https://www.theguardian.com/news/gallery/2026/jan/14/yodellers-bathing-monkeys-ballroom-clean-photos-of-the-day-wednesday",
-      "mean_score": 0.3843,
-      "vader_score": 0.4019,
-      "textblob_score": 0.3667,
-      "first_sentence": "The Guardian\u2019s picture editors select photographs from around the world Continue reading.",
-      "timestamp": "2026-01-14T14:15:01Z",
       "source": "The Guardian"
     }
   ]
