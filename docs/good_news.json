@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-23T17:07:53Z",
+  "last run": "2026-01-23T18:06:06Z",
   "stories": [
+    {
+      "headline": "Weather influencers are going viral. How much should we trust them?",
+      "link": "https://www.npr.org/2026/01/23/nx-s1-5685033/weather-influencers-winter-storm",
+      "mean_score": 0.3553,
+      "vader_score": 0.5106,
+      "textblob_score": 0.2,
+      "first_sentence": "When Christian Bryson needs quick weather information, like for this weekend's massive snowstorm, he doesn't wait for the 5 p.m.",
+      "timestamp": "2026-01-23T17:48:25Z",
+      "source": "NPR News"
+    },
     {
       "headline": "You\u2019ve got heat on you: how Jessie\u2019s Traitors makeup is inspiring the new \u2018bold beauty\u2019",
       "link": "https://www.theguardian.com/fashion/2026/jan/23/jessie-traitors-makeup-bold-beauty",
@@ -2490,16 +2500,6 @@
       "first_sentence": "They call themselves the \"Sea Shells Teabaggers\" \u2014 and with a former world champion at the helm, this ocean swim group has built something much stronger than good technique.",
       "timestamp": "2026-01-15T22:57:44Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "San Francisco to make childcare free for families earning up to $230,000",
-      "link": "https://www.theguardian.com/us-news/2026/jan/15/san-francisco-childcare-families",
-      "mean_score": 0.4553,
-      "vader_score": 0.5106,
-      "textblob_score": 0.4,
-      "first_sentence": "San Francisco will offer free childcare to families earning less than $230,000 a year, and a 50% subsidy to those earning up to $310,000, in an expansion of the city\u2019s childcare offerings designed to make one of the world\u2019s most expensive cities more affordable for residents.",
-      "timestamp": "2026-01-15T21:49:45Z",
-      "source": "The Guardian"
     }
   ]
 }

@@ -1,5 +1,15 @@
 [
   {
+    "headline": "San Francisco to make childcare free for families earning up to $230,000",
+    "link": "https://www.theguardian.com/us-news/2026/jan/15/san-francisco-childcare-families",
+    "mean_score": 0.4553,
+    "vader_score": 0.5106,
+    "textblob_score": 0.4,
+    "first_sentence": "San Francisco will offer free childcare to families earning less than $230,000 a year, and a 50% subsidy to those earning up to $310,000, in an expansion of the city\u2019s childcare offerings designed to make one of the world\u2019s most expensive cities more affordable for residents.",
+    "timestamp": "2026-01-15T21:49:45Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Why I\u2019m withholding certainty that \u201cprecise\u201d US cyber-op disrupted Venezuelan electricity",
     "link": "https://arstechnica.com/security/2026/01/unnamed-officials-tell-nyt-precise-cyber-op-took-out-venezuelas-power-grid/",
     "mean_score": 0.325,
