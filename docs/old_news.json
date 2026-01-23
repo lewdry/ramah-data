@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Breaking: Adelaide Festival Corporation apologises to author Randa Abdel-Fattah",
+    "link": "https://www.abc.net.au/news/2026-01-15/adelaide-festival-corporation-apology-randa-abdel-fattah/106231602",
+    "mean_score": 0.3062,
+    "vader_score": 0.6124,
+    "textblob_score": 0.0,
+    "first_sentence": "The Adelaide Festival Corporation has apologised to author Randa Abdel-Fattah and says she will be invited to speak at its next event in 2027.",
+    "timestamp": "2026-01-15T00:44:26Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Julian Barnes on his last novel: 'I hope it's a good one to go out on'",
+    "link": "https://www.bbc.com/news/articles/c99kn9xyekeo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.5732,
+    "vader_score": 0.7964,
+    "textblob_score": 0.35,
+    "first_sentence": "Julian Barnes is sitting at an ancient electric typewriter in his study in north London.",
+    "timestamp": "2026-01-14T17:00:31Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Sex, drugs and sugar babies: first trailer for Euphoria season three drops",
     "link": "https://www.theguardian.com/tv-and-radio/2026/jan/14/euphoria-first-trailer",
     "mean_score": 0.4493,
