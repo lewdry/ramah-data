@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Bafta names rising stars who are tipped for film success",
+    "link": "https://www.bbc.com/news/articles/c701xwdne8ro?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4359,
+    "vader_score": 0.5719,
+    "textblob_score": 0.3,
+    "first_sentence": "The nominees for Bafta's Rising Star award have been announced, shining a spotlight on some of the film industry's most exciting up-and-coming acting talent.",
+    "timestamp": "2026-01-14T12:16:06Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Welsh wind farms win funding with up to 7,000 jobs expected",
+    "link": "https://www.bbc.com/news/articles/clyw8n22gwno?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4679,
+    "vader_score": 0.5859,
+    "textblob_score": 0.35,
+    "first_sentence": "Two wind farms off the west and north Wales coastline have secured UK government funding to supply the national grid, with up to 7,000 jobs expected to be created.",
+    "timestamp": "2026-01-14T10:51:06Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Sali Hughes on beauty: if you don\u2019t like strong scents, layering could be the answer",
     "link": "https://www.theguardian.com/fashion/2026/jan/14/sali-hughes-on-beauty-if-you-dont-like-strong-scents-layering-could-be-the-answer",
     "mean_score": 0.6479,
