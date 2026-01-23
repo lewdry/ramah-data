@@ -1,6 +1,46 @@
 {
-  "last run": "2026-01-23T06:06:07Z",
+  "last run": "2026-01-23T07:07:54Z",
   "stories": [
+    {
+      "headline": "New UK passport rules designed to improve national security, government says",
+      "link": "https://www.abc.net.au/news/2026-01-23/uk-government-says-new-passport-rules-improve-national-security/106263628",
+      "mean_score": 0.3925,
+      "vader_score": 0.6486,
+      "textblob_score": 0.1364,
+      "first_sentence": "The British High Commission in Australia says it has received a large of volume of enquiries from British Australian dual citizens seeking clarity on the UK's new passport rules.",
+      "timestamp": "2026-01-23T07:00:38Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Consider the optics: why men have fallen back in love with spectacles",
+      "link": "https://www.theguardian.com/fashion/2026/jan/22/the-rise-of-the-slutty-little-glasses-how-mens-eyewear-just-became-the-hottest-accessory",
+      "mean_score": 0.3259,
+      "vader_score": 0.4019,
+      "textblob_score": 0.25,
+      "first_sentence": "Last spring, Tom Broughton, founder of eyewear brand Cubitts, was asked to comment on a meme that was going viral, that featured a pair of his company\u2019s \u2018Plimsoll\u2019 frames.",
+      "timestamp": "2026-01-23T07:00:10Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Vietnam's leader returns to power with bold promises. Can he deliver?",
+      "link": "https://www.bbc.com/news/articles/c20zzq8we8wo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4851,
+      "vader_score": 0.6369,
+      "textblob_score": 0.3333,
+      "first_sentence": "That was the pitch made by Vietnam's most powerful figure, Communist Party General Secretary To Lam, as he faced the nearly 1,600 delegates at the party congress, which gathered this week to determine the country's path for the next five years, and who leads it.",
+      "timestamp": "2026-01-23T06:59:50Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Fears for Saturday's heat as Welsford claims sensational seventh TDU stage win",
+      "link": "https://www.abc.net.au/news/2026-01-23/sam-welsford-wins-tour-down-under-stage-three/106261424",
+      "mean_score": 0.4917,
+      "vader_score": 0.25,
+      "textblob_score": 0.7333,
+      "first_sentence": "Sam Welsford claimed a dramatic victory on the third stage of the Tour Down Under, with Jay Vine retaining the leader's ochre jersey.",
+      "timestamp": "2026-01-23T06:38:05Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Helen Goh\u2019s recipe for Breton butter cake with marmalade | The sweet spot",
       "link": "https://www.theguardian.com/food/2026/jan/23/breton-butter-cake-recipe-marmalade-helen-goh",
@@ -8,6 +48,16 @@
       "vader_score": 0.4588,
       "textblob_score": 0.35,
       "first_sentence": "A Breton butter cake is a proud product of Brittany\u2019s butter-rich baking tradition: dense, golden and unapologetically indulgent.",
+      "timestamp": "2026-01-23T06:00:08Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "UK savers urged to move fast for the best deals paying up to 4.5%",
+      "link": "https://www.theguardian.com/money/2026/jan/23/uk-savers-best-deals-interest-rate-cut-easy-access-account",
+      "mean_score": 0.6184,
+      "vader_score": 0.6369,
+      "textblob_score": 0.6,
+      "first_sentence": "Savers are being urged to shop around and move fast if they want to get hold of one of the competitive deals still available.",
       "timestamp": "2026-01-23T06:00:08Z",
       "source": "The Guardian"
     },
@@ -2449,56 +2499,6 @@
       "textblob_score": 0.3667,
       "first_sentence": "It is late on a January afternoon in the middle of South Sudan\u2019s dry season, and the landscape, pricked with stubby acacias, is hazy with smoke from people burning the grasslands to encourage new growth.",
       "timestamp": "2026-01-15T05:00:54Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Cars washed to sea, rain record smashed in Great Ocean Road deluge",
-      "link": "https://www.abc.net.au/news/2026-01-15/wye-river-great-ocean-road-emergency-warning-flooding-rainfall/106232658",
-      "mean_score": 0.7125,
-      "vader_score": 0.6249,
-      "textblob_score": 0.8,
-      "first_sentence": "An emergency warning has been issued for towns along Victoria's Great Ocean Road after thunderstorms and torrential rain battered communities and swept vehicles into the sea.",
-      "timestamp": "2026-01-15T04:04:22Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Live: Australian Open draw to reveal tournament paths for locals and world's best",
-      "link": "https://www.abc.net.au/news/2026-01-15/australian-open-2026-main-draw-live/106227978",
-      "mean_score": 0.4605,
-      "vader_score": 0.6369,
-      "textblob_score": 0.2841,
-      "first_sentence": "The official Australian Open draw will be announced today at 2:30pm AEDT.",
-      "timestamp": "2026-01-15T02:23:50Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Adelaide festival apologises to Randa Abdel-Fattah and invites her to participate in 2027 writers\u2019 week",
-      "link": "https://www.theguardian.com/culture/2026/jan/15/adelaide-festival-apologises-randa-abdel-fattah-2027-invite-ntwnfb",
-      "mean_score": 0.3062,
-      "vader_score": 0.6124,
-      "textblob_score": 0.0,
-      "first_sentence": "The new Adelaide Festival board has issued a public apology to Palestinian-Australian academic Randa Abdel-Fattah, and has promised she will be invited to Adelaide Writers\u2019 Week in 2027.",
-      "timestamp": "2026-01-15T02:04:47Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The junior tennis champ who beat Sinner and an AFL star to win $1m",
-      "link": "https://www.abc.net.au/news/2026-01-15/australian-open-2026-who-is-jordan-smith-1-point-slam-winner/106231406",
-      "mean_score": 0.7923,
-      "vader_score": 0.7845,
-      "textblob_score": 0.8,
-      "first_sentence": "In the space of just a couple of points, Jordan Smith went from a relative unknown to a champion on centre court at a grand slam.",
-      "timestamp": "2026-01-15T01:52:03Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Australia news live: Adelaide festival invites Randa Abdel-Fattah to speak in 2027 as author says she\u2019ll consider offer",
-      "link": "https://www.theguardian.com/australia-news/live/2026/jan/15/victoria-bushfires-school-data-hack-adelaide-writers-week-peter-malinauskas-labor-hate-speech-laws-political-reaction-anthony-albanese-sussan-ley-coalition-ntwnfb",
-      "mean_score": 0.3151,
-      "vader_score": 0.4939,
-      "textblob_score": 0.1364,
-      "first_sentence": "The Adelaide festival has reinstated its invitation to Dr Randa Abdel-Fattah to Adelaide writers\u2019 week and issued an unreserved apology amid the firestorm over the decision to remove her from its program.",
-      "timestamp": "2026-01-15T01:14:47Z",
       "source": "The Guardian"
     }
   ]

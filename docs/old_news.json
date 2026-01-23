@@ -1,5 +1,55 @@
 [
   {
+    "headline": "Cars washed to sea, rain record smashed in Great Ocean Road deluge",
+    "link": "https://www.abc.net.au/news/2026-01-15/wye-river-great-ocean-road-emergency-warning-flooding-rainfall/106232658",
+    "mean_score": 0.7125,
+    "vader_score": 0.6249,
+    "textblob_score": 0.8,
+    "first_sentence": "An emergency warning has been issued for towns along Victoria's Great Ocean Road after thunderstorms and torrential rain battered communities and swept vehicles into the sea.",
+    "timestamp": "2026-01-15T04:04:22Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Live: Australian Open draw to reveal tournament paths for locals and world's best",
+    "link": "https://www.abc.net.au/news/2026-01-15/australian-open-2026-main-draw-live/106227978",
+    "mean_score": 0.4605,
+    "vader_score": 0.6369,
+    "textblob_score": 0.2841,
+    "first_sentence": "The official Australian Open draw will be announced today at 2:30pm AEDT.",
+    "timestamp": "2026-01-15T02:23:50Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Adelaide festival apologises to Randa Abdel-Fattah and invites her to participate in 2027 writers\u2019 week",
+    "link": "https://www.theguardian.com/culture/2026/jan/15/adelaide-festival-apologises-randa-abdel-fattah-2027-invite-ntwnfb",
+    "mean_score": 0.3062,
+    "vader_score": 0.6124,
+    "textblob_score": 0.0,
+    "first_sentence": "The new Adelaide Festival board has issued a public apology to Palestinian-Australian academic Randa Abdel-Fattah, and has promised she will be invited to Adelaide Writers\u2019 Week in 2027.",
+    "timestamp": "2026-01-15T02:04:47Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "The junior tennis champ who beat Sinner and an AFL star to win $1m",
+    "link": "https://www.abc.net.au/news/2026-01-15/australian-open-2026-who-is-jordan-smith-1-point-slam-winner/106231406",
+    "mean_score": 0.7923,
+    "vader_score": 0.7845,
+    "textblob_score": 0.8,
+    "first_sentence": "In the space of just a couple of points, Jordan Smith went from a relative unknown to a champion on centre court at a grand slam.",
+    "timestamp": "2026-01-15T01:52:03Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Australia news live: Adelaide festival invites Randa Abdel-Fattah to speak in 2027 as author says she\u2019ll consider offer",
+    "link": "https://www.theguardian.com/australia-news/live/2026/jan/15/victoria-bushfires-school-data-hack-adelaide-writers-week-peter-malinauskas-labor-hate-speech-laws-political-reaction-anthony-albanese-sussan-ley-coalition-ntwnfb",
+    "mean_score": 0.3151,
+    "vader_score": 0.4939,
+    "textblob_score": 0.1364,
+    "first_sentence": "The Adelaide festival has reinstated its invitation to Dr Randa Abdel-Fattah to Adelaide writers\u2019 week and issued an unreserved apology amid the firestorm over the decision to remove her from its program.",
+    "timestamp": "2026-01-15T01:14:47Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Breaking: Adelaide Festival Corporation apologises to author Randa Abdel-Fattah",
     "link": "https://www.abc.net.au/news/2026-01-15/adelaide-festival-corporation-apology-randa-abdel-fattah/106231602",
     "mean_score": 0.3062,
