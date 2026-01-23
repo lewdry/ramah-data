@@ -1,5 +1,5 @@
 {
-  "last run": "2026-01-23T20:04:35Z",
+  "last run": "2026-01-23T21:04:39Z",
   "stories": [
     {
       "headline": "Telly\u2019s \"free\" ad-based TVs make notable revenue\u2014when they\u2019re actually delivered",
@@ -310,6 +310,16 @@
       "first_sentence": "The state government will invest $17 million to move plans for Wollongong's sports and entertainment precinct to the next stage.",
       "timestamp": "2026-01-23T01:30:18Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "Ley confident in leadership as Albanese says she was 'undermined from day one'",
+      "link": "https://www.sbs.com.au/news/article/sussan-ley-reacts-coalition-split-confident-in-leadership/avweoqj2h",
+      "mean_score": 0.3389,
+      "vader_score": 0.1779,
+      "textblob_score": 0.5,
+      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+      "timestamp": "2026-01-23T00:20:32Z",
+      "source": "SBS News"
     },
     {
       "headline": "AI ready: The advantages of being a young entrepreneur",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Perth Glory Women's coach Stephen Peters has criticised a lack of investment in the women's A-League, calling for more funds.",
       "timestamp": "2026-01-16T01:20:29Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "ADHD diagnosis 'changed' Love Island star's life",
-      "link": "https://www.bbc.com/news/videos/c79rlv3zrw2o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5685,
-      "vader_score": 0.6369,
-      "textblob_score": 0.5,
-      "first_sentence": "Love Island's Dr Alex George believes his ADHD and OCD diagnoses \"completely changed\" his life.",
-      "timestamp": "2026-01-15T23:00:38Z",
-      "source": "BBC News"
     }
   ]
 }
