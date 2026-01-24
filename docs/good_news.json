@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-24T00:15:31Z",
+  "last run": "2026-01-24T01:32:45Z",
   "stories": [
+    {
+      "headline": "Explosive bust-ups, secret relationships and extreme reactions: The Traitors' best moments",
+      "link": "https://www.bbc.com/news/articles/cq84dp4zvy1o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3976,
+      "vader_score": 0.6369,
+      "textblob_score": 0.1583,
+      "first_sentence": "This series of The Traitors has featured some of the most explosive scenes the show has ever seen: dramatic twists, Oscar-ready reactions and plenty of skilful skullduggery.",
+      "timestamp": "2026-01-24T00:12:54Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Australian Open 2026: Keys and Pliskova in action, defending champion Sinner next \u2013 live",
       "link": "https://www.theguardian.com/sport/live/2026/jan/24/australian-open-tennis-2026-jannik-sinner-madison-keys-live",
@@ -9,6 +19,16 @@
       "textblob_score": 0.0473,
       "first_sentence": "*Pliskova 0-4 Keys (9) Temperatures have just hit 30C in Melbourne.",
       "timestamp": "2026-01-24T00:03:00Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Fearless, feminist, five-star fun \u2013 and finally touring: My Brilliant Career the musical is back on stage",
+      "link": "https://www.theguardian.com/stage/2026/jan/23/my-brilliant-career-musical-melbourne-theatre-tour",
+      "mean_score": 0.5575,
+      "vader_score": 0.875,
+      "textblob_score": 0.24,
+      "first_sentence": "In contemplating the return season of the Melbourne Theatre Company\u2019s musical adaptation of Miles Franklin\u2019s novel My Brilliant Career, the show that has defined her own career thus far, Kala Gare felt that forewarned was forearmed.",
+      "timestamp": "2026-01-23T23:00:22Z",
       "source": "The Guardian"
     },
     {
@@ -2480,26 +2500,6 @@
       "first_sentence": "A woman who was married to a man twice her age remembers their relationship, and the important question she asked him when they spoke to StoryCorps 20 years ago.",
       "timestamp": "2026-01-16T09:44:26Z",
       "source": "NPR News"
-    },
-    {
-      "headline": "Museveni takes strong lead in early results of Uganda presidential race",
-      "link": "https://www.bbc.com/news/articles/c78vzye1l2no?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3886,
-      "vader_score": 0.5106,
-      "textblob_score": 0.2667,
-      "first_sentence": "Uganda's President Yoweri Museveni has taken a strong lead in provisional results from Thursday's presidential election, the electoral agency says.",
-      "timestamp": "2026-01-16T07:49:55Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Live: Tszyu and Zefara set for Brisbane blockbuster after NAS stuns on debut",
-      "link": "https://www.abc.net.au/news/2026-01-16/live-updates-nikita-tszyu-vs-michael-zerafa-nelson-asofa-solomon/106237528",
-      "mean_score": 0.3744,
-      "vader_score": 0.6124,
-      "textblob_score": 0.1364,
-      "first_sentence": "Nikita Tszyu and Michael Zerafa are set to end years of bitter rivalry in a hotly anticipated middleweight fight at the Brisbane Entertainment Centre, as former NRL hard man Nelson Asofa-Solomona makes a victorious start to his boxing career.",
-      "timestamp": "2026-01-16T07:47:28Z",
-      "source": "ABC News"
     }
   ]
 }

@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Museveni takes strong lead in early results of Uganda presidential race",
+    "link": "https://www.bbc.com/news/articles/c78vzye1l2no?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3886,
+    "vader_score": 0.5106,
+    "textblob_score": 0.2667,
+    "first_sentence": "Uganda's President Yoweri Museveni has taken a strong lead in provisional results from Thursday's presidential election, the electoral agency says.",
+    "timestamp": "2026-01-16T07:49:55Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Live: Tszyu and Zefara set for Brisbane blockbuster after NAS stuns on debut",
+    "link": "https://www.abc.net.au/news/2026-01-16/live-updates-nikita-tszyu-vs-michael-zerafa-nelson-asofa-solomon/106237528",
+    "mean_score": 0.3744,
+    "vader_score": 0.6124,
+    "textblob_score": 0.1364,
+    "first_sentence": "Nikita Tszyu and Michael Zerafa are set to end years of bitter rivalry in a hotly anticipated middleweight fight at the Brisbane Entertainment Centre, as former NRL hard man Nelson Asofa-Solomona makes a victorious start to his boxing career.",
+    "timestamp": "2026-01-16T07:47:28Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Chosen Family by Madeleine Gray review \u2013 friends, lovers or something in between?",
     "link": "https://www.theguardian.com/books/2026/jan/16/chosen-family-by-madeleine-gray-review-friends-lovers-or-something-in-between",
     "mean_score": 0.379,
