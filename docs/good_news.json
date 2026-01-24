@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-24T15:04:09Z",
+  "last run": "2026-01-24T16:04:17Z",
   "stories": [
+    {
+      "headline": "Crockett and Talarico ready for Senate debate as Democrats hope for breakthrough in GOP-heavy Texas",
+      "link": "https://apnews.com/article/jasmine-crockett-talarico-texas-senate-debate-cornyn-45f0cc709b8c38d884e07d1b05bf1e54",
+      "mean_score": 0.4298,
+      "vader_score": 0.6597,
+      "textblob_score": 0.2,
+      "first_sentence": "Democrats hoping to win a U.S.",
+      "timestamp": "2026-01-24T15:23:02Z",
+      "source": "AP News"
+    },
     {
       "headline": "Getting divorced becomes a successful 'career move' for Kasey Chambers",
       "link": "https://www.abc.net.au/news/2026-01-25/golden-guitar-award-winners-2026-tamworth-country-music-festival/106265498",
@@ -10,6 +20,16 @@
       "first_sentence": "Kasey Chambers and Shane Nicholson have won multiple Golden Guitar awards for a song they penned through text messages about their divorce.",
       "timestamp": "2026-01-24T13:34:50Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "I'm proud to be from Lewis - but I couldn't tell anyone the Traitors result",
+      "link": "https://www.bbc.com/news/articles/clywzl4w12zo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5309,
+      "vader_score": 0.2617,
+      "textblob_score": 0.8,
+      "first_sentence": "Spoiler warning: This article contains details of the final episode of The Traitors.",
+      "timestamp": "2026-01-24T11:54:14Z",
+      "source": "BBC News"
     },
     {
       "headline": "Australian Open 2026: Djokovic loses cool in hard-fought win, Osaka withdraws \u2013 live",
@@ -2480,26 +2500,6 @@
       "first_sentence": "It's a far cry from the piazzas of Italy, but in Queensland's north, a centuries-old tradition is alive and well.",
       "timestamp": "2026-01-16T22:00:20Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Asofa-Solomona plans to 'clean up the whole NRL division' after boxing debut",
-      "link": "https://www.abc.net.au/news/2026-01-17/boxing-nelson-asofa-solomona-calls-out-nrl-rivals/106240134",
-      "mean_score": 0.3426,
-      "vader_score": 0.4019,
-      "textblob_score": 0.2833,
-      "first_sentence": "Former Storm star Nelson Asofa-Solomona says he plans to \"clean up the whole NRL division\" in the boxing ring.",
-      "timestamp": "2026-01-16T21:29:15Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Ex-husband indicted by grand jury in slaying of couple found in their Ohio home",
-      "link": "https://apnews.com/article/ohio-tepe-michael-mckee-dentist-couple-ef5584f13a47deb5a13f512e9ba58aba",
-      "mean_score": 0.4794,
-      "vader_score": 0.4588,
-      "textblob_score": 0.5,
-      "first_sentence": "Columbus, OHIO (AP) \u2014 An Ohio grand jury has indicted a man in the double homicide of his ex-wife and her husband who were killed in their Columbus home last month.",
-      "timestamp": "2026-01-16T20:23:02Z",
-      "source": "AP News"
     }
   ]
 }
