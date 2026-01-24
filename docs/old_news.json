@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Olympic champion Jakara Anthony claims record-breaking win",
+    "link": "https://www.abc.net.au/news/2026-01-17/jakara-anthony-world-cup-moguls-winter-olympics/106240426",
+    "mean_score": 0.8135,
+    "vader_score": 0.8271,
+    "textblob_score": 0.8,
+    "first_sentence": "Jakara Anthony has made history as the most successful Australian World Cup skier, winning her 26th moguls title with victory at Waterville Valley in the United States.",
+    "timestamp": "2026-01-17T01:56:03Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Is fibre the new protein? The surprising health benefits of the latest wellness trend",
     "link": "https://www.bbc.com/news/articles/c1lze6n0e6mo?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.6052,
