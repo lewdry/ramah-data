@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-24T08:04:44Z",
+  "last run": "2026-01-24T09:04:14Z",
   "stories": [
+    {
+      "headline": "'Got lucky': Sinner admits Aus Open heat rule rescued title defence",
+      "link": "https://www.abc.net.au/news/2026-01-24/australian-open-jannik-sinner-eliot-spizzirri-extreme-heat-rules/106265666",
+      "mean_score": 0.4843,
+      "vader_score": 0.802,
+      "textblob_score": 0.1667,
+      "first_sentence": "To use a well-worn phrase, Jannik Sinner knows he dodged a bullet.",
+      "timestamp": "2026-01-24T08:34:38Z",
+      "source": "ABC News"
+    },
     {
       "headline": "'Incredible' response for kids clothes swap shop",
       "link": "https://www.bbc.com/news/articles/cz6yyq70v65o?at_medium=RSS&at_campaign=rss",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.9,
       "first_sentence": "It\u2019s come down to this.",
       "timestamp": "2026-01-16T18:04:42Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Timothy Busfield sexual misconduct allegations mount as wife Melissa Gilbert expresses support",
-      "link": "https://www.theguardian.com/us-news/2026/jan/16/timothy-busfield-child-abuse-charges-melissa-gilbert",
-      "mean_score": 0.4509,
-      "vader_score": 0.4019,
-      "textblob_score": 0.5,
-      "first_sentence": "With allegations of prior sexual misconduct against him continuing to mount, Timothy Busfield received an expression of support from his wife and fellow actor, Melissa Gilbert \u2013 as he was also ordered held without bond in connection with on-set child abuse charges in New Mexico.",
-      "timestamp": "2026-01-16T17:51:57Z",
       "source": "The Guardian"
     }
   ]
