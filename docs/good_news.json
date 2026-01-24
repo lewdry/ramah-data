@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-23T23:04:26Z",
+  "last run": "2026-01-24T00:15:31Z",
   "stories": [
+    {
+      "headline": "Australian Open 2026: Keys and Pliskova in action, defending champion Sinner next \u2013 live",
+      "link": "https://www.theguardian.com/sport/live/2026/jan/24/australian-open-tennis-2026-jannik-sinner-madison-keys-live",
+      "mean_score": 0.3233,
+      "vader_score": 0.5994,
+      "textblob_score": 0.0473,
+      "first_sentence": "*Pliskova 0-4 Keys (9) Temperatures have just hit 30C in Melbourne.",
+      "timestamp": "2026-01-24T00:03:00Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Is China quietly winning the AI race?",
       "link": "https://www.bbc.com/news/articles/c86v52gv726o?at_medium=RSS&at_campaign=rss",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Nikita Tszyu and Michael Zerafa are set to end years of bitter rivalry in a hotly anticipated middleweight fight at the Brisbane Entertainment Centre, as former NRL hard man Nelson Asofa-Solomona makes a victorious start to his boxing career.",
       "timestamp": "2026-01-16T07:47:28Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Chosen Family by Madeleine Gray review \u2013 friends, lovers or something in between?",
-      "link": "https://www.theguardian.com/books/2026/jan/16/chosen-family-by-madeleine-gray-review-friends-lovers-or-something-in-between",
-      "mean_score": 0.379,
-      "vader_score": 0.7579,
-      "textblob_score": 0.0,
-      "first_sentence": "Australian author Madeleine Gray\u2019s award-winning debut novel Green Dot was a smart, funny tale of a doomed office affair.",
-      "timestamp": "2026-01-16T07:00:02Z",
-      "source": "The Guardian"
     }
   ]
 }
