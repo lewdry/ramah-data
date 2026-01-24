@@ -1,5 +1,25 @@
 [
   {
+    "headline": "What\u2019s the easiest way to get healthy? I tried biohacking my life to live longer",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/jan/16/whats-the-easiest-way-to-get-healthy-i-tried-biohacking-my-life-to-live-longer",
+    "mean_score": 0.4943,
+    "vader_score": 0.6705,
+    "textblob_score": 0.3182,
+    "first_sentence": "A week into the first lockdown of the pandemic, I vowed I would never set foot in a gym again.",
+    "timestamp": "2026-01-16T15:13:31Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Ferrari doing what it does best: The 12Cilindri review",
+    "link": "https://arstechnica.com/cars/2026/01/driven-the-ferrari-12cilindri-spider-is-open-top-grand-touring-bliss/",
+    "mean_score": 0.8185,
+    "vader_score": 0.6369,
+    "textblob_score": 1.0,
+    "first_sentence": "Retro design and a naturally aspirated V12 deliver tremendous appeal, but it\u2019ll cost ya.",
+    "timestamp": "2026-01-16T15:00:31Z",
+    "source": "Ars Technica"
+  },
+  {
     "headline": "So much for a \u2018final battle\u2019 \u2013 once again the Iranian people\u2019s peaceful and democratic demands have been silenced | Behrouz Boochani and Mehdi Jalali Tehrani",
     "link": "https://www.theguardian.com/commentisfree/2026/jan/16/iran-protests-iranian-people-demands-silenced-reza-pahlavi",
     "mean_score": 0.322,

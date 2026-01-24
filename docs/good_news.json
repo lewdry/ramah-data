@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-24T07:04:57Z",
+  "last run": "2026-01-24T08:04:44Z",
   "stories": [
+    {
+      "headline": "'Incredible' response for kids clothes swap shop",
+      "link": "https://www.bbc.com/news/articles/cz6yyq70v65o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.45,
+      "vader_score": 0.0,
+      "textblob_score": 0.9,
+      "first_sentence": "As babies grow up, parents are often left with clothes that have barely been worn and now have very little use.",
+      "timestamp": "2026-01-24T07:17:09Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "My cultural awakening: A Queen song helped me break free from communist Cuba",
+      "link": "https://www.theguardian.com/culture/2026/jan/24/my-cultural-awakening-a-queen-song-helped-me-break-free-from-communist-cuba",
+      "mean_score": 0.3803,
+      "vader_score": 0.5106,
+      "textblob_score": 0.25,
+      "first_sentence": "Throughout my childhood and teenage years growing up in 80s Cuba, Fidel Castro\u2019s presence, and the overt influence of politics, was everywhere \u2013 on posters, on walls, in speeches that could last four hours at a stretch.",
+      "timestamp": "2026-01-24T07:00:33Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "\u2018We are fighters, it\u2019s in our DNA\u2019: Greenland find pride in rare tilt at futsal glory",
       "link": "https://www.theguardian.com/football/2026/jan/24/we-are-fighters-its-in-our-dna-greenland-find-pride-in-rare-tilt-at-futsal-glory",
@@ -2480,26 +2500,6 @@
       "first_sentence": "With allegations of prior sexual misconduct against him continuing to mount, Timothy Busfield received an expression of support from his wife and fellow actor, Melissa Gilbert \u2013 as he was also ordered held without bond in connection with on-set child abuse charges in New Mexico.",
       "timestamp": "2026-01-16T17:51:57Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "What\u2019s the easiest way to get healthy? I tried biohacking my life to live longer",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/16/whats-the-easiest-way-to-get-healthy-i-tried-biohacking-my-life-to-live-longer",
-      "mean_score": 0.4943,
-      "vader_score": 0.6705,
-      "textblob_score": 0.3182,
-      "first_sentence": "A week into the first lockdown of the pandemic, I vowed I would never set foot in a gym again.",
-      "timestamp": "2026-01-16T15:13:31Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Ferrari doing what it does best: The 12Cilindri review",
-      "link": "https://arstechnica.com/cars/2026/01/driven-the-ferrari-12cilindri-spider-is-open-top-grand-touring-bliss/",
-      "mean_score": 0.8185,
-      "vader_score": 0.6369,
-      "textblob_score": 1.0,
-      "first_sentence": "Retro design and a naturally aspirated V12 deliver tremendous appeal, but it\u2019ll cost ya.",
-      "timestamp": "2026-01-16T15:00:31Z",
-      "source": "Ars Technica"
     }
   ]
 }
