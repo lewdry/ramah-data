@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-24T02:38:13Z",
+  "last run": "2026-01-24T03:32:22Z",
   "stories": [
+    {
+      "headline": "Extra Geography review \u2013 a sweet and spiky coming-of-age debut",
+      "link": "https://www.theguardian.com/film/2026/jan/24/extra-geography-movie-review-debut",
+      "mean_score": 0.3169,
+      "vader_score": 0.4588,
+      "textblob_score": 0.175,
+      "first_sentence": "If you know, you know that first best friendship is a world unto itself \u2013 lush, rugged and expansive, nutritive and intoxicating, vulnerable to freak changes in the weather.",
+      "timestamp": "2026-01-24T02:45:26Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Are things going to get better for your finances?",
+      "link": "https://www.bbc.com/news/articles/cn42l3g3qvlo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.5,
+      "first_sentence": "The UK's rate of inflation has risen, but the chancellor, in response, promised that Britain would this year turn a corner.",
+      "timestamp": "2026-01-24T02:37:45Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Fortescue hopes Pilbara wind farm will be the 'first of many'",
       "link": "https://www.abc.net.au/news/2026-01-24/fortescue-begins-construction-on-pilbaras-first-wind-farm/106245178",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.4,
       "first_sentence": "A group of nurses who complained about a trans colleague using single-sex changing rooms at work suffered harassment, an employment tribunal judge has ruled.",
       "timestamp": "2026-01-16T12:37:53Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Are our bodies full of microplastics or not? There\u2019s a way to resolve this debate, and scientists must hurry | Debora MacKenzie",
-      "link": "https://www.theguardian.com/commentisfree/2026/jan/16/microplastics-bodies-debate",
-      "mean_score": 0.3659,
-      "vader_score": 0.3818,
-      "textblob_score": 0.35,
-      "first_sentence": "Are we being injured and killed by ubiquitous, teeny-tiny shards of toxic plastic? Or aren\u2019t we? For many months, the Guardian has reported a series of worrying scientific results  that our bodies are full of jagged microplastic particles that could be giving us everything from heart attacks to reproductive problems.",
-      "timestamp": "2026-01-16T11:00:56Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Top two executives at City & Guilds placed on leave",
-      "link": "https://www.theguardian.com/business/2026/jan/16/top-two-executives-at-city-guilds-placed-on-leave",
-      "mean_score": 0.3266,
-      "vader_score": 0.1531,
-      "textblob_score": 0.5,
-      "first_sentence": "The top two executives at City & Guilds have been put on leave shortly after a scandal over millions of pounds of bonuses triggered a Charity Commission investigation into the vocational trainer.",
-      "timestamp": "2026-01-16T10:46:43Z",
       "source": "The Guardian"
     }
   ]
