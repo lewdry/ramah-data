@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Alex de Minaur out to break new ground as next generation boost Australia hopes",
+    "link": "https://www.theguardian.com/sport/2026/jan/16/australian-open-women-tennis-alex-de-minaur-daria-kasatkina-emerson-jones",
+    "mean_score": 0.3693,
+    "vader_score": 0.6705,
+    "textblob_score": 0.0682,
+    "first_sentence": "Amid the annual upheaval at the Australian Open, of party courts, one-point fairytales, and ever-expanding festivals, some things don\u2019t change.",
+    "timestamp": "2026-01-16T14:00:59Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Ant and Dec launch their first podcast - a smart move or late to the party?",
+    "link": "https://www.bbc.com/news/articles/c78vz0jjgl2o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3572,
+    "vader_score": 0.6597,
+    "textblob_score": 0.0548,
+    "first_sentence": "Ant and Dec are to host their first podcast, as part of a new digital entertainment channel set up by the TV presenters.",
+    "timestamp": "2026-01-16T13:18:22Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Female nurses win employment case over NHS changing-room use by trans colleague",
     "link": "https://www.theguardian.com/law/2026/jan/16/female-nurses-win-employment-case-over-nhs-changing-room-use-by-trans-colleague",
     "mean_score": 0.4929,
