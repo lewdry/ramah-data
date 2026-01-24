@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-24T06:05:43Z",
+  "last run": "2026-01-24T07:04:57Z",
   "stories": [
+    {
+      "headline": "\u2018We are fighters, it\u2019s in our DNA\u2019: Greenland find pride in rare tilt at futsal glory",
+      "link": "https://www.theguardian.com/football/2026/jan/24/we-are-fighters-its-in-our-dna-greenland-find-pride-in-rare-tilt-at-futsal-glory",
+      "mean_score": 0.4954,
+      "vader_score": 0.6908,
+      "textblob_score": 0.3,
+      "first_sentence": "Greenland\u2019s futsal players string out in a line before angling their bodies to the left, facing the flag on the far wall.",
+      "timestamp": "2026-01-24T06:00:37Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Six great reads: spuds in vogue, Finland\u2019s biggest crime and a month living in analogue",
+      "link": "https://www.theguardian.com/news/2026/jan/24/six-great-reads-spuds-in-vogue-finlands-biggest-and-a-month-living-in-analogue",
+      "mean_score": 0.4766,
+      "vader_score": 0.1531,
+      "textblob_score": 0.8,
+      "first_sentence": "One of the UK\u2019s most unlikely fast food trends of the past few years has been an influencer-led rise in appetite for baked potatoes, one of Britain\u2019s original street foods.",
+      "timestamp": "2026-01-24T06:00:33Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "China no longer Pentagon's top security priority",
       "link": "https://www.bbc.com/news/articles/cj9r8ezym3ro?at_medium=RSS&at_campaign=rss",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Retro design and a naturally aspirated V12 deliver tremendous appeal, but it\u2019ll cost ya.",
       "timestamp": "2026-01-16T15:00:31Z",
       "source": "Ars Technica"
-    },
-    {
-      "headline": "So much for a \u2018final battle\u2019 \u2013 once again the Iranian people\u2019s peaceful and democratic demands have been silenced | Behrouz Boochani and Mehdi Jalali Tehrani",
-      "link": "https://www.theguardian.com/commentisfree/2026/jan/16/iran-protests-iranian-people-demands-silenced-reza-pahlavi",
-      "mean_score": 0.322,
-      "vader_score": 0.4939,
-      "textblob_score": 0.15,
-      "first_sentence": "In late December, Iran experienced the beginnings of an uprising driven primarily by economic pressures, initially emerging among merchant bazaaris and subsequently spreading across broader segments of society.",
-      "timestamp": "2026-01-16T14:01:03Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Civilised but casual, often hilarious, Adelaide writers\u2019 week is everything a festival should be \u2013 except this year | Tory Shepherd",
-      "link": "https://www.theguardian.com/culture/2026/jan/16/adelaide-writers-week-everything-festival-should-be",
-      "mean_score": 0.4382,
-      "vader_score": 0.8765,
-      "textblob_score": -0.0,
-      "first_sentence": "The sun almost always shines on Adelaide writers\u2019 week, held on Kaurna land each year at the tail end of summer.",
-      "timestamp": "2026-01-16T14:00:59Z",
-      "source": "The Guardian"
     }
   ]
 }
