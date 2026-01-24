@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-24T20:04:03Z",
+  "last run": "2026-01-24T21:03:59Z",
   "stories": [
+    {
+      "headline": "How the power of friendship is making the arts, sport scenes more inclusive",
+      "link": "https://www.abc.net.au/news/2026-01-25/people-with-disability-find-connection-at-gig-buddies-sydney/106237060",
+      "mean_score": 0.4702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.5,
+      "first_sentence": "Not-for-profit Gig Buddies plays matchmaker to pair music, food and sports lovers in the disability community with like-minded volunteers.",
+      "timestamp": "2026-01-24T20:17:15Z",
+      "source": "ABC News"
+    },
     {
       "headline": "How the great Australian home ownership dream is aging",
       "link": "https://www.abc.net.au/news/2026-01-25/great-australian-dream-aging-as-more-first-home-buyers-over-40/106206552",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Jakara Anthony has made history as the most successful Australian World Cup skier, winning her 26th moguls title with victory at Waterville Valley in the United States.",
       "timestamp": "2026-01-17T01:56:03Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Is fibre the new protein? The surprising health benefits of the latest wellness trend",
-      "link": "https://www.bbc.com/news/articles/c1lze6n0e6mo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.6052,
-      "vader_score": 0.765,
-      "textblob_score": 0.4455,
-      "first_sentence": "Last year, many of us went protein-mad in the hopes of boosting our strength and fitness.",
-      "timestamp": "2026-01-17T00:34:11Z",
-      "source": "BBC News"
     }
   ]
 }
