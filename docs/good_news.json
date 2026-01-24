@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-24T11:04:09Z",
+  "last run": "2026-01-24T12:05:47Z",
   "stories": [
+    {
+      "headline": "Australian Open 2026: Djokovic loses cool in hard-fought win, Osaka withdraws \u2013 live",
+      "link": "https://www.theguardian.com/sport/live/2026/jan/24/australian-open-2026-van-de-zandschulp-djokovic-kalinskaya-swiatek-osaka-inglis-cilic-ruud-live",
+      "mean_score": 0.3751,
+      "vader_score": 0.5859,
+      "textblob_score": 0.1644,
+      "first_sentence": "Mensik 6-2, 7-6, 3-3 Quinn is a latest score in the men\u2019s singles third round.",
+      "timestamp": "2026-01-24T11:53:16Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018Displaying the cloth like this showed its true beauty\u2019: Aung Chan Thar\u2019s best phone picture",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/24/displaying-the-cloth-like-this-showed-its-true-beauty-aung-chan-thars-best-phone-picture",
+      "mean_score": 0.7671,
+      "vader_score": 0.8591,
+      "textblob_score": 0.675,
+      "first_sentence": "A beautiful lake, gorgeous fabric: how could the Myanmar photographer resist?.",
+      "timestamp": "2026-01-24T11:00:37Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Olivia Dean\u2019s Man I Need wins Triple J\u2019s Hottest 100",
       "link": "https://www.theguardian.com/music/2026/jan/24/olivia-dean-man-i-need-triple-j-hottest-100-winner-australia",
@@ -2479,26 +2499,6 @@
       "textblob_score": -0.0222,
       "first_sentence": "For more than a fortnight, new names and faces have been added to the roll call of Iranians who have been killed fighting for their freedom.",
       "timestamp": "2026-01-16T20:19:13Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "It took 75 governors to elect a woman. Spanberger will soon be at Virginia's helm",
-      "link": "https://www.npr.org/2026/01/16/nx-s1-5675312/spanberger-virginia-governor-inauguration",
-      "mean_score": 0.4,
-      "vader_score": 0.0,
-      "textblob_score": 0.8,
-      "first_sentence": "RICHMOND, Va.",
-      "timestamp": "2026-01-16T19:56:35Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Why this Olympian is proud to be a gay role model despite trolling",
-      "link": "https://www.abc.net.au/news/2026-01-17/olympian-campbell-harrison-proud-to-be-gay-role-model/106132328",
-      "mean_score": 0.5425,
-      "vader_score": 0.4767,
-      "textblob_score": 0.6083,
-      "first_sentence": "Climber Campbell Harrison had just achieved his lifetime goal of qualifying for the Paris Olympics when he leaned in to celebrate with boyfriend Justin.",
-      "timestamp": "2026-01-16T19:50:11Z",
       "source": "ABC News"
     }
   ]
