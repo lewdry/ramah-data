@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-24T13:12:48Z",
+  "last run": "2026-01-24T14:04:20Z",
   "stories": [
+    {
+      "headline": "Getting divorced becomes a successful 'career move' for Kasey Chambers",
+      "link": "https://www.abc.net.au/news/2026-01-25/golden-guitar-award-winners-2026-tamworth-country-music-festival/106265498",
+      "mean_score": 0.668,
+      "vader_score": 0.5859,
+      "textblob_score": 0.75,
+      "first_sentence": "Kasey Chambers and Shane Nicholson have won multiple Golden Guitar awards for a song they penned through text messages about their divorce.",
+      "timestamp": "2026-01-24T13:34:50Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Australian Open 2026: Djokovic loses cool in hard-fought win, Osaka withdraws \u2013 live",
       "link": "https://www.theguardian.com/sport/live/2026/jan/24/australian-open-2026-van-de-zandschulp-djokovic-kalinskaya-swiatek-osaka-inglis-cilic-ruud-live",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Columbus, OHIO (AP) \u2014 An Ohio grand jury has indicted a man in the double homicide of his ex-wife and her husband who were killed in their Columbus home last month.",
       "timestamp": "2026-01-16T20:23:02Z",
       "source": "AP News"
-    },
-    {
-      "headline": "Iran's young are dying for the freedom they see in black and white photos",
-      "link": "https://www.abc.net.au/news/2026-01-17/irans-youth-have-nostalgia-for-an-era-they-did-not-live-in/106224024",
-      "mean_score": 0.3073,
-      "vader_score": 0.6369,
-      "textblob_score": -0.0222,
-      "first_sentence": "For more than a fortnight, new names and faces have been added to the roll call of Iranians who have been killed fighting for their freedom.",
-      "timestamp": "2026-01-16T20:19:13Z",
-      "source": "ABC News"
     }
   ]
 }
