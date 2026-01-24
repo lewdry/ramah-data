@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-24T17:04:01Z",
+  "last run": "2026-01-24T18:05:49Z",
   "stories": [
+    {
+      "headline": "Burnley 2-2 Tottenham, Man City 2-0 Wolves, Championship and more: clockwatch \u2013 as it happened",
+      "link": "https://www.theguardian.com/football/live/2026/jan/24/burnley-tottenham-man-city-wolves-premier-league-championship-clockwatch-live",
+      "mean_score": 0.4702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.5,
+      "first_sentence": "That\u2019s it for today.",
+      "timestamp": "2026-01-24T17:24:32Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Crockett and Talarico ready for Senate debate as Democrats hope for breakthrough in GOP-heavy Texas",
       "link": "https://apnews.com/article/jasmine-crockett-talarico-texas-senate-debate-cornyn-45f0cc709b8c38d884e07d1b05bf1e54",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.25,
       "first_sentence": "A coastal community in Western Australia's south is celebrating the 50th anniversary of the country's oldest skate park.",
       "timestamp": "2026-01-17T00:06:06Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "'Seat of knowledge' tradition lives on, but you need a sense of humour",
-      "link": "https://www.abc.net.au/news/2026-01-17/seat-of-knowledge-tradition-lives-on-in-north-queensland/105088332",
-      "mean_score": 0.3155,
-      "vader_score": 0.631,
-      "textblob_score": 0.0,
-      "first_sentence": "It's a far cry from the piazzas of Italy, but in Queensland's north, a centuries-old tradition is alive and well.",
-      "timestamp": "2026-01-16T22:00:20Z",
       "source": "ABC News"
     }
   ]
