@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-25T10:04:12Z",
+  "last run": "2026-01-25T11:04:01Z",
   "stories": [
+    {
+      "headline": "Australian Open 2026: Svitolina v Andreeva, De Minaur to face Alcaraz after Bublik win \u2013 live",
+      "link": "https://www.theguardian.com/sport/live/2026/jan/25/australian-open-2026-de-minaur-bublik-andreeva-svitolina-zverev-medvedev-live",
+      "mean_score": 0.41,
+      "vader_score": 0.5859,
+      "textblob_score": 0.2341,
+      "first_sentence": "Andreeva is back.",
+      "timestamp": "2026-01-25T10:46:42Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Railway line made safe as storm clean-up begins",
+      "link": "https://www.bbc.com/news/articles/ce8gldd9zyyo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.5,
+      "first_sentence": "The main railway line in the south-west of England has been declared safe by engineers after a sea wall next to it crumbled in a storm.",
+      "timestamp": "2026-01-25T10:19:57Z",
+      "source": "BBC News"
+    },
     {
       "headline": "First Nations construction leader Frank Mitchell named Local Hero 2026",
       "link": "https://www.abc.net.au/news/2026-01-25/australian-of-the-year-awards-2026/106267536",
@@ -59,6 +79,16 @@
       "textblob_score": 0.2682,
       "first_sentence": "American rock climber Alex Honnold climbed the Taipei 101 skyscraper on Sunday without any ropes or protective equipment.",
       "timestamp": "2026-01-25T03:24:51Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Myanmar military proxy expected to win landslide in widely denounced election",
+      "link": "https://www.theguardian.com/world/2026/jan/25/myanmar-election-enters-final-stage-amid-airstrikes-and-exclusions",
+      "mean_score": 0.3554,
+      "vader_score": 0.5859,
+      "textblob_score": 0.125,
+      "first_sentence": "Voting in Myanmar has ended with the military-backed party expected to win a landslide victory after a month-long election that has been widely derided as a sham designed to cement the army\u2019s grip on power.",
+      "timestamp": "2026-01-25T01:07:54Z",
       "source": "The Guardian"
     },
     {
@@ -969,6 +999,16 @@
       "textblob_score": 0.625,
       "first_sentence": "As a young child, Wunmi Mosaku always had her sights set on a career in acting, inspired by her love of the 1980s musical Annie.",
       "timestamp": "2026-01-22T13:35:35Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Shop delighted as families 'Say Yes to the Dress' for First Communions",
+      "link": "https://www.bbc.com/news/articles/cdjn80km82ro?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5967,
+      "vader_score": 0.7184,
+      "textblob_score": 0.475,
+      "first_sentence": "The manager of a charity shop has said she has been overwhelmed by the response to a \"Say Yes to the Dress\" initiative for First Communion celebrations.",
+      "timestamp": "2026-01-22T11:04:16Z",
       "source": "BBC News"
     },
     {
@@ -2460,46 +2500,6 @@
       "first_sentence": "KAMPALA, Uganda (AP) \u2014 Ugandan President Yoweri Museveni won his seventh term with 71.65% of votes, according to official results Saturday, defeating the youthful challenger who campaigned for change after four decades of the same government.",
       "timestamp": "2026-01-17T13:53:02Z",
       "source": "AP News"
-    },
-    {
-      "headline": "Ugandan leader to extend 40-year rule after being declared winner of contested poll",
-      "link": "https://www.bbc.com/news/articles/c2lgxxrxd52o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3352,
-      "vader_score": 0.6705,
-      "textblob_score": 0.0,
-      "first_sentence": "President Yoweri Museveni has been declared the winner of Thursday's election extending his four decades in power by another five years.",
-      "timestamp": "2026-01-17T13:44:28Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Ukrainian delegation arrives in US for peace talks as Russia hammers energy sites",
-      "link": "https://apnews.com/article/russia-ukraine-war-peace-talks-energy-c7fc7a01ac9976dd617482b6ef6f1fa0",
-      "mean_score": 0.3404,
-      "vader_score": 0.6808,
-      "textblob_score": 0.0,
-      "first_sentence": "KYIV, Ukraine (AP) \u2014 A Ukrainian delegation arrived in the United States for talks Saturday on a U.S.-led diplomatic push to end the nearly 4-year-old war as Russian attacks again took aim at Ukraine\u2019s power grid, cutting electricity and heating in freezing temperatures.",
-      "timestamp": "2026-01-17T13:23:02Z",
-      "source": "AP News"
-    },
-    {
-      "headline": "Confidence runs high in London\u2019s Little Morocco as Afcon glory beckons",
-      "link": "https://www.theguardian.com/uk-news/2026/jan/17/afcon-little-morocco-london-confidence-high",
-      "mean_score": 0.3823,
-      "vader_score": 0.7783,
-      "textblob_score": -0.0137,
-      "first_sentence": "London\u2019s Little Morocco is brimming with pride and anticipation.",
-      "timestamp": "2026-01-17T13:00:28Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Opinion: Remembering Ai, a remarkably intelligent chimpanzee",
-      "link": "https://www.npr.org/2026/01/17/nx-s1-5673199/opinion-remembering-ai-a-remarkably-intelligent-chimpanzee",
-      "mean_score": 0.6547,
-      "vader_score": 0.5095,
-      "textblob_score": 0.8,
-      "first_sentence": "Ai, a chimpanzee who was born in West Africa and came to the Primate Research Institute of Kyoto University in Japan when she was a year old, has died of natural causes at the age of 49.",
-      "timestamp": "2026-01-17T13:00:00Z",
-      "source": "NPR News"
     }
   ]
 }
