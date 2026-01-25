@@ -1,6 +1,36 @@
 {
-  "last run": "2026-01-25T14:04:10Z",
+  "last run": "2026-01-25T15:04:14Z",
   "stories": [
+    {
+      "headline": "Readers reply: how can we learn from unrequited love?",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/25/readers-replies-learn-unrequited-love",
+      "mean_score": 0.5685,
+      "vader_score": 0.6369,
+      "textblob_score": 0.5,
+      "first_sentence": "This week\u2019s question: To shred or not to shred: is it OK to recycle sensitive documents?.",
+      "timestamp": "2026-01-25T14:36:21Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "To shred or not to shred? Is it OK to throw out sensitive documents?",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/25/shred-sensitive-documents",
+      "mean_score": 0.4047,
+      "vader_score": 0.5095,
+      "textblob_score": 0.3,
+      "first_sentence": "I like to shred anything with my name and address on before putting it in the recycling bin (although this usually means ripping it up and putting on the compost heap).",
+      "timestamp": "2026-01-25T14:00:12Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Blurry rats and coyotes with mange: the oddly thrilling subreddit dedicated to identifying wildlife",
+      "link": "https://www.theguardian.com/culture/2026/jan/25/blurry-rats-and-coyotes-with-mange-the-oddly-thrilling-subreddit-dedicated-to-identifying-wildlife",
+      "mean_score": 0.4704,
+      "vader_score": 0.6908,
+      "textblob_score": 0.25,
+      "first_sentence": "I spent the first decade of my life in Vancouver Island, Canada, in an area rich with parks, lakes and forests.",
+      "timestamp": "2026-01-25T14:00:10Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "A decade of Star Trek-themed fart jokes: The Greatest Generation podcast turns 10",
       "link": "https://arstechnica.com/culture/2026/01/a-decade-of-star-trek-themed-fart-jokes-the-greatest-generation-podcast-turns-10/",
@@ -2470,36 +2500,6 @@
       "first_sentence": "It's the picturesque kind of place travellers visit once and decide to stay.",
       "timestamp": "2026-01-17T21:59:19Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Only a thrilling final can save a predictable Africa Cup of Nations from being forgotten | Jonathan Wilson",
-      "link": "https://www.theguardian.com/football/2026/jan/17/only-a-thrilling-final-can-save-a-predictable-africa-cup-of-nations-from-being-forgotten",
-      "mean_score": 0.3361,
-      "vader_score": 0.6597,
-      "textblob_score": 0.0125,
-      "first_sentence": "Sometimes a tournament\u2019s greatest strength can be its greatest weakness.",
-      "timestamp": "2026-01-17T20:00:34Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "'Back to my best': Kerr's comeback continues with FA Cup double",
-      "link": "https://www.abc.net.au/news/2026-01-18/sam-kerr-comeback-continues-with-fa-cup-double-chelsea/106241588",
-      "mean_score": 0.4851,
-      "vader_score": 0.6369,
-      "textblob_score": 0.3333,
-      "first_sentence": "Sam Kerr has continued her love affair with the Women's FA Cup, scoring twice for Chelsea to help ease the holders into the fifth round.",
-      "timestamp": "2026-01-17T19:59:41Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Urthboy AKA Tim Levinson: \u2018My most chaotic gig? There\u2019s a lot where it\u2019s pretty good knowing we didn\u2019t die\u2019",
-      "link": "https://www.theguardian.com/music/2026/jan/18/urthboy-tim-levinson-interview-herd-sun-never-sets",
-      "mean_score": 0.4333,
-      "vader_score": 0.3832,
-      "textblob_score": 0.4833,
-      "first_sentence": "The Herd\u2019s heading back on the road to mark 20 years of The Sun Never Sets.",
-      "timestamp": "2026-01-17T19:00:34Z",
-      "source": "The Guardian"
     }
   ]
 }

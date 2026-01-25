@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Only a thrilling final can save a predictable Africa Cup of Nations from being forgotten | Jonathan Wilson",
+    "link": "https://www.theguardian.com/football/2026/jan/17/only-a-thrilling-final-can-save-a-predictable-africa-cup-of-nations-from-being-forgotten",
+    "mean_score": 0.3361,
+    "vader_score": 0.6597,
+    "textblob_score": 0.0125,
+    "first_sentence": "Sometimes a tournament\u2019s greatest strength can be its greatest weakness.",
+    "timestamp": "2026-01-17T20:00:34Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "'Back to my best': Kerr's comeback continues with FA Cup double",
+    "link": "https://www.abc.net.au/news/2026-01-18/sam-kerr-comeback-continues-with-fa-cup-double-chelsea/106241588",
+    "mean_score": 0.4851,
+    "vader_score": 0.6369,
+    "textblob_score": 0.3333,
+    "first_sentence": "Sam Kerr has continued her love affair with the Women's FA Cup, scoring twice for Chelsea to help ease the holders into the fifth round.",
+    "timestamp": "2026-01-17T19:59:41Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Urthboy AKA Tim Levinson: \u2018My most chaotic gig? There\u2019s a lot where it\u2019s pretty good knowing we didn\u2019t die\u2019",
+    "link": "https://www.theguardian.com/music/2026/jan/18/urthboy-tim-levinson-interview-herd-sun-never-sets",
+    "mean_score": 0.4333,
+    "vader_score": 0.3832,
+    "textblob_score": 0.4833,
+    "first_sentence": "The Herd\u2019s heading back on the road to mark 20 years of The Sun Never Sets.",
+    "timestamp": "2026-01-17T19:00:34Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "On the world's largest hospital ship volunteers give people a chance at a better life",
     "link": "https://www.abc.net.au/news/2026-01-18/volunteering-mercy-ships-sierra-leone-africa-healthcare/106077318",
     "mean_score": 0.5497,
