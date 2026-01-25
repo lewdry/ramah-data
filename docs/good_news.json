@@ -1,5 +1,5 @@
 {
-  "last run": "2026-01-25T09:04:29Z",
+  "last run": "2026-01-25T10:04:12Z",
   "stories": [
     {
       "headline": "First Nations construction leader Frank Mitchell named Local Hero 2026",
@@ -20,6 +20,16 @@
       "first_sentence": "Steve Smith is in search of a triumphant end to his explosive BBL cameo, with the Sixers and Scorchers locking horns in the competition's final at Perth Stadium.",
       "timestamp": "2026-01-25T07:42:26Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "Traitors star planned to win with Essex stereotype",
+      "link": "https://www.bbc.com/news/articles/c99kjkg4vy4o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5806,
+      "vader_score": 0.3612,
+      "textblob_score": 0.8,
+      "first_sentence": "Traitors finalist Jack Butler has revealed  he planned to use Essex stereotypes to get ahead in the hit BBC One show.",
+      "timestamp": "2026-01-25T06:18:54Z",
+      "source": "BBC News"
     },
     {
       "headline": "Australian Open 2026: Alcaraz beats Paul and Sabalenka defeats brave Mboko as top seeds march into quarter-finals",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.8,
       "first_sentence": "Ai, a chimpanzee who was born in West Africa and came to the Primate Research Institute of Kyoto University in Japan when she was a year old, has died of natural causes at the age of 49.",
       "timestamp": "2026-01-17T13:00:00Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "The CFPB experienced an exceptionally turbulent year. Here's why",
-      "link": "https://www.npr.org/2026/01/17/nx-s1-5676021/the-cfpb-experienced-an-exceptionally-turbulent-year-heres-why",
-      "mean_score": 0.3667,
-      "vader_score": 0.0,
-      "textblob_score": 0.7333,
-      "first_sentence": "It's been a challenging year for the consumer watchdog agency, as the Trump administration has tried to deny it funding and lay off most of its staff.",
-      "timestamp": "2026-01-17T12:42:53Z",
       "source": "NPR News"
     }
   ]
