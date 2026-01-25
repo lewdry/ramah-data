@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-25T08:05:08Z",
+  "last run": "2026-01-25T09:04:29Z",
   "stories": [
+    {
+      "headline": "First Nations construction leader Frank Mitchell named Local Hero 2026",
+      "link": "https://www.abc.net.au/news/2026-01-25/australian-of-the-year-awards-2026/106267536",
+      "mean_score": 0.3412,
+      "vader_score": 0.5574,
+      "textblob_score": 0.125,
+      "first_sentence": "Nedd Brockmann, 23, is an endurance runner who wants to end homelessness.",
+      "timestamp": "2026-01-25T08:48:03Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Live: Steve Smith's Sixers to bat first in blockbuster BBL decider",
       "link": "https://www.abc.net.au/news/2026-01-25/bbl-final-sixers-vs-scorchers-live-updates/106265840",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.7333,
       "first_sentence": "It's been a challenging year for the consumer watchdog agency, as the Trump administration has tried to deny it funding and lay off most of its staff.",
       "timestamp": "2026-01-17T12:42:53Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Is RFK Jr.'s Administration for a Healthy America \u2014 AHA \u2014 in the works or not?",
-      "link": "https://www.npr.org/2026/01/17/nx-s1-5552533/rfk-jr-aha-maha-hhs-healthy-america",
-      "mean_score": 0.4509,
-      "vader_score": 0.4019,
-      "textblob_score": 0.5,
-      "first_sentence": "Robert F.",
-      "timestamp": "2026-01-17T12:00:00Z",
       "source": "NPR News"
     }
   ]
