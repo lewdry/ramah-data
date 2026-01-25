@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Gran, 93, flies for first time in 30 years to see Philadelphia folk parade she fell in love with",
+    "link": "https://www.bbc.com/news/articles/c5y2v95ex94o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4018,
+    "vader_score": 0.6369,
+    "textblob_score": 0.1667,
+    "first_sentence": "Avril Davidge is 93 and had never been to America in her life, but after going down a YouTube rabbit hole and falling in love with a folk parade in Philadelphia, she boarded a plane for the first time in 30 years to see it for herself.",
+    "timestamp": "2026-01-17T07:24:37Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "A Knight of the Seven Kingdoms: this glorious grossout comedy is Game of Thrones at its best",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/jan/17/a-knight-of-the-seven-kingdoms-hbo-game-of-thrones-spin-off-got",
+    "mean_score": 0.6068,
+    "vader_score": 0.9136,
+    "textblob_score": 0.3,
+    "first_sentence": "The Game of Thrones franchise has fruited again, like an abundant oak.",
+    "timestamp": "2026-01-17T07:00:21Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Nasa readies its most powerful rocket for round-the-moon flight",
     "link": "https://www.theguardian.com/science/2026/jan/17/nasa-readies-most-powerful-rocket-round-moon-flight",
     "mean_score": 0.4377,
