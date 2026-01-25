@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-25T07:05:33Z",
+  "last run": "2026-01-25T08:05:08Z",
   "stories": [
+    {
+      "headline": "Live: Steve Smith's Sixers to bat first in blockbuster BBL decider",
+      "link": "https://www.abc.net.au/news/2026-01-25/bbl-final-sixers-vs-scorchers-live-updates/106265840",
+      "mean_score": 0.3963,
+      "vader_score": 0.5994,
+      "textblob_score": 0.1932,
+      "first_sentence": "Steve Smith is in search of a triumphant end to his explosive BBL cameo, with the Sixers and Scorchers locking horns in the competition's final at Perth Stadium.",
+      "timestamp": "2026-01-25T07:42:26Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Australian Open 2026: Alcaraz beats Paul and Sabalenka defeats brave Mboko as top seeds march into quarter-finals",
       "link": "https://www.theguardian.com/sport/live/2026/jan/25/australian-open-2026-sabalenka-alcaraz-in-action-live",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Robert F.",
       "timestamp": "2026-01-17T12:00:00Z",
       "source": "NPR News"
-    },
-    {
-      "headline": "\u2018I always knew my dogs loved the wind on their faces\u2019: Thiago Bernardes de Souza\u2019s best phone picture",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/17/thiago-bernardes-de-souza-best-phone-picture",
-      "mean_score": 0.8471,
-      "vader_score": 0.8442,
-      "textblob_score": 0.85,
-      "first_sentence": "Bras\u00edlia\u2019s sky was bright and beautiful on the day Thiago Bernardes de Souza took this shot.",
-      "timestamp": "2026-01-17T11:00:25Z",
-      "source": "The Guardian"
     }
   ]
 }
