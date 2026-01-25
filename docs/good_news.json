@@ -1,5 +1,5 @@
 {
-  "last run": "2026-01-25T21:04:03Z",
+  "last run": "2026-01-25T22:04:03Z",
   "stories": [
     {
       "headline": "1960s films restored in hope of enticing new migrants to regional Australia",
@@ -79,6 +79,16 @@
       "textblob_score": 0.1667,
       "first_sentence": "\u201cIt was from a weekly visit to the cinema that you learned (or tried to learn) how to walk, to smoke, to kiss, to fight, to grieve,\u201d Susan Sontag wrote 30 years ago, in an essay to mark 100 years of film entitled The Decay of Cinema.",
       "timestamp": "2026-01-25T17:25:13Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Buend\u00eda and Watkins stun Newcastle to keep Aston Villa\u2019s title hopes alive",
+      "link": "https://www.theguardian.com/football/2026/jan/25/newcastle-aston-villa-premier-league-match-report",
+      "mean_score": 0.3798,
+      "vader_score": 0.6597,
+      "textblob_score": 0.1,
+      "first_sentence": "Some wins are a little bit lucky and others downright fluky or simply ground out, but this Aston Villa victory belonged to a different category entirely.",
+      "timestamp": "2026-01-25T16:17:22Z",
       "source": "The Guardian"
     },
     {
@@ -2490,16 +2500,6 @@
       "first_sentence": "The Guardian\u2019s journalism is independent.",
       "timestamp": "2026-01-18T07:00:50Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "'It's all about fun': Cosplayers unite in celebration of geek culture",
-      "link": "https://www.abc.net.au/news/2026-01-18/geektacular-nt-darwin-is-geek-culture-cool-nerd-community/106241848",
-      "mean_score": 0.3306,
-      "vader_score": 0.3612,
-      "textblob_score": 0.3,
-      "first_sentence": "The pop cultural Zeitgeist was captivated by the recent Stanger Things finale, a long-awaited conclusion wrapping up the popular TV show that initially centred on a group of nerdy kids playing Dungeons & Dragons.",
-      "timestamp": "2026-01-18T05:51:19Z",
-      "source": "ABC News"
     }
   ]
 }
