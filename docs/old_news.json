@@ -1,5 +1,25 @@
 [
   {
+    "headline": "World's first legally binding treaty to protect oceans takes effect",
+    "link": "https://www.abc.net.au/news/2026-01-18/high-seas-treaty-marine-protection-in-effect/106241974",
+    "mean_score": 0.3419,
+    "vader_score": 0.4588,
+    "textblob_score": 0.225,
+    "first_sentence": "The first legally binding international treaty to protect the world's oceans has taken effect.",
+    "timestamp": "2026-01-18T04:13:54Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "David Byrne review \u2013 hope, humanity and dancing in a superbly paced and choreographed show",
+    "link": "https://www.theguardian.com/music/2026/jan/18/david-byrne-review-hope-humanity-and-dancing-in-a-superbly-paced-and-choreographed-show",
+    "mean_score": 0.7202,
+    "vader_score": 0.4404,
+    "textblob_score": 1.0,
+    "first_sentence": "Dressed from head to foot in iridescent orange, David Byrne and his 12-piece backing band look as if they\u2019re about to burst into flames.",
+    "timestamp": "2026-01-18T01:51:49Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Australia dominate snowboard halfpipe as Scotty James wins final World Cup before Olympics",
     "link": "https://www.theguardian.com/sport/2026/jan/18/australia-snowboard-halfpipe-scotty-james-wins-world-cup-winter-olympics",
     "mean_score": 0.322,
