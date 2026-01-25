@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-25T19:03:49Z",
+  "last run": "2026-01-25T20:04:38Z",
   "stories": [
+    {
+      "headline": "Islands rich in history, marine life and debate about their names",
+      "link": "https://www.abc.net.au/news/2026-01-26/history-of-five-islands-nature-reserve-in-nsw-illawarra-region/106050352",
+      "mean_score": 0.4662,
+      "vader_score": 0.5574,
+      "textblob_score": 0.375,
+      "first_sentence": "They might be among the best-kept secrets in the Illawarra, but the five islands off Port Kembla on the New South Wales South Coast are rich in both history and marine life.",
+      "timestamp": "2026-01-25T19:36:35Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Cunha\u2019s stunner earns Manchester United thrilling late win at Arsenal",
       "link": "https://www.theguardian.com/football/2026/jan/25/arsenal-manchester-united-premier-league-match-report",
@@ -40,6 +50,16 @@
       "first_sentence": "President Volodymyr Zelenskyy said Sunday that a U.S.",
       "timestamp": "2026-01-25T17:53:02Z",
       "source": "AP News"
+    },
+    {
+      "headline": "The Guardian view on the future of cinema: gen Z is falling in love with the big screen | Editorial",
+      "link": "https://www.theguardian.com/commentisfree/2026/jan/25/the-guardian-view-on-the-future-of-cinema-gen-z-is-falling-in-love-with-the-big-screen",
+      "mean_score": 0.362,
+      "vader_score": 0.5574,
+      "textblob_score": 0.1667,
+      "first_sentence": "\u201cIt was from a weekly visit to the cinema that you learned (or tried to learn) how to walk, to smoke, to kiss, to fight, to grieve,\u201d Susan Sontag wrote 30 years ago, in an essay to mark 100 years of film entitled The Decay of Cinema.",
+      "timestamp": "2026-01-25T17:25:13Z",
+      "source": "The Guardian"
     },
     {
       "headline": "Pilates after prayers: men\u2019s classes in Bradford mosques offer fitness and friendship",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Dressed from head to foot in iridescent orange, David Byrne and his 12-piece backing band look as if they\u2019re about to burst into flames.",
       "timestamp": "2026-01-18T01:51:49Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Australia dominate snowboard halfpipe as Scotty James wins final World Cup before Olympics",
-      "link": "https://www.theguardian.com/sport/2026/jan/18/australia-snowboard-halfpipe-scotty-james-wins-world-cup-winter-olympics",
-      "mean_score": 0.322,
-      "vader_score": 0.4939,
-      "textblob_score": 0.15,
-      "first_sentence": "Snowboard king Scotty James has dazzled to reign supreme in the last World Cup halfpipe event before the Olympics, where he\u2019ll be seeking an elusive gold medal.",
-      "timestamp": "2026-01-18T01:32:10Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "I want to show the world what Africa is - YouTube star brings joy and tears on tour",
-      "link": "https://www.bbc.com/news/articles/c5y5le7yl7po?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.647,
-      "vader_score": 0.4939,
-      "textblob_score": 0.8,
-      "first_sentence": "One of the world's most popular content creators has been attracting huge crowds, mostly his young fans, as he undertakes a 20-nation tour of Africa, a continent he says is \"full of surprises\".",
-      "timestamp": "2026-01-18T00:21:02Z",
-      "source": "BBC News"
     }
   ]
 }

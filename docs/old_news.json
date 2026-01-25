@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Australia dominate snowboard halfpipe as Scotty James wins final World Cup before Olympics",
+    "link": "https://www.theguardian.com/sport/2026/jan/18/australia-snowboard-halfpipe-scotty-james-wins-world-cup-winter-olympics",
+    "mean_score": 0.322,
+    "vader_score": 0.4939,
+    "textblob_score": 0.15,
+    "first_sentence": "Snowboard king Scotty James has dazzled to reign supreme in the last World Cup halfpipe event before the Olympics, where he\u2019ll be seeking an elusive gold medal.",
+    "timestamp": "2026-01-18T01:32:10Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "I want to show the world what Africa is - YouTube star brings joy and tears on tour",
+    "link": "https://www.bbc.com/news/articles/c5y5le7yl7po?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.647,
+    "vader_score": 0.4939,
+    "textblob_score": 0.8,
+    "first_sentence": "One of the world's most popular content creators has been attracting huge crowds, mostly his young fans, as he undertakes a 20-nation tour of Africa, a continent he says is \"full of surprises\".",
+    "timestamp": "2026-01-18T00:21:02Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Live: Local wildcard nabs first win of Aus Open as thousands of fans stuck outside",
     "link": "https://www.abc.net.au/news/2026-01-18/australian-open-2026-live-updates-sabalenka-alcaraz-berrettini/106238282",
     "mean_score": 0.3096,
