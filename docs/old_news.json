@@ -1,5 +1,25 @@
 [
   {
+    "headline": "'I'm back!' Damien Martyn shares heartfelt update on remarkable recovery",
+    "link": "https://www.abc.net.au/news/2026-01-17/damien-martyn-shares-heartfelt-health-update/106240912",
+    "mean_score": 0.5561,
+    "vader_score": 0.8622,
+    "textblob_score": 0.25,
+    "first_sentence": "Australian cricket great Damien Martyn has shared a positive update on his recovery from meningitis, an infection that causes swelling around the brain and spinal cord, while also revealing he was given a \"50:50\" chance of surviving.",
+    "timestamp": "2026-01-17T09:03:34Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Why Djokovic won't be burdened by grand slam record chase",
+    "link": "https://www.abc.net.au/news/2026-01-17/novak-djokovic-australian-open-grand-slam-record-wins/106240934",
+    "mean_score": 0.4467,
+    "vader_score": 0.3935,
+    "textblob_score": 0.5,
+    "first_sentence": "Novak Djokovic won't let his pursuit of a record 25th grand slam title prove a burden in Melbourne as he tries to break Carlos Alcaraz and Jannik Sinner's recent stranglehold over the tennis majors.",
+    "timestamp": "2026-01-17T08:04:15Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Debutants impress, Australia well placed after SailGP Fremantle day one",
     "link": "https://www.abc.net.au/news/2026-01-17/sailgp-fremantle-day-one-results-wrap/106240750",
     "mean_score": 0.3062,

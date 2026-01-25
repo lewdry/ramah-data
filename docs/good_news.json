@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-25T05:10:55Z",
+  "last run": "2026-01-25T06:05:50Z",
   "stories": [
+    {
+      "headline": "Australian Open 2026: Alcaraz beats Paul and Sabalenka defeats brave Mboko as top seeds march into quarter-finals",
+      "link": "https://www.theguardian.com/sport/live/2026/jan/25/australian-open-2026-sabalenka-alcaraz-in-action-live",
+      "mean_score": 0.3827,
+      "vader_score": 0.4404,
+      "textblob_score": 0.325,
+      "first_sentence": "He had to dig deep against Paul but Alcarez has made it to the quarter-finals without dropping a set.",
+      "timestamp": "2026-01-25T05:48:25Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Sydney Swans player Taylor Adams knocked unconscious in incident outside popular venue",
       "link": "https://www.theguardian.com/sport/2026/jan/25/sydney-swans-player-taylor-adams-knocked-unconscious-in-incident-outside-popular-venue-ntwnfb",
@@ -30,6 +40,16 @@
       "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
       "timestamp": "2026-01-25T00:12:41Z",
       "source": "SBS News"
+    },
+    {
+      "headline": "Live: Alcaraz wins in straight sets after Sabalenka storms into Aus Open last eight",
+      "link": "https://www.abc.net.au/news/2026-01-25/australian-open-live-blog-day-eight-results-updates/106266662",
+      "mean_score": 0.404,
+      "vader_score": 0.6808,
+      "textblob_score": 0.1273,
+      "first_sentence": "The stars are out as the action heats up on day eight of the 2026 Australian Open.",
+      "timestamp": "2026-01-24T23:30:47Z",
+      "source": "ABC News"
     },
     {
       "headline": "'Amazing' WA grain harvest set to break record with 27 million tonnes",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Bras\u00edlia\u2019s sky was bright and beautiful on the day Thiago Bernardes de Souza took this shot.",
       "timestamp": "2026-01-17T11:00:25Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "'I'm back!' Damien Martyn shares heartfelt update on remarkable recovery",
-      "link": "https://www.abc.net.au/news/2026-01-17/damien-martyn-shares-heartfelt-health-update/106240912",
-      "mean_score": 0.5561,
-      "vader_score": 0.8622,
-      "textblob_score": 0.25,
-      "first_sentence": "Australian cricket great Damien Martyn has shared a positive update on his recovery from meningitis, an infection that causes swelling around the brain and spinal cord, while also revealing he was given a \"50:50\" chance of surviving.",
-      "timestamp": "2026-01-17T09:03:34Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Why Djokovic won't be burdened by grand slam record chase",
-      "link": "https://www.abc.net.au/news/2026-01-17/novak-djokovic-australian-open-grand-slam-record-wins/106240934",
-      "mean_score": 0.4467,
-      "vader_score": 0.3935,
-      "textblob_score": 0.5,
-      "first_sentence": "Novak Djokovic won't let his pursuit of a record 25th grand slam title prove a burden in Melbourne as he tries to break Carlos Alcaraz and Jannik Sinner's recent stranglehold over the tennis majors.",
-      "timestamp": "2026-01-17T08:04:15Z",
-      "source": "ABC News"
     }
   ]
 }
