@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-25T15:04:14Z",
+  "last run": "2026-01-25T16:04:37Z",
   "stories": [
+    {
+      "headline": "Pilates after prayers: men\u2019s classes in Bradford mosques offer fitness and friendship",
+      "link": "https://www.theguardian.com/uk-news/2026/jan/25/pilates-men-classes-bradford-mosque-fitness-friendship",
+      "mean_score": 0.3062,
+      "vader_score": 0.6124,
+      "textblob_score": 0.0,
+      "first_sentence": "It\u2019s early afternoon on a gloomy day at the Jamia Usmania mosque in Bradford and a group of mostly elderly men have finished their midday prayers.",
+      "timestamp": "2026-01-25T15:00:10Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Readers reply: how can we learn from unrequited love?",
       "link": "https://www.theguardian.com/lifeandstyle/2026/jan/25/readers-replies-learn-unrequited-love",
@@ -2490,16 +2500,6 @@
       "first_sentence": "ACA enrollment is down for the first time in 5 years, and people are facing enormous premium hikes.",
       "timestamp": "2026-01-17T22:00:12Z",
       "source": "NPR News"
-    },
-    {
-      "headline": "There are fewer waves, but surfers love this coastal town",
-      "link": "https://www.abc.net.au/news/2026-01-18/agnes-water-surfing-culture/106078546",
-      "mean_score": 0.6391,
-      "vader_score": 0.7783,
-      "textblob_score": 0.5,
-      "first_sentence": "It's the picturesque kind of place travellers visit once and decide to stay.",
-      "timestamp": "2026-01-17T21:59:19Z",
-      "source": "ABC News"
     }
   ]
 }

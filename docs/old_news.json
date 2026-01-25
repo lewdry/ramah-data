@@ -1,5 +1,15 @@
 [
   {
+    "headline": "There are fewer waves, but surfers love this coastal town",
+    "link": "https://www.abc.net.au/news/2026-01-18/agnes-water-surfing-culture/106078546",
+    "mean_score": 0.6391,
+    "vader_score": 0.7783,
+    "textblob_score": 0.5,
+    "first_sentence": "It's the picturesque kind of place travellers visit once and decide to stay.",
+    "timestamp": "2026-01-17T21:59:19Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Only a thrilling final can save a predictable Africa Cup of Nations from being forgotten | Jonathan Wilson",
     "link": "https://www.theguardian.com/football/2026/jan/17/only-a-thrilling-final-can-save-a-predictable-africa-cup-of-nations-from-being-forgotten",
     "mean_score": 0.3361,
