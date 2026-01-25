@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-25T17:03:57Z",
+  "last run": "2026-01-25T18:05:37Z",
   "stories": [
+    {
+      "headline": "Row erupts within UK\u2019s governing Labour Party after popular mayor blocked from upcoming election",
+      "link": "https://apnews.com/article/uk-labour-party-starmer-burnham-b63b1acaff7058eb2a22b730c0560390",
+      "mean_score": 0.5634,
+      "vader_score": 0.5267,
+      "textblob_score": 0.6,
+      "first_sentence": "LONDON (AP) \u2014 A row erupted Sunday within Britain\u2019s governing Labour Party after the ambitious mayor of Manchester was prevented from trying to reenter Parliament at a special election in the city, with critics claiming that Prime Minister Keir Starmer did not want to see a potential rival back in the House of Commons.",
+      "timestamp": "2026-01-25T17:53:02Z",
+      "source": "AP News"
+    },
+    {
+      "headline": "US security agreement for Ukraine is \u2018100% ready\u2019 to be signed, Zelenskyy says",
+      "link": "https://apnews.com/article/us-ukraine-war-talks-security-zelenskyy-438412639e3a73cab0abf9d109519720",
+      "mean_score": 0.4404,
+      "vader_score": 0.6808,
+      "textblob_score": 0.2,
+      "first_sentence": "President Volodymyr Zelenskyy said Sunday that a U.S.",
+      "timestamp": "2026-01-25T17:53:02Z",
+      "source": "AP News"
+    },
     {
       "headline": "Pilates after prayers: men\u2019s classes in Bradford mosques offer fitness and friendship",
       "link": "https://www.theguardian.com/uk-news/2026/jan/25/pilates-men-classes-bradford-mosque-fitness-friendship",
@@ -2480,26 +2500,6 @@
       "first_sentence": "He diligently shares mirror selfies on Instagram, where everyone knows the more likes you get, the cooler you are.",
       "timestamp": "2026-01-17T23:08:39Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "European Union and Mercosur bloc of South American nations sign landmark free trade agreement",
-      "link": "https://apnews.com/article/mercosur-european-union-trade-agreement-south-america-b779460da4b7ecb6aa15d322976fa70d",
-      "mean_score": 0.4558,
-      "vader_score": 0.7783,
-      "textblob_score": 0.1333,
-      "first_sentence": "The European Union and the Mercosur bloc of South American countries formally signed a long-sought landmark free trade agreement on Saturday, capping more than a quarter-century of torturous negotiations to strengthen commercial ties in the face of rising protectionism and trade tensions around the world.",
-      "timestamp": "2026-01-17T22:23:02Z",
-      "source": "AP News"
-    },
-    {
-      "headline": "As ACA enrollment drops, hopes for Congress to restore funding are fading",
-      "link": "https://www.npr.org/2026/01/17/nx-s1-5680302/as-aca-enrollment-drops-hopes-for-congress-to-restore-funding-are-fading",
-      "mean_score": 0.3062,
-      "vader_score": 0.6124,
-      "textblob_score": 0.0,
-      "first_sentence": "ACA enrollment is down for the first time in 5 years, and people are facing enormous premium hikes.",
-      "timestamp": "2026-01-17T22:00:12Z",
-      "source": "NPR News"
     }
   ]
 }
