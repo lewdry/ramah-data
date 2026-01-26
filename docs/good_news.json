@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-26T10:06:26Z",
+  "last run": "2026-01-26T11:05:33Z",
   "stories": [
+    {
+      "headline": "Two charities get \u00a3300k to support older residents",
+      "link": "https://www.bbc.com/news/articles/c394498jprdo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4381,
+      "vader_score": 0.7096,
+      "textblob_score": 0.1667,
+      "first_sentence": "Almost \u00a3300,000 has been awarded to two charities in the South East to support the work they do with older residents in financial hardship.",
+      "timestamp": "2026-01-26T10:31:24Z",
+      "source": "BBC News"
+    },
     {
       "headline": "As GLP-1s become more available, some who aren't overweight may consider using them",
       "link": "https://www.npr.org/2026/01/26/nx-s1-5676080/as-glp-1s-become-more-available-some-who-arent-overweight-may-consider-using-them",
@@ -2490,16 +2500,6 @@
       "first_sentence": "A group of Labour MPs have called on Rachel Reeves to support a huge expansion of credit unions to boost access to cheap credit for millions of people on low incomes.",
       "timestamp": "2026-01-18T15:42:56Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Martin Luther King Jr. had a dream ... about health care",
-      "link": "https://www.npr.org/2026/01/18/g-s1-106127/martin-luther-king-jr-dream-health-care",
-      "mean_score": 0.3185,
-      "vader_score": 0.6369,
-      "textblob_score": 0.0,
-      "first_sentence": "Growing up as a teenager in Kano State, Nigeria, in the 1980s, I loved to read.",
-      "timestamp": "2026-01-18T15:22:19Z",
-      "source": "NPR News"
     }
   ]
 }
