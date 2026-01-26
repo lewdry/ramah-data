@@ -1,6 +1,36 @@
 {
-  "last run": "2026-01-26T06:07:36Z",
+  "last run": "2026-01-26T07:09:31Z",
   "stories": [
+    {
+      "headline": "Super Bowl 60 is set and it's a rematch from 11 years ago: Patriots vs. Seahawks",
+      "link": "https://www.npr.org/2026/01/26/g-s1-107320/super-bowl-60-patriots-seahawks",
+      "mean_score": 0.4664,
+      "vader_score": 0.5994,
+      "textblob_score": 0.3333,
+      "first_sentence": "Drake Maye vs.",
+      "timestamp": "2026-01-26T06:09:39Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "Five quick and easy burger recipes for stress-free summer dinners",
+      "link": "https://www.abc.net.au/news/2026-01-26/quick-and-easy-burger-recipes-for-stress-free-summer-dinners/106136826",
+      "mean_score": 0.4119,
+      "vader_score": 0.4404,
+      "textblob_score": 0.3833,
+      "first_sentence": "Easy dinners are always a welcome addition to the weekly rotation, and these five recipes are as simple as they are satisfying.",
+      "timestamp": "2026-01-26T06:07:49Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Australia! I quite like bits of it | First Dog on the Moon",
+      "link": "https://www.theguardian.com/commentisfree/picture/2026/jan/26/australia-i-quite-like-bits-of-it",
+      "mean_score": 0.362,
+      "vader_score": 0.474,
+      "textblob_score": 0.25,
+      "first_sentence": "But this is not a day for celebrationSign up here to get an email whenever First Dog cartoons are publishedGet all your needs met at the First Dog shop if what you need is First Dog merchandise and prints Continue reading.",
+      "timestamp": "2026-01-26T05:55:02Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Spider monkeys found to share \u2018insider knowledge\u2019 to help locate best food",
       "link": "https://www.theguardian.com/science/2026/jan/25/spider-monkeys-found-to-share-insider-knowledge-to-help-locate-best-food",
@@ -2470,36 +2500,6 @@
       "first_sentence": "Each time Aryna Sabalenka steps on court, the world number one creates the impression she is riding an emotional roller coaster.",
       "timestamp": "2026-01-18T11:49:20Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "This is how we do it: \u2018Nobody\u2019s enjoyed a night at the Premier Inn Milton Keynes more than us\u2019",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/18/this-is-how-we-do-it-nobodys-enjoyed-a-night-at-the-premier-inn-milton-keynes-more-than-us",
-      "mean_score": 0.5053,
-      "vader_score": 0.5106,
-      "textblob_score": 0.5,
-      "first_sentence": "Beth and I met online 20 years ago, emailing back and forth for a good while before our first date \u2013 but once we met in person we only waited a few days to have sex.",
-      "timestamp": "2026-01-18T11:00:53Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The pub that changed me: \u2018We celebrated Christmas in July \u2013 and suddenly every night was Saturday night\u2019",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/18/the-pub-that-changed-me-we-celebrated-christmas-in-july-and-suddenly-every-night-was-saturday-night",
-      "mean_score": 0.3734,
-      "vader_score": 0.5719,
-      "textblob_score": 0.175,
-      "first_sentence": "I was an employee and a customer at this pub as a teenager in the early 1990s.",
-      "timestamp": "2026-01-18T11:00:53Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Australian Open 2026: Sabalenka wins; Alcaraz and Raducanu in action on day one \u2013 live",
-      "link": "https://www.theguardian.com/sport/live/2026/jan/18/australian-open-2026-sabalenka-alcaraz-and-raducanu-in-action-on-day-one-live",
-      "mean_score": 0.3396,
-      "vader_score": 0.5719,
-      "textblob_score": 0.1073,
-      "first_sentence": "Alcaraz and Walton are ready.",
-      "timestamp": "2026-01-18T09:52:35Z",
-      "source": "The Guardian"
     }
   ]
 }
