@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Two short but spectacular HS2 tunnels offer glimmer of hope for stalling project",
+    "link": "https://www.theguardian.com/business/2026/jan/19/hs2-tunnels-chilterns",
+    "mean_score": 0.3459,
+    "vader_score": 0.3919,
+    "textblob_score": 0.3,
+    "first_sentence": "Seventy metres down, in deep incognito beneath a disguised ventilation shaft in the Chilterns countryside, lies HS2\u2019s buried treasure: two 10-mile tunnels, built to avoid an area of outstanding natural beauty, eerily spectacular in gleaming concrete.",
+    "timestamp": "2026-01-19T00:01:09Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "\u2018Brazen\u2019 political influence of rich laid bare as wealth of billionaires reaches $18.3tn, says Oxfam",
+    "link": "https://www.theguardian.com/global-development/2026/jan/19/brazen-political-influence-rich-laid-bare-wealth-billionaires-inequality-poverty-instability-oxfam",
+    "mean_score": 0.4661,
+    "vader_score": 0.7906,
+    "textblob_score": 0.1417,
+    "first_sentence": "The world saw a record number of billionaires created last year, with a collective wealth of $18.3tn (\u00a313.7tn), while global efforts stalled in the fight against poverty and hunger.",
+    "timestamp": "2026-01-19T00:01:08Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Live: Australia's perfect start brought to shuddering halt on day two",
     "link": "https://www.abc.net.au/news/2026-01-19/australian-open-2026-live-alex-de-minaur-novak-djokovic/106243798",
     "mean_score": 0.57,
