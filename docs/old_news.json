@@ -1,5 +1,45 @@
 [
   {
+    "headline": "The Papers: 'EU weighs up \u20ac93bn retaliation' and 'Raducanu's fine start'",
+    "link": "https://www.bbc.com/news/articles/cz7yp923gz8o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3095,
+    "vader_score": 0.2023,
+    "textblob_score": 0.4167,
+    "first_sentence": "Sign up for our morning newsletter and get BBC News in your inbox.",
+    "timestamp": "2026-01-19T01:09:33Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "What it's like to play the world number one at the Australian Open",
+    "link": "https://www.abc.net.au/news/2026-01-19/australian-open-adam-walton-carlos-alcaraz-first-round/106244122",
+    "mean_score": 0.3185,
+    "vader_score": 0.6369,
+    "textblob_score": 0.0,
+    "first_sentence": "After reaching a career-high ranking of 74 three months ago, Adam Walton had reason to believe he could cause an upset or two at the Australian Open.",
+    "timestamp": "2026-01-19T00:46:54Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Socks, salsa and stand-up comedy... easy ways to find joy in January",
+    "link": "https://www.bbc.com/news/articles/cql4e2yele4o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.7324,
+    "vader_score": 0.8481,
+    "textblob_score": 0.6167,
+    "first_sentence": "There is a reason it is called Blue Monday.",
+    "timestamp": "2026-01-19T00:04:16Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Oxfam says super rich should be taxed to tackle inequality",
+    "link": "https://www.abc.net.au/news/2026-01-19/income-inequality-oxfam-report-calls-to-tax-billionaires/106236612",
+    "mean_score": 0.5859,
+    "vader_score": 0.8176,
+    "textblob_score": 0.3542,
+    "first_sentence": "Oxfam Australia is calling on the federal government to tax the super rich to help tackle growing inequality.",
+    "timestamp": "2026-01-19T00:02:59Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Two short but spectacular HS2 tunnels offer glimmer of hope for stalling project",
     "link": "https://www.theguardian.com/business/2026/jan/19/hs2-tunnels-chilterns",
     "mean_score": 0.3459,

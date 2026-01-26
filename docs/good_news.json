@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-26T19:08:16Z",
+  "last run": "2026-01-26T20:05:01Z",
   "stories": [
+    {
+      "headline": "Strong winds put SA on fire alert as heatwave continues",
+      "link": "https://www.abc.net.au/news/2026-01-27/extreme-fire-danger-as-heatwave-persists-in-sa/106270164",
+      "mean_score": 0.455,
+      "vader_score": 0.4767,
+      "textblob_score": 0.4333,
+      "first_sentence": "Extreme fire conditions are expected for the southern half of South Australia today, as the state's heatwave continues.",
+      "timestamp": "2026-01-26T19:09:59Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Hundreds of thousands without power in the U.S. after a powerful winter storm",
+      "link": "https://www.npr.org/2026/01/26/nx-s1-5688918/winter-storm-power-outages-airports",
+      "mean_score": 0.3608,
+      "vader_score": 0.4215,
+      "textblob_score": 0.3,
+      "first_sentence": "Bitter cold is gripping much of the country after a massive winter storm swept across the U.S., dumping ice, sleet and snow from New Mexico to the eastern seaboard.",
+      "timestamp": "2026-01-26T19:09:47Z",
+      "source": "NPR News"
+    },
     {
       "headline": "Arizona still unanimous No. 1 in AP Top 25 poll ahead of showdown with No. 13 BYU",
       "link": "https://apnews.com/article/ap-top-25-mens-college-basketball-poll-758ca762436516744d4f3c41d4addf0c",
@@ -29,6 +49,16 @@
       "textblob_score": 0.1833,
       "first_sentence": "The German chancellor, Friedrich Merz, has said he wants the North Sea to become the \u201clargest reservoir of clean energy worldwide\u201d, as he announced plans to accelerate efforts to link up offshore wind power projects with Europe.",
       "timestamp": "2026-01-26T14:46:54Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Black cakes and branded buckets: welcome to the White House premiere for Brett Ratner\u2019s Melania movie",
+      "link": "https://www.theguardian.com/film/filmblog/2026/jan/26/melania-amazon-authorised-documentary-white-house-premiere",
+      "mean_score": 0.335,
+      "vader_score": 0.4588,
+      "textblob_score": 0.2111,
+      "first_sentence": "Monochrome catering was all the rage at the VIP screening on Saturday for Ratner\u2019s officially sanctioned $75m feature-length documentary about the First Lady.",
+      "timestamp": "2026-01-26T14:40:16Z",
       "source": "The Guardian"
     },
     {
@@ -230,6 +260,16 @@
       "first_sentence": "Spider monkeys share tips about where to find food by changing their social groups in a \u201cclever system for sharing insider knowledge\u201d, research has shown.",
       "timestamp": "2026-01-26T05:00:29Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "Gold breaks $7k in fresh record as silver surges, with further gains tipped",
+      "link": "https://www.sbs.com.au/news/article/gold-price-breaks-fresh-record-as-silver-price-surges/5uxyfb8sk",
+      "mean_score": 0.3609,
+      "vader_score": 0.5719,
+      "textblob_score": 0.15,
+      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+      "timestamp": "2026-01-26T04:53:42Z",
+      "source": "SBS News"
     },
     {
       "headline": "Super Bowl LX match-up confirmed with Seattle to play New England",
@@ -2460,46 +2500,6 @@
       "first_sentence": "Storm Hunter has put almost two years of injury pain behind her, becoming the second local woman to win her first-round match at the Australian Open.",
       "timestamp": "2026-01-19T02:47:21Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "The Papers: 'EU weighs up \u20ac93bn retaliation' and 'Raducanu's fine start'",
-      "link": "https://www.bbc.com/news/articles/cz7yp923gz8o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3095,
-      "vader_score": 0.2023,
-      "textblob_score": 0.4167,
-      "first_sentence": "Sign up for our morning newsletter and get BBC News in your inbox.",
-      "timestamp": "2026-01-19T01:09:33Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "What it's like to play the world number one at the Australian Open",
-      "link": "https://www.abc.net.au/news/2026-01-19/australian-open-adam-walton-carlos-alcaraz-first-round/106244122",
-      "mean_score": 0.3185,
-      "vader_score": 0.6369,
-      "textblob_score": 0.0,
-      "first_sentence": "After reaching a career-high ranking of 74 three months ago, Adam Walton had reason to believe he could cause an upset or two at the Australian Open.",
-      "timestamp": "2026-01-19T00:46:54Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Socks, salsa and stand-up comedy... easy ways to find joy in January",
-      "link": "https://www.bbc.com/news/articles/cql4e2yele4o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.7324,
-      "vader_score": 0.8481,
-      "textblob_score": 0.6167,
-      "first_sentence": "There is a reason it is called Blue Monday.",
-      "timestamp": "2026-01-19T00:04:16Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Oxfam says super rich should be taxed to tackle inequality",
-      "link": "https://www.abc.net.au/news/2026-01-19/income-inequality-oxfam-report-calls-to-tax-billionaires/106236612",
-      "mean_score": 0.5859,
-      "vader_score": 0.8176,
-      "textblob_score": 0.3542,
-      "first_sentence": "Oxfam Australia is calling on the federal government to tax the super rich to help tackle growing inequality.",
-      "timestamp": "2026-01-19T00:02:59Z",
-      "source": "ABC News"
     }
   ]
 }
