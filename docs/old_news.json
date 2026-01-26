@@ -1,11 +1,31 @@
 [
   {
+    "headline": "How can we learn from unrequited love?",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/jan/18/how-can-we-learn-from-unrequited-love",
+    "mean_score": 0.5685,
+    "vader_score": 0.6369,
+    "textblob_score": 0.5,
+    "first_sentence": "This week\u2019s readers\u2019 replies: Should speed cameras be hidden?.",
+    "timestamp": "2026-01-18T14:05:56Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "The pitfalls of perfectionism \u2013 and why \u2018good enough\u2019 should be your goal | Gill Straker and Jacqui Winship",
     "link": "https://www.theguardian.com/commentisfree/2026/jan/19/goals-perfectionism-healthy-striving-good-enough",
     "mean_score": 0.3341,
     "vader_score": 0.3182,
     "textblob_score": 0.35,
     "first_sentence": "New year\u2019s resolutions are catnip for perfectionism.",
+    "timestamp": "2026-01-18T14:00:59Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Australia\u2019s koala paradox: why is the beloved marsupial endangered in parts but overabundant in others?",
+    "link": "https://www.theguardian.com/environment/2026/jan/19/australias-koala-paradox-why-is-the-beloved-marsupial-endangered-in-parts-but-overabundant-in-others",
+    "mean_score": 0.4691,
+    "vader_score": 0.2382,
+    "textblob_score": 0.7,
+    "first_sentence": "On French Island in Victoria\u2019s Western Port Bay, koalas are dropping from trees.",
     "timestamp": "2026-01-18T14:00:59Z",
     "source": "The Guardian"
   },

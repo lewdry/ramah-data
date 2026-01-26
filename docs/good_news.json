@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-26T09:10:12Z",
+  "last run": "2026-01-26T10:06:26Z",
   "stories": [
+    {
+      "headline": "As GLP-1s become more available, some who aren't overweight may consider using them",
+      "link": "https://www.npr.org/2026/01/26/nx-s1-5676080/as-glp-1s-become-more-available-some-who-arent-overweight-may-consider-using-them",
+      "mean_score": 0.3628,
+      "vader_score": 0.2755,
+      "textblob_score": 0.45,
+      "first_sentence": "As GLP-1 drugs become more available, some people might use them despite not having excess weight.",
+      "timestamp": "2026-01-26T09:48:45Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "China's top generals under investigation as country's leader clears out ranks",
+      "link": "https://www.npr.org/2026/01/26/nx-s1-5687896/chinas-top-generals-under-investigation-as-countrys-leader-clears-out-ranks",
+      "mean_score": 0.3866,
+      "vader_score": 0.2732,
+      "textblob_score": 0.5,
+      "first_sentence": "China announced two of its top generals are under investigation, including the country's most senior general.",
+      "timestamp": "2026-01-26T09:47:39Z",
+      "source": "NPR News"
+    },
     {
       "headline": "Ryanair profits fall after anti-competition fine",
       "link": "https://www.bbc.com/news/articles/c620506dvmjo?at_medium=RSS&at_campaign=rss",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Growing up as a teenager in Kano State, Nigeria, in the 1980s, I loved to read.",
       "timestamp": "2026-01-18T15:22:19Z",
       "source": "NPR News"
-    },
-    {
-      "headline": "How can we learn from unrequited love?",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/18/how-can-we-learn-from-unrequited-love",
-      "mean_score": 0.5685,
-      "vader_score": 0.6369,
-      "textblob_score": 0.5,
-      "first_sentence": "This week\u2019s readers\u2019 replies: Should speed cameras be hidden?.",
-      "timestamp": "2026-01-18T14:05:56Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Australia\u2019s koala paradox: why is the beloved marsupial endangered in parts but overabundant in others?",
-      "link": "https://www.theguardian.com/environment/2026/jan/19/australias-koala-paradox-why-is-the-beloved-marsupial-endangered-in-parts-but-overabundant-in-others",
-      "mean_score": 0.4691,
-      "vader_score": 0.2382,
-      "textblob_score": 0.7,
-      "first_sentence": "On French Island in Victoria\u2019s Western Port Bay, koalas are dropping from trees.",
-      "timestamp": "2026-01-18T14:00:59Z",
-      "source": "The Guardian"
     }
   ]
 }
