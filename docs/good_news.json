@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-26T03:38:49Z",
+  "last run": "2026-01-26T04:26:48Z",
   "stories": [
+    {
+      "headline": "Super Bowl LX match-up confirmed with Seattle to play New England",
+      "link": "https://www.abc.net.au/news/2026-01-26/super-bowl-lx-match-up-seattle-new-england/106270308",
+      "mean_score": 0.5164,
+      "vader_score": 0.743,
+      "textblob_score": 0.2899,
+      "first_sentence": "Seattle and New England will face off in Super Bowl LX on February 9 (AEDT).",
+      "timestamp": "2026-01-26T04:18:04Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Make sure pupils don't ever use phones at school, Phillipson tells teachers",
       "link": "https://www.bbc.com/news/articles/cgk827r8mrzo?at_medium=RSS&at_campaign=rss",
@@ -2488,16 +2498,6 @@
       "vader_score": 0.8402,
       "textblob_score": 0.65,
       "first_sentence": "The older I get, the more profoundly I appreciate that, when I\u2019m writing about sport, I\u2019m also writing about love.",
-      "timestamp": "2026-01-18T08:00:50Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018I do remember everything\u2019: Katie McCabe on Arsenal, passion and WCL partying",
-      "link": "https://www.theguardian.com/football/2026/jan/18/i-do-remember-everything-katie-mccabe-on-arsenal-passion-and-wcl-partying",
-      "mean_score": 0.3404,
-      "vader_score": 0.6808,
-      "textblob_score": 0.0,
-      "first_sentence": "Katie McCabe had the last laugh in May.",
       "timestamp": "2026-01-18T08:00:50Z",
       "source": "The Guardian"
     }
