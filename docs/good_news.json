@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-26T12:07:49Z",
+  "last run": "2026-01-26T13:18:35Z",
   "stories": [
+    {
+      "headline": "Nigella Lawson to replace Prue Leith on The Great British Bake Off",
+      "link": "https://www.bbc.com/news/articles/cgk80pzxkexo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5125,
+      "vader_score": 0.6249,
+      "textblob_score": 0.4,
+      "first_sentence": "TV chef Nigella Lawson will replace Dame Prue Leith on The Great British Bake Off, broadcaster Channel 4 has confirmed.",
+      "timestamp": "2026-01-26T13:10:34Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Georginia Hayden\u2019s quick and easy recipe for roast sprout salad with anchovies and parmesan | Quick and easy",
+      "link": "https://www.theguardian.com/food/2026/jan/26/quick-easy-roast-sprout-salad-recipe-anchovies-parmesan-georgina-hayden",
+      "mean_score": 0.5418,
+      "vader_score": 0.7003,
+      "textblob_score": 0.3833,
+      "first_sentence": "Brussels sprouts are for life, not just for Christmas.",
+      "timestamp": "2026-01-26T13:00:37Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Two charities get \u00a3300k to support older residents",
       "link": "https://www.bbc.com/news/articles/c394498jprdo?at_medium=RSS&at_campaign=rss",
@@ -2480,26 +2500,6 @@
       "first_sentence": "As 2025 began, I thought humanity's biggest problem was climate change.",
       "timestamp": "2026-01-18T19:01:31Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "\u2018It felt amazing to be on the start line again\u2019: the rugby pro who became paralysed \u2013 and is aiming for the Paralympic Games",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/18/rugby-pro-car-crash-disabled-aiming-paralympic-games",
-      "mean_score": 0.593,
-      "vader_score": 0.5859,
-      "textblob_score": 0.6,
-      "first_sentence": "Aged 20, Taylor Gough had a car accident.",
-      "timestamp": "2026-01-18T16:00:00Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Expand credit unions to boost cheap credit to low-income people, Labour MPs urge Reeves",
-      "link": "https://www.theguardian.com/money/2026/jan/18/expand-credit-unions-to-boost-cheap-credit-to-low-income-people-labour-mps-urge-reeves",
-      "mean_score": 0.624,
-      "vader_score": 0.8481,
-      "textblob_score": 0.4,
-      "first_sentence": "A group of Labour MPs have called on Rachel Reeves to support a huge expansion of credit unions to boost access to cheap credit for millions of people on low incomes.",
-      "timestamp": "2026-01-18T15:42:56Z",
-      "source": "The Guardian"
     }
   ]
 }
