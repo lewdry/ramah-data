@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-26T13:18:35Z",
+  "last run": "2026-01-26T14:08:37Z",
   "stories": [
+    {
+      "headline": "My rookie era: scrapbooking is like creating my own sentimental time capsule",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/27/rookie-era-scrapbooking-sentimental-time-capsule",
+      "mean_score": 0.4467,
+      "vader_score": 0.7184,
+      "textblob_score": 0.175,
+      "first_sentence": "I had always associated scrapbooking with grandmas and bored children, so, imagine my surprise when \u2013 as a twentysomething with a Big Girl Job \u2013 I found myself enamoured of printing, cutting, and sticking random bits and bobs into a book.",
+      "timestamp": "2026-01-26T14:00:06Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Nigella Lawson confirmed as new Great British Bake Off judge",
+      "link": "https://www.theguardian.com/food/2026/jan/26/nigella-lawson-confirmed-as-new-great-british-bake-off-judge",
+      "mean_score": 0.4795,
+      "vader_score": 0.6249,
+      "textblob_score": 0.3341,
+      "first_sentence": "Lawson will join the programme for its next series, the 17th, which will launch later this year.",
+      "timestamp": "2026-01-26T13:15:10Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Nigella Lawson to replace Prue Leith on The Great British Bake Off",
       "link": "https://www.bbc.com/news/articles/cgk80pzxkexo?at_medium=RSS&at_campaign=rss",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.1682,
       "first_sentence": "Wall Street closed marginally lower ahead of the long weekend, but it was a threat from the White House to bring back punitive tariffs against European nations over Greenland that put the ASX on edge.",
       "timestamp": "2026-01-18T20:22:55Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Smith amuses and delights, England all-rounder stars as Sixers lock in finals",
-      "link": "https://www.abc.net.au/news/2026-01-19/steve-smith-sam-curran-fire-sixers-to-bbl-finals/106242754",
-      "mean_score": 0.3454,
-      "vader_score": 0.6908,
-      "textblob_score": 0.0,
-      "first_sentence": "The Sydney Sixers secured a BBL finals berth with a five-wicket win over the Brisbane Heat at the Gabba.",
-      "timestamp": "2026-01-18T19:39:43Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "AI is an ethical, social and economic nightmare \u2014 and we're starting to wake up",
-      "link": "https://www.abc.net.au/news/2026-01-19/ai-grok-ethical-social-and-economic-nightmare/106242320",
-      "mean_score": 0.3095,
-      "vader_score": 0.5106,
-      "textblob_score": 0.1083,
-      "first_sentence": "As 2025 began, I thought humanity's biggest problem was climate change.",
-      "timestamp": "2026-01-18T19:01:31Z",
       "source": "ABC News"
     }
   ]
