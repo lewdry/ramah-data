@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-26T21:05:55Z",
+  "last run": "2026-01-26T22:04:35Z",
   "stories": [
+    {
+      "headline": "Treasury cancels Booz Allen contracts over leaks about wealthy taxpayers",
+      "link": "https://www.npr.org/2026/01/26/nx-s1-5689010/treasury-cancels-booz-allen-contracts-irs-leak",
+      "mean_score": 0.42,
+      "vader_score": 0.34,
+      "textblob_score": 0.5,
+      "first_sentence": "The Treasury Department is canceling millions of dollars worth of contracts with the Booz Allen Hamilton consulting firm, after a contractor from the firm leaked confidential IRS information, showing how wealthy Americans manage to pay little or nothing in taxes.",
+      "timestamp": "2026-01-26T21:08:26Z",
+      "source": "NPR News"
+    },
     {
       "headline": "Live: ASX eyes strong gains as gold continues to soar",
       "link": "https://www.abc.net.au/news/2026-01-27/asx-markets-business-news-live-updates-tuesday-27-january/106272410",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.45,
       "first_sentence": "This unbelievable, Alice Levine-narrated true story sees governments fooled by a fake bomb detector.",
       "timestamp": "2026-01-19T07:00:17Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Alex de Minaur eases into Australian Open second round with routine win over lucky loser",
-      "link": "https://www.theguardian.com/sport/2026/jan/19/alex-de-minaur-australian-open-tennis",
-      "mean_score": 0.413,
-      "vader_score": 0.6705,
-      "textblob_score": 0.1556,
-      "first_sentence": "His serve remains a work-in-progress, but a dominant Alex de Minaur sailed through the first round of the Australian Open with a professional dismantling of American Mackenzie McDonald.",
-      "timestamp": "2026-01-19T05:01:29Z",
       "source": "The Guardian"
     }
   ]
