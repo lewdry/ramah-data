@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Mum thanks strangers who rescued nine-month-old baby from burning car",
+    "link": "https://www.bbc.com/news/articles/cvgjvrggnvno?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4454,
+    "vader_score": 0.6908,
+    "textblob_score": 0.2,
+    "first_sentence": "A mother has thanked two strangers who rescued her nine-month-old baby from her burning car moments before it was engulfed in flames.",
+    "timestamp": "2026-01-18T07:27:59Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Great Britain edges Australia to win SailGP event in Perth",
+    "link": "https://www.abc.net.au/news/2026-01-18/sailgp-perth-great-britain-beats-australia-fremantle/106242568",
+    "mean_score": 0.818,
+    "vader_score": 0.836,
+    "textblob_score": 0.8,
+    "first_sentence": "Reigning Sail Grand Prix champions Great Britain have made the best possible start to season 2026, taking the win in Fremantle with a strong two-day performance culminating with victory in Sunday's final.",
+    "timestamp": "2026-01-18T07:21:20Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Why the Lumie Bodyclock Glow sunrise alarm clock is the best wake-up under the sun",
+    "link": "https://www.theguardian.com/thefilter/2026/jan/18/lumie-bodyclock-glow-150-sunrise-alarm-clock-review",
+    "mean_score": 0.7107,
+    "vader_score": 0.4215,
+    "textblob_score": 1.0,
+    "first_sentence": "The Guardian\u2019s journalism is independent.",
+    "timestamp": "2026-01-18T07:00:50Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "'It's all about fun': Cosplayers unite in celebration of geek culture",
     "link": "https://www.abc.net.au/news/2026-01-18/geektacular-nt-darwin-is-geek-culture-cool-nerd-community/106241848",
     "mean_score": 0.3306,
