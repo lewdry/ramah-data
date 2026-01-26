@@ -1,5 +1,35 @@
 [
   {
+    "headline": "The pitfalls of perfectionism \u2013 and why \u2018good enough\u2019 should be your goal | Gill Straker and Jacqui Winship",
+    "link": "https://www.theguardian.com/commentisfree/2026/jan/19/goals-perfectionism-healthy-striving-good-enough",
+    "mean_score": 0.3341,
+    "vader_score": 0.3182,
+    "textblob_score": 0.35,
+    "first_sentence": "New year\u2019s resolutions are catnip for perfectionism.",
+    "timestamp": "2026-01-18T14:00:59Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Venus Williams sets Australian Open record at age of 45 but falters with win in sight",
+    "link": "https://www.theguardian.com/sport/2026/jan/18/venus-williams-sets-australian-open-record-at-age-of-45-but-falters-with-win-in-sight",
+    "mean_score": 0.5009,
+    "vader_score": 0.7351,
+    "textblob_score": 0.2667,
+    "first_sentence": "Venus Williams set a record just by starting her first-round match at the Australian Open, a testament to her endurance and longevity at the highest level of tennis.",
+    "timestamp": "2026-01-18T13:44:48Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Minister 'confident' issues over Hillsborough Law can be resolved",
+    "link": "https://www.bbc.com/news/articles/c5yvldj47v9o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.5497,
+    "vader_score": 0.5994,
+    "textblob_score": 0.5,
+    "first_sentence": "Culture Secretary Lisa Nandy has said she is confident disagreements with campaigners over a new law designed to stop cover-ups can be resolved before it returns to Parliament on Monday.",
+    "timestamp": "2026-01-18T13:28:25Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Shane Lowry chips into water at 72nd hole to blow lead as Elvira wins in Dubai",
     "link": "https://www.theguardian.com/sport/2026/jan/18/nacho-elvira-shane-lowry-rory-mcilroy-dubai-invitational-golf",
     "mean_score": 0.4359,

@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-26T08:06:03Z",
+  "last run": "2026-01-26T09:10:12Z",
   "stories": [
+    {
+      "headline": "Ryanair profits fall after anti-competition fine",
+      "link": "https://www.bbc.com/news/articles/c620506dvmjo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4943,
+      "vader_score": 0.5719,
+      "textblob_score": 0.4167,
+      "first_sentence": "Ryanair has reported a sharp fall in quarterly profits after it was fined by Italy's competition watchdog for abusing its market position over travel agencies.",
+      "timestamp": "2026-01-26T09:01:03Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Strong v swole: the surprising truth about building muscle",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/26/strong-v-swole-building-muscle-bodybuilding-advice-workouts",
+      "mean_score": 0.6692,
+      "vader_score": 0.7717,
+      "textblob_score": 0.5667,
+      "first_sentence": "Until pretty recently, the conventional wisdom about building muscle was that it worked via a system you might think of as \u201ctear and repair\u201d \u2013 the idea being that working out causes microtears in the muscle fibres, which trigger the body\u2019s repair processes, encouraging the muscles to come back bigger and stronger.",
+      "timestamp": "2026-01-26T09:00:32Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Is it true that \u2026 red light therapy masks prevent wrinkles?",
       "link": "https://www.theguardian.com/lifeandstyle/2026/jan/26/is-it-true-that-red-light-therapy-masks-prevent-wrinkles",
@@ -9,6 +29,16 @@
       "textblob_score": 0.25,
       "first_sentence": "\u2018Red light therapy, where LED lights are shone on your skin, has been around for a while,\u201d says Afshin Mosahebi, a professor in plastic surgery at University College London.",
       "timestamp": "2026-01-26T08:00:33Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018Magical\u2019: how I taught Paul Mescal and Josh O\u2019Connor to sing like folk troubadours in The History of Sound",
+      "link": "https://www.theguardian.com/film/2026/jan/26/sam-amidon-paul-mescal-josh-oconnor-troubadours-history-of-sound",
+      "mean_score": 0.4056,
+      "vader_score": 0.3612,
+      "textblob_score": 0.45,
+      "first_sentence": "I was brought into The History of Sound as the music adviser, my main job being singing coach for the cast, especially Paul Mescal and Josh O\u2019Connor.",
+      "timestamp": "2026-01-26T08:00:32Z",
       "source": "The Guardian"
     },
     {
@@ -2470,36 +2500,6 @@
       "first_sentence": "On French Island in Victoria\u2019s Western Port Bay, koalas are dropping from trees.",
       "timestamp": "2026-01-18T14:00:59Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "The pitfalls of perfectionism \u2013 and why \u2018good enough\u2019 should be your goal | Gill Straker and Jacqui Winship",
-      "link": "https://www.theguardian.com/commentisfree/2026/jan/19/goals-perfectionism-healthy-striving-good-enough",
-      "mean_score": 0.3341,
-      "vader_score": 0.3182,
-      "textblob_score": 0.35,
-      "first_sentence": "New year\u2019s resolutions are catnip for perfectionism.",
-      "timestamp": "2026-01-18T14:00:59Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Venus Williams sets Australian Open record at age of 45 but falters with win in sight",
-      "link": "https://www.theguardian.com/sport/2026/jan/18/venus-williams-sets-australian-open-record-at-age-of-45-but-falters-with-win-in-sight",
-      "mean_score": 0.5009,
-      "vader_score": 0.7351,
-      "textblob_score": 0.2667,
-      "first_sentence": "Venus Williams set a record just by starting her first-round match at the Australian Open, a testament to her endurance and longevity at the highest level of tennis.",
-      "timestamp": "2026-01-18T13:44:48Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Minister 'confident' issues over Hillsborough Law can be resolved",
-      "link": "https://www.bbc.com/news/articles/c5yvldj47v9o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5497,
-      "vader_score": 0.5994,
-      "textblob_score": 0.5,
-      "first_sentence": "Culture Secretary Lisa Nandy has said she is confident disagreements with campaigners over a new law designed to stop cover-ups can be resolved before it returns to Parliament on Monday.",
-      "timestamp": "2026-01-18T13:28:25Z",
-      "source": "BBC News"
     }
   ]
 }
