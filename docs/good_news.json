@@ -1,6 +1,36 @@
 {
-  "last run": "2026-01-26T07:09:31Z",
+  "last run": "2026-01-26T08:06:03Z",
   "stories": [
+    {
+      "headline": "Is it true that \u2026 red light therapy masks prevent wrinkles?",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/26/is-it-true-that-red-light-therapy-masks-prevent-wrinkles",
+      "mean_score": 0.3452,
+      "vader_score": 0.4404,
+      "textblob_score": 0.25,
+      "first_sentence": "\u2018Red light therapy, where LED lights are shone on your skin, has been around for a while,\u201d says Afshin Mosahebi, a professor in plastic surgery at University College London.",
+      "timestamp": "2026-01-26T08:00:33Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "The Traitors moves from TV to theatre with 'bold' West End show",
+      "link": "https://www.bbc.com/news/articles/c0r4jwkl2vqo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3576,
+      "vader_score": 0.3818,
+      "textblob_score": 0.3333,
+      "first_sentence": "The makers of The Traitors are creating a stage version, in the hope that the TV show's dramatic twists and huge popularity will translate into a theatre hit.",
+      "timestamp": "2026-01-26T08:00:07Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Sleaford Mods go metal detecting: best podcasts of the week",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/jan/26/best-podcasts-of-the-week-do-i-detect-a-problem-sleaford-mods-ant-dec",
+      "mean_score": 0.8185,
+      "vader_score": 0.6369,
+      "textblob_score": 1.0,
+      "first_sentence": "A delightfully leftfield new interview show takes Jason Williamson to dig up rusty old nails.",
+      "timestamp": "2026-01-26T07:00:30Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Super Bowl 60 is set and it's a rematch from 11 years ago: Patriots vs. Seahawks",
       "link": "https://www.npr.org/2026/01/26/g-s1-107320/super-bowl-60-patriots-seahawks",
@@ -2470,36 +2500,6 @@
       "first_sentence": "Culture Secretary Lisa Nandy has said she is confident disagreements with campaigners over a new law designed to stop cover-ups can be resolved before it returns to Parliament on Monday.",
       "timestamp": "2026-01-18T13:28:25Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Shane Lowry chips into water at 72nd hole to blow lead as Elvira wins in Dubai",
-      "link": "https://www.theguardian.com/sport/2026/jan/18/nacho-elvira-shane-lowry-rory-mcilroy-dubai-invitational-golf",
-      "mean_score": 0.4359,
-      "vader_score": 0.5719,
-      "textblob_score": 0.3,
-      "first_sentence": "Shane Lowry blew a one-shot lead on the last hole as Nacho Elvira recovered to claim victory in a dramatic finish to the Dubai Invitational.",
-      "timestamp": "2026-01-18T13:06:22Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018I looked exceptional but I was out of breath\u2019: the bodybuilder who switched to mindful movement",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/18/bodybuilder-obsessed-lifting-weights-switched-mindful-movement",
-      "mean_score": 0.3333,
-      "vader_score": 0.0,
-      "textblob_score": 0.6667,
-      "first_sentence": "That quest became an obsession: \u201cHow can I push myself to these extreme points, and then do it again and again and become better than last time?\u201d He followed unsafe protocols shared by bodybuilding gurus to make his muscles pop, dangerously dehydrating his body ahead of competitions.",
-      "timestamp": "2026-01-18T12:00:54Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Sabalenka is a worthy lead in the theatre of tennis",
-      "link": "https://www.abc.net.au/news/2026-01-18/australian-open-aryna-sabalenka-first-round-melbourne-park/106242750",
-      "mean_score": 0.3869,
-      "vader_score": 0.4404,
-      "textblob_score": 0.3333,
-      "first_sentence": "Each time Aryna Sabalenka steps on court, the world number one creates the impression she is riding an emotional roller coaster.",
-      "timestamp": "2026-01-18T11:49:20Z",
-      "source": "ABC News"
     }
   ]
 }
