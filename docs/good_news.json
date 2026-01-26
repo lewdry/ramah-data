@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-26T04:26:48Z",
+  "last run": "2026-01-26T05:13:16Z",
   "stories": [
+    {
+      "headline": "Spider monkeys found to share \u2018insider knowledge\u2019 to help locate best food",
+      "link": "https://www.theguardian.com/science/2026/jan/25/spider-monkeys-found-to-share-insider-knowledge-to-help-locate-best-food",
+      "mean_score": 0.9221,
+      "vader_score": 0.8442,
+      "textblob_score": 1.0,
+      "first_sentence": "Spider monkeys share tips about where to find food by changing their social groups in a \u201cclever system for sharing insider knowledge\u201d, research has shown.",
+      "timestamp": "2026-01-26T05:00:29Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Super Bowl LX match-up confirmed with Seattle to play New England",
       "link": "https://www.abc.net.au/news/2026-01-26/super-bowl-lx-match-up-seattle-new-england/106270308",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.6,
       "first_sentence": "The former heptathlete throws shapes to Cameo and got gold-medal inspiration from Whitney, but which rapper helps get her out of bed?.",
       "timestamp": "2026-01-18T09:00:50Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The Joy of Six: stories of love in sport",
-      "link": "https://www.theguardian.com/sport/2026/jan/18/the-joy-of-six-stories-of-love-in-sport",
-      "mean_score": 0.7451,
-      "vader_score": 0.8402,
-      "textblob_score": 0.65,
-      "first_sentence": "The older I get, the more profoundly I appreciate that, when I\u2019m writing about sport, I\u2019m also writing about love.",
-      "timestamp": "2026-01-18T08:00:50Z",
       "source": "The Guardian"
     }
   ]
