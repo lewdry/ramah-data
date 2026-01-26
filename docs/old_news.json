@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Live: Australia's perfect start brought to shuddering halt on day two",
+    "link": "https://www.abc.net.au/news/2026-01-19/australian-open-2026-live-alex-de-minaur-novak-djokovic/106243798",
+    "mean_score": 0.57,
+    "vader_score": 0.5719,
+    "textblob_score": 0.5682,
+    "first_sentence": "Australian wildcard Priscilla Hon gets her first main draw singles win at Melbourne Park since 2020 as Marina Stakusic succumbs to cramps, while men's sixth seed Alex de Minaur starts his grand slam campaign with a straightforward victory on Rod Laver Arena.",
+    "timestamp": "2026-01-18T23:12:53Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Lambert breaks through for maiden World Cup win on eve of Olympics",
+    "link": "https://www.abc.net.au/news/2026-01-19/adam-lambert-snowboard-cross-world-cup-win-china/106243394",
+    "mean_score": 0.6929,
+    "vader_score": 0.5859,
+    "textblob_score": 0.8,
+    "first_sentence": "Adam Lambert has won his first snowboard cross World Cup event.",
+    "timestamp": "2026-01-18T20:33:31Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Fun and easy recipes kids can help with in the kitchen",
+    "link": "https://www.abc.net.au/news/2026-01-19/fun-and-easy-recipes-kids-can-help-with/106116250",
+    "mean_score": 0.6013,
+    "vader_score": 0.836,
+    "textblob_score": 0.3667,
+    "first_sentence": "Getting kids involved with cooking is not just a great way for them to learn about food, it may also make mealtimes less of a battle if they're eating something they've helped prepare (winning).",
+    "timestamp": "2026-01-18T20:25:52Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Live: China's economic growth on target, declining birth rate hits A2 Milk shares",
+    "link": "https://www.abc.net.au/news/2026-01-19/asx-markets-business-news-live-updates/106242752",
+    "mean_score": 0.377,
+    "vader_score": 0.5859,
+    "textblob_score": 0.1682,
+    "first_sentence": "Wall Street closed marginally lower ahead of the long weekend, but it was a threat from the White House to bring back punitive tariffs against European nations over Greenland that put the ASX on edge.",
+    "timestamp": "2026-01-18T20:22:55Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Smith amuses and delights, England all-rounder stars as Sixers lock in finals",
     "link": "https://www.abc.net.au/news/2026-01-19/steve-smith-sam-curran-fire-sixers-to-bbl-finals/106242754",
     "mean_score": 0.3454,
