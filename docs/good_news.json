@@ -1,6 +1,36 @@
 {
-  "last run": "2026-01-26T22:04:35Z",
+  "last run": "2026-01-26T23:04:27Z",
   "stories": [
+    {
+      "headline": "Wife of captain of oil tanker captured by US forces starts legal action to free him",
+      "link": "https://www.theguardian.com/world/2026/jan/26/wife-of-captain-of-oil-tanker-captured-by-us-forces-starts-legal-action-to-free-him",
+      "mean_score": 0.4096,
+      "vader_score": 0.5859,
+      "textblob_score": 0.2333,
+      "first_sentence": "Lawyers acting for the wife of the captain of a Venezuela-linked oil tanker captured by US forces in UK waters are calling for a judicial review of his situation, claiming he is being detained unlawfully.",
+      "timestamp": "2026-01-26T22:32:15Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Divers come within metres of great white as local sightings grow",
+      "link": "https://www.abc.net.au/news/2026-01-27/divers-close-encounter-with-great-white-shark/106269326",
+      "mean_score": 0.4458,
+      "vader_score": 0.6249,
+      "textblob_score": 0.2667,
+      "first_sentence": "Two divers have come within metres of a white shark off SA's Limestone Coast.",
+      "timestamp": "2026-01-26T22:02:57Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Doctors face-palm as RFK Jr.\u2019s top vaccine advisor questions need for polio shot",
+      "link": "https://arstechnica.com/science/2026/01/do-we-really-need-polio-shots-deep-thoughts-by-rfk-jr-advisor-get-dragged/",
+      "mean_score": 0.3512,
+      "vader_score": 0.2023,
+      "textblob_score": 0.5,
+      "first_sentence": "Kirk Milhoan\u2019s comments come as federal vaccine policy slides to insignificance.",
+      "timestamp": "2026-01-26T21:31:13Z",
+      "source": "Ars Technica"
+    },
     {
       "headline": "Treasury cancels Booz Allen contracts over leaks about wealthy taxpayers",
       "link": "https://www.npr.org/2026/01/26/nx-s1-5689010/treasury-cancels-booz-allen-contracts-irs-leak",
@@ -2470,36 +2500,6 @@
       "first_sentence": "It is rare a player ranked 49th in the world would attract a crowd that virtually brought a grand slam tournament to a standstill.",
       "timestamp": "2026-01-19T10:00:48Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Japan\u2019s prime minister calls snap election as approval ratings ride high",
-      "link": "https://www.theguardian.com/world/2026/jan/19/japan-snap-election-sanae-takaichi-ldp",
-      "mean_score": 0.3184,
-      "vader_score": 0.4767,
-      "textblob_score": 0.16,
-      "first_sentence": "Japan\u2019s prime minister, Sanae Takaichi, has called a snap election as she attempts to capitalise on high approval ratings since becoming the country\u2019s first female prime minister three months ago.",
-      "timestamp": "2026-01-19T09:39:27Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Wide sandy beaches and amazing seafood in western France",
-      "link": "https://www.theguardian.com/travel/2026/jan/19/france-charente-maritime-royan-mussels-seafood",
-      "mean_score": 0.3763,
-      "vader_score": 0.5859,
-      "textblob_score": 0.1667,
-      "first_sentence": "Dinner comes with a\u00a0spectacle in La Tremblade.",
-      "timestamp": "2026-01-19T07:00:18Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "A novelty golf-ball finder that conned the military: best podcasts of the week",
-      "link": "https://www.theguardian.com/tv-and-radio/2026/jan/19/a-novelty-golf-ball-finder-that-conned-the-military-best-podcasts-of-the-week",
-      "mean_score": 0.5434,
-      "vader_score": 0.6369,
-      "textblob_score": 0.45,
-      "first_sentence": "This unbelievable, Alice Levine-narrated true story sees governments fooled by a fake bomb detector.",
-      "timestamp": "2026-01-19T07:00:17Z",
-      "source": "The Guardian"
     }
   ]
 }
