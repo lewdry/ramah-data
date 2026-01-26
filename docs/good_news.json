@@ -1,5 +1,5 @@
 {
-  "last run": "2026-01-26T05:13:16Z",
+  "last run": "2026-01-26T06:07:36Z",
   "stories": [
     {
       "headline": "Spider monkeys found to share \u2018insider knowledge\u2019 to help locate best food",
@@ -50,6 +50,16 @@
       "first_sentence": "The price of gold has risen above $5,000 (\u00a33,659) an ounce for the first time, extending a historic rally that saw the precious metal jump by more than 60% in 2025.",
       "timestamp": "2026-01-25T23:49:44Z",
       "source": "BBC News"
+    },
+    {
+      "headline": "Live: Aussie doubles pair win thriller as double tweener lights up the Open",
+      "link": "https://www.abc.net.au/news/2026-01-26/australian-open-2026-live-jannik-sinner-maddison-inglis-swiatek/106268840",
+      "mean_score": 0.4355,
+      "vader_score": 0.6369,
+      "textblob_score": 0.2341,
+      "first_sentence": "Defending Australian Open champion Madison Keys is beaten by friend and Player's Box podcast co-host Jessica Pegula on Rod Laver Arena to start day nine of the Australian Open.",
+      "timestamp": "2026-01-25T23:49:09Z",
+      "source": "ABC News"
     },
     {
       "headline": "1960s films restored in hope of enticing new migrants to regional Australia",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.1073,
       "first_sentence": "Alcaraz and Walton are ready.",
       "timestamp": "2026-01-18T09:52:35Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018Even thinking about Coldplay I get tearful\u2019: Denise Lewis\u2019s honest playlist",
-      "link": "https://www.theguardian.com/music/2026/jan/18/denise-lewis-honest-playlist-queen-whitney-houston-coldplay",
-      "mean_score": 0.5553,
-      "vader_score": 0.5106,
-      "textblob_score": 0.6,
-      "first_sentence": "The former heptathlete throws shapes to Cameo and got gold-medal inspiration from Whitney, but which rapper helps get her out of bed?.",
-      "timestamp": "2026-01-18T09:00:50Z",
       "source": "The Guardian"
     }
   ]
