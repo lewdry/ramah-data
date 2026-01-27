@@ -1,5 +1,35 @@
 [
   {
+    "headline": "\u2018Remarkable\u2019 UPS driver ran into burning home to save woman, 101",
+    "link": "https://www.theguardian.com/us-news/2026/jan/19/ups-driver-saves-woman-house-fire-la",
+    "mean_score": 0.622,
+    "vader_score": 0.4939,
+    "textblob_score": 0.75,
+    "first_sentence": "A United Parcel Service driver at work recently charged into a burning home outside Los Angeles and carried a centenarian woman out to safety in what officials called a \u201cremarkable\u201d example of \u201cpeople looking out for one another in a moment of need\u201d.",
+    "timestamp": "2026-01-19T11:00:21Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Ecstasy and now a day off - Senegal fans around the world celebrate Afcon win",
+    "link": "https://www.bbc.com/news/articles/ce3ekz4yx21o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.854,
+    "vader_score": 0.9081,
+    "textblob_score": 0.8,
+    "first_sentence": "Senegal's President Bassirou Diomaye Faye has declared Monday a public holiday after the national team won the Africa Cup of Nations after beating tournament hosts Morocco 1-0 in a dramatic final on Sunday.",
+    "timestamp": "2026-01-19T10:40:46Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "'I felt so loved': Philippines star sends Aus Open crowds into a frenzy",
+    "link": "https://www.abc.net.au/news/2026-01-19/australian-open-alexandra-eala-philippines-melbourne-park/106246520",
+    "mean_score": 0.4603,
+    "vader_score": 0.5706,
+    "textblob_score": 0.35,
+    "first_sentence": "It is rare a player ranked 49th in the world would attract a crowd that virtually brought a grand slam tournament to a standstill.",
+    "timestamp": "2026-01-19T10:00:48Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Japan\u2019s prime minister calls snap election as approval ratings ride high",
     "link": "https://www.theguardian.com/world/2026/jan/19/japan-snap-election-sanae-takaichi-ldp",
     "mean_score": 0.3184,

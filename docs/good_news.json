@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-26T23:04:27Z",
+  "last run": "2026-01-27T00:17:00Z",
   "stories": [
+    {
+      "headline": "Rescue dog valuable in koala monitoring research program",
+      "link": "https://www.abc.net.au/news/2026-01-27/rescue-dog-used-in-central-queensland-koala-monitoring-program/106187550",
+      "mean_score": 0.3753,
+      "vader_score": 0.7506,
+      "textblob_score": 0.0,
+      "first_sentence": "A new koala monitoring research program has been carried out in central Queensland for the first time.",
+      "timestamp": "2026-01-27T00:03:10Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Is there any good news for Sussan Ley? | Fiona Katauskas",
+      "link": "https://www.theguardian.com/commentisfree/picture/2026/jan/27/is-there-any-good-news-for-sussan-ley",
+      "mean_score": 0.5702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.7,
+      "first_sentence": "Seems like 2026 is already testing her resolveSee more of Fiona Katauskas\u2019s cartoons here Continue reading.",
+      "timestamp": "2026-01-26T23:23:31Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Wife of captain of oil tanker captured by US forces starts legal action to free him",
       "link": "https://www.theguardian.com/world/2026/jan/26/wife-of-captain-of-oil-tanker-captured-by-us-forces-starts-legal-action-to-free-him",
@@ -138,6 +158,16 @@
       "vader_score": 0.7184,
       "textblob_score": 0.175,
       "first_sentence": "I had always associated scrapbooking with grandmas and bored children, so, imagine my surprise when \u2013 as a twentysomething with a Big Girl Job \u2013 I found myself enamoured of printing, cutting, and sticking random bits and bobs into a book.",
+      "timestamp": "2026-01-26T14:00:06Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Grandma Poss wants YOU: to vote for the best Australian children's picture book \u2013\u00a0video",
+      "link": "https://www.theguardian.com/culture/video/2026/jan/27/voting-open-australian-childrens-book-poll-2026-video",
+      "mean_score": 0.5184,
+      "vader_score": 0.6369,
+      "textblob_score": 0.4,
+      "first_sentence": "Guardian Australia's favourite Australian picture book poll has officially begun and a very convincing Grandma Poss is here to explain how the voting will take place.",
       "timestamp": "2026-01-26T14:00:06Z",
       "source": "The Guardian"
     },
@@ -2470,36 +2500,6 @@
       "first_sentence": "Sir Ian McKellen is on stage blowing up a red balloon.",
       "timestamp": "2026-01-19T11:14:47Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018Remarkable\u2019 UPS driver ran into burning home to save woman, 101",
-      "link": "https://www.theguardian.com/us-news/2026/jan/19/ups-driver-saves-woman-house-fire-la",
-      "mean_score": 0.622,
-      "vader_score": 0.4939,
-      "textblob_score": 0.75,
-      "first_sentence": "A United Parcel Service driver at work recently charged into a burning home outside Los Angeles and carried a centenarian woman out to safety in what officials called a \u201cremarkable\u201d example of \u201cpeople looking out for one another in a moment of need\u201d.",
-      "timestamp": "2026-01-19T11:00:21Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Ecstasy and now a day off - Senegal fans around the world celebrate Afcon win",
-      "link": "https://www.bbc.com/news/articles/ce3ekz4yx21o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.854,
-      "vader_score": 0.9081,
-      "textblob_score": 0.8,
-      "first_sentence": "Senegal's President Bassirou Diomaye Faye has declared Monday a public holiday after the national team won the Africa Cup of Nations after beating tournament hosts Morocco 1-0 in a dramatic final on Sunday.",
-      "timestamp": "2026-01-19T10:40:46Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "'I felt so loved': Philippines star sends Aus Open crowds into a frenzy",
-      "link": "https://www.abc.net.au/news/2026-01-19/australian-open-alexandra-eala-philippines-melbourne-park/106246520",
-      "mean_score": 0.4603,
-      "vader_score": 0.5706,
-      "textblob_score": 0.35,
-      "first_sentence": "It is rare a player ranked 49th in the world would attract a crowd that virtually brought a grand slam tournament to a standstill.",
-      "timestamp": "2026-01-19T10:00:48Z",
-      "source": "ABC News"
     }
   ]
 }
