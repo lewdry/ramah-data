@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-27T20:04:56Z",
+  "last run": "2026-01-27T21:04:25Z",
   "stories": [
+    {
+      "headline": "Australia news live: Albanese to visit Timor-Leste; heatwave to scorch western NSW as Victoria welcomes cool change",
+      "link": "https://www.theguardian.com/australia-news/live/2026/jan/28/australia-news-live-anthony-albanese-timor-leste-heatwave-nsw-bushfires-victoria-weather-liberals-leadership-sussan-ley-andrew-hastie-angus-taylor-ntwnfb",
+      "mean_score": 0.3873,
+      "vader_score": 0.6124,
+      "textblob_score": 0.1621,
+      "first_sentence": "An embattled hospital with a chequered track record will host a specialised surgery centre to reduce wait times.",
+      "timestamp": "2026-01-27T20:50:30Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Bari Weiss tries to win CBS staffers\u2019 trust amid \u2018noise\u2019 over 60 Minutes segment",
+      "link": "https://www.theguardian.com/media/2026/jan/27/bari-weiss-cbs",
+      "mean_score": 0.5732,
+      "vader_score": 0.7964,
+      "textblob_score": 0.35,
+      "first_sentence": "During her first address to CBS News employees as editor in chief, Bari Weiss acknowledged that there had been \u201ca lot of noise\u201d about her tumultuous tenure and said that some staffers might decide they don\u2019t support her or want to continue working at the company.",
+      "timestamp": "2026-01-27T20:17:08Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "How Queensland parents can get a free $100 for every school kid",
       "link": "https://www.abc.net.au/news/2026-01-28/queensland-how-to-access-back-to-school-boost/106274840",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.8,
       "first_sentence": "The announcement on 17 January that Washington will impose punitive tariffs of 10% to 25% on eight European allies \u2013 unless they facilitate the \u201ccomplete and total purchase\u201d of Greenland \u2013 is likely to be the death knell of the post-1945 transatlantic order.",
       "timestamp": "2026-01-20T20:00:40Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Bod\u00f8/Glimt v Manchester City: Champions League \u2013 live",
-      "link": "https://www.theguardian.com/football/live/2026/jan/20/bodo-glimt-v-manchester-city-champions-league-live",
-      "mean_score": 0.3315,
-      "vader_score": 0.5267,
-      "textblob_score": 0.1364,
-      "first_sentence": "77 min: Bodo/Glimt triple-substitution: Andreas Helmersen, Sondre Auklend and Ulrik Saltnes are on for Blomberg, Hogh and Evjen, who have all been brilliant.",
-      "timestamp": "2026-01-20T19:18:44Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Tottenham v Borussia Dortmund: Champions League \u2013 live",
-      "link": "https://www.theguardian.com/football/live/2026/jan/20/tottenham-v-borussia-dortmund-champions-league-live",
-      "mean_score": 0.3315,
-      "vader_score": 0.5267,
-      "textblob_score": 0.1364,
-      "first_sentence": "Thomas Frank makes five changes, four of them enforced, to the team that lost against West Ham.",
-      "timestamp": "2026-01-20T19:05:31Z",
       "source": "The Guardian"
     }
   ]
