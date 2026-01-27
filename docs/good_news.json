@@ -1,6 +1,46 @@
 {
-  "last run": "2026-01-27T11:06:11Z",
+  "last run": "2026-01-27T12:07:40Z",
   "stories": [
+    {
+      "headline": "GLP-1 drugs don't work for everyone. But personalized obesity care in the future might",
+      "link": "https://www.npr.org/2026/01/27/nx-s1-5689019/glp-1-ozempic-wegovy-zepbound-mounjaro-obesity-precision-medicine",
+      "mean_score": 0.3243,
+      "vader_score": 0.6486,
+      "textblob_score": 0.0,
+      "first_sentence": "In fact, science now shows obesity is far more complex \u2014 with numerous genetic, biological, neurological, lifestyle, metabolic and behavioral factors contributing to it.",
+      "timestamp": "2026-01-27T12:00:00Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "Gauff calls for greater player privacy at Aus Open after racquet smash",
+      "link": "https://www.abc.net.au/news/2026-01-27/tennis-coco-gauff-racquet-smash-privacy-australian-open/106276462",
+      "mean_score": 0.3056,
+      "vader_score": 0.3612,
+      "textblob_score": 0.25,
+      "first_sentence": "Coco Gauff has called for greater privacy for players at the Australian Open after vision of her smashing a racquet was shown on TV.",
+      "timestamp": "2026-01-27T11:38:12Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "David Squires on \u2026 Manchester United giving Arsenal the title wobbles",
+      "link": "https://www.theguardian.com/football/picture/2026/jan/27/david-squires-on-manchester-united-giving-arsenal-the-title-wobbles",
+      "mean_score": 0.3185,
+      "vader_score": 0.6369,
+      "textblob_score": 0.0,
+      "first_sentence": "Our cartoonist on anxiety at the Emirates as Michael Carrick oversees another thrilling winBuy a cartoon | David\u2019s favourite work of 2025And his latest book, Chaos in the Box: get it now Continue reading.",
+      "timestamp": "2026-01-27T11:10:12Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Nudist neighbours to sweary mums: the best TV characters you never actually see on screen",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/jan/27/best-tv-characters-youve-never-actually-seen",
+      "mean_score": 0.5685,
+      "vader_score": 0.6369,
+      "textblob_score": 0.5,
+      "first_sentence": "When you think of television characters, chances are you remember the ones you can actually see.",
+      "timestamp": "2026-01-27T11:06:03Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Airlines have been making their safety videos more entertaining, but do they work?",
       "link": "https://www.npr.org/2026/01/27/nx-s1-5683149/airlines-have-been-making-their-safety-videos-more-entertaining-but-do-they-work",
@@ -2460,46 +2500,6 @@
       "first_sentence": "An iconic Blue Mountains viewpoint will be temporarily shut after a viral social media post results in \"alarming\" tourist numbers.",
       "timestamp": "2026-01-20T05:53:27Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Climate change triggers 'remarkable response' from Antarctic penguins",
-      "link": "https://www.abc.net.au/news/2026-01-20/antarctic-penguin-breeding-cycles-changing-climate-change/106247472",
-      "mean_score": 0.6537,
-      "vader_score": 0.5574,
-      "textblob_score": 0.75,
-      "first_sentence": "A long-term study has found the breeding cycle of a penguin species in Antarctica is changing at the fastest rate recorded in birds, likely in response to climate change.",
-      "timestamp": "2026-01-20T05:01:17Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "The pub that changed me: \u2018It had some nefarious characters \u2013 but with lovely shoes\u2019",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/20/the-pub-that-changed-me-it-had-some-nefarious-characters-but-with-lovely-shoes",
-      "mean_score": 0.6176,
-      "vader_score": 0.7351,
-      "textblob_score": 0.5,
-      "first_sentence": "In a packed pub, revellers chat, sip lager and look at their phones.",
-      "timestamp": "2026-01-20T05:00:16Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018I thought it was going to perish\u2019: the remarkable revival of an endangered language in Lesotho",
-      "link": "https://www.theguardian.com/world/2026/jan/20/i-thought-it-was-going-to-perish-the-remarkable-revival-of-an-endangered-language-in-lesotho",
-      "mean_score": 0.6537,
-      "vader_score": 0.5574,
-      "textblob_score": 0.75,
-      "first_sentence": "Tsotleho Mohale was addressing a group of people gathered on a mountainside still damp from an intense rainstorm that morning.",
-      "timestamp": "2026-01-20T05:00:13Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Australians must demand that their cultural custodians uphold freedom of speech | Margaret Simons",
-      "link": "https://www.theguardian.com/commentisfree/2026/jan/20/australians-must-demand-that-their-cultural-custodians-uphold-freedom-of-speech",
-      "mean_score": 0.3359,
-      "vader_score": 0.5719,
-      "textblob_score": 0.1,
-      "first_sentence": "Is there a way forward for Australia\u2019s cultural life after the cancellation of the 2026 Adelaide writers\u2019 week and all the other controversies played out over the past year, in which the custodians of our culture seem to have crumbled under pressure, only to kinda, sorta and belatedly rally?.",
-      "timestamp": "2026-01-20T02:06:36Z",
-      "source": "The Guardian"
     }
   ]
 }
