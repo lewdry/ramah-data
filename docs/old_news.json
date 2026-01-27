@@ -1,5 +1,25 @@
 [
   {
+    "headline": "How powerlifting made me feel good at sport",
+    "link": "https://www.abc.net.au/news/2026-01-20/how-powerlifting-gave-me-back-the-power-to-feel-good-at-sport/106234088",
+    "mean_score": 0.5702,
+    "vader_score": 0.4404,
+    "textblob_score": 0.7,
+    "first_sentence": "Movement was fun and instinctive.",
+    "timestamp": "2026-01-19T18:30:00Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Arizona a unanimous No. 1 for first time, Saint Louis and Miami of Ohio join AP Top 25",
+    "link": "https://apnews.com/article/ap-top-25-arizona-miami-ohio-215ad8f1cfb9bbe7a66bad2dada9af06",
+    "mean_score": 0.4169,
+    "vader_score": 0.4588,
+    "textblob_score": 0.375,
+    "first_sentence": "Arizona is the unanimous No.",
+    "timestamp": "2026-01-19T18:23:02Z",
+    "source": "AP News"
+  },
+  {
     "headline": "Positive thinking could boost immune response to vaccines, say scientists",
     "link": "https://www.theguardian.com/society/2026/jan/19/positive-thinking-could-boost-immune-response-to-vaccines-study-finds",
     "mean_score": 0.5224,
