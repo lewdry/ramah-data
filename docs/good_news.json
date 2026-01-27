@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-27T15:09:21Z",
+  "last run": "2026-01-27T16:06:42Z",
   "stories": [
+    {
+      "headline": "Football Daily | Harry Kane and the trolls that take aim at his staggering success",
+      "link": "https://www.theguardian.com/football/2026/jan/27/harry-kane-trolls-bayern-munich-football-daily-newsletter",
+      "mean_score": 0.3609,
+      "vader_score": 0.5719,
+      "textblob_score": 0.15,
+      "first_sentence": "The most prolific striker on the planet for one of the biggest and most successful clubs in the world, a captain of his country who could possibly lift the World Cup this summer (ending what is now 60 years of hurt), a husband with four kids who is almost universally respected by fans, opponents and his peers, and a brand ambassador for global brands thanks to deals brokered by towering Mr 15% Charlie Kane, Harry Kane has a lot going for him.",
+      "timestamp": "2026-01-27T15:00:30Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Pubs and live music venues to get support after business rates backlash, Treasury confirms",
       "link": "https://www.theguardian.com/business/2026/jan/27/pubs-support-package-business-rates-rachel-reeves-england-wales",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Amateur conservationist and social media influencer Theerasak 'Pop' Saksritawee has a rare bond with Thailand\u2019s critically endangered dugongs.",
       "timestamp": "2026-01-20T10:58:17Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Vine lays down marker as Watson wins blistering TDU prologue",
-      "link": "https://www.abc.net.au/news/2026-01-20/sam-watson-tour-down-under-prologue/106250080",
-      "mean_score": 0.3221,
-      "vader_score": 0.5719,
-      "textblob_score": 0.0722,
-      "first_sentence": "Briton Sam Watson (Ineos Grenadiers) claimed victory in 4 minutes, 16.9 seconds.",
-      "timestamp": "2026-01-20T10:52:53Z",
-      "source": "ABC News"
     }
   ]
 }
