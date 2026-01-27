@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Rukmini Iyer\u2019s quick and easy recipe for harissa-spiked orzo with chickpeas and pine nuts | Quick and easy",
+    "link": "https://www.theguardian.com/food/2026/jan/19/quick-and-easy-harissa-spiked-orzo-recipe-chickpeas-pine-nuts-rukmini-iyer",
+    "mean_score": 0.4628,
+    "vader_score": 0.5423,
+    "textblob_score": 0.3833,
+    "first_sentence": "This is my favourite store-cupboard dinner when faced with the pre-shop complaints that \u201cthere\u2019s nothing in the fridge\u201d.",
+    "timestamp": "2026-01-19T13:00:25Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Are we getting more savvy about our credit scores?",
+    "link": "https://www.bbc.com/news/videos/cvgdmke0pzko?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4409,
+    "vader_score": 0.3818,
+    "textblob_score": 0.5,
+    "first_sentence": "With lenders using credit scores to decide everything from phone contracts to car finance, experts say understanding how it works could make a meaningful difference.",
+    "timestamp": "2026-01-19T12:52:11Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "NHS trust used charity funds for leaving party",
     "link": "https://www.bbc.com/news/articles/ce8eg6nexkdo?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.4158,
