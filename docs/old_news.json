@@ -1,5 +1,25 @@
 [
   {
+    "headline": "State's EPA recommends Valhalla gas project for approval",
+    "link": "https://www.abc.net.au/news/2026-01-20/epa-recommends-kimberley-valhalla-exploration-program/106249136",
+    "mean_score": 0.3062,
+    "vader_score": 0.6124,
+    "textblob_score": 0.0,
+    "first_sentence": "WA's Environmental Protection Authority has recommended a fracking proposal in the state's north go ahead.",
+    "timestamp": "2026-01-20T07:20:31Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Lookout made famous by K-pop star set to close after safety concerns",
+    "link": "https://www.abc.net.au/news/2026-01-20/popular-lookout-lincolns-rock-in-blue-mountains-closed/106245326",
+    "mean_score": 0.4607,
+    "vader_score": 0.4215,
+    "textblob_score": 0.5,
+    "first_sentence": "An iconic Blue Mountains viewpoint will be temporarily shut after a viral social media post results in \"alarming\" tourist numbers.",
+    "timestamp": "2026-01-20T05:53:27Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Climate change triggers 'remarkable response' from Antarctic penguins",
     "link": "https://www.abc.net.au/news/2026-01-20/antarctic-penguin-breeding-cycles-changing-climate-change/106247472",
     "mean_score": 0.6537,

@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-27T12:07:40Z",
+  "last run": "2026-01-27T13:19:09Z",
   "stories": [
+    {
+      "headline": "Watch: Huge landslide in Sicily after Storm Harry",
+      "link": "https://www.bbc.com/news/videos/cql4p6w2gl5o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3591,
+      "vader_score": 0.3182,
+      "textblob_score": 0.4,
+      "first_sentence": "A 2.5 mile (4km) section of cliff has collapsed on the Italian island of Sicily, after it was pummelled by wind and rain brought by Storm Harry last week.",
+      "timestamp": "2026-01-27T12:42:09Z",
+      "source": "BBC News"
+    },
     {
       "headline": "GLP-1 drugs don't work for everyone. But personalized obesity care in the future might",
       "link": "https://www.npr.org/2026/01/27/nx-s1-5689019/glp-1-ozempic-wegovy-zepbound-mounjaro-obesity-precision-medicine",
@@ -169,6 +179,16 @@
       "textblob_score": 0.0,
       "first_sentence": "A new koala monitoring research program has been carried out in central Queensland for the first time.",
       "timestamp": "2026-01-27T00:03:10Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Another quarterfinal exit for de Minaur as Alcaraz wins in straight sets",
+      "link": "https://www.abc.net.au/news/2026-01-27/australian-open-2026-live-alex-de-minaur-alcaraz-sabalenka-gauff/106272422",
+      "mean_score": 0.4654,
+      "vader_score": 0.6808,
+      "textblob_score": 0.25,
+      "first_sentence": "Alex de Minaur has been knocked out of the quarterfinals by a dominant Carlos Alcaraz in straight sets.",
+      "timestamp": "2026-01-26T23:33:32Z",
       "source": "ABC News"
     },
     {
@@ -2480,26 +2500,6 @@
       "first_sentence": "Four people have been attacked by sharks in New South Wales in 48 hours, including three incidents at Sydney beaches.",
       "timestamp": "2026-01-20T08:23:01Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "State's EPA recommends Valhalla gas project for approval",
-      "link": "https://www.abc.net.au/news/2026-01-20/epa-recommends-kimberley-valhalla-exploration-program/106249136",
-      "mean_score": 0.3062,
-      "vader_score": 0.6124,
-      "textblob_score": 0.0,
-      "first_sentence": "WA's Environmental Protection Authority has recommended a fracking proposal in the state's north go ahead.",
-      "timestamp": "2026-01-20T07:20:31Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Lookout made famous by K-pop star set to close after safety concerns",
-      "link": "https://www.abc.net.au/news/2026-01-20/popular-lookout-lincolns-rock-in-blue-mountains-closed/106245326",
-      "mean_score": 0.4607,
-      "vader_score": 0.4215,
-      "textblob_score": 0.5,
-      "first_sentence": "An iconic Blue Mountains viewpoint will be temporarily shut after a viral social media post results in \"alarming\" tourist numbers.",
-      "timestamp": "2026-01-20T05:53:27Z",
-      "source": "ABC News"
     }
   ]
 }
