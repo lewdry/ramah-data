@@ -1,6 +1,36 @@
 {
-  "last run": "2026-01-27T22:04:44Z",
+  "last run": "2026-01-27T23:04:27Z",
   "stories": [
+    {
+      "headline": "When a loved one with dementia wanders away",
+      "link": "https://www.npr.org/2026/01/27/nx-s1-5680138/when-a-loved-one-with-dementia-wanders-away",
+      "mean_score": 0.6497,
+      "vader_score": 0.5994,
+      "textblob_score": 0.7,
+      "first_sentence": "Caregivers of people with dementia often reach their breaking point when their loved one wanders off alone.",
+      "timestamp": "2026-01-27T22:32:11Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "UK veterinary sector reforms planned to tackle high costs of pet care",
+      "link": "https://www.theguardian.com/money/2026/jan/27/uk-vet-reforms-plans-tackle-high-costs-of-pet-care",
+      "mean_score": 0.327,
+      "vader_score": 0.4939,
+      "textblob_score": 0.16,
+      "first_sentence": "The biggest shake-up of the UK veterinary sector for 60 years should push down costs for pet owners by requiring practices to make their pricing clearer, the government has said.",
+      "timestamp": "2026-01-27T22:30:56Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Fourth graders ask whether kids or adults have it better as part of NPR challenge",
+      "link": "https://www.npr.org/2026/01/27/nx-s1-5672527/as-part-of-podcast-challenge-fourth-graders-ask-whether-kids-or-adults-have-it-better",
+      "mean_score": 0.372,
+      "vader_score": 0.4939,
+      "textblob_score": 0.25,
+      "first_sentence": "Who's got it better in life, kids or adults? A group of fourth-graders in New Jersey did some serious reporting on this topic and sent us their findings as a part of NPR's Student Podcast Challenge.",
+      "timestamp": "2026-01-27T22:20:26Z",
+      "source": "NPR News"
+    },
     {
       "headline": "Australia news live: Albanese to visit Timor-Leste; heatwave to scorch western NSW as Victoria welcomes cool change",
       "link": "https://www.theguardian.com/australia-news/live/2026/jan/28/australia-news-live-anthony-albanese-timor-leste-heatwave-nsw-bushfires-victoria-weather-liberals-leadership-sussan-ley-andrew-hastie-angus-taylor-ntwnfb",
@@ -2470,36 +2500,6 @@
       "first_sentence": "The colors show the star\u2019s final breath transforming into the raw ingredients for new worlds.",
       "timestamp": "2026-01-20T23:33:57Z",
       "source": "Ars Technica"
-    },
-    {
-      "headline": "Live: De Minaur starts strong, could be first Australian into the third round",
-      "link": "https://www.abc.net.au/news/2026-01-21/australian-open-2026-live-alex-de-minaur-sabalenka-alcaraz/106252014",
-      "mean_score": 0.3069,
-      "vader_score": 0.5106,
-      "textblob_score": 0.1033,
-      "first_sentence": "Australian Alex de Minaur could be the first local into the third round of the AO if he defeats Serbia's Hamad Medjedovic on Rod Laver Arena tonight.",
-      "timestamp": "2026-01-20T23:28:01Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Inter v Arsenal, Real Madrid v Monaco, and more: Champions League \u2013 live",
-      "link": "https://www.theguardian.com/football/live/2026/jan/20/inter-v-arsenal-real-madrid-v-monaco-sporting-v-psg-and-more-champions-league-live",
-      "mean_score": 0.4248,
-      "vader_score": 0.5709,
-      "textblob_score": 0.2788,
-      "first_sentence": "There is some pinball in the Arsenal box and Sucic senses a chance, arriving at the right time to send into the top corner from 18 yards.",
-      "timestamp": "2026-01-20T20:13:49Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The transatlantic order is crumbling. Greenland is a moment of great rupture | Christopher S Chivvis",
-      "link": "https://www.theguardian.com/commentisfree/2026/jan/20/trump-greenland-berlin-conference",
-      "mean_score": 0.7125,
-      "vader_score": 0.6249,
-      "textblob_score": 0.8,
-      "first_sentence": "The announcement on 17 January that Washington will impose punitive tariffs of 10% to 25% on eight European allies \u2013 unless they facilitate the \u201ccomplete and total purchase\u201d of Greenland \u2013 is likely to be the death knell of the post-1945 transatlantic order.",
-      "timestamp": "2026-01-20T20:00:40Z",
-      "source": "The Guardian"
     }
   ]
 }
