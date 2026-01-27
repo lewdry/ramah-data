@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Positive thinking could boost immune response to vaccines, say scientists",
+    "link": "https://www.theguardian.com/society/2026/jan/19/positive-thinking-could-boost-immune-response-to-vaccines-study-finds",
+    "mean_score": 0.5224,
+    "vader_score": 0.8176,
+    "textblob_score": 0.2273,
+    "first_sentence": "Positive thoughts may boost the immune system according to research that points to a connection between the mind and our body\u2019s natural defences.",
+    "timestamp": "2026-01-19T16:08:10Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Nine easy swaps to reduce ultra-processed foods in your diet: it\u2019s not an \u2018all-or-nothing approach\u2019",
+    "link": "https://www.theguardian.com/food/2026/jan/19/nine-easy-swaps-to-reduce-ultra-processed-foods-in-your-diet-its-not-an-all-or-nothing-approach",
+    "mean_score": 0.4369,
+    "vader_score": 0.4404,
+    "textblob_score": 0.4333,
+    "first_sentence": "Australia, alongside the US and UK, has one of the world\u2019s highest consumption rates of ultra-processed foods which have been linked to \u201cmultiple diet-related chronic diseases\u201d, according to a global report of which Lawrence was a co-author.",
+    "timestamp": "2026-01-19T14:00:27Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "In Davos, the rich talk about \u2018global threats\u2019. Here\u2019s why they\u2019re silent about the biggest of them all | Ingrid Robeyns",
+    "link": "https://www.theguardian.com/global/2026/jan/19/davos-rich-global-threat-economic-inequality-wealth",
+    "mean_score": 0.3412,
+    "vader_score": 0.5574,
+    "textblob_score": 0.125,
+    "first_sentence": "This week, hundreds of government leaders, heads of state, and business executives are gathering at the annual meeting of the World Economic Forum (WEF) in Davos.",
+    "timestamp": "2026-01-19T13:10:34Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Rukmini Iyer\u2019s quick and easy recipe for harissa-spiked orzo with chickpeas and pine nuts | Quick and easy",
     "link": "https://www.theguardian.com/food/2026/jan/19/quick-and-easy-harissa-spiked-orzo-recipe-chickpeas-pine-nuts-rukmini-iyer",
     "mean_score": 0.4628,

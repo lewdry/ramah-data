@@ -1,6 +1,36 @@
 {
-  "last run": "2026-01-27T06:06:26Z",
+  "last run": "2026-01-27T07:09:07Z",
   "stories": [
+    {
+      "headline": "Zoning in on Leith, Edinburgh \u2013 \u2018It\u2019s been a joy to watch the area reinvent itself\u2019",
+      "link": "https://www.theguardian.com/travel/2026/jan/27/leith-edinburgh-culinary-cultural-hub",
+      "mean_score": 0.6929,
+      "vader_score": 0.5859,
+      "textblob_score": 0.8,
+      "first_sentence": "Leith is Edinburgh\u2019s port district, where people, goods and new ideas have flowed into the city for centuries.",
+      "timestamp": "2026-01-27T07:00:09Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "NATO chief wishes 'good luck' to those who think Europe can defend itself without US help",
+      "link": "https://www.npr.org/2026/01/27/nx-s1-5689791/nato-chief-europe-defense-us",
+      "mean_score": 0.6709,
+      "vader_score": 0.6419,
+      "textblob_score": 0.7,
+      "first_sentence": "BRUSSELS \u2014 NATO Secretary-General Mark Rutte insisted Monday that Europe is incapable of defending itself without U.S.",
+      "timestamp": "2026-01-27T06:32:19Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "First of its kind \u2018high-density\u2019 hydro system begins generating electricity in Devon",
+      "link": "https://www.theguardian.com/business/2026/jan/27/high-density-hydropower-system-generating-electricity-devon-renewable-energy-storage",
+      "mean_score": 0.4758,
+      "vader_score": 0.5267,
+      "textblob_score": 0.425,
+      "first_sentence": "A hillside \u201cbattery\u201d outside Plymouth in Devon has begun generating electricity using a first of a kind hydropower system embedded underground.",
+      "timestamp": "2026-01-27T06:00:07Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Shared cooking and child care: The benefits of multi-generational living",
       "link": "https://www.abc.net.au/news/2026-01-27/families-on-how-they-manage-multi-generational-living/105950572",
@@ -2470,36 +2500,6 @@
       "first_sentence": "Arizona is the unanimous No.",
       "timestamp": "2026-01-19T18:23:02Z",
       "source": "AP News"
-    },
-    {
-      "headline": "Positive thinking could boost immune response to vaccines, say scientists",
-      "link": "https://www.theguardian.com/society/2026/jan/19/positive-thinking-could-boost-immune-response-to-vaccines-study-finds",
-      "mean_score": 0.5224,
-      "vader_score": 0.8176,
-      "textblob_score": 0.2273,
-      "first_sentence": "Positive thoughts may boost the immune system according to research that points to a connection between the mind and our body\u2019s natural defences.",
-      "timestamp": "2026-01-19T16:08:10Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Nine easy swaps to reduce ultra-processed foods in your diet: it\u2019s not an \u2018all-or-nothing approach\u2019",
-      "link": "https://www.theguardian.com/food/2026/jan/19/nine-easy-swaps-to-reduce-ultra-processed-foods-in-your-diet-its-not-an-all-or-nothing-approach",
-      "mean_score": 0.4369,
-      "vader_score": 0.4404,
-      "textblob_score": 0.4333,
-      "first_sentence": "Australia, alongside the US and UK, has one of the world\u2019s highest consumption rates of ultra-processed foods which have been linked to \u201cmultiple diet-related chronic diseases\u201d, according to a global report of which Lawrence was a co-author.",
-      "timestamp": "2026-01-19T14:00:27Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "In Davos, the rich talk about \u2018global threats\u2019. Here\u2019s why they\u2019re silent about the biggest of them all | Ingrid Robeyns",
-      "link": "https://www.theguardian.com/global/2026/jan/19/davos-rich-global-threat-economic-inequality-wealth",
-      "mean_score": 0.3412,
-      "vader_score": 0.5574,
-      "textblob_score": 0.125,
-      "first_sentence": "This week, hundreds of government leaders, heads of state, and business executives are gathering at the annual meeting of the World Economic Forum (WEF) in Davos.",
-      "timestamp": "2026-01-19T13:10:34Z",
-      "source": "The Guardian"
     }
   ]
 }
