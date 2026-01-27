@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Valentino, designer whose gowns made royals and movie stars feel beautiful, dies at 93",
+    "link": "https://apnews.com/article/valentino-garavani-fashion-designer-italy-rome-0d1e0bc038b514e940b9a18aced873d1",
+    "mean_score": 0.7247,
+    "vader_score": 0.5994,
+    "textblob_score": 0.85,
+    "first_sentence": "MILAN (AP) \u2014 Valentino Garavani, the jet-set Italian designer whose high-glamour gowns \u2014 often in his trademark shade of \u201cValentino red\u201d \u2014 were fashion show staples for nearly half a century, died Monday.",
+    "timestamp": "2026-01-20T08:53:02Z",
+    "source": "AP News"
+  },
+  {
+    "headline": "Why have there been so many shark bites in Sydney? Experts say the conditions are a \u2018perfect storm\u2019",
+    "link": "https://www.theguardian.com/environment/2026/jan/20/why-have-there-been-so-many-shark-bites-in-sydney-experts-say-the-conditions-are-a-perfect-storm",
+    "mean_score": 0.375,
+    "vader_score": 0.0,
+    "textblob_score": 0.75,
+    "first_sentence": "Four people have been attacked by sharks in New South Wales in 48 hours, including three incidents at Sydney beaches.",
+    "timestamp": "2026-01-20T08:23:01Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "State's EPA recommends Valhalla gas project for approval",
     "link": "https://www.abc.net.au/news/2026-01-20/epa-recommends-kimberley-valhalla-exploration-program/106249136",
     "mean_score": 0.3062,
