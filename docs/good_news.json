@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-27T19:09:41Z",
+  "last run": "2026-01-27T20:04:56Z",
   "stories": [
+    {
+      "headline": "How Queensland parents can get a free $100 for every school kid",
+      "link": "https://www.abc.net.au/news/2026-01-28/queensland-how-to-access-back-to-school-boost/106274840",
+      "mean_score": 0.4553,
+      "vader_score": 0.5106,
+      "textblob_score": 0.4,
+      "first_sentence": "As Queensland kids hit the books to start term one, parents can claim $100 to help with school costs.",
+      "timestamp": "2026-01-27T19:37:51Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Hobbycraft issues full recall of asbestos-tainted children\u2019s play sand",
       "link": "https://www.theguardian.com/society/2026/jan/27/hobbycraft-issues-full-recall-of-asbestos-tainted-childrens-play-sand",
@@ -29,6 +39,16 @@
       "textblob_score": 0.3182,
       "first_sentence": "Reform UK has announced that Matt Goodwin, the campaigner and former academic, as its candidate in Gorton and Denton.",
       "timestamp": "2026-01-27T16:36:19Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Alcaraz flicks on genius switch to put himself two matches from career grand slam | Tumaini Carayol",
+      "link": "https://www.theguardian.com/sport/2026/jan/27/carlos-alcaraz-career-grand-slam-alex-de-minaur-australian-open-quarter-final",
+      "mean_score": 0.3014,
+      "vader_score": 0.1027,
+      "textblob_score": 0.5,
+      "first_sentence": "One of the biggest matches of Alex de Minaur\u2019s career was already falling from his grasp when his opponent, Carlos Alcaraz, compounded his misery with a selfish stroke of genius.",
+      "timestamp": "2026-01-27T15:58:02Z",
       "source": "The Guardian"
     },
     {
@@ -100,6 +120,16 @@
       "first_sentence": "A 2.5 mile (4km) section of cliff has collapsed on the Italian island of Sicily, after it was pummelled by wind and rain brought by Storm Harry last week.",
       "timestamp": "2026-01-27T12:42:09Z",
       "source": "BBC News"
+    },
+    {
+      "headline": "Know the score? I don\u2019t read music, but that\u2019s no hindrance to reimagining great classical works",
+      "link": "https://www.theguardian.com/music/2026/jan/27/i-cant-read-music-and-im-touring-holst-with-the-britten-sinfonia-will-pound-on-rethinking-the-classics",
+      "mean_score": 0.6301,
+      "vader_score": 0.8603,
+      "textblob_score": 0.4,
+      "first_sentence": "I\u2019m a harmonica and accordion player and one half of folk-classical duo Stevens & Pound.",
+      "timestamp": "2026-01-27T12:00:42Z",
+      "source": "The Guardian"
     },
     {
       "headline": "GLP-1 drugs don't work for everyone. But personalized obesity care in the future might",
@@ -2470,36 +2500,6 @@
       "first_sentence": "Thomas Frank makes five changes, four of them enforced, to the team that lost against West Ham.",
       "timestamp": "2026-01-20T19:05:31Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "No. 1 Indiana tops final AP Top 25 football poll of season as Big Ten\u2019s title run reaches 3 straight",
-      "link": "https://apnews.com/article/ap-top-25-college-football-d20d33aecbec2021a90e1f8ce8eead7c",
-      "mean_score": 0.4375,
-      "vader_score": 0.7351,
-      "textblob_score": 0.14,
-      "first_sentence": "Indiana achieved one more first to end its magical season full of firsts: The national champion Hoosiers are No.",
-      "timestamp": "2026-01-20T17:53:02Z",
-      "source": "AP News"
-    },
-    {
-      "headline": "Is it ever a good idea to give someone a nickname? | Polly Hudson",
-      "link": "https://www.theguardian.com/commentisfree/2026/jan/20/is-it-ever-a-good-idea-to-give-someone-a-nickname",
-      "mean_score": 0.5702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.7,
-      "first_sentence": "Determined things come in small packages.",
-      "timestamp": "2026-01-20T15:26:33Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Stunning skies as Northern Lights seen in the UK",
-      "link": "https://www.bbc.com/news/videos/c9qpe4d2wxeo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4409,
-      "vader_score": 0.3818,
-      "textblob_score": 0.5,
-      "first_sentence": "Skies across the UK were lit up in hues of green and pink by the Northern Lights on Monday evening.",
-      "timestamp": "2026-01-20T14:10:22Z",
-      "source": "BBC News"
     }
   ]
 }

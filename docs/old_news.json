@@ -1,5 +1,35 @@
 [
   {
+    "headline": "No. 1 Indiana tops final AP Top 25 football poll of season as Big Ten\u2019s title run reaches 3 straight",
+    "link": "https://apnews.com/article/ap-top-25-college-football-d20d33aecbec2021a90e1f8ce8eead7c",
+    "mean_score": 0.4375,
+    "vader_score": 0.7351,
+    "textblob_score": 0.14,
+    "first_sentence": "Indiana achieved one more first to end its magical season full of firsts: The national champion Hoosiers are No.",
+    "timestamp": "2026-01-20T17:53:02Z",
+    "source": "AP News"
+  },
+  {
+    "headline": "Is it ever a good idea to give someone a nickname? | Polly Hudson",
+    "link": "https://www.theguardian.com/commentisfree/2026/jan/20/is-it-ever-a-good-idea-to-give-someone-a-nickname",
+    "mean_score": 0.5702,
+    "vader_score": 0.4404,
+    "textblob_score": 0.7,
+    "first_sentence": "Determined things come in small packages.",
+    "timestamp": "2026-01-20T15:26:33Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Stunning skies as Northern Lights seen in the UK",
+    "link": "https://www.bbc.com/news/videos/c9qpe4d2wxeo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4409,
+    "vader_score": 0.3818,
+    "textblob_score": 0.5,
+    "first_sentence": "Skies across the UK were lit up in hues of green and pink by the Northern Lights on Monday evening.",
+    "timestamp": "2026-01-20T14:10:22Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "UK approves Chinese \u2018mega embassy\u2019 in London after reassurances from spy chiefs",
     "link": "https://www.theguardian.com/uk-news/2026/jan/20/china-mega-embassy-approved-london",
     "mean_score": 0.3125,
