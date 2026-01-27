@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-27T14:10:20Z",
+  "last run": "2026-01-27T15:09:21Z",
   "stories": [
+    {
+      "headline": "Pubs and live music venues to get support after business rates backlash, Treasury confirms",
+      "link": "https://www.theguardian.com/business/2026/jan/27/pubs-support-package-business-rates-rachel-reeves-england-wales",
+      "mean_score": 0.3393,
+      "vader_score": 0.5423,
+      "textblob_score": 0.1364,
+      "first_sentence": "The Treasury has unveiled a support package worth tens of millions of pounds for pubs and live music venues in England and Wales, in a climbdown that follows a fierce backlash against plans to overhaul business rates.",
+      "timestamp": "2026-01-27T14:35:43Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "As data from space spikes, an innovative ground station company seeks to cash in",
+      "link": "https://arstechnica.com/space/2026/01/as-data-from-space-spikes-an-innovative-ground-station-company-seeks-to-cash-in/",
+      "mean_score": 0.4702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.5,
+      "first_sentence": "A company that seeks to disrupt the way in which data from space is received and transmitted has found some key investors and customers.",
+      "timestamp": "2026-01-27T14:16:32Z",
+      "source": "Ars Technica"
+    },
     {
       "headline": "Through the heatwave haze, the hypocrisy of Australia\u2019s fossil fuel policy shines bright | Clean Air",
       "link": "https://www.theguardian.com/environment/2026/jan/27/through-the-heatwave-haze-the-hypocrisy-of-australias-fossil-fuel-policy-shines-bright",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Briton Sam Watson (Ineos Grenadiers) claimed victory in 4 minutes, 16.9 seconds.",
       "timestamp": "2026-01-20T10:52:53Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "England's top treasure finds revealed by county",
-      "link": "https://www.bbc.com/news/articles/cm2yerrqel7o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4794,
-      "vader_score": 0.4588,
-      "textblob_score": 0.5,
-      "first_sentence": "More treasure was found in Norfolk in 2024 than in any other county in England, according to the latest record-breaking figures.",
-      "timestamp": "2026-01-20T10:12:17Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "India tightened its egg donation rules, creating a vibrant black market for sellers",
-      "link": "https://www.npr.org/2026/01/20/nx-s1-5653357/india-tightened-its-egg-donation-rules-creating-a-vibrant-black-market-for-sellers",
-      "mean_score": 0.3404,
-      "vader_score": 0.6808,
-      "textblob_score": 0.0,
-      "first_sentence": "India radically tightened its rules on egg donation to make it altruistic, but that move triggered a vibrant black market for human eggs.",
-      "timestamp": "2026-01-20T09:49:13Z",
-      "source": "NPR News"
     }
   ]
 }
