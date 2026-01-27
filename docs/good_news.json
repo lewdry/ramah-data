@@ -1,5 +1,5 @@
 {
-  "last run": "2026-01-27T01:33:02Z",
+  "last run": "2026-01-27T02:46:02Z",
   "stories": [
     {
       "headline": "Rescue dog valuable in koala monitoring research program",
@@ -20,6 +20,16 @@
       "first_sentence": "Seems like 2026 is already testing her resolveSee more of Fiona Katauskas\u2019s cartoons here Continue reading.",
       "timestamp": "2026-01-26T23:23:31Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "Legendary reggae drummer Sly Dunbar dies at 73",
+      "link": "https://www.bbc.com/news/articles/cn56300z220o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5,
+      "vader_score": 0.0,
+      "textblob_score": 1.0,
+      "first_sentence": "Reggae legend Sly Dunbar, who played with everyone from Bob Marley to The Rolling Stones, has died at the age of 73.",
+      "timestamp": "2026-01-26T22:35:45Z",
+      "source": "BBC News"
     },
     {
       "headline": "Wife of captain of oil tanker captured by US forces starts legal action to free him",
@@ -2490,16 +2500,6 @@
       "first_sentence": "An under-fire NHS trust has apologised after using money from charitable funds to throw a leaving party for its former chairman.",
       "timestamp": "2026-01-19T11:38:06Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "\u2018I love that there\u2019s this big gay thing in the middle of Scotland\u2019: Ian McKellen and Graham Norton join Alan Cumming for Out in the Hills",
-      "link": "https://www.theguardian.com/stage/2026/jan/19/i-love-that-theres-this-big-gay-thing-in-the-middle-of-scotland-ian-mckellen-and-graham-norton-join-alan-cumming-for-out-in-the-hills",
-      "mean_score": 0.4899,
-      "vader_score": 0.7506,
-      "textblob_score": 0.2292,
-      "first_sentence": "Sir Ian McKellen is on stage blowing up a red balloon.",
-      "timestamp": "2026-01-19T11:14:47Z",
-      "source": "The Guardian"
     }
   ]
 }
