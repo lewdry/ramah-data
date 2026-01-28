@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Gen Xers the new baby boomers: analysis identifies Australia\u2019s richest landholders by generation",
+    "link": "https://www.theguardian.com/australia-news/2026/jan/22/gen-xers-the-new-baby-boomers-analysis-identifies-australias-richest-landholders-by-generation",
+    "mean_score": 0.3315,
+    "vader_score": 0.5267,
+    "textblob_score": 0.1364,
+    "first_sentence": "Gen X households now hold the most property wealth of any generation, as baby boomers downsize their homes and move more of their money into cash and retirement accounts.",
+    "timestamp": "2026-01-21T14:00:39Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "I Do review \u2013 immersive hotel drama as wonderful as a real wedding day",
+    "link": "https://www.theguardian.com/stage/2026/jan/21/i-do-review-malmaison-hotel-wedding-day-immersive-play",
+    "mean_score": 0.5859,
+    "vader_score": 0.5719,
+    "textblob_score": 0.6,
+    "first_sentence": "When isn\u2019t there big family drama in the buildup to a wedding? The nerves, the tantrums \u2013 sometimes even charges of \u201cinappropriate\u201d first dances.",
+    "timestamp": "2026-01-21T12:56:30Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Free holiday swimming for thousands of children",
     "link": "https://www.bbc.com/news/articles/c0mkpj38ll7o?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.5592,
