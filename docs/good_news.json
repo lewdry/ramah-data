@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-28T05:09:44Z",
+  "last run": "2026-01-28T06:07:05Z",
   "stories": [
+    {
+      "headline": "Free agent Khawaja set to play on in BBL",
+      "link": "https://www.abc.net.au/news/2026-01-28/usman-khawaja-brisbane-heat-big-bash-league/106279266",
+      "mean_score": 0.5454,
+      "vader_score": 0.6908,
+      "textblob_score": 0.4,
+      "first_sentence": "Usman Khawaja is keen to continue his limited overs career following his international retirement.",
+      "timestamp": "2026-01-28T05:26:12Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Wonder Man review \u2013 a Marvel TV show with almost no superhero action \u2026 and it\u2019s all the better for it",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/jan/28/wonder-man-review-marvel-tv-show-with-almost-no-superhero-action-disney-plus",
+      "mean_score": 0.4425,
+      "vader_score": 0.5849,
+      "textblob_score": 0.3,
+      "first_sentence": "We are back in the Marvel Cinematic Universe.",
+      "timestamp": "2026-01-28T05:00:03Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Neil Young offers Greenlanders free access to his archives",
       "link": "https://www.bbc.com/news/articles/crmlpl0w2z2o?at_medium=RSS&at_campaign=rss",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.7,
       "first_sentence": "Queen Camilla has met many disreputable characters in her time as a royal, but her encounter this week with two celebrity reprobates was at least for a good cause.",
       "timestamp": "2026-01-21T08:00:54Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "A later-life love triangle? Redefining how to grow old \u2013 in pictures",
-      "link": "https://www.theguardian.com/artanddesign/gallery/2026/jan/21/a-later-life-love-triangle-redefining-how-to-grow-old-in-pictures",
-      "mean_score": 0.4685,
-      "vader_score": 0.6369,
-      "textblob_score": 0.3,
-      "first_sentence": "From naked embraces and sofa snogging to the very final stages of life, a new exhibition proves there is no one way to age  Continue reading.",
-      "timestamp": "2026-01-21T07:00:54Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Kidnapped: Elizabeth Smart review \u2013 her frankness about her ordeal is truly inspiring",
-      "link": "https://www.theguardian.com/tv-and-radio/2026/jan/21/kidnapped-elizabeth-smart-review-her-frankness-about-her-ordeal-is-truly-inspiring",
-      "mean_score": 0.5849,
-      "vader_score": 0.8126,
-      "textblob_score": 0.3571,
-      "first_sentence": "New year, new true-crime documentary from Netflix.",
-      "timestamp": "2026-01-21T07:00:53Z",
       "source": "The Guardian"
     }
   ]
