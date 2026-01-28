@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-28T07:08:32Z",
+  "last run": "2026-01-28T08:06:09Z",
   "stories": [
+    {
+      "headline": "Starmer vows to raise issues \u2018that need to be raised\u2019 with Xi amid push to free Jimmy Lai",
+      "link": "https://www.theguardian.com/politics/2026/jan/28/keir-starmer-jimmy-lai-human-rights-china-xi-jinping",
+      "mean_score": 0.4553,
+      "vader_score": 0.5106,
+      "textblob_score": 0.4,
+      "first_sentence": "Keir Starmer has said he will \u201craise the issues that need to be raised\u201d on human rights with China\u2019s leader, Xi Jinping, as he arrived in Beijing for the first trip to the country by a UK leader in eight years.",
+      "timestamp": "2026-01-28T07:00:08Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Spain will grant legal status to immigrants lacking authorization",
       "link": "https://www.npr.org/2026/01/28/g-s1-107636/spain-legal-status-immigrants",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Here is a sports drama which is also a true-life psychodrama of the Irish republic.",
       "timestamp": "2026-01-21T09:00:56Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "A former flight attendant posed as a pilot and received hundreds of free flights, US authorities say",
-      "link": "https://apnews.com/article/fake-airline-pilot-fraud-58a2d18d66aabe462e11c3d72002c8ec",
-      "mean_score": 0.3553,
-      "vader_score": 0.5106,
-      "textblob_score": 0.2,
-      "first_sentence": "HONOLULU (AP) \u2014 A former flight attendant for a Canadian airline posed as a commercial pilot and as a current flight attendant to obtain hundreds of free flights from U.S.",
-      "timestamp": "2026-01-21T08:23:02Z",
-      "source": "AP News"
     }
   ]
 }
