@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-28T00:16:25Z",
+  "last run": "2026-01-28T01:33:09Z",
   "stories": [
+    {
+      "headline": "'My prosthetic leg represents my love for this country'",
+      "link": "https://www.bbc.com/news/articles/cwy11q1pwpgo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5685,
+      "vader_score": 0.6369,
+      "textblob_score": 0.5,
+      "first_sentence": "It was hard to miss 33-year-old model and writer Abena Christine Jon'el's appearance at a recent major fashion show in Ghana.",
+      "timestamp": "2026-01-28T00:17:35Z",
+      "source": "BBC News"
+    },
     {
       "headline": "These young people love their regional communities. That's why they're pushing for change",
       "link": "https://www.abc.net.au/news/2026-01-28/heywire-26-trailblazers-changing-regional-australia/106154604",
@@ -52,6 +62,16 @@
       "source": "The Guardian"
     },
     {
+      "headline": "Live: NSW towns bake in 'breathtaking' heat",
+      "link": "https://www.abc.net.au/news/2026-01-28/heatwave-south-east-australia-weather-victoria-bushfires/106276290",
+      "mean_score": 0.5135,
+      "vader_score": 0.4588,
+      "textblob_score": 0.5682,
+      "first_sentence": "Towns in New South Wales and Queensland are sweltering today as a record-breaking heatwave continues to move across the country.",
+      "timestamp": "2026-01-27T20:19:40Z",
+      "source": "ABC News"
+    },
+    {
       "headline": "Bari Weiss tries to win CBS staffers\u2019 trust amid \u2018noise\u2019 over 60 Minutes segment",
       "link": "https://www.theguardian.com/media/2026/jan/27/bari-weiss-cbs",
       "mean_score": 0.5732,
@@ -70,6 +90,16 @@
       "first_sentence": "As Queensland kids hit the books to start term one, parents can claim $100 to help with school costs.",
       "timestamp": "2026-01-27T19:37:51Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "It's a crime most assume doesn't happen in Australia \u2014 but schools should be on alert",
+      "link": "https://www.sbs.com.au/news/article/forced-marriage-schools-alert-australia/ty9bqf1vk",
+      "mean_score": 0.3203,
+      "vader_score": 0.1406,
+      "textblob_score": 0.5,
+      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+      "timestamp": "2026-01-27T18:32:20Z",
+      "source": "SBS News"
     },
     {
       "headline": "Hobbycraft issues full recall of asbestos-tainted children\u2019s play sand",
@@ -2470,36 +2500,6 @@
       "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
       "timestamp": "2026-01-21T05:11:12Z",
       "source": "SBS News"
-    },
-    {
-      "headline": "My analogue month: would ditching my smartphone make me healthier, happier \u2013 or more stressed?",
-      "link": "https://www.theguardian.com/technology/2026/jan/21/my-analogue-month-would-ditching-my-smartphone-make-me-healthier-happier-or-more-stressed",
-      "mean_score": 0.3398,
-      "vader_score": 0.1796,
-      "textblob_score": 0.5,
-      "first_sentence": "When two balaclava-clad men on a motorbike mounted the pavement to rob me, recently, I remained oblivious.",
-      "timestamp": "2026-01-21T05:00:52Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "'Led with humanity': The remarkable life of Dame Marie Bashir",
-      "link": "https://www.abc.net.au/news/2026-01-21/nsw-dame-marie-bashir-death-tributes-obituary/106251446",
-      "mean_score": 0.6537,
-      "vader_score": 0.5574,
-      "textblob_score": 0.75,
-      "first_sentence": "In her 95 years, she was a respected public servant, a fierce advocate for mental health resourcing and held esteemed titles across the education and psychiatry sectors \u2014 cementing her position as a highly accomplished Australian.",
-      "timestamp": "2026-01-21T03:03:17Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Retiree's trash and treasure trike proves a powerful tool for brain health",
-      "link": "https://www.abc.net.au/news/2026-01-21/trash-treasure-trike-broken-hill-brian-slater-brain-health/106234034",
-      "mean_score": 0.4562,
-      "vader_score": 0.6124,
-      "textblob_score": 0.3,
-      "first_sentence": "Brian Slater built a unique trike after seeing one in a motorbike book.",
-      "timestamp": "2026-01-21T00:13:44Z",
-      "source": "ABC News"
     }
   ]
 }
