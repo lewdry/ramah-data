@@ -1,6 +1,36 @@
 {
-  "last run": "2026-01-28T11:06:21Z",
+  "last run": "2026-01-28T12:07:23Z",
   "stories": [
+    {
+      "headline": "Government offers UK adults free AI training for work",
+      "link": "https://www.bbc.com/news/articles/cp37prvp072o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3803,
+      "vader_score": 0.5106,
+      "textblob_score": 0.25,
+      "first_sentence": "The government has launched a series of free AI training courses designed to help people learn how to use the technology at work.",
+      "timestamp": "2026-01-28T11:50:21Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Wales' first minister refuses to support Keir Starmer",
+      "link": "https://www.bbc.com/news/articles/cdjnp02zevko?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3259,
+      "vader_score": 0.4019,
+      "textblob_score": 0.25,
+      "first_sentence": "Wales' first minister has refused to give her support to Prime Minister Sir Keir Starmer, telling the BBC the leader of the Labour party is \"not on the ballot\" at her country's elections in May.",
+      "timestamp": "2026-01-28T11:20:39Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "A moment that changed me: I went on holiday \u2013 and for the first time I felt I stood out",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/28/a-moment-that-changed-me-i-went-on-holiday-and-for-the-first-time-i-felt-i-stood-out",
+      "mean_score": 0.3259,
+      "vader_score": 0.4019,
+      "textblob_score": 0.25,
+      "first_sentence": "When I was 24, I visited Ireland for the first time.",
+      "timestamp": "2026-01-28T10:54:06Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Copyrighted art, mobile phones, Greenland: welcome to our age of shameless theft | Jonathan Liew",
       "link": "https://www.theguardian.com/commentisfree/2026/jan/28/copyright-mobile-phones-greenland-ai-inequality-political-leaders",
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.6,
       "first_sentence": "When isn\u2019t there big family drama in the buildup to a wedding? The nerves, the tantrums \u2013 sometimes even charges of \u201cinappropriate\u201d first dances.",
       "timestamp": "2026-01-21T12:56:30Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Free holiday swimming for thousands of children",
-      "link": "https://www.bbc.com/news/articles/c0mkpj38ll7o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5592,
-      "vader_score": 0.7184,
-      "textblob_score": 0.4,
-      "first_sentence": "Thousands of children will be able to swim for free again this year, during the school holidays.",
-      "timestamp": "2026-01-21T12:29:59Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Nato chief urges \u2018thoughtful diplomacy\u2019 after US treasury secretary\u2019s jibe at Denmark",
-      "link": "https://www.theguardian.com/business/2026/jan/21/trump-treasury-secretary-brands-denmark-irrelevant-greenland-row-deepens",
-      "mean_score": 0.3012,
-      "vader_score": 0.2023,
-      "textblob_score": 0.4,
-      "first_sentence": "Donald Trump has landed in Switzerland for the Davos global gathering as Nato\u2019s secretary general said \u201cthoughtful diplomacy\u201d was the only way to deal with growing transatlantic tensions, remarks that came shortly after the US treasury secretary had dismissed Denmark as an irrelevance.",
-      "timestamp": "2026-01-21T12:18:09Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Australian Open 2026: Tiafoe in action; De Minaur, Zverev and Andreeva win, Raducanu out \u2013 live",
-      "link": "https://www.theguardian.com/sport/live/2026/jan/21/australian-open-2026-de-minaur-andreeva-tiafoe-in-action-on-day-four-live",
-      "mean_score": 0.3966,
-      "vader_score": 0.5859,
-      "textblob_score": 0.2073,
-      "first_sentence": "Jovic holds in game one, while Frech and Paolini have moved from Kia to Cain and are just about to resume, the Italian up 6-2 15-40, and on Court, Tiafoe leads Comesana 6-4 6-3 3-3.",
-      "timestamp": "2026-01-21T11:56:09Z",
       "source": "The Guardian"
     }
   ]
