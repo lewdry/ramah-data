@@ -1,6 +1,36 @@
 {
-  "last run": "2026-01-28T20:06:16Z",
+  "last run": "2026-01-28T21:08:24Z",
   "stories": [
+    {
+      "headline": "Michael Mayo's 'Fly' is a soaring testament to his artistry and creative vision",
+      "link": "https://www.npr.org/2026/01/28/nx-s1-5605586/michael-mayo-fly-album-grammy-awards",
+      "mean_score": 0.6247,
+      "vader_score": 0.5994,
+      "textblob_score": 0.65,
+      "first_sentence": "With the release of his sophomore album, Fly, in October 2024, singer-songwriter and composer Michael Mayo ascended to new artistic heights.",
+      "timestamp": "2026-01-28T21:00:00Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "Champions League: goals and action from all 18 matches in league phase finale \u2013 live",
+      "link": "https://www.theguardian.com/football/live/2026/jan/28/champions-league-clockwatch-psg-newcastle-manchester-city-galatasaray-live",
+      "mean_score": 0.3224,
+      "vader_score": 0.5267,
+      "textblob_score": 0.1182,
+      "first_sentence": "That\u2019s a big goal for Spurs, flicked in from close range by Randal Kolo Muani after a well-worked free-kick.",
+      "timestamp": "2026-01-28T20:52:19Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Masters winner the latest to abandon LIV Golf for PGA Tour return",
+      "link": "https://www.abc.net.au/news/2026-01-29/patrick-reed-leaves-liv-golf-for-pga-tour/106281108",
+      "mean_score": 0.3631,
+      "vader_score": 0.2263,
+      "textblob_score": 0.5,
+      "first_sentence": "Patrick Reed has announced he is leaving LIV Golf to return to the PGA Tour.",
+      "timestamp": "2026-01-28T20:14:16Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Being a night owl may not be great for your heart but you can do something about it",
       "link": "https://apnews.com/article/healthy-heart-sleep-night-owls-circadian-rhythm-0c520492f5d6fc08c412053419e913f9",
@@ -2470,36 +2500,6 @@
       "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
       "timestamp": "2026-01-21T18:49:51Z",
       "source": "SBS News"
-    },
-    {
-      "headline": "Mercy review \u2013 Chris Pratt takes on AI judge Rebecca Ferguson in ingenious sci-fi thriller",
-      "link": "https://www.theguardian.com/film/2026/jan/21/mercy-review-chris-pratt-takes-on-ai-judge-rebecca-ferguson-in-ingenious-sci-fi-thriller",
-      "mean_score": 0.4702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.5,
-      "first_sentence": "The film\u2019s ostensible target is the insidious power of AI, though the movie partakes of today\u2019s liberal opinion doublethink, in which we all solemnly concur that AI is very worrying while not having the smallest intention of doing anything about it.",
-      "timestamp": "2026-01-21T17:00:43Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Secret love letter shows softer side of Cambridge spy ring\u2019s alleged fifth man",
-      "link": "https://www.theguardian.com/uk-news/2026/jan/21/love-letters-john-cairncross-cambridge-spy-ring-exhibition-national-archives-kew",
-      "mean_score": 0.3185,
-      "vader_score": 0.6369,
-      "textblob_score": -0.0,
-      "first_sentence": "It was a love letter written by one of the more important British spies of the cold war that made Tom Brass realise he had never fully known his mother.",
-      "timestamp": "2026-01-21T16:46:44Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018We played to 8,000 Mexicans who knew every word\u2019: how the Whitest Boy Alive conquered the world",
-      "link": "https://www.theguardian.com/culture/2026/jan/21/whitest-boy-alive-erlend-oye-kings-of-convenience-interview",
-      "mean_score": 0.3562,
-      "vader_score": 0.6124,
-      "textblob_score": 0.1,
-      "first_sentence": "If you were to imagine the recent evolution of music in Europe as a series of scenes from a Where\u2019s Wally?-style puzzle book, one bespectacled, lanky figure would pop up on almost every page.",
-      "timestamp": "2026-01-21T16:31:34Z",
-      "source": "The Guardian"
     }
   ]
 }

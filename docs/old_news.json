@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Mercy review \u2013 Chris Pratt takes on AI judge Rebecca Ferguson in ingenious sci-fi thriller",
+    "link": "https://www.theguardian.com/film/2026/jan/21/mercy-review-chris-pratt-takes-on-ai-judge-rebecca-ferguson-in-ingenious-sci-fi-thriller",
+    "mean_score": 0.4702,
+    "vader_score": 0.4404,
+    "textblob_score": 0.5,
+    "first_sentence": "The film\u2019s ostensible target is the insidious power of AI, though the movie partakes of today\u2019s liberal opinion doublethink, in which we all solemnly concur that AI is very worrying while not having the smallest intention of doing anything about it.",
+    "timestamp": "2026-01-21T17:00:43Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Secret love letter shows softer side of Cambridge spy ring\u2019s alleged fifth man",
+    "link": "https://www.theguardian.com/uk-news/2026/jan/21/love-letters-john-cairncross-cambridge-spy-ring-exhibition-national-archives-kew",
+    "mean_score": 0.3185,
+    "vader_score": 0.6369,
+    "textblob_score": -0.0,
+    "first_sentence": "It was a love letter written by one of the more important British spies of the cold war that made Tom Brass realise he had never fully known his mother.",
+    "timestamp": "2026-01-21T16:46:44Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "\u2018We played to 8,000 Mexicans who knew every word\u2019: how the Whitest Boy Alive conquered the world",
+    "link": "https://www.theguardian.com/culture/2026/jan/21/whitest-boy-alive-erlend-oye-kings-of-convenience-interview",
+    "mean_score": 0.3562,
+    "vader_score": 0.6124,
+    "textblob_score": 0.1,
+    "first_sentence": "If you were to imagine the recent evolution of music in Europe as a series of scenes from a Where\u2019s Wally?-style puzzle book, one bespectacled, lanky figure would pop up on almost every page.",
+    "timestamp": "2026-01-21T16:31:34Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Prue Leith leaves The Great British Bake Off",
     "link": "https://www.bbc.com/news/articles/cm2j80g4vy3o?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.5125,
