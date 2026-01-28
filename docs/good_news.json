@@ -1,6 +1,36 @@
 {
-  "last run": "2026-01-28T21:08:24Z",
+  "last run": "2026-01-28T22:06:49Z",
   "stories": [
+    {
+      "headline": "Napoli v Chelsea: Champions League \u2013 live",
+      "link": "https://www.theguardian.com/football/live/2026/jan/28/napoli-v-chelsea-champions-league-live",
+      "mean_score": 0.3315,
+      "vader_score": 0.5267,
+      "textblob_score": 0.1364,
+      "first_sentence": "A huge win for Chelsea, another good win for Liam Rosenior.",
+      "timestamp": "2026-01-28T21:52:34Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Seven players ejected following brawl in 36ers win over Bullets",
+      "link": "https://www.abc.net.au/news/2026-01-29/sa-36ers-bullets-scuffle-nbl-game/106281148",
+      "mean_score": 0.4929,
+      "vader_score": 0.5859,
+      "textblob_score": 0.4,
+      "first_sentence": "Bullets guard Hunter Maldonado and 36ers' Nick Rakocevic wrestled into empty chairs of the front row at Wednesday night's game, prompting an all-in scuffle.",
+      "timestamp": "2026-01-28T21:36:37Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Russo rounds off Arsenal rout of AS Far in Women\u2019s Champions Cup semi-final",
+      "link": "https://www.theguardian.com/football/2026/jan/28/arsenal-as-far-womens-champions-cup-semi-final-match-report",
+      "mean_score": 0.3133,
+      "vader_score": 0.5267,
+      "textblob_score": 0.1,
+      "first_sentence": "A businesslike performance against AS Far earned Arsenal a place in Sunday\u2019s final of the inaugural Fifa Women\u2019s Champions Cup against Corinthians.",
+      "timestamp": "2026-01-28T21:09:59Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Michael Mayo's 'Fly' is a soaring testament to his artistry and creative vision",
       "link": "https://www.npr.org/2026/01/28/nx-s1-5605586/michael-mayo-fly-album-grammy-awards",
@@ -2470,36 +2500,6 @@
       "first_sentence": "A new report from the OECD says Australia's economy is returning to normal but remains vulnerable and lacks dynamism.",
       "timestamp": "2026-01-21T19:09:13Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Marseille v Liverpool: Champions League \u2013 live",
-      "link": "https://www.theguardian.com/football/live/2026/jan/21/marseille-v-liverpool-champions-league-live",
-      "mean_score": 0.3315,
-      "vader_score": 0.5267,
-      "textblob_score": 0.1364,
-      "first_sentence": "Marseille: Rulli, Pavard, Balerdi, Medina, Murillo, Hojbjerg, Kondogbia, Weah, Greenwood, Traore, Gouiri.",
-      "timestamp": "2026-01-21T19:05:24Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Fetal heart monitors still available online despite being banned",
-      "link": "https://www.abc.net.au/news/health/2026-01-22/fetal-dopplers-at-home-risks/106155136",
-      "mean_score": 0.5852,
-      "vader_score": 0.7704,
-      "textblob_score": 0.4,
-      "first_sentence": "For expectant parents, knowing their baby's heart is beating at a healthy rate can be deeply reassuring.",
-      "timestamp": "2026-01-21T19:00:00Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Who's richest? Australia's 'great wealth transfer' is reshaping the ladder",
-      "link": "https://www.sbs.com.au/news/article/who-is-richest-australia-generations/65wvuil0l",
-      "mean_score": 0.8467,
-      "vader_score": 0.8934,
-      "textblob_score": 0.8,
-      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-      "timestamp": "2026-01-21T18:49:51Z",
-      "source": "SBS News"
     }
   ]
 }
