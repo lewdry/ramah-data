@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-28T03:33:36Z",
+  "last run": "2026-01-28T04:20:30Z",
   "stories": [
+    {
+      "headline": "Neil Young offers Greenlanders free access to his archives",
+      "link": "https://www.bbc.com/news/articles/crmlpl0w2z2o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3553,
+      "vader_score": 0.5106,
+      "textblob_score": 0.2,
+      "first_sentence": "Canadian-American rock star Neil Young is offering Greenlanders a year's free access to his archives in what he hopes will \"ease some of the unwarranted stress and threats\" they are receiving from the Trump administration.",
+      "timestamp": "2026-01-28T03:34:43Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Alex de Minaur fell a distance short at the Australian Open. Will he ever win a major? | Simon Cambers",
       "link": "https://www.theguardian.com/sport/2026/jan/28/alex-de-minaur-tennis-australian-open-chances-winning-major",
@@ -30,6 +40,16 @@
       "first_sentence": "It was hard to miss 33-year-old model and writer Abena Christine Jon'el's appearance at a recent major fashion show in Ghana.",
       "timestamp": "2026-01-28T00:17:35Z",
       "source": "BBC News"
+    },
+    {
+      "headline": "Live: Jessica Pegula storms into semis with straight sets win over compatriot",
+      "link": "https://www.abc.net.au/news/2026-01-28/australian-open-live-blog-day-11-%C5%9Bwi%C4%85tek-djokovic-sinner/106277086",
+      "mean_score": 0.5348,
+      "vader_score": 0.6908,
+      "textblob_score": 0.3788,
+      "first_sentence": "Novak Djokovic and Jannik Sinner are among the big names in action on day 11 at the Australian Open as we fast approach the business end of the tournament.",
+      "timestamp": "2026-01-27T23:58:25Z",
+      "source": "ABC News"
     },
     {
       "headline": "These young people love their regional communities. That's why they're pushing for change",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.3571,
       "first_sentence": "New year, new true-crime documentary from Netflix.",
       "timestamp": "2026-01-21T07:00:53Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "'Felt like I was at home': Qualifier S\u00f6nmez thrills passionate Turkish fans",
-      "link": "https://www.abc.net.au/news/2026-01-21/australian-open-zeynep-sonmez-turkiye-second-round-melbourne/106254442",
-      "mean_score": 0.3813,
-      "vader_score": 0.8126,
-      "textblob_score": -0.05,
-      "first_sentence": "Booking a berth in the Australian Open third round is only one part of Zeynep S\u00f6nmez's remarkable story at Melbourne Park.",
-      "timestamp": "2026-01-21T06:44:21Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Australian Open 2026: Alcaraz wins in straight sets after Sabalenka eases through \u2013 live reaction",
-      "link": "https://www.theguardian.com/sport/live/2026/jan/21/aryna-sabalenka-carlos-alcaraz-australian-open-tennis-second-round-live",
-      "mean_score": 0.4559,
-      "vader_score": 0.7845,
-      "textblob_score": 0.1273,
-      "first_sentence": "So a straight sets win for Carlos Alcaraz but probably a stiffer challenge than one he was expecting from his 34-year-old opponent Yannick Hanfmann, who had entered the tournament ranked 102 in the world.",
-      "timestamp": "2026-01-21T06:04:17Z",
       "source": "The Guardian"
     }
   ]
