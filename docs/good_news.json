@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-28T09:10:07Z",
+  "last run": "2026-01-28T10:06:36Z",
   "stories": [
+    {
+      "headline": "Sali Hughes: forget smooth and glassy \u2013 glam beauty is back",
+      "link": "https://www.theguardian.com/fashion/2026/jan/28/sali-hughes-dopamine-beauty-is-all-about-fun",
+      "mean_score": 0.3202,
+      "vader_score": 0.4404,
+      "textblob_score": 0.2,
+      "first_sentence": "The Guardian\u2019s journalism is independent.",
+      "timestamp": "2026-01-28T10:00:10Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Shrinking season three review \u2013 Harrison Ford is the best thing about this unapologetically soapy show",
       "link": "https://www.theguardian.com/tv-and-radio/2026/jan/28/shrinking-season-three-review-harrison-ford-apple-tv",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.8,
       "first_sentence": "Attempts to cheat on driving tests in England, Scotland and Wales increased by 47% in a year, figures show, raising concerns about road safety.",
       "timestamp": "2026-01-21T10:09:00Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Significant sexual safety problem for women working in elite UK sport, says survey",
-      "link": "https://www.theguardian.com/sport/2026/jan/21/significant-sexual-safety-problem-for-women-working-in-elite-uk-sport-says-survey",
-      "mean_score": 0.3319,
-      "vader_score": 0.2263,
-      "textblob_score": 0.4375,
-      "first_sentence": "There is a significant sexual safety problem for women working in elite sport in the UK, according to a survey, with 88% of respondents reporting they had been the target of at least one form of sexual misconduct in the past five years and five people (2%) saying they had been raped in work-related contexts outside the main workplace in that period.",
-      "timestamp": "2026-01-21T10:00:34Z",
       "source": "The Guardian"
     }
   ]
