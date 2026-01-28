@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-27T23:04:27Z",
+  "last run": "2026-01-28T00:16:25Z",
   "stories": [
+    {
+      "headline": "These young people love their regional communities. That's why they're pushing for change",
+      "link": "https://www.abc.net.au/news/2026-01-28/heywire-26-trailblazers-changing-regional-australia/106154604",
+      "mean_score": 0.4685,
+      "vader_score": 0.6369,
+      "textblob_score": 0.3,
+      "first_sentence": "Growing up as a young Aboriginal man on Wonnarua Country in the Hunter Valley, Jayden Wright knows firsthand the impacts that being disconnected from culture and identity can have.",
+      "timestamp": "2026-01-27T23:01:41Z",
+      "source": "ABC News"
+    },
     {
       "headline": "When a loved one with dementia wanders away",
       "link": "https://www.npr.org/2026/01/27/nx-s1-5680138/when-a-loved-one-with-dementia-wanders-away",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Brian Slater built a unique trike after seeing one in a motorbike book.",
       "timestamp": "2026-01-21T00:13:44Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Webb reveals a planetary nebula with phenomenal clarity, and it is spectacular",
-      "link": "https://arstechnica.com/space/2026/01/webb-has-given-us-with-a-stunning-new-view-of-a-well-known-planetary-nebula/",
-      "mean_score": 0.4759,
-      "vader_score": 0.4019,
-      "textblob_score": 0.55,
-      "first_sentence": "The colors show the star\u2019s final breath transforming into the raw ingredients for new worlds.",
-      "timestamp": "2026-01-20T23:33:57Z",
-      "source": "Ars Technica"
     }
   ]
 }
