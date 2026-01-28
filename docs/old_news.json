@@ -1,5 +1,15 @@
 [
   {
+    "headline": "'This should be good news': The koala success story with a catch",
+    "link": "https://www.sbs.com.au/news/article/koala-population-booming-south-australia/muvqzwkbc",
+    "mean_score": 0.6325,
+    "vader_score": 0.765,
+    "textblob_score": 0.5,
+    "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+    "timestamp": "2026-01-21T05:11:12Z",
+    "source": "SBS News"
+  },
+  {
     "headline": "My analogue month: would ditching my smartphone make me healthier, happier \u2013 or more stressed?",
     "link": "https://www.theguardian.com/technology/2026/jan/21/my-analogue-month-would-ditching-my-smartphone-make-me-healthier-happier-or-more-stressed",
     "mean_score": 0.3398,
