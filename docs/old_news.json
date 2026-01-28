@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Is listening to an audiobook as good as reading?",
+    "link": "https://www.theguardian.com/books/2026/jan/21/is-listening-to-an-audiobook-as-good-as-reading",
+    "mean_score": 0.5702,
+    "vader_score": 0.4404,
+    "textblob_score": 0.7,
+    "first_sentence": "Queen Camilla has met many disreputable characters in her time as a royal, but her encounter this week with two celebrity reprobates was at least for a good cause.",
+    "timestamp": "2026-01-21T08:00:54Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "A later-life love triangle? Redefining how to grow old \u2013 in pictures",
     "link": "https://www.theguardian.com/artanddesign/gallery/2026/jan/21/a-later-life-love-triangle-redefining-how-to-grow-old-in-pictures",
     "mean_score": 0.4685,
