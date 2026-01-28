@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-28T02:43:19Z",
+  "last run": "2026-01-28T03:33:36Z",
   "stories": [
+    {
+      "headline": "Alex de Minaur fell a distance short at the Australian Open. Will he ever win a major? | Simon Cambers",
+      "link": "https://www.theguardian.com/sport/2026/jan/28/alex-de-minaur-tennis-australian-open-chances-winning-major",
+      "mean_score": 0.3792,
+      "vader_score": 0.5859,
+      "textblob_score": 0.1725,
+      "first_sentence": "There are two ways to look at this.",
+      "timestamp": "2026-01-28T02:29:35Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Bare shelves, cabinets as jeweller on popular strip ransacked",
       "link": "https://www.abc.net.au/news/2026-01-28/matusik-jewellers-mt-lawley-ram-raid/106277288",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.1273,
       "first_sentence": "So a straight sets win for Carlos Alcaraz but probably a stiffer challenge than one he was expecting from his 34-year-old opponent Yannick Hanfmann, who had entered the tournament ranked 102 in the world.",
       "timestamp": "2026-01-21T06:04:17Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Homemade Bounty bars, savoury granola and flapjacks: Melissa Hemsley\u2019s recipes for healthy sweet treats",
-      "link": "https://www.theguardian.com/food/2026/jan/21/melissa-hemsley-healthy-sweet-treats-recipes-homemade-bounty-bars-savoury-granola-flapjacks",
-      "mean_score": 0.5579,
-      "vader_score": 0.6908,
-      "textblob_score": 0.425,
-      "first_sentence": "I love a Bounty, although I call them paradise bars.",
-      "timestamp": "2026-01-21T06:00:53Z",
       "source": "The Guardian"
     }
   ]
