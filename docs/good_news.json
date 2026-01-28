@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-28T10:06:36Z",
+  "last run": "2026-01-28T11:06:21Z",
   "stories": [
+    {
+      "headline": "Copyrighted art, mobile phones, Greenland: welcome to our age of shameless theft | Jonathan Liew",
+      "link": "https://www.theguardian.com/commentisfree/2026/jan/28/copyright-mobile-phones-greenland-ai-inequality-political-leaders",
+      "mean_score": 0.4766,
+      "vader_score": 0.1531,
+      "textblob_score": 0.8,
+      "first_sentence": "Last week I discovered that an article I wrote about the England cricket team has already been copied and repackaged, verbatim and without permission, by an Indian website.",
+      "timestamp": "2026-01-28T10:38:21Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Sali Hughes: forget smooth and glassy \u2013 glam beauty is back",
       "link": "https://www.theguardian.com/fashion/2026/jan/28/sali-hughes-dopamine-beauty-is-all-about-fun",
@@ -10,6 +20,16 @@
       "first_sentence": "The Guardian\u2019s journalism is independent.",
       "timestamp": "2026-01-28T10:00:10Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "Americans may love football, but did you know its origins are in medieval England?",
+      "link": "https://www.npr.org/2026/01/28/nx-s1-5689044/football-origins-explained",
+      "mean_score": 0.3159,
+      "vader_score": 0.3818,
+      "textblob_score": 0.25,
+      "first_sentence": "The playoffs are over and the matchup is set: The New England Patriots and Seattle Seahawks will face off on Feb.",
+      "timestamp": "2026-01-28T10:00:00Z",
+      "source": "NPR News"
     },
     {
       "headline": "Shrinking season three review \u2013 Harrison Ford is the best thing about this unapologetically soapy show",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.2073,
       "first_sentence": "Jovic holds in game one, while Frech and Paolini have moved from Kia to Cain and are just about to resume, the Italian up 6-2 15-40, and on Court, Tiafoe leads Comesana 6-4 6-3 3-3.",
       "timestamp": "2026-01-21T11:56:09Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Welcome to Duncanville: why the road to the NBA runs through Dallas",
-      "link": "https://www.theguardian.com/sport/2026/jan/21/welcome-to-duncanville-why-the-road-to-the-nba-runs-through-dallas",
-      "mean_score": 0.6294,
-      "vader_score": 0.4588,
-      "textblob_score": 0.8,
-      "first_sentence": "Another season, another name, another kid from Dallas.",
-      "timestamp": "2026-01-21T11:00:36Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Driving test cheating up 47% in Great Britain, prompting road safety concerns",
-      "link": "https://www.theguardian.com/money/2026/jan/21/driving-test-cheating-increase-great-britain-road-safety-concerns",
-      "mean_score": 0.6553,
-      "vader_score": 0.5106,
-      "textblob_score": 0.8,
-      "first_sentence": "Attempts to cheat on driving tests in England, Scotland and Wales increased by 47% in a year, figures show, raising concerns about road safety.",
-      "timestamp": "2026-01-21T10:09:00Z",
       "source": "The Guardian"
     }
   ]

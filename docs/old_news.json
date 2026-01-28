@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Welcome to Duncanville: why the road to the NBA runs through Dallas",
+    "link": "https://www.theguardian.com/sport/2026/jan/21/welcome-to-duncanville-why-the-road-to-the-nba-runs-through-dallas",
+    "mean_score": 0.6294,
+    "vader_score": 0.4588,
+    "textblob_score": 0.8,
+    "first_sentence": "Another season, another name, another kid from Dallas.",
+    "timestamp": "2026-01-21T11:00:36Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Driving test cheating up 47% in Great Britain, prompting road safety concerns",
+    "link": "https://www.theguardian.com/money/2026/jan/21/driving-test-cheating-increase-great-britain-road-safety-concerns",
+    "mean_score": 0.6553,
+    "vader_score": 0.5106,
+    "textblob_score": 0.8,
+    "first_sentence": "Attempts to cheat on driving tests in England, Scotland and Wales increased by 47% in a year, figures show, raising concerns about road safety.",
+    "timestamp": "2026-01-21T10:09:00Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Significant sexual safety problem for women working in elite UK sport, says survey",
     "link": "https://www.theguardian.com/sport/2026/jan/21/significant-sexual-safety-problem-for-women-working-in-elite-uk-sport-says-survey",
     "mean_score": 0.3319,
