@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-29T00:18:08Z",
+  "last run": "2026-01-29T01:33:39Z",
   "stories": [
+    {
+      "headline": "Bill Belichick: A Super Bowl god's fall from grace",
+      "link": "https://www.bbc.com/news/articles/clywp0wy21lo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5525,
+      "vader_score": 0.7717,
+      "textblob_score": 0.3333,
+      "first_sentence": "While the New England Patriots prepare for their 12th Super Bowl appearance, their former head coach Bill Belichick - widely considered to be the greatest professional football coach of all time - finds himself in an unlikely position: defending his legacy.",
+      "timestamp": "2026-01-29T00:25:53Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Paul Dano reacts to Tarantino criticism: \u2018I was incredibly grateful that the world spoke up for me\u2019",
       "link": "https://www.theguardian.com/film/2026/jan/29/paul-dano-quentin-tarantino-comments",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Covering back-to-school expenses such as shoes and headphones can be daunting enough without your child asking for costly brand-names.",
       "timestamp": "2026-01-21T20:54:47Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "'Beautiful' rare octopus spotted on popular Welsh beach",
-      "link": "https://www.bbc.com/news/articles/cq5yqnej8ejo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.6775,
-      "vader_score": 0.7717,
-      "textblob_score": 0.5833,
-      "first_sentence": "A photographer who was enjoying a walk on a popular Welsh beach says he became \"completely absorbed\" after spotting an octopus.",
-      "timestamp": "2026-01-21T20:28:37Z",
-      "source": "BBC News"
     }
   ]
 }

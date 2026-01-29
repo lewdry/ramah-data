@@ -1,5 +1,15 @@
 [
   {
+    "headline": "'Beautiful' rare octopus spotted on popular Welsh beach",
+    "link": "https://www.bbc.com/news/articles/cq5yqnej8ejo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.6775,
+    "vader_score": 0.7717,
+    "textblob_score": 0.5833,
+    "first_sentence": "A photographer who was enjoying a walk on a popular Welsh beach says he became \"completely absorbed\" after spotting an octopus.",
+    "timestamp": "2026-01-21T20:28:37Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Chelsea v Pafos, Newcastle v PSV, Juventus v Benfica, and more: Champions League \u2013 live",
     "link": "https://www.theguardian.com/football/live/2026/jan/21/chelsea-v-pafos-newcastle-v-psv-juventus-v-benfica-and-more-champions-league-live",
     "mean_score": 0.4445,
