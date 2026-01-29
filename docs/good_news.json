@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-29T16:11:54Z",
+  "last run": "2026-01-29T17:13:47Z",
   "stories": [
+    {
+      "headline": "BBC vows to better reflect working-class audiences around UK",
+      "link": "https://www.bbc.com/news/articles/c9312091kpeo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.5,
+      "first_sentence": "The BBC has committed to strengthening how it measures the ways audiences from different socio-economic and geographical backgrounds are portrayed and represented in its output.",
+      "timestamp": "2026-01-29T16:40:51Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Great Ormond Street surgeon harmed 94 children, review finds",
       "link": "https://www.theguardian.com/society/2026/jan/29/great-ormond-street-surgeon-harmed-children-review-yaser-jabbar",
@@ -50,6 +60,16 @@
       "first_sentence": "Aryna Sabalenka has dared officials to penalise her again for grunting after she rumbled over the top of Ukrainian Elina Svitolina in the Australian Open semi-final on Thursday to reach her fourth straight final at Melbourne Park.",
       "timestamp": "2026-01-29T13:28:34Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "Marty Supreme actress quits new film after casting backlash",
+      "link": "https://www.bbc.com/news/articles/c24gyz3j6e1o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3469,
+      "vader_score": 0.5574,
+      "textblob_score": 0.1364,
+      "first_sentence": "Actress Odessa A'zion has pulled out of A24's latest film, Deep Cuts, after online backlash over her casting.",
+      "timestamp": "2026-01-29T13:19:13Z",
+      "source": "BBC News"
     },
     {
       "headline": "Blood, butter and boys in luv: BTS\u2019s 20 best songs \u2013 ranked!",
@@ -2480,26 +2500,6 @@
       "first_sentence": "In a recent interview you gave an invaluable life lesson which involved a go-go bar and your mother\u2019s love.",
       "timestamp": "2026-01-22T15:15:16Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Special Ks burn brightly but briefly as Kokkinakis and Kyrgios exit doubles",
-      "link": "https://www.theguardian.com/sport/2026/jan/22/australian-open-tennis-kyrgios-kokkinakis-kubler-polmans-doubles",
-      "mean_score": 0.3671,
-      "vader_score": 0.3818,
-      "textblob_score": 0.3524,
-      "first_sentence": "In the end, it was a one-night only affair.",
-      "timestamp": "2026-01-22T14:52:04Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "All sorts of interesting flags and artifacts will fly to the Moon on Artemis II",
-      "link": "https://arstechnica.com/space/2026/01/nasa-to-fly-apollo-aviation-artifacts-on-artemis-ii/",
-      "mean_score": 0.526,
-      "vader_score": 0.4019,
-      "textblob_score": 0.65,
-      "first_sentence": "More than 2,300 commemorative items fill the duffel bag-size pouch.",
-      "timestamp": "2026-01-22T14:41:38Z",
-      "source": "Ars Technica"
     }
   ]
 }

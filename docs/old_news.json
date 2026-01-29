@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Special Ks burn brightly but briefly as Kokkinakis and Kyrgios exit doubles",
+    "link": "https://www.theguardian.com/sport/2026/jan/22/australian-open-tennis-kyrgios-kokkinakis-kubler-polmans-doubles",
+    "mean_score": 0.3671,
+    "vader_score": 0.3818,
+    "textblob_score": 0.3524,
+    "first_sentence": "In the end, it was a one-night only affair.",
+    "timestamp": "2026-01-22T14:52:04Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "All sorts of interesting flags and artifacts will fly to the Moon on Artemis II",
+    "link": "https://arstechnica.com/space/2026/01/nasa-to-fly-apollo-aviation-artifacts-on-artemis-ii/",
+    "mean_score": 0.526,
+    "vader_score": 0.4019,
+    "textblob_score": 0.65,
+    "first_sentence": "More than 2,300 commemorative items fill the duffel bag-size pouch.",
+    "timestamp": "2026-01-22T14:41:38Z",
+    "source": "Ars Technica"
+  },
+  {
     "headline": "Danish PM thanks Starmer for support over Greenland",
     "link": "https://www.bbc.com/news/articles/cjrzzn98qv3o?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.4404,
