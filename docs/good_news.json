@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-29T10:12:47Z",
+  "last run": "2026-01-29T11:11:23Z",
   "stories": [
+    {
+      "headline": "Number of term-time school holiday fines hits another record high",
+      "link": "https://www.bbc.com/news/articles/clyepw0w752o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3094,
+      "vader_score": 0.4588,
+      "textblob_score": 0.16,
+      "first_sentence": "A record 459,288 school holiday fines were issued in England last year, according to new figures from the Department for Education (DfE).",
+      "timestamp": "2026-01-29T10:45:32Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Madonna's love letter to Emin and Margate",
       "link": "https://www.bbc.com/news/articles/cn42dllev5zo?at_medium=RSS&at_campaign=rss",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Inspired qualifier Maddison Inglis has ridden an emotional rollercoaster in her first grand slam appearance in four years to book a spot in the Australian Open third round.",
       "timestamp": "2026-01-22T06:44:53Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "'Paul Mescal loved my song - but forgot my name'",
-      "link": "https://www.bbc.com/news/articles/c620lynpl35o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5253,
-      "vader_score": 0.3506,
-      "textblob_score": 0.7,
-      "first_sentence": "It was a simple answer in an interview, but Paul Mescal's approval for a song by Michael McGovern has seen life go crazy for the East Kilbride singer - even if the actor couldn't remember his name.",
-      "timestamp": "2026-01-22T06:07:57Z",
-      "source": "BBC News"
     }
   ]
 }
