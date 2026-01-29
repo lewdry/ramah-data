@@ -1,6 +1,36 @@
 {
-  "last run": "2026-01-29T19:13:41Z",
+  "last run": "2026-01-29T20:06:50Z",
   "stories": [
+    {
+      "headline": "How the West was won: K-pop's great assimilation gambit",
+      "link": "https://www.npr.org/2026/01/29/nx-s1-5685250/kpop-demon-hunters-rose-katseye-grammys",
+      "mean_score": 0.8158,
+      "vader_score": 0.8316,
+      "textblob_score": 0.8,
+      "first_sentence": "Ejae's story could easily have ended there.",
+      "timestamp": "2026-01-29T20:00:23Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "\u2018My idea of heaven\u2019: Madonna sings praises of artists\u2019 paradise Margate",
+      "link": "https://www.theguardian.com/uk-news/2026/jan/29/madonna-sings-praises-of-margate-heaven",
+      "mean_score": 0.4113,
+      "vader_score": 0.8225,
+      "textblob_score": 0.0,
+      "first_sentence": "If you were to guess where Madonna goes on holiday, you might think Mustique or the Maldives \u2013 Margate probably would not make the list.",
+      "timestamp": "2026-01-29T19:01:20Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018The LED of heating\u2019: cheap geothermal energy system makes US comeback",
+      "link": "https://www.theguardian.com/environment/2026/jan/29/cheap-geothermal-energy-system-makes-us-comeback-minnesota",
+      "mean_score": 0.3366,
+      "vader_score": 0.2732,
+      "textblob_score": 0.4,
+      "first_sentence": "Nearly half a century ago, the US Department of Energy launched a clean energy experiment beneath the University of Minnesota with a simple goal: storing hot water for months at a time in an aquifer more than 100 metres below ground.",
+      "timestamp": "2026-01-29T17:33:07Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "BBC vows to better reflect working-class audiences around UK",
       "link": "https://www.bbc.com/news/articles/c9312091kpeo?at_medium=RSS&at_campaign=rss",
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.25,
       "first_sentence": "Greenlandic prime minister Jens-Frederik Nielsen is speaking now ahead of tonight\u2019s EU summit on Greenland.",
       "timestamp": "2026-01-22T17:05:16Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "It\u2019s already yesterday again: the 20 best time-loop movies \u2013 ranked!",
-      "link": "https://www.theguardian.com/film/2026/jan/22/best-time-loop-movies-ranked-groundhog-day-terminator-looper",
-      "mean_score": 0.8348,
-      "vader_score": 0.6696,
-      "textblob_score": 1.0,
-      "first_sentence": "An Italian-Spanish remake of Groundhog Day, with a cynical nature presenter doomed to repeat the same 24 hours while reporting on a stork colony in the Canary Islands.",
-      "timestamp": "2026-01-22T15:45:18Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Stan Wawrinka wins marathon against Gea to make grand slam history at 40",
-      "link": "https://www.theguardian.com/sport/2026/jan/22/tennis-stan-wawrinka-australian-open-arthur-gea",
-      "mean_score": 0.5125,
-      "vader_score": 0.6249,
-      "textblob_score": 0.4,
-      "first_sentence": "Stan Wawrinka described his marathon second-round win at the Australian Open as a special moment in his career after becoming the first 40-year-old to reach the third round of a men\u2019s grand slam in 48 years.",
-      "timestamp": "2026-01-22T15:31:13Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "R&B star Jill Scott: \u2018I like mystery \u2013 I love Sade but I don\u2019t know what she had for breakfast\u2019",
-      "link": "https://www.theguardian.com/culture/2026/jan/22/jill-scott-interview-rnb-neo-soul-singer-actor",
-      "mean_score": 0.5093,
-      "vader_score": 0.5187,
-      "textblob_score": 0.5,
-      "first_sentence": "In a recent interview you gave an invaluable life lesson which involved a go-go bar and your mother\u2019s love.",
-      "timestamp": "2026-01-22T15:15:16Z",
       "source": "The Guardian"
     }
   ]
