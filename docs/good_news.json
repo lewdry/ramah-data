@@ -1,5 +1,5 @@
 {
-  "last run": "2026-01-29T14:15:27Z",
+  "last run": "2026-01-29T15:12:32Z",
   "stories": [
     {
       "headline": "Great Ormond Street surgeon harmed 94 children, review finds",
@@ -9,6 +9,16 @@
       "textblob_score": 0.8,
       "first_sentence": "Nearly 100 children suffered harm at the hands of a Great Ormond Street orthopaedic surgeon, a report has concluded.",
       "timestamp": "2026-01-29T14:08:45Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "EU proposals for free extra cabin bags on planes \u2018lunatic idea\u2019, says easyJet",
+      "link": "https://www.theguardian.com/business/2026/jan/29/eu-proposals-to-free-extra-cabin-bags-on-planes-lunatic-idea-says-easyjet",
+      "mean_score": 0.3553,
+      "vader_score": 0.5106,
+      "textblob_score": 0.2,
+      "first_sentence": "EasyJet said proposals to enforce free additional cabin bags on planes across Europe are a \u201clunatic idea\u201d, warning of fare rises and flight delays if legislation goes through.",
+      "timestamp": "2026-01-29T14:02:52Z",
       "source": "The Guardian"
     },
     {
@@ -2490,16 +2500,6 @@
       "first_sentence": "Danish Prime Minister Mette Frederiksen has thanked Sir Keir Starmer for his \"strong support\" over US President Donald Trump's threats to annex Greenland, as the pair met in the UK.",
       "timestamp": "2026-01-22T14:21:17Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Rural California is seeing it\u2019s craziest election in years. Can a progressive win it?",
-      "link": "https://www.theguardian.com/us-news/2026/jan/22/audrey-denney-california-special-election",
-      "mean_score": 0.4787,
-      "vader_score": 0.5574,
-      "textblob_score": 0.4,
-      "first_sentence": "Inside an old Craftsman on the northern end of California\u2019s Sacramento valley, Audrey Denney is spending the day on the phone \u2013 calling constituent after constituent to discuss rising healthcare costs, wildfire insurance premiums and cuts to benefits \u2013 and to solicit donations.",
-      "timestamp": "2026-01-22T14:01:26Z",
-      "source": "The Guardian"
     }
   ]
 }
