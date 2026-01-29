@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Are 'passkeys' better than passwords? This security expert says yes",
+    "link": "https://www.npr.org/2026/01/21/nx-s1-5675954/are-passkeys-better-than-passwords-this-security-expert-says-yes",
+    "mean_score": 0.655,
+    "vader_score": 0.81,
+    "textblob_score": 0.5,
+    "first_sentence": "Has your phone been prompting you for months to log into certain sites with a \"passkey\"? Security writer Kim Key of PC Mag explains why you might want to ditch your passwords in favor of passkeys.",
+    "timestamp": "2026-01-21T22:23:42Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "For 50 years, ABC Classic has connected music lovers across Australia",
+    "link": "https://www.abc.net.au/news/2026-01-22/abc-classic-presenters-celebrate-50-years-of-broadcasting/106245866",
+    "mean_score": 0.3467,
+    "vader_score": 0.5267,
+    "textblob_score": 0.1667,
+    "first_sentence": "ABC Classic is turning 50 years young on Saturday January 24.",
+    "timestamp": "2026-01-21T21:00:00Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "If your kid's asking for brands, your response could make a huge difference",
     "link": "https://www.abc.net.au/news/2026-01-22/how-to-involve-your-kids-in-back-to-school-budgeting/106225314",
     "mean_score": 0.3591,

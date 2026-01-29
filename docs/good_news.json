@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-29T04:32:41Z",
+  "last run": "2026-01-29T05:19:52Z",
   "stories": [
+    {
+      "headline": "The rise of Fafo parenting: is this the end of gentle child rearing?",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/29/the-rise-of-fafo-parenting-is-this-the-end-of-gentle-child-rearing",
+      "mean_score": 0.3202,
+      "vader_score": 0.4404,
+      "textblob_score": 0.2,
+      "first_sentence": "Mothers on social media are advocating a tough, no-nonsense approach to parenting.",
+      "timestamp": "2026-01-29T05:00:38Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Bill Belichick: A Super Bowl god's fall from grace",
       "link": "https://www.bbc.com/news/articles/clywp0wy21lo?at_medium=RSS&at_campaign=rss",
@@ -10,6 +20,16 @@
       "first_sentence": "While the New England Patriots prepare for their 12th Super Bowl appearance, their former head coach Bill Belichick - widely considered to be the greatest professional football coach of all time - finds himself in an unlikely position: defending his legacy.",
       "timestamp": "2026-01-29T00:25:53Z",
       "source": "BBC News"
+    },
+    {
+      "headline": "\u2018A great marker\u2019: Rosenior lauds young Chelsea side for comeback win at Napoli",
+      "link": "https://www.theguardian.com/football/2026/jan/28/liam-rosenior-quotes-press-conference-chelsea-napoli-champions-league",
+      "mean_score": 0.7013,
+      "vader_score": 0.836,
+      "textblob_score": 0.5667,
+      "first_sentence": "Liam Rosenior praised his young Chelsea side\u2019s ability to deal with adversity after they produced a spirited comeback against Napoli to reach the last 16 of the Champions League.",
+      "timestamp": "2026-01-28T23:39:30Z",
+      "source": "The Guardian"
     },
     {
       "headline": "Paul Dano reacts to Tarantino criticism: \u2018I was incredibly grateful that the world spoke up for me\u2019",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Some people in Britain are asking what it would look like for their government to sever security and intelligence ties with its closest ally, the U.S.",
       "timestamp": "2026-01-21T23:01:24Z",
       "source": "NPR News"
-    },
-    {
-      "headline": "Are 'passkeys' better than passwords? This security expert says yes",
-      "link": "https://www.npr.org/2026/01/21/nx-s1-5675954/are-passkeys-better-than-passwords-this-security-expert-says-yes",
-      "mean_score": 0.655,
-      "vader_score": 0.81,
-      "textblob_score": 0.5,
-      "first_sentence": "Has your phone been prompting you for months to log into certain sites with a \"passkey\"? Security writer Kim Key of PC Mag explains why you might want to ditch your passwords in favor of passkeys.",
-      "timestamp": "2026-01-21T22:23:42Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "For 50 years, ABC Classic has connected music lovers across Australia",
-      "link": "https://www.abc.net.au/news/2026-01-22/abc-classic-presenters-celebrate-50-years-of-broadcasting/106245866",
-      "mean_score": 0.3467,
-      "vader_score": 0.5267,
-      "textblob_score": 0.1667,
-      "first_sentence": "ABC Classic is turning 50 years young on Saturday January 24.",
-      "timestamp": "2026-01-21T21:00:00Z",
-      "source": "ABC News"
     }
   ]
 }
