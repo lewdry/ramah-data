@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-28T23:06:43Z",
+  "last run": "2026-01-29T00:18:08Z",
   "stories": [
+    {
+      "headline": "Paul Dano reacts to Tarantino criticism: \u2018I was incredibly grateful that the world spoke up for me\u2019",
+      "link": "https://www.theguardian.com/film/2026/jan/29/paul-dano-quentin-tarantino-comments",
+      "mean_score": 0.5005,
+      "vader_score": 0.101,
+      "textblob_score": 0.9,
+      "first_sentence": "Paul Dano has responded to Quentin Tarantino\u2019s scathing criticism of his acting abilities, thanking those who came to his defence after Tarantino called him a \u201cweak, uninteresting guy\u201d and \u201cthe limpest dick in the world\u201d.",
+      "timestamp": "2026-01-28T23:38:46Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Napoli v Chelsea: Champions League \u2013 live",
       "link": "https://www.theguardian.com/football/live/2026/jan/28/napoli-v-chelsea-champions-league-live",
@@ -19,6 +29,16 @@
       "textblob_score": 0.4,
       "first_sentence": "Bullets guard Hunter Maldonado and 36ers' Nick Rakocevic wrestled into empty chairs of the front row at Wednesday night's game, prompting an all-in scuffle.",
       "timestamp": "2026-01-28T21:36:37Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Live: Victorian firefighters take advantage of better conditions as heatwave persists",
+      "link": "https://www.abc.net.au/news/2026-01-29/heatwave-south-east-australia-nsw-victoria-bushfire-weather/106279598",
+      "mean_score": 0.4588,
+      "vader_score": 0.5994,
+      "textblob_score": 0.3182,
+      "first_sentence": "NSW is on high alert for bushfires as towns across south-eastern Australia continue to swelter in the extreme heat.",
+      "timestamp": "2026-01-28T21:20:16Z",
       "source": "ABC News"
     },
     {
@@ -2480,26 +2500,6 @@
       "first_sentence": "A photographer who was enjoying a walk on a popular Welsh beach says he became \"completely absorbed\" after spotting an octopus.",
       "timestamp": "2026-01-21T20:28:37Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Chelsea v Pafos, Newcastle v PSV, Juventus v Benfica, and more: Champions League \u2013 live",
-      "link": "https://www.theguardian.com/football/live/2026/jan/21/chelsea-v-pafos-newcastle-v-psv-juventus-v-benfica-and-more-champions-league-live",
-      "mean_score": 0.4445,
-      "vader_score": 0.5709,
-      "textblob_score": 0.3182,
-      "first_sentence": "Below the zigzagging contrails that paint the blue Brussels sky, Christian Burgess is reflecting on the latest chapters of his extraordinary journey, those since joining Royale Union Saint\u2011Gilloise almost six years ago.",
-      "timestamp": "2026-01-21T19:09:56Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Australia earns global praise for economic 'soft landing'",
-      "link": "https://www.abc.net.au/news/2026-01-22/reserve-bank-earns-global-praise-for-economic-soft-landing/106254000",
-      "mean_score": 0.3287,
-      "vader_score": 0.5574,
-      "textblob_score": 0.1,
-      "first_sentence": "A new report from the OECD says Australia's economy is returning to normal but remains vulnerable and lacks dynamism.",
-      "timestamp": "2026-01-21T19:09:13Z",
-      "source": "ABC News"
     }
   ]
 }

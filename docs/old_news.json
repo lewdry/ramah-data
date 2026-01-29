@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Chelsea v Pafos, Newcastle v PSV, Juventus v Benfica, and more: Champions League \u2013 live",
+    "link": "https://www.theguardian.com/football/live/2026/jan/21/chelsea-v-pafos-newcastle-v-psv-juventus-v-benfica-and-more-champions-league-live",
+    "mean_score": 0.4445,
+    "vader_score": 0.5709,
+    "textblob_score": 0.3182,
+    "first_sentence": "Below the zigzagging contrails that paint the blue Brussels sky, Christian Burgess is reflecting on the latest chapters of his extraordinary journey, those since joining Royale Union Saint\u2011Gilloise almost six years ago.",
+    "timestamp": "2026-01-21T19:09:56Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Australia earns global praise for economic 'soft landing'",
+    "link": "https://www.abc.net.au/news/2026-01-22/reserve-bank-earns-global-praise-for-economic-soft-landing/106254000",
+    "mean_score": 0.3287,
+    "vader_score": 0.5574,
+    "textblob_score": 0.1,
+    "first_sentence": "A new report from the OECD says Australia's economy is returning to normal but remains vulnerable and lacks dynamism.",
+    "timestamp": "2026-01-21T19:09:13Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Marseille v Liverpool: Champions League \u2013 live",
     "link": "https://www.theguardian.com/football/live/2026/jan/21/marseille-v-liverpool-champions-league-live",
     "mean_score": 0.3315,
