@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-29T11:11:23Z",
+  "last run": "2026-01-29T12:09:52Z",
   "stories": [
+    {
+      "headline": "Stay on this stunning island for free... if you're willing to count puffins",
+      "link": "https://www.bbc.com/news/articles/cdexjz58e3zo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5632,
+      "vader_score": 0.743,
+      "textblob_score": 0.3833,
+      "first_sentence": "A beautiful, remote island off the coast of southwest Wales could be your new home - as long as you are happy to count puffins.",
+      "timestamp": "2026-01-29T11:47:49Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Number of term-time school holiday fines hits another record high",
       "link": "https://www.bbc.com/news/articles/clyepw0w752o?at_medium=RSS&at_campaign=rss",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Rescue efforts were underway on Thursday to find people buried in rubble after a landslide hit a campground in New Zealand.",
       "timestamp": "2026-01-22T07:23:02Z",
       "source": "AP News"
-    },
-    {
-      "headline": "Australian qualifier Maddison Inglis rides emotions to tense win but local hopes fade",
-      "link": "https://www.theguardian.com/sport/2026/jan/22/australian-open-tennis-maddison-inglis-laura-siegemund-second-round",
-      "mean_score": 0.3882,
-      "vader_score": 0.6597,
-      "textblob_score": 0.1167,
-      "first_sentence": "Inspired qualifier Maddison Inglis has ridden an emotional rollercoaster in her first grand slam appearance in four years to book a spot in the Australian Open third round.",
-      "timestamp": "2026-01-22T06:44:53Z",
-      "source": "The Guardian"
     }
   ]
 }
