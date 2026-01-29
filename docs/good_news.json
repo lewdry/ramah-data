@@ -1,6 +1,46 @@
 {
-  "last run": "2026-01-29T13:25:44Z",
+  "last run": "2026-01-29T14:15:27Z",
   "stories": [
+    {
+      "headline": "Great Ormond Street surgeon harmed 94 children, review finds",
+      "link": "https://www.theguardian.com/society/2026/jan/29/great-ormond-street-surgeon-harmed-children-review-yaser-jabbar",
+      "mean_score": 0.525,
+      "vader_score": 0.25,
+      "textblob_score": 0.8,
+      "first_sentence": "Nearly 100 children suffered harm at the hands of a Great Ormond Street orthopaedic surgeon, a report has concluded.",
+      "timestamp": "2026-01-29T14:08:45Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Embrace the imperfect and don\u2019t try to keep everyone happy: readers share their tips on doing less in 2026",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/29/2026-tips-let-them-embrace-imperfect-dont-keep-everyone-happy",
+      "mean_score": 0.5131,
+      "vader_score": 0.7096,
+      "textblob_score": 0.3167,
+      "first_sentence": "At the beginning of the year, we asked experts on how we can go easier on ourselves.",
+      "timestamp": "2026-01-29T14:00:23Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Great Ormond Street doctor who botched surgery harmed nearly 100 children",
+      "link": "https://www.bbc.com/news/articles/cq841e4n4v8o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.35,
+      "vader_score": 0.25,
+      "textblob_score": 0.45,
+      "first_sentence": "Nearly 100 children were harmed by a Great Ormond Street Hospital limb reconstruction surgeon, a review has found.",
+      "timestamp": "2026-01-29T13:30:06Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Aryna Sabalenka hits out at umpire after grunting penalty in win over Svitolina",
+      "link": "https://www.theguardian.com/sport/2026/jan/29/aryna-sabalenka-elina-svitolina-australian-open-semi-final-tennis",
+      "mean_score": 0.5011,
+      "vader_score": 0.2023,
+      "textblob_score": 0.8,
+      "first_sentence": "Aryna Sabalenka has dared officials to penalise her again for grunting after she rumbled over the top of Ukrainian Elina Svitolina in the Australian Open semi-final on Thursday to reach her fourth straight final at Melbourne Park.",
+      "timestamp": "2026-01-29T13:28:34Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Blood, butter and boys in luv: BTS\u2019s 20 best songs \u2013 ranked!",
       "link": "https://www.theguardian.com/culture/2026/jan/29/bts-best-songs-ranked",
@@ -2459,46 +2499,6 @@
       "textblob_score": 0.4,
       "first_sentence": "Inside an old Craftsman on the northern end of California\u2019s Sacramento valley, Audrey Denney is spending the day on the phone \u2013 calling constituent after constituent to discuss rising healthcare costs, wildfire insurance premiums and cuts to benefits \u2013 and to solicit donations.",
       "timestamp": "2026-01-22T14:01:26Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Wunmi Mosaku's rise from Manchester estate to nod for best supporting actress",
-      "link": "https://www.bbc.com/news/articles/c23rr0d5nzyo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.7107,
-      "vader_score": 0.7964,
-      "textblob_score": 0.625,
-      "first_sentence": "As a young child, Wunmi Mosaku always had her sights set on a career in acting, inspired by her love of the 1980s musical Annie.",
-      "timestamp": "2026-01-22T13:35:35Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Shop delighted as families 'Say Yes to the Dress' for First Communions",
-      "link": "https://www.bbc.com/news/articles/cdjn80km82ro?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5967,
-      "vader_score": 0.7184,
-      "textblob_score": 0.475,
-      "first_sentence": "The manager of a charity shop has said she has been overwhelmed by the response to a \"Say Yes to the Dress\" initiative for First Communion celebrations.",
-      "timestamp": "2026-01-22T11:04:16Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "A bid to clean up shipping industry intensified a coral bleaching event on Great Barrier Reef, study says",
-      "link": "https://www.theguardian.com/environment/2026/jan/22/great-barrier-reef-coral-bleaching-shipping-industry-sulphur",
-      "mean_score": 0.6632,
-      "vader_score": 0.743,
-      "textblob_score": 0.5833,
-      "first_sentence": "Steps to clean up the shipping industry by removing sulphur from fuels intensified a major coral bleaching event on the Great Barrier Reef by allowing more of the sun\u2019s energy to hit the oceanic wonder, according to a new study.",
-      "timestamp": "2026-01-22T11:00:53Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Australian Open 2026: Sinner and Osaka advance, Wawrinka wins in five sets \u2013 live",
-      "link": "https://www.theguardian.com/sport/live/2026/jan/22/australian-open-2026-sinner-osaka-rybakina-fritz-wawrinka-live",
-      "mean_score": 0.3405,
-      "vader_score": 0.5719,
-      "textblob_score": 0.1091,
-      "first_sentence": "Meanwhile, Nick Kyrgios and Thanasi Kokkinakis are up 2-1 up in the second set after their underarm serves let them down in the first, losing 6-4 to fellow Australian duo Jason Kubler and Marc Polman.",
-      "timestamp": "2026-01-22T10:53:19Z",
       "source": "The Guardian"
     }
   ]
