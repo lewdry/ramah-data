@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Watch: Russian cosmonaut captures stunning aurora from space",
+    "link": "https://www.bbc.com/news/videos/cn40027nej0o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3159,
+    "vader_score": 0.3818,
+    "textblob_score": 0.25,
+    "first_sentence": "Cosmonaut Sergey Kud-Sverchkov captured breathtaking views of aurora lights over Earth, seen from the International Space Station.",
+    "timestamp": "2026-01-22T01:02:05Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "March for Australia admins encouraged people to join White Australia Party",
+    "link": "https://www.abc.net.au/news/2026-01-22/verify-neo-nazi-group-linked-to-political-party/106254196",
+    "mean_score": 0.3753,
+    "vader_score": 0.7506,
+    "textblob_score": 0.0,
+    "first_sentence": "An ABC NEWS Verify investigation has revealed that some of those involved behind the scenes of the March for Australia (MFA) anti-immigration protests previously tried to recruit people to the now disbanded Neo-Nazi White Australia Party.",
+    "timestamp": "2026-01-22T01:00:43Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Live: Qualifier keeps Australian women's tilt alive with thrilling second-round win",
     "link": "https://www.abc.net.au/news/2026-01-22/australian-open-2026-live-novak-djokovic-kyrgios-kokkinakis/106256036",
     "mean_score": 0.5582,
