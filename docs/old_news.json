@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Danish PM thanks Starmer for support over Greenland",
+    "link": "https://www.bbc.com/news/articles/cjrzzn98qv3o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4404,
+    "vader_score": 0.6808,
+    "textblob_score": 0.2,
+    "first_sentence": "Danish Prime Minister Mette Frederiksen has thanked Sir Keir Starmer for his \"strong support\" over US President Donald Trump's threats to annex Greenland, as the pair met in the UK.",
+    "timestamp": "2026-01-22T14:21:17Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Rural California is seeing it\u2019s craziest election in years. Can a progressive win it?",
     "link": "https://www.theguardian.com/us-news/2026/jan/22/audrey-denney-california-special-election",
     "mean_score": 0.4787,
