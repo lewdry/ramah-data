@@ -1,5 +1,5 @@
 {
-  "last run": "2026-01-30T14:12:49Z",
+  "last run": "2026-01-30T15:10:42Z",
   "stories": [
     {
       "headline": "My family motto? It\u2019s amazing how lucky you get if you work really hard",
@@ -150,6 +150,16 @@
       "first_sentence": "Eleven endangered skinks released into a gated community in Victoria's Alpine national park will soon become 13, when Omeo, one of the females, gives birth in March.",
       "timestamp": "2026-01-30T01:14:34Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "Djokovic turns back the clock to reach Aus Open final with marathon win over Sinner",
+      "link": "https://www.abc.net.au/news/2026-01-30/australian-open-day-13-live-blog-alcaraz-zverev-djokovic/106286224",
+      "mean_score": 0.3997,
+      "vader_score": 0.5994,
+      "textblob_score": 0.2,
+      "first_sentence": "Novak Djokovic will face Carlos Alcaraz in the Australian Open men's singles final after beating defending champion Jannik Sinner 3-6, 6-3, 4-6, 6-4, 6-4 in four hours and nine minutes.",
+      "timestamp": "2026-01-30T00:39:44Z",
+      "source": "ABC News"
     },
     {
       "headline": "Why Lachie Neale is having his 'best pre-season in a long time' despite drama",
@@ -2490,16 +2500,6 @@
       "first_sentence": "One of the producers responsible for shaping Arctic Monkeys' legendary first album has spoken of his pride at working with the Sheffield band, exactly 20 years on from its  release.",
       "timestamp": "2026-01-23T06:10:57Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Helen Goh\u2019s recipe for Breton butter cake with marmalade | The sweet spot",
-      "link": "https://www.theguardian.com/food/2026/jan/23/breton-butter-cake-recipe-marmalade-helen-goh",
-      "mean_score": 0.4044,
-      "vader_score": 0.4588,
-      "textblob_score": 0.35,
-      "first_sentence": "A Breton butter cake is a proud product of Brittany\u2019s butter-rich baking tradition: dense, golden and unapologetically indulgent.",
-      "timestamp": "2026-01-23T06:00:08Z",
-      "source": "The Guardian"
     }
   ]
 }
