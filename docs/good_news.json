@@ -1,6 +1,46 @@
 {
-  "last run": "2026-01-30T00:18:19Z",
+  "last run": "2026-01-30T01:34:21Z",
   "stories": [
+    {
+      "headline": "Australia news live: PM hails \u2018landmark\u2019 national cabinet agreement on hospital funding",
+      "link": "https://www.theguardian.com/australia-news/live/2026/jan/30/national-cabinet-meeting-ndis-health-funding-gun-buyback-scheme-anthony-albanese-mark-butler-labor-coalition-sussan-ley-ntwnfb",
+      "mean_score": 0.3151,
+      "vader_score": 0.4939,
+      "textblob_score": 0.1364,
+      "first_sentence": "The prime minister, Anthony Albanese, says the federal government has reached an agreement in national cabinet for hospital funding.",
+      "timestamp": "2026-01-30T01:25:01Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Critically endangered skink births expected after captive breeding program success \u2013 video",
+      "link": "https://www.theguardian.com/environment/video/2026/jan/30/critically-endangered-skink-births-expected-after-captive-breeding-program-success-video",
+      "mean_score": 0.3359,
+      "vader_score": 0.5719,
+      "textblob_score": 0.1,
+      "first_sentence": "Eleven endangered skinks released into a gated community in Victoria's Alpine national park will soon become 13, when Omeo, one of the females, gives birth in March.",
+      "timestamp": "2026-01-30T01:14:34Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Why Lachie Neale is having his 'best pre-season in a long time' despite drama",
+      "link": "https://www.abc.net.au/news/2026-01-30/lachie-neale-brisbane-lions-pre-season-marriage-breakdown/106286732",
+      "mean_score": 0.5559,
+      "vader_score": 0.6369,
+      "textblob_score": 0.475,
+      "first_sentence": "Neale gave up the co-captaincy after a high-profile marriage breakdown over the summer but Fagan said the premiership winner was injury-free through the pre-season for the first time in years.",
+      "timestamp": "2026-01-30T00:38:02Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Man accused of impersonating FBI agent in bid to free Luigi Mangione",
+      "link": "https://www.bbc.com/news/articles/c4g0y6yp2vno?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3366,
+      "vader_score": 0.2732,
+      "textblob_score": 0.4,
+      "first_sentence": "A man accused of impersonating a federal agent in a bid to allegedly free Luigi Mangione, the man accused of gunning down the CEO of United Healthcare in 2024, has been arrested.",
+      "timestamp": "2026-01-30T00:08:47Z",
+      "source": "BBC News"
+    },
     {
       "headline": "How the West was won: K-pop's great assimilation gambit",
       "link": "https://www.npr.org/2026/01/29/nx-s1-5685250/kpop-demon-hunters-rose-katseye-grammys",
@@ -2460,46 +2500,6 @@
       "first_sentence": "Australia has named 53 athletes to compete at the 2026 Winter Olympic Games in Milan-Cortina.",
       "timestamp": "2026-01-22T18:50:45Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Toronto man posed as pilot to rack up hundreds of free flights, prosecutors say",
-      "link": "https://www.theguardian.com/world/2026/jan/22/canada-pilot-airline-tickets",
-      "mean_score": 0.4553,
-      "vader_score": 0.5106,
-      "textblob_score": 0.4,
-      "first_sentence": "A Toronto man posed as a pilot for years in order to fool airlines into giving him hundreds of free flights, prosecutors have alleged, in a case that has prompted comparisons to the Hollywood thriller Catch Me If You Can.",
-      "timestamp": "2026-01-22T18:22:32Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Second season of With Love, Meghan fails to reach Netflix\u2019s top 1,000",
-      "link": "https://www.theguardian.com/uk-news/2026/jan/22/second-season-of-with-love-meghan-fails-to-reach-netflixs-top-1000",
-      "mean_score": 0.3178,
-      "vader_score": 0.5106,
-      "textblob_score": 0.125,
-      "first_sentence": "The Duchess of Sussex\u2019s latest Netflix lifestyle show failed to crack the top 1,000 most watched programmes on the platform, figures suggest, amid reports that it will not return for a third series.",
-      "timestamp": "2026-01-22T17:56:25Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Blue Origin makes impressive strides with reuse\u2014next launch will refly booster",
-      "link": "https://arstechnica.com/space/2026/01/blue-origin-makes-impressive-strides-with-reuse-next-launch-will-refly-booster/",
-      "mean_score": 0.5053,
-      "vader_score": 0.5106,
-      "textblob_score": 0.5,
-      "first_sentence": "With this quick turnaround, Blue Origin takes a step toward a faster cadence.",
-      "timestamp": "2026-01-22T17:49:24Z",
-      "source": "Ars Technica"
-    },
-    {
-      "headline": "Greenland\u2019s PM says he doesn\u2019t know details of rumoured deal and calls for US to respect red lines \u2013 latest updates",
-      "link": "https://www.theguardian.com/world/live/2026/jan/22/zelenskyy-trump-putin-ukraine-russia-us-davos-greenland-eu-europe-live-news",
-      "mean_score": 0.3634,
-      "vader_score": 0.4767,
-      "textblob_score": 0.25,
-      "first_sentence": "Greenlandic prime minister Jens-Frederik Nielsen is speaking now ahead of tonight\u2019s EU summit on Greenland.",
-      "timestamp": "2026-01-22T17:05:16Z",
-      "source": "The Guardian"
     }
   ]
 }

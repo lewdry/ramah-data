@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Toronto man posed as pilot to rack up hundreds of free flights, prosecutors say",
+    "link": "https://www.theguardian.com/world/2026/jan/22/canada-pilot-airline-tickets",
+    "mean_score": 0.4553,
+    "vader_score": 0.5106,
+    "textblob_score": 0.4,
+    "first_sentence": "A Toronto man posed as a pilot for years in order to fool airlines into giving him hundreds of free flights, prosecutors have alleged, in a case that has prompted comparisons to the Hollywood thriller Catch Me If You Can.",
+    "timestamp": "2026-01-22T18:22:32Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Second season of With Love, Meghan fails to reach Netflix\u2019s top 1,000",
+    "link": "https://www.theguardian.com/uk-news/2026/jan/22/second-season-of-with-love-meghan-fails-to-reach-netflixs-top-1000",
+    "mean_score": 0.3178,
+    "vader_score": 0.5106,
+    "textblob_score": 0.125,
+    "first_sentence": "The Duchess of Sussex\u2019s latest Netflix lifestyle show failed to crack the top 1,000 most watched programmes on the platform, figures suggest, amid reports that it will not return for a third series.",
+    "timestamp": "2026-01-22T17:56:25Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Blue Origin makes impressive strides with reuse\u2014next launch will refly booster",
+    "link": "https://arstechnica.com/space/2026/01/blue-origin-makes-impressive-strides-with-reuse-next-launch-will-refly-booster/",
+    "mean_score": 0.5053,
+    "vader_score": 0.5106,
+    "textblob_score": 0.5,
+    "first_sentence": "With this quick turnaround, Blue Origin takes a step toward a faster cadence.",
+    "timestamp": "2026-01-22T17:49:24Z",
+    "source": "Ars Technica"
+  },
+  {
+    "headline": "Greenland\u2019s PM says he doesn\u2019t know details of rumoured deal and calls for US to respect red lines \u2013 latest updates",
+    "link": "https://www.theguardian.com/world/live/2026/jan/22/zelenskyy-trump-putin-ukraine-russia-us-davos-greenland-eu-europe-live-news",
+    "mean_score": 0.3634,
+    "vader_score": 0.4767,
+    "textblob_score": 0.25,
+    "first_sentence": "Greenlandic prime minister Jens-Frederik Nielsen is speaking now ahead of tonight\u2019s EU summit on Greenland.",
+    "timestamp": "2026-01-22T17:05:16Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "It\u2019s already yesterday again: the 20 best time-loop movies \u2013 ranked!",
     "link": "https://www.theguardian.com/film/2026/jan/22/best-time-loop-movies-ranked-groundhog-day-terminator-looper",
     "mean_score": 0.8348,
