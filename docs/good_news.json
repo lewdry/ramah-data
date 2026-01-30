@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-30T11:10:12Z",
+  "last run": "2026-01-30T12:09:16Z",
   "stories": [
+    {
+      "headline": "The best recent translated fiction \u2013 review roundup",
+      "link": "https://www.theguardian.com/books/2026/jan/30/the-best-recent-translated-fiction-review-roundup",
+      "mean_score": 0.5685,
+      "vader_score": 0.6369,
+      "textblob_score": 0.5,
+      "first_sentence": "White Moss by Anna Nerkagi, translated by Irina Sadovina (Pushkin, \u00a312.99)\u201cYou, too, need a woman!\u201d Alyoshka\u2019s mother tells him.",
+      "timestamp": "2026-01-30T12:00:21Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "What we\u2019re reading: George Saunders, Erin Somers and Guardian readers on the books they enjoyed in January",
+      "link": "https://www.theguardian.com/books/2026/jan/30/what-were-reading-george-saunders-erin-somers-and-guardian-readers-on-the-books-they-enjoyed-in-january",
+      "mean_score": 0.5053,
+      "vader_score": 0.5106,
+      "textblob_score": 0.5,
+      "first_sentence": "Lately I\u2019ve been going back to read some classic works that I had, in my zany life-arc, missed, in the (selfish) hope of opening up new frequencies in my work.",
+      "timestamp": "2026-01-30T11:00:19Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Carlos Alcaraz breaks Zverev\u2019s heart after surviving cramp to win five-set epic",
       "link": "https://www.theguardian.com/sport/2026/jan/30/australian-open-tennis-carlos-alcaraz-alexander-zverev-semi-final-report",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.3,
       "first_sentence": "Victoria Mboko has given herself a shot at Aryna Sabalenka, the world No 1, in the fourth round of the Australian Open, after the 19-year-old prodigy held her nerve at the end of an incredibly tense tussle to close out a 7-6 (5), 5-7, 6-3 win over the 14th seed Clara Tauson.",
       "timestamp": "2026-01-23T05:01:39Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018I can understand being brought to your knees\u2019: Amanda Seyfried on obsession, devotion and the joy of socks",
-      "link": "https://www.theguardian.com/film/2026/jan/23/i-can-understand-being-brought-to-your-knees-amanda-seyfried-on-obsession-devotion-and-the-joy-of-socks",
-      "mean_score": 0.7298,
-      "vader_score": 0.6597,
-      "textblob_score": 0.8,
-      "first_sentence": "Her concern is understandable.",
-      "timestamp": "2026-01-23T05:00:07Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Carousel review \u2013 Chris Pine and Jenny Slate are lost in static romance drama",
-      "link": "https://www.theguardian.com/film/2026/jan/23/carousel-review-chris-pine-and-jenny-slate-are-lost-in-static-romance-drama",
-      "mean_score": 0.4091,
-      "vader_score": 0.3182,
-      "textblob_score": 0.5,
-      "first_sentence": "And so this year\u2019s Sundance has officially begun, with grief over the loss of founder Robert Redford and its move from long-running home Park City likely to drown out the sounds of anyone talking about the first narrative premiere.",
-      "timestamp": "2026-01-23T04:14:06Z",
       "source": "The Guardian"
     }
   ]
