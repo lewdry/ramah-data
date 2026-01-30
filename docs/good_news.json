@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-30T09:12:57Z",
+  "last run": "2026-01-30T10:09:49Z",
   "stories": [
+    {
+      "headline": "Carlos Alcaraz breaks Zverev\u2019s heart after surviving cramp to win five-set epic",
+      "link": "https://www.theguardian.com/sport/2026/jan/30/australian-open-tennis-carlos-alcaraz-alexander-zverev-semi-final-report",
+      "mean_score": 0.6528,
+      "vader_score": 0.8555,
+      "textblob_score": 0.45,
+      "first_sentence": "Murmurs around Melbourne Park had been building.",
+      "timestamp": "2026-01-30T09:35:15Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Ukraine will be \u2018technically\u2019 ready to join EU in 2027, Zelenskyy says \u2013 Europe live",
       "link": "https://www.theguardian.com/world/live/2026/jan/30/europe-ukraine-russia-eu-zelenskyy-latest-news-updates",
@@ -2490,16 +2500,6 @@
       "first_sentence": "And so this year\u2019s Sundance has officially begun, with grief over the loss of founder Robert Redford and its move from long-running home Park City likely to drown out the sounds of anyone talking about the first narrative premiere.",
       "timestamp": "2026-01-23T04:14:06Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Wollongong sports and entertainment precinct receives $17 million boost",
-      "link": "https://www.abc.net.au/news/2026-01-23/wollongong-sports-entertainment-precinct-funding-announced/106261074",
-      "mean_score": 0.3352,
-      "vader_score": 0.6705,
-      "textblob_score": 0.0,
-      "first_sentence": "The state government will invest $17 million to move plans for Wollongong's sports and entertainment precinct to the next stage.",
-      "timestamp": "2026-01-23T01:30:18Z",
-      "source": "ABC News"
     }
   ]
 }
