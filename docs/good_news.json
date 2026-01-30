@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-30T06:15:01Z",
+  "last run": "2026-01-30T07:17:59Z",
   "stories": [
+    {
+      "headline": "Andrew Hastie rules out challenging Sussan Ley for Liberal leadership, clearing path for Angus Taylor",
+      "link": "https://www.theguardian.com/australia-news/2026/jan/30/andrew-hastie-rules-out-challenging-sussan-ley-liberal-leadership",
+      "mean_score": 0.3266,
+      "vader_score": 0.1531,
+      "textblob_score": 0.5,
+      "first_sentence": "Andrew Hastie has confirmed he won\u2019t contest the Liberal party leadership, clearing the path for fellow rightwinger Angus Taylor to challenge Sussan Ley.",
+      "timestamp": "2026-01-30T07:14:11Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Benjamina Ebuehi\u2019s recipe for citrus and almond cake | The sweet spot",
       "link": "https://www.theguardian.com/food/2026/jan/30/citrus-almond-cake-recipe-benjamina-ebuehi",
@@ -2490,16 +2500,6 @@
       "first_sentence": "A UK government minister has said he is \"angry\" he was not kept fully informed about issues which resulted in the British Army's Ajax armoured vehicle programme being paused.",
       "timestamp": "2026-01-22T20:01:57Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "AI cameras helping to save rock fisherman 'shows technology works'",
-      "link": "https://www.abc.net.au/news/2026-01-23/ai-camera-rescue-rock-fisher-kiama-blowhole/106252572",
-      "mean_score": 0.3298,
-      "vader_score": 0.6597,
-      "textblob_score": 0.0,
-      "first_sentence": "Surf Life Saving NSW says the successful rescue of a rock fisher at Kiama Blowhole earlier this month using two AI-enabled surveillance cameras proves the technology works.",
-      "timestamp": "2026-01-22T19:35:14Z",
-      "source": "ABC News"
     }
   ]
 }
