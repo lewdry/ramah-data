@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-30T05:21:23Z",
+  "last run": "2026-01-30T06:15:01Z",
   "stories": [
+    {
+      "headline": "Benjamina Ebuehi\u2019s recipe for citrus and almond cake | The sweet spot",
+      "link": "https://www.theguardian.com/food/2026/jan/30/citrus-almond-cake-recipe-benjamina-ebuehi",
+      "mean_score": 0.4044,
+      "vader_score": 0.4588,
+      "textblob_score": 0.35,
+      "first_sentence": "Anything bright and zingy is particularly welcome in January, even more so when it\u2019s in the form of cake.",
+      "timestamp": "2026-01-30T06:00:15Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Australia news live: PM hails \u2018landmark\u2019 national cabinet agreement on hospital funding",
       "link": "https://www.theguardian.com/australia-news/live/2026/jan/30/national-cabinet-meeting-ndis-health-funding-gun-buyback-scheme-anthony-albanese-mark-butler-labor-coalition-sussan-ley-ntwnfb",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Surf Life Saving NSW says the successful rescue of a rock fisher at Kiama Blowhole earlier this month using two AI-enabled surveillance cameras proves the technology works.",
       "timestamp": "2026-01-22T19:35:14Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "\u2018It has been overwhelming\u2019: Sudanese friends complete 900-mile UK walk",
-      "link": "https://www.theguardian.com/uk-news/2026/jan/22/sudan-friends-900-mile-uk-walk",
-      "mean_score": 0.3883,
-      "vader_score": 0.4767,
-      "textblob_score": 0.3,
-      "first_sentence": "When Giel Malual set out to walk the length of the UK to raise money to open a school for displaced children from his home country of Sudan, he did not expect the welcome he would receive from the British public.",
-      "timestamp": "2026-01-22T19:30:53Z",
-      "source": "The Guardian"
     }
   ]
 }
