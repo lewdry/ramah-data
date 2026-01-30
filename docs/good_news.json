@@ -1,6 +1,36 @@
 {
-  "last run": "2026-01-30T18:10:35Z",
+  "last run": "2026-01-30T19:12:56Z",
   "stories": [
+    {
+      "headline": "Djokovic hits out at critics after epic Australian Open win over Sinner",
+      "link": "https://www.abc.net.au/news/2026-01-31/australian-open-novak-djokovic-jannik-sinner-carlos-alcaraz/106289146",
+      "mean_score": 0.3034,
+      "vader_score": 0.3818,
+      "textblob_score": 0.225,
+      "first_sentence": "Across his decorated career, Novak Djokovic has played as if he has a point to prove.",
+      "timestamp": "2026-01-30T19:06:43Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Catherine O\u2019Hara, Emmy-winning comedian of \u2018Schitt\u2019s Creek\u2019 and \u2018SCTV\u2019 fame, dies at 71",
+      "link": "https://apnews.com/article/catherine-ohara-dies-9fdc89411b4961c1d599f836503a6203",
+      "mean_score": 0.3352,
+      "vader_score": 0.6705,
+      "textblob_score": 0.0,
+      "first_sentence": "LOS ANGELES (AP) \u2014 Catherine O\u2019Hara, a gifted Canadian comic actor and \u201cSCTV\u201d alum who starred as Macaulay Culkin\u2019s harried mother in two \u201cHome Alone\u201d movies and created the dramatically ditzy character of Moira Rose in the Emmy-winning comedy \u201cSchitt\u2019s Creek,\u201d died Friday.",
+      "timestamp": "2026-01-30T18:53:02Z",
+      "source": "AP News"
+    },
+    {
+      "headline": "Sam Curran takes hat-trick before Salt eases England to DLS win over Sri Lanka in first T20",
+      "link": "https://www.theguardian.com/sport/2026/jan/30/sri-lanka-england-cricket-first-t20-match-report",
+      "mean_score": 0.626,
+      "vader_score": 0.7269,
+      "textblob_score": 0.525,
+      "first_sentence": "It was an England victory set up by the wily, age-old brilliance of Adil Rashid, the vital part of their hopes for a World Cup triumph in the coming weeks.",
+      "timestamp": "2026-01-30T18:20:40Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "My family motto? It\u2019s amazing how lucky you get if you work really hard",
       "link": "https://www.theguardian.com/lifeandstyle/2026/jan/31/family-motto-work-hard-feel-lucky",
@@ -2470,36 +2500,6 @@
       "first_sentence": "Last spring, Tom Broughton, founder of eyewear brand Cubitts, was asked to comment on a meme that was going viral, that featured a pair of his company\u2019s \u2018Plimsoll\u2019 frames.",
       "timestamp": "2026-01-23T07:00:10Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Vietnam's leader returns to power with bold promises. Can he deliver?",
-      "link": "https://www.bbc.com/news/articles/c20zzq8we8wo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4851,
-      "vader_score": 0.6369,
-      "textblob_score": 0.3333,
-      "first_sentence": "That was the pitch made by Vietnam's most powerful figure, Communist Party General Secretary To Lam, as he faced the nearly 1,600 delegates at the party congress, which gathered this week to determine the country's path for the next five years, and who leads it.",
-      "timestamp": "2026-01-23T06:59:50Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Fears for Saturday's heat as Welsford claims sensational seventh TDU stage win",
-      "link": "https://www.abc.net.au/news/2026-01-23/sam-welsford-wins-tour-down-under-stage-three/106261424",
-      "mean_score": 0.4917,
-      "vader_score": 0.25,
-      "textblob_score": 0.7333,
-      "first_sentence": "Sam Welsford claimed a dramatic victory on the third stage of the Tour Down Under, with Jay Vine retaining the leader's ochre jersey.",
-      "timestamp": "2026-01-23T06:38:05Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Producer's pride at legendary debut 20 years on",
-      "link": "https://www.bbc.com/news/articles/cwy88l1egv5o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.67,
-      "vader_score": 0.34,
-      "textblob_score": 1.0,
-      "first_sentence": "One of the producers responsible for shaping Arctic Monkeys' legendary first album has spoken of his pride at working with the Sheffield band, exactly 20 years on from its  release.",
-      "timestamp": "2026-01-23T06:10:57Z",
-      "source": "BBC News"
     }
   ]
 }

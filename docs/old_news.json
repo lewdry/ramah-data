@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Vietnam's leader returns to power with bold promises. Can he deliver?",
+    "link": "https://www.bbc.com/news/articles/c20zzq8we8wo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4851,
+    "vader_score": 0.6369,
+    "textblob_score": 0.3333,
+    "first_sentence": "That was the pitch made by Vietnam's most powerful figure, Communist Party General Secretary To Lam, as he faced the nearly 1,600 delegates at the party congress, which gathered this week to determine the country's path for the next five years, and who leads it.",
+    "timestamp": "2026-01-23T06:59:50Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Fears for Saturday's heat as Welsford claims sensational seventh TDU stage win",
+    "link": "https://www.abc.net.au/news/2026-01-23/sam-welsford-wins-tour-down-under-stage-three/106261424",
+    "mean_score": 0.4917,
+    "vader_score": 0.25,
+    "textblob_score": 0.7333,
+    "first_sentence": "Sam Welsford claimed a dramatic victory on the third stage of the Tour Down Under, with Jay Vine retaining the leader's ochre jersey.",
+    "timestamp": "2026-01-23T06:38:05Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Producer's pride at legendary debut 20 years on",
+    "link": "https://www.bbc.com/news/articles/cwy88l1egv5o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.67,
+    "vader_score": 0.34,
+    "textblob_score": 1.0,
+    "first_sentence": "One of the producers responsible for shaping Arctic Monkeys' legendary first album has spoken of his pride at working with the Sheffield band, exactly 20 years on from its  release.",
+    "timestamp": "2026-01-23T06:10:57Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "UK savers urged to move fast for the best deals paying up to 4.5%",
     "link": "https://www.theguardian.com/money/2026/jan/23/uk-savers-best-deals-interest-rate-cut-easy-access-account",
     "mean_score": 0.6184,
