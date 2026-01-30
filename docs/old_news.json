@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Week in wildlife: a proud eagle, an adorable axolotl and a goofy seal",
+    "link": "https://www.theguardian.com/environment/gallery/2026/jan/23/week-in-wildlife-a-proud-eagle-an-adorable-axolotl-and-a-goofy-seal",
+    "mean_score": 0.6715,
+    "vader_score": 0.743,
+    "textblob_score": 0.6,
+    "first_sentence": "This week\u2019s best wildlife photographs from around the world Continue reading.",
+    "timestamp": "2026-01-23T08:00:11Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "New UK passport rules designed to improve national security, government says",
+    "link": "https://www.abc.net.au/news/2026-01-23/uk-government-says-new-passport-rules-improve-national-security/106263628",
+    "mean_score": 0.3925,
+    "vader_score": 0.6486,
+    "textblob_score": 0.1364,
+    "first_sentence": "The British High Commission in Australia says it has received a large of volume of enquiries from British Australian dual citizens seeking clarity on the UK's new passport rules.",
+    "timestamp": "2026-01-23T07:00:38Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Consider the optics: why men have fallen back in love with spectacles",
+    "link": "https://www.theguardian.com/fashion/2026/jan/22/the-rise-of-the-slutty-little-glasses-how-mens-eyewear-just-became-the-hottest-accessory",
+    "mean_score": 0.3259,
+    "vader_score": 0.4019,
+    "textblob_score": 0.25,
+    "first_sentence": "Last spring, Tom Broughton, founder of eyewear brand Cubitts, was asked to comment on a meme that was going viral, that featured a pair of his company\u2019s \u2018Plimsoll\u2019 frames.",
+    "timestamp": "2026-01-23T07:00:10Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Vietnam's leader returns to power with bold promises. Can he deliver?",
     "link": "https://www.bbc.com/news/articles/c20zzq8we8wo?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.4851,
