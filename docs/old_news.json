@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Chris Mason: Andy Burnham faces tricky run to win Labour crown",
+    "link": "https://www.bbc.com/news/articles/cvg553rk7zvo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.647,
+    "vader_score": 0.4939,
+    "textblob_score": 0.8,
+    "first_sentence": "A marble sits at the top of a very long, elaborate and twisting run right now.",
+    "timestamp": "2026-01-22T22:40:55Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Minister told armoured vehicle which left soldiers vomiting was 'safe'",
+    "link": "https://www.bbc.com/news/articles/cp3zzv7jw4jo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3452,
+    "vader_score": 0.4404,
+    "textblob_score": 0.25,
+    "first_sentence": "A UK government minister has said he is \"angry\" he was not kept fully informed about issues which resulted in the British Army's Ajax armoured vehicle programme being paused.",
+    "timestamp": "2026-01-22T20:01:57Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "AI cameras helping to save rock fisherman 'shows technology works'",
     "link": "https://www.abc.net.au/news/2026-01-23/ai-camera-rescue-rock-fisher-kiama-blowhole/106252572",
     "mean_score": 0.3298,

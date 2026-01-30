@@ -1,5 +1,5 @@
 {
-  "last run": "2026-01-30T07:17:59Z",
+  "last run": "2026-01-30T08:09:37Z",
   "stories": [
     {
       "headline": "Andrew Hastie rules out challenging Sussan Ley for Liberal leadership, clearing path for Angus Taylor",
@@ -20,6 +20,26 @@
       "first_sentence": "Anything bright and zingy is particularly welcome in January, even more so when it\u2019s in the form of cake.",
       "timestamp": "2026-01-30T06:00:15Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "Donations top \u00a338k after rescued walkers leave hotel bill unpaid",
+      "link": "https://www.bbc.com/news/articles/cj6wgyxzlywo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4383,
+      "vader_score": 0.5267,
+      "textblob_score": 0.35,
+      "first_sentence": "A mountain rescue team has spoken of its astonishment after more than \u00a338,000 was raised after it settled an unpaid hotel bill for two walkers.",
+      "timestamp": "2026-01-30T06:00:11Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Western nations decline to join 'Board of Peace' as Middle Eastern powers accept",
+      "link": "https://www.abc.net.au/news/2026-01-30/nz-refuses-trump-invitation-board-of-peace-gaza/106286460",
+      "mean_score": 0.4037,
+      "vader_score": 0.8074,
+      "textblob_score": 0.0,
+      "first_sentence": "New Zealand says it will not accept Donald Trump's invitation to join his \"Board of Peace\", with the country's foreign minister calling for \"clarity\" over the US president's proposal.",
+      "timestamp": "2026-01-30T05:13:26Z",
+      "source": "ABC News"
     },
     {
       "headline": "Australia news live: PM hails \u2018landmark\u2019 national cabinet agreement on hospital funding",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Three-time Australian Open runner-up Daniil Medvedev comes back from two sets down to win for the fourth time at Melbourne Park, while Australian wildcard pair James McCabe and Li Tu beat the men's doubles top seeds on day six of the Australian Open.",
       "timestamp": "2026-01-22T23:23:46Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Chris Mason: Andy Burnham faces tricky run to win Labour crown",
-      "link": "https://www.bbc.com/news/articles/cvg553rk7zvo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.647,
-      "vader_score": 0.4939,
-      "textblob_score": 0.8,
-      "first_sentence": "A marble sits at the top of a very long, elaborate and twisting run right now.",
-      "timestamp": "2026-01-22T22:40:55Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Minister told armoured vehicle which left soldiers vomiting was 'safe'",
-      "link": "https://www.bbc.com/news/articles/cp3zzv7jw4jo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3452,
-      "vader_score": 0.4404,
-      "textblob_score": 0.25,
-      "first_sentence": "A UK government minister has said he is \"angry\" he was not kept fully informed about issues which resulted in the British Army's Ajax armoured vehicle programme being paused.",
-      "timestamp": "2026-01-22T20:01:57Z",
-      "source": "BBC News"
     }
   ]
 }
