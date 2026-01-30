@@ -1,5 +1,5 @@
 {
-  "last run": "2026-01-30T01:34:21Z",
+  "last run": "2026-01-30T02:56:58Z",
   "stories": [
     {
       "headline": "Australia news live: PM hails \u2018landmark\u2019 national cabinet agreement on hospital funding",
@@ -40,6 +40,16 @@
       "first_sentence": "A man accused of impersonating a federal agent in a bid to allegedly free Luigi Mangione, the man accused of gunning down the CEO of United Healthcare in 2024, has been arrested.",
       "timestamp": "2026-01-30T00:08:47Z",
       "source": "BBC News"
+    },
+    {
+      "headline": "What's lamb's fry, and why is it popular at this canteen",
+      "link": "https://www.abc.net.au/news/rural/2026-01-30/saleyards-australia-best-canteen-competition/106281246",
+      "mean_score": 0.5108,
+      "vader_score": 0.4215,
+      "textblob_score": 0.6,
+      "first_sentence": "Every Wednesday morning at the Mount Gambier saleyards, Liz Beames gets in at 4am to start cooking up lamb's fry.",
+      "timestamp": "2026-01-30T00:03:18Z",
+      "source": "ABC News"
     },
     {
       "headline": "How the West was won: K-pop's great assimilation gambit",
@@ -109,6 +119,16 @@
       "textblob_score": 0.3167,
       "first_sentence": "At the beginning of the year, we asked experts on how we can go easier on ourselves.",
       "timestamp": "2026-01-29T14:00:23Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Skinks to high heaven: endangered alpine lizard numbers set to rise after Omeo falls pregnant in Victoria",
+      "link": "https://www.theguardian.com/environment/2026/jan/29/skink-endangered-alpine-lizard-numbers-alpine-national-park-victoria",
+      "mean_score": 0.3786,
+      "vader_score": 0.5106,
+      "textblob_score": 0.2467,
+      "first_sentence": "Eleven endangered skinks released into a gated community in Victoria\u2019s Alpine national park could soon become 13, with a female known as Omeo due to give birth in March.",
+      "timestamp": "2026-01-29T14:00:20Z",
       "source": "The Guardian"
     },
     {
@@ -2480,26 +2500,6 @@
       "first_sentence": "When Giel Malual set out to walk the length of the UK to raise money to open a school for displaced children from his home country of Sudan, he did not expect the welcome he would receive from the British public.",
       "timestamp": "2026-01-22T19:30:53Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Government admits its approval for Buckinghamshire AI datacentre should be quashed",
-      "link": "https://www.theguardian.com/politics/2026/jan/22/government-ai-datacentre-approval-quashed",
-      "mean_score": 0.3243,
-      "vader_score": 0.6486,
-      "textblob_score": 0.0,
-      "first_sentence": "The government has been forced to admit its own planning approval for a major AI datacentre should be quashed after it failed to fully consider the climate impact, in what campaigners described as \u201can embarrassing climbdown\u201d.",
-      "timestamp": "2026-01-22T19:11:13Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Australia blends youth and experience in bid for most successful Winter Games",
-      "link": "https://www.abc.net.au/news/2026-01-23/australia-names-athletes-for-2026-winter-olympics-milan-cortina/106257140",
-      "mean_score": 0.6245,
-      "vader_score": 0.624,
-      "textblob_score": 0.625,
-      "first_sentence": "Australia has named 53 athletes to compete at the 2026 Winter Olympic Games in Milan-Cortina.",
-      "timestamp": "2026-01-22T18:50:45Z",
-      "source": "ABC News"
     }
   ]
 }
