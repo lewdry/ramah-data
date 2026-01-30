@@ -1,6 +1,46 @@
 {
-  "last run": "2026-01-30T08:09:37Z",
+  "last run": "2026-01-30T09:12:57Z",
   "stories": [
+    {
+      "headline": "Ukraine will be \u2018technically\u2019 ready to join EU in 2027, Zelenskyy says \u2013 Europe live",
+      "link": "https://www.theguardian.com/world/live/2026/jan/30/europe-ukraine-russia-eu-zelenskyy-latest-news-updates",
+      "mean_score": 0.37,
+      "vader_score": 0.5719,
+      "textblob_score": 0.1682,
+      "first_sentence": "Ukraine was meant to continue its trilateral talks with the US and Russia this weekend, but Zelenskyy hinted at a possible delay, as the US appears to be focused on Iran instead.",
+      "timestamp": "2026-01-30T08:58:15Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "50C record for Port Augusta ahead of cool change",
+      "link": "https://www.abc.net.au/news/2026-01-30/temperature-change-sa-power-outages/106287992",
+      "mean_score": 0.3341,
+      "vader_score": 0.3182,
+      "textblob_score": 0.35,
+      "first_sentence": "Andamooka and Port Augusta cracked 50C yesterday and today, respectively, ending a week of extreme heat across the south-east of the country.",
+      "timestamp": "2026-01-30T08:23:17Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Week in wildlife: a rescued owl, a brave blackbird and Fukushima boar babies",
+      "link": "https://www.theguardian.com/environment/gallery/2026/jan/30/week-in-wildlife-a-rescued-owl-a-brave-blackbird-and-fukushima-boar-babies",
+      "mean_score": 0.7675,
+      "vader_score": 0.7351,
+      "textblob_score": 0.8,
+      "first_sentence": "This week\u2019s best wildlife photographs from around the world Continue reading.",
+      "timestamp": "2026-01-30T08:00:15Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Passion, prospects and a thrilling title race: why Polish football is booming",
+      "link": "https://www.theguardian.com/football/2026/jan/30/polish-football-ekstraklasa-title-race",
+      "mean_score": 0.5287,
+      "vader_score": 0.8074,
+      "textblob_score": 0.25,
+      "first_sentence": "The temperature will be far below zero when Zaglebie Lubin and GKS Katowice restart Poland\u2019s top flight on Friday evening.",
+      "timestamp": "2026-01-30T08:00:14Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Andrew Hastie rules out challenging Sussan Ley for Liberal leadership, clearing path for Angus Taylor",
       "link": "https://www.theguardian.com/australia-news/2026/jan/30/andrew-hastie-rules-out-challenging-sussan-ley-liberal-leadership",
@@ -2459,46 +2499,6 @@
       "textblob_score": 0.0,
       "first_sentence": "The state government will invest $17 million to move plans for Wollongong's sports and entertainment precinct to the next stage.",
       "timestamp": "2026-01-23T01:30:18Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Ley confident in leadership as Albanese says she was 'undermined from day one'",
-      "link": "https://www.sbs.com.au/news/article/sussan-ley-reacts-coalition-split-confident-in-leadership/avweoqj2h",
-      "mean_score": 0.3389,
-      "vader_score": 0.1779,
-      "textblob_score": 0.5,
-      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-      "timestamp": "2026-01-23T00:20:32Z",
-      "source": "SBS News"
-    },
-    {
-      "headline": "AI ready: The advantages of being a young entrepreneur",
-      "link": "https://www.bbc.com/news/articles/c058d4nvz1go?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3812,
-      "vader_score": 0.6124,
-      "textblob_score": 0.15,
-      "first_sentence": "Even before he'd graduated from the University of Bath in 2024, Arnau Ayerbe landed a highly coveted role as an AI engineer with JP Morgan - yet he felt limited and uninspired.",
-      "timestamp": "2026-01-23T00:02:43Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Sussan Ley confident she will survive as opposition leader and says door is open to Nationals rejoining Coalition",
-      "link": "https://www.theguardian.com/australia-news/2026/jan/23/sussan-ley-confident-she-will-survive-as-opposition-leader-and-says-door-is-open-to-nationals-rejoining-coalition",
-      "mean_score": 0.372,
-      "vader_score": 0.4939,
-      "textblob_score": 0.25,
-      "first_sentence": "Sussan Ley says her likely leadership rivals Angus Taylor and Andrew Hastie remain committed to her position, as speculation grows about an imminent challenge to the embattled Liberal leader.",
-      "timestamp": "2026-01-22T23:38:23Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Live: Medvedev pulls off fourth Aus Open miracle as heatwave prompts rescheduling",
-      "link": "https://www.abc.net.au/news/2026-01-23/australian-open-2026-live-sabalenka-alcaraz-de-minaur-osaka/106260854",
-      "mean_score": 0.3157,
-      "vader_score": 0.5859,
-      "textblob_score": 0.0455,
-      "first_sentence": "Three-time Australian Open runner-up Daniil Medvedev comes back from two sets down to win for the fourth time at Melbourne Park, while Australian wildcard pair James McCabe and Li Tu beat the men's doubles top seeds on day six of the Australian Open.",
-      "timestamp": "2026-01-22T23:23:46Z",
       "source": "ABC News"
     }
   ]
