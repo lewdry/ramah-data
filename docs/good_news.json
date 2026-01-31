@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-31T12:06:39Z",
+  "last run": "2026-01-31T13:17:54Z",
   "stories": [
+    {
+      "headline": "Record harvest sparks mass giveaway of free potatoes across Berlin",
+      "link": "https://www.theguardian.com/world/2026/jan/31/record-harvest-berlin-giveaway-potatoes",
+      "mean_score": 0.4553,
+      "vader_score": 0.5106,
+      "textblob_score": 0.4,
+      "first_sentence": "Germans love their potatoes.",
+      "timestamp": "2026-01-31T13:00:59Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Women\u2019s Champions Cup final: Arsenal chase more glory against \u2018intense\u2019 Corinthians",
+      "link": "https://www.theguardian.com/football/2026/jan/31/arsenal-corinthians-womens-champions-cup-final",
+      "mean_score": 0.5175,
+      "vader_score": 0.8016,
+      "textblob_score": 0.2333,
+      "first_sentence": "Ren\u00e9e Slegers praised the impact of trailblazing hijab-wearing footballer Nouhaila Benzina after Arsenal\u2019s defeat of Moroccan side AS Far earned them a place in Sunday\u2019s Champions Cup final against Corinthians.",
+      "timestamp": "2026-01-31T12:00:58Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Elena Rybakina stuns Aryna Sabalenka to win Australian Open women\u2019s singles final \u2013 as it happened",
       "link": "https://www.theguardian.com/sport/live/2026/jan/31/aryna-sabalenka-v-elena-rybakina-australian-open-2026-final-live",
@@ -130,6 +150,16 @@
       "first_sentence": "Budget airline easyJet was given a rap on the knuckles this week for misleading customers about how much it charges for a carry-on bag.",
       "timestamp": "2026-01-31T02:30:04Z",
       "source": "BBC News"
+    },
+    {
+      "headline": "'Protect every solitary moment': The viral app that asks users if they're still alive",
+      "link": "https://www.sbs.com.au/news/article/protect-every-solitary-moment-the-viral-app-that-asks-users-if-theyre-still-alive/ldab9huwu",
+      "mean_score": 0.3684,
+      "vader_score": 0.6369,
+      "textblob_score": 0.1,
+      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+      "timestamp": "2026-01-31T01:23:12Z",
+      "source": "SBS News"
     },
     {
       "headline": "Heatwave across Australia\u2019s south-east continues for eighth day ahead of a welcome cool change",
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.8,
       "first_sentence": "The then-student activist was detained and tortured for helping lead widespread protests in Bangladesh that began in 2024.",
       "timestamp": "2026-01-23T21:16:51Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Queensland researchers are using a popular pet fish to test rare genetic variants",
-      "link": "https://www.abc.net.au/news/2026-01-24/zebrafish-research-helps-children-with-rare-genetic-variants/106243868",
-      "mean_score": 0.4357,
-      "vader_score": 0.4215,
-      "textblob_score": 0.45,
-      "first_sentence": "Two tiny babies born on different sides of the world have avoided medical treatment costing millions of dollars, thanks to an Australian-based scientist and his tanks of zebrafish.",
-      "timestamp": "2026-01-23T21:04:42Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Five Great Reads: a week without ultra-processed foods, props for the prop masters, and the Old Believers who time forgot",
-      "link": "https://www.theguardian.com/australia-news/2026/jan/23/five-great-reads-a-week-without-ultra-processed-foods-props-for-the-prop-masters-and-the-old-believers-who-time-forgot",
-      "mean_score": 0.5374,
-      "vader_score": 0.6249,
-      "textblob_score": 0.45,
-      "first_sentence": "Dear readers, at the end of another hectic news week I am grateful to Dave Mustaine\u2019s \u201clet there be shred!\u201d declaration for helping take the edge off.",
-      "timestamp": "2026-01-23T21:00:19Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The one sure bet in the wake of the Coalition implosion",
-      "link": "https://www.abc.net.au/news/2026-01-24/how-the-coalition-split-played-out/106263654",
-      "mean_score": 0.4091,
-      "vader_score": 0.3182,
-      "textblob_score": 0.5,
-      "first_sentence": "Dissecting the implosion of the Coalition and figuring out what comes next has become a full-time vocation for the newly emancipated Liberals and Nationals.",
-      "timestamp": "2026-01-23T18:55:21Z",
       "source": "ABC News"
     }
   ]
