@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-31T04:31:41Z",
+  "last run": "2026-01-31T05:17:27Z",
   "stories": [
+    {
+      "headline": "Myanmar's military-backed party wins 'sham' election",
+      "link": "https://www.abc.net.au/news/2026-01-31/myanmar-election-won-by-military-backed-usdp-party/106290376",
+      "mean_score": 0.4003,
+      "vader_score": 0.7506,
+      "textblob_score": 0.05,
+      "first_sentence": "The Union and Solidarity Development Party, backed by Myanmar's ruling military, has won the country's general election.",
+      "timestamp": "2026-01-31T04:58:39Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Plan ahead and dress wisely: How to minimise add-on costs when you fly",
       "link": "https://www.bbc.com/news/articles/c5y28w0de91o?at_medium=RSS&at_campaign=rss",
@@ -2490,16 +2500,6 @@
       "first_sentence": "European shares were mixed after Asian markets advanced Friday as calm was restored after a tumultuous week.",
       "timestamp": "2026-01-23T10:53:01Z",
       "source": "AP News"
-    },
-    {
-      "headline": "Free air fryers to help people cook more healthily",
-      "link": "https://www.bbc.com/news/articles/cn8jjezj7v5o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5925,
-      "vader_score": 0.7184,
-      "textblob_score": 0.4667,
-      "first_sentence": "Air fryers are to be given out free by a community group that has been teaching people how to cook as part of a scheme to help them eat more healthily.",
-      "timestamp": "2026-01-23T10:38:47Z",
-      "source": "BBC News"
     }
   ]
 }
