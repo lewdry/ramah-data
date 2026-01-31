@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-31T08:05:51Z",
+  "last run": "2026-01-31T09:07:03Z",
   "stories": [
+    {
+      "headline": "How the right won the internet | Robert Topinka",
+      "link": "https://www.theguardian.com/commentisfree/ng-interactive/2026/jan/31/digital-politics-the-right-internet-digital-politics-extreme-political-ideas",
+      "mean_score": 0.4288,
+      "vader_score": 0.5719,
+      "textblob_score": 0.2857,
+      "first_sentence": "The internet has totally changed the way in which politics is conducted.",
+      "timestamp": "2026-01-31T08:00:52Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "The Muppet Show: this thrilling return is so great I can\u2019t even count how many times I laughed",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/jan/31/the-muppet-show-this-thrilling-return-is-so-great-i-cant-even-count-how-many-times-i-laughed",
+      "mean_score": 0.7394,
+      "vader_score": 0.9164,
+      "textblob_score": 0.5625,
+      "first_sentence": "The Muppet Show is back! We need this, don\u2019t we? We need them.",
+      "timestamp": "2026-01-31T07:00:52Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "What makes Finland the happiest place on Earth?",
       "link": "https://www.theguardian.com/travel/2026/jan/31/what-makes-finland-the-happiest-country-in-the-world",
@@ -140,6 +160,16 @@
       "first_sentence": "Good morning.",
       "timestamp": "2026-01-30T21:00:38Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "FCC aims to ensure \"only living and lawful Americans\" get Lifeline benefits",
+      "link": "https://arstechnica.com/tech-policy/2026/01/fcc-chair-fights-calif-governor-over-alleged-lifeline-benefits-for-dead-people/",
+      "mean_score": 0.3185,
+      "vader_score": 0.6369,
+      "textblob_score": 0.0,
+      "first_sentence": "Alleging fraud in California, Carr proposes making enrollment stricter nationwide.",
+      "timestamp": "2026-01-30T19:28:57Z",
+      "source": "Ars Technica"
     },
     {
       "headline": "Djokovic hits out at critics after epic Australian Open win over Sinner",
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.2333,
       "first_sentence": "The Guardian\u2019s journalism is independent.",
       "timestamp": "2026-01-23T15:00:14Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Tiny falcons are helping keep the food supply safe on cherry farms",
-      "link": "https://arstechnica.com/science/2026/01/tiny-falcons-are-helping-keep-the-food-supply-safe-on-cherry-farms/",
-      "mean_score": 0.4375,
-      "vader_score": 0.6249,
-      "textblob_score": 0.25,
-      "first_sentence": "Their presence appears to lower the risk of food-borne illnesses from pathogens.",
-      "timestamp": "2026-01-23T14:10:48Z",
-      "source": "Ars Technica"
-    },
-    {
-      "headline": "Huge waves and a Mark Carney high-kick: photos of the day \u2013 Friday",
-      "link": "https://www.theguardian.com/news/gallery/2026/jan/23/huge-waves-and-a-mark-carney-high-kick-photos-of-the-day-friday",
-      "mean_score": 0.3591,
-      "vader_score": 0.3182,
-      "textblob_score": 0.4,
-      "first_sentence": "The Guardian\u2019s picture editors select some of the most powerful photos from around the world Continue reading.",
-      "timestamp": "2026-01-23T13:43:57Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Cocktail of the week: The Palomar\u2019s bumblebee \u2013 recipe | The good mixer",
-      "link": "https://www.theguardian.com/food/2026/jan/23/cocktail-of-the-week-bumblebee-recipe-the-palomar",
-      "mean_score": 0.5702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.7,
-      "first_sentence": "This drink is full of ginger spice and aromatics from both the honey and the London dry gin.",
-      "timestamp": "2026-01-23T13:00:12Z",
       "source": "The Guardian"
     }
   ]

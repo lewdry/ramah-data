@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Tiny falcons are helping keep the food supply safe on cherry farms",
+    "link": "https://arstechnica.com/science/2026/01/tiny-falcons-are-helping-keep-the-food-supply-safe-on-cherry-farms/",
+    "mean_score": 0.4375,
+    "vader_score": 0.6249,
+    "textblob_score": 0.25,
+    "first_sentence": "Their presence appears to lower the risk of food-borne illnesses from pathogens.",
+    "timestamp": "2026-01-23T14:10:48Z",
+    "source": "Ars Technica"
+  },
+  {
+    "headline": "Huge waves and a Mark Carney high-kick: photos of the day \u2013 Friday",
+    "link": "https://www.theguardian.com/news/gallery/2026/jan/23/huge-waves-and-a-mark-carney-high-kick-photos-of-the-day-friday",
+    "mean_score": 0.3591,
+    "vader_score": 0.3182,
+    "textblob_score": 0.4,
+    "first_sentence": "The Guardian\u2019s picture editors select some of the most powerful photos from around the world Continue reading.",
+    "timestamp": "2026-01-23T13:43:57Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Cocktail of the week: The Palomar\u2019s bumblebee \u2013 recipe | The good mixer",
+    "link": "https://www.theguardian.com/food/2026/jan/23/cocktail-of-the-week-bumblebee-recipe-the-palomar",
+    "mean_score": 0.5702,
+    "vader_score": 0.4404,
+    "textblob_score": 0.7,
+    "first_sentence": "This drink is full of ginger spice and aromatics from both the honey and the London dry gin.",
+    "timestamp": "2026-01-23T13:00:12Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "From Attenborough\u2019s gorilla mayhem to TV\u2019s first gay kiss: the 100 biggest moments from a century of television",
     "link": "https://www.theguardian.com/tv-and-radio/2026/jan/23/television-100-years-old-biggest-tv-moments-of-century",
     "mean_score": 0.3774,
