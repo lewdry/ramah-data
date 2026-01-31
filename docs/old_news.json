@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Explosive bust-ups, secret relationships and extreme reactions: The Traitors' best moments",
+    "link": "https://www.bbc.com/news/articles/cq84dp4zvy1o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3976,
+    "vader_score": 0.6369,
+    "textblob_score": 0.1583,
+    "first_sentence": "This series of The Traitors has featured some of the most explosive scenes the show has ever seen: dramatic twists, Oscar-ready reactions and plenty of skilful skullduggery.",
+    "timestamp": "2026-01-24T00:12:54Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Australian Open 2026: Keys and Pliskova in action, defending champion Sinner next \u2013 live",
+    "link": "https://www.theguardian.com/sport/live/2026/jan/24/australian-open-tennis-2026-jannik-sinner-madison-keys-live",
+    "mean_score": 0.3233,
+    "vader_score": 0.5994,
+    "textblob_score": 0.0473,
+    "first_sentence": "*Pliskova 0-4 Keys (9) Temperatures have just hit 30C in Melbourne.",
+    "timestamp": "2026-01-24T00:03:00Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Fearless, feminist, five-star fun \u2013 and finally touring: My Brilliant Career the musical is back on stage",
+    "link": "https://www.theguardian.com/stage/2026/jan/23/my-brilliant-career-musical-melbourne-theatre-tour",
+    "mean_score": 0.5575,
+    "vader_score": 0.875,
+    "textblob_score": 0.24,
+    "first_sentence": "In contemplating the return season of the Melbourne Theatre Company\u2019s musical adaptation of Miles Franklin\u2019s novel My Brilliant Career, the show that has defined her own career thus far, Kala Gare felt that forewarned was forearmed.",
+    "timestamp": "2026-01-23T23:00:22Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Is China quietly winning the AI race?",
     "link": "https://www.bbc.com/news/articles/c86v52gv726o?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.5133,

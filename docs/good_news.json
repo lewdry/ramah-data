@@ -1,6 +1,36 @@
 {
-  "last run": "2026-01-31T17:07:07Z",
+  "last run": "2026-01-31T18:06:40Z",
   "stories": [
+    {
+      "headline": "Former Prince Andrew can\u2019t escape Epstein\u2019s shadow as new documents reveal details about friendship",
+      "link": "https://apnews.com/article/jeffrey-epstein-andrew-prince-mountbatten-windsor-friend-7fa8aadad792e66963a1d18d9039235b",
+      "mean_score": 0.3128,
+      "vader_score": 0.5574,
+      "textblob_score": 0.0682,
+      "first_sentence": "LONDON (AP) \u2014 Britain\u2019s royal family is facing a fresh round of embarrassment after the latest release of documents from the U.S.",
+      "timestamp": "2026-01-31T17:53:02Z",
+      "source": "AP News"
+    },
+    {
+      "headline": "Championship roundup: QPR comeback stuns Coventry as Boro move level with win",
+      "link": "https://www.theguardian.com/football/2026/jan/31/championship-roundup-dykes-as-charlton-football-leicester-stoke-southampton-wrexham",
+      "mean_score": 0.7892,
+      "vader_score": 0.7783,
+      "textblob_score": 0.8,
+      "first_sentence": "Stuttering Coventry\u2019s grip at the top of the Championship loosened further as QPR came from behind to beat them 2-1 at Loftus Road.",
+      "timestamp": "2026-01-31T17:37:00Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Kazakhstan's Elena Rybakina defeats No. 1 Aryana Sabalenka to win Australian Open",
+      "link": "https://www.npr.org/2026/01/31/nx-s1-5695207/elena-rybakina-wins-australian-open",
+      "mean_score": 0.3139,
+      "vader_score": 0.3612,
+      "textblob_score": 0.2667,
+      "first_sentence": "MELBOURNE, Australia \u2014 Elena Rybakina finally won her second Grand Slam title with a victory over top-ranked Aryna Sabalenka at the Australian Open on Saturday, and it was something of a testament to quiet achievers.",
+      "timestamp": "2026-01-31T17:22:07Z",
+      "source": "NPR News"
+    },
     {
       "headline": "\u2018I always believed\u2019: Elena Rybakina relishes return to top table after Melbourne glory",
       "link": "https://www.theguardian.com/sport/2026/jan/31/elena-rybakina-aryna-sabalenka-australian-open-final-tennis",
@@ -2470,36 +2500,6 @@
       "first_sentence": "Fortescue Metals is moving towards reducing the carbon footprint of its iron ore production in Western Australia's north by constructing the region's first wind farm.",
       "timestamp": "2026-01-24T01:53:14Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Explosive bust-ups, secret relationships and extreme reactions: The Traitors' best moments",
-      "link": "https://www.bbc.com/news/articles/cq84dp4zvy1o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3976,
-      "vader_score": 0.6369,
-      "textblob_score": 0.1583,
-      "first_sentence": "This series of The Traitors has featured some of the most explosive scenes the show has ever seen: dramatic twists, Oscar-ready reactions and plenty of skilful skullduggery.",
-      "timestamp": "2026-01-24T00:12:54Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Australian Open 2026: Keys and Pliskova in action, defending champion Sinner next \u2013 live",
-      "link": "https://www.theguardian.com/sport/live/2026/jan/24/australian-open-tennis-2026-jannik-sinner-madison-keys-live",
-      "mean_score": 0.3233,
-      "vader_score": 0.5994,
-      "textblob_score": 0.0473,
-      "first_sentence": "*Pliskova 0-4 Keys (9) Temperatures have just hit 30C in Melbourne.",
-      "timestamp": "2026-01-24T00:03:00Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Fearless, feminist, five-star fun \u2013 and finally touring: My Brilliant Career the musical is back on stage",
-      "link": "https://www.theguardian.com/stage/2026/jan/23/my-brilliant-career-musical-melbourne-theatre-tour",
-      "mean_score": 0.5575,
-      "vader_score": 0.875,
-      "textblob_score": 0.24,
-      "first_sentence": "In contemplating the return season of the Melbourne Theatre Company\u2019s musical adaptation of Miles Franklin\u2019s novel My Brilliant Career, the show that has defined her own career thus far, Kala Gare felt that forewarned was forearmed.",
-      "timestamp": "2026-01-23T23:00:22Z",
-      "source": "The Guardian"
     }
   ]
 }
