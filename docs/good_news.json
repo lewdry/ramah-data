@@ -1,6 +1,46 @@
 {
-  "last run": "2026-01-31T05:17:27Z",
+  "last run": "2026-01-31T06:10:24Z",
   "stories": [
+    {
+      "headline": "Six great reads: \u2018Fafo\u2019 parenting, what tech does to us, and Patrick Bateman\u2019s legacy",
+      "link": "https://www.theguardian.com/news/2026/jan/31/six-great-reads-fafo-parenting-what-tech-does-to-us-and-patrick-batemans-legacy",
+      "mean_score": 0.7125,
+      "vader_score": 0.6249,
+      "textblob_score": 0.8,
+      "first_sentence": "Decisions outsourced, chatbots for friends, the natural world an afterthought: Silicon Valley is giving us life void of connection.",
+      "timestamp": "2026-01-31T06:00:49Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Dutch champ dedicates 'emotional' Australian Open win to late coach",
+      "link": "https://www.abc.net.au/news/2026-01-31/australian-open-niels-vink-wins-quad-wheelchair-final/106291488",
+      "mean_score": 0.4588,
+      "vader_score": 0.8176,
+      "textblob_score": 0.1,
+      "first_sentence": "Niels Vink defeated fellow Dutchman Sam Schr\u00f6der in the Australian Open quad wheelchair singles final.",
+      "timestamp": "2026-01-31T05:26:29Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "\u2018It\u2019s like a gift from God\u2019: undocumented foreign workers welcome Spanish amnesty",
+      "link": "https://www.theguardian.com/world/2026/jan/31/undocumented-foreign-workers-welcome-spanish-amnesty",
+      "mean_score": 0.5188,
+      "vader_score": 0.8126,
+      "textblob_score": 0.225,
+      "first_sentence": "Not everyone has been enthused by the Spanish government\u2019s decision this week to buck European political trends by announcing plans to regularise 500,000 undocumented migrants and asylum seekers to boost \u201ceconomic growth and social cohesion\u201d.",
+      "timestamp": "2026-01-31T05:00:49Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Is Harry Styles losing his \u2018Mr Perfect\u2019 image? Six things you need to know",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/31/is-harry-styles-losing-his-mr-perfect-image-six-things-you-need-to-know",
+      "mean_score": 0.3091,
+      "vader_score": -0.3818,
+      "textblob_score": 1.0,
+      "first_sentence": "After a three-year hiatus, the former One Directioner has announced a record-breaking tour.",
+      "timestamp": "2026-01-31T05:00:48Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Myanmar's military-backed party wins 'sham' election",
       "link": "https://www.abc.net.au/news/2026-01-31/myanmar-election-won-by-military-backed-usdp-party/106290376",
@@ -2460,46 +2500,6 @@
       "first_sentence": "1: 1926 On 26 January John Logie Baird gives the first public demonstration of television to members of the Royal Institution, from his lab in Soho.",
       "timestamp": "2026-01-23T13:00:11Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Children and teens roundup \u2013 the best new picture books and novels",
-      "link": "https://www.theguardian.com/books/2026/jan/23/children-and-teens-roundup-the-best-new-picture-books-and-novels",
-      "mean_score": 0.6025,
-      "vader_score": 0.6369,
-      "textblob_score": 0.5682,
-      "first_sentence": "The Good Deed Dogs by Emma Chichester Clark, Walker, \u00a312.99Three very good dogs\u2019 attempts to help others keep backfiring with chaotic consequences \u2013 until they pull off a successful kitten rescue in this exuberantly charming picture book.",
-      "timestamp": "2026-01-23T12:00:11Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Add to playlist: the Regency-styled 80s synth-pop revivalism of Haute & Freddy and the week\u2019s best new tracks",
-      "link": "https://www.theguardian.com/music/2026/jan/23/add-to-playlist-haute-freddy-and-the-weeks-best-new-tracks",
-      "mean_score": 0.6025,
-      "vader_score": 0.6369,
-      "textblob_score": 0.5682,
-      "first_sentence": "Just when you think pop is finally moving away from the synth-heavy 80s sound, another thrilling new act comes along to say: \u201cNope!\u201d With shades of Erasure and a good dollop of theatre kid energy, Haute & Freddy are the Regency-styled freaks sending a jolt through TikTok.",
-      "timestamp": "2026-01-23T12:00:10Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Digested week: Let us focus on the few, brief bright spots we can",
-      "link": "https://www.theguardian.com/uk-news/2026/jan/23/digested-week-let-us-focus-on-the-few-brief-bright-spots-we-can",
-      "mean_score": 0.3035,
-      "vader_score": 0.4404,
-      "textblob_score": 0.1667,
-      "first_sentence": "Ah, Blue Monday \u2013 it seems to come round quicker every year, no? For those of you not familiar with the term, it denotes the third Monday of January, which is alleged to be the most depressing day of the year.",
-      "timestamp": "2026-01-23T11:34:33Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "US futures slip and world shares are mixed as Japan keeps its key interest rate unchanged",
-      "link": "https://apnews.com/article/stocks-markets-japan-trump-6e894c8ecd7de9e05ad245beed41bd3e",
-      "mean_score": 0.3185,
-      "vader_score": 0.6369,
-      "textblob_score": 0.0,
-      "first_sentence": "European shares were mixed after Asian markets advanced Friday as calm was restored after a tumultuous week.",
-      "timestamp": "2026-01-23T10:53:01Z",
-      "source": "AP News"
     }
   ]
 }
