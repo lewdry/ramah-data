@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-31T22:04:29Z",
+  "last run": "2026-01-31T23:04:46Z",
   "stories": [
+    {
+      "headline": "Ekitik\u00e9 and Wirtz sink Newcastle before Konat\u00e9 seals welcome Liverpool win",
+      "link": "https://www.theguardian.com/football/2026/jan/31/liverpool-newcastle-premier-league-match-report",
+      "mean_score": 0.7892,
+      "vader_score": 0.7783,
+      "textblob_score": 0.8,
+      "first_sentence": "You could say Hugo Ekitik\u00e9 was the one who got away from Newcastle last summer, except there were so many.",
+      "timestamp": "2026-01-31T22:11:48Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Quick hits: Epic final takes stars into uncharted territory as Nadal picks a winner",
       "link": "https://www.abc.net.au/news/2026-02-01/australian-open-2026-quick-hits-sabalenka-rybakina-womens-final/106291656",
@@ -2490,16 +2500,6 @@
       "first_sentence": "British pop sensation Olivia Dean has taken out the number one spot in Australia\u2019s largest music poll, Triple J\u2019s Hottest 100, with her single Man I Need.",
       "timestamp": "2026-01-24T09:35:02Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "After accepting US deportees, South Sudan wanted sanctions relief for top official, documents show",
-      "link": "https://apnews.com/article/south-sudan-us-migrants-10ac9844e775ad2a4f16132124558fd0",
-      "mean_score": 0.629,
-      "vader_score": 0.7579,
-      "textblob_score": 0.5,
-      "first_sentence": "JUBA, South Sudan (AP) \u2014 After agreeing to accept deportees from the United States last year, South Sudan sent a list of requests to Washington that included American support for the prosecution of an opposition leader and sanctions relief for a senior official accused of diverting over a billion dollars in public funds.",
-      "timestamp": "2026-01-24T09:23:01Z",
-      "source": "AP News"
     }
   ]
 }

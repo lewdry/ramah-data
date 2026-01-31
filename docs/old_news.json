@@ -1,5 +1,15 @@
 [
   {
+    "headline": "After accepting US deportees, South Sudan wanted sanctions relief for top official, documents show",
+    "link": "https://apnews.com/article/south-sudan-us-migrants-10ac9844e775ad2a4f16132124558fd0",
+    "mean_score": 0.629,
+    "vader_score": 0.7579,
+    "textblob_score": 0.5,
+    "first_sentence": "JUBA, South Sudan (AP) \u2014 After agreeing to accept deportees from the United States last year, South Sudan sent a list of requests to Washington that included American support for the prosecution of an opposition leader and sanctions relief for a senior official accused of diverting over a billion dollars in public funds.",
+    "timestamp": "2026-01-24T09:23:01Z",
+    "source": "AP News"
+  },
+  {
     "headline": "'Got lucky': Sinner admits Aus Open heat rule rescued title defence",
     "link": "https://www.abc.net.au/news/2026-01-24/australian-open-jannik-sinner-eliot-spizzirri-extreme-heat-rules/106265666",
     "mean_score": 0.4843,
