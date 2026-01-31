@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-31T20:04:38Z",
+  "last run": "2026-01-31T21:04:37Z",
   "stories": [
+    {
+      "headline": "Quick hits: Epic final takes stars into uncharted territory as Nadal picks a winner",
+      "link": "https://www.abc.net.au/news/2026-02-01/australian-open-2026-quick-hits-sabalenka-rybakina-womens-final/106291656",
+      "mean_score": 0.3652,
+      "vader_score": 0.5859,
+      "textblob_score": 0.1444,
+      "first_sentence": "Aryna Sabalenka doesn't \"want to think about tennis\" after another brutal loss in the women's final and Rafael Nadal picks his men's champion.",
+      "timestamp": "2026-01-31T20:14:57Z",
+      "source": "ABC News"
+    },
     {
       "headline": "\u2018The best movement is the next movement\u2019: how to really look after your lower back",
       "link": "https://www.theguardian.com/lifeandstyle/2026/jan/31/lower-back-pain-prevention-movement-exercises",
@@ -102,6 +112,16 @@
       "source": "NPR News"
     },
     {
+      "headline": "Arsenal stroll back to winning ways against outclassed Leeds and go seven points clear",
+      "link": "https://www.theguardian.com/football/2026/jan/31/leeds-arsenal-premier-league-match-report",
+      "mean_score": 0.4592,
+      "vader_score": 0.7184,
+      "textblob_score": 0.2,
+      "first_sentence": "It would be a touch too hyperbolic to suggest this was a season-defining afternoon for Arsenal\u2019s title ambitions, but given the opposition and the pre-match drama surrounding this game, there was no doubting that come full time this was a significant one in the Premier League title picture.",
+      "timestamp": "2026-01-31T17:11:35Z",
+      "source": "The Guardian"
+    },
+    {
       "headline": "\u2018I always believed\u2019: Elena Rybakina relishes return to top table after Melbourne glory",
       "link": "https://www.theguardian.com/sport/2026/jan/31/elena-rybakina-aryna-sabalenka-australian-open-final-tennis",
       "mean_score": 0.5743,
@@ -129,6 +149,16 @@
       "textblob_score": 0.6,
       "first_sentence": "When Ian Evans\u2019s grandfather opened a hardware shop on Anglesey in the 1930s, the Menai Bridge was instrumental in ensuring its success.",
       "timestamp": "2026-01-31T14:30:31Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "A wing and a prayer: Rybakina\u2019s quiet resolve wrests glory from Sabalenka | Jack Snape",
+      "link": "https://www.theguardian.com/sport/2026/jan/31/elena-rybakina-australian-open-glory-aryna-sabalenka-tennis",
+      "mean_score": 0.3634,
+      "vader_score": 0.7269,
+      "textblob_score": 0.0,
+      "first_sentence": "The sprinkling rain at Melbourne Park meant the roof stayed closed on centre court for the Australian Open women\u2019s final, turning Rod Laver Arena into a concert hall charged with the music of tennis.",
+      "timestamp": "2026-01-31T14:20:12Z",
       "source": "The Guardian"
     },
     {
@@ -2470,36 +2500,6 @@
       "first_sentence": "JUBA, South Sudan (AP) \u2014 After agreeing to accept deportees from the United States last year, South Sudan sent a list of requests to Washington that included American support for the prosecution of an opposition leader and sanctions relief for a senior official accused of diverting over a billion dollars in public funds.",
       "timestamp": "2026-01-24T09:23:01Z",
       "source": "AP News"
-    },
-    {
-      "headline": "'Got lucky': Sinner admits Aus Open heat rule rescued title defence",
-      "link": "https://www.abc.net.au/news/2026-01-24/australian-open-jannik-sinner-eliot-spizzirri-extreme-heat-rules/106265666",
-      "mean_score": 0.4843,
-      "vader_score": 0.802,
-      "textblob_score": 0.1667,
-      "first_sentence": "To use a well-worn phrase, Jannik Sinner knows he dodged a bullet.",
-      "timestamp": "2026-01-24T08:34:38Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "'Incredible' response for kids clothes swap shop",
-      "link": "https://www.bbc.com/news/articles/cz6yyq70v65o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.45,
-      "vader_score": 0.0,
-      "textblob_score": 0.9,
-      "first_sentence": "As babies grow up, parents are often left with clothes that have barely been worn and now have very little use.",
-      "timestamp": "2026-01-24T07:17:09Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "My cultural awakening: A Queen song helped me break free from communist Cuba",
-      "link": "https://www.theguardian.com/culture/2026/jan/24/my-cultural-awakening-a-queen-song-helped-me-break-free-from-communist-cuba",
-      "mean_score": 0.3803,
-      "vader_score": 0.5106,
-      "textblob_score": 0.25,
-      "first_sentence": "Throughout my childhood and teenage years growing up in 80s Cuba, Fidel Castro\u2019s presence, and the overt influence of politics, was everywhere \u2013 on posters, on walls, in speeches that could last four hours at a stretch.",
-      "timestamp": "2026-01-24T07:00:33Z",
-      "source": "The Guardian"
     }
   ]
 }

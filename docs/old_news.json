@@ -1,5 +1,35 @@
 [
   {
+    "headline": "'Got lucky': Sinner admits Aus Open heat rule rescued title defence",
+    "link": "https://www.abc.net.au/news/2026-01-24/australian-open-jannik-sinner-eliot-spizzirri-extreme-heat-rules/106265666",
+    "mean_score": 0.4843,
+    "vader_score": 0.802,
+    "textblob_score": 0.1667,
+    "first_sentence": "To use a well-worn phrase, Jannik Sinner knows he dodged a bullet.",
+    "timestamp": "2026-01-24T08:34:38Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "'Incredible' response for kids clothes swap shop",
+    "link": "https://www.bbc.com/news/articles/cz6yyq70v65o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.45,
+    "vader_score": 0.0,
+    "textblob_score": 0.9,
+    "first_sentence": "As babies grow up, parents are often left with clothes that have barely been worn and now have very little use.",
+    "timestamp": "2026-01-24T07:17:09Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "My cultural awakening: A Queen song helped me break free from communist Cuba",
+    "link": "https://www.theguardian.com/culture/2026/jan/24/my-cultural-awakening-a-queen-song-helped-me-break-free-from-communist-cuba",
+    "mean_score": 0.3803,
+    "vader_score": 0.5106,
+    "textblob_score": 0.25,
+    "first_sentence": "Throughout my childhood and teenage years growing up in 80s Cuba, Fidel Castro\u2019s presence, and the overt influence of politics, was everywhere \u2013 on posters, on walls, in speeches that could last four hours at a stretch.",
+    "timestamp": "2026-01-24T07:00:33Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "\u2018We are fighters, it\u2019s in our DNA\u2019: Greenland find pride in rare tilt at futsal glory",
     "link": "https://www.theguardian.com/football/2026/jan/24/we-are-fighters-its-in-our-dna-greenland-find-pride-in-rare-tilt-at-futsal-glory",
     "mean_score": 0.4954,
