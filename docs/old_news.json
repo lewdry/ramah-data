@@ -1,5 +1,75 @@
 [
   {
+    "headline": "\u2018We are fighters, it\u2019s in our DNA\u2019: Greenland find pride in rare tilt at futsal glory",
+    "link": "https://www.theguardian.com/football/2026/jan/24/we-are-fighters-its-in-our-dna-greenland-find-pride-in-rare-tilt-at-futsal-glory",
+    "mean_score": 0.4954,
+    "vader_score": 0.6908,
+    "textblob_score": 0.3,
+    "first_sentence": "Greenland\u2019s futsal players string out in a line before angling their bodies to the left, facing the flag on the far wall.",
+    "timestamp": "2026-01-24T06:00:37Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Six great reads: spuds in vogue, Finland\u2019s biggest crime and a month living in analogue",
+    "link": "https://www.theguardian.com/news/2026/jan/24/six-great-reads-spuds-in-vogue-finlands-biggest-and-a-month-living-in-analogue",
+    "mean_score": 0.4766,
+    "vader_score": 0.1531,
+    "textblob_score": 0.8,
+    "first_sentence": "One of the UK\u2019s most unlikely fast food trends of the past few years has been an influencer-led rise in appetite for baked potatoes, one of Britain\u2019s original street foods.",
+    "timestamp": "2026-01-24T06:00:33Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "China no longer Pentagon's top security priority",
+    "link": "https://www.bbc.com/news/articles/cj9r8ezym3ro?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.375,
+    "vader_score": 0.25,
+    "textblob_score": 0.5,
+    "first_sentence": "China is no longer the top security priority for the US, according to the Pentagon's new National Defense Strategy.",
+    "timestamp": "2026-01-24T05:21:06Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "'A natural partner': US treasury secretary weighs in on Alberta separatism",
+    "link": "https://www.bbc.com/news/articles/cy8ylqx0zw4o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3053,
+    "vader_score": 0.5106,
+    "textblob_score": 0.1,
+    "first_sentence": "US Treasury Secretary Scott Bessent has weighed in on a separatist movement in Alberta, saying the western Canadian province is a \"natural partner for the US\".",
+    "timestamp": "2026-01-24T03:20:10Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Extra Geography review \u2013 a sweet and spiky coming-of-age debut",
+    "link": "https://www.theguardian.com/film/2026/jan/24/extra-geography-movie-review-debut",
+    "mean_score": 0.3169,
+    "vader_score": 0.4588,
+    "textblob_score": 0.175,
+    "first_sentence": "If you know, you know that first best friendship is a world unto itself \u2013 lush, rugged and expansive, nutritive and intoxicating, vulnerable to freak changes in the weather.",
+    "timestamp": "2026-01-24T02:45:26Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Are things going to get better for your finances?",
+    "link": "https://www.bbc.com/news/articles/cn42l3g3qvlo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4702,
+    "vader_score": 0.4404,
+    "textblob_score": 0.5,
+    "first_sentence": "The UK's rate of inflation has risen, but the chancellor, in response, promised that Britain would this year turn a corner.",
+    "timestamp": "2026-01-24T02:37:45Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Fortescue hopes Pilbara wind farm will be the 'first of many'",
+    "link": "https://www.abc.net.au/news/2026-01-24/fortescue-begins-construction-on-pilbaras-first-wind-farm/106245178",
+    "mean_score": 0.3982,
+    "vader_score": 0.4215,
+    "textblob_score": 0.375,
+    "first_sentence": "Fortescue Metals is moving towards reducing the carbon footprint of its iron ore production in Western Australia's north by constructing the region's first wind farm.",
+    "timestamp": "2026-01-24T01:53:14Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Explosive bust-ups, secret relationships and extreme reactions: The Traitors' best moments",
     "link": "https://www.bbc.com/news/articles/cq84dp4zvy1o?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.3976,
