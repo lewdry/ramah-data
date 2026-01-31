@@ -1,6 +1,16 @@
 {
-  "last run": "2026-01-31T10:04:42Z",
+  "last run": "2026-01-31T11:05:11Z",
   "stories": [
+    {
+      "headline": "A red hat, inspired by a symbol of resistance to Nazi occupation, gains traction in Minnesota",
+      "link": "https://www.npr.org/2026/01/31/nx-s1-5693767/red-hat-protest-minnesota",
+      "mean_score": 0.3404,
+      "vader_score": 0.6808,
+      "textblob_score": 0.0,
+      "first_sentence": "The weekly gatherings of knitters at Needle & Skein, a yarn store in Minneapolis, are typically filled with giggles and storytelling.",
+      "timestamp": "2026-01-31T10:00:00Z",
+      "source": "NPR News"
+    },
     {
       "headline": "How the right won the internet | Robert Topinka",
       "link": "https://www.theguardian.com/commentisfree/ng-interactive/2026/jan/31/digital-politics-the-right-internet-digital-politics-extreme-political-ideas",
@@ -159,6 +169,16 @@
       "textblob_score": 0.4,
       "first_sentence": "Good morning.",
       "timestamp": "2026-01-30T21:00:38Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Catherine O\u2019Hara managed to make difficult characters utterly delightful",
+      "link": "https://www.theguardian.com/culture/2026/jan/30/catherine-ohara-comedy-actor-tribute",
+      "mean_score": 0.3152,
+      "vader_score": 0.3804,
+      "textblob_score": 0.25,
+      "first_sentence": "One of the later and less beloved Christopher Guest comedies featuring his troupe of peerless, often SCTV-related improvisers is For Your Consideration, a medium-funny savaging of Hollywood\u2019s feverish awards-season prestige campaigning.",
+      "timestamp": "2026-01-30T20:25:34Z",
       "source": "The Guardian"
     },
     {
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.3232,
       "first_sentence": "\u2018It\u2019s Stephen! It\u2019s Stephen.",
       "timestamp": "2026-01-23T15:46:31Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "UK ministers urged to release \u2018withheld\u2019 safety reports on smart motorways",
-      "link": "https://www.theguardian.com/uk-news/2026/jan/23/ministers-urged-release-safety-reports-popes-britain-smart-motorways",
-      "mean_score": 0.4424,
-      "vader_score": 0.6705,
-      "textblob_score": 0.2143,
-      "first_sentence": "Road campaigners and motoring organisations have urged UK government ministers to immediately release a series of \u201cwithheld\u201d safety assessments of smart motorways \u2013 some dating back to 2022.",
-      "timestamp": "2026-01-23T15:09:01Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Bouncing back: from an ankle sprain to a shoulder pinch, experts on the best way to recover from common injuries",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/23/experts-best-way-to-recover-from-common-injuries",
-      "mean_score": 0.4351,
-      "vader_score": 0.6369,
-      "textblob_score": 0.2333,
-      "first_sentence": "The Guardian\u2019s journalism is independent.",
-      "timestamp": "2026-01-23T15:00:14Z",
       "source": "The Guardian"
     }
   ]
