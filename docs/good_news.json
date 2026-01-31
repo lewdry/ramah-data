@@ -1,6 +1,26 @@
 {
-  "last run": "2026-01-31T14:05:58Z",
+  "last run": "2026-01-31T15:04:46Z",
   "stories": [
+    {
+      "headline": "Pet sounds: Why some dog owners share music with their 4-legged friends",
+      "link": "https://apnews.com/article/music-dogs-calming-alone-training-youtube-db4e0d543674b995c5b9a5916fccda17",
+      "mean_score": 0.3243,
+      "vader_score": 0.6486,
+      "textblob_score": 0.0,
+      "first_sentence": "People use music to set moods, create a desired atmosphere and evoke memories of family and friends.",
+      "timestamp": "2026-01-31T14:53:02Z",
+      "source": "AP News"
+    },
+    {
+      "headline": "\u2018It\u2019s astonishing how well it has lasted\u2019: Anglesey marks 200th anniversary of beloved bridge",
+      "link": "https://www.theguardian.com/uk-news/2026/jan/31/wales-anglesey-200th-anniversary-menai-bridge",
+      "mean_score": 0.6299,
+      "vader_score": 0.6597,
+      "textblob_score": 0.6,
+      "first_sentence": "When Ian Evans\u2019s grandfather opened a hardware shop on Anglesey in the 1930s, the Menai Bridge was instrumental in ensuring its success.",
+      "timestamp": "2026-01-31T14:30:31Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Record harvest sparks mass giveaway of free potatoes across Berlin",
       "link": "https://www.theguardian.com/world/2026/jan/31/record-harvest-berlin-giveaway-potatoes",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Every month, hundreds of millions of users flock to Pinterest looking for the latest styles.",
       "timestamp": "2026-01-23T22:31:33Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Can the frenetic Marty Supreme carry Chalamet to Oscar glory?",
-      "link": "https://www.abc.net.au/news/2026-01-24/marty-supreme-review-timothee-chalamet/106254190",
-      "mean_score": 0.3982,
-      "vader_score": 0.7964,
-      "textblob_score": 0.0,
-      "first_sentence": "Does awards-buzz movie Marty Supreme mark Timoth\u00e9e Chalamet's time to win an Oscar?.",
-      "timestamp": "2026-01-23T22:15:14Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Gen Z led the revolution in Bangladesh \u2014 can they win the election?",
-      "link": "https://www.abc.net.au/news/2026-01-24/bangladesh-election-gen-z-revolution-will-they-win/106204040",
-      "mean_score": 0.6929,
-      "vader_score": 0.5859,
-      "textblob_score": 0.8,
-      "first_sentence": "The then-student activist was detained and tortured for helping lead widespread protests in Bangladesh that began in 2024.",
-      "timestamp": "2026-01-23T21:16:51Z",
-      "source": "ABC News"
     }
   ]
 }
