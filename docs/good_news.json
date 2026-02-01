@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-01T16:05:44Z",
+  "last run": "2026-02-01T17:07:16Z",
   "stories": [
+    {
+      "headline": "UK hospitality firms demand more help with business rates amid questions over Heathrow discount",
+      "link": "https://www.theguardian.com/business/2026/feb/01/uk-business-rates-rachel-reeves-relief-fund-heathrow-hospitality",
+      "mean_score": 0.4299,
+      "vader_score": 0.3597,
+      "textblob_score": 0.5,
+      "first_sentence": "Struggling hotels, restaurants and nightclubs are calling for more financial help with business rates after it emerged that Heathrow is among the biggest beneficiaries of a multibillion-pound package of state support.",
+      "timestamp": "2026-02-01T16:52:33Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Sesko seals dramatic win over Fulham to continue Manchester United revival",
+      "link": "https://www.theguardian.com/football/2026/feb/01/manchester-united-fulham-premier-league-match-report",
+      "mean_score": 0.4742,
+      "vader_score": 0.765,
+      "textblob_score": 0.1833,
+      "first_sentence": "Benjamin Sesko will never forget the sweet pirouette-and-finish that burst Bernd Leno\u2019s net in stoppage time to earn Manchester United a dramatic victory over Fulham.",
+      "timestamp": "2026-02-01T16:48:59Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Betfred brothers top the UK\u2019s biggest taxpayers list with \u00a3400m bill",
       "link": "https://www.theguardian.com/money/2026/feb/01/uk-biggest-taxpayers-list-betfred-brothers-tim-martin-harry-styles-erling-haaland",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Andreeva is back.",
       "timestamp": "2026-01-25T10:46:42Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Railway line made safe as storm clean-up begins",
-      "link": "https://www.bbc.com/news/articles/ce8gldd9zyyo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.5,
-      "first_sentence": "The main railway line in the south-west of England has been declared safe by engineers after a sea wall next to it crumbled in a storm.",
-      "timestamp": "2026-01-25T10:19:57Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "First Nations construction leader Frank Mitchell named Local Hero 2026",
-      "link": "https://www.abc.net.au/news/2026-01-25/australian-of-the-year-awards-2026/106267536",
-      "mean_score": 0.3412,
-      "vader_score": 0.5574,
-      "textblob_score": 0.125,
-      "first_sentence": "Nedd Brockmann, 23, is an endurance runner who wants to end homelessness.",
-      "timestamp": "2026-01-25T08:48:03Z",
-      "source": "ABC News"
     }
   ]
 }

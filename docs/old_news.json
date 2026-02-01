@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Railway line made safe as storm clean-up begins",
+    "link": "https://www.bbc.com/news/articles/ce8gldd9zyyo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4702,
+    "vader_score": 0.4404,
+    "textblob_score": 0.5,
+    "first_sentence": "The main railway line in the south-west of England has been declared safe by engineers after a sea wall next to it crumbled in a storm.",
+    "timestamp": "2026-01-25T10:19:57Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "First Nations construction leader Frank Mitchell named Local Hero 2026",
+    "link": "https://www.abc.net.au/news/2026-01-25/australian-of-the-year-awards-2026/106267536",
+    "mean_score": 0.3412,
+    "vader_score": 0.5574,
+    "textblob_score": 0.125,
+    "first_sentence": "Nedd Brockmann, 23, is an endurance runner who wants to end homelessness.",
+    "timestamp": "2026-01-25T08:48:03Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Live: Steve Smith's Sixers to bat first in blockbuster BBL decider",
     "link": "https://www.abc.net.au/news/2026-01-25/bbl-final-sixers-vs-scorchers-live-updates/106265840",
     "mean_score": 0.3963,
