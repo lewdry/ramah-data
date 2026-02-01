@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-01T22:04:52Z",
+  "last run": "2026-02-01T23:06:11Z",
   "stories": [
+    {
+      "headline": "Aussie Olympic preparations continue after COVID-19 positive tests",
+      "link": "https://www.abc.net.au/news/2026-02-02/winter-olympics-2026-australia-staff-covid-19/106294228",
+      "mean_score": 0.3923,
+      "vader_score": 0.5574,
+      "textblob_score": 0.2273,
+      "first_sentence": "Two staff members working with Australia's Winter Olympic team have tested positive to COVID-19.",
+      "timestamp": "2026-02-01T22:04:59Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Black History Month centennial channels angst over anti-DEI climate into education, free resources",
       "link": "https://apnews.com/article/black-history-month-carter-woodson-juneteenth-ac6c93af68ff95738e2a8caa5de19906",
@@ -10,6 +20,16 @@
       "first_sentence": "For academics, historians and activists, the past year has been tumultuous in advocating the teaching of Black history in the United States.",
       "timestamp": "2026-02-01T21:53:02Z",
       "source": "AP News"
+    },
+    {
+      "headline": "Matildas trio help Arsenal to become first-ever club world champions",
+      "link": "https://www.abc.net.au/news/2026-02-02/arsenal-wins-fifa-women-champions-cup/106294178",
+      "mean_score": 0.3634,
+      "vader_score": 0.7269,
+      "textblob_score": 0.0,
+      "first_sentence": "Australian Caitlin Foord has scored in extra time to help Arsenal win the FIFA Women's Champions Cup final.",
+      "timestamp": "2026-02-01T21:52:26Z",
+      "source": "ABC News"
     },
     {
       "headline": "Australia news live: gunshot analysis inspires fresh search for fugitive Dezi Freeman; Littleproud faces leadership spill attempt",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.0,
       "first_sentence": "It\u2019s early afternoon on a gloomy day at the Jamia Usmania mosque in Bradford and a group of mostly elderly men have finished their midday prayers.",
       "timestamp": "2026-01-25T15:00:10Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Readers reply: how can we learn from unrequited love?",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/25/readers-replies-learn-unrequited-love",
-      "mean_score": 0.5685,
-      "vader_score": 0.6369,
-      "textblob_score": 0.5,
-      "first_sentence": "This week\u2019s question: To shred or not to shred: is it OK to recycle sensitive documents?.",
-      "timestamp": "2026-01-25T14:36:21Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "To shred or not to shred? Is it OK to throw out sensitive documents?",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/25/shred-sensitive-documents",
-      "mean_score": 0.4047,
-      "vader_score": 0.5095,
-      "textblob_score": 0.3,
-      "first_sentence": "I like to shred anything with my name and address on before putting it in the recycling bin (although this usually means ripping it up and putting on the compost heap).",
-      "timestamp": "2026-01-25T14:00:12Z",
       "source": "The Guardian"
     }
   ]
