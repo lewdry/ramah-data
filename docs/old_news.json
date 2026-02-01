@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Australian Open 2026: Alcaraz beats Paul and Sabalenka defeats brave Mboko as top seeds march into quarter-finals",
+    "link": "https://www.theguardian.com/sport/live/2026/jan/25/australian-open-2026-sabalenka-alcaraz-in-action-live",
+    "mean_score": 0.3827,
+    "vader_score": 0.4404,
+    "textblob_score": 0.325,
+    "first_sentence": "He had to dig deep against Paul but Alcarez has made it to the quarter-finals without dropping a set.",
+    "timestamp": "2026-01-25T05:48:25Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Sydney Swans player Taylor Adams knocked unconscious in incident outside popular venue",
+    "link": "https://www.theguardian.com/sport/2026/jan/25/sydney-swans-player-taylor-adams-knocked-unconscious-in-incident-outside-popular-venue-ntwnfb",
+    "mean_score": 0.3608,
+    "vader_score": 0.4215,
+    "textblob_score": 0.3,
+    "first_sentence": "The Sydney Swans midfielder Taylor Adams was taken to hospital after being knocked unconscious in an incident outside a popular club on Saturday night.",
+    "timestamp": "2026-01-25T04:43:20Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Alex Honnold successfully free solos Taipei 101 in live Netflix climb",
+    "link": "https://www.theguardian.com/sport/2026/jan/24/alex-honnold-free-solo-taipei-101-netflix",
+    "mean_score": 0.513,
+    "vader_score": 0.7579,
+    "textblob_score": 0.2682,
+    "first_sentence": "American rock climber Alex Honnold climbed the Taipei 101 skyscraper on Sunday without any ropes or protective equipment.",
+    "timestamp": "2026-01-25T03:24:51Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Myanmar military proxy expected to win landslide in widely denounced election",
     "link": "https://www.theguardian.com/world/2026/jan/25/myanmar-election-enters-final-stage-amid-airstrikes-and-exclusions",
     "mean_score": 0.3554,
