@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Getting divorced becomes a successful 'career move' for Kasey Chambers",
+    "link": "https://www.abc.net.au/news/2026-01-25/golden-guitar-award-winners-2026-tamworth-country-music-festival/106265498",
+    "mean_score": 0.668,
+    "vader_score": 0.5859,
+    "textblob_score": 0.75,
+    "first_sentence": "Kasey Chambers and Shane Nicholson have won multiple Golden Guitar awards for a song they penned through text messages about their divorce.",
+    "timestamp": "2026-01-24T13:34:50Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Maddison Inglis has it easy as clique of champions struggle in Melbourne heat",
+    "link": "https://www.theguardian.com/sport/2026/jan/24/maddison-inglis-australian-open-third-round-roundup-tennis",
+    "mean_score": 0.5229,
+    "vader_score": 0.6124,
+    "textblob_score": 0.4333,
+    "first_sentence": "The Australian Open\u2019s clique of champions didn\u2019t have it easy on Saturday.",
+    "timestamp": "2026-01-24T13:30:43Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "They survived conquistadors and settlers. Now the Arhuaco are facing an even greater threat",
     "link": "https://www.theguardian.com/global-development/2026/jan/25/indigenous-people-colombia-violence-arhuaco-people-guerrillas-traffickers",
     "mean_score": 0.42,

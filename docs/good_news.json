@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-01T03:03:08Z",
+  "last run": "2026-02-01T04:44:18Z",
   "stories": [
+    {
+      "headline": "Aussie Open champ 'hungry and more motivated' after victory",
+      "link": "https://www.abc.net.au/news/2026-02-01/australian-open-champ-elena-rybakina-hungry-for-success/106292894",
+      "mean_score": 0.5,
+      "vader_score": 0.7501,
+      "textblob_score": 0.25,
+      "first_sentence": "Kazakhstan's Elena Rybakina says she wants to win as many tennis prizes as possible after winning her second grand slam title and first Australian Open crown at Melbourne Park.",
+      "timestamp": "2026-02-01T04:29:59Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Rare dolphin sightings a win for science world, expert says",
       "link": "https://www.abc.net.au/news/2026-02-01/rarely-seen-dolphins-port-macquarie/106288194",
@@ -9,6 +19,16 @@
       "textblob_score": 0.55,
       "first_sentence": "Two rarely seen dolphin species have been photographed in waters off the coast of Port Macquarie, NSW.",
       "timestamp": "2026-02-01T01:58:59Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Dad's heartfelt thanks to teenage saviours of drowning son",
+      "link": "https://www.abc.net.au/news/2026-02-01/teenagers-save-swimmers-in-distress-blackmans-bay-tasmania/106292754",
+      "mean_score": 0.4086,
+      "vader_score": 0.7506,
+      "textblob_score": 0.0667,
+      "first_sentence": "The father of a boy rescued with others after being swept out to sea says he cannot thank the four teenagers who helped his son enough.",
+      "timestamp": "2026-02-01T01:43:58Z",
       "source": "ABC News"
     },
     {
@@ -2480,26 +2500,6 @@
       "first_sentence": "Democrats hoping to win a U.S.",
       "timestamp": "2026-01-24T15:23:02Z",
       "source": "AP News"
-    },
-    {
-      "headline": "Getting divorced becomes a successful 'career move' for Kasey Chambers",
-      "link": "https://www.abc.net.au/news/2026-01-25/golden-guitar-award-winners-2026-tamworth-country-music-festival/106265498",
-      "mean_score": 0.668,
-      "vader_score": 0.5859,
-      "textblob_score": 0.75,
-      "first_sentence": "Kasey Chambers and Shane Nicholson have won multiple Golden Guitar awards for a song they penned through text messages about their divorce.",
-      "timestamp": "2026-01-24T13:34:50Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Maddison Inglis has it easy as clique of champions struggle in Melbourne heat",
-      "link": "https://www.theguardian.com/sport/2026/jan/24/maddison-inglis-australian-open-third-round-roundup-tennis",
-      "mean_score": 0.5229,
-      "vader_score": 0.6124,
-      "textblob_score": 0.4333,
-      "first_sentence": "The Australian Open\u2019s clique of champions didn\u2019t have it easy on Saturday.",
-      "timestamp": "2026-01-24T13:30:43Z",
-      "source": "The Guardian"
     }
   ]
 }
