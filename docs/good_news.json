@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-01T11:05:29Z",
+  "last run": "2026-02-01T12:07:14Z",
   "stories": [
+    {
+      "headline": "Dining across the divide: \u2018Zack Polanski is articulate and charismatic, rather like Boris Johnson\u2019",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/feb/01/dining-across-the-divide-zack-polanski-is-articulate-and-charismatic-rather-like-boris-johnson",
+      "mean_score": 0.4306,
+      "vader_score": 0.3612,
+      "textblob_score": 0.5,
+      "first_sentence": "Their views differ on the Green party leader, but did the fellow Irish women agree on how to police demonstrations?.",
+      "timestamp": "2026-02-01T12:00:26Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Harry Styles and Anthony Joshua among UK's top tax payers",
       "link": "https://www.bbc.com/news/articles/ckgkv814p37o?at_medium=RSS&at_campaign=rss",
@@ -40,6 +50,16 @@
       "first_sentence": "Democrat Taylor Rehmet won a special election for the Texas state Senate on Saturday, flipping a reliably Republican district that President Donald Trump won by 17 points in 2024.",
       "timestamp": "2026-02-01T07:15:20Z",
       "source": "NPR News"
+    },
+    {
+      "headline": "Live: Alcaraz wins maiden Australian Open to complete career Grand Slam",
+      "link": "https://www.abc.net.au/news/2026-02-01/australian-open-2026-final-live-novak-djokovic-carlos-alcaraz/106293114",
+      "mean_score": 0.3988,
+      "vader_score": 0.6249,
+      "textblob_score": 0.1727,
+      "first_sentence": "Carlos Alcaraz is the youngest man to complete the career Grand Slam, beating 24-time major winner Novak Djokovic in the Australian Open final.",
+      "timestamp": "2026-02-01T06:20:18Z",
+      "source": "ABC News"
     },
     {
       "headline": "Lily Allen has made a huge comeback \u2014 soon she'll be in Australia",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.1273,
       "first_sentence": "The stars are out as the action heats up on day eight of the 2026 Australian Open.",
       "timestamp": "2026-01-24T23:30:47Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "'Amazing' WA grain harvest set to break record with 27 million tonnes",
-      "link": "https://www.abc.net.au/news/rural/2026-01-25/western-australia-harvest-wraps-up-with-record-breaking-year/106253596",
-      "mean_score": 0.593,
-      "vader_score": 0.5859,
-      "textblob_score": 0.6,
-      "first_sentence": "West Australian grain growers are on track to break harvest receival records, with more than 27 million tonnes expected.",
-      "timestamp": "2026-01-24T23:25:17Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Australia's most popular baby names from 2025 revealed",
-      "link": "https://www.abc.net.au/news/2026-01-25/what-were-the-top-baby-names-in-australia-2025/106254306",
-      "mean_score": 0.5127,
-      "vader_score": 0.4754,
-      "textblob_score": 0.55,
-      "first_sentence": "Darwin parents Abbey and Tom Kiem left their newborn daughter nameless for the first two weeks of her life, as they struggled to pare down an overwhelming list of potential names to the perfect one.",
-      "timestamp": "2026-01-24T23:05:06Z",
       "source": "ABC News"
     }
   ]

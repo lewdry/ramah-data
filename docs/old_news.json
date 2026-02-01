@@ -1,5 +1,25 @@
 [
   {
+    "headline": "'Amazing' WA grain harvest set to break record with 27 million tonnes",
+    "link": "https://www.abc.net.au/news/rural/2026-01-25/western-australia-harvest-wraps-up-with-record-breaking-year/106253596",
+    "mean_score": 0.593,
+    "vader_score": 0.5859,
+    "textblob_score": 0.6,
+    "first_sentence": "West Australian grain growers are on track to break harvest receival records, with more than 27 million tonnes expected.",
+    "timestamp": "2026-01-24T23:25:17Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Australia's most popular baby names from 2025 revealed",
+    "link": "https://www.abc.net.au/news/2026-01-25/what-were-the-top-baby-names-in-australia-2025/106254306",
+    "mean_score": 0.5127,
+    "vader_score": 0.4754,
+    "textblob_score": 0.55,
+    "first_sentence": "Darwin parents Abbey and Tom Kiem left their newborn daughter nameless for the first two weeks of her life, as they struggled to pare down an overwhelming list of potential names to the perfect one.",
+    "timestamp": "2026-01-24T23:05:06Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "First female jockey to win Darwin Cup returns from maternity leave",
     "link": "https://www.abc.net.au/news/2026-01-25/first-nt-jockey-takes-maternity-leave/106244210",
     "mean_score": 0.4537,
