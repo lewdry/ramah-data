@@ -1,5 +1,25 @@
 [
   {
+    "headline": "They survived conquistadors and settlers. Now the Arhuaco are facing an even greater threat",
+    "link": "https://www.theguardian.com/global-development/2026/jan/25/indigenous-people-colombia-violence-arhuaco-people-guerrillas-traffickers",
+    "mean_score": 0.42,
+    "vader_score": 0.34,
+    "textblob_score": 0.5,
+    "first_sentence": "Around a fire in a ceremonial hut in the Sierra Nevada de Santa Marta, the Arhuaco people make a pledge.",
+    "timestamp": "2026-01-24T13:00:40Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "I'm proud to be from Lewis - but I couldn't tell anyone the Traitors result",
+    "link": "https://www.bbc.com/news/articles/clywzl4w12zo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.5309,
+    "vader_score": 0.2617,
+    "textblob_score": 0.8,
+    "first_sentence": "Spoiler warning: This article contains details of the final episode of The Traitors.",
+    "timestamp": "2026-01-24T11:54:14Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Australian Open 2026: Djokovic loses cool in hard-fought win, Osaka withdraws \u2013 live",
     "link": "https://www.theguardian.com/sport/live/2026/jan/24/australian-open-2026-van-de-zandschulp-djokovic-kalinskaya-swiatek-osaka-inglis-cilic-ruud-live",
     "mean_score": 0.3751,
