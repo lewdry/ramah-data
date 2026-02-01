@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-01T20:04:45Z",
+  "last run": "2026-02-01T21:05:41Z",
   "stories": [
+    {
+      "headline": "Australia news live: gunshot analysis inspires fresh search for fugitive Dezi Freeman; Littleproud faces leadership spill attempt",
+      "link": "https://www.theguardian.com/australia-news/live/2026/feb/02/australia-news-live-desi-freeman-porepunkah-shooting-search-nationals-leadership-spill-littleproud-liberals-sussan-ley-angus-taylor-andrew-hastie-ntwnfb",
+      "mean_score": 0.5013,
+      "vader_score": 0.7845,
+      "textblob_score": 0.2182,
+      "first_sentence": "Dan Tehan, the shadow minister for energy, said senior leaders from the Nationals and the Liberal party need to meet in Canberra this week and work through their differences amid a split in the Coalition last month.",
+      "timestamp": "2026-02-01T20:59:29Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Quick hits: Novak gets the one trophy he doesn't want as his AO luck turns",
       "link": "https://www.abc.net.au/news/2026-02-02/australian-open-2026-quick-hits-alcaraz-djokovic-mens-final/106293202",
@@ -2490,16 +2500,6 @@
       "first_sentence": "I spent the first decade of my life in Vancouver Island, Canada, in an area rich with parks, lakes and forests.",
       "timestamp": "2026-01-25T14:00:10Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "A decade of Star Trek-themed fart jokes: The Greatest Generation podcast turns 10",
-      "link": "https://arstechnica.com/culture/2026/01/a-decade-of-star-trek-themed-fart-jokes-the-greatest-generation-podcast-turns-10/",
-      "mean_score": 0.8676,
-      "vader_score": 0.7351,
-      "textblob_score": 1.0,
-      "first_sentence": "How two podcasters turned a Star Trek side project into a full-time career.",
-      "timestamp": "2026-01-25T12:00:25Z",
-      "source": "Ars Technica"
     }
   ]
 }
