@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-01T15:06:02Z",
+  "last run": "2026-02-01T16:05:44Z",
   "stories": [
+    {
+      "headline": "Betfred brothers top the UK\u2019s biggest taxpayers list with \u00a3400m bill",
+      "link": "https://www.theguardian.com/money/2026/feb/01/uk-biggest-taxpayers-list-betfred-brothers-tim-martin-harry-styles-erling-haaland",
+      "mean_score": 0.3512,
+      "vader_score": 0.2023,
+      "textblob_score": 0.5,
+      "first_sentence": "Sir Tim Martin, Harry Styles, Ed Sheeran, Erling Haaland and Mo Salah are among the UK\u2019s 100 biggest taxpayers, according to new rankings.",
+      "timestamp": "2026-02-01T15:55:46Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018Already a legend\u2019: Djokovic\u2019s praise for Australian Open champion Alcaraz",
+      "link": "https://www.theguardian.com/sport/2026/feb/01/already-a-legend-djokovics-praise-for-australian-open-champion-alcaraz",
+      "mean_score": 0.4088,
+      "vader_score": 0.8176,
+      "textblob_score": 0.0,
+      "first_sentence": "Novak Djokovic called Carlos Alcaraz a tennis legend at the age of 22 after the Spaniard became the youngest male player in history to complete the career grand slam by defeating Djokovic 2-6, 6-2, 6-3, 7-5 in the Australian Open final.",
+      "timestamp": "2026-02-01T15:13:50Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Australia\u2019s youngest Winter Olympian Indra Brown: \u2018I just love the feeling of flying\u2019 | Martin Pegan",
       "link": "https://www.theguardian.com/sport/2026/feb/02/indra-brown-australia-youngest-winter-olympian-interview",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Nedd Brockmann, 23, is an endurance runner who wants to end homelessness.",
       "timestamp": "2026-01-25T08:48:03Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Live: Steve Smith's Sixers to bat first in blockbuster BBL decider",
-      "link": "https://www.abc.net.au/news/2026-01-25/bbl-final-sixers-vs-scorchers-live-updates/106265840",
-      "mean_score": 0.3963,
-      "vader_score": 0.5994,
-      "textblob_score": 0.1932,
-      "first_sentence": "Steve Smith is in search of a triumphant end to his explosive BBL cameo, with the Sixers and Scorchers locking horns in the competition's final at Perth Stadium.",
-      "timestamp": "2026-01-25T07:42:26Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Traitors star planned to win with Essex stereotype",
-      "link": "https://www.bbc.com/news/articles/c99kjkg4vy4o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5806,
-      "vader_score": 0.3612,
-      "textblob_score": 0.8,
-      "first_sentence": "Traitors finalist Jack Butler has revealed  he planned to use Essex stereotypes to get ahead in the hit BBC One show.",
-      "timestamp": "2026-01-25T06:18:54Z",
-      "source": "BBC News"
     }
   ]
 }

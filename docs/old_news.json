@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Live: Steve Smith's Sixers to bat first in blockbuster BBL decider",
+    "link": "https://www.abc.net.au/news/2026-01-25/bbl-final-sixers-vs-scorchers-live-updates/106265840",
+    "mean_score": 0.3963,
+    "vader_score": 0.5994,
+    "textblob_score": 0.1932,
+    "first_sentence": "Steve Smith is in search of a triumphant end to his explosive BBL cameo, with the Sixers and Scorchers locking horns in the competition's final at Perth Stadium.",
+    "timestamp": "2026-01-25T07:42:26Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Traitors star planned to win with Essex stereotype",
+    "link": "https://www.bbc.com/news/articles/c99kjkg4vy4o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.5806,
+    "vader_score": 0.3612,
+    "textblob_score": 0.8,
+    "first_sentence": "Traitors finalist Jack Butler has revealed  he planned to use Essex stereotypes to get ahead in the hit BBC One show.",
+    "timestamp": "2026-01-25T06:18:54Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Australian Open 2026: Alcaraz beats Paul and Sabalenka defeats brave Mboko as top seeds march into quarter-finals",
     "link": "https://www.theguardian.com/sport/live/2026/jan/25/australian-open-2026-sabalenka-alcaraz-in-action-live",
     "mean_score": 0.3827,
