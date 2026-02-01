@@ -1,5 +1,25 @@
 [
   {
+    "headline": "\u2018Displaying the cloth like this showed its true beauty\u2019: Aung Chan Thar\u2019s best phone picture",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/jan/24/displaying-the-cloth-like-this-showed-its-true-beauty-aung-chan-thars-best-phone-picture",
+    "mean_score": 0.7671,
+    "vader_score": 0.8591,
+    "textblob_score": 0.675,
+    "first_sentence": "A beautiful lake, gorgeous fabric: how could the Myanmar photographer resist?.",
+    "timestamp": "2026-01-24T11:00:37Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Olivia Dean\u2019s Man I Need wins Triple J\u2019s Hottest 100",
+    "link": "https://www.theguardian.com/music/2026/jan/24/olivia-dean-man-i-need-triple-j-hottest-100-winner-australia",
+    "mean_score": 0.4359,
+    "vader_score": 0.5719,
+    "textblob_score": 0.3,
+    "first_sentence": "British pop sensation Olivia Dean has taken out the number one spot in Australia\u2019s largest music poll, Triple J\u2019s Hottest 100, with her single Man I Need.",
+    "timestamp": "2026-01-24T09:35:02Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "After accepting US deportees, South Sudan wanted sanctions relief for top official, documents show",
     "link": "https://apnews.com/article/south-sudan-us-migrants-10ac9844e775ad2a4f16132124558fd0",
     "mean_score": 0.629,
