@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-01T10:05:40Z",
+  "last run": "2026-02-01T11:05:29Z",
   "stories": [
+    {
+      "headline": "Harry Styles and Anthony Joshua among UK's top tax payers",
+      "link": "https://www.bbc.com/news/articles/ckgkv814p37o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3512,
+      "vader_score": 0.2023,
+      "textblob_score": 0.5,
+      "first_sentence": "The billionaire brothers behind gambling giant Betfred have topped a list of the UK's 100 biggest taxpayers, which also features Harry Styles, Anthony Joshua and JK Rowling.",
+      "timestamp": "2026-02-01T10:50:19Z",
+      "source": "BBC News"
+    },
     {
       "headline": "How the left can win back the internet \u2013 and rise again | Robert Topinka",
       "link": "https://www.theguardian.com/commentisfree/ng-interactive/2026/feb/01/digital-politics-progressives-internet-the-left-online-world",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.55,
       "first_sentence": "Darwin parents Abbey and Tom Kiem left their newborn daughter nameless for the first two weeks of her life, as they struggled to pare down an overwhelming list of potential names to the perfect one.",
       "timestamp": "2026-01-24T23:05:06Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "First female jockey to win Darwin Cup returns from maternity leave",
-      "link": "https://www.abc.net.au/news/2026-01-25/first-nt-jockey-takes-maternity-leave/106244210",
-      "mean_score": 0.4537,
-      "vader_score": 0.5574,
-      "textblob_score": 0.35,
-      "first_sentence": "An Alice Springs woman has become the first jockey in the Northern Territory to take maternity leave.",
-      "timestamp": "2026-01-24T22:59:30Z",
       "source": "ABC News"
     }
   ]

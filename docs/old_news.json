@@ -1,5 +1,15 @@
 [
   {
+    "headline": "First female jockey to win Darwin Cup returns from maternity leave",
+    "link": "https://www.abc.net.au/news/2026-01-25/first-nt-jockey-takes-maternity-leave/106244210",
+    "mean_score": 0.4537,
+    "vader_score": 0.5574,
+    "textblob_score": 0.35,
+    "first_sentence": "An Alice Springs woman has become the first jockey in the Northern Territory to take maternity leave.",
+    "timestamp": "2026-01-24T22:59:30Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "How the power of friendship is making the arts, sport scenes more inclusive",
     "link": "https://www.abc.net.au/news/2026-01-25/people-with-disability-find-connection-at-gig-buddies-sydney/106237060",
     "mean_score": 0.4702,
