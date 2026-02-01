@@ -1,5 +1,25 @@
 [
   {
+    "headline": "London City v Manchester City, Aston Villa v Manchester United, and more: WSL clockwatch \u2013 live",
+    "link": "https://www.theguardian.com/football/live/2026/jan/25/london-city-v-manchester-city-aston-villa-v-manchester-united-and-more-wsl-clockwatch-live",
+    "mean_score": 0.3698,
+    "vader_score": 0.4215,
+    "textblob_score": 0.3182,
+    "first_sentence": "Liverpool continue to be impressive and positive.",
+    "timestamp": "2026-01-25T11:51:54Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Cathy Freeman 'humbled' as she receives Australia's highest honour",
+    "link": "https://www.abc.net.au/news/2026-01-25/2026-australia-day-honours-list/106258634",
+    "mean_score": 0.3753,
+    "vader_score": 0.7506,
+    "textblob_score": 0.0,
+    "first_sentence": "Athletics champion Cathy Freeman was among 10 community leaders to receive the highest honour in the 2026 Australia Day honours list.",
+    "timestamp": "2026-01-25T11:00:32Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Australian Open 2026: Svitolina v Andreeva, De Minaur to face Alcaraz after Bublik win \u2013 live",
     "link": "https://www.theguardian.com/sport/live/2026/jan/25/australian-open-2026-de-minaur-bublik-andreeva-svitolina-zverev-medvedev-live",
     "mean_score": 0.41,
