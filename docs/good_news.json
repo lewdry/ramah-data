@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-01T21:05:41Z",
+  "last run": "2026-02-01T22:04:52Z",
   "stories": [
+    {
+      "headline": "Black History Month centennial channels angst over anti-DEI climate into education, free resources",
+      "link": "https://apnews.com/article/black-history-month-carter-woodson-juneteenth-ac6c93af68ff95738e2a8caa5de19906",
+      "mean_score": 0.3136,
+      "vader_score": 0.5106,
+      "textblob_score": 0.1167,
+      "first_sentence": "For academics, historians and activists, the past year has been tumultuous in advocating the teaching of Black history in the United States.",
+      "timestamp": "2026-02-01T21:53:02Z",
+      "source": "AP News"
+    },
     {
       "headline": "Australia news live: gunshot analysis inspires fresh search for fugitive Dezi Freeman; Littleproud faces leadership spill attempt",
       "link": "https://www.theguardian.com/australia-news/live/2026/feb/02/australia-news-live-desi-freeman-porepunkah-shooting-search-nationals-leadership-spill-littleproud-liberals-sussan-ley-angus-taylor-andrew-hastie-ntwnfb",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.3,
       "first_sentence": "I like to shred anything with my name and address on before putting it in the recycling bin (although this usually means ripping it up and putting on the compost heap).",
       "timestamp": "2026-01-25T14:00:12Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Blurry rats and coyotes with mange: the oddly thrilling subreddit dedicated to identifying wildlife",
-      "link": "https://www.theguardian.com/culture/2026/jan/25/blurry-rats-and-coyotes-with-mange-the-oddly-thrilling-subreddit-dedicated-to-identifying-wildlife",
-      "mean_score": 0.4704,
-      "vader_score": 0.6908,
-      "textblob_score": 0.25,
-      "first_sentence": "I spent the first decade of my life in Vancouver Island, Canada, in an area rich with parks, lakes and forests.",
-      "timestamp": "2026-01-25T14:00:10Z",
       "source": "The Guardian"
     }
   ]
