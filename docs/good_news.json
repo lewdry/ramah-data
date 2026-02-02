@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-02T10:17:11Z",
+  "last run": "2026-02-02T11:16:00Z",
   "stories": [
+    {
+      "headline": "The one change that worked: I quit my job, became a cat-sitter \u2013 and found new friends",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/feb/02/the-one-change-that-worked-i-quit-my-job-became-a-cat-sitter-and-found-new-friends",
+      "mean_score": 0.3065,
+      "vader_score": 0.4767,
+      "textblob_score": 0.1364,
+      "first_sentence": "I am a crazy cat lady, except for one small obstacle: I do not own a cat.",
+      "timestamp": "2026-02-02T11:00:10Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Most of Great Britain\u2019s major rail operators are back in public hands \u2013 is it working?",
+      "link": "https://www.theguardian.com/business/ng-interactive/2025/oct/13/most-of-great-britains-major-rail-operators-are-back-in-public-hands-is-it-working",
+      "mean_score": 0.4649,
+      "vader_score": 0.6573,
+      "textblob_score": 0.2725,
+      "first_sentence": "The majority of Great Britain\u2019s major rail operators are now in public ownership, as the Labour government continues its efforts to make the railways \u201cmore reliable, affordable and accessible\u201d.",
+      "timestamp": "2026-02-02T10:18:48Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "\u2018Nothing is sacred to them\u2019: the race to save rare plants as Russian troops advance",
       "link": "https://www.theguardian.com/environment/2026/feb/02/ukrainian-botanists-rare-endangered-plants-russian-occupation-biodiversity-aoe",
@@ -50,6 +70,16 @@
       "first_sentence": "Open sandwiches (sm\u00f8rrebr\u00f8d), meatballs (frikadeller), crispy pork belly (stegt fl\u00e6sk) \u2026 There are many must-eat dishes for food lovers visiting Denmark, though perhaps nothing springs to mind as readily as the Danish pastry.",
       "timestamp": "2026-02-02T07:00:49Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "The 'fantastic' baby bundles not every mum will get",
+      "link": "https://www.bbc.com/news/articles/cj4lg1xqp0zo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4787,
+      "vader_score": 0.5574,
+      "textblob_score": 0.4,
+      "first_sentence": "Some struggling families will miss out on \"fantastic\" baby bundles from the Welsh government, a charity has warned.",
+      "timestamp": "2026-02-02T06:37:32Z",
+      "source": "BBC News"
     },
     {
       "headline": "Hunt for UK's smallest mouse in huge Scottish nature reserve",
@@ -2470,36 +2500,6 @@
       "first_sentence": "Brussels sprouts are for life, not just for Christmas.",
       "timestamp": "2026-01-26T13:00:37Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Two charities get \u00a3300k to support older residents",
-      "link": "https://www.bbc.com/news/articles/c394498jprdo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4381,
-      "vader_score": 0.7096,
-      "textblob_score": 0.1667,
-      "first_sentence": "Almost \u00a3300,000 has been awarded to two charities in the South East to support the work they do with older residents in financial hardship.",
-      "timestamp": "2026-01-26T10:31:24Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "As GLP-1s become more available, some who aren't overweight may consider using them",
-      "link": "https://www.npr.org/2026/01/26/nx-s1-5676080/as-glp-1s-become-more-available-some-who-arent-overweight-may-consider-using-them",
-      "mean_score": 0.3628,
-      "vader_score": 0.2755,
-      "textblob_score": 0.45,
-      "first_sentence": "As GLP-1 drugs become more available, some people might use them despite not having excess weight.",
-      "timestamp": "2026-01-26T09:48:45Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "China's top generals under investigation as country's leader clears out ranks",
-      "link": "https://www.npr.org/2026/01/26/nx-s1-5687896/chinas-top-generals-under-investigation-as-countrys-leader-clears-out-ranks",
-      "mean_score": 0.3866,
-      "vader_score": 0.2732,
-      "textblob_score": 0.5,
-      "first_sentence": "China announced two of its top generals are under investigation, including the country's most senior general.",
-      "timestamp": "2026-01-26T09:47:39Z",
-      "source": "NPR News"
     }
   ]
 }
