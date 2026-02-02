@@ -1,5 +1,15 @@
 [
   {
+    "headline": "The Traitors moves from TV to theatre with 'bold' West End show",
+    "link": "https://www.bbc.com/news/articles/c0r4jwkl2vqo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3576,
+    "vader_score": 0.3818,
+    "textblob_score": 0.3333,
+    "first_sentence": "The makers of The Traitors are creating a stage version, in the hope that the TV show's dramatic twists and huge popularity will translate into a theatre hit.",
+    "timestamp": "2026-01-26T08:00:07Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Sleaford Mods go metal detecting: best podcasts of the week",
     "link": "https://www.theguardian.com/tv-and-radio/2026/jan/26/best-podcasts-of-the-week-do-i-detect-a-problem-sleaford-mods-ant-dec",
     "mean_score": 0.8185,

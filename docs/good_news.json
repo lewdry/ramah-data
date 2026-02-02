@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-02T07:23:25Z",
+  "last run": "2026-02-02T08:12:40Z",
   "stories": [
+    {
+      "headline": "Is it true that \u2026 coffee aids digestion?",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/feb/02/is-it-true-that-coffee-aids-digestion",
+      "mean_score": 0.3857,
+      "vader_score": 0.4215,
+      "textblob_score": 0.35,
+      "first_sentence": "The Guardian\u2019s journalism is independent.",
+      "timestamp": "2026-02-02T08:00:50Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Birdwatching with Sean Bean: best podcasts of the week",
       "link": "https://www.theguardian.com/tv-and-radio/2026/feb/02/birdwatching-with-sean-bean-best-podcasts-of-the-week",
@@ -2490,16 +2500,6 @@
       "first_sentence": "I was brought into The History of Sound as the music adviser, my main job being singing coach for the cast, especially Paul Mescal and Josh O\u2019Connor.",
       "timestamp": "2026-01-26T08:00:32Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "The Traitors moves from TV to theatre with 'bold' West End show",
-      "link": "https://www.bbc.com/news/articles/c0r4jwkl2vqo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3576,
-      "vader_score": 0.3818,
-      "textblob_score": 0.3333,
-      "first_sentence": "The makers of The Traitors are creating a stage version, in the hope that the TV show's dramatic twists and huge popularity will translate into a theatre hit.",
-      "timestamp": "2026-01-26T08:00:07Z",
-      "source": "BBC News"
     }
   ]
 }
