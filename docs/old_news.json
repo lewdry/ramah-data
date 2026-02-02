@@ -1,5 +1,65 @@
 [
   {
+    "headline": "Canada has no intention of pursuing free trade with China, says Carney",
+    "link": "https://www.theguardian.com/world/2026/jan/25/canada-has-no-intention-of-pursuing-free-trade-with-china-says-carney",
+    "mean_score": 0.3366,
+    "vader_score": 0.2732,
+    "textblob_score": 0.4,
+    "first_sentence": "Canada\u2019s prime minister, Mark Carney, said on Sunday his country had no intention of pursuing a free trade deal with China, responding to Donald Trump\u2019s threat to impose a 100% tariff on goods imported from Canada if the US\u2019s northern neighbour went ahead with a trade deal with Beijing.",
+    "timestamp": "2026-01-25T18:33:31Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Row erupts within UK\u2019s governing Labour Party after popular mayor blocked from upcoming election",
+    "link": "https://apnews.com/article/uk-labour-party-starmer-burnham-b63b1acaff7058eb2a22b730c0560390",
+    "mean_score": 0.5634,
+    "vader_score": 0.5267,
+    "textblob_score": 0.6,
+    "first_sentence": "LONDON (AP) \u2014 A row erupted Sunday within Britain\u2019s governing Labour Party after the ambitious mayor of Manchester was prevented from trying to reenter Parliament at a special election in the city, with critics claiming that Prime Minister Keir Starmer did not want to see a potential rival back in the House of Commons.",
+    "timestamp": "2026-01-25T17:53:02Z",
+    "source": "AP News"
+  },
+  {
+    "headline": "US security agreement for Ukraine is \u2018100% ready\u2019 to be signed, Zelenskyy says",
+    "link": "https://apnews.com/article/us-ukraine-war-talks-security-zelenskyy-438412639e3a73cab0abf9d109519720",
+    "mean_score": 0.4404,
+    "vader_score": 0.6808,
+    "textblob_score": 0.2,
+    "first_sentence": "President Volodymyr Zelenskyy said Sunday that a U.S.",
+    "timestamp": "2026-01-25T17:53:02Z",
+    "source": "AP News"
+  },
+  {
+    "headline": "The Guardian view on the future of cinema: gen Z is falling in love with the big screen | Editorial",
+    "link": "https://www.theguardian.com/commentisfree/2026/jan/25/the-guardian-view-on-the-future-of-cinema-gen-z-is-falling-in-love-with-the-big-screen",
+    "mean_score": 0.362,
+    "vader_score": 0.5574,
+    "textblob_score": 0.1667,
+    "first_sentence": "\u201cIt was from a weekly visit to the cinema that you learned (or tried to learn) how to walk, to smoke, to kiss, to fight, to grieve,\u201d Susan Sontag wrote 30 years ago, in an essay to mark 100 years of film entitled The Decay of Cinema.",
+    "timestamp": "2026-01-25T17:25:13Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Buend\u00eda and Watkins stun Newcastle to keep Aston Villa\u2019s title hopes alive",
+    "link": "https://www.theguardian.com/football/2026/jan/25/newcastle-aston-villa-premier-league-match-report",
+    "mean_score": 0.3798,
+    "vader_score": 0.6597,
+    "textblob_score": 0.1,
+    "first_sentence": "Some wins are a little bit lucky and others downright fluky or simply ground out, but this Aston Villa victory belonged to a different category entirely.",
+    "timestamp": "2026-01-25T16:17:22Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Pilates after prayers: men\u2019s classes in Bradford mosques offer fitness and friendship",
+    "link": "https://www.theguardian.com/uk-news/2026/jan/25/pilates-men-classes-bradford-mosque-fitness-friendship",
+    "mean_score": 0.3062,
+    "vader_score": 0.6124,
+    "textblob_score": 0.0,
+    "first_sentence": "It\u2019s early afternoon on a gloomy day at the Jamia Usmania mosque in Bradford and a group of mostly elderly men have finished their midday prayers.",
+    "timestamp": "2026-01-25T15:00:10Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Readers reply: how can we learn from unrequited love?",
     "link": "https://www.theguardian.com/lifeandstyle/2026/jan/25/readers-replies-learn-unrequited-love",
     "mean_score": 0.5685,

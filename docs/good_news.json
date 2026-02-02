@@ -1,6 +1,36 @@
 {
-  "last run": "2026-02-01T23:06:11Z",
+  "last run": "2026-02-02T00:19:27Z",
   "stories": [
+    {
+      "headline": "Live: Grammys 2026 live: Aussie artist already on the winners' board as stars file in",
+      "link": "https://www.abc.net.au/news/2026-02-02/68th-grammy-awards-live-updates-winners/106288902",
+      "mean_score": 0.3065,
+      "vader_score": 0.4767,
+      "textblob_score": 0.1364,
+      "first_sentence": "The\u00a0music world's biggest award ceremony, the Grammys, is taking place in Los Angeles today, hosted by Trevor Noah for the sixth time running.",
+      "timestamp": "2026-02-01T23:55:45Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "My youngest is starting school for the first time. How can I best preserve his relentless curiosity? | Shadi Khan Saif",
+      "link": "https://www.theguardian.com/commentisfree/2026/feb/02/australia-back-to-school-first-day-children-learning-curiosity",
+      "mean_score": 0.5382,
+      "vader_score": 0.6597,
+      "textblob_score": 0.4167,
+      "first_sentence": "\u201cSchools are finally re-opening, mate,\u201d my volleyball friend Sardar announced, grinning with unmistakable relief.",
+      "timestamp": "2026-02-01T23:40:16Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Most mortgaged homeowners won\u2019t see repayments increase if the RBA hikes interest rates this week",
+      "link": "https://www.theguardian.com/australia-news/2026/feb/02/rba-interest-rates-announcement-mortgage-repayments-australia",
+      "mean_score": 0.5743,
+      "vader_score": 0.6486,
+      "textblob_score": 0.5,
+      "first_sentence": "A large majority of the 3.3 million mortgaged homeowners will not see their repayments increase should the Reserve Bank hike rates on Tuesday.",
+      "timestamp": "2026-02-01T23:00:39Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Aussie Olympic preparations continue after COVID-19 positive tests",
       "link": "https://www.abc.net.au/news/2026-02-02/winter-olympics-2026-australia-staff-covid-19/106294228",
@@ -40,6 +70,16 @@
       "first_sentence": "Dan Tehan, the shadow minister for energy, said senior leaders from the Nationals and the Liberal party need to meet in Canberra this week and work through their differences amid a split in the Coalition last month.",
       "timestamp": "2026-02-01T20:59:29Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "Live: ASX down as gold miners tumble on precious metals rout",
+      "link": "https://www.abc.net.au/news/2026-02-02/asx-markets-business-news-live-updates/106293384",
+      "mean_score": 0.3661,
+      "vader_score": 0.5719,
+      "textblob_score": 0.1603,
+      "first_sentence": "The local stock market is in the red, led by hefty falls for gold miners as the precious metals rout continues.",
+      "timestamp": "2026-02-01T20:05:39Z",
+      "source": "ABC News"
     },
     {
       "headline": "Quick hits: Novak gets the one trophy he doesn't want as his AO luck turns",
@@ -152,6 +192,16 @@
       "source": "The Guardian"
     },
     {
+      "headline": "Readers reply: to shred or not to shred? Is it OK to throw out sensitive documents?",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/feb/01/readers-reply-shred-sensitive-documents",
+      "mean_score": 0.4047,
+      "vader_score": 0.5095,
+      "textblob_score": 0.3,
+      "first_sentence": "This week\u2019s question: why does a song sometimes get stuck in our heads \u2013 and what precisely makes an earworm?.",
+      "timestamp": "2026-02-01T14:00:29Z",
+      "source": "The Guardian"
+    },
+    {
       "headline": "Australia\u2019s best children\u2019s picture book poll: Graeme Base on \u201cAnimalia\u201d \u2013 podcast",
       "link": "https://www.theguardian.com/australia-news/audio/2026/feb/02/australias-best-childrens-picture-book-poll-graeme-base-on-animalia-full-story-podcast",
       "mean_score": 0.3684,
@@ -190,6 +240,16 @@
       "first_sentence": "The billionaire brothers behind gambling giant Betfred have topped a list of the UK's 100 biggest taxpayers, which also features Harry Styles, Anthony Joshua and JK Rowling.",
       "timestamp": "2026-02-01T10:50:19Z",
       "source": "BBC News"
+    },
+    {
+      "headline": "Milli Vanilli\u2019s Fab Morvan on his lip-syncing downfall and Grammys comeback: \u2018The truth will set you free\u2019",
+      "link": "https://www.theguardian.com/music/2026/feb/01/milli-vanilli-fab-morvan-interview-grammy-book-you-know-its-true",
+      "mean_score": 0.5243,
+      "vader_score": 0.6486,
+      "textblob_score": 0.4,
+      "first_sentence": "It may not be the most auspicious way to start an interview, but I have to ask: Fab, is it you reading your audiobook? Please confirm you\u00a0aren\u2019t just a pretty face hired to front it?.",
+      "timestamp": "2026-02-01T10:00:23Z",
+      "source": "The Guardian"
     },
     {
       "headline": "How the left can win back the internet \u2013 and rise again | Robert Topinka",
@@ -2439,66 +2499,6 @@
       "textblob_score": 0.25,
       "first_sentence": "The Emirates Stadium was a sea of anxiety.",
       "timestamp": "2026-01-25T18:48:21Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Canada has no intention of pursuing free trade with China, says Carney",
-      "link": "https://www.theguardian.com/world/2026/jan/25/canada-has-no-intention-of-pursuing-free-trade-with-china-says-carney",
-      "mean_score": 0.3366,
-      "vader_score": 0.2732,
-      "textblob_score": 0.4,
-      "first_sentence": "Canada\u2019s prime minister, Mark Carney, said on Sunday his country had no intention of pursuing a free trade deal with China, responding to Donald Trump\u2019s threat to impose a 100% tariff on goods imported from Canada if the US\u2019s northern neighbour went ahead with a trade deal with Beijing.",
-      "timestamp": "2026-01-25T18:33:31Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Row erupts within UK\u2019s governing Labour Party after popular mayor blocked from upcoming election",
-      "link": "https://apnews.com/article/uk-labour-party-starmer-burnham-b63b1acaff7058eb2a22b730c0560390",
-      "mean_score": 0.5634,
-      "vader_score": 0.5267,
-      "textblob_score": 0.6,
-      "first_sentence": "LONDON (AP) \u2014 A row erupted Sunday within Britain\u2019s governing Labour Party after the ambitious mayor of Manchester was prevented from trying to reenter Parliament at a special election in the city, with critics claiming that Prime Minister Keir Starmer did not want to see a potential rival back in the House of Commons.",
-      "timestamp": "2026-01-25T17:53:02Z",
-      "source": "AP News"
-    },
-    {
-      "headline": "US security agreement for Ukraine is \u2018100% ready\u2019 to be signed, Zelenskyy says",
-      "link": "https://apnews.com/article/us-ukraine-war-talks-security-zelenskyy-438412639e3a73cab0abf9d109519720",
-      "mean_score": 0.4404,
-      "vader_score": 0.6808,
-      "textblob_score": 0.2,
-      "first_sentence": "President Volodymyr Zelenskyy said Sunday that a U.S.",
-      "timestamp": "2026-01-25T17:53:02Z",
-      "source": "AP News"
-    },
-    {
-      "headline": "The Guardian view on the future of cinema: gen Z is falling in love with the big screen | Editorial",
-      "link": "https://www.theguardian.com/commentisfree/2026/jan/25/the-guardian-view-on-the-future-of-cinema-gen-z-is-falling-in-love-with-the-big-screen",
-      "mean_score": 0.362,
-      "vader_score": 0.5574,
-      "textblob_score": 0.1667,
-      "first_sentence": "\u201cIt was from a weekly visit to the cinema that you learned (or tried to learn) how to walk, to smoke, to kiss, to fight, to grieve,\u201d Susan Sontag wrote 30 years ago, in an essay to mark 100 years of film entitled The Decay of Cinema.",
-      "timestamp": "2026-01-25T17:25:13Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Buend\u00eda and Watkins stun Newcastle to keep Aston Villa\u2019s title hopes alive",
-      "link": "https://www.theguardian.com/football/2026/jan/25/newcastle-aston-villa-premier-league-match-report",
-      "mean_score": 0.3798,
-      "vader_score": 0.6597,
-      "textblob_score": 0.1,
-      "first_sentence": "Some wins are a little bit lucky and others downright fluky or simply ground out, but this Aston Villa victory belonged to a different category entirely.",
-      "timestamp": "2026-01-25T16:17:22Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Pilates after prayers: men\u2019s classes in Bradford mosques offer fitness and friendship",
-      "link": "https://www.theguardian.com/uk-news/2026/jan/25/pilates-men-classes-bradford-mosque-fitness-friendship",
-      "mean_score": 0.3062,
-      "vader_score": 0.6124,
-      "textblob_score": 0.0,
-      "first_sentence": "It\u2019s early afternoon on a gloomy day at the Jamia Usmania mosque in Bradford and a group of mostly elderly men have finished their midday prayers.",
-      "timestamp": "2026-01-25T15:00:10Z",
       "source": "The Guardian"
     }
   ]
