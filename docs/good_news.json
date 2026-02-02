@@ -1,6 +1,46 @@
 {
-  "last run": "2026-02-02T01:34:53Z",
+  "last run": "2026-02-02T03:02:38Z",
   "stories": [
+    {
+      "headline": "How Olivia Dean was crowned as the year's most exciting new artist",
+      "link": "https://www.bbc.com/news/articles/c1ev567ly7qo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4267,
+      "vader_score": 0.5413,
+      "textblob_score": 0.3121,
+      "first_sentence": "British singer Olivia Dean has confirmed her status as one of pop's biggest breakout stars by winning the Grammy Award for best new artist in Los Angeles on Sunday.",
+      "timestamp": "2026-02-02T02:39:29Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Grammy winners 2026: Lady Gaga wins Best Pop Vocal Album",
+      "link": "https://www.abc.net.au/news/2026-02-02/2026-grammys-winners-list-kendrick-lamar-olivia-dean/106294398",
+      "mean_score": 0.7751,
+      "vader_score": 0.9001,
+      "textblob_score": 0.65,
+      "first_sentence": "The 68th Grammy Awards have kicked off and artists have claimed accolades in 95 categories.",
+      "timestamp": "2026-02-02T01:54:49Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Not a fan of the gym? You can build these quick wins into your day",
+      "link": "https://www.bbc.com/news/articles/c8011zke7nko?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.363,
+      "vader_score": 0.4094,
+      "textblob_score": 0.3167,
+      "first_sentence": "Join the gym, run up a mountain, sign up for spin classes.",
+      "timestamp": "2026-02-02T01:49:10Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "My children's lives have come to a standstill - but a new study offers hope",
+      "link": "https://www.bbc.com/news/articles/cy8pnggl7zgo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3554,
+      "vader_score": 0.5927,
+      "textblob_score": 0.1182,
+      "first_sentence": "Harbinder remembers when her children were \"on track to have a bright future\".",
+      "timestamp": "2026-02-02T01:42:12Z",
+      "source": "BBC News"
+    },
     {
       "headline": "An old man and animals in the zoo \u2014 the best quotes from the Australian Open",
       "link": "https://www.abc.net.au/news/2026-02-02/australian-open-2026-best-quotes/106291648",
@@ -2460,46 +2500,6 @@
       "first_sentence": "The price of gold has risen above $5,000 (\u00a33,659) an ounce for the first time, extending a historic rally that saw the precious metal jump by more than 60% in 2025.",
       "timestamp": "2026-01-25T23:49:44Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Live: Aussie doubles pair win thriller as double tweener lights up the Open",
-      "link": "https://www.abc.net.au/news/2026-01-26/australian-open-2026-live-jannik-sinner-maddison-inglis-swiatek/106268840",
-      "mean_score": 0.4355,
-      "vader_score": 0.6369,
-      "textblob_score": 0.2341,
-      "first_sentence": "Defending Australian Open champion Madison Keys is beaten by friend and Player's Box podcast co-host Jessica Pegula on Rod Laver Arena to start day nine of the Australian Open.",
-      "timestamp": "2026-01-25T23:49:09Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "1960s films restored in hope of enticing new migrants to regional Australia",
-      "link": "https://www.abc.net.au/news/2026-01-26/nfsa-restoration-of-mount-gambier-life-in-australia/106117106",
-      "mean_score": 0.3925,
-      "vader_score": 0.6486,
-      "textblob_score": 0.1364,
-      "first_sentence": "The National Film and Sound Archive has released 4K restorations of the 1960s film series Life in Australia, commissioned by the Department of Immigration to attract new migrants.",
-      "timestamp": "2026-01-25T21:00:57Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "A discreet intellectual network has been reshaping the world for 70 years. Here's how",
-      "link": "https://www.abc.net.au/news/2026-01-26/atlas-network-mont-pelerin-society-neoliberal-think-tanks/105700628",
-      "mean_score": 0.4053,
-      "vader_score": 0.5106,
-      "textblob_score": 0.3,
-      "first_sentence": "In 1976, a famous economist found himself standing in a farm paddock in north Queensland.",
-      "timestamp": "2026-01-25T19:38:26Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Islands rich in history, marine life and debate about their names",
-      "link": "https://www.abc.net.au/news/2026-01-26/history-of-five-islands-nature-reserve-in-nsw-illawarra-region/106050352",
-      "mean_score": 0.4662,
-      "vader_score": 0.5574,
-      "textblob_score": 0.375,
-      "first_sentence": "They might be among the best-kept secrets in the Illawarra, but the five islands off Port Kembla on the New South Wales South Coast are rich in both history and marine life.",
-      "timestamp": "2026-01-25T19:36:35Z",
-      "source": "ABC News"
     }
   ]
 }
