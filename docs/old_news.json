@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Ryanair profits fall after anti-competition fine",
+    "link": "https://www.bbc.com/news/articles/c620506dvmjo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4943,
+    "vader_score": 0.5719,
+    "textblob_score": 0.4167,
+    "first_sentence": "Ryanair has reported a sharp fall in quarterly profits after it was fined by Italy's competition watchdog for abusing its market position over travel agencies.",
+    "timestamp": "2026-01-26T09:01:03Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Strong v swole: the surprising truth about building muscle",
     "link": "https://www.theguardian.com/lifeandstyle/2026/jan/26/strong-v-swole-building-muscle-bodybuilding-advice-workouts",
     "mean_score": 0.6692,

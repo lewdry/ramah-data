@@ -1,5 +1,5 @@
 {
-  "last run": "2026-02-02T09:17:10Z",
+  "last run": "2026-02-02T10:17:11Z",
   "stories": [
     {
       "headline": "\u2018Nothing is sacred to them\u2019: the race to save rare plants as Russian troops advance",
@@ -50,6 +50,16 @@
       "first_sentence": "Open sandwiches (sm\u00f8rrebr\u00f8d), meatballs (frikadeller), crispy pork belly (stegt fl\u00e6sk) \u2026 There are many must-eat dishes for food lovers visiting Denmark, though perhaps nothing springs to mind as readily as the Danish pastry.",
       "timestamp": "2026-02-02T07:00:49Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "Hunt for UK's smallest mouse in huge Scottish nature reserve",
+      "link": "https://www.bbc.com/news/articles/c5yvzqv1225o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3591,
+      "vader_score": 0.3182,
+      "textblob_score": 0.4,
+      "first_sentence": "A hunt for the UK's smallest rodent is to take place on a huge nature reserve in southern Scotland.",
+      "timestamp": "2026-02-02T06:11:18Z",
+      "source": "BBC News"
     },
     {
       "headline": "See the full list of winners",
@@ -2490,16 +2500,6 @@
       "first_sentence": "China announced two of its top generals are under investigation, including the country's most senior general.",
       "timestamp": "2026-01-26T09:47:39Z",
       "source": "NPR News"
-    },
-    {
-      "headline": "Ryanair profits fall after anti-competition fine",
-      "link": "https://www.bbc.com/news/articles/c620506dvmjo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4943,
-      "vader_score": 0.5719,
-      "textblob_score": 0.4167,
-      "first_sentence": "Ryanair has reported a sharp fall in quarterly profits after it was fined by Italy's competition watchdog for abusing its market position over travel agencies.",
-      "timestamp": "2026-01-26T09:01:03Z",
-      "source": "BBC News"
     }
   ]
 }
