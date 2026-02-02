@@ -1,6 +1,36 @@
 {
-  "last run": "2026-02-02T04:41:28Z",
+  "last run": "2026-02-02T05:31:33Z",
   "stories": [
+    {
+      "headline": "Bad Bunny makes Grammy history as he wins best album",
+      "link": "https://www.bbc.com/news/articles/ce8g7q4ymrvo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4299,
+      "vader_score": 0.6597,
+      "textblob_score": 0.2,
+      "first_sentence": "Bad Bunny, the shape-shifting Puerto Rican musician, has made Grammy Award history, by becoming the first artist to win album of the year with a record sung entirely in Spanish.",
+      "timestamp": "2026-02-02T05:28:41Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Do you like cat photos? Are you constantly distracted? You\u2019re probably actually quite good at focussing: 10 myths about attention",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/feb/02/do-you-like-cat-photos-are-you-constantly-distracted-youre-probably-actually-quite-good-at-focussing-10-myths-about-attention",
+      "mean_score": 0.3992,
+      "vader_score": 0.5651,
+      "textblob_score": 0.2333,
+      "first_sentence": "It\u2019s believed that we have about 50,000 thoughts a day: big, small, urgent, banal \u2013 \u201cDid I leave the oven on?\u201d.",
+      "timestamp": "2026-02-02T05:00:48Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "'Lucky' fishermen rescued after setting boat on fire to call for help",
+      "link": "https://www.abc.net.au/news/2026-02-02/tasmanian-boaties-set-fire-to-items-on-board-to-raise-alarm/106294694",
+      "mean_score": 0.5215,
+      "vader_score": 0.7096,
+      "textblob_score": 0.3333,
+      "first_sentence": "It is believed an electrical fault in the bow of a 4.6m runabout left two men stranded off Tasmania's east coast.",
+      "timestamp": "2026-02-02T04:50:57Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Carlos Alcaraz celebrates Australian Open triumph by gaming with brother - video",
       "link": "https://www.theguardian.com/sport/video/2026/feb/02/carlos-alcaraz-australian-open-grand-slam-tennis-win-press-conference",
@@ -2470,36 +2500,6 @@
       "first_sentence": "Spider monkeys share tips about where to find food by changing their social groups in a \u201cclever system for sharing insider knowledge\u201d, research has shown.",
       "timestamp": "2026-01-26T05:00:29Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Gold breaks $7k in fresh record as silver surges, with further gains tipped",
-      "link": "https://www.sbs.com.au/news/article/gold-price-breaks-fresh-record-as-silver-price-surges/5uxyfb8sk",
-      "mean_score": 0.3609,
-      "vader_score": 0.5719,
-      "textblob_score": 0.15,
-      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-      "timestamp": "2026-01-26T04:53:42Z",
-      "source": "SBS News"
-    },
-    {
-      "headline": "Super Bowl LX match-up confirmed with Seattle to play New England",
-      "link": "https://www.abc.net.au/news/2026-01-26/super-bowl-lx-match-up-seattle-new-england/106270308",
-      "mean_score": 0.5164,
-      "vader_score": 0.743,
-      "textblob_score": 0.2899,
-      "first_sentence": "Seattle and New England will face off in Super Bowl LX on February 9 (AEDT).",
-      "timestamp": "2026-01-26T04:18:04Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Make sure pupils don't ever use phones at school, Phillipson tells teachers",
-      "link": "https://www.bbc.com/news/articles/cgk827r8mrzo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4091,
-      "vader_score": 0.3182,
-      "textblob_score": 0.5,
-      "first_sentence": "All schools in England should follow new government guidance and be phone-free for the entire school day, Education Secretary Bridget Phillipson has said.",
-      "timestamp": "2026-01-26T00:07:32Z",
-      "source": "BBC News"
     }
   ]
 }

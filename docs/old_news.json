@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Gold breaks $7k in fresh record as silver surges, with further gains tipped",
+    "link": "https://www.sbs.com.au/news/article/gold-price-breaks-fresh-record-as-silver-price-surges/5uxyfb8sk",
+    "mean_score": 0.3609,
+    "vader_score": 0.5719,
+    "textblob_score": 0.15,
+    "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+    "timestamp": "2026-01-26T04:53:42Z",
+    "source": "SBS News"
+  },
+  {
+    "headline": "Super Bowl LX match-up confirmed with Seattle to play New England",
+    "link": "https://www.abc.net.au/news/2026-01-26/super-bowl-lx-match-up-seattle-new-england/106270308",
+    "mean_score": 0.5164,
+    "vader_score": 0.743,
+    "textblob_score": 0.2899,
+    "first_sentence": "Seattle and New England will face off in Super Bowl LX on February 9 (AEDT).",
+    "timestamp": "2026-01-26T04:18:04Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Make sure pupils don't ever use phones at school, Phillipson tells teachers",
+    "link": "https://www.bbc.com/news/articles/cgk827r8mrzo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4091,
+    "vader_score": 0.3182,
+    "textblob_score": 0.5,
+    "first_sentence": "All schools in England should follow new government guidance and be phone-free for the entire school day, Education Secretary Bridget Phillipson has said.",
+    "timestamp": "2026-01-26T00:07:32Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Edinburgh and Glasgow top London as UK\u2019s nightlife hotspots, Uber data shows",
     "link": "https://www.theguardian.com/uk-news/2026/jan/26/edinburgh-and-glasgow-top-london-as-uks-nightlife-hotspots-uber-data-shows",
     "mean_score": 0.3512,
