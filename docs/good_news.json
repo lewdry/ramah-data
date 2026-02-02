@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-02T06:23:33Z",
+  "last run": "2026-02-02T07:23:25Z",
   "stories": [
+    {
+      "headline": "Birdwatching with Sean Bean: best podcasts of the week",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/feb/02/birdwatching-with-sean-bean-best-podcasts-of-the-week",
+      "mean_score": 0.8185,
+      "vader_score": 0.6369,
+      "textblob_score": 1.0,
+      "first_sentence": "From Lord of Winterfell to lover of ornithology, the actor reveals his lifelong love of birding as host of a hugely listenable RSPB podcast.",
+      "timestamp": "2026-02-02T07:00:50Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "My search for the perfect Danish pastry in Copenhagen",
+      "link": "https://www.theguardian.com/travel/2026/feb/02/in-search-of-copenhagen-perfect-danish-pastry",
+      "mean_score": 0.7859,
+      "vader_score": 0.5719,
+      "textblob_score": 1.0,
+      "first_sentence": "Open sandwiches (sm\u00f8rrebr\u00f8d), meatballs (frikadeller), crispy pork belly (stegt fl\u00e6sk) \u2026 There are many must-eat dishes for food lovers visiting Denmark, though perhaps nothing springs to mind as readily as the Danish pastry.",
+      "timestamp": "2026-02-02T07:00:49Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Bad Bunny makes Grammy history as he wins best album",
       "link": "https://www.bbc.com/news/articles/ce8g7q4ymrvo?at_medium=RSS&at_campaign=rss",
@@ -90,6 +110,16 @@
       "first_sentence": "The 2026 Australian Open has provided some remarkable tennis across the board, but it has also seen some memorable quotes \u2014 both good and bad.",
       "timestamp": "2026-02-02T01:22:18Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "Steven Spielberg becomes an Egot after winning Grammy for John Williams documentary",
+      "link": "https://www.theguardian.com/film/2026/feb/02/steven-spielberg-becomes-an-egot-after-winning-a-grammy",
+      "mean_score": 0.3883,
+      "vader_score": 0.5267,
+      "textblob_score": 0.25,
+      "first_sentence": "Steven Spielberg has won his first Grammy award, making him just the 22nd artist in history to become an Egot winner \u2014 an artist with an Emmy, Grammy, Oscar and Tony.",
+      "timestamp": "2026-02-02T00:45:04Z",
+      "source": "The Guardian"
     },
     {
       "headline": "Live: Grammys 2026 live: Aussie artist already on the winners' board as stars file in",
@@ -190,6 +220,16 @@
       "first_sentence": "The local stock market is in the red, led by hefty falls for gold miners as the precious metals rout continues.",
       "timestamp": "2026-02-01T20:05:39Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "'Dream come true': Carlos Alcaraz secures historic career Grand Slam",
+      "link": "https://www.sbs.com.au/news/article/alcaraz-defeats-djokovic-securing-historic-grand-slam/tlpuaocf2",
+      "mean_score": 0.5206,
+      "vader_score": 0.7579,
+      "textblob_score": 0.2833,
+      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+      "timestamp": "2026-02-01T19:39:37Z",
+      "source": "SBS News"
     },
     {
       "headline": "Quick hits: Novak gets the one trophy he doesn't want as his AO luck turns",
@@ -2460,46 +2500,6 @@
       "first_sentence": "The makers of The Traitors are creating a stage version, in the hope that the TV show's dramatic twists and huge popularity will translate into a theatre hit.",
       "timestamp": "2026-01-26T08:00:07Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Sleaford Mods go metal detecting: best podcasts of the week",
-      "link": "https://www.theguardian.com/tv-and-radio/2026/jan/26/best-podcasts-of-the-week-do-i-detect-a-problem-sleaford-mods-ant-dec",
-      "mean_score": 0.8185,
-      "vader_score": 0.6369,
-      "textblob_score": 1.0,
-      "first_sentence": "A delightfully leftfield new interview show takes Jason Williamson to dig up rusty old nails.",
-      "timestamp": "2026-01-26T07:00:30Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Super Bowl 60 is set and it's a rematch from 11 years ago: Patriots vs. Seahawks",
-      "link": "https://www.npr.org/2026/01/26/g-s1-107320/super-bowl-60-patriots-seahawks",
-      "mean_score": 0.4664,
-      "vader_score": 0.5994,
-      "textblob_score": 0.3333,
-      "first_sentence": "Drake Maye vs.",
-      "timestamp": "2026-01-26T06:09:39Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Five quick and easy burger recipes for stress-free summer dinners",
-      "link": "https://www.abc.net.au/news/2026-01-26/quick-and-easy-burger-recipes-for-stress-free-summer-dinners/106136826",
-      "mean_score": 0.4119,
-      "vader_score": 0.4404,
-      "textblob_score": 0.3833,
-      "first_sentence": "Easy dinners are always a welcome addition to the weekly rotation, and these five recipes are as simple as they are satisfying.",
-      "timestamp": "2026-01-26T06:07:49Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Australia! I quite like bits of it | First Dog on the Moon",
-      "link": "https://www.theguardian.com/commentisfree/picture/2026/jan/26/australia-i-quite-like-bits-of-it",
-      "mean_score": 0.362,
-      "vader_score": 0.474,
-      "textblob_score": 0.25,
-      "first_sentence": "But this is not a day for celebrationSign up here to get an email whenever First Dog cartoons are publishedGet all your needs met at the First Dog shop if what you need is First Dog merchandise and prints Continue reading.",
-      "timestamp": "2026-01-26T05:55:02Z",
-      "source": "The Guardian"
     }
   ]
 }

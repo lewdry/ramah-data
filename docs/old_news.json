@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Sleaford Mods go metal detecting: best podcasts of the week",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/jan/26/best-podcasts-of-the-week-do-i-detect-a-problem-sleaford-mods-ant-dec",
+    "mean_score": 0.8185,
+    "vader_score": 0.6369,
+    "textblob_score": 1.0,
+    "first_sentence": "A delightfully leftfield new interview show takes Jason Williamson to dig up rusty old nails.",
+    "timestamp": "2026-01-26T07:00:30Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Super Bowl 60 is set and it's a rematch from 11 years ago: Patriots vs. Seahawks",
+    "link": "https://www.npr.org/2026/01/26/g-s1-107320/super-bowl-60-patriots-seahawks",
+    "mean_score": 0.4664,
+    "vader_score": 0.5994,
+    "textblob_score": 0.3333,
+    "first_sentence": "Drake Maye vs.",
+    "timestamp": "2026-01-26T06:09:39Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "Five quick and easy burger recipes for stress-free summer dinners",
+    "link": "https://www.abc.net.au/news/2026-01-26/quick-and-easy-burger-recipes-for-stress-free-summer-dinners/106136826",
+    "mean_score": 0.4119,
+    "vader_score": 0.4404,
+    "textblob_score": 0.3833,
+    "first_sentence": "Easy dinners are always a welcome addition to the weekly rotation, and these five recipes are as simple as they are satisfying.",
+    "timestamp": "2026-01-26T06:07:49Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Australia! I quite like bits of it | First Dog on the Moon",
+    "link": "https://www.theguardian.com/commentisfree/picture/2026/jan/26/australia-i-quite-like-bits-of-it",
+    "mean_score": 0.362,
+    "vader_score": 0.474,
+    "textblob_score": 0.25,
+    "first_sentence": "But this is not a day for celebrationSign up here to get an email whenever First Dog cartoons are publishedGet all your needs met at the First Dog shop if what you need is First Dog merchandise and prints Continue reading.",
+    "timestamp": "2026-01-26T05:55:02Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Spider monkeys found to share \u2018insider knowledge\u2019 to help locate best food",
     "link": "https://www.theguardian.com/science/2026/jan/25/spider-monkeys-found-to-share-insider-knowledge-to-help-locate-best-food",
     "mean_score": 0.9221,
