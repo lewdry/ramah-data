@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-02T16:09:54Z",
+  "last run": "2026-02-02T17:15:14Z",
   "stories": [
+    {
+      "headline": "Interview: Civilization VII\u2019s devs on the big update meant to win critics back",
+      "link": "https://arstechnica.com/gaming/2026/02/interview-civilization-viis-devs-on-the-big-update-meant-to-win-critics-back/",
+      "mean_score": 0.3242,
+      "vader_score": 0.3818,
+      "textblob_score": 0.2667,
+      "first_sentence": "Firaxis\u2019 Ed Beach and Dennis Shirk talk major overhauls in \u201cTest of Time\u201d update.",
+      "timestamp": "2026-02-02T17:00:49Z",
+      "source": "Ars Technica"
+    },
+    {
+      "headline": "Gordon Brown asks top civil servant to investigate Mandelson \u2018leak to Epstein\u2019",
+      "link": "https://www.theguardian.com/politics/2026/feb/02/gordon-brown-asks-top-civil-servant-to-investigate-mandelson-leak-to-epstein",
+      "mean_score": 0.3512,
+      "vader_score": 0.2023,
+      "textblob_score": 0.5,
+      "first_sentence": "The former prime minister Gordon Brown has asked the cabinet secretary to investigate Peter Mandelson\u2019s apparent disclosure of highly sensitive government information to Jeffrey Epstein.",
+      "timestamp": "2026-02-02T16:53:45Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "House to attempt to advance outstanding funding bills as partial shutdown continues \u2013 live",
       "link": "https://www.theguardian.com/us-news/live/2026/feb/02/donald-trump-jeffrey-epstein-files-trevor-noah-ice-minnesota-minneapolis-cuba-latest-news-updates",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Universal Pictures and Illumination dropped a new trailer for the upcoming Super Mario Galaxy Movie, and gaming fans will no doubt be delighted at the news that Yoshi, the little green dinosaur, features prominently, along with plenty of other Easter eggs for sharp-eyed fans.",
       "timestamp": "2026-01-26T18:05:50Z",
       "source": "Ars Technica"
-    },
-    {
-      "headline": "UK joins European offshore windfarm plan to create world\u2019s largest \u2018clean energy reservoir\u2019",
-      "link": "https://www.theguardian.com/environment/2026/jan/26/uk-among-10-countries-to-build-100gw-wind-power-grid-in-north-sea",
-      "mean_score": 0.3386,
-      "vader_score": 0.4939,
-      "textblob_score": 0.1833,
-      "first_sentence": "The German chancellor, Friedrich Merz, has said he wants the North Sea to become the \u201clargest reservoir of clean energy worldwide\u201d, as he announced plans to accelerate efforts to link up offshore wind power projects with Europe.",
-      "timestamp": "2026-01-26T14:46:54Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Black cakes and branded buckets: welcome to the White House premiere for Brett Ratner\u2019s Melania movie",
-      "link": "https://www.theguardian.com/film/filmblog/2026/jan/26/melania-amazon-authorised-documentary-white-house-premiere",
-      "mean_score": 0.335,
-      "vader_score": 0.4588,
-      "textblob_score": 0.2111,
-      "first_sentence": "Monochrome catering was all the rage at the VIP screening on Saturday for Ratner\u2019s officially sanctioned $75m feature-length documentary about the First Lady.",
-      "timestamp": "2026-01-26T14:40:16Z",
-      "source": "The Guardian"
     }
   ]
 }
