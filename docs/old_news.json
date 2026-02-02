@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Spider monkeys found to share \u2018insider knowledge\u2019 to help locate best food",
+    "link": "https://www.theguardian.com/science/2026/jan/25/spider-monkeys-found-to-share-insider-knowledge-to-help-locate-best-food",
+    "mean_score": 0.9221,
+    "vader_score": 0.8442,
+    "textblob_score": 1.0,
+    "first_sentence": "Spider monkeys share tips about where to find food by changing their social groups in a \u201cclever system for sharing insider knowledge\u201d, research has shown.",
+    "timestamp": "2026-01-26T05:00:29Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Gold breaks $7k in fresh record as silver surges, with further gains tipped",
     "link": "https://www.sbs.com.au/news/article/gold-price-breaks-fresh-record-as-silver-price-surges/5uxyfb8sk",
     "mean_score": 0.3609,
