@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-02T14:16:48Z",
+  "last run": "2026-02-02T15:15:30Z",
   "stories": [
+    {
+      "headline": "House to attempt to advance outstanding funding bills as partial shutdown continues \u2013 live",
+      "link": "https://www.theguardian.com/us-news/live/2026/feb/02/donald-trump-jeffrey-epstein-files-trevor-noah-ice-minnesota-minneapolis-cuba-latest-news-updates",
+      "mean_score": 0.3956,
+      "vader_score": 0.6124,
+      "textblob_score": 0.1788,
+      "first_sentence": "The House will try and advance a five-bill funding package, as well as a continuing resolution to fund the Department of Homeland Security (DHS) today.",
+      "timestamp": "2026-02-02T14:38:28Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Beijing says Dalai Lama's Grammy win 'anti-China political manipulation'",
+      "link": "https://www.abc.net.au/news/2026-02-03/china-says-dalai-lama-grammy-win-anti-china/106297758",
+      "mean_score": 0.3909,
+      "vader_score": 0.3818,
+      "textblob_score": 0.4,
+      "first_sentence": "Beijing has slammed the Grammy awards as \"a tool for anti-China political manipulation\" after the Dalai Lama won an award.",
+      "timestamp": "2026-02-02T14:21:48Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Age brings an opportunity to escape the clutches of unattainable beauty standards \u2013 it\u2019s liberating | Zoya Patel",
       "link": "https://www.theguardian.com/commentisfree/2026/feb/02/aging-liberating-escape-unattainable-beauty-standards",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.2111,
       "first_sentence": "Monochrome catering was all the rage at the VIP screening on Saturday for Ratner\u2019s officially sanctioned $75m feature-length documentary about the First Lady.",
       "timestamp": "2026-01-26T14:40:16Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Paris fashion and Grand Bazaar gold: photos of the day \u2013 Monday",
-      "link": "https://www.theguardian.com/news/gallery/2026/jan/26/paris-fashion-grand-bazaar-gold-monday-photos-of-the-day",
-      "mean_score": 0.4794,
-      "vader_score": 0.4588,
-      "textblob_score": 0.5,
-      "first_sentence": "The Guardian\u2019s picture editors select photographs from around the world Continue reading.",
-      "timestamp": "2026-01-26T14:39:03Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "My rookie era: scrapbooking is like creating my own sentimental time capsule",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/27/rookie-era-scrapbooking-sentimental-time-capsule",
-      "mean_score": 0.4467,
-      "vader_score": 0.7184,
-      "textblob_score": 0.175,
-      "first_sentence": "I had always associated scrapbooking with grandmas and bored children, so, imagine my surprise when \u2013 as a twentysomething with a Big Girl Job \u2013 I found myself enamoured of printing, cutting, and sticking random bits and bobs into a book.",
-      "timestamp": "2026-01-26T14:00:06Z",
       "source": "The Guardian"
     }
   ]
