@@ -1,6 +1,36 @@
 {
-  "last run": "2026-02-02T12:10:56Z",
+  "last run": "2026-02-02T13:27:35Z",
   "stories": [
+    {
+      "headline": "Fern\u00e1ndez wins Costa Rican presidency, steering Latin America further right",
+      "link": "https://www.theguardian.com/world/2026/feb/02/laura-fernandez-wins-costa-rica-president-latin-america-rightwing",
+      "mean_score": 0.3836,
+      "vader_score": 0.5719,
+      "textblob_score": 0.1952,
+      "first_sentence": "Rightwing populist Laura Fern\u00e1ndez has won Costa Rica\u2019s presidential election by a landslide, after promising to crack down on rising violence linked to the cocaine trade.",
+      "timestamp": "2026-02-02T13:08:59Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Rukmini Iyer\u2019s quick and easy recipe for mushroom and artichoke puff-pastry quiche | Quick and easy",
+      "link": "https://www.theguardian.com/food/2026/feb/02/mushroom-artichoke-puff-pastry-quiche-quick-easy-recipe-rukmini-iyer",
+      "mean_score": 0.5418,
+      "vader_score": 0.7003,
+      "textblob_score": 0.3833,
+      "first_sentence": "No time to make shortcrust? Bought puff pastry makes an instant (and decadent) alternative.",
+      "timestamp": "2026-02-02T13:00:08Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Beijing criticises Dalai Lama Grammy win as 'manipulation'",
+      "link": "https://www.bbc.com/news/articles/cwy8zqn9571o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4386,
+      "vader_score": 0.0772,
+      "textblob_score": 0.8,
+      "first_sentence": "China has reacted angrily to an unlikely winner at the Grammys - the Dalai Lama - saying it opposes art awards being used for \"anti-China political manipulation\".",
+      "timestamp": "2026-02-02T12:44:33Z",
+      "source": "BBC News"
+    },
     {
       "headline": "The one change that worked: I quit my job, became a cat-sitter \u2013 and found new friends",
       "link": "https://www.theguardian.com/lifeandstyle/2026/feb/02/the-one-change-that-worked-i-quit-my-job-became-a-cat-sitter-and-found-new-friends",
@@ -2469,36 +2499,6 @@
       "textblob_score": 1.0,
       "first_sentence": "Cast your vote for the best Australian children\u2019s picture book in our poll from 27 January to 5 February.",
       "timestamp": "2026-01-26T14:00:00Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Nigella Lawson confirmed as new Great British Bake Off judge",
-      "link": "https://www.theguardian.com/food/2026/jan/26/nigella-lawson-confirmed-as-new-great-british-bake-off-judge",
-      "mean_score": 0.4795,
-      "vader_score": 0.6249,
-      "textblob_score": 0.3341,
-      "first_sentence": "Lawson will join the programme for its next series, the 17th, which will launch later this year.",
-      "timestamp": "2026-01-26T13:15:10Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Nigella Lawson to replace Prue Leith on The Great British Bake Off",
-      "link": "https://www.bbc.com/news/articles/cgk80pzxkexo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5125,
-      "vader_score": 0.6249,
-      "textblob_score": 0.4,
-      "first_sentence": "TV chef Nigella Lawson will replace Dame Prue Leith on The Great British Bake Off, broadcaster Channel 4 has confirmed.",
-      "timestamp": "2026-01-26T13:10:34Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Georginia Hayden\u2019s quick and easy recipe for roast sprout salad with anchovies and parmesan | Quick and easy",
-      "link": "https://www.theguardian.com/food/2026/jan/26/quick-easy-roast-sprout-salad-recipe-anchovies-parmesan-georgina-hayden",
-      "mean_score": 0.5418,
-      "vader_score": 0.7003,
-      "textblob_score": 0.3833,
-      "first_sentence": "Brussels sprouts are for life, not just for Christmas.",
-      "timestamp": "2026-01-26T13:00:37Z",
       "source": "The Guardian"
     }
   ]
