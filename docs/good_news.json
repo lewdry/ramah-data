@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-02T03:02:38Z",
+  "last run": "2026-02-02T04:41:28Z",
   "stories": [
+    {
+      "headline": "Carlos Alcaraz celebrates Australian Open triumph by gaming with brother - video",
+      "link": "https://www.theguardian.com/sport/video/2026/feb/02/carlos-alcaraz-australian-open-grand-slam-tennis-win-press-conference",
+      "mean_score": 0.3891,
+      "vader_score": 0.7783,
+      "textblob_score": 0.0,
+      "first_sentence": "At only 22, Carlos Alcaraz said it was a 'dream come true' to become the youngest man to complete the career grand slam, a record formerly held by Don Budge since 1938, 87 years ago.",
+      "timestamp": "2026-02-02T03:21:42Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "How Olivia Dean was crowned as the year's most exciting new artist",
       "link": "https://www.bbc.com/news/articles/c1ev567ly7qo?at_medium=RSS&at_campaign=rss",
@@ -110,6 +120,16 @@
       "first_sentence": "Australian Caitlin Foord has scored in extra time to help Arsenal win the FIFA Women's Champions Cup final.",
       "timestamp": "2026-02-01T21:52:26Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "Tame Impala secures Australia's sole Grammy win as artists speak out on immigration",
+      "link": "https://www.sbs.com.au/news/article/when-and-where-you-can-watch-the-grammy-awards/48br2i1jx",
+      "mean_score": 0.4607,
+      "vader_score": 0.7269,
+      "textblob_score": 0.1944,
+      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+      "timestamp": "2026-02-01T21:23:26Z",
+      "source": "SBS News"
     },
     {
       "headline": "Australia news live: gunshot analysis inspires fresh search for fugitive Dezi Freeman; Littleproud faces leadership spill attempt",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.5,
       "first_sentence": "All schools in England should follow new government guidance and be phone-free for the entire school day, Education Secretary Bridget Phillipson has said.",
       "timestamp": "2026-01-26T00:07:32Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Edinburgh and Glasgow top London as UK\u2019s nightlife hotspots, Uber data shows",
-      "link": "https://www.theguardian.com/uk-news/2026/jan/26/edinburgh-and-glasgow-top-london-as-uks-nightlife-hotspots-uber-data-shows",
-      "mean_score": 0.3512,
-      "vader_score": 0.2023,
-      "textblob_score": 0.5,
-      "first_sentence": "Edinburgh and Glasgow have a busier nightlife than London, according to data on late-night journeys from Uber.",
-      "timestamp": "2026-01-26T00:01:21Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Gold tops $5,000 for first time ever, adding to historic rally",
-      "link": "https://www.bbc.com/news/articles/cvgd8kj2y2po?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3178,
-      "vader_score": 0.5106,
-      "textblob_score": 0.125,
-      "first_sentence": "The price of gold has risen above $5,000 (\u00a33,659) an ounce for the first time, extending a historic rally that saw the precious metal jump by more than 60% in 2025.",
-      "timestamp": "2026-01-25T23:49:44Z",
       "source": "BBC News"
     }
   ]

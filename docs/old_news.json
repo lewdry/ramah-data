@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Edinburgh and Glasgow top London as UK\u2019s nightlife hotspots, Uber data shows",
+    "link": "https://www.theguardian.com/uk-news/2026/jan/26/edinburgh-and-glasgow-top-london-as-uks-nightlife-hotspots-uber-data-shows",
+    "mean_score": 0.3512,
+    "vader_score": 0.2023,
+    "textblob_score": 0.5,
+    "first_sentence": "Edinburgh and Glasgow have a busier nightlife than London, according to data on late-night journeys from Uber.",
+    "timestamp": "2026-01-26T00:01:21Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Gold tops $5,000 for first time ever, adding to historic rally",
+    "link": "https://www.bbc.com/news/articles/cvgd8kj2y2po?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3178,
+    "vader_score": 0.5106,
+    "textblob_score": 0.125,
+    "first_sentence": "The price of gold has risen above $5,000 (\u00a33,659) an ounce for the first time, extending a historic rally that saw the precious metal jump by more than 60% in 2025.",
+    "timestamp": "2026-01-25T23:49:44Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Live: Aussie doubles pair win thriller as double tweener lights up the Open",
     "link": "https://www.abc.net.au/news/2026-01-26/australian-open-2026-live-jannik-sinner-maddison-inglis-swiatek/106268840",
     "mean_score": 0.4355,
