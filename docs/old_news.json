@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Arizona still unanimous No. 1 in AP Top 25 poll ahead of showdown with No. 13 BYU",
+    "link": "https://apnews.com/article/ap-top-25-mens-college-basketball-poll-758ca762436516744d4f3c41d4addf0c",
+    "mean_score": 0.3512,
+    "vader_score": 0.2023,
+    "textblob_score": 0.5,
+    "first_sentence": "Arizona remained the unanimous No.",
+    "timestamp": "2026-01-26T18:23:02Z",
+    "source": "AP News"
+  },
+  {
+    "headline": "The brothers meet Yoshi in Super Mario Galaxy Movie trailer",
+    "link": "https://arstechnica.com/culture/2026/01/yoshi-joins-the-fun-in-latest-super-mario-galaxy-movie-trailer/",
+    "mean_score": 0.4664,
+    "vader_score": 0.5994,
+    "textblob_score": 0.3333,
+    "first_sentence": "Universal Pictures and Illumination dropped a new trailer for the upcoming Super Mario Galaxy Movie, and gaming fans will no doubt be delighted at the news that Yoshi, the little green dinosaur, features prominently, along with plenty of other Easter eggs for sharp-eyed fans.",
+    "timestamp": "2026-01-26T18:05:50Z",
+    "source": "Ars Technica"
+  },
+  {
     "headline": "UK joins European offshore windfarm plan to create world\u2019s largest \u2018clean energy reservoir\u2019",
     "link": "https://www.theguardian.com/environment/2026/jan/26/uk-among-10-countries-to-build-100gw-wind-power-grid-in-north-sea",
     "mean_score": 0.3386,
