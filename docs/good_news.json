@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-03T09:20:52Z",
+  "last run": "2026-02-03T10:19:44Z",
   "stories": [
+    {
+      "headline": "Iranians seeking to punish ruling elite go after the next best thing -- their kids",
+      "link": "https://www.npr.org/2026/02/03/nx-s1-5689798/iranians-seeking-to-punish-ruling-elite-go-after-the-next-best-thing-their-kids",
+      "mean_score": 0.3512,
+      "vader_score": 0.2023,
+      "textblob_score": 0.5,
+      "first_sentence": "Iranians in the diaspora are tracking down the sons and daughters of Iran's ruling elite, many of whom work and live lavishly abroad, demanding they be deported.",
+      "timestamp": "2026-02-03T09:49:07Z",
+      "source": "NPR News"
+    },
     {
       "headline": "It\u2019s the Hollywood sensation we\u2019re all enjoying: cinema megastars lured to a TV screen near you | Fiona Sturges",
       "link": "https://www.theguardian.com/commentisfree/2026/feb/03/hollywood-sensation-ageing-cinema-megastars-tv",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Over the last decade, more airlines have made goofy safety videos to keep passengers' attention.",
       "timestamp": "2026-01-27T09:44:28Z",
       "source": "NPR News"
-    },
-    {
-      "headline": "\u2018Mother of all deals\u2019: EU and India sign free trade agreement",
-      "link": "https://www.theguardian.com/business/2026/jan/27/eu-and-india-sign-free-trade-agreement",
-      "mean_score": 0.579,
-      "vader_score": 0.7579,
-      "textblob_score": 0.4,
-      "first_sentence": "India and the EU have finalised a landmark free trade agreement, which the European Commission president, Ursula von der Leyen, hailed as the \u201cmother of all deals\u201d.",
-      "timestamp": "2026-01-27T09:33:28Z",
-      "source": "The Guardian"
     }
   ]
 }
