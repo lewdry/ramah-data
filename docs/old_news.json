@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Britain's oldest rollercoaster closed for good",
+    "link": "https://www.bbc.com/news/articles/cvgrznzpelro?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3702,
+    "vader_score": 0.4404,
+    "textblob_score": 0.3,
+    "first_sentence": "A 100-year-old rollercoaster, believed to be the oldest in Britain, has closed for good.",
+    "timestamp": "2026-01-27T15:54:27Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Football Daily | Harry Kane and the trolls that take aim at his staggering success",
+    "link": "https://www.theguardian.com/football/2026/jan/27/harry-kane-trolls-bayern-munich-football-daily-newsletter",
+    "mean_score": 0.3609,
+    "vader_score": 0.5719,
+    "textblob_score": 0.15,
+    "first_sentence": "The most prolific striker on the planet for one of the biggest and most successful clubs in the world, a captain of his country who could possibly lift the World Cup this summer (ending what is now 60 years of hurt), a husband with four kids who is almost universally respected by fans, opponents and his peers, and a brand ambassador for global brands thanks to deals brokered by towering Mr 15% Charlie Kane, Harry Kane has a lot going for him.",
+    "timestamp": "2026-01-27T15:00:30Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Pubs and live music venues to get support after business rates backlash, Treasury confirms",
     "link": "https://www.theguardian.com/business/2026/jan/27/pubs-support-package-business-rates-rachel-reeves-england-wales",
     "mean_score": 0.3393,
