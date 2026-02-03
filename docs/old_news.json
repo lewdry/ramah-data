@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Know the score? I don\u2019t read music, but that\u2019s no hindrance to reimagining great classical works",
+    "link": "https://www.theguardian.com/music/2026/jan/27/i-cant-read-music-and-im-touring-holst-with-the-britten-sinfonia-will-pound-on-rethinking-the-classics",
+    "mean_score": 0.6301,
+    "vader_score": 0.8603,
+    "textblob_score": 0.4,
+    "first_sentence": "I\u2019m a harmonica and accordion player and one half of folk-classical duo Stevens & Pound.",
+    "timestamp": "2026-01-27T12:00:42Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "GLP-1 drugs don't work for everyone. But personalized obesity care in the future might",
+    "link": "https://www.npr.org/2026/01/27/nx-s1-5689019/glp-1-ozempic-wegovy-zepbound-mounjaro-obesity-precision-medicine",
+    "mean_score": 0.3243,
+    "vader_score": 0.6486,
+    "textblob_score": 0.0,
+    "first_sentence": "In fact, science now shows obesity is far more complex \u2014 with numerous genetic, biological, neurological, lifestyle, metabolic and behavioral factors contributing to it.",
+    "timestamp": "2026-01-27T12:00:00Z",
+    "source": "NPR News"
+  },
+  {
     "headline": "Gauff calls for greater player privacy at Aus Open after racquet smash",
     "link": "https://www.abc.net.au/news/2026-01-27/tennis-coco-gauff-racquet-smash-privacy-australian-open/106276462",
     "mean_score": 0.3056,
