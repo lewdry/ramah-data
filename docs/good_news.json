@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-03T10:19:44Z",
+  "last run": "2026-02-03T11:18:23Z",
   "stories": [
+    {
+      "headline": "\u2018I was still black the next morning\u2019: Halle Berry says Oscar win didn\u2019t change her career",
+      "link": "https://www.theguardian.com/film/2026/feb/03/i-was-still-black-the-next-morning-halle-berry-says-oscar-win-didnt-change-her-career",
+      "mean_score": 0.3985,
+      "vader_score": 0.5859,
+      "textblob_score": 0.2111,
+      "first_sentence": "Halle Berry, the only black woman to have won the best actress Oscar, says her 2002 victory \u201cdidn\u2019t necessarily change the course of my career\u201d.",
+      "timestamp": "2026-02-03T10:04:55Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Iranians seeking to punish ruling elite go after the next best thing -- their kids",
       "link": "https://www.npr.org/2026/02/03/nx-s1-5689798/iranians-seeking-to-punish-ruling-elite-go-after-the-next-best-thing-their-kids",
@@ -2490,16 +2500,6 @@
       "first_sentence": "When you think of television characters, chances are you remember the ones you can actually see.",
       "timestamp": "2026-01-27T11:06:03Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Airlines have been making their safety videos more entertaining, but do they work?",
-      "link": "https://www.npr.org/2026/01/27/nx-s1-5683149/airlines-have-been-making-their-safety-videos-more-entertaining-but-do-they-work",
-      "mean_score": 0.4791,
-      "vader_score": 0.4582,
-      "textblob_score": 0.5,
-      "first_sentence": "Over the last decade, more airlines have made goofy safety videos to keep passengers' attention.",
-      "timestamp": "2026-01-27T09:44:28Z",
-      "source": "NPR News"
     }
   ]
 }
