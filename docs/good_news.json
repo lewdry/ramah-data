@@ -1,6 +1,36 @@
 {
-  "last run": "2026-02-03T19:23:05Z",
+  "last run": "2026-02-03T20:16:14Z",
   "stories": [
+    {
+      "headline": "Residents burnt out of 'paradise' determined to rebuild",
+      "link": "https://www.abc.net.au/news/2026-02-04/gellibrand-residents-plan-rebuild-after-otways-bushfire/106298822",
+      "mean_score": 0.3825,
+      "vader_score": 0.765,
+      "textblob_score": 0.0,
+      "first_sentence": "John Cochrane steps through the ruins of his family home, spotting familiar belongings that lie among the ash and rubble.",
+      "timestamp": "2026-02-03T20:10:31Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "'We hope' Savannah Guthrie's mother is still alive, sheriff says",
+      "link": "https://www.bbc.com/news/articles/c14rd1ny5gdo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3852,
+      "vader_score": 0.6705,
+      "textblob_score": 0.1,
+      "first_sentence": "More than 48 hours since the mother of US news anchor Savannah Guthrie was reported missing, law enforcement officials are still seeking clues in the disappearance of the 84-year-old from her home in Tuscon, Arizona.",
+      "timestamp": "2026-02-03T20:08:51Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "LIV golfers to start earning ranking points for top 10 finishes",
+      "link": "https://www.abc.net.au/news/2026-02-04/liv-golf-official-world-golf-ranking-points/106302498",
+      "mean_score": 0.3512,
+      "vader_score": 0.2023,
+      "textblob_score": 0.5,
+      "first_sentence": "Members of the breakaway LIV Golf league will now be able to receive Official World Golf Ranking points for finishing in the top 10 of specific tournaments.",
+      "timestamp": "2026-02-03T19:28:47Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Original Nintendo Switch passes the DS to become Nintendo's bestselling console",
       "link": "https://arstechnica.com/gadgets/2026/02/original-nintendo-switch-passes-the-ds-to-become-nintendos-bestselling-console/",
@@ -99,6 +129,16 @@
       "textblob_score": 0.5,
       "first_sentence": "The 1980s were a great time to write a classic Aussie picture book.",
       "timestamp": "2026-02-03T14:00:07Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "The Muppet Show review \u2013 we all deserve a brief bit of happiness right now",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/feb/03/the-muppet-show-review-sabrina-carpenter-seth-rogen-disney",
+      "mean_score": 0.443,
+      "vader_score": 0.5574,
+      "textblob_score": 0.3286,
+      "first_sentence": "The Muppet Show celebrates its 50th anniversary this year.",
+      "timestamp": "2026-02-03T14:00:03Z",
       "source": "The Guardian"
     },
     {
@@ -2460,46 +2500,6 @@
       "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
       "timestamp": "2026-01-27T18:32:20Z",
       "source": "SBS News"
-    },
-    {
-      "headline": "Hobbycraft issues full recall of asbestos-tainted children\u2019s play sand",
-      "link": "https://www.theguardian.com/society/2026/jan/27/hobbycraft-issues-full-recall-of-asbestos-tainted-childrens-play-sand",
-      "mean_score": 0.345,
-      "vader_score": 0.34,
-      "textblob_score": 0.35,
-      "first_sentence": "Hobbycraft has issued a full recall of children\u2019s coloured play sand after confirming some bottles contained asbestos, presenting \u201ca risk to health\u201d.",
-      "timestamp": "2026-01-27T17:49:16Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "England beat Sri Lanka by 53 runs to win third men\u2019s ODI and series \u2013 live",
-      "link": "https://www.theguardian.com/sport/live/2026/jan/27/sri-lanka-v-england-third-mens-cricket-one-day-international-live",
-      "mean_score": 0.449,
-      "vader_score": 0.5859,
-      "textblob_score": 0.3121,
-      "first_sentence": "Harry Brook\u2019s first masterpiece of the winter, lost in defeat, seems an age ago.",
-      "timestamp": "2026-01-27T16:49:54Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "30% of Britons think Burnham would do better job than Starmer as prime minister, poll suggests \u2013 UK politics live",
-      "link": "https://www.theguardian.com/politics/live/2026/jan/27/uk-politics-latest-news-updates-keir-starmer-leaseholders-andy-burnham-labour-reform",
-      "mean_score": 0.3793,
-      "vader_score": 0.4404,
-      "textblob_score": 0.3182,
-      "first_sentence": "Reform UK has announced that Matt Goodwin, the campaigner and former academic, as its candidate in Gorton and Denton.",
-      "timestamp": "2026-01-27T16:36:19Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Alcaraz flicks on genius switch to put himself two matches from career grand slam | Tumaini Carayol",
-      "link": "https://www.theguardian.com/sport/2026/jan/27/carlos-alcaraz-career-grand-slam-alex-de-minaur-australian-open-quarter-final",
-      "mean_score": 0.3014,
-      "vader_score": 0.1027,
-      "textblob_score": 0.5,
-      "first_sentence": "One of the biggest matches of Alex de Minaur\u2019s career was already falling from his grasp when his opponent, Carlos Alcaraz, compounded his misery with a selfish stroke of genius.",
-      "timestamp": "2026-01-27T15:58:02Z",
-      "source": "The Guardian"
     }
   ]
 }
