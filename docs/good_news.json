@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-03T15:23:08Z",
+  "last run": "2026-02-03T16:24:10Z",
   "stories": [
+    {
+      "headline": "Pennines delight as drone survey offers hope for one of UK\u2019s rarest birds",
+      "link": "https://www.theguardian.com/environment/2026/feb/03/pennines-delight-drone-survey-uk-birds-dunlin",
+      "mean_score": 0.4391,
+      "vader_score": 0.7783,
+      "textblob_score": 0.1,
+      "first_sentence": "Deep in the Cumbrian Pennines, walkers might be lucky enough to spot small birds with spindly legs, long beaks and bodies like feathered balls hopping through the peat bogs.",
+      "timestamp": "2026-02-03T15:32:02Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "From the moon landing to accidental sexting: your greatest ever TV moments",
       "link": "https://www.theguardian.com/tv-and-radio/2026/feb/03/from-the-moon-landing-to-accidental-sexting-your-greatest-ever-tv-moments",
@@ -2490,16 +2500,6 @@
       "first_sentence": "On Tuesday, Australia\u2019s second largest city baked through one of its hottest days since modern instrumental records began in 1910.",
       "timestamp": "2026-01-27T14:00:45Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "What is a heat pump and what grants are available?",
-      "link": "https://www.bbc.com/news/articles/c8xgdv9e007o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3132,
-      "vader_score": 0.2263,
-      "textblob_score": 0.4,
-      "first_sentence": "The government's Warm Homes Plan promises \u00a315bn to help UK households pay for green technologies such as heat pumps, as part of its efforts to drive down energy bills and cut planet warming emissions.",
-      "timestamp": "2026-01-27T13:05:45Z",
-      "source": "BBC News"
     }
   ]
 }
