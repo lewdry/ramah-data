@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-03T16:24:10Z",
+  "last run": "2026-02-03T17:24:58Z",
   "stories": [
+    {
+      "headline": "England beat Sri Lanka by 12 runs in third T20 to complete 3-0 series win \u2013 live",
+      "link": "https://www.theguardian.com/sport/live/2026/feb/03/sri-lanka-v-england-third-mens-cricket-t20-international-live",
+      "mean_score": 0.4225,
+      "vader_score": 0.5859,
+      "textblob_score": 0.2591,
+      "first_sentence": "Theekshana c Dawson b Bethell 2 Bethell the hero! Denied a fourth wicket by a review, he soon induces a top edge which is safely held by Dawson at backward point.",
+      "timestamp": "2026-02-03T17:19:16Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Black sesame is growing more popular in the US. Is it actually good for you?",
+      "link": "https://www.theguardian.com/wellness/2026/feb/03/black-sesame-health-benefits",
+      "mean_score": 0.5898,
+      "vader_score": 0.7713,
+      "textblob_score": 0.4083,
+      "first_sentence": "In many parts of Asia, black sesame is an essential dessert flavor.",
+      "timestamp": "2026-02-03T17:00:18Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Pennines delight as drone survey offers hope for one of UK\u2019s rarest birds",
       "link": "https://www.theguardian.com/environment/2026/feb/03/pennines-delight-drone-survey-uk-birds-dunlin",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.1364,
       "first_sentence": "The Treasury has unveiled a support package worth tens of millions of pounds for pubs and live music venues in England and Wales, in a climbdown that follows a fierce backlash against plans to overhaul business rates.",
       "timestamp": "2026-01-27T14:35:43Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "As data from space spikes, an innovative ground station company seeks to cash in",
-      "link": "https://arstechnica.com/space/2026/01/as-data-from-space-spikes-an-innovative-ground-station-company-seeks-to-cash-in/",
-      "mean_score": 0.4702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.5,
-      "first_sentence": "A company that seeks to disrupt the way in which data from space is received and transmitted has found some key investors and customers.",
-      "timestamp": "2026-01-27T14:16:32Z",
-      "source": "Ars Technica"
-    },
-    {
-      "headline": "Through the heatwave haze, the hypocrisy of Australia\u2019s fossil fuel policy shines bright | Clean Air",
-      "link": "https://www.theguardian.com/environment/2026/jan/27/through-the-heatwave-haze-the-hypocrisy-of-australias-fossil-fuel-policy-shines-bright",
-      "mean_score": 0.6071,
-      "vader_score": 0.6808,
-      "textblob_score": 0.5333,
-      "first_sentence": "On Tuesday, Australia\u2019s second largest city baked through one of its hottest days since modern instrumental records began in 1910.",
-      "timestamp": "2026-01-27T14:00:45Z",
       "source": "The Guardian"
     }
   ]

@@ -1,5 +1,25 @@
 [
   {
+    "headline": "As data from space spikes, an innovative ground station company seeks to cash in",
+    "link": "https://arstechnica.com/space/2026/01/as-data-from-space-spikes-an-innovative-ground-station-company-seeks-to-cash-in/",
+    "mean_score": 0.4702,
+    "vader_score": 0.4404,
+    "textblob_score": 0.5,
+    "first_sentence": "A company that seeks to disrupt the way in which data from space is received and transmitted has found some key investors and customers.",
+    "timestamp": "2026-01-27T14:16:32Z",
+    "source": "Ars Technica"
+  },
+  {
+    "headline": "Through the heatwave haze, the hypocrisy of Australia\u2019s fossil fuel policy shines bright | Clean Air",
+    "link": "https://www.theguardian.com/environment/2026/jan/27/through-the-heatwave-haze-the-hypocrisy-of-australias-fossil-fuel-policy-shines-bright",
+    "mean_score": 0.6071,
+    "vader_score": 0.6808,
+    "textblob_score": 0.5333,
+    "first_sentence": "On Tuesday, Australia\u2019s second largest city baked through one of its hottest days since modern instrumental records began in 1910.",
+    "timestamp": "2026-01-27T14:00:45Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "What is a heat pump and what grants are available?",
     "link": "https://www.bbc.com/news/articles/c8xgdv9e007o?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.3132,
