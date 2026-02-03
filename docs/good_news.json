@@ -1,5 +1,5 @@
 {
-  "last run": "2026-02-03T12:19:48Z",
+  "last run": "2026-02-03T13:32:14Z",
   "stories": [
     {
       "headline": "Russian hits Ukraine energy sites in 'most powerful blow' so far this year",
@@ -20,6 +20,16 @@
       "first_sentence": "For most Americans, the Super Bowl is this Sunday.",
       "timestamp": "2026-02-03T11:30:00Z",
       "source": "NPR News"
+    },
+    {
+      "headline": "Doctor Who fans get chance to bid for famous props",
+      "link": "https://www.bbc.com/news/articles/c8rmze5m1z7o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.375,
+      "vader_score": 0.25,
+      "textblob_score": 0.5,
+      "first_sentence": "Fans of long-running BBC sci-fi series Doctor Who are being offered \"the chance to own a piece of television history\" at an online auction of \"iconic\" memorabilia.",
+      "timestamp": "2026-02-03T11:16:17Z",
+      "source": "BBC News"
     },
     {
       "headline": "\u2018I was still black the next morning\u2019: Halle Berry says Oscar win didn\u2019t change her career",
@@ -2490,16 +2500,6 @@
       "first_sentence": "In fact, science now shows obesity is far more complex \u2014 with numerous genetic, biological, neurological, lifestyle, metabolic and behavioral factors contributing to it.",
       "timestamp": "2026-01-27T12:00:00Z",
       "source": "NPR News"
-    },
-    {
-      "headline": "Gauff calls for greater player privacy at Aus Open after racquet smash",
-      "link": "https://www.abc.net.au/news/2026-01-27/tennis-coco-gauff-racquet-smash-privacy-australian-open/106276462",
-      "mean_score": 0.3056,
-      "vader_score": 0.3612,
-      "textblob_score": 0.25,
-      "first_sentence": "Coco Gauff has called for greater privacy for players at the Australian Open after vision of her smashing a racquet was shown on TV.",
-      "timestamp": "2026-01-27T11:38:12Z",
-      "source": "ABC News"
     }
   ]
 }
