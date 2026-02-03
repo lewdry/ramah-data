@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-03T21:15:44Z",
+  "last run": "2026-02-03T22:13:15Z",
   "stories": [
+    {
+      "headline": "The latest Epstein files are tarnishing and toppling powerful figures in the U.K.",
+      "link": "https://www.npr.org/2026/02/03/nx-s1-5697866/the-latest-epstein-files-are-tarnishing-and-toppling-powerful-figures-in-the-u-k",
+      "mean_score": 0.4108,
+      "vader_score": 0.4215,
+      "textblob_score": 0.4,
+      "first_sentence": "Epstein's photos and emails have already prompted King Charles to strip his brother Andrew of his title \"prince.\" Now, they've prompted one of Britain's top diplomats \u2014 Peter Mandelson \u2014 to step down.",
+      "timestamp": "2026-02-03T22:06:01Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "Adventurer's high praise for 13yo boy and his mum after miracle WA rescue",
+      "link": "https://www.abc.net.au/news/2026-02-04/survival-expert-praises-teen-family-geographe-bay-rescue/106301816",
+      "mean_score": 0.5267,
+      "vader_score": 0.8934,
+      "textblob_score": 0.16,
+      "first_sentence": "A survival expert says calm, rational decision-making was key to a family's survival after they were swept out to sea off WA's South West.",
+      "timestamp": "2026-02-03T21:54:19Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Residents burnt out of 'paradise' determined to rebuild",
       "link": "https://www.abc.net.au/news/2026-02-04/gellibrand-residents-plan-rebuild-after-otways-bushfire/106298822",
@@ -52,6 +72,16 @@
       "source": "The Guardian"
     },
     {
+      "headline": "Jacob Bethell dismantles Sri Lanka tail to deliver T20 series clean sweep for England",
+      "link": "https://www.theguardian.com/sport/2026/feb/03/sri-lanka-england-third-t20-international-match-report",
+      "mean_score": 0.3843,
+      "vader_score": 0.4019,
+      "textblob_score": 0.3667,
+      "first_sentence": "It was a thriller on a Pallekele turner, the game going England\u2019s way.",
+      "timestamp": "2026-02-03T17:24:13Z",
+      "source": "The Guardian"
+    },
+    {
       "headline": "England beat Sri Lanka by 12 runs in third T20 to complete 3-0 series win \u2013 live",
       "link": "https://www.theguardian.com/sport/live/2026/feb/03/sri-lanka-v-england-third-mens-cricket-t20-international-live",
       "mean_score": 0.4225,
@@ -79,6 +109,16 @@
       "textblob_score": 0.1,
       "first_sentence": "Deep in the Cumbrian Pennines, walkers might be lucky enough to spot small birds with spindly legs, long beaks and bodies like feathered balls hopping through the peat bogs.",
       "timestamp": "2026-02-03T15:32:02Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Lindsey Vonn confident she can compete at Olympics despite \u2018completely ruptured\u2019 ACL",
+      "link": "https://www.theguardian.com/sport/2026/feb/03/lindsey-vonn-injury-status-acl-downhill-milano-cortina-olympics",
+      "mean_score": 0.397,
+      "vader_score": 0.4939,
+      "textblob_score": 0.3,
+      "first_sentence": "Lindsey Vonn said she is \u201cconfident\u201d she can compete at the Milano Cortina Winter Games despite revealing she has been managing a ruptured ACL, maintaining that her Olympic comeback remains on track after a crash last week raised fresh doubts over her participation.",
+      "timestamp": "2026-02-03T15:28:10Z",
       "source": "The Guardian"
     },
     {
@@ -279,6 +319,16 @@
       "textblob_score": 0.0,
       "first_sentence": "Scientists are using man-made frog 'spas' and 'saunas' in a world-first attempt to reintroduce a frog species to the ACT, nearly 50 years after it went locally extinct.",
       "timestamp": "2026-02-03T05:44:07Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Hero teen 'passed out' after open-ocean swim to save family",
+      "link": "https://www.abc.net.au/news/2026-02-03/teen-speaks-after-saving-family-in-geographe-bay/106298798",
+      "mean_score": 0.3891,
+      "vader_score": 0.7783,
+      "textblob_score": 0.0,
+      "first_sentence": "Austin Appelbee, his mother and two siblings were swept out to sea off Quindalup in WA's South West.",
+      "timestamp": "2026-02-03T05:29:29Z",
       "source": "ABC News"
     },
     {
@@ -2450,56 +2500,6 @@
       "first_sentence": "Who's got it better in life, kids or adults? A group of fourth-graders in New Jersey did some serious reporting on this topic and sent us their findings as a part of NPR's Student Podcast Challenge.",
       "timestamp": "2026-01-27T22:20:26Z",
       "source": "NPR News"
-    },
-    {
-      "headline": "Australia news live: Albanese to visit Timor-Leste; heatwave to scorch western NSW as Victoria welcomes cool change",
-      "link": "https://www.theguardian.com/australia-news/live/2026/jan/28/australia-news-live-anthony-albanese-timor-leste-heatwave-nsw-bushfires-victoria-weather-liberals-leadership-sussan-ley-andrew-hastie-angus-taylor-ntwnfb",
-      "mean_score": 0.3873,
-      "vader_score": 0.6124,
-      "textblob_score": 0.1621,
-      "first_sentence": "An embattled hospital with a chequered track record will host a specialised surgery centre to reduce wait times.",
-      "timestamp": "2026-01-27T20:50:30Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Live: NSW towns bake in 'breathtaking' heat",
-      "link": "https://www.abc.net.au/news/2026-01-28/heatwave-south-east-australia-weather-victoria-bushfires/106276290",
-      "mean_score": 0.5135,
-      "vader_score": 0.4588,
-      "textblob_score": 0.5682,
-      "first_sentence": "Towns in New South Wales and Queensland are sweltering today as a record-breaking heatwave continues to move across the country.",
-      "timestamp": "2026-01-27T20:19:40Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Bari Weiss tries to win CBS staffers\u2019 trust amid \u2018noise\u2019 over 60 Minutes segment",
-      "link": "https://www.theguardian.com/media/2026/jan/27/bari-weiss-cbs",
-      "mean_score": 0.5732,
-      "vader_score": 0.7964,
-      "textblob_score": 0.35,
-      "first_sentence": "During her first address to CBS News employees as editor in chief, Bari Weiss acknowledged that there had been \u201ca lot of noise\u201d about her tumultuous tenure and said that some staffers might decide they don\u2019t support her or want to continue working at the company.",
-      "timestamp": "2026-01-27T20:17:08Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "How Queensland parents can get a free $100 for every school kid",
-      "link": "https://www.abc.net.au/news/2026-01-28/queensland-how-to-access-back-to-school-boost/106274840",
-      "mean_score": 0.4553,
-      "vader_score": 0.5106,
-      "textblob_score": 0.4,
-      "first_sentence": "As Queensland kids hit the books to start term one, parents can claim $100 to help with school costs.",
-      "timestamp": "2026-01-27T19:37:51Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "It's a crime most assume doesn't happen in Australia \u2014 but schools should be on alert",
-      "link": "https://www.sbs.com.au/news/article/forced-marriage-schools-alert-australia/ty9bqf1vk",
-      "mean_score": 0.3203,
-      "vader_score": 0.1406,
-      "textblob_score": 0.5,
-      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-      "timestamp": "2026-01-27T18:32:20Z",
-      "source": "SBS News"
     }
   ]
 }
