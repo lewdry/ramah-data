@@ -1,6 +1,216 @@
 {
-  "last run": "2026-02-02T18:12:18Z",
+  "last run": "2026-02-03T09:20:52Z",
   "stories": [
+    {
+      "headline": "It\u2019s the Hollywood sensation we\u2019re all enjoying: cinema megastars lured to a TV screen near you | Fiona Sturges",
+      "link": "https://www.theguardian.com/commentisfree/2026/feb/03/hollywood-sensation-ageing-cinema-megastars-tv",
+      "mean_score": 0.4133,
+      "vader_score": 0.5267,
+      "textblob_score": 0.3,
+      "first_sentence": "Shrinking, the TV series about Jason Segel\u2019s Jimmy, a grieving psychotherapist who can\u2019t stop telling patients what he really thinks, seems pretty innocuous on paper.",
+      "timestamp": "2026-02-03T09:00:33Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "UK shoppers buy more fruit and yoghurt in healthy start to 2026",
+      "link": "https://www.theguardian.com/business/2026/feb/03/uk-grocery-price-inflation-january-fruit-yoghurt",
+      "mean_score": 0.4509,
+      "vader_score": 0.4019,
+      "textblob_score": 0.5,
+      "first_sentence": "Britons started 2026 by buying more healthy food such as fruit and yoghurt as they attempted to hit new year health goals, while grocery price inflation eased to the lowest level since April, research has shown.",
+      "timestamp": "2026-02-03T08:42:28Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Musk firms SpaceX and xAI merge to make world's most valuable private company",
+      "link": "https://www.bbc.com/news/articles/cq6vnrye06po?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3878,
+      "vader_score": 0.5256,
+      "textblob_score": 0.25,
+      "first_sentence": "Elon Musk's SpaceX is taking over his artificial intelligence (AI) start-up, as the billionaire continues to unify some of his many business interests.",
+      "timestamp": "2026-02-03T08:40:40Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Starmer has little to offer voters of either right or left in Gorton and Denton. That\u2019s why he\u2019s facing a perfect storm | Owen Jones",
+      "link": "https://www.theguardian.com/commentisfree/2026/feb/03/keir-starmer-gorton-denton-byelection-greens-labour",
+      "mean_score": 0.4232,
+      "vader_score": 0.5719,
+      "textblob_score": 0.2746,
+      "first_sentence": "Labour\u2019s soul is being laid bare in the Gorton and Denton byelection campaign.",
+      "timestamp": "2026-02-03T07:00:32Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "The Good Society by Kate Pickett review \u2013 the Spirit Level author takes stock",
+      "link": "https://www.theguardian.com/books/2026/feb/03/the-good-society-by-kate-pickett-review-the-spirit-level-author-takes-stock",
+      "mean_score": 0.6287,
+      "vader_score": 0.5574,
+      "textblob_score": 0.7,
+      "first_sentence": "If you\u2019ve written a successful book based around one big idea, what do you make the next one about? Back in 2009, Kate Pickett\u2019s The Spirit Level (co-authored with Richard Wilkinson) argued that inequality was the ultimate cause of almost all our social problems, from obesity and teenage pregnancy to violent crime; more equal societies, they claimed, had better outcomes across the board.",
+      "timestamp": "2026-02-03T07:00:32Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Iran\u2019s president seeks \u2018fair and equitable negotiations\u2019 with the United States",
+      "link": "https://apnews.com/article/iran-trump-protests-negotiations-nuclear-deal-9758adb33c0d01c70a07ad7de0f5221b",
+      "mean_score": 0.5607,
+      "vader_score": 0.4215,
+      "textblob_score": 0.7,
+      "first_sentence": "The comments on Tuesday from reformist President Masoud Pezeshkian represent the first clear signal from Iran that it may take part in negotiations being organized by Turkey.",
+      "timestamp": "2026-02-03T06:23:02Z",
+      "source": "AP News"
+    },
+    {
+      "headline": "Iran\u2019s president says Tehran ready to pursue \u2018fair\u2019 talks with US",
+      "link": "https://www.theguardian.com/world/2026/feb/02/iran-abbas-araghchi-talks-us-nuclear-deal",
+      "mean_score": 0.4056,
+      "vader_score": 0.3612,
+      "textblob_score": 0.45,
+      "first_sentence": "Iran\u2019s president said on Tuesday that he had instructed his foreign minister to \u201cpursue fair and equitable negotiations\u201d with the US, as the two countries reportedly prepared to send top envoys to Istanbul for high-stakes talks on the Iranian nuclear programme later this week.",
+      "timestamp": "2026-02-03T05:58:12Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Football, politics and protest: This year\u2019s Super Bowl comes at a tinderbox moment in the US",
+      "link": "https://apnews.com/article/super-bowl-bad-bunny-trump-politics-1447163cfa820cbb0c96973c20ccd976",
+      "mean_score": 0.3869,
+      "vader_score": 0.4404,
+      "textblob_score": 0.3333,
+      "first_sentence": "WASHINGTON (AP) \u2014 Don\u2019t tune into the Super Bowl hoping for a break from the tumultuous politics gripping the U.S.",
+      "timestamp": "2026-02-03T05:53:02Z",
+      "source": "AP News"
+    },
+    {
+      "headline": "Researchers hope 'spas' and 'saunas' could save the world's frogs",
+      "link": "https://www.abc.net.au/news/2026-02-03/green-gold-bell-frog-reintroduced-canberra-sauna-spa/106300276",
+      "mean_score": 0.3634,
+      "vader_score": 0.7269,
+      "textblob_score": 0.0,
+      "first_sentence": "Scientists are using man-made frog 'spas' and 'saunas' in a world-first attempt to reintroduce a frog species to the ACT, nearly 50 years after it went locally extinct.",
+      "timestamp": "2026-02-03T05:44:07Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Ultra-processed foods should be treated more like cigarettes than food \u2013 study",
+      "link": "https://www.theguardian.com/global-development/2026/feb/03/public-health-ultra-processed-foods-regulation-cigarettes-addiction-nutrition",
+      "mean_score": 0.46,
+      "vader_score": 0.4201,
+      "textblob_score": 0.5,
+      "first_sentence": "Ultra-processed foods (UPFs) have more in common with cigarettes than with fruit or vegetables, and require far tighter regulation, according to a new report.",
+      "timestamp": "2026-02-03T05:00:30Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018Deepfakes spreading and more AI companions\u2019: seven takeaways from the latest artificial intelligence safety report",
+      "link": "https://www.theguardian.com/technology/2026/feb/03/deepfakes-ai-companions-artificial-intelligence-safety-report",
+      "mean_score": 0.4215,
+      "vader_score": 0.7096,
+      "textblob_score": 0.1333,
+      "first_sentence": "The International AI Safety report is an annual survey of technological progress and the risks it is creating across multiple areas, from deepfakes to the jobs market.",
+      "timestamp": "2026-02-03T05:00:29Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Good luck Dua Leaper: scientists return frogs wiped out by fungal disease to wild",
+      "link": "https://www.theguardian.com/australia-news/2026/feb/03/green-and-golden-bell-frogs-return-act-wetlands-chytrid-fungal-disease",
+      "mean_score": 0.5548,
+      "vader_score": 0.7096,
+      "textblob_score": 0.4,
+      "first_sentence": "Scientists have reintroduced green and golden bell frogs to the Australian Capital Territory for the first time since the species became locally extinct four decades ago.",
+      "timestamp": "2026-02-03T04:56:55Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Epstein files reveal Peter Mandelson supported campaign to undermine then-Australian PM Kevin Rudd\u2019s mining super profits tax",
+      "link": "https://www.theguardian.com/australia-news/2026/feb/03/epstein-files-peter-mandelson-kevin-rudd-mining-super-profits-tax",
+      "mean_score": 0.5589,
+      "vader_score": 0.7845,
+      "textblob_score": 0.3333,
+      "first_sentence": "A former UK Labour minister supported a campaign to undermine the Rudd Labor government\u2019s proposed mining super profits tax in Australia, a document published in the latest tranche of the Epstein files reveals.",
+      "timestamp": "2026-02-03T04:46:02Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "The small steps I have taken to better protect my mental health at work",
+      "link": "https://www.abc.net.au/news/2026-02-03/mental-health-workplaces-what-i-learnt/106055796",
+      "mean_score": 0.3603,
+      "vader_score": 0.6705,
+      "textblob_score": 0.05,
+      "first_sentence": "So far, the interview had gone pretty well.",
+      "timestamp": "2026-02-03T04:12:39Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Sarah Ferguson charity to close after new details of friendship with Epstein",
+      "link": "https://www.theguardian.com/uk-news/2026/feb/03/sarah-ferguson-charity-to-close-after-new-details-of-friendship-with-epstein",
+      "mean_score": 0.4136,
+      "vader_score": 0.6908,
+      "textblob_score": 0.1364,
+      "first_sentence": "The charity of Sarah Ferguson has announced that it is closing after new revelations emerged about the former duchess\u2019s friendship with convicted child sex offender Jeffrey Epstein.",
+      "timestamp": "2026-02-03T00:22:49Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Jack Thorne on 'remarkably tender' Lord of the Flies",
+      "link": "https://www.bbc.com/news/articles/c0mk700rmkmo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.375,
+      "vader_score": 0.0,
+      "textblob_score": 0.75,
+      "first_sentence": "Jack Thorne first read Lord of the Flies as a child.",
+      "timestamp": "2026-02-03T00:12:51Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "From Dorset to the world: wave of donations helps to secure Cerne giant\u2019s home",
+      "link": "https://www.theguardian.com/culture/2026/feb/03/cerne-giant-dorset-global-appeal",
+      "mean_score": 0.4062,
+      "vader_score": 0.6124,
+      "textblob_score": 0.2,
+      "first_sentence": "The Guardian\u2019s journalism is independent.",
+      "timestamp": "2026-02-03T00:01:23Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "What\u2019s the best way to deal with a potential interest rate rise? | Fiona Katauskas",
+      "link": "https://www.theguardian.com/commentisfree/picture/2026/feb/03/whats-the-best-way-to-deal-with-a-potential-interest-rate-rise",
+      "mean_score": 0.651,
+      "vader_score": 0.802,
+      "textblob_score": 0.5,
+      "first_sentence": "Try lying down until the feeling goes awaySee more of Fiona Katauskas\u2019s cartoons here Continue reading.",
+      "timestamp": "2026-02-02T22:59:55Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Populist conservative Laura Fern\u00e1ndez wins Costa Rica's presidential election",
+      "link": "https://www.npr.org/2026/02/02/g-s1-108418/costa-rica-election-laura-fernandez-wins",
+      "mean_score": 0.4359,
+      "vader_score": 0.5719,
+      "textblob_score": 0.3,
+      "first_sentence": "SAN JOSE, Costa Rica \u2014 Conservative populist Laura Fern\u00e1ndez won Costa Rica's presidency, promising to continue the aggressive reorienting of the Central American nation's politics started by her political sponsor, outgoing President Rodrigo Chaves.",
+      "timestamp": "2026-02-02T21:28:21Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "Should you take fish oil for your heart, joints or mood?",
+      "link": "https://www.abc.net.au/news/2026-02-03/should-take-fish-oil-supplement-heart-joints-mood/106281540",
+      "mean_score": 0.3185,
+      "vader_score": 0.6369,
+      "textblob_score": 0.0,
+      "first_sentence": "Fish oil, also known as omega-3, is one of the most popular dietary supplements.",
+      "timestamp": "2026-02-02T18:51:09Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Intel Panther Lake Core Ultra review: Intel's best laptop CPU in a very long time",
+      "link": "https://arstechnica.com/gadgets/2026/02/intel-panther-lake-core-ultra-review-intels-best-laptop-cpu-in-a-very-long-time/",
+      "mean_score": 0.5522,
+      "vader_score": 0.6369,
+      "textblob_score": 0.4675,
+      "first_sentence": "Intel manages big boosts to CPU and GPU speed without blowing up battery life.",
+      "timestamp": "2026-02-02T18:23:56Z",
+      "source": "Ars Technica"
+    },
     {
       "headline": "Top players reject offer to have greater say in running of major tennis championships",
       "link": "https://www.theguardian.com/sport/2026/feb/02/top-players-reject-offer-greater-say-running-major-tennis-championships",
@@ -150,6 +360,16 @@
       "first_sentence": "The majority of Great Britain\u2019s major rail operators are now in public ownership, as the Labour government continues its efforts to make the railways \u201cmore reliable, affordable and accessible\u201d.",
       "timestamp": "2026-02-02T10:18:48Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "Here's how this 87-year-old triathlete keeps her heart strong",
+      "link": "https://www.npr.org/2026/02/02/nx-s1-5691731/active-aging-heart-health-senior-athlete",
+      "mean_score": 0.6255,
+      "vader_score": 0.8176,
+      "textblob_score": 0.4333,
+      "first_sentence": "With the Winter Olympics starting this week, the attention on world-class athletes may motivate some of us to get off the couch and move more ourselves.",
+      "timestamp": "2026-02-02T10:00:00Z",
+      "source": "NPR News"
     },
     {
       "headline": "\u2018Nothing is sacred to them\u2019: the race to save rare plants as Russian troops advance",
@@ -2280,226 +2500,6 @@
       "first_sentence": "India and the EU have finalised a landmark free trade agreement, which the European Commission president, Ursula von der Leyen, hailed as the \u201cmother of all deals\u201d.",
       "timestamp": "2026-01-27T09:33:28Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018The mother of all trade deals\u2019: EU and India sign landmark trade agreement \u2013 Europe live",
-      "link": "https://www.theguardian.com/world/live/2026/jan/27/european-union-india-trade-deal-ukraine-greenland-holocaust-news-updates-europe-live",
-      "mean_score": 0.3393,
-      "vader_score": 0.5423,
-      "textblob_score": 0.1364,
-      "first_sentence": "The European Union has concluded trade talks with India this morning, signing also a bunch of separate deals on mobility, security, and defence, among others.",
-      "timestamp": "2026-01-27T08:52:55Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The Joy of Six: unlikely Winter Olympics stars",
-      "link": "https://www.theguardian.com/sport/2026/jan/27/the-joy-of-six-unlikely-winter-olympics-stars",
-      "mean_score": 0.3679,
-      "vader_score": 0.5859,
-      "textblob_score": 0.15,
-      "first_sentence": "Michael \u201cEddie the Eagle\u201d Edwards, was the antithesis of the Olympic high-flyer.",
-      "timestamp": "2026-01-27T08:00:08Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "India\u2019s prime minister says it has reached a free trade deal with the EU",
-      "link": "https://apnews.com/article/india-eu-modi-trade-wine-auto-74b8744b2ef562d2e820b238e6ce8d38",
-      "mean_score": 0.4859,
-      "vader_score": 0.5719,
-      "textblob_score": 0.4,
-      "first_sentence": "NEW DELHI (AP) \u2014 Prime Minister Narendra Modi said Tuesday that India and the European Union have reached a free trade agreement to deepen their economic and strategic ties.",
-      "timestamp": "2026-01-27T07:23:02Z",
-      "source": "AP News"
-    },
-    {
-      "headline": "Philippines' Duterte fit to face ICC proceedings, judges say",
-      "link": "https://www.bbc.com/news/articles/c0lx2pj84l4o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3806,
-      "vader_score": 0.3612,
-      "textblob_score": 0.4,
-      "first_sentence": "Judges at the International Criminal Court (ICC) have ruled that former Philippine president Rodrigo Duterte is fit to attend pre-trial proceedings for alleged crimes against humanity.",
-      "timestamp": "2026-01-27T07:12:55Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Zoning in on Leith, Edinburgh \u2013 \u2018It\u2019s been a joy to watch the area reinvent itself\u2019",
-      "link": "https://www.theguardian.com/travel/2026/jan/27/leith-edinburgh-culinary-cultural-hub",
-      "mean_score": 0.6929,
-      "vader_score": 0.5859,
-      "textblob_score": 0.8,
-      "first_sentence": "Leith is Edinburgh\u2019s port district, where people, goods and new ideas have flowed into the city for centuries.",
-      "timestamp": "2026-01-27T07:00:09Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "NATO chief wishes 'good luck' to those who think Europe can defend itself without US help",
-      "link": "https://www.npr.org/2026/01/27/nx-s1-5689791/nato-chief-europe-defense-us",
-      "mean_score": 0.6709,
-      "vader_score": 0.6419,
-      "textblob_score": 0.7,
-      "first_sentence": "BRUSSELS \u2014 NATO Secretary-General Mark Rutte insisted Monday that Europe is incapable of defending itself without U.S.",
-      "timestamp": "2026-01-27T06:32:19Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "First of its kind \u2018high-density\u2019 hydro system begins generating electricity in Devon",
-      "link": "https://www.theguardian.com/business/2026/jan/27/high-density-hydropower-system-generating-electricity-devon-renewable-energy-storage",
-      "mean_score": 0.4758,
-      "vader_score": 0.5267,
-      "textblob_score": 0.425,
-      "first_sentence": "A hillside \u201cbattery\u201d outside Plymouth in Devon has begun generating electricity using a first of a kind hydropower system embedded underground.",
-      "timestamp": "2026-01-27T06:00:07Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Shared cooking and child care: The benefits of multi-generational living",
-      "link": "https://www.abc.net.au/news/2026-01-27/families-on-how-they-manage-multi-generational-living/105950572",
-      "mean_score": 0.401,
-      "vader_score": 0.802,
-      "textblob_score": 0.0,
-      "first_sentence": "Multi-generational living \u2014 two or more generations living under one roof \u2014 is becoming more common in Australia.",
-      "timestamp": "2026-01-27T05:44:16Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Sussan Ley to announce Liberal-only frontbench as allies increasingly confident she won\u2019t face spill",
-      "link": "https://www.theguardian.com/australia-news/2026/jan/27/sussan-ley-leadership-spill-frontbench-allies-confident",
-      "mean_score": 0.497,
-      "vader_score": 0.4939,
-      "textblob_score": 0.5,
-      "first_sentence": "Sussan Ley is planning to announce a Liberal party-only frontbench within days that formalises the breakup of the Coalition, as she stares down a campaign from the right faction to end her leadership over the latest split with the Nationals.",
-      "timestamp": "2026-01-27T05:17:03Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Take That review \u2013 could it be TV magic? Yes!",
-      "link": "https://www.theguardian.com/tv-and-radio/2026/jan/27/take-that-review-netflix-could-it-be-tv-magic-yes",
-      "mean_score": 0.5412,
-      "vader_score": 0.4574,
-      "textblob_score": 0.625,
-      "first_sentence": "T\u200bhis fantastically enjoyable romp about the boy band covers the highs, the oiled thighs and the chainmail codpieces.",
-      "timestamp": "2026-01-27T05:00:06Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Rescue dog valuable in koala monitoring research program",
-      "link": "https://www.abc.net.au/news/2026-01-27/rescue-dog-used-in-central-queensland-koala-monitoring-program/106187550",
-      "mean_score": 0.3753,
-      "vader_score": 0.7506,
-      "textblob_score": 0.0,
-      "first_sentence": "A new koala monitoring research program has been carried out in central Queensland for the first time.",
-      "timestamp": "2026-01-27T00:03:10Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Another quarterfinal exit for de Minaur as Alcaraz wins in straight sets",
-      "link": "https://www.abc.net.au/news/2026-01-27/australian-open-2026-live-alex-de-minaur-alcaraz-sabalenka-gauff/106272422",
-      "mean_score": 0.4654,
-      "vader_score": 0.6808,
-      "textblob_score": 0.25,
-      "first_sentence": "Alex de Minaur has been knocked out of the quarterfinals by a dominant Carlos Alcaraz in straight sets.",
-      "timestamp": "2026-01-26T23:33:32Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Is there any good news for Sussan Ley? | Fiona Katauskas",
-      "link": "https://www.theguardian.com/commentisfree/picture/2026/jan/27/is-there-any-good-news-for-sussan-ley",
-      "mean_score": 0.5702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.7,
-      "first_sentence": "Seems like 2026 is already testing her resolveSee more of Fiona Katauskas\u2019s cartoons here Continue reading.",
-      "timestamp": "2026-01-26T23:23:31Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Legendary reggae drummer Sly Dunbar dies at 73",
-      "link": "https://www.bbc.com/news/articles/cn56300z220o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5,
-      "vader_score": 0.0,
-      "textblob_score": 1.0,
-      "first_sentence": "Reggae legend Sly Dunbar, who played with everyone from Bob Marley to The Rolling Stones, has died at the age of 73.",
-      "timestamp": "2026-01-26T22:35:45Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Wife of captain of oil tanker captured by US forces starts legal action to free him",
-      "link": "https://www.theguardian.com/world/2026/jan/26/wife-of-captain-of-oil-tanker-captured-by-us-forces-starts-legal-action-to-free-him",
-      "mean_score": 0.4096,
-      "vader_score": 0.5859,
-      "textblob_score": 0.2333,
-      "first_sentence": "Lawyers acting for the wife of the captain of a Venezuela-linked oil tanker captured by US forces in UK waters are calling for a judicial review of his situation, claiming he is being detained unlawfully.",
-      "timestamp": "2026-01-26T22:32:15Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Divers come within metres of great white as local sightings grow",
-      "link": "https://www.abc.net.au/news/2026-01-27/divers-close-encounter-with-great-white-shark/106269326",
-      "mean_score": 0.4458,
-      "vader_score": 0.6249,
-      "textblob_score": 0.2667,
-      "first_sentence": "Two divers have come within metres of a white shark off SA's Limestone Coast.",
-      "timestamp": "2026-01-26T22:02:57Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Doctors face-palm as RFK Jr.\u2019s top vaccine advisor questions need for polio shot",
-      "link": "https://arstechnica.com/science/2026/01/do-we-really-need-polio-shots-deep-thoughts-by-rfk-jr-advisor-get-dragged/",
-      "mean_score": 0.3512,
-      "vader_score": 0.2023,
-      "textblob_score": 0.5,
-      "first_sentence": "Kirk Milhoan\u2019s comments come as federal vaccine policy slides to insignificance.",
-      "timestamp": "2026-01-26T21:31:13Z",
-      "source": "Ars Technica"
-    },
-    {
-      "headline": "Treasury cancels Booz Allen contracts over leaks about wealthy taxpayers",
-      "link": "https://www.npr.org/2026/01/26/nx-s1-5689010/treasury-cancels-booz-allen-contracts-irs-leak",
-      "mean_score": 0.42,
-      "vader_score": 0.34,
-      "textblob_score": 0.5,
-      "first_sentence": "The Treasury Department is canceling millions of dollars worth of contracts with the Booz Allen Hamilton consulting firm, after a contractor from the firm leaked confidential IRS information, showing how wealthy Americans manage to pay little or nothing in taxes.",
-      "timestamp": "2026-01-26T21:08:26Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Live: ASX eyes strong gains as gold continues to soar",
-      "link": "https://www.abc.net.au/news/2026-01-27/asx-markets-business-news-live-updates-tuesday-27-january/106272410",
-      "mean_score": 0.4878,
-      "vader_score": 0.6908,
-      "textblob_score": 0.2848,
-      "first_sentence": "The Australian share market is set to open higher in morning trade, as the price of gold surges to a new record.",
-      "timestamp": "2026-01-26T20:21:30Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Apple's AirTag 2 is easier to find thanks to new chip",
-      "link": "https://arstechnica.com/gadgets/2026/01/apple-introduces-new-airtag-with-better-range-and-a-louder-speaker/",
-      "mean_score": 0.4295,
-      "vader_score": 0.6908,
-      "textblob_score": 0.1682,
-      "first_sentence": "This is the first major upgrade since Apple introduced AirTags five years ago.",
-      "timestamp": "2026-01-26T20:18:02Z",
-      "source": "Ars Technica"
-    },
-    {
-      "headline": "Strong winds put SA on fire alert as heatwave continues",
-      "link": "https://www.abc.net.au/news/2026-01-27/extreme-fire-danger-as-heatwave-persists-in-sa/106270164",
-      "mean_score": 0.455,
-      "vader_score": 0.4767,
-      "textblob_score": 0.4333,
-      "first_sentence": "Extreme fire conditions are expected for the southern half of South Australia today, as the state's heatwave continues.",
-      "timestamp": "2026-01-26T19:09:59Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Hundreds of thousands without power in the U.S. after a powerful winter storm",
-      "link": "https://www.npr.org/2026/01/26/nx-s1-5688918/winter-storm-power-outages-airports",
-      "mean_score": 0.3608,
-      "vader_score": 0.4215,
-      "textblob_score": 0.3,
-      "first_sentence": "Bitter cold is gripping much of the country after a massive winter storm swept across the U.S., dumping ice, sleet and snow from New Mexico to the eastern seaboard.",
-      "timestamp": "2026-01-26T19:09:47Z",
-      "source": "NPR News"
     }
   ]
 }
