@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-04T21:15:07Z",
+  "last run": "2026-02-04T22:10:24Z",
   "stories": [
+    {
+      "headline": "'I never left your side': Emails reveal more about Mandelson's Epstein friendship",
+      "link": "https://www.bbc.com/news/articles/cevn33kgxgmo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3452,
+      "vader_score": 0.4404,
+      "textblob_score": 0.25,
+      "first_sentence": "Prime Minister Sir Keir Starmer has said Peter Mandelson misled him about the extent of his friendship with convicted paedophile Jeffrey Epstein before he was appointed US ambassador.",
+      "timestamp": "2026-02-04T21:28:40Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Here's how this 87-year-old triathlete keeps her heart strong",
+      "link": "https://www.npr.org/2026/02/04/nx-s1-5691731-e1/heres-how-this-87-year-old-triathlete-keeps-her-heart-strong",
+      "mean_score": 0.6255,
+      "vader_score": 0.8176,
+      "textblob_score": 0.4333,
+      "first_sentence": "Despite issues with her heart, this octogenarian still competes in triathlons.",
+      "timestamp": "2026-02-04T21:18:46Z",
+      "source": "NPR News"
+    },
     {
       "headline": "EU deal on Ukraine loan could boost UK if it agrees to help pay costs",
       "link": "https://www.theguardian.com/world/2026/feb/04/eu-deal-on-ukraine-loan-could-boost-uk-if-it-agrees-to-help-pay-costs",
@@ -119,6 +139,16 @@
       "textblob_score": 0.8,
       "first_sentence": "No one could suggest that the Winter Olympics are lacking in challenge.",
       "timestamp": "2026-02-04T14:00:46Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Cool Runnings 2.0: Jamaica\u2019s bobsleigh crew want their own Hollywood ending",
+      "link": "https://www.theguardian.com/sport/2026/feb/04/jamaica-bobsleigh-crew-winter-olympics-2026",
+      "mean_score": 0.4284,
+      "vader_score": 0.3818,
+      "textblob_score": 0.475,
+      "first_sentence": "It did not make so much as a ripple outside its minor sporting niche, but something particularly unusual occurred in the bobsleigh world earlier this year.",
+      "timestamp": "2026-02-04T12:00:41Z",
       "source": "The Guardian"
     },
     {
@@ -2470,36 +2500,6 @@
       "first_sentence": "A businesslike performance against AS Far earned Arsenal a place in Sunday\u2019s final of the inaugural Fifa Women\u2019s Champions Cup against Corinthians.",
       "timestamp": "2026-01-28T21:09:59Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Michael Mayo's 'Fly' is a soaring testament to his artistry and creative vision",
-      "link": "https://www.npr.org/2026/01/28/nx-s1-5605586/michael-mayo-fly-album-grammy-awards",
-      "mean_score": 0.6247,
-      "vader_score": 0.5994,
-      "textblob_score": 0.65,
-      "first_sentence": "With the release of his sophomore album, Fly, in October 2024, singer-songwriter and composer Michael Mayo ascended to new artistic heights.",
-      "timestamp": "2026-01-28T21:00:00Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Champions League: goals and action from all 18 matches in league phase finale \u2013 live",
-      "link": "https://www.theguardian.com/football/live/2026/jan/28/champions-league-clockwatch-psg-newcastle-manchester-city-galatasaray-live",
-      "mean_score": 0.3224,
-      "vader_score": 0.5267,
-      "textblob_score": 0.1182,
-      "first_sentence": "That\u2019s a big goal for Spurs, flicked in from close range by Randal Kolo Muani after a well-worked free-kick.",
-      "timestamp": "2026-01-28T20:52:19Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Masters winner the latest to abandon LIV Golf for PGA Tour return",
-      "link": "https://www.abc.net.au/news/2026-01-29/patrick-reed-leaves-liv-golf-for-pga-tour/106281108",
-      "mean_score": 0.3631,
-      "vader_score": 0.2263,
-      "textblob_score": 0.5,
-      "first_sentence": "Patrick Reed has announced he is leaving LIV Golf to return to the PGA Tour.",
-      "timestamp": "2026-01-28T20:14:16Z",
-      "source": "ABC News"
     }
   ]
 }
