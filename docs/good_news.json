@@ -1,6 +1,36 @@
 {
-  "last run": "2026-02-04T15:21:08Z",
+  "last run": "2026-02-04T16:22:14Z",
   "stories": [
+    {
+      "headline": "Ministers face pressure to accept amendment giving intelligence and security committee final say over Mandelson files \u2013 UK politics live",
+      "link": "https://www.theguardian.com/politics/live/2026/feb/04/peter-mandelson-files-us-ambassador-jeffrey-epstein-keir-starmer-tories-uk-politics-live-news-updates",
+      "mean_score": 0.4378,
+      "vader_score": 0.8074,
+      "textblob_score": 0.0682,
+      "first_sentence": "Lindsay Hoyle says the manuscript amendment, which has been tabled by the PM, has been accepted.",
+      "timestamp": "2026-02-04T16:15:20Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018The right has won the family\u2019: why are there so few lefty momfluencers?",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/feb/04/left-progressive-mom-influencers",
+      "mean_score": 0.3074,
+      "vader_score": 0.5719,
+      "textblob_score": 0.0429,
+      "first_sentence": "For someone who doesn\u2019t have a marble island in their kitchen I spend a disproportionate amount of time staring at marble kitchen islands, slack-jawed, brain turned half off.",
+      "timestamp": "2026-02-04T16:00:47Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Xi speaks of 'grand plan' with Russia in call with Putin",
+      "link": "https://www.abc.net.au/news/2026-02-05/xi-speaks-to-putin-and-trump-on-eve-of-ukraine-war-anniversary/106306896",
+      "mean_score": 0.4794,
+      "vader_score": 0.4588,
+      "textblob_score": 0.5,
+      "first_sentence": "The leaders of China and Russia have held a phone call, which has been broadcast on state television.",
+      "timestamp": "2026-02-04T15:25:35Z",
+      "source": "ABC News"
+    },
     {
       "headline": "An \u2018amazing feat\u2019: how was 13-year-old Austin Appelbee able to swim for four hours to save his family?",
       "link": "https://www.theguardian.com/australia-news/2026/feb/05/austin-appelbee-13-year-old-boy-swims-four-hours-rescue-save-family-western-australia",
@@ -2470,36 +2500,6 @@
       "first_sentence": "Experts say eating a bit of snow is probably fine if you live someplace with generally clean air, but staying away from plowed snow is a sensible precaution.",
       "timestamp": "2026-01-28T13:53:03Z",
       "source": "AP News"
-    },
-    {
-      "headline": "Marco Rubio tells senators Venezuela transition won't be fast or easy",
-      "link": "https://www.npr.org/2026/01/28/nx-s1-5690365/rubio-senate-venezuela",
-      "mean_score": 0.3785,
-      "vader_score": 0.4404,
-      "textblob_score": 0.3167,
-      "first_sentence": "Secretary of State Marco Rubio faced intense scrutiny in a Senate Foreign Relations Committee hearing on Wednesday over the Trump administration's military operation that ousted Venezuelan President Nicol\u00e1s Maduro, as lawmakers pressed for clarity on what comes next for the South American country and for U.S.",
-      "timestamp": "2026-01-28T13:08:16Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Womad festival given go-ahead at new site",
-      "link": "https://www.bbc.com/news/articles/c4gw4djn1rmo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3151,
-      "vader_score": 0.4939,
-      "textblob_score": 0.1364,
-      "first_sentence": "Organisers of a major summer music festival say they are \"thrilled\" to have been granted a licence by the local council, allowing it to return for the first time since 2024.",
-      "timestamp": "2026-01-28T11:54:32Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Government offers UK adults free AI training for work",
-      "link": "https://www.bbc.com/news/articles/cp37prvp072o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3803,
-      "vader_score": 0.5106,
-      "textblob_score": 0.25,
-      "first_sentence": "The government has launched a series of free AI training courses designed to help people learn how to use the technology at work.",
-      "timestamp": "2026-01-28T11:50:21Z",
-      "source": "BBC News"
     }
   ]
 }

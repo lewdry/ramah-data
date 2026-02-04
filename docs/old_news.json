@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Marco Rubio tells senators Venezuela transition won't be fast or easy",
+    "link": "https://www.npr.org/2026/01/28/nx-s1-5690365/rubio-senate-venezuela",
+    "mean_score": 0.3785,
+    "vader_score": 0.4404,
+    "textblob_score": 0.3167,
+    "first_sentence": "Secretary of State Marco Rubio faced intense scrutiny in a Senate Foreign Relations Committee hearing on Wednesday over the Trump administration's military operation that ousted Venezuelan President Nicol\u00e1s Maduro, as lawmakers pressed for clarity on what comes next for the South American country and for U.S.",
+    "timestamp": "2026-01-28T13:08:16Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "Womad festival given go-ahead at new site",
+    "link": "https://www.bbc.com/news/articles/c4gw4djn1rmo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3151,
+    "vader_score": 0.4939,
+    "textblob_score": 0.1364,
+    "first_sentence": "Organisers of a major summer music festival say they are \"thrilled\" to have been granted a licence by the local council, allowing it to return for the first time since 2024.",
+    "timestamp": "2026-01-28T11:54:32Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Government offers UK adults free AI training for work",
+    "link": "https://www.bbc.com/news/articles/cp37prvp072o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3803,
+    "vader_score": 0.5106,
+    "textblob_score": 0.25,
+    "first_sentence": "The government has launched a series of free AI training courses designed to help people learn how to use the technology at work.",
+    "timestamp": "2026-01-28T11:50:21Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Wales' first minister refuses to support Keir Starmer",
     "link": "https://www.bbc.com/news/articles/cdjnp02zevko?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.3259,
