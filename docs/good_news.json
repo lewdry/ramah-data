@@ -1,6 +1,36 @@
 {
-  "last run": "2026-02-04T06:24:38Z",
+  "last run": "2026-02-04T07:24:14Z",
   "stories": [
+    {
+      "headline": "\u2018She thought it was too sexy!\u2019: portraits of Kate Moss, Grace Jones and a tea-drinking chimp \u2013 in pictures",
+      "link": "https://www.theguardian.com/artanddesign/gallery/2026/feb/04/she-thought-it-was-too-sexy-portraits-of-kate-moss-grace-jones-and-a-tea-drinking-chimp-in-pictures",
+      "mean_score": 0.5502,
+      "vader_score": 0.4753,
+      "textblob_score": 0.625,
+      "first_sentence": "From a gold-covered Dennis Rodman to Jack Nicholson sitting in the snow, Albert Watson has spent a career shooting the stars \u2013 as well as the occasional giant coffee spoon Continue reading.",
+      "timestamp": "2026-02-04T07:00:36Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "A different kind of girls\u2019 weekend: adventure and creativity in Carmarthenshire",
+      "link": "https://www.theguardian.com/travel/2026/feb/04/womens-weekend-adventure-creative-experiences-carmarthenshire-wales",
+      "mean_score": 0.4497,
+      "vader_score": 0.5994,
+      "textblob_score": 0.3,
+      "first_sentence": "The scent of hand-poured candles filled the air in the Little Welsh Dresser, one of Llandeilo\u2019s clutch of arts and crafts shops.",
+      "timestamp": "2026-02-04T07:00:36Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Penny the Doberman pinscher wins the 150th Westminster dog show",
+      "link": "https://www.npr.org/2026/02/04/nx-s1-5699240/penny-the-doberman-pinscher-wins-the-150th-westminster-dog-show",
+      "mean_score": 0.4359,
+      "vader_score": 0.5719,
+      "textblob_score": 0.3,
+      "first_sentence": "A Doberman pinscher named Penny won best in show Tuesday night at the Westminster Kennel Club Dog Show, netting U.S.",
+      "timestamp": "2026-02-04T06:34:47Z",
+      "source": "NPR News"
+    },
     {
       "headline": "Clive Palmer suggests Steven Bannon hoped to \u2018increase influence\u2019 by claiming credit for 2019 election ads",
       "link": "https://www.theguardian.com/australia-news/2026/feb/04/clive-palmer-steven-bannon-epstein-files-claim-election-ads",
@@ -100,6 +130,16 @@
       "first_sentence": "A survival expert says calm, rational decision-making was key to a family's survival after they were swept out to sea off WA's South West.",
       "timestamp": "2026-02-03T21:54:19Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "'Just keep swimming': Heroic WA teen swam for hours to save family swept out to sea",
+      "link": "https://www.sbs.com.au/news/article/western-australian-teen-swims-for-hours-to-save-family-swept-out-to-sea/xvb3lw291",
+      "mean_score": 0.5641,
+      "vader_score": 0.7783,
+      "textblob_score": 0.35,
+      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+      "timestamp": "2026-02-03T20:30:07Z",
+      "source": "SBS News"
     },
     {
       "headline": "Residents burnt out of 'paradise' determined to rebuild",
@@ -2460,46 +2500,6 @@
       "first_sentence": "BARCELONA, Spain \u2014 Spain's government announced Tuesday it will grant legal status to potentially hundreds of thousands of immigrants living and working in the country without authorization, the latest way the country has bucked a trend toward increasingly harsh immigration policies imposed in the United States and much of Europe.",
       "timestamp": "2026-01-28T06:51:00Z",
       "source": "NPR News"
-    },
-    {
-      "headline": "Why is Greenland so rich in natural resources?",
-      "link": "https://www.theguardian.com/science/2026/jan/28/why-is-greenland-so-rich-in-natural-resources-terrawatch",
-      "mean_score": 0.5245,
-      "vader_score": 0.8116,
-      "textblob_score": 0.2375,
-      "first_sentence": "As recent manoeuvres over Greenland have made plain, this mostly ice-covered island contains some of the greatest stores of natural resources in the world, with huge volumes of oil and gas, rich deposits of rare-earth elements and rocks bearing gems and gold.",
-      "timestamp": "2026-01-28T06:00:05Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Free agent Khawaja set to play on in BBL",
-      "link": "https://www.abc.net.au/news/2026-01-28/usman-khawaja-brisbane-heat-big-bash-league/106279266",
-      "mean_score": 0.5454,
-      "vader_score": 0.6908,
-      "textblob_score": 0.4,
-      "first_sentence": "Usman Khawaja is keen to continue his limited overs career following his international retirement.",
-      "timestamp": "2026-01-28T05:26:12Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Wonder Man review \u2013 a Marvel TV show with almost no superhero action \u2026 and it\u2019s all the better for it",
-      "link": "https://www.theguardian.com/tv-and-radio/2026/jan/28/wonder-man-review-marvel-tv-show-with-almost-no-superhero-action-disney-plus",
-      "mean_score": 0.4425,
-      "vader_score": 0.5849,
-      "textblob_score": 0.3,
-      "first_sentence": "We are back in the Marvel Cinematic Universe.",
-      "timestamp": "2026-01-28T05:00:03Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Neil Young offers Greenlanders free access to his archives",
-      "link": "https://www.bbc.com/news/articles/crmlpl0w2z2o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3553,
-      "vader_score": 0.5106,
-      "textblob_score": 0.2,
-      "first_sentence": "Canadian-American rock star Neil Young is offering Greenlanders a year's free access to his archives in what he hopes will \"ease some of the unwarranted stress and threats\" they are receiving from the Trump administration.",
-      "timestamp": "2026-01-28T03:34:43Z",
-      "source": "BBC News"
     }
   ]
 }

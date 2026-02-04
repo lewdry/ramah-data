@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Why is Greenland so rich in natural resources?",
+    "link": "https://www.theguardian.com/science/2026/jan/28/why-is-greenland-so-rich-in-natural-resources-terrawatch",
+    "mean_score": 0.5245,
+    "vader_score": 0.8116,
+    "textblob_score": 0.2375,
+    "first_sentence": "As recent manoeuvres over Greenland have made plain, this mostly ice-covered island contains some of the greatest stores of natural resources in the world, with huge volumes of oil and gas, rich deposits of rare-earth elements and rocks bearing gems and gold.",
+    "timestamp": "2026-01-28T06:00:05Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Free agent Khawaja set to play on in BBL",
+    "link": "https://www.abc.net.au/news/2026-01-28/usman-khawaja-brisbane-heat-big-bash-league/106279266",
+    "mean_score": 0.5454,
+    "vader_score": 0.6908,
+    "textblob_score": 0.4,
+    "first_sentence": "Usman Khawaja is keen to continue his limited overs career following his international retirement.",
+    "timestamp": "2026-01-28T05:26:12Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Wonder Man review \u2013 a Marvel TV show with almost no superhero action \u2026 and it\u2019s all the better for it",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/jan/28/wonder-man-review-marvel-tv-show-with-almost-no-superhero-action-disney-plus",
+    "mean_score": 0.4425,
+    "vader_score": 0.5849,
+    "textblob_score": 0.3,
+    "first_sentence": "We are back in the Marvel Cinematic Universe.",
+    "timestamp": "2026-01-28T05:00:03Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Neil Young offers Greenlanders free access to his archives",
+    "link": "https://www.bbc.com/news/articles/crmlpl0w2z2o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3553,
+    "vader_score": 0.5106,
+    "textblob_score": 0.2,
+    "first_sentence": "Canadian-American rock star Neil Young is offering Greenlanders a year's free access to his archives in what he hopes will \"ease some of the unwarranted stress and threats\" they are receiving from the Trump administration.",
+    "timestamp": "2026-01-28T03:34:43Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Alex de Minaur fell a distance short at the Australian Open. Will he ever win a major? | Simon Cambers",
     "link": "https://www.theguardian.com/sport/2026/jan/28/alex-de-minaur-tennis-australian-open-chances-winning-major",
     "mean_score": 0.3792,
