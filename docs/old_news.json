@@ -1,5 +1,25 @@
 [
   {
+    "headline": "The easy thing for the RBA to do next week is raise rates. The smart move is to wait | Greg Jericho",
+    "link": "https://www.theguardian.com/business/grogonomics/2026/jan/28/australia-rba-interest-rates",
+    "mean_score": 0.4483,
+    "vader_score": 0.6808,
+    "textblob_score": 0.2159,
+    "first_sentence": "There is a kind of sickness in Australia\u2019s coverage and discussion about the economy \u2013 an obsession that interest rates need to do something.",
+    "timestamp": "2026-01-28T14:00:12Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Eating snow cones or snow cream can be a winter delight, if done safely",
+    "link": "https://apnews.com/article/safe-to-eat-snow-cream-storm-9d714c4abe6c554c2532d23e3b709743",
+    "mean_score": 0.6482,
+    "vader_score": 0.7964,
+    "textblob_score": 0.5,
+    "first_sentence": "Experts say eating a bit of snow is probably fine if you live someplace with generally clean air, but staying away from plowed snow is a sensible precaution.",
+    "timestamp": "2026-01-28T13:53:03Z",
+    "source": "AP News"
+  },
+  {
     "headline": "Marco Rubio tells senators Venezuela transition won't be fast or easy",
     "link": "https://www.npr.org/2026/01/28/nx-s1-5690365/rubio-senate-venezuela",
     "mean_score": 0.3785,

@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-04T16:22:14Z",
+  "last run": "2026-02-04T17:22:52Z",
   "stories": [
+    {
+      "headline": "Goofy! Unvampy! Pouty! Implausible! With nine films on the go, can Charli xcx act?",
+      "link": "https://www.theguardian.com/film/2026/feb/04/can-charli-xcx-act-beyonce-harry-styles",
+      "mean_score": 0.5,
+      "vader_score": 0.0,
+      "textblob_score": 1.0,
+      "first_sentence": "She\u2019s the edgy British brat who conquered the world with her hard-partying, electro-banging aesthetic.",
+      "timestamp": "2026-02-04T16:53:50Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Things reek, stink and pong \u2013 but why are there no verbs for describing a delightful odour? | Adrian Chiles",
+      "link": "https://www.theguardian.com/commentisfree/2026/feb/04/reek-stink-pong-verbs-odour-smelling-nice",
+      "mean_score": 0.6858,
+      "vader_score": 0.3716,
+      "textblob_score": 1.0,
+      "first_sentence": "I remember the first time I remembered a smell.",
+      "timestamp": "2026-02-04T16:16:48Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Ministers face pressure to accept amendment giving intelligence and security committee final say over Mandelson files \u2013 UK politics live",
       "link": "https://www.theguardian.com/politics/live/2026/feb/04/peter-mandelson-files-us-ambassador-jeffrey-epstein-keir-starmer-tories-uk-politics-live-news-updates",
@@ -2480,26 +2500,6 @@
       "first_sentence": "This was taken in a village in rural Moldova that no longer exists.",
       "timestamp": "2026-01-28T15:09:41Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "The easy thing for the RBA to do next week is raise rates. The smart move is to wait | Greg Jericho",
-      "link": "https://www.theguardian.com/business/grogonomics/2026/jan/28/australia-rba-interest-rates",
-      "mean_score": 0.4483,
-      "vader_score": 0.6808,
-      "textblob_score": 0.2159,
-      "first_sentence": "There is a kind of sickness in Australia\u2019s coverage and discussion about the economy \u2013 an obsession that interest rates need to do something.",
-      "timestamp": "2026-01-28T14:00:12Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Eating snow cones or snow cream can be a winter delight, if done safely",
-      "link": "https://apnews.com/article/safe-to-eat-snow-cream-storm-9d714c4abe6c554c2532d23e3b709743",
-      "mean_score": 0.6482,
-      "vader_score": 0.7964,
-      "textblob_score": 0.5,
-      "first_sentence": "Experts say eating a bit of snow is probably fine if you live someplace with generally clean air, but staying away from plowed snow is a sensible precaution.",
-      "timestamp": "2026-01-28T13:53:03Z",
-      "source": "AP News"
     }
   ]
 }
