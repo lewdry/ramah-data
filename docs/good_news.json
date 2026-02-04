@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-04T13:32:14Z",
+  "last run": "2026-02-04T14:22:25Z",
   "stories": [
+    {
+      "headline": "An \u2018amazing feat\u2019: how was 13-year-old Austin Appelbee able to swim for four hours to save his family?",
+      "link": "https://www.theguardian.com/australia-news/2026/feb/05/austin-appelbee-13-year-old-boy-swims-four-hours-rescue-save-family-western-australia",
+      "mean_score": 0.522,
+      "vader_score": 0.4939,
+      "textblob_score": 0.55,
+      "first_sentence": "An Australian 13-year-old who swam 4km (2.49 miles) to shore and then ran 2km (1.24 miles) to get help for his stranded family has been described as \u201csuperhuman\u201d.",
+      "timestamp": "2026-02-04T14:00:48Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "So yeah, I vibe-coded a log colorizer\u2014and I feel good about it",
       "link": "https://arstechnica.com/features/2026/02/so-yeah-i-vibe-coded-a-log-colorizer-and-i-feel-good-about-it/",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.8,
       "first_sentence": "Last week I discovered that an article I wrote about the England cricket team has already been copied and repackaged, verbatim and without permission, by an Indian website.",
       "timestamp": "2026-01-28T10:38:21Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Sali Hughes: forget smooth and glassy \u2013 glam beauty is back",
-      "link": "https://www.theguardian.com/fashion/2026/jan/28/sali-hughes-dopamine-beauty-is-all-about-fun",
-      "mean_score": 0.3202,
-      "vader_score": 0.4404,
-      "textblob_score": 0.2,
-      "first_sentence": "The Guardian\u2019s journalism is independent.",
-      "timestamp": "2026-01-28T10:00:10Z",
       "source": "The Guardian"
     }
   ]
