@@ -5,8 +5,16 @@
     <link>https://lewdry.github.io/ramah/</link>
     <description>Positive news stories from around the world, filtered by sentiment analysis</description>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Feb 2026 12:19:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Feb 2026 13:32:14 GMT</lastBuildDate>
     <atom:link href="https://lewdry.github.io/ramah/good_news.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>So yeah, I vibe-coded a log colorizer—and I feel good about it</title>
+      <link>https://arstechnica.com/features/2026/02/so-yeah-i-vibe-coded-a-log-colorizer-and-i-feel-good-about-it/</link>
+      <description>Some semi-unhinged musings on where LLMs fit into my life—and how I’ll keep using them.</description>
+      <source>Ars Technica</source>
+      <pubDate>Wed, 04 Feb 2026 12:00:37 GMT</pubDate>
+      <guid isPermaLink="true">https://arstechnica.com/features/2026/02/so-yeah-i-vibe-coded-a-log-colorizer-and-i-feel-good-about-it/</guid>
+    </item>
     <item>
       <title>Moguls medal hopes named as Olympic flagbearers</title>
       <link>https://www.abc.net.au/news/2026-02-04/australia-announces-2026-winter-olympics-flag-bearers/106306688</link>
@@ -1998,14 +2006,6 @@
       <source>The Guardian</source>
       <pubDate>Wed, 28 Jan 2026 10:00:10 GMT</pubDate>
       <guid isPermaLink="true">https://www.theguardian.com/fashion/2026/jan/28/sali-hughes-dopamine-beauty-is-all-about-fun</guid>
-    </item>
-    <item>
-      <title>Americans may love football, but did you know its origins are in medieval England?</title>
-      <link>https://www.npr.org/2026/01/28/nx-s1-5689044/football-origins-explained</link>
-      <description>The playoffs are over and the matchup is set: The New England Patriots and Seattle Seahawks will face off on Feb.</description>
-      <source>NPR News</source>
-      <pubDate>Wed, 28 Jan 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.npr.org/2026/01/28/nx-s1-5689044/football-origins-explained</guid>
     </item>
   </channel>
 </rss>

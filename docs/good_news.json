@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-04T12:19:50Z",
+  "last run": "2026-02-04T13:32:14Z",
   "stories": [
+    {
+      "headline": "So yeah, I vibe-coded a log colorizer\u2014and I feel good about it",
+      "link": "https://arstechnica.com/features/2026/02/so-yeah-i-vibe-coded-a-log-colorizer-and-i-feel-good-about-it/",
+      "mean_score": 0.6795,
+      "vader_score": 0.659,
+      "textblob_score": 0.7,
+      "first_sentence": "Some semi-unhinged musings on where LLMs fit into my life\u2014and how I\u2019ll keep using them.",
+      "timestamp": "2026-02-04T12:00:37Z",
+      "source": "Ars Technica"
+    },
     {
       "headline": "Moguls medal hopes named as Olympic flagbearers",
       "link": "https://www.abc.net.au/news/2026-02-04/australia-announces-2026-winter-olympics-flag-bearers/106306688",
@@ -2490,16 +2500,6 @@
       "first_sentence": "The Guardian\u2019s journalism is independent.",
       "timestamp": "2026-01-28T10:00:10Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Americans may love football, but did you know its origins are in medieval England?",
-      "link": "https://www.npr.org/2026/01/28/nx-s1-5689044/football-origins-explained",
-      "mean_score": 0.3159,
-      "vader_score": 0.3818,
-      "textblob_score": 0.25,
-      "first_sentence": "The playoffs are over and the matchup is set: The New England Patriots and Seattle Seahawks will face off on Feb.",
-      "timestamp": "2026-01-28T10:00:00Z",
-      "source": "NPR News"
     }
   ]
 }
