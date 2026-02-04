@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-04T09:21:10Z",
+  "last run": "2026-02-04T10:20:27Z",
   "stories": [
+    {
+      "headline": "A photographer will achieve a milestone record at Super Bowl LX",
+      "link": "https://www.npr.org/2026/02/04/nx-s1-5690373/a-photographer-will-achieve-a-milestone-record-at-super-bowl-lx",
+      "mean_score": 0.4664,
+      "vader_score": 0.5994,
+      "textblob_score": 0.3333,
+      "first_sentence": "There will be a phalanx of photographers lined up on the field Sunday, Feb.",
+      "timestamp": "2026-02-04T10:00:00Z",
+      "source": "NPR News"
+    },
     {
       "headline": "\u2018She thought it was too sexy!\u2019: portraits of Kate Moss, Grace Jones and a tea-drinking chimp \u2013 in pictures",
       "link": "https://www.theguardian.com/artanddesign/gallery/2026/feb/04/she-thought-it-was-too-sexy-portraits-of-kate-moss-grace-jones-and-a-tea-drinking-chimp-in-pictures",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Keir Starmer has said he will \u201craise the issues that need to be raised\u201d on human rights with China\u2019s leader, Xi Jinping, as he arrived in Beijing for the first trip to the country by a UK leader in eight years.",
       "timestamp": "2026-01-28T07:00:08Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Spain will grant legal status to immigrants lacking authorization",
-      "link": "https://www.npr.org/2026/01/28/g-s1-107636/spain-legal-status-immigrants",
-      "mean_score": 0.3294,
-      "vader_score": 0.4588,
-      "textblob_score": 0.2,
-      "first_sentence": "BARCELONA, Spain \u2014 Spain's government announced Tuesday it will grant legal status to potentially hundreds of thousands of immigrants living and working in the country without authorization, the latest way the country has bucked a trend toward increasingly harsh immigration policies imposed in the United States and much of Europe.",
-      "timestamp": "2026-01-28T06:51:00Z",
-      "source": "NPR News"
     }
   ]
 }
