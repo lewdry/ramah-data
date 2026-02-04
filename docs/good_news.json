@@ -1,6 +1,36 @@
 {
-  "last run": "2026-02-04T01:39:46Z",
+  "last run": "2026-02-04T03:05:10Z",
   "stories": [
+    {
+      "headline": "NT residents feel less safe despite government's crime crackdown, report finds",
+      "link": "https://www.abc.net.au/news/2026-02-04/nt-residents-feel-less-safe-productivity-commission-2026-report/106294508",
+      "mean_score": 0.4163,
+      "vader_score": 0.6659,
+      "textblob_score": 0.1667,
+      "first_sentence": "A government\u00a0report has found a reduction in how safe Northern Territory residents felt when alone in 2024-2025.",
+      "timestamp": "2026-02-04T02:55:26Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Teaching our kids they have the ability to say no empowers them with better reasons to say yes | Myke Bartlett",
+      "link": "https://www.theguardian.com/commentisfree/2026/feb/04/teaching-kids-to-say-no",
+      "mean_score": 0.5954,
+      "vader_score": 0.6908,
+      "textblob_score": 0.5,
+      "first_sentence": "One of the most frustrating aspects of parenting is having to force your kids to do something they will undoubtedly enjoy.",
+      "timestamp": "2026-02-04T02:17:27Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Government pledges 10,000 new foster care places in England",
+      "link": "https://www.bbc.com/news/articles/cpwngvlzgg4o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3151,
+      "vader_score": 0.4939,
+      "textblob_score": 0.1364,
+      "first_sentence": "Fostering rules will be relaxed and red tape cut to create 10,000 new places for vulnerable children in England, the government says.",
+      "timestamp": "2026-02-04T00:34:05Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Cadel: Lungs on Legs review \u2013 a heart-pumping, hilarious portrait of an Australian cycling champion",
       "link": "https://www.theguardian.com/stage/2026/feb/04/lungs-on-legs-theatre-review-australian-cycling-champion-cadel-evans",
@@ -2470,36 +2500,6 @@
       "first_sentence": "It was hard to miss 33-year-old model and writer Abena Christine Jon'el's appearance at a recent major fashion show in Ghana.",
       "timestamp": "2026-01-28T00:17:35Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Live: Jessica Pegula storms into semis with straight sets win over compatriot",
-      "link": "https://www.abc.net.au/news/2026-01-28/australian-open-live-blog-day-11-%C5%9Bwi%C4%85tek-djokovic-sinner/106277086",
-      "mean_score": 0.5348,
-      "vader_score": 0.6908,
-      "textblob_score": 0.3788,
-      "first_sentence": "Novak Djokovic and Jannik Sinner are among the big names in action on day 11 at the Australian Open as we fast approach the business end of the tournament.",
-      "timestamp": "2026-01-27T23:58:25Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "These young people love their regional communities. That's why they're pushing for change",
-      "link": "https://www.abc.net.au/news/2026-01-28/heywire-26-trailblazers-changing-regional-australia/106154604",
-      "mean_score": 0.4685,
-      "vader_score": 0.6369,
-      "textblob_score": 0.3,
-      "first_sentence": "Growing up as a young Aboriginal man on Wonnarua Country in the Hunter Valley, Jayden Wright knows firsthand the impacts that being disconnected from culture and identity can have.",
-      "timestamp": "2026-01-27T23:01:41Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "When a loved one with dementia wanders away",
-      "link": "https://www.npr.org/2026/01/27/nx-s1-5680138/when-a-loved-one-with-dementia-wanders-away",
-      "mean_score": 0.6497,
-      "vader_score": 0.5994,
-      "textblob_score": 0.7,
-      "first_sentence": "Caregivers of people with dementia often reach their breaking point when their loved one wanders off alone.",
-      "timestamp": "2026-01-27T22:32:11Z",
-      "source": "NPR News"
     }
   ]
 }
