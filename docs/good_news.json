@@ -1,6 +1,46 @@
 {
-  "last run": "2026-02-04T18:22:54Z",
+  "last run": "2026-02-04T19:21:00Z",
   "stories": [
+    {
+      "headline": "EU deal on Ukraine loan could boost UK if it agrees to help pay costs",
+      "link": "https://www.theguardian.com/world/2026/feb/04/eu-deal-on-ukraine-loan-could-boost-uk-if-it-agrees-to-help-pay-costs",
+      "mean_score": 0.3502,
+      "vader_score": 0.7003,
+      "textblob_score": 0.0,
+      "first_sentence": "The UK could reap greater benefits from a \u20ac90bn (\u00a378bn) EU loan for Ukraine, if it agrees to help pay the cost of borrowing, after European countries signed off long-awaited financial aid for Kyiv.",
+      "timestamp": "2026-02-04T18:50:24Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "'I can hear my parents cough': The benefits and challenges of moving in with family for good",
+      "link": "https://www.sbs.com.au/news/the-feed/article/multigenerational-living-housing/od3sc7lpx",
+      "mean_score": 0.7002,
+      "vader_score": 0.7003,
+      "textblob_score": 0.7,
+      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+      "timestamp": "2026-02-04T18:44:20Z",
+      "source": "SBS News"
+    },
+    {
+      "headline": "User blowback convinces Adobe to keep supporting 30-year-old 2D animation app",
+      "link": "https://arstechnica.com/gadgets/2026/02/adobe-reverses-decision-to-discontinue-animate-after-a-lot-of-confusion-and-angst/",
+      "mean_score": 0.4037,
+      "vader_score": 0.5574,
+      "textblob_score": 0.25,
+      "first_sentence": "Adobe has canceled plans to discontinue its 2D animation software Animate.",
+      "timestamp": "2026-02-04T17:55:13Z",
+      "source": "Ars Technica"
+    },
+    {
+      "headline": "Dark showering: is this the very best way to wash?",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/feb/04/dark-showering-best-way-wash-bathroom-lights-off-sleep",
+      "mean_score": 0.5474,
+      "vader_score": 0.6697,
+      "textblob_score": 0.425,
+      "first_sentence": "That\u2019s it? What\u2019s happened, has the bulb gone again? No, it\u2019s showering with the light off on purpose.",
+      "timestamp": "2026-02-04T17:34:53Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Goofy! Unvampy! Pouty! Implausible! With nine films on the go, can Charli xcx act?",
       "link": "https://www.theguardian.com/film/2026/feb/04/can-charli-xcx-act-beyonce-harry-styles",
@@ -2460,46 +2500,6 @@
       "first_sentence": "Patrick Reed has announced he is leaving LIV Golf to return to the PGA Tour.",
       "timestamp": "2026-01-28T20:14:16Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Being a night owl may not be great for your heart but you can do something about it",
-      "link": "https://apnews.com/article/healthy-heart-sleep-night-owls-circadian-rhythm-0c520492f5d6fc08c412053419e913f9",
-      "mean_score": 0.4581,
-      "vader_score": 0.1162,
-      "textblob_score": 0.8,
-      "first_sentence": "WASHINGTON (AP) \u2014 Being a night owl can be bad for your heart.",
-      "timestamp": "2026-01-28T16:53:02Z",
-      "source": "AP News"
-    },
-    {
-      "headline": "Calls for heart disease clinics to be rolled out NHS-wide to address ethnic disparity in treatment",
-      "link": "https://www.theguardian.com/society/2026/jan/28/heart-disease-clinics-rolled-out-nhs-ethnic-disparity-treatment",
-      "mean_score": 0.3185,
-      "vader_score": 0.6369,
-      "textblob_score": 0.0,
-      "first_sentence": "A pilot programme aimed at diagnosing heart disease among people from ethnic minority backgrounds should be rolled out across the whole of the NHS, the doctors behind the initiative have urged.",
-      "timestamp": "2026-01-28T16:30:51Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Raheem Sterling leaves Chelsea by mutual consent and seeks fresh start",
-      "link": "https://www.theguardian.com/football/2026/jan/28/raheem-sterling-leaves-chelsea-by-mutual-consent-seeks-fresh-start-contract",
-      "mean_score": 0.397,
-      "vader_score": 0.4939,
-      "textblob_score": 0.3,
-      "first_sentence": "Raheem Sterling is looking to revive his career after departing Chelsea by mutual consent.",
-      "timestamp": "2026-01-28T16:30:39Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The last man left in a Moldovan village: Laetitia Van\u00e7on\u2019s best photograph",
-      "link": "https://www.theguardian.com/artanddesign/2026/jan/28/moldovan-village-laetitia-vancons-best-photograph",
-      "mean_score": 0.4851,
-      "vader_score": 0.6369,
-      "textblob_score": 0.3333,
-      "first_sentence": "This was taken in a village in rural Moldova that no longer exists.",
-      "timestamp": "2026-01-28T15:09:41Z",
-      "source": "The Guardian"
     }
   ]
 }

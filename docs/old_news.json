@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Being a night owl may not be great for your heart but you can do something about it",
+    "link": "https://apnews.com/article/healthy-heart-sleep-night-owls-circadian-rhythm-0c520492f5d6fc08c412053419e913f9",
+    "mean_score": 0.4581,
+    "vader_score": 0.1162,
+    "textblob_score": 0.8,
+    "first_sentence": "WASHINGTON (AP) \u2014 Being a night owl can be bad for your heart.",
+    "timestamp": "2026-01-28T16:53:02Z",
+    "source": "AP News"
+  },
+  {
+    "headline": "Calls for heart disease clinics to be rolled out NHS-wide to address ethnic disparity in treatment",
+    "link": "https://www.theguardian.com/society/2026/jan/28/heart-disease-clinics-rolled-out-nhs-ethnic-disparity-treatment",
+    "mean_score": 0.3185,
+    "vader_score": 0.6369,
+    "textblob_score": 0.0,
+    "first_sentence": "A pilot programme aimed at diagnosing heart disease among people from ethnic minority backgrounds should be rolled out across the whole of the NHS, the doctors behind the initiative have urged.",
+    "timestamp": "2026-01-28T16:30:51Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Raheem Sterling leaves Chelsea by mutual consent and seeks fresh start",
+    "link": "https://www.theguardian.com/football/2026/jan/28/raheem-sterling-leaves-chelsea-by-mutual-consent-seeks-fresh-start-contract",
+    "mean_score": 0.397,
+    "vader_score": 0.4939,
+    "textblob_score": 0.3,
+    "first_sentence": "Raheem Sterling is looking to revive his career after departing Chelsea by mutual consent.",
+    "timestamp": "2026-01-28T16:30:39Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "The last man left in a Moldovan village: Laetitia Van\u00e7on\u2019s best photograph",
+    "link": "https://www.theguardian.com/artanddesign/2026/jan/28/moldovan-village-laetitia-vancons-best-photograph",
+    "mean_score": 0.4851,
+    "vader_score": 0.6369,
+    "textblob_score": 0.3333,
+    "first_sentence": "This was taken in a village in rural Moldova that no longer exists.",
+    "timestamp": "2026-01-28T15:09:41Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "The easy thing for the RBA to do next week is raise rates. The smart move is to wait | Greg Jericho",
     "link": "https://www.theguardian.com/business/grogonomics/2026/jan/28/australia-rba-interest-rates",
     "mean_score": 0.4483,
