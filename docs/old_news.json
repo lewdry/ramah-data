@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Shrinking season three review \u2013 Harrison Ford is the best thing about this unapologetically soapy show",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/jan/28/shrinking-season-three-review-harrison-ford-apple-tv",
+    "mean_score": 0.8185,
+    "vader_score": 0.6369,
+    "textblob_score": 1.0,
+    "first_sentence": "Such is the surfeit of TV offered up to us in the streaming age that there are whole shows featuring A-list actors that only two of your friends have heard of and even fewer are watching.",
+    "timestamp": "2026-01-28T08:00:07Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Starmer vows to raise issues \u2018that need to be raised\u2019 with Xi amid push to free Jimmy Lai",
+    "link": "https://www.theguardian.com/politics/2026/jan/28/keir-starmer-jimmy-lai-human-rights-china-xi-jinping",
+    "mean_score": 0.4553,
+    "vader_score": 0.5106,
+    "textblob_score": 0.4,
+    "first_sentence": "Keir Starmer has said he will \u201craise the issues that need to be raised\u201d on human rights with China\u2019s leader, Xi Jinping, as he arrived in Beijing for the first trip to the country by a UK leader in eight years.",
+    "timestamp": "2026-01-28T07:00:08Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Spain will grant legal status to immigrants lacking authorization",
     "link": "https://www.npr.org/2026/01/28/g-s1-107636/spain-legal-status-immigrants",
     "mean_score": 0.3294,
