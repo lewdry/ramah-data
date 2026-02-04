@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Seven players ejected following brawl in 36ers win over Bullets",
+    "link": "https://www.abc.net.au/news/2026-01-29/sa-36ers-bullets-scuffle-nbl-game/106281148",
+    "mean_score": 0.4929,
+    "vader_score": 0.5859,
+    "textblob_score": 0.4,
+    "first_sentence": "Bullets guard Hunter Maldonado and 36ers' Nick Rakocevic wrestled into empty chairs of the front row at Wednesday night's game, prompting an all-in scuffle.",
+    "timestamp": "2026-01-28T21:36:37Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Live: Victorian firefighters take advantage of better conditions as heatwave persists",
+    "link": "https://www.abc.net.au/news/2026-01-29/heatwave-south-east-australia-nsw-victoria-bushfire-weather/106279598",
+    "mean_score": 0.4588,
+    "vader_score": 0.5994,
+    "textblob_score": 0.3182,
+    "first_sentence": "NSW is on high alert for bushfires as towns across south-eastern Australia continue to swelter in the extreme heat.",
+    "timestamp": "2026-01-28T21:20:16Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Russo rounds off Arsenal rout of AS Far in Women\u2019s Champions Cup semi-final",
+    "link": "https://www.theguardian.com/football/2026/jan/28/arsenal-as-far-womens-champions-cup-semi-final-match-report",
+    "mean_score": 0.3133,
+    "vader_score": 0.5267,
+    "textblob_score": 0.1,
+    "first_sentence": "A businesslike performance against AS Far earned Arsenal a place in Sunday\u2019s final of the inaugural Fifa Women\u2019s Champions Cup against Corinthians.",
+    "timestamp": "2026-01-28T21:09:59Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Michael Mayo's 'Fly' is a soaring testament to his artistry and creative vision",
     "link": "https://www.npr.org/2026/01/28/nx-s1-5605586/michael-mayo-fly-album-grammy-awards",
     "mean_score": 0.6247,
