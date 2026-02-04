@@ -1,5 +1,5 @@
 {
-  "last run": "2026-02-04T14:22:25Z",
+  "last run": "2026-02-04T15:21:08Z",
   "stories": [
     {
       "headline": "An \u2018amazing feat\u2019: how was 13-year-old Austin Appelbee able to swim for four hours to save his family?",
@@ -9,6 +9,26 @@
       "textblob_score": 0.55,
       "first_sentence": "An Australian 13-year-old who swam 4km (2.49 miles) to shore and then ran 2km (1.24 miles) to get help for his stranded family has been described as \u201csuperhuman\u201d.",
       "timestamp": "2026-02-04T14:00:48Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Rich plums and ripe tomatoes: Australia\u2019s best-value fruit and veg for February",
+      "link": "https://www.theguardian.com/food/2026/feb/05/australia-best-value-fruit-veg-february-plums-tomatoes",
+      "mean_score": 0.4662,
+      "vader_score": 0.5574,
+      "textblob_score": 0.375,
+      "first_sentence": "Juicy watermelon, deep-purple plums and ripe roma tomatoes are some of the vibrant fruit and veg highlights this month, says Graham Gee, senior buyer at the Happy Apple in Melbourne.",
+      "timestamp": "2026-02-04T14:00:48Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Skinning, boot-packing and downhill skiing: welcome to skimo at the Winter Olympics",
+      "link": "https://www.theguardian.com/sport/2026/feb/04/winter-olympics-2026-milano-cortina-skiing-skimo-explained",
+      "mean_score": 0.6294,
+      "vader_score": 0.4588,
+      "textblob_score": 0.8,
+      "first_sentence": "No one could suggest that the Winter Olympics are lacking in challenge.",
+      "timestamp": "2026-02-04T14:00:46Z",
       "source": "The Guardian"
     },
     {
@@ -1832,6 +1852,16 @@
       "source": "The Guardian"
     },
     {
+      "headline": "Sali Hughes on beauty: forget smooth and glassy \u2013 glam beauty is back",
+      "link": "https://www.theguardian.com/fashion/2026/jan/28/sali-hughes-dopamine-beauty-is-all-about-fun",
+      "mean_score": 0.4859,
+      "vader_score": 0.7717,
+      "textblob_score": 0.2,
+      "first_sentence": "The Guardian\u2019s journalism is independent.",
+      "timestamp": "2026-01-30T15:53:55Z",
+      "source": "The Guardian"
+    },
+    {
       "headline": "My family motto? It\u2019s amazing how lucky you get if you work really hard",
       "link": "https://www.theguardian.com/lifeandstyle/2026/jan/31/family-motto-work-hard-feel-lucky",
       "mean_score": 0.462,
@@ -2470,36 +2500,6 @@
       "first_sentence": "The government has launched a series of free AI training courses designed to help people learn how to use the technology at work.",
       "timestamp": "2026-01-28T11:50:21Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Wales' first minister refuses to support Keir Starmer",
-      "link": "https://www.bbc.com/news/articles/cdjnp02zevko?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3259,
-      "vader_score": 0.4019,
-      "textblob_score": 0.25,
-      "first_sentence": "Wales' first minister has refused to give her support to Prime Minister Sir Keir Starmer, telling the BBC the leader of the Labour party is \"not on the ballot\" at her country's elections in May.",
-      "timestamp": "2026-01-28T11:20:39Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "A moment that changed me: I went on holiday \u2013 and for the first time I felt I stood out",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/28/a-moment-that-changed-me-i-went-on-holiday-and-for-the-first-time-i-felt-i-stood-out",
-      "mean_score": 0.3259,
-      "vader_score": 0.4019,
-      "textblob_score": 0.25,
-      "first_sentence": "When I was 24, I visited Ireland for the first time.",
-      "timestamp": "2026-01-28T10:54:06Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Copyrighted art, mobile phones, Greenland: welcome to our age of shameless theft | Jonathan Liew",
-      "link": "https://www.theguardian.com/commentisfree/2026/jan/28/copyright-mobile-phones-greenland-ai-inequality-political-leaders",
-      "mean_score": 0.4766,
-      "vader_score": 0.1531,
-      "textblob_score": 0.8,
-      "first_sentence": "Last week I discovered that an article I wrote about the England cricket team has already been copied and repackaged, verbatim and without permission, by an Indian website.",
-      "timestamp": "2026-01-28T10:38:21Z",
-      "source": "The Guardian"
     }
   ]
 }
