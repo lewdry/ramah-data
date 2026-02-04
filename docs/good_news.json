@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-04T05:25:46Z",
+  "last run": "2026-02-04T06:24:38Z",
   "stories": [
+    {
+      "headline": "Clive Palmer suggests Steven Bannon hoped to \u2018increase influence\u2019 by claiming credit for 2019 election ads",
+      "link": "https://www.theguardian.com/australia-news/2026/feb/04/clive-palmer-steven-bannon-epstein-files-claim-election-ads",
+      "mean_score": 0.3185,
+      "vader_score": 0.6369,
+      "textblob_score": 0.0,
+      "first_sentence": "Clive Palmer has denied Steve Bannon helped direct his advertising blitz in the 2019 federal election, suggesting texts published in the Jeffrey Epstein files about the strategy were an attempt by the former Trump strategist to \u201cincrease his own influence\u201d by claiming credit.",
+      "timestamp": "2026-02-04T05:47:57Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Doberman pinscher named Penny wins top prize at Westminster Dog Show",
+      "link": "https://www.abc.net.au/news/2026-02-04/doberman-pinscher-named-penny-wins-westminster-dog-show/106305290",
+      "mean_score": 0.6158,
+      "vader_score": 0.8316,
+      "textblob_score": 0.4,
+      "first_sentence": "Penny bested six other finalists at New York's Madison Square Garden to win the show dog world's most coveted prize, after more than 2,500 dogs strutted their stuff.",
+      "timestamp": "2026-02-04T05:27:51Z",
+      "source": "ABC News"
+    },
     {
       "headline": "How an 'honest mistake' upended tennis player's Australia Open dream",
       "link": "https://www.abc.net.au/news/2026-02-04/banned-tennis-player-thomas-fancutt-makes-comeback/106303088",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Canadian-American rock star Neil Young is offering Greenlanders a year's free access to his archives in what he hopes will \"ease some of the unwarranted stress and threats\" they are receiving from the Trump administration.",
       "timestamp": "2026-01-28T03:34:43Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Alex de Minaur fell a distance short at the Australian Open. Will he ever win a major? | Simon Cambers",
-      "link": "https://www.theguardian.com/sport/2026/jan/28/alex-de-minaur-tennis-australian-open-chances-winning-major",
-      "mean_score": 0.3792,
-      "vader_score": 0.5859,
-      "textblob_score": 0.1725,
-      "first_sentence": "There are two ways to look at this.",
-      "timestamp": "2026-01-28T02:29:35Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Bare shelves, cabinets as jeweller on popular strip ransacked",
-      "link": "https://www.abc.net.au/news/2026-01-28/matusik-jewellers-mt-lawley-ram-raid/106277288",
-      "mean_score": 0.3732,
-      "vader_score": 0.4215,
-      "textblob_score": 0.325,
-      "first_sentence": "A beloved Mt Lawley jewellery shop has been hit by thieves in a suspected ram raid.",
-      "timestamp": "2026-01-28T00:56:40Z",
-      "source": "ABC News"
     }
   ]
 }
