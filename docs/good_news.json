@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-03T23:12:53Z",
+  "last run": "2026-02-04T00:39:11Z",
   "stories": [
+    {
+      "headline": "Cadel: Lungs on Legs review \u2013 a heart-pumping, hilarious portrait of an Australian cycling champion",
+      "link": "https://www.theguardian.com/stage/2026/feb/04/lungs-on-legs-theatre-review-australian-cycling-champion-cadel-evans",
+      "mean_score": 0.5075,
+      "vader_score": 0.765,
+      "textblob_score": 0.25,
+      "first_sentence": "It\u2019s been 15 years since Cadel Evans rode into Paris in the yellow jersey, becoming the first Australian to win the Tour de France and one of only three non-Europeans ever to claim cycling\u2019s greatest prize.",
+      "timestamp": "2026-02-03T23:50:44Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Albanese government to sell off $3bn worth of historic defence sites amid push to free up space for new homes",
+      "link": "https://www.theguardian.com/australia-news/2026/feb/04/albanese-government-to-sell-off-3bn-worth-of-historic-defence-sites-amid-push-to-free-up-space-for-new-homes",
+      "mean_score": 0.4449,
+      "vader_score": 0.6808,
+      "textblob_score": 0.2091,
+      "first_sentence": "The federal government will sell off $3bn in historic defence properties around the country, after a major audit of government land holdings and amid efforts to open up land for new housing development and public spaces.",
+      "timestamp": "2026-02-03T23:24:38Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "The latest Epstein files are tarnishing and toppling powerful figures in the U.K.",
       "link": "https://www.npr.org/2026/02/03/nx-s1-5697866/the-latest-epstein-files-are-tarnishing-and-toppling-powerful-figures-in-the-u-k",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.7,
       "first_sentence": "Caregivers of people with dementia often reach their breaking point when their loved one wanders off alone.",
       "timestamp": "2026-01-27T22:32:11Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "UK veterinary sector reforms planned to tackle high costs of pet care",
-      "link": "https://www.theguardian.com/money/2026/jan/27/uk-vet-reforms-plans-tackle-high-costs-of-pet-care",
-      "mean_score": 0.327,
-      "vader_score": 0.4939,
-      "textblob_score": 0.16,
-      "first_sentence": "The biggest shake-up of the UK veterinary sector for 60 years should push down costs for pet owners by requiring practices to make their pricing clearer, the government has said.",
-      "timestamp": "2026-01-27T22:30:56Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Fourth graders ask whether kids or adults have it better as part of NPR challenge",
-      "link": "https://www.npr.org/2026/01/27/nx-s1-5672527/as-part-of-podcast-challenge-fourth-graders-ask-whether-kids-or-adults-have-it-better",
-      "mean_score": 0.372,
-      "vader_score": 0.4939,
-      "textblob_score": 0.25,
-      "first_sentence": "Who's got it better in life, kids or adults? A group of fourth-graders in New Jersey did some serious reporting on this topic and sent us their findings as a part of NPR's Student Podcast Challenge.",
-      "timestamp": "2026-01-27T22:20:26Z",
       "source": "NPR News"
     }
   ]
