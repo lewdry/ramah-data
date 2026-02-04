@@ -1,5 +1,15 @@
 [
   {
+    "headline": "'My prosthetic leg represents my love for this country'",
+    "link": "https://www.bbc.com/news/articles/cwy11q1pwpgo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.5685,
+    "vader_score": 0.6369,
+    "textblob_score": 0.5,
+    "first_sentence": "It was hard to miss 33-year-old model and writer Abena Christine Jon'el's appearance at a recent major fashion show in Ghana.",
+    "timestamp": "2026-01-28T00:17:35Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Live: Jessica Pegula storms into semis with straight sets win over compatriot",
     "link": "https://www.abc.net.au/news/2026-01-28/australian-open-live-blog-day-11-%C5%9Bwi%C4%85tek-djokovic-sinner/106277086",
     "mean_score": 0.5348,

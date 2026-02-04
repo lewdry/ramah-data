@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-04T04:38:33Z",
+  "last run": "2026-02-04T05:25:46Z",
   "stories": [
+    {
+      "headline": "How an 'honest mistake' upended tennis player's Australia Open dream",
+      "link": "https://www.abc.net.au/news/2026-02-04/banned-tennis-player-thomas-fancutt-makes-comeback/106303088",
+      "mean_score": 0.3702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.3,
+      "first_sentence": "Australian Thomas Fancutt has made his return to professional tennis after receiving a 10-month ban for receiving a 500 millilitre vitamin and magnesium infusion.",
+      "timestamp": "2026-02-04T05:06:13Z",
+      "source": "ABC News"
+    },
     {
       "headline": "NT residents feel less safe despite government's crime crackdown, report finds",
       "link": "https://www.abc.net.au/news/2026-02-04/nt-residents-feel-less-safe-productivity-commission-2026-report/106294508",
@@ -2490,16 +2500,6 @@
       "first_sentence": "A beloved Mt Lawley jewellery shop has been hit by thieves in a suspected ram raid.",
       "timestamp": "2026-01-28T00:56:40Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "'My prosthetic leg represents my love for this country'",
-      "link": "https://www.bbc.com/news/articles/cwy11q1pwpgo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5685,
-      "vader_score": 0.6369,
-      "textblob_score": 0.5,
-      "first_sentence": "It was hard to miss 33-year-old model and writer Abena Christine Jon'el's appearance at a recent major fashion show in Ghana.",
-      "timestamp": "2026-01-28T00:17:35Z",
-      "source": "BBC News"
     }
   ]
 }
