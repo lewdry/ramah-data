@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-05T00:42:57Z",
+  "last run": "2026-02-05T01:40:13Z",
   "stories": [
+    {
+      "headline": "How Aussie bound for SuperBowl became NFL's best punter",
+      "link": "https://www.abc.net.au/news/2026-02-05/michael-dickson-nfl-australian-punter-super-bowl/106307658",
+      "mean_score": 0.8185,
+      "vader_score": 0.6369,
+      "textblob_score": 1.0,
+      "first_sentence": "Australian Michael Dickson will play for the Seattle Seahawks in the Super Bowl.",
+      "timestamp": "2026-02-05T00:50:36Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Gen Z toppled an autocrat - but old guard tipped to win Bangladesh vote",
       "link": "https://www.bbc.com/news/articles/c1m7444nr3yo?at_medium=RSS&at_campaign=rss",
@@ -9,6 +19,16 @@
       "textblob_score": 0.45,
       "first_sentence": "Rahat Hossain was almost killed trying to save his friend in a youth uprising that became one of the bloodiest episodes in Bangladesh's history.",
       "timestamp": "2026-02-05T00:35:15Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Robbie Williams: British people are good at devaluing ourselves",
+      "link": "https://www.bbc.com/news/articles/c0jv0j3wpgwo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3952,
+      "vader_score": 0.4404,
+      "textblob_score": 0.35,
+      "first_sentence": "After more than three decades in entertainment, Robbie Williams is back on the road and ready to celebrate.",
+      "timestamp": "2026-02-05T00:24:57Z",
       "source": "BBC News"
     },
     {
@@ -70,6 +90,16 @@
       "first_sentence": "Despite issues with her heart, this octogenarian still competes in triathlons.",
       "timestamp": "2026-02-04T21:18:46Z",
       "source": "NPR News"
+    },
+    {
+      "headline": "Investigations underway after miracle rescue of family swept out to sea",
+      "link": "https://www.abc.net.au/news/2026-02-05/geographe-bay-water-safety-austin-appelbee/106306336",
+      "mean_score": 0.3982,
+      "vader_score": 0.7964,
+      "textblob_score": 0.0,
+      "first_sentence": "Rescue workers say the near-miraculous survival of a Perth family swept out to sea highlights the dangers facing visitors.",
+      "timestamp": "2026-02-04T20:24:07Z",
+      "source": "ABC News"
     },
     {
       "headline": "EU deal on Ukraine loan could boost UK if it agrees to help pay costs",
@@ -2470,36 +2500,6 @@
       "first_sentence": "North Lanarkshire is to become the home of an artificial intelligence \"growth zone\", with the aim of turning the area into one of the world's most advanced AI sites.",
       "timestamp": "2026-01-29T06:38:31Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "US wellness industry demand for camel milk a win for Queensland farm",
-      "link": "https://www.abc.net.au/news/2026-01-29/farmers-celebrate-us-interest-in-queensland-camel-milk/106283200",
-      "mean_score": 0.7675,
-      "vader_score": 0.7351,
-      "textblob_score": 0.8,
-      "first_sentence": "A south-east Queensland camel farm will begin exporting its milk to the United States for the first time in a landmark deal for the emerging industry.",
-      "timestamp": "2026-01-29T06:07:38Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "UK wants 'sophisticated relationship' with China, Starmer tells Xi",
-      "link": "https://www.abc.net.au/news/2026-01-29/keir-starmer-seeks-stronger-china-ties-after-meeting-xi-jinping/106283366",
-      "mean_score": 0.4537,
-      "vader_score": 0.5574,
-      "textblob_score": 0.35,
-      "first_sentence": "British Prime Minister Keir Starmer has told Xi Jinping the UK wants to build a \"sophisticated relationship\" with China.",
-      "timestamp": "2026-01-29T05:49:59Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "The rise of Fafo parenting: is this the end of gentle child rearing?",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/29/the-rise-of-fafo-parenting-is-this-the-end-of-gentle-child-rearing",
-      "mean_score": 0.3202,
-      "vader_score": 0.4404,
-      "textblob_score": 0.2,
-      "first_sentence": "Mothers on social media are advocating a tough, no-nonsense approach to parenting.",
-      "timestamp": "2026-01-29T05:00:38Z",
-      "source": "The Guardian"
     }
   ]
 }
