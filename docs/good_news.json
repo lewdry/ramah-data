@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-05T13:33:48Z",
+  "last run": "2026-02-05T14:23:55Z",
   "stories": [
+    {
+      "headline": "After high school, a friend I was very close to drifted away. Should I seek closure from her? | Leading questions",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/feb/05/high-school-friend-drifting-apart-closure",
+      "mean_score": 0.3369,
+      "vader_score": 0.4939,
+      "textblob_score": 0.18,
+      "first_sentence": "Should I try to seek closure with a person I used to love but drifted apart from, or is it best to leave them be?.",
+      "timestamp": "2026-02-05T14:00:42Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "I loved Prue, but Nigella joining Bake Off feels like the good news I need | Rebecca Shaw",
+      "link": "https://www.theguardian.com/commentisfree/2026/feb/05/nigella-lawson-joining-great-british-bake-off",
+      "mean_score": 0.7804,
+      "vader_score": 0.8608,
+      "textblob_score": 0.7,
+      "first_sentence": "Last week, I was sent an exciting news story by a friend.",
+      "timestamp": "2026-02-05T14:00:39Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "What are critical minerals and why are countries so keen to secure them?",
       "link": "https://www.bbc.com/news/articles/cj6wwx7zxd9o?at_medium=RSS&at_campaign=rss",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.45,
       "first_sentence": "Nearly 100 children were harmed by a Great Ormond Street Hospital limb reconstruction surgeon, a review has found.",
       "timestamp": "2026-01-29T13:30:06Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Aryna Sabalenka hits out at umpire after grunting penalty in win over Svitolina",
-      "link": "https://www.theguardian.com/sport/2026/jan/29/aryna-sabalenka-elina-svitolina-australian-open-semi-final-tennis",
-      "mean_score": 0.5011,
-      "vader_score": 0.2023,
-      "textblob_score": 0.8,
-      "first_sentence": "Aryna Sabalenka has dared officials to penalise her again for grunting after she rumbled over the top of Ukrainian Elina Svitolina in the Australian Open semi-final on Thursday to reach her fourth straight final at Melbourne Park.",
-      "timestamp": "2026-01-29T13:28:34Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Marty Supreme actress quits new film after casting backlash",
-      "link": "https://www.bbc.com/news/articles/c24gyz3j6e1o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3469,
-      "vader_score": 0.5574,
-      "textblob_score": 0.1364,
-      "first_sentence": "Actress Odessa A'zion has pulled out of A24's latest film, Deep Cuts, after online backlash over her casting.",
-      "timestamp": "2026-01-29T13:19:13Z",
       "source": "BBC News"
     }
   ]
