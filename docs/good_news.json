@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-05T12:20:23Z",
+  "last run": "2026-02-05T13:33:48Z",
   "stories": [
+    {
+      "headline": "What are critical minerals and why are countries so keen to secure them?",
+      "link": "https://www.bbc.com/news/articles/cj6wwx7zxd9o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.379,
+      "vader_score": 0.5581,
+      "textblob_score": 0.2,
+      "first_sentence": "Countries are racing to obtain the critical minerals and rare earths needed to make everything from smartphones to electric cars.",
+      "timestamp": "2026-02-05T13:22:13Z",
+      "source": "BBC News"
+    },
     {
       "headline": "The best UK treadmills for your home: up your indoor miles with our runner-approved picks",
       "link": "https://www.theguardian.com/thefilter/2025/jan/15/best-treadmills-running-machines",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Actress Odessa A'zion has pulled out of A24's latest film, Deep Cuts, after online backlash over her casting.",
       "timestamp": "2026-01-29T13:19:13Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Blood, butter and boys in luv: BTS\u2019s 20 best songs \u2013 ranked!",
-      "link": "https://www.theguardian.com/culture/2026/jan/29/bts-best-songs-ranked",
-      "mean_score": 0.8348,
-      "vader_score": 0.6696,
-      "textblob_score": 1.0,
-      "first_sentence": "At the start of their career, BTS were marketed as a cross between a Korean idol band and a blinged-out rap act: \u201cOur life is hip-hop,\u201d offered band member Suga early on.",
-      "timestamp": "2026-01-29T13:00:18Z",
-      "source": "The Guardian"
     }
   ]
 }
