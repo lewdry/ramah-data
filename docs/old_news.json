@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Bill Belichick: A Super Bowl god's fall from grace",
+    "link": "https://www.bbc.com/news/articles/clywp0wy21lo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.5525,
+    "vader_score": 0.7717,
+    "textblob_score": 0.3333,
+    "first_sentence": "While the New England Patriots prepare for their 12th Super Bowl appearance, their former head coach Bill Belichick - widely considered to be the greatest professional football coach of all time - finds himself in an unlikely position: defending his legacy.",
+    "timestamp": "2026-01-29T00:25:53Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "\u2018A great marker\u2019: Rosenior lauds young Chelsea side for comeback win at Napoli",
+    "link": "https://www.theguardian.com/football/2026/jan/28/liam-rosenior-quotes-press-conference-chelsea-napoli-champions-league",
+    "mean_score": 0.7013,
+    "vader_score": 0.836,
+    "textblob_score": 0.5667,
+    "first_sentence": "Liam Rosenior praised his young Chelsea side\u2019s ability to deal with adversity after they produced a spirited comeback against Napoli to reach the last 16 of the Champions League.",
+    "timestamp": "2026-01-28T23:39:30Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Paul Dano reacts to Tarantino criticism: \u2018I was incredibly grateful that the world spoke up for me\u2019",
+    "link": "https://www.theguardian.com/film/2026/jan/29/paul-dano-quentin-tarantino-comments",
+    "mean_score": 0.5005,
+    "vader_score": 0.101,
+    "textblob_score": 0.9,
+    "first_sentence": "Paul Dano has responded to Quentin Tarantino\u2019s scathing criticism of his acting abilities, thanking those who came to his defence after Tarantino called him a \u201cweak, uninteresting guy\u201d and \u201cthe limpest dick in the world\u201d.",
+    "timestamp": "2026-01-28T23:38:46Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Napoli v Chelsea: Champions League \u2013 live",
+    "link": "https://www.theguardian.com/football/live/2026/jan/28/napoli-v-chelsea-champions-league-live",
+    "mean_score": 0.3315,
+    "vader_score": 0.5267,
+    "textblob_score": 0.1364,
+    "first_sentence": "A huge win for Chelsea, another good win for Liam Rosenior.",
+    "timestamp": "2026-01-28T21:52:34Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Seven players ejected following brawl in 36ers win over Bullets",
     "link": "https://www.abc.net.au/news/2026-01-29/sa-36ers-bullets-scuffle-nbl-game/106281148",
     "mean_score": 0.4929,
