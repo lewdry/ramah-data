@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-05T18:25:09Z",
+  "last run": "2026-02-05T19:20:55Z",
   "stories": [
+    {
+      "headline": "Bonobos can play make-believe much like children, study suggests",
+      "link": "https://www.theguardian.com/science/2026/feb/05/bonobos-animal-behaviour-study-engage-make-believe",
+      "mean_score": 0.3997,
+      "vader_score": 0.5994,
+      "textblob_score": 0.2,
+      "first_sentence": "Whether it\u2019s playing at being doctors or hosting a toy\u2019s tea party, children are adept at engaging in make-believe \u2013 now researchers say bonobos can do it too.",
+      "timestamp": "2026-02-05T19:00:47Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Magic Beach by Alison Lester named Australia\u2019s best children\u2019s picture book",
+      "link": "https://www.theguardian.com/books/2026/feb/05/alison-lester-magic-beach-best-australia-children-picture-book",
+      "mean_score": 0.6935,
+      "vader_score": 0.6369,
+      "textblob_score": 0.75,
+      "first_sentence": "Magic Beach by Alison Lester has won Guardian Australia\u2019s poll to find Australia\u2019s best children\u2019s picture book of all time.",
+      "timestamp": "2026-02-05T19:00:46Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Zohran Mamdani suggests \u2018New York City\u2019s first free grocery store\u2019 is PR stunt",
       "link": "https://www.theguardian.com/us-news/2026/feb/05/zohran-mamdani-polymarket-free-grocery-store",
@@ -2480,26 +2500,6 @@
       "first_sentence": "If you were to guess where Madonna goes on holiday, you might think Mustique or the Maldives \u2013 Margate probably would not make the list.",
       "timestamp": "2026-01-29T19:01:20Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018The LED of heating\u2019: cheap geothermal energy system makes US comeback",
-      "link": "https://www.theguardian.com/environment/2026/jan/29/cheap-geothermal-energy-system-makes-us-comeback-minnesota",
-      "mean_score": 0.3366,
-      "vader_score": 0.2732,
-      "textblob_score": 0.4,
-      "first_sentence": "Nearly half a century ago, the US Department of Energy launched a clean energy experiment beneath the University of Minnesota with a simple goal: storing hot water for months at a time in an aquifer more than 100 metres below ground.",
-      "timestamp": "2026-01-29T17:33:07Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "BBC vows to better reflect working-class audiences around UK",
-      "link": "https://www.bbc.com/news/articles/c9312091kpeo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.5,
-      "first_sentence": "The BBC has committed to strengthening how it measures the ways audiences from different socio-economic and geographical backgrounds are portrayed and represented in its output.",
-      "timestamp": "2026-01-29T16:40:51Z",
-      "source": "BBC News"
     }
   ]
 }

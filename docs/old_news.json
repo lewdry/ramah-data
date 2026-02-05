@@ -1,5 +1,25 @@
 [
   {
+    "headline": "\u2018The LED of heating\u2019: cheap geothermal energy system makes US comeback",
+    "link": "https://www.theguardian.com/environment/2026/jan/29/cheap-geothermal-energy-system-makes-us-comeback-minnesota",
+    "mean_score": 0.3366,
+    "vader_score": 0.2732,
+    "textblob_score": 0.4,
+    "first_sentence": "Nearly half a century ago, the US Department of Energy launched a clean energy experiment beneath the University of Minnesota with a simple goal: storing hot water for months at a time in an aquifer more than 100 metres below ground.",
+    "timestamp": "2026-01-29T17:33:07Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "BBC vows to better reflect working-class audiences around UK",
+    "link": "https://www.bbc.com/news/articles/c9312091kpeo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4702,
+    "vader_score": 0.4404,
+    "textblob_score": 0.5,
+    "first_sentence": "The BBC has committed to strengthening how it measures the ways audiences from different socio-economic and geographical backgrounds are portrayed and represented in its output.",
+    "timestamp": "2026-01-29T16:40:51Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Great Ormond Street surgeon harmed 94 children, review finds",
     "link": "https://www.theguardian.com/society/2026/jan/29/great-ormond-street-surgeon-harmed-children-review-yaser-jabbar",
     "mean_score": 0.525,
