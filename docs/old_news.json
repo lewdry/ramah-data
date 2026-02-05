@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Man accused of impersonating FBI agent in bid to free Luigi Mangione",
+    "link": "https://www.bbc.com/news/articles/c4g0y6yp2vno?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3366,
+    "vader_score": 0.2732,
+    "textblob_score": 0.4,
+    "first_sentence": "A man accused of impersonating a federal agent in a bid to allegedly free Luigi Mangione, the man accused of gunning down the CEO of United Healthcare in 2024, has been arrested.",
+    "timestamp": "2026-01-30T00:08:47Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "What's lamb's fry, and why is it popular at this canteen",
+    "link": "https://www.abc.net.au/news/rural/2026-01-30/saleyards-australia-best-canteen-competition/106281246",
+    "mean_score": 0.5108,
+    "vader_score": 0.4215,
+    "textblob_score": 0.6,
+    "first_sentence": "Every Wednesday morning at the Mount Gambier saleyards, Liz Beames gets in at 4am to start cooking up lamb's fry.",
+    "timestamp": "2026-01-30T00:03:18Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "How the West was won: K-pop's great assimilation gambit",
     "link": "https://www.npr.org/2026/01/29/nx-s1-5685250/kpop-demon-hunters-rose-katseye-grammys",
     "mean_score": 0.8158,

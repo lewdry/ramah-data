@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-05T21:12:32Z",
+  "last run": "2026-02-05T22:11:17Z",
   "stories": [
+    {
+      "headline": "It's Super Bowl weekend and here's what you need to know",
+      "link": "https://www.abc.net.au/news/2026-02-06/super-bowl-how-to-watch-australia-2026/106272636",
+      "mean_score": 0.4664,
+      "vader_score": 0.5994,
+      "textblob_score": 0.3333,
+      "first_sentence": "You might have heard a lot of chatter about American football in recent days.",
+      "timestamp": "2026-02-05T21:26:10Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "WA premier commends hero swimmer Austin Appelbee's 'true bravery' in letter",
+      "link": "https://www.abc.net.au/news/2026-02-06/wa-premier-writes-letter-to-13yo-hero-swimmer-austin-appelbee/106311516",
+      "mean_score": 0.6062,
+      "vader_score": 0.8625,
+      "textblob_score": 0.35,
+      "first_sentence": "The WA premier has written to Austin Appelbee, the 13-year-old hero who swam 4 kilometres to save his family, commending the teenager for his bravery.",
+      "timestamp": "2026-02-05T21:21:51Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Voll helps pull off record run chase to win Women's Premier League",
       "link": "https://www.abc.net.au/news/2026-02-06/royal-challengers-bengaluru-win-indian-women-premier-league/106312236",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.475,
       "first_sentence": "Neale gave up the co-captaincy after a high-profile marriage breakdown over the summer but Fagan said the premiership winner was injury-free through the pre-season for the first time in years.",
       "timestamp": "2026-01-30T00:38:02Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Man accused of impersonating FBI agent in bid to free Luigi Mangione",
-      "link": "https://www.bbc.com/news/articles/c4g0y6yp2vno?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3366,
-      "vader_score": 0.2732,
-      "textblob_score": 0.4,
-      "first_sentence": "A man accused of impersonating a federal agent in a bid to allegedly free Luigi Mangione, the man accused of gunning down the CEO of United Healthcare in 2024, has been arrested.",
-      "timestamp": "2026-01-30T00:08:47Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "What's lamb's fry, and why is it popular at this canteen",
-      "link": "https://www.abc.net.au/news/rural/2026-01-30/saleyards-australia-best-canteen-competition/106281246",
-      "mean_score": 0.5108,
-      "vader_score": 0.4215,
-      "textblob_score": 0.6,
-      "first_sentence": "Every Wednesday morning at the Mount Gambier saleyards, Liz Beames gets in at 4am to start cooking up lamb's fry.",
-      "timestamp": "2026-01-30T00:03:18Z",
       "source": "ABC News"
     }
   ]
