@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Number of term-time school holiday fines hits another record high",
+    "link": "https://www.bbc.com/news/articles/clyepw0w752o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3094,
+    "vader_score": 0.4588,
+    "textblob_score": 0.16,
+    "first_sentence": "A record 459,288 school holiday fines were issued in England last year, according to new figures from the Department for Education (DfE).",
+    "timestamp": "2026-01-29T10:45:32Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "The \u2018Rodman Rule\u2019 threatens to undermine what makes the NWSL great | Jonathan Liew",
+    "link": "https://www.theguardian.com/football/2026/jan/29/trinity-rodman-rule-contract-renewal-nwsl-washington-spirit-michaelle-kang-salary-cap",
+    "mean_score": 0.4386,
+    "vader_score": 0.0772,
+    "textblob_score": 0.8,
+    "first_sentence": "Perhaps it was all worth it in the end.",
+    "timestamp": "2026-01-29T10:00:04Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Madonna's love letter to Emin and Margate",
+    "link": "https://www.bbc.com/news/articles/cn42dllev5zo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.5685,
+    "vader_score": 0.6369,
+    "textblob_score": 0.5,
+    "first_sentence": "Queen of Pop Madonna has said Margate \u2013 once a declining seaside resort \u2013 is her \"idea of heaven\", and revealed her favourite Italian restaurant is also there.",
+    "timestamp": "2026-01-29T09:15:30Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Denmark \u2018more optimistic\u2019 about resolving US Greenland interest after latest talks \u2013 Europe live",
     "link": "https://www.theguardian.com/world/live/2026/jan/29/denmark-us-greenland-ukraine-russia-germany-friedrich-merz-poland-europe-latest-news",
     "mean_score": 0.5298,
