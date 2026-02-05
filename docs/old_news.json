@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Urgent call to save Britain's oldest rollercoaster",
+    "link": "https://www.bbc.com/news/articles/c93129w924qo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3062,
+    "vader_score": 0.6124,
+    "textblob_score": 0.0,
+    "first_sentence": "The culture secretary is being urged to intervene and save Britain's oldest rollercoaster from closure.",
+    "timestamp": "2026-01-29T12:15:34Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Football as a content machine: 18 Champions League games was fun but overstuffed | Max Rushden",
+    "link": "https://www.theguardian.com/football/2026/jan/29/football-content-machine-18-champions-league-games-fun-but-overstuffed",
+    "mean_score": 0.4093,
+    "vader_score": 0.5187,
+    "textblob_score": 0.3,
+    "first_sentence": "It\u2019s half an hour after attempting to watch 18 football matches at the same time on the final match day of the Champions League group stage, so it\u2019s still a little early to tell whether I think it was a brilliant night of football or not.",
+    "timestamp": "2026-01-29T12:06:59Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Stay on this stunning island for free... if you're willing to count puffins",
     "link": "https://www.bbc.com/news/articles/cdexjz58e3zo?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.5632,

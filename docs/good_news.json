@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-05T09:22:37Z",
+  "last run": "2026-02-05T10:21:01Z",
   "stories": [
+    {
+      "headline": "The best UK treadmills for your home: up your indoor miles with our runner-approved picks",
+      "link": "https://www.theguardian.com/thefilter/2025/jan/15/best-treadmills-running-machines",
+      "mean_score": 0.8185,
+      "vader_score": 0.6369,
+      "textblob_score": 1.0,
+      "first_sentence": "The Guardian\u2019s journalism is independent.",
+      "timestamp": "2026-02-05T10:00:16Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "New Jersey voters head to the polls for special congressional primary",
+      "link": "https://www.npr.org/2026/02/05/nx-s1-5698481/new-jersey-voters-head-to-the-polls-for-special-congressional-primary",
+      "mean_score": 0.3499,
+      "vader_score": 0.4019,
+      "textblob_score": 0.2978,
+      "first_sentence": "New Jersey voters head to the polls for one of the year's first congressional primaries.",
+      "timestamp": "2026-02-05T09:55:28Z",
+      "source": "NPR News"
+    },
     {
       "headline": "Six Nations 2026 predictions: our writers on who will win and why",
       "link": "https://www.theguardian.com/sport/2026/feb/05/six-nations-2026-predictions-our-writers-on-who-will-win-and-why",
@@ -2479,26 +2499,6 @@
       "textblob_score": 1.0,
       "first_sentence": "At the start of their career, BTS were marketed as a cross between a Korean idol band and a blinged-out rap act: \u201cOur life is hip-hop,\u201d offered band member Suga early on.",
       "timestamp": "2026-01-29T13:00:18Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Urgent call to save Britain's oldest rollercoaster",
-      "link": "https://www.bbc.com/news/articles/c93129w924qo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3062,
-      "vader_score": 0.6124,
-      "textblob_score": 0.0,
-      "first_sentence": "The culture secretary is being urged to intervene and save Britain's oldest rollercoaster from closure.",
-      "timestamp": "2026-01-29T12:15:34Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Football as a content machine: 18 Champions League games was fun but overstuffed | Max Rushden",
-      "link": "https://www.theguardian.com/football/2026/jan/29/football-content-machine-18-champions-league-games-fun-but-overstuffed",
-      "mean_score": 0.4093,
-      "vader_score": 0.5187,
-      "textblob_score": 0.3,
-      "first_sentence": "It\u2019s half an hour after attempting to watch 18 football matches at the same time on the final match day of the Champions League group stage, so it\u2019s still a little early to tell whether I think it was a brilliant night of football or not.",
-      "timestamp": "2026-01-29T12:06:59Z",
       "source": "The Guardian"
     }
   ]
