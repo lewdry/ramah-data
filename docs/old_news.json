@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Djokovic turns back the clock to reach Aus Open final with marathon win over Sinner",
+    "link": "https://www.abc.net.au/news/2026-01-30/australian-open-day-13-live-blog-alcaraz-zverev-djokovic/106286224",
+    "mean_score": 0.3997,
+    "vader_score": 0.5994,
+    "textblob_score": 0.2,
+    "first_sentence": "Novak Djokovic will face Carlos Alcaraz in the Australian Open men's singles final after beating defending champion Jannik Sinner 3-6, 6-3, 4-6, 6-4, 6-4 in four hours and nine minutes.",
+    "timestamp": "2026-01-30T00:39:44Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Why Lachie Neale is having his 'best pre-season in a long time' despite drama",
+    "link": "https://www.abc.net.au/news/2026-01-30/lachie-neale-brisbane-lions-pre-season-marriage-breakdown/106286732",
+    "mean_score": 0.5559,
+    "vader_score": 0.6369,
+    "textblob_score": 0.475,
+    "first_sentence": "Neale gave up the co-captaincy after a high-profile marriage breakdown over the summer but Fagan said the premiership winner was injury-free through the pre-season for the first time in years.",
+    "timestamp": "2026-01-30T00:38:02Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Man accused of impersonating FBI agent in bid to free Luigi Mangione",
     "link": "https://www.bbc.com/news/articles/c4g0y6yp2vno?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.3366,
