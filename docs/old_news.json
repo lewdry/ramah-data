@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Great Ormond Street doctor who botched surgery harmed nearly 100 children",
+    "link": "https://www.bbc.com/news/articles/cq841e4n4v8o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.35,
+    "vader_score": 0.25,
+    "textblob_score": 0.45,
+    "first_sentence": "Nearly 100 children were harmed by a Great Ormond Street Hospital limb reconstruction surgeon, a review has found.",
+    "timestamp": "2026-01-29T13:30:06Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Aryna Sabalenka hits out at umpire after grunting penalty in win over Svitolina",
     "link": "https://www.theguardian.com/sport/2026/jan/29/aryna-sabalenka-elina-svitolina-australian-open-semi-final-tennis",
     "mean_score": 0.5011,
