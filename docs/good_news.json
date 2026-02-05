@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-05T04:40:07Z",
+  "last run": "2026-02-05T05:30:49Z",
   "stories": [
+    {
+      "headline": "Australia politics live: Greens senator claims One Nation the party of \u2018billionaires, not battlers\u2019 after Hanson\u2019s free flights on Rinehart jet",
+      "link": "https://www.theguardian.com/australia-news/live/2026/feb/05/australian-politics-live-anthony-albanese-sussan-ley-labor-liberal-question-time-chalmers-budget-cost-of-living-marles-defence-leadership-challenge-spill-ntwnfb",
+      "mean_score": 0.4933,
+      "vader_score": 0.7184,
+      "textblob_score": 0.2682,
+      "first_sentence": "The Greens senator Nick McKim has accused Pauline Hanson\u2019s party of being \u201cthe party of the billionaires, not the party of the battlers\u201d after receiving free flights on Gina Rinehart\u2019s private jet.",
+      "timestamp": "2026-02-05T05:08:49Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Sanctions having \u2018significant impact\u2019 on Russian economy, says EU special envoy",
+      "link": "https://www.theguardian.com/world/2026/feb/05/sanctions-significant-impact-russian-economy-interview-eu-special-envoy-david-osullivan",
+      "mean_score": 0.323,
+      "vader_score": 0.4019,
+      "textblob_score": 0.244,
+      "first_sentence": "Western sanctions are having a \u201csignificant impact\u201d on the Russian economy, the EU\u2019s sanctions envoy has said, ahead of the fourth anniversary of Moscow\u2019s full-scale invasion of Ukraine.",
+      "timestamp": "2026-02-05T05:00:21Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Unions pushing 4 per cent wage boost as real paypackets decline",
       "link": "https://www.abc.net.au/news/2026-02-05/actu-pushing-above-inflation-wage-increase-in-2026/106308042",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Queen of Pop Madonna has said Margate \u2013 once a declining seaside resort \u2013 is her \"idea of heaven\", and revealed her favourite Italian restaurant is also there.",
       "timestamp": "2026-01-29T09:15:30Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Denmark \u2018more optimistic\u2019 about resolving US Greenland interest after latest talks \u2013 Europe live",
-      "link": "https://www.theguardian.com/world/live/2026/jan/29/denmark-us-greenland-ukraine-russia-germany-friedrich-merz-poland-europe-latest-news",
-      "mean_score": 0.5298,
-      "vader_score": 0.6808,
-      "textblob_score": 0.3788,
-      "first_sentence": "Danish foreign minister Lars L\u00f8kke Rasmussen revealed he had \u201cconstructive\u201d talks with the US over Greenland last night, saying that he is \u201cslightly more optimistic today than a week ago\u201d that a solution can be found.",
-      "timestamp": "2026-01-29T08:43:54Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Jonathan Trott: \u2018I\u2019d love to coach England one day. Definitely\u2019",
-      "link": "https://www.theguardian.com/sport/2026/jan/29/jonathan-trott-coach-england-afghanistan-t20-world-cup-annoying-pundits",
-      "mean_score": 0.4435,
-      "vader_score": 0.6369,
-      "textblob_score": 0.25,
-      "first_sentence": "Think back to that team and Jonathan Trott was always the relatable one.",
-      "timestamp": "2026-01-29T08:00:41Z",
-      "source": "The Guardian"
     }
   ]
 }
