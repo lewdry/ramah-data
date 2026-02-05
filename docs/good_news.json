@@ -1,6 +1,36 @@
 {
-  "last run": "2026-02-05T17:22:54Z",
+  "last run": "2026-02-05T18:25:09Z",
   "stories": [
+    {
+      "headline": "Zohran Mamdani suggests \u2018New York City\u2019s first free grocery store\u2019 is PR stunt",
+      "link": "https://www.theguardian.com/us-news/2026/feb/05/zohran-mamdani-polymarket-free-grocery-store",
+      "mean_score": 0.3864,
+      "vader_score": 0.5106,
+      "textblob_score": 0.2621,
+      "first_sentence": "Zohran Mamdani made city-operated grocery stores a key pledge of his campaign for mayor of New York City.",
+      "timestamp": "2026-02-05T18:12:14Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Positive spin from Libs leader as retiring MP Groth forces by-election",
+      "link": "https://www.abc.net.au/news/2026-02-06/member-for-nepean-sam-groth-resignation-analysis/106309684",
+      "mean_score": 0.3923,
+      "vader_score": 0.5574,
+      "textblob_score": 0.2273,
+      "first_sentence": "When retiring first-term Liberal Sam Groth told his leader he was quitting politics, forcing a by-election, Jess Wilson didn't try to talk him out of it.",
+      "timestamp": "2026-02-05T18:08:06Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Purr-fect casting: is Orangey the most important movie cat ever?",
+      "link": "https://www.theguardian.com/film/2026/feb/05/orangey-famous-movie-cat",
+      "mean_score": 0.3608,
+      "vader_score": 0.2716,
+      "textblob_score": 0.45,
+      "first_sentence": "In the midst of Oscar season, it becomes evident just how much work it takes to win an Academy Award, both in on-screen work and off-screen campaigning.",
+      "timestamp": "2026-02-05T17:14:15Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Russia and Ukraine conduct POW swap after latest US-led peace talks",
       "link": "https://www.abc.net.au/news/2026-02-06/ukraine-russia-talks-united-states-trump/106312078",
@@ -2470,36 +2500,6 @@
       "first_sentence": "The BBC has committed to strengthening how it measures the ways audiences from different socio-economic and geographical backgrounds are portrayed and represented in its output.",
       "timestamp": "2026-01-29T16:40:51Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Great Ormond Street surgeon harmed 94 children, review finds",
-      "link": "https://www.theguardian.com/society/2026/jan/29/great-ormond-street-surgeon-harmed-children-review-yaser-jabbar",
-      "mean_score": 0.525,
-      "vader_score": 0.25,
-      "textblob_score": 0.8,
-      "first_sentence": "Nearly 100 children suffered harm at the hands of a Great Ormond Street orthopaedic surgeon, a report has concluded.",
-      "timestamp": "2026-01-29T14:08:45Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "EU proposals for free extra cabin bags on planes \u2018lunatic idea\u2019, says easyJet",
-      "link": "https://www.theguardian.com/business/2026/jan/29/eu-proposals-to-free-extra-cabin-bags-on-planes-lunatic-idea-says-easyjet",
-      "mean_score": 0.3553,
-      "vader_score": 0.5106,
-      "textblob_score": 0.2,
-      "first_sentence": "EasyJet said proposals to enforce free additional cabin bags on planes across Europe are a \u201clunatic idea\u201d, warning of fare rises and flight delays if legislation goes through.",
-      "timestamp": "2026-01-29T14:02:52Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Embrace the imperfect and don\u2019t try to keep everyone happy: readers share their tips on doing less in 2026",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/29/2026-tips-let-them-embrace-imperfect-dont-keep-everyone-happy",
-      "mean_score": 0.5131,
-      "vader_score": 0.7096,
-      "textblob_score": 0.3167,
-      "first_sentence": "At the beginning of the year, we asked experts on how we can go easier on ourselves.",
-      "timestamp": "2026-01-29T14:00:23Z",
-      "source": "The Guardian"
     }
   ]
 }
