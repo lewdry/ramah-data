@@ -1,6 +1,36 @@
 {
-  "last run": "2026-02-05T01:40:13Z",
+  "last run": "2026-02-05T03:06:30Z",
   "stories": [
+    {
+      "headline": "Unions pushing 4 per cent wage boost as real paypackets decline",
+      "link": "https://www.abc.net.au/news/2026-02-05/actu-pushing-above-inflation-wage-increase-in-2026/106308042",
+      "mean_score": 0.3009,
+      "vader_score": 0.4019,
+      "textblob_score": 0.2,
+      "first_sentence": "Australia's biggest employers are under pressure to give their workers pay increases above 4 per cent this year, as real wages go backwards and the union movement ramps up pressure.",
+      "timestamp": "2026-02-05T02:49:08Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Strict caps on bottled water extraction urged for precious rainforest area",
+      "link": "https://www.abc.net.au/news/2026-02-05/water-extraction-caps-at-world-heritage-springbrook/106304388",
+      "mean_score": 0.5359,
+      "vader_score": 0.5719,
+      "textblob_score": 0.5,
+      "first_sentence": "A study has found that extracting groundwater from the environmentally sensitive Gold Coast hinterland poses a risk to its World Heritage status.",
+      "timestamp": "2026-02-05T02:18:39Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Kiwi great backs State of Origin being played across the ditch",
+      "link": "https://www.abc.net.au/news/2026-02-05/state-of-origin-2027-in-new-zealand-boost-says-kiwi/106308612",
+      "mean_score": 0.7715,
+      "vader_score": 0.743,
+      "textblob_score": 0.8,
+      "first_sentence": "A State of Origin match will reportedly be played in New Zealand in 2027.",
+      "timestamp": "2026-02-05T01:56:59Z",
+      "source": "ABC News"
+    },
     {
       "headline": "How Aussie bound for SuperBowl became NFL's best punter",
       "link": "https://www.abc.net.au/news/2026-02-05/michael-dickson-nfl-australian-punter-super-bowl/106307658",
@@ -2470,36 +2500,6 @@
       "first_sentence": "Think back to that team and Jonathan Trott was always the relatable one.",
       "timestamp": "2026-01-29T08:00:41Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Is This Thing On? review \u2013 funny is as funny does in Bradley Cooper\u2019s John Bishop-inspired tale",
-      "link": "https://www.theguardian.com/film/2026/jan/29/is-this-thing-on-review-bradley-cooper-will-arnett",
-      "mean_score": 0.4752,
-      "vader_score": 0.7003,
-      "textblob_score": 0.25,
-      "first_sentence": "Comic actor Will Arnett finally gets a straight dramatic role and he\u2019s playing \u2026 a comedian.",
-      "timestamp": "2026-01-29T07:00:39Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Nicheliving facing legal action over management of trust account",
-      "link": "https://www.abc.net.au/news/2026-01-29/nicheliving-facing-legal-action-over-trust-account/106282696",
-      "mean_score": 0.3679,
-      "vader_score": 0.5859,
-      "textblob_score": 0.15,
-      "first_sentence": "The WA Commissioner for Consumer Protection is alleging deregistered Perth builder Nicheliving improperly released customer funds from a trust account.",
-      "timestamp": "2026-01-29T06:43:20Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Lanarkshire to become 'one of the world's most advanced AI sites'",
-      "link": "https://www.bbc.com/news/articles/cwy12qj9e20o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3833,
-      "vader_score": 0.3167,
-      "textblob_score": 0.45,
-      "first_sentence": "North Lanarkshire is to become the home of an artificial intelligence \"growth zone\", with the aim of turning the area into one of the world's most advanced AI sites.",
-      "timestamp": "2026-01-29T06:38:31Z",
-      "source": "BBC News"
     }
   ]
 }
