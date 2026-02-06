@@ -1,5 +1,35 @@
 [
   {
+    "headline": "50C record for Port Augusta ahead of cool change",
+    "link": "https://www.abc.net.au/news/2026-01-30/temperature-change-sa-power-outages/106287992",
+    "mean_score": 0.3341,
+    "vader_score": 0.3182,
+    "textblob_score": 0.35,
+    "first_sentence": "Andamooka and Port Augusta cracked 50C yesterday and today, respectively, ending a week of extreme heat across the south-east of the country.",
+    "timestamp": "2026-01-30T08:23:17Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Week in wildlife: a rescued owl, a brave blackbird and Fukushima boar babies",
+    "link": "https://www.theguardian.com/environment/gallery/2026/jan/30/week-in-wildlife-a-rescued-owl-a-brave-blackbird-and-fukushima-boar-babies",
+    "mean_score": 0.7675,
+    "vader_score": 0.7351,
+    "textblob_score": 0.8,
+    "first_sentence": "This week\u2019s best wildlife photographs from around the world Continue reading.",
+    "timestamp": "2026-01-30T08:00:15Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Passion, prospects and a thrilling title race: why Polish football is booming",
+    "link": "https://www.theguardian.com/football/2026/jan/30/polish-football-ekstraklasa-title-race",
+    "mean_score": 0.5287,
+    "vader_score": 0.8074,
+    "textblob_score": 0.25,
+    "first_sentence": "The temperature will be far below zero when Zaglebie Lubin and GKS Katowice restart Poland\u2019s top flight on Friday evening.",
+    "timestamp": "2026-01-30T08:00:14Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Andrew Hastie rules out challenging Sussan Ley for Liberal leadership, clearing path for Angus Taylor",
     "link": "https://www.theguardian.com/australia-news/2026/jan/30/andrew-hastie-rules-out-challenging-sussan-ley-liberal-leadership",
     "mean_score": 0.3266,
