@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-06T03:05:45Z",
+  "last run": "2026-02-06T04:40:08Z",
   "stories": [
+    {
+      "headline": "Indonesian teachers paid $170 per month as education funds go to free meals",
+      "link": "https://www.abc.net.au/news/2026-02-06/indonesia-government-directs-education-funds-to-free-meals/106307002",
+      "mean_score": 0.4553,
+      "vader_score": 0.5106,
+      "textblob_score": 0.4,
+      "first_sentence": "Indah Permata Sari could not hold back tears during a parliamentary hearing in Jakarta earlier this week.",
+      "timestamp": "2026-02-06T03:15:11Z",
+      "source": "ABC News"
+    },
     {
       "headline": "How often should you clean your microwave?",
       "link": "https://www.abc.net.au/news/2026-02-06/what-is-the-best-way-to-clean-a-microwave/106307346",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.45,
       "first_sentence": "Murmurs around Melbourne Park had been building.",
       "timestamp": "2026-01-30T09:35:15Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Ukraine will be \u2018technically\u2019 ready to join EU in 2027, Zelenskyy says \u2013 Europe live",
-      "link": "https://www.theguardian.com/world/live/2026/jan/30/europe-ukraine-russia-eu-zelenskyy-latest-news-updates",
-      "mean_score": 0.37,
-      "vader_score": 0.5719,
-      "textblob_score": 0.1682,
-      "first_sentence": "Ukraine was meant to continue its trilateral talks with the US and Russia this weekend, but Zelenskyy hinted at a possible delay, as the US appears to be focused on Iran instead.",
-      "timestamp": "2026-01-30T08:58:15Z",
       "source": "The Guardian"
     }
   ]
