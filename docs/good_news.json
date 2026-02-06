@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-06T15:20:27Z",
+  "last run": "2026-02-06T16:20:07Z",
   "stories": [
+    {
+      "headline": "Iran says \u2018good start\u2019 made in talks with US over nuclear programme",
+      "link": "https://www.theguardian.com/world/2026/feb/06/us-iran-talks-oman-nuclear-programme",
+      "mean_score": 0.35,
+      "vader_score": 0.0,
+      "textblob_score": 0.7,
+      "first_sentence": "Indirect talks between Iran and the US on the future of Iran\u2019s nuclear programme ended on Friday with a broad agreement to maintain a diplomatic path, possibly with further talks in the coming days, according to statements from Iran and the Omani hosts.",
+      "timestamp": "2026-02-06T15:59:13Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Iranian foreign minister says US talks in Oman a 'good beginning'",
       "link": "https://www.bbc.com/news/articles/cr57g1y8286o?at_medium=RSS&at_campaign=rss",
@@ -10,6 +20,16 @@
       "first_sentence": "Senior US and Iranian officials have held talks in Oman amid a crisis that has raised fears of a military confrontation between the two countries.",
       "timestamp": "2026-02-06T15:12:33Z",
       "source": "BBC News"
+    },
+    {
+      "headline": "Iran\u2019s foreign minister says talks with US were \u2018 a very good start\u2019 but are \u2018over for now\u2019 \u2013 as it happened",
+      "link": "https://www.theguardian.com/world/live/2026/feb/06/us-iran-nuclear-talks-oman-live-updates",
+      "mean_score": 0.3324,
+      "vader_score": 0.2724,
+      "textblob_score": 0.3925,
+      "first_sentence": "Iran and Oman have shared cautious optimism that negotiations between Iranian and US officials will continue, after both sides gathered in the Omani captial Muscat for indirect talks.",
+      "timestamp": "2026-02-06T15:06:03Z",
+      "source": "The Guardian"
     },
     {
       "headline": "From Jesus to Jurassic Park: This year's Super Bowl ads are playing it safe",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Ren\u00e9e Slegers praised the impact of trailblazing hijab-wearing footballer Nouhaila Benzina after Arsenal\u2019s defeat of Moroccan side AS Far earned them a place in Sunday\u2019s Champions Cup final against Corinthians.",
       "timestamp": "2026-01-31T12:00:58Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Elena Rybakina stuns Aryna Sabalenka to win Australian Open women\u2019s singles final \u2013 as it happened",
-      "link": "https://www.theguardian.com/sport/live/2026/jan/31/aryna-sabalenka-v-elena-rybakina-australian-open-2026-final-live",
-      "mean_score": 0.3997,
-      "vader_score": 0.5994,
-      "textblob_score": 0.2,
-      "first_sentence": "So how will Rybakina handle her nerves here? She hasn\u2019t been in this position, serving for a grand slam title, since the Wimbledon final in 2022, when she won her first and only major.",
-      "timestamp": "2026-01-31T11:49:46Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Student loan system 'fair and reasonable', says Reeves",
-      "link": "https://www.bbc.com/news/articles/ce3k4xdqyp1o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3841,
-      "vader_score": 0.3182,
-      "textblob_score": 0.45,
-      "first_sentence": "Chancellor Rachel Reeves has described the student loans system as \"fair and reasonable\" after criticism over the decision to freeze the repayment threshold for some borrowers.",
-      "timestamp": "2026-01-31T11:49:27Z",
-      "source": "BBC News"
     }
   ]
 }
