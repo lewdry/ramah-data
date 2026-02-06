@@ -1,6 +1,46 @@
 {
-  "last run": "2026-02-06T05:30:05Z",
+  "last run": "2026-02-06T06:25:52Z",
   "stories": [
+    {
+      "headline": "Artist Andy Goldsworthy on gathering gravestones: This is my best work yet",
+      "link": "https://www.bbc.com/news/articles/cx2k84zyk61o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.7859,
+      "vader_score": 0.5719,
+      "textblob_score": 1.0,
+      "first_sentence": "I'm standing in a graveyard in Kirkconnel, Dumfriesshire, with the artist Andy Goldsworthy.",
+      "timestamp": "2026-02-06T06:09:58Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Helen Goh\u2019s recipe for Valentine\u2019s chocolate pots de creme for two | The sweet spot",
+      "link": "https://www.theguardian.com/food/2026/feb/06/valentines-chocolate-pots-de-creme-recipe-helen-goh",
+      "mean_score": 0.4044,
+      "vader_score": 0.4588,
+      "textblob_score": 0.35,
+      "first_sentence": "These chocolate pots are dark, silken and softly bitter, with enough richness to feel a little decadent, but not heavy.",
+      "timestamp": "2026-02-06T06:00:04Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Nagi is normalising taking time for our pets. Here's why that's important",
+      "link": "https://www.abc.net.au/news/2026-02-06/recipetineats-nagi-maehashi-time-off-work-care-for-dog-dozer/106313752",
+      "mean_score": 0.3012,
+      "vader_score": 0.2023,
+      "textblob_score": 0.4,
+      "first_sentence": "When celebrity cook Nagi Maehashi's announced this week she was taking a step back from work to care for her beloved dog, Dozer, she had an overwhelming response to the news.",
+      "timestamp": "2026-02-06T05:32:08Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Finding Harmony: A King\u2019s Vision review \u2013 there\u2019s a bizarre moment where it\u2019s like Charles has taken acid",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/feb/06/finding-harmony-a-kings-vision-review-charles-jeff-bezos-amazon-prime-video",
+      "mean_score": 0.4997,
+      "vader_score": 0.5994,
+      "textblob_score": 0.4,
+      "first_sentence": "We find ourselves at an interesting moment in the streaming wars; one where Amazon\u2019s programming policy has apparently shifted to simply giving a massive platform to authority.",
+      "timestamp": "2026-02-06T05:01:00Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Experience: I am the Excel world champion",
       "link": "https://www.theguardian.com/lifeandstyle/2026/feb/06/experience-i-am-the-excel-world-champion",
@@ -2459,46 +2499,6 @@
       "textblob_score": 0.25,
       "first_sentence": "Novak Djokovic thanked his doubters for helping to give him strength after he produced an incredible performance to defeat Jannik Sinner, the No 2 and two-time defending champion, 3-6, 6-3, 4-6, 6-4, 6-4 to reach the Australian Open final.",
       "timestamp": "2026-01-30T18:42:04Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Sam Curran takes hat-trick before Salt eases England to DLS win over Sri Lanka in first T20",
-      "link": "https://www.theguardian.com/sport/2026/jan/30/sri-lanka-england-cricket-first-t20-match-report",
-      "mean_score": 0.626,
-      "vader_score": 0.7269,
-      "textblob_score": 0.525,
-      "first_sentence": "It was an England victory set up by the wily, age-old brilliance of Adil Rashid, the vital part of their hopes for a World Cup triumph in the coming weeks.",
-      "timestamp": "2026-01-30T18:20:40Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Sali Hughes on beauty: forget smooth and glassy \u2013 glam beauty is back",
-      "link": "https://www.theguardian.com/fashion/2026/jan/28/sali-hughes-dopamine-beauty-is-all-about-fun",
-      "mean_score": 0.4859,
-      "vader_score": 0.7717,
-      "textblob_score": 0.2,
-      "first_sentence": "The Guardian\u2019s journalism is independent.",
-      "timestamp": "2026-01-30T15:53:55Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "My family motto? It\u2019s amazing how lucky you get if you work really hard",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/31/family-motto-work-hard-feel-lucky",
-      "mean_score": 0.462,
-      "vader_score": 0.7102,
-      "textblob_score": 0.2139,
-      "first_sentence": "It\u2019s the family motto.",
-      "timestamp": "2026-01-30T14:00:29Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Cocktail of the week: El Pirata\u2019s el toro \u2013 recipe | The good mixer",
-      "link": "https://www.theguardian.com/food/2026/jan/30/cocktail-of-the-week-el-toro-recipe-el-pirata",
-      "mean_score": 0.5702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.7,
-      "first_sentence": "This reimagining of the old fashioned, in which American whiskey meets Andalusian flair, is a well-earned indulgence for the depths of winter.",
-      "timestamp": "2026-01-30T13:00:22Z",
       "source": "The Guardian"
     }
   ]
