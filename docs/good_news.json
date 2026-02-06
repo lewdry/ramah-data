@@ -1,6 +1,36 @@
 {
-  "last run": "2026-02-06T22:08:49Z",
+  "last run": "2026-02-06T23:10:41Z",
   "stories": [
+    {
+      "headline": "Years after coming out as Scotland's only gay footballer, I'm so much happier",
+      "link": "https://www.bbc.com/news/articles/cvg1gdzplz8o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3872,
+      "vader_score": 0.5688,
+      "textblob_score": 0.2056,
+      "first_sentence": "While sitting on a balcony in Benidorm, Zander Murray made a decision that would change his life forever, and for the better.",
+      "timestamp": "2026-02-06T22:46:45Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Taylor Swift casts \u2018insanely charismatic and lovable\u2019 Graham Norton in music video",
+      "link": "https://www.theguardian.com/music/2026/feb/06/taylor-swift-casts-insanely-charismatic-and-lovable-graham-norton-in-music-video",
+      "mean_score": 0.3512,
+      "vader_score": 0.2023,
+      "textblob_score": 0.5,
+      "first_sentence": "Graham Norton\u2019s chatshow has long been an object of fascination for American stars, wowed by its combined star wattage, glasses of wine and Norton\u2019s own quick-witted, lightly saucy repartee \u2013 and Taylor Swift has now taken that fandom to another level.",
+      "timestamp": "2026-02-06T22:15:27Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Calvert-Lewin caps fine win for Leeds to leave Nottingham Forest reeling",
+      "link": "https://www.theguardian.com/football/2026/feb/06/leeds-nottingham-forest-premier-league-match-report",
+      "mean_score": 0.634,
+      "vader_score": 0.6597,
+      "textblob_score": 0.6083,
+      "first_sentence": "The job is not done yet, far from it.",
+      "timestamp": "2026-02-06T22:05:59Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "'Best team yet': The Aussies to watch at the 2026 Winter Olympic Games",
       "link": "https://www.abc.net.au/news/2026-02-07/aussies-to-watch-milano-cortina-winter-olympic-games-2026/106273742",
@@ -2470,36 +2500,6 @@
       "first_sentence": "Bushfires, marches and a summer of sport \u2013 Guardian Australia\u2019s best photos from around the countryPrayers, vigils and mitzvahs on the national day of mourning for Bondi beach terror attack victims \u2013 in picturesDrag racing at Sydney\u2019s weekly street meet offers a change of pace for all walks of life Continue reading.",
       "timestamp": "2026-01-31T19:00:05Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Former Prince Andrew can\u2019t escape Epstein\u2019s shadow as new documents reveal details about friendship",
-      "link": "https://apnews.com/article/jeffrey-epstein-andrew-prince-mountbatten-windsor-friend-7fa8aadad792e66963a1d18d9039235b",
-      "mean_score": 0.3128,
-      "vader_score": 0.5574,
-      "textblob_score": 0.0682,
-      "first_sentence": "LONDON (AP) \u2014 Britain\u2019s royal family is facing a fresh round of embarrassment after the latest release of documents from the U.S.",
-      "timestamp": "2026-01-31T17:53:02Z",
-      "source": "AP News"
-    },
-    {
-      "headline": "Championship roundup: QPR comeback stuns Coventry as Boro move level with win",
-      "link": "https://www.theguardian.com/football/2026/jan/31/championship-roundup-dykes-as-charlton-football-leicester-stoke-southampton-wrexham",
-      "mean_score": 0.7892,
-      "vader_score": 0.7783,
-      "textblob_score": 0.8,
-      "first_sentence": "Stuttering Coventry\u2019s grip at the top of the Championship loosened further as QPR came from behind to beat them 2-1 at Loftus Road.",
-      "timestamp": "2026-01-31T17:37:00Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Kazakhstan's Elena Rybakina defeats No. 1 Aryana Sabalenka to win Australian Open",
-      "link": "https://www.npr.org/2026/01/31/nx-s1-5695207/elena-rybakina-wins-australian-open",
-      "mean_score": 0.3139,
-      "vader_score": 0.3612,
-      "textblob_score": 0.2667,
-      "first_sentence": "MELBOURNE, Australia \u2014 Elena Rybakina finally won her second Grand Slam title with a victory over top-ranked Aryna Sabalenka at the Australian Open on Saturday, and it was something of a testament to quiet achievers.",
-      "timestamp": "2026-01-31T17:22:07Z",
-      "source": "NPR News"
     }
   ]
 }
