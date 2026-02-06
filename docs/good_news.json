@@ -1,6 +1,36 @@
 {
-  "last run": "2026-02-06T14:22:06Z",
+  "last run": "2026-02-06T15:20:27Z",
   "stories": [
+    {
+      "headline": "Iranian foreign minister says US talks in Oman a 'good beginning'",
+      "link": "https://www.bbc.com/news/articles/cr57g1y8286o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3639,
+      "vader_score": 0.4404,
+      "textblob_score": 0.2875,
+      "first_sentence": "Senior US and Iranian officials have held talks in Oman amid a crisis that has raised fears of a military confrontation between the two countries.",
+      "timestamp": "2026-02-06T15:12:33Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "From Jesus to Jurassic Park: This year's Super Bowl ads are playing it safe",
+      "link": "https://www.npr.org/2026/02/06/nx-s1-5697056/super-bowl-ads-2026-uber-eats-pepsi-doordash",
+      "mean_score": 0.6196,
+      "vader_score": 0.8225,
+      "textblob_score": 0.4167,
+      "first_sentence": "If you're wondering whether it is truly worth the $8 to $10 million cost per 30 seconds to air a commercial during the Super Bowl, just ask the creative minds behind the pro-Jesus advertising campaign He Gets Us.",
+      "timestamp": "2026-02-06T14:53:40Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "Filled with good intention: could the new It bag be an antidote to the tote?",
+      "link": "https://www.theguardian.com/fashion/2026/feb/06/good-intentions-new-it-bag-antidote-tote",
+      "mean_score": 0.4263,
+      "vader_score": 0.4404,
+      "textblob_score": 0.4121,
+      "first_sentence": "It\u2019s not a multi-thousand pound handbag from Herm\u00e8s that best captures the new era of It bags, but a \u00a3149 tote from John Lewis.",
+      "timestamp": "2026-02-06T14:48:54Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Five Great Reads: Chris Hemsworth, Milli Vanilli, and two years with a romance fraudster",
       "link": "https://www.theguardian.com/australia-news/2026/feb/06/five-great-reads-chris-hemsworth-milli-vanilli-and-two-years-with-a-romance-fraudster",
@@ -29,6 +59,16 @@
       "textblob_score": 0.7,
       "first_sentence": "This tropical, vibrant drink is our most popular cocktail, perhaps because it\u2019s a twist on something familiar.",
       "timestamp": "2026-02-06T13:01:06Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018It\u2019s the rubbish, female A-team!\u2019 Derry Girl Lisa McGee on her hilarious new mystery thriller",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/feb/06/sometimes-you-have-to-blow-things-up-derry-girl-lisa-mcgee-on-her-explosive-new-show-and-why-she-hates-london",
+      "mean_score": 0.3688,
+      "vader_score": 0.5255,
+      "textblob_score": 0.2121,
+      "first_sentence": "How do you follow up a show about girls in Derry? With one about women in Belfast, obviously.",
+      "timestamp": "2026-02-06T13:00:07Z",
       "source": "The Guardian"
     },
     {
@@ -2460,46 +2500,6 @@
       "first_sentence": "Chancellor Rachel Reeves has described the student loans system as \"fair and reasonable\" after criticism over the decision to freeze the repayment threshold for some borrowers.",
       "timestamp": "2026-01-31T11:49:27Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "\u2018I was really surprised by the swimmers\u2019 powerful energy\u2019: Jorge Perez Ortiz\u2019s best phone picture",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/31/jorge-perez-ortiz-best-phone-picture",
-      "mean_score": 0.6573,
-      "vader_score": 0.8479,
-      "textblob_score": 0.4667,
-      "first_sentence": "Three years ago, Jorge Perez Ortiz was on a small wooden boat travelling from Cartagena in Colombia to a group of nearby islands when the sea became unexpectedly rough.",
-      "timestamp": "2026-01-31T11:00:56Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "A red hat, inspired by a symbol of resistance to Nazi occupation, gains traction in Minnesota",
-      "link": "https://www.npr.org/2026/01/31/nx-s1-5693767/red-hat-protest-minnesota",
-      "mean_score": 0.3404,
-      "vader_score": 0.6808,
-      "textblob_score": 0.0,
-      "first_sentence": "The weekly gatherings of knitters at Needle & Skein, a yarn store in Minneapolis, are typically filled with giggles and storytelling.",
-      "timestamp": "2026-01-31T10:00:00Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "How the right won the internet | Robert Topinka",
-      "link": "https://www.theguardian.com/commentisfree/ng-interactive/2026/jan/31/digital-politics-the-right-internet-digital-politics-extreme-political-ideas",
-      "mean_score": 0.4288,
-      "vader_score": 0.5719,
-      "textblob_score": 0.2857,
-      "first_sentence": "The internet has totally changed the way in which politics is conducted.",
-      "timestamp": "2026-01-31T08:00:52Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The Muppet Show: this thrilling return is so great I can\u2019t even count how many times I laughed",
-      "link": "https://www.theguardian.com/tv-and-radio/2026/jan/31/the-muppet-show-this-thrilling-return-is-so-great-i-cant-even-count-how-many-times-i-laughed",
-      "mean_score": 0.7394,
-      "vader_score": 0.9164,
-      "textblob_score": 0.5625,
-      "first_sentence": "The Muppet Show is back! We need this, don\u2019t we? We need them.",
-      "timestamp": "2026-01-31T07:00:52Z",
-      "source": "The Guardian"
     }
   ]
 }
