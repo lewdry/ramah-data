@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-06T18:22:24Z",
+  "last run": "2026-02-06T19:20:23Z",
   "stories": [
+    {
+      "headline": "'I love her to bits' \u2013 elderly couple get engaged in care home",
+      "link": "https://www.bbc.com/news/articles/cdx4xy0xnl7o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.6889,
+      "vader_score": 0.8779,
+      "textblob_score": 0.5,
+      "first_sentence": "An engagement is usually something that happens earlier in life, but one couple have sealed the deal in their later years - and they couldn't be happier.",
+      "timestamp": "2026-02-06T18:56:32Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "ABC 50/50 quiz: Test your knowledge of Gladiator, James Bond and your right to party",
+      "link": "https://www.abc.net.au/news/2026-02-07/abc-5050-quiz-february-7/106303852",
+      "mean_score": 0.3438,
+      "vader_score": 0.4019,
+      "textblob_score": 0.2857,
+      "first_sentence": "Each question in the ABC 50/50 quiz has only two options: One is right and the other is wrong.",
+      "timestamp": "2026-02-06T18:30:00Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Iran says \u2018good start\u2019 made in talks with US over nuclear programme",
       "link": "https://www.theguardian.com/world/2026/feb/06/us-iran-talks-oman-nuclear-programme",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.0,
       "first_sentence": "The sprinkling rain at Melbourne Park meant the roof stayed closed on centre court for the Australian Open women\u2019s final, turning Rod Laver Arena into a concert hall charged with the music of tennis.",
       "timestamp": "2026-01-31T14:20:12Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Record harvest sparks mass giveaway of free potatoes across Berlin",
-      "link": "https://www.theguardian.com/world/2026/jan/31/record-harvest-berlin-giveaway-potatoes",
-      "mean_score": 0.4553,
-      "vader_score": 0.5106,
-      "textblob_score": 0.4,
-      "first_sentence": "Germans love their potatoes.",
-      "timestamp": "2026-01-31T13:00:59Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Women\u2019s Champions Cup final: Arsenal chase more glory against \u2018intense\u2019 Corinthians",
-      "link": "https://www.theguardian.com/football/2026/jan/31/arsenal-corinthians-womens-champions-cup-final",
-      "mean_score": 0.5175,
-      "vader_score": 0.8016,
-      "textblob_score": 0.2333,
-      "first_sentence": "Ren\u00e9e Slegers praised the impact of trailblazing hijab-wearing footballer Nouhaila Benzina after Arsenal\u2019s defeat of Moroccan side AS Far earned them a place in Sunday\u2019s Champions Cup final against Corinthians.",
-      "timestamp": "2026-01-31T12:00:58Z",
       "source": "The Guardian"
     }
   ]
