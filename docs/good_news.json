@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-06T08:20:13Z",
+  "last run": "2026-02-06T09:21:33Z",
   "stories": [
+    {
+      "headline": "Analilia Mejia, Tom Malinowski race in New Jersey\u2019s special Democratic primary too early to call",
+      "link": "https://apnews.com/article/new-jersey-house-sherrill-democrat-congress-01b9bfcecdabac87b3af63b0c46db89a",
+      "mean_score": 0.3251,
+      "vader_score": 0.4019,
+      "textblob_score": 0.2484,
+      "first_sentence": "TRENTON, N.J.",
+      "timestamp": "2026-02-06T08:23:02Z",
+      "source": "AP News"
+    },
     {
       "headline": "New Jersey's special Democratic primary too early to call",
       "link": "https://www.npr.org/2026/02/06/nx-s1-5704105/new-jersey-special-democratic-primary",
@@ -2490,16 +2500,6 @@
       "first_sentence": "One of the later and less beloved Christopher Guest comedies featuring his troupe of peerless, often SCTV-related improvisers is For Your Consideration, a medium-funny savaging of Hollywood\u2019s feverish awards-season prestige campaigning.",
       "timestamp": "2026-01-30T20:25:34Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "FCC aims to ensure \"only living and lawful Americans\" get Lifeline benefits",
-      "link": "https://arstechnica.com/tech-policy/2026/01/fcc-chair-fights-calif-governor-over-alleged-lifeline-benefits-for-dead-people/",
-      "mean_score": 0.3185,
-      "vader_score": 0.6369,
-      "textblob_score": 0.0,
-      "first_sentence": "Alleging fraud in California, Carr proposes making enrollment stricter nationwide.",
-      "timestamp": "2026-01-30T19:28:57Z",
-      "source": "Ars Technica"
     }
   ]
 }
