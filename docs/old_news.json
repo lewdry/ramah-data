@@ -1,5 +1,65 @@
 [
   {
+    "headline": "Myanmar's military-backed party wins 'sham' election",
+    "link": "https://www.abc.net.au/news/2026-01-31/myanmar-election-won-by-military-backed-usdp-party/106290376",
+    "mean_score": 0.4003,
+    "vader_score": 0.7506,
+    "textblob_score": 0.05,
+    "first_sentence": "The Union and Solidarity Development Party, backed by Myanmar's ruling military, has won the country's general election.",
+    "timestamp": "2026-01-31T04:58:39Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Plan ahead and dress wisely: How to minimise add-on costs when you fly",
+    "link": "https://www.bbc.com/news/articles/c5y28w0de91o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.5857,
+    "vader_score": 0.4215,
+    "textblob_score": 0.75,
+    "first_sentence": "Budget airline easyJet was given a rap on the knuckles this week for misleading customers about how much it charges for a carry-on bag.",
+    "timestamp": "2026-01-31T02:30:04Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "'Protect every solitary moment': The viral app that asks users if they're still alive",
+    "link": "https://www.sbs.com.au/news/article/protect-every-solitary-moment-the-viral-app-that-asks-users-if-theyre-still-alive/ldab9huwu",
+    "mean_score": 0.3684,
+    "vader_score": 0.6369,
+    "textblob_score": 0.1,
+    "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+    "timestamp": "2026-01-31T01:23:12Z",
+    "source": "SBS News"
+  },
+  {
+    "headline": "Heatwave across Australia\u2019s south-east continues for eighth day ahead of a welcome cool change",
+    "link": "https://www.theguardian.com/australia-news/2026/jan/31/australia-heatwave-bom-weather-forecast-hot-temperature-eighth-day-cool-change",
+    "mean_score": 0.6118,
+    "vader_score": 0.6486,
+    "textblob_score": 0.575,
+    "first_sentence": "A cool change this weekend is expected to bring an end to eight consecutive days of blistering temperatures above 40C in Australia\u2019s south-east.",
+    "timestamp": "2026-01-31T01:17:20Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "This beach is a social media dream but a safety nightmare",
+    "link": "https://www.abc.net.au/news/2026-01-31/dreamtime-beach-a-social-media-dream-but-a-safety-nightmare/106280158",
+    "mean_score": 0.3351,
+    "vader_score": 0.6369,
+    "textblob_score": 0.0333,
+    "first_sentence": "Picture-perfect Dreamtime Beach on the Tweed Coast has become a social media sensation, helping draw large crowds that are unaware of how dangerous it can be.",
+    "timestamp": "2026-01-30T23:10:08Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Under Salt Marsh review \u2013 Rafe Spall\u2019s thrilling Welsh crime drama is clever, gripping TV",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/jan/30/under-salt-marsh-review-jonathan-pryce-sky-atlantic-now",
+    "mean_score": 0.3437,
+    "vader_score": 0.3818,
+    "textblob_score": 0.3056,
+    "first_sentence": "By \u2019eck \u2013 it\u2019s grim out west.",
+    "timestamp": "2026-01-30T22:05:39Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "This easy zucchini, corn and feta dish packs a punch",
     "link": "https://www.abc.net.au/news/2026-01-31/baked-zucchini-with-charred-corn-and-whipped-feta/106282642",
     "mean_score": 0.4369,

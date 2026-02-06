@@ -1,6 +1,36 @@
 {
-  "last run": "2026-02-06T11:17:50Z",
+  "last run": "2026-02-06T12:20:16Z",
   "stories": [
+    {
+      "headline": "AACTA key moments: Gory horror wins best film, Jacob Elordi drama dominates TV",
+      "link": "https://www.abc.net.au/news/2026-02-06/aactas-winners-list-jacob-elordi-key-moments/106315590",
+      "mean_score": 0.4298,
+      "vader_score": 0.6597,
+      "textblob_score": 0.2,
+      "first_sentence": "For the second time in under five years, Australian horror auteurs Danny and Michael Philippou have swept the AACTAs, picking up 10 awards for their 2025 film Bring Her Back.",
+      "timestamp": "2026-02-06T11:52:26Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Why Darren Aronofsky thought an AI-generated historical docudrama was a good idea",
+      "link": "https://arstechnica.com/features/2026/02/why-darren-aronofsky-thought-an-ai-generated-historical-docudrama-was-a-good-idea/",
+      "mean_score": 0.3952,
+      "vader_score": 0.4404,
+      "textblob_score": 0.35,
+      "first_sentence": "Production source says it takes \u201cweeks\u201d to produce just minutes of usable video.",
+      "timestamp": "2026-02-06T11:30:17Z",
+      "source": "Ars Technica"
+    },
+    {
+      "headline": "Helen of Nowhere by Makenna Goodman review \u2013 a perfect fairytale for our times",
+      "link": "https://www.theguardian.com/books/2026/feb/06/helen-of-nowhere-by-makenna-goodman-review-a-perfect-fairytale-for-our-times",
+      "mean_score": 0.7859,
+      "vader_score": 0.5719,
+      "textblob_score": 1.0,
+      "first_sentence": "There has never been a better time than now for Man, the protagonist of Helen of Nowhere, to be a neo-transcendentalist.",
+      "timestamp": "2026-02-06T11:00:06Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "The factors that will decide the Super Bowl: a brilliant receiver, pass protection and explosive plays",
       "link": "https://www.theguardian.com/sport/2026/feb/06/nfl-super-bowl-seattle-seahawks-new-england-patriots",
@@ -22,8 +52,28 @@
       "source": "NPR News"
     },
     {
+      "headline": "How beef made its way to the top of the food pyramid in the U.S.",
+      "link": "https://www.npr.org/2026/02/06/nx-s1-5691672/how-beef-made-its-way-to-the-top-of-the-food-pyramid-in-the-u-s",
+      "mean_score": 0.3512,
+      "vader_score": 0.2023,
+      "textblob_score": 0.5,
+      "first_sentence": "The American diet has had a roller coaster relationship with beef, but new dietary guidelines from the U.S.",
+      "timestamp": "2026-02-06T09:48:29Z",
+      "source": "NPR News"
+    },
+    {
       "headline": "Iranians face intense crackdown by security forces ahead of US-Iran nuclear talks",
       "link": "https://www.npr.org/2026/02/06/nx-s1-5701466/iranians-face-intense-crackdown-by-security-forces-ahead-of-us-iran-nuclear-talks",
+      "mean_score": 0.3009,
+      "vader_score": 0.4019,
+      "textblob_score": 0.2,
+      "first_sentence": "As the U.",
+      "timestamp": "2026-02-06T09:47:57Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "Iranians face intense crackdown by security forces ahead of U.S.-Iran nuclear talks",
+      "link": "https://www.npr.org/2026/02/06/nx-s1-5701466/iranians-face-intense-crackdown-by-security-forces-ahead-of-u-s-iran-nuclear-talks",
       "mean_score": 0.3009,
       "vader_score": 0.4019,
       "textblob_score": 0.2,
@@ -900,6 +950,16 @@
       "first_sentence": "One of the most frustrating aspects of parenting is having to force your kids to do something they will undoubtedly enjoy.",
       "timestamp": "2026-02-04T02:17:27Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "A timeless love story with Ryan Gosling and Rachel McAdams",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m000m2hj/the-notebook?at_mid=exswMG9yUO&at_campaign=The_Notebook&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m000m2hj&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Notebook&at_bbc_team=BBC&at_creation=film",
+      "mean_score": 0.5685,
+      "vader_score": 0.6369,
+      "textblob_score": 0.5,
+      "first_sentence": "In the run-up to the Second World War, a young couple's relationship falls foul of class prejudice.",
+      "timestamp": "2026-02-04T01:37:07Z",
+      "source": "BBC News"
     },
     {
       "headline": "Government pledges 10,000 new foster care places in England",
@@ -2439,66 +2499,6 @@
       "textblob_score": 1.0,
       "first_sentence": "After a three-year hiatus, the former One Directioner has announced a record-breaking tour.",
       "timestamp": "2026-01-31T05:00:48Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Myanmar's military-backed party wins 'sham' election",
-      "link": "https://www.abc.net.au/news/2026-01-31/myanmar-election-won-by-military-backed-usdp-party/106290376",
-      "mean_score": 0.4003,
-      "vader_score": 0.7506,
-      "textblob_score": 0.05,
-      "first_sentence": "The Union and Solidarity Development Party, backed by Myanmar's ruling military, has won the country's general election.",
-      "timestamp": "2026-01-31T04:58:39Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Plan ahead and dress wisely: How to minimise add-on costs when you fly",
-      "link": "https://www.bbc.com/news/articles/c5y28w0de91o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5857,
-      "vader_score": 0.4215,
-      "textblob_score": 0.75,
-      "first_sentence": "Budget airline easyJet was given a rap on the knuckles this week for misleading customers about how much it charges for a carry-on bag.",
-      "timestamp": "2026-01-31T02:30:04Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "'Protect every solitary moment': The viral app that asks users if they're still alive",
-      "link": "https://www.sbs.com.au/news/article/protect-every-solitary-moment-the-viral-app-that-asks-users-if-theyre-still-alive/ldab9huwu",
-      "mean_score": 0.3684,
-      "vader_score": 0.6369,
-      "textblob_score": 0.1,
-      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-      "timestamp": "2026-01-31T01:23:12Z",
-      "source": "SBS News"
-    },
-    {
-      "headline": "Heatwave across Australia\u2019s south-east continues for eighth day ahead of a welcome cool change",
-      "link": "https://www.theguardian.com/australia-news/2026/jan/31/australia-heatwave-bom-weather-forecast-hot-temperature-eighth-day-cool-change",
-      "mean_score": 0.6118,
-      "vader_score": 0.6486,
-      "textblob_score": 0.575,
-      "first_sentence": "A cool change this weekend is expected to bring an end to eight consecutive days of blistering temperatures above 40C in Australia\u2019s south-east.",
-      "timestamp": "2026-01-31T01:17:20Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "This beach is a social media dream but a safety nightmare",
-      "link": "https://www.abc.net.au/news/2026-01-31/dreamtime-beach-a-social-media-dream-but-a-safety-nightmare/106280158",
-      "mean_score": 0.3351,
-      "vader_score": 0.6369,
-      "textblob_score": 0.0333,
-      "first_sentence": "Picture-perfect Dreamtime Beach on the Tweed Coast has become a social media sensation, helping draw large crowds that are unaware of how dangerous it can be.",
-      "timestamp": "2026-01-30T23:10:08Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Under Salt Marsh review \u2013 Rafe Spall\u2019s thrilling Welsh crime drama is clever, gripping TV",
-      "link": "https://www.theguardian.com/tv-and-radio/2026/jan/30/under-salt-marsh-review-jonathan-pryce-sky-atlantic-now",
-      "mean_score": 0.3437,
-      "vader_score": 0.3818,
-      "textblob_score": 0.3056,
-      "first_sentence": "By \u2019eck \u2013 it\u2019s grim out west.",
-      "timestamp": "2026-01-30T22:05:39Z",
       "source": "The Guardian"
     }
   ]
