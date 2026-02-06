@@ -1,5 +1,35 @@
 [
   {
+    "headline": "The best recent translated fiction \u2013 review roundup",
+    "link": "https://www.theguardian.com/books/2026/jan/30/the-best-recent-translated-fiction-review-roundup",
+    "mean_score": 0.5685,
+    "vader_score": 0.6369,
+    "textblob_score": 0.5,
+    "first_sentence": "White Moss by Anna Nerkagi, translated by Irina Sadovina (Pushkin, \u00a312.99)\u201cYou, too, need a woman!\u201d Alyoshka\u2019s mother tells him.",
+    "timestamp": "2026-01-30T12:00:21Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "What we\u2019re reading: George Saunders, Erin Somers and Guardian readers on the books they enjoyed in January",
+    "link": "https://www.theguardian.com/books/2026/jan/30/what-were-reading-george-saunders-erin-somers-and-guardian-readers-on-the-books-they-enjoyed-in-january",
+    "mean_score": 0.5053,
+    "vader_score": 0.5106,
+    "textblob_score": 0.5,
+    "first_sentence": "Lately I\u2019ve been going back to read some classic works that I had, in my zany life-arc, missed, in the (selfish) hope of opening up new frequencies in my work.",
+    "timestamp": "2026-01-30T11:00:19Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Carlos Alcaraz breaks Zverev\u2019s heart after surviving cramp to win five-set epic",
+    "link": "https://www.theguardian.com/sport/2026/jan/30/australian-open-tennis-carlos-alcaraz-alexander-zverev-semi-final-report",
+    "mean_score": 0.6528,
+    "vader_score": 0.8555,
+    "textblob_score": 0.45,
+    "first_sentence": "Murmurs around Melbourne Park had been building.",
+    "timestamp": "2026-01-30T09:35:15Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Ukraine will be \u2018technically\u2019 ready to join EU in 2027, Zelenskyy says \u2013 Europe live",
     "link": "https://www.theguardian.com/world/live/2026/jan/30/europe-ukraine-russia-eu-zelenskyy-latest-news-updates",
     "mean_score": 0.37,
