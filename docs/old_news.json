@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Novak Djokovic thanks doubters for giving him strength after Sinner success",
+    "link": "https://www.theguardian.com/sport/2026/jan/30/novak-djokovic-jannik-sinner-australian-open-semi-final-tennis",
+    "mean_score": 0.561,
+    "vader_score": 0.872,
+    "textblob_score": 0.25,
+    "first_sentence": "Novak Djokovic thanked his doubters for helping to give him strength after he produced an incredible performance to defeat Jannik Sinner, the No 2 and two-time defending champion, 3-6, 6-3, 4-6, 6-4, 6-4 to reach the Australian Open final.",
+    "timestamp": "2026-01-30T18:42:04Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Sam Curran takes hat-trick before Salt eases England to DLS win over Sri Lanka in first T20",
     "link": "https://www.theguardian.com/sport/2026/jan/30/sri-lanka-england-cricket-first-t20-match-report",
     "mean_score": 0.626,

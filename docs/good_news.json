@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-06T06:25:52Z",
+  "last run": "2026-02-06T07:24:56Z",
   "stories": [
+    {
+      "headline": "Australia news live: PM praises \u2018very significant\u2019 Indonesia security pact; Nationals MP holds hope for Coalition reunion",
+      "link": "https://www.theguardian.com/australia-news/live/2026/feb/06/anthony-albanese-indonesia-security-pact-sussan-ley-coalition-liberals-nationals-leadership-rba-interest-rates-inflation-ntwnfb",
+      "mean_score": 0.5695,
+      "vader_score": 0.8271,
+      "textblob_score": 0.3119,
+      "first_sentence": "Anthony Albanese says he wants Australia to assist Indonesia in developing defence training infrastructure in the south-east Asian nation.",
+      "timestamp": "2026-02-06T07:12:56Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Artist Andy Goldsworthy on gathering gravestones: This is my best work yet",
       "link": "https://www.bbc.com/news/articles/cx2k84zyk61o?at_medium=RSS&at_campaign=rss",
@@ -2490,16 +2500,6 @@
       "first_sentence": "LOS ANGELES (AP) \u2014 Catherine O\u2019Hara, a gifted Canadian comic actor and \u201cSCTV\u201d alum who starred as Macaulay Culkin\u2019s harried mother in two \u201cHome Alone\u201d movies and created the dramatically ditzy character of Moira Rose in the Emmy-winning comedy \u201cSchitt\u2019s Creek,\u201d died Friday.",
       "timestamp": "2026-01-30T18:53:02Z",
       "source": "AP News"
-    },
-    {
-      "headline": "Novak Djokovic thanks doubters for giving him strength after Sinner success",
-      "link": "https://www.theguardian.com/sport/2026/jan/30/novak-djokovic-jannik-sinner-australian-open-semi-final-tennis",
-      "mean_score": 0.561,
-      "vader_score": 0.872,
-      "textblob_score": 0.25,
-      "first_sentence": "Novak Djokovic thanked his doubters for helping to give him strength after he produced an incredible performance to defeat Jannik Sinner, the No 2 and two-time defending champion, 3-6, 6-3, 4-6, 6-4, 6-4 to reach the Australian Open final.",
-      "timestamp": "2026-01-30T18:42:04Z",
-      "source": "The Guardian"
     }
   ]
 }
