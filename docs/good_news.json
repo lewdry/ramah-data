@@ -1,6 +1,36 @@
 {
-  "last run": "2026-02-06T00:39:43Z",
+  "last run": "2026-02-06T01:39:42Z",
   "stories": [
+    {
+      "headline": "No sign of fugitive Dezi Freeman as latest search ends in national park",
+      "link": "https://www.abc.net.au/news/2026-02-06/latest-dezi-freeman-manhunt-ends-at-mount-buffalo/106312280",
+      "mean_score": 0.314,
+      "vader_score": 0.128,
+      "textblob_score": 0.5,
+      "first_sentence": "A five-day search for fugitive Dezi Freeman's body and weapons has ended at Mount Buffalo.",
+      "timestamp": "2026-02-06T01:35:16Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "'People pleaser': Sloane calls out NSW premier's greatest weakness",
+      "link": "https://www.abc.net.au/news/2026-02-06/nsw-liberals-kellie-sloane-talks-minns-polls-slogans-and-bondi/106310818",
+      "mean_score": 0.8125,
+      "vader_score": 0.6249,
+      "textblob_score": 1.0,
+      "first_sentence": "The leader of the NSW opposition says the trait behind the premier's popularity is also his greatest weakness, declaring the Coalition is \"absolutely in the game\" to win next year's state election.",
+      "timestamp": "2026-02-06T01:01:45Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Increase school funding to meet need for special education, MPs urge",
+      "link": "https://www.bbc.com/news/articles/czjg8j4g981o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4848,
+      "vader_score": 0.6124,
+      "textblob_score": 0.3571,
+      "first_sentence": "School funding for special educational needs (SEND) should be increased and protected to meet the rise in demand for support, a group of MPs has said, as ministers consider major reforms.",
+      "timestamp": "2026-02-06T00:42:34Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Queensland's wild weather brings ideal conditions for barramundi",
       "link": "https://www.abc.net.au/news/2026-02-06/fishers-hopeful-wild-weather-will-mean-plenty-of-barramundi/106299924",
@@ -20,6 +50,16 @@
       "first_sentence": "Slashing tax breaks for property investors might not put much of a dent in house prices, but that\u2019s not to say it can\u2019t make a meaningful difference to home ownership rates over the coming years.",
       "timestamp": "2026-02-05T23:41:21Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "For Thailand's popular progressives, winning the vote is only the first hurdle",
+      "link": "https://www.bbc.com/news/articles/cp820jrq3yvo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5363,
+      "vader_score": 0.7351,
+      "textblob_score": 0.3375,
+      "first_sentence": "Suttasitt \"Macky\" Pottasak is a typical candidate of Thailand's People's Party: young, idealistic and hardworking.",
+      "timestamp": "2026-02-05T23:36:16Z",
+      "source": "BBC News"
     },
     {
       "headline": "Piastri defends McLaren, expects 'fair shot' at F1 title",
@@ -2460,46 +2500,6 @@
       "first_sentence": "The temperature will be far below zero when Zaglebie Lubin and GKS Katowice restart Poland\u2019s top flight on Friday evening.",
       "timestamp": "2026-01-30T08:00:14Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Andrew Hastie rules out challenging Sussan Ley for Liberal leadership, clearing path for Angus Taylor",
-      "link": "https://www.theguardian.com/australia-news/2026/jan/30/andrew-hastie-rules-out-challenging-sussan-ley-liberal-leadership",
-      "mean_score": 0.3266,
-      "vader_score": 0.1531,
-      "textblob_score": 0.5,
-      "first_sentence": "Andrew Hastie has confirmed he won\u2019t contest the Liberal party leadership, clearing the path for fellow rightwinger Angus Taylor to challenge Sussan Ley.",
-      "timestamp": "2026-01-30T07:14:11Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Benjamina Ebuehi\u2019s recipe for citrus and almond cake | The sweet spot",
-      "link": "https://www.theguardian.com/food/2026/jan/30/citrus-almond-cake-recipe-benjamina-ebuehi",
-      "mean_score": 0.4044,
-      "vader_score": 0.4588,
-      "textblob_score": 0.35,
-      "first_sentence": "Anything bright and zingy is particularly welcome in January, even more so when it\u2019s in the form of cake.",
-      "timestamp": "2026-01-30T06:00:15Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Donations top \u00a338k after rescued walkers leave hotel bill unpaid",
-      "link": "https://www.bbc.com/news/articles/cj6wgyxzlywo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4383,
-      "vader_score": 0.5267,
-      "textblob_score": 0.35,
-      "first_sentence": "A mountain rescue team has spoken of its astonishment after more than \u00a338,000 was raised after it settled an unpaid hotel bill for two walkers.",
-      "timestamp": "2026-01-30T06:00:11Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Western nations decline to join 'Board of Peace' as Middle Eastern powers accept",
-      "link": "https://www.abc.net.au/news/2026-01-30/nz-refuses-trump-invitation-board-of-peace-gaza/106286460",
-      "mean_score": 0.4037,
-      "vader_score": 0.8074,
-      "textblob_score": 0.0,
-      "first_sentence": "New Zealand says it will not accept Donald Trump's invitation to join his \"Board of Peace\", with the country's foreign minister calling for \"clarity\" over the US president's proposal.",
-      "timestamp": "2026-01-30T05:13:26Z",
-      "source": "ABC News"
     }
   ]
 }

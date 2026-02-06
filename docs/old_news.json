@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Andrew Hastie rules out challenging Sussan Ley for Liberal leadership, clearing path for Angus Taylor",
+    "link": "https://www.theguardian.com/australia-news/2026/jan/30/andrew-hastie-rules-out-challenging-sussan-ley-liberal-leadership",
+    "mean_score": 0.3266,
+    "vader_score": 0.1531,
+    "textblob_score": 0.5,
+    "first_sentence": "Andrew Hastie has confirmed he won\u2019t contest the Liberal party leadership, clearing the path for fellow rightwinger Angus Taylor to challenge Sussan Ley.",
+    "timestamp": "2026-01-30T07:14:11Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Benjamina Ebuehi\u2019s recipe for citrus and almond cake | The sweet spot",
+    "link": "https://www.theguardian.com/food/2026/jan/30/citrus-almond-cake-recipe-benjamina-ebuehi",
+    "mean_score": 0.4044,
+    "vader_score": 0.4588,
+    "textblob_score": 0.35,
+    "first_sentence": "Anything bright and zingy is particularly welcome in January, even more so when it\u2019s in the form of cake.",
+    "timestamp": "2026-01-30T06:00:15Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Donations top \u00a338k after rescued walkers leave hotel bill unpaid",
+    "link": "https://www.bbc.com/news/articles/cj6wgyxzlywo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4383,
+    "vader_score": 0.5267,
+    "textblob_score": 0.35,
+    "first_sentence": "A mountain rescue team has spoken of its astonishment after more than \u00a338,000 was raised after it settled an unpaid hotel bill for two walkers.",
+    "timestamp": "2026-01-30T06:00:11Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Western nations decline to join 'Board of Peace' as Middle Eastern powers accept",
+    "link": "https://www.abc.net.au/news/2026-01-30/nz-refuses-trump-invitation-board-of-peace-gaza/106286460",
+    "mean_score": 0.4037,
+    "vader_score": 0.8074,
+    "textblob_score": 0.0,
+    "first_sentence": "New Zealand says it will not accept Donald Trump's invitation to join his \"Board of Peace\", with the country's foreign minister calling for \"clarity\" over the US president's proposal.",
+    "timestamp": "2026-01-30T05:13:26Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Australia news live: PM hails \u2018landmark\u2019 national cabinet agreement on hospital funding",
     "link": "https://www.theguardian.com/australia-news/live/2026/jan/30/national-cabinet-meeting-ndis-health-funding-gun-buyback-scheme-anthony-albanese-mark-butler-labor-coalition-sussan-ley-ntwnfb",
     "mean_score": 0.3151,
