@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Dutch champ dedicates 'emotional' Australian Open win to late coach",
+    "link": "https://www.abc.net.au/news/2026-01-31/australian-open-niels-vink-wins-quad-wheelchair-final/106291488",
+    "mean_score": 0.4588,
+    "vader_score": 0.8176,
+    "textblob_score": 0.1,
+    "first_sentence": "Niels Vink defeated fellow Dutchman Sam Schr\u00f6der in the Australian Open quad wheelchair singles final.",
+    "timestamp": "2026-01-31T05:26:29Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "\u2018It\u2019s like a gift from God\u2019: undocumented foreign workers welcome Spanish amnesty",
+    "link": "https://www.theguardian.com/world/2026/jan/31/undocumented-foreign-workers-welcome-spanish-amnesty",
+    "mean_score": 0.5188,
+    "vader_score": 0.8126,
+    "textblob_score": 0.225,
+    "first_sentence": "Not everyone has been enthused by the Spanish government\u2019s decision this week to buck European political trends by announcing plans to regularise 500,000 undocumented migrants and asylum seekers to boost \u201ceconomic growth and social cohesion\u201d.",
+    "timestamp": "2026-01-31T05:00:49Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Is Harry Styles losing his \u2018Mr Perfect\u2019 image? Six things you need to know",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/jan/31/is-harry-styles-losing-his-mr-perfect-image-six-things-you-need-to-know",
+    "mean_score": 0.3091,
+    "vader_score": -0.3818,
+    "textblob_score": 1.0,
+    "first_sentence": "After a three-year hiatus, the former One Directioner has announced a record-breaking tour.",
+    "timestamp": "2026-01-31T05:00:48Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Myanmar's military-backed party wins 'sham' election",
     "link": "https://www.abc.net.au/news/2026-01-31/myanmar-election-won-by-military-backed-usdp-party/106290376",
     "mean_score": 0.4003,
