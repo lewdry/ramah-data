@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-06T20:12:57Z",
+  "last run": "2026-02-06T21:13:08Z",
   "stories": [
+    {
+      "headline": "Dow Jones hits 50,000 milestone amid tech gains and hopes of lower interest rates",
+      "link": "https://www.theguardian.com/business/2026/feb/06/dow-stock-market-record-high",
+      "mean_score": 0.3592,
+      "vader_score": 0.7184,
+      "textblob_score": 0.0,
+      "first_sentence": "The Dow Jones industrial average crossed 50,000 for the first time, as ballooning tech valuations, robust corporate earnings and hopes of lower interest rates drive it to new highs.",
+      "timestamp": "2026-02-06T20:35:58Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "'I love her to bits' \u2013 elderly couple get engaged in care home",
       "link": "https://www.bbc.com/news/articles/cdx4xy0xnl7o?at_medium=RSS&at_campaign=rss",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Elena Rybakina never stopped believing she would collect a second grand slam title after holding her nerve to defeat Aryna Sabalenka, the world No 1 and two-time champion, 6-4, 4-6, 6-4 and win the Australian Open.",
       "timestamp": "2026-01-31T15:03:15Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Pet sounds: Why some dog owners share music with their 4-legged friends",
-      "link": "https://apnews.com/article/music-dogs-calming-alone-training-youtube-db4e0d543674b995c5b9a5916fccda17",
-      "mean_score": 0.3243,
-      "vader_score": 0.6486,
-      "textblob_score": 0.0,
-      "first_sentence": "People use music to set moods, create a desired atmosphere and evoke memories of family and friends.",
-      "timestamp": "2026-01-31T14:53:02Z",
-      "source": "AP News"
     }
   ]
 }

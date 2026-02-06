@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Pet sounds: Why some dog owners share music with their 4-legged friends",
+    "link": "https://apnews.com/article/music-dogs-calming-alone-training-youtube-db4e0d543674b995c5b9a5916fccda17",
+    "mean_score": 0.3243,
+    "vader_score": 0.6486,
+    "textblob_score": 0.0,
+    "first_sentence": "People use music to set moods, create a desired atmosphere and evoke memories of family and friends.",
+    "timestamp": "2026-01-31T14:53:02Z",
+    "source": "AP News"
+  },
+  {
     "headline": "\u2018It\u2019s astonishing how well it has lasted\u2019: Anglesey marks 200th anniversary of beloved bridge",
     "link": "https://www.theguardian.com/uk-news/2026/jan/31/wales-anglesey-200th-anniversary-menai-bridge",
     "mean_score": 0.6299,
