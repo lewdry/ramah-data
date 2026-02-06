@@ -1,5 +1,25 @@
 [
   {
+    "headline": "\u2018It\u2019s astonishing how well it has lasted\u2019: Anglesey marks 200th anniversary of beloved bridge",
+    "link": "https://www.theguardian.com/uk-news/2026/jan/31/wales-anglesey-200th-anniversary-menai-bridge",
+    "mean_score": 0.6299,
+    "vader_score": 0.6597,
+    "textblob_score": 0.6,
+    "first_sentence": "When Ian Evans\u2019s grandfather opened a hardware shop on Anglesey in the 1930s, the Menai Bridge was instrumental in ensuring its success.",
+    "timestamp": "2026-01-31T14:30:31Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "A wing and a prayer: Rybakina\u2019s quiet resolve wrests glory from Sabalenka | Jack Snape",
+    "link": "https://www.theguardian.com/sport/2026/jan/31/elena-rybakina-australian-open-glory-aryna-sabalenka-tennis",
+    "mean_score": 0.3634,
+    "vader_score": 0.7269,
+    "textblob_score": 0.0,
+    "first_sentence": "The sprinkling rain at Melbourne Park meant the roof stayed closed on centre court for the Australian Open women\u2019s final, turning Rod Laver Arena into a concert hall charged with the music of tennis.",
+    "timestamp": "2026-01-31T14:20:12Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Record harvest sparks mass giveaway of free potatoes across Berlin",
     "link": "https://www.theguardian.com/world/2026/jan/31/record-harvest-berlin-giveaway-potatoes",
     "mean_score": 0.4553,

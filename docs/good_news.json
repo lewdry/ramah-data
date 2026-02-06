@@ -1,5 +1,5 @@
 {
-  "last run": "2026-02-06T19:20:23Z",
+  "last run": "2026-02-06T20:12:57Z",
   "stories": [
     {
       "headline": "'I love her to bits' \u2013 elderly couple get engaged in care home",
@@ -20,6 +20,16 @@
       "first_sentence": "Each question in the ABC 50/50 quiz has only two options: One is right and the other is wrong.",
       "timestamp": "2026-02-06T18:30:00Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "'I made friends for life' - 10-year-old star on filming new Lord of the Flies drama",
+      "link": "https://www.bbc.com/news/articles/c8j3j7we88do?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3065,
+      "vader_score": 0.4767,
+      "textblob_score": 0.1364,
+      "first_sentence": "A 10-year-old actor has said he was \"speechless\" when he got cast in a new BBC drama that was filmed thousands of miles from home.",
+      "timestamp": "2026-02-06T18:02:46Z",
+      "source": "BBC News"
     },
     {
       "headline": "Iran says \u2018good start\u2019 made in talks with US over nuclear programme",
@@ -359,6 +369,16 @@
       "textblob_score": 0.4,
       "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
       "timestamp": "2026-02-06T02:13:59Z",
+      "source": "SBS News"
+    },
+    {
+      "headline": "'Great concern' about escalation: What to know ahead of US-Iran meeting",
+      "link": "https://www.sbs.com.au/news/article/talks-between-us-and-iran-in-oman-on-nuclear-issues/5gn3h3ah2",
+      "mean_score": 0.7125,
+      "vader_score": 0.6249,
+      "textblob_score": 0.8,
+      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+      "timestamp": "2026-02-06T01:37:23Z",
       "source": "SBS News"
     },
     {
@@ -2480,26 +2500,6 @@
       "first_sentence": "People use music to set moods, create a desired atmosphere and evoke memories of family and friends.",
       "timestamp": "2026-01-31T14:53:02Z",
       "source": "AP News"
-    },
-    {
-      "headline": "\u2018It\u2019s astonishing how well it has lasted\u2019: Anglesey marks 200th anniversary of beloved bridge",
-      "link": "https://www.theguardian.com/uk-news/2026/jan/31/wales-anglesey-200th-anniversary-menai-bridge",
-      "mean_score": 0.6299,
-      "vader_score": 0.6597,
-      "textblob_score": 0.6,
-      "first_sentence": "When Ian Evans\u2019s grandfather opened a hardware shop on Anglesey in the 1930s, the Menai Bridge was instrumental in ensuring its success.",
-      "timestamp": "2026-01-31T14:30:31Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "A wing and a prayer: Rybakina\u2019s quiet resolve wrests glory from Sabalenka | Jack Snape",
-      "link": "https://www.theguardian.com/sport/2026/jan/31/elena-rybakina-australian-open-glory-aryna-sabalenka-tennis",
-      "mean_score": 0.3634,
-      "vader_score": 0.7269,
-      "textblob_score": 0.0,
-      "first_sentence": "The sprinkling rain at Melbourne Park meant the roof stayed closed on centre court for the Australian Open women\u2019s final, turning Rod Laver Arena into a concert hall charged with the music of tennis.",
-      "timestamp": "2026-01-31T14:20:12Z",
-      "source": "The Guardian"
     }
   ]
 }
