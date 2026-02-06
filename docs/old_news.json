@@ -1,5 +1,25 @@
 [
   {
+    "headline": "This easy zucchini, corn and feta dish packs a punch",
+    "link": "https://www.abc.net.au/news/2026-01-31/baked-zucchini-with-charred-corn-and-whipped-feta/106282642",
+    "mean_score": 0.4369,
+    "vader_score": 0.4404,
+    "textblob_score": 0.4333,
+    "first_sentence": "This is the kind of tray bake I lean on when I'm craving a bowl of veggies.",
+    "timestamp": "2026-01-30T22:00:00Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Once Upon a Time in Harlem review \u2013 remarkable Harlem Renaissance documentary",
+    "link": "https://www.theguardian.com/film/2026/jan/30/once-upon-a-time-in-harlem-documentary-review",
+    "mean_score": 0.4662,
+    "vader_score": 0.5574,
+    "textblob_score": 0.375,
+    "first_sentence": "In August 1972, the experimental film-maker William Greaves convened a once-in-a-lifetime dinner party at Duke Ellington\u2019s townhouse in Harlem.",
+    "timestamp": "2026-01-30T21:47:03Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Beach provides daily blank canvas for artist's remarkable scratchings",
     "link": "https://www.abc.net.au/news/2026-01-31/sand-art-helps-surfer-connect-community-gold-coast/106214956",
     "mean_score": 0.4037,
