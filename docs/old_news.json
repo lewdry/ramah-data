@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Beach provides daily blank canvas for artist's remarkable scratchings",
+    "link": "https://www.abc.net.au/news/2026-01-31/sand-art-helps-surfer-connect-community-gold-coast/106214956",
+    "mean_score": 0.4037,
+    "vader_score": 0.5574,
+    "textblob_score": 0.25,
+    "first_sentence": "At the break of dawn, there isn't much to see on the shoreline, but that's the beauty of Coolangatta.",
+    "timestamp": "2026-01-30T21:44:48Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Five Great Reads: how Animalia became a global bestseller, hand-me-down recipes, and the genius of Miles Davis",
+    "link": "https://www.theguardian.com/australia-news/2026/jan/31/five-great-reads-how-animalia-became-a-global-bestseller-hand-me-down-recipes-and-the-genius-of-miles-davis",
+    "mean_score": 0.5125,
+    "vader_score": 0.6249,
+    "textblob_score": 0.4,
+    "first_sentence": "Good morning.",
+    "timestamp": "2026-01-30T21:00:38Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Catherine O\u2019Hara managed to make difficult characters utterly delightful",
+    "link": "https://www.theguardian.com/culture/2026/jan/30/catherine-ohara-comedy-actor-tribute",
+    "mean_score": 0.3152,
+    "vader_score": 0.3804,
+    "textblob_score": 0.25,
+    "first_sentence": "One of the later and less beloved Christopher Guest comedies featuring his troupe of peerless, often SCTV-related improvisers is For Your Consideration, a medium-funny savaging of Hollywood\u2019s feverish awards-season prestige campaigning.",
+    "timestamp": "2026-01-30T20:25:34Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "FCC aims to ensure \"only living and lawful Americans\" get Lifeline benefits",
     "link": "https://arstechnica.com/tech-policy/2026/01/fcc-chair-fights-calif-governor-over-alleged-lifeline-benefits-for-dead-people/",
     "mean_score": 0.3185,
