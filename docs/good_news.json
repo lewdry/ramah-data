@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-06T21:13:08Z",
+  "last run": "2026-02-06T22:08:49Z",
   "stories": [
+    {
+      "headline": "'Best team yet': The Aussies to watch at the 2026 Winter Olympic Games",
+      "link": "https://www.abc.net.au/news/2026-02-07/aussies-to-watch-milano-cortina-winter-olympic-games-2026/106273742",
+      "mean_score": 0.8185,
+      "vader_score": 0.6369,
+      "textblob_score": 1.0,
+      "first_sentence": "Australia heads into the 2026 Winter Olympic Games in Milano Cortina (and Livigno) with arguably its strongest team in history.",
+      "timestamp": "2026-02-06T21:53:49Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Dow Jones hits 50,000 milestone amid tech gains and hopes of lower interest rates",
       "link": "https://www.theguardian.com/business/2026/feb/06/dow-stock-market-record-high",
@@ -10,6 +20,16 @@
       "first_sentence": "The Dow Jones industrial average crossed 50,000 for the first time, as ballooning tech valuations, robust corporate earnings and hopes of lower interest rates drive it to new highs.",
       "timestamp": "2026-02-06T20:35:58Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "What the Super Bowl means to American fans",
+      "link": "https://www.bbc.com/news/videos/c2d7den70j1o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.383,
+      "vader_score": 0.5994,
+      "textblob_score": 0.1667,
+      "first_sentence": "NFL fans have flocked to California for Super Bowl LX, where the New England Patriots and Seattle Seahawks will face off at Levi's Stadium in Santa Clara.",
+      "timestamp": "2026-02-06T19:06:05Z",
+      "source": "BBC News"
     },
     {
       "headline": "'I love her to bits' \u2013 elderly couple get engaged in care home",
@@ -2480,26 +2500,6 @@
       "first_sentence": "MELBOURNE, Australia \u2014 Elena Rybakina finally won her second Grand Slam title with a victory over top-ranked Aryna Sabalenka at the Australian Open on Saturday, and it was something of a testament to quiet achievers.",
       "timestamp": "2026-01-31T17:22:07Z",
       "source": "NPR News"
-    },
-    {
-      "headline": "Arsenal stroll back to winning ways against outclassed Leeds and go seven points clear",
-      "link": "https://www.theguardian.com/football/2026/jan/31/leeds-arsenal-premier-league-match-report",
-      "mean_score": 0.4592,
-      "vader_score": 0.7184,
-      "textblob_score": 0.2,
-      "first_sentence": "It would be a touch too hyperbolic to suggest this was a season-defining afternoon for Arsenal\u2019s title ambitions, but given the opposition and the pre-match drama surrounding this game, there was no doubting that come full time this was a significant one in the Premier League title picture.",
-      "timestamp": "2026-01-31T17:11:35Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018I always believed\u2019: Elena Rybakina relishes return to top table after Melbourne glory",
-      "link": "https://www.theguardian.com/sport/2026/jan/31/elena-rybakina-aryna-sabalenka-australian-open-final-tennis",
-      "mean_score": 0.5743,
-      "vader_score": 0.6486,
-      "textblob_score": 0.5,
-      "first_sentence": "Elena Rybakina never stopped believing she would collect a second grand slam title after holding her nerve to defeat Aryna Sabalenka, the world No 1 and two-time champion, 6-4, 4-6, 6-4 and win the Australian Open.",
-      "timestamp": "2026-01-31T15:03:15Z",
-      "source": "The Guardian"
     }
   ]
 }
