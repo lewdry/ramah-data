@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-07T10:10:07Z",
+  "last run": "2026-02-07T11:09:08Z",
   "stories": [
+    {
+      "headline": "\u2018The photo we want to take is closer than we think\u2019: Dominic D\u00e4hncke\u2019s best phone picture",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/feb/07/dominic-dahncke-best-phone-picture",
+      "mean_score": 0.8353,
+      "vader_score": 0.6705,
+      "textblob_score": 1.0,
+      "first_sentence": "\u201cTelekinesis,\u201d says Dominic D\u00e4hncke, when asked how this errant broom is standing upright.",
+      "timestamp": "2026-02-07T11:00:01Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Winter Olympics 2026: first gold medal up for grabs in men\u2019s downhill \u2013 live",
       "link": "https://www.theguardian.com/sport/live/2026/feb/07/winter-olympics-2026-first-gold-medals-mens-downhill-figure-skating-live",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Then the screen cuts.",
       "timestamp": "2026-02-01T01:24:07Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "An iconic Indian restaurant might have to shut after 99 years. Can the King save it?",
-      "link": "https://www.bbc.com/news/articles/cvgre2671v2o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.497,
-      "vader_score": 0.4939,
-      "textblob_score": 0.5,
-      "first_sentence": "Campaigners trying to prevent the closure of the UK's oldest surviving Indian restaurant are going to take a petition to Buckingham Palace in the next few weeks, calling on King Charles III to intervene.",
-      "timestamp": "2026-02-01T00:56:14Z",
-      "source": "BBC News"
     }
   ]
 }
