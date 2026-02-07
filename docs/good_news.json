@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-07T20:09:31Z",
+  "last run": "2026-02-07T21:11:15Z",
   "stories": [
+    {
+      "headline": "Olympic quick hits: Skier wears tank top, Carey lip-syncing drama emerges",
+      "link": "https://www.abc.net.au/news/2026-02-08/winter-olympics-2026-day-one-quick-hits/106318022",
+      "mean_score": 0.3095,
+      "vader_score": 0.2023,
+      "textblob_score": 0.4167,
+      "first_sentence": "Mariah Carey faces claims she was lip-syncing at the opening ceremony, while a Finnish skier makes a questionable fashion choice on the slopes.",
+      "timestamp": "2026-02-07T20:58:55Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Australia's men and women make perfect start to Perth Sevens",
       "link": "https://www.abc.net.au/news/2026-02-08/australias-men-and-women-make-perfect-start-to-perth-sevens/106318568",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.1667,
       "first_sentence": "When George Mamalis started an Instagram account a decade ago, it was filled with beaches, sunsets, cute dogs and aesthetically pleasing food shots.",
       "timestamp": "2026-02-01T14:00:33Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Leaps of faith: does jumping up and down 50 times in the morning really boost your physical and mental health?",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/feb/01/jumping-up-and-down-50-times-each-morning-health-fitness-tiktok",
-      "mean_score": 0.3429,
-      "vader_score": 0.6997,
-      "textblob_score": -0.0139,
-      "first_sentence": "TikTok says it\u2019s the ultimate wake-up call.",
-      "timestamp": "2026-02-01T14:00:32Z",
       "source": "The Guardian"
     }
   ]
