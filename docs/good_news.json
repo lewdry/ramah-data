@@ -1,6 +1,46 @@
 {
-  "last run": "2026-02-07T18:13:02Z",
+  "last run": "2026-02-07T19:11:55Z",
   "stories": [
+    {
+      "headline": "The Super Bowl half-time shows that became controversial flashpoints",
+      "link": "https://www.abc.net.au/news/2026-02-08/super-bowl-half-time-show-janet-jackson-justin-timberlake/106307184",
+      "mean_score": 0.4592,
+      "vader_score": 0.4767,
+      "textblob_score": 0.4417,
+      "first_sentence": "For a show that lasts roughly 13 minutes, the Super Bowl half-time performance has fuelled decades of controversy.",
+      "timestamp": "2026-02-07T19:00:28Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "On the streets of Melbourne: wild and wonderful people by Hussein Abdirahman Mohamud \u2013 in pictures",
+      "link": "https://www.theguardian.com/artanddesign/gallery/2026/feb/08/street-hussein-abdirahman-mohamud-melbourne-photos",
+      "mean_score": 0.561,
+      "vader_score": 0.5719,
+      "textblob_score": 0.55,
+      "first_sentence": "STREET by Hussein Abdirahman Mohamud is a zine published by the Centre for Contemporary Photography and Perimeter Editions, and is part of the CCP.",
+      "timestamp": "2026-02-07T19:00:11Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "How the Sydney Gay and Lesbian Mardi Gras after party fell apart",
+      "link": "https://www.theguardian.com/australia-news/2026/feb/08/sydney-gay-lesbian-mardi-gras-after-party-cancelled-how-it-fell-apart",
+      "mean_score": 0.4093,
+      "vader_score": 0.4019,
+      "textblob_score": 0.4167,
+      "first_sentence": "As the annual Sydney Gay and Lesbian Mardi Gras protest parade reaches the end of Oxford Street each year and moves into the Entertainment Quarter, it turns into a party.",
+      "timestamp": "2026-02-07T19:00:10Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Arundell hat-trick fires England to emphatic Six Nations win against Wales",
+      "link": "https://www.theguardian.com/sport/2026/feb/07/england-wales-six-nations-match-report",
+      "mean_score": 0.6929,
+      "vader_score": 0.5859,
+      "textblob_score": 0.8,
+      "first_sentence": "No surprises here, not even a hint of one.",
+      "timestamp": "2026-02-07T18:45:47Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "How aggressive free agency moves led the Patriots and Seahawks to the Super Bowl",
       "link": "https://apnews.com/article/super-bowl-free-agency-04e345041045d83dde810406fa60c0da",
@@ -2460,46 +2500,6 @@
       "first_sentence": "This week\u2019s question: why does a song sometimes get stuck in our heads \u2013 and what precisely makes an earworm?.",
       "timestamp": "2026-02-01T14:00:29Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Australia\u2019s best children\u2019s picture book poll: Graeme Base on \u201cAnimalia\u201d \u2013 podcast",
-      "link": "https://www.theguardian.com/australia-news/audio/2026/feb/02/australias-best-childrens-picture-book-poll-graeme-base-on-animalia-full-story-podcast",
-      "mean_score": 0.3684,
-      "vader_score": 0.6369,
-      "textblob_score": 0.1,
-      "first_sentence": "The search for Australia\u2019s best children\u2019s picture book is on! Vote now and every day until 5 February for your favourite from 50 of the best, as chosen by Guardian readers.",
-      "timestamp": "2026-02-01T14:00:28Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "'It's been a great ride': Djokovic hints 2026 could be his last",
-      "link": "https://www.abc.net.au/news/2026-02-01/australian-open-novak-djokovic-hints-2026-could-be-his-last/106293450",
-      "mean_score": 0.5125,
-      "vader_score": 0.6249,
-      "textblob_score": 0.4,
-      "first_sentence": "Novak Djokovic has hinted the 2026 Australian Open could be his last time at Melbourne Park after he was defeated by Carlos Alcaraz in the final.",
-      "timestamp": "2026-02-01T12:45:42Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Dining across the divide: \u2018Zack Polanski is articulate and charismatic, rather like Boris Johnson\u2019",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/feb/01/dining-across-the-divide-zack-polanski-is-articulate-and-charismatic-rather-like-boris-johnson",
-      "mean_score": 0.4306,
-      "vader_score": 0.3612,
-      "textblob_score": 0.5,
-      "first_sentence": "Their views differ on the Green party leader, but did the fellow Irish women agree on how to police demonstrations?.",
-      "timestamp": "2026-02-01T12:00:26Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Harry Styles and Anthony Joshua among UK's top tax payers",
-      "link": "https://www.bbc.com/news/articles/ckgkv814p37o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3512,
-      "vader_score": 0.2023,
-      "textblob_score": 0.5,
-      "first_sentence": "The billionaire brothers behind gambling giant Betfred have topped a list of the UK's 100 biggest taxpayers, which also features Harry Styles, Anthony Joshua and JK Rowling.",
-      "timestamp": "2026-02-01T10:50:19Z",
-      "source": "BBC News"
     }
   ]
 }
