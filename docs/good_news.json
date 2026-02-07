@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-07T06:19:32Z",
+  "last run": "2026-02-07T07:17:52Z",
   "stories": [
+    {
+      "headline": "Wealthy use loophole to conceal value of \u00a3300m in Scottish land sales",
+      "link": "https://www.theguardian.com/uk-news/2026/feb/07/wealthy-use-loophole-to-conceal-value-of-300m-in-scottish-land-sales",
+      "mean_score": 0.5497,
+      "vader_score": 0.5994,
+      "textblob_score": 0.5,
+      "first_sentence": "Land reform campaigners are alarmed at the increasing use of a legal loophole that allows landowners to conceal the price paid for Highland estates from the public register.",
+      "timestamp": "2026-02-07T07:00:55Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018Am I at peak popularity? I hope not\u2019: on the road with Zack Polanski, from protest to podcast to Heaven nightclub",
+      "link": "https://www.theguardian.com/politics/2026/feb/07/am-i-at-peak-popularity-i-hope-not-on-the-road-with-zack-polanski-from-protest-to-podcast-to-heaven-nightclub",
+      "mean_score": 0.4037,
+      "vader_score": 0.8074,
+      "textblob_score": 0.0,
+      "first_sentence": "With polls and membership at an all-time high, the Green party are having a moment \u2013 and it\u2019s largely down to their charismatic (if slightly cheesy) new leader.",
+      "timestamp": "2026-02-07T06:00:58Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Who says the over-40s don\u2019t know how to have fun? The Becky Barnicoat cartoon",
       "link": "https://www.theguardian.com/lifeandstyle/picture/2026/feb/07/who-says-the-over-40s-dont-know-how-to-have-fun-the-becky-barnicoat-cartoon",
@@ -10,6 +30,16 @@
       "first_sentence": "Continue reading.",
       "timestamp": "2026-02-07T06:00:53Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "'They're afraid': Can Thailand's popular progressives finally win government?",
+      "link": "https://www.abc.net.au/news/2026-02-07/thailand-election-stakes-high-as-progressives-mount-challenge/106312802",
+      "mean_score": 0.5158,
+      "vader_score": 0.765,
+      "textblob_score": 0.2667,
+      "first_sentence": "As Thailand prepares to hold a snap election on February 8, the numbers do not look good.",
+      "timestamp": "2026-02-07T02:33:50Z",
+      "source": "ABC News"
     },
     {
       "headline": "Jeers, cheers and pleas for peace kick off Milano Cortina 2026",
@@ -2470,36 +2500,6 @@
       "first_sentence": "Aryna Sabalenka doesn't \"want to think about tennis\" after another brutal loss in the women's final and Rafael Nadal picks his men's champion.",
       "timestamp": "2026-01-31T20:14:57Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Enzo Fern\u00e1ndez seals thrilling Chelsea fightback to shatter 10-man West Ham",
-      "link": "https://www.theguardian.com/football/2026/jan/31/chelsea-west-ham-premier-league-match-report",
-      "mean_score": 0.3634,
-      "vader_score": 0.4767,
-      "textblob_score": 0.25,
-      "first_sentence": "There are times when trying to make sense of Chelsea is a futile task.",
-      "timestamp": "2026-01-31T19:48:43Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018The best movement is the next movement\u2019: how to really look after your lower back",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/31/lower-back-pain-prevention-movement-exercises",
-      "mean_score": 0.3794,
-      "vader_score": 0.4588,
-      "textblob_score": 0.3,
-      "first_sentence": "Getting out of bed.",
-      "timestamp": "2026-01-31T19:00:08Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "NSW Greens to move bill to let councils better regulate berry industry as it continues rapid expansion",
-      "link": "https://www.theguardian.com/australia-news/2026/jan/31/australia-berry-industry-bill-nsw-greens",
-      "mean_score": 0.4702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.5,
-      "first_sentence": "Cate Faehrmann, a Greens member of the New South Wales legislative council, will move a private member\u2019s bill next week to give councils more power to regulate blueberry and other berry farms which are expanding throughout the mid-north coast, leading to serious frictions with other landholders.",
-      "timestamp": "2026-01-31T19:00:07Z",
-      "source": "The Guardian"
     }
   ]
 }

@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Enzo Fern\u00e1ndez seals thrilling Chelsea fightback to shatter 10-man West Ham",
+    "link": "https://www.theguardian.com/football/2026/jan/31/chelsea-west-ham-premier-league-match-report",
+    "mean_score": 0.3634,
+    "vader_score": 0.4767,
+    "textblob_score": 0.25,
+    "first_sentence": "There are times when trying to make sense of Chelsea is a futile task.",
+    "timestamp": "2026-01-31T19:48:43Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "\u2018The best movement is the next movement\u2019: how to really look after your lower back",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/jan/31/lower-back-pain-prevention-movement-exercises",
+    "mean_score": 0.3794,
+    "vader_score": 0.4588,
+    "textblob_score": 0.3,
+    "first_sentence": "Getting out of bed.",
+    "timestamp": "2026-01-31T19:00:08Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "The moment I knew: as we sat on the veranda playing Scrabble, it hit me \u2013 I was in love",
     "link": "https://www.theguardian.com/lifeandstyle/2026/jan/31/the-moment-i-knew-as-we-sat-on-the-veranda-playing-scrabble-it-hit-me-i-was-in-love",
     "mean_score": 0.6092,
@@ -16,6 +36,16 @@
     "vader_score": 0.5423,
     "textblob_score": 0.7,
     "first_sentence": "How do you create interesting drama themed around a dog park? If you\u2019ve been to one before, it doesn\u2019t exactly scream \u201criveting\u201d.",
+    "timestamp": "2026-01-31T19:00:07Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "NSW Greens to move bill to let councils better regulate berry industry as it continues rapid expansion",
+    "link": "https://www.theguardian.com/australia-news/2026/jan/31/australia-berry-industry-bill-nsw-greens",
+    "mean_score": 0.4702,
+    "vader_score": 0.4404,
+    "textblob_score": 0.5,
+    "first_sentence": "Cate Faehrmann, a Greens member of the New South Wales legislative council, will move a private member\u2019s bill next week to give councils more power to regulate blueberry and other berry farms which are expanding throughout the mid-north coast, leading to serious frictions with other landholders.",
     "timestamp": "2026-01-31T19:00:07Z",
     "source": "The Guardian"
   },
