@@ -1,5 +1,5 @@
 {
-  "last run": "2026-02-07T01:39:06Z",
+  "last run": "2026-02-07T03:02:08Z",
   "stories": [
     {
       "headline": "Jeers, cheers and pleas for peace kick off Milano Cortina 2026",
@@ -10,6 +10,16 @@
       "first_sentence": "The Milano Cortina Winter Olympic Games, the 25th in the history of the Olympic movement, got underway in a delight of colour and style and celebration of music and Italian culture.",
       "timestamp": "2026-02-06T23:59:27Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "'I dreamed of becoming a K-pop idol - but I felt like I was scammed'",
+      "link": "https://www.bbc.com/news/articles/cvgnq9rwyqno?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4761,
+      "vader_score": 0.5023,
+      "textblob_score": 0.45,
+      "first_sentence": "As K-pop's popularity soars, South Korea has become a destination for young people around the world hoping to break into the industry.",
+      "timestamp": "2026-02-06T23:05:12Z",
+      "source": "BBC News"
     },
     {
       "headline": "Years after coming out as Scotland's only gay footballer, I'm so much happier",
@@ -2488,16 +2498,6 @@
       "vader_score": 0.5423,
       "textblob_score": 0.7,
       "first_sentence": "How do you create interesting drama themed around a dog park? If you\u2019ve been to one before, it doesn\u2019t exactly scream \u201criveting\u201d.",
-      "timestamp": "2026-01-31T19:00:07Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The moment I knew: as we sat on the veranda playing Scrabble, it hit me \u2013 I was in love",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/31/the-moment-i-knew-as-we-sat-on-the-veranda-playing-scrabble-it-hit-me-i-was-in-love",
-      "mean_score": 0.6092,
-      "vader_score": 0.7184,
-      "textblob_score": 0.5,
-      "first_sentence": "In 2015, I moved to Sydney from north Wales in the UK.",
       "timestamp": "2026-01-31T19:00:07Z",
       "source": "The Guardian"
     }
