@@ -1,6 +1,36 @@
 {
-  "last run": "2026-02-07T14:11:22Z",
+  "last run": "2026-02-07T15:10:14Z",
   "stories": [
+    {
+      "headline": "Avocados are a Super Bowl staple \u2013 but are they truly a miracle food?",
+      "link": "https://www.theguardian.com/wellness/2026/feb/07/are-avocados-healthy-super-bowl",
+      "mean_score": 0.6217,
+      "vader_score": 0.91,
+      "textblob_score": 0.3333,
+      "first_sentence": "Americans are expected to devour nearly 280m pounds of avocados during Super Bowl weekend.",
+      "timestamp": "2026-02-07T15:00:05Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Fernandes keeps Carrick\u2019s perfect Manchester United record intact after Romero red card",
+      "link": "https://www.theguardian.com/football/2026/feb/07/manchester-united-tottenham-hotspur-premier-league-match-report",
+      "mean_score": 0.6537,
+      "vader_score": 0.8074,
+      "textblob_score": 0.5,
+      "first_sentence": "Michael Carrick\u2019s Manchester United revival has a fourth consecutive league win, while Thomas Frank\u2019s Tottenham sink further, with still no victory in the competition in 2026.",
+      "timestamp": "2026-02-07T14:43:38Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "'She can win': Lindsey Vonn\u2019s improbable comeback is another risk she\u2019s ready to take",
+      "link": "https://www.theguardian.com/sport/2026/feb/07/lindsey-vonn-acl-olympics-downhill-medal",
+      "mean_score": 0.5685,
+      "vader_score": 0.6369,
+      "textblob_score": 0.5,
+      "first_sentence": "It was all going a little too easy for Lindsey Vonn.",
+      "timestamp": "2026-02-07T14:29:24Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Franjo von Allmen of Switzerland wins men\u2019s downhill, first gold medal of Milan Cortina Games",
       "link": "https://apnews.com/article/mens-downhill-olympics-milan-cortina-a79a02e7ae04cd543854455edfaf595f",
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.1727,
       "first_sentence": "Carlos Alcaraz is the youngest man to complete the career Grand Slam, beating 24-time major winner Novak Djokovic in the Australian Open final.",
       "timestamp": "2026-02-01T06:20:18Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Lily Allen has made a huge comeback \u2014 soon she'll be in Australia",
-      "link": "https://www.abc.net.au/news/2026-02-01/lily-allen-australia-tour-hottest-100-interview-west-end-girl/106281950",
-      "mean_score": 0.3591,
-      "vader_score": 0.3182,
-      "textblob_score": 0.4,
-      "first_sentence": "triple j's Hottest 100 countdown always features a few surprises, tracks that should have been higher, alarming omissions and triumphant returns.",
-      "timestamp": "2026-02-01T06:13:30Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Aussie Open champ 'hungry and more motivated' after victory",
-      "link": "https://www.abc.net.au/news/2026-02-01/australian-open-champ-elena-rybakina-hungry-for-success/106292894",
-      "mean_score": 0.5,
-      "vader_score": 0.7501,
-      "textblob_score": 0.25,
-      "first_sentence": "Kazakhstan's Elena Rybakina says she wants to win as many tennis prizes as possible after winning her second grand slam title and first Australian Open crown at Melbourne Park.",
-      "timestamp": "2026-02-01T04:29:59Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Rare dolphin sightings a win for science world, expert says",
-      "link": "https://www.abc.net.au/news/2026-02-01/rarely-seen-dolphins-port-macquarie/106288194",
-      "mean_score": 0.5679,
-      "vader_score": 0.5859,
-      "textblob_score": 0.55,
-      "first_sentence": "Two rarely seen dolphin species have been photographed in waters off the coast of Port Macquarie, NSW.",
-      "timestamp": "2026-02-01T01:58:59Z",
       "source": "ABC News"
     }
   ]
