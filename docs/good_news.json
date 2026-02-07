@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-06T23:10:41Z",
+  "last run": "2026-02-07T00:40:00Z",
   "stories": [
+    {
+      "headline": "Jeers, cheers and pleas for peace kick off Milano Cortina 2026",
+      "link": "https://www.abc.net.au/news/2026-02-07/winter-olympics-2026-opening-ceremony-chilly-global-outlook/106316092",
+      "mean_score": 0.3825,
+      "vader_score": 0.765,
+      "textblob_score": 0.0,
+      "first_sentence": "The Milano Cortina Winter Olympic Games, the 25th in the history of the Olympic movement, got underway in a delight of colour and style and celebration of music and Italian culture.",
+      "timestamp": "2026-02-06T23:59:27Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Years after coming out as Scotland's only gay footballer, I'm so much happier",
       "link": "https://www.bbc.com/news/articles/cvg1gdzplz8o?at_medium=RSS&at_campaign=rss",
@@ -10,6 +20,16 @@
       "first_sentence": "While sitting on a balcony in Benidorm, Zander Murray made a decision that would change his life forever, and for the better.",
       "timestamp": "2026-02-06T22:46:45Z",
       "source": "BBC News"
+    },
+    {
+      "headline": "\u2018You have to be able to laugh at yourself\u2019: Rosenior shrugs off online mockery",
+      "link": "https://www.theguardian.com/football/2026/feb/06/you-have-to-be-able-to-laugh-at-yourself-rosenior-shrugs-off-online-mockery",
+      "mean_score": 0.3591,
+      "vader_score": 0.3182,
+      "textblob_score": 0.4,
+      "first_sentence": "Liam Rosenior says life is too short to worry about people laughing at him.",
+      "timestamp": "2026-02-06T22:30:45Z",
+      "source": "The Guardian"
     },
     {
       "headline": "Taylor Swift casts \u2018insanely charismatic and lovable\u2019 Graham Norton in music video",
@@ -178,6 +198,16 @@
       "vader_score": 0.5255,
       "textblob_score": 0.2121,
       "first_sentence": "How do you follow up a show about girls in Derry? With one about women in Belfast, obviously.",
+      "timestamp": "2026-02-06T13:00:07Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018We stole the Super Bowl audience\u2019: how In Living Color pulled off the greatest heist in US TV history",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/feb/06/super-bowl-alternative-halftime-show-in-living-color",
+      "mean_score": 0.7554,
+      "vader_score": 0.8442,
+      "textblob_score": 0.6667,
+      "first_sentence": "When the NFL announced Puerto Rican superstar Bad Bunny as this year\u2019s Super Bowl half-time show headliner, it walked right into a culture war.",
       "timestamp": "2026-02-06T13:00:07Z",
       "source": "The Guardian"
     },
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.5,
       "first_sentence": "In 2015, I moved to Sydney from north Wales in the UK.",
       "timestamp": "2026-01-31T19:00:07Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018People were starving for it\u2019: Mem Fox on the incredible, surprising success of Possum Magic",
-      "link": "https://www.theguardian.com/books/2026/jan/31/mem-fox-possum-magic-australian-childrens-book-interview",
-      "mean_score": 0.5766,
-      "vader_score": 0.5531,
-      "textblob_score": 0.6,
-      "first_sentence": "Much like Hush, the picture book\u2019s marsupial protagonist, Fox took the long way round.",
-      "timestamp": "2026-01-31T19:00:06Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The \u2018pleasant fiction\u2019 of a rules-based order has been blown apart. It\u2019s time for Australia to codify a bill of rights | Julianne Schultz",
-      "link": "https://www.theguardian.com/commentisfree/2026/jan/31/australia-charter-bill-of-rights",
-      "mean_score": 0.3667,
-      "vader_score": 0.0,
-      "textblob_score": 0.7333,
-      "first_sentence": "For decades, Labor governments have been waiting for a \u201ccatalysing political trigger\u201d to convince the opposition that there was a real and urgent need for a comprehensive, codified Australian charter of rights as exists in all other comparable nations.",
-      "timestamp": "2026-01-31T19:00:06Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Australia\u2019s best photos of the month \u2013 January 2026",
-      "link": "https://www.theguardian.com/australia-news/gallery/2026/jan/31/australia-best-photos-january-2026",
-      "mean_score": 0.8185,
-      "vader_score": 0.6369,
-      "textblob_score": 1.0,
-      "first_sentence": "Bushfires, marches and a summer of sport \u2013 Guardian Australia\u2019s best photos from around the countryPrayers, vigils and mitzvahs on the national day of mourning for Bondi beach terror attack victims \u2013 in picturesDrag racing at Sydney\u2019s weekly street meet offers a change of pace for all walks of life Continue reading.",
-      "timestamp": "2026-01-31T19:00:05Z",
       "source": "The Guardian"
     }
   ]
