@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-07T21:11:15Z",
+  "last run": "2026-02-07T22:09:25Z",
   "stories": [
+    {
+      "headline": "Tasmania explores homebirths, AMA says focus should be making hospitals comfortable",
+      "link": "https://www.abc.net.au/news/2026-02-08/tasmania-looks-at-homebirth-model/105899984",
+      "mean_score": 0.4553,
+      "vader_score": 0.5106,
+      "textblob_score": 0.4,
+      "first_sentence": "The Tasmanian government is developing a public homebirth model that would allow midwives working in the public system to support women to labour from their homes.",
+      "timestamp": "2026-02-07T21:11:17Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Olympic quick hits: Skier wears tank top, Carey lip-syncing drama emerges",
       "link": "https://www.abc.net.au/news/2026-02-08/winter-olympics-2026-day-one-quick-hits/106318022",
@@ -60,6 +70,16 @@
       "first_sentence": "No surprises here, not even a hint of one.",
       "timestamp": "2026-02-07T18:45:47Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "Sussan Ley's ousting will be justified by this narrative",
+      "link": "https://www.abc.net.au/news/2026-02-08/sussan-ley-liberals-coalition-leadership-spill-angus-taylor/106295860",
+      "mean_score": 0.401,
+      "vader_score": 0.4019,
+      "textblob_score": 0.4,
+      "first_sentence": "A permission structure has been crafted for Liberals to ditch the first woman to lead the federal party room before she has even had a year in the role.",
+      "timestamp": "2026-02-07T18:00:00Z",
+      "source": "ABC News"
     },
     {
       "headline": "How aggressive free agency moves led the Patriots and Seahawks to the Super Bowl",
@@ -129,6 +149,16 @@
       "textblob_score": 0.5,
       "first_sentence": "It was all going a little too easy for Lindsey Vonn.",
       "timestamp": "2026-02-07T14:29:24Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Bangers and smash: Von Allmen wins first gold of Winter Olympics to fulfil butcher\u2019s dream",
+      "link": "https://www.theguardian.com/sport/2026/feb/07/swiss-downhill-racer-von-allmen-edges-out-italians-to-win-first-gold-of-winter-olympics",
+      "mean_score": 0.4829,
+      "vader_score": 0.6908,
+      "textblob_score": 0.275,
+      "first_sentence": "When the Swiss skier Franjo von Allmen first broke through in the junior ranks, his village butcher created a special sausage \u2013 the Silberblitz-Wurscht or Silver Lightning \u2013 in his honour.",
+      "timestamp": "2026-02-07T13:19:06Z",
       "source": "The Guardian"
     },
     {
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.5,
       "first_sentence": "Sir Tim Martin, Harry Styles, Ed Sheeran, Erling Haaland and Mo Salah are among the UK\u2019s 100 biggest taxpayers, according to new rankings.",
       "timestamp": "2026-02-01T15:55:46Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018Already a legend\u2019: Djokovic\u2019s praise for Australian Open champion Alcaraz",
-      "link": "https://www.theguardian.com/sport/2026/feb/01/already-a-legend-djokovics-praise-for-australian-open-champion-alcaraz",
-      "mean_score": 0.4088,
-      "vader_score": 0.8176,
-      "textblob_score": 0.0,
-      "first_sentence": "Novak Djokovic called Carlos Alcaraz a tennis legend at the age of 22 after the Spaniard became the youngest male player in history to complete the career grand slam by defeating Djokovic 2-6, 6-2, 6-3, 7-5 in the Australian Open final.",
-      "timestamp": "2026-02-01T15:13:50Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Australia\u2019s youngest Winter Olympian Indra Brown: \u2018I just love the feeling of flying\u2019 | Martin Pegan",
-      "link": "https://www.theguardian.com/sport/2026/feb/02/indra-brown-australia-youngest-winter-olympian-interview",
-      "mean_score": 0.5954,
-      "vader_score": 0.6908,
-      "textblob_score": 0.5,
-      "first_sentence": "An overnight success tends to be built on years of patience and perseverance.",
-      "timestamp": "2026-02-01T14:00:34Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "From cute dogs to Turning Point: the journey of an influencer aiming to breathe rightwing Christian values into Australian politics",
-      "link": "https://www.theguardian.com/australia-news/2026/feb/02/turning-point-australia-rightwing-christian-politics",
-      "mean_score": 0.4287,
-      "vader_score": 0.6908,
-      "textblob_score": 0.1667,
-      "first_sentence": "When George Mamalis started an Instagram account a decade ago, it was filled with beaches, sunsets, cute dogs and aesthetically pleasing food shots.",
-      "timestamp": "2026-02-01T14:00:33Z",
       "source": "The Guardian"
     }
   ]
