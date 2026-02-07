@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-07T11:09:08Z",
+  "last run": "2026-02-07T12:14:54Z",
   "stories": [
+    {
+      "headline": "Epstein revelations have toppled top figures in Europe while US fallout is more muted",
+      "link": "https://apnews.com/article/jeffrey-epstein-fallout-europe-us-mandelson-409c14e095a2e29bbea6398437411a8d",
+      "mean_score": 0.3512,
+      "vader_score": 0.2023,
+      "textblob_score": 0.5,
+      "first_sentence": "LONDON (AP) \u2014 A prince, an ambassador, senior diplomats, top politicians.",
+      "timestamp": "2026-02-07T11:23:01Z",
+      "source": "AP News"
+    },
     {
       "headline": "\u2018The photo we want to take is closer than we think\u2019: Dominic D\u00e4hncke\u2019s best phone picture",
       "link": "https://www.theguardian.com/lifeandstyle/2026/feb/07/dominic-dahncke-best-phone-picture",
@@ -2490,16 +2500,6 @@
       "first_sentence": "The father of a boy rescued with others after being swept out to sea says he cannot thank the four teenagers who helped his son enough.",
       "timestamp": "2026-02-01T01:43:58Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Ed Sheeran review: pyrotechnics and technical hiccups in an ambitious, looping one-man show",
-      "link": "https://www.theguardian.com/music/2026/feb/01/ed-sheeran-review-pyrotechnics-and-technical-hiccups-in-an-ambitious-looping-one-man-show",
-      "mean_score": 0.3009,
-      "vader_score": 0.4767,
-      "textblob_score": 0.125,
-      "first_sentence": "Then the screen cuts.",
-      "timestamp": "2026-02-01T01:24:07Z",
-      "source": "The Guardian"
     }
   ]
 }
