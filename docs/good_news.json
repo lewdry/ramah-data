@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-07T05:23:59Z",
+  "last run": "2026-02-07T06:19:32Z",
   "stories": [
+    {
+      "headline": "Who says the over-40s don\u2019t know how to have fun? The Becky Barnicoat cartoon",
+      "link": "https://www.theguardian.com/lifeandstyle/picture/2026/feb/07/who-says-the-over-40s-dont-know-how-to-have-fun-the-becky-barnicoat-cartoon",
+      "mean_score": 0.4053,
+      "vader_score": 0.5106,
+      "textblob_score": 0.3,
+      "first_sentence": "Continue reading.",
+      "timestamp": "2026-02-07T06:00:53Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Jeers, cheers and pleas for peace kick off Milano Cortina 2026",
       "link": "https://www.abc.net.au/news/2026-02-07/winter-olympics-2026-opening-ceremony-chilly-global-outlook/106316092",
@@ -2488,16 +2498,6 @@
       "vader_score": 0.4404,
       "textblob_score": 0.5,
       "first_sentence": "Cate Faehrmann, a Greens member of the New South Wales legislative council, will move a private member\u2019s bill next week to give councils more power to regulate blueberry and other berry farms which are expanding throughout the mid-north coast, leading to serious frictions with other landholders.",
-      "timestamp": "2026-01-31T19:00:07Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Dog Park review \u2013 this charming comedy lures you in with dogs \u2013 but you\u2019ll stay for the humans",
-      "link": "https://www.theguardian.com/tv-and-radio/2026/jan/31/dog-park-tv-show-review-abc-comedy-celia-pacquola-leon-ford",
-      "mean_score": 0.6211,
-      "vader_score": 0.5423,
-      "textblob_score": 0.7,
-      "first_sentence": "How do you create interesting drama themed around a dog park? If you\u2019ve been to one before, it doesn\u2019t exactly scream \u201criveting\u201d.",
       "timestamp": "2026-01-31T19:00:07Z",
       "source": "The Guardian"
     }
