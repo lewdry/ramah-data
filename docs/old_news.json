@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Wil Anderson: \u2018I honestly believe being mistaken for Adam Hills is one of the great gifts of my life\u2019",
+    "link": "https://www.theguardian.com/culture/2026/feb/01/wil-anderson-i-honestly-believe-being-mistaken-for-adam-hills-is-one-of-the-great-gifts-of-my-life",
+    "mean_score": 0.6904,
+    "vader_score": 0.6808,
+    "textblob_score": 0.7,
+    "first_sentence": "I know Adam Hills did one of these and he chose me as his nemesis because we often get confused.",
+    "timestamp": "2026-01-31T23:00:10Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Ekitik\u00e9 and Wirtz sink Newcastle before Konat\u00e9 seals welcome Liverpool win",
+    "link": "https://www.theguardian.com/football/2026/jan/31/liverpool-newcastle-premier-league-match-report",
+    "mean_score": 0.7892,
+    "vader_score": 0.7783,
+    "textblob_score": 0.8,
+    "first_sentence": "You could say Hugo Ekitik\u00e9 was the one who got away from Newcastle last summer, except there were so many.",
+    "timestamp": "2026-01-31T22:11:48Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Quick hits: Epic final takes stars into uncharted territory as Nadal picks a winner",
+    "link": "https://www.abc.net.au/news/2026-02-01/australian-open-2026-quick-hits-sabalenka-rybakina-womens-final/106291656",
+    "mean_score": 0.3652,
+    "vader_score": 0.5859,
+    "textblob_score": 0.1444,
+    "first_sentence": "Aryna Sabalenka doesn't \"want to think about tennis\" after another brutal loss in the women's final and Rafael Nadal picks his men's champion.",
+    "timestamp": "2026-01-31T20:14:57Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Enzo Fern\u00e1ndez seals thrilling Chelsea fightback to shatter 10-man West Ham",
     "link": "https://www.theguardian.com/football/2026/jan/31/chelsea-west-ham-premier-league-match-report",
     "mean_score": 0.3634,

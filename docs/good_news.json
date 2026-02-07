@@ -1,5 +1,5 @@
 {
-  "last run": "2026-02-07T08:12:02Z",
+  "last run": "2026-02-07T09:13:10Z",
   "stories": [
     {
       "headline": "Wealthy use loophole to conceal value of \u00a3300m in Scottish land sales",
@@ -10,6 +10,16 @@
       "first_sentence": "Land reform campaigners are alarmed at the increasing use of a legal loophole that allows landowners to conceal the price paid for Highland estates from the public register.",
       "timestamp": "2026-02-07T07:00:55Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "'I want my ex-husband Steve Wright to come clean'",
+      "link": "https://www.bbc.com/news/articles/c79r25xnnpro?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4127,
+      "vader_score": 0.4588,
+      "textblob_score": 0.3667,
+      "first_sentence": "The ex-wife of serial killer Steve Wright has spoken of the abuse she suffered at his hands and how she hopes he will tell the truth about his victims.",
+      "timestamp": "2026-02-07T06:33:43Z",
+      "source": "BBC News"
     },
     {
       "headline": "\u2018Am I at peak popularity? I hope not\u2019: on the road with Zack Polanski, from protest to podcast to Heaven nightclub",
@@ -30,6 +40,16 @@
       "first_sentence": "Continue reading.",
       "timestamp": "2026-02-07T06:00:53Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "'I'm so lucky to get another crack': From an excavator to the NRL pre-season for this Wests Tigers hopeful",
+      "link": "https://www.abc.net.au/news/2026-02-07/pat-herbert-nrl-wests-tigers-train-and-trial/106317620",
+      "mean_score": 0.5417,
+      "vader_score": 0.7501,
+      "textblob_score": 0.3333,
+      "first_sentence": "Pat Herbert was just over three years removed from his last NRL game, perched on an excavator and well into the rest of his life, when his dreams came back to him.",
+      "timestamp": "2026-02-07T05:10:44Z",
+      "source": "ABC News"
     },
     {
       "headline": "'They're afraid': Can Thailand's popular progressives finally win government?",
@@ -410,6 +430,16 @@
       "first_sentence": "Anthony Albanese says he wants Australia to assist Indonesia in developing defence training infrastructure in the south-east Asian nation.",
       "timestamp": "2026-02-06T07:12:56Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "Inside one of Northern Ireland's most exclusive night clubs",
+      "link": "https://www.bbc.com/news/articles/c4grn4p71v9o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3503,
+      "vader_score": 0.2006,
+      "textblob_score": 0.5,
+      "first_sentence": "It's one of Northern Ireland's most exclusive night clubs - but it's not because of a dress code.",
+      "timestamp": "2026-02-06T06:24:54Z",
+      "source": "BBC News"
     },
     {
       "headline": "Artist Andy Goldsworthy on gathering gravestones: This is my best work yet",
@@ -2470,36 +2500,6 @@
       "first_sentence": "For more than 20 years Carmel Hayes has been visiting St Brigid's Primary School in Drumilly, south Armagh to teach children how to make St Brigid's crosses.",
       "timestamp": "2026-02-01T00:00:11Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Wil Anderson: \u2018I honestly believe being mistaken for Adam Hills is one of the great gifts of my life\u2019",
-      "link": "https://www.theguardian.com/culture/2026/feb/01/wil-anderson-i-honestly-believe-being-mistaken-for-adam-hills-is-one-of-the-great-gifts-of-my-life",
-      "mean_score": 0.6904,
-      "vader_score": 0.6808,
-      "textblob_score": 0.7,
-      "first_sentence": "I know Adam Hills did one of these and he chose me as his nemesis because we often get confused.",
-      "timestamp": "2026-01-31T23:00:10Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Ekitik\u00e9 and Wirtz sink Newcastle before Konat\u00e9 seals welcome Liverpool win",
-      "link": "https://www.theguardian.com/football/2026/jan/31/liverpool-newcastle-premier-league-match-report",
-      "mean_score": 0.7892,
-      "vader_score": 0.7783,
-      "textblob_score": 0.8,
-      "first_sentence": "You could say Hugo Ekitik\u00e9 was the one who got away from Newcastle last summer, except there were so many.",
-      "timestamp": "2026-01-31T22:11:48Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Quick hits: Epic final takes stars into uncharted territory as Nadal picks a winner",
-      "link": "https://www.abc.net.au/news/2026-02-01/australian-open-2026-quick-hits-sabalenka-rybakina-womens-final/106291656",
-      "mean_score": 0.3652,
-      "vader_score": 0.5859,
-      "textblob_score": 0.1444,
-      "first_sentence": "Aryna Sabalenka doesn't \"want to think about tennis\" after another brutal loss in the women's final and Rafael Nadal picks his men's champion.",
-      "timestamp": "2026-01-31T20:14:57Z",
-      "source": "ABC News"
     }
   ]
 }
