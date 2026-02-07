@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Live: Alcaraz wins maiden Australian Open to complete career Grand Slam",
+    "link": "https://www.abc.net.au/news/2026-02-01/australian-open-2026-final-live-novak-djokovic-carlos-alcaraz/106293114",
+    "mean_score": 0.3988,
+    "vader_score": 0.6249,
+    "textblob_score": 0.1727,
+    "first_sentence": "Carlos Alcaraz is the youngest man to complete the career Grand Slam, beating 24-time major winner Novak Djokovic in the Australian Open final.",
+    "timestamp": "2026-02-01T06:20:18Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Lily Allen has made a huge comeback \u2014 soon she'll be in Australia",
     "link": "https://www.abc.net.au/news/2026-02-01/lily-allen-australia-tour-hottest-100-interview-west-end-girl/106281950",
     "mean_score": 0.3591,
