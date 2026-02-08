@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Harry Brook blocks out the noise to lead England to T20 series win in Sri Lanka",
+    "link": "https://www.theguardian.com/sport/2026/feb/01/harry-brook-blocks-out-the-noise-to-lead-england-to-t20-series-win-in-sri-lanka",
+    "mean_score": 0.6202,
+    "vader_score": 0.4404,
+    "textblob_score": 0.8,
+    "first_sentence": "Numerous apologies, intense scrutiny but, still, he goes and does that.",
+    "timestamp": "2026-02-01T18:36:13Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "UK hospitality firms demand more help with business rates amid questions over Heathrow discount",
+    "link": "https://www.theguardian.com/business/2026/feb/01/uk-business-rates-rachel-reeves-relief-fund-heathrow-hospitality",
+    "mean_score": 0.4299,
+    "vader_score": 0.3597,
+    "textblob_score": 0.5,
+    "first_sentence": "Struggling hotels, restaurants and nightclubs are calling for more financial help with business rates after it emerged that Heathrow is among the biggest beneficiaries of a multibillion-pound package of state support.",
+    "timestamp": "2026-02-01T16:52:33Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Sesko seals dramatic win over Fulham to continue Manchester United revival",
     "link": "https://www.theguardian.com/football/2026/feb/01/manchester-united-fulham-premier-league-match-report",
     "mean_score": 0.4742,
