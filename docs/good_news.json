@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-08T13:22:54Z",
+  "last run": "2026-02-08T14:13:13Z",
   "stories": [
+    {
+      "headline": "Drake Maye and the Patriots take on Sam Darnold and the Seahawks in Super Bowl 60",
+      "link": "https://apnews.com/article/super-bowl-seahawks-patriots-24ad67503a342a7e24348e66986250ab",
+      "mean_score": 0.4664,
+      "vader_score": 0.5994,
+      "textblob_score": 0.3333,
+      "first_sentence": "SANTA CLARA, Calif.",
+      "timestamp": "2026-02-08T13:53:02Z",
+      "source": "AP News"
+    },
     {
       "headline": "Breezy Johnson's downhill gold is America's first medal of 2026 Winter Olympics",
       "link": "https://www.npr.org/2026/02/08/nx-s1-5705898/breezy-johnsons-downhill-gold-is-americas-first-medal-of-2026-winter-olympics",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Steven Spielberg has won his first Grammy award, making him just the 22nd artist in history to become an Egot winner \u2014 an artist with an Emmy, Grammy, Oscar and Tony.",
       "timestamp": "2026-02-02T00:45:04Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Live: Grammys 2026 live: Aussie artist already on the winners' board as stars file in",
-      "link": "https://www.abc.net.au/news/2026-02-02/68th-grammy-awards-live-updates-winners/106288902",
-      "mean_score": 0.3065,
-      "vader_score": 0.4767,
-      "textblob_score": 0.1364,
-      "first_sentence": "The\u00a0music world's biggest award ceremony, the Grammys, is taking place in Los Angeles today, hosted by Trevor Noah for the sixth time running.",
-      "timestamp": "2026-02-01T23:55:45Z",
-      "source": "ABC News"
     }
   ]
 }
