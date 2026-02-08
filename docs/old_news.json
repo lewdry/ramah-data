@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Golden becomes the first K-Pop song to win a Grammy",
+    "link": "https://www.bbc.com/news/articles/c931vdngdd2o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.518,
+    "vader_score": 0.5859,
+    "textblob_score": 0.45,
+    "first_sentence": "Golden, the inescapable hit from the movie KPop Demon Hunters, has become the first ever K-Pop song to win a Grammy Award.",
+    "timestamp": "2026-02-01T21:38:14Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Tame Impala secures Australia's sole Grammy win as artists speak out on immigration",
     "link": "https://www.sbs.com.au/news/article/when-and-where-you-can-watch-the-grammy-awards/48br2i1jx",
     "mean_score": 0.4607,
