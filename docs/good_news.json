@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-08T16:11:42Z",
+  "last run": "2026-02-08T17:11:46Z",
   "stories": [
+    {
+      "headline": "Government on track to lower train driver minimum age to 18 in Great Britain",
+      "link": "https://www.theguardian.com/business/2026/feb/08/government-on-track-to-lower-train-driver-minimum-age-to-18-in-great-britain",
+      "mean_score": 0.6202,
+      "vader_score": 0.4404,
+      "textblob_score": 0.8,
+      "first_sentence": "Labour will introduce legislation to lower the minimum age for train drivers to 18 in the House of Commons this week, as figures show fewer than 3% of drivers on Great Britain\u2019s railways are under 30.",
+      "timestamp": "2026-02-08T16:53:46Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Japan election: Sanae Takaichi\u2019s ruling conservatives on course for landslide win",
       "link": "https://www.theguardian.com/world/2026/feb/08/japan-election-conservatives-victory-sanae-takaichi",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Harbinder remembers when her children were \"on track to have a bright future\".",
       "timestamp": "2026-02-02T01:42:12Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "An old man and animals in the zoo \u2014 the best quotes from the Australian Open",
-      "link": "https://www.abc.net.au/news/2026-02-02/australian-open-2026-best-quotes/106291648",
-      "mean_score": 0.456,
-      "vader_score": 0.6369,
-      "textblob_score": 0.275,
-      "first_sentence": "The 2026 Australian Open has provided some remarkable tennis across the board, but it has also seen some memorable quotes \u2014 both good and bad.",
-      "timestamp": "2026-02-02T01:22:18Z",
-      "source": "ABC News"
     }
   ]
 }
