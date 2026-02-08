@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-08T11:10:06Z",
+  "last run": "2026-02-08T12:15:55Z",
   "stories": [
+    {
+      "headline": "\u2018It has to be amazing\u2019: Liberty links with Bridgerton as it capitalises on maximalist trend",
+      "link": "https://www.theguardian.com/business/2026/feb/08/liberty-department-store-bridgerton-lydia-king-retail-managing-director",
+      "mean_score": 0.5634,
+      "vader_score": 0.5267,
+      "textblob_score": 0.6,
+      "first_sentence": "On a damp Thursday in central London, shoppers have fled the rain to indulge in some Bridgerton-themed escapism at upmarket department store Liberty, which has dedicated its fourth floor to the raunchy period drama.",
+      "timestamp": "2026-02-08T11:00:29Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Peter Mandelson should hand back US ambassador payoff or give it to charity, says minister \u2013 UK politics live",
       "link": "https://www.theguardian.com/politics/live/2026/feb/08/peter-mandelson-payoff-keir-starmer-jeffrey-epstein-ambassadoruk-politics-live-news-updates",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Two staff members working with Australia's Winter Olympic team have tested positive to COVID-19.",
       "timestamp": "2026-02-01T22:04:59Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Black History Month centennial channels angst over anti-DEI climate into education, free resources",
-      "link": "https://apnews.com/article/black-history-month-carter-woodson-juneteenth-ac6c93af68ff95738e2a8caa5de19906",
-      "mean_score": 0.3136,
-      "vader_score": 0.5106,
-      "textblob_score": 0.1167,
-      "first_sentence": "For academics, historians and activists, the past year has been tumultuous in advocating the teaching of Black history in the United States.",
-      "timestamp": "2026-02-01T21:53:02Z",
-      "source": "AP News"
     }
   ]
 }
