@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Live: ASX down as gold miners tumble on precious metals rout",
+    "link": "https://www.abc.net.au/news/2026-02-02/asx-markets-business-news-live-updates/106293384",
+    "mean_score": 0.3661,
+    "vader_score": 0.5719,
+    "textblob_score": 0.1603,
+    "first_sentence": "The local stock market is in the red, led by hefty falls for gold miners as the precious metals rout continues.",
+    "timestamp": "2026-02-01T20:05:39Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "'Dream come true': Carlos Alcaraz secures historic career Grand Slam",
+    "link": "https://www.sbs.com.au/news/article/alcaraz-defeats-djokovic-securing-historic-grand-slam/tlpuaocf2",
+    "mean_score": 0.5206,
+    "vader_score": 0.7579,
+    "textblob_score": 0.2833,
+    "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+    "timestamp": "2026-02-01T19:39:37Z",
+    "source": "SBS News"
+  },
+  {
+    "headline": "Quick hits: Novak gets the one trophy he doesn't want as his AO luck turns",
+    "link": "https://www.abc.net.au/news/2026-02-02/australian-open-2026-quick-hits-alcaraz-djokovic-mens-final/106293202",
+    "mean_score": 0.3753,
+    "vader_score": 0.4172,
+    "textblob_score": 0.3333,
+    "first_sentence": "Rafael Nadal gives his seal of approval and Novak Djokovic collects the one trophy missing from his cabinet as his Melbourne Park fortunes flip.",
+    "timestamp": "2026-02-01T19:12:19Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "The moment Djokovic knew Alcaraz was 'destined for great things'",
+    "link": "https://www.abc.net.au/news/2026-02-02/australian-open-carlos-alcaraz-novak-djokovic-final/106293372",
+    "mean_score": 0.7125,
+    "vader_score": 0.6249,
+    "textblob_score": 0.8,
+    "first_sentence": "Amid a sombre atmosphere that followed his loss to Carlos Alcaraz in the Australian Open final, a despondent Novak Djokovic still found time to crack a joke.",
+    "timestamp": "2026-02-01T19:11:34Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Harry Brook blocks out the noise to lead England to T20 series win in Sri Lanka",
     "link": "https://www.theguardian.com/sport/2026/feb/01/harry-brook-blocks-out-the-noise-to-lead-england-to-t20-series-win-in-sri-lanka",
     "mean_score": 0.6202,

@@ -1,6 +1,46 @@
 {
-  "last run": "2026-02-08T03:10:32Z",
+  "last run": "2026-02-08T04:50:53Z",
   "stories": [
+    {
+      "headline": "Gold prospectors of bygone era create fond memories for photography duo",
+      "link": "https://www.abc.net.au/news/2026-02-08/photographers-remember-bygone-era-wa-gold-prospecting/106299710",
+      "mean_score": 0.3062,
+      "vader_score": 0.6124,
+      "textblob_score": 0.0,
+      "first_sentence": "Photographers Roger Garwood and Trish Ainslie travelled to Western Australia's remote Goldfields in 1989 to capture prospectors who had been to war for a long-planned magazine feature.",
+      "timestamp": "2026-02-08T04:43:27Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Japanese people brave snow to vote in snap election",
+      "link": "https://www.bbc.com/news/articles/cx2y7d2z29xo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4633,
+      "vader_score": 0.5267,
+      "textblob_score": 0.4,
+      "first_sentence": "People across Japan are braving snow to vote in a snap election called by Prime Minister Sanae Takaichi, whose coalition is expected clinch a decisive win, according to polls.",
+      "timestamp": "2026-02-08T04:24:37Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Japanese Prime Minister Sanae Takaichi hopes for big win as polls open in national elections",
+      "link": "https://apnews.com/article/japan-election-bbb322b4dc1dcad8f7373ba7aae4d535",
+      "mean_score": 0.4825,
+      "vader_score": 0.765,
+      "textblob_score": 0.2,
+      "first_sentence": "TOKYO (AP) \u2014 Polls opened Sunday in parliamentary elections that Japanese Prime Minister Sanae Takaichi hopes will give her struggling party a big enough win to push through an ambitious conservative political agenda.",
+      "timestamp": "2026-02-08T04:23:02Z",
+      "source": "AP News"
+    },
+    {
+      "headline": "\u2018Winds that sound like banshees\u2019: residents told to take shelter as Pilbara braces for Tropical Cyclone Mitchell",
+      "link": "https://www.theguardian.com/australia-news/2026/feb/08/tropical-cyclone-mitchell-pilbara-coast-western-australia-weather-emergency-warnings-rain-flooding-strong-wind-gusts",
+      "mean_score": 0.3806,
+      "vader_score": 0.3612,
+      "textblob_score": 0.4,
+      "first_sentence": "Severe Tropical Cyclone Mitchell is expected to maintain its category 3 intensity as it barrels along the Pilbara coast before making landfall.",
+      "timestamp": "2026-02-08T03:39:18Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Savannah Guthrie says 'we will pay' for mother's safe return",
       "link": "https://www.bbc.com/news/articles/ce9y99eg0nno?at_medium=RSS&at_campaign=rss",
@@ -2460,46 +2500,6 @@
       "first_sentence": "Dan Tehan, the shadow minister for energy, said senior leaders from the Nationals and the Liberal party need to meet in Canberra this week and work through their differences amid a split in the Coalition last month.",
       "timestamp": "2026-02-01T20:59:29Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Live: ASX down as gold miners tumble on precious metals rout",
-      "link": "https://www.abc.net.au/news/2026-02-02/asx-markets-business-news-live-updates/106293384",
-      "mean_score": 0.3661,
-      "vader_score": 0.5719,
-      "textblob_score": 0.1603,
-      "first_sentence": "The local stock market is in the red, led by hefty falls for gold miners as the precious metals rout continues.",
-      "timestamp": "2026-02-01T20:05:39Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "'Dream come true': Carlos Alcaraz secures historic career Grand Slam",
-      "link": "https://www.sbs.com.au/news/article/alcaraz-defeats-djokovic-securing-historic-grand-slam/tlpuaocf2",
-      "mean_score": 0.5206,
-      "vader_score": 0.7579,
-      "textblob_score": 0.2833,
-      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-      "timestamp": "2026-02-01T19:39:37Z",
-      "source": "SBS News"
-    },
-    {
-      "headline": "Quick hits: Novak gets the one trophy he doesn't want as his AO luck turns",
-      "link": "https://www.abc.net.au/news/2026-02-02/australian-open-2026-quick-hits-alcaraz-djokovic-mens-final/106293202",
-      "mean_score": 0.3753,
-      "vader_score": 0.4172,
-      "textblob_score": 0.3333,
-      "first_sentence": "Rafael Nadal gives his seal of approval and Novak Djokovic collects the one trophy missing from his cabinet as his Melbourne Park fortunes flip.",
-      "timestamp": "2026-02-01T19:12:19Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "The moment Djokovic knew Alcaraz was 'destined for great things'",
-      "link": "https://www.abc.net.au/news/2026-02-02/australian-open-carlos-alcaraz-novak-djokovic-final/106293372",
-      "mean_score": 0.7125,
-      "vader_score": 0.6249,
-      "textblob_score": 0.8,
-      "first_sentence": "Amid a sombre atmosphere that followed his loss to Carlos Alcaraz in the Australian Open final, a despondent Novak Djokovic still found time to crack a joke.",
-      "timestamp": "2026-02-01T19:11:34Z",
-      "source": "ABC News"
     }
   ]
 }
