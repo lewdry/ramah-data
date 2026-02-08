@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-08T18:14:01Z",
+  "last run": "2026-02-08T19:12:59Z",
   "stories": [
+    {
+      "headline": "Thai PM confident of forming government in three-way election count",
+      "link": "https://www.abc.net.au/news/2026-02-09/thailand-election-result-anutin-results/106320270",
+      "mean_score": 0.497,
+      "vader_score": 0.4939,
+      "textblob_score": 0.5,
+      "first_sentence": "Preliminary results in Thailand's general election shows the conservative Bhumjaithai Party with a sizeable lead over the progressive People's Party and the Pheu Thai Party.",
+      "timestamp": "2026-02-08T19:06:16Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "UK prime minister's powerful chief of staff quits amid Epstein fallout",
+      "link": "https://www.abc.net.au/news/2026-02-09/morgan-mcsweeney-resigns-epstein-mandelson/106320216",
+      "mean_score": 0.3608,
+      "vader_score": 0.4215,
+      "textblob_score": 0.3,
+      "first_sentence": "Morgan McSweeney has resigned from the position of chief of staff to British Prime Minister Sir Keir Starmer.",
+      "timestamp": "2026-02-08T18:44:23Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Thai PM\u2019s party on track to win election in blow to pro-democracy camp",
       "link": "https://www.theguardian.com/world/2026/feb/08/thai-voters-head-to-the-polls-with-three-main-parties-vying-to-form-government",
@@ -2480,26 +2500,6 @@
       "first_sentence": "It is believed an electrical fault in the bow of a 4.6m runabout left two men stranded off Tasmania's east coast.",
       "timestamp": "2026-02-02T04:50:57Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Carlos Alcaraz celebrates Australian Open triumph by gaming with brother - video",
-      "link": "https://www.theguardian.com/sport/video/2026/feb/02/carlos-alcaraz-australian-open-grand-slam-tennis-win-press-conference",
-      "mean_score": 0.3891,
-      "vader_score": 0.7783,
-      "textblob_score": 0.0,
-      "first_sentence": "At only 22, Carlos Alcaraz said it was a 'dream come true' to become the youngest man to complete the career grand slam, a record formerly held by Don Budge since 1938, 87 years ago.",
-      "timestamp": "2026-02-02T03:21:42Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "How Olivia Dean was crowned as the year's most exciting new artist",
-      "link": "https://www.bbc.com/news/articles/c1ev567ly7qo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4267,
-      "vader_score": 0.5413,
-      "textblob_score": 0.3121,
-      "first_sentence": "British singer Olivia Dean has confirmed her status as one of pop's biggest breakout stars by winning the Grammy Award for best new artist in Los Angeles on Sunday.",
-      "timestamp": "2026-02-02T02:39:29Z",
-      "source": "BBC News"
     }
   ]
 }

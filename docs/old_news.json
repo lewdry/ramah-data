@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Carlos Alcaraz celebrates Australian Open triumph by gaming with brother - video",
+    "link": "https://www.theguardian.com/sport/video/2026/feb/02/carlos-alcaraz-australian-open-grand-slam-tennis-win-press-conference",
+    "mean_score": 0.3891,
+    "vader_score": 0.7783,
+    "textblob_score": 0.0,
+    "first_sentence": "At only 22, Carlos Alcaraz said it was a 'dream come true' to become the youngest man to complete the career grand slam, a record formerly held by Don Budge since 1938, 87 years ago.",
+    "timestamp": "2026-02-02T03:21:42Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "How Olivia Dean was crowned as the year's most exciting new artist",
+    "link": "https://www.bbc.com/news/articles/c1ev567ly7qo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4267,
+    "vader_score": 0.5413,
+    "textblob_score": 0.3121,
+    "first_sentence": "British singer Olivia Dean has confirmed her status as one of pop's biggest breakout stars by winning the Grammy Award for best new artist in Los Angeles on Sunday.",
+    "timestamp": "2026-02-02T02:39:29Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Grammy winners 2026: Lady Gaga wins Best Pop Vocal Album",
     "link": "https://www.abc.net.au/news/2026-02-02/2026-grammys-winners-list-kendrick-lamar-olivia-dean/106294398",
     "mean_score": 0.7751,
