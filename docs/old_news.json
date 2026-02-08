@@ -10,6 +10,16 @@
     "source": "The Guardian"
   },
   {
+    "headline": "Is it true that \u2026 coffee aids digestion?",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/feb/02/is-it-true-that-coffee-aids-digestion",
+    "mean_score": 0.3857,
+    "vader_score": 0.4215,
+    "textblob_score": 0.35,
+    "first_sentence": "The Guardian\u2019s journalism is independent.",
+    "timestamp": "2026-02-02T08:00:50Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Birdwatching with Sean Bean: best podcasts of the week",
     "link": "https://www.theguardian.com/tv-and-radio/2026/feb/02/birdwatching-with-sean-bean-best-podcasts-of-the-week",
     "mean_score": 0.8185,

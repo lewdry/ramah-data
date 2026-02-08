@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-08T21:11:43Z",
+  "last run": "2026-02-08T22:10:53Z",
   "stories": [
+    {
+      "headline": "Centre-left candidate poised to comfortably win Portuguese presidency",
+      "link": "https://www.bbc.com/news/articles/cdxg6rqge2lo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.8113,
+      "vader_score": 0.8225,
+      "textblob_score": 0.8,
+      "first_sentence": "Centre-left candidate Ant\u00f3nio Jos\u00e9 Seguro is poised to comfortably beat his far-right rival to the Portuguese presidency after a run-off vote.",
+      "timestamp": "2026-02-08T21:47:38Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Super Bowl 2026: Seattle Seahawks v New England Patriots \u2013 live",
       "link": "https://www.theguardian.com/sport/live/2026/feb/08/super-bowl-2026-seattle-seahawks-new-england-patriots-live-score",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.15,
       "first_sentence": "In the basement laboratory of the National Dendrological Park Sofiyivka, Larisa Kolder tends to dozens of specimens of Moehringia hypanica between power outages.",
       "timestamp": "2026-02-02T09:00:51Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Is it true that \u2026 coffee aids digestion?",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/feb/02/is-it-true-that-coffee-aids-digestion",
-      "mean_score": 0.3857,
-      "vader_score": 0.4215,
-      "textblob_score": 0.35,
-      "first_sentence": "The Guardian\u2019s journalism is independent.",
-      "timestamp": "2026-02-02T08:00:50Z",
       "source": "The Guardian"
     }
   ]
