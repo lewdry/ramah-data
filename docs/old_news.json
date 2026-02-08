@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Do you like cat photos? Are you constantly distracted? You\u2019re probably actually quite good at focussing: 10 myths about attention",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/feb/02/do-you-like-cat-photos-are-you-constantly-distracted-youre-probably-actually-quite-good-at-focussing-10-myths-about-attention",
+    "mean_score": 0.3992,
+    "vader_score": 0.5651,
+    "textblob_score": 0.2333,
+    "first_sentence": "It\u2019s believed that we have about 50,000 thoughts a day: big, small, urgent, banal \u2013 \u201cDid I leave the oven on?\u201d.",
+    "timestamp": "2026-02-02T05:00:48Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "'Lucky' fishermen rescued after setting boat on fire to call for help",
+    "link": "https://www.abc.net.au/news/2026-02-02/tasmanian-boaties-set-fire-to-items-on-board-to-raise-alarm/106294694",
+    "mean_score": 0.5215,
+    "vader_score": 0.7096,
+    "textblob_score": 0.3333,
+    "first_sentence": "It is believed an electrical fault in the bow of a 4.6m runabout left two men stranded off Tasmania's east coast.",
+    "timestamp": "2026-02-02T04:50:57Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Carlos Alcaraz celebrates Australian Open triumph by gaming with brother - video",
     "link": "https://www.theguardian.com/sport/video/2026/feb/02/carlos-alcaraz-australian-open-grand-slam-tennis-win-press-conference",
     "mean_score": 0.3891,

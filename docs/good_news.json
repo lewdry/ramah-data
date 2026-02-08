@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-08T19:12:59Z",
+  "last run": "2026-02-08T20:09:48Z",
   "stories": [
+    {
+      "headline": "Aussie women settle for Perth Sevens silver with New Zealand too strong",
+      "link": "https://www.abc.net.au/news/2026-02-09/aussie-women-settle-for-perth-sevens-silver-new-zealand/106320454",
+      "mean_score": 0.3977,
+      "vader_score": 0.5106,
+      "textblob_score": 0.2848,
+      "first_sentence": "The Australian women's Rugby Sevens team have some soul-searching to do after falling to arch rivals New Zealand yet again in a final.",
+      "timestamp": "2026-02-08T19:39:03Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "All too easy for the Diamonds in sealing series win over Jamaica",
+      "link": "https://www.abc.net.au/news/2026-02-09/all-too-easy-for-the-diamonds-in-sealing-series-win-over-jamaica/106320414",
+      "mean_score": 0.6942,
+      "vader_score": 0.7717,
+      "textblob_score": 0.6167,
+      "first_sentence": "Diamonds coach Stacey Marinkovich is not worried about her team's soft lead-up to the Commonwealth Games despite encountering little resistance in yet another crushing win over Jamaica.",
+      "timestamp": "2026-02-08T19:12:45Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Thai PM confident of forming government in three-way election count",
       "link": "https://www.abc.net.au/news/2026-02-09/thailand-election-result-anutin-results/106320270",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Bad Bunny, the shape-shifting Puerto Rican musician, has made Grammy Award history, by becoming the first artist to win album of the year with a record sung entirely in Spanish.",
       "timestamp": "2026-02-02T05:28:41Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Do you like cat photos? Are you constantly distracted? You\u2019re probably actually quite good at focussing: 10 myths about attention",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/feb/02/do-you-like-cat-photos-are-you-constantly-distracted-youre-probably-actually-quite-good-at-focussing-10-myths-about-attention",
-      "mean_score": 0.3992,
-      "vader_score": 0.5651,
-      "textblob_score": 0.2333,
-      "first_sentence": "It\u2019s believed that we have about 50,000 thoughts a day: big, small, urgent, banal \u2013 \u201cDid I leave the oven on?\u201d.",
-      "timestamp": "2026-02-02T05:00:48Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "'Lucky' fishermen rescued after setting boat on fire to call for help",
-      "link": "https://www.abc.net.au/news/2026-02-02/tasmanian-boaties-set-fire-to-items-on-board-to-raise-alarm/106294694",
-      "mean_score": 0.5215,
-      "vader_score": 0.7096,
-      "textblob_score": 0.3333,
-      "first_sentence": "It is believed an electrical fault in the bow of a 4.6m runabout left two men stranded off Tasmania's east coast.",
-      "timestamp": "2026-02-02T04:50:57Z",
-      "source": "ABC News"
     }
   ]
 }
