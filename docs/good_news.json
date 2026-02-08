@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-08T20:09:48Z",
+  "last run": "2026-02-08T21:11:43Z",
   "stories": [
+    {
+      "headline": "Super Bowl 2026: Seattle Seahawks v New England Patriots \u2013 live",
+      "link": "https://www.theguardian.com/sport/live/2026/feb/08/super-bowl-2026-seattle-seahawks-new-england-patriots-live-score",
+      "mean_score": 0.4007,
+      "vader_score": 0.5994,
+      "textblob_score": 0.202,
+      "first_sentence": "Latest scores as teams meet for NFL title at Levi\u2019s StadiumPredictions: Our writers\u2019 picks for the winner, MVP and moreEmail david.",
+      "timestamp": "2026-02-08T21:04:10Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Landslide win beckons for centre-left candidate in Portugal\u2019s presidential runoff",
+      "link": "https://www.theguardian.com/world/2026/feb/08/portugal-election-seguro-ventura-presidential-runoff",
+      "mean_score": 0.6929,
+      "vader_score": 0.5859,
+      "textblob_score": 0.8,
+      "first_sentence": "The moderate socialist Ant\u00f3nio Jos\u00e9 Seguro appeared to be headed for a landslide victory in Portugal\u2019s presidential runoff on Sunday, with two exit polls putting him in the 67%-73% range, well ahead of his far-right, anti-establishment rival, Andr\u00e9 Ventura.",
+      "timestamp": "2026-02-08T20:26:12Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Aussie women settle for Perth Sevens silver with New Zealand too strong",
       "link": "https://www.abc.net.au/news/2026-02-09/aussie-women-settle-for-perth-sevens-silver-new-zealand/106320454",
@@ -32,6 +52,16 @@
       "source": "ABC News"
     },
     {
+      "headline": "Manchester City keep up title chase with late comeback win at Liverpool",
+      "link": "https://www.theguardian.com/football/2026/feb/08/liverpool-manchester-city-premier-league-match-report",
+      "mean_score": 0.4179,
+      "vader_score": 0.5859,
+      "textblob_score": 0.25,
+      "first_sentence": "Pep Guardiola threw himself back into his seat in the dugout.",
+      "timestamp": "2026-02-08T18:50:09Z",
+      "source": "The Guardian"
+    },
+    {
       "headline": "UK prime minister's powerful chief of staff quits amid Epstein fallout",
       "link": "https://www.abc.net.au/news/2026-02-09/morgan-mcsweeney-resigns-epstein-mandelson/106320216",
       "mean_score": 0.3608,
@@ -40,6 +70,16 @@
       "first_sentence": "Morgan McSweeney has resigned from the position of chief of staff to British Prime Minister Sir Keir Starmer.",
       "timestamp": "2026-02-08T18:44:23Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "Valentine\u2019s Day ideas from romance novelists: \u2018I always want books. I want chocolate. I want a scented candle.\u2019",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/feb/06/valentines-day-gift-ideas-romance-novelists",
+      "mean_score": 0.3352,
+      "vader_score": 0.6705,
+      "textblob_score": 0.0,
+      "first_sentence": "The Guardian\u2019s journalism is independent.",
+      "timestamp": "2026-02-08T18:15:37Z",
+      "source": "The Guardian"
     },
     {
       "headline": "Thai PM\u2019s party on track to win election in blow to pro-democracy camp",
@@ -62,6 +102,16 @@
       "source": "BBC News"
     },
     {
+      "headline": "Morgan McSweeney\u2019s fall offers a new beginning. Starmer and his cabinet had better grab it | Polly Toynbee",
+      "link": "https://www.theguardian.com/commentisfree/2026/feb/08/morgan-mcsweeney-keir-starmer-cabinet",
+      "mean_score": 0.3429,
+      "vader_score": 0.4404,
+      "textblob_score": 0.2455,
+      "first_sentence": "Here is something they can\u2019t take away from him: Morgan McSweeney is often credited for Labour\u2019s remarkable turnaround from the abyss of the 2019 election to the astounding landslide of 2024.",
+      "timestamp": "2026-02-08T17:42:36Z",
+      "source": "The Guardian"
+    },
+    {
       "headline": "Government on track to lower train driver minimum age to 18 in Great Britain",
       "link": "https://www.theguardian.com/business/2026/feb/08/government-on-track-to-lower-train-driver-minimum-age-to-18-in-great-britain",
       "mean_score": 0.6202,
@@ -69,6 +119,26 @@
       "textblob_score": 0.8,
       "first_sentence": "Labour will introduce legislation to lower the minimum age for train drivers to 18 in the House of Commons this week, as figures show fewer than 3% of drivers on Great Britain\u2019s railways are under 30.",
       "timestamp": "2026-02-08T16:53:46Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Crystal Palace end long wait for win after Isma\u00efla Sarr\u2019s strike stuns Brighton",
+      "link": "https://www.theguardian.com/football/2026/feb/08/brighton-crystal-palace-premier-league-match-report",
+      "mean_score": 0.4508,
+      "vader_score": 0.5267,
+      "textblob_score": 0.375,
+      "first_sentence": "Fabian H\u00fcrzeler must be wondering when he will have another chance to get one over Oliver Glasner.",
+      "timestamp": "2026-02-08T16:22:32Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018It\u2019s sacred and transformative\u2019: Somerset holds Saxon-inspired festival to embrace \u2018month of mud\u2019",
+      "link": "https://www.theguardian.com/environment/2026/feb/08/somerset-festival-anglo-saxon-mud-environment",
+      "mean_score": 0.3352,
+      "vader_score": 0.6705,
+      "textblob_score": 0.0,
+      "first_sentence": "A misty, rainy day in the uplands of Somerset and the mud was thick and sticky.",
+      "timestamp": "2026-02-08T15:00:33Z",
       "source": "The Guardian"
     },
     {
@@ -2430,76 +2500,6 @@
       "first_sentence": "The Guardian\u2019s journalism is independent.",
       "timestamp": "2026-02-02T08:00:50Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "The Joy of Six: incredible Winter Olympics moments",
-      "link": "https://www.theguardian.com/sport/2026/feb/02/the-joy-of-six-incredible-winter-olympics-moments",
-      "mean_score": 0.718,
-      "vader_score": 0.5859,
-      "textblob_score": 0.85,
-      "first_sentence": "The greatest show on Canadian ice, and it boiled down to overtime.",
-      "timestamp": "2026-02-02T08:00:50Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Birdwatching with Sean Bean: best podcasts of the week",
-      "link": "https://www.theguardian.com/tv-and-radio/2026/feb/02/birdwatching-with-sean-bean-best-podcasts-of-the-week",
-      "mean_score": 0.8185,
-      "vader_score": 0.6369,
-      "textblob_score": 1.0,
-      "first_sentence": "From Lord of Winterfell to lover of ornithology, the actor reveals his lifelong love of birding as host of a hugely listenable RSPB podcast.",
-      "timestamp": "2026-02-02T07:00:50Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "My search for the perfect Danish pastry in Copenhagen",
-      "link": "https://www.theguardian.com/travel/2026/feb/02/in-search-of-copenhagen-perfect-danish-pastry",
-      "mean_score": 0.7859,
-      "vader_score": 0.5719,
-      "textblob_score": 1.0,
-      "first_sentence": "Open sandwiches (sm\u00f8rrebr\u00f8d), meatballs (frikadeller), crispy pork belly (stegt fl\u00e6sk) \u2026 There are many must-eat dishes for food lovers visiting Denmark, though perhaps nothing springs to mind as readily as the Danish pastry.",
-      "timestamp": "2026-02-02T07:00:49Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The 'fantastic' baby bundles not every mum will get",
-      "link": "https://www.bbc.com/news/articles/cj4lg1xqp0zo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4787,
-      "vader_score": 0.5574,
-      "textblob_score": 0.4,
-      "first_sentence": "Some struggling families will miss out on \"fantastic\" baby bundles from the Welsh government, a charity has warned.",
-      "timestamp": "2026-02-02T06:37:32Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Hunt for UK's smallest mouse in huge Scottish nature reserve",
-      "link": "https://www.bbc.com/news/articles/c5yvzqv1225o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3591,
-      "vader_score": 0.3182,
-      "textblob_score": 0.4,
-      "first_sentence": "A hunt for the UK's smallest rodent is to take place on a huge nature reserve in southern Scotland.",
-      "timestamp": "2026-02-02T06:11:18Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "See the full list of winners",
-      "link": "https://www.bbc.com/news/articles/czx1z0qwy77o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4133,
-      "vader_score": 0.4767,
-      "textblob_score": 0.35,
-      "first_sentence": "The 68th Grammy Awards have taken place in Los Angeles, with Kendrick Lamar the night's biggest winner for the second year in a row.",
-      "timestamp": "2026-02-02T05:49:11Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Bad Bunny makes Grammy history as he wins best album",
-      "link": "https://www.bbc.com/news/articles/ce8g7q4ymrvo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4299,
-      "vader_score": 0.6597,
-      "textblob_score": 0.2,
-      "first_sentence": "Bad Bunny, the shape-shifting Puerto Rican musician, has made Grammy Award history, by becoming the first artist to win album of the year with a record sung entirely in Spanish.",
-      "timestamp": "2026-02-02T05:28:41Z",
-      "source": "BBC News"
     }
   ]
 }
