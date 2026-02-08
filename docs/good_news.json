@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-08T17:11:46Z",
+  "last run": "2026-02-08T18:14:01Z",
   "stories": [
+    {
+      "headline": "Thai PM\u2019s party on track to win election in blow to pro-democracy camp",
+      "link": "https://www.theguardian.com/world/2026/feb/08/thai-voters-head-to-the-polls-with-three-main-parties-vying-to-form-government",
+      "mean_score": 0.779,
+      "vader_score": 0.7579,
+      "textblob_score": 0.8,
+      "first_sentence": "The party of the Thai prime minister Anutin Charnvirakul, a staunch royalist and shrewd political dealmaker, is on track to win the most seats in Sunday\u2019s election after a disappointing night for his rivals in the youthful, pro-democracy People\u2019s party.",
+      "timestamp": "2026-02-08T17:51:00Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Watch: Six Nations Rugby Special",
+      "link": "https://www.bbc.co.uk/iplayer/episode/l0057wdv?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3795,
+      "vader_score": 0.4019,
+      "textblob_score": 0.3571,
+      "first_sentence": "Highlights from this year\u2019s Six Nations, including extended England v Wales analysis.",
+      "timestamp": "2026-02-08T17:47:13Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Government on track to lower train driver minimum age to 18 in Great Britain",
       "link": "https://www.theguardian.com/business/2026/feb/08/government-on-track-to-lower-train-driver-minimum-age-to-18-in-great-britain",
@@ -68,6 +88,16 @@
       "vader_score": 0.5267,
       "textblob_score": 0.6,
       "first_sentence": "On a damp Thursday in central London, shoppers have fled the rain to indulge in some Bridgerton-themed escapism at upmarket department store Liberty, which has dedicated its fourth floor to the raunchy period drama.",
+      "timestamp": "2026-02-08T11:00:29Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Super Bowl 2026 predictions: Picks for Seahawks v Patriots, MVP, score and winners",
+      "link": "https://www.theguardian.com/sport/2026/feb/08/super-bowl-2026-predictions-scores-nfl-football",
+      "mean_score": 0.562,
+      "vader_score": 0.7906,
+      "textblob_score": 0.3333,
+      "first_sentence": "Will Drake Maye lead New England into a new era of championships? Or will the Seahawks get revenge 11 years in the making? Our writers give their verdictsPressure Sam Darnold.",
       "timestamp": "2026-02-08T11:00:29Z",
       "source": "The Guardian"
     },
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.3121,
       "first_sentence": "British singer Olivia Dean has confirmed her status as one of pop's biggest breakout stars by winning the Grammy Award for best new artist in Los Angeles on Sunday.",
       "timestamp": "2026-02-02T02:39:29Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Grammy winners 2026: Lady Gaga wins Best Pop Vocal Album",
-      "link": "https://www.abc.net.au/news/2026-02-02/2026-grammys-winners-list-kendrick-lamar-olivia-dean/106294398",
-      "mean_score": 0.7751,
-      "vader_score": 0.9001,
-      "textblob_score": 0.65,
-      "first_sentence": "The 68th Grammy Awards have kicked off and artists have claimed accolades in 95 categories.",
-      "timestamp": "2026-02-02T01:54:49Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Not a fan of the gym? You can build these quick wins into your day",
-      "link": "https://www.bbc.com/news/articles/c8011zke7nko?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.363,
-      "vader_score": 0.4094,
-      "textblob_score": 0.3167,
-      "first_sentence": "Join the gym, run up a mountain, sign up for spin classes.",
-      "timestamp": "2026-02-02T01:49:10Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "My children's lives have come to a standstill - but a new study offers hope",
-      "link": "https://www.bbc.com/news/articles/cy8pnggl7zgo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3554,
-      "vader_score": 0.5927,
-      "textblob_score": 0.1182,
-      "first_sentence": "Harbinder remembers when her children were \"on track to have a bright future\".",
-      "timestamp": "2026-02-02T01:42:12Z",
       "source": "BBC News"
     }
   ]
