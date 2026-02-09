@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Ultra-processed foods should be treated more like cigarettes than food \u2013 study",
+    "link": "https://www.theguardian.com/global-development/2026/feb/03/public-health-ultra-processed-foods-regulation-cigarettes-addiction-nutrition",
+    "mean_score": 0.46,
+    "vader_score": 0.4201,
+    "textblob_score": 0.5,
+    "first_sentence": "Ultra-processed foods (UPFs) have more in common with cigarettes than with fruit or vegetables, and require far tighter regulation, according to a new report.",
+    "timestamp": "2026-02-03T05:00:30Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "\u2018Deepfakes spreading and more AI companions\u2019: seven takeaways from the latest artificial intelligence safety report",
+    "link": "https://www.theguardian.com/technology/2026/feb/03/deepfakes-ai-companions-artificial-intelligence-safety-report",
+    "mean_score": 0.4215,
+    "vader_score": 0.7096,
+    "textblob_score": 0.1333,
+    "first_sentence": "The International AI Safety report is an annual survey of technological progress and the risks it is creating across multiple areas, from deepfakes to the jobs market.",
+    "timestamp": "2026-02-03T05:00:29Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Good luck Dua Leaper: scientists return frogs wiped out by fungal disease to wild",
     "link": "https://www.theguardian.com/australia-news/2026/feb/03/green-and-golden-bell-frogs-return-act-wetlands-chytrid-fungal-disease",
     "mean_score": 0.5548,

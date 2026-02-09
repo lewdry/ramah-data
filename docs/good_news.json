@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-09T07:30:33Z",
+  "last run": "2026-02-09T08:23:40Z",
   "stories": [
+    {
+      "headline": "Japan\u2019s Nikkei hits record high and yen strengthens after Takaichi\u2019s election win \u2013 business live",
+      "link": "https://www.theguardian.com/business/live/2026/feb/09/japan-election-nikkei-record-high-yen-strengthens-takaichi-election-win-keir-starmer-pound-bonds-news-updates",
+      "mean_score": 0.5719,
+      "vader_score": 0.7783,
+      "textblob_score": 0.3655,
+      "first_sentence": "Good morning, and welcome to our rolling coverage of business, the financial markets and the world economy.",
+      "timestamp": "2026-02-09T08:05:18Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Japanese shares hit record high as Sanae Takaichi wins landslide election victory",
+      "link": "https://www.theguardian.com/world/2026/feb/09/japanese-shares-hit-record-high-as-sanae-takaichi-wins-landslide-election-victory",
+      "mean_score": 0.4315,
+      "vader_score": 0.7096,
+      "textblob_score": 0.1533,
+      "first_sentence": "Japan\u2019s stock market has hit a record high after Sanae Takaichi\u2019s Liberal Democratic party (LDP) secured a comprehensive victory in Sunday\u2019s election.",
+      "timestamp": "2026-02-09T07:50:43Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "A new start after 60: I became a wrestler, 50 years after falling in love with the sport",
       "link": "https://www.theguardian.com/lifeandstyle/2026/feb/09/a-new-start-after-60-i-became-a-wrestler-50-years-after-falling-in-love-with-the-sport",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Austin Appelbee, his mother and two siblings were swept out to sea off Quindalup in WA's South West.",
       "timestamp": "2026-02-03T05:29:29Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Ultra-processed foods should be treated more like cigarettes than food \u2013 study",
-      "link": "https://www.theguardian.com/global-development/2026/feb/03/public-health-ultra-processed-foods-regulation-cigarettes-addiction-nutrition",
-      "mean_score": 0.46,
-      "vader_score": 0.4201,
-      "textblob_score": 0.5,
-      "first_sentence": "Ultra-processed foods (UPFs) have more in common with cigarettes than with fruit or vegetables, and require far tighter regulation, according to a new report.",
-      "timestamp": "2026-02-03T05:00:30Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018Deepfakes spreading and more AI companions\u2019: seven takeaways from the latest artificial intelligence safety report",
-      "link": "https://www.theguardian.com/technology/2026/feb/03/deepfakes-ai-companions-artificial-intelligence-safety-report",
-      "mean_score": 0.4215,
-      "vader_score": 0.7096,
-      "textblob_score": 0.1333,
-      "first_sentence": "The International AI Safety report is an annual survey of technological progress and the risks it is creating across multiple areas, from deepfakes to the jobs market.",
-      "timestamp": "2026-02-03T05:00:29Z",
-      "source": "The Guardian"
     }
   ]
 }
