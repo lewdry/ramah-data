@@ -1,6 +1,86 @@
 {
-  "last run": "2026-02-09T03:10:44Z",
+  "last run": "2026-02-09T04:48:25Z",
   "stories": [
+    {
+      "headline": "Relentless Seahawks pummel Patriots to claim their second Super Bowl title",
+      "link": "https://www.theguardian.com/sport/2026/feb/08/super-bowl-lx-seahawks-patriots",
+      "mean_score": 0.3958,
+      "vader_score": 0.6249,
+      "textblob_score": 0.1667,
+      "first_sentence": "Revenge is a dish best served cold.",
+      "timestamp": "2026-02-09T04:29:55Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Seahawks win Super Bowl title, pounding the Patriots 29-13",
+      "link": "https://www.npr.org/2026/02/08/g-s1-109268/seahawks-super-bowl-title",
+      "mean_score": 0.6969,
+      "vader_score": 0.8271,
+      "textblob_score": 0.5667,
+      "first_sentence": "Devon Witherspoon, Derick Hall, Byron Murphy and the rest of Mike Macdonald's ferocious unit pummeled Drake Maye, and the Seattle Seahawks beat the New England Patriots 29-13 on Sunday to win the franchise's second Super Bowl.",
+      "timestamp": "2026-02-09T04:29:07Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "\u2018The best feeling\u2019: Mike Dickson becomes second Australian NFL player to win a Super Bowl",
+      "link": "https://www.theguardian.com/sport/2026/feb/09/super-bowl-nfl-seahawks-win-punter-mike-dickson-australia",
+      "mean_score": 0.6718,
+      "vader_score": 0.9169,
+      "textblob_score": 0.4267,
+      "first_sentence": "Michael Dickson may be the toast of Seattle, sitting on the throne of American sport, but Australia\u2019s second Super Bowl champion still has one craving the USA cannot satisfy: chips with chicken salt.",
+      "timestamp": "2026-02-09T04:25:41Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Merciless Philadelphia Eagles dismantle Kansas City Chiefs to win Super Bowl",
+      "link": "https://www.theguardian.com/sport/2025/feb/10/super-bowl-philadelphia-eagles-beat-kansas-city-chiefs",
+      "mean_score": 0.4858,
+      "vader_score": 0.8271,
+      "textblob_score": 0.1444,
+      "first_sentence": "Seven years after winning their first Vince Lombardi trophy, the Philadelphia Eagles are back on top of the NFL summit.",
+      "timestamp": "2026-02-09T04:24:35Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Five of our most popular easy vegetarian meals",
+      "link": "https://www.abc.net.au/news/2026-02-09/five-simple-tasty-vegetarian-recipes-for-meat-free-monday/106309846",
+      "mean_score": 0.626,
+      "vader_score": 0.7408,
+      "textblob_score": 0.5111,
+      "first_sentence": "If you are looking to add more vegetarian meals to your rotation, we have you covered.",
+      "timestamp": "2026-02-09T04:21:54Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Bad Bunny\u2019s Super Bowl half-time show review \u2013 a thrilling ode to Boricua joy",
+      "link": "https://www.theguardian.com/music/2026/feb/08/bad-bunny-super-bowl-half-time-show-review",
+      "mean_score": 0.4891,
+      "vader_score": 0.8074,
+      "textblob_score": 0.1708,
+      "first_sentence": "When the NFL announced in September that Bad Bunny would perform at the Super Bowl half-time show, the immediate expectation was that Benito Antonio Mart\u00ednez Ocasio would Make a Statement.",
+      "timestamp": "2026-02-09T04:09:33Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Seahawks ride their 'Dark Side' defense to a Super Bowl title, pounding the Patriots 29-13",
+      "link": "https://www.npr.org/2026/02/08/nx-s1-5706061/seahawks-win-super-bowl",
+      "mean_score": 0.3757,
+      "vader_score": 0.6597,
+      "textblob_score": 0.0917,
+      "first_sentence": "Devon Witherspoon, Derick Hall, Byron Murphy and the rest of Mike Macdonald's ferocious unit pummeled Drake Maye, and the Seattle Seahawks beat the New England Patriots 29-13 on Sunday to win the franchise's second Super Bowl.",
+      "timestamp": "2026-02-09T03:33:41Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "Perth festival 2026: Swan River bursts to life with a stunning trail of stories and light",
+      "link": "https://www.theguardian.com/culture/2026/feb/09/perth-festival-2026-opening-review",
+      "mean_score": 0.5752,
+      "vader_score": 0.7003,
+      "textblob_score": 0.45,
+      "first_sentence": "As families gather for sunset at Perth\u2019s Kings Park, a giant golden orb glows on the horizon, shooting ribbons of light into the night sky.",
+      "timestamp": "2026-02-09T02:55:42Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Laneway festival review \u2013 Chappell Roan\u2019s medieval fantasy headlines blockbuster affair",
       "link": "https://www.theguardian.com/culture/2026/feb/09/chappell-roan-laneway-festival-review",
@@ -160,6 +240,16 @@
       "first_sentence": "Pep Guardiola threw himself back into his seat in the dugout.",
       "timestamp": "2026-02-08T18:50:09Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "'Easy and cheaper': Why a growing number of Australians are adopting this niche lifestyle",
+      "link": "https://www.sbs.com.au/news/insight/article/is-living-off-grid-actually-cheaper/659x148w4",
+      "mean_score": 0.5164,
+      "vader_score": 0.5994,
+      "textblob_score": 0.4333,
+      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+      "timestamp": "2026-02-08T18:48:59Z",
+      "source": "SBS News"
     },
     {
       "headline": "UK prime minister's powerful chief of staff quits amid Epstein fallout",
@@ -2410,96 +2500,6 @@
       "first_sentence": "Fish oil, also known as omega-3, is one of the most popular dietary supplements.",
       "timestamp": "2026-02-02T18:51:09Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Intel Panther Lake Core Ultra review: Intel's best laptop CPU in a very long time",
-      "link": "https://arstechnica.com/gadgets/2026/02/intel-panther-lake-core-ultra-review-intels-best-laptop-cpu-in-a-very-long-time/",
-      "mean_score": 0.5522,
-      "vader_score": 0.6369,
-      "textblob_score": 0.4675,
-      "first_sentence": "Intel manages big boosts to CPU and GPU speed without blowing up battery life.",
-      "timestamp": "2026-02-02T18:23:56Z",
-      "source": "Ars Technica"
-    },
-    {
-      "headline": "Top players reject offer to have greater say in running of major tennis championships",
-      "link": "https://www.theguardian.com/sport/2026/feb/02/top-players-reject-offer-greater-say-running-major-tennis-championships",
-      "mean_score": 0.4882,
-      "vader_score": 0.6222,
-      "textblob_score": 0.3542,
-      "first_sentence": "The tennis pay row has escalated further with the world\u2019s top 10 male and female players rejecting an offer from the grand slams to set up a player council that would give them a greater say in the running of the major championships.",
-      "timestamp": "2026-02-02T18:00:15Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Louisville rises to 6th in AP women\u2019s Top 25, its best ranking in four years, UConn-UCLA 1-2",
-      "link": "https://apnews.com/article/womens-top-25-ap-21cd6a8d853599475a6cb87325b7cbff",
-      "mean_score": 0.7342,
-      "vader_score": 0.7184,
-      "textblob_score": 0.75,
-      "first_sentence": "Louisville moved up to sixth for its best ranking in four years in The Associated Press women\u2019s Top 25 basketball poll released Monday.",
-      "timestamp": "2026-02-02T17:23:02Z",
-      "source": "AP News"
-    },
-    {
-      "headline": "Interview: Civilization VII\u2019s devs on the big update meant to win critics back",
-      "link": "https://arstechnica.com/gaming/2026/02/interview-civilization-viis-devs-on-the-big-update-meant-to-win-critics-back/",
-      "mean_score": 0.3242,
-      "vader_score": 0.3818,
-      "textblob_score": 0.2667,
-      "first_sentence": "Firaxis\u2019 Ed Beach and Dennis Shirk talk major overhauls in \u201cTest of Time\u201d update.",
-      "timestamp": "2026-02-02T17:00:49Z",
-      "source": "Ars Technica"
-    },
-    {
-      "headline": "Gordon Brown asks top civil servant to investigate Mandelson \u2018leak to Epstein\u2019",
-      "link": "https://www.theguardian.com/politics/2026/feb/02/gordon-brown-asks-top-civil-servant-to-investigate-mandelson-leak-to-epstein",
-      "mean_score": 0.3512,
-      "vader_score": 0.2023,
-      "textblob_score": 0.5,
-      "first_sentence": "The former prime minister Gordon Brown has asked the cabinet secretary to investigate Peter Mandelson\u2019s apparent disclosure of highly sensitive government information to Jeffrey Epstein.",
-      "timestamp": "2026-02-02T16:53:45Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "House to attempt to advance outstanding funding bills as partial shutdown continues \u2013 live",
-      "link": "https://www.theguardian.com/us-news/live/2026/feb/02/donald-trump-jeffrey-epstein-files-trevor-noah-ice-minnesota-minneapolis-cuba-latest-news-updates",
-      "mean_score": 0.3956,
-      "vader_score": 0.6124,
-      "textblob_score": 0.1788,
-      "first_sentence": "The House will try and advance a five-bill funding package, as well as a continuing resolution to fund the Department of Homeland Security (DHS) today.",
-      "timestamp": "2026-02-02T14:38:28Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Beijing says Dalai Lama's Grammy win 'anti-China political manipulation'",
-      "link": "https://www.abc.net.au/news/2026-02-03/china-says-dalai-lama-grammy-win-anti-china/106297758",
-      "mean_score": 0.3909,
-      "vader_score": 0.3818,
-      "textblob_score": 0.4,
-      "first_sentence": "Beijing has slammed the Grammy awards as \"a tool for anti-China political manipulation\" after the Dalai Lama won an award.",
-      "timestamp": "2026-02-02T14:21:48Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Age brings an opportunity to escape the clutches of unattainable beauty standards \u2013 it\u2019s liberating | Zoya Patel",
-      "link": "https://www.theguardian.com/commentisfree/2026/feb/02/aging-liberating-escape-unattainable-beauty-standards",
-      "mean_score": 0.4037,
-      "vader_score": 0.8074,
-      "textblob_score": 0.0,
-      "first_sentence": "I have a memory that I frequently find myself returning to these days.",
-      "timestamp": "2026-02-02T14:00:11Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018A mixed blessing\u2019: crowdfunding has changed the way we give, but is it fair and effective?",
-      "link": "https://www.theguardian.com/technology/2026/feb/03/crowdfunding-mixed-blessing-giving-bushfires-bondi-attack",
-      "mean_score": 0.6149,
-      "vader_score": 0.7964,
-      "textblob_score": 0.4333,
-      "first_sentence": "Millions of dollars have been raised for Bondi hero Ahmed al-Ahmed, while campaigns are backing families hit by Victoria\u2019s bushfires.",
-      "timestamp": "2026-02-02T14:00:11Z",
-      "source": "The Guardian"
     }
   ]
 }

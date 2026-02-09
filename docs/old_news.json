@@ -1,5 +1,95 @@
 [
   {
+    "headline": "Intel Panther Lake Core Ultra review: Intel's best laptop CPU in a very long time",
+    "link": "https://arstechnica.com/gadgets/2026/02/intel-panther-lake-core-ultra-review-intels-best-laptop-cpu-in-a-very-long-time/",
+    "mean_score": 0.5522,
+    "vader_score": 0.6369,
+    "textblob_score": 0.4675,
+    "first_sentence": "Intel manages big boosts to CPU and GPU speed without blowing up battery life.",
+    "timestamp": "2026-02-02T18:23:56Z",
+    "source": "Ars Technica"
+  },
+  {
+    "headline": "Top players reject offer to have greater say in running of major tennis championships",
+    "link": "https://www.theguardian.com/sport/2026/feb/02/top-players-reject-offer-greater-say-running-major-tennis-championships",
+    "mean_score": 0.4882,
+    "vader_score": 0.6222,
+    "textblob_score": 0.3542,
+    "first_sentence": "The tennis pay row has escalated further with the world\u2019s top 10 male and female players rejecting an offer from the grand slams to set up a player council that would give them a greater say in the running of the major championships.",
+    "timestamp": "2026-02-02T18:00:15Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Louisville rises to 6th in AP women\u2019s Top 25, its best ranking in four years, UConn-UCLA 1-2",
+    "link": "https://apnews.com/article/womens-top-25-ap-21cd6a8d853599475a6cb87325b7cbff",
+    "mean_score": 0.7342,
+    "vader_score": 0.7184,
+    "textblob_score": 0.75,
+    "first_sentence": "Louisville moved up to sixth for its best ranking in four years in The Associated Press women\u2019s Top 25 basketball poll released Monday.",
+    "timestamp": "2026-02-02T17:23:02Z",
+    "source": "AP News"
+  },
+  {
+    "headline": "Interview: Civilization VII\u2019s devs on the big update meant to win critics back",
+    "link": "https://arstechnica.com/gaming/2026/02/interview-civilization-viis-devs-on-the-big-update-meant-to-win-critics-back/",
+    "mean_score": 0.3242,
+    "vader_score": 0.3818,
+    "textblob_score": 0.2667,
+    "first_sentence": "Firaxis\u2019 Ed Beach and Dennis Shirk talk major overhauls in \u201cTest of Time\u201d update.",
+    "timestamp": "2026-02-02T17:00:49Z",
+    "source": "Ars Technica"
+  },
+  {
+    "headline": "Gordon Brown asks top civil servant to investigate Mandelson \u2018leak to Epstein\u2019",
+    "link": "https://www.theguardian.com/politics/2026/feb/02/gordon-brown-asks-top-civil-servant-to-investigate-mandelson-leak-to-epstein",
+    "mean_score": 0.3512,
+    "vader_score": 0.2023,
+    "textblob_score": 0.5,
+    "first_sentence": "The former prime minister Gordon Brown has asked the cabinet secretary to investigate Peter Mandelson\u2019s apparent disclosure of highly sensitive government information to Jeffrey Epstein.",
+    "timestamp": "2026-02-02T16:53:45Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "House to attempt to advance outstanding funding bills as partial shutdown continues \u2013 live",
+    "link": "https://www.theguardian.com/us-news/live/2026/feb/02/donald-trump-jeffrey-epstein-files-trevor-noah-ice-minnesota-minneapolis-cuba-latest-news-updates",
+    "mean_score": 0.3956,
+    "vader_score": 0.6124,
+    "textblob_score": 0.1788,
+    "first_sentence": "The House will try and advance a five-bill funding package, as well as a continuing resolution to fund the Department of Homeland Security (DHS) today.",
+    "timestamp": "2026-02-02T14:38:28Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Beijing says Dalai Lama's Grammy win 'anti-China political manipulation'",
+    "link": "https://www.abc.net.au/news/2026-02-03/china-says-dalai-lama-grammy-win-anti-china/106297758",
+    "mean_score": 0.3909,
+    "vader_score": 0.3818,
+    "textblob_score": 0.4,
+    "first_sentence": "Beijing has slammed the Grammy awards as \"a tool for anti-China political manipulation\" after the Dalai Lama won an award.",
+    "timestamp": "2026-02-02T14:21:48Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Age brings an opportunity to escape the clutches of unattainable beauty standards \u2013 it\u2019s liberating | Zoya Patel",
+    "link": "https://www.theguardian.com/commentisfree/2026/feb/02/aging-liberating-escape-unattainable-beauty-standards",
+    "mean_score": 0.4037,
+    "vader_score": 0.8074,
+    "textblob_score": 0.0,
+    "first_sentence": "I have a memory that I frequently find myself returning to these days.",
+    "timestamp": "2026-02-02T14:00:11Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "\u2018A mixed blessing\u2019: crowdfunding has changed the way we give, but is it fair and effective?",
+    "link": "https://www.theguardian.com/technology/2026/feb/03/crowdfunding-mixed-blessing-giving-bushfires-bondi-attack",
+    "mean_score": 0.6149,
+    "vader_score": 0.7964,
+    "textblob_score": 0.4333,
+    "first_sentence": "Millions of dollars have been raised for Bondi hero Ahmed al-Ahmed, while campaigns are backing families hit by Victoria\u2019s bushfires.",
+    "timestamp": "2026-02-02T14:00:11Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Faisal Islam: Mandelson, Darling and the conversation I can't forget",
     "link": "https://www.bbc.com/news/articles/cx2kzmnr14lo?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.3335,
