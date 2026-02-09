@@ -1,6 +1,36 @@
 {
-  "last run": "2026-02-08T23:12:55Z",
+  "last run": "2026-02-09T00:43:56Z",
   "stories": [
+    {
+      "headline": "Should Australia welcome Isaac Herzog? | First Dog on the Moon",
+      "link": "https://www.theguardian.com/commentisfree/picture/2026/feb/09/should-australia-welcome-isaac-herzog",
+      "mean_score": 0.4919,
+      "vader_score": 0.4588,
+      "textblob_score": 0.525,
+      "first_sentence": "Will banning protests keep us safe? Sign up here to get an email whenever First Dog cartoons are publishedGet all your needs met at the First Dog shop if what you need is First Dog merchandise and prints Continue reading.",
+      "timestamp": "2026-02-09T00:15:22Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Search ends for 'very loved' Gold Coast fisherman Ash Haigh",
+      "link": "https://www.abc.net.au/news/2026-02-09/search-ends-loved-gold-coast-fisherman-ash-haigh/106321162",
+      "mean_score": 0.7731,
+      "vader_score": 0.6361,
+      "textblob_score": 0.91,
+      "first_sentence": "The search for missing fisherman Ash Haigh has been suspended after covering 1,800 square nautical miles.",
+      "timestamp": "2026-02-09T00:13:34Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "First Greens politician quits NT parliament 18 months after historic win",
+      "link": "https://www.abc.net.au/news/2026-02-09/nt-greens-mla-kat-mcnamara-quits-politics/106320616",
+      "mean_score": 0.4679,
+      "vader_score": 0.5859,
+      "textblob_score": 0.35,
+      "first_sentence": "NT Greens MLA Kat McNamara has announced she is quitting parliament effectively immediately.",
+      "timestamp": "2026-02-08T23:30:27Z",
+      "source": "ABC News"
+    },
     {
       "headline": "'Trust your gut': Tasmanian minister Nick Duigan takes leave for heart surgery",
       "link": "https://www.abc.net.au/news/2026-02-09/minister-nick-duigan-takes-leave-to-undergo-heart-surgery/106320766",
@@ -9,6 +39,16 @@
       "textblob_score": 0.0,
       "first_sentence": "Nick Duigan will be taking extended medical leave from February 17 due to scheduled heart surgery.",
       "timestamp": "2026-02-08T22:34:54Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Cotton processing in northern WA an 'excellent' success after first season",
+      "link": "https://www.abc.net.au/news/2026-02-09/kimberley-growers-wrap-up-first-season-processing-cotton-locally/106303718",
+      "mean_score": 0.6646,
+      "vader_score": 0.8126,
+      "textblob_score": 0.5167,
+      "first_sentence": "The Ord Valley's first season of local cotton processing in Western Australia's north has come to an end after a record-breaking harvest.",
+      "timestamp": "2026-02-08T22:23:44Z",
       "source": "ABC News"
     },
     {
@@ -2460,46 +2500,6 @@
       "first_sentence": "No time to make shortcrust? Bought puff pastry makes an instant (and decadent) alternative.",
       "timestamp": "2026-02-02T13:00:08Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Beijing criticises Dalai Lama Grammy win as 'manipulation'",
-      "link": "https://www.bbc.com/news/articles/cwy8zqn9571o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4386,
-      "vader_score": 0.0772,
-      "textblob_score": 0.8,
-      "first_sentence": "China has reacted angrily to an unlikely winner at the Grammys - the Dalai Lama - saying it opposes art awards being used for \"anti-China political manipulation\".",
-      "timestamp": "2026-02-02T12:44:33Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "The one change that worked: I quit my job, became a cat-sitter \u2013 and found new friends",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/feb/02/the-one-change-that-worked-i-quit-my-job-became-a-cat-sitter-and-found-new-friends",
-      "mean_score": 0.3065,
-      "vader_score": 0.4767,
-      "textblob_score": 0.1364,
-      "first_sentence": "I am a crazy cat lady, except for one small obstacle: I do not own a cat.",
-      "timestamp": "2026-02-02T11:00:10Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Most of Great Britain\u2019s major rail operators are back in public hands \u2013 is it working?",
-      "link": "https://www.theguardian.com/business/ng-interactive/2025/oct/13/most-of-great-britains-major-rail-operators-are-back-in-public-hands-is-it-working",
-      "mean_score": 0.4649,
-      "vader_score": 0.6573,
-      "textblob_score": 0.2725,
-      "first_sentence": "The majority of Great Britain\u2019s major rail operators are now in public ownership, as the Labour government continues its efforts to make the railways \u201cmore reliable, affordable and accessible\u201d.",
-      "timestamp": "2026-02-02T10:18:48Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Here's how this 87-year-old triathlete keeps her heart strong",
-      "link": "https://www.npr.org/2026/02/02/nx-s1-5691731/active-aging-heart-health-senior-athlete",
-      "mean_score": 0.6255,
-      "vader_score": 0.8176,
-      "textblob_score": 0.4333,
-      "first_sentence": "With the Winter Olympics starting this week, the attention on world-class athletes may motivate some of us to get off the couch and move more ourselves.",
-      "timestamp": "2026-02-02T10:00:00Z",
-      "source": "NPR News"
     }
   ]
 }
