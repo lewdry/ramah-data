@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-09T17:24:26Z",
+  "last run": "2026-02-09T18:26:00Z",
   "stories": [
+    {
+      "headline": "Arizona holds No. 1 spot for 9th week in AP Top 25; Houston rises to No. 3, Kentucky returns at 25th",
+      "link": "https://apnews.com/article/ap-top-25-poll-arizona-kentucky-2424dd3a4c00af3339f88de3ed400f31",
+      "mean_score": 0.3512,
+      "vader_score": 0.2023,
+      "textblob_score": 0.5,
+      "first_sentence": "Arizona remained firmly atop The Associated Press Top 25 men\u2019s college basketball poll for a ninth consecutive week Monday, while Houston jumped back into the top 5 and Kentucky returned to the rankings for the first time since December.",
+      "timestamp": "2026-02-09T18:23:02Z",
+      "source": "AP News"
+    },
+    {
+      "headline": "Disclosure Day Super Bowl trailer: Could it be... aliens?",
+      "link": "https://arstechnica.com/culture/2026/02/disclosure-day-super-bowl-trailer-could-it-be-aliens/",
+      "mean_score": 0.4664,
+      "vader_score": 0.5994,
+      "textblob_score": 0.3333,
+      "first_sentence": "Bonus: Mandalorian and Grogu 30-second spot shows duo being pulled through the snow by Tauntauns.",
+      "timestamp": "2026-02-09T17:41:50Z",
+      "source": "Ars Technica"
+    },
     {
       "headline": "Pubs don\u2019t deserve special measures | Letters",
       "link": "https://www.theguardian.com/lifeandstyle/2026/feb/09/pubs-dont-deserve-special-measures",
@@ -30,6 +50,16 @@
       "first_sentence": "With Super Bowl spots now up to a reported $8-10m, the market has grown a little less welcoming to Hollywood, an industry still not quite up to pre-pandemic numbers (the global box office for 2025 was down almost $10bn on 2019).",
       "timestamp": "2026-02-09T15:49:55Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "Ive and Newson bring old-school charm to Ferrari's first EV interior",
+      "link": "https://arstechnica.com/cars/2026/02/ive-and-newson-bring-old-school-charm-to-ferraris-first-ev-interior/",
+      "mean_score": 0.3259,
+      "vader_score": 0.4019,
+      "textblob_score": 0.25,
+      "first_sentence": "Analogue dials, aluminum switches, and plenty of buttons for the Ferrari Luce.",
+      "timestamp": "2026-02-09T15:44:33Z",
+      "source": "Ars Technica"
     },
     {
       "headline": "Celebrity appearances, controversial ads and other Super Bowl takeaways",
@@ -2469,36 +2499,6 @@
       "textblob_score": 1.0,
       "first_sentence": "Television turns 100 this year, so the Guardian charted our pick of the biggest TV moments from a century of television.",
       "timestamp": "2026-02-03T14:48:37Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "It\u2019s the Epstein files deja vu: how many more powerful men knew about his crimes, and helped him out anyway? | Marina Hyde",
-      "link": "https://www.theguardian.com/commentisfree/2026/feb/03/jeffrey-epstein-powerful-men-women-girls",
-      "mean_score": 0.4544,
-      "vader_score": 0.4754,
-      "textblob_score": 0.4333,
-      "first_sentence": "Like a lot of women, I do vaguely care about the latest political implosion of Peter Mandelson \u2013 but I think we\u2019re all massively more obsessed with the fact that there really was a network of incredibly famous and powerful men trying to help a known ex-con minimise and wave away his underage sex crimes.",
-      "timestamp": "2026-02-03T14:28:10Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "'Effervescent' FKA Twigs' journey to Grammy success",
-      "link": "https://www.bbc.com/news/articles/cx2k8rnx80do?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4359,
-      "vader_score": 0.5719,
-      "textblob_score": 0.3,
-      "first_sentence": "Standing on a stage and clutching a Grammy as the world watches on is, arguably, the zenith of stardom.",
-      "timestamp": "2026-02-03T14:05:38Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "From Bradbury to Bright: five of Australia\u2019s best Winter Olympic moments | Martin Pegan",
-      "link": "https://www.theguardian.com/sport/2026/feb/04/australia-best-winter-olympic-moments-history",
-      "mean_score": 0.8232,
-      "vader_score": 0.7964,
-      "textblob_score": 0.85,
-      "first_sentence": "The most unlikely of triumphs that spawned its own catch phrase.",
-      "timestamp": "2026-02-03T14:00:08Z",
       "source": "The Guardian"
     }
   ]
