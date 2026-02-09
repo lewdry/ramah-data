@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-09T22:17:08Z",
+  "last run": "2026-02-09T23:18:27Z",
   "stories": [
+    {
+      "headline": "How to spot AI-generated social media that acts like a 'snake eating its own tail'",
+      "link": "https://www.abc.net.au/news/2026-02-10/ai-generated-text-predictive-models-formulaic-social-media/106313944",
+      "mean_score": 0.3389,
+      "vader_score": 0.3612,
+      "textblob_score": 0.3167,
+      "first_sentence": "The age of AI is here and it's going to be infinitely useful, or so they tell us.",
+      "timestamp": "2026-02-09T22:48:55Z",
+      "source": "ABC News"
+    },
     {
       "headline": "McLaren unveils livery as Piastri takes positive approach into 2026",
       "link": "https://www.abc.net.au/news/2026-02-10/mclaren-unveil-livery-for-mcl40-ahead-of-2026-f1-season/106324952",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Members of the breakaway LIV Golf league will now be able to receive Official World Golf Ranking points for finishing in the top 10 of specific tournaments.",
       "timestamp": "2026-02-03T19:28:47Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Original Nintendo Switch passes the DS to become Nintendo's bestselling console",
-      "link": "https://arstechnica.com/gadgets/2026/02/original-nintendo-switch-passes-the-ds-to-become-nintendos-bestselling-console/",
-      "mean_score": 0.3466,
-      "vader_score": 0.3182,
-      "textblob_score": 0.375,
-      "first_sentence": "Switch 2 has already beaten the Wii U and is on its way to overtaking GameCube.",
-      "timestamp": "2026-02-03T18:56:20Z",
-      "source": "Ars Technica"
     }
   ]
 }
