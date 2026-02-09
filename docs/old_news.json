@@ -1,11 +1,51 @@
 [
   {
+    "headline": "It\u2019s the Hollywood sensation we\u2019re all enjoying: cinema megastars lured to a TV screen near you | Fiona Sturges",
+    "link": "https://www.theguardian.com/commentisfree/2026/feb/03/hollywood-sensation-ageing-cinema-megastars-tv",
+    "mean_score": 0.4133,
+    "vader_score": 0.5267,
+    "textblob_score": 0.3,
+    "first_sentence": "Shrinking, the TV series about Jason Segel\u2019s Jimmy, a grieving psychotherapist who can\u2019t stop telling patients what he really thinks, seems pretty innocuous on paper.",
+    "timestamp": "2026-02-03T09:00:33Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "UK shoppers buy more fruit and yoghurt in healthy start to 2026",
+    "link": "https://www.theguardian.com/business/2026/feb/03/uk-grocery-price-inflation-january-fruit-yoghurt",
+    "mean_score": 0.4509,
+    "vader_score": 0.4019,
+    "textblob_score": 0.5,
+    "first_sentence": "Britons started 2026 by buying more healthy food such as fruit and yoghurt as they attempted to hit new year health goals, while grocery price inflation eased to the lowest level since April, research has shown.",
+    "timestamp": "2026-02-03T08:42:28Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Musk firms SpaceX and xAI merge to make world's most valuable private company",
+    "link": "https://www.bbc.com/news/articles/cq6vnrye06po?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3878,
+    "vader_score": 0.5256,
+    "textblob_score": 0.25,
+    "first_sentence": "Elon Musk's SpaceX is taking over his artificial intelligence (AI) start-up, as the billionaire continues to unify some of his many business interests.",
+    "timestamp": "2026-02-03T08:40:40Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "The Good Society by Kate Pickett review \u2013 the Spirit Level author takes stock",
     "link": "https://www.theguardian.com/books/2026/feb/03/the-good-society-by-kate-pickett-review-the-spirit-level-author-takes-stock",
     "mean_score": 0.6287,
     "vader_score": 0.5574,
     "textblob_score": 0.7,
     "first_sentence": "If you\u2019ve written a successful book based around one big idea, what do you make the next one about? Back in 2009, Kate Pickett\u2019s The Spirit Level (co-authored with Richard Wilkinson) argued that inequality was the ultimate cause of almost all our social problems, from obesity and teenage pregnancy to violent crime; more equal societies, they claimed, had better outcomes across the board.",
+    "timestamp": "2026-02-03T07:00:32Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Starmer has little to offer voters of either right or left in Gorton and Denton. That\u2019s why he\u2019s facing a perfect storm | Owen Jones",
+    "link": "https://www.theguardian.com/commentisfree/2026/feb/03/keir-starmer-gorton-denton-byelection-greens-labour",
+    "mean_score": 0.4232,
+    "vader_score": 0.5719,
+    "textblob_score": 0.2746,
+    "first_sentence": "Labour\u2019s soul is being laid bare in the Gorton and Denton byelection campaign.",
     "timestamp": "2026-02-03T07:00:32Z",
     "source": "The Guardian"
   },
