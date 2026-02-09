@@ -1,5 +1,25 @@
 [
   {
+    "headline": "The Good Society by Kate Pickett review \u2013 the Spirit Level author takes stock",
+    "link": "https://www.theguardian.com/books/2026/feb/03/the-good-society-by-kate-pickett-review-the-spirit-level-author-takes-stock",
+    "mean_score": 0.6287,
+    "vader_score": 0.5574,
+    "textblob_score": 0.7,
+    "first_sentence": "If you\u2019ve written a successful book based around one big idea, what do you make the next one about? Back in 2009, Kate Pickett\u2019s The Spirit Level (co-authored with Richard Wilkinson) argued that inequality was the ultimate cause of almost all our social problems, from obesity and teenage pregnancy to violent crime; more equal societies, they claimed, had better outcomes across the board.",
+    "timestamp": "2026-02-03T07:00:32Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Iran\u2019s president seeks \u2018fair and equitable negotiations\u2019 with the United States",
+    "link": "https://apnews.com/article/iran-trump-protests-negotiations-nuclear-deal-9758adb33c0d01c70a07ad7de0f5221b",
+    "mean_score": 0.5607,
+    "vader_score": 0.4215,
+    "textblob_score": 0.7,
+    "first_sentence": "The comments on Tuesday from reformist President Masoud Pezeshkian represent the first clear signal from Iran that it may take part in negotiations being organized by Turkey.",
+    "timestamp": "2026-02-03T06:23:02Z",
+    "source": "AP News"
+  },
+  {
     "headline": "Iran\u2019s president says Tehran ready to pursue \u2018fair\u2019 talks with US",
     "link": "https://www.theguardian.com/world/2026/feb/02/iran-abbas-araghchi-talks-us-nuclear-deal",
     "mean_score": 0.4056,

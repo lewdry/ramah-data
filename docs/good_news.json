@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-09T11:23:14Z",
+  "last run": "2026-02-09T12:25:17Z",
   "stories": [
+    {
+      "headline": "Japan's ruling party wins a supermajority in country's lower house",
+      "link": "https://www.npr.org/2026/02/09/nx-s1-5705950/japans-ruling-party-wins-a-supermajority-in-countrys-lower-house",
+      "mean_score": 0.4685,
+      "vader_score": 0.6369,
+      "textblob_score": 0.3,
+      "first_sentence": "Japan's ruling party scored its biggest electoral win in its seven-decade history Sunday, due mostly to the popularity of its first female prime minister, Sanae Takaichi.",
+      "timestamp": "2026-02-09T11:48:37Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "Relentless Seahawks pummel Patriots to claim their second Super Bowl title | First Thing",
+      "link": "https://www.theguardian.com/us-news/2026/feb/09/first-thing-relentless-seahawks-pummel-patriots-to-claim-their-second-super-bowl-title",
+      "mean_score": 0.4097,
+      "vader_score": 0.6249,
+      "textblob_score": 0.1944,
+      "first_sentence": "The Seattle Seahawks beat the New England Patriots 29-13 in Super Bowl LX on Sunday, exacting their revenge against the team that defeated them in the title game 11 years ago.",
+      "timestamp": "2026-02-09T11:25:00Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "The pet I\u2019ll never forget: Mishka, the surly but beloved raccoon",
       "link": "https://www.theguardian.com/lifeandstyle/2026/feb/09/the-pet-ill-never-forget-mishka-raccoon",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Labour\u2019s soul is being laid bare in the Gorton and Denton byelection campaign.",
       "timestamp": "2026-02-03T07:00:32Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "The Good Society by Kate Pickett review \u2013 the Spirit Level author takes stock",
-      "link": "https://www.theguardian.com/books/2026/feb/03/the-good-society-by-kate-pickett-review-the-spirit-level-author-takes-stock",
-      "mean_score": 0.6287,
-      "vader_score": 0.5574,
-      "textblob_score": 0.7,
-      "first_sentence": "If you\u2019ve written a successful book based around one big idea, what do you make the next one about? Back in 2009, Kate Pickett\u2019s The Spirit Level (co-authored with Richard Wilkinson) argued that inequality was the ultimate cause of almost all our social problems, from obesity and teenage pregnancy to violent crime; more equal societies, they claimed, had better outcomes across the board.",
-      "timestamp": "2026-02-03T07:00:32Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Iran\u2019s president seeks \u2018fair and equitable negotiations\u2019 with the United States",
-      "link": "https://apnews.com/article/iran-trump-protests-negotiations-nuclear-deal-9758adb33c0d01c70a07ad7de0f5221b",
-      "mean_score": 0.5607,
-      "vader_score": 0.4215,
-      "textblob_score": 0.7,
-      "first_sentence": "The comments on Tuesday from reformist President Masoud Pezeshkian represent the first clear signal from Iran that it may take part in negotiations being organized by Turkey.",
-      "timestamp": "2026-02-03T06:23:02Z",
-      "source": "AP News"
     }
   ]
 }
