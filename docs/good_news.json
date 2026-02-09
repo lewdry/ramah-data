@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-09T05:37:05Z",
+  "last run": "2026-02-09T06:34:04Z",
   "stories": [
+    {
+      "headline": "Venezuela's opposition says party leader kidnapped hours after being freed",
+      "link": "https://www.bbc.com/news/articles/c9wnjqzrv48o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3298,
+      "vader_score": 0.6597,
+      "textblob_score": 0.0,
+      "first_sentence": "Venezuelan opposition leader Maria Corina Machado said her opposition colleague Juan Pablo Guanipa had been kidnapped just hours after being released from detention.",
+      "timestamp": "2026-02-09T05:37:29Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Most Indians don\u2019t read for pleasure \u2013 so why does the country have 100 literature festivals?",
       "link": "https://www.theguardian.com/global-development/2026/feb/09/books-india-literature-festivals-readers",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Jack Thorne first read Lord of the Flies as a child.",
       "timestamp": "2026-02-03T00:12:51Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "From Dorset to the world: wave of donations helps to secure Cerne giant\u2019s home",
-      "link": "https://www.theguardian.com/culture/2026/feb/03/cerne-giant-dorset-global-appeal",
-      "mean_score": 0.4062,
-      "vader_score": 0.6124,
-      "textblob_score": 0.2,
-      "first_sentence": "The Guardian\u2019s journalism is independent.",
-      "timestamp": "2026-02-03T00:01:23Z",
-      "source": "The Guardian"
     }
   ]
 }
