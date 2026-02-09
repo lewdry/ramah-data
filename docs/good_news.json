@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-09T04:48:25Z",
+  "last run": "2026-02-09T05:37:05Z",
   "stories": [
+    {
+      "headline": "Most Indians don\u2019t read for pleasure \u2013 so why does the country have 100 literature festivals?",
+      "link": "https://www.theguardian.com/global-development/2026/feb/09/books-india-literature-festivals-readers",
+      "mean_score": 0.6176,
+      "vader_score": 0.7351,
+      "textblob_score": 0.5,
+      "first_sentence": "India does not have a great book-reading tradition.",
+      "timestamp": "2026-02-09T05:00:51Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Relentless Seahawks pummel Patriots to claim their second Super Bowl title",
       "link": "https://www.theguardian.com/sport/2026/feb/08/super-bowl-lx-seahawks-patriots",
@@ -70,6 +80,16 @@
       "first_sentence": "Devon Witherspoon, Derick Hall, Byron Murphy and the rest of Mike Macdonald's ferocious unit pummeled Drake Maye, and the Seattle Seahawks beat the New England Patriots 29-13 on Sunday to win the franchise's second Super Bowl.",
       "timestamp": "2026-02-09T03:33:41Z",
       "source": "NPR News"
+    },
+    {
+      "headline": "This billionaire tested China's limits. It cost him his freedom",
+      "link": "https://www.bbc.com/news/articles/c5yqr485d84o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3185,
+      "vader_score": 0.6369,
+      "textblob_score": 0.0,
+      "first_sentence": "On a winter morning in 2022 Raphael Wong and Figo Chan walked into Hong Kong's Stanley prison to meet Jimmy Lai, the media billionaire who had been arrested two years before and was awaiting trial charged with national security offences.",
+      "timestamp": "2026-02-09T02:59:50Z",
+      "source": "BBC News"
     },
     {
       "headline": "Perth festival 2026: Swan River bursts to life with a stunning trail of stories and light",
@@ -200,6 +220,16 @@
       "first_sentence": "The moderate socialist Ant\u00f3nio Jos\u00e9 Seguro appeared to be headed for a landslide victory in Portugal\u2019s presidential runoff on Sunday, with two exit polls putting him in the 67%-73% range, well ahead of his far-right, anti-establishment rival, Andr\u00e9 Ventura.",
       "timestamp": "2026-02-08T20:26:12Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "Live: Labor faces questions on economic management in QT",
+      "link": "https://www.abc.net.au/news/2026-02-09/federal-politics-ley-littleproud-albanese-coalition-estimates/106314548",
+      "mean_score": 0.3577,
+      "vader_score": 0.5473,
+      "textblob_score": 0.1682,
+      "first_sentence": "Labor has faced questioning over its economic management in Question Time today as the government returned fire over the Coalition's leadership woes.",
+      "timestamp": "2026-02-08T20:12:05Z",
+      "source": "ABC News"
     },
     {
       "headline": "Aussie women settle for Perth Sevens silver with New Zealand too strong",
@@ -2470,36 +2500,6 @@
       "first_sentence": "The Guardian\u2019s journalism is independent.",
       "timestamp": "2026-02-03T00:01:23Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "What\u2019s the best way to deal with a potential interest rate rise? | Fiona Katauskas",
-      "link": "https://www.theguardian.com/commentisfree/picture/2026/feb/03/whats-the-best-way-to-deal-with-a-potential-interest-rate-rise",
-      "mean_score": 0.651,
-      "vader_score": 0.802,
-      "textblob_score": 0.5,
-      "first_sentence": "Try lying down until the feeling goes awaySee more of Fiona Katauskas\u2019s cartoons here Continue reading.",
-      "timestamp": "2026-02-02T22:59:55Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Populist conservative Laura Fern\u00e1ndez wins Costa Rica's presidential election",
-      "link": "https://www.npr.org/2026/02/02/g-s1-108418/costa-rica-election-laura-fernandez-wins",
-      "mean_score": 0.4359,
-      "vader_score": 0.5719,
-      "textblob_score": 0.3,
-      "first_sentence": "SAN JOSE, Costa Rica \u2014 Conservative populist Laura Fern\u00e1ndez won Costa Rica's presidency, promising to continue the aggressive reorienting of the Central American nation's politics started by her political sponsor, outgoing President Rodrigo Chaves.",
-      "timestamp": "2026-02-02T21:28:21Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Should you take fish oil for your heart, joints or mood?",
-      "link": "https://www.abc.net.au/news/2026-02-03/should-take-fish-oil-supplement-heart-joints-mood/106281540",
-      "mean_score": 0.3185,
-      "vader_score": 0.6369,
-      "textblob_score": 0.0,
-      "first_sentence": "Fish oil, also known as omega-3, is one of the most popular dietary supplements.",
-      "timestamp": "2026-02-02T18:51:09Z",
-      "source": "ABC News"
     }
   ]
 }

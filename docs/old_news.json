@@ -1,5 +1,35 @@
 [
   {
+    "headline": "What\u2019s the best way to deal with a potential interest rate rise? | Fiona Katauskas",
+    "link": "https://www.theguardian.com/commentisfree/picture/2026/feb/03/whats-the-best-way-to-deal-with-a-potential-interest-rate-rise",
+    "mean_score": 0.651,
+    "vader_score": 0.802,
+    "textblob_score": 0.5,
+    "first_sentence": "Try lying down until the feeling goes awaySee more of Fiona Katauskas\u2019s cartoons here Continue reading.",
+    "timestamp": "2026-02-02T22:59:55Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Populist conservative Laura Fern\u00e1ndez wins Costa Rica's presidential election",
+    "link": "https://www.npr.org/2026/02/02/g-s1-108418/costa-rica-election-laura-fernandez-wins",
+    "mean_score": 0.4359,
+    "vader_score": 0.5719,
+    "textblob_score": 0.3,
+    "first_sentence": "SAN JOSE, Costa Rica \u2014 Conservative populist Laura Fern\u00e1ndez won Costa Rica's presidency, promising to continue the aggressive reorienting of the Central American nation's politics started by her political sponsor, outgoing President Rodrigo Chaves.",
+    "timestamp": "2026-02-02T21:28:21Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "Should you take fish oil for your heart, joints or mood?",
+    "link": "https://www.abc.net.au/news/2026-02-03/should-take-fish-oil-supplement-heart-joints-mood/106281540",
+    "mean_score": 0.3185,
+    "vader_score": 0.6369,
+    "textblob_score": 0.0,
+    "first_sentence": "Fish oil, also known as omega-3, is one of the most popular dietary supplements.",
+    "timestamp": "2026-02-02T18:51:09Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Intel Panther Lake Core Ultra review: Intel's best laptop CPU in a very long time",
     "link": "https://arstechnica.com/gadgets/2026/02/intel-panther-lake-core-ultra-review-intels-best-laptop-cpu-in-a-very-long-time/",
     "mean_score": 0.5522,
