@@ -1,5 +1,25 @@
 [
   {
+    "headline": "New home, new outlook? What\u2019s next for the Sundance film festival?",
+    "link": "https://www.theguardian.com/film/2026/feb/03/sundance-film-festival-closer",
+    "mean_score": 0.3212,
+    "vader_score": 0.5514,
+    "textblob_score": 0.0909,
+    "first_sentence": "Sundance is over.",
+    "timestamp": "2026-02-03T17:52:17Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Jacob Bethell dismantles Sri Lanka tail to deliver T20 series clean sweep for England",
+    "link": "https://www.theguardian.com/sport/2026/feb/03/sri-lanka-england-third-t20-international-match-report",
+    "mean_score": 0.3843,
+    "vader_score": 0.4019,
+    "textblob_score": 0.3667,
+    "first_sentence": "It was a thriller on a Pallekele turner, the game going England\u2019s way.",
+    "timestamp": "2026-02-03T17:24:13Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "England beat Sri Lanka by 12 runs in third T20 to complete 3-0 series win \u2013 live",
     "link": "https://www.theguardian.com/sport/live/2026/feb/03/sri-lanka-v-england-third-mens-cricket-t20-international-live",
     "mean_score": 0.4225,
