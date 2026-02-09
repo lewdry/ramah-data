@@ -1,5 +1,35 @@
 [
   {
+    "headline": "'Brave' boy, 13, swims 4km to save family stranded off Australia coast",
+    "link": "https://www.bbc.com/news/articles/cx20zkkq54go?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.7825,
+    "vader_score": 0.765,
+    "textblob_score": 0.8,
+    "first_sentence": "A 13-year-old boy has been praised for his determination after he swam through rough waters in fading light to save his mother and two siblings who had been swept out to sea off Australia's coast.",
+    "timestamp": "2026-02-02T13:37:46Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Fern\u00e1ndez wins Costa Rican presidency, steering Latin America further right",
+    "link": "https://www.theguardian.com/world/2026/feb/02/laura-fernandez-wins-costa-rica-president-latin-america-rightwing",
+    "mean_score": 0.3836,
+    "vader_score": 0.5719,
+    "textblob_score": 0.1952,
+    "first_sentence": "Rightwing populist Laura Fern\u00e1ndez has won Costa Rica\u2019s presidential election by a landslide, after promising to crack down on rising violence linked to the cocaine trade.",
+    "timestamp": "2026-02-02T13:08:59Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Rukmini Iyer\u2019s quick and easy recipe for mushroom and artichoke puff-pastry quiche | Quick and easy",
+    "link": "https://www.theguardian.com/food/2026/feb/02/mushroom-artichoke-puff-pastry-quiche-quick-easy-recipe-rukmini-iyer",
+    "mean_score": 0.5418,
+    "vader_score": 0.7003,
+    "textblob_score": 0.3833,
+    "first_sentence": "No time to make shortcrust? Bought puff pastry makes an instant (and decadent) alternative.",
+    "timestamp": "2026-02-02T13:00:08Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Beijing criticises Dalai Lama Grammy win as 'manipulation'",
     "link": "https://www.bbc.com/news/articles/cwy8zqn9571o?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.4386,

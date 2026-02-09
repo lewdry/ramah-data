@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-09T00:43:56Z",
+  "last run": "2026-02-09T01:41:09Z",
   "stories": [
+    {
+      "headline": "RecipeTin Eats founder farewells Dozer the golden retriever: \u2018I will love you and miss you forever\u2019",
+      "link": "https://www.theguardian.com/food/2026/feb/09/recipetin-eats-founder-nagi-maehashi-golden-retriever-dozer",
+      "mean_score": 0.4787,
+      "vader_score": 0.5574,
+      "textblob_score": 0.4,
+      "first_sentence": "Nagi Maehashi, the celebrated cook behind RecipeTin Eats, has announced the death of her beloved canine companion, Dozer, on Sunday, saying the cover star of her bestselling cookbooks would be missed \u201cforever\u201d.",
+      "timestamp": "2026-02-09T01:12:59Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Should Australia welcome Isaac Herzog? | First Dog on the Moon",
       "link": "https://www.theguardian.com/commentisfree/picture/2026/feb/09/should-australia-welcome-isaac-herzog",
@@ -32,6 +42,16 @@
       "source": "ABC News"
     },
     {
+      "headline": "A Project Hail Mary final trailer? Yes please",
+      "link": "https://arstechnica.com/culture/2026/02/a-project-hail-mary-final-trailer-yes-please/",
+      "mean_score": 0.3243,
+      "vader_score": 0.6486,
+      "textblob_score": 0.0,
+      "first_sentence": "Sure, most Americans are glued to their TVs for the today\u2019s Super Bowl and/or the Winter Olympics.",
+      "timestamp": "2026-02-08T23:26:37Z",
+      "source": "Ars Technica"
+    },
+    {
       "headline": "'Trust your gut': Tasmanian minister Nick Duigan takes leave for heart surgery",
       "link": "https://www.abc.net.au/news/2026-02-09/minister-nick-duigan-takes-leave-to-undergo-heart-surgery/106320766",
       "mean_score": 0.4037,
@@ -39,6 +59,16 @@
       "textblob_score": 0.0,
       "first_sentence": "Nick Duigan will be taking extended medical leave from February 17 due to scheduled heart surgery.",
       "timestamp": "2026-02-08T22:34:54Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Live: Surprise appearances from Gaga and Ricky Martin in Super Bowl half-time show",
+      "link": "https://www.abc.net.au/news/2026-02-09/super-bowl-lx-live-blog-seahawks-vs-patriots-bad-bunny/106320762",
+      "mean_score": 0.4766,
+      "vader_score": 0.7184,
+      "textblob_score": 0.2348,
+      "first_sentence": "The Seahawks and Patriots meet in the Super Bowl in a rematch of a thrilling clash 11 years ago that ended in an iconic finish for the ages.",
+      "timestamp": "2026-02-08T22:29:40Z",
       "source": "ABC News"
     },
     {
@@ -2470,36 +2500,6 @@
       "first_sentence": "For a decade and a half, I have wondered about a private conversation I had with the late Alistair Darling, Chancellor of the Exchequer under Gordon Brown, about the financial crisis.",
       "timestamp": "2026-02-02T13:42:34Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "'Brave' boy, 13, swims 4km to save family stranded off Australia coast",
-      "link": "https://www.bbc.com/news/articles/cx20zkkq54go?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.7825,
-      "vader_score": 0.765,
-      "textblob_score": 0.8,
-      "first_sentence": "A 13-year-old boy has been praised for his determination after he swam through rough waters in fading light to save his mother and two siblings who had been swept out to sea off Australia's coast.",
-      "timestamp": "2026-02-02T13:37:46Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Fern\u00e1ndez wins Costa Rican presidency, steering Latin America further right",
-      "link": "https://www.theguardian.com/world/2026/feb/02/laura-fernandez-wins-costa-rica-president-latin-america-rightwing",
-      "mean_score": 0.3836,
-      "vader_score": 0.5719,
-      "textblob_score": 0.1952,
-      "first_sentence": "Rightwing populist Laura Fern\u00e1ndez has won Costa Rica\u2019s presidential election by a landslide, after promising to crack down on rising violence linked to the cocaine trade.",
-      "timestamp": "2026-02-02T13:08:59Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Rukmini Iyer\u2019s quick and easy recipe for mushroom and artichoke puff-pastry quiche | Quick and easy",
-      "link": "https://www.theguardian.com/food/2026/feb/02/mushroom-artichoke-puff-pastry-quiche-quick-easy-recipe-rukmini-iyer",
-      "mean_score": 0.5418,
-      "vader_score": 0.7003,
-      "textblob_score": 0.3833,
-      "first_sentence": "No time to make shortcrust? Bought puff pastry makes an instant (and decadent) alternative.",
-      "timestamp": "2026-02-02T13:00:08Z",
-      "source": "The Guardian"
     }
   ]
 }
