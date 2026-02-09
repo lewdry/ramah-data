@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-09T18:26:00Z",
+  "last run": "2026-02-09T19:34:28Z",
   "stories": [
+    {
+      "headline": "Jon Kudelka's take on Rudd v Gillard one of his best, says Insiders host",
+      "link": "https://www.abc.net.au/news/2026-02-10/jon-kudelka-tasmanian-cartoonist-illustrator-obituary/106322196",
+      "mean_score": 0.8185,
+      "vader_score": 0.6369,
+      "textblob_score": 1.0,
+      "first_sentence": "Jon Kudelka, who died on Sunday aged 53, has been remembered as a \"cartoonist's cartoonist\" able to \"cut through complex political issues\".",
+      "timestamp": "2026-02-09T18:43:32Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Arizona holds No. 1 spot for 9th week in AP Top 25; Houston rises to No. 3, Kentucky returns at 25th",
       "link": "https://apnews.com/article/ap-top-25-poll-arizona-kentucky-2424dd3a4c00af3339f88de3ed400f31",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.3,
       "first_sentence": "Lindsey Vonn said she is \u201cconfident\u201d she can compete at the Milano Cortina Winter Games despite revealing she has been managing a ruptured ACL, maintaining that her Olympic comeback remains on track after a crash last week raised fresh doubts over her participation.",
       "timestamp": "2026-02-03T15:28:10Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "From the moon landing to accidental sexting: your greatest ever TV moments",
-      "link": "https://www.theguardian.com/tv-and-radio/2026/feb/03/from-the-moon-landing-to-accidental-sexting-your-greatest-ever-tv-moments",
-      "mean_score": 0.7997,
-      "vader_score": 0.5994,
-      "textblob_score": 1.0,
-      "first_sentence": "Television turns 100 this year, so the Guardian charted our pick of the biggest TV moments from a century of television.",
-      "timestamp": "2026-02-03T14:48:37Z",
       "source": "The Guardian"
     }
   ]
