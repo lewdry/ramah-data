@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Don\u2019t let nostalgia cloud your judgment: some of the best picture books are actually the newest | Kate Temple",
+    "link": "https://www.theguardian.com/culture/2026/feb/04/best-picture-books-actually-newest",
+    "mean_score": 0.5685,
+    "vader_score": 0.6369,
+    "textblob_score": 0.5,
+    "first_sentence": "The 1980s were a great time to write a classic Aussie picture book.",
+    "timestamp": "2026-02-03T14:00:07Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "The Muppet Show review \u2013 we all deserve a brief bit of happiness right now",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/feb/03/the-muppet-show-review-sabrina-carpenter-seth-rogen-disney",
+    "mean_score": 0.443,
+    "vader_score": 0.5574,
+    "textblob_score": 0.3286,
+    "first_sentence": "The Muppet Show celebrates its 50th anniversary this year.",
+    "timestamp": "2026-02-03T14:00:03Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Russian hits Ukraine energy sites in 'most powerful blow' so far this year",
+    "link": "https://www.bbc.com/news/articles/cpwng25114ro?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4305,
+    "vader_score": 0.6361,
+    "textblob_score": 0.225,
+    "first_sentence": "Russia has launched its \"most powerful blow\" against Ukraine's energy sector so far this year, according to the private energy company, DTEK.",
+    "timestamp": "2026-02-03T11:53:58Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "5 papers from the Super Bowl of Economics",
     "link": "https://www.npr.org/sections/planet-money/2026/02/03/g-s1-107994/5-papers-from-the-super-bowl-of-economics",
     "mean_score": 0.4664,

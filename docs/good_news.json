@@ -1,6 +1,36 @@
 {
-  "last run": "2026-02-09T15:25:43Z",
+  "last run": "2026-02-09T17:24:26Z",
   "stories": [
+    {
+      "headline": "Pubs don\u2019t deserve special measures | Letters",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/feb/09/pubs-dont-deserve-special-measures",
+      "mean_score": 0.3795,
+      "vader_score": 0.4019,
+      "textblob_score": 0.3571,
+      "first_sentence": "Simon Jenkins leaves one or two\u00a0unanswered questions in his\u00a0plea for state help with saving\u00a0pubs (Here is a political lesson progressives need to learn, and fast: British pubs are crucial, 5 February).",
+      "timestamp": "2026-02-09T16:59:46Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Friends set for new UK streamer as HBO Max reveals launch plans",
+      "link": "https://www.bbc.com/news/articles/c3093e0pyv3o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3065,
+      "vader_score": 0.4767,
+      "textblob_score": 0.1364,
+      "first_sentence": "HBO Max will join the UK's streaming wars with a little help from its Friends - and Euphoria and Harry Potter - after the service confirmed its launch plans.",
+      "timestamp": "2026-02-09T16:40:32Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "From Spielberg to Tarantino: the year\u2019s big Super Bowl movie trailers",
+      "link": "https://www.theguardian.com/film/2026/feb/09/super-bowl-movie-trailers",
+      "mean_score": 0.383,
+      "vader_score": 0.5994,
+      "textblob_score": 0.1667,
+      "first_sentence": "With Super Bowl spots now up to a reported $8-10m, the market has grown a little less welcoming to Hollywood, an industry still not quite up to pre-pandemic numbers (the global box office for 2025 was down almost $10bn on 2019).",
+      "timestamp": "2026-02-09T15:49:55Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Celebrity appearances, controversial ads and other Super Bowl takeaways",
       "link": "https://www.bbc.com/news/articles/cg5n8lg2jrdo?at_medium=RSS&at_campaign=rss",
@@ -2470,36 +2500,6 @@
       "first_sentence": "The most unlikely of triumphs that spawned its own catch phrase.",
       "timestamp": "2026-02-03T14:00:08Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Don\u2019t let nostalgia cloud your judgment: some of the best picture books are actually the newest | Kate Temple",
-      "link": "https://www.theguardian.com/culture/2026/feb/04/best-picture-books-actually-newest",
-      "mean_score": 0.5685,
-      "vader_score": 0.6369,
-      "textblob_score": 0.5,
-      "first_sentence": "The 1980s were a great time to write a classic Aussie picture book.",
-      "timestamp": "2026-02-03T14:00:07Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The Muppet Show review \u2013 we all deserve a brief bit of happiness right now",
-      "link": "https://www.theguardian.com/tv-and-radio/2026/feb/03/the-muppet-show-review-sabrina-carpenter-seth-rogen-disney",
-      "mean_score": 0.443,
-      "vader_score": 0.5574,
-      "textblob_score": 0.3286,
-      "first_sentence": "The Muppet Show celebrates its 50th anniversary this year.",
-      "timestamp": "2026-02-03T14:00:03Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Russian hits Ukraine energy sites in 'most powerful blow' so far this year",
-      "link": "https://www.bbc.com/news/articles/cpwng25114ro?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4305,
-      "vader_score": 0.6361,
-      "textblob_score": 0.225,
-      "first_sentence": "Russia has launched its \"most powerful blow\" against Ukraine's energy sector so far this year, according to the private energy company, DTEK.",
-      "timestamp": "2026-02-03T11:53:58Z",
-      "source": "BBC News"
     }
   ]
 }
