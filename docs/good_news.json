@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-09T10:29:10Z",
+  "last run": "2026-02-09T11:23:14Z",
   "stories": [
+    {
+      "headline": "The pet I\u2019ll never forget: Mishka, the surly but beloved raccoon",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/feb/09/the-pet-ill-never-forget-mishka-raccoon",
+      "mean_score": 0.6993,
+      "vader_score": 0.6987,
+      "textblob_score": 0.7,
+      "first_sentence": "Mishka was about eight weeks old when we got her.",
+      "timestamp": "2026-02-09T11:00:05Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Four top U.S. speedskaters to watch at the Olympics",
+      "link": "https://www.npr.org/2026/02/09/nx-s1-5706525/four-top-u-s-speedskaters-to-watch-at-the-olympics",
+      "mean_score": 0.3512,
+      "vader_score": 0.2023,
+      "textblob_score": 0.5,
+      "first_sentence": "Current Team USA speed skaters are drawing comparisons to past legends, and big hopes for a new gold streak in Milan.",
+      "timestamp": "2026-02-09T10:47:36Z",
+      "source": "NPR News"
+    },
     {
       "headline": "'Super exciting!' - Seahawks fans celebrate Super Bowl win",
       "link": "https://www.bbc.com/news/videos/c30934lqv68o?at_medium=RSS&at_campaign=rss",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.7,
       "first_sentence": "The comments on Tuesday from reformist President Masoud Pezeshkian represent the first clear signal from Iran that it may take part in negotiations being organized by Turkey.",
       "timestamp": "2026-02-03T06:23:02Z",
-      "source": "AP News"
-    },
-    {
-      "headline": "Iran\u2019s president says Tehran ready to pursue \u2018fair\u2019 talks with US",
-      "link": "https://www.theguardian.com/world/2026/feb/02/iran-abbas-araghchi-talks-us-nuclear-deal",
-      "mean_score": 0.4056,
-      "vader_score": 0.3612,
-      "textblob_score": 0.45,
-      "first_sentence": "Iran\u2019s president said on Tuesday that he had instructed his foreign minister to \u201cpursue fair and equitable negotiations\u201d with the US, as the two countries reportedly prepared to send top envoys to Istanbul for high-stakes talks on the Iranian nuclear programme later this week.",
-      "timestamp": "2026-02-03T05:58:12Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Football, politics and protest: This year\u2019s Super Bowl comes at a tinderbox moment in the US",
-      "link": "https://apnews.com/article/super-bowl-bad-bunny-trump-politics-1447163cfa820cbb0c96973c20ccd976",
-      "mean_score": 0.3869,
-      "vader_score": 0.4404,
-      "textblob_score": 0.3333,
-      "first_sentence": "WASHINGTON (AP) \u2014 Don\u2019t tune into the Super Bowl hoping for a break from the tumultuous politics gripping the U.S.",
-      "timestamp": "2026-02-03T05:53:02Z",
       "source": "AP News"
     }
   ]

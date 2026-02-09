@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Iran\u2019s president says Tehran ready to pursue \u2018fair\u2019 talks with US",
+    "link": "https://www.theguardian.com/world/2026/feb/02/iran-abbas-araghchi-talks-us-nuclear-deal",
+    "mean_score": 0.4056,
+    "vader_score": 0.3612,
+    "textblob_score": 0.45,
+    "first_sentence": "Iran\u2019s president said on Tuesday that he had instructed his foreign minister to \u201cpursue fair and equitable negotiations\u201d with the US, as the two countries reportedly prepared to send top envoys to Istanbul for high-stakes talks on the Iranian nuclear programme later this week.",
+    "timestamp": "2026-02-03T05:58:12Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Football, politics and protest: This year\u2019s Super Bowl comes at a tinderbox moment in the US",
+    "link": "https://apnews.com/article/super-bowl-bad-bunny-trump-politics-1447163cfa820cbb0c96973c20ccd976",
+    "mean_score": 0.3869,
+    "vader_score": 0.4404,
+    "textblob_score": 0.3333,
+    "first_sentence": "WASHINGTON (AP) \u2014 Don\u2019t tune into the Super Bowl hoping for a break from the tumultuous politics gripping the U.S.",
+    "timestamp": "2026-02-03T05:53:02Z",
+    "source": "AP News"
+  },
+  {
     "headline": "Researchers hope 'spas' and 'saunas' could save the world's frogs",
     "link": "https://www.abc.net.au/news/2026-02-03/green-gold-bell-frog-reintroduced-canberra-sauna-spa/106300276",
     "mean_score": 0.3634,
