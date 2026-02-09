@@ -1,6 +1,36 @@
 {
-  "last run": "2026-02-09T19:34:28Z",
+  "last run": "2026-02-09T20:18:26Z",
   "stories": [
+    {
+      "headline": "Winter Olympics 2026: Jutta Leerdam takes speed skating gold but GB medal wait goes on \u2013 live",
+      "link": "https://www.theguardian.com/sport/live/2026/feb/09/winter-olympics-2026-live-day-three",
+      "mean_score": 0.3837,
+      "vader_score": 0.631,
+      "textblob_score": 0.1364,
+      "first_sentence": "What a finale.",
+      "timestamp": "2026-02-09T20:03:32Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018Rayner for leader\u2019 site proves race to succeed Starmer is well under way",
+      "link": "https://www.theguardian.com/politics/2026/feb/09/rayner-for-leader-site-proves-race-to-succeed-starmer-well-underway",
+      "mean_score": 0.4743,
+      "vader_score": 0.6486,
+      "textblob_score": 0.3,
+      "first_sentence": "As Keir Starmer fights for his political life, the contest to replace him has already begun.",
+      "timestamp": "2026-02-09T20:00:00Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Troubles-rooted play Sapling wins Women\u2019s prize for playwriting",
+      "link": "https://www.theguardian.com/stage/2026/feb/09/troubles-rooted-play-sapling-wins-womens-prize-for-playwriting",
+      "mean_score": 0.5777,
+      "vader_score": 0.8555,
+      "textblob_score": 0.3,
+      "first_sentence": "A work that explores what happens when trauma is left to fester, set in Troubles-era Belfast, has been named the winner of the Women\u2019s prize for playwriting 2025.",
+      "timestamp": "2026-02-09T19:30:00Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Jon Kudelka's take on Rudd v Gillard one of his best, says Insiders host",
       "link": "https://www.abc.net.au/news/2026-02-10/jon-kudelka-tasmanian-cartoonist-illustrator-obituary/106322196",
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.2591,
       "first_sentence": "Theekshana c Dawson b Bethell 2 Bethell the hero! Denied a fourth wicket by a review, he soon induces a top edge which is safely held by Dawson at backward point.",
       "timestamp": "2026-02-03T17:19:16Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Black sesame is growing more popular in the US. Is it actually good for you?",
-      "link": "https://www.theguardian.com/wellness/2026/feb/03/black-sesame-health-benefits",
-      "mean_score": 0.5898,
-      "vader_score": 0.7713,
-      "textblob_score": 0.4083,
-      "first_sentence": "In many parts of Asia, black sesame is an essential dessert flavor.",
-      "timestamp": "2026-02-03T17:00:18Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Pennines delight as drone survey offers hope for one of UK\u2019s rarest birds",
-      "link": "https://www.theguardian.com/environment/2026/feb/03/pennines-delight-drone-survey-uk-birds-dunlin",
-      "mean_score": 0.4391,
-      "vader_score": 0.7783,
-      "textblob_score": 0.1,
-      "first_sentence": "Deep in the Cumbrian Pennines, walkers might be lucky enough to spot small birds with spindly legs, long beaks and bodies like feathered balls hopping through the peat bogs.",
-      "timestamp": "2026-02-03T15:32:02Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Lindsey Vonn confident she can compete at Olympics despite \u2018completely ruptured\u2019 ACL",
-      "link": "https://www.theguardian.com/sport/2026/feb/03/lindsey-vonn-injury-status-acl-downhill-milano-cortina-olympics",
-      "mean_score": 0.397,
-      "vader_score": 0.4939,
-      "textblob_score": 0.3,
-      "first_sentence": "Lindsey Vonn said she is \u201cconfident\u201d she can compete at the Milano Cortina Winter Games despite revealing she has been managing a ruptured ACL, maintaining that her Olympic comeback remains on track after a crash last week raised fresh doubts over her participation.",
-      "timestamp": "2026-02-03T15:28:10Z",
       "source": "The Guardian"
     }
   ]

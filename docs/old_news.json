@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Black sesame is growing more popular in the US. Is it actually good for you?",
+    "link": "https://www.theguardian.com/wellness/2026/feb/03/black-sesame-health-benefits",
+    "mean_score": 0.5898,
+    "vader_score": 0.7713,
+    "textblob_score": 0.4083,
+    "first_sentence": "In many parts of Asia, black sesame is an essential dessert flavor.",
+    "timestamp": "2026-02-03T17:00:18Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Pennines delight as drone survey offers hope for one of UK\u2019s rarest birds",
+    "link": "https://www.theguardian.com/environment/2026/feb/03/pennines-delight-drone-survey-uk-birds-dunlin",
+    "mean_score": 0.4391,
+    "vader_score": 0.7783,
+    "textblob_score": 0.1,
+    "first_sentence": "Deep in the Cumbrian Pennines, walkers might be lucky enough to spot small birds with spindly legs, long beaks and bodies like feathered balls hopping through the peat bogs.",
+    "timestamp": "2026-02-03T15:32:02Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Lindsey Vonn confident she can compete at Olympics despite \u2018completely ruptured\u2019 ACL",
+    "link": "https://www.theguardian.com/sport/2026/feb/03/lindsey-vonn-injury-status-acl-downhill-milano-cortina-olympics",
+    "mean_score": 0.397,
+    "vader_score": 0.4939,
+    "textblob_score": 0.3,
+    "first_sentence": "Lindsey Vonn said she is \u201cconfident\u201d she can compete at the Milano Cortina Winter Games despite revealing she has been managing a ruptured ACL, maintaining that her Olympic comeback remains on track after a crash last week raised fresh doubts over her participation.",
+    "timestamp": "2026-02-03T15:28:10Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "From the moon landing to accidental sexting: your greatest ever TV moments",
     "link": "https://www.theguardian.com/tv-and-radio/2026/feb/03/from-the-moon-landing-to-accidental-sexting-your-greatest-ever-tv-moments",
     "mean_score": 0.7997,
