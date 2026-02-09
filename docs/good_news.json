@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-09T01:41:09Z",
+  "last run": "2026-02-09T03:10:44Z",
   "stories": [
+    {
+      "headline": "Laneway festival review \u2013 Chappell Roan\u2019s medieval fantasy headlines blockbuster affair",
+      "link": "https://www.theguardian.com/culture/2026/feb/09/chappell-roan-laneway-festival-review",
+      "mean_score": 0.3982,
+      "vader_score": 0.7964,
+      "textblob_score": 0.0,
+      "first_sentence": "A year ago, Sydney\u2019s Centennial Park was overtaken by an abrasive Brat green as Laneway punters partied with headliner Charli xcx \u2013 but in 2026, the mood was more pink princess.",
+      "timestamp": "2026-02-09T02:52:15Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "RecipeTin Eats founder farewells Dozer the golden retriever: \u2018I will love you and miss you forever\u2019",
       "link": "https://www.theguardian.com/food/2026/feb/09/recipetin-eats-founder-nagi-maehashi-golden-retriever-dozer",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Millions of dollars have been raised for Bondi hero Ahmed al-Ahmed, while campaigns are backing families hit by Victoria\u2019s bushfires.",
       "timestamp": "2026-02-02T14:00:11Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Faisal Islam: Mandelson, Darling and the conversation I can't forget",
-      "link": "https://www.bbc.com/news/articles/cx2kzmnr14lo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3335,
-      "vader_score": 0.6669,
-      "textblob_score": 0.0,
-      "first_sentence": "For a decade and a half, I have wondered about a private conversation I had with the late Alistair Darling, Chancellor of the Exchequer under Gordon Brown, about the financial crisis.",
-      "timestamp": "2026-02-02T13:42:34Z",
-      "source": "BBC News"
     }
   ]
 }
