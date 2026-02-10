@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Goofy! Unvampy! Pouty! Implausible! With nine films on the go, can Charli xcx act?",
+    "link": "https://www.theguardian.com/film/2026/feb/04/can-charli-xcx-act-beyonce-harry-styles",
+    "mean_score": 0.5,
+    "vader_score": 0.0,
+    "textblob_score": 1.0,
+    "first_sentence": "She\u2019s the edgy British brat who conquered the world with her hard-partying, electro-banging aesthetic.",
+    "timestamp": "2026-02-04T16:53:50Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Things reek, stink and pong \u2013 but why are there no verbs for describing a delightful odour? | Adrian Chiles",
+    "link": "https://www.theguardian.com/commentisfree/2026/feb/04/reek-stink-pong-verbs-odour-smelling-nice",
+    "mean_score": 0.6858,
+    "vader_score": 0.3716,
+    "textblob_score": 1.0,
+    "first_sentence": "I remember the first time I remembered a smell.",
+    "timestamp": "2026-02-04T16:16:48Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Ministers face pressure to accept amendment giving intelligence and security committee final say over Mandelson files \u2013 UK politics live",
     "link": "https://www.theguardian.com/politics/live/2026/feb/04/peter-mandelson-files-us-ambassador-jeffrey-epstein-keir-starmer-tories-uk-politics-live-news-updates",
     "mean_score": 0.4378,
