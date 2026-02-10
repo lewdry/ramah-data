@@ -1,6 +1,46 @@
 {
-  "last run": "2026-02-10T15:32:30Z",
+  "last run": "2026-02-10T16:30:42Z",
   "stories": [
+    {
+      "headline": "Masterpiece, fridge magnet, phone case \u2026 opera: how Hokusai\u2019s The Great Wave hit the stage",
+      "link": "https://www.theguardian.com/music/2026/feb/10/masterpiece-fridge-magnet-phone-case-opera-hokusais-great-wave",
+      "mean_score": 0.824,
+      "vader_score": 0.8481,
+      "textblob_score": 0.8,
+      "first_sentence": "Opera has inspired many of the 20th century\u2019s greatest artists to create extraordinary sets.",
+      "timestamp": "2026-02-10T16:05:38Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Norwegian biathlete wins Winter Olympics bronze and then tells TV interview of affair",
+      "link": "https://www.theguardian.com/sport/2026/feb/10/norwegian-biathlete-sturla-holm-laegreid-winter-olympics-bronze-and-tells-tv-interview-of-affair",
+      "mean_score": 0.3609,
+      "vader_score": 0.5719,
+      "textblob_score": 0.15,
+      "first_sentence": "Johan-Olav Botn won gold, with the Frenchman \u00c9ric Perrot in second, but it was L\u00e6greid who stunned television viewers in Norway after opening up to the broadcaster NRK about his private life over the past six months.",
+      "timestamp": "2026-02-10T15:33:33Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Will the Gulf\u2019s push for its own AI succeed?",
+      "link": "https://www.theguardian.com/technology/2026/feb/09/us-tech-ai-companies-gulf-states",
+      "mean_score": 0.547,
+      "vader_score": 0.4939,
+      "textblob_score": 0.6,
+      "first_sentence": "Hello, and welcome to TechScape.",
+      "timestamp": "2026-02-10T14:45:34Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Alphabet selling very rare 100-year bonds to help fund AI investment",
+      "link": "https://arstechnica.com/gadgets/2026/02/alphabet-selling-very-rare-100-year-bunds-to-help-fund-ai-investment/",
+      "mean_score": 0.396,
+      "vader_score": 0.4019,
+      "textblob_score": 0.39,
+      "first_sentence": "Alphabet becomes first tech company to issue 100-year bonds in nearly three decades.",
+      "timestamp": "2026-02-10T14:44:52Z",
+      "source": "Ars Technica"
+    },
     {
       "headline": "Andy Burnham backs Starmer but urges him to be bolder and more inclusive",
       "link": "https://www.theguardian.com/politics/2026/feb/10/keir-starmer-lead-moment-change-labour-turmoil-ed-miliband",
@@ -2459,46 +2499,6 @@
       "textblob_score": 0.0682,
       "first_sentence": "Lindsay Hoyle says the manuscript amendment, which has been tabled by the PM, has been accepted.",
       "timestamp": "2026-02-04T16:15:20Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018The right has won the family\u2019: why are there so few lefty momfluencers?",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/feb/04/left-progressive-mom-influencers",
-      "mean_score": 0.3074,
-      "vader_score": 0.5719,
-      "textblob_score": 0.0429,
-      "first_sentence": "For someone who doesn\u2019t have a marble island in their kitchen I spend a disproportionate amount of time staring at marble kitchen islands, slack-jawed, brain turned half off.",
-      "timestamp": "2026-02-04T16:00:47Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Xi speaks of 'grand plan' with Russia in call with Putin",
-      "link": "https://www.abc.net.au/news/2026-02-05/xi-speaks-to-putin-and-trump-on-eve-of-ukraine-war-anniversary/106306896",
-      "mean_score": 0.4794,
-      "vader_score": 0.4588,
-      "textblob_score": 0.5,
-      "first_sentence": "The leaders of China and Russia have held a phone call, which has been broadcast on state television.",
-      "timestamp": "2026-02-04T15:25:35Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "An \u2018amazing feat\u2019: how was 13-year-old Austin Appelbee able to swim for four hours to save his family?",
-      "link": "https://www.theguardian.com/australia-news/2026/feb/05/austin-appelbee-13-year-old-boy-swims-four-hours-rescue-save-family-western-australia",
-      "mean_score": 0.522,
-      "vader_score": 0.4939,
-      "textblob_score": 0.55,
-      "first_sentence": "An Australian 13-year-old who swam 4km (2.49 miles) to shore and then ran 2km (1.24 miles) to get help for his stranded family has been described as \u201csuperhuman\u201d.",
-      "timestamp": "2026-02-04T14:00:48Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Rich plums and ripe tomatoes: Australia\u2019s best-value fruit and veg for February",
-      "link": "https://www.theguardian.com/food/2026/feb/05/australia-best-value-fruit-veg-february-plums-tomatoes",
-      "mean_score": 0.4662,
-      "vader_score": 0.5574,
-      "textblob_score": 0.375,
-      "first_sentence": "Juicy watermelon, deep-purple plums and ripe roma tomatoes are some of the vibrant fruit and veg highlights this month, says Graham Gee, senior buyer at the Happy Apple in Melbourne.",
-      "timestamp": "2026-02-04T14:00:48Z",
       "source": "The Guardian"
     }
   ]
