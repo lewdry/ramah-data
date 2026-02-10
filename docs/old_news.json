@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Clive Palmer suggests Steven Bannon hoped to \u2018increase influence\u2019 by claiming credit for 2019 election ads",
+    "link": "https://www.theguardian.com/australia-news/2026/feb/04/clive-palmer-steven-bannon-epstein-files-claim-election-ads",
+    "mean_score": 0.3185,
+    "vader_score": 0.6369,
+    "textblob_score": 0.0,
+    "first_sentence": "Clive Palmer has denied Steve Bannon helped direct his advertising blitz in the 2019 federal election, suggesting texts published in the Jeffrey Epstein files about the strategy were an attempt by the former Trump strategist to \u201cincrease his own influence\u201d by claiming credit.",
+    "timestamp": "2026-02-04T05:47:57Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Doberman pinscher named Penny wins top prize at Westminster Dog Show",
     "link": "https://www.abc.net.au/news/2026-02-04/doberman-pinscher-named-penny-wins-westminster-dog-show/106305290",
     "mean_score": 0.6158,
