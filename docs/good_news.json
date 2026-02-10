@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-10T19:30:13Z",
+  "last run": "2026-02-10T20:20:19Z",
   "stories": [
+    {
+      "headline": "Australian K-pop community credits Demon Hunters as popularity soars",
+      "link": "https://www.abc.net.au/news/2026-02-11/kpop-community-grows-thanks-to-bts-demon-hunters/106325884",
+      "mean_score": 0.3404,
+      "vader_score": 0.6808,
+      "textblob_score": 0.0,
+      "first_sentence": "Despite the pressure of a looming deadline, the energy in the dance studio is fun and friendly.",
+      "timestamp": "2026-02-10T19:37:00Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Congressmen name six wealthy men \u2018likely incriminated\u2019 in Epstein files",
       "link": "https://www.theguardian.com/us-news/2026/feb/10/thomas-massie-epstein-files-redacted-names",
@@ -2490,16 +2500,6 @@
       "first_sentence": "The UK could reap greater benefits from a \u20ac90bn (\u00a378bn) EU loan for Ukraine, if it agrees to help pay the cost of borrowing, after European countries signed off long-awaited financial aid for Kyiv.",
       "timestamp": "2026-02-04T18:50:24Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "This 'big, beautiful plan' has backfired, costing Timor-Leste hundreds of millions",
-      "link": "https://www.abc.net.au/news/2026-02-05/timor-leste-greater-sunrise-project-ghost-airport-and-sinkholes/106303186",
-      "mean_score": 0.5122,
-      "vader_score": 0.5994,
-      "textblob_score": 0.425,
-      "first_sentence": "Joao Gusmao remembers the promises made when the Xanana Gusm\u00e3o International Airport opened in 2017.",
-      "timestamp": "2026-02-04T18:46:16Z",
-      "source": "ABC News"
     }
   ]
 }
