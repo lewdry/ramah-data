@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Ukraine and Russia wrap 'productive' first day of direct peace talks",
+    "link": "https://www.abc.net.au/news/2026-02-05/ukraine-war-negotiations-kyiv-moscow-meet-in-uae/106307234",
+    "mean_score": 0.3587,
+    "vader_score": 0.5423,
+    "textblob_score": 0.175,
+    "first_sentence": "Ukrainian and Russian officials have wrapped up a \"productive\" first day of US-brokered talks in Abu Dhabi, according to Kyiv's lead negotiator, as fighting in Europe's biggest conflict since World War II rages on.",
+    "timestamp": "2026-02-04T22:42:16Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "'I never left your side': Emails reveal more about Mandelson's Epstein friendship",
+    "link": "https://www.bbc.com/news/articles/cevn33kgxgmo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3452,
+    "vader_score": 0.4404,
+    "textblob_score": 0.25,
+    "first_sentence": "Prime Minister Sir Keir Starmer has said Peter Mandelson misled him about the extent of his friendship with convicted paedophile Jeffrey Epstein before he was appointed US ambassador.",
+    "timestamp": "2026-02-04T21:28:40Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Here's how this 87-year-old triathlete keeps her heart strong",
+    "link": "https://www.npr.org/2026/02/04/nx-s1-5691731-e1/heres-how-this-87-year-old-triathlete-keeps-her-heart-strong",
+    "mean_score": 0.6255,
+    "vader_score": 0.8176,
+    "textblob_score": 0.4333,
+    "first_sentence": "Despite issues with her heart, this octogenarian still competes in triathlons.",
+    "timestamp": "2026-02-04T21:18:46Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "Investigations underway after miracle rescue of family swept out to sea",
+    "link": "https://www.abc.net.au/news/2026-02-05/geographe-bay-water-safety-austin-appelbee/106306336",
+    "mean_score": 0.3982,
+    "vader_score": 0.7964,
+    "textblob_score": 0.0,
+    "first_sentence": "Rescue workers say the near-miraculous survival of a Perth family swept out to sea highlights the dangers facing visitors.",
+    "timestamp": "2026-02-04T20:24:07Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "EU deal on Ukraine loan could boost UK if it agrees to help pay costs",
     "link": "https://www.theguardian.com/world/2026/feb/04/eu-deal-on-ukraine-loan-could-boost-uk-if-it-agrees-to-help-pay-costs",
     "mean_score": 0.3502,

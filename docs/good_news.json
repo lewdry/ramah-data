@@ -1,6 +1,36 @@
 {
-  "last run": "2026-02-10T21:21:27Z",
+  "last run": "2026-02-10T22:20:08Z",
   "stories": [
+    {
+      "headline": "West Ham United v Manchester United: Premier League \u2013 live",
+      "link": "https://www.theguardian.com/football/live/2026/feb/10/west-ham-manchester-united-premier-league-live",
+      "mean_score": 0.4086,
+      "vader_score": 0.6808,
+      "textblob_score": 0.1364,
+      "first_sentence": "So what has that done to the Premier League table? West Ham nudge a little closer to Nottingham Forest \u2013 and Tottenham Hotspur \u2013 at the bottom.",
+      "timestamp": "2026-02-10T22:10:41Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Mandatory camera monitoring for trawlers working Great Barrier Reef Marine Park",
+      "link": "https://www.abc.net.au/news/rural/2026-02-11/electronic-camera-monitoring-bycatch-trawlers-seafood/106307306",
+      "mean_score": 0.6997,
+      "vader_score": 0.5994,
+      "textblob_score": 0.8,
+      "first_sentence": "Cameras will become mandatory on 90 per cent of Queensland trawlers to monitor the bycatch of endangered species.",
+      "timestamp": "2026-02-10T22:10:18Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Top 5 takeaways from the House immigration oversight hearing",
+      "link": "https://www.npr.org/2026/02/10/nx-s1-5708757/immigration-enforcement-oversight-house-takeaways",
+      "mean_score": 0.3512,
+      "vader_score": 0.2023,
+      "textblob_score": 0.5,
+      "first_sentence": "Immigration agency leaders appeared before Congress for the first time since two U.S.",
+      "timestamp": "2026-02-10T21:37:05Z",
+      "source": "NPR News"
+    },
     {
       "headline": "Streeting still ready to challenge Starmer despite show of unity, allies say",
       "link": "https://www.theguardian.com/politics/2026/feb/10/streeting-still-ready-to-challenge-starmer-despite-show-of-unity-allies-say",
@@ -9,6 +39,16 @@
       "textblob_score": 0.2,
       "first_sentence": "Allies of Wes Streeting expect him to try to depose Keir Starmer within weeks, despite the health secretary insisting he backs the prime minister and is not intending to move against him, the Guardian has been told.",
       "timestamp": "2026-02-10T20:46:29Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Women\u2019s Champions League playoffs to test WSL teams\u2019 depth and new format\u2019s value",
+      "link": "https://www.theguardian.com/football/2026/feb/10/womens-champions-league-playoffs-test-wsl-teams-depth-new-format-value",
+      "mean_score": 0.4183,
+      "vader_score": 0.7003,
+      "textblob_score": 0.1364,
+      "first_sentence": "The next phase of the new Women\u2019s Champions League format gets under way on Wednesday and Thursday, when the four playoff first legs take place.",
+      "timestamp": "2026-02-10T19:54:45Z",
       "source": "The Guardian"
     },
     {
@@ -2460,46 +2500,6 @@
       "first_sentence": "Ukrainian and Russian negotiators have held a \u201cproductive\u201d first round of US-led peace talks in Abu Dhabi, as Washington seeks a pathway to end the nearly four-year war in Ukraine.",
       "timestamp": "2026-02-04T23:38:14Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Ukraine and Russia wrap 'productive' first day of direct peace talks",
-      "link": "https://www.abc.net.au/news/2026-02-05/ukraine-war-negotiations-kyiv-moscow-meet-in-uae/106307234",
-      "mean_score": 0.3587,
-      "vader_score": 0.5423,
-      "textblob_score": 0.175,
-      "first_sentence": "Ukrainian and Russian officials have wrapped up a \"productive\" first day of US-brokered talks in Abu Dhabi, according to Kyiv's lead negotiator, as fighting in Europe's biggest conflict since World War II rages on.",
-      "timestamp": "2026-02-04T22:42:16Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "'I never left your side': Emails reveal more about Mandelson's Epstein friendship",
-      "link": "https://www.bbc.com/news/articles/cevn33kgxgmo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3452,
-      "vader_score": 0.4404,
-      "textblob_score": 0.25,
-      "first_sentence": "Prime Minister Sir Keir Starmer has said Peter Mandelson misled him about the extent of his friendship with convicted paedophile Jeffrey Epstein before he was appointed US ambassador.",
-      "timestamp": "2026-02-04T21:28:40Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Here's how this 87-year-old triathlete keeps her heart strong",
-      "link": "https://www.npr.org/2026/02/04/nx-s1-5691731-e1/heres-how-this-87-year-old-triathlete-keeps-her-heart-strong",
-      "mean_score": 0.6255,
-      "vader_score": 0.8176,
-      "textblob_score": 0.4333,
-      "first_sentence": "Despite issues with her heart, this octogenarian still competes in triathlons.",
-      "timestamp": "2026-02-04T21:18:46Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Investigations underway after miracle rescue of family swept out to sea",
-      "link": "https://www.abc.net.au/news/2026-02-05/geographe-bay-water-safety-austin-appelbee/106306336",
-      "mean_score": 0.3982,
-      "vader_score": 0.7964,
-      "textblob_score": 0.0,
-      "first_sentence": "Rescue workers say the near-miraculous survival of a Perth family swept out to sea highlights the dangers facing visitors.",
-      "timestamp": "2026-02-04T20:24:07Z",
-      "source": "ABC News"
     }
   ]
 }
