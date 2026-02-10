@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-10T16:30:42Z",
+  "last run": "2026-02-10T17:28:11Z",
   "stories": [
+    {
+      "headline": "Upgraded Google safety tools can now find and remove more of your personal info",
+      "link": "https://arstechnica.com/gadgets/2026/02/upgraded-google-safety-tools-can-now-find-and-remove-more-of-your-personal-info/",
+      "mean_score": 0.3357,
+      "vader_score": 0.4215,
+      "textblob_score": 0.25,
+      "first_sentence": "Do you feel popular? There are people on the Internet who want to know all about you! Unfortunately, they don\u2019t have the best of intentions, but Google has some handy tools to address that, and they\u2019ve gotten an upgrade today.",
+      "timestamp": "2026-02-10T16:59:25Z",
+      "source": "Ars Technica"
+    },
     {
       "headline": "Masterpiece, fridge magnet, phone case \u2026 opera: how Hokusai\u2019s The Great Wave hit the stage",
       "link": "https://www.theguardian.com/music/2026/feb/10/masterpiece-fridge-magnet-phone-case-opera-hokusais-great-wave",
@@ -2489,16 +2499,6 @@
       "textblob_score": 1.0,
       "first_sentence": "I remember the first time I remembered a smell.",
       "timestamp": "2026-02-04T16:16:48Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Ministers face pressure to accept amendment giving intelligence and security committee final say over Mandelson files \u2013 UK politics live",
-      "link": "https://www.theguardian.com/politics/live/2026/feb/04/peter-mandelson-files-us-ambassador-jeffrey-epstein-keir-starmer-tories-uk-politics-live-news-updates",
-      "mean_score": 0.4378,
-      "vader_score": 0.8074,
-      "textblob_score": 0.0682,
-      "first_sentence": "Lindsay Hoyle says the manuscript amendment, which has been tabled by the PM, has been accepted.",
-      "timestamp": "2026-02-04T16:15:20Z",
       "source": "The Guardian"
     }
   ]
