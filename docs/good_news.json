@@ -1,6 +1,36 @@
 {
-  "last run": "2026-02-09T23:18:27Z",
+  "last run": "2026-02-10T00:48:26Z",
   "stories": [
+    {
+      "headline": "Outback artist finds fame in Japan thanks to tote bag and J-pop star",
+      "link": "https://www.abc.net.au/news/2026-02-10/broken-hill-artist-exhibits-in-japan-fujii-kaze-jpop-star/106304746",
+      "mean_score": 0.4502,
+      "vader_score": 0.7003,
+      "textblob_score": 0.2,
+      "first_sentence": "A chance brush with fame led to Jason McCarthur's art exploding in popularity in Japan after J-pop star Fujii Kaze was spotted with one of the outback artist's bags.",
+      "timestamp": "2026-02-10T00:07:18Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Japan has given Takaichi a landslide win - but can she bring back the economy?",
+      "link": "https://www.bbc.com/news/articles/cddn7qed35eo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.37,
+      "vader_score": 0.34,
+      "textblob_score": 0.4,
+      "first_sentence": "Japan's prime minister, Sanae Takaichi, rolled the dice on a snap election - and it paid off.",
+      "timestamp": "2026-02-09T23:02:34Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Olympians say don't run or jump while celebrating as more medals break",
+      "link": "https://www.abc.net.au/news/2026-02-10/winter-olympics-medals-breaking-breezy-johnson-alysa-liu/106325112",
+      "mean_score": 0.5359,
+      "vader_score": 0.5719,
+      "textblob_score": 0.5,
+      "first_sentence": "At least four athletes at the Winter Olympics have broken their medals while celebrating.",
+      "timestamp": "2026-02-09T22:51:25Z",
+      "source": "ABC News"
+    },
     {
       "headline": "How to spot AI-generated social media that acts like a 'snake eating its own tail'",
       "link": "https://www.abc.net.au/news/2026-02-10/ai-generated-text-predictive-models-formulaic-social-media/106313944",
@@ -2470,36 +2500,6 @@
       "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
       "timestamp": "2026-02-03T20:30:07Z",
       "source": "SBS News"
-    },
-    {
-      "headline": "Residents burnt out of 'paradise' determined to rebuild",
-      "link": "https://www.abc.net.au/news/2026-02-04/gellibrand-residents-plan-rebuild-after-otways-bushfire/106298822",
-      "mean_score": 0.3825,
-      "vader_score": 0.765,
-      "textblob_score": 0.0,
-      "first_sentence": "John Cochrane steps through the ruins of his family home, spotting familiar belongings that lie among the ash and rubble.",
-      "timestamp": "2026-02-03T20:10:31Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "'We hope' Savannah Guthrie's mother is still alive, sheriff says",
-      "link": "https://www.bbc.com/news/articles/c14rd1ny5gdo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3852,
-      "vader_score": 0.6705,
-      "textblob_score": 0.1,
-      "first_sentence": "More than 48 hours since the mother of US news anchor Savannah Guthrie was reported missing, law enforcement officials are still seeking clues in the disappearance of the 84-year-old from her home in Tuscon, Arizona.",
-      "timestamp": "2026-02-03T20:08:51Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "LIV golfers to start earning ranking points for top 10 finishes",
-      "link": "https://www.abc.net.au/news/2026-02-04/liv-golf-official-world-golf-ranking-points/106302498",
-      "mean_score": 0.3512,
-      "vader_score": 0.2023,
-      "textblob_score": 0.5,
-      "first_sentence": "Members of the breakaway LIV Golf league will now be able to receive Official World Golf Ranking points for finishing in the top 10 of specific tournaments.",
-      "timestamp": "2026-02-03T19:28:47Z",
-      "source": "ABC News"
     }
   ]
 }
