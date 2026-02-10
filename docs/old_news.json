@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Skinning, boot-packing and downhill skiing: welcome to skimo at the Winter Olympics",
+    "link": "https://www.theguardian.com/sport/2026/feb/04/winter-olympics-2026-milano-cortina-skiing-skimo-explained",
+    "mean_score": 0.6294,
+    "vader_score": 0.4588,
+    "textblob_score": 0.8,
+    "first_sentence": "No one could suggest that the Winter Olympics are lacking in challenge.",
+    "timestamp": "2026-02-04T14:00:46Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Cool Runnings 2.0: Jamaica\u2019s bobsleigh crew want their own Hollywood ending",
+    "link": "https://www.theguardian.com/sport/2026/feb/04/jamaica-bobsleigh-crew-winter-olympics-2026",
+    "mean_score": 0.4284,
+    "vader_score": 0.3818,
+    "textblob_score": 0.475,
+    "first_sentence": "It did not make so much as a ripple outside its minor sporting niche, but something particularly unusual occurred in the bobsleigh world earlier this year.",
+    "timestamp": "2026-02-04T12:00:41Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "So yeah, I vibe-coded a log colorizer\u2014and I feel good about it",
     "link": "https://arstechnica.com/features/2026/02/so-yeah-i-vibe-coded-a-log-colorizer-and-i-feel-good-about-it/",
     "mean_score": 0.6795,

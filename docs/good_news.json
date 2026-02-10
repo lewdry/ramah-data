@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-10T13:37:28Z",
+  "last run": "2026-02-10T14:35:23Z",
   "stories": [
+    {
+      "headline": "Andy Burnham backs Starmer but urges him to be bolder and more inclusive",
+      "link": "https://www.theguardian.com/politics/2026/feb/10/keir-starmer-lead-moment-change-labour-turmoil-ed-miliband",
+      "mean_score": 0.4509,
+      "vader_score": 0.4019,
+      "textblob_score": 0.5,
+      "first_sentence": "Andy Burnham has publicly backed Keir Starmer while calling for him to show more boldness and be more willing to accept contributions from others within Labour.",
+      "timestamp": "2026-02-10T14:31:18Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Raedler and Huber of Austria win team combined at the Olympics, Mikaela Shiffrin is 4th",
+      "link": "https://apnews.com/article/womens-combined-breezy-shiffrin-goggia-skiing-bdf9d2e14621897ca586329f4d0044d9",
+      "mean_score": 0.6929,
+      "vader_score": 0.5859,
+      "textblob_score": 0.8,
+      "first_sentence": "CORTINA D\u2019AMPEZZO, Italy (AP) \u2014 Ariane Raedler and Katharina Huber of Austria won gold in the new team combined event at the Milan Cortina Olympics on Tuesday when Mikaela Shiffrin surprisingly crossed fourth after wasting a first-run lead by teammate Breezy Johnson.",
+      "timestamp": "2026-02-10T14:23:02Z",
+      "source": "AP News"
+    },
     {
       "headline": "Winter Olympics 2026 day four: more golds for Italy, Norway and Sweden; GB go for first medal \u2013 live",
       "link": "https://www.theguardian.com/sport/live/2026/feb/10/winter-olympics-2026-live-day-four",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.375,
       "first_sentence": "Juicy watermelon, deep-purple plums and ripe roma tomatoes are some of the vibrant fruit and veg highlights this month, says Graham Gee, senior buyer at the Happy Apple in Melbourne.",
       "timestamp": "2026-02-04T14:00:48Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Skinning, boot-packing and downhill skiing: welcome to skimo at the Winter Olympics",
-      "link": "https://www.theguardian.com/sport/2026/feb/04/winter-olympics-2026-milano-cortina-skiing-skimo-explained",
-      "mean_score": 0.6294,
-      "vader_score": 0.4588,
-      "textblob_score": 0.8,
-      "first_sentence": "No one could suggest that the Winter Olympics are lacking in challenge.",
-      "timestamp": "2026-02-04T14:00:46Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Cool Runnings 2.0: Jamaica\u2019s bobsleigh crew want their own Hollywood ending",
-      "link": "https://www.theguardian.com/sport/2026/feb/04/jamaica-bobsleigh-crew-winter-olympics-2026",
-      "mean_score": 0.4284,
-      "vader_score": 0.3818,
-      "textblob_score": 0.475,
-      "first_sentence": "It did not make so much as a ripple outside its minor sporting niche, but something particularly unusual occurred in the bobsleigh world earlier this year.",
-      "timestamp": "2026-02-04T12:00:41Z",
       "source": "The Guardian"
     }
   ]
