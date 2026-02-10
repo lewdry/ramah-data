@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-10T20:20:19Z",
+  "last run": "2026-02-10T21:21:27Z",
   "stories": [
+    {
+      "headline": "Streeting still ready to challenge Starmer despite show of unity, allies say",
+      "link": "https://www.theguardian.com/politics/2026/feb/10/streeting-still-ready-to-challenge-starmer-despite-show-of-unity-allies-say",
+      "mean_score": 0.3107,
+      "vader_score": 0.4215,
+      "textblob_score": 0.2,
+      "first_sentence": "Allies of Wes Streeting expect him to try to depose Keir Starmer within weeks, despite the health secretary insisting he backs the prime minister and is not intending to move against him, the Guardian has been told.",
+      "timestamp": "2026-02-10T20:46:29Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Australian K-pop community credits Demon Hunters as popularity soars",
       "link": "https://www.abc.net.au/news/2026-02-11/kpop-community-grows-thanks-to-bts-demon-hunters/106325884",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Rescue workers say the near-miraculous survival of a Perth family swept out to sea highlights the dangers facing visitors.",
       "timestamp": "2026-02-04T20:24:07Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "EU deal on Ukraine loan could boost UK if it agrees to help pay costs",
-      "link": "https://www.theguardian.com/world/2026/feb/04/eu-deal-on-ukraine-loan-could-boost-uk-if-it-agrees-to-help-pay-costs",
-      "mean_score": 0.3502,
-      "vader_score": 0.7003,
-      "textblob_score": 0.0,
-      "first_sentence": "The UK could reap greater benefits from a \u20ac90bn (\u00a378bn) EU loan for Ukraine, if it agrees to help pay the cost of borrowing, after European countries signed off long-awaited financial aid for Kyiv.",
-      "timestamp": "2026-02-04T18:50:24Z",
-      "source": "The Guardian"
     }
   ]
 }
