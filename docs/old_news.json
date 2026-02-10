@@ -1,5 +1,35 @@
 [
   {
+    "headline": "'I can hear my parents cough': The benefits and challenges of moving in with family for good",
+    "link": "https://www.sbs.com.au/news/the-feed/article/multigenerational-living-housing/od3sc7lpx",
+    "mean_score": 0.7002,
+    "vader_score": 0.7003,
+    "textblob_score": 0.7,
+    "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+    "timestamp": "2026-02-04T18:44:20Z",
+    "source": "SBS News"
+  },
+  {
+    "headline": "User blowback convinces Adobe to keep supporting 30-year-old 2D animation app",
+    "link": "https://arstechnica.com/gadgets/2026/02/adobe-reverses-decision-to-discontinue-animate-after-a-lot-of-confusion-and-angst/",
+    "mean_score": 0.4037,
+    "vader_score": 0.5574,
+    "textblob_score": 0.25,
+    "first_sentence": "Adobe has canceled plans to discontinue its 2D animation software Animate.",
+    "timestamp": "2026-02-04T17:55:13Z",
+    "source": "Ars Technica"
+  },
+  {
+    "headline": "Dark showering: is this the very best way to wash?",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/feb/04/dark-showering-best-way-wash-bathroom-lights-off-sleep",
+    "mean_score": 0.5474,
+    "vader_score": 0.6697,
+    "textblob_score": 0.425,
+    "first_sentence": "That\u2019s it? What\u2019s happened, has the bulb gone again? No, it\u2019s showering with the light off on purpose.",
+    "timestamp": "2026-02-04T17:34:53Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Goofy! Unvampy! Pouty! Implausible! With nine films on the go, can Charli xcx act?",
     "link": "https://www.theguardian.com/film/2026/feb/04/can-charli-xcx-act-beyonce-harry-styles",
     "mean_score": 0.5,
