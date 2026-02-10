@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Doberman pinscher named Penny wins top prize at Westminster Dog Show",
+    "link": "https://www.abc.net.au/news/2026-02-04/doberman-pinscher-named-penny-wins-westminster-dog-show/106305290",
+    "mean_score": 0.6158,
+    "vader_score": 0.8316,
+    "textblob_score": 0.4,
+    "first_sentence": "Penny bested six other finalists at New York's Madison Square Garden to win the show dog world's most coveted prize, after more than 2,500 dogs strutted their stuff.",
+    "timestamp": "2026-02-04T05:27:51Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "How an 'honest mistake' upended tennis player's Australia Open dream",
+    "link": "https://www.abc.net.au/news/2026-02-04/banned-tennis-player-thomas-fancutt-makes-comeback/106303088",
+    "mean_score": 0.3702,
+    "vader_score": 0.4404,
+    "textblob_score": 0.3,
+    "first_sentence": "Australian Thomas Fancutt has made his return to professional tennis after receiving a 10-month ban for receiving a 500 millilitre vitamin and magnesium infusion.",
+    "timestamp": "2026-02-04T05:06:13Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "NT residents feel less safe despite government's crime crackdown, report finds",
+    "link": "https://www.abc.net.au/news/2026-02-04/nt-residents-feel-less-safe-productivity-commission-2026-report/106294508",
+    "mean_score": 0.4163,
+    "vader_score": 0.6659,
+    "textblob_score": 0.1667,
+    "first_sentence": "A government\u00a0report has found a reduction in how safe Northern Territory residents felt when alone in 2024-2025.",
+    "timestamp": "2026-02-04T02:55:26Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Teaching our kids they have the ability to say no empowers them with better reasons to say yes | Myke Bartlett",
+    "link": "https://www.theguardian.com/commentisfree/2026/feb/04/teaching-kids-to-say-no",
+    "mean_score": 0.5954,
+    "vader_score": 0.6908,
+    "textblob_score": 0.5,
+    "first_sentence": "One of the most frustrating aspects of parenting is having to force your kids to do something they will undoubtedly enjoy.",
+    "timestamp": "2026-02-04T02:17:27Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "A timeless love story with Ryan Gosling and Rachel McAdams",
     "link": "https://www.bbc.co.uk/iplayer/episode/m000m2hj/the-notebook?at_mid=exswMG9yUO&at_campaign=The_Notebook&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m000m2hj&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Notebook&at_bbc_team=BBC&at_creation=film",
     "mean_score": 0.5685,

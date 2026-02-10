@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-10T08:22:47Z",
+  "last run": "2026-02-10T09:27:20Z",
   "stories": [
+    {
+      "headline": "Top Iran security official to travel to Oman, site of talks with US, likely with nuclear message",
+      "link": "https://apnews.com/article/iran-oman-us-nuclear-talks-protests-crackdown-50cc3b6261bfd90ebe01da64ba9576d9",
+      "mean_score": 0.372,
+      "vader_score": 0.4939,
+      "textblob_score": 0.25,
+      "first_sentence": "DUBAI, United Arab Emirates (AP) \u2014 A top Iranian security official traveled Tuesday to Oman, the Mideast sultanate now mediating talks between Tehran and the United States over the Islamic Republic\u2019 nuclear program aimed at halting a possible American strike.",
+      "timestamp": "2026-02-10T08:23:02Z",
+      "source": "AP News"
+    },
+    {
+      "headline": "Live: Aussie flag-bearers start Olympic medal quest in moguls",
+      "link": "https://www.abc.net.au/news/2026-02-10/winter-olympics-2026-live-milano-cortina-moguls-ice-hockey/106326694",
+      "mean_score": 0.3065,
+      "vader_score": 0.4767,
+      "textblob_score": 0.1364,
+      "first_sentence": "Australia's flag-bearers, Jakara Anthony and Matt Graham, start their 2026 Winter Olympics campaign tonight with moguls qualifying.",
+      "timestamp": "2026-02-10T08:17:49Z",
+      "source": "ABC News"
+    },
     {
       "headline": "BP halts share buy-backs as annual profits slide",
       "link": "https://www.theguardian.com/business/2026/feb/10/bp-halts-share-buy-backs-profits-fall-chief-executive",
@@ -9,6 +29,16 @@
       "textblob_score": 0.0,
       "first_sentence": "BP has halted share buy-backs after reporting weaker annual profits as it prepares to continue a plan to resuscitate its fortunes under a new chief executive.",
       "timestamp": "2026-02-10T08:14:30Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Heat seekers: amazing thermal images from the Winter Olympics",
+      "link": "https://www.theguardian.com/sport/2026/feb/10/heat-seekers-amazing-thermal-images-from-the-winter-olympics",
+      "mean_score": 0.593,
+      "vader_score": 0.5859,
+      "textblob_score": 0.6,
+      "first_sentence": "While most photographers are striving to \u2018freeze\u2019 motion using traditional cameras at the Winter Olympics this month, a creative trio from the photo agency Getty Images are seeking something much more unexpected: heat.",
+      "timestamp": "2026-02-10T08:00:18Z",
       "source": "The Guardian"
     },
     {
@@ -50,6 +80,16 @@
       "first_sentence": "WASHINGTON \u2014 A group of Buddhist monks is set to reach Washington, D.C., on foot Tuesday, capping a trek from Texas that has captivated the country.",
       "timestamp": "2026-02-10T06:56:01Z",
       "source": "NPR News"
+    },
+    {
+      "headline": "Cambridge University wins rowing trademark case",
+      "link": "https://www.bbc.com/news/articles/cgqeww4w4ywo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4359,
+      "vader_score": 0.5719,
+      "textblob_score": 0.3,
+      "first_sentence": "The University of Cambridge has won its fight to stop a rowing company based in the city trademarking its name.",
+      "timestamp": "2026-02-10T06:13:28Z",
+      "source": "BBC News"
     },
     {
       "headline": "Moroccan lamb filo pie and rhubarb panna cotta: Thomasina Miers\u2019 Sunday best recipes",
@@ -2459,46 +2499,6 @@
       "textblob_score": 0.0,
       "first_sentence": "Clive Palmer has denied Steve Bannon helped direct his advertising blitz in the 2019 federal election, suggesting texts published in the Jeffrey Epstein files about the strategy were an attempt by the former Trump strategist to \u201cincrease his own influence\u201d by claiming credit.",
       "timestamp": "2026-02-04T05:47:57Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Doberman pinscher named Penny wins top prize at Westminster Dog Show",
-      "link": "https://www.abc.net.au/news/2026-02-04/doberman-pinscher-named-penny-wins-westminster-dog-show/106305290",
-      "mean_score": 0.6158,
-      "vader_score": 0.8316,
-      "textblob_score": 0.4,
-      "first_sentence": "Penny bested six other finalists at New York's Madison Square Garden to win the show dog world's most coveted prize, after more than 2,500 dogs strutted their stuff.",
-      "timestamp": "2026-02-04T05:27:51Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "How an 'honest mistake' upended tennis player's Australia Open dream",
-      "link": "https://www.abc.net.au/news/2026-02-04/banned-tennis-player-thomas-fancutt-makes-comeback/106303088",
-      "mean_score": 0.3702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.3,
-      "first_sentence": "Australian Thomas Fancutt has made his return to professional tennis after receiving a 10-month ban for receiving a 500 millilitre vitamin and magnesium infusion.",
-      "timestamp": "2026-02-04T05:06:13Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "NT residents feel less safe despite government's crime crackdown, report finds",
-      "link": "https://www.abc.net.au/news/2026-02-04/nt-residents-feel-less-safe-productivity-commission-2026-report/106294508",
-      "mean_score": 0.4163,
-      "vader_score": 0.6659,
-      "textblob_score": 0.1667,
-      "first_sentence": "A government\u00a0report has found a reduction in how safe Northern Territory residents felt when alone in 2024-2025.",
-      "timestamp": "2026-02-04T02:55:26Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Teaching our kids they have the ability to say no empowers them with better reasons to say yes | Myke Bartlett",
-      "link": "https://www.theguardian.com/commentisfree/2026/feb/04/teaching-kids-to-say-no",
-      "mean_score": 0.5954,
-      "vader_score": 0.6908,
-      "textblob_score": 0.5,
-      "first_sentence": "One of the most frustrating aspects of parenting is having to force your kids to do something they will undoubtedly enjoy.",
-      "timestamp": "2026-02-04T02:17:27Z",
       "source": "The Guardian"
     }
   ]
