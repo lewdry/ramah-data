@@ -1,5 +1,15 @@
 [
   {
+    "headline": "A timeless love story with Ryan Gosling and Rachel McAdams",
+    "link": "https://www.bbc.co.uk/iplayer/episode/m000m2hj/the-notebook?at_mid=exswMG9yUO&at_campaign=The_Notebook&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m000m2hj&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Notebook&at_bbc_team=BBC&at_creation=film",
+    "mean_score": 0.5685,
+    "vader_score": 0.6369,
+    "textblob_score": 0.5,
+    "first_sentence": "In the run-up to the Second World War, a young couple's relationship falls foul of class prejudice.",
+    "timestamp": "2026-02-04T01:37:07Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Government pledges 10,000 new foster care places in England",
     "link": "https://www.bbc.com/news/articles/cpwngvlzgg4o?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.3151,

@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-10T07:30:44Z",
+  "last run": "2026-02-10T08:22:47Z",
   "stories": [
+    {
+      "headline": "BP halts share buy-backs as annual profits slide",
+      "link": "https://www.theguardian.com/business/2026/feb/10/bp-halts-share-buy-backs-profits-fall-chief-executive",
+      "mean_score": 0.3125,
+      "vader_score": 0.6249,
+      "textblob_score": 0.0,
+      "first_sentence": "BP has halted share buy-backs after reporting weaker annual profits as it prepares to continue a plan to resuscitate its fortunes under a new chief executive.",
+      "timestamp": "2026-02-10T08:14:30Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Four decades after we wrote Yes Minister, politics is still reduced to the pleasure of power | Jonathan Lynn",
       "link": "https://www.theguardian.com/stage/2026/feb/10/im-sorry-prime-minister-political-satire-jonathan-lynn",
@@ -2490,16 +2500,6 @@
       "first_sentence": "One of the most frustrating aspects of parenting is having to force your kids to do something they will undoubtedly enjoy.",
       "timestamp": "2026-02-04T02:17:27Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "A timeless love story with Ryan Gosling and Rachel McAdams",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m000m2hj/the-notebook?at_mid=exswMG9yUO&at_campaign=The_Notebook&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m000m2hj&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Notebook&at_bbc_team=BBC&at_creation=film",
-      "mean_score": 0.5685,
-      "vader_score": 0.6369,
-      "textblob_score": 0.5,
-      "first_sentence": "In the run-up to the Second World War, a young couple's relationship falls foul of class prejudice.",
-      "timestamp": "2026-02-04T01:37:07Z",
-      "source": "BBC News"
     }
   ]
 }
