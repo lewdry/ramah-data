@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-10T05:36:59Z",
+  "last run": "2026-02-10T06:33:43Z",
   "stories": [
+    {
+      "headline": "Moroccan lamb filo pie and rhubarb panna cotta: Thomasina Miers\u2019 Sunday best recipes",
+      "link": "https://www.theguardian.com/food/2026/feb/10/moroccan-lamb-filo-pie-rhubarb-panna-cotta-recipes-thomasina-miers",
+      "mean_score": 0.8185,
+      "vader_score": 0.6369,
+      "textblob_score": 1.0,
+      "first_sentence": "There is little as pleasing to cook in the depths of the winter as a pot of enticingly fragrant, slow-braised meat.",
+      "timestamp": "2026-02-10T06:00:15Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "At school, I was my brother's protector. But I needed more support",
+      "link": "https://www.abc.net.au/news/2026-02-10/support-i-wish-i-had-at-school-while-caring-for-my-brother/106279156",
+      "mean_score": 0.5555,
+      "vader_score": 0.611,
+      "textblob_score": 0.5,
+      "first_sentence": "Michael Roberts remembers the day he was pulled out of a maths test to help his brother.",
+      "timestamp": "2026-02-10T05:46:43Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Outback artist finds fame in Japan thanks to tote bag and J-pop star",
       "link": "https://www.abc.net.au/news/2026-02-10/broken-hill-artist-exhibits-in-japan-fujii-kaze-jpop-star/106304746",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Epstein's photos and emails have already prompted King Charles to strip his brother Andrew of his title \"prince.\" Now, they've prompted one of Britain's top diplomats \u2014 Peter Mandelson \u2014 to step down.",
       "timestamp": "2026-02-03T22:06:01Z",
       "source": "NPR News"
-    },
-    {
-      "headline": "Adventurer's high praise for 13yo boy and his mum after miracle WA rescue",
-      "link": "https://www.abc.net.au/news/2026-02-04/survival-expert-praises-teen-family-geographe-bay-rescue/106301816",
-      "mean_score": 0.5267,
-      "vader_score": 0.8934,
-      "textblob_score": 0.16,
-      "first_sentence": "A survival expert says calm, rational decision-making was key to a family's survival after they were swept out to sea off WA's South West.",
-      "timestamp": "2026-02-03T21:54:19Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "'Just keep swimming': Heroic WA teen swam for hours to save family swept out to sea",
-      "link": "https://www.sbs.com.au/news/article/western-australian-teen-swims-for-hours-to-save-family-swept-out-to-sea/xvb3lw291",
-      "mean_score": 0.5641,
-      "vader_score": 0.7783,
-      "textblob_score": 0.35,
-      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-      "timestamp": "2026-02-03T20:30:07Z",
-      "source": "SBS News"
     }
   ]
 }
