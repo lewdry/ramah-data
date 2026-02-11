@@ -1,6 +1,36 @@
 {
-  "last run": "2026-02-11T14:30:47Z",
+  "last run": "2026-02-11T15:27:28Z",
   "stories": [
+    {
+      "headline": "A plague doctor dances with a rat at a Covid ball: Lisl Ponger\u2019s best photograph",
+      "link": "https://www.theguardian.com/artanddesign/2026/feb/11/plague-doctor-dances-rat-covid-ball-lisl-pongers-best-photograph",
+      "mean_score": 0.8185,
+      "vader_score": 0.6369,
+      "textblob_score": 1.0,
+      "first_sentence": "When Covid started, everybody was talking about masks.",
+      "timestamp": "2026-02-11T14:57:14Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "European Super League project officially over after Real Madrid and Uefa deal",
+      "link": "https://www.theguardian.com/football/2026/feb/11/european-super-league-project-over-real-madrid-uefa-deal",
+      "mean_score": 0.3886,
+      "vader_score": 0.5994,
+      "textblob_score": 0.1778,
+      "first_sentence": "The Super League project has finally died out after Uefa announced it had reached \u201can agreement of principles for the wellbeing of European club football\u201d with Real Madrid and the European Football Clubs group.",
+      "timestamp": "2026-02-11T14:53:34Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Local rivalries are key for Wallabies as Super Rugby starts the new season full of hope | Angus Fontaine",
+      "link": "https://www.theguardian.com/sport/blog/2026/feb/11/super-rugby-wallabies-new-season",
+      "mean_score": 0.4711,
+      "vader_score": 0.7783,
+      "textblob_score": 0.1639,
+      "first_sentence": "The 2026 Super Rugby Pacific season kicks off this weekend and Australia needs its four provinces to make a stirring statement ahead of the 2027 home World Cup.",
+      "timestamp": "2026-02-11T14:00:10Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "US closes airspace over Texas border town for 10 days for 'special security reasons'",
       "link": "https://www.bbc.com/news/articles/cqxdwjn578do?at_medium=RSS&at_campaign=rss",
@@ -2470,36 +2500,6 @@
       "first_sentence": "Hamster Corp.\u2019s new \u201cConsole Archives\u201d does what Nintendon\u2019t.",
       "timestamp": "2026-02-05T22:14:34Z",
       "source": "Ars Technica"
-    },
-    {
-      "headline": "It's Super Bowl weekend and here's what you need to know",
-      "link": "https://www.abc.net.au/news/2026-02-06/super-bowl-how-to-watch-australia-2026/106272636",
-      "mean_score": 0.4664,
-      "vader_score": 0.5994,
-      "textblob_score": 0.3333,
-      "first_sentence": "You might have heard a lot of chatter about American football in recent days.",
-      "timestamp": "2026-02-05T21:26:10Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Margot Robbie and Jacob Elordi brave London rain for Wuthering Heights premiere",
-      "link": "https://www.bbc.com/news/articles/c07xyp5rxl3o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.6633,
-      "vader_score": 0.5267,
-      "textblob_score": 0.8,
-      "first_sentence": "Ever wondered how an actor from Brisbane, Australia, perfects a Northern accent?.",
-      "timestamp": "2026-02-05T21:23:42Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "WA premier commends hero swimmer Austin Appelbee's 'true bravery' in letter",
-      "link": "https://www.abc.net.au/news/2026-02-06/wa-premier-writes-letter-to-13yo-hero-swimmer-austin-appelbee/106311516",
-      "mean_score": 0.6062,
-      "vader_score": 0.8625,
-      "textblob_score": 0.35,
-      "first_sentence": "The WA premier has written to Austin Appelbee, the 13-year-old hero who swam 4 kilometres to save his family, commending the teenager for his bravery.",
-      "timestamp": "2026-02-05T21:21:51Z",
-      "source": "ABC News"
     }
   ]
 }
