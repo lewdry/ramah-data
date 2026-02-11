@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-11T11:23:18Z",
+  "last run": "2026-02-11T12:26:05Z",
   "stories": [
+    {
+      "headline": "Winter Olympics 2026: Franjo von Allmen takes Super G title for third gold of Games \u2013 live",
+      "link": "https://www.theguardian.com/sport/live/2026/feb/11/winter-olympics-2026-gold-medals-up-for-grabs-in-skiing-figure-skating-and-more-live",
+      "mean_score": 0.378,
+      "vader_score": 0.5994,
+      "textblob_score": 0.1566,
+      "first_sentence": "Individual Neutral Athletes: There has yet to be an athlete from Russia or Belarus to medal at these Games, with Saveliy Korostelev coming closest (fourth in the men\u2019s 20 kilometre skiathlon).",
+      "timestamp": "2026-02-11T12:10:43Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Congressmen name six wealthy men \u2018likely incriminated\u2019 in Epstein files | First Thing",
+      "link": "https://www.theguardian.com/us-news/2026/feb/11/first-thing-congressmen-name-six-wealthy-men-likely-incriminated-in-epstein-files",
+      "mean_score": 0.3056,
+      "vader_score": 0.3612,
+      "textblob_score": 0.25,
+      "first_sentence": "The Democratic congressman Ro Khanna said on Tuesday that he and his Republican colleague Thomas Massie had forced the justice department to disclose the \u201chidden\u201d names of six wealthy men they say are \u201clikely incriminated\u201d by their inclusion in the Jeffrey Epstein files.",
+      "timestamp": "2026-02-11T11:29:42Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "You might love olive oil, but don\u2019t put it on your CV | Polly Hudson",
       "link": "https://www.theguardian.com/commentisfree/2026/feb/11/olive-oil-job-cv-resume-social-media-viral",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Royal Challengers Bengaluru have won the Indian Women's Premier League, completing a record run chase to claim victory.",
       "timestamp": "2026-02-05T20:35:33Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Five high-protein snacks that are good for vegetarians, according to a dietician",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/30/high-protein-snacks-that-arent-bars-or-jerky",
-      "mean_score": 0.5702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.7,
-      "first_sentence": "Each week we cut through the noise to bring you smart, practical recommendations on how to live better \u2013 from what is worth buying to the tools, habits and ideas that actually last.",
-      "timestamp": "2026-02-05T20:15:46Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Bonobos can play make-believe much like children, study suggests",
-      "link": "https://www.theguardian.com/science/2026/feb/05/bonobos-animal-behaviour-study-engage-make-believe",
-      "mean_score": 0.3997,
-      "vader_score": 0.5994,
-      "textblob_score": 0.2,
-      "first_sentence": "Whether it\u2019s playing at being doctors or hosting a toy\u2019s tea party, children are adept at engaging in make-believe \u2013 now researchers say bonobos can do it too.",
-      "timestamp": "2026-02-05T19:00:47Z",
-      "source": "The Guardian"
     }
   ]
 }
