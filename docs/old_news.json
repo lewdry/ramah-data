@@ -1,5 +1,25 @@
 [
   {
+    "headline": "'Incredible pieces of real estate': Sale of Perth barracks draws huge interest",
+    "link": "https://www.abc.net.au/news/2026-02-05/what-next-for-the-land-from-the-irwin-leeuwin-barracks-sale/106306756",
+    "mean_score": 0.5743,
+    "vader_score": 0.6486,
+    "textblob_score": 0.5,
+    "first_sentence": "The Commonwealth is getting rid of 67 defence properties across the nation, two of them in Perth.",
+    "timestamp": "2026-02-05T05:55:17Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Australia politics live: Greens senator claims One Nation the party of \u2018billionaires, not battlers\u2019 after Hanson\u2019s free flights on Rinehart jet",
+    "link": "https://www.theguardian.com/australia-news/live/2026/feb/05/australian-politics-live-anthony-albanese-sussan-ley-labor-liberal-question-time-chalmers-budget-cost-of-living-marles-defence-leadership-challenge-spill-ntwnfb",
+    "mean_score": 0.4933,
+    "vader_score": 0.7184,
+    "textblob_score": 0.2682,
+    "first_sentence": "The Greens senator Nick McKim has accused Pauline Hanson\u2019s party of being \u201cthe party of the billionaires, not the party of the battlers\u201d after receiving free flights on Gina Rinehart\u2019s private jet.",
+    "timestamp": "2026-02-05T05:08:49Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Sanctions having \u2018significant impact\u2019 on Russian economy, says EU special envoy",
     "link": "https://www.theguardian.com/world/2026/feb/05/sanctions-significant-impact-russian-economy-interview-eu-special-envoy-david-osullivan",
     "mean_score": 0.323,
