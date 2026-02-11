@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-11T06:32:54Z",
+  "last run": "2026-02-11T07:29:10Z",
   "stories": [
+    {
+      "headline": "Labor tries again on super taxes, but success will hinge on Greens support",
+      "link": "https://www.abc.net.au/news/2026-02-11/labor-tries-again-on-super-taxes/106331524",
+      "mean_score": 0.5394,
+      "vader_score": 0.9011,
+      "textblob_score": 0.1778,
+      "first_sentence": "Labor has tried again on a proposed tax hike for the largest super balance.",
+      "timestamp": "2026-02-11T07:19:03Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Adelaide's own a medal contender for US in Winter Olympics women's double luge",
       "link": "https://www.abc.net.au/news/2026-02-11/winter-olympics-chevonne-forgan-womens-doubles-luge-adelaide/106331288",
@@ -2490,16 +2500,6 @@
       "first_sentence": "The Guardian\u2019s journalism is independent.",
       "timestamp": "2026-02-05T07:00:24Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Best pals 'living dream' in boyband December 10",
-      "link": "https://www.bbc.com/news/articles/cvgj0g8e9xmo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.8676,
-      "vader_score": 0.7351,
-      "textblob_score": 1.0,
-      "first_sentence": "Two best friends who grew up on the same street have said they are \"doing their dream job\" after they were both chosen by Simon Cowell to join new boyband, December 10.",
-      "timestamp": "2026-02-05T06:22:46Z",
-      "source": "BBC News"
     }
   ]
 }
