@@ -1,5 +1,25 @@
 [
   {
+    "headline": "For Thailand's popular progressives, winning the vote is only the first hurdle",
+    "link": "https://www.bbc.com/news/articles/cp820jrq3yvo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.5363,
+    "vader_score": 0.7351,
+    "textblob_score": 0.3375,
+    "first_sentence": "Suttasitt \"Macky\" Pottasak is a typical candidate of Thailand's People's Party: young, idealistic and hardworking.",
+    "timestamp": "2026-02-05T23:36:16Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Piastri defends McLaren, expects 'fair shot' at F1 title",
+    "link": "https://www.abc.net.au/news/2026-02-06/oscar-piastri-defends-mclaren-expects-fair-shot-at-f1-title/106312458",
+    "mean_score": 0.5091,
+    "vader_score": 0.3182,
+    "textblob_score": 0.7,
+    "first_sentence": "Oscar Piastri says he was given a \"fair shot\" to win the Formula 1 drivers' championship last season, and expects the same in 2026.",
+    "timestamp": "2026-02-05T22:26:36Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "The Switch 2 is getting a new Virtual Console (kind of)",
     "link": "https://arstechnica.com/gaming/2026/02/the-virtual-console-is-sort-of-back-on-the-switch-2/",
     "mean_score": 0.4474,

@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-11T18:28:57Z",
+  "last run": "2026-02-11T19:27:56Z",
   "stories": [
+    {
+      "headline": "US speedskater Jordan Stolz wins the 1,000 meters gold in an Olympic-record time",
+      "link": "https://apnews.com/article/jordan-stolz-olympics-speedskating-1000-920185276d2436f3ebba60f41450f41f",
+      "mean_score": 0.4359,
+      "vader_score": 0.5719,
+      "textblob_score": 0.3,
+      "first_sentence": "MILAN (AP) \u2014 Jordan Stolz pictured this moment most of his life, ever since he was 5 years old, learning to skate on a frozen pond in his Wisconsin backyard after falling in love with speedskating during the 2010 Winter Olympics \u2014 and hoping to one day step atop the podium himself.",
+      "timestamp": "2026-02-11T19:23:03Z",
+      "source": "AP News"
+    },
+    {
+      "headline": "Labour can win political argument for closer EU ties, says Rachel Reeves",
+      "link": "https://www.theguardian.com/politics/2026/feb/11/labour-political-argument-closer-eu-ties-rachel-reeves",
+      "mean_score": 0.3591,
+      "vader_score": 0.3182,
+      "textblob_score": 0.4,
+      "first_sentence": "Rachel Reeves has insisted Labour can win the political argument for a closer relationship with the EU, calling it the \u201cbiggest prize\u201d for UK economic growth.",
+      "timestamp": "2026-02-11T18:51:23Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Jakara Anthony's response to defeat should make us all proud",
       "link": "https://www.abc.net.au/news/2026-02-12/jakara-anthony-2026-winter-olympics-moguls/106333208",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Slashing tax breaks for property investors might not put much of a dent in house prices, but that\u2019s not to say it can\u2019t make a meaningful difference to home ownership rates over the coming years.",
       "timestamp": "2026-02-05T23:41:21Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "For Thailand's popular progressives, winning the vote is only the first hurdle",
-      "link": "https://www.bbc.com/news/articles/cp820jrq3yvo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5363,
-      "vader_score": 0.7351,
-      "textblob_score": 0.3375,
-      "first_sentence": "Suttasitt \"Macky\" Pottasak is a typical candidate of Thailand's People's Party: young, idealistic and hardworking.",
-      "timestamp": "2026-02-05T23:36:16Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Piastri defends McLaren, expects 'fair shot' at F1 title",
-      "link": "https://www.abc.net.au/news/2026-02-06/oscar-piastri-defends-mclaren-expects-fair-shot-at-f1-title/106312458",
-      "mean_score": 0.5091,
-      "vader_score": 0.3182,
-      "textblob_score": 0.7,
-      "first_sentence": "Oscar Piastri says he was given a \"fair shot\" to win the Formula 1 drivers' championship last season, and expects the same in 2026.",
-      "timestamp": "2026-02-05T22:26:36Z",
-      "source": "ABC News"
     }
   ]
 }
