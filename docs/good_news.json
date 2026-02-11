@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-11T08:21:56Z",
+  "last run": "2026-02-11T09:27:48Z",
   "stories": [
+    {
+      "headline": "Live: Anthony looks to defends Olympic crown as James starts medal quest",
+      "link": "https://www.abc.net.au/news/2026-02-11/winter-olympics-2026-live-jakara-anthony-scotty-james/106329908",
+      "mean_score": 0.3065,
+      "vader_score": 0.4767,
+      "textblob_score": 0.1364,
+      "first_sentence": "Australia's defending champion Jakara Anthony is preparing for the moguls final, while Scotty James starts his quest to complete his Olympic medal set with a maiden snowboard halfpipe gold.",
+      "timestamp": "2026-02-11T08:43:27Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "UK first as cutting-edge therapy used for 'debilitating' heart condition",
+      "link": "https://www.bbc.com/news/articles/c9wnky140dko?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4435,
+      "vader_score": 0.6369,
+      "textblob_score": 0.25,
+      "first_sentence": "It is first thing in the morning and nurses are waiting to take Michael Robinson to theatre.",
+      "timestamp": "2026-02-11T08:03:28Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Winter Olympics briefing: Kl\u00e6bo triumphs again \u2026 and is hungry for golden record",
       "link": "https://www.theguardian.com/sport/2026/feb/10/winter-olympics-briefing-johannes-hosflot-klaebo",
@@ -50,6 +70,16 @@
       "first_sentence": "Labor has tried again on a proposed tax hike for the largest super balance.",
       "timestamp": "2026-02-11T07:19:03Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "What's it like in the village that inspired Wuthering Heights?",
+      "link": "https://www.bbc.com/news/videos/cz6ew71q41qo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3454,
+      "vader_score": 0.6908,
+      "textblob_score": 0.0,
+      "first_sentence": "The Yorkshire village of Haworth is in the spotlight ahead of the new Wuthering Heights film release.",
+      "timestamp": "2026-02-11T06:24:04Z",
+      "source": "BBC News"
     },
     {
       "headline": "Adelaide's own a medal contender for US in Winter Olympics women's double luge",
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.18,
       "first_sentence": "Should I try to seek closure with a person I used to love but drifted apart from, or is it best to leave them be?.",
       "timestamp": "2026-02-05T14:00:42Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "I loved Prue, but Nigella joining Bake Off feels like the good news I need | Rebecca Shaw",
-      "link": "https://www.theguardian.com/commentisfree/2026/feb/05/nigella-lawson-joining-great-british-bake-off",
-      "mean_score": 0.7804,
-      "vader_score": 0.8608,
-      "textblob_score": 0.7,
-      "first_sentence": "Last week, I was sent an exciting news story by a friend.",
-      "timestamp": "2026-02-05T14:00:39Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "What are critical minerals and why are countries so keen to secure them?",
-      "link": "https://www.bbc.com/news/articles/cj6wwx7zxd9o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.379,
-      "vader_score": 0.5581,
-      "textblob_score": 0.2,
-      "first_sentence": "Countries are racing to obtain the critical minerals and rare earths needed to make everything from smartphones to electric cars.",
-      "timestamp": "2026-02-05T13:22:13Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "The best UK treadmills for your home: up your indoor miles with our runner-approved picks",
-      "link": "https://www.theguardian.com/thefilter/2025/jan/15/best-treadmills-running-machines",
-      "mean_score": 0.8185,
-      "vader_score": 0.6369,
-      "textblob_score": 1.0,
-      "first_sentence": "The Guardian\u2019s journalism is independent.",
-      "timestamp": "2026-02-05T10:00:16Z",
       "source": "The Guardian"
     }
   ]
