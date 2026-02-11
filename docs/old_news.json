@@ -1,5 +1,45 @@
 [
   {
+    "headline": "New Jersey voters head to the polls for special congressional primary",
+    "link": "https://www.npr.org/2026/02/05/nx-s1-5698481/new-jersey-voters-head-to-the-polls-for-special-congressional-primary",
+    "mean_score": 0.3499,
+    "vader_score": 0.4019,
+    "textblob_score": 0.2978,
+    "first_sentence": "New Jersey voters head to the polls for one of the year's first congressional primaries.",
+    "timestamp": "2026-02-05T09:55:28Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "Six Nations 2026 predictions: our writers on who will win and why",
+    "link": "https://www.theguardian.com/sport/2026/feb/05/six-nations-2026-predictions-our-writers-on-who-will-win-and-why",
+    "mean_score": 0.6929,
+    "vader_score": 0.5859,
+    "textblob_score": 0.8,
+    "first_sentence": "What are you most looking forward to? Let\u2019s hope it stops raining at some stage.",
+    "timestamp": "2026-02-05T08:00:26Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Capital gains tax discount to cost Australia $250bn over next decade with retirees and high-income earners to benefit most",
+    "link": "https://www.theguardian.com/australia-news/2026/feb/05/capital-gains-tax-discount-to-cost-australia-250bn-over-next-decade-with-retirees-and-high-income-earners-to-benefit-most",
+    "mean_score": 0.4548,
+    "vader_score": 0.6597,
+    "textblob_score": 0.25,
+    "first_sentence": "Australia\u2019s capital gains tax discount will cost nearly $250bn over the next decade, more than twice as much as the concession has cost in its entire 25-year history.",
+    "timestamp": "2026-02-05T07:00:25Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "A local\u2019s guide to Milan: the city\u2019s best restaurants, culture and green spaces",
+    "link": "https://www.theguardian.com/travel/2026/feb/05/locals-guide-milan-bars-restaurants-simone-barlaam-milano-cortina-winter-olympics",
+    "mean_score": 0.4518,
+    "vader_score": 0.6369,
+    "textblob_score": 0.2667,
+    "first_sentence": "The Guardian\u2019s journalism is independent.",
+    "timestamp": "2026-02-05T07:00:24Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Best pals 'living dream' in boyband December 10",
     "link": "https://www.bbc.com/news/articles/cvgj0g8e9xmo?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.8676,
