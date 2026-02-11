@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Indonesian teachers paid $170 per month as education funds go to free meals",
+    "link": "https://www.abc.net.au/news/2026-02-06/indonesia-government-directs-education-funds-to-free-meals/106307002",
+    "mean_score": 0.4553,
+    "vader_score": 0.5106,
+    "textblob_score": 0.4,
+    "first_sentence": "Indah Permata Sari could not hold back tears during a parliamentary hearing in Jakarta earlier this week.",
+    "timestamp": "2026-02-06T03:15:11Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "How often should you clean your microwave?",
+    "link": "https://www.abc.net.au/news/2026-02-06/what-is-the-best-way-to-clean-a-microwave/106307346",
+    "mean_score": 0.3843,
+    "vader_score": 0.4019,
+    "textblob_score": 0.3667,
+    "first_sentence": "If you close the door, a little bit of food splatter or a slight smell is pretty easy to ignore.",
+    "timestamp": "2026-02-06T02:27:51Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "'Life goes on': Underworld figure Tony Mokbel reveals plans as a free man",
+    "link": "https://www.sbs.com.au/news/article/tony-mokbel-case-abandoned/sbpyrtme6",
+    "mean_score": 0.4553,
+    "vader_score": 0.5106,
+    "textblob_score": 0.4,
+    "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+    "timestamp": "2026-02-06T02:13:59Z",
+    "source": "SBS News"
+  },
+  {
     "headline": "'Great concern' about escalation: What to know ahead of US-Iran meeting",
     "link": "https://www.sbs.com.au/news/article/talks-between-us-and-iran-in-oman-on-nuclear-issues/5gn3h3ah2",
     "mean_score": 0.7125,
