@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-11T04:50:37Z",
+  "last run": "2026-02-11T05:36:22Z",
   "stories": [
+    {
+      "headline": "WA farmers count cost of strong winds but welcome rain",
+      "link": "https://www.abc.net.au/news/2026-02-11/strong-winds-wreak-havoc-on-farm-properties-wheatbelt-region/106329960",
+      "mean_score": 0.6739,
+      "vader_score": 0.7311,
+      "textblob_score": 0.6167,
+      "first_sentence": "The Bureau of Meteorology says storms across the Great Southern, central Wheatbelt and Goldfields were fuelled by lingering moisture from ex-Tropical Cyclone Mitchell.",
+      "timestamp": "2026-02-11T05:17:09Z",
+      "source": "ABC News"
+    },
     {
       "headline": "What's better than a Muppet Show revival? One with Sabrina Carpenter",
       "link": "https://www.abc.net.au/news/2026-02-11/what-to-watch-the-muppets-scrubs/106325818",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.2682,
       "first_sentence": "The Greens senator Nick McKim has accused Pauline Hanson\u2019s party of being \u201cthe party of the billionaires, not the party of the battlers\u201d after receiving free flights on Gina Rinehart\u2019s private jet.",
       "timestamp": "2026-02-05T05:08:49Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Sanctions having \u2018significant impact\u2019 on Russian economy, says EU special envoy",
-      "link": "https://www.theguardian.com/world/2026/feb/05/sanctions-significant-impact-russian-economy-interview-eu-special-envoy-david-osullivan",
-      "mean_score": 0.323,
-      "vader_score": 0.4019,
-      "textblob_score": 0.244,
-      "first_sentence": "Western sanctions are having a \u201csignificant impact\u201d on the Russian economy, the EU\u2019s sanctions envoy has said, ahead of the fourth anniversary of Moscow\u2019s full-scale invasion of Ukraine.",
-      "timestamp": "2026-02-05T05:00:21Z",
       "source": "The Guardian"
     }
   ]
