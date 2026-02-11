@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-11T00:47:40Z",
+  "last run": "2026-02-11T01:41:42Z",
   "stories": [
+    {
+      "headline": "Perth festival opens with stories 'of the heart' shared via old red phone",
+      "link": "https://www.abc.net.au/news/2026-02-11/perth-festival-opens/106328574",
+      "mean_score": 0.4595,
+      "vader_score": 0.8689,
+      "textblob_score": 0.05,
+      "first_sentence": "Australia's longest running arts event, the Perth Festival, opened at the weekend with outdoor music, a series of light sculptures and social media videos in which people share \"what rests in their hearts\" using an old red phone on a bridge.",
+      "timestamp": "2026-02-11T01:32:57Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "CBA shares up after bank reports increased profits",
+      "link": "https://www.abc.net.au/news/2026-02-11/cba-shares-up-increased-profits-first-half-financial-year/106329968",
+      "mean_score": 0.3675,
+      "vader_score": 0.7351,
+      "textblob_score": 0.0,
+      "first_sentence": "Commonwealth Bank's net profit for the first half of the financial year has risen 5 per cent to $5.367 million on the back of increased lending and deposit volumes.",
+      "timestamp": "2026-02-11T00:52:57Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Mission to save WA's iconic grass trees from residential land clearing",
       "link": "https://www.abc.net.au/news/2026-02-11/race-to-save-grass-trees-south-west-wa/106323778",
@@ -80,6 +100,26 @@
       "first_sentence": "Allies of Wes Streeting expect him to try to depose Keir Starmer within weeks, despite the health secretary insisting he backs the prime minister and is not intending to move against him, the Guardian has been told.",
       "timestamp": "2026-02-10T20:46:29Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "Live: CSL shares fall sharply a day after CEO exits, CBA profits up",
+      "link": "https://www.abc.net.au/news/2026-02-11/asx-markets-business-live-news-february-11/106322798",
+      "mean_score": 0.3153,
+      "vader_score": 0.6249,
+      "textblob_score": 0.0057,
+      "first_sentence": "The Australian share market has risen on the first \"big day\" of reporting season, with some of the nation's largest companies, including Commonwealth Bank, CSL and AGL Energy, announcing financial results.",
+      "timestamp": "2026-02-10T20:40:10Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Live: Herzog welcomed at Government House as peaceful protesters gather outside Parliament",
+      "link": "https://www.abc.net.au/news/2026-02-11/federal-politics-estimates-albanese-ley-herzog/106328310",
+      "mean_score": 0.3503,
+      "vader_score": 0.5719,
+      "textblob_score": 0.1288,
+      "first_sentence": "Israeli President Isaac Herzog has been welcomed to Canberra in a formal ceremony at Government House as hundreds of people have gathered on the lawns of Parliament to protest his visit.",
+      "timestamp": "2026-02-10T20:12:54Z",
+      "source": "ABC News"
     },
     {
       "headline": "Women\u2019s Champions League playoffs to test WSL teams\u2019 depth and new format\u2019s value",
@@ -2460,46 +2500,6 @@
       "first_sentence": "Australia's biggest employers are under pressure to give their workers pay increases above 4 per cent this year, as real wages go backwards and the union movement ramps up pressure.",
       "timestamp": "2026-02-05T02:49:08Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Strict caps on bottled water extraction urged for precious rainforest area",
-      "link": "https://www.abc.net.au/news/2026-02-05/water-extraction-caps-at-world-heritage-springbrook/106304388",
-      "mean_score": 0.5359,
-      "vader_score": 0.5719,
-      "textblob_score": 0.5,
-      "first_sentence": "A study has found that extracting groundwater from the environmentally sensitive Gold Coast hinterland poses a risk to its World Heritage status.",
-      "timestamp": "2026-02-05T02:18:39Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Kiwi great backs State of Origin being played across the ditch",
-      "link": "https://www.abc.net.au/news/2026-02-05/state-of-origin-2027-in-new-zealand-boost-says-kiwi/106308612",
-      "mean_score": 0.7715,
-      "vader_score": 0.743,
-      "textblob_score": 0.8,
-      "first_sentence": "A State of Origin match will reportedly be played in New Zealand in 2027.",
-      "timestamp": "2026-02-05T01:56:59Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "How Aussie bound for SuperBowl became NFL's best punter",
-      "link": "https://www.abc.net.au/news/2026-02-05/michael-dickson-nfl-australian-punter-super-bowl/106307658",
-      "mean_score": 0.8185,
-      "vader_score": 0.6369,
-      "textblob_score": 1.0,
-      "first_sentence": "Australian Michael Dickson will play for the Seattle Seahawks in the Super Bowl.",
-      "timestamp": "2026-02-05T00:50:36Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Gen Z toppled an autocrat - but old guard tipped to win Bangladesh vote",
-      "link": "https://www.bbc.com/news/articles/c1m7444nr3yo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5926,
-      "vader_score": 0.7351,
-      "textblob_score": 0.45,
-      "first_sentence": "Rahat Hossain was almost killed trying to save his friend in a youth uprising that became one of the bloodiest episodes in Bangladesh's history.",
-      "timestamp": "2026-02-05T00:35:15Z",
-      "source": "BBC News"
     }
   ]
 }

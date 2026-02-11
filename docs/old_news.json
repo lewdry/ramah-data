@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Strict caps on bottled water extraction urged for precious rainforest area",
+    "link": "https://www.abc.net.au/news/2026-02-05/water-extraction-caps-at-world-heritage-springbrook/106304388",
+    "mean_score": 0.5359,
+    "vader_score": 0.5719,
+    "textblob_score": 0.5,
+    "first_sentence": "A study has found that extracting groundwater from the environmentally sensitive Gold Coast hinterland poses a risk to its World Heritage status.",
+    "timestamp": "2026-02-05T02:18:39Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Kiwi great backs State of Origin being played across the ditch",
+    "link": "https://www.abc.net.au/news/2026-02-05/state-of-origin-2027-in-new-zealand-boost-says-kiwi/106308612",
+    "mean_score": 0.7715,
+    "vader_score": 0.743,
+    "textblob_score": 0.8,
+    "first_sentence": "A State of Origin match will reportedly be played in New Zealand in 2027.",
+    "timestamp": "2026-02-05T01:56:59Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "How Aussie bound for SuperBowl became NFL's best punter",
+    "link": "https://www.abc.net.au/news/2026-02-05/michael-dickson-nfl-australian-punter-super-bowl/106307658",
+    "mean_score": 0.8185,
+    "vader_score": 0.6369,
+    "textblob_score": 1.0,
+    "first_sentence": "Australian Michael Dickson will play for the Seattle Seahawks in the Super Bowl.",
+    "timestamp": "2026-02-05T00:50:36Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Gen Z toppled an autocrat - but old guard tipped to win Bangladesh vote",
+    "link": "https://www.bbc.com/news/articles/c1m7444nr3yo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.5926,
+    "vader_score": 0.7351,
+    "textblob_score": 0.45,
+    "first_sentence": "Rahat Hossain was almost killed trying to save his friend in a youth uprising that became one of the bloodiest episodes in Bangladesh's history.",
+    "timestamp": "2026-02-05T00:35:15Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Robbie Williams: British people are good at devaluing ourselves",
     "link": "https://www.bbc.com/news/articles/c0jv0j3wpgwo?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.3952,
