@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Russia and Ukraine conduct POW swap after latest US-led peace talks",
+    "link": "https://www.abc.net.au/news/2026-02-06/ukraine-russia-talks-united-states-trump/106312078",
+    "mean_score": 0.5212,
+    "vader_score": 0.5423,
+    "textblob_score": 0.5,
+    "first_sentence": "Russia and Ukraine have exchanged prisoners of war after a second round of trilateral talks in Abu Dhabi.",
+    "timestamp": "2026-02-05T17:01:52Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "A glimmer of hope for democracy in Venezuela as opponents test the limits of free speech",
+    "link": "https://apnews.com/article/venezuela-democracy-trump-maduro-rodriguez-oil-6b28b2713d73c7527a661ff47c122423",
+    "mean_score": 0.5675,
+    "vader_score": 0.7351,
+    "textblob_score": 0.4,
+    "first_sentence": "CARACAS, Venezuela (AP) \u2014 Andr\u00e9s Vel\u00e1squez didn\u2019t stick around to become one more government critic jailed after Venezuela\u2019s 2024 presidential election.",
+    "timestamp": "2026-02-05T15:53:02Z",
+    "source": "AP News"
+  },
+  {
+    "headline": "After high school, a friend I was very close to drifted away. Should I seek closure from her? | Leading questions",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/feb/05/high-school-friend-drifting-apart-closure",
+    "mean_score": 0.3369,
+    "vader_score": 0.4939,
+    "textblob_score": 0.18,
+    "first_sentence": "Should I try to seek closure with a person I used to love but drifted apart from, or is it best to leave them be?.",
+    "timestamp": "2026-02-05T14:00:42Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "I loved Prue, but Nigella joining Bake Off feels like the good news I need | Rebecca Shaw",
     "link": "https://www.theguardian.com/commentisfree/2026/feb/05/nigella-lawson-joining-great-british-bake-off",
     "mean_score": 0.7804,
