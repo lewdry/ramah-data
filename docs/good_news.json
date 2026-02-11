@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-10T23:19:36Z",
+  "last run": "2026-02-11T00:47:40Z",
   "stories": [
+    {
+      "headline": "Mission to save WA's iconic grass trees from residential land clearing",
+      "link": "https://www.abc.net.au/news/2026-02-11/race-to-save-grass-trees-south-west-wa/106323778",
+      "mean_score": 0.497,
+      "vader_score": 0.4939,
+      "textblob_score": 0.5,
+      "first_sentence": "Margaret River Trees has rescued and re-homed more than 100,000 grass trees over more than 20 years.",
+      "timestamp": "2026-02-11T00:04:22Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "SpaceX's next-gen Super Heavy booster aces four days of \"cryoproof\" testing",
+      "link": "https://arstechnica.com/space/2026/02/spacexs-starbase-is-coming-alive-again-after-a-lull-in-starship-testing/",
+      "mean_score": 0.333,
+      "vader_score": 0.5994,
+      "textblob_score": 0.0667,
+      "first_sentence": "The next Starship flight is a key precursor for more ambitious missions.",
+      "timestamp": "2026-02-10T23:35:30Z",
+      "source": "Ars Technica"
+    },
     {
       "headline": "Western quoll joey born in the wild after conservation program success",
       "link": "https://www.abc.net.au/news/2026-02-11/western-quoll-thrive-outback-nsw-after-taronga-program/106304882",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Rahat Hossain was almost killed trying to save his friend in a youth uprising that became one of the bloodiest episodes in Bangladesh's history.",
       "timestamp": "2026-02-05T00:35:15Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Robbie Williams: British people are good at devaluing ourselves",
-      "link": "https://www.bbc.com/news/articles/c0jv0j3wpgwo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3952,
-      "vader_score": 0.4404,
-      "textblob_score": 0.35,
-      "first_sentence": "After more than three decades in entertainment, Robbie Williams is back on the road and ready to celebrate.",
-      "timestamp": "2026-02-05T00:24:57Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Green energy sector drove more than 90% of China\u2019s investment growth last year, analysis finds",
-      "link": "https://www.theguardian.com/world/2026/feb/05/china-green-energy-sector-investment-growth",
-      "mean_score": 0.3359,
-      "vader_score": 0.5719,
-      "textblob_score": 0.1,
-      "first_sentence": "China\u2019s clean energy industries drove more than 90% of the country\u2019s investment growth last year, making the sectors bigger than all but seven of the world\u2019s economies, a new analysis has shown.",
-      "timestamp": "2026-02-05T00:01:14Z",
-      "source": "The Guardian"
     }
   ]
 }

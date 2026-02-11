@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Robbie Williams: British people are good at devaluing ourselves",
+    "link": "https://www.bbc.com/news/articles/c0jv0j3wpgwo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3952,
+    "vader_score": 0.4404,
+    "textblob_score": 0.35,
+    "first_sentence": "After more than three decades in entertainment, Robbie Williams is back on the road and ready to celebrate.",
+    "timestamp": "2026-02-05T00:24:57Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Green energy sector drove more than 90% of China\u2019s investment growth last year, analysis finds",
+    "link": "https://www.theguardian.com/world/2026/feb/05/china-green-energy-sector-investment-growth",
+    "mean_score": 0.3359,
+    "vader_score": 0.5719,
+    "textblob_score": 0.1,
+    "first_sentence": "China\u2019s clean energy industries drove more than 90% of the country\u2019s investment growth last year, making the sectors bigger than all but seven of the world\u2019s economies, a new analysis has shown.",
+    "timestamp": "2026-02-05T00:01:14Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "\u2018Leave things better than you find them\u2019: the volunteer army cleaning New Zealand\u2019s remote hiking huts",
     "link": "https://www.theguardian.com/world/2026/feb/05/new-zealand-hiking-trails-cleaning-remote-huts",
     "mean_score": 0.3096,
