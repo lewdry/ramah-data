@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-11T20:16:26Z",
+  "last run": "2026-02-11T21:17:44Z",
   "stories": [
+    {
+      "headline": "Darwin traditional owners feel 'bulldozed' by ambitious solar farm company",
+      "link": "https://www.abc.net.au/news/2026-02-12/darwin-traditional-owners-bulldozed-solar-farm-legal-case/106325986",
+      "mean_score": 0.3009,
+      "vader_score": 0.4767,
+      "textblob_score": 0.125,
+      "first_sentence": "A renewable energy company planning to build a solar farm near Darwin is seeking a court ruling that no native title claim exists at the proposed site.",
+      "timestamp": "2026-02-11T21:00:53Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Winter Olympics recap: Franjo von Allmen wins his 3rd gold, Chloe Kim and NHL stars get rolling",
+      "link": "https://apnews.com/article/winter-olympics-roundup-wednesday-61ea37be5fb4f533f225abe5bf75e893",
+      "mean_score": 0.3609,
+      "vader_score": 0.5719,
+      "textblob_score": 0.15,
+      "first_sentence": "MILAN (AP) \u2014 Franjo von Allmen of Switzerland looks like a breakout star of the Milan Cortina Olympics after winning his third gold medal.",
+      "timestamp": "2026-02-11T20:23:01Z",
+      "source": "AP News"
+    },
     {
       "headline": "Showers and thunderstorms to cool south-east Queensland amid heatwave",
       "link": "https://www.abc.net.au/news/2026-02-12/qld-south-east-temperatures-peak-heatwave-rainfall-storms/106331426",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.5,
       "first_sentence": "A five-day search for fugitive Dezi Freeman's body and weapons has ended at Mount Buffalo.",
       "timestamp": "2026-02-06T01:35:16Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "France says Australia-bound drug ship isn't its problem after letting crew free",
-      "link": "https://www.abc.net.au/news/2026-02-06/french-authorities-sink-five-tonnes-of-cocaine/106307438",
-      "mean_score": 0.5383,
-      "vader_score": 0.6765,
-      "textblob_score": 0.4,
-      "first_sentence": "French authorities have intercepted a ship carrying almost five tonnes of cocaine bound for Australia and dumped it at sea, before releasing the vessel and its crew.",
-      "timestamp": "2026-02-06T01:33:38Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "'People pleaser': Sloane calls out NSW premier's greatest weakness",
-      "link": "https://www.abc.net.au/news/2026-02-06/nsw-liberals-kellie-sloane-talks-minns-polls-slogans-and-bondi/106310818",
-      "mean_score": 0.8125,
-      "vader_score": 0.6249,
-      "textblob_score": 1.0,
-      "first_sentence": "The leader of the NSW opposition says the trait behind the premier's popularity is also his greatest weakness, declaring the Coalition is \"absolutely in the game\" to win next year's state election.",
-      "timestamp": "2026-02-06T01:01:45Z",
       "source": "ABC News"
     }
   ]

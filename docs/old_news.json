@@ -1,5 +1,25 @@
 [
   {
+    "headline": "France says Australia-bound drug ship isn't its problem after letting crew free",
+    "link": "https://www.abc.net.au/news/2026-02-06/french-authorities-sink-five-tonnes-of-cocaine/106307438",
+    "mean_score": 0.5383,
+    "vader_score": 0.6765,
+    "textblob_score": 0.4,
+    "first_sentence": "French authorities have intercepted a ship carrying almost five tonnes of cocaine bound for Australia and dumped it at sea, before releasing the vessel and its crew.",
+    "timestamp": "2026-02-06T01:33:38Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "'People pleaser': Sloane calls out NSW premier's greatest weakness",
+    "link": "https://www.abc.net.au/news/2026-02-06/nsw-liberals-kellie-sloane-talks-minns-polls-slogans-and-bondi/106310818",
+    "mean_score": 0.8125,
+    "vader_score": 0.6249,
+    "textblob_score": 1.0,
+    "first_sentence": "The leader of the NSW opposition says the trait behind the premier's popularity is also his greatest weakness, declaring the Coalition is \"absolutely in the game\" to win next year's state election.",
+    "timestamp": "2026-02-06T01:01:45Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Increase school funding to meet need for special education, MPs urge",
     "link": "https://www.bbc.com/news/articles/czjg8j4g981o?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.4848,
