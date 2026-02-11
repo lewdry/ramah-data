@@ -1,6 +1,36 @@
 {
-  "last run": "2026-02-11T10:24:13Z",
+  "last run": "2026-02-11T11:23:18Z",
   "stories": [
+    {
+      "headline": "You might love olive oil, but don\u2019t put it on your CV | Polly Hudson",
+      "link": "https://www.theguardian.com/commentisfree/2026/feb/11/olive-oil-job-cv-resume-social-media-viral",
+      "mean_score": 0.4409,
+      "vader_score": 0.3818,
+      "textblob_score": 0.5,
+      "first_sentence": "Competition in the jobs market is ferocious, so today\u2019s applicants must attempt to stand out.",
+      "timestamp": "2026-02-11T11:00:15Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "South Africa edge T20 World Cup thriller with Afghanistan after double super over",
+      "link": "https://www.theguardian.com/sport/2026/feb/11/south-africa-edge-astonishing-t20-cricket-world-cup-nailbiter-after-double-super-over",
+      "mean_score": 0.4076,
+      "vader_score": 0.6486,
+      "textblob_score": 0.1667,
+      "first_sentence": "South Africa emerged victorious after an astonishing T20 World Cup nailbiter against Afghanistan, which ended with scores tied and a double super over.",
+      "timestamp": "2026-02-11T10:55:08Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018How many beers do you have?\u2019 Swedish PM seeks boost from phone-in podcast",
+      "link": "https://www.theguardian.com/world/2026/feb/11/swedish-prime-ministers-new-podcast-improve-his-fortunes-election",
+      "mean_score": 0.4509,
+      "vader_score": 0.4019,
+      "textblob_score": 0.5,
+      "first_sentence": "Another caller to Ulf Kristersson\u2019s new podcast Ring statsministern! (Call the prime minister!), asks whether he is friends with Jimmie \u00c5kesson, the leader of the far-right Sweden Democrats party who simultaneously backs his government and is a rival in the upcoming general election.",
+      "timestamp": "2026-02-11T10:36:17Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Sali Hughes on beauty: moisturisers for combination skin are rare \u2013 these are some of the best",
       "link": "https://www.theguardian.com/fashion/2026/feb/11/sali-hughes-on-beauty-moisturisers-for-combination-skin-are-rare-these-are-some-of-the-best",
@@ -140,6 +170,16 @@
       "first_sentence": "The Bureau of Meteorology says storms across the Great Southern, central Wheatbelt and Goldfields were fuelled by lingering moisture from ex-Tropical Cyclone Mitchell.",
       "timestamp": "2026-02-11T05:17:09Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "Chris Mason: Smiles and relief as Starmer attempts his latest reset",
+      "link": "https://www.bbc.com/news/articles/czj198mk0l8o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.6176,
+      "vader_score": 0.7351,
+      "textblob_score": 0.5,
+      "first_sentence": "The prime minister wore the smiles of a survivor and his team wore expressions of relief.",
+      "timestamp": "2026-02-11T04:19:58Z",
+      "source": "BBC News"
     },
     {
       "headline": "What's better than a Muppet Show revival? One with Sabrina Carpenter",
@@ -2459,46 +2499,6 @@
       "textblob_score": 0.2,
       "first_sentence": "Whether it\u2019s playing at being doctors or hosting a toy\u2019s tea party, children are adept at engaging in make-believe \u2013 now researchers say bonobos can do it too.",
       "timestamp": "2026-02-05T19:00:47Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Magic Beach by Alison Lester named Australia\u2019s best children\u2019s picture book",
-      "link": "https://www.theguardian.com/books/2026/feb/05/alison-lester-magic-beach-best-australia-children-picture-book",
-      "mean_score": 0.6935,
-      "vader_score": 0.6369,
-      "textblob_score": 0.75,
-      "first_sentence": "Magic Beach by Alison Lester has won Guardian Australia\u2019s poll to find Australia\u2019s best children\u2019s picture book of all time.",
-      "timestamp": "2026-02-05T19:00:46Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Zohran Mamdani suggests \u2018New York City\u2019s first free grocery store\u2019 is PR stunt",
-      "link": "https://www.theguardian.com/us-news/2026/feb/05/zohran-mamdani-polymarket-free-grocery-store",
-      "mean_score": 0.3864,
-      "vader_score": 0.5106,
-      "textblob_score": 0.2621,
-      "first_sentence": "Zohran Mamdani made city-operated grocery stores a key pledge of his campaign for mayor of New York City.",
-      "timestamp": "2026-02-05T18:12:14Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Positive spin from Libs leader as retiring MP Groth forces by-election",
-      "link": "https://www.abc.net.au/news/2026-02-06/member-for-nepean-sam-groth-resignation-analysis/106309684",
-      "mean_score": 0.3923,
-      "vader_score": 0.5574,
-      "textblob_score": 0.2273,
-      "first_sentence": "When retiring first-term Liberal Sam Groth told his leader he was quitting politics, forcing a by-election, Jess Wilson didn't try to talk him out of it.",
-      "timestamp": "2026-02-05T18:08:06Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Purr-fect casting: is Orangey the most important movie cat ever?",
-      "link": "https://www.theguardian.com/film/2026/feb/05/orangey-famous-movie-cat",
-      "mean_score": 0.3608,
-      "vader_score": 0.2716,
-      "textblob_score": 0.45,
-      "first_sentence": "In the midst of Oscar season, it becomes evident just how much work it takes to win an Academy Award, both in on-screen work and off-screen campaigning.",
-      "timestamp": "2026-02-05T17:14:15Z",
       "source": "The Guardian"
     }
   ]
