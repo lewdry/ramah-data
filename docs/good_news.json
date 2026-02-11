@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-11T03:11:01Z",
+  "last run": "2026-02-11T04:50:37Z",
   "stories": [
+    {
+      "headline": "What's better than a Muppet Show revival? One with Sabrina Carpenter",
+      "link": "https://www.abc.net.au/news/2026-02-11/what-to-watch-the-muppets-scrubs/106325818",
+      "mean_score": 0.4702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.5,
+      "first_sentence": "Welcome to what to watch, where we take you through what's on the box during February.",
+      "timestamp": "2026-02-11T04:02:25Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Perth festival opens with stories 'of the heart' shared via old red phone",
       "link": "https://www.abc.net.au/news/2026-02-11/perth-festival-opens/106328574",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Western sanctions are having a \u201csignificant impact\u201d on the Russian economy, the EU\u2019s sanctions envoy has said, ahead of the fourth anniversary of Moscow\u2019s full-scale invasion of Ukraine.",
       "timestamp": "2026-02-05T05:00:21Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Unions pushing 4 per cent wage boost as real paypackets decline",
-      "link": "https://www.abc.net.au/news/2026-02-05/actu-pushing-above-inflation-wage-increase-in-2026/106308042",
-      "mean_score": 0.3009,
-      "vader_score": 0.4019,
-      "textblob_score": 0.2,
-      "first_sentence": "Australia's biggest employers are under pressure to give their workers pay increases above 4 per cent this year, as real wages go backwards and the union movement ramps up pressure.",
-      "timestamp": "2026-02-05T02:49:08Z",
-      "source": "ABC News"
     }
   ]
 }
