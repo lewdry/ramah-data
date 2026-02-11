@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-11T21:17:44Z",
+  "last run": "2026-02-11T22:12:48Z",
   "stories": [
+    {
+      "headline": "As aging pools face closure, Queenslanders take matters into their own hands",
+      "link": "https://www.abc.net.au/news/2026-02-12/queenslanders-fight-to-keep-public-pools-open/106327368",
+      "mean_score": 0.3129,
+      "vader_score": 0.0258,
+      "textblob_score": 0.6,
+      "first_sentence": "A Queensland mum transforms her backyard to make sure children do not miss out on learning to swim, as hundreds of public pools nationwide reach the end of their lives.",
+      "timestamp": "2026-02-11T21:59:16Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Reform will not defund Bangor university over free speech row, politician says",
+      "link": "https://www.bbc.com/news/articles/c2e47rj9z8eo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4553,
+      "vader_score": 0.5106,
+      "textblob_score": 0.4,
+      "first_sentence": "Reform UK will not withdraw funding from Bangor University over a row about free speech, one its Welsh politicians has said.",
+      "timestamp": "2026-02-11T21:53:23Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Darwin traditional owners feel 'bulldozed' by ambitious solar farm company",
       "link": "https://www.abc.net.au/news/2026-02-12/darwin-traditional-owners-bulldozed-solar-farm-legal-case/106325986",
@@ -2480,26 +2500,6 @@
       "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
       "timestamp": "2026-02-06T02:13:59Z",
       "source": "SBS News"
-    },
-    {
-      "headline": "'Great concern' about escalation: What to know ahead of US-Iran meeting",
-      "link": "https://www.sbs.com.au/news/article/talks-between-us-and-iran-in-oman-on-nuclear-issues/5gn3h3ah2",
-      "mean_score": 0.7125,
-      "vader_score": 0.6249,
-      "textblob_score": 0.8,
-      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-      "timestamp": "2026-02-06T01:37:23Z",
-      "source": "SBS News"
-    },
-    {
-      "headline": "No sign of fugitive Dezi Freeman as latest search ends in national park",
-      "link": "https://www.abc.net.au/news/2026-02-06/latest-dezi-freeman-manhunt-ends-at-mount-buffalo/106312280",
-      "mean_score": 0.314,
-      "vader_score": 0.128,
-      "textblob_score": 0.5,
-      "first_sentence": "A five-day search for fugitive Dezi Freeman's body and weapons has ended at Mount Buffalo.",
-      "timestamp": "2026-02-06T01:35:16Z",
-      "source": "ABC News"
     }
   ]
 }

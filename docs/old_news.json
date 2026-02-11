@@ -1,5 +1,25 @@
 [
   {
+    "headline": "'Great concern' about escalation: What to know ahead of US-Iran meeting",
+    "link": "https://www.sbs.com.au/news/article/talks-between-us-and-iran-in-oman-on-nuclear-issues/5gn3h3ah2",
+    "mean_score": 0.7125,
+    "vader_score": 0.6249,
+    "textblob_score": 0.8,
+    "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+    "timestamp": "2026-02-06T01:37:23Z",
+    "source": "SBS News"
+  },
+  {
+    "headline": "No sign of fugitive Dezi Freeman as latest search ends in national park",
+    "link": "https://www.abc.net.au/news/2026-02-06/latest-dezi-freeman-manhunt-ends-at-mount-buffalo/106312280",
+    "mean_score": 0.314,
+    "vader_score": 0.128,
+    "textblob_score": 0.5,
+    "first_sentence": "A five-day search for fugitive Dezi Freeman's body and weapons has ended at Mount Buffalo.",
+    "timestamp": "2026-02-06T01:35:16Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "France says Australia-bound drug ship isn't its problem after letting crew free",
     "link": "https://www.abc.net.au/news/2026-02-06/french-authorities-sink-five-tonnes-of-cocaine/106307438",
     "mean_score": 0.5383,
