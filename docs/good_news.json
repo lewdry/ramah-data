@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-11T19:27:56Z",
+  "last run": "2026-02-11T20:16:26Z",
   "stories": [
+    {
+      "headline": "Showers and thunderstorms to cool south-east Queensland amid heatwave",
+      "link": "https://www.abc.net.au/news/2026-02-12/qld-south-east-temperatures-peak-heatwave-rainfall-storms/106331426",
+      "mean_score": 0.3341,
+      "vader_score": 0.3182,
+      "textblob_score": 0.35,
+      "first_sentence": "Heatwave temperatures will peak in south-east Queensland on Thursday, before cooling off across the weekend.",
+      "timestamp": "2026-02-11T20:05:08Z",
+      "source": "ABC News"
+    },
     {
       "headline": "US speedskater Jordan Stolz wins the 1,000 meters gold in an Olympic-record time",
       "link": "https://apnews.com/article/jordan-stolz-olympics-speedskating-1000-920185276d2436f3ebba60f41450f41f",
@@ -20,6 +30,16 @@
       "first_sentence": "Rachel Reeves has insisted Labour can win the political argument for a closer relationship with the EU, calling it the \u201cbiggest prize\u201d for UK economic growth.",
       "timestamp": "2026-02-11T18:51:23Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "Smart home PSA: Apple's \"new architecture\" for Home app becomes mandatory today",
+      "link": "https://arstechnica.com/gadgets/2026/02/smart-home-psa-apples-new-architecture-for-home-app-becomes-mandatory-today/",
+      "mean_score": 0.3171,
+      "vader_score": 0.4588,
+      "textblob_score": 0.1753,
+      "first_sentence": "Updated Home app is required for Matter support and some types of accessories.",
+      "timestamp": "2026-02-11T18:18:17Z",
+      "source": "Ars Technica"
     },
     {
       "headline": "Jakara Anthony's response to defeat should make us all proud",
@@ -138,6 +158,16 @@
       "vader_score": 0.8481,
       "textblob_score": 0.3893,
       "first_sentence": "NPR's Michel Martin asks Analilia Mej\u00eca what her primary opponent's concession in New Jersey's 11th Congressional District means for the Democratic Party.",
+      "timestamp": "2026-02-11T09:47:31Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "Analilia Mejia declares victory in NJ primary and credits progressive platform",
+      "link": "https://www.npr.org/2026/02/11/nx-s1-5708912/analilia-mejia-democratic-primary-election-new-jersey",
+      "mean_score": 0.3806,
+      "vader_score": 0.3612,
+      "textblob_score": 0.4,
+      "first_sentence": "Analilia Mejia, former political director for Sen.",
       "timestamp": "2026-02-11T09:47:31Z",
       "source": "NPR News"
     },
@@ -2470,36 +2500,6 @@
       "first_sentence": "The leader of the NSW opposition says the trait behind the premier's popularity is also his greatest weakness, declaring the Coalition is \"absolutely in the game\" to win next year's state election.",
       "timestamp": "2026-02-06T01:01:45Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Increase school funding to meet need for special education, MPs urge",
-      "link": "https://www.bbc.com/news/articles/czjg8j4g981o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4848,
-      "vader_score": 0.6124,
-      "textblob_score": 0.3571,
-      "first_sentence": "School funding for special educational needs (SEND) should be increased and protected to meet the rise in demand for support, a group of MPs has said, as ministers consider major reforms.",
-      "timestamp": "2026-02-06T00:42:34Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Queensland's wild weather brings ideal conditions for barramundi",
-      "link": "https://www.abc.net.au/news/2026-02-06/fishers-hopeful-wild-weather-will-mean-plenty-of-barramundi/106299924",
-      "mean_score": 0.5133,
-      "vader_score": 0.5267,
-      "textblob_score": 0.5,
-      "first_sentence": "Commercial fishers are expecting an abundance of barramundi this year.",
-      "timestamp": "2026-02-06T00:36:19Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Scaling back the capital gains tax discount might not help housing affordability \u2013 but there are still good reasons to do it",
-      "link": "https://www.theguardian.com/australia-news/2026/feb/06/capital-gains-tax-discount-debate-australia-house-prices",
-      "mean_score": 0.476,
-      "vader_score": 0.6021,
-      "textblob_score": 0.35,
-      "first_sentence": "Slashing tax breaks for property investors might not put much of a dent in house prices, but that\u2019s not to say it can\u2019t make a meaningful difference to home ownership rates over the coming years.",
-      "timestamp": "2026-02-05T23:41:21Z",
-      "source": "The Guardian"
     }
   ]
 }

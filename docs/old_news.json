@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Increase school funding to meet need for special education, MPs urge",
+    "link": "https://www.bbc.com/news/articles/czjg8j4g981o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4848,
+    "vader_score": 0.6124,
+    "textblob_score": 0.3571,
+    "first_sentence": "School funding for special educational needs (SEND) should be increased and protected to meet the rise in demand for support, a group of MPs has said, as ministers consider major reforms.",
+    "timestamp": "2026-02-06T00:42:34Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Queensland's wild weather brings ideal conditions for barramundi",
+    "link": "https://www.abc.net.au/news/2026-02-06/fishers-hopeful-wild-weather-will-mean-plenty-of-barramundi/106299924",
+    "mean_score": 0.5133,
+    "vader_score": 0.5267,
+    "textblob_score": 0.5,
+    "first_sentence": "Commercial fishers are expecting an abundance of barramundi this year.",
+    "timestamp": "2026-02-06T00:36:19Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Scaling back the capital gains tax discount might not help housing affordability \u2013 but there are still good reasons to do it",
+    "link": "https://www.theguardian.com/australia-news/2026/feb/06/capital-gains-tax-discount-debate-australia-house-prices",
+    "mean_score": 0.476,
+    "vader_score": 0.6021,
+    "textblob_score": 0.35,
+    "first_sentence": "Slashing tax breaks for property investors might not put much of a dent in house prices, but that\u2019s not to say it can\u2019t make a meaningful difference to home ownership rates over the coming years.",
+    "timestamp": "2026-02-05T23:41:21Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "For Thailand's popular progressives, winning the vote is only the first hurdle",
     "link": "https://www.bbc.com/news/articles/cp820jrq3yvo?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.5363,
