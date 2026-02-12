@@ -1,5 +1,35 @@
 [
   {
+    "headline": "'I want my ex-husband Steve Wright to come clean'",
+    "link": "https://www.bbc.com/news/articles/c79r25xnnpro?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4127,
+    "vader_score": 0.4588,
+    "textblob_score": 0.3667,
+    "first_sentence": "The ex-wife of serial killer Steve Wright has spoken of the abuse she suffered at his hands and how she hopes he will tell the truth about his victims.",
+    "timestamp": "2026-02-07T06:33:43Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "\u2018Am I at peak popularity? I hope not\u2019: on the road with Zack Polanski, from protest to podcast to Heaven nightclub",
+    "link": "https://www.theguardian.com/politics/2026/feb/07/am-i-at-peak-popularity-i-hope-not-on-the-road-with-zack-polanski-from-protest-to-podcast-to-heaven-nightclub",
+    "mean_score": 0.4037,
+    "vader_score": 0.8074,
+    "textblob_score": 0.0,
+    "first_sentence": "With polls and membership at an all-time high, the Green party are having a moment \u2013 and it\u2019s largely down to their charismatic (if slightly cheesy) new leader.",
+    "timestamp": "2026-02-07T06:00:58Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Who says the over-40s don\u2019t know how to have fun? The Becky Barnicoat cartoon",
+    "link": "https://www.theguardian.com/lifeandstyle/picture/2026/feb/07/who-says-the-over-40s-dont-know-how-to-have-fun-the-becky-barnicoat-cartoon",
+    "mean_score": 0.4053,
+    "vader_score": 0.5106,
+    "textblob_score": 0.3,
+    "first_sentence": "Continue reading.",
+    "timestamp": "2026-02-07T06:00:53Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "'I'm so lucky to get another crack': From an excavator to the NRL pre-season for this Wests Tigers hopeful",
     "link": "https://www.abc.net.au/news/2026-02-07/pat-herbert-nrl-wests-tigers-train-and-trial/106317620",
     "mean_score": 0.5417,

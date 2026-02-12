@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-12T20:15:37Z",
+  "last run": "2026-02-12T21:14:54Z",
   "stories": [
+    {
+      "headline": "Good Luck, Have Fun, Don\u2019t Die review \u2013 AI is the bad guy in lively yet overstuffed caper",
+      "link": "https://www.theguardian.com/film/2026/feb/12/good-luck-have-fun-dont-die-movie-review",
+      "mean_score": 0.3405,
+      "vader_score": 0.5719,
+      "textblob_score": 0.1091,
+      "first_sentence": "Despite directing a phenomenally successful franchise starter (Pirates of the Caribbean), two of its sequels (Dead Man\u2019s Chest and At World\u2019s End), a smash-hit horror remake (The Ring), an Oscar-winning animation (Rango), and films starring Brad Pitt and Julia Roberts (The Mexican) and Nicolas Cage and Michael Caine (The Weather Man), Gore Verbinski never quite broke through as a name the average cinemagoer would instantly recognise.",
+      "timestamp": "2026-02-12T19:44:05Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "How a centuries-old technique is helping save a dying seagrass species",
       "link": "https://www.abc.net.au/news/2026-02-13/science-key-to-saving-endangered-seagrass-population/106337120",
@@ -20,6 +30,26 @@
       "first_sentence": "The Yangtze River in China, which has been in ecological decline for 70 years, is showing signs of recovery thanks to a sweeping fishing ban.",
       "timestamp": "2026-02-12T19:00:22Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "Unique structure of elephant whiskers give them built-in sensing \"intelligence\"",
+      "link": "https://arstechnica.com/science/2026/02/unique-structure-of-elephant-whiskers-give-them-built-in-sensing-intelligence/",
+      "mean_score": 0.4259,
+      "vader_score": 0.4767,
+      "textblob_score": 0.375,
+      "first_sentence": "The material properties change gradually from base to tip for better navigation, more precise manipulation.",
+      "timestamp": "2026-02-12T19:00:15Z",
+      "source": "Ars Technica"
+    },
+    {
+      "headline": "2026 Nissan Leaf review: The best budget EV on sale right now",
+      "link": "https://arstechnica.com/cars/2026/02/2026-nissan-leaf-review-the-best-budget-ev-on-sale-right-now/",
+      "mean_score": 0.6399,
+      "vader_score": 0.6369,
+      "textblob_score": 0.6429,
+      "first_sentence": "A week with the new Leaf in frigid weather did not cool our feelings for the car.",
+      "timestamp": "2026-02-12T18:49:04Z",
+      "source": "Ars Technica"
     },
     {
       "headline": "Aussie brothers make T20 World Cup history as Italy claims historic win",
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.5,
       "first_sentence": "Land reform campaigners are alarmed at the increasing use of a legal loophole that allows landowners to conceal the price paid for Highland estates from the public register.",
       "timestamp": "2026-02-07T07:00:55Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "'I want my ex-husband Steve Wright to come clean'",
-      "link": "https://www.bbc.com/news/articles/c79r25xnnpro?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4127,
-      "vader_score": 0.4588,
-      "textblob_score": 0.3667,
-      "first_sentence": "The ex-wife of serial killer Steve Wright has spoken of the abuse she suffered at his hands and how she hopes he will tell the truth about his victims.",
-      "timestamp": "2026-02-07T06:33:43Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "\u2018Am I at peak popularity? I hope not\u2019: on the road with Zack Polanski, from protest to podcast to Heaven nightclub",
-      "link": "https://www.theguardian.com/politics/2026/feb/07/am-i-at-peak-popularity-i-hope-not-on-the-road-with-zack-polanski-from-protest-to-podcast-to-heaven-nightclub",
-      "mean_score": 0.4037,
-      "vader_score": 0.8074,
-      "textblob_score": 0.0,
-      "first_sentence": "With polls and membership at an all-time high, the Green party are having a moment \u2013 and it\u2019s largely down to their charismatic (if slightly cheesy) new leader.",
-      "timestamp": "2026-02-07T06:00:58Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Who says the over-40s don\u2019t know how to have fun? The Becky Barnicoat cartoon",
-      "link": "https://www.theguardian.com/lifeandstyle/picture/2026/feb/07/who-says-the-over-40s-dont-know-how-to-have-fun-the-becky-barnicoat-cartoon",
-      "mean_score": 0.4053,
-      "vader_score": 0.5106,
-      "textblob_score": 0.3,
-      "first_sentence": "Continue reading.",
-      "timestamp": "2026-02-07T06:00:53Z",
       "source": "The Guardian"
     }
   ]
