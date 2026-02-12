@@ -1,6 +1,36 @@
 {
-  "last run": "2026-02-12T17:28:02Z",
+  "last run": "2026-02-12T18:26:55Z",
   "stories": [
+    {
+      "headline": "Hobart's drinking water free from antibiotics, water utility says",
+      "link": "https://www.abc.net.au/news/2026-02-13/salmon-disease-outbreak-antibiotics-river-derwent/106330724",
+      "mean_score": 0.4553,
+      "vader_score": 0.5106,
+      "textblob_score": 0.4,
+      "first_sentence": "TasWater says it is confident its water treatment process removes the risk of antibiotics entering Greater Hobart's public water supply, and the Director of Public Health has determined there is no health risk.",
+      "timestamp": "2026-02-12T18:18:22Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "At the Olympics, skier Breezy Johnson won a gold medal \u2014 and an engagement ring, too",
+      "link": "https://www.npr.org/2026/02/12/nx-s1-5712277/at-the-olympics-skier-breezy-johnson-won-a-gold-medal-and-an-engagement-ring-too",
+      "mean_score": 0.4345,
+      "vader_score": 0.8689,
+      "textblob_score": 0.0,
+      "first_sentence": "CORTINA D'AMPEZZO, Italy \u2014 The finish line at the 2026 Winter Games has brought Breezy Johnson two of the best moments of her life this week \u2014 first, an Olympic gold medal, then on Thursday, a marriage proposal.",
+      "timestamp": "2026-02-12T17:31:52Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "'Fresh Air' staff bids farewell to longtime executive producer Danny Miller",
+      "link": "https://www.npr.org/2026/02/12/nx-s1-5712354/fresh-air-staff-bids-farewell-to-longtime-executive-producer-danny-miller",
+      "mean_score": 0.3091,
+      "vader_score": 0.3182,
+      "textblob_score": 0.3,
+      "first_sentence": "Miller joined Fresh Air as an intern in 1978 and retired at the end of 2025.",
+      "timestamp": "2026-02-12T17:26:48Z",
+      "source": "NPR News"
+    },
     {
       "headline": "Cooper Woods claims Australia\u2019s first gold with superb win in moguls",
       "link": "https://www.theguardian.com/sport/2026/feb/12/cooper-woods-claims-australias-first-gold-with-superb-win-in-moguls",
@@ -2470,36 +2500,6 @@
       "first_sentence": "As K-pop's popularity soars, South Korea has become a destination for young people around the world hoping to break into the industry.",
       "timestamp": "2026-02-06T23:05:12Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Years after coming out as Scotland's only gay footballer, I'm so much happier",
-      "link": "https://www.bbc.com/news/articles/cvg1gdzplz8o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3872,
-      "vader_score": 0.5688,
-      "textblob_score": 0.2056,
-      "first_sentence": "While sitting on a balcony in Benidorm, Zander Murray made a decision that would change his life forever, and for the better.",
-      "timestamp": "2026-02-06T22:46:45Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "\u2018You have to be able to laugh at yourself\u2019: Rosenior shrugs off online mockery",
-      "link": "https://www.theguardian.com/football/2026/feb/06/you-have-to-be-able-to-laugh-at-yourself-rosenior-shrugs-off-online-mockery",
-      "mean_score": 0.3591,
-      "vader_score": 0.3182,
-      "textblob_score": 0.4,
-      "first_sentence": "Liam Rosenior says life is too short to worry about people laughing at him.",
-      "timestamp": "2026-02-06T22:30:45Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Taylor Swift casts \u2018insanely charismatic and lovable\u2019 Graham Norton in music video",
-      "link": "https://www.theguardian.com/music/2026/feb/06/taylor-swift-casts-insanely-charismatic-and-lovable-graham-norton-in-music-video",
-      "mean_score": 0.3512,
-      "vader_score": 0.2023,
-      "textblob_score": 0.5,
-      "first_sentence": "Graham Norton\u2019s chatshow has long been an object of fascination for American stars, wowed by its combined star wattage, glasses of wine and Norton\u2019s own quick-witted, lightly saucy repartee \u2013 and Taylor Swift has now taken that fandom to another level.",
-      "timestamp": "2026-02-06T22:15:27Z",
-      "source": "The Guardian"
     }
   ]
 }
