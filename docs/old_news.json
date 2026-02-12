@@ -1,5 +1,45 @@
 [
   {
+    "headline": "\u2018It\u2019s the rubbish, female A-team!\u2019 Derry Girl Lisa McGee on her hilarious new mystery thriller",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/feb/06/sometimes-you-have-to-blow-things-up-derry-girl-lisa-mcgee-on-her-explosive-new-show-and-why-she-hates-london",
+    "mean_score": 0.3688,
+    "vader_score": 0.5255,
+    "textblob_score": 0.2121,
+    "first_sentence": "How do you follow up a show about girls in Derry? With one about women in Belfast, obviously.",
+    "timestamp": "2026-02-06T13:00:07Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "\u2018We stole the Super Bowl audience\u2019: how In Living Color pulled off the greatest heist in US TV history",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/feb/06/super-bowl-alternative-halftime-show-in-living-color",
+    "mean_score": 0.7554,
+    "vader_score": 0.8442,
+    "textblob_score": 0.6667,
+    "first_sentence": "When the NFL announced Puerto Rican superstar Bad Bunny as this year\u2019s Super Bowl half-time show headliner, it walked right into a culture war.",
+    "timestamp": "2026-02-06T13:00:07Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Add to playlist: the bizarro punk of Dutch upstarts Grote Geelstaart and the week\u2019s best new tracks",
+    "link": "https://www.theguardian.com/music/2026/feb/06/add-to-playlist-the-bizarro-punk-of-dutch-upstarts-grote-geelstaart-and-the-weeks-best-new-tracks",
+    "mean_score": 0.6025,
+    "vader_score": 0.6369,
+    "textblob_score": 0.5682,
+    "first_sentence": "Tight-fitted in scrimpy Sunday school apparel, Grote Geelstaart \u2013 Dutch for great yellowtail fish \u2013 make music that\u2019s decidedly less orthodox than appearances suggest.",
+    "timestamp": "2026-02-06T12:25:28Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "The best recent poetry \u2013 review roundup",
+    "link": "https://www.theguardian.com/books/2026/feb/06/the-best-recent-poetry-review-roundup",
+    "mean_score": 0.5685,
+    "vader_score": 0.6369,
+    "textblob_score": 0.5,
+    "first_sentence": "Afterburn by Blake Morrison (Chatto & Windus, \u00a312.99)Best known as a memoirist, Morrison returns to poetry after 11 years with a masterclass of lyric distillation and charged observation, demonstrating that nothing is beneath poetic deliberation.",
+    "timestamp": "2026-02-06T12:00:08Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "AACTA key moments: Gory horror wins best film, Jacob Elordi drama dominates TV",
     "link": "https://www.abc.net.au/news/2026-02-06/aactas-winners-list-jacob-elordi-key-moments/106315590",
     "mean_score": 0.4298,
