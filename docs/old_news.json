@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Calvert-Lewin caps fine win for Leeds to leave Nottingham Forest reeling",
+    "link": "https://www.theguardian.com/football/2026/feb/06/leeds-nottingham-forest-premier-league-match-report",
+    "mean_score": 0.634,
+    "vader_score": 0.6597,
+    "textblob_score": 0.6083,
+    "first_sentence": "The job is not done yet, far from it.",
+    "timestamp": "2026-02-06T22:05:59Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "'Best team yet': The Aussies to watch at the 2026 Winter Olympic Games",
     "link": "https://www.abc.net.au/news/2026-02-07/aussies-to-watch-milano-cortina-winter-olympic-games-2026/106273742",
     "mean_score": 0.8185,

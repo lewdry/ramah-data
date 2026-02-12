@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-12T16:26:48Z",
+  "last run": "2026-02-12T17:28:02Z",
   "stories": [
+    {
+      "headline": "Cooper Woods claims Australia\u2019s first gold with superb win in moguls",
+      "link": "https://www.theguardian.com/sport/2026/feb/12/cooper-woods-claims-australias-first-gold-with-superb-win-in-moguls",
+      "mean_score": 0.7597,
+      "vader_score": 0.836,
+      "textblob_score": 0.6833,
+      "first_sentence": "Australia won its first medal of the Winter Olympics in some style with Cooper Woods taking gold in the men\u2019s moguls with a superb run at Livigno.",
+      "timestamp": "2026-02-12T16:55:51Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "RFK Jr. promised to restore trust in US health agencies. One year later, it\u2019s eroding",
       "link": "https://apnews.com/article/rfk-jr-kennedy-cdc-covid-health-trust-7ef5f0e2c6f91ce6d908cb58f9e2fcb2",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.5,
       "first_sentence": "Graham Norton\u2019s chatshow has long been an object of fascination for American stars, wowed by its combined star wattage, glasses of wine and Norton\u2019s own quick-witted, lightly saucy repartee \u2013 and Taylor Swift has now taken that fandom to another level.",
       "timestamp": "2026-02-06T22:15:27Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Calvert-Lewin caps fine win for Leeds to leave Nottingham Forest reeling",
-      "link": "https://www.theguardian.com/football/2026/feb/06/leeds-nottingham-forest-premier-league-match-report",
-      "mean_score": 0.634,
-      "vader_score": 0.6597,
-      "textblob_score": 0.6083,
-      "first_sentence": "The job is not done yet, far from it.",
-      "timestamp": "2026-02-06T22:05:59Z",
       "source": "The Guardian"
     }
   ]
