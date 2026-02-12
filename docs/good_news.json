@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-12T18:26:55Z",
+  "last run": "2026-02-12T19:27:47Z",
   "stories": [
+    {
+      "headline": "China\u2019s Yangtze River shows signs of remarkable recovery after fishing ban",
+      "link": "https://www.theguardian.com/environment/2026/feb/12/china-yangtze-river-recovery-after-fishing-ban",
+      "mean_score": 0.375,
+      "vader_score": 0.0,
+      "textblob_score": 0.75,
+      "first_sentence": "The Yangtze River in China, which has been in ecological decline for 70 years, is showing signs of recovery thanks to a sweeping fishing ban.",
+      "timestamp": "2026-02-12T19:00:22Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Aussie brothers make T20 World Cup history as Italy claims historic win",
+      "link": "https://www.abc.net.au/news/2026-02-13/italy-wins-first-t20-cricket-world-cup-match/106339406",
+      "mean_score": 0.4929,
+      "vader_score": 0.5859,
+      "textblob_score": 0.4,
+      "first_sentence": "Italy has achieved its maiden T20 World Cup win, dominating Nepal to claim a 10-wicket victory.",
+      "timestamp": "2026-02-12T18:38:33Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Hobart's drinking water free from antibiotics, water utility says",
       "link": "https://www.abc.net.au/news/2026-02-13/salmon-disease-outbreak-antibiotics-river-derwent/106330724",
@@ -2480,26 +2500,6 @@
       "first_sentence": "As Thailand prepares to hold a snap election on February 8, the numbers do not look good.",
       "timestamp": "2026-02-07T02:33:50Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Jeers, cheers and pleas for peace kick off Milano Cortina 2026",
-      "link": "https://www.abc.net.au/news/2026-02-07/winter-olympics-2026-opening-ceremony-chilly-global-outlook/106316092",
-      "mean_score": 0.3825,
-      "vader_score": 0.765,
-      "textblob_score": 0.0,
-      "first_sentence": "The Milano Cortina Winter Olympic Games, the 25th in the history of the Olympic movement, got underway in a delight of colour and style and celebration of music and Italian culture.",
-      "timestamp": "2026-02-06T23:59:27Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "'I dreamed of becoming a K-pop idol - but I felt like I was scammed'",
-      "link": "https://www.bbc.com/news/articles/cvgnq9rwyqno?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4761,
-      "vader_score": 0.5023,
-      "textblob_score": 0.45,
-      "first_sentence": "As K-pop's popularity soars, South Korea has become a destination for young people around the world hoping to break into the industry.",
-      "timestamp": "2026-02-06T23:05:12Z",
-      "source": "BBC News"
     }
   ]
 }

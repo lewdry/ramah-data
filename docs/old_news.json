@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Jeers, cheers and pleas for peace kick off Milano Cortina 2026",
+    "link": "https://www.abc.net.au/news/2026-02-07/winter-olympics-2026-opening-ceremony-chilly-global-outlook/106316092",
+    "mean_score": 0.3825,
+    "vader_score": 0.765,
+    "textblob_score": 0.0,
+    "first_sentence": "The Milano Cortina Winter Olympic Games, the 25th in the history of the Olympic movement, got underway in a delight of colour and style and celebration of music and Italian culture.",
+    "timestamp": "2026-02-06T23:59:27Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "'I dreamed of becoming a K-pop idol - but I felt like I was scammed'",
+    "link": "https://www.bbc.com/news/articles/cvgnq9rwyqno?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4761,
+    "vader_score": 0.5023,
+    "textblob_score": 0.45,
+    "first_sentence": "As K-pop's popularity soars, South Korea has become a destination for young people around the world hoping to break into the industry.",
+    "timestamp": "2026-02-06T23:05:12Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Years after coming out as Scotland's only gay footballer, I'm so much happier",
     "link": "https://www.bbc.com/news/articles/cvg1gdzplz8o?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.3872,
