@@ -1,6 +1,36 @@
 {
-  "last run": "2026-02-12T14:27:14Z",
+  "last run": "2026-02-12T15:23:50Z",
   "stories": [
+    {
+      "headline": "Italian PM vows to secure borders and approves bill allowing naval blockades",
+      "link": "https://www.theguardian.com/world/2026/feb/12/italy-migration-giorgia-meloni-borders-naval-blockades-bill",
+      "mean_score": 0.4124,
+      "vader_score": 0.6249,
+      "textblob_score": 0.2,
+      "first_sentence": "Italy\u2019s prime minister says her government will deploy every tool at its disposal to \u201cguarantee the security of our borders\u201d after approving a bill authorising naval blockades to stop boats from arriving in Italy during periods of \u201cexceptional pressure\u201d.",
+      "timestamp": "2026-02-12T14:43:28Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "'Cooper Woods, welcome to the gold medal club'",
+      "link": "https://www.abc.net.au/news/2026-02-13/cooper-woods-gold-medal-club-alisa-camplin/106338996",
+      "mean_score": 0.7634,
+      "vader_score": 0.7269,
+      "textblob_score": 0.8,
+      "first_sentence": "Cooper Woods is the seventh ever Australian to be crowned a Winter Olympic champion.",
+      "timestamp": "2026-02-12T14:32:07Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Dawson's Creek: The 90s teen drama that 'wore its heart on its sleeve'",
+      "link": "https://www.bbc.com/news/articles/c5y5x230ve4o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3185,
+      "vader_score": 0.6369,
+      "textblob_score": 0.0,
+      "first_sentence": "Full confession.",
+      "timestamp": "2026-02-12T14:27:59Z",
+      "source": "BBC News"
+    },
     {
       "headline": "US applications for jobless benefits fall to 227,000 last week, remaining at recent healthy levels",
       "link": "https://apnews.com/article/unemployment-benefits-jobless-claims-layoffs-labor-0dc56ca15d52e7c26b0f64ec96306d4e",
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.1667,
       "first_sentence": "NFL fans have flocked to California for Super Bowl LX, where the New England Patriots and Seattle Seahawks will face off at Levi's Stadium in Santa Clara.",
       "timestamp": "2026-02-06T19:06:05Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "'I love her to bits' \u2013 elderly couple get engaged in care home",
-      "link": "https://www.bbc.com/news/articles/cdx4xy0xnl7o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.6889,
-      "vader_score": 0.8779,
-      "textblob_score": 0.5,
-      "first_sentence": "An engagement is usually something that happens earlier in life, but one couple have sealed the deal in their later years - and they couldn't be happier.",
-      "timestamp": "2026-02-06T18:56:32Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "ABC 50/50 quiz: Test your knowledge of Gladiator, James Bond and your right to party",
-      "link": "https://www.abc.net.au/news/2026-02-07/abc-5050-quiz-february-7/106303852",
-      "mean_score": 0.3438,
-      "vader_score": 0.4019,
-      "textblob_score": 0.2857,
-      "first_sentence": "Each question in the ABC 50/50 quiz has only two options: One is right and the other is wrong.",
-      "timestamp": "2026-02-06T18:30:00Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "'I made friends for life' - 10-year-old star on filming new Lord of the Flies drama",
-      "link": "https://www.bbc.com/news/articles/c8j3j7we88do?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3065,
-      "vader_score": 0.4767,
-      "textblob_score": 0.1364,
-      "first_sentence": "A 10-year-old actor has said he was \"speechless\" when he got cast in a new BBC drama that was filmed thousands of miles from home.",
-      "timestamp": "2026-02-06T18:02:46Z",
       "source": "BBC News"
     }
   ]

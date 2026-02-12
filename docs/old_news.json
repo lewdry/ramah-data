@@ -1,5 +1,35 @@
 [
   {
+    "headline": "'I love her to bits' \u2013 elderly couple get engaged in care home",
+    "link": "https://www.bbc.com/news/articles/cdx4xy0xnl7o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.6889,
+    "vader_score": 0.8779,
+    "textblob_score": 0.5,
+    "first_sentence": "An engagement is usually something that happens earlier in life, but one couple have sealed the deal in their later years - and they couldn't be happier.",
+    "timestamp": "2026-02-06T18:56:32Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "ABC 50/50 quiz: Test your knowledge of Gladiator, James Bond and your right to party",
+    "link": "https://www.abc.net.au/news/2026-02-07/abc-5050-quiz-february-7/106303852",
+    "mean_score": 0.3438,
+    "vader_score": 0.4019,
+    "textblob_score": 0.2857,
+    "first_sentence": "Each question in the ABC 50/50 quiz has only two options: One is right and the other is wrong.",
+    "timestamp": "2026-02-06T18:30:00Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "'I made friends for life' - 10-year-old star on filming new Lord of the Flies drama",
+    "link": "https://www.bbc.com/news/articles/c8j3j7we88do?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3065,
+    "vader_score": 0.4767,
+    "textblob_score": 0.1364,
+    "first_sentence": "A 10-year-old actor has said he was \"speechless\" when he got cast in a new BBC drama that was filmed thousands of miles from home.",
+    "timestamp": "2026-02-06T18:02:46Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Iran says \u2018good start\u2019 made in talks with US over nuclear programme",
     "link": "https://www.theguardian.com/world/2026/feb/06/us-iran-talks-oman-nuclear-programme",
     "mean_score": 0.35,
