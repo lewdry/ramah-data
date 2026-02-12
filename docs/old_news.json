@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Iran says \u2018good start\u2019 made in talks with US over nuclear programme",
+    "link": "https://www.theguardian.com/world/2026/feb/06/us-iran-talks-oman-nuclear-programme",
+    "mean_score": 0.35,
+    "vader_score": 0.0,
+    "textblob_score": 0.7,
+    "first_sentence": "Indirect talks between Iran and the US on the future of Iran\u2019s nuclear programme ended on Friday with a broad agreement to maintain a diplomatic path, possibly with further talks in the coming days, according to statements from Iran and the Omani hosts.",
+    "timestamp": "2026-02-06T15:59:13Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Iranian foreign minister says US talks in Oman a 'good beginning'",
+    "link": "https://www.bbc.com/news/articles/cr57g1y8286o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3639,
+    "vader_score": 0.4404,
+    "textblob_score": 0.2875,
+    "first_sentence": "Senior US and Iranian officials have held talks in Oman amid a crisis that has raised fears of a military confrontation between the two countries.",
+    "timestamp": "2026-02-06T15:12:33Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Iran\u2019s foreign minister says talks with US were \u2018 a very good start\u2019 but are \u2018over for now\u2019 \u2013 as it happened",
     "link": "https://www.theguardian.com/world/live/2026/feb/06/us-iran-nuclear-talks-oman-live-updates",
     "mean_score": 0.3324,
