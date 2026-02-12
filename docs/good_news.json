@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-12T11:22:13Z",
+  "last run": "2026-02-12T12:23:17Z",
   "stories": [
+    {
+      "headline": "Loyal dog who lived by owner's grave for 10 years inspires new law in Brazil",
+      "link": "https://www.bbc.com/news/articles/c89kvqjyx4ko?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3808,
+      "vader_score": 0.5267,
+      "textblob_score": 0.2348,
+      "first_sentence": "A dog who spent 10 years living in the S\u00e3o Paulo cemetery where his owner was buried has inspired a new law permitting the burial of pets with their families in the Brazilian state.",
+      "timestamp": "2026-02-12T12:13:01Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Can being codependent in a relationship actually be a good thing?",
       "link": "https://www.theguardian.com/wellness/2026/feb/12/codependent-healthy-dependency-enmeshment-relationships",
@@ -9,6 +19,16 @@
       "textblob_score": 0.7,
       "first_sentence": "Many of us desire deeper relationships.",
       "timestamp": "2026-02-12T11:00:14Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018Utterly hilarious\u2019: Simon McBurney on how the great clown Philippe Gaulier changed his life",
+      "link": "https://www.theguardian.com/stage/2026/feb/12/simon-mcburney-philippe-gaulier-complicite-clown-teacher",
+      "mean_score": 0.6375,
+      "vader_score": 0.6249,
+      "textblob_score": 0.65,
+      "first_sentence": "Many speak of a teacher in their childhood who changed them, someone who reveals knowledge about the world they carry with them for the rest of their lives.",
+      "timestamp": "2026-02-12T10:48:03Z",
       "source": "The Guardian"
     },
     {
@@ -100,6 +120,16 @@
       "first_sentence": "HONG KONG (AP) \u2014 Asia shares were mostly higher Thursday and benchmarks in Japan and South Korea reached new records after Wall Street wobbled following a better-than-expected U.S.",
       "timestamp": "2026-02-12T08:23:02Z",
       "source": "AP News"
+    },
+    {
+      "headline": "Live: Aussie trio to contest Olympic moguls super final",
+      "link": "https://www.abc.net.au/news/2026-02-12/winter-olympics-2026-live-milano-cortina-matt-graham/106338490",
+      "mean_score": 0.378,
+      "vader_score": 0.5994,
+      "textblob_score": 0.1566,
+      "first_sentence": "Matt Graham is joined by Australian teammates Cooper Woods and Jackson Harvey in the men's moguls finals at the Winter Olympics.",
+      "timestamp": "2026-02-12T08:21:56Z",
+      "source": "ABC News"
     },
     {
       "headline": "Olivia Colman sometimes thinks of herself as a gay man. As a gay man myself, I say \u2013 welcome | Jason Okundaye",
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.4121,
       "first_sentence": "It\u2019s not a multi-thousand pound handbag from Herm\u00e8s that best captures the new era of It bags, but a \u00a3149 tote from John Lewis.",
       "timestamp": "2026-02-06T14:48:54Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Five Great Reads: Chris Hemsworth, Milli Vanilli, and two years with a romance fraudster",
-      "link": "https://www.theguardian.com/australia-news/2026/feb/06/five-great-reads-chris-hemsworth-milli-vanilli-and-two-years-with-a-romance-fraudster",
-      "mean_score": 0.7185,
-      "vader_score": 0.6369,
-      "textblob_score": 0.8,
-      "first_sentence": "Get this in your inbox every weekend.",
-      "timestamp": "2026-02-06T14:00:14Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Kathy Lette, mum rage and a cursed vagina: the best Australian books out in February",
-      "link": "https://www.theguardian.com/books/2026/feb/07/best-australian-books-out-february",
-      "mean_score": 0.3266,
-      "vader_score": 0.1531,
-      "textblob_score": 0.5,
-      "first_sentence": "In 2022, Charlotte Grieve was one of three journalists sued by renowned surgeon Dr Munjed al Muderis over a joint investigation by the Sydney Morning Herald and the Age into his practice of a controversial orthopaedic surgery procedure called osseointegration.",
-      "timestamp": "2026-02-06T14:00:12Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Cocktail of the week: Mar\u00e9\u2019s kiwi caipirinha \u2013 recipe | The good mixer",
-      "link": "https://www.theguardian.com/food/2026/feb/06/cocktail-of-the-week-kiwi-caipirinha-recipe-mare-restaurant",
-      "mean_score": 0.5702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.7,
-      "first_sentence": "This tropical, vibrant drink is our most popular cocktail, perhaps because it\u2019s a twist on something familiar.",
-      "timestamp": "2026-02-06T13:01:06Z",
       "source": "The Guardian"
     }
   ]
