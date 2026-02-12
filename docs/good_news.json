@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-12T01:41:08Z",
+  "last run": "2026-02-12T03:10:26Z",
   "stories": [
+    {
+      "headline": "Monks bring balm for America\u2019s wounds as Washington cheers peace odyssey",
+      "link": "https://www.theguardian.com/us-news/2026/feb/11/buddhist-monks-peace-walk-washington-dc",
+      "mean_score": 0.3825,
+      "vader_score": 0.765,
+      "textblob_score": 0.0,
+      "first_sentence": "Bhante Saranapala gazed down at more than a hundred Buddhist monks wearing burnt-orange, saffron and maroon robes, most sporting woolly hats, a few clutching flowers.",
+      "timestamp": "2026-02-12T01:37:40Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Tarique Rahman promises era of clean politics as Bangladesh holds first election since fall of Hasina",
       "link": "https://www.theguardian.com/world/2026/feb/12/tarique-rahman-bnp-bangladesh-election",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.5,
       "first_sentence": "It's one of Northern Ireland's most exclusive night clubs - but it's not because of a dress code.",
       "timestamp": "2026-02-06T06:24:54Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Artist Andy Goldsworthy on gathering gravestones: This is my best work yet",
-      "link": "https://www.bbc.com/news/articles/cx2k84zyk61o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.7859,
-      "vader_score": 0.5719,
-      "textblob_score": 1.0,
-      "first_sentence": "I'm standing in a graveyard in Kirkconnel, Dumfriesshire, with the artist Andy Goldsworthy.",
-      "timestamp": "2026-02-06T06:09:58Z",
       "source": "BBC News"
     }
   ]
