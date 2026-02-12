@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-12T07:28:34Z",
+  "last run": "2026-02-12T08:21:02Z",
   "stories": [
+    {
+      "headline": "Olivia Colman sometimes thinks of herself as a gay man. As a gay man myself, I say \u2013 welcome | Jason Okundaye",
+      "link": "https://www.theguardian.com/commentisfree/2026/feb/12/olivia-colman-thinks-herself-gay-man-lgbtq",
+      "mean_score": 0.5016,
+      "vader_score": 0.4588,
+      "textblob_score": 0.5444,
+      "first_sentence": "Pity Olivia Colman.",
+      "timestamp": "2026-02-12T08:00:42Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "\u2018The intimate and the epic\u2019: the best way to understand India is to travel by train",
       "link": "https://www.theguardian.com/travel/2026/feb/12/best-way-to-understand-india-train-rail",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.5,
       "first_sentence": "The American diet has had a roller coaster relationship with beef, but new dietary guidelines from the U.S.",
       "timestamp": "2026-02-06T09:48:29Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Iranians face intense crackdown by security forces ahead of US-Iran nuclear talks",
-      "link": "https://www.npr.org/2026/02/06/nx-s1-5701466/iranians-face-intense-crackdown-by-security-forces-ahead-of-us-iran-nuclear-talks",
-      "mean_score": 0.3009,
-      "vader_score": 0.4019,
-      "textblob_score": 0.2,
-      "first_sentence": "As the U.",
-      "timestamp": "2026-02-06T09:47:57Z",
       "source": "NPR News"
     }
   ]
