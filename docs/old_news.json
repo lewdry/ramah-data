@@ -1,5 +1,25 @@
 [
   {
+    "headline": "'I'm so lucky to get another crack': From an excavator to the NRL pre-season for this Wests Tigers hopeful",
+    "link": "https://www.abc.net.au/news/2026-02-07/pat-herbert-nrl-wests-tigers-train-and-trial/106317620",
+    "mean_score": 0.5417,
+    "vader_score": 0.7501,
+    "textblob_score": 0.3333,
+    "first_sentence": "Pat Herbert was just over three years removed from his last NRL game, perched on an excavator and well into the rest of his life, when his dreams came back to him.",
+    "timestamp": "2026-02-07T05:10:44Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "'They're afraid': Can Thailand's popular progressives finally win government?",
+    "link": "https://www.abc.net.au/news/2026-02-07/thailand-election-stakes-high-as-progressives-mount-challenge/106312802",
+    "mean_score": 0.5158,
+    "vader_score": 0.765,
+    "textblob_score": 0.2667,
+    "first_sentence": "As Thailand prepares to hold a snap election on February 8, the numbers do not look good.",
+    "timestamp": "2026-02-07T02:33:50Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Jeers, cheers and pleas for peace kick off Milano Cortina 2026",
     "link": "https://www.abc.net.au/news/2026-02-07/winter-olympics-2026-opening-ceremony-chilly-global-outlook/106316092",
     "mean_score": 0.3825,
