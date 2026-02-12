@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-12T00:42:38Z",
+  "last run": "2026-02-12T01:41:08Z",
   "stories": [
+    {
+      "headline": "Tarique Rahman promises era of clean politics as Bangladesh holds first election since fall of Hasina",
+      "link": "https://www.theguardian.com/world/2026/feb/12/tarique-rahman-bnp-bangladesh-election",
+      "mean_score": 0.4785,
+      "vader_score": 0.6486,
+      "textblob_score": 0.3083,
+      "first_sentence": "Tarique Rahman, who after 17 years in exile is the main contender to be the next prime minister of Bangladesh, has pledged to end entrenched corruption and put the country on a \u201cnew path\u201d as voting began in the first free and fair elections in almost two decades.",
+      "timestamp": "2026-02-12T01:10:15Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "The Dutch love four-day working weeks, but are they sustainable?",
       "link": "https://www.bbc.com/news/articles/cx2y85xdyw3o?at_medium=RSS&at_campaign=rss",
@@ -40,6 +50,16 @@
       "first_sentence": "Angus Taylor has officially confirmed he\u2019s running for the leadership, releasing a video to social media this morning with his pitch to the public, featuring inspirational-sounding instrumental background music and all.",
       "timestamp": "2026-02-11T22:59:35Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "These monks' walk for peace captivated Americans. It ends this week",
+      "link": "https://www.npr.org/2026/02/11/nx-s1-5708853/these-monks-simple-walk-for-peace-captivated-millions-it-ends-this-week",
+      "mean_score": 0.3634,
+      "vader_score": 0.7269,
+      "textblob_score": 0.0,
+      "first_sentence": "WASHINGTON \u2014 Thousands gathered at Washington National Cathedral on Tuesday to see Buddhist monks who have completed a 108-day, 2,300-mile journey on foot from Texas to the nation's capital.",
+      "timestamp": "2026-02-11T22:13:36Z",
+      "source": "NPR News"
     },
     {
       "headline": "As aging pools face closure, Queenslanders take matters into their own hands",
@@ -2480,26 +2500,6 @@
       "first_sentence": "I'm standing in a graveyard in Kirkconnel, Dumfriesshire, with the artist Andy Goldsworthy.",
       "timestamp": "2026-02-06T06:09:58Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Helen Goh\u2019s recipe for Valentine\u2019s chocolate pots de creme for two | The sweet spot",
-      "link": "https://www.theguardian.com/food/2026/feb/06/valentines-chocolate-pots-de-creme-recipe-helen-goh",
-      "mean_score": 0.4044,
-      "vader_score": 0.4588,
-      "textblob_score": 0.35,
-      "first_sentence": "These chocolate pots are dark, silken and softly bitter, with enough richness to feel a little decadent, but not heavy.",
-      "timestamp": "2026-02-06T06:00:04Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Nagi is normalising taking time for our pets. Here's why that's important",
-      "link": "https://www.abc.net.au/news/2026-02-06/recipetineats-nagi-maehashi-time-off-work-care-for-dog-dozer/106313752",
-      "mean_score": 0.3012,
-      "vader_score": 0.2023,
-      "textblob_score": 0.4,
-      "first_sentence": "When celebrity cook Nagi Maehashi's announced this week she was taking a step back from work to care for her beloved dog, Dozer, she had an overwhelming response to the news.",
-      "timestamp": "2026-02-06T05:32:08Z",
-      "source": "ABC News"
     }
   ]
 }

@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Helen Goh\u2019s recipe for Valentine\u2019s chocolate pots de creme for two | The sweet spot",
+    "link": "https://www.theguardian.com/food/2026/feb/06/valentines-chocolate-pots-de-creme-recipe-helen-goh",
+    "mean_score": 0.4044,
+    "vader_score": 0.4588,
+    "textblob_score": 0.35,
+    "first_sentence": "These chocolate pots are dark, silken and softly bitter, with enough richness to feel a little decadent, but not heavy.",
+    "timestamp": "2026-02-06T06:00:04Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Nagi is normalising taking time for our pets. Here's why that's important",
+    "link": "https://www.abc.net.au/news/2026-02-06/recipetineats-nagi-maehashi-time-off-work-care-for-dog-dozer/106313752",
+    "mean_score": 0.3012,
+    "vader_score": 0.2023,
+    "textblob_score": 0.4,
+    "first_sentence": "When celebrity cook Nagi Maehashi's announced this week she was taking a step back from work to care for her beloved dog, Dozer, she had an overwhelming response to the news.",
+    "timestamp": "2026-02-06T05:32:08Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Finding Harmony: A King\u2019s Vision review \u2013 there\u2019s a bizarre moment where it\u2019s like Charles has taken acid",
     "link": "https://www.theguardian.com/tv-and-radio/2026/feb/06/finding-harmony-a-kings-vision-review-charles-jeff-bezos-amazon-prime-video",
     "mean_score": 0.4997,
