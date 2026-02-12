@@ -1,6 +1,46 @@
 {
-  "last run": "2026-02-12T22:13:05Z",
+  "last run": "2026-02-12T23:12:08Z",
   "stories": [
+    {
+      "headline": "Australia politics live: Angus Taylor becomes new Liberal leader as Sussan Ley deposed after nine months; Jane Hume wins deputy role",
+      "link": "https://www.theguardian.com/australia-news/live/2026/feb/13/australia-politics-live-liberals-leadership-spill-vote-angus-taylor-sussan-ley-libspill-anthony-albanese-indigenous-apology-anniversary-ntwnfb",
+      "mean_score": 0.3814,
+      "vader_score": 0.5719,
+      "textblob_score": 0.1909,
+      "first_sentence": "Safe to say Labor aren\u2019t complaining that Angus Taylor won the ballot, and Anthony Albanese\u2019s office have immediately released two attack ads against him.",
+      "timestamp": "2026-02-12T22:59:08Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Sussan Ley made promises she couldn\u2019t keep \u2013 and some in the Liberal party never wanted her to",
+      "link": "https://www.theguardian.com/australia-news/2026/feb/13/sussan-ley-liberal-party-leader-promises",
+      "mean_score": 0.3243,
+      "vader_score": 0.6486,
+      "textblob_score": 0.0,
+      "first_sentence": "In her first public comments as Liberal leader, Sussan Ley spoke of reviving and re-orientating a party that was reeling from a second catastrophic election defeat.",
+      "timestamp": "2026-02-12T22:50:48Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Germany's far right political party, the AFD, is at the Munich Security Conference",
+      "link": "https://www.npr.org/2026/02/12/nx-s1-5707577/germanys-far-right-political-party-the-afd-is-at-the-munich-security-conference",
+      "mean_score": 0.3767,
+      "vader_score": 0.6249,
+      "textblob_score": 0.1286,
+      "first_sentence": "NPR's Mary Louise Kelly and Correspondent Rob Schmitz discuss Germany's far-right Alternative for Germany, or AfD, at to the Munich Security Conference.",
+      "timestamp": "2026-02-12T22:34:46Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "Quick hits: An Olympic-sized engagement and Snoop Dogg's great jacket",
+      "link": "https://www.abc.net.au/news/2026-02-13/sport-winter-olympics-quick-hits-day-six/106339098",
+      "mean_score": 0.6815,
+      "vader_score": 0.7964,
+      "textblob_score": 0.5667,
+      "first_sentence": "Breezy Johnson's pain of crashing was washed away by the euphoria of love, while Snoop Dogg showed his support with a magnificent snow jacket.",
+      "timestamp": "2026-02-12T22:13:18Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Terland and Malard set Manchester United on course for last eight in win over Atl\u00e9tico",
       "link": "https://www.theguardian.com/football/2026/feb/12/atletico-madrid-arsenal-womens-champions-league-match-report",
@@ -30,6 +70,16 @@
       "first_sentence": "A major rescue operation has been launched off the Pembrokeshire coast after an incident involving three rock climbers.",
       "timestamp": "2026-02-12T21:48:07Z",
       "source": "BBC News"
+    },
+    {
+      "headline": "Live: Angus Taylor overwhelmingly wins Liberal leadership, Jane Hume voted deputy",
+      "link": "https://www.abc.net.au/news/2026-02-13/federal-politics-live-blog-liberal-spill/106339480",
+      "mean_score": 0.356,
+      "vader_score": 0.4939,
+      "textblob_score": 0.2182,
+      "first_sentence": "Angus Taylor has been chosen as the new Liberal leader after defeating Sussan Ley 34 votes to 17, with Jane Hume elected deputy.",
+      "timestamp": "2026-02-12T20:10:18Z",
+      "source": "ABC News"
     },
     {
       "headline": "Good Luck, Have Fun, Don\u2019t Die review \u2013 AI is the bad guy in lively yet overstuffed caper",
@@ -2449,56 +2499,6 @@
       "textblob_score": 0.5,
       "first_sentence": "It was all going a little too easy for Lindsey Vonn.",
       "timestamp": "2026-02-07T14:29:24Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Bangers and smash: Von Allmen wins first gold of Winter Olympics to fulfil butcher\u2019s dream",
-      "link": "https://www.theguardian.com/sport/2026/feb/07/swiss-downhill-racer-von-allmen-edges-out-italians-to-win-first-gold-of-winter-olympics",
-      "mean_score": 0.4829,
-      "vader_score": 0.6908,
-      "textblob_score": 0.275,
-      "first_sentence": "When the Swiss skier Franjo von Allmen first broke through in the junior ranks, his village butcher created a special sausage \u2013 the Silberblitz-Wurscht or Silver Lightning \u2013 in his honour.",
-      "timestamp": "2026-02-07T13:19:06Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Franjo von Allmen of Switzerland wins men\u2019s downhill, first gold medal of Milan Cortina Games",
-      "link": "https://apnews.com/article/mens-downhill-olympics-milan-cortina-a79a02e7ae04cd543854455edfaf595f",
-      "mean_score": 0.5267,
-      "vader_score": 0.7783,
-      "textblob_score": 0.275,
-      "first_sentence": "BORMIO, Italy (AP) \u2014 Swiss racer Franjo von Allmen captured the Olympic downhill Saturday to win the first gold medal at the Milan Cortina Games.",
-      "timestamp": "2026-02-07T12:23:02Z",
-      "source": "AP News"
-    },
-    {
-      "headline": "Epstein revelations have toppled top figures in Europe while US fallout is more muted",
-      "link": "https://apnews.com/article/jeffrey-epstein-fallout-europe-us-mandelson-409c14e095a2e29bbea6398437411a8d",
-      "mean_score": 0.3512,
-      "vader_score": 0.2023,
-      "textblob_score": 0.5,
-      "first_sentence": "LONDON (AP) \u2014 A prince, an ambassador, senior diplomats, top politicians.",
-      "timestamp": "2026-02-07T11:23:01Z",
-      "source": "AP News"
-    },
-    {
-      "headline": "\u2018The photo we want to take is closer than we think\u2019: Dominic D\u00e4hncke\u2019s best phone picture",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/feb/07/dominic-dahncke-best-phone-picture",
-      "mean_score": 0.8353,
-      "vader_score": 0.6705,
-      "textblob_score": 1.0,
-      "first_sentence": "\u201cTelekinesis,\u201d says Dominic D\u00e4hncke, when asked how this errant broom is standing upright.",
-      "timestamp": "2026-02-07T11:00:01Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Winter Olympics 2026: first gold medal up for grabs in men\u2019s downhill \u2013 live",
-      "link": "https://www.theguardian.com/sport/live/2026/feb/07/winter-olympics-2026-first-gold-medals-mens-downhill-figure-skating-live",
-      "mean_score": 0.3349,
-      "vader_score": 0.4767,
-      "textblob_score": 0.1932,
-      "first_sentence": "Women\u2019s Freeski Slopestyle qualifying: The big news from Livigno Snow Park is that China\u2019s Eileen Gu, a triple medallist at the last Games in Beijing, took a tumble on the first very rail of the course.",
-      "timestamp": "2026-02-07T09:48:36Z",
       "source": "The Guardian"
     }
   ]

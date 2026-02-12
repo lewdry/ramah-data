@@ -1,5 +1,55 @@
 [
   {
+    "headline": "Bangers and smash: Von Allmen wins first gold of Winter Olympics to fulfil butcher\u2019s dream",
+    "link": "https://www.theguardian.com/sport/2026/feb/07/swiss-downhill-racer-von-allmen-edges-out-italians-to-win-first-gold-of-winter-olympics",
+    "mean_score": 0.4829,
+    "vader_score": 0.6908,
+    "textblob_score": 0.275,
+    "first_sentence": "When the Swiss skier Franjo von Allmen first broke through in the junior ranks, his village butcher created a special sausage \u2013 the Silberblitz-Wurscht or Silver Lightning \u2013 in his honour.",
+    "timestamp": "2026-02-07T13:19:06Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Franjo von Allmen of Switzerland wins men\u2019s downhill, first gold medal of Milan Cortina Games",
+    "link": "https://apnews.com/article/mens-downhill-olympics-milan-cortina-a79a02e7ae04cd543854455edfaf595f",
+    "mean_score": 0.5267,
+    "vader_score": 0.7783,
+    "textblob_score": 0.275,
+    "first_sentence": "BORMIO, Italy (AP) \u2014 Swiss racer Franjo von Allmen captured the Olympic downhill Saturday to win the first gold medal at the Milan Cortina Games.",
+    "timestamp": "2026-02-07T12:23:02Z",
+    "source": "AP News"
+  },
+  {
+    "headline": "Epstein revelations have toppled top figures in Europe while US fallout is more muted",
+    "link": "https://apnews.com/article/jeffrey-epstein-fallout-europe-us-mandelson-409c14e095a2e29bbea6398437411a8d",
+    "mean_score": 0.3512,
+    "vader_score": 0.2023,
+    "textblob_score": 0.5,
+    "first_sentence": "LONDON (AP) \u2014 A prince, an ambassador, senior diplomats, top politicians.",
+    "timestamp": "2026-02-07T11:23:01Z",
+    "source": "AP News"
+  },
+  {
+    "headline": "\u2018The photo we want to take is closer than we think\u2019: Dominic D\u00e4hncke\u2019s best phone picture",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/feb/07/dominic-dahncke-best-phone-picture",
+    "mean_score": 0.8353,
+    "vader_score": 0.6705,
+    "textblob_score": 1.0,
+    "first_sentence": "\u201cTelekinesis,\u201d says Dominic D\u00e4hncke, when asked how this errant broom is standing upright.",
+    "timestamp": "2026-02-07T11:00:01Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Winter Olympics 2026: first gold medal up for grabs in men\u2019s downhill \u2013 live",
+    "link": "https://www.theguardian.com/sport/live/2026/feb/07/winter-olympics-2026-first-gold-medals-mens-downhill-figure-skating-live",
+    "mean_score": 0.3349,
+    "vader_score": 0.4767,
+    "textblob_score": 0.1932,
+    "first_sentence": "Women\u2019s Freeski Slopestyle qualifying: The big news from Livigno Snow Park is that China\u2019s Eileen Gu, a triple medallist at the last Games in Beijing, took a tumble on the first very rail of the course.",
+    "timestamp": "2026-02-07T09:48:36Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Live: Aussie Ferlazzo hits luge track, Italy wins historic Olympic gold",
     "link": "https://www.abc.net.au/news/2026-02-07/winter-olympics-day-one-live-blog-updates-guseli/106317886",
     "mean_score": 0.3587,
