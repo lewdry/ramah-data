@@ -1,6 +1,36 @@
 {
-  "last run": "2026-02-12T04:46:24Z",
+  "last run": "2026-02-12T05:35:15Z",
   "stories": [
+    {
+      "headline": "Homemade sweet treats to spread love this Valentine's Day",
+      "link": "https://www.abc.net.au/news/2026-02-12/valentines-day-recipes-love-chocolate/106325802",
+      "mean_score": 0.6135,
+      "vader_score": 0.802,
+      "textblob_score": 0.425,
+      "first_sentence": "Whether you're in the Valentine's Day or not (it's this Saturday, February 14, by the way), sharing some love is never a bad thing.",
+      "timestamp": "2026-02-12T05:28:18Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Breaking: Support firms for Angus Taylor to win Liberal leadership",
+      "link": "https://www.abc.net.au/news/2026-02-12/angus-taylor-liberal-leadership-support-firms/106334120",
+      "mean_score": 0.779,
+      "vader_score": 0.7579,
+      "textblob_score": 0.8,
+      "first_sentence": "Support is firming for Angus Taylor to topple Opposition Leader Sussan Ley, as more MPs abandon the shadow ministry.",
+      "timestamp": "2026-02-12T05:17:59Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Support builds for Angus Taylor after launching Liberal party leadership challenge against Sussan Ley",
+      "link": "https://www.theguardian.com/australia-news/2026/feb/12/angus-taylor-liberal-party-spill-motion-sussan-ley",
+      "mean_score": 0.3454,
+      "vader_score": 0.6908,
+      "textblob_score": 0.0,
+      "first_sentence": "Sussan Ley\u2019s embattled leadership has suffered a major blow, with key backer and Queensland senator James McGrath resigning from the frontbench in order to back Angus Taylor.",
+      "timestamp": "2026-02-12T05:03:14Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Fantastic. Great move. Well done Angus: the story of one of Australia\u2019s favourite political memes",
       "link": "https://www.theguardian.com/culture/2026/feb/12/fantastic-great-move-well-done-angus-taylor-meme",
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.3333,
       "first_sentence": "Don Crisman\u00a0and Gregory\u00a0Eaton have never missed a Super Bowl.",
       "timestamp": "2026-02-06T09:47:39Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Analilia Mejia, Tom Malinowski race in New Jersey\u2019s special Democratic primary too early to call",
-      "link": "https://apnews.com/article/new-jersey-house-sherrill-democrat-congress-01b9bfcecdabac87b3af63b0c46db89a",
-      "mean_score": 0.3251,
-      "vader_score": 0.4019,
-      "textblob_score": 0.2484,
-      "first_sentence": "TRENTON, N.J.",
-      "timestamp": "2026-02-06T08:23:02Z",
-      "source": "AP News"
-    },
-    {
-      "headline": "Live: Play School wins best children's program at AACTAs",
-      "link": "https://www.abc.net.au/news/2026-02-06/aacta-awards-2026-live-blog-winners-sarah-snook-celeste-barber/106295178",
-      "mean_score": 0.6811,
-      "vader_score": 0.8834,
-      "textblob_score": 0.4788,
-      "first_sentence": "Australia's answer to the Oscars or the Golden Globes \u2014 the AACTA Awards \u2014 is live right now on the Gold Coast, celebrating the best of Australian film and TV in 2025.",
-      "timestamp": "2026-02-06T07:29:55Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "New Jersey's special Democratic primary too early to call",
-      "link": "https://www.npr.org/2026/02/06/nx-s1-5704105/new-jersey-special-democratic-primary",
-      "mean_score": 0.3251,
-      "vader_score": 0.4019,
-      "textblob_score": 0.2484,
-      "first_sentence": "TRENTON, N.J.",
-      "timestamp": "2026-02-06T07:21:26Z",
       "source": "NPR News"
     }
   ]

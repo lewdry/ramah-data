@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Analilia Mejia, Tom Malinowski race in New Jersey\u2019s special Democratic primary too early to call",
+    "link": "https://apnews.com/article/new-jersey-house-sherrill-democrat-congress-01b9bfcecdabac87b3af63b0c46db89a",
+    "mean_score": 0.3251,
+    "vader_score": 0.4019,
+    "textblob_score": 0.2484,
+    "first_sentence": "TRENTON, N.J.",
+    "timestamp": "2026-02-06T08:23:02Z",
+    "source": "AP News"
+  },
+  {
+    "headline": "Live: Play School wins best children's program at AACTAs",
+    "link": "https://www.abc.net.au/news/2026-02-06/aacta-awards-2026-live-blog-winners-sarah-snook-celeste-barber/106295178",
+    "mean_score": 0.6811,
+    "vader_score": 0.8834,
+    "textblob_score": 0.4788,
+    "first_sentence": "Australia's answer to the Oscars or the Golden Globes \u2014 the AACTA Awards \u2014 is live right now on the Gold Coast, celebrating the best of Australian film and TV in 2025.",
+    "timestamp": "2026-02-06T07:29:55Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "New Jersey's special Democratic primary too early to call",
+    "link": "https://www.npr.org/2026/02/06/nx-s1-5704105/new-jersey-special-democratic-primary",
+    "mean_score": 0.3251,
+    "vader_score": 0.4019,
+    "textblob_score": 0.2484,
+    "first_sentence": "TRENTON, N.J.",
+    "timestamp": "2026-02-06T07:21:26Z",
+    "source": "NPR News"
+  },
+  {
     "headline": "Australia news live: PM praises \u2018very significant\u2019 Indonesia security pact; Nationals MP holds hope for Coalition reunion",
     "link": "https://www.theguardian.com/australia-news/live/2026/feb/06/anthony-albanese-indonesia-security-pact-sussan-ley-coalition-liberals-nationals-leadership-rba-interest-rates-inflation-ntwnfb",
     "mean_score": 0.5695,
