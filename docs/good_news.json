@@ -1,6 +1,36 @@
 {
-  "last run": "2026-02-12T12:23:17Z",
+  "last run": "2026-02-12T13:36:31Z",
   "stories": [
+    {
+      "headline": "From Bront\u00eb to Ballard, Orwell to Okri: the best songs inspired by literature \u2013 ranked!",
+      "link": "https://www.theguardian.com/music/2026/feb/12/best-songs-inspired-by-literature-ranked",
+      "mean_score": 0.9134,
+      "vader_score": 0.8268,
+      "textblob_score": 1.0,
+      "first_sentence": "The oeuvre of Katy Perry occasionally has some profoundly unexpected inspirations: California Gurls is spelt in homage to Big Star\u2019s September Gurls, while Firework was based on, wait for it, Jack Kerouac\u2019s On the Road, specifically the line about how his favourite people \u201cburn like fabulous yellow roman candles\u201d.",
+      "timestamp": "2026-02-12T13:00:14Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "We can move beyond the capitalist model and save the climate \u2013 here are the first three steps | Jason Hickel and Yanis Varoufakis",
+      "link": "https://www.theguardian.com/environment/commentisfree/2026/feb/12/capitalist-model-climate-growth-capitalism-species-humanity",
+      "mean_score": 0.372,
+      "vader_score": 0.4939,
+      "textblob_score": 0.25,
+      "first_sentence": "We have an urgent responsibility.",
+      "timestamp": "2026-02-12T13:00:13Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Breaking: Woods wins stunning moguls gold",
+      "link": "https://www.abc.net.au/news/2026-02-12/cooper-woods-wins-winter-olympic-gold-moguls/106338772",
+      "mean_score": 0.5715,
+      "vader_score": 0.743,
+      "textblob_score": 0.4,
+      "first_sentence": "Australia has won its first medal of the 2026 Winter Olympic Games, with Cooper Woods claiming a stunning moguls gold.",
+      "timestamp": "2026-02-12T12:32:47Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Loyal dog who lived by owner's grave for 10 years inspires new law in Brazil",
       "link": "https://www.bbc.com/news/articles/c89kvqjyx4ko?at_medium=RSS&at_campaign=rss",
@@ -2470,36 +2500,6 @@
       "first_sentence": "Senior US and Iranian officials have held talks in Oman amid a crisis that has raised fears of a military confrontation between the two countries.",
       "timestamp": "2026-02-06T15:12:33Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Iran\u2019s foreign minister says talks with US were \u2018 a very good start\u2019 but are \u2018over for now\u2019 \u2013 as it happened",
-      "link": "https://www.theguardian.com/world/live/2026/feb/06/us-iran-nuclear-talks-oman-live-updates",
-      "mean_score": 0.3324,
-      "vader_score": 0.2724,
-      "textblob_score": 0.3925,
-      "first_sentence": "Iran and Oman have shared cautious optimism that negotiations between Iranian and US officials will continue, after both sides gathered in the Omani captial Muscat for indirect talks.",
-      "timestamp": "2026-02-06T15:06:03Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "From Jesus to Jurassic Park: This year's Super Bowl ads are playing it safe",
-      "link": "https://www.npr.org/2026/02/06/nx-s1-5697056/super-bowl-ads-2026-uber-eats-pepsi-doordash",
-      "mean_score": 0.6196,
-      "vader_score": 0.8225,
-      "textblob_score": 0.4167,
-      "first_sentence": "If you're wondering whether it is truly worth the $8 to $10 million cost per 30 seconds to air a commercial during the Super Bowl, just ask the creative minds behind the pro-Jesus advertising campaign He Gets Us.",
-      "timestamp": "2026-02-06T14:53:40Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Filled with good intention: could the new It bag be an antidote to the tote?",
-      "link": "https://www.theguardian.com/fashion/2026/feb/06/good-intentions-new-it-bag-antidote-tote",
-      "mean_score": 0.4263,
-      "vader_score": 0.4404,
-      "textblob_score": 0.4121,
-      "first_sentence": "It\u2019s not a multi-thousand pound handbag from Herm\u00e8s that best captures the new era of It bags, but a \u00a3149 tote from John Lewis.",
-      "timestamp": "2026-02-06T14:48:54Z",
-      "source": "The Guardian"
     }
   ]
 }
