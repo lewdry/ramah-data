@@ -1,5 +1,35 @@
 [
   {
+    "headline": "The factors that will decide the Super Bowl: a brilliant receiver, pass protection and explosive plays",
+    "link": "https://www.theguardian.com/sport/2026/feb/06/nfl-super-bowl-seattle-seahawks-new-england-patriots",
+    "mean_score": 0.7412,
+    "vader_score": 0.8658,
+    "textblob_score": 0.6167,
+    "first_sentence": "The Seattle Seahawks\u2019 run game came alive during the second half of the season and postseason.",
+    "timestamp": "2026-02-06T11:00:05Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "How beef made its way to the top of the food pyramid in the US",
+    "link": "https://www.npr.org/2026/02/06/nx-s1-5691672/how-beef-made-its-way-to-the-top-of-the-food-pyramid-in-the-us",
+    "mean_score": 0.3512,
+    "vader_score": 0.2023,
+    "textblob_score": 0.5,
+    "first_sentence": "The American diet has had a roller coaster relationship with beef, but new dietary guidelines from the U.S.",
+    "timestamp": "2026-02-06T09:48:29Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "How beef made its way to the top of the food pyramid in the U.S.",
+    "link": "https://www.npr.org/2026/02/06/nx-s1-5691672/how-beef-made-its-way-to-the-top-of-the-food-pyramid-in-the-u-s",
+    "mean_score": 0.3512,
+    "vader_score": 0.2023,
+    "textblob_score": 0.5,
+    "first_sentence": "The American diet has had a roller coaster relationship with beef, but new dietary guidelines from the U.S.",
+    "timestamp": "2026-02-06T09:48:29Z",
+    "source": "NPR News"
+  },
+  {
     "headline": "Iranians face intense crackdown by security forces ahead of U.S.-Iran nuclear talks",
     "link": "https://www.npr.org/2026/02/06/nx-s1-5701466/iranians-face-intense-crackdown-by-security-forces-ahead-of-u-s-iran-nuclear-talks",
     "mean_score": 0.3009,

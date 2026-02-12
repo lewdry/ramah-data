@@ -1,6 +1,36 @@
 {
-  "last run": "2026-02-12T08:21:02Z",
+  "last run": "2026-02-12T09:23:40Z",
   "stories": [
+    {
+      "headline": "UK economy limps along at 0.1% growth \u2013 but there are reasons for optimism in 2026",
+      "link": "https://www.theguardian.com/business/2026/feb/12/uk-economy-gdp-reasons-for-optimism-analysis",
+      "mean_score": 0.3807,
+      "vader_score": 0.7615,
+      "textblob_score": 0.0,
+      "first_sentence": "Rachel Reeves has suggested 2026 is the year Labour can start to deliver on its economic promises; but 0.1% GDP growth in the final quarter of last year is hardly the springboard she was hoping for.",
+      "timestamp": "2026-02-12T09:14:00Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Super Nintendo by Keza MacDonald review \u2013 a joyful celebration of the gaming giant",
+      "link": "https://www.theguardian.com/books/2026/feb/12/super-nintendo-by-keza-macdonald-review-a-joyful-celebration-of-the-gaming-giant",
+      "mean_score": 0.4991,
+      "vader_score": 0.8316,
+      "textblob_score": 0.1667,
+      "first_sentence": "What is the highest-grossing entertainment franchise of all time? You might be tempted to think of Star Wars, or perhaps the Marvel Cinematic Universe.",
+      "timestamp": "2026-02-12T09:00:43Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Asia shares mostly gain after Wall Street wobbled over strong jobs report",
+      "link": "https://apnews.com/article/stocks-markets-fed-jobs-profit-45f8d8df807d4b7ed9127afc4b5809c9",
+      "mean_score": 0.6513,
+      "vader_score": 0.836,
+      "textblob_score": 0.4667,
+      "first_sentence": "HONG KONG (AP) \u2014 Asia shares were mostly higher Thursday and benchmarks in Japan and South Korea reached new records after Wall Street wobbled following a better-than-expected U.S.",
+      "timestamp": "2026-02-12T08:23:02Z",
+      "source": "AP News"
+    },
     {
       "headline": "Olivia Colman sometimes thinks of herself as a gay man. As a gay man myself, I say \u2013 welcome | Jason Okundaye",
       "link": "https://www.theguardian.com/commentisfree/2026/feb/12/olivia-colman-thinks-herself-gay-man-lgbtq",
@@ -2470,36 +2500,6 @@
       "first_sentence": "There has never been a better time than now for Man, the protagonist of Helen of Nowhere, to be a neo-transcendentalist.",
       "timestamp": "2026-02-06T11:00:06Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "The factors that will decide the Super Bowl: a brilliant receiver, pass protection and explosive plays",
-      "link": "https://www.theguardian.com/sport/2026/feb/06/nfl-super-bowl-seattle-seahawks-new-england-patriots",
-      "mean_score": 0.7412,
-      "vader_score": 0.8658,
-      "textblob_score": 0.6167,
-      "first_sentence": "The Seattle Seahawks\u2019 run game came alive during the second half of the season and postseason.",
-      "timestamp": "2026-02-06T11:00:05Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "How beef made its way to the top of the food pyramid in the US",
-      "link": "https://www.npr.org/2026/02/06/nx-s1-5691672/how-beef-made-its-way-to-the-top-of-the-food-pyramid-in-the-us",
-      "mean_score": 0.3512,
-      "vader_score": 0.2023,
-      "textblob_score": 0.5,
-      "first_sentence": "The American diet has had a roller coaster relationship with beef, but new dietary guidelines from the U.S.",
-      "timestamp": "2026-02-06T09:48:29Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "How beef made its way to the top of the food pyramid in the U.S.",
-      "link": "https://www.npr.org/2026/02/06/nx-s1-5691672/how-beef-made-its-way-to-the-top-of-the-food-pyramid-in-the-u-s",
-      "mean_score": 0.3512,
-      "vader_score": 0.2023,
-      "textblob_score": 0.5,
-      "first_sentence": "The American diet has had a roller coaster relationship with beef, but new dietary guidelines from the U.S.",
-      "timestamp": "2026-02-06T09:48:29Z",
-      "source": "NPR News"
     }
   ]
 }
