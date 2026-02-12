@@ -1,5 +1,35 @@
 [
   {
+    "headline": "AACTA key moments: Gory horror wins best film, Jacob Elordi drama dominates TV",
+    "link": "https://www.abc.net.au/news/2026-02-06/aactas-winners-list-jacob-elordi-key-moments/106315590",
+    "mean_score": 0.4298,
+    "vader_score": 0.6597,
+    "textblob_score": 0.2,
+    "first_sentence": "For the second time in under five years, Australian horror auteurs Danny and Michael Philippou have swept the AACTAs, picking up 10 awards for their 2025 film Bring Her Back.",
+    "timestamp": "2026-02-06T11:52:26Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Why Darren Aronofsky thought an AI-generated historical docudrama was a good idea",
+    "link": "https://arstechnica.com/features/2026/02/why-darren-aronofsky-thought-an-ai-generated-historical-docudrama-was-a-good-idea/",
+    "mean_score": 0.3952,
+    "vader_score": 0.4404,
+    "textblob_score": 0.35,
+    "first_sentence": "Production source says it takes \u201cweeks\u201d to produce just minutes of usable video.",
+    "timestamp": "2026-02-06T11:30:17Z",
+    "source": "Ars Technica"
+  },
+  {
+    "headline": "Helen of Nowhere by Makenna Goodman review \u2013 a perfect fairytale for our times",
+    "link": "https://www.theguardian.com/books/2026/feb/06/helen-of-nowhere-by-makenna-goodman-review-a-perfect-fairytale-for-our-times",
+    "mean_score": 0.7859,
+    "vader_score": 0.5719,
+    "textblob_score": 1.0,
+    "first_sentence": "There has never been a better time than now for Man, the protagonist of Helen of Nowhere, to be a neo-transcendentalist.",
+    "timestamp": "2026-02-06T11:00:06Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "The factors that will decide the Super Bowl: a brilliant receiver, pass protection and explosive plays",
     "link": "https://www.theguardian.com/sport/2026/feb/06/nfl-super-bowl-seattle-seahawks-new-england-patriots",
     "mean_score": 0.7412,

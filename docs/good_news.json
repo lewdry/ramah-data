@@ -1,6 +1,36 @@
 {
-  "last run": "2026-02-12T09:23:40Z",
+  "last run": "2026-02-12T10:23:05Z",
   "stories": [
+    {
+      "headline": "Jordan Stolz opens his bid for 4 golds by winning the 1,000 meters in speedskating",
+      "link": "https://www.npr.org/2026/02/12/g-s1-109752/jordan-stolz-gold-1000-meters",
+      "mean_score": 0.5133,
+      "vader_score": 0.5267,
+      "textblob_score": 0.5,
+      "first_sentence": "MILAN \u2014 Jordan Stolz pictured this moment most of his life, ever since he was 5 and learning to skate on a frozen pond in his Wisconsin backyard after falling in love with speedskating while watching the 2010 Winter Olympics on TV \u2014 and hoping to one day step atop the podium himself.",
+      "timestamp": "2026-02-12T10:02:00Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "The best walking pads and under-desk treadmills, tried and tested to turn your workday into a workout",
+      "link": "https://www.theguardian.com/thefilter/2025/apr/03/best-walking-pads-under-desk-treadmills-uk",
+      "mean_score": 0.8185,
+      "vader_score": 0.6369,
+      "textblob_score": 1.0,
+      "first_sentence": "The Guardian\u2019s journalism is independent.",
+      "timestamp": "2026-02-12T10:00:06Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Top businesswoman says WRU chair must go after 'spineless' regions process",
+      "link": "https://www.bbc.com/news/articles/c39wlplgd2jo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3512,
+      "vader_score": 0.2023,
+      "textblob_score": 0.5,
+      "first_sentence": "One of Wales' most successful businesswomen has joined calls for Welsh Rugby Union chairman Richard Collier-Keywood to resign over its current turmoil.",
+      "timestamp": "2026-02-12T09:47:56Z",
+      "source": "BBC News"
+    },
     {
       "headline": "UK economy limps along at 0.1% growth \u2013 but there are reasons for optimism in 2026",
       "link": "https://www.theguardian.com/business/2026/feb/12/uk-economy-gdp-reasons-for-optimism-analysis",
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.5,
       "first_sentence": "Afterburn by Blake Morrison (Chatto & Windus, \u00a312.99)Best known as a memoirist, Morrison returns to poetry after 11 years with a masterclass of lyric distillation and charged observation, demonstrating that nothing is beneath poetic deliberation.",
       "timestamp": "2026-02-06T12:00:08Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "AACTA key moments: Gory horror wins best film, Jacob Elordi drama dominates TV",
-      "link": "https://www.abc.net.au/news/2026-02-06/aactas-winners-list-jacob-elordi-key-moments/106315590",
-      "mean_score": 0.4298,
-      "vader_score": 0.6597,
-      "textblob_score": 0.2,
-      "first_sentence": "For the second time in under five years, Australian horror auteurs Danny and Michael Philippou have swept the AACTAs, picking up 10 awards for their 2025 film Bring Her Back.",
-      "timestamp": "2026-02-06T11:52:26Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Why Darren Aronofsky thought an AI-generated historical docudrama was a good idea",
-      "link": "https://arstechnica.com/features/2026/02/why-darren-aronofsky-thought-an-ai-generated-historical-docudrama-was-a-good-idea/",
-      "mean_score": 0.3952,
-      "vader_score": 0.4404,
-      "textblob_score": 0.35,
-      "first_sentence": "Production source says it takes \u201cweeks\u201d to produce just minutes of usable video.",
-      "timestamp": "2026-02-06T11:30:17Z",
-      "source": "Ars Technica"
-    },
-    {
-      "headline": "Helen of Nowhere by Makenna Goodman review \u2013 a perfect fairytale for our times",
-      "link": "https://www.theguardian.com/books/2026/feb/06/helen-of-nowhere-by-makenna-goodman-review-a-perfect-fairytale-for-our-times",
-      "mean_score": 0.7859,
-      "vader_score": 0.5719,
-      "textblob_score": 1.0,
-      "first_sentence": "There has never been a better time than now for Man, the protagonist of Helen of Nowhere, to be a neo-transcendentalist.",
-      "timestamp": "2026-02-06T11:00:06Z",
       "source": "The Guardian"
     }
   ]
