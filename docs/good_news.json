@@ -1,6 +1,36 @@
 {
-  "last run": "2026-02-12T21:14:54Z",
+  "last run": "2026-02-12T22:13:05Z",
   "stories": [
+    {
+      "headline": "Terland and Malard set Manchester United on course for last eight in win over Atl\u00e9tico",
+      "link": "https://www.theguardian.com/football/2026/feb/12/atletico-madrid-arsenal-womens-champions-league-match-report",
+      "mean_score": 0.5825,
+      "vader_score": 0.765,
+      "textblob_score": 0.4,
+      "first_sentence": "Manchester United secured an important 3-0 lead in the first leg of their Women\u2019s Champions League playoff against Atl\u00e9tico Madrid.",
+      "timestamp": "2026-02-12T22:02:46Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "What is the Munich Security Conference and why is it important?",
+      "link": "https://www.npr.org/2026/02/12/nx-s1-5698243/what-is-the-munich-security-conference-and-why-is-it-important",
+      "mean_score": 0.447,
+      "vader_score": 0.4939,
+      "textblob_score": 0.4,
+      "first_sentence": "NPR's Mary Louise Kelly speaks with Alexandra de Hoop Scheffer, German Marshall Fund president, ahead of the Munich Security Conference.",
+      "timestamp": "2026-02-12T21:58:51Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "Major sea rescue launched for three climbers on Welsh coast",
+      "link": "https://www.bbc.com/news/articles/c1e975z4qw8o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3579,
+      "vader_score": 0.6533,
+      "textblob_score": 0.0625,
+      "first_sentence": "A major rescue operation has been launched off the Pembrokeshire coast after an incident involving three rock climbers.",
+      "timestamp": "2026-02-12T21:48:07Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Good Luck, Have Fun, Don\u2019t Die review \u2013 AI is the bad guy in lively yet overstuffed caper",
       "link": "https://www.theguardian.com/film/2026/feb/12/good-luck-have-fun-dont-die-movie-review",
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.1932,
       "first_sentence": "Women\u2019s Freeski Slopestyle qualifying: The big news from Livigno Snow Park is that China\u2019s Eileen Gu, a triple medallist at the last Games in Beijing, took a tumble on the first very rail of the course.",
       "timestamp": "2026-02-07T09:48:36Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Live: Aussie Ferlazzo hits luge track, Italy wins historic Olympic gold",
-      "link": "https://www.abc.net.au/news/2026-02-07/winter-olympics-day-one-live-blog-updates-guseli/106317886",
-      "mean_score": 0.3587,
-      "vader_score": 0.5719,
-      "textblob_score": 0.1455,
-      "first_sentence": "Alex Ferlazzo will fly the Australian flag as the men's single luge competition gets underway at the Milano Cortina Olympics.",
-      "timestamp": "2026-02-07T09:29:39Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Never mind the lit-bros: Infinite Jest is a true classic at 30",
-      "link": "https://www.theguardian.com/books/2026/feb/07/never-mind-the-lit-bros-infinite-jest-is-a-true-classic-at-30",
-      "mean_score": 0.3399,
-      "vader_score": 0.4215,
-      "textblob_score": 0.2583,
-      "first_sentence": "I\u2019m not what you might consider Infinite Jest\u2019s target demographic.",
-      "timestamp": "2026-02-07T09:00:58Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Wealthy use loophole to conceal value of \u00a3300m in Scottish land sales",
-      "link": "https://www.theguardian.com/uk-news/2026/feb/07/wealthy-use-loophole-to-conceal-value-of-300m-in-scottish-land-sales",
-      "mean_score": 0.5497,
-      "vader_score": 0.5994,
-      "textblob_score": 0.5,
-      "first_sentence": "Land reform campaigners are alarmed at the increasing use of a legal loophole that allows landowners to conceal the price paid for Highland estates from the public register.",
-      "timestamp": "2026-02-07T07:00:55Z",
       "source": "The Guardian"
     }
   ]
