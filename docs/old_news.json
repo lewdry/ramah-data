@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Finding Harmony: A King\u2019s Vision review \u2013 there\u2019s a bizarre moment where it\u2019s like Charles has taken acid",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/feb/06/finding-harmony-a-kings-vision-review-charles-jeff-bezos-amazon-prime-video",
+    "mean_score": 0.4997,
+    "vader_score": 0.5994,
+    "textblob_score": 0.4,
+    "first_sentence": "We find ourselves at an interesting moment in the streaming wars; one where Amazon\u2019s programming policy has apparently shifted to simply giving a massive platform to authority.",
+    "timestamp": "2026-02-06T05:01:00Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Experience: I am the Excel world champion",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/feb/06/experience-i-am-the-excel-world-champion",
+    "mean_score": 0.3922,
+    "vader_score": 0.7845,
+    "textblob_score": 0.0,
+    "first_sentence": "Growing up in Waterford, south-east Ireland, I\u00a0was always good at maths.",
+    "timestamp": "2026-02-06T05:00:00Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Macau\u2019s Grand Emperor hotel rips up lobby floor to sell off gold bricks",
+    "link": "https://www.theguardian.com/world/2026/feb/06/macau-grand-emperor-hotel-lobby-gold-bricks",
+    "mean_score": 0.4884,
+    "vader_score": 0.4767,
+    "textblob_score": 0.5,
+    "first_sentence": "The Grand Emperor hotel in Macau has ripped up and sold the gold bricks lining its lobby floor, earning nearly $13m (\u00a39.6m) amid a rise in the metal\u2019s value due to turbulent geopolitical conditions.",
+    "timestamp": "2026-02-06T04:48:20Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Top government figures to hand over private messages with Mandelson",
+    "link": "https://www.bbc.com/news/articles/c0q4jk5pnl9o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4312,
+    "vader_score": 0.6124,
+    "textblob_score": 0.25,
+    "first_sentence": "Senior figures in Sir Keir Starmer's government are preparing to hand over tranches of their electronic communications with Lord Mandelson ahead of the release of evidence about his appointment as US ambassador.",
+    "timestamp": "2026-02-06T04:35:25Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Indonesian teachers paid $170 per month as education funds go to free meals",
     "link": "https://www.abc.net.au/news/2026-02-06/indonesia-government-directs-education-funds-to-free-meals/106307002",
     "mean_score": 0.4553,

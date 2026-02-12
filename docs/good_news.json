@@ -1,6 +1,36 @@
 {
-  "last run": "2026-02-11T23:14:20Z",
+  "last run": "2026-02-12T00:42:38Z",
   "stories": [
+    {
+      "headline": "The Dutch love four-day working weeks, but are they sustainable?",
+      "link": "https://www.bbc.com/news/articles/cx2y85xdyw3o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4409,
+      "vader_score": 0.3818,
+      "textblob_score": 0.5,
+      "first_sentence": "The Dutch have quietly adopted working just a four-day week.",
+      "timestamp": "2026-02-12T00:00:05Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "'Mum said go get help': Heroic 13-year-old's triple-zero call released",
+      "link": "https://www.sbs.com.au/news/article/heroic-13-year-olds-triple-zero-call-released/s51dtw27i",
+      "mean_score": 0.7215,
+      "vader_score": 0.743,
+      "textblob_score": 0.7,
+      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+      "timestamp": "2026-02-11T23:39:13Z",
+      "source": "SBS News"
+    },
+    {
+      "headline": "Quick hits: Banned helmets, successful surgery and maple syrup power",
+      "link": "https://www.abc.net.au/news/2026-02-12/winter-olympics-2026-day-five-quick-hits-vonn-helmet/106334002",
+      "mean_score": 0.372,
+      "vader_score": 0.2023,
+      "textblob_score": 0.5417,
+      "first_sentence": "A Ukrainian athlete is refusing to back down over a controversial helmet featuring the dead, Lindsey Vonn has a third surgery, and maple syrup has powered Ryan Cochran-Siegle to another medal.",
+      "timestamp": "2026-02-11T23:37:11Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Australia politics live: Angus Taylor confirms leadership challenge promising \u2018clarity, courage and confidence\u2019 after spill motion delivered to Ley",
       "link": "https://www.theguardian.com/australia-news/live/2026/feb/12/australia-politics-live-liberals-leadership-spill-challenge-angus-taylor-sussan-ley-libspill-question-time-anthony-albanese-senate-estimates-ntwnfb",
@@ -60,6 +90,16 @@
       "first_sentence": "MILAN (AP) \u2014 Franjo von Allmen of Switzerland looks like a breakout star of the Milan Cortina Olympics after winning his third gold medal.",
       "timestamp": "2026-02-11T20:23:01Z",
       "source": "AP News"
+    },
+    {
+      "headline": "Live: Taylor confirms leadership challenge as prominent Liberals desert Ley",
+      "link": "https://www.abc.net.au/news/2026-02-12/federal-politics-live-blog-sussan-ley/106333952",
+      "mean_score": 0.35,
+      "vader_score": 0.3818,
+      "textblob_score": 0.3182,
+      "first_sentence": "Angus Taylor has confirmed in a social media video that he will challenge Sussan Ley for the Liberal leadership.",
+      "timestamp": "2026-02-11T20:06:22Z",
+      "source": "ABC News"
     },
     {
       "headline": "Showers and thunderstorms to cool south-east Queensland amid heatwave",
@@ -2460,46 +2500,6 @@
       "first_sentence": "When celebrity cook Nagi Maehashi's announced this week she was taking a step back from work to care for her beloved dog, Dozer, she had an overwhelming response to the news.",
       "timestamp": "2026-02-06T05:32:08Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Finding Harmony: A King\u2019s Vision review \u2013 there\u2019s a bizarre moment where it\u2019s like Charles has taken acid",
-      "link": "https://www.theguardian.com/tv-and-radio/2026/feb/06/finding-harmony-a-kings-vision-review-charles-jeff-bezos-amazon-prime-video",
-      "mean_score": 0.4997,
-      "vader_score": 0.5994,
-      "textblob_score": 0.4,
-      "first_sentence": "We find ourselves at an interesting moment in the streaming wars; one where Amazon\u2019s programming policy has apparently shifted to simply giving a massive platform to authority.",
-      "timestamp": "2026-02-06T05:01:00Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Experience: I am the Excel world champion",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/feb/06/experience-i-am-the-excel-world-champion",
-      "mean_score": 0.3922,
-      "vader_score": 0.7845,
-      "textblob_score": 0.0,
-      "first_sentence": "Growing up in Waterford, south-east Ireland, I\u00a0was always good at maths.",
-      "timestamp": "2026-02-06T05:00:00Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Macau\u2019s Grand Emperor hotel rips up lobby floor to sell off gold bricks",
-      "link": "https://www.theguardian.com/world/2026/feb/06/macau-grand-emperor-hotel-lobby-gold-bricks",
-      "mean_score": 0.4884,
-      "vader_score": 0.4767,
-      "textblob_score": 0.5,
-      "first_sentence": "The Grand Emperor hotel in Macau has ripped up and sold the gold bricks lining its lobby floor, earning nearly $13m (\u00a39.6m) amid a rise in the metal\u2019s value due to turbulent geopolitical conditions.",
-      "timestamp": "2026-02-06T04:48:20Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Top government figures to hand over private messages with Mandelson",
-      "link": "https://www.bbc.com/news/articles/c0q4jk5pnl9o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4312,
-      "vader_score": 0.6124,
-      "textblob_score": 0.25,
-      "first_sentence": "Senior figures in Sir Keir Starmer's government are preparing to hand over tranches of their electronic communications with Lord Mandelson ahead of the release of evidence about his appointment as US ambassador.",
-      "timestamp": "2026-02-06T04:35:25Z",
-      "source": "BBC News"
     }
   ]
 }
