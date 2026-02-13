@@ -1,5 +1,55 @@
 [
   {
+    "headline": "Speedskater Francesca Lollobrigida wins host Italy\u2019s first gold medal of the Milan Cortina Olympics",
+    "link": "https://apnews.com/article/milan-cortina-olympics-speedskating-lollobrigida-3403f4d0378c2b0e1f955160e3fc9182",
+    "mean_score": 0.5267,
+    "vader_score": 0.7783,
+    "textblob_score": 0.275,
+    "first_sentence": "MILAN (AP) \u2014 Speedskater Francesca Lollobrigida won host Italy\u2019s first gold medal of the Milan Cortina Games on Saturday, taking the women\u2019s 3,000 meters in an Olympics-record time.",
+    "timestamp": "2026-02-07T17:23:01Z",
+    "source": "AP News"
+  },
+  {
+    "headline": "The 'reclusive spinster' artist who shunned conformity and embraced freedom",
+    "link": "https://www.bbc.com/news/articles/cqj2ny0x7g7o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3185,
+    "vader_score": 0.6369,
+    "textblob_score": 0.0,
+    "first_sentence": "Gwen John lived her life refusing to bow to what was expected of a woman born in the Victorian era.",
+    "timestamp": "2026-02-07T15:40:30Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Avocados are a Super Bowl staple \u2013 but are they truly a miracle food?",
+    "link": "https://www.theguardian.com/wellness/2026/feb/07/are-avocados-healthy-super-bowl",
+    "mean_score": 0.6217,
+    "vader_score": 0.91,
+    "textblob_score": 0.3333,
+    "first_sentence": "Americans are expected to devour nearly 280m pounds of avocados during Super Bowl weekend.",
+    "timestamp": "2026-02-07T15:00:05Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Fernandes keeps Carrick\u2019s perfect Manchester United record intact after Romero red card",
+    "link": "https://www.theguardian.com/football/2026/feb/07/manchester-united-tottenham-hotspur-premier-league-match-report",
+    "mean_score": 0.6537,
+    "vader_score": 0.8074,
+    "textblob_score": 0.5,
+    "first_sentence": "Michael Carrick\u2019s Manchester United revival has a fourth consecutive league win, while Thomas Frank\u2019s Tottenham sink further, with still no victory in the competition in 2026.",
+    "timestamp": "2026-02-07T14:43:38Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "'She can win': Lindsey Vonn\u2019s improbable comeback is another risk she\u2019s ready to take",
+    "link": "https://www.theguardian.com/sport/2026/feb/07/lindsey-vonn-acl-olympics-downhill-medal",
+    "mean_score": 0.5685,
+    "vader_score": 0.6369,
+    "textblob_score": 0.5,
+    "first_sentence": "It was all going a little too easy for Lindsey Vonn.",
+    "timestamp": "2026-02-07T14:29:24Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Bangers and smash: Von Allmen wins first gold of Winter Olympics to fulfil butcher\u2019s dream",
     "link": "https://www.theguardian.com/sport/2026/feb/07/swiss-downhill-racer-von-allmen-edges-out-italians-to-win-first-gold-of-winter-olympics",
     "mean_score": 0.4829,

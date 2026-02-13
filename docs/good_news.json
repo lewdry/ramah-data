@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-12T23:12:08Z",
+  "last run": "2026-02-13T00:45:16Z",
   "stories": [
+    {
+      "headline": "Break in the grey as Aberdeen sees sunshine for the first time in 21 days",
+      "link": "https://www.theguardian.com/uk-news/2026/feb/12/aberdeen-sees-sunshine-first-time-in-21-days",
+      "mean_score": 0.3133,
+      "vader_score": 0.5267,
+      "textblob_score": 0.1,
+      "first_sentence": "Aberdeen has finally had some sunshine, for the first time in 21 days \u2013 marking the end of the longest sunless period in the area since Met Office records began in 1957.",
+      "timestamp": "2026-02-12T23:08:47Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Medal tally: Australia ahead of China and Canada after first gold",
+      "link": "https://www.abc.net.au/news/2026-02-13/winter-olympics-2026-milano-cortina-medal-tally/106339814",
+      "mean_score": 0.3634,
+      "vader_score": 0.4767,
+      "textblob_score": 0.25,
+      "first_sentence": "Australia now features on the medal tally for the 2026 Winter Olympics.",
+      "timestamp": "2026-02-12T23:02:59Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Australia politics live: Angus Taylor becomes new Liberal leader as Sussan Ley deposed after nine months; Jane Hume wins deputy role",
       "link": "https://www.theguardian.com/australia-news/live/2026/feb/13/australia-politics-live-liberals-leadership-spill-vote-angus-taylor-sussan-ley-libspill-anthony-albanese-indigenous-apology-anniversary-ntwnfb",
@@ -20,6 +40,16 @@
       "first_sentence": "In her first public comments as Liberal leader, Sussan Ley spoke of reviving and re-orientating a party that was reeling from a second catastrophic election defeat.",
       "timestamp": "2026-02-12T22:50:48Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "What is the SAVE America Act that mandates voter ID?",
+      "link": "https://www.bbc.com/news/articles/crk845r4vlyo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3019,
+      "vader_score": 0.6037,
+      "textblob_score": 0.0,
+      "first_sentence": "The US House of Representatives this week passed legislation that would require voters to provide proof-of-citizenship as the midterm elections approach.",
+      "timestamp": "2026-02-12T22:40:56Z",
+      "source": "BBC News"
     },
     {
       "headline": "Germany's far right political party, the AFD, is at the Munich Security Conference",
@@ -59,6 +89,16 @@
       "textblob_score": 0.4,
       "first_sentence": "NPR's Mary Louise Kelly speaks with Alexandra de Hoop Scheffer, German Marshall Fund president, ahead of the Munich Security Conference.",
       "timestamp": "2026-02-12T21:58:51Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "Chloe Kim's prot\u00e9g\u00e9 foiled her Olympic three-peat dreams. She's celebrating anyway",
+      "link": "https://www.npr.org/2026/02/12/nx-s1-5712749/chloe-kim-snowboard-medal-gaon-choi-olympics",
+      "mean_score": 0.3753,
+      "vader_score": 0.7506,
+      "textblob_score": 0.0,
+      "first_sentence": "Want more Olympics updates?\u00a0Subscribe here\u00a0to get our newsletter,\u00a0Rachel Goes to the Games, delivered to your inbox for a behind-the-scenes look at the 2026 Milan Cortina Winter Olympics.",
+      "timestamp": "2026-02-12T21:50:45Z",
       "source": "NPR News"
     },
     {
@@ -480,6 +520,16 @@
       "first_sentence": "Support is firming for Angus Taylor to topple Opposition Leader Sussan Ley, as more MPs abandon the shadow ministry.",
       "timestamp": "2026-02-12T05:17:59Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "'Smartest policy brain' or controversial deal-maker: Who is the real Angus Taylor?",
+      "link": "https://www.sbs.com.au/news/article/who-is-angus-taylor-the-man-taking-on-sussan-ley-ahead-of-liberal-leadership-showdown/pqndd5kxm",
+      "mean_score": 0.4345,
+      "vader_score": 0.4939,
+      "textblob_score": 0.375,
+      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+      "timestamp": "2026-02-12T05:16:51Z",
+      "source": "SBS News"
     },
     {
       "headline": "Support builds for Angus Taylor after launching Liberal party leadership challenge against Sussan Ley",
@@ -2449,56 +2499,6 @@
       "textblob_score": 0.9,
       "first_sentence": "There was, in the end, no shock \u2013 but there was not a lot of awe either.",
       "timestamp": "2026-02-07T17:48:30Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Speedskater Francesca Lollobrigida wins host Italy\u2019s first gold medal of the Milan Cortina Olympics",
-      "link": "https://apnews.com/article/milan-cortina-olympics-speedskating-lollobrigida-3403f4d0378c2b0e1f955160e3fc9182",
-      "mean_score": 0.5267,
-      "vader_score": 0.7783,
-      "textblob_score": 0.275,
-      "first_sentence": "MILAN (AP) \u2014 Speedskater Francesca Lollobrigida won host Italy\u2019s first gold medal of the Milan Cortina Games on Saturday, taking the women\u2019s 3,000 meters in an Olympics-record time.",
-      "timestamp": "2026-02-07T17:23:01Z",
-      "source": "AP News"
-    },
-    {
-      "headline": "The 'reclusive spinster' artist who shunned conformity and embraced freedom",
-      "link": "https://www.bbc.com/news/articles/cqj2ny0x7g7o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3185,
-      "vader_score": 0.6369,
-      "textblob_score": 0.0,
-      "first_sentence": "Gwen John lived her life refusing to bow to what was expected of a woman born in the Victorian era.",
-      "timestamp": "2026-02-07T15:40:30Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Avocados are a Super Bowl staple \u2013 but are they truly a miracle food?",
-      "link": "https://www.theguardian.com/wellness/2026/feb/07/are-avocados-healthy-super-bowl",
-      "mean_score": 0.6217,
-      "vader_score": 0.91,
-      "textblob_score": 0.3333,
-      "first_sentence": "Americans are expected to devour nearly 280m pounds of avocados during Super Bowl weekend.",
-      "timestamp": "2026-02-07T15:00:05Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Fernandes keeps Carrick\u2019s perfect Manchester United record intact after Romero red card",
-      "link": "https://www.theguardian.com/football/2026/feb/07/manchester-united-tottenham-hotspur-premier-league-match-report",
-      "mean_score": 0.6537,
-      "vader_score": 0.8074,
-      "textblob_score": 0.5,
-      "first_sentence": "Michael Carrick\u2019s Manchester United revival has a fourth consecutive league win, while Thomas Frank\u2019s Tottenham sink further, with still no victory in the competition in 2026.",
-      "timestamp": "2026-02-07T14:43:38Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "'She can win': Lindsey Vonn\u2019s improbable comeback is another risk she\u2019s ready to take",
-      "link": "https://www.theguardian.com/sport/2026/feb/07/lindsey-vonn-acl-olympics-downhill-medal",
-      "mean_score": 0.5685,
-      "vader_score": 0.6369,
-      "textblob_score": 0.5,
-      "first_sentence": "It was all going a little too easy for Lindsey Vonn.",
-      "timestamp": "2026-02-07T14:29:24Z",
       "source": "The Guardian"
     }
   ]
