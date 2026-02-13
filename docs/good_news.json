@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-13T03:11:21Z",
+  "last run": "2026-02-13T04:44:15Z",
   "stories": [
+    {
+      "headline": "'Nobody is safe' from watchful gaze of Bald Archies satirical art prize",
+      "link": "https://www.abc.net.au/news/2026-02-13/bald-archy-prize-reveals-politics-crime-and-bob-irwin/106340644",
+      "mean_score": 0.6176,
+      "vader_score": 0.7351,
+      "textblob_score": 0.5,
+      "first_sentence": "In years past, the satirical Bald Archy Prize has helped to synthesise the previous 12 months into a defining theme or moment.",
+      "timestamp": "2026-02-13T03:45:28Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "How is the Lunar New Year of the Horse celebrated in Australia?",
+      "link": "https://www.abc.net.au/news/2026-02-13/how-lunar-new-year-of-the-horse-is-celebrated-in-australia/106295942",
+      "mean_score": 0.4075,
+      "vader_score": 0.5719,
+      "textblob_score": 0.2432,
+      "first_sentence": "The horse is known for its speed, stamina and stubborn streak.",
+      "timestamp": "2026-02-13T03:02:00Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Bangladesh election: BNP claims win in historic first election since overthrow of Hasina",
       "link": "https://www.theguardian.com/world/2026/feb/13/bangladesh-election-bnp-wins",
@@ -10,6 +30,16 @@
       "first_sentence": "The Bangladesh Nationalist party (BNP) led by Tarique Rahman has claimed a sweeping victory in the country\u2019s first election since a gen-Z uprising toppled the autocratic regime of Sheikh Hasina.",
       "timestamp": "2026-02-13T02:51:29Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "A heart transplant reminded Keith how important his mates were",
+      "link": "https://www.abc.net.au/news/2026-02-13/organisations-branch-out-help-mens-mental-health-rural-nsw/106332542",
+      "mean_score": 0.5592,
+      "vader_score": 0.7184,
+      "textblob_score": 0.4,
+      "first_sentence": "Farmer Keith Cowen was alone on his remote New South Wales property when he suffered a heart attack eight years ago.",
+      "timestamp": "2026-02-13T00:58:18Z",
+      "source": "ABC News"
     },
     {
       "headline": "Australia's Liberal Party ousts first woman leader",
@@ -2470,36 +2500,6 @@
       "first_sentence": "Australia's rugby sevens men are rallying around Will Cartwright after the 22-year-old dislocated his shoulder in the opening minutes of their hoodoo-busting 21-14 win over New Zealand in the world series event in Perth.",
       "timestamp": "2026-02-07T19:25:49Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "The Super Bowl half-time shows that became controversial flashpoints",
-      "link": "https://www.abc.net.au/news/2026-02-08/super-bowl-half-time-show-janet-jackson-justin-timberlake/106307184",
-      "mean_score": 0.4592,
-      "vader_score": 0.4767,
-      "textblob_score": 0.4417,
-      "first_sentence": "For a show that lasts roughly 13 minutes, the Super Bowl half-time performance has fuelled decades of controversy.",
-      "timestamp": "2026-02-07T19:00:28Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "On the streets of Melbourne: wild and wonderful people by Hussein Abdirahman Mohamud \u2013 in pictures",
-      "link": "https://www.theguardian.com/artanddesign/gallery/2026/feb/08/street-hussein-abdirahman-mohamud-melbourne-photos",
-      "mean_score": 0.561,
-      "vader_score": 0.5719,
-      "textblob_score": 0.55,
-      "first_sentence": "STREET by Hussein Abdirahman Mohamud is a zine published by the Centre for Contemporary Photography and Perimeter Editions, and is part of the CCP.",
-      "timestamp": "2026-02-07T19:00:11Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "How the Sydney Gay and Lesbian Mardi Gras after party fell apart",
-      "link": "https://www.theguardian.com/australia-news/2026/feb/08/sydney-gay-lesbian-mardi-gras-after-party-cancelled-how-it-fell-apart",
-      "mean_score": 0.4093,
-      "vader_score": 0.4019,
-      "textblob_score": 0.4167,
-      "first_sentence": "As the annual Sydney Gay and Lesbian Mardi Gras protest parade reaches the end of Oxford Street each year and moves into the Entertainment Quarter, it turns into a party.",
-      "timestamp": "2026-02-07T19:00:10Z",
-      "source": "The Guardian"
     }
   ]
 }

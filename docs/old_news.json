@@ -1,5 +1,35 @@
 [
   {
+    "headline": "The Super Bowl half-time shows that became controversial flashpoints",
+    "link": "https://www.abc.net.au/news/2026-02-08/super-bowl-half-time-show-janet-jackson-justin-timberlake/106307184",
+    "mean_score": 0.4592,
+    "vader_score": 0.4767,
+    "textblob_score": 0.4417,
+    "first_sentence": "For a show that lasts roughly 13 minutes, the Super Bowl half-time performance has fuelled decades of controversy.",
+    "timestamp": "2026-02-07T19:00:28Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "On the streets of Melbourne: wild and wonderful people by Hussein Abdirahman Mohamud \u2013 in pictures",
+    "link": "https://www.theguardian.com/artanddesign/gallery/2026/feb/08/street-hussein-abdirahman-mohamud-melbourne-photos",
+    "mean_score": 0.561,
+    "vader_score": 0.5719,
+    "textblob_score": 0.55,
+    "first_sentence": "STREET by Hussein Abdirahman Mohamud is a zine published by the Centre for Contemporary Photography and Perimeter Editions, and is part of the CCP.",
+    "timestamp": "2026-02-07T19:00:11Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "How the Sydney Gay and Lesbian Mardi Gras after party fell apart",
+    "link": "https://www.theguardian.com/australia-news/2026/feb/08/sydney-gay-lesbian-mardi-gras-after-party-cancelled-how-it-fell-apart",
+    "mean_score": 0.4093,
+    "vader_score": 0.4019,
+    "textblob_score": 0.4167,
+    "first_sentence": "As the annual Sydney Gay and Lesbian Mardi Gras protest parade reaches the end of Oxford Street each year and moves into the Entertainment Quarter, it turns into a party.",
+    "timestamp": "2026-02-07T19:00:10Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Arundell hat-trick fires England to emphatic Six Nations win against Wales",
     "link": "https://www.theguardian.com/sport/2026/feb/07/england-wales-six-nations-match-report",
     "mean_score": 0.6929,
