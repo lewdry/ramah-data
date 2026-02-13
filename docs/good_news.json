@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-13T13:32:33Z",
+  "last run": "2026-02-13T14:22:15Z",
   "stories": [
+    {
+      "headline": "Breaking: Australia's Josie Baff claims stunning snowboard cross gold at Winter Olympics",
+      "link": "https://www.abc.net.au/news/2026-02-14/snowboard-cross-2026-winter-olympics/106343706",
+      "mean_score": 0.3159,
+      "vader_score": 0.3818,
+      "textblob_score": 0.25,
+      "first_sentence": "Josie Baff has produced a stunning display to win gold in the women's snowboard cross at the 2026 Milano Cortina Winter Olympic Games.",
+      "timestamp": "2026-02-13T14:14:18Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Michael Kors celebrates 45-year career by toasting chic women of New York",
+      "link": "https://www.theguardian.com/fashion/2026/feb/13/michael-kors-45-years-celebrating-chic-women-new-york-fashion-week",
+      "mean_score": 0.4183,
+      "vader_score": 0.7003,
+      "textblob_score": 0.1364,
+      "first_sentence": "Five years ago, Covid prevented Michael Kors celebrating 40 years as a fashion designer, so nothing was going to stop him partying when that figure reached 45.",
+      "timestamp": "2026-02-13T13:49:18Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Winter Olympics 2026: Kl\u00e6bo seals golden treble; GB medal drought goes on \u2013 live",
       "link": "https://www.theguardian.com/sport/live/2026/feb/13/winter-olympics-2026-seven-gold-medals-up-for-grabs-gb-look-to-end-medal-drought-and-more-live",
@@ -9,6 +29,16 @@
       "textblob_score": 0.2182,
       "first_sentence": "Klaebo is now the joint most decorated Winter Olympian in history! And there are three more chances of gold to come, in the men\u2019s relay, men\u2019s team sprint and 50k marathon.",
       "timestamp": "2026-02-13T13:28:13Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018I didn\u2019t know who I was\u2019: Tom Misch on fame burnout, becoming a barista \u2013 and returning to music",
+      "link": "https://www.theguardian.com/music/2026/feb/13/tom-misch-music-interview-new-album-full-circle-sisters-with-me",
+      "mean_score": 0.4452,
+      "vader_score": 0.4404,
+      "textblob_score": 0.45,
+      "first_sentence": "In 2022, everything changed for Tom Misch.",
+      "timestamp": "2026-02-13T13:00:24Z",
       "source": "The Guardian"
     },
     {
@@ -70,6 +100,16 @@
       "first_sentence": "\u201cIt takes 60m years and about six hours to make a curling stone,\u201d shouts Ricky English above the whine of the lathes.",
       "timestamp": "2026-02-13T09:00:38Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "Live: Baff claims Australia's second gold with stunning snowboard cross win",
+      "link": "https://www.abc.net.au/news/2026-02-13/winter-olympics-2026-live-milano-cortina-scotty-james/106340876",
+      "mean_score": 0.5189,
+      "vader_score": 0.7506,
+      "textblob_score": 0.2873,
+      "first_sentence": "Australia's Josie Baff has stormed to victory in the women's snowboard cross at the Milano Cortina Winter Olympics.",
+      "timestamp": "2026-02-13T08:41:31Z",
+      "source": "ABC News"
     },
     {
       "headline": "Giving votes to 16-year-olds would be a win for Labour \u2013 and our country | Polly Toynbee",
@@ -2460,46 +2500,6 @@
       "first_sentence": "Labour will introduce legislation to lower the minimum age for train drivers to 18 in the House of Commons this week, as figures show fewer than 3% of drivers on Great Britain\u2019s railways are under 30.",
       "timestamp": "2026-02-08T16:53:46Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Crystal Palace end long wait for win after Isma\u00efla Sarr\u2019s strike stuns Brighton",
-      "link": "https://www.theguardian.com/football/2026/feb/08/brighton-crystal-palace-premier-league-match-report",
-      "mean_score": 0.4508,
-      "vader_score": 0.5267,
-      "textblob_score": 0.375,
-      "first_sentence": "Fabian H\u00fcrzeler must be wondering when he will have another chance to get one over Oliver Glasner.",
-      "timestamp": "2026-02-08T16:22:32Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018It\u2019s sacred and transformative\u2019: Somerset holds Saxon-inspired festival to embrace \u2018month of mud\u2019",
-      "link": "https://www.theguardian.com/environment/2026/feb/08/somerset-festival-anglo-saxon-mud-environment",
-      "mean_score": 0.3352,
-      "vader_score": 0.6705,
-      "textblob_score": 0.0,
-      "first_sentence": "A misty, rainy day in the uplands of Somerset and the mud was thick and sticky.",
-      "timestamp": "2026-02-08T15:00:33Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Japan election: Sanae Takaichi\u2019s ruling conservatives on course for landslide win",
-      "link": "https://www.theguardian.com/world/2026/feb/08/japan-election-conservatives-victory-sanae-takaichi",
-      "mean_score": 0.6929,
-      "vader_score": 0.5859,
-      "textblob_score": 0.8,
-      "first_sentence": "Japan\u2019s conservative governing party is on course to dramatically strengthen its grip on power after exit polls predicted a landslide victory in Sunday\u2019s elections, in what will be seen as an early public endorsement of the new prime minister, Sanae Takaichi.",
-      "timestamp": "2026-02-08T14:33:01Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Drake Maye and the Patriots take on Sam Darnold and the Seahawks in Super Bowl 60",
-      "link": "https://apnews.com/article/super-bowl-seahawks-patriots-24ad67503a342a7e24348e66986250ab",
-      "mean_score": 0.4664,
-      "vader_score": 0.5994,
-      "textblob_score": 0.3333,
-      "first_sentence": "SANTA CLARA, Calif.",
-      "timestamp": "2026-02-08T13:53:02Z",
-      "source": "AP News"
     }
   ]
 }
