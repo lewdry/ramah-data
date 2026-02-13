@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Thai PM confident of forming government in three-way election count",
+    "link": "https://www.abc.net.au/news/2026-02-09/thailand-election-result-anutin-results/106320270",
+    "mean_score": 0.497,
+    "vader_score": 0.4939,
+    "textblob_score": 0.5,
+    "first_sentence": "Preliminary results in Thailand's general election shows the conservative Bhumjaithai Party with a sizeable lead over the progressive People's Party and the Pheu Thai Party.",
+    "timestamp": "2026-02-08T19:06:16Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Manchester City keep up title chase with late comeback win at Liverpool",
+    "link": "https://www.theguardian.com/football/2026/feb/08/liverpool-manchester-city-premier-league-match-report",
+    "mean_score": 0.4179,
+    "vader_score": 0.5859,
+    "textblob_score": 0.25,
+    "first_sentence": "Pep Guardiola threw himself back into his seat in the dugout.",
+    "timestamp": "2026-02-08T18:50:09Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "'Easy and cheaper': Why a growing number of Australians are adopting this niche lifestyle",
     "link": "https://www.sbs.com.au/news/insight/article/is-living-off-grid-actually-cheaper/659x148w4",
     "mean_score": 0.5164,
