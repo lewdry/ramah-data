@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Live: Surprise appearances from Gaga and Ricky Martin in Super Bowl half-time show",
+    "link": "https://www.abc.net.au/news/2026-02-09/super-bowl-lx-live-blog-seahawks-vs-patriots-bad-bunny/106320762",
+    "mean_score": 0.4766,
+    "vader_score": 0.7184,
+    "textblob_score": 0.2348,
+    "first_sentence": "The Seahawks and Patriots meet in the Super Bowl in a rematch of a thrilling clash 11 years ago that ended in an iconic finish for the ages.",
+    "timestamp": "2026-02-08T22:29:40Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Cotton processing in northern WA an 'excellent' success after first season",
+    "link": "https://www.abc.net.au/news/2026-02-09/kimberley-growers-wrap-up-first-season-processing-cotton-locally/106303718",
+    "mean_score": 0.6646,
+    "vader_score": 0.8126,
+    "textblob_score": 0.5167,
+    "first_sentence": "The Ord Valley's first season of local cotton processing in Western Australia's north has come to an end after a record-breaking harvest.",
+    "timestamp": "2026-02-08T22:23:44Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Centre-left candidate poised to comfortably win Portuguese presidency",
+    "link": "https://www.bbc.com/news/articles/cdxg6rqge2lo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.8113,
+    "vader_score": 0.8225,
+    "textblob_score": 0.8,
+    "first_sentence": "Centre-left candidate Ant\u00f3nio Jos\u00e9 Seguro is poised to comfortably beat his far-right rival to the Portuguese presidency after a run-off vote.",
+    "timestamp": "2026-02-08T21:47:38Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Super Bowl 2026: Seattle Seahawks v New England Patriots \u2013 live",
+    "link": "https://www.theguardian.com/sport/live/2026/feb/08/super-bowl-2026-seattle-seahawks-new-england-patriots-live-score",
+    "mean_score": 0.4007,
+    "vader_score": 0.5994,
+    "textblob_score": 0.202,
+    "first_sentence": "Latest scores as teams meet for NFL title at Levi\u2019s StadiumPredictions: Our writers\u2019 picks for the winner, MVP and moreEmail david.",
+    "timestamp": "2026-02-08T21:04:10Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Landslide win beckons for centre-left candidate in Portugal\u2019s presidential runoff",
     "link": "https://www.theguardian.com/world/2026/feb/08/portugal-election-seguro-ventura-presidential-runoff",
     "mean_score": 0.6929,
