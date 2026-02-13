@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-13T22:14:21Z",
+  "last run": "2026-02-13T23:14:33Z",
   "stories": [
+    {
+      "headline": "Ilia Malinin, figure skater favored for gold, finishes 8th",
+      "link": "https://www.npr.org/2026/02/13/nx-s1-5713991/ilia-malinin-mikhail-shaidorov-figure-skating-olympics",
+      "mean_score": 0.6108,
+      "vader_score": 0.4215,
+      "textblob_score": 0.8,
+      "first_sentence": "Want more Olympics updates?\u00a0Subscribe here\u00a0to get our newsletter,\u00a0Rachel Goes to the Games, delivered to your inbox for a behind-the-scenes look at the 2026 Milan Cortina Winter Olympics.",
+      "timestamp": "2026-02-13T22:50:47Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "Sunny Dancer review \u2013 \u2018chemo camp\u2019 gives teen drama a fresh spin",
+      "link": "https://www.theguardian.com/film/2026/feb/13/sunny-dancer-review-chemo-camp-bella-ramsey",
+      "mean_score": 0.3875,
+      "vader_score": 0.6249,
+      "textblob_score": 0.15,
+      "first_sentence": "Bella Ramsey leads the cast of this likable coming-of-age movie from 26-year-old actor-turned-director George Jaques about a summer camp for teens with cancer.",
+      "timestamp": "2026-02-13T22:02:31Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Easy, tasty and nutritious recipes for sharing this Ramadan",
       "link": "https://www.abc.net.au/news/2026-02-14/easy-tasty-and-nutritious-recipes-for-sharing-this-ramadan/106331120",
@@ -10,6 +30,16 @@
       "first_sentence": "The holy month of Ramadan begins this week and is, for many Muslims, a looked-forward-to period of reflection, prayer and time with loved ones.",
       "timestamp": "2026-02-13T22:00:00Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "Pedro Neto fires hat-trick as Chelsea provide Rosenior with happy return to Hull",
+      "link": "https://www.theguardian.com/football/2026/feb/13/hull-city-chelsea-fa-cup-fourth-round-match-report",
+      "mean_score": 0.686,
+      "vader_score": 0.5719,
+      "textblob_score": 0.8,
+      "first_sentence": "With sleet, snow, swirling wind from the banks of the Humber and most importantly, a Hull City side pushing hard for promotion to the Premier League this season, it was hard not to believe pre-match that this had all the makings of a difficult evening\u2019s work for Chelsea.",
+      "timestamp": "2026-02-13T21:57:32Z",
+      "source": "The Guardian"
     },
     {
       "headline": "Push to boost lesson prep time for NSW teachers, as unpaid overtime grows",
@@ -2470,36 +2500,6 @@
       "first_sentence": "Nagi Maehashi, the celebrated cook behind RecipeTin Eats, has announced the death of her beloved canine companion, Dozer, on Sunday, saying the cover star of her bestselling cookbooks would be missed \u201cforever\u201d.",
       "timestamp": "2026-02-09T01:12:59Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Should Australia welcome Isaac Herzog? | First Dog on the Moon",
-      "link": "https://www.theguardian.com/commentisfree/picture/2026/feb/09/should-australia-welcome-isaac-herzog",
-      "mean_score": 0.4919,
-      "vader_score": 0.4588,
-      "textblob_score": 0.525,
-      "first_sentence": "Will banning protests keep us safe? Sign up here to get an email whenever First Dog cartoons are publishedGet all your needs met at the First Dog shop if what you need is First Dog merchandise and prints Continue reading.",
-      "timestamp": "2026-02-09T00:15:22Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Search ends for 'very loved' Gold Coast fisherman Ash Haigh",
-      "link": "https://www.abc.net.au/news/2026-02-09/search-ends-loved-gold-coast-fisherman-ash-haigh/106321162",
-      "mean_score": 0.7731,
-      "vader_score": 0.6361,
-      "textblob_score": 0.91,
-      "first_sentence": "The search for missing fisherman Ash Haigh has been suspended after covering 1,800 square nautical miles.",
-      "timestamp": "2026-02-09T00:13:34Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Who is Michael Dickson, the Australian who just claimed Super Bowl glory?",
-      "link": "https://www.sbs.com.au/news/article/who-is-michael-dickson-the-australian-vying-for-super-bowl-glory/f6xzz3df5",
-      "mean_score": 0.4896,
-      "vader_score": 0.8126,
-      "textblob_score": 0.1667,
-      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-      "timestamp": "2026-02-09T00:03:39Z",
-      "source": "SBS News"
     }
   ]
 }

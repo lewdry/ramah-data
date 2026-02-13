@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Should Australia welcome Isaac Herzog? | First Dog on the Moon",
+    "link": "https://www.theguardian.com/commentisfree/picture/2026/feb/09/should-australia-welcome-isaac-herzog",
+    "mean_score": 0.4919,
+    "vader_score": 0.4588,
+    "textblob_score": 0.525,
+    "first_sentence": "Will banning protests keep us safe? Sign up here to get an email whenever First Dog cartoons are publishedGet all your needs met at the First Dog shop if what you need is First Dog merchandise and prints Continue reading.",
+    "timestamp": "2026-02-09T00:15:22Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Search ends for 'very loved' Gold Coast fisherman Ash Haigh",
+    "link": "https://www.abc.net.au/news/2026-02-09/search-ends-loved-gold-coast-fisherman-ash-haigh/106321162",
+    "mean_score": 0.7731,
+    "vader_score": 0.6361,
+    "textblob_score": 0.91,
+    "first_sentence": "The search for missing fisherman Ash Haigh has been suspended after covering 1,800 square nautical miles.",
+    "timestamp": "2026-02-09T00:13:34Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Who is Michael Dickson, the Australian who just claimed Super Bowl glory?",
+    "link": "https://www.sbs.com.au/news/article/who-is-michael-dickson-the-australian-vying-for-super-bowl-glory/f6xzz3df5",
+    "mean_score": 0.4896,
+    "vader_score": 0.8126,
+    "textblob_score": 0.1667,
+    "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+    "timestamp": "2026-02-09T00:03:39Z",
+    "source": "SBS News"
+  },
+  {
     "headline": "First Greens politician quits NT parliament 18 months after historic win",
     "link": "https://www.abc.net.au/news/2026-02-09/nt-greens-mla-kat-mcnamara-quits-politics/106320616",
     "mean_score": 0.4679,
