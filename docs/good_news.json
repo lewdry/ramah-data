@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-13T21:16:18Z",
+  "last run": "2026-02-13T22:14:21Z",
   "stories": [
+    {
+      "headline": "Easy, tasty and nutritious recipes for sharing this Ramadan",
+      "link": "https://www.abc.net.au/news/2026-02-14/easy-tasty-and-nutritious-recipes-for-sharing-this-ramadan/106331120",
+      "mean_score": 0.5621,
+      "vader_score": 0.6908,
+      "textblob_score": 0.4333,
+      "first_sentence": "The holy month of Ramadan begins this week and is, for many Muslims, a looked-forward-to period of reflection, prayer and time with loved ones.",
+      "timestamp": "2026-02-13T22:00:00Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Push to boost lesson prep time for NSW teachers, as unpaid overtime grows",
       "link": "https://www.abc.net.au/news/2026-02-14/push-to-increase-lesson-preparation-time-for-nsw-teachers/106341426",
@@ -10,6 +20,16 @@
       "first_sentence": "School teachers say they are spending hours before and after class completing lesson plans and admin work without getting paid for the overtime.",
       "timestamp": "2026-02-13T21:07:46Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "Five Great Reads: new ways to look at female nudes, understanding the Maya and revisiting Infinite Jest",
+      "link": "https://www.theguardian.com/australia-news/2026/feb/14/five-great-reads-female-nudes-maya-david-foster-wallace",
+      "mean_score": 0.4685,
+      "vader_score": 0.6249,
+      "textblob_score": 0.3121,
+      "first_sentence": "This week\u2019s selection of good reads from around the Guardian chart a varied terrain \u2013 from art and identity to politics and climate change.",
+      "timestamp": "2026-02-13T21:00:35Z",
+      "source": "The Guardian"
     },
     {
       "headline": "A well-intentioned grand display turned a prince into a frog",
@@ -59,6 +79,16 @@
       "textblob_score": 0.5,
       "first_sentence": "After more than two decades in Farrer, Sussan Ley leaves a seat long considered safe for the Coalition.",
       "timestamp": "2026-02-13T19:32:14Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Australian craft brewers hop on 'clean and easy' Japanese lagers",
+      "link": "https://www.abc.net.au/news/2026-02-14/japanese-lagers-thrive-in-australia-after-record-travel-numbers/106119108",
+      "mean_score": 0.4404,
+      "vader_score": 0.6808,
+      "textblob_score": 0.2,
+      "first_sentence": "Australians, who have flocked to Japan over the past two decades, are falling in love with the country's dining culture and along with it \u2014 Japanese beer.",
+      "timestamp": "2026-02-13T19:22:09Z",
       "source": "ABC News"
     },
     {
@@ -2470,36 +2500,6 @@
       "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
       "timestamp": "2026-02-09T00:03:39Z",
       "source": "SBS News"
-    },
-    {
-      "headline": "First Greens politician quits NT parliament 18 months after historic win",
-      "link": "https://www.abc.net.au/news/2026-02-09/nt-greens-mla-kat-mcnamara-quits-politics/106320616",
-      "mean_score": 0.4679,
-      "vader_score": 0.5859,
-      "textblob_score": 0.35,
-      "first_sentence": "NT Greens MLA Kat McNamara has announced she is quitting parliament effectively immediately.",
-      "timestamp": "2026-02-08T23:30:27Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "A Project Hail Mary final trailer? Yes please",
-      "link": "https://arstechnica.com/culture/2026/02/a-project-hail-mary-final-trailer-yes-please/",
-      "mean_score": 0.3243,
-      "vader_score": 0.6486,
-      "textblob_score": 0.0,
-      "first_sentence": "Sure, most Americans are glued to their TVs for the today\u2019s Super Bowl and/or the Winter Olympics.",
-      "timestamp": "2026-02-08T23:26:37Z",
-      "source": "Ars Technica"
-    },
-    {
-      "headline": "'Trust your gut': Tasmanian minister Nick Duigan takes leave for heart surgery",
-      "link": "https://www.abc.net.au/news/2026-02-09/minister-nick-duigan-takes-leave-to-undergo-heart-surgery/106320766",
-      "mean_score": 0.4037,
-      "vader_score": 0.8074,
-      "textblob_score": 0.0,
-      "first_sentence": "Nick Duigan will be taking extended medical leave from February 17 due to scheduled heart surgery.",
-      "timestamp": "2026-02-08T22:34:54Z",
-      "source": "ABC News"
     }
   ]
 }
