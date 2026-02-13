@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-13T00:45:16Z",
+  "last run": "2026-02-13T01:40:47Z",
   "stories": [
+    {
+      "headline": "Australia's Liberal Party ousts first woman leader",
+      "link": "https://www.bbc.com/news/articles/cr5lmgdmy9mo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3259,
+      "vader_score": 0.4019,
+      "textblob_score": 0.25,
+      "first_sentence": "The first female leader of Australia's Liberal Party, Sussan Ley, has been ousted after just nine months in the job, losing a leadership ballot to her former shadow defence minister Angus Taylor.",
+      "timestamp": "2026-02-13T00:42:24Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Wuthering Heights soundtrack the perfect pivot for Charli XCX, says Brat co-writer",
+      "link": "https://www.bbc.com/news/articles/cpw05yv4y9po?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.7859,
+      "vader_score": 0.5719,
+      "textblob_score": 1.0,
+      "first_sentence": "A songwriter who has worked with Charli XCX on her biggest hits says doing the Wuthering Heights soundtrack was the perfect pivot after their Brat summer.",
+      "timestamp": "2026-02-13T00:07:16Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Break in the grey as Aberdeen sees sunshine for the first time in 21 days",
       "link": "https://www.theguardian.com/uk-news/2026/feb/12/aberdeen-sees-sunshine-first-time-in-21-days",
@@ -2480,26 +2500,6 @@
       "first_sentence": "A permission structure has been crafted for Liberals to ditch the first woman to lead the federal party room before she has even had a year in the role.",
       "timestamp": "2026-02-07T18:00:00Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "How aggressive free agency moves led the Patriots and Seahawks to the Super Bowl",
-      "link": "https://apnews.com/article/super-bowl-free-agency-04e345041045d83dde810406fa60c0da",
-      "mean_score": 0.5658,
-      "vader_score": 0.765,
-      "textblob_score": 0.3667,
-      "first_sentence": "SAN JOSE, Calif.",
-      "timestamp": "2026-02-07T17:53:02Z",
-      "source": "AP News"
-    },
-    {
-      "headline": "Suryakumar\u2019s brilliant blitz denies USA seismic shock in India\u2019s T20 World Cup opener",
-      "link": "https://www.theguardian.com/sport/2026/feb/07/india-usa-t20-world-cup-cricket-suryakumar-yadav",
-      "mean_score": 0.3735,
-      "vader_score": -0.1531,
-      "textblob_score": 0.9,
-      "first_sentence": "There was, in the end, no shock \u2013 but there was not a lot of awe either.",
-      "timestamp": "2026-02-07T17:48:30Z",
-      "source": "The Guardian"
     }
   ]
 }

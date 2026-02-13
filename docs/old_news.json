@@ -1,5 +1,25 @@
 [
   {
+    "headline": "How aggressive free agency moves led the Patriots and Seahawks to the Super Bowl",
+    "link": "https://apnews.com/article/super-bowl-free-agency-04e345041045d83dde810406fa60c0da",
+    "mean_score": 0.5658,
+    "vader_score": 0.765,
+    "textblob_score": 0.3667,
+    "first_sentence": "SAN JOSE, Calif.",
+    "timestamp": "2026-02-07T17:53:02Z",
+    "source": "AP News"
+  },
+  {
+    "headline": "Suryakumar\u2019s brilliant blitz denies USA seismic shock in India\u2019s T20 World Cup opener",
+    "link": "https://www.theguardian.com/sport/2026/feb/07/india-usa-t20-world-cup-cricket-suryakumar-yadav",
+    "mean_score": 0.3735,
+    "vader_score": -0.1531,
+    "textblob_score": 0.9,
+    "first_sentence": "There was, in the end, no shock \u2013 but there was not a lot of awe either.",
+    "timestamp": "2026-02-07T17:48:30Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Speedskater Francesca Lollobrigida wins host Italy\u2019s first gold medal of the Milan Cortina Olympics",
     "link": "https://apnews.com/article/milan-cortina-olympics-speedskating-lollobrigida-3403f4d0378c2b0e1f955160e3fc9182",
     "mean_score": 0.5267,
