@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Gold prospectors of bygone era create fond memories for photography duo",
+    "link": "https://www.abc.net.au/news/2026-02-08/photographers-remember-bygone-era-wa-gold-prospecting/106299710",
+    "mean_score": 0.3062,
+    "vader_score": 0.6124,
+    "textblob_score": 0.0,
+    "first_sentence": "Photographers Roger Garwood and Trish Ainslie travelled to Western Australia's remote Goldfields in 1989 to capture prospectors who had been to war for a long-planned magazine feature.",
+    "timestamp": "2026-02-08T04:43:27Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Japanese people brave snow to vote in snap election",
+    "link": "https://www.bbc.com/news/articles/cx2y7d2z29xo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4633,
+    "vader_score": 0.5267,
+    "textblob_score": 0.4,
+    "first_sentence": "People across Japan are braving snow to vote in a snap election called by Prime Minister Sanae Takaichi, whose coalition is expected clinch a decisive win, according to polls.",
+    "timestamp": "2026-02-08T04:24:37Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Japanese Prime Minister Sanae Takaichi hopes for big win as polls open in national elections",
     "link": "https://apnews.com/article/japan-election-bbb322b4dc1dcad8f7373ba7aae4d535",
     "mean_score": 0.4825,
