@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-13T15:21:25Z",
+  "last run": "2026-02-13T16:20:55Z",
   "stories": [
+    {
+      "headline": "Cocktail of the week: Hu\u014f\u2019s Szechuan sizzle \u2013 recipe | The good mixer",
+      "link": "https://www.theguardian.com/food/2026/feb/13/cocktail-of-the-week-huo-szechuan-sizzle-recipe-lunar-new-year",
+      "mean_score": 0.5702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.7,
+      "first_sentence": "Here\u2019s a spicy little number that will help you see in the lunar new year in style on 17 January.",
+      "timestamp": "2026-02-13T16:01:28Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "The best vacuum cleaners in the UK for hard floors, carpet and pet hair \u2013 tested",
       "link": "https://www.theguardian.com/thefilter/2026/feb/13/best-vacuum-cleaners-uk-tested",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Morgan McSweeney has resigned from the position of chief of staff to British Prime Minister Sir Keir Starmer.",
       "timestamp": "2026-02-08T18:44:23Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Valentine\u2019s Day ideas from romance novelists: \u2018I always want books. I want chocolate. I want a scented candle.\u2019",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/feb/06/valentines-day-gift-ideas-romance-novelists",
-      "mean_score": 0.3352,
-      "vader_score": 0.6705,
-      "textblob_score": 0.0,
-      "first_sentence": "The Guardian\u2019s journalism is independent.",
-      "timestamp": "2026-02-08T18:15:37Z",
-      "source": "The Guardian"
     }
   ]
 }
