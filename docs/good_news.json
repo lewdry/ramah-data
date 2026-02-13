@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-13T18:20:32Z",
+  "last run": "2026-02-13T19:21:47Z",
   "stories": [
+    {
+      "headline": "Minnesotans welcome the immigration surge drawdown but remain vigilant",
+      "link": "https://apnews.com/article/minnesota-metro-surge-ice-8af150975b0a552e1ed19a7276c39870",
+      "mean_score": 0.6339,
+      "vader_score": 0.4678,
+      "textblob_score": 0.8,
+      "first_sentence": "MINNEAPOLIS (AP) \u2014 The Trump administration\u2019s drawdown of its immigration enforcement surge in the Twin Cities area has been met with relief, but state officials and residents say its effects on Minnesota\u2019s economy and immigrant communities will linger.",
+      "timestamp": "2026-02-13T18:53:02Z",
+      "source": "AP News"
+    },
+    {
+      "headline": "Baff's self-belief a blessing with a golden exclamation",
+      "link": "https://www.abc.net.au/news/2026-02-14/josie-baff-winter-olympics-snowboard-cross-gold-belief/106344394",
+      "mean_score": 0.397,
+      "vader_score": 0.4939,
+      "textblob_score": 0.3,
+      "first_sentence": "The assurity that your training has worked, your skills have been honed, your strength has improved and that there is nothing that you have left on the cutting room floor.",
+      "timestamp": "2026-02-13T18:24:06Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Original Bramley apple tree \u2018at risk\u2019 after site where it grows is put up for sale",
       "link": "https://www.theguardian.com/uk-news/2026/feb/13/original-bramley-apple-tree-at-risk-site-for-sale",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.1682,
       "first_sentence": "Labor has faced questioning over its economic management in Question Time today as the government returned fire over the Coalition's leadership woes.",
       "timestamp": "2026-02-08T20:12:05Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Aussie women settle for Perth Sevens silver with New Zealand too strong",
-      "link": "https://www.abc.net.au/news/2026-02-09/aussie-women-settle-for-perth-sevens-silver-new-zealand/106320454",
-      "mean_score": 0.3977,
-      "vader_score": 0.5106,
-      "textblob_score": 0.2848,
-      "first_sentence": "The Australian women's Rugby Sevens team have some soul-searching to do after falling to arch rivals New Zealand yet again in a final.",
-      "timestamp": "2026-02-08T19:39:03Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "All too easy for the Diamonds in sealing series win over Jamaica",
-      "link": "https://www.abc.net.au/news/2026-02-09/all-too-easy-for-the-diamonds-in-sealing-series-win-over-jamaica/106320414",
-      "mean_score": 0.6942,
-      "vader_score": 0.7717,
-      "textblob_score": 0.6167,
-      "first_sentence": "Diamonds coach Stacey Marinkovich is not worried about her team's soft lead-up to the Commonwealth Games despite encountering little resistance in yet another crushing win over Jamaica.",
-      "timestamp": "2026-02-08T19:12:45Z",
       "source": "ABC News"
     }
   ]
