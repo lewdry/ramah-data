@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-13T11:17:01Z",
+  "last run": "2026-02-13T12:19:45Z",
   "stories": [
+    {
+      "headline": "Bangladesh Nationalist Party sweeps to victory in first election since Gen Z uprising",
+      "link": "https://www.bbc.com/news/articles/cgrzwn4yg7jo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3259,
+      "vader_score": 0.4019,
+      "textblob_score": 0.25,
+      "first_sentence": "The centre-right Bangladesh Nationalist Party (BNP) has secured a landslide majority in parliament, 18 months after mass protests ousted the country's longest serving prime minister Sheikh Hasina.",
+      "timestamp": "2026-02-13T12:17:18Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Television made easy \u2026 for phone scrollers. The Stephen Collins cartoon",
       "link": "https://www.theguardian.com/lifeandstyle/picture/2026/feb/13/television-made-easy-for-phone-scrollers-stephen-collins-cartoon",
@@ -209,6 +219,16 @@
       "textblob_score": 1.0,
       "first_sentence": "A songwriter who has worked with Charli XCX on her biggest hits says doing the Wuthering Heights soundtrack was the perfect pivot after their Brat summer.",
       "timestamp": "2026-02-13T00:07:16Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Why I decided to start 'gentle parenting'",
+      "link": "https://www.bbc.com/news/articles/ce91rpdge7eo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3202,
+      "vader_score": 0.4404,
+      "textblob_score": 0.2,
+      "first_sentence": "When lockdown hit, mum Kelly Medina Enos, found herself struggling to deal with her son's behaviour.",
+      "timestamp": "2026-02-13T00:06:59Z",
       "source": "BBC News"
     },
     {
@@ -2479,26 +2499,6 @@
       "textblob_score": 1.0,
       "first_sentence": "If you\u2019re not au fait with these soft, chocolatey treats, you clearly haven\u2019t spent much time in Brazil, where, in the words of blogger Olivia Mesquita, they\u2019re national treasures, \u201ca must-have at special celebrations, from kids\u2019 parties to weddings\u201d.",
       "timestamp": "2026-02-08T13:00:31Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Mystery plaintiff challenges Karl Lagerfeld\u2019s will \u2013 but pampered cat can rest easy",
-      "link": "https://www.theguardian.com/fashion/2026/feb/08/mystery-plaintiff-challenges-karl-lagerfeld-will-pampered-cat-choupette",
-      "mean_score": 0.5229,
-      "vader_score": 0.6124,
-      "textblob_score": 0.4333,
-      "first_sentence": "The late German-born Chanel designer Karl Lagerfeld was famously precise, exacting and known to hold a grudge, but his final wishes concerning the beneficiaries of his vast fortune could now be overturned beyond the grave in a looming court battle.",
-      "timestamp": "2026-02-08T12:45:18Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018It has to be amazing\u2019: Liberty links with Bridgerton as it capitalises on maximalist trend",
-      "link": "https://www.theguardian.com/business/2026/feb/08/liberty-department-store-bridgerton-lydia-king-retail-managing-director",
-      "mean_score": 0.5634,
-      "vader_score": 0.5267,
-      "textblob_score": 0.6,
-      "first_sentence": "On a damp Thursday in central London, shoppers have fled the rain to indulge in some Bridgerton-themed escapism at upmarket department store Liberty, which has dedicated its fourth floor to the raunchy period drama.",
-      "timestamp": "2026-02-08T11:00:29Z",
       "source": "The Guardian"
     }
   ]
