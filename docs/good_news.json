@@ -1,6 +1,36 @@
 {
-  "last run": "2026-02-13T06:29:23Z",
+  "last run": "2026-02-13T07:27:16Z",
   "stories": [
+    {
+      "headline": "Bangladesh Nationalist Party claims victory in country\u2019s first election since 2024 uprising",
+      "link": "https://apnews.com/article/bangladesh-election-hasina-tarique-rahman-bnp-8ec3a74b4488dfe998b3d1d232c3ba4f",
+      "mean_score": 0.3259,
+      "vader_score": 0.4019,
+      "textblob_score": 0.25,
+      "first_sentence": "DHAKA, Bangladesh (AP) \u2014 The Bangladesh Nationalist Party has claimed victory in the country\u2019s first election since the 2024 uprising, positioning itself to form the next government and potentially reshape Bangladesh\u2019s political landscape after years of intense rivalry and disputed polls.",
+      "timestamp": "2026-02-13T07:23:02Z",
+      "source": "AP News"
+    },
+    {
+      "headline": "The tunnel runway at the Super Bowl \u2013 and the rise of the \u2018unicorn bag\u2019",
+      "link": "https://www.theguardian.com/fashion/2026/feb/12/the-tunnel-runway-at-superbowl-unicorn-bags-and-the-shift-towards-practical-luxury",
+      "mean_score": 0.4664,
+      "vader_score": 0.5994,
+      "textblob_score": 0.3333,
+      "first_sentence": "The Guardian\u2019s journalism is independent.",
+      "timestamp": "2026-02-13T07:00:39Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Good People by Patmeena Sabit review \u2013 addictive mystery caters to modern attention spans",
+      "link": "https://www.theguardian.com/books/2026/feb/13/good-people-by-patmeena-sabit-review-addictive-mystery-caters-to-modern-attention-spans",
+      "mean_score": 0.3702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.3,
+      "first_sentence": "There has been debate lately about whether novels should cater for our cauterised attention spans.",
+      "timestamp": "2026-02-13T07:00:36Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "The look of love: what to wear for Valentine\u2019s weekend",
       "link": "https://www.theguardian.com/fashion/gallery/2026/feb/13/what-to-wear-valentines-day-weekend-womenswear-style-tips",
@@ -2469,36 +2499,6 @@
       "textblob_score": 1.0,
       "first_sentence": "The old saying goes, \"Never work with kids and animals\" but for photographers it is part of the job description.",
       "timestamp": "2026-02-08T00:53:30Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "UK\u2019s \u2018unsung army\u2019 of full-time unpaid carers needs more support, report says",
-      "link": "https://www.theguardian.com/society/2026/feb/08/full-time-unpaid-carers-support-resolution-foundation-report",
-      "mean_score": 0.4038,
-      "vader_score": 0.4576,
-      "textblob_score": 0.35,
-      "first_sentence": "A growing \u201cunsung army\u201d of 1 million people with full-time caring responsibilities needs better support, according to a report that found one in three unpaid carers from poorer backgrounds were unable to work because of their duties.",
-      "timestamp": "2026-02-08T00:01:15Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Valentino Guseli's 'massive personal win' during big air final",
-      "link": "https://www.abc.net.au/news/2026-02-08/valentino-guseli-2026-winter-olympics-big-air-snowboard/106318724",
-      "mean_score": 0.373,
-      "vader_score": 0.5859,
-      "textblob_score": 0.16,
-      "first_sentence": "Valentino Guseli may have missed a medal in the snowboard big air final, finishing in a hugely credible 10th place in Saturday night's final at the Livigno Snow Park.",
-      "timestamp": "2026-02-07T23:01:51Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Tasmania explores homebirths, AMA says focus should be making hospitals comfortable",
-      "link": "https://www.abc.net.au/news/2026-02-08/tasmania-looks-at-homebirth-model/105899984",
-      "mean_score": 0.4553,
-      "vader_score": 0.5106,
-      "textblob_score": 0.4,
-      "first_sentence": "The Tasmanian government is developing a public homebirth model that would allow midwives working in the public system to support women to labour from their homes.",
-      "timestamp": "2026-02-07T21:11:17Z",
       "source": "ABC News"
     }
   ]
