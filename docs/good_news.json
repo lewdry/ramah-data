@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-13T12:19:45Z",
+  "last run": "2026-02-13T13:32:33Z",
   "stories": [
+    {
+      "headline": "Winter Olympics 2026: Kl\u00e6bo seals golden treble; GB medal drought goes on \u2013 live",
+      "link": "https://www.theguardian.com/sport/live/2026/feb/13/winter-olympics-2026-seven-gold-medals-up-for-grabs-gb-look-to-end-medal-drought-and-more-live",
+      "mean_score": 0.3474,
+      "vader_score": 0.4767,
+      "textblob_score": 0.2182,
+      "first_sentence": "Klaebo is now the joint most decorated Winter Olympian in history! And there are three more chances of gold to come, in the men\u2019s relay, men\u2019s team sprint and 50k marathon.",
+      "timestamp": "2026-02-13T13:28:13Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Bangladesh Nationalist Party sweeps to victory in first election since Gen Z uprising",
       "link": "https://www.bbc.com/news/articles/cgrzwn4yg7jo?at_medium=RSS&at_campaign=rss",
@@ -10,6 +20,16 @@
       "first_sentence": "The centre-right Bangladesh Nationalist Party (BNP) has secured a landslide majority in parliament, 18 months after mass protests ousted the country's longest serving prime minister Sheikh Hasina.",
       "timestamp": "2026-02-13T12:17:18Z",
       "source": "BBC News"
+    },
+    {
+      "headline": "Rocket Report: Say cheerio to Orbex; China is getting good at booster landings",
+      "link": "https://arstechnica.com/space/2026/02/rocket-report-say-cheerio-to-orbex-china-is-getting-good-at-booster-landings/",
+      "mean_score": 0.6624,
+      "vader_score": 0.6249,
+      "textblob_score": 0.7,
+      "first_sentence": "Welcome to Edition 8.29 of the Rocket Report! We have a stuffed report this week with news from across the launch spectrum.",
+      "timestamp": "2026-02-13T12:00:09Z",
+      "source": "Ars Technica"
     },
     {
       "headline": "Television made easy \u2026 for phone scrollers. The Stephen Collins cartoon",
@@ -2480,26 +2500,6 @@
       "first_sentence": "SANTA CLARA, Calif.",
       "timestamp": "2026-02-08T13:53:02Z",
       "source": "AP News"
-    },
-    {
-      "headline": "Breezy Johnson's downhill gold is America's first medal of 2026 Winter Olympics",
-      "link": "https://www.npr.org/2026/02/08/nx-s1-5705898/breezy-johnsons-downhill-gold-is-americas-first-medal-of-2026-winter-olympics",
-      "mean_score": 0.3634,
-      "vader_score": 0.4767,
-      "textblob_score": 0.25,
-      "first_sentence": "U.S.",
-      "timestamp": "2026-02-08T13:08:30Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "How to cook the perfect brigadeiros for Valentine\u2019s Day \u2013 recipe | Felicity Cloake's How to cook the perfect \u2026",
-      "link": "https://www.theguardian.com/food/2026/feb/08/perfect-brigadeiros-valentines-day-recipe-felicity-cloake",
-      "mean_score": 0.9063,
-      "vader_score": 0.8126,
-      "textblob_score": 1.0,
-      "first_sentence": "If you\u2019re not au fait with these soft, chocolatey treats, you clearly haven\u2019t spent much time in Brazil, where, in the words of blogger Olivia Mesquita, they\u2019re national treasures, \u201ca must-have at special celebrations, from kids\u2019 parties to weddings\u201d.",
-      "timestamp": "2026-02-08T13:00:31Z",
-      "source": "The Guardian"
     }
   ]
 }
