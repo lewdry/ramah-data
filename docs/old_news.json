@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Landslide win beckons for centre-left candidate in Portugal\u2019s presidential runoff",
+    "link": "https://www.theguardian.com/world/2026/feb/08/portugal-election-seguro-ventura-presidential-runoff",
+    "mean_score": 0.6929,
+    "vader_score": 0.5859,
+    "textblob_score": 0.8,
+    "first_sentence": "The moderate socialist Ant\u00f3nio Jos\u00e9 Seguro appeared to be headed for a landslide victory in Portugal\u2019s presidential runoff on Sunday, with two exit polls putting him in the 67%-73% range, well ahead of his far-right, anti-establishment rival, Andr\u00e9 Ventura.",
+    "timestamp": "2026-02-08T20:26:12Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Live: Labor faces questions on economic management in QT",
+    "link": "https://www.abc.net.au/news/2026-02-09/federal-politics-ley-littleproud-albanese-coalition-estimates/106314548",
+    "mean_score": 0.3577,
+    "vader_score": 0.5473,
+    "textblob_score": 0.1682,
+    "first_sentence": "Labor has faced questioning over its economic management in Question Time today as the government returned fire over the Coalition's leadership woes.",
+    "timestamp": "2026-02-08T20:12:05Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Aussie women settle for Perth Sevens silver with New Zealand too strong",
     "link": "https://www.abc.net.au/news/2026-02-09/aussie-women-settle-for-perth-sevens-silver-new-zealand/106320454",
     "mean_score": 0.3977,
