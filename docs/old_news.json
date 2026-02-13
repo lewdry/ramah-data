@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Thai PM\u2019s party on track to win election in blow to pro-democracy camp",
+    "link": "https://www.theguardian.com/world/2026/feb/08/thai-voters-head-to-the-polls-with-three-main-parties-vying-to-form-government",
+    "mean_score": 0.779,
+    "vader_score": 0.7579,
+    "textblob_score": 0.8,
+    "first_sentence": "The party of the Thai prime minister Anutin Charnvirakul, a staunch royalist and shrewd political dealmaker, is on track to win the most seats in Sunday\u2019s election after a disappointing night for his rivals in the youthful, pro-democracy People\u2019s party.",
+    "timestamp": "2026-02-08T17:51:00Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Watch: Six Nations Rugby Special",
+    "link": "https://www.bbc.co.uk/iplayer/episode/l0057wdv?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3795,
+    "vader_score": 0.4019,
+    "textblob_score": 0.3571,
+    "first_sentence": "Highlights from this year\u2019s Six Nations, including extended England v Wales analysis.",
+    "timestamp": "2026-02-08T17:47:13Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Morgan McSweeney\u2019s fall offers a new beginning. Starmer and his cabinet had better grab it | Polly Toynbee",
+    "link": "https://www.theguardian.com/commentisfree/2026/feb/08/morgan-mcsweeney-keir-starmer-cabinet",
+    "mean_score": 0.3429,
+    "vader_score": 0.4404,
+    "textblob_score": 0.2455,
+    "first_sentence": "Here is something they can\u2019t take away from him: Morgan McSweeney is often credited for Labour\u2019s remarkable turnaround from the abyss of the 2019 election to the astounding landslide of 2024.",
+    "timestamp": "2026-02-08T17:42:36Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Government on track to lower train driver minimum age to 18 in Great Britain",
+    "link": "https://www.theguardian.com/business/2026/feb/08/government-on-track-to-lower-train-driver-minimum-age-to-18-in-great-britain",
+    "mean_score": 0.6202,
+    "vader_score": 0.4404,
+    "textblob_score": 0.8,
+    "first_sentence": "Labour will introduce legislation to lower the minimum age for train drivers to 18 in the House of Commons this week, as figures show fewer than 3% of drivers on Great Britain\u2019s railways are under 30.",
+    "timestamp": "2026-02-08T16:53:46Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Crystal Palace end long wait for win after Isma\u00efla Sarr\u2019s strike stuns Brighton",
     "link": "https://www.theguardian.com/football/2026/feb/08/brighton-crystal-palace-premier-league-match-report",
     "mean_score": 0.4508,
