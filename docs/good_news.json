@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-14T08:12:14Z",
+  "last run": "2026-02-14T09:12:48Z",
   "stories": [
+    {
+      "headline": "Live: Aussie medal hope Peel ruled out of Winter Olympics",
+      "link": "https://www.abc.net.au/news/2026-02-14/winter-olympics-2026-live-milano-cortina-laura-peel/106344928",
+      "mean_score": 0.4274,
+      "vader_score": 0.7184,
+      "textblob_score": 0.1364,
+      "first_sentence": "Aerial skier Laura Peel \u2014 one of Australia's strongest medal hopes \u2014 has been forced to withdraw from the Winter Olympics.",
+      "timestamp": "2026-02-14T08:23:48Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Will pancake day be a success? It\u2019s a bit of toss up: the Becky Barnicoat cartoon",
       "link": "https://www.theguardian.com/lifeandstyle/picture/2026/feb/14/will-pancake-day-be-a-success-its-a-bit-of-toss-up-the-becky-barnicoat-cartoon",
@@ -1532,6 +1542,16 @@
       "source": "ABC News"
     },
     {
+      "headline": "Student beats seven other comedians to be crowned UK's pun champion",
+      "link": "https://www.bbc.com/news/articles/clyzv0eqknro?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3009,
+      "vader_score": 0.7269,
+      "textblob_score": -0.125,
+      "first_sentence": "A university student has been crowned UK pun champion after serving up gags about King Henry VIII and takeaway pizza at the Leicester Comedy Festival.",
+      "timestamp": "2026-02-11T06:24:32Z",
+      "source": "BBC News"
+    },
+    {
       "headline": "What's it like in the village that inspired Wuthering Heights?",
       "link": "https://www.bbc.com/news/videos/cz6ew71q41qo?at_medium=RSS&at_campaign=rss",
       "mean_score": 0.3454,
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.1444,
       "first_sentence": "Seven years after winning their first Vince Lombardi trophy, the Philadelphia Eagles are back on top of the NFL summit.",
       "timestamp": "2026-02-09T04:24:35Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Five of our most popular easy vegetarian meals",
-      "link": "https://www.abc.net.au/news/2026-02-09/five-simple-tasty-vegetarian-recipes-for-meat-free-monday/106309846",
-      "mean_score": 0.626,
-      "vader_score": 0.7408,
-      "textblob_score": 0.5111,
-      "first_sentence": "If you are looking to add more vegetarian meals to your rotation, we have you covered.",
-      "timestamp": "2026-02-09T04:21:54Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Bad Bunny\u2019s Super Bowl half-time show review \u2013 a thrilling ode to Boricua joy",
-      "link": "https://www.theguardian.com/music/2026/feb/08/bad-bunny-super-bowl-half-time-show-review",
-      "mean_score": 0.4891,
-      "vader_score": 0.8074,
-      "textblob_score": 0.1708,
-      "first_sentence": "When the NFL announced in September that Bad Bunny would perform at the Super Bowl half-time show, the immediate expectation was that Benito Antonio Mart\u00ednez Ocasio would Make a Statement.",
-      "timestamp": "2026-02-09T04:09:33Z",
       "source": "The Guardian"
     }
   ]

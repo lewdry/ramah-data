@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Five of our most popular easy vegetarian meals",
+    "link": "https://www.abc.net.au/news/2026-02-09/five-simple-tasty-vegetarian-recipes-for-meat-free-monday/106309846",
+    "mean_score": 0.626,
+    "vader_score": 0.7408,
+    "textblob_score": 0.5111,
+    "first_sentence": "If you are looking to add more vegetarian meals to your rotation, we have you covered.",
+    "timestamp": "2026-02-09T04:21:54Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Bad Bunny\u2019s Super Bowl half-time show review \u2013 a thrilling ode to Boricua joy",
+    "link": "https://www.theguardian.com/music/2026/feb/08/bad-bunny-super-bowl-half-time-show-review",
+    "mean_score": 0.4891,
+    "vader_score": 0.8074,
+    "textblob_score": 0.1708,
+    "first_sentence": "When the NFL announced in September that Bad Bunny would perform at the Super Bowl half-time show, the immediate expectation was that Benito Antonio Mart\u00ednez Ocasio would Make a Statement.",
+    "timestamp": "2026-02-09T04:09:33Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Seahawks ride their 'Dark Side' defense to a Super Bowl title, pounding the Patriots 29-13",
     "link": "https://www.npr.org/2026/02/08/nx-s1-5706061/seahawks-win-super-bowl",
     "mean_score": 0.3757,
