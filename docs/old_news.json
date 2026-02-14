@@ -1,5 +1,55 @@
 [
   {
+    "headline": "Logitech MX Master 4 review: the best work mouse you can buy",
+    "link": "https://www.theguardian.com/technology/2026/feb/09/logitech-mx-master-4-review-the-best-work-mouse-you-can-buy",
+    "mean_score": 0.8185,
+    "vader_score": 0.6369,
+    "textblob_score": 1.0,
+    "first_sentence": "The Guardian\u2019s journalism is independent.",
+    "timestamp": "2026-02-09T07:00:53Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Center-left Socialist candidate wins over populist in Portugal's presidential runoff",
+    "link": "https://www.npr.org/2026/02/09/g-s1-109279/socialist-candidate-wins-over-populist-portugal",
+    "mean_score": 0.4359,
+    "vader_score": 0.5719,
+    "textblob_score": 0.3,
+    "first_sentence": "LISBON, Portugal \u2014 Center-left Socialist candidate Ant\u00f3nio Jos\u00e9 Seguro recorded a thumping victory over hard-right populist Andr\u00e9 Ventura in Portugal's runoff presidential election Sunday, according to official results with 99% of votes counted.",
+    "timestamp": "2026-02-09T07:00:29Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "Central Australian cattle producers welcome rare rain",
+    "link": "https://www.abc.net.au/news/2026-02-09/heavy-rain-central-australia-causes-celebration-concern/106321708",
+    "mean_score": 0.3669,
+    "vader_score": 0.4588,
+    "textblob_score": 0.275,
+    "first_sentence": "Some stations have received more rain in recent days than they did in all of 2025.",
+    "timestamp": "2026-02-09T06:48:33Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Monday briefing: \u200bThe Welsh were Labour\u2019s most loyal voters, but even their support is in doubt",
+    "link": "https://www.theguardian.com/world/2026/feb/09/mondays-briefing-the-welsh-were-labours-most-loyal-voters-but-even-their-support-is-in-doubt",
+    "mean_score": 0.3885,
+    "vader_score": 0.3604,
+    "textblob_score": 0.4167,
+    "first_sentence": "Good morning.",
+    "timestamp": "2026-02-09T06:40:52Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Venezuela's opposition says party leader kidnapped hours after being freed",
+    "link": "https://www.bbc.com/news/articles/c9wnjqzrv48o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3298,
+    "vader_score": 0.6597,
+    "textblob_score": 0.0,
+    "first_sentence": "Venezuelan opposition leader Maria Corina Machado said her opposition colleague Juan Pablo Guanipa had been kidnapped just hours after being released from detention.",
+    "timestamp": "2026-02-09T05:37:29Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Most Indians don\u2019t read for pleasure \u2013 so why does the country have 100 literature festivals?",
     "link": "https://www.theguardian.com/global-development/2026/feb/09/books-india-literature-festivals-readers",
     "mean_score": 0.6176,

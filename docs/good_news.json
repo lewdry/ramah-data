@@ -1,6 +1,56 @@
 {
-  "last run": "2026-02-14T11:09:29Z",
+  "last run": "2026-02-14T12:14:39Z",
   "stories": [
+    {
+      "headline": "US fixation on the hard-hat economy and making manufacturing great again makes little sense",
+      "link": "https://www.theguardian.com/business/2026/feb/14/trump-manufacturing-jobs-economy",
+      "mean_score": 0.4656,
+      "vader_score": 0.6249,
+      "textblob_score": 0.3063,
+      "first_sentence": "The exhortations to protect America\u2019s industrial muscle have resonated in the US at least since maverick presidential candidate Ross Perot brought up the supposed \u201cgiant sucking sound\u201d of jobs pulled to Mexico by the Nafta trade agreement back in 1993.",
+      "timestamp": "2026-02-14T12:00:54Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Rubio speech signals US-Europe relations are bruised but still friendly",
+      "link": "https://www.bbc.com/news/articles/crk80vgrj2eo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5118,
+      "vader_score": 0.6486,
+      "textblob_score": 0.375,
+      "first_sentence": "World leaders, including French President Emmanuel Macron, German Chancellor Friedrich Merz and UK Prime Minister Sir Keir Starmer, have been gathering in Munich for Europe's biggest security and defence conference.",
+      "timestamp": "2026-02-14T11:55:11Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Gavin & Stacey is the best show ever, says Margot Robbie",
+      "link": "https://www.bbc.com/news/articles/cde4kpe5wl0o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.8185,
+      "vader_score": 0.6369,
+      "textblob_score": 1.0,
+      "first_sentence": "Hollywood star Margot Robbie has revealed she has a major passion for BBC sitcom Gavin & Stacey.",
+      "timestamp": "2026-02-14T11:29:48Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Ex-Reform MP Rupert Lowe launches new party",
+      "link": "https://www.bbc.com/news/articles/cp813pn43gxo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3151,
+      "vader_score": 0.4939,
+      "textblob_score": 0.1364,
+      "first_sentence": "A former Reform UK MP, who is now serving as an independent, has launched a new political party.",
+      "timestamp": "2026-02-14T11:02:14Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "\u2018The bear feels comfortable and uncomfortable. It\u2019s a bittersweet moment\u2019: I\u00f1igo Jerez Quintana\u2019s best phone picture",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/feb/14/the-bear-feels-comfortable-and-uncomfortable-its-a-bittersweet-moment-inigo-jerez-quintanas-best-phone-picture",
+      "mean_score": 0.4904,
+      "vader_score": 0.6808,
+      "textblob_score": 0.3,
+      "first_sentence": "I\u00f1igo Jerez Quintana uses the French term objet trouv\u00e9 to describe this abandoned bear.",
+      "timestamp": "2026-02-14T11:00:53Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Winter Olympics 2026: Brazil aiming for historic first medal; curling, freestyle skiing and more \u2013 live",
       "link": "https://www.theguardian.com/sport/live/2026/feb/14/winter-olympics-2026-giant-slalom-freestyle-skiing-skeleton-ice-hockey-live",
@@ -2450,56 +2500,6 @@
       "first_sentence": "On the night of her 60th birthday, Sally Goldner climbed on to the top rope of the wrestling ring, to the roars of the crowd, and launched herself on to her competitors with a missile dropkick.",
       "timestamp": "2026-02-09T07:00:54Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Logitech MX Master 4 review: the best work mouse you can buy",
-      "link": "https://www.theguardian.com/technology/2026/feb/09/logitech-mx-master-4-review-the-best-work-mouse-you-can-buy",
-      "mean_score": 0.8185,
-      "vader_score": 0.6369,
-      "textblob_score": 1.0,
-      "first_sentence": "The Guardian\u2019s journalism is independent.",
-      "timestamp": "2026-02-09T07:00:53Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Center-left Socialist candidate wins over populist in Portugal's presidential runoff",
-      "link": "https://www.npr.org/2026/02/09/g-s1-109279/socialist-candidate-wins-over-populist-portugal",
-      "mean_score": 0.4359,
-      "vader_score": 0.5719,
-      "textblob_score": 0.3,
-      "first_sentence": "LISBON, Portugal \u2014 Center-left Socialist candidate Ant\u00f3nio Jos\u00e9 Seguro recorded a thumping victory over hard-right populist Andr\u00e9 Ventura in Portugal's runoff presidential election Sunday, according to official results with 99% of votes counted.",
-      "timestamp": "2026-02-09T07:00:29Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Central Australian cattle producers welcome rare rain",
-      "link": "https://www.abc.net.au/news/2026-02-09/heavy-rain-central-australia-causes-celebration-concern/106321708",
-      "mean_score": 0.3669,
-      "vader_score": 0.4588,
-      "textblob_score": 0.275,
-      "first_sentence": "Some stations have received more rain in recent days than they did in all of 2025.",
-      "timestamp": "2026-02-09T06:48:33Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Monday briefing: \u200bThe Welsh were Labour\u2019s most loyal voters, but even their support is in doubt",
-      "link": "https://www.theguardian.com/world/2026/feb/09/mondays-briefing-the-welsh-were-labours-most-loyal-voters-but-even-their-support-is-in-doubt",
-      "mean_score": 0.3885,
-      "vader_score": 0.3604,
-      "textblob_score": 0.4167,
-      "first_sentence": "Good morning.",
-      "timestamp": "2026-02-09T06:40:52Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Venezuela's opposition says party leader kidnapped hours after being freed",
-      "link": "https://www.bbc.com/news/articles/c9wnjqzrv48o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3298,
-      "vader_score": 0.6597,
-      "textblob_score": 0.0,
-      "first_sentence": "Venezuelan opposition leader Maria Corina Machado said her opposition colleague Juan Pablo Guanipa had been kidnapped just hours after being released from detention.",
-      "timestamp": "2026-02-09T05:37:29Z",
-      "source": "BBC News"
     }
   ]
 }
