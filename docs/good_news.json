@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-14T05:24:29Z",
+  "last run": "2026-02-14T06:21:06Z",
   "stories": [
+    {
+      "headline": "Will pancake day be a success? It\u2019s a bit of toss up: the Becky Barnicoat cartoon",
+      "link": "https://www.theguardian.com/lifeandstyle/picture/2026/feb/14/will-pancake-day-be-a-success-its-a-bit-of-toss-up-the-becky-barnicoat-cartoon",
+      "mean_score": 0.4359,
+      "vader_score": 0.5719,
+      "textblob_score": 0.3,
+      "first_sentence": "Continue reading.",
+      "timestamp": "2026-02-14T06:00:47Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Australia and EU on verge of striking free trade deal long stalled by beef, parmesan and prosecco",
       "link": "https://www.theguardian.com/australia-news/2026/feb/14/australia-eu-free-trade-deal-negotiations-brussels-parmesan-and-prosecco",
@@ -2490,16 +2500,6 @@
       "first_sentence": "When the NFL announced in September that Bad Bunny would perform at the Super Bowl half-time show, the immediate expectation was that Benito Antonio Mart\u00ednez Ocasio would Make a Statement.",
       "timestamp": "2026-02-09T04:09:33Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Seahawks ride their 'Dark Side' defense to a Super Bowl title, pounding the Patriots 29-13",
-      "link": "https://www.npr.org/2026/02/08/nx-s1-5706061/seahawks-win-super-bowl",
-      "mean_score": 0.3757,
-      "vader_score": 0.6597,
-      "textblob_score": 0.0917,
-      "first_sentence": "Devon Witherspoon, Derick Hall, Byron Murphy and the rest of Mike Macdonald's ferocious unit pummeled Drake Maye, and the Seattle Seahawks beat the New England Patriots 29-13 on Sunday to win the franchise's second Super Bowl.",
-      "timestamp": "2026-02-09T03:33:41Z",
-      "source": "NPR News"
     }
   ]
 }
