@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Most Indians don\u2019t read for pleasure \u2013 so why does the country have 100 literature festivals?",
+    "link": "https://www.theguardian.com/global-development/2026/feb/09/books-india-literature-festivals-readers",
+    "mean_score": 0.6176,
+    "vader_score": 0.7351,
+    "textblob_score": 0.5,
+    "first_sentence": "India does not have a great book-reading tradition.",
+    "timestamp": "2026-02-09T05:00:51Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Relentless Seahawks pummel Patriots to claim their second Super Bowl title",
+    "link": "https://www.theguardian.com/sport/2026/feb/08/super-bowl-lx-seahawks-patriots",
+    "mean_score": 0.3958,
+    "vader_score": 0.6249,
+    "textblob_score": 0.1667,
+    "first_sentence": "Revenge is a dish best served cold.",
+    "timestamp": "2026-02-09T04:29:55Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Seahawks win Super Bowl title, pounding the Patriots 29-13",
     "link": "https://www.npr.org/2026/02/08/g-s1-109268/seahawks-super-bowl-title",
     "mean_score": 0.6969,
