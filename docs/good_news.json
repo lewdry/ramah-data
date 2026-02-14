@@ -1,6 +1,36 @@
 {
-  "last run": "2026-02-14T09:12:48Z",
+  "last run": "2026-02-14T10:10:27Z",
   "stories": [
+    {
+      "headline": "ChatGPT promised to help her find her soulmate. Then it betrayed her",
+      "link": "https://www.npr.org/2026/02/14/nx-s1-5711441/ai-chatgpt-openai-love-betrayal-delusion-chatbot",
+      "mean_score": 0.3125,
+      "vader_score": 0.6249,
+      "textblob_score": 0.0,
+      "first_sentence": "Micky Small is one of hundreds of millions of people who regularly use AI chatbots.",
+      "timestamp": "2026-02-14T10:00:00Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "Dr. Oz pushes AI avatars as a fix for rural health care. Not so fast, critics say",
+      "link": "https://www.npr.org/2026/02/14/nx-s1-5704189/dr-oz-ai-avatars-replace-rural-health-workers",
+      "mean_score": 0.374,
+      "vader_score": 0.6479,
+      "textblob_score": 0.1,
+      "first_sentence": "Dr.",
+      "timestamp": "2026-02-14T10:00:00Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "\u2018Full of emotional wisdom\u2019: Guardian writers on the best movie romances you might not have seen",
+      "link": "https://www.theguardian.com/film/2026/feb/14/best-romance-movies-you-havent-seen",
+      "mean_score": 0.6232,
+      "vader_score": 0.7964,
+      "textblob_score": 0.45,
+      "first_sentence": "For Valentine\u2019s Day, writers picked their favourite lesser-known film love stories \u2013 from a dom-sub chamberpiece to a magical teen comedy\u2018It launched a million fantasies\u2019: the greatest ever TV romancesIt\u2019s the first rule of romcoms that opposites attract, and you can\u2019t imagine two more different lovers than Poinsettia (Lynn Redgrave), a spark plug of a dame convinced that she is in a relationship with the 19th-century composer Giacomo Puccini, and Fish (James Earl Jones), a gentle giant who spends his spare time wrestling a demon that only he can see.",
+      "timestamp": "2026-02-14T09:07:48Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Live: Aussie medal hope Peel ruled out of Winter Olympics",
       "link": "https://www.abc.net.au/news/2026-02-14/winter-olympics-2026-live-milano-cortina-laura-peel/106344928",
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.1667,
       "first_sentence": "Revenge is a dish best served cold.",
       "timestamp": "2026-02-09T04:29:55Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Seahawks win Super Bowl title, pounding the Patriots 29-13",
-      "link": "https://www.npr.org/2026/02/08/g-s1-109268/seahawks-super-bowl-title",
-      "mean_score": 0.6969,
-      "vader_score": 0.8271,
-      "textblob_score": 0.5667,
-      "first_sentence": "Devon Witherspoon, Derick Hall, Byron Murphy and the rest of Mike Macdonald's ferocious unit pummeled Drake Maye, and the Seattle Seahawks beat the New England Patriots 29-13 on Sunday to win the franchise's second Super Bowl.",
-      "timestamp": "2026-02-09T04:29:07Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "\u2018The best feeling\u2019: Mike Dickson becomes second Australian NFL player to win a Super Bowl",
-      "link": "https://www.theguardian.com/sport/2026/feb/09/super-bowl-nfl-seahawks-win-punter-mike-dickson-australia",
-      "mean_score": 0.6718,
-      "vader_score": 0.9169,
-      "textblob_score": 0.4267,
-      "first_sentence": "Michael Dickson may be the toast of Seattle, sitting on the throne of American sport, but Australia\u2019s second Super Bowl champion still has one craving the USA cannot satisfy: chips with chicken salt.",
-      "timestamp": "2026-02-09T04:25:41Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Merciless Philadelphia Eagles dismantle Kansas City Chiefs to win Super Bowl",
-      "link": "https://www.theguardian.com/sport/2025/feb/10/super-bowl-philadelphia-eagles-beat-kansas-city-chiefs",
-      "mean_score": 0.4858,
-      "vader_score": 0.8271,
-      "textblob_score": 0.1444,
-      "first_sentence": "Seven years after winning their first Vince Lombardi trophy, the Philadelphia Eagles are back on top of the NFL summit.",
-      "timestamp": "2026-02-09T04:24:35Z",
       "source": "The Guardian"
     }
   ]

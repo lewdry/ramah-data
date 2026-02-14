@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Seahawks win Super Bowl title, pounding the Patriots 29-13",
+    "link": "https://www.npr.org/2026/02/08/g-s1-109268/seahawks-super-bowl-title",
+    "mean_score": 0.6969,
+    "vader_score": 0.8271,
+    "textblob_score": 0.5667,
+    "first_sentence": "Devon Witherspoon, Derick Hall, Byron Murphy and the rest of Mike Macdonald's ferocious unit pummeled Drake Maye, and the Seattle Seahawks beat the New England Patriots 29-13 on Sunday to win the franchise's second Super Bowl.",
+    "timestamp": "2026-02-09T04:29:07Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "\u2018The best feeling\u2019: Mike Dickson becomes second Australian NFL player to win a Super Bowl",
+    "link": "https://www.theguardian.com/sport/2026/feb/09/super-bowl-nfl-seahawks-win-punter-mike-dickson-australia",
+    "mean_score": 0.6718,
+    "vader_score": 0.9169,
+    "textblob_score": 0.4267,
+    "first_sentence": "Michael Dickson may be the toast of Seattle, sitting on the throne of American sport, but Australia\u2019s second Super Bowl champion still has one craving the USA cannot satisfy: chips with chicken salt.",
+    "timestamp": "2026-02-09T04:25:41Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Merciless Philadelphia Eagles dismantle Kansas City Chiefs to win Super Bowl",
+    "link": "https://www.theguardian.com/sport/2025/feb/10/super-bowl-philadelphia-eagles-beat-kansas-city-chiefs",
+    "mean_score": 0.4858,
+    "vader_score": 0.8271,
+    "textblob_score": 0.1444,
+    "first_sentence": "Seven years after winning their first Vince Lombardi trophy, the Philadelphia Eagles are back on top of the NFL summit.",
+    "timestamp": "2026-02-09T04:24:35Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Five of our most popular easy vegetarian meals",
     "link": "https://www.abc.net.au/news/2026-02-09/five-simple-tasty-vegetarian-recipes-for-meat-free-monday/106309846",
     "mean_score": 0.626,
