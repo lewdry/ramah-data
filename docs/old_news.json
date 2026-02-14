@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Friends set for new UK streamer as HBO Max reveals launch plans",
+    "link": "https://www.bbc.com/news/articles/c3093e0pyv3o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3065,
+    "vader_score": 0.4767,
+    "textblob_score": 0.1364,
+    "first_sentence": "HBO Max will join the UK's streaming wars with a little help from its Friends - and Euphoria and Harry Potter - after the service confirmed its launch plans.",
+    "timestamp": "2026-02-09T16:40:32Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "From Spielberg to Tarantino: the year\u2019s big Super Bowl movie trailers",
+    "link": "https://www.theguardian.com/film/2026/feb/09/super-bowl-movie-trailers",
+    "mean_score": 0.383,
+    "vader_score": 0.5994,
+    "textblob_score": 0.1667,
+    "first_sentence": "With Super Bowl spots now up to a reported $8-10m, the market has grown a little less welcoming to Hollywood, an industry still not quite up to pre-pandemic numbers (the global box office for 2025 was down almost $10bn on 2019).",
+    "timestamp": "2026-02-09T15:49:55Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Ive and Newson bring old-school charm to Ferrari's first EV interior",
     "link": "https://arstechnica.com/cars/2026/02/ive-and-newson-bring-old-school-charm-to-ferraris-first-ev-interior/",
     "mean_score": 0.3259,
