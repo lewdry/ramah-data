@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-14T20:09:12Z",
+  "last run": "2026-02-14T21:09:52Z",
   "stories": [
+    {
+      "headline": "Beach patrols no problem for surf lifesaver in powered wheelchair",
+      "link": "https://www.abc.net.au/news/2026-02-15/wheelchair-user-surf-lifesaver-port-macquarie/106342866",
+      "mean_score": 0.3617,
+      "vader_score": 0.7234,
+      "textblob_score": 0.0,
+      "first_sentence": "Michael Lord has been using a powered wheelchair for the past six years after being diagnosed with a degenerative neurological condition, cerebellar ataxia.",
+      "timestamp": "2026-02-14T20:30:42Z",
+      "source": "ABC News"
+    },
     {
       "headline": "American speedskater Jordan Stolz wins second Olympic gold with 500-meter race victory",
       "link": "https://www.npr.org/2026/02/14/nx-s1-5714574/speedskater-jordan-stolz-win",
@@ -2490,16 +2500,6 @@
       "first_sentence": "The greatest lie a fanbase tells itself is that there is always next year.",
       "timestamp": "2026-02-09T15:27:33Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Celebrity appearances, controversial ads and other Super Bowl takeaways",
-      "link": "https://www.bbc.com/news/articles/cg5n8lg2jrdo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3647,
-      "vader_score": 0.4767,
-      "textblob_score": 0.2528,
-      "first_sentence": "Latin megastar Bad Bunny performed a medley of his top hits at the Super Bowl on Sunday in a star-studded show that was criticised as \"terrible\" by the US president.",
-      "timestamp": "2026-02-09T14:58:58Z",
-      "source": "BBC News"
     }
   ]
 }
