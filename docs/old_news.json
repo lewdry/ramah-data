@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Hiker 'lucky to be alive' after 30ft fall at beauty spot where others have died",
+    "link": "https://www.bbc.com/news/articles/c301eve3936o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4487,
+    "vader_score": 0.6808,
+    "textblob_score": 0.2167,
+    "first_sentence": "A woman who survived a 30ft (9m) fall at a waterfall beauty spot where several people have died says action should be taken to improve safety.",
+    "timestamp": "2026-02-09T08:20:29Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Japan\u2019s Nikkei hits record high and yen strengthens after Takaichi\u2019s election win \u2013 business live",
+    "link": "https://www.theguardian.com/business/live/2026/feb/09/japan-election-nikkei-record-high-yen-strengthens-takaichi-election-win-keir-starmer-pound-bonds-news-updates",
+    "mean_score": 0.5719,
+    "vader_score": 0.7783,
+    "textblob_score": 0.3655,
+    "first_sentence": "Good morning, and welcome to our rolling coverage of business, the financial markets and the world economy.",
+    "timestamp": "2026-02-09T08:05:18Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Japanese shares hit record high as Sanae Takaichi wins landslide election victory",
     "link": "https://www.theguardian.com/world/2026/feb/09/japanese-shares-hit-record-high-as-sanae-takaichi-wins-landslide-election-victory",
     "mean_score": 0.4315,
