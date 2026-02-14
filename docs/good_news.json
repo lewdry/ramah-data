@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-14T15:10:12Z",
+  "last run": "2026-02-14T16:10:47Z",
   "stories": [
+    {
+      "headline": "Brazil\u2019s Pinheiro Braathen wins gold \u2013 and South America\u2019s first Winter Olympics medal",
+      "link": "https://www.theguardian.com/sport/2026/feb/14/winter-olympics-brazils-pinheiro-braathen-sambas-down-slope-for-south-americas-first-medal",
+      "mean_score": 0.5267,
+      "vader_score": 0.7783,
+      "textblob_score": 0.275,
+      "first_sentence": "As the snow fell in Bormio, and the fog settled in, Lucas Pinheiro Braathen made history by becoming the first South American to win a Winter Olympic medal.",
+      "timestamp": "2026-02-14T15:25:09Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Summerville strike earns 10-man West Ham extra-time FA Cup win at Burton",
+      "link": "https://www.theguardian.com/football/2026/feb/14/burton-albion-west-ham-united-fa-cup-fourth-round-match-report",
+      "mean_score": 0.6553,
+      "vader_score": 0.5106,
+      "textblob_score": 0.8,
+      "first_sentence": "For West Ham\u2019s second string, barring a shock defeat this could barely have been a more uncomfortable afternoon.",
+      "timestamp": "2026-02-14T15:13:46Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "\u2018Nothing says love like chemicals\u2019: Valentine\u2019s roses often covered in pesticides, testing finds",
       "link": "https://www.theguardian.com/lifeandstyle/2026/feb/14/valentines-day-flowers-roses-pesticides-testing",
@@ -10,6 +30,16 @@
       "first_sentence": "Stay away from roses this Valentine\u2019s Day, environmental campaigners have warned after testing revealed them to be heavily contaminated with pesticides.",
       "timestamp": "2026-02-14T15:00:56Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "Tribes grant the Colorado River legal personhood - can this help save it?",
+      "link": "https://www.bbc.com/news/videos/crmlgpnnzyxo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5264,
+      "vader_score": 0.8528,
+      "textblob_score": 0.2,
+      "first_sentence": "Indigenous tribes in the southwestern US, led by the Colorado River Indian Tribes (CRIT), have granted the Colorado River legal personhood to help protect it for future generations.",
+      "timestamp": "2026-02-14T13:13:13Z",
+      "source": "BBC News"
     },
     {
       "headline": "US fixation on the hard-hat economy and making manufacturing great again makes little sense",
@@ -40,6 +70,16 @@
       "first_sentence": "World leaders, including French President Emmanuel Macron, German Chancellor Friedrich Merz and UK Prime Minister Sir Keir Starmer, have been gathering in Munich for Europe's biggest security and defence conference.",
       "timestamp": "2026-02-14T11:55:11Z",
       "source": "BBC News"
+    },
+    {
+      "headline": "Volodymyr Zelenskyy honours disqualified skeleton racer with order of freedom",
+      "link": "https://www.theguardian.com/sport/2026/feb/13/cas-dismisses-ukrainians-appeal-over-helmet-of-memory-disqualification",
+      "mean_score": 0.3404,
+      "vader_score": 0.6808,
+      "textblob_score": 0.0,
+      "first_sentence": "The Ukrainian skeleton racer Vladyslav Heraskevych has been awarded the order of freedom by president Volodymyr Zelenskyy following the controversial decision to bar him from the Winter Olympics.",
+      "timestamp": "2026-02-14T11:46:45Z",
+      "source": "The Guardian"
     },
     {
       "headline": "Anthony creates Aussie Winter Olympic history with epic dual moguls win",
@@ -2460,46 +2500,6 @@
       "first_sentence": "Japan's ruling party scored its biggest electoral win in its seven-decade history Sunday, due mostly to the popularity of its first female prime minister, Sanae Takaichi.",
       "timestamp": "2026-02-09T11:48:37Z",
       "source": "NPR News"
-    },
-    {
-      "headline": "Relentless Seahawks pummel Patriots to claim their second Super Bowl title | First Thing",
-      "link": "https://www.theguardian.com/us-news/2026/feb/09/first-thing-relentless-seahawks-pummel-patriots-to-claim-their-second-super-bowl-title",
-      "mean_score": 0.4097,
-      "vader_score": 0.6249,
-      "textblob_score": 0.1944,
-      "first_sentence": "The Seattle Seahawks beat the New England Patriots 29-13 in Super Bowl LX on Sunday, exacting their revenge against the team that defeated them in the title game 11 years ago.",
-      "timestamp": "2026-02-09T11:25:00Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The pet I\u2019ll never forget: Mishka, the surly but beloved raccoon",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/feb/09/the-pet-ill-never-forget-mishka-raccoon",
-      "mean_score": 0.6993,
-      "vader_score": 0.6987,
-      "textblob_score": 0.7,
-      "first_sentence": "Mishka was about eight weeks old when we got her.",
-      "timestamp": "2026-02-09T11:00:05Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Four top U.S. speedskaters to watch at the Olympics",
-      "link": "https://www.npr.org/2026/02/09/nx-s1-5706525/four-top-u-s-speedskaters-to-watch-at-the-olympics",
-      "mean_score": 0.3512,
-      "vader_score": 0.2023,
-      "textblob_score": 0.5,
-      "first_sentence": "Current Team USA speed skaters are drawing comparisons to past legends, and big hopes for a new gold streak in Milan.",
-      "timestamp": "2026-02-09T10:47:36Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "'Super exciting!' - Seahawks fans celebrate Super Bowl win",
-      "link": "https://www.bbc.com/news/videos/c30934lqv68o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.7116,
-      "vader_score": 0.9628,
-      "textblob_score": 0.4604,
-      "first_sentence": "Fans of the Seattle Seahawks celebrated into the night after their team produced a devastating defensive display to beat the New England Patriots in the Super Bowl.",
-      "timestamp": "2026-02-09T08:53:42Z",
-      "source": "BBC News"
     }
   ]
 }

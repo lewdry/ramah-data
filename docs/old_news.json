@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Relentless Seahawks pummel Patriots to claim their second Super Bowl title | First Thing",
+    "link": "https://www.theguardian.com/us-news/2026/feb/09/first-thing-relentless-seahawks-pummel-patriots-to-claim-their-second-super-bowl-title",
+    "mean_score": 0.4097,
+    "vader_score": 0.6249,
+    "textblob_score": 0.1944,
+    "first_sentence": "The Seattle Seahawks beat the New England Patriots 29-13 in Super Bowl LX on Sunday, exacting their revenge against the team that defeated them in the title game 11 years ago.",
+    "timestamp": "2026-02-09T11:25:00Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "The pet I\u2019ll never forget: Mishka, the surly but beloved raccoon",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/feb/09/the-pet-ill-never-forget-mishka-raccoon",
+    "mean_score": 0.6993,
+    "vader_score": 0.6987,
+    "textblob_score": 0.7,
+    "first_sentence": "Mishka was about eight weeks old when we got her.",
+    "timestamp": "2026-02-09T11:00:05Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Four top U.S. speedskaters to watch at the Olympics",
+    "link": "https://www.npr.org/2026/02/09/nx-s1-5706525/four-top-u-s-speedskaters-to-watch-at-the-olympics",
+    "mean_score": 0.3512,
+    "vader_score": 0.2023,
+    "textblob_score": 0.5,
+    "first_sentence": "Current Team USA speed skaters are drawing comparisons to past legends, and big hopes for a new gold streak in Milan.",
+    "timestamp": "2026-02-09T10:47:36Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "'Super exciting!' - Seahawks fans celebrate Super Bowl win",
+    "link": "https://www.bbc.com/news/videos/c30934lqv68o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.7116,
+    "vader_score": 0.9628,
+    "textblob_score": 0.4604,
+    "first_sentence": "Fans of the Seattle Seahawks celebrated into the night after their team produced a devastating defensive display to beat the New England Patriots in the Super Bowl.",
+    "timestamp": "2026-02-09T08:53:42Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Hiker 'lucky to be alive' after 30ft fall at beauty spot where others have died",
     "link": "https://www.bbc.com/news/articles/c301eve3936o?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.4487,
