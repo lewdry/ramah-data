@@ -1,5 +1,5 @@
 {
-  "last run": "2026-02-14T12:14:39Z",
+  "last run": "2026-02-14T13:22:32Z",
   "stories": [
     {
       "headline": "US fixation on the hard-hat economy and making manufacturing great again makes little sense",
@@ -12,6 +12,16 @@
       "source": "The Guardian"
     },
     {
+      "headline": "\u2018Love, honor, cherish, accommodate\u2019: 16 hard-earned relationship tips",
+      "link": "https://www.theguardian.com/wellness/2026/feb/14/healthy-good-relationship-tips-advice",
+      "mean_score": 0.6001,
+      "vader_score": 0.7003,
+      "textblob_score": 0.5,
+      "first_sentence": "For some couples, it\u2019s important to share hobbies.",
+      "timestamp": "2026-02-14T12:00:52Z",
+      "source": "The Guardian"
+    },
+    {
       "headline": "Rubio speech signals US-Europe relations are bruised but still friendly",
       "link": "https://www.bbc.com/news/articles/crk80vgrj2eo?at_medium=RSS&at_campaign=rss",
       "mean_score": 0.5118,
@@ -20,6 +30,16 @@
       "first_sentence": "World leaders, including French President Emmanuel Macron, German Chancellor Friedrich Merz and UK Prime Minister Sir Keir Starmer, have been gathering in Munich for Europe's biggest security and defence conference.",
       "timestamp": "2026-02-14T11:55:11Z",
       "source": "BBC News"
+    },
+    {
+      "headline": "Anthony creates Aussie Winter Olympic history with epic dual moguls win",
+      "link": "https://www.abc.net.au/news/2026-02-14/winter-olympics-2026-milano-cortina-jakara-anthony-gold/106345576",
+      "mean_score": 0.5798,
+      "vader_score": 0.7096,
+      "textblob_score": 0.45,
+      "first_sentence": "Jakara Anthony won the women's dual moguls at the Milano Cortina Winter Olympics.",
+      "timestamp": "2026-02-14T11:30:19Z",
+      "source": "ABC News"
     },
     {
       "headline": "Gavin & Stacey is the best show ever, says Margot Robbie",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.3655,
       "first_sentence": "Good morning, and welcome to our rolling coverage of business, the financial markets and the world economy.",
       "timestamp": "2026-02-09T08:05:18Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Japanese shares hit record high as Sanae Takaichi wins landslide election victory",
-      "link": "https://www.theguardian.com/world/2026/feb/09/japanese-shares-hit-record-high-as-sanae-takaichi-wins-landslide-election-victory",
-      "mean_score": 0.4315,
-      "vader_score": 0.7096,
-      "textblob_score": 0.1533,
-      "first_sentence": "Japan\u2019s stock market has hit a record high after Sanae Takaichi\u2019s Liberal Democratic party (LDP) secured a comprehensive victory in Sunday\u2019s election.",
-      "timestamp": "2026-02-09T07:50:43Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "A new start after 60: I became a wrestler, 50 years after falling in love with the sport",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/feb/09/a-new-start-after-60-i-became-a-wrestler-50-years-after-falling-in-love-with-the-sport",
-      "mean_score": 0.4378,
-      "vader_score": 0.5574,
-      "textblob_score": 0.3182,
-      "first_sentence": "On the night of her 60th birthday, Sally Goldner climbed on to the top rope of the wrestling ring, to the roars of the crowd, and launched herself on to her competitors with a missile dropkick.",
-      "timestamp": "2026-02-09T07:00:54Z",
       "source": "The Guardian"
     }
   ]
