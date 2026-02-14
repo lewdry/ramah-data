@@ -1,6 +1,56 @@
 {
-  "last run": "2026-02-14T19:11:48Z",
+  "last run": "2026-02-14T20:09:12Z",
   "stories": [
+    {
+      "headline": "American speedskater Jordan Stolz wins second Olympic gold with 500-meter race victory",
+      "link": "https://www.npr.org/2026/02/14/nx-s1-5714574/speedskater-jordan-stolz-win",
+      "mean_score": 0.3359,
+      "vader_score": 0.5719,
+      "textblob_score": 0.1,
+      "first_sentence": "CORTINA D'AMPEZZO, Italy \u2014 Jordan Stolz is 2 for 2.",
+      "timestamp": "2026-02-14T19:02:42Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "The \u2018grey divorce\u2019 phenomenon doesn\u2019t signal a retreat from love. It\u2019s a redefinition of it | Lisa Portolan",
+      "link": "https://www.theguardian.com/commentisfree/2026/feb/14/the-grey-divorce-phenomenon-doesnt-signal-a-retreat-from-love-its-a-redefinition-of-it",
+      "mean_score": 0.4717,
+      "vader_score": 0.7184,
+      "textblob_score": 0.225,
+      "first_sentence": "As Valentine\u2019s Day approached this week, we were once again flooded with the usual suspects: roses, chocolates, sophisticated dinners and glossy ads featuring young heterosexual couples staring earnestly into each other\u2019s eyes.",
+      "timestamp": "2026-02-14T19:00:04Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "The refugee helping migrant women in Melbourne\u2019s west: \u2018Employment is one of the greatest ways to empower women\u2019",
+      "link": "https://www.theguardian.com/australia-news/2026/feb/15/samia-baho-profile-refugee-helping-migrant-women-melbourne",
+      "mean_score": 0.8753,
+      "vader_score": 0.7506,
+      "textblob_score": 1.0,
+      "first_sentence": "Samia Baho is brewing coffee behind a food counter filled with za\u2019atar flatbreads, spinach and cheese pastries, and baklavas.",
+      "timestamp": "2026-02-14T19:00:04Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "I took up paddleboarding in my 60s. In the water I feel calm; on land I feel strong",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/feb/14/stand-up-paddleboarding-body-exercise-age-paddle-board",
+      "mean_score": 0.5237,
+      "vader_score": 0.6808,
+      "textblob_score": 0.3667,
+      "first_sentence": "At 66, I don\u2019t feel old, but according to my grandsons, I\u2019m ancient.",
+      "timestamp": "2026-02-14T19:00:03Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "The Sunday Read: Brigid Delaney wants you to be kinder - podcast",
+      "link": "https://www.theguardian.com/australia-news/audio/2026/feb/15/the-sunday-read-brigid-delaney-wants-you-to-be-kinder-full-story-podcast",
+      "mean_score": 0.3469,
+      "vader_score": 0.4939,
+      "textblob_score": 0.2,
+      "first_sentence": "Every Sunday, we\u2019ll bring you some of the Guardian\u2019s best stories from the week.",
+      "timestamp": "2026-02-14T19:00:03Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Ukraine wants 20-year US security guarantee to sign peace deal",
       "link": "https://www.theguardian.com/world/2026/feb/14/ukraine-wants-20-year-us-security-guarantee-to-sign-peace-deal",
@@ -2450,56 +2500,6 @@
       "first_sentence": "Latin megastar Bad Bunny performed a medley of his top hits at the Super Bowl on Sunday in a star-studded show that was criticised as \"terrible\" by the US president.",
       "timestamp": "2026-02-09T14:58:58Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Heather contracted HIV on an overseas holiday. Women like her are more likely to be overlooked by doctors in Australia",
-      "link": "https://www.theguardian.com/australia-news/2026/feb/10/women-hiv-high-risk-group-australia",
-      "mean_score": 0.4375,
-      "vader_score": 0.6249,
-      "textblob_score": 0.25,
-      "first_sentence": "When Heather Ellis travelled the world by motorcycle in 1993, the Grim Reaper Aids ads were fresh in the then-28-year-old\u2019s mind.",
-      "timestamp": "2026-02-09T14:00:22Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "My rookie era: on my first ski trip, I felt like a natural \u2013 then I was rapidly humbled by the mountain",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/feb/09/rookie-era-first-ski-trip",
-      "mean_score": 0.3937,
-      "vader_score": 0.6124,
-      "textblob_score": 0.175,
-      "first_sentence": "Twenty hot lesbians in a cabin in the snow.",
-      "timestamp": "2026-02-09T14:00:19Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "No 10 claims Starmer \u2018positive, confident and determined\u2019 despite resignation of two key aides in 24 hours \u2013 UK politics live",
-      "link": "https://www.theguardian.com/politics/live/2026/feb/09/starmer-mandelson-epstein-labour-mcsweeney-conservatives-latest-news-updates",
-      "mean_score": 0.3271,
-      "vader_score": 0.4382,
-      "textblob_score": 0.2159,
-      "first_sentence": "The No 10 lobby briefing has just finished.",
-      "timestamp": "2026-02-09T13:14:38Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Georgina Hayden\u2019s quick and easy recipe for creamy chicken and mustard fricassee | Quick and easy",
-      "link": "https://www.theguardian.com/food/2026/feb/09/quick-easy-creamy-chicken-mustard-fricassee-recipe-georgina-hayden",
-      "mean_score": 0.4435,
-      "vader_score": 0.7003,
-      "textblob_score": 0.1867,
-      "first_sentence": "This is a one-pan dinner at its finest: elegant and full of flavour, something that feels as if it has taken more effort and time than it actually has, and versatile in its finish \u2013 serve with creamy mash, fluffy rice, boiled potatoes; even hunks of fresh baguette would be wonderful for mopping up the creamy mustard sauce.",
-      "timestamp": "2026-02-09T13:00:16Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Children with special needs in England will keep current support, minister says",
-      "link": "https://www.theguardian.com/education/2026/feb/09/children-special-needs-england-keep-current-support-minister-says",
-      "mean_score": 0.4191,
-      "vader_score": 0.6597,
-      "textblob_score": 0.1786,
-      "first_sentence": "Children with special needs will not lose their places at special schools or current levels of assistance, an education minister has told parents anxious that the government would strip away their child\u2019s support.",
-      "timestamp": "2026-02-09T12:54:56Z",
-      "source": "The Guardian"
     }
   ]
 }

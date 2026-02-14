@@ -1,5 +1,55 @@
 [
   {
+    "headline": "Heather contracted HIV on an overseas holiday. Women like her are more likely to be overlooked by doctors in Australia",
+    "link": "https://www.theguardian.com/australia-news/2026/feb/10/women-hiv-high-risk-group-australia",
+    "mean_score": 0.4375,
+    "vader_score": 0.6249,
+    "textblob_score": 0.25,
+    "first_sentence": "When Heather Ellis travelled the world by motorcycle in 1993, the Grim Reaper Aids ads were fresh in the then-28-year-old\u2019s mind.",
+    "timestamp": "2026-02-09T14:00:22Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "My rookie era: on my first ski trip, I felt like a natural \u2013 then I was rapidly humbled by the mountain",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/feb/09/rookie-era-first-ski-trip",
+    "mean_score": 0.3937,
+    "vader_score": 0.6124,
+    "textblob_score": 0.175,
+    "first_sentence": "Twenty hot lesbians in a cabin in the snow.",
+    "timestamp": "2026-02-09T14:00:19Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "No 10 claims Starmer \u2018positive, confident and determined\u2019 despite resignation of two key aides in 24 hours \u2013 UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/feb/09/starmer-mandelson-epstein-labour-mcsweeney-conservatives-latest-news-updates",
+    "mean_score": 0.3271,
+    "vader_score": 0.4382,
+    "textblob_score": 0.2159,
+    "first_sentence": "The No 10 lobby briefing has just finished.",
+    "timestamp": "2026-02-09T13:14:38Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Georgina Hayden\u2019s quick and easy recipe for creamy chicken and mustard fricassee | Quick and easy",
+    "link": "https://www.theguardian.com/food/2026/feb/09/quick-easy-creamy-chicken-mustard-fricassee-recipe-georgina-hayden",
+    "mean_score": 0.4435,
+    "vader_score": 0.7003,
+    "textblob_score": 0.1867,
+    "first_sentence": "This is a one-pan dinner at its finest: elegant and full of flavour, something that feels as if it has taken more effort and time than it actually has, and versatile in its finish \u2013 serve with creamy mash, fluffy rice, boiled potatoes; even hunks of fresh baguette would be wonderful for mopping up the creamy mustard sauce.",
+    "timestamp": "2026-02-09T13:00:16Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Children with special needs in England will keep current support, minister says",
+    "link": "https://www.theguardian.com/education/2026/feb/09/children-special-needs-england-keep-current-support-minister-says",
+    "mean_score": 0.4191,
+    "vader_score": 0.6597,
+    "textblob_score": 0.1786,
+    "first_sentence": "Children with special needs will not lose their places at special schools or current levels of assistance, an education minister has told parents anxious that the government would strip away their child\u2019s support.",
+    "timestamp": "2026-02-09T12:54:56Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "The latest on the search for Nancy Guthrie. And, takeaways from Super Bowl 60",
     "link": "https://www.npr.org/2026/02/09/g-s1-109304/up-first-newsletter-nancy-guthrie-ghislane-maxwell-super-bowl-60-state-department",
     "mean_score": 0.508,
