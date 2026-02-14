@@ -1,5 +1,5 @@
 {
-  "last run": "2026-02-14T21:09:52Z",
+  "last run": "2026-02-14T22:08:51Z",
   "stories": [
     {
       "headline": "Beach patrols no problem for surf lifesaver in powered wheelchair",
@@ -82,6 +82,16 @@
       "source": "The Guardian"
     },
     {
+      "headline": "Burnley turfed out of FA Cup on perfect day for Louis Reed and Mansfield",
+      "link": "https://www.theguardian.com/football/2026/feb/14/burnley-mansfield-town-fa-cup-fourth-round-match-report",
+      "mean_score": 0.7859,
+      "vader_score": 0.5719,
+      "textblob_score": 1.0,
+      "first_sentence": "Mansfield gave blood and sweat to reach the FA Cup fifth round for the first time in more than 50 years and reduced a desperate Burnley to tears.",
+      "timestamp": "2026-02-14T17:12:51Z",
+      "source": "The Guardian"
+    },
+    {
       "headline": "Brazil\u2019s Pinheiro Braathen wins gold \u2013 and South America\u2019s first Winter Olympics medal",
       "link": "https://www.theguardian.com/sport/2026/feb/14/winter-olympics-brazils-pinheiro-braathen-sambas-down-slope-for-south-americas-first-medal",
       "mean_score": 0.5267,
@@ -89,6 +99,16 @@
       "textblob_score": 0.275,
       "first_sentence": "As the snow fell in Bormio, and the fog settled in, Lucas Pinheiro Braathen made history by becoming the first South American to win a Winter Olympic medal.",
       "timestamp": "2026-02-14T15:25:09Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Tom Banton powers England to emphatic T20 World Cup win over Scotland",
+      "link": "https://www.theguardian.com/sport/2026/feb/14/england-scotland-t20-world-cup-cricket-match-report",
+      "mean_score": 0.6929,
+      "vader_score": 0.5859,
+      "textblob_score": 0.8,
+      "first_sentence": "In the city where a few handfuls of rupees were melted down to make the original Calcutta Cup, it was Scotland who lost their shape when the heat started to rise and the pressure to build.",
+      "timestamp": "2026-02-14T15:15:56Z",
       "source": "The Guardian"
     },
     {
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.1667,
       "first_sentence": "With Super Bowl spots now up to a reported $8-10m, the market has grown a little less welcoming to Hollywood, an industry still not quite up to pre-pandemic numbers (the global box office for 2025 was down almost $10bn on 2019).",
       "timestamp": "2026-02-09T15:49:55Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Ive and Newson bring old-school charm to Ferrari's first EV interior",
-      "link": "https://arstechnica.com/cars/2026/02/ive-and-newson-bring-old-school-charm-to-ferraris-first-ev-interior/",
-      "mean_score": 0.3259,
-      "vader_score": 0.4019,
-      "textblob_score": 0.25,
-      "first_sentence": "Analogue dials, aluminum switches, and plenty of buttons for the Ferrari Luce.",
-      "timestamp": "2026-02-09T15:44:33Z",
-      "source": "Ars Technica"
-    },
-    {
-      "headline": "The flawed Patriots face a harsh truth: only the very best teams get a Super Bowl sequel",
-      "link": "https://www.theguardian.com/sport/2026/feb/09/new-england-patriots-super-bowl-lx-nfl",
-      "mean_score": 0.4084,
-      "vader_score": 0.6901,
-      "textblob_score": 0.1267,
-      "first_sentence": "The greatest lie a fanbase tells itself is that there is always next year.",
-      "timestamp": "2026-02-09T15:27:33Z",
       "source": "The Guardian"
     }
   ]
