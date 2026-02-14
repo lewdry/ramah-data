@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-14T01:39:46Z",
+  "last run": "2026-02-14T03:04:39Z",
   "stories": [
+    {
+      "headline": "Australia and EU on verge of striking free trade deal long stalled by beef, parmesan and prosecco",
+      "link": "https://www.theguardian.com/australia-news/2026/feb/14/australia-eu-free-trade-deal-negotiations-brussels-parmesan-and-prosecco",
+      "mean_score": 0.3223,
+      "vader_score": 0.3612,
+      "textblob_score": 0.2833,
+      "first_sentence": "Australia and the EU are on the brink of striking a long sought after free trade agreement, with both sides talking up significant progress during talks in Brussels overnight.",
+      "timestamp": "2026-02-14T02:13:46Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "She didn't expect to fall in love with a chatbot - and then have to say goodbye",
       "link": "https://www.bbc.com/news/articles/crl43dxwwy9o?at_medium=RSS&at_campaign=rss",
@@ -2490,16 +2500,6 @@
       "first_sentence": "On a winter morning in 2022 Raphael Wong and Figo Chan walked into Hong Kong's Stanley prison to meet Jimmy Lai, the media billionaire who had been arrested two years before and was awaiting trial charged with national security offences.",
       "timestamp": "2026-02-09T02:59:50Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Perth festival 2026: Swan River bursts to life with a stunning trail of stories and light",
-      "link": "https://www.theguardian.com/culture/2026/feb/09/perth-festival-2026-opening-review",
-      "mean_score": 0.5752,
-      "vader_score": 0.7003,
-      "textblob_score": 0.45,
-      "first_sentence": "As families gather for sunset at Perth\u2019s Kings Park, a giant golden orb glows on the horizon, shooting ribbons of light into the night sky.",
-      "timestamp": "2026-02-09T02:55:42Z",
-      "source": "The Guardian"
     }
   ]
 }
