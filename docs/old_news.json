@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Outback artist finds fame in Japan thanks to tote bag and J-pop star",
+    "link": "https://www.abc.net.au/news/2026-02-10/broken-hill-artist-exhibits-in-japan-fujii-kaze-jpop-star/106304746",
+    "mean_score": 0.4502,
+    "vader_score": 0.7003,
+    "textblob_score": 0.2,
+    "first_sentence": "A chance brush with fame led to Jason McCarthur's art exploding in popularity in Japan after J-pop star Fujii Kaze was spotted with one of the outback artist's bags.",
+    "timestamp": "2026-02-10T00:07:18Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Japan has given Takaichi a landslide win - but can she bring back the economy?",
+    "link": "https://www.bbc.com/news/articles/cddn7qed35eo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.37,
+    "vader_score": 0.34,
+    "textblob_score": 0.4,
+    "first_sentence": "Japan's prime minister, Sanae Takaichi, rolled the dice on a snap election - and it paid off.",
+    "timestamp": "2026-02-09T23:02:34Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Olympians say don't run or jump while celebrating as more medals break",
     "link": "https://www.abc.net.au/news/2026-02-10/winter-olympics-medals-breaking-breezy-johnson-alysa-liu/106325112",
     "mean_score": 0.5359,
