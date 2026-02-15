@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Moroccan lamb filo pie and rhubarb panna cotta: Thomasina Miers\u2019 Sunday best recipes",
+    "link": "https://www.theguardian.com/food/2026/feb/10/moroccan-lamb-filo-pie-rhubarb-panna-cotta-recipes-thomasina-miers",
+    "mean_score": 0.8185,
+    "vader_score": 0.6369,
+    "textblob_score": 1.0,
+    "first_sentence": "There is little as pleasing to cook in the depths of the winter as a pot of enticingly fragrant, slow-braised meat.",
+    "timestamp": "2026-02-10T06:00:15Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "At school, I was my brother's protector. But I needed more support",
+    "link": "https://www.abc.net.au/news/2026-02-10/support-i-wish-i-had-at-school-while-caring-for-my-brother/106279156",
+    "mean_score": 0.5555,
+    "vader_score": 0.611,
+    "textblob_score": 0.5,
+    "first_sentence": "Michael Roberts remembers the day he was pulled out of a maths test to help his brother.",
+    "timestamp": "2026-02-10T05:46:43Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "'A hug, a quick kiss': How to reconnect after having children",
     "link": "https://www.bbc.com/news/articles/ce3kvw4q29wo?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.5215,
