@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-15T11:09:42Z",
+  "last run": "2026-02-15T12:15:54Z",
   "stories": [
+    {
+      "headline": "Winter Olympics 2026: Canada\u2019s Kingsbury wins men\u2019s dual moguls; women\u2019s giant slalom and monobob updates \u2013 live",
+      "link": "https://www.theguardian.com/sport/live/2026/feb/15/winter-olympics-2026-skiing-snowboarding-biathlon-ski-jumping-live",
+      "mean_score": 0.3587,
+      "vader_score": 0.5719,
+      "textblob_score": 0.1455,
+      "first_sentence": "Norway\u2019s Johannes Hoesflot Kl\u00e6bo crosses the finish line well in first and he is surrounded by his teammates.",
+      "timestamp": "2026-02-15T12:04:35Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Breaking: Matt Graham wins bronze at dual moguls",
+      "link": "https://www.abc.net.au/news/2026-02-15/dual-moguls-2026-winter-olympic-games/106346230",
+      "mean_score": 0.4359,
+      "vader_score": 0.5719,
+      "textblob_score": 0.3,
+      "first_sentence": "Matt Graham has won Winter Olympic bronze in a chaotic dual moguls competition.",
+      "timestamp": "2026-02-15T11:24:07Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Love is in the big air for Ukrainian skier after reaching Winter Olympics final",
       "link": "https://www.theguardian.com/sport/2026/feb/15/ukrainian-skier-kateryna-kotsar-gets-engaged-winter-olympics-big-air-final",
@@ -2480,26 +2500,6 @@
       "first_sentence": "The Crisafulli government has appointed three energy companies as tenderers for oil and gas exploration in the Taroom Trough.",
       "timestamp": "2026-02-10T06:58:52Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Buddhist monks head to DC to finish a 'Walk for Peace' that captivated millions",
-      "link": "https://www.npr.org/2026/02/10/g-s1-109416/buddhist-monks-finish-walk-for-peace",
-      "mean_score": 0.3634,
-      "vader_score": 0.7269,
-      "textblob_score": 0.0,
-      "first_sentence": "WASHINGTON \u2014 A group of Buddhist monks is set to reach Washington, D.C., on foot Tuesday, capping a trek from Texas that has captivated the country.",
-      "timestamp": "2026-02-10T06:56:01Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Cambridge University wins rowing trademark case",
-      "link": "https://www.bbc.com/news/articles/cgqeww4w4ywo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4359,
-      "vader_score": 0.5719,
-      "textblob_score": 0.3,
-      "first_sentence": "The University of Cambridge has won its fight to stop a rowing company based in the city trademarking its name.",
-      "timestamp": "2026-02-10T06:13:28Z",
-      "source": "BBC News"
     }
   ]
 }
