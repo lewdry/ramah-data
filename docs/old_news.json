@@ -1,5 +1,25 @@
 [
   {
+    "headline": "An ape, a tea party \u2014 and the ability to imagine",
+    "link": "https://www.npr.org/2026/02/10/nx-s1-5707560/apes-imagination-research-bonobos-cognition",
+    "mean_score": 0.3062,
+    "vader_score": 0.6124,
+    "textblob_score": 0.0,
+    "first_sentence": "Kanzi, whose name means \"treasure\" in Swahili, was born in 1980 and died in 2025 at the age of 44.",
+    "timestamp": "2026-02-10T12:00:00Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "'Concrete masterpiece': London's brutalist Southbank Centre granted Grade II listed status",
+    "link": "https://www.bbc.com/news/articles/c8d5je92j2ro?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4385,
+    "vader_score": 0.7269,
+    "textblob_score": 0.15,
+    "first_sentence": "A building once described as \"Britain's ugliest\" has been granted Grade II listed status, ending a 35\u2011year campaign to secure protection for one of London's Brutalist landmarks.",
+    "timestamp": "2026-02-10T11:18:23Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Europeans shunning US as Emirates and Asia travel prove popular, says Tui",
     "link": "https://www.theguardian.com/business/2026/feb/10/europeans-us-emirates-asia-travel-tui-trump-immigration-crackdown",
     "mean_score": 0.5108,
