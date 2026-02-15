@@ -1,5 +1,25 @@
 [
   {
+    "headline": "How to spot AI-generated social media that acts like a 'snake eating its own tail'",
+    "link": "https://www.abc.net.au/news/2026-02-10/ai-generated-text-predictive-models-formulaic-social-media/106313944",
+    "mean_score": 0.3389,
+    "vader_score": 0.3612,
+    "textblob_score": 0.3167,
+    "first_sentence": "The age of AI is here and it's going to be infinitely useful, or so they tell us.",
+    "timestamp": "2026-02-09T22:48:55Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "McLaren unveils livery as Piastri takes positive approach into 2026",
+    "link": "https://www.abc.net.au/news/2026-02-10/mclaren-unveil-livery-for-mcl40-ahead-of-2026-f1-season/106324952",
+    "mean_score": 0.3923,
+    "vader_score": 0.5574,
+    "textblob_score": 0.2273,
+    "first_sentence": "Formula 1 champions McLaren have unveiled their livery for the 2026 championship season.",
+    "timestamp": "2026-02-09T20:59:53Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Winter Olympics 2026: Jutta Leerdam takes speed skating gold but GB medal wait goes on \u2013 live",
     "link": "https://www.theguardian.com/sport/live/2026/feb/09/winter-olympics-2026-live-day-three",
     "mean_score": 0.3837,
