@@ -1,5 +1,5 @@
 {
-  "last run": "2026-02-15T03:10:31Z",
+  "last run": "2026-02-15T04:44:43Z",
   "stories": [
     {
       "headline": "Treacherous strait swim the latest step to ocean challenge dream",
@@ -100,6 +100,16 @@
       "first_sentence": "Michael Lord has been using a powered wheelchair for the past six years after being diagnosed with a degenerative neurological condition, cerebellar ataxia.",
       "timestamp": "2026-02-14T20:30:42Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "'Unprecedented times': Jakara Anthony's Olympic gold secures record medal haul for Australia",
+      "link": "https://www.sbs.com.au/news/article/jakara-anthony-winter-olympics-gold-medal/dbfe6nwgy",
+      "mean_score": 0.6299,
+      "vader_score": 0.6597,
+      "textblob_score": 0.6,
+      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+      "timestamp": "2026-02-14T20:30:23Z",
+      "source": "SBS News"
     },
     {
       "headline": "American speedskater Jordan Stolz wins second Olympic gold with 500-meter race victory",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Formula 1 champions McLaren have unveiled their livery for the 2026 championship season.",
       "timestamp": "2026-02-09T20:59:53Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Winter Olympics 2026: Jutta Leerdam takes speed skating gold but GB medal wait goes on \u2013 live",
-      "link": "https://www.theguardian.com/sport/live/2026/feb/09/winter-olympics-2026-live-day-three",
-      "mean_score": 0.3837,
-      "vader_score": 0.631,
-      "textblob_score": 0.1364,
-      "first_sentence": "What a finale.",
-      "timestamp": "2026-02-09T20:03:32Z",
-      "source": "The Guardian"
     }
   ]
 }
