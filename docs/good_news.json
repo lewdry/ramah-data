@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-15T00:45:23Z",
+  "last run": "2026-02-15T01:40:05Z",
   "stories": [
+    {
+      "headline": "Specialised nippers program teaches kids with disability to swim safely",
+      "link": "https://www.abc.net.au/news/2026-02-15/starfish-nippers-teaches-children-with-disability-to-swim-safely/106325630",
+      "mean_score": 0.497,
+      "vader_score": 0.4939,
+      "textblob_score": 0.5,
+      "first_sentence": "Abby Tate, wearing the red and yellow uniform of a lifesaver, is giving a group of children a pep talk on the Inverloch surf beach on a baking summer's day.",
+      "timestamp": "2026-02-15T01:04:14Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "What the Nigella Lawson effect will mean for the Great British Bake Off",
+      "link": "https://www.bbc.com/news/articles/cgmlvl48202o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3937,
+      "vader_score": 0.6249,
+      "textblob_score": 0.1625,
+      "first_sentence": "When Nigella Lawson was named as the new judge on the Great British Bake Off, the news was greeted with applause, perhaps a sigh of relief, and a general sense of \"oh, of course\".",
+      "timestamp": "2026-02-15T00:33:19Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Supporting and connecting Deaf people, Olivia finds her calling more than just a job",
       "link": "https://www.abc.net.au/news/2026-02-15/olivia-supports-and-connect-deaf-community/106230034",
@@ -12,6 +32,16 @@
       "source": "ABC News"
     },
     {
+      "headline": "How to get the best view of the Northern Lights in 2026",
+      "link": "https://www.bbc.com/news/articles/clyzw90xnjzo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.8185,
+      "vader_score": 0.6369,
+      "textblob_score": 1.0,
+      "first_sentence": "Watching and capturing the vivid purples, reds and greens of the Northern Lights in skies across the UK has become a bucket-list experience for many people in recent years.",
+      "timestamp": "2026-02-15T00:22:38Z",
+      "source": "BBC News"
+    },
+    {
       "headline": "Origin coaches hail the successful return of interstate Aussie rules",
       "link": "https://www.abc.net.au/news/2026-02-15/afl-state-of-origin-coaches-hail-success-of-concept/106346486",
       "mean_score": 0.6875,
@@ -19,6 +49,16 @@
       "textblob_score": 0.75,
       "first_sentence": "Both head coaches for Victoria and Western Australia are hailing the success of AFL State of Origin's return.",
       "timestamp": "2026-02-14T23:41:36Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Four decades since Crocodile Dundee, NT films ride new wave of popularity",
+      "link": "https://www.abc.net.au/news/2026-02-15/nt-film-industry-on-national-stage-at-aacta-awards-movies/106345258",
+      "mean_score": 0.3065,
+      "vader_score": 0.4767,
+      "textblob_score": 0.1364,
+      "first_sentence": "Kangaroo, filmed in Alice Springs, is making waves globally and became Germany's highest grossing Australian film in 25 years.",
+      "timestamp": "2026-02-14T22:53:19Z",
       "source": "ABC News"
     },
     {
@@ -2460,46 +2500,6 @@
       "first_sentence": "As Keir Starmer fights for his political life, the contest to replace him has already begun.",
       "timestamp": "2026-02-09T20:00:00Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Troubles-rooted play Sapling wins Women\u2019s prize for playwriting",
-      "link": "https://www.theguardian.com/stage/2026/feb/09/troubles-rooted-play-sapling-wins-womens-prize-for-playwriting",
-      "mean_score": 0.5777,
-      "vader_score": 0.8555,
-      "textblob_score": 0.3,
-      "first_sentence": "A work that explores what happens when trauma is left to fester, set in Troubles-era Belfast, has been named the winner of the Women\u2019s prize for playwriting 2025.",
-      "timestamp": "2026-02-09T19:30:00Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Australians' super savings exposed as clouds gather over tech boom",
-      "link": "https://www.abc.net.au/news/2026-02-10/ai-disrupts-tech-boom-shares-drop/106323844",
-      "mean_score": 0.4454,
-      "vader_score": 0.5574,
-      "textblob_score": 0.3333,
-      "first_sentence": "Last week, US tech giant Microsoft released a list of jobs likely to be swept aside in the upcoming artificial intelligence storm along with a corresponding list of occupations deemed relatively resilient to the impending onslaught.",
-      "timestamp": "2026-02-09T19:22:02Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Jon Kudelka's take on Rudd v Gillard one of his best, says Insiders host",
-      "link": "https://www.abc.net.au/news/2026-02-10/jon-kudelka-tasmanian-cartoonist-illustrator-obituary/106322196",
-      "mean_score": 0.8185,
-      "vader_score": 0.6369,
-      "textblob_score": 1.0,
-      "first_sentence": "Jon Kudelka, who died on Sunday aged 53, has been remembered as a \"cartoonist's cartoonist\" able to \"cut through complex political issues\".",
-      "timestamp": "2026-02-09T18:43:32Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Arizona holds No. 1 spot for 9th week in AP Top 25; Houston rises to No. 3, Kentucky returns at 25th",
-      "link": "https://apnews.com/article/ap-top-25-poll-arizona-kentucky-2424dd3a4c00af3339f88de3ed400f31",
-      "mean_score": 0.3512,
-      "vader_score": 0.2023,
-      "textblob_score": 0.5,
-      "first_sentence": "Arizona remained firmly atop The Associated Press Top 25 men\u2019s college basketball poll for a ninth consecutive week Monday, while Houston jumped back into the top 5 and Kentucky returned to the rankings for the first time since December.",
-      "timestamp": "2026-02-09T18:23:02Z",
-      "source": "AP News"
     }
   ]
 }

@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Troubles-rooted play Sapling wins Women\u2019s prize for playwriting",
+    "link": "https://www.theguardian.com/stage/2026/feb/09/troubles-rooted-play-sapling-wins-womens-prize-for-playwriting",
+    "mean_score": 0.5777,
+    "vader_score": 0.8555,
+    "textblob_score": 0.3,
+    "first_sentence": "A work that explores what happens when trauma is left to fester, set in Troubles-era Belfast, has been named the winner of the Women\u2019s prize for playwriting 2025.",
+    "timestamp": "2026-02-09T19:30:00Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Australians' super savings exposed as clouds gather over tech boom",
+    "link": "https://www.abc.net.au/news/2026-02-10/ai-disrupts-tech-boom-shares-drop/106323844",
+    "mean_score": 0.4454,
+    "vader_score": 0.5574,
+    "textblob_score": 0.3333,
+    "first_sentence": "Last week, US tech giant Microsoft released a list of jobs likely to be swept aside in the upcoming artificial intelligence storm along with a corresponding list of occupations deemed relatively resilient to the impending onslaught.",
+    "timestamp": "2026-02-09T19:22:02Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Jon Kudelka's take on Rudd v Gillard one of his best, says Insiders host",
+    "link": "https://www.abc.net.au/news/2026-02-10/jon-kudelka-tasmanian-cartoonist-illustrator-obituary/106322196",
+    "mean_score": 0.8185,
+    "vader_score": 0.6369,
+    "textblob_score": 1.0,
+    "first_sentence": "Jon Kudelka, who died on Sunday aged 53, has been remembered as a \"cartoonist's cartoonist\" able to \"cut through complex political issues\".",
+    "timestamp": "2026-02-09T18:43:32Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Arizona holds No. 1 spot for 9th week in AP Top 25; Houston rises to No. 3, Kentucky returns at 25th",
+    "link": "https://apnews.com/article/ap-top-25-poll-arizona-kentucky-2424dd3a4c00af3339f88de3ed400f31",
+    "mean_score": 0.3512,
+    "vader_score": 0.2023,
+    "textblob_score": 0.5,
+    "first_sentence": "Arizona remained firmly atop The Associated Press Top 25 men\u2019s college basketball poll for a ninth consecutive week Monday, while Houston jumped back into the top 5 and Kentucky returned to the rankings for the first time since December.",
+    "timestamp": "2026-02-09T18:23:02Z",
+    "source": "AP News"
+  },
+  {
     "headline": "Disclosure Day Super Bowl trailer: Could it be... aliens?",
     "link": "https://arstechnica.com/culture/2026/02/disclosure-day-super-bowl-trailer-could-it-be-aliens/",
     "mean_score": 0.4664,
