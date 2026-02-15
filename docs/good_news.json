@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-15T20:09:40Z",
+  "last run": "2026-02-15T21:10:14Z",
   "stories": [
+    {
+      "headline": "'Extremely lenient': Box Hill North players sanctioned over inappropriate photos",
+      "link": "https://www.abc.net.au/news/2026-02-16/box-hill-north-football-players-sanctions-inappropriate-photos/106345128",
+      "mean_score": 0.4192,
+      "vader_score": 0.3384,
+      "textblob_score": 0.5,
+      "first_sentence": "The Box Hill North Football Club players involved in inappropriate photos posted online after their \"Silly Saturday\" post-season celebrations have been sanctioned by the league's governing body.",
+      "timestamp": "2026-02-15T19:10:13Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Youssef Chermiti hat-trick powers Rangers to victory over leaders Hearts",
+      "link": "https://www.theguardian.com/football/2026/feb/15/rangers-hearts-scottish-premiership-match-report",
+      "mean_score": 0.3243,
+      "vader_score": 0.6486,
+      "textblob_score": 0.0,
+      "first_sentence": "Hearts will take no consolation whatsoever from the fact their progress to the status of serious entity in a Scottish title race was demonstrated by the atmosphere here.",
+      "timestamp": "2026-02-15T18:47:26Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "'Third time lucky': de Minaur breaks through for Rotterdam Open triumph",
       "link": "https://www.abc.net.au/news/2026-02-16/de-minaur-breaks-through-for-rotterdam-open-triumph/106347904",
@@ -20,6 +40,16 @@
       "first_sentence": "There is little doubt that Matt Graham means an awful lot to the Australian moguls team.",
       "timestamp": "2026-02-15T18:34:01Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "Jeremiah Azu completes surprise sprint double at UK indoor championships",
+      "link": "https://www.theguardian.com/sport/2026/feb/15/jeremiah-azu-completes-surprise-sprint-double-at-uk-indoor-championships",
+      "mean_score": 0.3243,
+      "vader_score": 0.6486,
+      "textblob_score": 0.0,
+      "first_sentence": "Amid a raft of high-profile absentees from Birmingham this weekend it was quite the surprise to see Jeremiah Azu\u2019s name on the 200m start list for the UK Athletics Indoor Championships on Sunday.",
+      "timestamp": "2026-02-15T18:03:05Z",
+      "source": "The Guardian"
     },
     {
       "headline": "Iran\u2019s top diplomat to attend \u2018indirect\u2019 talks with US in Geneva, state-run IRNA news agency says",
@@ -2459,36 +2489,6 @@
       "textblob_score": 0.2955,
       "first_sentence": "Curling: Great throw from Amos Mosaner for Italy\u2019s third, landing right on the edge of the button.",
       "timestamp": "2026-02-10T13:32:22Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Burnham backs Starmer to continue as PM but calls for \u2018more inclusive\u2019 Labour party \u2013 UK politics live",
-      "link": "https://www.theguardian.com/politics/live/2026/feb/10/keir-starmer-labour-leadership-uk-live-updates-politics-cabinet-latest-news",
-      "mean_score": 0.4264,
-      "vader_score": 0.5346,
-      "textblob_score": 0.3182,
-      "first_sentence": "Burnham highlighted rail nationalisation as an example of the new economic approach he thinks the UK needs.",
-      "timestamp": "2026-02-10T13:20:06Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "American Ben Ogden wins silver, breaking 50 year medal drought for U.S. men's cross-country skiing",
-      "link": "https://www.npr.org/2026/02/10/nx-s1-5708670/american-ben-ogden-wins-silver-breaking-50-year-medal-drought-for-u-s-mens-cross-country-skiing",
-      "mean_score": 0.4642,
-      "vader_score": 0.7783,
-      "textblob_score": 0.15,
-      "first_sentence": "VAL DI FIEMME, Italy - Vermont cross-country ski racer Ben Ogden pulled off a feat today at the Tesero Cross-Country Skiing Stadium in Val di Fiemme, Italy, that no men's U.S.",
-      "timestamp": "2026-02-10T13:09:30Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "I drove hours to see the monks walking for peace. Five minutes with them was the gift of a lifetime",
-      "link": "https://www.theguardian.com/us-news/2026/feb/10/monks-peace-walk-america",
-      "mean_score": 0.3753,
-      "vader_score": 0.7506,
-      "textblob_score": 0.0,
-      "first_sentence": "I nodded.",
-      "timestamp": "2026-02-10T13:00:38Z",
       "source": "The Guardian"
     }
   ]
