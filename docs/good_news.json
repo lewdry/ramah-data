@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-15T12:15:54Z",
+  "last run": "2026-02-15T13:22:57Z",
   "stories": [
+    {
+      "headline": "How to make the perfect chicken massaman \u2013 recipe | Felicity Cloake's How to make the perfect \u2026",
+      "link": "https://www.theguardian.com/food/2026/feb/15/perfect-massaman-recipe-felicity-cloake",
+      "mean_score": 0.6396,
+      "vader_score": 0.8126,
+      "textblob_score": 0.4667,
+      "first_sentence": "Bickering pleasantly over the menu in a Thai restaurant with my family recently, I realised I was unable to explain exactly what a gaeng massaman was, beyond the fact it was probably a safe bet for those concerned about the three chillies next to the green curry (a dish I first tackled for this column back in 2010).",
+      "timestamp": "2026-02-15T13:00:22Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Brazil's Pinheiro Braathen wins gold, and South America's first Winter Olympics medal",
+      "link": "https://www.npr.org/2026/02/15/nx-s1-5715075/brazil-braathen-gold-south-americas-first-winter-olympics-medal",
+      "mean_score": 0.5267,
+      "vader_score": 0.7783,
+      "textblob_score": 0.275,
+      "first_sentence": "BORMIO, Italy \u2014 There was dancing, plenty of dancing, for Brazilian ski racer Lucas Pinheiro Braathen as he performed samba steps over and over.",
+      "timestamp": "2026-02-15T12:58:17Z",
+      "source": "NPR News"
+    },
     {
       "headline": "Winter Olympics 2026: Canada\u2019s Kingsbury wins men\u2019s dual moguls; women\u2019s giant slalom and monobob updates \u2013 live",
       "link": "https://www.theguardian.com/sport/live/2026/feb/15/winter-olympics-2026-skiing-snowboarding-biathlon-ski-jumping-live",
@@ -2480,26 +2500,6 @@
       "first_sentence": "When people praised Tony Jay and me for Yes Minister\u2019s prescience, we accepted the compliments graciously.",
       "timestamp": "2026-02-10T07:00:16Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Beats Powerbeats Fit review: Apple\u2019s compact workout earbuds revamped",
-      "link": "https://www.theguardian.com/technology/2026/feb/10/beats-powerbeats-fit-review-apple-compact-workout-earbuds-revamped",
-      "mean_score": 0.3806,
-      "vader_score": 0.3612,
-      "textblob_score": 0.4,
-      "first_sentence": "The Guardian\u2019s journalism is independent.",
-      "timestamp": "2026-02-10T07:00:15Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "New oil and gas exploration site the 'size of Singapore' approved in Queensland",
-      "link": "https://www.abc.net.au/news/2026-02-10/oil-gas-exploration-queensland-taroom-trough/106325922",
-      "mean_score": 0.3541,
-      "vader_score": 0.5719,
-      "textblob_score": 0.1364,
-      "first_sentence": "The Crisafulli government has appointed three energy companies as tenderers for oil and gas exploration in the Taroom Trough.",
-      "timestamp": "2026-02-10T06:58:52Z",
-      "source": "ABC News"
     }
   ]
 }
