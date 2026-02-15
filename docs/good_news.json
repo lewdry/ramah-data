@@ -1,5 +1,5 @@
 {
-  "last run": "2026-02-15T19:12:37Z",
+  "last run": "2026-02-15T20:09:40Z",
   "stories": [
     {
       "headline": "'Third time lucky': de Minaur breaks through for Rotterdam Open triumph",
@@ -2490,16 +2490,6 @@
       "first_sentence": "I nodded.",
       "timestamp": "2026-02-10T13:00:38Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Apple and Google agree to change app stores after 'effective duopoly' claim",
-      "link": "https://www.bbc.com/news/articles/c626rng1v63o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.6404,
-      "vader_score": 0.6808,
-      "textblob_score": 0.6,
-      "first_sentence": "Apple and Google have agreed to make changes to their app stores in the UK following an intervention from the UK markets regulator.",
-      "timestamp": "2026-02-10T12:44:43Z",
-      "source": "BBC News"
     }
   ]
 }

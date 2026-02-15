@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Apple and Google agree to change app stores after 'effective duopoly' claim",
+    "link": "https://www.bbc.com/news/articles/c626rng1v63o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.6404,
+    "vader_score": 0.6808,
+    "textblob_score": 0.6,
+    "first_sentence": "Apple and Google have agreed to make changes to their app stores in the UK following an intervention from the UK markets regulator.",
+    "timestamp": "2026-02-10T12:44:43Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "An ape, a tea party \u2014 and the ability to imagine",
     "link": "https://www.npr.org/2026/02/10/nx-s1-5707560/apes-imagination-research-bonobos-cognition",
     "mean_score": 0.3062,
