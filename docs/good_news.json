@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-15T15:10:26Z",
+  "last run": "2026-02-15T16:10:42Z",
   "stories": [
+    {
+      "headline": "Progressive Texas organizers hail shock win as far-right Republicans left reeling",
+      "link": "https://www.theguardian.com/us-news/2026/feb/15/texas-organizers-republicans",
+      "mean_score": 0.3806,
+      "vader_score": 0.3612,
+      "textblob_score": 0.4,
+      "first_sentence": "Chris Tackett started tracking extremism in Texas politics about a decade ago, whenever his schedule as a Little League coach and school board member would allow.",
+      "timestamp": "2026-02-15T15:00:25Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Rockstar athletes like Ilia Malinin often get 'the yips' at the Olympics. It can make them stronger",
       "link": "https://www.npr.org/2026/02/15/nx-s1-5714457/rockstar-athletes-like-ilia-malinin-often-get-the-yips-at-the-olympics-it-can-make-them-stronger",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Europeans are booking fewer trips to the US, Europe\u2019s biggest travel operator has said, as appetite for long-haul travel wanes and concerns linger around Donald Trump\u2019s immigration policies.",
       "timestamp": "2026-02-10T09:18:04Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Top Iran security official to travel to Oman, site of talks with US, likely with nuclear message",
-      "link": "https://apnews.com/article/iran-oman-us-nuclear-talks-protests-crackdown-50cc3b6261bfd90ebe01da64ba9576d9",
-      "mean_score": 0.372,
-      "vader_score": 0.4939,
-      "textblob_score": 0.25,
-      "first_sentence": "DUBAI, United Arab Emirates (AP) \u2014 A top Iranian security official traveled Tuesday to Oman, the Mideast sultanate now mediating talks between Tehran and the United States over the Islamic Republic\u2019 nuclear program aimed at halting a possible American strike.",
-      "timestamp": "2026-02-10T08:23:02Z",
-      "source": "AP News"
     }
   ]
 }
