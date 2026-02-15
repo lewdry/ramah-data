@@ -1,5 +1,5 @@
 {
-  "last run": "2026-02-15T09:13:18Z",
+  "last run": "2026-02-15T10:10:55Z",
   "stories": [
     {
       "headline": "Live: Gold medal winner Cooper Woods headlines Aussies in action on day nine",
@@ -20,6 +20,16 @@
       "first_sentence": "The Indigenous All Stars will wonder what could have been after their star player Braydon Trindall was forced from the field in the final minutes of the 16-16 draw with their Maori counterparts.",
       "timestamp": "2026-02-15T08:16:50Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "\u2018The perfect place for people like me\u2019: how one couple started UK\u2019s first women\u2019s sports bar",
+      "link": "https://www.theguardian.com/football/2026/feb/15/the-perfect-place-for-people-like-me-how-one-couple-started-uks-first-womens-sports-bar",
+      "mean_score": 0.6801,
+      "vader_score": 0.7351,
+      "textblob_score": 0.625,
+      "first_sentence": "Lucy was in stitches, and so was social media when she posted about what she had overheard.",
+      "timestamp": "2026-02-15T08:00:17Z",
+      "source": "The Guardian"
     },
     {
       "headline": "Last chance for pensioners to get free air fryers",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Michael Roberts remembers the day he was pulled out of a maths test to help his brother.",
       "timestamp": "2026-02-10T05:46:43Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "'A hug, a quick kiss': How to reconnect after having children",
-      "link": "https://www.bbc.com/news/articles/ce3kvw4q29wo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5215,
-      "vader_score": 0.7096,
-      "textblob_score": 0.3333,
-      "first_sentence": "Rebecca has been with her husband for 10 years, but since having three children over the past three years she has grown \"disconnected\" from him.",
-      "timestamp": "2026-02-10T02:29:24Z",
-      "source": "BBC News"
     }
   ]
 }
