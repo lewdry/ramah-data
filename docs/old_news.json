@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Live: Aussie flag-bearers start Olympic medal quest in moguls",
+    "link": "https://www.abc.net.au/news/2026-02-10/winter-olympics-2026-live-milano-cortina-moguls-ice-hockey/106326694",
+    "mean_score": 0.3065,
+    "vader_score": 0.4767,
+    "textblob_score": 0.1364,
+    "first_sentence": "Australia's flag-bearers, Jakara Anthony and Matt Graham, start their 2026 Winter Olympics campaign tonight with moguls qualifying.",
+    "timestamp": "2026-02-10T08:17:49Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "BP halts share buy-backs as annual profits slide",
+    "link": "https://www.theguardian.com/business/2026/feb/10/bp-halts-share-buy-backs-profits-fall-chief-executive",
+    "mean_score": 0.3125,
+    "vader_score": 0.6249,
+    "textblob_score": 0.0,
+    "first_sentence": "BP has halted share buy-backs after reporting weaker annual profits as it prepares to continue a plan to resuscitate its fortunes under a new chief executive.",
+    "timestamp": "2026-02-10T08:14:30Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Heat seekers: amazing thermal images from the Winter Olympics",
     "link": "https://www.theguardian.com/sport/2026/feb/10/heat-seekers-amazing-thermal-images-from-the-winter-olympics",
     "mean_score": 0.593,
