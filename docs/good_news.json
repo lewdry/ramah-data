@@ -1,5 +1,5 @@
 {
-  "last run": "2026-02-16T14:23:51Z",
+  "last run": "2026-02-16T15:20:27Z",
   "stories": [
     {
       "headline": "Winter Olympics 2026: Lo\u00efc Meillard wins men\u2019s slalom; speed skating, bobsleigh and more \u2013 live",
@@ -9,6 +9,36 @@
       "textblob_score": 0.3121,
       "first_sentence": "Norway have levelled with GB at 2-2; we\u2019re now playing the sixth end, GB with the hammer.",
       "timestamp": "2026-02-16T14:09:28Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Ally Hickman tells proud school friends \u2018I\u2019m not nervous, I\u2019m just excited\u2019 before Winter Olympics final",
+      "link": "https://www.theguardian.com/sport/2026/feb/16/ally-hickman-australian-16-year-old-2026-winter-olympics-finalist-school-friends",
+      "mean_score": 0.5915,
+      "vader_score": 0.7914,
+      "textblob_score": 0.3917,
+      "first_sentence": "On the towering slopes of Livigno in Italy on Sunday, 16-year-old Australian Ally Hickman was a green and gold blur, securing herself a spot in the Olympic women\u2019s snowboard slopestyle final.",
+      "timestamp": "2026-02-16T14:00:30Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "YouTube star Markiplier says film's success is 'win' for independent creators",
+      "link": "https://www.bbc.com/news/articles/c2lg5r414wpo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5921,
+      "vader_score": 0.8176,
+      "textblob_score": 0.3667,
+      "first_sentence": "\"We knew we were going to need lots of blood,\" says YouTuber Markiplier as he reflects on his new debut film, Iron Lung.",
+      "timestamp": "2026-02-16T13:48:30Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Gis\u00e8le Pelicot: The Newsnight Interview review \u2013 you can only gaze admiringly at her strength and grace",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/feb/16/gisele-pelicot-the-newsnight-interview-review",
+      "mean_score": 0.4259,
+      "vader_score": 0.8519,
+      "textblob_score": 0.0,
+      "first_sentence": "It\u2019s hard to judge an interview with Gis\u00e8le Pelicot in the normal terms.",
+      "timestamp": "2026-02-16T13:21:49Z",
       "source": "The Guardian"
     },
     {
@@ -2470,36 +2500,6 @@
       "first_sentence": "The prime minister wore the smiles of a survivor and his team wore expressions of relief.",
       "timestamp": "2026-02-11T04:19:58Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "What's better than a Muppet Show revival? One with Sabrina Carpenter",
-      "link": "https://www.abc.net.au/news/2026-02-11/what-to-watch-the-muppets-scrubs/106325818",
-      "mean_score": 0.4702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.5,
-      "first_sentence": "Welcome to what to watch, where we take you through what's on the box during February.",
-      "timestamp": "2026-02-11T04:02:25Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Perth festival opens with stories 'of the heart' shared via old red phone",
-      "link": "https://www.abc.net.au/news/2026-02-11/perth-festival-opens/106328574",
-      "mean_score": 0.4595,
-      "vader_score": 0.8689,
-      "textblob_score": 0.05,
-      "first_sentence": "Australia's longest running arts event, the Perth Festival, opened at the weekend with outdoor music, a series of light sculptures and social media videos in which people share \"what rests in their hearts\" using an old red phone on a bridge.",
-      "timestamp": "2026-02-11T01:32:57Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "CBA shares up after bank reports increased profits",
-      "link": "https://www.abc.net.au/news/2026-02-11/cba-shares-up-increased-profits-first-half-financial-year/106329968",
-      "mean_score": 0.3675,
-      "vader_score": 0.7351,
-      "textblob_score": 0.0,
-      "first_sentence": "Commonwealth Bank's net profit for the first half of the financial year has risen 5 per cent to $5.367 million on the back of increased lending and deposit volumes.",
-      "timestamp": "2026-02-11T00:52:57Z",
-      "source": "ABC News"
     }
   ]
 }
