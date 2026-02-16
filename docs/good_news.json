@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-16T08:21:27Z",
+  "last run": "2026-02-16T09:26:31Z",
   "stories": [
+    {
+      "headline": "Michael Jordan, six-time NBA champion, is now a Daytona 500 winner",
+      "link": "https://www.npr.org/2026/02/16/g-s1-110249/michael-jordan-daytona-500-nascar-win",
+      "mean_score": 0.4135,
+      "vader_score": 0.8271,
+      "textblob_score": 0.0,
+      "first_sentence": "DAYTONA BEACH, Fla.",
+      "timestamp": "2026-02-16T09:06:00Z",
+      "source": "NPR News"
+    },
     {
       "headline": "\u2018I love you twenty-sixty times\u2019: how lyrics written by a three-year-old became tear-inducing viral hits",
       "link": "https://www.theguardian.com/music/2026/feb/16/stephen-spencer-daughter-three-year-old-instagram",
