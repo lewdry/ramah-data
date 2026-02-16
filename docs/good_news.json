@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-15T23:11:17Z",
+  "last run": "2026-02-16T00:43:18Z",
   "stories": [
+    {
+      "headline": "Tyler Reddick wins the Daytona 500 for Michael Jordan-owned 23XI Racing",
+      "link": "https://apnews.com/article/daytona-500-nascar-5ef03306d4ffca28da7b23328c760877",
+      "mean_score": 0.4359,
+      "vader_score": 0.5719,
+      "textblob_score": 0.3,
+      "first_sentence": "DAYTONA BEACH, Fla.",
+      "timestamp": "2026-02-15T23:23:03Z",
+      "source": "AP News"
+    },
+    {
+      "headline": "\u2018That\u2019s hockey\u2019: Canada\u2019s Wilson shuns Olympic tradition and brawls during win over France",
+      "link": "https://www.theguardian.com/sport/2026/feb/15/tom-wilson-fight-ice-hockey-olympics-canada",
+      "mean_score": 0.6929,
+      "vader_score": 0.5859,
+      "textblob_score": 0.8,
+      "first_sentence": "Canada\u2019s Tom Wilson shunned tradition on Sunday, deciding to fight during his team\u2019s victory over France in their Olympic ice hockey game.",
+      "timestamp": "2026-02-15T21:31:22Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "'Extremely lenient': Box Hill North players sanctioned over inappropriate photos",
       "link": "https://www.abc.net.au/news/2026-02-16/box-hill-north-football-players-sanctions-inappropriate-photos/106345128",
@@ -60,6 +80,16 @@
       "first_sentence": "DUBAI, United Arab Emirates (AP) \u2014 Iran\u2019s top diplomat was traveling Sunday from Tehran to Geneva where the second round of nuclear negotiations with the U.S.",
       "timestamp": "2026-02-15T17:53:02Z",
       "source": "AP News"
+    },
+    {
+      "headline": "Tom Gauld on the modern romance novel \u2013 cartoon",
+      "link": "https://www.theguardian.com/books/picture/2026/feb/15/tom-gauld-on-the-modern-romance-novel-cartoon",
+      "mean_score": 0.4548,
+      "vader_score": 0.7096,
+      "textblob_score": 0.2,
+      "first_sentence": "Continue reading.",
+      "timestamp": "2026-02-15T16:00:25Z",
+      "source": "The Guardian"
     },
     {
       "headline": "Progressive Texas organizers hail shock win as far-right Republicans left reeling",
@@ -169,6 +199,16 @@
       "textblob_score": 0.0833,
       "first_sentence": "We meet on a Friday afternoon at a photo studio in Islington, closer to where Jonsson lives now in north London than to Custom House in the East End, where he grew up.",
       "timestamp": "2026-02-15T10:00:18Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018Baby Shark isn\u2019t something you should enjoy as an adult\u2019: Steph McGovern\u2019s honest playlist",
+      "link": "https://www.theguardian.com/music/2026/feb/15/steph-mcgovern-honest-playlist-baby-shark-coolio-whitney-kylie-morrissey",
+      "mean_score": 0.5623,
+      "vader_score": 0.7579,
+      "textblob_score": 0.3667,
+      "first_sentence": "The first song I fell in love with\n I grew up in a house where music was played all the time.",
+      "timestamp": "2026-02-15T09:00:17Z",
       "source": "The Guardian"
     },
     {
@@ -2449,46 +2489,6 @@
       "textblob_score": 0.6,
       "first_sentence": "Hello, and welcome to TechScape.",
       "timestamp": "2026-02-10T14:45:34Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Alphabet selling very rare 100-year bonds to help fund AI investment",
-      "link": "https://arstechnica.com/gadgets/2026/02/alphabet-selling-very-rare-100-year-bunds-to-help-fund-ai-investment/",
-      "mean_score": 0.396,
-      "vader_score": 0.4019,
-      "textblob_score": 0.39,
-      "first_sentence": "Alphabet becomes first tech company to issue 100-year bonds in nearly three decades.",
-      "timestamp": "2026-02-10T14:44:52Z",
-      "source": "Ars Technica"
-    },
-    {
-      "headline": "Andy Burnham backs Starmer but urges him to be bolder and more inclusive",
-      "link": "https://www.theguardian.com/politics/2026/feb/10/keir-starmer-lead-moment-change-labour-turmoil-ed-miliband",
-      "mean_score": 0.4509,
-      "vader_score": 0.4019,
-      "textblob_score": 0.5,
-      "first_sentence": "Andy Burnham has publicly backed Keir Starmer while calling for him to show more boldness and be more willing to accept contributions from others within Labour.",
-      "timestamp": "2026-02-10T14:31:18Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Raedler and Huber of Austria win team combined at the Olympics, Mikaela Shiffrin is 4th",
-      "link": "https://apnews.com/article/womens-combined-breezy-shiffrin-goggia-skiing-bdf9d2e14621897ca586329f4d0044d9",
-      "mean_score": 0.6929,
-      "vader_score": 0.5859,
-      "textblob_score": 0.8,
-      "first_sentence": "CORTINA D\u2019AMPEZZO, Italy (AP) \u2014 Ariane Raedler and Katharina Huber of Austria won gold in the new team combined event at the Milan Cortina Olympics on Tuesday when Mikaela Shiffrin surprisingly crossed fourth after wasting a first-run lead by teammate Breezy Johnson.",
-      "timestamp": "2026-02-10T14:23:02Z",
-      "source": "AP News"
-    },
-    {
-      "headline": "Winter Olympics 2026 day four: more golds for Italy, Norway and Sweden; GB go for first medal \u2013 live",
-      "link": "https://www.theguardian.com/sport/live/2026/feb/10/winter-olympics-2026-live-day-four",
-      "mean_score": 0.3861,
-      "vader_score": 0.4767,
-      "textblob_score": 0.2955,
-      "first_sentence": "Curling: Great throw from Amos Mosaner for Italy\u2019s third, landing right on the edge of the button.",
-      "timestamp": "2026-02-10T13:32:22Z",
       "source": "The Guardian"
     }
   ]
