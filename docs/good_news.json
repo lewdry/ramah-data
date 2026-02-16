@@ -1,6 +1,46 @@
 {
-  "last run": "2026-02-16T06:33:10Z",
+  "last run": "2026-02-16T07:29:54Z",
   "stories": [
+    {
+      "headline": "Can you solve it? Chapeau! A smart new hat puzzle",
+      "link": "https://www.theguardian.com/science/2026/feb/16/can-you-solve-it-chapeau-a-smart-new-hat-puzzle",
+      "mean_score": 0.3801,
+      "vader_score": 0.5848,
+      "textblob_score": 0.1753,
+      "first_sentence": "Today\u2019s puzzle is a new twist on a classic genre: the \u201ccommon knowledge\u201d hat riddle in which logicians deduce facts about their hats based on what they know, and what they know others know.",
+      "timestamp": "2026-02-16T07:10:44Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Unpacking Emily Bront\u00eb\u2019s Wuthering Heights: the best podcasts of the week",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/feb/16/unpacking-emily-brontes-wuthering-heights-the-best-podcasts-of-the-week",
+      "mean_score": 0.8185,
+      "vader_score": 0.6369,
+      "textblob_score": 1.0,
+      "first_sentence": "As Emerald Fennell\u2019s new adaptation hits the screens, the historian Dominic Sandbrook takes a deep-dive into the novel\u2019s dark themes.",
+      "timestamp": "2026-02-16T07:00:45Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Why did I get a \u00a3100 parking fine when charging my electric car?",
+      "link": "https://www.theguardian.com/money/2026/feb/16/parking-fine-charging-electric-car-mer",
+      "mean_score": 0.3095,
+      "vader_score": 0.2023,
+      "textblob_score": 0.4167,
+      "first_sentence": "I charged my electric car at the 24-hour Mer EV charging station in my local B&Q car park.",
+      "timestamp": "2026-02-16T07:00:44Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Parts of Great Northern Highway cut off after heavy rainfall",
+      "link": "https://www.abc.net.au/news/2026-02-16/wa-kimberley-flood-warnings-roads-closed/106348986",
+      "mean_score": 0.3794,
+      "vader_score": 0.4588,
+      "textblob_score": 0.3,
+      "first_sentence": "The Department of Fire and Emergency Services (DFES) have issued several flood warnings for parts of the Kimberley and Pilbara.",
+      "timestamp": "2026-02-16T06:53:18Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Angus Taylor moves to promote conservatives and sideline Sussan Ley allies as Liberal party veers right",
       "link": "https://www.theguardian.com/australia-news/2026/feb/16/angus-taylor-frontbench-liberal-party",
@@ -2450,46 +2490,6 @@
       "first_sentence": "Israeli President Isaac Herzog has been welcomed to Canberra in a formal ceremony at Government House as hundreds of people have gathered on the lawns of Parliament to protest his visit.",
       "timestamp": "2026-02-10T20:12:54Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Women\u2019s Champions League playoffs to test WSL teams\u2019 depth and new format\u2019s value",
-      "link": "https://www.theguardian.com/football/2026/feb/10/womens-champions-league-playoffs-test-wsl-teams-depth-new-format-value",
-      "mean_score": 0.4183,
-      "vader_score": 0.7003,
-      "textblob_score": 0.1364,
-      "first_sentence": "The next phase of the new Women\u2019s Champions League format gets under way on Wednesday and Thursday, when the four playoff first legs take place.",
-      "timestamp": "2026-02-10T19:54:45Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Australian K-pop community credits Demon Hunters as popularity soars",
-      "link": "https://www.abc.net.au/news/2026-02-11/kpop-community-grows-thanks-to-bts-demon-hunters/106325884",
-      "mean_score": 0.3404,
-      "vader_score": 0.6808,
-      "textblob_score": 0.0,
-      "first_sentence": "Despite the pressure of a looming deadline, the energy in the dance studio is fun and friendly.",
-      "timestamp": "2026-02-10T19:37:00Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Congressmen name six wealthy men \u2018likely incriminated\u2019 in Epstein files",
-      "link": "https://www.theguardian.com/us-news/2026/feb/10/thomas-massie-epstein-files-redacted-names",
-      "mean_score": 0.3056,
-      "vader_score": 0.3612,
-      "textblob_score": 0.25,
-      "first_sentence": "The Democratic congressman Ro Khanna said on Tuesday that he and his Republican colleague Thomas Massie had forced the justice department to disclose the \u201chidden\u201d names of six wealthy men they say are \u201clikely incriminated\u201d by their inclusion in the so-called Jeffrey Epstein files.",
-      "timestamp": "2026-02-10T18:49:03Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Malinowski concedes to Mejia in Democratic House special primary in New Jersey",
-      "link": "https://www.npr.org/2026/02/10/nx-s1-5703636/nj-primary-election-mejia-malinowski",
-      "mean_score": 0.3499,
-      "vader_score": 0.4019,
-      "textblob_score": 0.2978,
-      "first_sentence": "Former congressman Tom Malinowski conceded Tuesday to challenger Analilia Mejia in the closely watched Democratic special election U.S.",
-      "timestamp": "2026-02-10T18:42:54Z",
-      "source": "NPR News"
     }
   ]
 }
