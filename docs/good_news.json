@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-16T00:43:18Z",
+  "last run": "2026-02-16T01:40:32Z",
   "stories": [
+    {
+      "headline": "UK considering significant increase to defence spending",
+      "link": "https://www.bbc.com/news/articles/cpqwl10lvr2o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4587,
+      "vader_score": 0.5423,
+      "textblob_score": 0.375,
+      "first_sentence": "The prime minister is considering making a significant increase in defence spending, the BBC has learned.",
+      "timestamp": "2026-02-16T01:28:46Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Tyler Reddick wins the Daytona 500 for Michael Jordan-owned 23XI Racing",
       "link": "https://apnews.com/article/daytona-500-nascar-5ef03306d4ffca28da7b23328c760877",
@@ -2479,16 +2489,6 @@
       "textblob_score": 0.15,
       "first_sentence": "Johan-Olav Botn won gold, with the Frenchman \u00c9ric Perrot in second, but it was L\u00e6greid who stunned television viewers in Norway after opening up to the broadcaster NRK about his private life over the past six months.",
       "timestamp": "2026-02-10T15:33:33Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Will the Gulf\u2019s push for its own AI succeed?",
-      "link": "https://www.theguardian.com/technology/2026/feb/09/us-tech-ai-companies-gulf-states",
-      "mean_score": 0.547,
-      "vader_score": 0.4939,
-      "textblob_score": 0.6,
-      "first_sentence": "Hello, and welcome to TechScape.",
-      "timestamp": "2026-02-10T14:45:34Z",
       "source": "The Guardian"
     }
   ]
