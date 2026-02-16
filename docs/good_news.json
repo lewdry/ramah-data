@@ -1,6 +1,46 @@
 {
-  "last run": "2026-02-16T05:36:44Z",
+  "last run": "2026-02-16T06:33:10Z",
   "stories": [
+    {
+      "headline": "Angus Taylor moves to promote conservatives and sideline Sussan Ley allies as Liberal party veers right",
+      "link": "https://www.theguardian.com/australia-news/2026/feb/16/angus-taylor-frontbench-liberal-party",
+      "mean_score": 0.4672,
+      "vader_score": 0.6486,
+      "textblob_score": 0.2857,
+      "first_sentence": "Sussan Ley\u2019s closest supporters are poised to be demoted as the new Liberal leader, Angus Taylor, prepares to install conservatives to deliver his rightwing agenda.",
+      "timestamp": "2026-02-16T06:04:34Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Women calling for greater support with menopause",
+      "link": "https://www.bbc.com/news/articles/cz0gmz34gjjo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5685,
+      "vader_score": 0.6369,
+      "textblob_score": 0.5,
+      "first_sentence": "Women in the Channel Islands who've suffered severe menopause symptoms have said there isn't enough support available.",
+      "timestamp": "2026-02-16T06:04:05Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Families bid to take over their children\u2019s care home that amassed huge tax debts",
+      "link": "https://www.theguardian.com/society/2026/feb/16/william-blake-house-care-home-debts",
+      "mean_score": 0.5353,
+      "vader_score": 0.6705,
+      "textblob_score": 0.4,
+      "first_sentence": "A group of families have launched an audacious bid to take over their disabled children\u2019s residential care home after it emerged the charity running it faces closure after amassing huge tax debts and paying \u00a31m in fees to one of its trustees.",
+      "timestamp": "2026-02-16T06:00:45Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Keir Starmer has a unique talent \u2013 to alienate absolutely everyone | Nesrine Malik",
+      "link": "https://www.theguardian.com/commentisfree/2026/feb/16/keir-starmer-prime-minister-left-right-centre-polls",
+      "mean_score": 0.3545,
+      "vader_score": 0.4215,
+      "textblob_score": 0.2875,
+      "first_sentence": "After a tumultuous few weeks, we are once again in \u201creset\u201d territory.",
+      "timestamp": "2026-02-16T06:00:43Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Gillian Welch and David Rawlings review \u2013 phenomenal duo put on an exquisite show",
       "link": "https://www.theguardian.com/music/2026/feb/16/gillian-welch-david-rawlings-review-australian-tour-2026",
@@ -2450,46 +2490,6 @@
       "first_sentence": "Former congressman Tom Malinowski conceded Tuesday to challenger Analilia Mejia in the closely watched Democratic special election U.S.",
       "timestamp": "2026-02-10T18:42:54Z",
       "source": "NPR News"
-    },
-    {
-      "headline": "Windows' original Secure Boot certificates expire in June\u2014here's what you need to do",
-      "link": "https://arstechnica.com/gadgets/2026/02/microsoft-sounds-the-alarm-about-secure-boot-certificates-expiring-later-this-year/",
-      "mean_score": 0.4797,
-      "vader_score": 0.5719,
-      "textblob_score": 0.3875,
-      "first_sentence": "PCs without the new certificates could eventually have trouble booting new OSes.",
-      "timestamp": "2026-02-10T18:04:01Z",
-      "source": "Ars Technica"
-    },
-    {
-      "headline": "Wrapped helps Spotify add users despite artists' criticism over fees",
-      "link": "https://www.bbc.com/news/articles/cwy8lg9lkj3o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3065,
-      "vader_score": 0.6131,
-      "textblob_score": 0.0,
-      "first_sentence": "Music service Spotify has managed to boost the number of people streaming music, podcasts and audiobooks on the platform, despite increasing competition in the streaming industry.",
-      "timestamp": "2026-02-10T18:02:02Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "\u2018Boy kibble\u2019: why are young men turning to dog food for meal inspiration?",
-      "link": "https://www.theguardian.com/food/2026/feb/10/boy-kibble-young-men-dog-food-meal-inspiration",
-      "mean_score": 0.3133,
-      "vader_score": 0.5267,
-      "textblob_score": 0.1,
-      "first_sentence": "Isn\u2019t that what kibble is? Traditionally, yes, kibble is dried food for pets in pellet form, made of grains, vegetables and meat.",
-      "timestamp": "2026-02-10T17:43:37Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Upgraded Google safety tools can now find and remove more of your personal info",
-      "link": "https://arstechnica.com/gadgets/2026/02/upgraded-google-safety-tools-can-now-find-and-remove-more-of-your-personal-info/",
-      "mean_score": 0.3357,
-      "vader_score": 0.4215,
-      "textblob_score": 0.25,
-      "first_sentence": "Do you feel popular? There are people on the Internet who want to know all about you! Unfortunately, they don\u2019t have the best of intentions, but Google has some handy tools to address that, and they\u2019ve gotten an upgrade today.",
-      "timestamp": "2026-02-10T16:59:25Z",
-      "source": "Ars Technica"
     }
   ]
 }
