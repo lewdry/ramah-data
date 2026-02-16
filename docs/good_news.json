@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-16T09:26:31Z",
+  "last run": "2026-02-16T10:25:25Z",
   "stories": [
+    {
+      "headline": "An Islamist party becomes Bangladesh's main opposition for the first time",
+      "link": "https://www.npr.org/2026/02/16/nx-s1-5715741/islamist-party-bangladesh-opposition",
+      "mean_score": 0.3051,
+      "vader_score": 0.4019,
+      "textblob_score": 0.2083,
+      "first_sentence": "DHAKA, Bangladesh \u2013 An Islamist party has become Bangladesh's main opposition for the first time in the country's history, challenging the old dynastic political system despite persistent concerns among critics about the party's policies on women.",
+      "timestamp": "2026-02-16T09:46:48Z",
+      "source": "NPR News"
+    },
     {
       "headline": "Michael Jordan, six-time NBA champion, is now a Daytona 500 winner",
       "link": "https://www.npr.org/2026/02/16/g-s1-110249/michael-jordan-daytona-500-nascar-win",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Immigration agency leaders appeared before Congress for the first time since two U.S.",
       "timestamp": "2026-02-10T21:37:05Z",
       "source": "NPR News"
-    },
-    {
-      "headline": "Streeting still ready to challenge Starmer despite show of unity, allies say",
-      "link": "https://www.theguardian.com/politics/2026/feb/10/streeting-still-ready-to-challenge-starmer-despite-show-of-unity-allies-say",
-      "mean_score": 0.3107,
-      "vader_score": 0.4215,
-      "textblob_score": 0.2,
-      "first_sentence": "Allies of Wes Streeting expect him to try to depose Keir Starmer within weeks, despite the health secretary insisting he backs the prime minister and is not intending to move against him, the Guardian has been told.",
-      "timestamp": "2026-02-10T20:46:29Z",
-      "source": "The Guardian"
     }
   ]
 }
