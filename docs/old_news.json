@@ -1,5 +1,55 @@
 [
   {
+    "headline": "Labor tries again on super taxes, but success will hinge on Greens support",
+    "link": "https://www.abc.net.au/news/2026-02-11/labor-tries-again-on-super-taxes/106331524",
+    "mean_score": 0.5394,
+    "vader_score": 0.9011,
+    "textblob_score": 0.1778,
+    "first_sentence": "Labor has tried again on a proposed tax hike for the largest super balance.",
+    "timestamp": "2026-02-11T07:19:03Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Student beats seven other comedians to be crowned UK's pun champion",
+    "link": "https://www.bbc.com/news/articles/clyzv0eqknro?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3009,
+    "vader_score": 0.7269,
+    "textblob_score": -0.125,
+    "first_sentence": "A university student has been crowned UK pun champion after serving up gags about King Henry VIII and takeaway pizza at the Leicester Comedy Festival.",
+    "timestamp": "2026-02-11T06:24:32Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "What's it like in the village that inspired Wuthering Heights?",
+    "link": "https://www.bbc.com/news/videos/cz6ew71q41qo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3454,
+    "vader_score": 0.6908,
+    "textblob_score": 0.0,
+    "first_sentence": "The Yorkshire village of Haworth is in the spotlight ahead of the new Wuthering Heights film release.",
+    "timestamp": "2026-02-11T06:24:04Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Adelaide's own a medal contender for US in Winter Olympics women's double luge",
+    "link": "https://www.abc.net.au/news/2026-02-11/winter-olympics-chevonne-forgan-womens-doubles-luge-adelaide/106331288",
+    "mean_score": 0.4287,
+    "vader_score": 0.5574,
+    "textblob_score": 0.3,
+    "first_sentence": "Considering Adelaide is bone dry in the height of summer, the idea one of its children could be competing in luge at the Winter Olympics 2026 is a little unexpected.",
+    "timestamp": "2026-02-11T05:38:39Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Names of six 'powerful men' scrubbed from Epstein files revealed by US politician",
+    "link": "https://www.abc.net.au/news/2026-02-11/ro-khanna-reveals-names-redacted-from-epstein-files/106331712",
+    "mean_score": 0.3608,
+    "vader_score": 0.4215,
+    "textblob_score": 0.3,
+    "first_sentence": "US politician Ro Khanna has publicly named six men whose identities were scrubbed from the Epstein files, including a retail tycoon who the FBI suspected was a co-conspirator of the sex offender's crimes.",
+    "timestamp": "2026-02-11T05:29:29Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "WA farmers count cost of strong winds but welcome rain",
     "link": "https://www.abc.net.au/news/2026-02-11/strong-winds-wreak-havoc-on-farm-properties-wheatbelt-region/106329960",
     "mean_score": 0.6739,
