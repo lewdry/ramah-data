@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-16T19:18:10Z",
+  "last run": "2026-02-16T20:12:16Z",
   "stories": [
+    {
+      "headline": "The U.S. ready to make up, Europe ready to break up in Munich",
+      "link": "https://www.npr.org/2026/02/16/nx-s1-5716050/us-europe-relations-munich",
+      "mean_score": 0.4062,
+      "vader_score": 0.6124,
+      "textblob_score": 0.2,
+      "first_sentence": "MUNICH \u2014 After last year's lecture on free speech and democracy from Vice President Vance that left many European leaders shocked, the expectations for a follow-up by Secretary of State Marco Rubio at this year's Munich Security Conference couldn't have been lower.",
+      "timestamp": "2026-02-16T19:49:04Z",
+      "source": "NPR News"
+    },
     {
       "headline": "Starmer\u2019s latest U-turn over local elections creates an opportunity for Reform UK",
       "link": "https://www.theguardian.com/politics/2026/feb/16/starmer-u-turn-local-elections-opportunity-reform-uk",
@@ -2488,16 +2498,6 @@
       "vader_score": 0.5719,
       "textblob_score": 0.3,
       "first_sentence": "Qatar\u2019s bid to host the 2036 Olympic Games has received a boost with the state-owned broadcaster beIN Sports concluding a media rights deal for the 2028 Games in Los Angeles.",
-      "timestamp": "2026-02-11T08:00:11Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Super League 2026: team-by-team guide to the new season",
-      "link": "https://www.theguardian.com/sport/2026/feb/11/super-league-2026-team-by-team-guide-to-the-new-season",
-      "mean_score": 0.4171,
-      "vader_score": 0.5994,
-      "textblob_score": 0.2348,
-      "first_sentence": "The former Super League champions are back after a 12-year absence, and Bradford have had to rebuild their squad for a full-time return to the top flight after being a part-time operation in recent years.",
       "timestamp": "2026-02-11T08:00:11Z",
       "source": "The Guardian"
     }
