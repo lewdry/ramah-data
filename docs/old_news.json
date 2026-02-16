@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Live: CSL shares fall sharply a day after CEO exits, CBA profits up",
+    "link": "https://www.abc.net.au/news/2026-02-11/asx-markets-business-live-news-february-11/106322798",
+    "mean_score": 0.3153,
+    "vader_score": 0.6249,
+    "textblob_score": 0.0057,
+    "first_sentence": "The Australian share market has risen on the first \"big day\" of reporting season, with some of the nation's largest companies, including Commonwealth Bank, CSL and AGL Energy, announcing financial results.",
+    "timestamp": "2026-02-10T20:40:10Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Live: Herzog welcomed at Government House as peaceful protesters gather outside Parliament",
+    "link": "https://www.abc.net.au/news/2026-02-11/federal-politics-estimates-albanese-ley-herzog/106328310",
+    "mean_score": 0.3503,
+    "vader_score": 0.5719,
+    "textblob_score": 0.1288,
+    "first_sentence": "Israeli President Isaac Herzog has been welcomed to Canberra in a formal ceremony at Government House as hundreds of people have gathered on the lawns of Parliament to protest his visit.",
+    "timestamp": "2026-02-10T20:12:54Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Women\u2019s Champions League playoffs to test WSL teams\u2019 depth and new format\u2019s value",
     "link": "https://www.theguardian.com/football/2026/feb/10/womens-champions-league-playoffs-test-wsl-teams-depth-new-format-value",
     "mean_score": 0.4183,

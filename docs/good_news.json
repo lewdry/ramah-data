@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-16T07:29:54Z",
+  "last run": "2026-02-16T08:21:27Z",
   "stories": [
+    {
+      "headline": "\u2018I love you twenty-sixty times\u2019: how lyrics written by a three-year-old became tear-inducing viral hits",
+      "link": "https://www.theguardian.com/music/2026/feb/16/stephen-spencer-daughter-three-year-old-instagram",
+      "mean_score": 0.5685,
+      "vader_score": 0.6369,
+      "textblob_score": 0.5,
+      "first_sentence": "Spencer, you see, has a unique lyrical collaborator: his three-year-old daughter.",
+      "timestamp": "2026-02-16T08:00:47Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "One Day has been a bestselling novel, a forgettable film, a beloved TV series \u2013 now can it be a musical?",
+      "link": "https://www.theguardian.com/stage/2026/feb/16/one-day-musical-david-greig-david-nicholls-edinburgh-lyceum",
+      "mean_score": 0.3737,
+      "vader_score": 0.6808,
+      "textblob_score": 0.0667,
+      "first_sentence": "Playwright David Greig and director Max Webster are not afraid of a theatrical challenge.",
+      "timestamp": "2026-02-16T08:00:46Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Can you solve it? Chapeau! A smart new hat puzzle",
       "link": "https://www.theguardian.com/science/2026/feb/16/can-you-solve-it-chapeau-a-smart-new-hat-puzzle",
@@ -2470,26 +2490,6 @@
       "first_sentence": "Allies of Wes Streeting expect him to try to depose Keir Starmer within weeks, despite the health secretary insisting he backs the prime minister and is not intending to move against him, the Guardian has been told.",
       "timestamp": "2026-02-10T20:46:29Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Live: CSL shares fall sharply a day after CEO exits, CBA profits up",
-      "link": "https://www.abc.net.au/news/2026-02-11/asx-markets-business-live-news-february-11/106322798",
-      "mean_score": 0.3153,
-      "vader_score": 0.6249,
-      "textblob_score": 0.0057,
-      "first_sentence": "The Australian share market has risen on the first \"big day\" of reporting season, with some of the nation's largest companies, including Commonwealth Bank, CSL and AGL Energy, announcing financial results.",
-      "timestamp": "2026-02-10T20:40:10Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Live: Herzog welcomed at Government House as peaceful protesters gather outside Parliament",
-      "link": "https://www.abc.net.au/news/2026-02-11/federal-politics-estimates-albanese-ley-herzog/106328310",
-      "mean_score": 0.3503,
-      "vader_score": 0.5719,
-      "textblob_score": 0.1288,
-      "first_sentence": "Israeli President Isaac Herzog has been welcomed to Canberra in a formal ceremony at Government House as hundreds of people have gathered on the lawns of Parliament to protest his visit.",
-      "timestamp": "2026-02-10T20:12:54Z",
-      "source": "ABC News"
     }
   ]
 }
