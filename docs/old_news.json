@@ -1,5 +1,35 @@
 [
   {
+    "headline": "West Ham United v Manchester United: Premier League \u2013 live",
+    "link": "https://www.theguardian.com/football/live/2026/feb/10/west-ham-manchester-united-premier-league-live",
+    "mean_score": 0.4086,
+    "vader_score": 0.6808,
+    "textblob_score": 0.1364,
+    "first_sentence": "So what has that done to the Premier League table? West Ham nudge a little closer to Nottingham Forest \u2013 and Tottenham Hotspur \u2013 at the bottom.",
+    "timestamp": "2026-02-10T22:10:41Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Mandatory camera monitoring for trawlers working Great Barrier Reef Marine Park",
+    "link": "https://www.abc.net.au/news/rural/2026-02-11/electronic-camera-monitoring-bycatch-trawlers-seafood/106307306",
+    "mean_score": 0.6997,
+    "vader_score": 0.5994,
+    "textblob_score": 0.8,
+    "first_sentence": "Cameras will become mandatory on 90 per cent of Queensland trawlers to monitor the bycatch of endangered species.",
+    "timestamp": "2026-02-10T22:10:18Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Top 5 takeaways from the House immigration oversight hearing",
+    "link": "https://www.npr.org/2026/02/10/nx-s1-5708757/immigration-enforcement-oversight-house-takeaways",
+    "mean_score": 0.3512,
+    "vader_score": 0.2023,
+    "textblob_score": 0.5,
+    "first_sentence": "Immigration agency leaders appeared before Congress for the first time since two U.S.",
+    "timestamp": "2026-02-10T21:37:05Z",
+    "source": "NPR News"
+  },
+  {
     "headline": "Streeting still ready to challenge Starmer despite show of unity, allies say",
     "link": "https://www.theguardian.com/politics/2026/feb/10/streeting-still-ready-to-challenge-starmer-despite-show-of-unity-allies-say",
     "mean_score": 0.3107,
