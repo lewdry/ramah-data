@@ -1,5 +1,35 @@
 [
   {
+    "headline": "SpaceX's next-gen Super Heavy booster aces four days of \"cryoproof\" testing",
+    "link": "https://arstechnica.com/space/2026/02/spacexs-starbase-is-coming-alive-again-after-a-lull-in-starship-testing/",
+    "mean_score": 0.333,
+    "vader_score": 0.5994,
+    "textblob_score": 0.0667,
+    "first_sentence": "The next Starship flight is a key precursor for more ambitious missions.",
+    "timestamp": "2026-02-10T23:35:30Z",
+    "source": "Ars Technica"
+  },
+  {
+    "headline": "Western quoll joey born in the wild after conservation program success",
+    "link": "https://www.abc.net.au/news/2026-02-11/western-quoll-thrive-outback-nsw-after-taronga-program/106304882",
+    "mean_score": 0.3526,
+    "vader_score": 0.5719,
+    "textblob_score": 0.1333,
+    "first_sentence": "Once extinct in NSW, the chuditch or western quoll is now breeding in the wild thanks to a conservation program.",
+    "timestamp": "2026-02-10T22:30:50Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Sesko rescues late point for Manchester United to deny West Ham precious win",
+    "link": "https://www.theguardian.com/football/2026/feb/10/west-ham-manchester-united-premier-league-match-report",
+    "mean_score": 0.607,
+    "vader_score": 0.8807,
+    "textblob_score": 0.3333,
+    "first_sentence": "Stop all the clippers, don\u2019t cut off the barnet: Manchester United\u2019s winning run is over.",
+    "timestamp": "2026-02-10T22:20:55Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "West Ham United v Manchester United: Premier League \u2013 live",
     "link": "https://www.theguardian.com/football/live/2026/feb/10/west-ham-manchester-united-premier-league-live",
     "mean_score": 0.4086,
