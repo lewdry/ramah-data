@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Chris Mason: Smiles and relief as Starmer attempts his latest reset",
+    "link": "https://www.bbc.com/news/articles/czj198mk0l8o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.6176,
+    "vader_score": 0.7351,
+    "textblob_score": 0.5,
+    "first_sentence": "The prime minister wore the smiles of a survivor and his team wore expressions of relief.",
+    "timestamp": "2026-02-11T04:19:58Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "What's better than a Muppet Show revival? One with Sabrina Carpenter",
     "link": "https://www.abc.net.au/news/2026-02-11/what-to-watch-the-muppets-scrubs/106325818",
     "mean_score": 0.4702,

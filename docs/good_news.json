@@ -1,5 +1,5 @@
 {
-  "last run": "2026-02-16T16:20:08Z",
+  "last run": "2026-02-16T17:19:40Z",
   "stories": [
     {
       "headline": "Winter Olympics 2026: Lo\u00efc Meillard wins men\u2019s slalom; speed skating, bobsleigh and more \u2013 live",
@@ -120,6 +120,16 @@
       "first_sentence": "DAYTONA BEACH, Fla.",
       "timestamp": "2026-02-16T09:06:00Z",
       "source": "NPR News"
+    },
+    {
+      "headline": "Live: Bobsled Bree's medal push to continue at Milano Cortina Games",
+      "link": "https://www.abc.net.au/news/2026-02-16/winter-olympics-2026-live-milano-cortina/106350862",
+      "mean_score": 0.3065,
+      "vader_score": 0.4767,
+      "textblob_score": 0.1364,
+      "first_sentence": "Australia's Bree Walker will resume her push for an Olympic medal in the monobob, sitting in seventh place ahead of the final two rounds at the Milano Cortina Games.",
+      "timestamp": "2026-02-16T09:00:08Z",
+      "source": "ABC News"
     },
     {
       "headline": "\u2018I love you twenty-sixty times\u2019: how lyrics written by a three-year-old became tear-inducing viral hits",
@@ -2490,16 +2500,6 @@
       "first_sentence": "The Bureau of Meteorology says storms across the Great Southern, central Wheatbelt and Goldfields were fuelled by lingering moisture from ex-Tropical Cyclone Mitchell.",
       "timestamp": "2026-02-11T05:17:09Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Chris Mason: Smiles and relief as Starmer attempts his latest reset",
-      "link": "https://www.bbc.com/news/articles/czj198mk0l8o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.6176,
-      "vader_score": 0.7351,
-      "textblob_score": 0.5,
-      "first_sentence": "The prime minister wore the smiles of a survivor and his team wore expressions of relief.",
-      "timestamp": "2026-02-11T04:19:58Z",
-      "source": "BBC News"
     }
   ]
 }
