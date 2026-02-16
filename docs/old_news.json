@@ -1,5 +1,15 @@
 [
   {
+    "headline": "WA farmers count cost of strong winds but welcome rain",
+    "link": "https://www.abc.net.au/news/2026-02-11/strong-winds-wreak-havoc-on-farm-properties-wheatbelt-region/106329960",
+    "mean_score": 0.6739,
+    "vader_score": 0.7311,
+    "textblob_score": 0.6167,
+    "first_sentence": "The Bureau of Meteorology says storms across the Great Southern, central Wheatbelt and Goldfields were fuelled by lingering moisture from ex-Tropical Cyclone Mitchell.",
+    "timestamp": "2026-02-11T05:17:09Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Chris Mason: Smiles and relief as Starmer attempts his latest reset",
     "link": "https://www.bbc.com/news/articles/czj198mk0l8o?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.6176,
