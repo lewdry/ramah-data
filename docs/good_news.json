@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-16T03:10:52Z",
+  "last run": "2026-02-16T04:48:06Z",
   "stories": [
+    {
+      "headline": "Gillian Welch and David Rawlings review \u2013 phenomenal duo put on an exquisite show",
+      "link": "https://www.theguardian.com/music/2026/feb/16/gillian-welch-david-rawlings-review-australian-tour-2026",
+      "mean_score": 0.375,
+      "vader_score": 0.0,
+      "textblob_score": 0.75,
+      "first_sentence": "\u201cWell, we finally made it \u2026 Y\u2019all have some really cool trees,\u201d Gillian Welch drawls.",
+      "timestamp": "2026-02-16T03:46:48Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "UK considering significant increase to defence spending",
       "link": "https://www.bbc.com/news/articles/cpqwl10lvr2o?at_medium=RSS&at_campaign=rss",
@@ -2480,16 +2490,6 @@
       "first_sentence": "Do you feel popular? There are people on the Internet who want to know all about you! Unfortunately, they don\u2019t have the best of intentions, but Google has some handy tools to address that, and they\u2019ve gotten an upgrade today.",
       "timestamp": "2026-02-10T16:59:25Z",
       "source": "Ars Technica"
-    },
-    {
-      "headline": "Masterpiece, fridge magnet, phone case \u2026 opera: how Hokusai\u2019s The Great Wave hit the stage",
-      "link": "https://www.theguardian.com/music/2026/feb/10/masterpiece-fridge-magnet-phone-case-opera-hokusais-great-wave",
-      "mean_score": 0.824,
-      "vader_score": 0.8481,
-      "textblob_score": 0.8,
-      "first_sentence": "Opera has inspired many of the 20th century\u2019s greatest artists to create extraordinary sets.",
-      "timestamp": "2026-02-10T16:05:38Z",
-      "source": "The Guardian"
     }
   ]
 }
