@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-16T13:34:28Z",
+  "last run": "2026-02-16T14:23:51Z",
   "stories": [
+    {
+      "headline": "Winter Olympics 2026: Lo\u00efc Meillard wins men\u2019s slalom; speed skating, bobsleigh and more \u2013 live",
+      "link": "https://www.theguardian.com/sport/live/2026/feb/16/winter-olympics-2026-men-slalom-plus-curling-speed-skating-and-more-day-10-live",
+      "mean_score": 0.442,
+      "vader_score": 0.5719,
+      "textblob_score": 0.3121,
+      "first_sentence": "Norway have levelled with GB at 2-2; we\u2019re now playing the sixth end, GB with the hammer.",
+      "timestamp": "2026-02-16T14:09:28Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Rukmini Iyer\u2019s quick and easy reccipe for crispy baked gnocchi puttanesca | Quick and easy",
       "link": "https://www.theguardian.com/food/2026/feb/16/rukmini-iyer-quick-and-easy-recipe-crispy-baked-gnocchi-puttanesca",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.0,
       "first_sentence": "Commonwealth Bank's net profit for the first half of the financial year has risen 5 per cent to $5.367 million on the back of increased lending and deposit volumes.",
       "timestamp": "2026-02-11T00:52:57Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Mission to save WA's iconic grass trees from residential land clearing",
-      "link": "https://www.abc.net.au/news/2026-02-11/race-to-save-grass-trees-south-west-wa/106323778",
-      "mean_score": 0.497,
-      "vader_score": 0.4939,
-      "textblob_score": 0.5,
-      "first_sentence": "Margaret River Trees has rescued and re-homed more than 100,000 grass trees over more than 20 years.",
-      "timestamp": "2026-02-11T00:04:22Z",
       "source": "ABC News"
     }
   ]

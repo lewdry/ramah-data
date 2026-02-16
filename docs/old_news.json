@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Mission to save WA's iconic grass trees from residential land clearing",
+    "link": "https://www.abc.net.au/news/2026-02-11/race-to-save-grass-trees-south-west-wa/106323778",
+    "mean_score": 0.497,
+    "vader_score": 0.4939,
+    "textblob_score": 0.5,
+    "first_sentence": "Margaret River Trees has rescued and re-homed more than 100,000 grass trees over more than 20 years.",
+    "timestamp": "2026-02-11T00:04:22Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "SpaceX's next-gen Super Heavy booster aces four days of \"cryoproof\" testing",
     "link": "https://arstechnica.com/space/2026/02/spacexs-starbase-is-coming-alive-again-after-a-lull-in-starship-testing/",
     "mean_score": 0.333,
