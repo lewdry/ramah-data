@@ -1,5 +1,25 @@
 [
   {
+    "headline": "The Dutch love four-day working weeks, but are they sustainable?",
+    "link": "https://www.bbc.com/news/articles/cx2y85xdyw3o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4409,
+    "vader_score": 0.3818,
+    "textblob_score": 0.5,
+    "first_sentence": "The Dutch have quietly adopted working just a four-day week.",
+    "timestamp": "2026-02-12T00:00:05Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "'Mum said go get help': Heroic 13-year-old's triple-zero call released",
+    "link": "https://www.sbs.com.au/news/article/heroic-13-year-olds-triple-zero-call-released/s51dtw27i",
+    "mean_score": 0.7215,
+    "vader_score": 0.743,
+    "textblob_score": 0.7,
+    "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+    "timestamp": "2026-02-11T23:39:13Z",
+    "source": "SBS News"
+  },
+  {
     "headline": "Quick hits: Banned helmets, successful surgery and maple syrup power",
     "link": "https://www.abc.net.au/news/2026-02-12/winter-olympics-2026-day-five-quick-hits-vonn-helmet/106334002",
     "mean_score": 0.372,

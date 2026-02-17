@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-17T14:25:03Z",
+  "last run": "2026-02-17T15:23:48Z",
   "stories": [
+    {
+      "headline": "Winter Olympics 2026: France win biathlon relay, glory for Oftebro in Nordic combined \u2013 live",
+      "link": "https://www.theguardian.com/sport/live/2026/feb/17/winter-olympics-2026-crunch-time-in-curling-slopestyle-bobsleigh-and-more-on-day-11-live",
+      "mean_score": 0.6378,
+      "vader_score": 0.8074,
+      "textblob_score": 0.4682,
+      "first_sentence": "Our teams are ready to go for bronze.",
+      "timestamp": "2026-02-17T15:20:31Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Ancient crocodile named Jones after 'inspirational' teacher",
+      "link": "https://www.bbc.com/news/articles/c1kgjwlmdv0o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5053,
+      "vader_score": 0.5106,
+      "textblob_score": 0.5,
+      "first_sentence": "A newly-identified species of ancient crocodile has been named after an \"inspirational\" teacher by the scientist leading the research.",
+      "timestamp": "2026-02-17T14:25:21Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Jesse Jackson was \u2018direct connection to great civil rights era\u2019, says Diane Abbott",
       "link": "https://www.theguardian.com/us-news/2026/feb/17/jesse-jackson-direct-connection-great-civil-rights-era-diane-abbott",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Tarique Rahman, who after 17 years in exile is the main contender to be the next prime minister of Bangladesh, has pledged to end entrenched corruption and put the country on a \u201cnew path\u201d as voting began in the first free and fair elections in almost two decades.",
       "timestamp": "2026-02-12T01:10:15Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "The Dutch love four-day working weeks, but are they sustainable?",
-      "link": "https://www.bbc.com/news/articles/cx2y85xdyw3o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4409,
-      "vader_score": 0.3818,
-      "textblob_score": 0.5,
-      "first_sentence": "The Dutch have quietly adopted working just a four-day week.",
-      "timestamp": "2026-02-12T00:00:05Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "'Mum said go get help': Heroic 13-year-old's triple-zero call released",
-      "link": "https://www.sbs.com.au/news/article/heroic-13-year-olds-triple-zero-call-released/s51dtw27i",
-      "mean_score": 0.7215,
-      "vader_score": 0.743,
-      "textblob_score": 0.7,
-      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-      "timestamp": "2026-02-11T23:39:13Z",
-      "source": "SBS News"
     }
   ]
 }
