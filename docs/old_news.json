@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Breaking: Support firms for Angus Taylor to win Liberal leadership",
+    "link": "https://www.abc.net.au/news/2026-02-12/angus-taylor-liberal-leadership-support-firms/106334120",
+    "mean_score": 0.779,
+    "vader_score": 0.7579,
+    "textblob_score": 0.8,
+    "first_sentence": "Support is firming for Angus Taylor to topple Opposition Leader Sussan Ley, as more MPs abandon the shadow ministry.",
+    "timestamp": "2026-02-12T05:17:59Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "'Smartest policy brain' or controversial deal-maker: Who is the real Angus Taylor?",
+    "link": "https://www.sbs.com.au/news/article/who-is-angus-taylor-the-man-taking-on-sussan-ley-ahead-of-liberal-leadership-showdown/pqndd5kxm",
+    "mean_score": 0.4345,
+    "vader_score": 0.4939,
+    "textblob_score": 0.375,
+    "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+    "timestamp": "2026-02-12T05:16:51Z",
+    "source": "SBS News"
+  },
+  {
     "headline": "Support builds for Angus Taylor after launching Liberal party leadership challenge against Sussan Ley",
     "link": "https://www.theguardian.com/australia-news/2026/feb/12/angus-taylor-liberal-party-spill-motion-sussan-ley",
     "mean_score": 0.3454,
