@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-17T08:21:41Z",
+  "last run": "2026-02-17T09:23:35Z",
   "stories": [
+    {
+      "headline": "Angus Taylor says his new frontbench will take the fight to Labor, but his biggest battle is to save the Liberal party",
+      "link": "https://www.theguardian.com/australia-news/2026/feb/17/angus-taylor-shadow-frontbench-battle-save-liberal-party",
+      "mean_score": 0.3505,
+      "vader_score": 0.5647,
+      "textblob_score": 0.1364,
+      "first_sentence": "It is almost impossible to overstate the challenge facing Angus Taylor just days into the job as opposition leader.",
+      "timestamp": "2026-02-17T08:29:48Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Real Madrid need reinvention as special circumstances are needed to rule Europe | Philipp Lahm",
       "link": "https://www.theguardian.com/football/2026/feb/17/real-madrid-reinvent-champions-league-la-liga-carlo-ancelotti-jose-mourinho",
@@ -2490,16 +2500,6 @@
       "first_sentence": "It took Charlotte Wilson to convey what many were thinking at the Livigno Aerials and Moguls Park.",
       "timestamp": "2026-02-11T18:09:04Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "A plague doctor dances with a rat at a Covid ball: Lisl Ponger\u2019s best photograph",
-      "link": "https://www.theguardian.com/artanddesign/2026/feb/11/plague-doctor-dances-rat-covid-ball-lisl-pongers-best-photograph",
-      "mean_score": 0.8185,
-      "vader_score": 0.6369,
-      "textblob_score": 1.0,
-      "first_sentence": "When Covid started, everybody was talking about masks.",
-      "timestamp": "2026-02-11T14:57:14Z",
-      "source": "The Guardian"
     }
   ]
 }
