@@ -1,5 +1,5 @@
 {
-  "last run": "2026-02-17T15:23:48Z",
+  "last run": "2026-02-17T16:25:18Z",
   "stories": [
     {
       "headline": "Winter Olympics 2026: France win biathlon relay, glory for Oftebro in Nordic combined \u2013 live",
@@ -9,6 +9,26 @@
       "textblob_score": 0.4682,
       "first_sentence": "Our teams are ready to go for bronze.",
       "timestamp": "2026-02-17T15:20:31Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "V\u00edtor Pereira insists he shares trust with \u2018emotional\u2019 Evangelos Marinakis",
+      "link": "https://www.theguardian.com/football/2026/feb/17/vitor-pereira-evangelos-marinakis-nottingham-forest",
+      "mean_score": 0.3352,
+      "vader_score": 0.6705,
+      "textblob_score": 0.0,
+      "first_sentence": "V\u00edtor Pereira believes the trust he has with Nottingham Forest\u2019s owner, Evangelos Marinakis, means he can survive the poisoned chalice of the City Ground job.",
+      "timestamp": "2026-02-17T15:12:27Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Forget Maga. Welcome to Mega: Make Empire Great Again | Mehdi Hasan",
+      "link": "https://www.theguardian.com/commentisfree/2026/feb/17/maga-marco-rubio-munich-security-conference",
+      "mean_score": 0.7675,
+      "vader_score": 0.7351,
+      "textblob_score": 0.8,
+      "first_sentence": "Fresh from toppling the president of Venezuela and taking control of the world\u2019s largest oil reserves, the Trump administration\u2019s top diplomat arrived at the Munich security conference on Saturday with a rather new and very disturbing message for European governments.",
+      "timestamp": "2026-02-17T15:00:45Z",
       "source": "The Guardian"
     },
     {
@@ -29,6 +49,26 @@
       "textblob_score": 0.45,
       "first_sentence": "Jesse Jackson was a \u201cdirect connection to the great era of civil rights\u201d, Diane Abbott said, leading UK tributes to the African American campaigner.",
       "timestamp": "2026-02-17T14:09:54Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Lime wants its ebikes to take over the streets \u2013 but do they pass our safety test?",
+      "link": "https://www.theguardian.com/news/2026/feb/17/lime-wants-its-ebikes-to-take-over-the-streets-but-do-they-pass-our-safety-test",
+      "mean_score": 0.386,
+      "vader_score": 0.5719,
+      "textblob_score": 0.2,
+      "first_sentence": "Lime\u2019s distinctive green ebikes have left many Australians seeing red, attracting hundreds of complaints of injuries and dumped bikes every year.",
+      "timestamp": "2026-02-17T14:00:15Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "In a taste-test battle of supermarket mite-y bites, which will win? (Spoiler: it isn\u2019t Vegemite)",
+      "link": "https://www.theguardian.com/food/2026/feb/17/supermarket-taste-test-yeast-spreads-vegemite-promite-marmite",
+      "mean_score": 0.548,
+      "vader_score": 0.296,
+      "textblob_score": 0.8,
+      "first_sentence": "At the end of most taste tests, I have a clear idea of winners and losers, and I\u2019m usually confident enough in the findings that I\u2019d bet if I repeated it 100 times, with a different set of testers, the results would be similar.",
+      "timestamp": "2026-02-17T14:00:14Z",
       "source": "The Guardian"
     },
     {
@@ -160,6 +200,16 @@
       "first_sentence": "The Chinese AI company DeepSeek shocked markets last year with a high-quality, low-cost model.",
       "timestamp": "2026-02-17T09:40:13Z",
       "source": "NPR News"
+    },
+    {
+      "headline": "Live: Italy and Canada celebrate Olympic speed skating golds",
+      "link": "https://www.abc.net.au/news/2026-02-17/winter-olympics-day-11-live-blog/106354466",
+      "mean_score": 0.3541,
+      "vader_score": 0.5719,
+      "textblob_score": 0.1364,
+      "first_sentence": "Heavy snow has played havoc with events on day 11 of the Winter Olympics, with Australia's women's and men's aerials and women's slopestyle athletes having their events postponed for the day.",
+      "timestamp": "2026-02-17T09:04:50Z",
+      "source": "ABC News"
     },
     {
       "headline": "Angus Taylor says his new frontbench will take the fight to Labor, but his biggest battle is to save the Liberal party",
@@ -2450,56 +2500,6 @@
       "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
       "timestamp": "2026-02-12T05:16:51Z",
       "source": "SBS News"
-    },
-    {
-      "headline": "Support builds for Angus Taylor after launching Liberal party leadership challenge against Sussan Ley",
-      "link": "https://www.theguardian.com/australia-news/2026/feb/12/angus-taylor-liberal-party-spill-motion-sussan-ley",
-      "mean_score": 0.3454,
-      "vader_score": 0.6908,
-      "textblob_score": 0.0,
-      "first_sentence": "Sussan Ley\u2019s embattled leadership has suffered a major blow, with key backer and Queensland senator James McGrath resigning from the frontbench in order to back Angus Taylor.",
-      "timestamp": "2026-02-12T05:03:14Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Fantastic. Great move. Well done Angus: the story of one of Australia\u2019s favourite political memes",
-      "link": "https://www.theguardian.com/culture/2026/feb/12/fantastic-great-move-well-done-angus-taylor-meme",
-      "mean_score": 0.6345,
-      "vader_score": 0.8689,
-      "textblob_score": 0.4,
-      "first_sentence": "Almost seven years ago, Angus Taylor gassed up his own Facebook post.",
-      "timestamp": "2026-02-12T04:13:49Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Chris Mason: Latest vetting row raises fresh concerns over Starmer's judgement",
-      "link": "https://www.bbc.com/news/articles/c0mgzr3e18jo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3591,
-      "vader_score": 0.3182,
-      "textblob_score": 0.4,
-      "first_sentence": "We are currently witnessing the curious spectacle of two men, both of whom have served as the prime minister's director of communications within the last year, on opposite sides of a public row over the controversial appointment of one of them to the House of Lords.",
-      "timestamp": "2026-02-12T03:13:29Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Monks bring balm for America\u2019s wounds as Washington cheers peace odyssey",
-      "link": "https://www.theguardian.com/us-news/2026/feb/11/buddhist-monks-peace-walk-washington-dc",
-      "mean_score": 0.3825,
-      "vader_score": 0.765,
-      "textblob_score": 0.0,
-      "first_sentence": "Bhante Saranapala gazed down at more than a hundred Buddhist monks wearing burnt-orange, saffron and maroon robes, most sporting woolly hats, a few clutching flowers.",
-      "timestamp": "2026-02-12T01:37:40Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Tarique Rahman promises era of clean politics as Bangladesh holds first election since fall of Hasina",
-      "link": "https://www.theguardian.com/world/2026/feb/12/tarique-rahman-bnp-bangladesh-election",
-      "mean_score": 0.4785,
-      "vader_score": 0.6486,
-      "textblob_score": 0.3083,
-      "first_sentence": "Tarique Rahman, who after 17 years in exile is the main contender to be the next prime minister of Bangladesh, has pledged to end entrenched corruption and put the country on a \u201cnew path\u201d as voting began in the first free and fair elections in almost two decades.",
-      "timestamp": "2026-02-12T01:10:15Z",
-      "source": "The Guardian"
     }
   ]
 }
