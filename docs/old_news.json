@@ -1,5 +1,25 @@
 [
   {
+    "headline": "\"Windows 11 26H1\" is a special version of Windows exclusively for new Arm PCs",
+    "link": "https://arstechnica.com/gadgets/2026/02/windows-11-26h1-is-a-special-version-of-windows-exclusively-for-new-arm-pcs/",
+    "mean_score": 0.3243,
+    "vader_score": 0.4019,
+    "textblob_score": 0.2468,
+    "first_sentence": "Arm PCs have enjoyed special treatment from Microsoft for the past two years.",
+    "timestamp": "2026-02-11T20:28:35Z",
+    "source": "Ars Technica"
+  },
+  {
+    "headline": "Winter Olympics recap: Franjo von Allmen wins his 3rd gold, Chloe Kim and NHL stars get rolling",
+    "link": "https://apnews.com/article/winter-olympics-roundup-wednesday-61ea37be5fb4f533f225abe5bf75e893",
+    "mean_score": 0.3609,
+    "vader_score": 0.5719,
+    "textblob_score": 0.15,
+    "first_sentence": "MILAN (AP) \u2014 Franjo von Allmen of Switzerland looks like a breakout star of the Milan Cortina Olympics after winning his third gold medal.",
+    "timestamp": "2026-02-11T20:23:01Z",
+    "source": "AP News"
+  },
+  {
     "headline": "Live: Taylor confirms leadership challenge as prominent Liberals desert Ley",
     "link": "https://www.abc.net.au/news/2026-02-12/federal-politics-live-blog-sussan-ley/106333952",
     "mean_score": 0.35,

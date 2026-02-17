@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-17T11:21:58Z",
+  "last run": "2026-02-17T12:21:58Z",
   "stories": [
+    {
+      "headline": "\u2018I\u2019m trying to expand what it means to be a skier\u2019: Mallory Duncan on jazz, freedom and the mountains",
+      "link": "https://www.theguardian.com/sport/2026/feb/17/mallory-duncan-skiing-jazz-blackcountry-journal",
+      "mean_score": 0.379,
+      "vader_score": 0.7579,
+      "textblob_score": 0.0,
+      "first_sentence": "Growing up in the Hayward Hills, just south of Oakland, California, Mallory Duncan lived a hybrid lifestyle throughout his childhood.",
+      "timestamp": "2026-02-17T11:00:50Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "The Breakdown | France\u2019s creative heart \u2018Jalipont\u2019 can easily join rugby\u2019s great double-acts",
       "link": "https://www.theguardian.com/sport/2026/feb/17/the-breakdown-dupont-jalibert-six-nations-rugby-union",
@@ -20,6 +30,16 @@
       "first_sentence": "DHAKA, Bangladesh (AP) \u2014 Bangladesh\u2019 s new prime minister was sworn in on Tuesday after his party\u2019s landslide win in last week\u2019s parliamentary elections, the country\u2019s first since the massive 2024 uprising and a vote billed as key to the nation\u2019s future political landscape after years of intense rivalry and disputed polls.",
       "timestamp": "2026-02-17T10:53:01Z",
       "source": "AP News"
+    },
+    {
+      "headline": "When Robert Duvall fell in love with Scottish football",
+      "link": "https://www.bbc.com/news/articles/c2lrjp0lz4go?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5685,
+      "vader_score": 0.6369,
+      "textblob_score": 0.5,
+      "first_sentence": "It was one of the most improbable match-ups in movie history.",
+      "timestamp": "2026-02-17T10:46:25Z",
+      "source": "BBC News"
     },
     {
       "headline": "TV antennas and Super Bowl rehearsals: How prediction market traders seek an edge",
@@ -2480,26 +2500,6 @@
       "first_sentence": "A renewable energy company planning to build a solar farm near Darwin is seeking a court ruling that no native title claim exists at the proposed site.",
       "timestamp": "2026-02-11T21:00:53Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "\"Windows 11 26H1\" is a special version of Windows exclusively for new Arm PCs",
-      "link": "https://arstechnica.com/gadgets/2026/02/windows-11-26h1-is-a-special-version-of-windows-exclusively-for-new-arm-pcs/",
-      "mean_score": 0.3243,
-      "vader_score": 0.4019,
-      "textblob_score": 0.2468,
-      "first_sentence": "Arm PCs have enjoyed special treatment from Microsoft for the past two years.",
-      "timestamp": "2026-02-11T20:28:35Z",
-      "source": "Ars Technica"
-    },
-    {
-      "headline": "Winter Olympics recap: Franjo von Allmen wins his 3rd gold, Chloe Kim and NHL stars get rolling",
-      "link": "https://apnews.com/article/winter-olympics-roundup-wednesday-61ea37be5fb4f533f225abe5bf75e893",
-      "mean_score": 0.3609,
-      "vader_score": 0.5719,
-      "textblob_score": 0.15,
-      "first_sentence": "MILAN (AP) \u2014 Franjo von Allmen of Switzerland looks like a breakout star of the Milan Cortina Olympics after winning his third gold medal.",
-      "timestamp": "2026-02-11T20:23:01Z",
-      "source": "AP News"
     }
   ]
 }
