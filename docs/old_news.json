@@ -1,5 +1,35 @@
 [
   {
+    "headline": "European Super League project officially over after Real Madrid and Uefa deal",
+    "link": "https://www.theguardian.com/football/2026/feb/11/european-super-league-project-over-real-madrid-uefa-deal",
+    "mean_score": 0.3886,
+    "vader_score": 0.5994,
+    "textblob_score": 0.1778,
+    "first_sentence": "The Super League project has finally died out after Uefa announced it had reached \u201can agreement of principles for the wellbeing of European club football\u201d with Real Madrid and the European Football Clubs group.",
+    "timestamp": "2026-02-11T14:53:34Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Local rivalries are key for Wallabies as Super Rugby starts the new season full of hope | Angus Fontaine",
+    "link": "https://www.theguardian.com/sport/blog/2026/feb/11/super-rugby-wallabies-new-season",
+    "mean_score": 0.4711,
+    "vader_score": 0.7783,
+    "textblob_score": 0.1639,
+    "first_sentence": "The 2026 Super Rugby Pacific season kicks off this weekend and Australia needs its four provinces to make a stirring statement ahead of the 2027 home World Cup.",
+    "timestamp": "2026-02-11T14:00:10Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "US closes airspace over Texas border town for 10 days for 'special security reasons'",
+    "link": "https://www.bbc.com/news/articles/cqxdwjn578do?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.491,
+    "vader_score": 0.6249,
+    "textblob_score": 0.3571,
+    "first_sentence": "The US Federal Aviation Administration (FAA) has closed the airspace surrounding the Texas border town of El Paso for 10 days.",
+    "timestamp": "2026-02-11T13:19:18Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Winter Olympics 2026: Franjo von Allmen takes Super G title for third gold of Games \u2013 live",
     "link": "https://www.theguardian.com/sport/live/2026/feb/11/winter-olympics-2026-gold-medals-up-for-grabs-in-skiing-figure-skating-and-more-live",
     "mean_score": 0.378,
