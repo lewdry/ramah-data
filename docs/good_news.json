@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-17T17:27:50Z",
+  "last run": "2026-02-17T18:26:41Z",
   "stories": [
+    {
+      "headline": "New Orleans celebrates Mardi Gras, the indulgent conclusion of Carnival season",
+      "link": "https://apnews.com/article/mardi-gras-parades-new-orleans-92d89f37b7d957c39c9e28ee7c6a9a5b",
+      "mean_score": 0.3541,
+      "vader_score": 0.5719,
+      "textblob_score": 0.1364,
+      "first_sentence": "NEW ORLEANS, La.",
+      "timestamp": "2026-02-17T18:23:02Z",
+      "source": "AP News"
+    },
     {
       "headline": "\u2018Food porn\u2019: are sexy meal pics ruining the restaurant industry?",
       "link": "https://www.theguardian.com/food/2026/feb/17/food-porn-are-sexy-meal-pics-ruining-the-restaurant-industry",
@@ -279,6 +289,16 @@
       "textblob_score": 0.5,
       "first_sentence": "What motivates a stranger to push a woman in public? That\u2019s a question I\u2019ve been stuck on this week after a man shoved me out of his way on an empty pedestrian street.",
       "timestamp": "2026-02-17T07:00:03Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Openreach said yes to full fibre broadband, then branded it \u2018uneconomical\u2019",
+      "link": "https://www.theguardian.com/money/2026/feb/17/openreach-full-fibre-broadband-uneconomical",
+      "mean_score": 0.376,
+      "vader_score": 0.4019,
+      "textblob_score": 0.35,
+      "first_sentence": "My internet provider informed me by email that full fibre broadband had become available for my property, confirmed by Openreach\u2019s \u201cfibre checker\u201d tool.",
+      "timestamp": "2026-02-17T07:00:02Z",
       "source": "The Guardian"
     },
     {
@@ -2480,26 +2500,6 @@
       "first_sentence": "I carry my train journeys in my bones, the juddering song of the Indian rail.",
       "timestamp": "2026-02-12T07:00:42Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018A love letter to all the good men I know\u2019: Shahrbanoo Sadat on making Afghanistan\u2019s first romcom",
-      "link": "https://www.theguardian.com/film/2026/feb/12/no-good-men-berlin-film-festival-shahrbanoo-sadat-afghanistan-romcom",
-      "mean_score": 0.6399,
-      "vader_score": 0.7964,
-      "textblob_score": 0.4833,
-      "first_sentence": "\u2018Afghanistan\u2019s first romantic comedy\u201d was not the easiest of sales pitches, director Shahrbanoo Sadat admits.",
-      "timestamp": "2026-02-12T06:00:43Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Homemade sweet treats to spread love this Valentine's Day",
-      "link": "https://www.abc.net.au/news/2026-02-12/valentines-day-recipes-love-chocolate/106325802",
-      "mean_score": 0.6135,
-      "vader_score": 0.802,
-      "textblob_score": 0.425,
-      "first_sentence": "Whether you're in the Valentine's Day or not (it's this Saturday, February 14, by the way), sharing some love is never a bad thing.",
-      "timestamp": "2026-02-12T05:28:18Z",
-      "source": "ABC News"
     }
   ]
 }

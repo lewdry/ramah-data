@@ -1,5 +1,25 @@
 [
   {
+    "headline": "\u2018A love letter to all the good men I know\u2019: Shahrbanoo Sadat on making Afghanistan\u2019s first romcom",
+    "link": "https://www.theguardian.com/film/2026/feb/12/no-good-men-berlin-film-festival-shahrbanoo-sadat-afghanistan-romcom",
+    "mean_score": 0.6399,
+    "vader_score": 0.7964,
+    "textblob_score": 0.4833,
+    "first_sentence": "\u2018Afghanistan\u2019s first romantic comedy\u201d was not the easiest of sales pitches, director Shahrbanoo Sadat admits.",
+    "timestamp": "2026-02-12T06:00:43Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Homemade sweet treats to spread love this Valentine's Day",
+    "link": "https://www.abc.net.au/news/2026-02-12/valentines-day-recipes-love-chocolate/106325802",
+    "mean_score": 0.6135,
+    "vader_score": 0.802,
+    "textblob_score": 0.425,
+    "first_sentence": "Whether you're in the Valentine's Day or not (it's this Saturday, February 14, by the way), sharing some love is never a bad thing.",
+    "timestamp": "2026-02-12T05:28:18Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Breaking: Support firms for Angus Taylor to win Liberal leadership",
     "link": "https://www.abc.net.au/news/2026-02-12/angus-taylor-liberal-leadership-support-firms/106334120",
     "mean_score": 0.779,
