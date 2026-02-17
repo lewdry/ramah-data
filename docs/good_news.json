@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-17T20:16:35Z",
+  "last run": "2026-02-17T21:16:22Z",
   "stories": [
+    {
+      "headline": "Australia news live: Randa Abdel-Fattah to appear at Sydney writers\u2019 festival; record renewable capacity added to grid",
+      "link": "https://www.theguardian.com/australia-news/live/2026/feb/18/australia-news-live-renewable-energy-capacity-battery-grid-real-wage-growth-cost-of-living-albanese-angus-taylor-coalition-liberal-front-bench-immigration-ntwnfb",
+      "mean_score": 0.3151,
+      "vader_score": 0.4939,
+      "textblob_score": 0.1364,
+      "first_sentence": "Dr Randa Abdel-Fattah will appear in two sessions at this year\u2019s Sydney writers\u2019 festival, part of a program of about 200 events.",
+      "timestamp": "2026-02-17T20:55:34Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Benfica v Real Madrid, Monaco v PSG, and more: Champions League \u2013 live",
       "link": "https://www.theguardian.com/football/live/2026/feb/17/benfica-v-real-madrid-monaco-v-psg-and-more-champions-league-live",
@@ -2490,16 +2500,6 @@
       "first_sentence": "One of Wales' most successful businesswomen has joined calls for Welsh Rugby Union chairman Richard Collier-Keywood to resign over its current turmoil.",
       "timestamp": "2026-02-12T09:47:56Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "UK economy limps along at 0.1% growth \u2013 but there are reasons for optimism in 2026",
-      "link": "https://www.theguardian.com/business/2026/feb/12/uk-economy-gdp-reasons-for-optimism-analysis",
-      "mean_score": 0.3807,
-      "vader_score": 0.7615,
-      "textblob_score": 0.0,
-      "first_sentence": "Rachel Reeves has suggested 2026 is the year Labour can start to deliver on its economic promises; but 0.1% GDP growth in the final quarter of last year is hardly the springboard she was hoping for.",
-      "timestamp": "2026-02-12T09:14:00Z",
-      "source": "The Guardian"
     }
   ]
 }
