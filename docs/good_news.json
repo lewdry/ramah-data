@@ -1,5 +1,5 @@
 {
-  "last run": "2026-02-17T19:24:48Z",
+  "last run": "2026-02-17T20:16:35Z",
   "stories": [
     {
       "headline": "Benfica v Real Madrid, Monaco v PSG, and more: Champions League \u2013 live",
@@ -12,6 +12,16 @@
       "source": "The Guardian"
     },
     {
+      "headline": "Cardi B review \u2013 ambitious spectacle and sizzling choreography",
+      "link": "https://www.theguardian.com/music/2026/feb/17/cardi-b-concert-review-los-angeles",
+      "mean_score": 0.3634,
+      "vader_score": 0.4767,
+      "textblob_score": 0.25,
+      "first_sentence": "She emerges in a haute couture trench coat resembling battle armor and with a shock of white in her dark hair, like Cruella de Vil if she\u2019d grown up in the Bronx.",
+      "timestamp": "2026-02-17T19:08:29Z",
+      "source": "The Guardian"
+    },
+    {
       "headline": "First day of Russia-Ukraine peace talks ends in Geneva",
       "link": "https://www.bbc.com/news/articles/cge812y2549o?at_medium=RSS&at_campaign=rss",
       "mean_score": 0.3962,
@@ -20,6 +30,16 @@
       "first_sentence": "Russian and Ukrainian delegations have ended the first day of US-brokered peace talks in Geneva, a week before the fourth anniversary of Moscow's full-scale invasion of Ukraine.",
       "timestamp": "2026-02-17T18:55:48Z",
       "source": "BBC News"
+    },
+    {
+      "headline": "Borthwick backs \u2018superstar\u2019 Pollock to deliver euphoria when England host Ireland",
+      "link": "https://www.theguardian.com/sport/2026/feb/17/england-six-nations-team-henry-arundell-ireland-rugby-union",
+      "mean_score": 0.3125,
+      "vader_score": 0.6249,
+      "textblob_score": 0.0,
+      "first_sentence": "Steve Borthwick has backed Henry Pollock to thrive in the face of any wind-up tactics from Ireland on his first England start on Saturday, tipping his rising star to bring \u201ceuphoria\u201d to Twickenham.",
+      "timestamp": "2026-02-17T18:44:44Z",
+      "source": "The Guardian"
     },
     {
       "headline": "Richard Roxburgh stars with real-life friends in 'wickedly funny' stage show",
@@ -220,6 +240,16 @@
       "first_sentence": "It was one of the most improbable match-ups in movie history.",
       "timestamp": "2026-02-17T10:46:25Z",
       "source": "BBC News"
+    },
+    {
+      "headline": "England\u2019s slow-burn T20 World Cup heads for Super 8s with campaign yet to ignite",
+      "link": "https://www.theguardian.com/sport/2026/feb/17/england-cricket-t20-world-cup-super-8s",
+      "mean_score": 0.4664,
+      "vader_score": 0.5994,
+      "textblob_score": 0.3333,
+      "first_sentence": "If there was one thing the players of England and Italy agreed on at the end of a hugely entertaining and, from an English perspective, frequently concerning match\u00a0at Kolkata\u2019s Eden Gardens, it was that the situation favoured their opponents.",
+      "timestamp": "2026-02-17T10:25:48Z",
+      "source": "The Guardian"
     },
     {
       "headline": "TV antennas and Super Bowl rehearsals: How prediction market traders seek an edge",
@@ -2470,36 +2500,6 @@
       "first_sentence": "Rachel Reeves has suggested 2026 is the year Labour can start to deliver on its economic promises; but 0.1% GDP growth in the final quarter of last year is hardly the springboard she was hoping for.",
       "timestamp": "2026-02-12T09:14:00Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Super Nintendo by Keza MacDonald review \u2013 a joyful celebration of the gaming giant",
-      "link": "https://www.theguardian.com/books/2026/feb/12/super-nintendo-by-keza-macdonald-review-a-joyful-celebration-of-the-gaming-giant",
-      "mean_score": 0.4991,
-      "vader_score": 0.8316,
-      "textblob_score": 0.1667,
-      "first_sentence": "What is the highest-grossing entertainment franchise of all time? You might be tempted to think of Star Wars, or perhaps the Marvel Cinematic Universe.",
-      "timestamp": "2026-02-12T09:00:43Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Asia shares mostly gain after Wall Street wobbled over strong jobs report",
-      "link": "https://apnews.com/article/stocks-markets-fed-jobs-profit-45f8d8df807d4b7ed9127afc4b5809c9",
-      "mean_score": 0.6513,
-      "vader_score": 0.836,
-      "textblob_score": 0.4667,
-      "first_sentence": "HONG KONG (AP) \u2014 Asia shares were mostly higher Thursday and benchmarks in Japan and South Korea reached new records after Wall Street wobbled following a better-than-expected U.S.",
-      "timestamp": "2026-02-12T08:23:02Z",
-      "source": "AP News"
-    },
-    {
-      "headline": "Live: Aussie trio to contest Olympic moguls super final",
-      "link": "https://www.abc.net.au/news/2026-02-12/winter-olympics-2026-live-milano-cortina-matt-graham/106338490",
-      "mean_score": 0.378,
-      "vader_score": 0.5994,
-      "textblob_score": 0.1566,
-      "first_sentence": "Matt Graham is joined by Australian teammates Cooper Woods and Jackson Harvey in the men's moguls finals at the Winter Olympics.",
-      "timestamp": "2026-02-12T08:21:56Z",
-      "source": "ABC News"
     }
   ]
 }
