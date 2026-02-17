@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Live: Taylor confirms leadership challenge as prominent Liberals desert Ley",
+    "link": "https://www.abc.net.au/news/2026-02-12/federal-politics-live-blog-sussan-ley/106333952",
+    "mean_score": 0.35,
+    "vader_score": 0.3818,
+    "textblob_score": 0.3182,
+    "first_sentence": "Angus Taylor has confirmed in a social media video that he will challenge Sussan Ley for the Liberal leadership.",
+    "timestamp": "2026-02-11T20:06:22Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Showers and thunderstorms to cool south-east Queensland amid heatwave",
+    "link": "https://www.abc.net.au/news/2026-02-12/qld-south-east-temperatures-peak-heatwave-rainfall-storms/106331426",
+    "mean_score": 0.3341,
+    "vader_score": 0.3182,
+    "textblob_score": 0.35,
+    "first_sentence": "Heatwave temperatures will peak in south-east Queensland on Thursday, before cooling off across the weekend.",
+    "timestamp": "2026-02-11T20:05:08Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "US speedskater Jordan Stolz wins the 1,000 meters gold in an Olympic-record time",
     "link": "https://apnews.com/article/jordan-stolz-olympics-speedskating-1000-920185276d2436f3ebba60f41450f41f",
     "mean_score": 0.4359,
