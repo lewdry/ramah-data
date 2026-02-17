@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-17T13:34:19Z",
+  "last run": "2026-02-17T14:25:03Z",
   "stories": [
+    {
+      "headline": "Jesse Jackson was \u2018direct connection to great civil rights era\u2019, says Diane Abbott",
+      "link": "https://www.theguardian.com/us-news/2026/feb/17/jesse-jackson-direct-connection-great-civil-rights-era-diane-abbott",
+      "mean_score": 0.5374,
+      "vader_score": 0.6249,
+      "textblob_score": 0.45,
+      "first_sentence": "Jesse Jackson was a \u201cdirect connection to the great era of civil rights\u201d, Diane Abbott said, leading UK tributes to the African American campaigner.",
+      "timestamp": "2026-02-17T14:09:54Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "France releases suspected Russian shadow fleet tanker after huge fine, as Ukraine peace talks begin \u2013 Europe live",
       "link": "https://www.theguardian.com/world/live/2026/feb/17/ukraine-talks-geneva-russia-zelenskyy-putin-orban-rubio-latest-news-updates",
@@ -2490,16 +2500,6 @@
       "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
       "timestamp": "2026-02-11T23:39:13Z",
       "source": "SBS News"
-    },
-    {
-      "headline": "Quick hits: Banned helmets, successful surgery and maple syrup power",
-      "link": "https://www.abc.net.au/news/2026-02-12/winter-olympics-2026-day-five-quick-hits-vonn-helmet/106334002",
-      "mean_score": 0.372,
-      "vader_score": 0.2023,
-      "textblob_score": 0.5417,
-      "first_sentence": "A Ukrainian athlete is refusing to back down over a controversial helmet featuring the dead, Lindsey Vonn has a third surgery, and maple syrup has powered Ryan Cochran-Siegle to another medal.",
-      "timestamp": "2026-02-11T23:37:11Z",
-      "source": "ABC News"
     }
   ]
 }
