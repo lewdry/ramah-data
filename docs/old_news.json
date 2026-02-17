@@ -1,5 +1,25 @@
 [
   {
+    "headline": "South Africa edge T20 World Cup thriller with Afghanistan after double super over",
+    "link": "https://www.theguardian.com/sport/2026/feb/11/south-africa-edge-astonishing-t20-cricket-world-cup-nailbiter-after-double-super-over",
+    "mean_score": 0.4076,
+    "vader_score": 0.6486,
+    "textblob_score": 0.1667,
+    "first_sentence": "South Africa emerged victorious after an astonishing T20 World Cup nailbiter against Afghanistan, which ended with scores tied and a double super over.",
+    "timestamp": "2026-02-11T10:55:08Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "\u200bAI slop, begone! The viral musical virtuosos bringing brains and brilliance back to social media",
+    "link": "https://www.theguardian.com/music/2026/feb/11/viral-musical-virtuosos-social-media-microtonal-music-maddie-ashman-chloe-sobek",
+    "mean_score": 0.4006,
+    "vader_score": 0.7901,
+    "textblob_score": 0.0111,
+    "first_sentence": "Whether making microtonal pop or playing Renaissance instruments with sheep bones, a crop of bold artists are making genuinely strange music go mainstream \u2013 but are they at the mercy of the algorithm?.",
+    "timestamp": "2026-02-11T10:38:15Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "\u2018How many beers do you have?\u2019 Swedish PM seeks boost from phone-in podcast",
     "link": "https://www.theguardian.com/world/2026/feb/11/swedish-prime-ministers-new-podcast-improve-his-fortunes-election",
     "mean_score": 0.4509,

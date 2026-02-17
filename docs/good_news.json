@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-17T04:42:56Z",
+  "last run": "2026-02-17T05:34:00Z",
   "stories": [
+    {
+      "headline": "Creative industries hub, 1,000 new homes to be built on ECU Mount Lawley site",
+      "link": "https://www.abc.net.au/news/2026-02-17/ecu-mount-lawley-redevelopment-masterplan-released/106354086",
+      "mean_score": 0.3793,
+      "vader_score": 0.4404,
+      "textblob_score": 0.3182,
+      "first_sentence": "The master plan for the redevelopment of the Edith Cowan University campus in Mount Lawley has been released.",
+      "timestamp": "2026-02-17T05:17:20Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Woman shares insight into harrowing childhood in Queensland's state care",
       "link": "https://www.abc.net.au/news/2026-02-17/child-safety-commission-hearing-in-toowoomba/106350486",
@@ -149,6 +159,16 @@
       "textblob_score": 0.9,
       "first_sentence": "Australia could be out of the T20 World Cup before they even play their final first round group match after a stunning fightback by Sri Lanka in Pallekele.",
       "timestamp": "2026-02-16T17:35:10Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Did you solve it? Chapeau! A smart new hat puzzle",
+      "link": "https://www.theguardian.com/science/2026/feb/16/did-you-solve-it-chapeau-a-smart-new-hat-puzzle",
+      "mean_score": 0.3801,
+      "vader_score": 0.5848,
+      "textblob_score": 0.1753,
+      "first_sentence": "Earlier today I set you this logic puzzle.",
+      "timestamp": "2026-02-16T16:55:37Z",
       "source": "The Guardian"
     },
     {
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.5,
       "first_sentence": "Competition in the jobs market is ferocious, so today\u2019s applicants must attempt to stand out.",
       "timestamp": "2026-02-11T11:00:15Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "South Africa edge T20 World Cup thriller with Afghanistan after double super over",
-      "link": "https://www.theguardian.com/sport/2026/feb/11/south-africa-edge-astonishing-t20-cricket-world-cup-nailbiter-after-double-super-over",
-      "mean_score": 0.4076,
-      "vader_score": 0.6486,
-      "textblob_score": 0.1667,
-      "first_sentence": "South Africa emerged victorious after an astonishing T20 World Cup nailbiter against Afghanistan, which ended with scores tied and a double super over.",
-      "timestamp": "2026-02-11T10:55:08Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u200bAI slop, begone! The viral musical virtuosos bringing brains and brilliance back to social media",
-      "link": "https://www.theguardian.com/music/2026/feb/11/viral-musical-virtuosos-social-media-microtonal-music-maddie-ashman-chloe-sobek",
-      "mean_score": 0.4006,
-      "vader_score": 0.7901,
-      "textblob_score": 0.0111,
-      "first_sentence": "Whether making microtonal pop or playing Renaissance instruments with sheep bones, a crop of bold artists are making genuinely strange music go mainstream \u2013 but are they at the mercy of the algorithm?.",
-      "timestamp": "2026-02-11T10:38:15Z",
       "source": "The Guardian"
     }
   ]
