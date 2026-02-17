@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Top businesswoman says WRU chair must go after 'spineless' regions process",
+    "link": "https://www.bbc.com/news/articles/c39wlplgd2jo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3512,
+    "vader_score": 0.2023,
+    "textblob_score": 0.5,
+    "first_sentence": "One of Wales' most successful businesswomen has joined calls for Welsh Rugby Union chairman Richard Collier-Keywood to resign over its current turmoil.",
+    "timestamp": "2026-02-12T09:47:56Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "UK economy limps along at 0.1% growth \u2013 but there are reasons for optimism in 2026",
     "link": "https://www.theguardian.com/business/2026/feb/12/uk-economy-gdp-reasons-for-optimism-analysis",
     "mean_score": 0.3807,

@@ -1,5 +1,5 @@
 {
-  "last run": "2026-02-17T22:12:46Z",
+  "last run": "2026-02-17T23:12:43Z",
   "stories": [
     {
       "headline": "Australia news live: Randa Abdel-Fattah to appear at Sydney writers\u2019 festival; record renewable capacity added to grid",
@@ -390,6 +390,16 @@
       "first_sentence": "There\u2019s something endearing and confident about a dish named after the feeling it gives you.",
       "timestamp": "2026-02-17T06:00:00Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "See the full list: Opposition leader Angus Taylor unveils fresh shadow ministry",
+      "link": "https://www.sbs.com.au/news/article/opposition-leader-angus-taylor-unveils-fresh-shadow-ministry/411rnsatg",
+      "mean_score": 0.3216,
+      "vader_score": 0.3182,
+      "textblob_score": 0.325,
+      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+      "timestamp": "2026-02-17T05:47:22Z",
+      "source": "SBS News"
     },
     {
       "headline": "Creative industries hub, 1,000 new homes to be built on ECU Mount Lawley site",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.1,
       "first_sentence": "The family of a woman who died after falling ill with a stomach bug at a five-star resort in Cape Verde has accused package holiday firm Tui of a \"catalogue of errors\" in the days before her death.",
       "timestamp": "2026-02-12T09:48:26Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Top businesswoman says WRU chair must go after 'spineless' regions process",
-      "link": "https://www.bbc.com/news/articles/c39wlplgd2jo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3512,
-      "vader_score": 0.2023,
-      "textblob_score": 0.5,
-      "first_sentence": "One of Wales' most successful businesswomen has joined calls for Welsh Rugby Union chairman Richard Collier-Keywood to resign over its current turmoil.",
-      "timestamp": "2026-02-12T09:47:56Z",
       "source": "BBC News"
     }
   ]
