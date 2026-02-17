@@ -1,6 +1,46 @@
 {
-  "last run": "2026-02-17T09:23:35Z",
+  "last run": "2026-02-17T10:23:51Z",
   "stories": [
+    {
+      "headline": "TV antennas and Super Bowl rehearsals: How prediction market traders seek an edge",
+      "link": "https://www.npr.org/2026/02/17/nx-s1-5716224/kalshi-polymarket-super-bowl-alpha",
+      "mean_score": 0.4664,
+      "vader_score": 0.5994,
+      "textblob_score": 0.3333,
+      "first_sentence": "That's finance slang for finding a competitive edge.",
+      "timestamp": "2026-02-17T10:00:00Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "'One of the greatest actors we ever had': Hollywood mourns Robert Duvall",
+      "link": "https://www.bbc.com/news/articles/ce3g41z58vno?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.6011,
+      "vader_score": 0.2023,
+      "textblob_score": 1.0,
+      "first_sentence": "The Godfather and Apocalypse Now star Robert Duvall has been hailed as \"a giant\" and \"one of the greatest actors we ever had\" following his death at the age of 95.",
+      "timestamp": "2026-02-17T09:45:43Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Analog bag filled with hobbies help people go offline",
+      "link": "https://www.npr.org/2026/02/17/nx-s1-5704343/analog-bag-filled-with-hobbies-help-people-go-offline",
+      "mean_score": 0.348,
+      "vader_score": 0.296,
+      "textblob_score": 0.4,
+      "first_sentence": "The idea of an \"analog bag,\" filled with hobbies like reading, journaling and puzzles, is gaining popularity online.",
+      "timestamp": "2026-02-17T09:41:44Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "As US focuses on perfecting AI models, China wants to become better AI adopters",
+      "link": "https://www.npr.org/2026/02/17/nx-s1-5712615/as-us-focuses-on-perfecting-ai-models-china-wants-to-become-better-ai-adopters",
+      "mean_score": 0.5425,
+      "vader_score": 0.7351,
+      "textblob_score": 0.35,
+      "first_sentence": "The Chinese AI company DeepSeek shocked markets last year with a high-quality, low-cost model.",
+      "timestamp": "2026-02-17T09:40:13Z",
+      "source": "NPR News"
+    },
     {
       "headline": "Angus Taylor says his new frontbench will take the fight to Labor, but his biggest battle is to save the Liberal party",
       "link": "https://www.theguardian.com/australia-news/2026/feb/17/angus-taylor-shadow-frontbench-battle-save-liberal-party",
@@ -2459,46 +2499,6 @@
       "textblob_score": 0.35,
       "first_sentence": "Heatwave temperatures will peak in south-east Queensland on Thursday, before cooling off across the weekend.",
       "timestamp": "2026-02-11T20:05:08Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "US speedskater Jordan Stolz wins the 1,000 meters gold in an Olympic-record time",
-      "link": "https://apnews.com/article/jordan-stolz-olympics-speedskating-1000-920185276d2436f3ebba60f41450f41f",
-      "mean_score": 0.4359,
-      "vader_score": 0.5719,
-      "textblob_score": 0.3,
-      "first_sentence": "MILAN (AP) \u2014 Jordan Stolz pictured this moment most of his life, ever since he was 5 years old, learning to skate on a frozen pond in his Wisconsin backyard after falling in love with speedskating during the 2010 Winter Olympics \u2014 and hoping to one day step atop the podium himself.",
-      "timestamp": "2026-02-11T19:23:03Z",
-      "source": "AP News"
-    },
-    {
-      "headline": "Labour can win political argument for closer EU ties, says Rachel Reeves",
-      "link": "https://www.theguardian.com/politics/2026/feb/11/labour-political-argument-closer-eu-ties-rachel-reeves",
-      "mean_score": 0.3591,
-      "vader_score": 0.3182,
-      "textblob_score": 0.4,
-      "first_sentence": "Rachel Reeves has insisted Labour can win the political argument for a closer relationship with the EU, calling it the \u201cbiggest prize\u201d for UK economic growth.",
-      "timestamp": "2026-02-11T18:51:23Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Smart home PSA: Apple's \"new architecture\" for Home app becomes mandatory today",
-      "link": "https://arstechnica.com/gadgets/2026/02/smart-home-psa-apples-new-architecture-for-home-app-becomes-mandatory-today/",
-      "mean_score": 0.3171,
-      "vader_score": 0.4588,
-      "textblob_score": 0.1753,
-      "first_sentence": "Updated Home app is required for Matter support and some types of accessories.",
-      "timestamp": "2026-02-11T18:18:17Z",
-      "source": "Ars Technica"
-    },
-    {
-      "headline": "Jakara Anthony's response to defeat should make us all proud",
-      "link": "https://www.abc.net.au/news/2026-02-12/jakara-anthony-2026-winter-olympics-moguls/106333208",
-      "mean_score": 0.4129,
-      "vader_score": 0.0258,
-      "textblob_score": 0.8,
-      "first_sentence": "It took Charlotte Wilson to convey what many were thinking at the Livigno Aerials and Moguls Park.",
-      "timestamp": "2026-02-11T18:09:04Z",
       "source": "ABC News"
     }
   ]
