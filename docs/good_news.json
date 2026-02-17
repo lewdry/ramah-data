@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-17T00:42:32Z",
+  "last run": "2026-02-17T01:40:20Z",
   "stories": [
+    {
+      "headline": "How did Australia \u2013 better known for its beaches than snow \u2013 become a consistent Winter Olympics performer? | Kieran Pender",
+      "link": "https://www.theguardian.com/sport/2026/feb/17/how-did-australia-get-so-good-winter-olympics-gold-medals-tally-count",
+      "mean_score": 0.4077,
+      "vader_score": 0.4404,
+      "textblob_score": 0.375,
+      "first_sentence": "In 1936, Kenneth Kennedy made history as Australia\u2019s first Winter Olympian.",
+      "timestamp": "2026-02-17T01:14:10Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "The tech bros might show more humility in Delhi \u2013 but will they make AI any safer?",
+      "link": "https://www.bbc.com/news/articles/cr5l6gnen72o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5359,
+      "vader_score": 0.5719,
+      "textblob_score": 0.5,
+      "first_sentence": "Those who shout the loudest about artificial intelligence tend to be in the West, notably the US and Europe.",
+      "timestamp": "2026-02-17T00:12:58Z",
+      "source": "BBC News"
+    },
     {
       "headline": "'Once-in-a-lifetime' red-rock waterfall in WA's north delights onlookers",
       "link": "https://www.abc.net.au/news/2026-02-17/bushwalkers-once-in-a-lifetime-waterfall-rain-pilbara/106347066",
@@ -179,6 +199,16 @@
       "textblob_score": 0.3833,
       "first_sentence": "I\u2019ve non-canonically added in small cubes of aubergine, because they melt beautifully into the sauce while adding extra plant matter.",
       "timestamp": "2026-02-16T13:00:27Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Rose review \u2013 Sandra H\u00fcller is outstanding in grimy examination of gender stereotypes",
+      "link": "https://www.theguardian.com/film/2026/feb/16/rose-review-sandra-huller-berlin-film-festival-gender-stereotypes",
+      "mean_score": 0.423,
+      "vader_score": 0.296,
+      "textblob_score": 0.55,
+      "first_sentence": "Austrian director Markus Schleinzer brings a chill to his eerie new movie, a stark monochrome period drama set in rural southern Germany in the aftermath of the Thirty Years\u2019 war.",
+      "timestamp": "2026-02-16T12:08:46Z",
       "source": "The Guardian"
     },
     {
@@ -2470,36 +2500,6 @@
       "first_sentence": "Another caller to Ulf Kristersson\u2019s new podcast Ring statsministern! (Call the prime minister!), asks whether he is friends with Jimmie \u00c5kesson, the leader of the far-right Sweden Democrats party who simultaneously backs his government and is a rival in the upcoming general election.",
       "timestamp": "2026-02-11T10:36:17Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Sali Hughes on beauty: moisturisers for combination skin are rare \u2013 these are some of the best",
-      "link": "https://www.theguardian.com/fashion/2026/feb/11/sali-hughes-on-beauty-moisturisers-for-combination-skin-are-rare-these-are-some-of-the-best",
-      "mean_score": 0.7451,
-      "vader_score": 0.8402,
-      "textblob_score": 0.65,
-      "first_sentence": "The Guardian\u2019s journalism is independent.",
-      "timestamp": "2026-02-11T10:00:14Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Analilia Mejia talks about special primary win and the future of the Democratic Party",
-      "link": "https://www.npr.org/2026/02/11/nx-s1-5708912/analilia-mejia-talks-about-special-primary-win-and-the-future-of-the-democratic-party",
-      "mean_score": 0.6187,
-      "vader_score": 0.8481,
-      "textblob_score": 0.3893,
-      "first_sentence": "NPR's Michel Martin asks Analilia Mej\u00eca what her primary opponent's concession in New Jersey's 11th Congressional District means for the Democratic Party.",
-      "timestamp": "2026-02-11T09:47:31Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Analilia Mejia declares victory in NJ primary and credits progressive platform",
-      "link": "https://www.npr.org/2026/02/11/nx-s1-5708912/analilia-mejia-democratic-primary-election-new-jersey",
-      "mean_score": 0.3806,
-      "vader_score": 0.3612,
-      "textblob_score": 0.4,
-      "first_sentence": "Analilia Mejia, former political director for Sen.",
-      "timestamp": "2026-02-11T09:47:31Z",
-      "source": "NPR News"
     }
   ]
 }
