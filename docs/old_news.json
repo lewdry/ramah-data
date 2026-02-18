@@ -1,5 +1,45 @@
 [
   {
+    "headline": "At the Olympics, skier Breezy Johnson won a gold medal \u2014 and an engagement ring, too",
+    "link": "https://www.npr.org/2026/02/12/nx-s1-5712277/at-the-olympics-skier-breezy-johnson-won-a-gold-medal-and-an-engagement-ring-too",
+    "mean_score": 0.4345,
+    "vader_score": 0.8689,
+    "textblob_score": 0.0,
+    "first_sentence": "CORTINA D'AMPEZZO, Italy \u2014 The finish line at the 2026 Winter Games has brought Breezy Johnson two of the best moments of her life this week \u2014 first, an Olympic gold medal, then on Thursday, a marriage proposal.",
+    "timestamp": "2026-02-12T17:31:52Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "'Fresh Air' staff bids farewell to longtime executive producer Danny Miller",
+    "link": "https://www.npr.org/2026/02/12/nx-s1-5712354/fresh-air-staff-bids-farewell-to-longtime-executive-producer-danny-miller",
+    "mean_score": 0.3091,
+    "vader_score": 0.3182,
+    "textblob_score": 0.3,
+    "first_sentence": "Miller joined Fresh Air as an intern in 1978 and retired at the end of 2025.",
+    "timestamp": "2026-02-12T17:26:48Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "Cooper Woods claims Australia\u2019s first gold with superb win in moguls",
+    "link": "https://www.theguardian.com/sport/2026/feb/12/cooper-woods-claims-australias-first-gold-with-superb-win-in-moguls",
+    "mean_score": 0.7597,
+    "vader_score": 0.836,
+    "textblob_score": 0.6833,
+    "first_sentence": "Australia won its first medal of the Winter Olympics in some style with Cooper Woods taking gold in the men\u2019s moguls with a superb run at Livigno.",
+    "timestamp": "2026-02-12T16:55:51Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "RFK Jr. promised to restore trust in US health agencies. One year later, it\u2019s eroding",
+    "link": "https://apnews.com/article/rfk-jr-kennedy-cdc-covid-health-trust-7ef5f0e2c6f91ce6d908cb58f9e2fcb2",
+    "mean_score": 0.3953,
+    "vader_score": 0.7906,
+    "textblob_score": 0.0,
+    "first_sentence": "NEW YORK (AP) \u2014 Since Robert F.",
+    "timestamp": "2026-02-12T15:53:02Z",
+    "source": "AP News"
+  },
+  {
     "headline": "Party like it's 2001: Diablo II gets a new expansion, new playable class",
     "link": "https://arstechnica.com/gaming/2026/02/diablo-ii-gets-its-first-new-playable-class-in-over-25-years/",
     "mean_score": 0.3866,

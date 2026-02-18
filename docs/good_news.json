@@ -1,6 +1,36 @@
 {
-  "last run": "2026-02-18T12:21:42Z",
+  "last run": "2026-02-18T13:34:54Z",
   "stories": [
+    {
+      "headline": "Starmer says Reform\u2019s pledge to restore two-child benefit cap in full is \u2018shameful\u2019 \u2013 UK politics live",
+      "link": "https://www.theguardian.com/politics/live/2026/feb/18/keir-starmer-labour-youth-unemployment-minimum-wage-eluned-morgan-wales-robert-jenrick-reform-conservatives-kemi-badenoch-uk-politics-latest",
+      "mean_score": 0.44,
+      "vader_score": 0.6369,
+      "textblob_score": 0.2432,
+      "first_sentence": "I\u2019m incredibly proud that this government has scrapped the cruel two child limit.",
+      "timestamp": "2026-02-18T13:10:11Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Household energy bills in Great Britain forecast to fall by \u00a3117 a year",
+      "link": "https://www.theguardian.com/money/2026/feb/18/household-energy-bills-in-great-britain-forecast-to-fall",
+      "mean_score": 0.7675,
+      "vader_score": 0.7351,
+      "textblob_score": 0.8,
+      "first_sentence": "Household energy costs in Great Britain are expected to tumble by an average of \u00a3117 a year from April after Rachel Reeves announced in November\u2019s budget that the cost of green subsidies would be removed from domestic bills.",
+      "timestamp": "2026-02-18T12:48:42Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018A fantastic feeling\u2019: unfinished Cumbria mosque to open for Ramadan prayers",
+      "link": "https://www.theguardian.com/world/2026/feb/18/unfinished-cumbria-mosque-to-open-early-for-ramadan-prayers",
+      "mean_score": 0.3787,
+      "vader_score": 0.5574,
+      "textblob_score": 0.2,
+      "first_sentence": "It is a cold night before Ramadan, and a group of men are completing health and safety checks inside Cumbria\u2019s partly completed South Lakes Islamic Centre (SLIC).",
+      "timestamp": "2026-02-18T12:12:20Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Winter Olympics 2026: Kl\u00e6bo wins fifth gold of Games; women\u2019s slalom, curling and more \u2013 live",
       "link": "https://www.theguardian.com/sport/live/2026/feb/18/winter-olympics-2026-day-12-live-updates-slalom-slopestyle-curling-biathlon",
@@ -50,6 +80,16 @@
       "first_sentence": "At the start of every spring, before the trees in northern Serbia begin to leaf out, ornithologists drive across the plains of Vojvodina.",
       "timestamp": "2026-02-18T09:00:03Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "Live: Australia's Dani Scott wins silver in women's aerials",
+      "link": "https://www.abc.net.au/news/2026-02-18/winter-olympics-day-12-live-blog/106358928",
+      "mean_score": 0.395,
+      "vader_score": 0.5719,
+      "textblob_score": 0.2182,
+      "first_sentence": "Australia's Danielle Scott and Abbey Willcox are through to the final of the women's aerials at Livigno on day 12 at the Winter Olympics.",
+      "timestamp": "2026-02-18T08:35:01Z",
+      "source": "ABC News"
     },
     {
       "headline": "Plaid promises Welsh communities share of renewable energy profits",
@@ -2460,46 +2500,6 @@
       "first_sentence": "TasWater says it is confident its water treatment process removes the risk of antibiotics entering Greater Hobart's public water supply, and the Director of Public Health has determined there is no health risk.",
       "timestamp": "2026-02-12T18:18:22Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "At the Olympics, skier Breezy Johnson won a gold medal \u2014 and an engagement ring, too",
-      "link": "https://www.npr.org/2026/02/12/nx-s1-5712277/at-the-olympics-skier-breezy-johnson-won-a-gold-medal-and-an-engagement-ring-too",
-      "mean_score": 0.4345,
-      "vader_score": 0.8689,
-      "textblob_score": 0.0,
-      "first_sentence": "CORTINA D'AMPEZZO, Italy \u2014 The finish line at the 2026 Winter Games has brought Breezy Johnson two of the best moments of her life this week \u2014 first, an Olympic gold medal, then on Thursday, a marriage proposal.",
-      "timestamp": "2026-02-12T17:31:52Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "'Fresh Air' staff bids farewell to longtime executive producer Danny Miller",
-      "link": "https://www.npr.org/2026/02/12/nx-s1-5712354/fresh-air-staff-bids-farewell-to-longtime-executive-producer-danny-miller",
-      "mean_score": 0.3091,
-      "vader_score": 0.3182,
-      "textblob_score": 0.3,
-      "first_sentence": "Miller joined Fresh Air as an intern in 1978 and retired at the end of 2025.",
-      "timestamp": "2026-02-12T17:26:48Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Cooper Woods claims Australia\u2019s first gold with superb win in moguls",
-      "link": "https://www.theguardian.com/sport/2026/feb/12/cooper-woods-claims-australias-first-gold-with-superb-win-in-moguls",
-      "mean_score": 0.7597,
-      "vader_score": 0.836,
-      "textblob_score": 0.6833,
-      "first_sentence": "Australia won its first medal of the Winter Olympics in some style with Cooper Woods taking gold in the men\u2019s moguls with a superb run at Livigno.",
-      "timestamp": "2026-02-12T16:55:51Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "RFK Jr. promised to restore trust in US health agencies. One year later, it\u2019s eroding",
-      "link": "https://apnews.com/article/rfk-jr-kennedy-cdc-covid-health-trust-7ef5f0e2c6f91ce6d908cb58f9e2fcb2",
-      "mean_score": 0.3953,
-      "vader_score": 0.7906,
-      "textblob_score": 0.0,
-      "first_sentence": "NEW YORK (AP) \u2014 Since Robert F.",
-      "timestamp": "2026-02-12T15:53:02Z",
-      "source": "AP News"
     }
   ]
 }
