@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-18T10:22:25Z",
+  "last run": "2026-02-18T11:21:21Z",
   "stories": [
+    {
+      "headline": "Surprise four-legged Olympic competitor wows cross-country fans",
+      "link": "https://www.npr.org/2026/02/18/nx-s1-5718025/surprise-four-legged-olympic-competitor-wows-cross-country-fans",
+      "mean_score": 0.3125,
+      "vader_score": 0.6249,
+      "textblob_score": 0.0,
+      "first_sentence": "LAGO DI TESERO, ITALY \u2014 A local dog made a bid for Olympic glory Wednesday morning, breaking out of his doghouse and onto the homestretch of the cross-country ski course in the middle of a race.",
+      "timestamp": "2026-02-18T10:50:12Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "\u2018He couldn\u2019t be happier\u2019: celebrating William Eggleston\u2019s incredible photography",
+      "link": "https://www.theguardian.com/artanddesign/2026/feb/18/he-couldnt-be-happier-celebrating-william-egglestons-incredible-photography",
+      "mean_score": 0.7359,
+      "vader_score": 0.5719,
+      "textblob_score": 0.9,
+      "first_sentence": "As a small child, Winston Eggleston was only vaguely aware that his father, William Eggleston, was a famous photographer.",
+      "timestamp": "2026-02-18T10:03:04Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "8 creative ways to build your village, according to our listeners",
       "link": "https://www.npr.org/2026/02/18/nx-s1-5716105/8-creative-ways-to-build-your-village-community-according-to-our-listeners",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Alongside new endgame content, Blizzard says the Warlock is coming to other Diablo games soon.",
       "timestamp": "2026-02-12T15:36:18Z",
       "source": "Ars Technica"
-    },
-    {
-      "headline": "Football Daily | Jim Ratcliffe\u2019s special brand of patriotism and a classic non-apology apology",
-      "link": "https://www.theguardian.com/football/2026/feb/12/football-daily-newsletter-jim-ratcliffe-manchester-united",
-      "mean_score": 0.3075,
-      "vader_score": 0.4404,
-      "textblob_score": 0.1746,
-      "first_sentence": "There are a lot of billionaires making global headlines at the moment and even if we were dying of thirst, Football Daily wouldn\u2019t go for a pint with any of them.",
-      "timestamp": "2026-02-12T15:33:14Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Italian PM vows to secure borders and approves bill allowing naval blockades",
-      "link": "https://www.theguardian.com/world/2026/feb/12/italy-migration-giorgia-meloni-borders-naval-blockades-bill",
-      "mean_score": 0.4124,
-      "vader_score": 0.6249,
-      "textblob_score": 0.2,
-      "first_sentence": "Italy\u2019s prime minister says her government will deploy every tool at its disposal to \u201cguarantee the security of our borders\u201d after approving a bill authorising naval blockades to stop boats from arriving in Italy during periods of \u201cexceptional pressure\u201d.",
-      "timestamp": "2026-02-12T14:43:28Z",
-      "source": "The Guardian"
     }
   ]
 }

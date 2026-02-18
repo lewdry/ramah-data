@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Football Daily | Jim Ratcliffe\u2019s special brand of patriotism and a classic non-apology apology",
+    "link": "https://www.theguardian.com/football/2026/feb/12/football-daily-newsletter-jim-ratcliffe-manchester-united",
+    "mean_score": 0.3075,
+    "vader_score": 0.4404,
+    "textblob_score": 0.1746,
+    "first_sentence": "There are a lot of billionaires making global headlines at the moment and even if we were dying of thirst, Football Daily wouldn\u2019t go for a pint with any of them.",
+    "timestamp": "2026-02-12T15:33:14Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Italian PM vows to secure borders and approves bill allowing naval blockades",
+    "link": "https://www.theguardian.com/world/2026/feb/12/italy-migration-giorgia-meloni-borders-naval-blockades-bill",
+    "mean_score": 0.4124,
+    "vader_score": 0.6249,
+    "textblob_score": 0.2,
+    "first_sentence": "Italy\u2019s prime minister says her government will deploy every tool at its disposal to \u201cguarantee the security of our borders\u201d after approving a bill authorising naval blockades to stop boats from arriving in Italy during periods of \u201cexceptional pressure\u201d.",
+    "timestamp": "2026-02-12T14:43:28Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "'Cooper Woods, welcome to the gold medal club'",
     "link": "https://www.abc.net.au/news/2026-02-13/cooper-woods-gold-medal-club-alisa-camplin/106338996",
     "mean_score": 0.7634,
