@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Major sea rescue launched for three climbers on Welsh coast",
+    "link": "https://www.bbc.com/news/articles/c1e975z4qw8o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3579,
+    "vader_score": 0.6533,
+    "textblob_score": 0.0625,
+    "first_sentence": "A major rescue operation has been launched off the Pembrokeshire coast after an incident involving three rock climbers.",
+    "timestamp": "2026-02-12T21:48:07Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "'Something you dream of': Cooper Woods claims gold, Australia's first medal at Milano Cortina Winter Olympics",
     "link": "https://www.sbs.com.au/news/article/australian-cooper-woods-wins-gold-at-milano-cortina-olympics/i7vsnond5",
     "mean_score": 0.4375,
