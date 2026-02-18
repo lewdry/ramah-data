@@ -1,5 +1,35 @@
 [
   {
+    "headline": "First Thing: Border patrol chief praised federal agent who shot US citizen in Chicago",
+    "link": "https://www.theguardian.com/us-news/2026/feb/12/first-thing-border-patrol-chief-praised-federal-agent-who-shot-us-citizen-in-chicago",
+    "mean_score": 0.372,
+    "vader_score": 0.4939,
+    "textblob_score": 0.25,
+    "first_sentence": "Newly released evidence has shown that Gregory Bovino, a border patrol chief who was the face of the Trump administration\u2019s mass deportation efforts until last month, praised a federal agent who shot a Chicago woman during an immigration crackdown last year.\n  Marimar Martinez, a US citizen, was shot five times by a border patrol agent in October while in her vehicle.",
+    "timestamp": "2026-02-12T10:38:14Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Margot Robbie and Jacob Elordi wow fans at Wuthering Heights premiere",
+    "link": "https://www.abc.net.au/news/2026-02-12/margot-robbie-jacob-elordi-at-wuthering-heights-sydney-premiere/106337298",
+    "mean_score": 0.3429,
+    "vader_score": 0.5859,
+    "textblob_score": 0.1,
+    "first_sentence": "Australian Hollywood actors Margot Robbie and Jacob Elordi have mixed with fans in Sydney at the premiere of the new film Wuthering Heights.",
+    "timestamp": "2026-02-12T10:33:03Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Jordan Stolz opens his bid for 4 golds by winning the 1,000 meters in speedskating",
+    "link": "https://www.npr.org/2026/02/12/g-s1-109752/jordan-stolz-gold-1000-meters",
+    "mean_score": 0.5133,
+    "vader_score": 0.5267,
+    "textblob_score": 0.5,
+    "first_sentence": "MILAN \u2014 Jordan Stolz pictured this moment most of his life, ever since he was 5 and learning to skate on a frozen pond in his Wisconsin backyard after falling in love with speedskating while watching the 2010 Winter Olympics on TV \u2014 and hoping to one day step atop the podium himself.",
+    "timestamp": "2026-02-12T10:02:00Z",
+    "source": "NPR News"
+  },
+  {
     "headline": "The best walking pads and under-desk treadmills, tried and tested to turn your workday into a workout",
     "link": "https://www.theguardian.com/thefilter/2025/apr/03/best-walking-pads-under-desk-treadmills-uk",
     "mean_score": 0.8185,
