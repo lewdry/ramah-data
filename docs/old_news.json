@@ -1,5 +1,25 @@
 [
   {
+    "headline": "What is the Munich Security Conference and why is it important?",
+    "link": "https://www.npr.org/2026/02/12/nx-s1-5698243/what-is-the-munich-security-conference-and-why-is-it-important",
+    "mean_score": 0.447,
+    "vader_score": 0.4939,
+    "textblob_score": 0.4,
+    "first_sentence": "NPR's Mary Louise Kelly speaks with Alexandra de Hoop Scheffer, German Marshall Fund president, ahead of the Munich Security Conference.",
+    "timestamp": "2026-02-12T21:58:51Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "Chloe Kim's prot\u00e9g\u00e9 foiled her Olympic three-peat dreams. She's celebrating anyway",
+    "link": "https://www.npr.org/2026/02/12/nx-s1-5712749/chloe-kim-snowboard-medal-gaon-choi-olympics",
+    "mean_score": 0.3753,
+    "vader_score": 0.7506,
+    "textblob_score": 0.0,
+    "first_sentence": "Want more Olympics updates?\u00a0Subscribe here\u00a0to get our newsletter,\u00a0Rachel Goes to the Games, delivered to your inbox for a behind-the-scenes look at the 2026 Milan Cortina Winter Olympics.",
+    "timestamp": "2026-02-12T21:50:45Z",
+    "source": "NPR News"
+  },
+  {
     "headline": "Major sea rescue launched for three climbers on Welsh coast",
     "link": "https://www.bbc.com/news/articles/c1e975z4qw8o?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.3579,
