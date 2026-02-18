@@ -1,6 +1,46 @@
 {
-  "last run": "2026-02-18T18:23:01Z",
+  "last run": "2026-02-18T19:25:05Z",
   "stories": [
+    {
+      "headline": "Dani Scott's tears of joy a welcome balm after years of pain",
+      "link": "https://www.abc.net.au/news/2026-02-19/danielle-scott-aerials-silver-medal-2026-winter-olympics/106361322",
+      "mean_score": 0.5909,
+      "vader_score": 0.3818,
+      "textblob_score": 0.8,
+      "first_sentence": "In fact, as readily as medals have rained down on Australia's Winter Olympic squad this past week, the tears flowed from almost everyone at the Livigno Aerials and Moguls Park as the four-Games veteran celebrated a silver medal as deserving as any at this Olympics.",
+      "timestamp": "2026-02-18T19:04:07Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Paul Allen\u2019s estate says it has begun the process of selling the Super Bowl champion Seahawks",
+      "link": "https://apnews.com/article/seattle-seahawks-sale-de44677992a36b2bb4d8d354342a8f6b",
+      "mean_score": 0.5825,
+      "vader_score": 0.8316,
+      "textblob_score": 0.3333,
+      "first_sentence": "SEATTLE (AP) \u2014 The Seattle Seahawks are going up for sale in accordance with the wishes of late team owner Paul Allen.",
+      "timestamp": "2026-02-18T18:53:02Z",
+      "source": "AP News"
+    },
+    {
+      "headline": "Shiffrin wins slalom at Olympics, Klaebo takes a record 10th gold and Canada gets OT victory",
+      "link": "https://apnews.com/article/milan-cortina-winter-olympics-da916c274b64073a1c4320eb31647619",
+      "mean_score": 0.4359,
+      "vader_score": 0.5719,
+      "textblob_score": 0.3,
+      "first_sentence": "CORTINA D\u2019AMPEZZO, Italy (AP) \u2014 Redemption, at last, for Mikaela Shiffrin at the Winter Olympics.",
+      "timestamp": "2026-02-18T18:53:02Z",
+      "source": "AP News"
+    },
+    {
+      "headline": "Farmer Tony Martin leaves \u00a32.5m to 'loyal friend'",
+      "link": "https://www.bbc.com/news/articles/cvg19m8p782o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5382,
+      "vader_score": 0.743,
+      "textblob_score": 0.3333,
+      "first_sentence": "Tony Martin, the farmer who shot dead a teenage intruder at his isolated Norfolk home in 1999, left more than \u00a32.5m to a \"very loyal friend\", his will reveals.",
+      "timestamp": "2026-02-18T17:54:26Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Reform-run council says free library scheme for refugees \u2018is not value for money\u2019",
       "link": "https://www.theguardian.com/uk-news/2026/feb/18/reform-run-lancashire-council-says-free-library-scheme-refugees-not-value-for-money",
@@ -400,6 +440,16 @@
       "first_sentence": "Steve Borthwick has backed Henry Pollock to thrive in the face of any wind-up tactics from Ireland on his first England start on Saturday, tipping his rising star to bring \u201ceuphoria\u201d to Twickenham.",
       "timestamp": "2026-02-17T18:44:44Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "'No-brainer': Why more young people like Zoe are rethinking their 'Australian Dream'",
+      "link": "https://www.sbs.com.au/news/article/no-brainer-why-more-young-people-like-zoe-are-rethinking-their-australian-dream/4mdmrz8w2",
+      "mean_score": 0.3904,
+      "vader_score": 0.5809,
+      "textblob_score": 0.2,
+      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+      "timestamp": "2026-02-17T18:43:52Z",
+      "source": "SBS News"
     },
     {
       "headline": "Richard Roxburgh stars with real-life friends in 'wickedly funny' stage show",
@@ -2449,56 +2499,6 @@
       "textblob_score": 0.25,
       "first_sentence": "Australia now features on the medal tally for the 2026 Winter Olympics.",
       "timestamp": "2026-02-12T23:02:59Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Australia politics live: Angus Taylor becomes new Liberal leader as Sussan Ley deposed after nine months; Jane Hume wins deputy role",
-      "link": "https://www.theguardian.com/australia-news/live/2026/feb/13/australia-politics-live-liberals-leadership-spill-vote-angus-taylor-sussan-ley-libspill-anthony-albanese-indigenous-apology-anniversary-ntwnfb",
-      "mean_score": 0.3814,
-      "vader_score": 0.5719,
-      "textblob_score": 0.1909,
-      "first_sentence": "Safe to say Labor aren\u2019t complaining that Angus Taylor won the ballot, and Anthony Albanese\u2019s office have immediately released two attack ads against him.",
-      "timestamp": "2026-02-12T22:59:08Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Sussan Ley made promises she couldn\u2019t keep \u2013 and some in the Liberal party never wanted her to",
-      "link": "https://www.theguardian.com/australia-news/2026/feb/13/sussan-ley-liberal-party-leader-promises",
-      "mean_score": 0.3243,
-      "vader_score": 0.6486,
-      "textblob_score": 0.0,
-      "first_sentence": "In her first public comments as Liberal leader, Sussan Ley spoke of reviving and re-orientating a party that was reeling from a second catastrophic election defeat.",
-      "timestamp": "2026-02-12T22:50:48Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "What is the SAVE America Act that mandates voter ID?",
-      "link": "https://www.bbc.com/news/articles/crk845r4vlyo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3019,
-      "vader_score": 0.6037,
-      "textblob_score": 0.0,
-      "first_sentence": "The US House of Representatives this week passed legislation that would require voters to provide proof-of-citizenship as the midterm elections approach.",
-      "timestamp": "2026-02-12T22:40:56Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Germany's far right political party, the AFD, is at the Munich Security Conference",
-      "link": "https://www.npr.org/2026/02/12/nx-s1-5707577/germanys-far-right-political-party-the-afd-is-at-the-munich-security-conference",
-      "mean_score": 0.3767,
-      "vader_score": 0.6249,
-      "textblob_score": 0.1286,
-      "first_sentence": "NPR's Mary Louise Kelly and Correspondent Rob Schmitz discuss Germany's far-right Alternative for Germany, or AfD, at to the Munich Security Conference.",
-      "timestamp": "2026-02-12T22:34:46Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Quick hits: An Olympic-sized engagement and Snoop Dogg's great jacket",
-      "link": "https://www.abc.net.au/news/2026-02-13/sport-winter-olympics-quick-hits-day-six/106339098",
-      "mean_score": 0.6815,
-      "vader_score": 0.7964,
-      "textblob_score": 0.5667,
-      "first_sentence": "Breezy Johnson's pain of crashing was washed away by the euphoria of love, while Snoop Dogg showed his support with a magnificent snow jacket.",
-      "timestamp": "2026-02-12T22:13:18Z",
       "source": "ABC News"
     }
   ]
