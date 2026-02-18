@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Bangladesh election: BNP claims win in historic first election since overthrow of Hasina",
+    "link": "https://www.theguardian.com/world/2026/feb/13/bangladesh-election-bnp-wins",
+    "mean_score": 0.4679,
+    "vader_score": 0.5859,
+    "textblob_score": 0.35,
+    "first_sentence": "The Bangladesh Nationalist party (BNP) led by Tarique Rahman has claimed a sweeping victory in the country\u2019s first election since a gen-Z uprising toppled the autocratic regime of Sheikh Hasina.",
+    "timestamp": "2026-02-13T02:51:29Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "A heart transplant reminded Keith how important his mates were",
+    "link": "https://www.abc.net.au/news/2026-02-13/organisations-branch-out-help-mens-mental-health-rural-nsw/106332542",
+    "mean_score": 0.5592,
+    "vader_score": 0.7184,
+    "textblob_score": 0.4,
+    "first_sentence": "Farmer Keith Cowen was alone on his remote New South Wales property when he suffered a heart attack eight years ago.",
+    "timestamp": "2026-02-13T00:58:18Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Australia's Liberal Party ousts first woman leader",
+    "link": "https://www.bbc.com/news/articles/cr5lmgdmy9mo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3259,
+    "vader_score": 0.4019,
+    "textblob_score": 0.25,
+    "first_sentence": "The first female leader of Australia's Liberal Party, Sussan Ley, has been ousted after just nine months in the job, losing a leadership ballot to her former shadow defence minister Angus Taylor.",
+    "timestamp": "2026-02-13T00:42:24Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Wuthering Heights soundtrack the perfect pivot for Charli XCX, says Brat co-writer",
+    "link": "https://www.bbc.com/news/articles/cpw05yv4y9po?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.7859,
+    "vader_score": 0.5719,
+    "textblob_score": 1.0,
+    "first_sentence": "A songwriter who has worked with Charli XCX on her biggest hits says doing the Wuthering Heights soundtrack was the perfect pivot after their Brat summer.",
+    "timestamp": "2026-02-13T00:07:16Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Why I decided to start 'gentle parenting'",
     "link": "https://www.bbc.com/news/articles/ce91rpdge7eo?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.3202,
