@@ -1,5 +1,55 @@
 [
   {
+    "headline": "China\u2019s Yangtze River shows signs of remarkable recovery after fishing ban",
+    "link": "https://www.theguardian.com/environment/2026/feb/12/china-yangtze-river-recovery-after-fishing-ban",
+    "mean_score": 0.375,
+    "vader_score": 0.0,
+    "textblob_score": 0.75,
+    "first_sentence": "The Yangtze River in China, which has been in ecological decline for 70 years, is showing signs of recovery thanks to a sweeping fishing ban.",
+    "timestamp": "2026-02-12T19:00:22Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Unique structure of elephant whiskers give them built-in sensing \"intelligence\"",
+    "link": "https://arstechnica.com/science/2026/02/unique-structure-of-elephant-whiskers-give-them-built-in-sensing-intelligence/",
+    "mean_score": 0.4259,
+    "vader_score": 0.4767,
+    "textblob_score": 0.375,
+    "first_sentence": "The material properties change gradually from base to tip for better navigation, more precise manipulation.",
+    "timestamp": "2026-02-12T19:00:15Z",
+    "source": "Ars Technica"
+  },
+  {
+    "headline": "2026 Nissan Leaf review: The best budget EV on sale right now",
+    "link": "https://arstechnica.com/cars/2026/02/2026-nissan-leaf-review-the-best-budget-ev-on-sale-right-now/",
+    "mean_score": 0.6399,
+    "vader_score": 0.6369,
+    "textblob_score": 0.6429,
+    "first_sentence": "A week with the new Leaf in frigid weather did not cool our feelings for the car.",
+    "timestamp": "2026-02-12T18:49:04Z",
+    "source": "Ars Technica"
+  },
+  {
+    "headline": "Aussie brothers make T20 World Cup history as Italy claims historic win",
+    "link": "https://www.abc.net.au/news/2026-02-13/italy-wins-first-t20-cricket-world-cup-match/106339406",
+    "mean_score": 0.4929,
+    "vader_score": 0.5859,
+    "textblob_score": 0.4,
+    "first_sentence": "Italy has achieved its maiden T20 World Cup win, dominating Nepal to claim a 10-wicket victory.",
+    "timestamp": "2026-02-12T18:38:33Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Hobart's drinking water free from antibiotics, water utility says",
+    "link": "https://www.abc.net.au/news/2026-02-13/salmon-disease-outbreak-antibiotics-river-derwent/106330724",
+    "mean_score": 0.4553,
+    "vader_score": 0.5106,
+    "textblob_score": 0.4,
+    "first_sentence": "TasWater says it is confident its water treatment process removes the risk of antibiotics entering Greater Hobart's public water supply, and the Director of Public Health has determined there is no health risk.",
+    "timestamp": "2026-02-12T18:18:22Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "At the Olympics, skier Breezy Johnson won a gold medal \u2014 and an engagement ring, too",
     "link": "https://www.npr.org/2026/02/12/nx-s1-5712277/at-the-olympics-skier-breezy-johnson-won-a-gold-medal-and-an-engagement-ring-too",
     "mean_score": 0.4345,
