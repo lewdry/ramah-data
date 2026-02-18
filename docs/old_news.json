@@ -1,5 +1,25 @@
 [
   {
+    "headline": "US applications for jobless benefits fall to 227,000 last week, remaining at recent healthy levels",
+    "link": "https://apnews.com/article/unemployment-benefits-jobless-claims-layoffs-labor-0dc56ca15d52e7c26b0f64ec96306d4e",
+    "mean_score": 0.4076,
+    "vader_score": 0.6486,
+    "textblob_score": 0.1667,
+    "first_sentence": "WASHINGTON (AP) \u2014 The number of Americans applying for unemployment benefits fell last week, remaining within the historically healthy range of the past few years.",
+    "timestamp": "2026-02-12T13:53:01Z",
+    "source": "AP News"
+  },
+  {
+    "headline": "Radio 1 DJ Greg James comes out of 'challenge retirement' for Comic Relief",
+    "link": "https://www.bbc.com/news/articles/c0ljpjxyp21o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3883,
+    "vader_score": 0.5267,
+    "textblob_score": 0.25,
+    "first_sentence": "Radio 1 DJ Greg James is set to take on his most \"ludicrous challenge\" yet for Comic Relief - despite saying he would never do one again.",
+    "timestamp": "2026-02-12T13:23:11Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "From Bront\u00eb to Ballard, Orwell to Okri: the best songs inspired by literature \u2013 ranked!",
     "link": "https://www.theguardian.com/music/2026/feb/12/best-songs-inspired-by-literature-ranked",
     "mean_score": 0.9134,
