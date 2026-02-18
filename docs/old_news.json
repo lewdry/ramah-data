@@ -1,5 +1,45 @@
 [
   {
+    "headline": "'Something you dream of': Cooper Woods claims gold, Australia's first medal at Milano Cortina Winter Olympics",
+    "link": "https://www.sbs.com.au/news/article/australian-cooper-woods-wins-gold-at-milano-cortina-olympics/i7vsnond5",
+    "mean_score": 0.4375,
+    "vader_score": 0.6249,
+    "textblob_score": 0.25,
+    "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+    "timestamp": "2026-02-12T20:14:47Z",
+    "source": "SBS News"
+  },
+  {
+    "headline": "Live: Angus Taylor overwhelmingly wins Liberal leadership, Jane Hume voted deputy",
+    "link": "https://www.abc.net.au/news/2026-02-13/federal-politics-live-blog-liberal-spill/106339480",
+    "mean_score": 0.356,
+    "vader_score": 0.4939,
+    "textblob_score": 0.2182,
+    "first_sentence": "Angus Taylor has been chosen as the new Liberal leader after defeating Sussan Ley 34 votes to 17, with Jane Hume elected deputy.",
+    "timestamp": "2026-02-12T20:10:18Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Good Luck, Have Fun, Don\u2019t Die review \u2013 AI is the bad guy in lively yet overstuffed caper",
+    "link": "https://www.theguardian.com/film/2026/feb/12/good-luck-have-fun-dont-die-movie-review",
+    "mean_score": 0.3405,
+    "vader_score": 0.5719,
+    "textblob_score": 0.1091,
+    "first_sentence": "Despite directing a phenomenally successful franchise starter (Pirates of the Caribbean), two of its sequels (Dead Man\u2019s Chest and At World\u2019s End), a smash-hit horror remake (The Ring), an Oscar-winning animation (Rango), and films starring Brad Pitt and Julia Roberts (The Mexican) and Nicolas Cage and Michael Caine (The Weather Man), Gore Verbinski never quite broke through as a name the average cinemagoer would instantly recognise.",
+    "timestamp": "2026-02-12T19:44:05Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "How a centuries-old technique is helping save a dying seagrass species",
+    "link": "https://www.abc.net.au/news/2026-02-13/science-key-to-saving-endangered-seagrass-population/106337120",
+    "mean_score": 0.3298,
+    "vader_score": 0.6597,
+    "textblob_score": 0.0,
+    "first_sentence": "Seagrass meadows have been in decline around Sydney Harbour for decades, with moorings from boats among the biggest threats.",
+    "timestamp": "2026-02-12T19:33:25Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "China\u2019s Yangtze River shows signs of remarkable recovery after fishing ban",
     "link": "https://www.theguardian.com/environment/2026/feb/12/china-yangtze-river-recovery-after-fishing-ban",
     "mean_score": 0.375,
