@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-18T20:17:52Z",
+  "last run": "2026-02-18T21:18:01Z",
   "stories": [
+    {
+      "headline": "Arsenal v Leuven: Women\u2019s Champions League \u2013 live",
+      "link": "https://www.theguardian.com/football/live/2026/feb/18/arsenal-v-leuven-womens-champions-league-live",
+      "mean_score": 0.3315,
+      "vader_score": 0.5267,
+      "textblob_score": 0.1364,
+      "first_sentence": "60 min: It wasn\u2019t Reynders, it was Biesmans, she goes to the sidelines but I believe she is okay to continue.",
+      "timestamp": "2026-02-18T21:15:51Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Tens of thousands more students join legal action over Covid-hit studies",
+      "link": "https://www.theguardian.com/education/2026/feb/18/tens-of-thousands-more-students-join-legal-action-over-covid-hit-studies",
+      "mean_score": 0.3838,
+      "vader_score": 0.501,
+      "textblob_score": 0.2667,
+      "first_sentence": "Tens of thousands more students who were at university during the pandemic have joined a group claim for compensation, amid reports of a \u00a321m payout by one of the UK\u2019s leading institutions.",
+      "timestamp": "2026-02-18T20:46:48Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Qarabag 1-6 Newcastle United: Champions League playoff \u2013 live",
       "link": "https://www.theguardian.com/football/live/2026/feb/18/qarabag-v-newcastle-united-champions-league-playoff-live",
@@ -2480,26 +2500,6 @@
       "first_sentence": "A songwriter who has worked with Charli XCX on her biggest hits says doing the Wuthering Heights soundtrack was the perfect pivot after their Brat summer.",
       "timestamp": "2026-02-13T00:07:16Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Why I decided to start 'gentle parenting'",
-      "link": "https://www.bbc.com/news/articles/ce91rpdge7eo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3202,
-      "vader_score": 0.4404,
-      "textblob_score": 0.2,
-      "first_sentence": "When lockdown hit, mum Kelly Medina Enos, found herself struggling to deal with her son's behaviour.",
-      "timestamp": "2026-02-13T00:06:59Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Break in the grey as Aberdeen sees sunshine for the first time in 21 days",
-      "link": "https://www.theguardian.com/uk-news/2026/feb/12/aberdeen-sees-sunshine-first-time-in-21-days",
-      "mean_score": 0.3133,
-      "vader_score": 0.5267,
-      "textblob_score": 0.1,
-      "first_sentence": "Aberdeen has finally had some sunshine, for the first time in 21 days \u2013 marking the end of the longest sunless period in the area since Met Office records began in 1957.",
-      "timestamp": "2026-02-12T23:08:47Z",
-      "source": "The Guardian"
     }
   ]
 }

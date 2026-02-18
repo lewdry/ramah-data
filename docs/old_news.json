@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Why I decided to start 'gentle parenting'",
+    "link": "https://www.bbc.com/news/articles/ce91rpdge7eo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3202,
+    "vader_score": 0.4404,
+    "textblob_score": 0.2,
+    "first_sentence": "When lockdown hit, mum Kelly Medina Enos, found herself struggling to deal with her son's behaviour.",
+    "timestamp": "2026-02-13T00:06:59Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Break in the grey as Aberdeen sees sunshine for the first time in 21 days",
+    "link": "https://www.theguardian.com/uk-news/2026/feb/12/aberdeen-sees-sunshine-first-time-in-21-days",
+    "mean_score": 0.3133,
+    "vader_score": 0.5267,
+    "textblob_score": 0.1,
+    "first_sentence": "Aberdeen has finally had some sunshine, for the first time in 21 days \u2013 marking the end of the longest sunless period in the area since Met Office records began in 1957.",
+    "timestamp": "2026-02-12T23:08:47Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Medal tally: Australia ahead of China and Canada after first gold",
     "link": "https://www.abc.net.au/news/2026-02-13/winter-olympics-2026-milano-cortina-medal-tally/106339814",
     "mean_score": 0.3634,
