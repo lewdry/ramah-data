@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Can being codependent in a relationship actually be a good thing?",
+    "link": "https://www.theguardian.com/wellness/2026/feb/12/codependent-healthy-dependency-enmeshment-relationships",
+    "mean_score": 0.5702,
+    "vader_score": 0.4404,
+    "textblob_score": 0.7,
+    "first_sentence": "Many of us desire deeper relationships.",
+    "timestamp": "2026-02-12T11:00:14Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "\u2018Utterly hilarious\u2019: Simon McBurney on how the great clown Philippe Gaulier changed his life",
+    "link": "https://www.theguardian.com/stage/2026/feb/12/simon-mcburney-philippe-gaulier-complicite-clown-teacher",
+    "mean_score": 0.6375,
+    "vader_score": 0.6249,
+    "textblob_score": 0.65,
+    "first_sentence": "Many speak of a teacher in their childhood who changed them, someone who reveals knowledge about the world they carry with them for the rest of their lives.",
+    "timestamp": "2026-02-12T10:48:03Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "First Thing: Border patrol chief praised federal agent who shot US citizen in Chicago",
     "link": "https://www.theguardian.com/us-news/2026/feb/12/first-thing-border-patrol-chief-praised-federal-agent-who-shot-us-citizen-in-chicago",
     "mean_score": 0.372,
