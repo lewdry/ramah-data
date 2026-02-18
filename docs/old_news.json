@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Medal tally: Australia ahead of China and Canada after first gold",
+    "link": "https://www.abc.net.au/news/2026-02-13/winter-olympics-2026-milano-cortina-medal-tally/106339814",
+    "mean_score": 0.3634,
+    "vader_score": 0.4767,
+    "textblob_score": 0.25,
+    "first_sentence": "Australia now features on the medal tally for the 2026 Winter Olympics.",
+    "timestamp": "2026-02-12T23:02:59Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Australia politics live: Angus Taylor becomes new Liberal leader as Sussan Ley deposed after nine months; Jane Hume wins deputy role",
     "link": "https://www.theguardian.com/australia-news/live/2026/feb/13/australia-politics-live-liberals-leadership-spill-vote-angus-taylor-sussan-ley-libspill-anthony-albanese-indigenous-apology-anniversary-ntwnfb",
     "mean_score": 0.3814,

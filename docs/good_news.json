@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-18T19:25:05Z",
+  "last run": "2026-02-18T20:17:52Z",
   "stories": [
+    {
+      "headline": "Qarabag 1-6 Newcastle United: Champions League playoff \u2013 live",
+      "link": "https://www.theguardian.com/football/live/2026/feb/18/qarabag-v-newcastle-united-champions-league-playoff-live",
+      "mean_score": 0.4357,
+      "vader_score": 0.7351,
+      "textblob_score": 0.1364,
+      "first_sentence": "We also have minute-by-minute coverage of Wolves 0-1 Arsenal.",
+      "timestamp": "2026-02-18T19:59:38Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Dani Scott's tears of joy a welcome balm after years of pain",
       "link": "https://www.abc.net.au/news/2026-02-19/danielle-scott-aerials-silver-medal-2026-winter-olympics/106361322",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Aberdeen has finally had some sunshine, for the first time in 21 days \u2013 marking the end of the longest sunless period in the area since Met Office records began in 1957.",
       "timestamp": "2026-02-12T23:08:47Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Medal tally: Australia ahead of China and Canada after first gold",
-      "link": "https://www.abc.net.au/news/2026-02-13/winter-olympics-2026-milano-cortina-medal-tally/106339814",
-      "mean_score": 0.3634,
-      "vader_score": 0.4767,
-      "textblob_score": 0.25,
-      "first_sentence": "Australia now features on the medal tally for the 2026 Winter Olympics.",
-      "timestamp": "2026-02-12T23:02:59Z",
-      "source": "ABC News"
     }
   ]
 }
