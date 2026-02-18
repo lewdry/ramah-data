@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-18T09:23:08Z",
+  "last run": "2026-02-18T10:22:25Z",
   "stories": [
+    {
+      "headline": "8 creative ways to build your village, according to our listeners",
+      "link": "https://www.npr.org/2026/02/18/nx-s1-5716105/8-creative-ways-to-build-your-village-community-according-to-our-listeners",
+      "mean_score": 0.4702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.5,
+      "first_sentence": "How did you build your village? We asked NPR's audience this question in our newsletter in January, inspired by Life Kit's interview with Priya Parker on how to create community.",
+      "timestamp": "2026-02-18T10:00:00Z",
+      "source": "NPR News"
+    },
     {
       "headline": "No trees, no food, shot for fun \u2026 yet Serbia\u2019s imperial eagles are making an improbable return",
       "link": "https://www.theguardian.com/environment/2026/feb/18/serbia-eastern-imperial-eagles-returning-aoe",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Italy\u2019s prime minister says her government will deploy every tool at its disposal to \u201cguarantee the security of our borders\u201d after approving a bill authorising naval blockades to stop boats from arriving in Italy during periods of \u201cexceptional pressure\u201d.",
       "timestamp": "2026-02-12T14:43:28Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "'Cooper Woods, welcome to the gold medal club'",
-      "link": "https://www.abc.net.au/news/2026-02-13/cooper-woods-gold-medal-club-alisa-camplin/106338996",
-      "mean_score": 0.7634,
-      "vader_score": 0.7269,
-      "textblob_score": 0.8,
-      "first_sentence": "Cooper Woods is the seventh ever Australian to be crowned a Winter Olympic champion.",
-      "timestamp": "2026-02-12T14:32:07Z",
-      "source": "ABC News"
     }
   ]
 }
