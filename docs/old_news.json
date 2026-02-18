@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Dawson's Creek: The 90s teen drama that 'wore its heart on its sleeve'",
+    "link": "https://www.bbc.com/news/articles/c5y5x230ve4o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3185,
+    "vader_score": 0.6369,
+    "textblob_score": 0.0,
+    "first_sentence": "Full confession.",
+    "timestamp": "2026-02-12T14:27:59Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "US applications for jobless benefits fall to 227,000 last week, remaining at recent healthy levels",
     "link": "https://apnews.com/article/unemployment-benefits-jobless-claims-layoffs-labor-0dc56ca15d52e7c26b0f64ec96306d4e",
     "mean_score": 0.4076,
