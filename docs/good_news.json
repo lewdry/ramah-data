@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-18T11:21:21Z",
+  "last run": "2026-02-18T12:21:42Z",
   "stories": [
+    {
+      "headline": "Winter Olympics 2026: Kl\u00e6bo wins fifth gold of Games; women\u2019s slalom, curling and more \u2013 live",
+      "link": "https://www.theguardian.com/sport/live/2026/feb/18/winter-olympics-2026-day-12-live-updates-slalom-slopestyle-curling-biathlon",
+      "mean_score": 0.442,
+      "vader_score": 0.5719,
+      "textblob_score": 0.3121,
+      "first_sentence": "Freestyle skiing: Xu does not stay in that top spot for long.",
+      "timestamp": "2026-02-18T12:09:07Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Surprise four-legged Olympic competitor wows cross-country fans",
       "link": "https://www.npr.org/2026/02/18/nx-s1-5718025/surprise-four-legged-olympic-competitor-wows-cross-country-fans",
@@ -2490,16 +2500,6 @@
       "first_sentence": "NEW YORK (AP) \u2014 Since Robert F.",
       "timestamp": "2026-02-12T15:53:02Z",
       "source": "AP News"
-    },
-    {
-      "headline": "Party like it's 2001: Diablo II gets a new expansion, new playable class",
-      "link": "https://arstechnica.com/gaming/2026/02/diablo-ii-gets-its-first-new-playable-class-in-over-25-years/",
-      "mean_score": 0.3866,
-      "vader_score": 0.6369,
-      "textblob_score": 0.1364,
-      "first_sentence": "Alongside new endgame content, Blizzard says the Warlock is coming to other Diablo games soon.",
-      "timestamp": "2026-02-12T15:36:18Z",
-      "source": "Ars Technica"
     }
   ]
 }
