@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-18T01:40:18Z",
+  "last run": "2026-02-18T03:09:45Z",
   "stories": [
+    {
+      "headline": "Wealthy Americans top \u2018golden visa\u2019 surge in New Zealand and applications from China double",
+      "link": "https://www.theguardian.com/world/2026/feb/18/new-zealand-golden-visa-applications-america-china",
+      "mean_score": 0.3989,
+      "vader_score": 0.5106,
+      "textblob_score": 0.2873,
+      "first_sentence": "Wealthy Americans are dominating applications for New Zealand\u2019s \u201cgolden visa\u201d, driven by a love for the country\u2019s natural beauty and entrepreneurial spirit, as well a desire to escape Trump\u2019s administration.",
+      "timestamp": "2026-02-18T02:03:54Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Gold fever hits South Africa after lucky find in cattle pen",
       "link": "https://www.bbc.com/news/articles/c9dne6z4p9qo?at_medium=RSS&at_campaign=rss",
@@ -2490,16 +2500,6 @@
       "first_sentence": "MILAN \u2014 Jordan Stolz pictured this moment most of his life, ever since he was 5 and learning to skate on a frozen pond in his Wisconsin backyard after falling in love with speedskating while watching the 2010 Winter Olympics on TV \u2014 and hoping to one day step atop the podium himself.",
       "timestamp": "2026-02-12T10:02:00Z",
       "source": "NPR News"
-    },
-    {
-      "headline": "The best walking pads and under-desk treadmills, tried and tested to turn your workday into a workout",
-      "link": "https://www.theguardian.com/thefilter/2025/apr/03/best-walking-pads-under-desk-treadmills-uk",
-      "mean_score": 0.8185,
-      "vader_score": 0.6369,
-      "textblob_score": 1.0,
-      "first_sentence": "The Guardian\u2019s journalism is independent.",
-      "timestamp": "2026-02-12T10:00:06Z",
-      "source": "The Guardian"
     }
   ]
 }
