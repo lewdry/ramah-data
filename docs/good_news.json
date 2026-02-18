@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-18T17:28:37Z",
+  "last run": "2026-02-18T18:23:01Z",
   "stories": [
+    {
+      "headline": "Reform-run council says free library scheme for refugees \u2018is not value for money\u2019",
+      "link": "https://www.theguardian.com/uk-news/2026/feb/18/reform-run-lancashire-council-says-free-library-scheme-refugees-not-value-for-money",
+      "mean_score": 0.3552,
+      "vader_score": 0.3103,
+      "textblob_score": 0.4,
+      "first_sentence": "Reform UK has been criticised for withdrawing all Lancashire libraries from a scheme supporting refugees because it was not value for money \u2013 despite being free.",
+      "timestamp": "2026-02-18T17:42:17Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "What to know about avalanches, what causes them and how to stay safe",
       "link": "https://apnews.com/article/avalanches-safety-gear-safety-skiers-snowmobilers-79eef3b9371eff4455e6f789ecdcdbfb",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Breezy Johnson's pain of crashing was washed away by the euphoria of love, while Snoop Dogg showed his support with a magnificent snow jacket.",
       "timestamp": "2026-02-12T22:13:18Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Terland and Malard set Manchester United on course for last eight in win over Atl\u00e9tico",
-      "link": "https://www.theguardian.com/football/2026/feb/12/atletico-madrid-arsenal-womens-champions-league-match-report",
-      "mean_score": 0.5825,
-      "vader_score": 0.765,
-      "textblob_score": 0.4,
-      "first_sentence": "Manchester United secured an important 3-0 lead in the first leg of their Women\u2019s Champions League playoff against Atl\u00e9tico Madrid.",
-      "timestamp": "2026-02-12T22:02:46Z",
-      "source": "The Guardian"
     }
   ]
 }
