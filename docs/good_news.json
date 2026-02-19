@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-18T23:13:09Z",
+  "last run": "2026-02-19T00:43:16Z",
   "stories": [
+    {
+      "headline": "With a win over Sweden, the U.S. men's hockey team will play for an Olympic medal",
+      "link": "https://www.npr.org/2026/02/18/nx-s1-5718567/olympic-mens-hockey-usa-beats-sweden",
+      "mean_score": 0.8259,
+      "vader_score": 0.8519,
+      "textblob_score": 0.8,
+      "first_sentence": "MILAN \u2014 For five terrifying minutes on Wednesday night, the U.S.",
+      "timestamp": "2026-02-19T00:01:36Z",
+      "source": "NPR News"
+    },
     {
       "headline": "From crime heists to a BDSM love story, here's what's in cinemas this month",
       "link": "https://www.abc.net.au/news/2026-02-19/what-to-watch-movies-february-pillion-crime-101/106352928",
@@ -2182,6 +2192,16 @@
       "source": "The Guardian"
     },
     {
+      "headline": "Bangladesh election: BNP wins historic first vote since overthrow of Hasina",
+      "link": "https://www.theguardian.com/world/2026/feb/13/bangladesh-election-bnp-wins",
+      "mean_score": 0.3776,
+      "vader_score": 0.5719,
+      "textblob_score": 0.1833,
+      "first_sentence": "The Bangladesh Nationalist party (BNP) led by Tarique Rahman has claimed a sweeping victory in the country\u2019s first election since a gen-Z uprising toppled the autocratic regime of Sheikh Hasina.",
+      "timestamp": "2026-02-13T16:45:31Z",
+      "source": "The Guardian"
+    },
+    {
       "headline": "Kitty cats and cloud hands - how U.S. Olympic snowboarders keep calm in competition",
       "link": "https://www.npr.org/2026/02/13/nx-s1-5708801/kitty-cats-cloud-hands-u-s-olympic-snowboarders",
       "mean_score": 0.3091,
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.4682,
       "first_sentence": "Australia's hopes of advancing out of Group B are dealt an almighty blow as Zimbabwe claims one of the biggest upset wins in T20 World Cup history in Colombo.",
       "timestamp": "2026-02-13T05:16:42Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "'Nobody is safe' from watchful gaze of Bald Archies satirical art prize",
-      "link": "https://www.abc.net.au/news/2026-02-13/bald-archy-prize-reveals-politics-crime-and-bob-irwin/106340644",
-      "mean_score": 0.6176,
-      "vader_score": 0.7351,
-      "textblob_score": 0.5,
-      "first_sentence": "In years past, the satirical Bald Archy Prize has helped to synthesise the previous 12 months into a defining theme or moment.",
-      "timestamp": "2026-02-13T03:45:28Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "How is the Lunar New Year of the Horse celebrated in Australia?",
-      "link": "https://www.abc.net.au/news/2026-02-13/how-lunar-new-year-of-the-horse-is-celebrated-in-australia/106295942",
-      "mean_score": 0.4075,
-      "vader_score": 0.5719,
-      "textblob_score": 0.2432,
-      "first_sentence": "The horse is known for its speed, stamina and stubborn streak.",
-      "timestamp": "2026-02-13T03:02:00Z",
       "source": "ABC News"
     }
   ]
