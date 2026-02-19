@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Oldest living married couple shares their love story",
+    "link": "https://www.npr.org/2026/02/13/nx-s1-5707481/oldest-living-married-couple-shares-their-love-story",
+    "mean_score": 0.5628,
+    "vader_score": 0.7506,
+    "textblob_score": 0.375,
+    "first_sentence": "For StoryCorps, a husband and wife, who are both more than 100 years old, talk about how they met and fell in love.",
+    "timestamp": "2026-02-13T09:45:31Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "\u2018A great wee place\u2019: the small Scottish factory crafting Olympic curling stones",
+    "link": "https://www.theguardian.com/sport/2026/feb/13/a-great-wee-place-the-small-scottish-factory-crafting-olympic-curling-stones",
+    "mean_score": 0.45,
+    "vader_score": 0.6249,
+    "textblob_score": 0.275,
+    "first_sentence": "\u201cIt takes 60m years and about six hours to make a curling stone,\u201d shouts Ricky English above the whine of the lathes.",
+    "timestamp": "2026-02-13T09:00:38Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Live: Baff claims Australia's second gold with stunning snowboard cross win",
     "link": "https://www.abc.net.au/news/2026-02-13/winter-olympics-2026-live-milano-cortina-scotty-james/106340876",
     "mean_score": 0.5189,

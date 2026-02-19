@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-19T08:20:57Z",
+  "last run": "2026-02-19T09:22:33Z",
   "stories": [
+    {
+      "headline": "Man on the Run review \u2013 archival delve into Paul McCartney\u2019s post-Beatles era is a welcome revisit",
+      "link": "https://www.theguardian.com/film/2026/feb/19/man-on-the-run-review-archival-delve-into-paul-mccartneys-post-beatles-era-is-a-welcome-revisit",
+      "mean_score": 0.6294,
+      "vader_score": 0.4588,
+      "textblob_score": 0.8,
+      "first_sentence": "Another hefty legacy project for Paul McCartney, who acts as off-camera interviewee and executive producer in this documentary by Morgan Neville.",
+      "timestamp": "2026-02-19T09:00:02Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "British Gas owner pauses share buyback as profits plummet",
+      "link": "https://www.theguardian.com/business/2026/feb/19/british-gas-owner-centrica-pauses-share-buyback-profits-plummet",
+      "mean_score": 0.3125,
+      "vader_score": 0.6249,
+      "textblob_score": 0.0,
+      "first_sentence": "The owner of British Gas has paused its plan to buy back shares from shareholders after the company\u2019s full-year profits slumped by almost 39%.",
+      "timestamp": "2026-02-19T08:25:39Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "You be the judge: should my best friend stop wearing the same perfume as me?",
       "link": "https://www.theguardian.com/lifeandstyle/2026/feb/19/you-be-the-judge-should-my-best-friend-stop-wearing-the-same-perfume-as-me",
@@ -2479,26 +2499,6 @@
       "textblob_score": 1.0,
       "first_sentence": "How do I love Mae and George? Let me count the ways.",
       "timestamp": "2026-02-13T10:27:37Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Oldest living married couple shares their love story",
-      "link": "https://www.npr.org/2026/02/13/nx-s1-5707481/oldest-living-married-couple-shares-their-love-story",
-      "mean_score": 0.5628,
-      "vader_score": 0.7506,
-      "textblob_score": 0.375,
-      "first_sentence": "For StoryCorps, a husband and wife, who are both more than 100 years old, talk about how they met and fell in love.",
-      "timestamp": "2026-02-13T09:45:31Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "\u2018A great wee place\u2019: the small Scottish factory crafting Olympic curling stones",
-      "link": "https://www.theguardian.com/sport/2026/feb/13/a-great-wee-place-the-small-scottish-factory-crafting-olympic-curling-stones",
-      "mean_score": 0.45,
-      "vader_score": 0.6249,
-      "textblob_score": 0.275,
-      "first_sentence": "\u201cIt takes 60m years and about six hours to make a curling stone,\u201d shouts Ricky English above the whine of the lathes.",
-      "timestamp": "2026-02-13T09:00:38Z",
       "source": "The Guardian"
     }
   ]
