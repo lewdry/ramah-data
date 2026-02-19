@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-19T00:43:16Z",
+  "last run": "2026-02-19T01:40:08Z",
   "stories": [
+    {
+      "headline": "Yes there is a right way to stack the dishwasher. Here are the 5 rules",
+      "link": "https://www.bbc.com/news/articles/cwy89lr3pl4o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3438,
+      "vader_score": 0.4019,
+      "textblob_score": 0.2857,
+      "first_sentence": "It's a heated debate in many households - is there a right way stack to the dishwasher?.",
+      "timestamp": "2026-02-19T01:32:26Z",
+      "source": "BBC News"
+    },
     {
       "headline": "With a win over Sweden, the U.S. men's hockey team will play for an Olympic medal",
       "link": "https://www.npr.org/2026/02/18/nx-s1-5718567/olympic-mens-hockey-usa-beats-sweden",
@@ -2490,16 +2500,6 @@
       "first_sentence": "When it comes to pancake day, I don\u2019t discriminate and fill the day with as many types of pancakes as possible \u2013 from a fluffy American-style stack in the morning to a savoury buckwheat pancake at lunch, and finishing off with classic crepes in the evening.",
       "timestamp": "2026-02-13T06:00:36Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Live: Zimbabwe stuns Australia to claim 23-run win at T20 World Cup",
-      "link": "https://www.abc.net.au/news/2026-02-13/cricket-australia-zimbabwe-t20-world-cup-live-blog-scores/106327068",
-      "mean_score": 0.5338,
-      "vader_score": 0.5994,
-      "textblob_score": 0.4682,
-      "first_sentence": "Australia's hopes of advancing out of Group B are dealt an almighty blow as Zimbabwe claims one of the biggest upset wins in T20 World Cup history in Colombo.",
-      "timestamp": "2026-02-13T05:16:42Z",
-      "source": "ABC News"
     }
   ]
 }

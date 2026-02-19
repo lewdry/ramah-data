@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Live: Zimbabwe stuns Australia to claim 23-run win at T20 World Cup",
+    "link": "https://www.abc.net.au/news/2026-02-13/cricket-australia-zimbabwe-t20-world-cup-live-blog-scores/106327068",
+    "mean_score": 0.5338,
+    "vader_score": 0.5994,
+    "textblob_score": 0.4682,
+    "first_sentence": "Australia's hopes of advancing out of Group B are dealt an almighty blow as Zimbabwe claims one of the biggest upset wins in T20 World Cup history in Colombo.",
+    "timestamp": "2026-02-13T05:16:42Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "'Nobody is safe' from watchful gaze of Bald Archies satirical art prize",
     "link": "https://www.abc.net.au/news/2026-02-13/bald-archy-prize-reveals-politics-crime-and-bob-irwin/106340644",
     "mean_score": 0.6176,
