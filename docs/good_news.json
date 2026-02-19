@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-19T05:33:28Z",
+  "last run": "2026-02-19T06:30:22Z",
   "stories": [
+    {
+      "headline": "TV set is most popular way to watch YouTube in UK, study finds",
+      "link": "https://www.theguardian.com/technology/2026/feb/19/youtube-uk-tv-set-most-popular",
+      "mean_score": 0.5127,
+      "vader_score": 0.4754,
+      "textblob_score": 0.55,
+      "first_sentence": "The television has replaced laptops, tablets and smartphones as the most common device for UK viewers to watch YouTube at home, according to data confirming the platform\u2019s place as a living room mainstay.",
+      "timestamp": "2026-02-19T06:00:55Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Say goodbye to the sex drought! What the Danes can teach us about making more love",
       "link": "https://www.theguardian.com/lifeandstyle/2026/feb/19/denmark-no-sex-recession",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.8,
       "first_sentence": "Here it is as promised, a bill introduced to parliament on Thursday proposing to give the vote to 16- and 17-year-olds by the next general election.",
       "timestamp": "2026-02-13T08:00:39Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Love Story: John F Kennedy Jr & Carolyn Bessette review \u2013 TV to send you cross-eyed with boredom",
-      "link": "https://www.theguardian.com/tv-and-radio/2026/feb/13/love-story-john-f-kennedy-jr-carolyn-bessette-review-disney-plus",
-      "mean_score": 0.4702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.5,
-      "first_sentence": "A new product from the Ryan Murphy brand is becoming ever less dependable a delight.",
-      "timestamp": "2026-02-13T08:00:37Z",
       "source": "The Guardian"
     }
   ]
