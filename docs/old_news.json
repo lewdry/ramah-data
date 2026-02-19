@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Bangladesh Nationalist Party sweeps to victory in first election since Gen Z uprising",
+    "link": "https://www.bbc.com/news/articles/cgrzwn4yg7jo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3259,
+    "vader_score": 0.4019,
+    "textblob_score": 0.25,
+    "first_sentence": "The centre-right Bangladesh Nationalist Party (BNP) has secured a landslide majority in parliament, 18 months after mass protests ousted the country's longest serving prime minister Sheikh Hasina.",
+    "timestamp": "2026-02-13T12:17:18Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Rocket Report: Say cheerio to Orbex; China is getting good at booster landings",
+    "link": "https://arstechnica.com/space/2026/02/rocket-report-say-cheerio-to-orbex-china-is-getting-good-at-booster-landings/",
+    "mean_score": 0.6624,
+    "vader_score": 0.6249,
+    "textblob_score": 0.7,
+    "first_sentence": "Welcome to Edition 8.29 of the Rocket Report! We have a stuffed report this week with news from across the launch spectrum.",
+    "timestamp": "2026-02-13T12:00:09Z",
+    "source": "Ars Technica"
+  },
+  {
     "headline": "Television made easy \u2026 for phone scrollers. The Stephen Collins cartoon",
     "link": "https://www.theguardian.com/lifeandstyle/picture/2026/feb/13/television-made-easy-for-phone-scrollers-stephen-collins-cartoon",
     "mean_score": 0.4369,

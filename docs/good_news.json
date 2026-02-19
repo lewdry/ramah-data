@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-19T12:22:31Z",
+  "last run": "2026-02-19T13:35:38Z",
   "stories": [
+    {
+      "headline": "Alysa Liu carries US medal hopes into concluding women\u2019s free skate at the Milan Cortina Olympics",
+      "link": "https://apnews.com/article/milan-cortina-olympics-figure-skating-women-437ba97a98c0f43b1317dfc26275b633",
+      "mean_score": 0.624,
+      "vader_score": 0.8481,
+      "textblob_score": 0.4,
+      "first_sentence": "MILAN (AP) \u2014 Alysa Liu is left to bear the ambitions of the American figure skating team on Thursday night, when the last of the \u201cBlade Angels\u201d with a legitimate shot at the Olympic gold medal tries to catch Japanese teammates Ami Nakai and Kaori Sakamoto during the women\u2019s free skate at the Milan Cortina Games.",
+      "timestamp": "2026-02-19T12:53:02Z",
+      "source": "AP News"
+    },
+    {
+      "headline": "Healthy life expectancy falls across Scotland",
+      "link": "https://www.bbc.com/news/articles/cgml8e1dn84o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4509,
+      "vader_score": 0.4019,
+      "textblob_score": 0.5,
+      "first_sentence": "People in Scotland are spending a greater proportion of their life in poor health than in previous years, new figures from the National Records of Scotland (NRS) show.",
+      "timestamp": "2026-02-19T12:07:09Z",
+      "source": "BBC News"
+    },
     {
       "headline": "\u2018There has to be glitter\u2019: can the Rio carnival give up its love of beach-polluting microplastics?",
       "link": "https://www.theguardian.com/environment/2026/feb/19/brazil-glitter-ban-rio-carnival-beaches-microplastic-pollution-health",
@@ -2480,26 +2500,6 @@
       "first_sentence": "In 2022, everything changed for Tom Misch.",
       "timestamp": "2026-02-13T13:00:24Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Bangladesh Nationalist Party sweeps to victory in first election since Gen Z uprising",
-      "link": "https://www.bbc.com/news/articles/cgrzwn4yg7jo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3259,
-      "vader_score": 0.4019,
-      "textblob_score": 0.25,
-      "first_sentence": "The centre-right Bangladesh Nationalist Party (BNP) has secured a landslide majority in parliament, 18 months after mass protests ousted the country's longest serving prime minister Sheikh Hasina.",
-      "timestamp": "2026-02-13T12:17:18Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Rocket Report: Say cheerio to Orbex; China is getting good at booster landings",
-      "link": "https://arstechnica.com/space/2026/02/rocket-report-say-cheerio-to-orbex-china-is-getting-good-at-booster-landings/",
-      "mean_score": 0.6624,
-      "vader_score": 0.6249,
-      "textblob_score": 0.7,
-      "first_sentence": "Welcome to Edition 8.29 of the Rocket Report! We have a stuffed report this week with news from across the launch spectrum.",
-      "timestamp": "2026-02-13T12:00:09Z",
-      "source": "Ars Technica"
     }
   ]
 }
