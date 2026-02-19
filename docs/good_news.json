@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-19T22:12:53Z",
+  "last run": "2026-02-19T23:13:44Z",
   "stories": [
+    {
+      "headline": "Deer culling to be made easier to protect trees and crops",
+      "link": "https://www.bbc.com/news/articles/c0e5l7ll31yo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3298,
+      "vader_score": 0.6597,
+      "textblob_score": 0.0,
+      "first_sentence": "Culling deer in England will be made easier under a long-awaited government 10-year plan to deal with a population explosion that threatens woodlands, newly-planted trees and farmland.",
+      "timestamp": "2026-02-19T22:58:13Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Winter Olympics 2026: GB men win curling semi-final, figure skating and more \u2013 live",
       "link": "https://www.theguardian.com/sport/live/2026/feb/19/winter-olympics-2026-winter-olympics-2026-day-13-live-updates-slalom-slopestyle-curling-biathlon",
@@ -9,6 +19,16 @@
       "textblob_score": 0.4788,
       "first_sentence": "GB progress to men\u2019s curling final, USA beat Canada in overtime to win gold in women\u2019s ice hockey, USA\u2019s Alysa Liu triumphs in figure skating.",
       "timestamp": "2026-02-19T22:04:49Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Britain\u2019s curlers guarantee a medal as Mouat holds his nerve against Swiss",
+      "link": "https://www.theguardian.com/sport/2026/feb/19/britains-curlers-guarantee-a-medal-as-mouat-holds-his-nerve-against-swiss",
+      "mean_score": 0.3125,
+      "vader_score": 0.6249,
+      "textblob_score": 0.0,
+      "first_sentence": "Call it the Cortina Comeback.",
+      "timestamp": "2026-02-19T21:51:00Z",
       "source": "The Guardian"
     },
     {
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.2,
       "first_sentence": "Australians, who have flocked to Japan over the past two decades, are falling in love with the country's dining culture and along with it \u2014 Japanese beer.",
       "timestamp": "2026-02-13T19:22:09Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Minnesotans welcome the immigration surge drawdown but remain vigilant",
-      "link": "https://apnews.com/article/minnesota-metro-surge-ice-8af150975b0a552e1ed19a7276c39870",
-      "mean_score": 0.6339,
-      "vader_score": 0.4678,
-      "textblob_score": 0.8,
-      "first_sentence": "MINNEAPOLIS (AP) \u2014 The Trump administration\u2019s drawdown of its immigration enforcement surge in the Twin Cities area has been met with relief, but state officials and residents say its effects on Minnesota\u2019s economy and immigrant communities will linger.",
-      "timestamp": "2026-02-13T18:53:02Z",
-      "source": "AP News"
-    },
-    {
-      "headline": "Baff's self-belief a blessing with a golden exclamation",
-      "link": "https://www.abc.net.au/news/2026-02-14/josie-baff-winter-olympics-snowboard-cross-gold-belief/106344394",
-      "mean_score": 0.397,
-      "vader_score": 0.4939,
-      "textblob_score": 0.3,
-      "first_sentence": "The assurity that your training has worked, your skills have been honed, your strength has improved and that there is nothing that you have left on the cutting room floor.",
-      "timestamp": "2026-02-13T18:24:06Z",
       "source": "ABC News"
     }
   ]

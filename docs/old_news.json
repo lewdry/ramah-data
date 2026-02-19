@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Minnesotans welcome the immigration surge drawdown but remain vigilant",
+    "link": "https://apnews.com/article/minnesota-metro-surge-ice-8af150975b0a552e1ed19a7276c39870",
+    "mean_score": 0.6339,
+    "vader_score": 0.4678,
+    "textblob_score": 0.8,
+    "first_sentence": "MINNEAPOLIS (AP) \u2014 The Trump administration\u2019s drawdown of its immigration enforcement surge in the Twin Cities area has been met with relief, but state officials and residents say its effects on Minnesota\u2019s economy and immigrant communities will linger.",
+    "timestamp": "2026-02-13T18:53:02Z",
+    "source": "AP News"
+  },
+  {
+    "headline": "Baff's self-belief a blessing with a golden exclamation",
+    "link": "https://www.abc.net.au/news/2026-02-14/josie-baff-winter-olympics-snowboard-cross-gold-belief/106344394",
+    "mean_score": 0.397,
+    "vader_score": 0.4939,
+    "textblob_score": 0.3,
+    "first_sentence": "The assurity that your training has worked, your skills have been honed, your strength has improved and that there is nothing that you have left on the cutting room floor.",
+    "timestamp": "2026-02-13T18:24:06Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Original Bramley apple tree \u2018at risk\u2019 after site where it grows is put up for sale",
     "link": "https://www.theguardian.com/uk-news/2026/feb/13/original-bramley-apple-tree-at-risk-site-for-sale",
     "mean_score": 0.3466,
