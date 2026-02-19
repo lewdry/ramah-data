@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Bangladesh National Party claims victory in first election since student uprising",
+    "link": "https://www.npr.org/2026/02/13/nx-s1-5713306/bangladesh-national-party-claims-victory-first-election-since-student-uprising",
+    "mean_score": 0.3259,
+    "vader_score": 0.4019,
+    "textblob_score": 0.25,
+    "first_sentence": "DHAKA, Bangladesh \u2014 The Bangladeshi Nationalist Party (BNP), led by Tarique Rahman, claimed victory Friday in the first elections held since the previous government was toppled in a student-led revolution in 2024.",
+    "timestamp": "2026-02-13T07:28:20Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "Bangladesh Nationalist Party claims victory in country\u2019s first election since 2024 uprising",
+    "link": "https://apnews.com/article/bangladesh-election-hasina-tarique-rahman-bnp-8ec3a74b4488dfe998b3d1d232c3ba4f",
+    "mean_score": 0.3259,
+    "vader_score": 0.4019,
+    "textblob_score": 0.25,
+    "first_sentence": "DHAKA, Bangladesh (AP) \u2014 The Bangladesh Nationalist Party has claimed victory in the country\u2019s first election since the 2024 uprising, positioning itself to form the next government and potentially reshape Bangladesh\u2019s political landscape after years of intense rivalry and disputed polls.",
+    "timestamp": "2026-02-13T07:23:02Z",
+    "source": "AP News"
+  },
+  {
     "headline": "A \u2018desiccated coconut\u2019 and a \u2018grub\u2019: Angus Taylor has copped some insults \u2013 but he\u2019s in good company",
     "link": "https://www.theguardian.com/australia-news/2026/feb/13/a-desiccated-coconut-and-a-grub-angus-taylor-has-copped-some-insults-but-hes-in-good-company",
     "mean_score": 0.5748,

@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-19T04:43:12Z",
+  "last run": "2026-02-19T05:33:28Z",
   "stories": [
+    {
+      "headline": "Say goodbye to the sex drought! What the Danes can teach us about making more love",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/feb/19/denmark-no-sex-recession",
+      "mean_score": 0.5995,
+      "vader_score": 0.6989,
+      "textblob_score": 0.5,
+      "first_sentence": "While other countries are deep in a sex recession, the Danish drive shows no signs of stalling.",
+      "timestamp": "2026-02-19T05:00:56Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "US funding for global internet freedom \u2018effectively gutted\u2019",
+      "link": "https://www.theguardian.com/world/2026/feb/19/us-funding-for-global-internet-freedom-effectively-gutted",
+      "mean_score": 0.4685,
+      "vader_score": 0.6369,
+      "textblob_score": 0.3,
+      "first_sentence": "For nearly two decades, the US quietly funded a global effort to keep the internet from splintering into fiefdoms run by authoritarian governments.",
+      "timestamp": "2026-02-19T05:00:55Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "White House says Iran would be 'wise' to make deal, as US ramps up military presence",
       "link": "https://www.bbc.com/news/articles/c204zpz0lyro?at_medium=RSS&at_campaign=rss",
@@ -2480,26 +2500,6 @@
       "first_sentence": "A new product from the Ryan Murphy brand is becoming ever less dependable a delight.",
       "timestamp": "2026-02-13T08:00:37Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Bangladesh National Party claims victory in first election since student uprising",
-      "link": "https://www.npr.org/2026/02/13/nx-s1-5713306/bangladesh-national-party-claims-victory-first-election-since-student-uprising",
-      "mean_score": 0.3259,
-      "vader_score": 0.4019,
-      "textblob_score": 0.25,
-      "first_sentence": "DHAKA, Bangladesh \u2014 The Bangladeshi Nationalist Party (BNP), led by Tarique Rahman, claimed victory Friday in the first elections held since the previous government was toppled in a student-led revolution in 2024.",
-      "timestamp": "2026-02-13T07:28:20Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Bangladesh Nationalist Party claims victory in country\u2019s first election since 2024 uprising",
-      "link": "https://apnews.com/article/bangladesh-election-hasina-tarique-rahman-bnp-8ec3a74b4488dfe998b3d1d232c3ba4f",
-      "mean_score": 0.3259,
-      "vader_score": 0.4019,
-      "textblob_score": 0.25,
-      "first_sentence": "DHAKA, Bangladesh (AP) \u2014 The Bangladesh Nationalist Party has claimed victory in the country\u2019s first election since the 2024 uprising, positioning itself to form the next government and potentially reshape Bangladesh\u2019s political landscape after years of intense rivalry and disputed polls.",
-      "timestamp": "2026-02-13T07:23:02Z",
-      "source": "AP News"
     }
   ]
 }
