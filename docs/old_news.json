@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Original Bramley apple tree \u2018at risk\u2019 after site where it grows is put up for sale",
+    "link": "https://www.theguardian.com/uk-news/2026/feb/13/original-bramley-apple-tree-at-risk-site-for-sale",
+    "mean_score": 0.3466,
+    "vader_score": 0.3182,
+    "textblob_score": 0.375,
+    "first_sentence": "The future of the original Bramley apple tree, which is responsible for one of the world\u2019s most popular cooking apples, is at risk now that the site where it grows has been put up for sale, campaigners have warned.",
+    "timestamp": "2026-02-13T18:08:09Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Bad Bunny gets first solo UK Top 10 hits thanks to Super Bowl boost",
+    "link": "https://www.theguardian.com/music/2026/feb/13/bad-bunny-first-uk-top-10-hit-dtmf-super-bowl-half-time",
+    "mean_score": 0.4475,
+    "vader_score": 0.7783,
+    "textblob_score": 0.1167,
+    "first_sentence": "Despite being one of the most streamed musicians in the world, Bad Bunny had never had a solo UK Top 10 hit \u2013 until now.",
+    "timestamp": "2026-02-13T18:00:30Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Kitty cats and cloud hands - how U.S. Olympic snowboarders keep calm in competition",
     "link": "https://www.npr.org/2026/02/13/nx-s1-5708801/kitty-cats-cloud-hands-u-s-olympic-snowboarders",
     "mean_score": 0.3091,
