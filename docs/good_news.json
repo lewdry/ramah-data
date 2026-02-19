@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-19T20:14:10Z",
+  "last run": "2026-02-19T21:13:31Z",
   "stories": [
+    {
+      "headline": "Manchester United v Atl\u00e9tico Madrid: Women\u2019s Champions League playoff \u2013 live",
+      "link": "https://www.theguardian.com/football/live/2026/feb/19/manchester-united-v-atletico-madrid-womens-champions-league-playoff-live",
+      "mean_score": 0.4357,
+      "vader_score": 0.7351,
+      "textblob_score": 0.1364,
+      "first_sentence": "55 min: Possession is flying back and forth with the game hitting a bit of a lull but still fairly well paced.",
+      "timestamp": "2026-02-19T21:04:37Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Nottingham Forest dominate Fenerbahce to give V\u00edtor Pereira perfect start",
+      "link": "https://www.theguardian.com/football/2026/feb/19/fenerbahce-nottingham-forest-europa-league-playoff-first-leg-match-report",
+      "mean_score": 0.747,
+      "vader_score": 0.4939,
+      "textblob_score": 1.0,
+      "first_sentence": "Evangelos Marinakis\u2019s grand aim at the outset of this season, before moving on to his fourth manager since August, was to win this competition across the Bosphorus in Besiktas in May and, for all of the chaos and valid criticism, on this evidence it is very much an achievable aim.",
+      "timestamp": "2026-02-19T19:46:37Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Baby chicks link certain sounds with shapes, just like humans do",
       "link": "https://www.npr.org/2026/02/19/nx-s1-5717039/baby-chicks-link-certain-sounds-with-shapes-just-like-humans-do",
@@ -20,6 +40,16 @@
       "first_sentence": "Children in England with special needs will receive individual support and therapy directly from their schools as part of the government\u2019s overhaul of England\u2019s special education provision.",
       "timestamp": "2026-02-19T18:50:34Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "In a thrilling comeback win, U.S. women take home Olympic hockey gold over Canada",
+      "link": "https://www.npr.org/2026/02/19/nx-s1-5719332/winter-olympics-us-canada-womens-hockey-final-gold",
+      "mean_score": 0.6547,
+      "vader_score": 0.7845,
+      "textblob_score": 0.525,
+      "first_sentence": "MILAN \u2014 With Olympic gold on the line, with just over two minutes to play in regulation of Thursday's final match, it was the U.S.",
+      "timestamp": "2026-02-19T17:14:59Z",
+      "source": "NPR News"
     },
     {
       "headline": "'Dude, good luck': the Olympic wit and wisdom of a pioneering African skeleton racer",
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.1833,
       "first_sentence": "The Bangladesh Nationalist party (BNP) led by Tarique Rahman has claimed a sweeping victory in the country\u2019s first election since a gen-Z uprising toppled the autocratic regime of Sheikh Hasina.",
       "timestamp": "2026-02-13T16:45:31Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Kitty cats and cloud hands - how U.S. Olympic snowboarders keep calm in competition",
-      "link": "https://www.npr.org/2026/02/13/nx-s1-5708801/kitty-cats-cloud-hands-u-s-olympic-snowboarders",
-      "mean_score": 0.3091,
-      "vader_score": 0.3182,
-      "textblob_score": 0.3,
-      "first_sentence": "The pros agree: It's scary at the top of an Olympic snowboarding run.",
-      "timestamp": "2026-02-13T16:43:15Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "You too can be 'golden', Belfast-born creative tells KPop fans",
-      "link": "https://www.bbc.com/news/articles/c07jgg98l0po?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4202,
-      "vader_score": 0.4404,
-      "textblob_score": 0.4,
-      "first_sentence": "James Carson used to deliver packages for an animation company in London.",
-      "timestamp": "2026-02-13T16:05:09Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Cocktail of the week: Hu\u014f\u2019s Szechuan sizzle \u2013 recipe | The good mixer",
-      "link": "https://www.theguardian.com/food/2026/feb/13/cocktail-of-the-week-huo-szechuan-sizzle-recipe-lunar-new-year",
-      "mean_score": 0.5702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.7,
-      "first_sentence": "Here\u2019s a spicy little number that will help you see in the lunar new year in style on 17 January.",
-      "timestamp": "2026-02-13T16:01:28Z",
       "source": "The Guardian"
     }
   ]

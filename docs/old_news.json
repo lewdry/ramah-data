@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Kitty cats and cloud hands - how U.S. Olympic snowboarders keep calm in competition",
+    "link": "https://www.npr.org/2026/02/13/nx-s1-5708801/kitty-cats-cloud-hands-u-s-olympic-snowboarders",
+    "mean_score": 0.3091,
+    "vader_score": 0.3182,
+    "textblob_score": 0.3,
+    "first_sentence": "The pros agree: It's scary at the top of an Olympic snowboarding run.",
+    "timestamp": "2026-02-13T16:43:15Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "You too can be 'golden', Belfast-born creative tells KPop fans",
+    "link": "https://www.bbc.com/news/articles/c07jgg98l0po?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4202,
+    "vader_score": 0.4404,
+    "textblob_score": 0.4,
+    "first_sentence": "James Carson used to deliver packages for an animation company in London.",
+    "timestamp": "2026-02-13T16:05:09Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Cocktail of the week: Hu\u014f\u2019s Szechuan sizzle \u2013 recipe | The good mixer",
+    "link": "https://www.theguardian.com/food/2026/feb/13/cocktail-of-the-week-huo-szechuan-sizzle-recipe-lunar-new-year",
+    "mean_score": 0.5702,
+    "vader_score": 0.4404,
+    "textblob_score": 0.7,
+    "first_sentence": "Here\u2019s a spicy little number that will help you see in the lunar new year in style on 17 January.",
+    "timestamp": "2026-02-13T16:01:28Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "The best vacuum cleaners in the UK for hard floors, carpet and pet hair \u2013 tested",
     "link": "https://www.theguardian.com/thefilter/2026/feb/13/best-vacuum-cleaners-uk-tested",
     "mean_score": 0.4096,
