@@ -1,5 +1,5 @@
 {
-  "last run": "2026-02-19T01:40:08Z",
+  "last run": "2026-02-19T03:08:39Z",
   "stories": [
     {
       "headline": "Yes there is a right way to stack the dishwasher. Here are the 5 rules",
@@ -9,6 +9,16 @@
       "textblob_score": 0.2857,
       "first_sentence": "It's a heated debate in many households - is there a right way stack to the dishwasher?.",
       "timestamp": "2026-02-19T01:32:26Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Major special education support shake-up risks political backlash",
+      "link": "https://www.bbc.com/news/articles/cx2d041wl6po?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3667,
+      "vader_score": 0.5936,
+      "textblob_score": 0.1399,
+      "first_sentence": "Leaked details suggest special educational needs and disabilities (SEND) support is facing its biggest shake-up in a generation, potentially provoking a political backlash.",
+      "timestamp": "2026-02-19T01:32:15Z",
       "source": "BBC News"
     },
     {
@@ -169,6 +179,16 @@
       "textblob_score": 0.455,
       "first_sentence": "A local dog has missed out on a historic cross-country medal at the Winter Olympics despite a lung-bursting surge in the homestretch.",
       "timestamp": "2026-02-18T15:02:24Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "A bike with 21 satellite dishes struggles through a desert: Hiba Baddou\u2019s best photograph",
+      "link": "https://www.theguardian.com/artanddesign/2026/feb/18/peugeot-103-morocco-satellite-dishes-hiba-baddou-best-photograph",
+      "mean_score": 0.7009,
+      "vader_score": 0.4019,
+      "textblob_score": 1.0,
+      "first_sentence": "This image, Parabomobile, shows a living sculpture I created.",
+      "timestamp": "2026-02-18T15:00:35Z",
       "source": "The Guardian"
     },
     {
@@ -2480,26 +2500,6 @@
       "first_sentence": "After eight hours of open-heart surgery, little Chester Osment's heart had to be stopped twice after it raced to a dangerously high 280 beats per minute.",
       "timestamp": "2026-02-13T06:25:16Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "The look of love: what to wear for Valentine\u2019s weekend",
-      "link": "https://www.theguardian.com/fashion/gallery/2026/feb/13/what-to-wear-valentines-day-weekend-womenswear-style-tips",
-      "mean_score": 0.5685,
-      "vader_score": 0.6369,
-      "textblob_score": 0.5,
-      "first_sentence": "The Guardian\u2019s journalism is independent.",
-      "timestamp": "2026-02-13T06:00:37Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Benjamina Ebuehi\u2019s recipe for almond frangipane crepes | The sweet spot",
-      "link": "https://www.theguardian.com/food/2026/feb/13/almond-frangipane-crepes-recipe-benjamina-ebuehi",
-      "mean_score": 0.4044,
-      "vader_score": 0.4588,
-      "textblob_score": 0.35,
-      "first_sentence": "When it comes to pancake day, I don\u2019t discriminate and fill the day with as many types of pancakes as possible \u2013 from a fluffy American-style stack in the morning to a savoury buckwheat pancake at lunch, and finishing off with classic crepes in the evening.",
-      "timestamp": "2026-02-13T06:00:36Z",
-      "source": "The Guardian"
     }
   ]
 }
