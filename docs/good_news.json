@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-19T15:21:33Z",
+  "last run": "2026-02-19T16:23:57Z",
   "stories": [
+    {
+      "headline": "'Dude, good luck': the Olympic wit and wisdom of a pioneering African skeleton racer",
+      "link": "https://www.npr.org/2026/02/19/g-s1-110433/olympics-skeleton-africa-bobsled-ghana",
+      "mean_score": 0.6009,
+      "vader_score": 0.8519,
+      "textblob_score": 0.35,
+      "first_sentence": "Skeleton was actually the third sport Frimpong took up to chase his dream of becoming an Olympian.",
+      "timestamp": "2026-02-19T15:49:30Z",
+      "source": "NPR News"
+    },
     {
       "headline": "\u2018It feels like a worse version of Lotto\u2019: Guardian Australia readers on the great intergenerational wealth transfer",
       "link": "https://www.theguardian.com/society/2026/feb/20/inheritance-guardian-australia-readers-intergenerational-wealth-transfer",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Josie Baff cried tears of joy after doubling Australia\u2019s Olympic gold medal haul by storming to a superb victory in the women\u2019s snowboard cross event at Milan-Cortina.",
       "timestamp": "2026-02-13T14:40:08Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Breaking: Australia's Josie Baff claims stunning snowboard cross gold at Winter Olympics",
-      "link": "https://www.abc.net.au/news/2026-02-14/snowboard-cross-2026-winter-olympics/106343706",
-      "mean_score": 0.3159,
-      "vader_score": 0.3818,
-      "textblob_score": 0.25,
-      "first_sentence": "Josie Baff has produced a stunning display to win gold in the women's snowboard cross at the 2026 Milano Cortina Winter Olympic Games.",
-      "timestamp": "2026-02-13T14:14:18Z",
-      "source": "ABC News"
     }
   ]
 }

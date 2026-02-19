@@ -10,6 +10,16 @@
     "source": "ABC News"
   },
   {
+    "headline": "Breaking: Australia's Josie Baff claims stunning snowboard cross gold at Winter Olympics",
+    "link": "https://www.abc.net.au/news/2026-02-14/snowboard-cross-2026-winter-olympics/106343706",
+    "mean_score": 0.3159,
+    "vader_score": 0.3818,
+    "textblob_score": 0.25,
+    "first_sentence": "Josie Baff has produced a stunning display to win gold in the women's snowboard cross at the 2026 Milano Cortina Winter Olympic Games.",
+    "timestamp": "2026-02-13T14:14:18Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "I\u2019m Sorry, Prime Minister review \u2013 Hacker and Sir Humphrey return as baffled but charming old codgers",
     "link": "https://www.theguardian.com/stage/2026/feb/13/im-sorry-prime-minister-review-apollo-theatre-london-griff-rhys-jones",
     "mean_score": 0.4113,
