@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-19T18:25:16Z",
+  "last run": "2026-02-19T19:21:35Z",
   "stories": [
+    {
+      "headline": "Baby chicks link certain sounds with shapes, just like humans do",
+      "link": "https://www.npr.org/2026/02/19/nx-s1-5717039/baby-chicks-link-certain-sounds-with-shapes-just-like-humans-do",
+      "mean_score": 0.3858,
+      "vader_score": 0.5574,
+      "textblob_score": 0.2143,
+      "first_sentence": "When people are shown a spiky shape next to a rounded one and asked which shape is called \"kiki\" and which one is \"bouba,\" people from all kinds of cultures overwhelmingly associate \"bouba\" with the blob-like shape and \"kiki\" with the more jagged, pointy one.",
+      "timestamp": "2026-02-19T19:00:00Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "Schools in England to get budget for children with special needs as part of Send overhaul",
+      "link": "https://www.theguardian.com/education/2026/feb/19/schools-in-england-to-get-budget-for-children-with-special-needs-as-part-of-send-overhaul",
+      "mean_score": 0.3795,
+      "vader_score": 0.4019,
+      "textblob_score": 0.3571,
+      "first_sentence": "Children in England with special needs will receive individual support and therapy directly from their schools as part of the government\u2019s overhaul of England\u2019s special education provision.",
+      "timestamp": "2026-02-19T18:50:34Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "'Dude, good luck': the Olympic wit and wisdom of a pioneering African skeleton racer",
       "link": "https://www.npr.org/2026/02/19/g-s1-110433/olympics-skeleton-africa-bobsled-ghana",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.2333,
       "first_sentence": "The Guardian\u2019s journalism is independent.",
       "timestamp": "2026-02-13T15:00:28Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Charli xcx: Wuthering Heights review \u2013 atonal, amorous anthems that more than stand apart from the film",
-      "link": "https://www.theguardian.com/music/2026/feb/13/charli-xcx-wuthering-heights-review-atonal-amorous-anthems-that-more-than-stand-apart-from-the-film",
-      "mean_score": 0.4607,
-      "vader_score": 0.4215,
-      "textblob_score": 0.5,
-      "first_sentence": "In the catalogues of rock and pop artists, film soundtracks usually seem like interstitial releases.",
-      "timestamp": "2026-02-13T14:45:18Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Josie Baff wins Australia\u2019s second gold of Winter Olympics with victory in snowboard cross",
-      "link": "https://www.theguardian.com/sport/2026/feb/13/josie-baff-wins-australias-second-gold-of-winter-olympics-with-victory-in-snowboard-cross",
-      "mean_score": 0.3359,
-      "vader_score": 0.5719,
-      "textblob_score": 0.1,
-      "first_sentence": "Josie Baff cried tears of joy after doubling Australia\u2019s Olympic gold medal haul by storming to a superb victory in the women\u2019s snowboard cross event at Milan-Cortina.",
-      "timestamp": "2026-02-13T14:40:08Z",
       "source": "The Guardian"
     }
   ]
