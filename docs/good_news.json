@@ -1,5 +1,5 @@
 {
-  "last run": "2026-02-19T06:30:22Z",
+  "last run": "2026-02-19T07:27:10Z",
   "stories": [
     {
       "headline": "TV set is most popular way to watch YouTube in UK, study finds",
@@ -190,6 +190,16 @@
       "first_sentence": "CORTINA D\u2019AMPEZZO, Italy (AP) \u2014 Redemption, at last, for Mikaela Shiffrin at the Winter Olympics.",
       "timestamp": "2026-02-18T18:53:02Z",
       "source": "AP News"
+    },
+    {
+      "headline": "What makes people proud to be Australian? The answer might surprise you",
+      "link": "https://www.sbs.com.au/news/article/australia-national-pride-pew-report/0nv0le4l0",
+      "mean_score": 0.5185,
+      "vader_score": 0.6369,
+      "textblob_score": 0.4,
+      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+      "timestamp": "2026-02-18T18:42:02Z",
+      "source": "SBS News"
     },
     {
       "headline": "Farmer Tony Martin leaves \u00a32.5m to 'loyal friend'",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Australia's Josie Baff has stormed to victory in the women's snowboard cross at the Milano Cortina Winter Olympics.",
       "timestamp": "2026-02-13T08:41:31Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Giving votes to 16-year-olds would be a win for Labour \u2013 and our country | Polly Toynbee",
-      "link": "https://www.theguardian.com/commentisfree/2026/feb/13/votes-to-16-year-olds-young-people-labour-uk-nigel-farage",
-      "mean_score": 0.7675,
-      "vader_score": 0.7351,
-      "textblob_score": 0.8,
-      "first_sentence": "Here it is as promised, a bill introduced to parliament on Thursday proposing to give the vote to 16- and 17-year-olds by the next general election.",
-      "timestamp": "2026-02-13T08:00:39Z",
-      "source": "The Guardian"
     }
   ]
 }
