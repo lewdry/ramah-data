@@ -1,6 +1,36 @@
 {
-  "last run": "2026-02-19T03:08:39Z",
+  "last run": "2026-02-19T04:43:12Z",
   "stories": [
+    {
+      "headline": "White House says Iran would be 'wise' to make deal, as US ramps up military presence",
+      "link": "https://www.bbc.com/news/articles/c204zpz0lyro?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3383,
+      "vader_score": 0.4767,
+      "textblob_score": 0.2,
+      "first_sentence": "The White House has warned Iran would be \"very wise\" to make a deal with the US, amid reports that President Donald Trump is weighing fresh military action against the Islamic Republic.",
+      "timestamp": "2026-02-19T04:05:26Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "In her memoir, Gis\u00e8le Pelicot reveals the love she kept secret",
+      "link": "https://www.abc.net.au/news/2026-02-19/secret-boyfriend-who-stood-beside-gis%C3%A8le-pelicot/106357080",
+      "mean_score": 0.3435,
+      "vader_score": 0.6369,
+      "textblob_score": 0.05,
+      "first_sentence": "For years, the story of Gis\u00e8le Pelicot has been defined by horror \u2014 the woman at the centre of France's most infamous mass rape trial, who chose to waive anonymity and became a global icon in the fight against sexual violence.",
+      "timestamp": "2026-02-19T03:51:50Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "KPMG asks Sydney writers\u2019 festival to delete its name from website after Randa Abdel-Fattah confirmed as speaker",
+      "link": "https://www.theguardian.com/australia-news/2026/feb/19/sydney-writers-festival-swf-kpmg-sponsor-randa-abdel-fattah-speaker",
+      "mean_score": 0.447,
+      "vader_score": 0.4939,
+      "textblob_score": 0.4,
+      "first_sentence": "Global accounting giant KPMG has distanced itself from the Sydney writers\u2019 festival, requesting its name be removed from the event\u2019s website where it was listed as a corporate partner.",
+      "timestamp": "2026-02-19T03:36:31Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Yes there is a right way to stack the dishwasher. Here are the 5 rules",
       "link": "https://www.bbc.com/news/articles/cwy89lr3pl4o?at_medium=RSS&at_campaign=rss",
@@ -90,6 +120,16 @@
       "first_sentence": "We also have minute-by-minute coverage of Wolves 0-1 Arsenal.",
       "timestamp": "2026-02-18T19:59:38Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "The super mistake that could cost you more than $120,000 at retirement",
+      "link": "https://www.sbs.com.au/news/article/how-not-checking-your-super-could-cost-you-over-120-000-at-retirement/pnthrysuz",
+      "mean_score": 0.3889,
+      "vader_score": 0.3612,
+      "textblob_score": 0.4167,
+      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+      "timestamp": "2026-02-18T19:41:16Z",
+      "source": "SBS News"
     },
     {
       "headline": "Dani Scott's tears of joy a welcome balm after years of pain",
@@ -2460,46 +2500,6 @@
       "first_sentence": "DHAKA, Bangladesh (AP) \u2014 The Bangladesh Nationalist Party has claimed victory in the country\u2019s first election since the 2024 uprising, positioning itself to form the next government and potentially reshape Bangladesh\u2019s political landscape after years of intense rivalry and disputed polls.",
       "timestamp": "2026-02-13T07:23:02Z",
       "source": "AP News"
-    },
-    {
-      "headline": "A \u2018desiccated coconut\u2019 and a \u2018grub\u2019: Angus Taylor has copped some insults \u2013 but he\u2019s in good company",
-      "link": "https://www.theguardian.com/australia-news/2026/feb/13/a-desiccated-coconut-and-a-grub-angus-taylor-has-copped-some-insults-but-hes-in-good-company",
-      "mean_score": 0.5748,
-      "vader_score": 0.4497,
-      "textblob_score": 0.7,
-      "first_sentence": "The newly elected opposition leader, Angus Taylor, may have a spring in his step on Friday after winning his party room vote \u2013 but not all sides of the political spectrum have wished him well.",
-      "timestamp": "2026-02-13T07:12:54Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The tunnel runway at the Super Bowl \u2013 and the rise of the \u2018unicorn bag\u2019",
-      "link": "https://www.theguardian.com/fashion/2026/feb/12/the-tunnel-runway-at-superbowl-unicorn-bags-and-the-shift-towards-practical-luxury",
-      "mean_score": 0.4664,
-      "vader_score": 0.5994,
-      "textblob_score": 0.3333,
-      "first_sentence": "The Guardian\u2019s journalism is independent.",
-      "timestamp": "2026-02-13T07:00:39Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Good People by Patmeena Sabit review \u2013 addictive mystery caters to modern attention spans",
-      "link": "https://www.theguardian.com/books/2026/feb/13/good-people-by-patmeena-sabit-review-addictive-mystery-caters-to-modern-attention-spans",
-      "mean_score": 0.3702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.3,
-      "first_sentence": "There has been debate lately about whether novels should cater for our cauterised attention spans.",
-      "timestamp": "2026-02-13T07:00:36Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "My brave son has a unique heart - he's been battling since the day he was born",
-      "link": "https://www.bbc.com/news/articles/c1e98djqx9do?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.6727,
-      "vader_score": 0.7579,
-      "textblob_score": 0.5875,
-      "first_sentence": "After eight hours of open-heart surgery, little Chester Osment's heart had to be stopped twice after it raced to a dangerously high 280 beats per minute.",
-      "timestamp": "2026-02-13T06:25:16Z",
-      "source": "BBC News"
     }
   ]
 }

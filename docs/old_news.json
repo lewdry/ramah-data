@@ -1,5 +1,45 @@
 [
   {
+    "headline": "A \u2018desiccated coconut\u2019 and a \u2018grub\u2019: Angus Taylor has copped some insults \u2013 but he\u2019s in good company",
+    "link": "https://www.theguardian.com/australia-news/2026/feb/13/a-desiccated-coconut-and-a-grub-angus-taylor-has-copped-some-insults-but-hes-in-good-company",
+    "mean_score": 0.5748,
+    "vader_score": 0.4497,
+    "textblob_score": 0.7,
+    "first_sentence": "The newly elected opposition leader, Angus Taylor, may have a spring in his step on Friday after winning his party room vote \u2013 but not all sides of the political spectrum have wished him well.",
+    "timestamp": "2026-02-13T07:12:54Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "The tunnel runway at the Super Bowl \u2013 and the rise of the \u2018unicorn bag\u2019",
+    "link": "https://www.theguardian.com/fashion/2026/feb/12/the-tunnel-runway-at-superbowl-unicorn-bags-and-the-shift-towards-practical-luxury",
+    "mean_score": 0.4664,
+    "vader_score": 0.5994,
+    "textblob_score": 0.3333,
+    "first_sentence": "The Guardian\u2019s journalism is independent.",
+    "timestamp": "2026-02-13T07:00:39Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Good People by Patmeena Sabit review \u2013 addictive mystery caters to modern attention spans",
+    "link": "https://www.theguardian.com/books/2026/feb/13/good-people-by-patmeena-sabit-review-addictive-mystery-caters-to-modern-attention-spans",
+    "mean_score": 0.3702,
+    "vader_score": 0.4404,
+    "textblob_score": 0.3,
+    "first_sentence": "There has been debate lately about whether novels should cater for our cauterised attention spans.",
+    "timestamp": "2026-02-13T07:00:36Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "My brave son has a unique heart - he's been battling since the day he was born",
+    "link": "https://www.bbc.com/news/articles/c1e98djqx9do?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.6727,
+    "vader_score": 0.7579,
+    "textblob_score": 0.5875,
+    "first_sentence": "After eight hours of open-heart surgery, little Chester Osment's heart had to be stopped twice after it raced to a dangerously high 280 beats per minute.",
+    "timestamp": "2026-02-13T06:25:16Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "The look of love: what to wear for Valentine\u2019s weekend",
     "link": "https://www.theguardian.com/fashion/gallery/2026/feb/13/what-to-wear-valentines-day-weekend-womenswear-style-tips",
     "mean_score": 0.5685,
