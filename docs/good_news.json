@@ -1,5 +1,5 @@
 {
-  "last run": "2026-02-20T22:09:42Z",
+  "last run": "2026-02-20T23:12:15Z",
   "stories": [
     {
       "headline": "Alex Ferreira wins 10th gold medal for Team USA, matching America's highest total in Winter Olympics",
@@ -50,6 +50,16 @@
       "first_sentence": "Apps and websites often promise the possibility of meeting a future partner, but singles say the dating landscape is not that simple.",
       "timestamp": "2026-02-20T18:30:00Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "After dominant 6-2 win, the U.S. will face Canada for Olympic men's hockey gold",
+      "link": "https://www.npr.org/2026/02/20/nx-s1-5720937/u-s-mens-hockey-slovakia-olympic-gold-medal",
+      "mean_score": 0.6929,
+      "vader_score": 0.5859,
+      "textblob_score": 0.8,
+      "first_sentence": "MILAN \u2014 The U.S.-Canada hockey rivalry will get a second chapter at the 2026 Olympic Games when the two men's national teams meet Sunday in the gold medal matchup that many had been hoping for all along.",
+      "timestamp": "2026-02-20T18:23:34Z",
+      "source": "NPR News"
     },
     {
       "headline": "Winter Olympics 2026: Norway break own record for golds won in single Games after biathlon triumph \u2013 live",
@@ -2479,16 +2489,6 @@
       "textblob_score": 0.2,
       "first_sentence": "Every Sunday, we\u2019ll bring you some of the Guardian\u2019s best stories from the week.",
       "timestamp": "2026-02-14T19:00:03Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Ukraine wants 20-year US security guarantee to sign peace deal",
-      "link": "https://www.theguardian.com/world/2026/feb/14/ukraine-wants-20-year-us-security-guarantee-to-sign-peace-deal",
-      "mean_score": 0.4922,
-      "vader_score": 0.7845,
-      "textblob_score": 0.2,
-      "first_sentence": "Ukraine wants security guarantees for a minimum of 20 years from the US before it can sign a peace deal with dignity, Volodymyr Zelenskyy said ahead of talks next week with Russia and the US.",
-      "timestamp": "2026-02-14T18:44:40Z",
       "source": "The Guardian"
     }
   ]
