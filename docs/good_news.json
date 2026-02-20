@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-20T18:20:29Z",
+  "last run": "2026-02-20T19:19:44Z",
   "stories": [
+    {
+      "headline": "The AI catfish, country dating and a free lunch: Your modern love stories",
+      "link": "https://www.abc.net.au/news/2026-02-21/modern-dating-love-stories/106353870",
+      "mean_score": 0.5921,
+      "vader_score": 0.8176,
+      "textblob_score": 0.3667,
+      "first_sentence": "Apps and websites often promise the possibility of meeting a future partner, but singles say the dating landscape is not that simple.",
+      "timestamp": "2026-02-20T18:30:00Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Winter Olympics 2026: Norway break own record for golds won in single Games after biathlon triumph \u2013 live",
       "link": "https://www.theguardian.com/sport/live/2026/feb/20/winter-olympics-2026-ski-cross-halfpipe-and-more-on-day-14-live",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Stay away from roses this Valentine\u2019s Day, environmental campaigners have warned after testing revealed them to be heavily contaminated with pesticides.",
       "timestamp": "2026-02-14T15:00:56Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Tribes grant the Colorado River legal personhood - can this help save it?",
-      "link": "https://www.bbc.com/news/videos/crmlgpnnzyxo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5264,
-      "vader_score": 0.8528,
-      "textblob_score": 0.2,
-      "first_sentence": "Indigenous tribes in the southwestern US, led by the Colorado River Indian Tribes (CRIT), have granted the Colorado River legal personhood to help protect it for future generations.",
-      "timestamp": "2026-02-14T13:13:13Z",
-      "source": "BBC News"
     }
   ]
 }
