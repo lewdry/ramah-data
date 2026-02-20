@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-20T04:39:43Z",
+  "last run": "2026-02-20T05:30:33Z",
   "stories": [
+    {
+      "headline": "\u2018He loved showing his bum. Loved it\u2019: the subversive genius of Kenneth Williams",
+      "link": "https://www.theguardian.com/film/2026/feb/20/he-loved-showing-bum-subversive-genius-kenneth-williams",
+      "mean_score": 0.7422,
+      "vader_score": 0.7845,
+      "textblob_score": 0.7,
+      "first_sentence": "When standup comic Tom Allen received Attitude magazine\u2019s comedy award last year, he used his acceptance speech to salute the subversive wits who paved the way for freedoms now enjoyed by queer people in Britain.",
+      "timestamp": "2026-02-20T05:00:25Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "For Muslims, Ramadan is a commitment to self-discipline, generosity and peace. Pauline Hanson, take note | Susan Carland",
       "link": "https://www.theguardian.com/commentisfree/2026/feb/20/for-muslims-ramadan-is-a-commitment-to-self-discipline-generosity-and-peace-pauline-hanson-take-note",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Want more Olympics updates?\u00a0Subscribe here\u00a0to get our newsletter,\u00a0Rachel Goes to the Games, delivered to your inbox for a behind-the-scenes look at the 2026 Milan Cortina Winter Olympics.",
       "timestamp": "2026-02-13T22:50:47Z",
       "source": "NPR News"
-    },
-    {
-      "headline": "Sunny Dancer review \u2013 \u2018chemo camp\u2019 gives teen drama a fresh spin",
-      "link": "https://www.theguardian.com/film/2026/feb/13/sunny-dancer-review-chemo-camp-bella-ramsey",
-      "mean_score": 0.3875,
-      "vader_score": 0.6249,
-      "textblob_score": 0.15,
-      "first_sentence": "Bella Ramsey leads the cast of this likable coming-of-age movie from 26-year-old actor-turned-director George Jaques about a summer camp for teens with cancer.",
-      "timestamp": "2026-02-13T22:02:31Z",
-      "source": "The Guardian"
     }
   ]
 }
