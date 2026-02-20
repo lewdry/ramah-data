@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-20T10:17:25Z",
+  "last run": "2026-02-20T11:15:43Z",
   "stories": [
+    {
+      "headline": "'Best ski season in years' on Scotland's snowy hills",
+      "link": "https://www.bbc.com/news/articles/cq6qyjrq3e9o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.8185,
+      "vader_score": 0.6369,
+      "textblob_score": 1.0,
+      "first_sentence": "Scotland's mountain snowsports centres say they have been enjoying their best winter in six years.",
+      "timestamp": "2026-02-20T10:27:37Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Georgi Gospodinov: \u2018Jorge Luis Borges gave me an exhilarating sense of freedom\u2019",
+      "link": "https://www.theguardian.com/books/2026/feb/20/georgi-gospodinov-jorge-luis-borges-gave-me-an-exhilarating-sense-of-freedom",
+      "mean_score": 0.5509,
+      "vader_score": 0.4019,
+      "textblob_score": 0.7,
+      "first_sentence": "My earliest reading memory\n I was taught to read quite early, at five or six, probably so that I would sit quietly and not be a nuisance to the adults.",
+      "timestamp": "2026-02-20T10:00:37Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Art and antiques help lift retail sales in Great Britain to biggest monthly rise since 2024",
       "link": "https://www.theguardian.com/business/2026/feb/20/art-and-antiques-help-lift-retail-sales-in-great-britain-to-biggest-monthly-rise-since-2024",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Aerial skier Laura Peel \u2014 one of Australia's strongest medal hopes \u2014 has been forced to withdraw from the Winter Olympics.",
       "timestamp": "2026-02-14T08:23:48Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Sweeping romance: the married couples of Cortina\u2019s Winter Olympic curling rink",
-      "link": "https://www.theguardian.com/sport/2026/feb/14/sweeping-romance-the-married-couples-of-cortina-winter-olympics-curling-rink",
-      "mean_score": 0.4037,
-      "vader_score": 0.5574,
-      "textblob_score": 0.25,
-      "first_sentence": "Every Olympics has its love stories.",
-      "timestamp": "2026-02-14T08:00:49Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "'A lot of love and a bit of luck': 100 couples on the secret to a happy relationship",
-      "link": "https://www.bbc.com/news/articles/czdqgezr87vo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5989,
-      "vader_score": 0.8979,
-      "textblob_score": 0.3,
-      "first_sentence": "But what does it take to stay in love, and what's the secret to a long and happy relationship?.",
-      "timestamp": "2026-02-14T07:28:11Z",
-      "source": "BBC News"
     }
   ]
 }
