@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-20T09:20:28Z",
+  "last run": "2026-02-20T10:17:25Z",
   "stories": [
+    {
+      "headline": "Art and antiques help lift retail sales in Great Britain to biggest monthly rise since 2024",
+      "link": "https://www.theguardian.com/business/2026/feb/20/art-and-antiques-help-lift-retail-sales-in-great-britain-to-biggest-monthly-rise-since-2024",
+      "mean_score": 0.7892,
+      "vader_score": 0.7783,
+      "textblob_score": 0.8,
+      "first_sentence": "Retail sales in Great Britain rose 1.8% in January, the largest monthly increase in almost two years, according to official data, as heavy discounting and post-Christmas sales drew consumers back to bigger ticket purchases.",
+      "timestamp": "2026-02-20T09:35:22Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "More than just McSteamy: Eric Dane was masterful in Grey\u2019s Anatomy \u2013 the real man of everyone\u2019s dreams | Anna Spargo-Ryan",
       "link": "https://www.theguardian.com/tv-and-radio/2026/feb/20/eric-dane-greys-anatomy-appreciation",
@@ -2490,16 +2500,6 @@
       "first_sentence": "But what does it take to stay in love, and what's the secret to a long and happy relationship?.",
       "timestamp": "2026-02-14T07:28:11Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Will pancake day be a success? It\u2019s a bit of toss up: the Becky Barnicoat cartoon",
-      "link": "https://www.theguardian.com/lifeandstyle/picture/2026/feb/14/will-pancake-day-be-a-success-its-a-bit-of-toss-up-the-becky-barnicoat-cartoon",
-      "mean_score": 0.4359,
-      "vader_score": 0.5719,
-      "textblob_score": 0.3,
-      "first_sentence": "Continue reading.",
-      "timestamp": "2026-02-14T06:00:47Z",
-      "source": "The Guardian"
     }
   ]
 }
