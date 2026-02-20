@@ -1,5 +1,25 @@
 [
   {
+    "headline": "\u2018Love, honor, cherish, accommodate\u2019: 16 hard-earned relationship tips",
+    "link": "https://www.theguardian.com/wellness/2026/feb/14/healthy-good-relationship-tips-advice",
+    "mean_score": 0.6001,
+    "vader_score": 0.7003,
+    "textblob_score": 0.5,
+    "first_sentence": "For some couples, it\u2019s important to share hobbies.",
+    "timestamp": "2026-02-14T12:00:52Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Rubio speech signals US-Europe relations are bruised but still friendly",
+    "link": "https://www.bbc.com/news/articles/crk80vgrj2eo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.5118,
+    "vader_score": 0.6486,
+    "textblob_score": 0.375,
+    "first_sentence": "World leaders, including French President Emmanuel Macron, German Chancellor Friedrich Merz and UK Prime Minister Sir Keir Starmer, have been gathering in Munich for Europe's biggest security and defence conference.",
+    "timestamp": "2026-02-14T11:55:11Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Volodymyr Zelenskyy honours disqualified skeleton racer with order of freedom",
     "link": "https://www.theguardian.com/sport/2026/feb/13/cas-dismisses-ukrainians-appeal-over-helmet-of-memory-disqualification",
     "mean_score": 0.3404,

@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-20T15:20:23Z",
+  "last run": "2026-02-20T16:17:04Z",
   "stories": [
+    {
+      "headline": "Winter Olympics 2026: Norway break own record for golds won in single Games after biathlon triumph \u2013 live",
+      "link": "https://www.theguardian.com/sport/live/2026/feb/20/winter-olympics-2026-ski-cross-halfpipe-and-more-on-day-14-live",
+      "mean_score": 0.5,
+      "vader_score": 0.7783,
+      "textblob_score": 0.2216,
+      "first_sentence": "Men\u2019s ice hockey semi final: Finland go ahead! Mikko Rantanen flicks with gimlet eye into the net during the power play.",
+      "timestamp": "2026-02-20T16:14:32Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "UK migrant families face giving up vital in-work benefits to avoid being \u2018punished\u2019",
+      "link": "https://www.theguardian.com/society/2026/feb/20/uk-migrant-families-vital-in-work-benefits-hardship-avoid-punishment",
+      "mean_score": 0.3562,
+      "vader_score": 0.6124,
+      "textblob_score": 0.1,
+      "first_sentence": "Families claiming in-work benefits face giving them up and enduring hardship to avoid being \u201cpunished\u201d under a planned government migration crackdown, experts have said.",
+      "timestamp": "2026-02-20T15:56:04Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Tudor 100% sure Spurs will stay up, Carrick \u2018proud\u2019 of United\u2019s diverse culture and more \u2013 live",
       "link": "https://www.theguardian.com/football/live/2026/feb/20/north-london-derby-buildup-europa-league-reaction-premier-league-team-news-and-more-live",
@@ -2480,26 +2500,6 @@
       "first_sentence": "The exhortations to protect America\u2019s industrial muscle have resonated in the US at least since maverick presidential candidate Ross Perot brought up the supposed \u201cgiant sucking sound\u201d of jobs pulled to Mexico by the Nafta trade agreement back in 1993.",
       "timestamp": "2026-02-14T12:00:54Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018Love, honor, cherish, accommodate\u2019: 16 hard-earned relationship tips",
-      "link": "https://www.theguardian.com/wellness/2026/feb/14/healthy-good-relationship-tips-advice",
-      "mean_score": 0.6001,
-      "vader_score": 0.7003,
-      "textblob_score": 0.5,
-      "first_sentence": "For some couples, it\u2019s important to share hobbies.",
-      "timestamp": "2026-02-14T12:00:52Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Rubio speech signals US-Europe relations are bruised but still friendly",
-      "link": "https://www.bbc.com/news/articles/crk80vgrj2eo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5118,
-      "vader_score": 0.6486,
-      "textblob_score": 0.375,
-      "first_sentence": "World leaders, including French President Emmanuel Macron, German Chancellor Friedrich Merz and UK Prime Minister Sir Keir Starmer, have been gathering in Munich for Europe's biggest security and defence conference.",
-      "timestamp": "2026-02-14T11:55:11Z",
-      "source": "BBC News"
     }
   ]
 }
