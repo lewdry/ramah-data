@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-20T19:19:44Z",
+  "last run": "2026-02-20T20:11:59Z",
   "stories": [
+    {
+      "headline": "Indra Brown 'the real deal' according to defending champion Elieen Gu",
+      "link": "https://www.abc.net.au/news/2026-02-21/indra-brown-real-deal-eileen-gu-freeski-olympic-final/106371022",
+      "mean_score": 0.3997,
+      "vader_score": 0.5994,
+      "textblob_score": 0.2,
+      "first_sentence": "Indra Brown has earned incredible plaudits since bursting onto the elite freeski halfpipe scene \u2014 and all of them are thoroughly deserved.",
+      "timestamp": "2026-02-20T19:59:27Z",
+      "source": "ABC News"
+    },
     {
       "headline": "The AI catfish, country dating and a free lunch: Your modern love stories",
       "link": "https://www.abc.net.au/news/2026-02-21/modern-dating-love-stories/106353870",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.8,
       "first_sentence": "For West Ham\u2019s second string, barring a shock defeat this could barely have been a more uncomfortable afternoon.",
       "timestamp": "2026-02-14T15:13:46Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018Nothing says love like chemicals\u2019: Valentine\u2019s roses often covered in pesticides, testing finds",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/feb/14/valentines-day-flowers-roses-pesticides-testing",
-      "mean_score": 0.6359,
-      "vader_score": 0.7717,
-      "textblob_score": 0.5,
-      "first_sentence": "Stay away from roses this Valentine\u2019s Day, environmental campaigners have warned after testing revealed them to be heavily contaminated with pesticides.",
-      "timestamp": "2026-02-14T15:00:56Z",
       "source": "The Guardian"
     }
   ]
