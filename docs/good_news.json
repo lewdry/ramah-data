@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-20T06:26:55Z",
+  "last run": "2026-02-20T07:25:59Z",
   "stories": [
+    {
+      "headline": "UK government finances better than expected in January",
+      "link": "https://www.bbc.com/news/articles/c93w4egd3gzo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3202,
+      "vader_score": 0.4404,
+      "textblob_score": 0.2,
+      "first_sentence": "The government's finances had a record monthly surplus in January as it took in more tax receipts than it spent.",
+      "timestamp": "2026-02-20T07:16:46Z",
+      "source": "BBC News"
+    },
     {
       "headline": "France and Germany agreed to build the fighter jet of the future. Now they can\u2019t agree who is in charge",
       "link": "https://www.theguardian.com/business/2026/feb/20/france-germany-fighter-jet-of-the-future-fcas",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Rae began speaking to Barry last year after the end of a difficult divorce.",
       "timestamp": "2026-02-14T00:35:02Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Australia and EU to ink landmark free trade agreement",
-      "link": "https://www.abc.net.au/news/2026-02-14/australia-and-eu-sign-landmark-free-trade-agreement/106344826",
-      "mean_score": 0.5892,
-      "vader_score": 0.7783,
-      "textblob_score": 0.4,
-      "first_sentence": "Farmers in Australia and the EU have warned that the agreement exposes them to intensified competition in fragile markets.",
-      "timestamp": "2026-02-14T00:28:39Z",
-      "source": "ABC News"
     }
   ]
 }

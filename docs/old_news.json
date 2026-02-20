@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Australia and EU to ink landmark free trade agreement",
+    "link": "https://www.abc.net.au/news/2026-02-14/australia-and-eu-sign-landmark-free-trade-agreement/106344826",
+    "mean_score": 0.5892,
+    "vader_score": 0.7783,
+    "textblob_score": 0.4,
+    "first_sentence": "Farmers in Australia and the EU have warned that the agreement exposes them to intensified competition in fragile markets.",
+    "timestamp": "2026-02-14T00:28:39Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Gary wasn't impressed by Australia's dumpling scene. Now he's selling thousands a day",
     "link": "https://www.sbs.com.au/news/small-business-secrets/article/gary-wasnt-impressed-by-australias-dumpling-scene-now-hes-selling-thousands-a-day/6cqp6gbvw",
     "mean_score": 0.3572,
