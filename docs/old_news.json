@@ -1,11 +1,61 @@
 [
   {
+    "headline": "Easy, tasty and nutritious recipes for sharing this Ramadan",
+    "link": "https://www.abc.net.au/news/2026-02-14/easy-tasty-and-nutritious-recipes-for-sharing-this-ramadan/106331120",
+    "mean_score": 0.5621,
+    "vader_score": 0.6908,
+    "textblob_score": 0.4333,
+    "first_sentence": "The holy month of Ramadan begins this week and is, for many Muslims, a looked-forward-to period of reflection, prayer and time with loved ones.",
+    "timestamp": "2026-02-13T22:00:00Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Pedro Neto fires hat-trick as Chelsea provide Rosenior with happy return to Hull",
+    "link": "https://www.theguardian.com/football/2026/feb/13/hull-city-chelsea-fa-cup-fourth-round-match-report",
+    "mean_score": 0.686,
+    "vader_score": 0.5719,
+    "textblob_score": 0.8,
+    "first_sentence": "With sleet, snow, swirling wind from the banks of the Humber and most importantly, a Hull City side pushing hard for promotion to the Premier League this season, it was hard not to believe pre-match that this had all the makings of a difficult evening\u2019s work for Chelsea.",
+    "timestamp": "2026-02-13T21:57:32Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Push to boost lesson prep time for NSW teachers, as unpaid overtime grows",
+    "link": "https://www.abc.net.au/news/2026-02-14/push-to-increase-lesson-preparation-time-for-nsw-teachers/106341426",
+    "mean_score": 0.3009,
+    "vader_score": 0.4019,
+    "textblob_score": 0.2,
+    "first_sentence": "School teachers say they are spending hours before and after class completing lesson plans and admin work without getting paid for the overtime.",
+    "timestamp": "2026-02-13T21:07:46Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Five Great Reads: new ways to look at female nudes, understanding the Maya and revisiting Infinite Jest",
+    "link": "https://www.theguardian.com/australia-news/2026/feb/14/five-great-reads-female-nudes-maya-david-foster-wallace",
+    "mean_score": 0.4685,
+    "vader_score": 0.6249,
+    "textblob_score": 0.3121,
+    "first_sentence": "This week\u2019s selection of good reads from around the Guardian chart a varied terrain \u2013 from art and identity to politics and climate change.",
+    "timestamp": "2026-02-13T21:00:35Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Harpist and composer duo share what it's like working together as a creative couple",
     "link": "https://www.abc.net.au/news/2026-02-14/musical-matches-harpist-emily-granger-composer-tristan-coelho/106343946",
     "mean_score": 0.6325,
     "vader_score": 0.765,
     "textblob_score": 0.5,
     "first_sentence": "This Valentine's Day, Emily Granger will premiere a new Harp Concerto with the Queensland Symphony Orchestra, written for her by her husband, composer Tristan Coelho.",
+    "timestamp": "2026-02-13T21:00:00Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "A well-intentioned grand display turned a prince into a frog",
+    "link": "https://www.abc.net.au/news/2026-02-14/sturla-holm-laegreid-winter-olympics-confession/106337204",
+    "mean_score": 0.3419,
+    "vader_score": 0.4588,
+    "textblob_score": 0.225,
+    "first_sentence": "Norway is the home of many magical children's fairy tales, always with a moral fable buried deep at their centre.",
     "timestamp": "2026-02-13T21:00:00Z",
     "source": "ABC News"
   },
