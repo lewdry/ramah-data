@@ -1,6 +1,36 @@
 {
-  "last run": "2026-02-20T11:15:43Z",
+  "last run": "2026-02-20T12:19:38Z",
   "stories": [
+    {
+      "headline": "How to win friends and influencers: Labour\u2019s new social media strategy is a step into the future | Kirsty Major",
+      "link": "https://www.theguardian.com/commentisfree/2026/feb/20/labour-no-10-influencers-content-creators-social-media",
+      "mean_score": 0.4955,
+      "vader_score": 0.7845,
+      "textblob_score": 0.2064,
+      "first_sentence": "Last year, No 10 took an unprecedented step: it invited content creators to cross the threshold of Downing Street.",
+      "timestamp": "2026-02-20T12:15:07Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "The QuickShot II joystick review \u2013 80s clicks and waggles lovingly recreated",
+      "link": "https://www.theguardian.com/games/2026/feb/20/the-quickshot-ii-joystick-review-80s-clicks-and-waggles-lovingly-recreated",
+      "mean_score": 0.6548,
+      "vader_score": 0.7096,
+      "textblob_score": 0.6,
+      "first_sentence": "Nostalgia is big in the modern games industry.",
+      "timestamp": "2026-02-20T11:30:36Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "The true cost of Ecuador\u2019s perfect roses: how the global flower trade poisons workers",
+      "link": "https://www.theguardian.com/global-development/2026/feb/20/true-cost-ecuador-roses-global-flower-trade-poison-water-workers-land",
+      "mean_score": 0.4357,
+      "vader_score": 0.4215,
+      "textblob_score": 0.45,
+      "first_sentence": "The fertile high valley near La Chimba trembles with sounds.",
+      "timestamp": "2026-02-20T11:00:37Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "'Best ski season in years' on Scotland's snowy hills",
       "link": "https://www.bbc.com/news/articles/cq6qyjrq3e9o?at_medium=RSS&at_campaign=rss",
@@ -2470,36 +2500,6 @@
       "first_sentence": "Micky Small is one of hundreds of millions of people who regularly use AI chatbots.",
       "timestamp": "2026-02-14T10:00:00Z",
       "source": "NPR News"
-    },
-    {
-      "headline": "Dr. Oz pushes AI avatars as a fix for rural health care. Not so fast, critics say",
-      "link": "https://www.npr.org/2026/02/14/nx-s1-5704189/dr-oz-ai-avatars-replace-rural-health-workers",
-      "mean_score": 0.374,
-      "vader_score": 0.6479,
-      "textblob_score": 0.1,
-      "first_sentence": "Dr.",
-      "timestamp": "2026-02-14T10:00:00Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "\u2018Full of emotional wisdom\u2019: Guardian writers on the best movie romances you might not have seen",
-      "link": "https://www.theguardian.com/film/2026/feb/14/best-romance-movies-you-havent-seen",
-      "mean_score": 0.6232,
-      "vader_score": 0.7964,
-      "textblob_score": 0.45,
-      "first_sentence": "For Valentine\u2019s Day, writers picked their favourite lesser-known film love stories \u2013 from a dom-sub chamberpiece to a magical teen comedy\u2018It launched a million fantasies\u2019: the greatest ever TV romancesIt\u2019s the first rule of romcoms that opposites attract, and you can\u2019t imagine two more different lovers than Poinsettia (Lynn Redgrave), a spark plug of a dame convinced that she is in a relationship with the 19th-century composer Giacomo Puccini, and Fish (James Earl Jones), a gentle giant who spends his spare time wrestling a demon that only he can see.",
-      "timestamp": "2026-02-14T09:07:48Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Live: Aussie medal hope Peel ruled out of Winter Olympics",
-      "link": "https://www.abc.net.au/news/2026-02-14/winter-olympics-2026-live-milano-cortina-laura-peel/106344928",
-      "mean_score": 0.4274,
-      "vader_score": 0.7184,
-      "textblob_score": 0.1364,
-      "first_sentence": "Aerial skier Laura Peel \u2014 one of Australia's strongest medal hopes \u2014 has been forced to withdraw from the Winter Olympics.",
-      "timestamp": "2026-02-14T08:23:48Z",
-      "source": "ABC News"
     }
   ]
 }

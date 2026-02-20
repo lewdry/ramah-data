@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Dr. Oz pushes AI avatars as a fix for rural health care. Not so fast, critics say",
+    "link": "https://www.npr.org/2026/02/14/nx-s1-5704189/dr-oz-ai-avatars-replace-rural-health-workers",
+    "mean_score": 0.374,
+    "vader_score": 0.6479,
+    "textblob_score": 0.1,
+    "first_sentence": "Dr.",
+    "timestamp": "2026-02-14T10:00:00Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "\u2018Full of emotional wisdom\u2019: Guardian writers on the best movie romances you might not have seen",
+    "link": "https://www.theguardian.com/film/2026/feb/14/best-romance-movies-you-havent-seen",
+    "mean_score": 0.6232,
+    "vader_score": 0.7964,
+    "textblob_score": 0.45,
+    "first_sentence": "For Valentine\u2019s Day, writers picked their favourite lesser-known film love stories \u2013 from a dom-sub chamberpiece to a magical teen comedy\u2018It launched a million fantasies\u2019: the greatest ever TV romancesIt\u2019s the first rule of romcoms that opposites attract, and you can\u2019t imagine two more different lovers than Poinsettia (Lynn Redgrave), a spark plug of a dame convinced that she is in a relationship with the 19th-century composer Giacomo Puccini, and Fish (James Earl Jones), a gentle giant who spends his spare time wrestling a demon that only he can see.",
+    "timestamp": "2026-02-14T09:07:48Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Live: Aussie medal hope Peel ruled out of Winter Olympics",
+    "link": "https://www.abc.net.au/news/2026-02-14/winter-olympics-2026-live-milano-cortina-laura-peel/106344928",
+    "mean_score": 0.4274,
+    "vader_score": 0.7184,
+    "textblob_score": 0.1364,
+    "first_sentence": "Aerial skier Laura Peel \u2014 one of Australia's strongest medal hopes \u2014 has been forced to withdraw from the Winter Olympics.",
+    "timestamp": "2026-02-14T08:23:48Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Sweeping romance: the married couples of Cortina\u2019s Winter Olympic curling rink",
     "link": "https://www.theguardian.com/sport/2026/feb/14/sweeping-romance-the-married-couples-of-cortina-winter-olympics-curling-rink",
     "mean_score": 0.4037,
