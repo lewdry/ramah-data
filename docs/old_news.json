@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Gary wasn't impressed by Australia's dumpling scene. Now he's selling thousands a day",
+    "link": "https://www.sbs.com.au/news/small-business-secrets/article/gary-wasnt-impressed-by-australias-dumpling-scene-now-hes-selling-thousands-a-day/6cqp6gbvw",
+    "mean_score": 0.3572,
+    "vader_score": -0.2856,
+    "textblob_score": 1.0,
+    "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+    "timestamp": "2026-02-14T00:08:31Z",
+    "source": "SBS News"
+  },
+  {
+    "headline": "Ilia Malinin, figure skater favored for gold, finishes 8th",
+    "link": "https://www.npr.org/2026/02/13/nx-s1-5713991/ilia-malinin-mikhail-shaidorov-figure-skating-olympics",
+    "mean_score": 0.6108,
+    "vader_score": 0.4215,
+    "textblob_score": 0.8,
+    "first_sentence": "Want more Olympics updates?\u00a0Subscribe here\u00a0to get our newsletter,\u00a0Rachel Goes to the Games, delivered to your inbox for a behind-the-scenes look at the 2026 Milan Cortina Winter Olympics.",
+    "timestamp": "2026-02-13T22:50:47Z",
+    "source": "NPR News"
+  },
+  {
     "headline": "Sunny Dancer review \u2013 \u2018chemo camp\u2019 gives teen drama a fresh spin",
     "link": "https://www.theguardian.com/film/2026/feb/13/sunny-dancer-review-chemo-camp-bella-ramsey",
     "mean_score": 0.3875,
