@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Volodymyr Zelenskyy honours disqualified skeleton racer with order of freedom",
+    "link": "https://www.theguardian.com/sport/2026/feb/13/cas-dismisses-ukrainians-appeal-over-helmet-of-memory-disqualification",
+    "mean_score": 0.3404,
+    "vader_score": 0.6808,
+    "textblob_score": 0.0,
+    "first_sentence": "The Ukrainian skeleton racer Vladyslav Heraskevych has been awarded the order of freedom by president Volodymyr Zelenskyy following the controversial decision to bar him from the Winter Olympics.",
+    "timestamp": "2026-02-14T11:46:45Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Anthony creates Aussie Winter Olympic history with epic dual moguls win",
+    "link": "https://www.abc.net.au/news/2026-02-14/winter-olympics-2026-milano-cortina-jakara-anthony-gold/106345576",
+    "mean_score": 0.5798,
+    "vader_score": 0.7096,
+    "textblob_score": 0.45,
+    "first_sentence": "Jakara Anthony won the women's dual moguls at the Milano Cortina Winter Olympics.",
+    "timestamp": "2026-02-14T11:30:19Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Gavin & Stacey is the best show ever, says Margot Robbie",
+    "link": "https://www.bbc.com/news/articles/cde4kpe5wl0o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.8185,
+    "vader_score": 0.6369,
+    "textblob_score": 1.0,
+    "first_sentence": "Hollywood star Margot Robbie has revealed she has a major passion for BBC sitcom Gavin & Stacey.",
+    "timestamp": "2026-02-14T11:29:48Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Ex-Reform MP Rupert Lowe launches new party",
+    "link": "https://www.bbc.com/news/articles/cp813pn43gxo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3151,
+    "vader_score": 0.4939,
+    "textblob_score": 0.1364,
+    "first_sentence": "A former Reform UK MP, who is now serving as an independent, has launched a new political party.",
+    "timestamp": "2026-02-14T11:02:14Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "\u2018The bear feels comfortable and uncomfortable. It\u2019s a bittersweet moment\u2019: I\u00f1igo Jerez Quintana\u2019s best phone picture",
     "link": "https://www.theguardian.com/lifeandstyle/2026/feb/14/the-bear-feels-comfortable-and-uncomfortable-its-a-bittersweet-moment-inigo-jerez-quintanas-best-phone-picture",
     "mean_score": 0.4904,
