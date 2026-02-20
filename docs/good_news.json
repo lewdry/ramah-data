@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-20T20:11:59Z",
+  "last run": "2026-02-20T21:09:34Z",
   "stories": [
+    {
+      "headline": "How a fire-smart and water-rich succulent garden could help save your home",
+      "link": "https://www.abc.net.au/news/2026-02-21/succulents-garden-for-fire-protection-bushfire-research/106362920",
+      "mean_score": 0.3548,
+      "vader_score": 0.7096,
+      "textblob_score": 0.0,
+      "first_sentence": "Melbourne University is investigating what role water-rich plants can play in bushfire prevention.",
+      "timestamp": "2026-02-20T20:13:21Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Indra Brown 'the real deal' according to defending champion Elieen Gu",
       "link": "https://www.abc.net.au/news/2026-02-21/indra-brown-real-deal-eileen-gu-freeski-olympic-final/106371022",
@@ -170,6 +180,16 @@
       "first_sentence": "Retail sales in Great Britain rose 1.8% in January, the largest monthly increase in almost two years, according to official data, as heavy discounting and post-Christmas sales drew consumers back to bigger ticket purchases.",
       "timestamp": "2026-02-20T09:35:22Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "Live: Norway sets Winter Olympics record with 17th gold medal",
+      "link": "https://www.abc.net.au/news/2026-02-20/winter-olympics-day-14-live-updates-kyra-wheatley-bobsleigh/106369192",
+      "mean_score": 0.3065,
+      "vader_score": 0.4767,
+      "textblob_score": 0.1364,
+      "first_sentence": "Norway has broken its own record for the most gold medals won by a nation at a single Winter Olympics.",
+      "timestamp": "2026-02-20T08:35:24Z",
+      "source": "ABC News"
     },
     {
       "headline": "More than just McSteamy: Eric Dane was masterful in Grey\u2019s Anatomy \u2013 the real man of everyone\u2019s dreams | Anna Spargo-Ryan",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.275,
       "first_sentence": "As the snow fell in Bormio, and the fog settled in, Lucas Pinheiro Braathen made history by becoming the first South American to win a Winter Olympic medal.",
       "timestamp": "2026-02-14T15:25:09Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Tom Banton powers England to emphatic T20 World Cup win over Scotland",
-      "link": "https://www.theguardian.com/sport/2026/feb/14/england-scotland-t20-world-cup-cricket-match-report",
-      "mean_score": 0.6929,
-      "vader_score": 0.5859,
-      "textblob_score": 0.8,
-      "first_sentence": "In the city where a few handfuls of rupees were melted down to make the original Calcutta Cup, it was Scotland who lost their shape when the heat started to rise and the pressure to build.",
-      "timestamp": "2026-02-14T15:15:56Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Summerville strike earns 10-man West Ham extra-time FA Cup win at Burton",
-      "link": "https://www.theguardian.com/football/2026/feb/14/burton-albion-west-ham-united-fa-cup-fourth-round-match-report",
-      "mean_score": 0.6553,
-      "vader_score": 0.5106,
-      "textblob_score": 0.8,
-      "first_sentence": "For West Ham\u2019s second string, barring a shock defeat this could barely have been a more uncomfortable afternoon.",
-      "timestamp": "2026-02-14T15:13:46Z",
       "source": "The Guardian"
     }
   ]
