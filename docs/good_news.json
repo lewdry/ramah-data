@@ -1,5 +1,5 @@
 {
-  "last run": "2026-02-20T16:17:04Z",
+  "last run": "2026-02-20T17:19:08Z",
   "stories": [
     {
       "headline": "Winter Olympics 2026: Norway break own record for golds won in single Games after biathlon triumph \u2013 live",
@@ -200,6 +200,16 @@
       "first_sentence": "Rhubarb brings its late-winter brightness to this favourite pudding, while ripe, buttery pears soften the edges and add a gentle creaminess.",
       "timestamp": "2026-02-20T06:00:25Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "Hackney resident's fox rescue sparks unusual bond",
+      "link": "https://www.bbc.com/news/articles/cy03g7ry66go?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3553,
+      "vader_score": 0.5106,
+      "textblob_score": 0.2,
+      "first_sentence": "A Hackney resident whose story of her nursing a fox back to health went viral on social media says she has formed a \"special connection\" with the animal.",
+      "timestamp": "2026-02-20T05:52:24Z",
+      "source": "BBC News"
     },
     {
       "headline": "\u2018He loved showing his bum. Loved it\u2019: the subversive genius of Kenneth Williams",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Indigenous tribes in the southwestern US, led by the Colorado River Indian Tribes (CRIT), have granted the Colorado River legal personhood to help protect it for future generations.",
       "timestamp": "2026-02-14T13:13:13Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "US fixation on the hard-hat economy and making manufacturing great again makes little sense",
-      "link": "https://www.theguardian.com/business/2026/feb/14/trump-manufacturing-jobs-economy",
-      "mean_score": 0.4656,
-      "vader_score": 0.6249,
-      "textblob_score": 0.3063,
-      "first_sentence": "The exhortations to protect America\u2019s industrial muscle have resonated in the US at least since maverick presidential candidate Ross Perot brought up the supposed \u201cgiant sucking sound\u201d of jobs pulled to Mexico by the Nafta trade agreement back in 1993.",
-      "timestamp": "2026-02-14T12:00:54Z",
-      "source": "The Guardian"
     }
   ]
 }
