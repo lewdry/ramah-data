@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-20T08:20:05Z",
+  "last run": "2026-02-20T09:20:28Z",
   "stories": [
+    {
+      "headline": "More than just McSteamy: Eric Dane was masterful in Grey\u2019s Anatomy \u2013 the real man of everyone\u2019s dreams | Anna Spargo-Ryan",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/feb/20/eric-dane-greys-anatomy-appreciation",
+      "mean_score": 0.4072,
+      "vader_score": 0.4019,
+      "textblob_score": 0.4125,
+      "first_sentence": "Eric Dane, one of the most handsome men DNA has ever fabricated, has died at 53, just a year after announcing his ALS diagnosis.",
+      "timestamp": "2026-02-20T08:18:55Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "World T20 Super 8s guide: India still team to beat but Curran can inspire England",
+      "link": "https://www.theguardian.com/sport/2026/feb/20/world-t20-super-8s-guide-india-still-team-to-beat-but-curran-can-inspire-england",
+      "mean_score": 0.5755,
+      "vader_score": 0.8176,
+      "textblob_score": 0.3333,
+      "first_sentence": "\u201cIt\u2019s simple,\u201d said Shadab Khan after Pakistan\u2019s last group game, a one-sided encounter with Namibia.",
+      "timestamp": "2026-02-20T08:00:28Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "UK government finances better than expected in January",
       "link": "https://www.bbc.com/news/articles/c93w4egd3gzo?at_medium=RSS&at_campaign=rss",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Continue reading.",
       "timestamp": "2026-02-14T06:00:47Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Australia and EU on verge of striking free trade deal long stalled by beef, parmesan and prosecco",
-      "link": "https://www.theguardian.com/australia-news/2026/feb/14/australia-eu-free-trade-deal-negotiations-brussels-parmesan-and-prosecco",
-      "mean_score": 0.3223,
-      "vader_score": 0.3612,
-      "textblob_score": 0.2833,
-      "first_sentence": "Australia and the EU are on the brink of striking a long sought after free trade agreement, with both sides talking up significant progress during talks in Brussels overnight.",
-      "timestamp": "2026-02-14T02:13:46Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "She didn't expect to fall in love with a chatbot - and then have to say goodbye",
-      "link": "https://www.bbc.com/news/articles/crl43dxwwy9o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5685,
-      "vader_score": 0.6369,
-      "textblob_score": 0.5,
-      "first_sentence": "Rae began speaking to Barry last year after the end of a difficult divorce.",
-      "timestamp": "2026-02-14T00:35:02Z",
-      "source": "BBC News"
     }
   ]
 }
