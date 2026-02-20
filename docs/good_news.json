@@ -1,6 +1,46 @@
 {
-  "last run": "2026-02-19T23:13:44Z",
+  "last run": "2026-02-20T00:40:12Z",
   "stories": [
+    {
+      "headline": "Broncos fall short of another miracle comeback in World Club Challenge",
+      "link": "https://www.abc.net.au/news/2026-02-20/brisbane-broncos-lose-world-club-challenge-to-hull-kr/106367354",
+      "mean_score": 0.3125,
+      "vader_score": 0.6249,
+      "textblob_score": 0.0,
+      "first_sentence": "The Brisbane Broncos have lost 30-24 to English champions Hull KR in the World Club Challenge.",
+      "timestamp": "2026-02-20T00:37:09Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Australia news live: Taylor says he doesn\u2019t agree with Hanson\u2019s anti-Muslim comments but won\u2019t say if she should apologise",
+      "link": "https://www.theguardian.com/australia-news/live/2026/feb/20/accc-coles-nsw-public-hearing-illegal-tobacco-angus-taylor-liberal-coalition-net-zero-anthony-albanese-labor-ntwnfb",
+      "mean_score": 0.3837,
+      "vader_score": 0.631,
+      "textblob_score": 0.1364,
+      "first_sentence": "Taylor was asked about comments by a Sydney mayor this morning saying Pauline Hanson should be charged for her recent remarks on Muslims.",
+      "timestamp": "2026-02-20T00:31:34Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Roblox sued by Los Angeles over claims platform \u2018makes children easy prey for pedophiles\u2019",
+      "link": "https://www.theguardian.com/games/2026/feb/20/los-angeles-sues-roblox-la-county",
+      "mean_score": 0.4369,
+      "vader_score": 0.4404,
+      "textblob_score": 0.4333,
+      "first_sentence": "Officials in Los Angeles have said they are suing Roblox, alleging the popular online platform exposes children to sexual content, exploitation and online predators.",
+      "timestamp": "2026-02-20T00:31:20Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Lion DNA helps convict poachers for first time",
+      "link": "https://www.bbc.com/news/articles/c4grxvdyy00o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3159,
+      "vader_score": 0.3818,
+      "textblob_score": 0.25,
+      "first_sentence": "Lion DNA has been used to successfully prosecute poachers for the first time in the world, it has emerged.",
+      "timestamp": "2026-02-20T00:23:10Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Deer culling to be made easier to protect trees and crops",
       "link": "https://www.bbc.com/news/articles/c0e5l7ll31yo?at_medium=RSS&at_campaign=rss",
@@ -10,6 +50,16 @@
       "first_sentence": "Culling deer in England will be made easier under a long-awaited government 10-year plan to deal with a population explosion that threatens woodlands, newly-planted trees and farmland.",
       "timestamp": "2026-02-19T22:58:13Z",
       "source": "BBC News"
+    },
+    {
+      "headline": "Alysa Liu wins Winter Olympics gold to end US women\u2019s 24-year figure skating drought",
+      "link": "https://www.theguardian.com/sport/2026/feb/19/alysa-liu-figure-skating-winter-olympics-2026",
+      "mean_score": 0.4359,
+      "vader_score": 0.5719,
+      "textblob_score": 0.3,
+      "first_sentence": "Alysa Liu completed a stunning comeback to competitive figure skating by winning the first Olympic women\u2019s figure skating gold medal for the United States in 24 years on Thursday night.",
+      "timestamp": "2026-02-19T22:35:30Z",
+      "source": "The Guardian"
     },
     {
       "headline": "Winter Olympics 2026: GB men win curling semi-final, figure skating and more \u2013 live",
@@ -2449,56 +2499,6 @@
       "textblob_score": 0.225,
       "first_sentence": "Norway is the home of many magical children's fairy tales, always with a moral fable buried deep at their centre.",
       "timestamp": "2026-02-13T21:00:00Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Harpist and composer duo share what it's like working together as a creative couple",
-      "link": "https://www.abc.net.au/news/2026-02-14/musical-matches-harpist-emily-granger-composer-tristan-coelho/106343946",
-      "mean_score": 0.6325,
-      "vader_score": 0.765,
-      "textblob_score": 0.5,
-      "first_sentence": "This Valentine's Day, Emily Granger will premiere a new Harp Concerto with the Queensland Symphony Orchestra, written for her by her husband, composer Tristan Coelho.",
-      "timestamp": "2026-02-13T21:00:00Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Tears of joy as snowboarder Josie Baff scores Australia's second Winter Olympics gold",
-      "link": "https://www.sbs.com.au/news/article/josie-baff-australian-gold-medal-winter-olympics/zn3rfx836",
-      "mean_score": 0.4202,
-      "vader_score": 0.4404,
-      "textblob_score": 0.4,
-      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-      "timestamp": "2026-02-13T20:49:26Z",
-      "source": "SBS News"
-    },
-    {
-      "headline": "Breaking: Scotty James wins silver in men's snowboard halfpipe",
-      "link": "https://www.abc.net.au/news/2026-02-14/scotty-james-snowboard-halfpipe-2026-winter-olympics/106343718",
-      "mean_score": 0.4359,
-      "vader_score": 0.5719,
-      "textblob_score": 0.3,
-      "first_sentence": "Scotty James has won the silver medal in the men's snowboard halfpipe at the Milano Cortina 2026 Winter Olympic Games.",
-      "timestamp": "2026-02-13T20:03:08Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Once a safe Coalition seat, Farrer is buzzing with talk of change",
-      "link": "https://www.abc.net.au/news/2026-02-14/farrer-constituents-react-sussan-ley-resignation/106341264",
-      "mean_score": 0.4702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.5,
-      "first_sentence": "After more than two decades in Farrer, Sussan Ley leaves a seat long considered safe for the Coalition.",
-      "timestamp": "2026-02-13T19:32:14Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Australian craft brewers hop on 'clean and easy' Japanese lagers",
-      "link": "https://www.abc.net.au/news/2026-02-14/japanese-lagers-thrive-in-australia-after-record-travel-numbers/106119108",
-      "mean_score": 0.4404,
-      "vader_score": 0.6808,
-      "textblob_score": 0.2,
-      "first_sentence": "Australians, who have flocked to Japan over the past two decades, are falling in love with the country's dining culture and along with it \u2014 Japanese beer.",
-      "timestamp": "2026-02-13T19:22:09Z",
       "source": "ABC News"
     }
   ]

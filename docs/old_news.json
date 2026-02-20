@@ -1,5 +1,55 @@
 [
   {
+    "headline": "Harpist and composer duo share what it's like working together as a creative couple",
+    "link": "https://www.abc.net.au/news/2026-02-14/musical-matches-harpist-emily-granger-composer-tristan-coelho/106343946",
+    "mean_score": 0.6325,
+    "vader_score": 0.765,
+    "textblob_score": 0.5,
+    "first_sentence": "This Valentine's Day, Emily Granger will premiere a new Harp Concerto with the Queensland Symphony Orchestra, written for her by her husband, composer Tristan Coelho.",
+    "timestamp": "2026-02-13T21:00:00Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Tears of joy as snowboarder Josie Baff scores Australia's second Winter Olympics gold",
+    "link": "https://www.sbs.com.au/news/article/josie-baff-australian-gold-medal-winter-olympics/zn3rfx836",
+    "mean_score": 0.4202,
+    "vader_score": 0.4404,
+    "textblob_score": 0.4,
+    "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+    "timestamp": "2026-02-13T20:49:26Z",
+    "source": "SBS News"
+  },
+  {
+    "headline": "Breaking: Scotty James wins silver in men's snowboard halfpipe",
+    "link": "https://www.abc.net.au/news/2026-02-14/scotty-james-snowboard-halfpipe-2026-winter-olympics/106343718",
+    "mean_score": 0.4359,
+    "vader_score": 0.5719,
+    "textblob_score": 0.3,
+    "first_sentence": "Scotty James has won the silver medal in the men's snowboard halfpipe at the Milano Cortina 2026 Winter Olympic Games.",
+    "timestamp": "2026-02-13T20:03:08Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Once a safe Coalition seat, Farrer is buzzing with talk of change",
+    "link": "https://www.abc.net.au/news/2026-02-14/farrer-constituents-react-sussan-ley-resignation/106341264",
+    "mean_score": 0.4702,
+    "vader_score": 0.4404,
+    "textblob_score": 0.5,
+    "first_sentence": "After more than two decades in Farrer, Sussan Ley leaves a seat long considered safe for the Coalition.",
+    "timestamp": "2026-02-13T19:32:14Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Australian craft brewers hop on 'clean and easy' Japanese lagers",
+    "link": "https://www.abc.net.au/news/2026-02-14/japanese-lagers-thrive-in-australia-after-record-travel-numbers/106119108",
+    "mean_score": 0.4404,
+    "vader_score": 0.6808,
+    "textblob_score": 0.2,
+    "first_sentence": "Australians, who have flocked to Japan over the past two decades, are falling in love with the country's dining culture and along with it \u2014 Japanese beer.",
+    "timestamp": "2026-02-13T19:22:09Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Minnesotans welcome the immigration surge drawdown but remain vigilant",
     "link": "https://apnews.com/article/minnesota-metro-surge-ice-8af150975b0a552e1ed19a7276c39870",
     "mean_score": 0.6339,
