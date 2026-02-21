@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-21T12:14:41Z",
+  "last run": "2026-02-21T13:21:47Z",
   "stories": [
+    {
+      "headline": "Winter Olympics 2026: Kl\u00e6bo wins historic sixth gold, ski cross joy for Italy \u2013 live",
+      "link": "https://www.theguardian.com/sport/live/2026/feb/21/winter-olympics-2026-ski-cross-bobsleigh-and-more-on-day-15-live",
+      "mean_score": 0.5324,
+      "vader_score": 0.8176,
+      "textblob_score": 0.2473,
+      "first_sentence": "A couple more events are getting under way this lunchtime.",
+      "timestamp": "2026-02-21T13:20:18Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "\u2018It brings the moon down to Earth\u2019: Mimi Mollica\u2019s best phone picture",
       "link": "https://www.theguardian.com/lifeandstyle/2026/feb/21/it-brings-the-moon-down-to-earth-mimi-mollicas-best-phone-picture",
@@ -2479,16 +2489,6 @@
       "textblob_score": 0.5,
       "first_sentence": "Swimming in shark-infested waters across one of the most treacherous island crossings in the world is not high up on most people's holiday bucket lists.",
       "timestamp": "2026-02-15T02:00:13Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Specialised nippers program teaches kids with disability to swim safely",
-      "link": "https://www.abc.net.au/news/2026-02-15/starfish-nippers-teaches-children-with-disability-to-swim-safely/106325630",
-      "mean_score": 0.497,
-      "vader_score": 0.4939,
-      "textblob_score": 0.5,
-      "first_sentence": "Abby Tate, wearing the red and yellow uniform of a lifesaver, is giving a group of children a pep talk on the Inverloch surf beach on a baking summer's day.",
-      "timestamp": "2026-02-15T01:04:14Z",
       "source": "ABC News"
     }
   ]
