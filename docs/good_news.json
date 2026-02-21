@@ -1,6 +1,36 @@
 {
-  "last run": "2026-02-21T05:23:47Z",
+  "last run": "2026-02-21T06:20:02Z",
   "stories": [
+    {
+      "headline": "Blind date: \u2018The best thing about her? Super easy to talk to. And pretty\u2019",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/feb/21/blind-date-freya-greg",
+      "mean_score": 0.5776,
+      "vader_score": 0.8519,
+      "textblob_score": 0.3033,
+      "first_sentence": "What were you hoping for?\n Somebody friendly and kind, and an interesting chat.",
+      "timestamp": "2026-02-21T06:00:01Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018Doubling down on meat\u2019: is the UK\u2019s love affair with vegetarian food over?",
+      "link": "https://www.theguardian.com/business/2026/feb/21/uk-restaurants-meat-vegetarian-vegan-food",
+      "mean_score": 0.4046,
+      "vader_score": 0.6369,
+      "textblob_score": 0.1722,
+      "first_sentence": "In 2021, vegetarianism and veganism were booming and menus reflected it.",
+      "timestamp": "2026-02-21T06:00:00Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Quick hits: F1 politics, safety worries and Ferrari's stunning rear end",
+      "link": "https://www.abc.net.au/news/2026-02-21/f1-preseason-test-bahrain-ferrari-red-bull-mclaren-mercedes/106370550",
+      "mean_score": 0.3992,
+      "vader_score": 0.3818,
+      "textblob_score": 0.4167,
+      "first_sentence": "Preseason testing for the new Formula 1 season has ended in Bahrain, with teams now not putting their cars on a track until the first practice session of the Australian Grand Prix weekend on March 6.",
+      "timestamp": "2026-02-21T05:45:03Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Catch of the day: Pictures from spectacular Nigerian fishing festival",
       "link": "https://www.bbc.com/news/articles/cwy6vdl3pxlo?at_medium=RSS&at_campaign=rss",
@@ -2459,36 +2489,6 @@
       "textblob_score": 0.475,
       "first_sentence": "A landmark election in Bangladesh ended years of disputed polls, and now the winners face pressure to tackle corruption and a battered economy.",
       "timestamp": "2026-02-14T22:45:27Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Beach patrols no problem for surf lifesaver in powered wheelchair",
-      "link": "https://www.abc.net.au/news/2026-02-15/wheelchair-user-surf-lifesaver-port-macquarie/106342866",
-      "mean_score": 0.3617,
-      "vader_score": 0.7234,
-      "textblob_score": 0.0,
-      "first_sentence": "Michael Lord has been using a powered wheelchair for the past six years after being diagnosed with a degenerative neurological condition, cerebellar ataxia.",
-      "timestamp": "2026-02-14T20:30:42Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "'Unprecedented times': Jakara Anthony's Olympic gold secures record medal haul for Australia",
-      "link": "https://www.sbs.com.au/news/article/jakara-anthony-winter-olympics-gold-medal/dbfe6nwgy",
-      "mean_score": 0.6299,
-      "vader_score": 0.6597,
-      "textblob_score": 0.6,
-      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-      "timestamp": "2026-02-14T20:30:23Z",
-      "source": "SBS News"
-    },
-    {
-      "headline": "American speedskater Jordan Stolz wins second Olympic gold with 500-meter race victory",
-      "link": "https://www.npr.org/2026/02/14/nx-s1-5714574/speedskater-jordan-stolz-win",
-      "mean_score": 0.3359,
-      "vader_score": 0.5719,
-      "textblob_score": 0.1,
-      "first_sentence": "CORTINA D'AMPEZZO, Italy \u2014 Jordan Stolz is 2 for 2.",
-      "timestamp": "2026-02-14T19:02:42Z",
       "source": "NPR News"
     }
   ]

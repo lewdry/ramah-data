@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Beach patrols no problem for surf lifesaver in powered wheelchair",
+    "link": "https://www.abc.net.au/news/2026-02-15/wheelchair-user-surf-lifesaver-port-macquarie/106342866",
+    "mean_score": 0.3617,
+    "vader_score": 0.7234,
+    "textblob_score": 0.0,
+    "first_sentence": "Michael Lord has been using a powered wheelchair for the past six years after being diagnosed with a degenerative neurological condition, cerebellar ataxia.",
+    "timestamp": "2026-02-14T20:30:42Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "'Unprecedented times': Jakara Anthony's Olympic gold secures record medal haul for Australia",
+    "link": "https://www.sbs.com.au/news/article/jakara-anthony-winter-olympics-gold-medal/dbfe6nwgy",
+    "mean_score": 0.6299,
+    "vader_score": 0.6597,
+    "textblob_score": 0.6,
+    "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+    "timestamp": "2026-02-14T20:30:23Z",
+    "source": "SBS News"
+  },
+  {
+    "headline": "American speedskater Jordan Stolz wins second Olympic gold with 500-meter race victory",
+    "link": "https://www.npr.org/2026/02/14/nx-s1-5714574/speedskater-jordan-stolz-win",
+    "mean_score": 0.3359,
+    "vader_score": 0.5719,
+    "textblob_score": 0.1,
+    "first_sentence": "CORTINA D'AMPEZZO, Italy \u2014 Jordan Stolz is 2 for 2.",
+    "timestamp": "2026-02-14T19:02:42Z",
+    "source": "NPR News"
+  },
+  {
     "headline": "The \u2018grey divorce\u2019 phenomenon doesn\u2019t signal a retreat from love. It\u2019s a redefinition of it | Lisa Portolan",
     "link": "https://www.theguardian.com/commentisfree/2026/feb/14/the-grey-divorce-phenomenon-doesnt-signal-a-retreat-from-love-its-a-redefinition-of-it",
     "mean_score": 0.4717,
