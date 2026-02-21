@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Supporting and connecting Deaf people, Olivia finds her calling more than just a job",
+    "link": "https://www.abc.net.au/news/2026-02-15/olivia-supports-and-connect-deaf-community/106230034",
+    "mean_score": 0.4077,
+    "vader_score": 0.4404,
+    "textblob_score": 0.375,
+    "first_sentence": "Olivia Jackson felt invisible for over ten years working in a supermarket as a Deaf woman.",
+    "timestamp": "2026-02-15T00:23:47Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "How to get the best view of the Northern Lights in 2026",
+    "link": "https://www.bbc.com/news/articles/clyzw90xnjzo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.8185,
+    "vader_score": 0.6369,
+    "textblob_score": 1.0,
+    "first_sentence": "Watching and capturing the vivid purples, reds and greens of the Northern Lights in skies across the UK has become a bucket-list experience for many people in recent years.",
+    "timestamp": "2026-02-15T00:22:38Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Origin coaches hail the successful return of interstate Aussie rules",
     "link": "https://www.abc.net.au/news/2026-02-15/afl-state-of-origin-coaches-hail-success-of-concept/106346486",
     "mean_score": 0.6875,
