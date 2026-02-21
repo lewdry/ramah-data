@@ -1,5 +1,5 @@
 {
-  "last run": "2026-02-21T07:16:58Z",
+  "last run": "2026-02-21T08:12:23Z",
   "stories": [
     {
       "headline": "Chelsea flower show seeks new charity sponsors after mystery donors end support",
@@ -120,6 +120,16 @@
       "first_sentence": "Indra Brown has earned incredible plaudits since bursting onto the elite freeski halfpipe scene \u2014 and all of them are thoroughly deserved.",
       "timestamp": "2026-02-20T19:59:27Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "Is there a 'sweet spot'? These five charts are key to the migration debate",
+      "link": "https://www.sbs.com.au/news/article/migration-sweet-spot-these-five-charts-are-key-to-the-migration-debate/69sydxzau",
+      "mean_score": 0.3169,
+      "vader_score": 0.4588,
+      "textblob_score": 0.175,
+      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+      "timestamp": "2026-02-20T19:33:40Z",
+      "source": "SBS News"
     },
     {
       "headline": "The AI catfish, country dating and a free lunch: Your modern love stories",
@@ -1209,6 +1219,16 @@
       "textblob_score": 0.2273,
       "first_sentence": "Manx Businesses and pressure groups have welcomed what is the largest single rise in tax-free take home pay for workers, following the announcement of the budget.",
       "timestamp": "2026-02-18T06:42:23Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Penguins delight residents in care home visit",
+      "link": "https://www.bbc.com/news/articles/cvg31kv2435o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3982,
+      "vader_score": 0.7964,
+      "textblob_score": 0.0,
+      "first_sentence": "A pair of penguins waddled into a care home in Nottinghamshire to spread some cheer to residents.",
+      "timestamp": "2026-02-18T06:08:50Z",
       "source": "BBC News"
     },
     {
@@ -2470,26 +2490,6 @@
       "first_sentence": "Both head coaches for Victoria and Western Australia are hailing the success of AFL State of Origin's return.",
       "timestamp": "2026-02-14T23:41:36Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Four decades since Crocodile Dundee, NT films ride new wave of popularity",
-      "link": "https://www.abc.net.au/news/2026-02-15/nt-film-industry-on-national-stage-at-aacta-awards-movies/106345258",
-      "mean_score": 0.3065,
-      "vader_score": 0.4767,
-      "textblob_score": 0.1364,
-      "first_sentence": "Kangaroo, filmed in Alice Springs, is making waves globally and became Germany's highest grossing Australian film in 25 years.",
-      "timestamp": "2026-02-14T22:53:19Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Australia news live: Hume says opposition would resist any CGT increase; high-profile Liberal quits party saying there are \u2018other ways I can support women\u2019",
-      "link": "https://www.theguardian.com/australia-news/live/2026/feb/15/federal-politics-liberal-party-angus-taylor-jane-hume-coalition-labor-anthony-albanese-ntwnfb",
-      "mean_score": 0.3887,
-      "vader_score": 0.7717,
-      "textblob_score": 0.0057,
-      "first_sentence": "Hume is asked about specifics of the Liberals\u2019' policies going forward, but isn\u2019t offering much detail, saying she \u201cwon\u2019t go into the intricacies of policies just after the change\u201d.",
-      "timestamp": "2026-02-14T22:51:18Z",
-      "source": "The Guardian"
     }
   ]
 }
