@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-21T06:20:02Z",
+  "last run": "2026-02-21T07:16:58Z",
   "stories": [
+    {
+      "headline": "Chelsea flower show seeks new charity sponsors after mystery donors end support",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/feb/21/chelsea-flower-show-seeks-new-charity-sponsors-mystery-donors-end-support",
+      "mean_score": 0.4034,
+      "vader_score": 0.6705,
+      "textblob_score": 0.1364,
+      "first_sentence": "Chelsea flower show is looking for new charity sponsors after the mystery philanthropic couple who have spent more than \u00a323m on show gardens end their support.",
+      "timestamp": "2026-02-21T07:00:05Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Blind date: \u2018The best thing about her? Super easy to talk to. And pretty\u2019",
       "link": "https://www.theguardian.com/lifeandstyle/2026/feb/21/blind-date-freya-greg",
@@ -2480,16 +2490,6 @@
       "first_sentence": "Hume is asked about specifics of the Liberals\u2019' policies going forward, but isn\u2019t offering much detail, saying she \u201cwon\u2019t go into the intricacies of policies just after the change\u201d.",
       "timestamp": "2026-02-14T22:51:18Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Bangladesh's first fair vote in years comes with a daunting to-do list",
-      "link": "https://www.npr.org/2026/02/14/nx-s1-5712759/bangladeshs-first-fair-vote-in-years-comes-with-a-daunting-to-do-list",
-      "mean_score": 0.3966,
-      "vader_score": 0.3182,
-      "textblob_score": 0.475,
-      "first_sentence": "A landmark election in Bangladesh ended years of disputed polls, and now the winners face pressure to tackle corruption and a battered economy.",
-      "timestamp": "2026-02-14T22:45:27Z",
-      "source": "NPR News"
     }
   ]
 }
