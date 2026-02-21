@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-21T19:11:44Z",
+  "last run": "2026-02-21T20:09:06Z",
   "stories": [
+    {
+      "headline": "Many Afghan Australians felt grateful to the Liberal party. That faith is shaken | Shadi Khan Saif",
+      "link": "https://www.theguardian.com/commentisfree/2026/feb/22/afghan-liberal-party-immigration-diversity-australian-values",
+      "mean_score": 0.651,
+      "vader_score": 0.802,
+      "textblob_score": 0.5,
+      "first_sentence": "In my tough early days in Melbourne, when everything still felt slightly unreal, I was introduced to Suzy through a cricket magazine editor based in London.",
+      "timestamp": "2026-02-21T19:00:19Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Russell inspires Scotland to thrilling Six Nations comeback win against Wales",
       "link": "https://www.theguardian.com/sport/2026/feb/21/wales-scotland-six-nations-rugby-union-match-report",
@@ -229,6 +239,16 @@
       "textblob_score": 0.175,
       "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
       "timestamp": "2026-02-20T19:33:40Z",
+      "source": "SBS News"
+    },
+    {
+      "headline": "Dreams of being a ballerina: Hopes of Australian child in Syrian camp for IS-linked families",
+      "link": "https://www.sbs.com.au/news/dateline/article/dreams-of-being-a-ballerina-hopes-of-australian-child-in-syrian-camp-for-is-linked-families/cirb1lqi9",
+      "mean_score": 0.3352,
+      "vader_score": 0.6705,
+      "textblob_score": 0.0,
+      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+      "timestamp": "2026-02-20T19:32:42Z",
       "source": "SBS News"
     },
     {
@@ -2480,26 +2500,6 @@
       "first_sentence": "Cooper Woods is back on the slopes after winning a gold medal earlier at the Milano Cortina Games.",
       "timestamp": "2026-02-15T08:22:18Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "M\u0101ori retain All Stars crown after thrilling stalemate",
-      "link": "https://www.abc.net.au/news/2026-02-15/nrl-all-stars-mens-indigenous-maori-result/106347244",
-      "mean_score": 0.3634,
-      "vader_score": 0.4767,
-      "textblob_score": 0.25,
-      "first_sentence": "The Indigenous All Stars will wonder what could have been after their star player Braydon Trindall was forced from the field in the final minutes of the 16-16 draw with their Maori counterparts.",
-      "timestamp": "2026-02-15T08:16:50Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "\u2018The perfect place for people like me\u2019: how one couple started UK\u2019s first women\u2019s sports bar",
-      "link": "https://www.theguardian.com/football/2026/feb/15/the-perfect-place-for-people-like-me-how-one-couple-started-uks-first-womens-sports-bar",
-      "mean_score": 0.6801,
-      "vader_score": 0.7351,
-      "textblob_score": 0.625,
-      "first_sentence": "Lucy was in stitches, and so was social media when she posted about what she had overheard.",
-      "timestamp": "2026-02-15T08:00:17Z",
-      "source": "The Guardian"
     }
   ]
 }

@@ -1,5 +1,25 @@
 [
   {
+    "headline": "M\u0101ori retain All Stars crown after thrilling stalemate",
+    "link": "https://www.abc.net.au/news/2026-02-15/nrl-all-stars-mens-indigenous-maori-result/106347244",
+    "mean_score": 0.3634,
+    "vader_score": 0.4767,
+    "textblob_score": 0.25,
+    "first_sentence": "The Indigenous All Stars will wonder what could have been after their star player Braydon Trindall was forced from the field in the final minutes of the 16-16 draw with their Maori counterparts.",
+    "timestamp": "2026-02-15T08:16:50Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "\u2018The perfect place for people like me\u2019: how one couple started UK\u2019s first women\u2019s sports bar",
+    "link": "https://www.theguardian.com/football/2026/feb/15/the-perfect-place-for-people-like-me-how-one-couple-started-uks-first-womens-sports-bar",
+    "mean_score": 0.6801,
+    "vader_score": 0.7351,
+    "textblob_score": 0.625,
+    "first_sentence": "Lucy was in stitches, and so was social media when she posted about what she had overheard.",
+    "timestamp": "2026-02-15T08:00:17Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Last chance for pensioners to get free air fryers",
     "link": "https://www.bbc.com/news/articles/cgrz0p9n5k0o?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.4243,
