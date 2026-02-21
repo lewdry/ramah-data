@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-21T16:10:44Z",
+  "last run": "2026-02-21T17:11:10Z",
   "stories": [
+    {
+      "headline": "Aston Villa v Leeds, Chelsea v Burnley, Championship and more: Saturday clockwatch \u2013 live",
+      "link": "https://www.theguardian.com/football/live/2026/feb/21/aston-villa-leeds-chelsea-burnley-premier-league-championship-clockwatch-live",
+      "mean_score": 0.3793,
+      "vader_score": 0.4404,
+      "textblob_score": 0.3182,
+      "first_sentence": "West Ham v Bournemouth is the teatime kick-off in the Premier League but Truro City v Gateshead is worthy of a mention, too.",
+      "timestamp": "2026-02-21T16:55:23Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018He was approachable, down-to-earth, irritating\u2019: inside the real-life love story of JFK Jr and Carolyn Bessette",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/feb/22/love-story-ryan-murphy-jfk-jr-carolyn-bessette-real-story",
+      "mean_score": 0.3435,
+      "vader_score": 0.6369,
+      "textblob_score": 0.05,
+      "first_sentence": "In the US, the Kennedys occupy territory somewhere between the British royal family and Greek tragedy, a tale of impossible glamour pierced by spectacles of public mourning.",
+      "timestamp": "2026-02-21T13:23:09Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Winter Olympics 2026: Kl\u00e6bo wins historic sixth gold, ski cross joy for Italy \u2013 live",
       "link": "https://www.theguardian.com/sport/live/2026/feb/21/winter-olympics-2026-ski-cross-bobsleigh-and-more-on-day-15-live",
@@ -2470,26 +2490,6 @@
       "first_sentence": "The ancient settlement of Chiavenna, in Lombardy, near Italy\u2019s border with Switzerland, was once well known among travellers.",
       "timestamp": "2026-02-15T07:00:17Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "No swiping involved: the AI dating apps promising to find your soulmate",
-      "link": "https://www.theguardian.com/technology/2026/feb/15/ai-dating-apps-personality-matchmaking",
-      "mean_score": 0.4298,
-      "vader_score": 0.6597,
-      "textblob_score": 0.2,
-      "first_sentence": "Dating apps exploit you, dating profiles lie to you, and sex is basically something old people used to do.",
-      "timestamp": "2026-02-15T07:00:16Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Treacherous strait swim the latest step to ocean challenge dream",
-      "link": "https://www.abc.net.au/news/2026-02-15/queensland-marathon-swimmer-crosses-cook-strait/106335994",
-      "mean_score": 0.4091,
-      "vader_score": 0.3182,
-      "textblob_score": 0.5,
-      "first_sentence": "Swimming in shark-infested waters across one of the most treacherous island crossings in the world is not high up on most people's holiday bucket lists.",
-      "timestamp": "2026-02-15T02:00:13Z",
-      "source": "ABC News"
     }
   ]
 }
