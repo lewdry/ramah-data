@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-21T10:09:48Z",
+  "last run": "2026-02-21T11:09:01Z",
   "stories": [
+    {
+      "headline": "\u2018It brings the moon down to Earth\u2019: Mimi Mollica\u2019s best phone picture",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/feb/21/it-brings-the-moon-down-to-earth-mimi-mollicas-best-phone-picture",
+      "mean_score": 0.5296,
+      "vader_score": 0.6369,
+      "textblob_score": 0.4222,
+      "first_sentence": "Mollica took the shot from the balcony of his top-floor flat, which overlooks a skyline spanning from the Docklands to central London.",
+      "timestamp": "2026-02-21T11:00:06Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Stop picking at your cuticles! 7 ways to keep your nails healthy and strong",
       "link": "https://www.npr.org/2026/02/21/nx-s1-5688858/nail-health-tips",
@@ -2480,16 +2490,6 @@
       "first_sentence": "Abby Tate, wearing the red and yellow uniform of a lifesaver, is giving a group of children a pep talk on the Inverloch surf beach on a baking summer's day.",
       "timestamp": "2026-02-15T01:04:14Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "What the Nigella Lawson effect will mean for the Great British Bake Off",
-      "link": "https://www.bbc.com/news/articles/cgmlvl48202o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3937,
-      "vader_score": 0.6249,
-      "textblob_score": 0.1625,
-      "first_sentence": "When Nigella Lawson was named as the new judge on the Great British Bake Off, the news was greeted with applause, perhaps a sigh of relief, and a general sense of \"oh, of course\".",
-      "timestamp": "2026-02-15T00:33:19Z",
-      "source": "BBC News"
     }
   ]
 }
