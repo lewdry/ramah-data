@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-21T00:39:53Z",
+  "last run": "2026-02-21T01:38:42Z",
   "stories": [
+    {
+      "headline": "The best looks at London Fashion Week 2026",
+      "link": "https://www.bbc.com/news/articles/c4g0ke64v3no?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.8185,
+      "vader_score": 0.6369,
+      "textblob_score": 1.0,
+      "first_sentence": "Bigger, better, bolder is the message being touted about the first of this year's London fashion weeks.",
+      "timestamp": "2026-02-21T01:00:07Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Alex Ferreira wins 10th gold medal for Team USA, matching America's highest total in Winter Olympics",
       "link": "https://www.npr.org/2026/02/20/nx-s1-5721177/alex-ferreira-wins-10th-gold-medal-for-team-usa-matching-most-ever-in-winter-olympics",
@@ -2478,16 +2488,6 @@
       "vader_score": 0.6808,
       "textblob_score": 0.3667,
       "first_sentence": "At 66, I don\u2019t feel old, but according to my grandsons, I\u2019m ancient.",
-      "timestamp": "2026-02-14T19:00:03Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The Sunday Read: Brigid Delaney wants you to be kinder - podcast",
-      "link": "https://www.theguardian.com/australia-news/audio/2026/feb/15/the-sunday-read-brigid-delaney-wants-you-to-be-kinder-full-story-podcast",
-      "mean_score": 0.3469,
-      "vader_score": 0.4939,
-      "textblob_score": 0.2,
-      "first_sentence": "Every Sunday, we\u2019ll bring you some of the Guardian\u2019s best stories from the week.",
       "timestamp": "2026-02-14T19:00:03Z",
       "source": "The Guardian"
     }
