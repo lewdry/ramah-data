@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Live: Bobsled Bree's medal push to continue at Milano Cortina Games",
+    "link": "https://www.abc.net.au/news/2026-02-16/winter-olympics-2026-live-milano-cortina/106350862",
+    "mean_score": 0.3065,
+    "vader_score": 0.4767,
+    "textblob_score": 0.1364,
+    "first_sentence": "Australia's Bree Walker will resume her push for an Olympic medal in the monobob, sitting in seventh place ahead of the final two rounds at the Milano Cortina Games.",
+    "timestamp": "2026-02-16T09:00:08Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "\u2018I love you twenty-sixty times\u2019: how lyrics written by a three-year-old became tear-inducing viral hits",
+    "link": "https://www.theguardian.com/music/2026/feb/16/stephen-spencer-daughter-three-year-old-instagram",
+    "mean_score": 0.5685,
+    "vader_score": 0.6369,
+    "textblob_score": 0.5,
+    "first_sentence": "Spencer, you see, has a unique lyrical collaborator: his three-year-old daughter.",
+    "timestamp": "2026-02-16T08:00:47Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "One Day has been a bestselling novel, a forgettable film, a beloved TV series \u2013 now can it be a musical?",
     "link": "https://www.theguardian.com/stage/2026/feb/16/one-day-musical-david-greig-david-nicholls-edinburgh-lyceum",
     "mean_score": 0.3737,
