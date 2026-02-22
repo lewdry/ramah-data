@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-22T04:40:39Z",
+  "last run": "2026-02-22T05:28:52Z",
   "stories": [
+    {
+      "headline": "Thailand moves to cut sugar in popular drinks amid health drive",
+      "link": "https://www.theguardian.com/world/2026/feb/22/thailand-moves-to-cut-sugar-in-popular-drinks-amid-health-drive",
+      "mean_score": 0.389,
+      "vader_score": 0.1779,
+      "textblob_score": 0.6,
+      "first_sentence": "A crowd of customers, holding phones aloft, watch intently as Auntie Nid mixes up her bestseller: an iced Thai tea.",
+      "timestamp": "2026-02-22T05:00:27Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Quilts 'made with love' bring comfort to end-of-life patients",
       "link": "https://www.abc.net.au/news/2026-02-22/handmade-quilts-bring-comfort-to-palliative-care-patients/106321878",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Norway\u2019s Johannes Hoesflot Kl\u00e6bo crosses the finish line well in first and he is surrounded by his teammates.",
       "timestamp": "2026-02-15T12:04:35Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Breaking: Matt Graham wins bronze at dual moguls",
-      "link": "https://www.abc.net.au/news/2026-02-15/dual-moguls-2026-winter-olympic-games/106346230",
-      "mean_score": 0.4359,
-      "vader_score": 0.5719,
-      "textblob_score": 0.3,
-      "first_sentence": "Matt Graham has won Winter Olympic bronze in a chaotic dual moguls competition.",
-      "timestamp": "2026-02-15T11:24:07Z",
-      "source": "ABC News"
     }
   ]
 }
