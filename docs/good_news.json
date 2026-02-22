@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-22T12:15:03Z",
+  "last run": "2026-02-22T13:22:00Z",
   "stories": [
+    {
+      "headline": "Sheffield United aim to relegate Wednesday, Spurs v Arsenal buildup and more \u2013 matchday live",
+      "link": "https://www.theguardian.com/football/live/2026/feb/22/premier-league-news-spurs-v-arsenal-buildup-sheffield-derby-and-more-matchday-live",
+      "mean_score": 0.3698,
+      "vader_score": 0.4215,
+      "textblob_score": 0.3182,
+      "first_sentence": "Just a reminder, they need to win this match to avoid relegation.",
+      "timestamp": "2026-02-22T13:14:18Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Dining across the divide: \u2018Universities should be free. We all lose for every bright kid who doesn\u2019t go\u2019",
       "link": "https://www.theguardian.com/lifeandstyle/2026/feb/22/dining-across-the-divide-grant-peter",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Hearts will take no consolation whatsoever from the fact their progress to the status of serious entity in a Scottish title race was demonstrated by the atmosphere here.",
       "timestamp": "2026-02-15T18:47:26Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "'Third time lucky': de Minaur breaks through for Rotterdam Open triumph",
-      "link": "https://www.abc.net.au/news/2026-02-16/de-minaur-breaks-through-for-rotterdam-open-triumph/106347904",
-      "mean_score": 0.4104,
-      "vader_score": 0.7096,
-      "textblob_score": 0.1111,
-      "first_sentence": "Alex de Minaur delivered a masterful performance to defeat the red-hot Felix Auger-Aliassime to land one of the biggest titles of his career at the Rotterdam Open.",
-      "timestamp": "2026-02-15T18:46:29Z",
-      "source": "ABC News"
     }
   ]
 }
