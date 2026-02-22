@@ -1,5 +1,55 @@
 [
   {
+    "headline": "UK considering significant increase to defence spending",
+    "link": "https://www.bbc.com/news/articles/cpqwl10lvr2o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4587,
+    "vader_score": 0.5423,
+    "textblob_score": 0.375,
+    "first_sentence": "The prime minister is considering making a significant increase in defence spending, the BBC has learned.",
+    "timestamp": "2026-02-16T01:28:46Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Tyler Reddick wins the Daytona 500 for Michael Jordan-owned 23XI Racing",
+    "link": "https://apnews.com/article/daytona-500-nascar-5ef03306d4ffca28da7b23328c760877",
+    "mean_score": 0.4359,
+    "vader_score": 0.5719,
+    "textblob_score": 0.3,
+    "first_sentence": "DAYTONA BEACH, Fla.",
+    "timestamp": "2026-02-15T23:23:03Z",
+    "source": "AP News"
+  },
+  {
+    "headline": "\u2018That\u2019s hockey\u2019: Canada\u2019s Wilson shuns Olympic tradition and brawls during win over France",
+    "link": "https://www.theguardian.com/sport/2026/feb/15/tom-wilson-fight-ice-hockey-olympics-canada",
+    "mean_score": 0.6929,
+    "vader_score": 0.5859,
+    "textblob_score": 0.8,
+    "first_sentence": "Canada\u2019s Tom Wilson shunned tradition on Sunday, deciding to fight during his team\u2019s victory over France in their Olympic ice hockey game.",
+    "timestamp": "2026-02-15T21:31:22Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "'Extremely lenient': Box Hill North players sanctioned over inappropriate photos",
+    "link": "https://www.abc.net.au/news/2026-02-16/box-hill-north-football-players-sanctions-inappropriate-photos/106345128",
+    "mean_score": 0.4192,
+    "vader_score": 0.3384,
+    "textblob_score": 0.5,
+    "first_sentence": "The Box Hill North Football Club players involved in inappropriate photos posted online after their \"Silly Saturday\" post-season celebrations have been sanctioned by the league's governing body.",
+    "timestamp": "2026-02-15T19:10:13Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Youssef Chermiti hat-trick powers Rangers to victory over leaders Hearts",
+    "link": "https://www.theguardian.com/football/2026/feb/15/rangers-hearts-scottish-premiership-match-report",
+    "mean_score": 0.3243,
+    "vader_score": 0.6486,
+    "textblob_score": 0.0,
+    "first_sentence": "Hearts will take no consolation whatsoever from the fact their progress to the status of serious entity in a Scottish title race was demonstrated by the atmosphere here.",
+    "timestamp": "2026-02-15T18:47:26Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "'Third time lucky': de Minaur breaks through for Rotterdam Open triumph",
     "link": "https://www.abc.net.au/news/2026-02-16/de-minaur-breaks-through-for-rotterdam-open-triumph/106347904",
     "mean_score": 0.4104,
