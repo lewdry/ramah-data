@@ -1,6 +1,46 @@
 {
-  "last run": "2026-02-22T18:13:34Z",
+  "last run": "2026-02-22T19:12:12Z",
   "stories": [
+    {
+      "headline": "Senior Alba members offer to help party contest Scottish election",
+      "link": "https://www.bbc.com/news/articles/c05v6106jj4o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3298,
+      "vader_score": 0.6597,
+      "textblob_score": 0.0,
+      "first_sentence": "Four senior Alba Party members have offered to take over the pro-independence party to ensure it can contest the Scottish Parliament election.",
+      "timestamp": "2026-02-22T18:40:26Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Live: Winter Olympics come to a thrilling conclusion in closing ceremony",
+      "link": "https://www.abc.net.au/news/2026-02-23/winter-olympics-closing-ceremony-live-blog/106373682",
+      "mean_score": 0.3349,
+      "vader_score": 0.4767,
+      "textblob_score": 0.1932,
+      "first_sentence": "The Milano Cortina Games are farewelled in style as the closing ceremony brings the 2026 Winter Olympics to an end.",
+      "timestamp": "2026-02-22T18:33:30Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Prominent Brits are facing a reckoning over Epstein. In the US, not so much | Arwa Mahdawi",
+      "link": "https://www.theguardian.com/commentisfree/2026/feb/22/andrew-mountbatten-windsor-epstein-us-men",
+      "mean_score": 0.3341,
+      "vader_score": 0.3182,
+      "textblob_score": 0.35,
+      "first_sentence": "Schadenfreude isn\u2019t a particularly noble sentiment.",
+      "timestamp": "2026-02-22T18:31:08Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Bielle-Biarrey and France power past Italy to keep Six Nations grand slam hopes alive",
+      "link": "https://www.theguardian.com/sport/2026/feb/22/france-italy-six-nations-rugby-union-match-report",
+      "mean_score": 0.4085,
+      "vader_score": 0.7003,
+      "textblob_score": 0.1167,
+      "first_sentence": "France pulled clear at the top of the Six Nations table and kept their grand slam ambitions on track with a hard-fought victory against Italy on Sunday.",
+      "timestamp": "2026-02-22T18:03:33Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Winter Olympics 2026: Norway top medal table and Gu soars to gold as closing ceremony nears \u2013 live",
       "link": "https://www.theguardian.com/sport/live/2026/feb/22/winter-olympics-2026-gold-medals-bobsleigh-curling-canada-usa-ice-hockey-final-closing-ceremony-live",
@@ -200,6 +240,16 @@
       "first_sentence": "A crowd of customers, holding phones aloft, watch intently as Auntie Nid mixes up her bestseller: an iced Thai tea.",
       "timestamp": "2026-02-22T05:00:27Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "Strong winds trigger mass rescue of 25 young sailors",
+      "link": "https://www.abc.net.au/news/2026-02-22/multiple-boats-capsize-at-bellerive-regatta/106373620",
+      "mean_score": 0.5158,
+      "vader_score": 0.765,
+      "textblob_score": 0.2667,
+      "first_sentence": "A successful rescue operation has been carried out in Hobart's River Derwent after at least eight boats competing in a race capsized in strong winds.",
+      "timestamp": "2026-02-22T04:02:30Z",
+      "source": "ABC News"
     },
     {
       "headline": "'I love the look on his face' - The mum who takes her baby on wilderness adventures",
@@ -2450,56 +2500,6 @@
       "first_sentence": "Today\u2019s puzzle is a new twist on a classic genre: the \u201ccommon knowledge\u201d hat riddle in which logicians deduce facts about their hats based on what they know, and what they know others know.",
       "timestamp": "2026-02-16T07:10:44Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Unpacking Emily Bront\u00eb\u2019s Wuthering Heights: the best podcasts of the week",
-      "link": "https://www.theguardian.com/tv-and-radio/2026/feb/16/unpacking-emily-brontes-wuthering-heights-the-best-podcasts-of-the-week",
-      "mean_score": 0.8185,
-      "vader_score": 0.6369,
-      "textblob_score": 1.0,
-      "first_sentence": "As Emerald Fennell\u2019s new adaptation hits the screens, the historian Dominic Sandbrook takes a deep-dive into the novel\u2019s dark themes.",
-      "timestamp": "2026-02-16T07:00:45Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Why did I get a \u00a3100 parking fine when charging my electric car?",
-      "link": "https://www.theguardian.com/money/2026/feb/16/parking-fine-charging-electric-car-mer",
-      "mean_score": 0.3095,
-      "vader_score": 0.2023,
-      "textblob_score": 0.4167,
-      "first_sentence": "I charged my electric car at the 24-hour Mer EV charging station in my local B&Q car park.",
-      "timestamp": "2026-02-16T07:00:44Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Parts of Great Northern Highway cut off after heavy rainfall",
-      "link": "https://www.abc.net.au/news/2026-02-16/wa-kimberley-flood-warnings-roads-closed/106348986",
-      "mean_score": 0.3794,
-      "vader_score": 0.4588,
-      "textblob_score": 0.3,
-      "first_sentence": "The Department of Fire and Emergency Services (DFES) have issued several flood warnings for parts of the Kimberley and Pilbara.",
-      "timestamp": "2026-02-16T06:53:18Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Angus Taylor moves to promote conservatives and sideline Sussan Ley allies as Liberal party veers right",
-      "link": "https://www.theguardian.com/australia-news/2026/feb/16/angus-taylor-frontbench-liberal-party",
-      "mean_score": 0.4672,
-      "vader_score": 0.6486,
-      "textblob_score": 0.2857,
-      "first_sentence": "Sussan Ley\u2019s closest supporters are poised to be demoted as the new Liberal leader, Angus Taylor, prepares to install conservatives to deliver his rightwing agenda.",
-      "timestamp": "2026-02-16T06:04:34Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Women calling for greater support with menopause",
-      "link": "https://www.bbc.com/news/articles/cz0gmz34gjjo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5685,
-      "vader_score": 0.6369,
-      "textblob_score": 0.5,
-      "first_sentence": "Women in the Channel Islands who've suffered severe menopause symptoms have said there isn't enough support available.",
-      "timestamp": "2026-02-16T06:04:05Z",
-      "source": "BBC News"
     }
   ]
 }

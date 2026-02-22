@@ -1,5 +1,55 @@
 [
   {
+    "headline": "Unpacking Emily Bront\u00eb\u2019s Wuthering Heights: the best podcasts of the week",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/feb/16/unpacking-emily-brontes-wuthering-heights-the-best-podcasts-of-the-week",
+    "mean_score": 0.8185,
+    "vader_score": 0.6369,
+    "textblob_score": 1.0,
+    "first_sentence": "As Emerald Fennell\u2019s new adaptation hits the screens, the historian Dominic Sandbrook takes a deep-dive into the novel\u2019s dark themes.",
+    "timestamp": "2026-02-16T07:00:45Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Why did I get a \u00a3100 parking fine when charging my electric car?",
+    "link": "https://www.theguardian.com/money/2026/feb/16/parking-fine-charging-electric-car-mer",
+    "mean_score": 0.3095,
+    "vader_score": 0.2023,
+    "textblob_score": 0.4167,
+    "first_sentence": "I charged my electric car at the 24-hour Mer EV charging station in my local B&Q car park.",
+    "timestamp": "2026-02-16T07:00:44Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Parts of Great Northern Highway cut off after heavy rainfall",
+    "link": "https://www.abc.net.au/news/2026-02-16/wa-kimberley-flood-warnings-roads-closed/106348986",
+    "mean_score": 0.3794,
+    "vader_score": 0.4588,
+    "textblob_score": 0.3,
+    "first_sentence": "The Department of Fire and Emergency Services (DFES) have issued several flood warnings for parts of the Kimberley and Pilbara.",
+    "timestamp": "2026-02-16T06:53:18Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Angus Taylor moves to promote conservatives and sideline Sussan Ley allies as Liberal party veers right",
+    "link": "https://www.theguardian.com/australia-news/2026/feb/16/angus-taylor-frontbench-liberal-party",
+    "mean_score": 0.4672,
+    "vader_score": 0.6486,
+    "textblob_score": 0.2857,
+    "first_sentence": "Sussan Ley\u2019s closest supporters are poised to be demoted as the new Liberal leader, Angus Taylor, prepares to install conservatives to deliver his rightwing agenda.",
+    "timestamp": "2026-02-16T06:04:34Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Women calling for greater support with menopause",
+    "link": "https://www.bbc.com/news/articles/cz0gmz34gjjo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.5685,
+    "vader_score": 0.6369,
+    "textblob_score": 0.5,
+    "first_sentence": "Women in the Channel Islands who've suffered severe menopause symptoms have said there isn't enough support available.",
+    "timestamp": "2026-02-16T06:04:05Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Families bid to take over their children\u2019s care home that amassed huge tax debts",
     "link": "https://www.theguardian.com/society/2026/feb/16/william-blake-house-care-home-debts",
     "mean_score": 0.5353,
