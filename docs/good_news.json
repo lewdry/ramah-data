@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-22T06:22:40Z",
+  "last run": "2026-02-22T07:20:43Z",
   "stories": [
+    {
+      "headline": "Strong winds overturn boats in Hobart \u2013 As it happened",
+      "link": "https://www.theguardian.com/australia-news/live/2026/feb/22/australia-news-live-tony-burke-home-affairs-syria-albanese-chalmers-productivity-commission-federal-police-labor-liberal-angus-taylor-coalition-ntwnfb",
+      "mean_score": 0.472,
+      "vader_score": 0.5106,
+      "textblob_score": 0.4333,
+      "first_sentence": "Police are responding after strong winds blew several boats over on the River Derwent near Hobart.",
+      "timestamp": "2026-02-22T06:19:23Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Thailand moves to cut sugar in popular drinks amid health drive",
       "link": "https://www.theguardian.com/world/2026/feb/22/thailand-moves-to-cut-sugar-in-popular-drinks-amid-health-drive",
@@ -2490,16 +2500,6 @@
       "first_sentence": "BORMIO, Italy \u2014 There was dancing, plenty of dancing, for Brazilian ski racer Lucas Pinheiro Braathen as he performed samba steps over and over.",
       "timestamp": "2026-02-15T12:58:17Z",
       "source": "NPR News"
-    },
-    {
-      "headline": "Winter Olympics 2026: Canada\u2019s Kingsbury wins men\u2019s dual moguls; women\u2019s giant slalom and monobob updates \u2013 live",
-      "link": "https://www.theguardian.com/sport/live/2026/feb/15/winter-olympics-2026-skiing-snowboarding-biathlon-ski-jumping-live",
-      "mean_score": 0.3587,
-      "vader_score": 0.5719,
-      "textblob_score": 0.1455,
-      "first_sentence": "Norway\u2019s Johannes Hoesflot Kl\u00e6bo crosses the finish line well in first and he is surrounded by his teammates.",
-      "timestamp": "2026-02-15T12:04:35Z",
-      "source": "The Guardian"
     }
   ]
 }
