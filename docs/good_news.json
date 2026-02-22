@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-22T19:12:12Z",
+  "last run": "2026-02-22T20:09:53Z",
   "stories": [
+    {
+      "headline": "Sydney filmmaker takes top prize at revived short film festival Tropfest",
+      "link": "https://www.abc.net.au/news/2026-02-23/nsw-tropfest-resurrected-results/106372220",
+      "mean_score": 0.5287,
+      "vader_score": 0.8074,
+      "textblob_score": 0.25,
+      "first_sentence": "Sydney mum Lianne Mackessy won Tropfest 2026, receiving a $50,000 award for her film Crescendo.",
+      "timestamp": "2026-02-22T19:29:38Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Senior Alba members offer to help party contest Scottish election",
       "link": "https://www.bbc.com/news/articles/c05v6106jj4o?at_medium=RSS&at_campaign=rss",
@@ -49,6 +59,16 @@
       "textblob_score": 0.3182,
       "first_sentence": "Norway has once again topped the Winter Olympics medal table, surpassing countries with far larger populations.",
       "timestamp": "2026-02-22T16:53:49Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Girma winner sinks Manchester United to send Chelsea into Women\u2019s FA Cup quarter-finals",
+      "link": "https://www.theguardian.com/football/2026/feb/22/chelsea-manchester-united-womens-fa-cup-match-report",
+      "mean_score": 0.3325,
+      "vader_score": 0.765,
+      "textblob_score": -0.1,
+      "first_sentence": "A 99th-minute winner from Naomi Girma sent holders Chelsea through to the Women\u2019s FA Cup quarter-finals as they saw off a stubborn Manchester United 2-1.",
+      "timestamp": "2026-02-22T16:42:31Z",
       "source": "The Guardian"
     },
     {
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.5,
       "first_sentence": "Spencer, you see, has a unique lyrical collaborator: his three-year-old daughter.",
       "timestamp": "2026-02-16T08:00:47Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "One Day has been a bestselling novel, a forgettable film, a beloved TV series \u2013 now can it be a musical?",
-      "link": "https://www.theguardian.com/stage/2026/feb/16/one-day-musical-david-greig-david-nicholls-edinburgh-lyceum",
-      "mean_score": 0.3737,
-      "vader_score": 0.6808,
-      "textblob_score": 0.0667,
-      "first_sentence": "Playwright David Greig and director Max Webster are not afraid of a theatrical challenge.",
-      "timestamp": "2026-02-16T08:00:46Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Can you solve it? Chapeau! A smart new hat puzzle",
-      "link": "https://www.theguardian.com/science/2026/feb/16/can-you-solve-it-chapeau-a-smart-new-hat-puzzle",
-      "mean_score": 0.3801,
-      "vader_score": 0.5848,
-      "textblob_score": 0.1753,
-      "first_sentence": "Today\u2019s puzzle is a new twist on a classic genre: the \u201ccommon knowledge\u201d hat riddle in which logicians deduce facts about their hats based on what they know, and what they know others know.",
-      "timestamp": "2026-02-16T07:10:44Z",
       "source": "The Guardian"
     }
   ]

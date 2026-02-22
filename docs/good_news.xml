@@ -5,8 +5,16 @@
     <link>https://lewdry.github.io/ramah/</link>
     <description>Positive news stories from around the world, filtered by sentiment analysis</description>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Feb 2026 19:12:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Feb 2026 20:09:53 GMT</lastBuildDate>
     <atom:link href="https://lewdry.github.io/ramah/good_news.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Sydney filmmaker takes top prize at revived short film festival Tropfest</title>
+      <link>https://www.abc.net.au/news/2026-02-23/nsw-tropfest-resurrected-results/106372220</link>
+      <description>Sydney mum Lianne Mackessy won Tropfest 2026, receiving a $50,000 award for her film Crescendo.</description>
+      <source>ABC News</source>
+      <pubDate>Sun, 22 Feb 2026 19:29:38 GMT</pubDate>
+      <guid isPermaLink="true">https://www.abc.net.au/news/2026-02-23/nsw-tropfest-resurrected-results/106372220</guid>
+    </item>
     <item>
       <title>Senior Alba members offer to help party contest Scottish election</title>
       <link>https://www.bbc.com/news/articles/c05v6106jj4o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -46,6 +54,14 @@
       <source>The Guardian</source>
       <pubDate>Sun, 22 Feb 2026 16:53:49 GMT</pubDate>
       <guid isPermaLink="true">https://www.theguardian.com/sport/live/2026/feb/22/winter-olympics-2026-gold-medals-bobsleigh-curling-canada-usa-ice-hockey-final-closing-ceremony-live</guid>
+    </item>
+    <item>
+      <title>Girma winner sinks Manchester United to send Chelsea into Women’s FA Cup quarter-finals</title>
+      <link>https://www.theguardian.com/football/2026/feb/22/chelsea-manchester-united-womens-fa-cup-match-report</link>
+      <description>A 99th-minute winner from Naomi Girma sent holders Chelsea through to the Women’s FA Cup quarter-finals as they saw off a stubborn Manchester United 2-1.</description>
+      <source>The Guardian</source>
+      <pubDate>Sun, 22 Feb 2026 16:42:31 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theguardian.com/football/2026/feb/22/chelsea-manchester-united-womens-fa-cup-match-report</guid>
     </item>
     <item>
       <title>Norway (population: 5.7m) beats US (342m) to top Winter Olympics medal table</title>
@@ -1992,22 +2008,6 @@
       <source>The Guardian</source>
       <pubDate>Mon, 16 Feb 2026 08:00:47 GMT</pubDate>
       <guid isPermaLink="true">https://www.theguardian.com/music/2026/feb/16/stephen-spencer-daughter-three-year-old-instagram</guid>
-    </item>
-    <item>
-      <title>One Day has been a bestselling novel, a forgettable film, a beloved TV series – now can it be a musical?</title>
-      <link>https://www.theguardian.com/stage/2026/feb/16/one-day-musical-david-greig-david-nicholls-edinburgh-lyceum</link>
-      <description>Playwright David Greig and director Max Webster are not afraid of a theatrical challenge.</description>
-      <source>The Guardian</source>
-      <pubDate>Mon, 16 Feb 2026 08:00:46 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theguardian.com/stage/2026/feb/16/one-day-musical-david-greig-david-nicholls-edinburgh-lyceum</guid>
-    </item>
-    <item>
-      <title>Can you solve it? Chapeau! A smart new hat puzzle</title>
-      <link>https://www.theguardian.com/science/2026/feb/16/can-you-solve-it-chapeau-a-smart-new-hat-puzzle</link>
-      <description>Today’s puzzle is a new twist on a classic genre: the “common knowledge” hat riddle in which logicians deduce facts about their hats based on what they know, and what they know others know.</description>
-      <source>The Guardian</source>
-      <pubDate>Mon, 16 Feb 2026 07:10:44 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theguardian.com/science/2026/feb/16/can-you-solve-it-chapeau-a-smart-new-hat-puzzle</guid>
     </item>
   </channel>
 </rss>
