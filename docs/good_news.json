@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-22T09:12:53Z",
+  "last run": "2026-02-22T10:09:38Z",
   "stories": [
+    {
+      "headline": "\u2018What do I play at a party? Oasis\u2019s Wonderwall goes down a storm\u2019: Alex James\u2019s honest playlist",
+      "link": "https://www.theguardian.com/music/2026/feb/22/alex-james-honest-playlist-blue-oasis-radiohead-dexys-joy-division",
+      "mean_score": 0.5174,
+      "vader_score": 0.8126,
+      "textblob_score": 0.2222,
+      "first_sentence": "The Blur bassist loves his Britpop rivals, weeps over Radiohead\u2019s Creep and finds Chitty Chitty Bang Bang sexy.",
+      "timestamp": "2026-02-22T09:00:32Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "The strategy of Russia\u2019s liberal elite is clear: make your peace with Putin. It\u2019s how they survive | Andrei Soldatov and Irina Borogan",
       "link": "https://www.theguardian.com/commentisfree/2026/feb/22/russia-cultural-liberal-elite-putin",
@@ -2488,16 +2498,6 @@
       "vader_score": 0.4902,
       "textblob_score": 0.4,
       "first_sentence": "Post your answers (and new questions) below or send them to nq@theguardian.com.",
-      "timestamp": "2026-02-15T14:00:27Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Mandating health star ratings is a win. But food lobbies still have too much power over our health",
-      "link": "https://www.theguardian.com/australia-news/2026/feb/16/mandating-health-star-ratings-is-a-win-but-food-lobbies-still-have-too-much-power-over-our-health",
-      "mean_score": 0.42,
-      "vader_score": 0.34,
-      "textblob_score": 0.5,
-      "first_sentence": "Almost 13 years ago \u2013 and after a decade-long battle between health experts and the food industry \u2013 state and federal ministers voted to introduce a health star rating system to help consumers make healthier food choices.",
       "timestamp": "2026-02-15T14:00:27Z",
       "source": "The Guardian"
     }
