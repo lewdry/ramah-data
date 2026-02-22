@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-22T21:10:18Z",
+  "last run": "2026-02-22T22:08:55Z",
   "stories": [
+    {
+      "headline": "Australian 16-year-old medal hope Indra Brown misses out on last-day Olympic glory",
+      "link": "https://www.theguardian.com/sport/2026/feb/23/indra-brown-freestyle-skiing-halfpipe-australia-medal-hope-winter-olympics",
+      "mean_score": 0.4113,
+      "vader_score": 0.8225,
+      "textblob_score": 0.0,
+      "first_sentence": "Melbourne schoolgirl Indra Brown missed out in her quest to become Australia\u2019s youngest Winter Olympic medallist at just 16, ending up fifth in a spectacular final of the freeski halfpipe on the last day of the Milan-Cortina Games.",
+      "timestamp": "2026-02-22T21:28:59Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Baftas 2026: The winners list in full",
+      "link": "https://www.bbc.com/news/articles/crk8687yeyzo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4133,
+      "vader_score": 0.4767,
+      "textblob_score": 0.35,
+      "first_sentence": "The winners of the Bafta Film Awards, which celebrate the best on the big screen from the past 12 months, have been revealed.",
+      "timestamp": "2026-02-22T21:14:19Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Hamnet's Jessie Buckley and I Swear's Robert Aramayo win big at the Baftas",
       "link": "https://www.bbc.com/news/articles/czx7e100r48o?at_medium=RSS&at_campaign=rss",
@@ -20,6 +40,16 @@
       "first_sentence": "One Battle After Another, Paul Thomas Anderson\u2019s counterculture comedy about a washed-up revolutionary trying to protect his daughter from a ruthless military officer, has dominated the Baftas, taking home six awards including best film, best director, best cinematography, best editing, best supporting actor, and best adapted screenplay.",
       "timestamp": "2026-02-22T20:29:52Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "'Sisters, best friends or wives': How the world sees this married couple",
+      "link": "https://www.abc.net.au/news/2026-02-23/love-story-jackie-aimee-sydney-gay-lesbian-mardi-gras/106359548",
+      "mean_score": 0.7162,
+      "vader_score": 0.8074,
+      "textblob_score": 0.625,
+      "first_sentence": "Neither Jackie Turner nor Aimee Bull-McMahon were looking for love when they met in 2019.",
+      "timestamp": "2026-02-22T19:39:55Z",
+      "source": "ABC News"
     },
     {
       "headline": "Sydney filmmaker takes top prize at revived short film festival Tropfest",
@@ -2470,36 +2500,6 @@
       "first_sentence": "I was a chronic worrier.",
       "timestamp": "2026-02-16T11:00:26Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Harry Styles to curate Meltdown festival at London\u2019s Southbank Centre \u2013 and play an intimate gig",
-      "link": "https://www.theguardian.com/music/2026/feb/16/harry-styles-curate-meltdown-festival-london-southbank-centre",
-      "mean_score": 0.4404,
-      "vader_score": 0.6808,
-      "textblob_score": 0.2,
-      "first_sentence": "Harry Styles is to curate the Meltdown festival at London\u2019s Southbank Centre, coinciding with the 75th anniversary of the venue.",
-      "timestamp": "2026-02-16T10:36:05Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "An Islamist party becomes Bangladesh's main opposition for the first time",
-      "link": "https://www.npr.org/2026/02/16/nx-s1-5715741/islamist-party-bangladesh-opposition",
-      "mean_score": 0.3051,
-      "vader_score": 0.4019,
-      "textblob_score": 0.2083,
-      "first_sentence": "DHAKA, Bangladesh \u2013 An Islamist party has become Bangladesh's main opposition for the first time in the country's history, challenging the old dynastic political system despite persistent concerns among critics about the party's policies on women.",
-      "timestamp": "2026-02-16T09:46:48Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Michael Jordan, six-time NBA champion, is now a Daytona 500 winner",
-      "link": "https://www.npr.org/2026/02/16/g-s1-110249/michael-jordan-daytona-500-nascar-win",
-      "mean_score": 0.4135,
-      "vader_score": 0.8271,
-      "textblob_score": 0.0,
-      "first_sentence": "DAYTONA BEACH, Fla.",
-      "timestamp": "2026-02-16T09:06:00Z",
-      "source": "NPR News"
     }
   ]
 }

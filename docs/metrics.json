@@ -1,24 +1,5 @@
 [
   {
-    "timestamp": "2026-02-18T14:24:24Z",
-    "feeds_checked": 29,
-    "feeds_failed": 0,
-    "entries_processed": 924,
-    "entries_blocked": 251,
-    "entries_sentiment_rejected": 580,
-    "entries_accepted": 31,
-    "stories_by_source": {
-      "BBC News": 10,
-      "The Guardian": 15,
-      "Ars Technica": 4,
-      "AP News": 1,
-      "NPR News": 1
-    },
-    "cache_hits": 24,
-    "cache_misses": 7,
-    "execution_time_seconds": 12.3
-  },
-  {
     "timestamp": "2026-02-18T15:23:49Z",
     "feeds_checked": 29,
     "feeds_failed": 0,
@@ -1732,5 +1713,23 @@
     "cache_hits": 24,
     "cache_misses": 4,
     "execution_time_seconds": 7.27
+  },
+  {
+    "timestamp": "2026-02-22T22:08:47Z",
+    "feeds_checked": 29,
+    "feeds_failed": 0,
+    "entries_processed": 905,
+    "entries_blocked": 296,
+    "entries_sentiment_rejected": 518,
+    "entries_accepted": 29,
+    "stories_by_source": {
+      "BBC News": 10,
+      "ABC News": 1,
+      "The Guardian": 15,
+      "Ars Technica": 3
+    },
+    "cache_hits": 24,
+    "cache_misses": 5,
+    "execution_time_seconds": 8.05
   }
 ]

@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Harry Styles to curate Meltdown festival at London\u2019s Southbank Centre \u2013 and play an intimate gig",
+    "link": "https://www.theguardian.com/music/2026/feb/16/harry-styles-curate-meltdown-festival-london-southbank-centre",
+    "mean_score": 0.4404,
+    "vader_score": 0.6808,
+    "textblob_score": 0.2,
+    "first_sentence": "Harry Styles is to curate the Meltdown festival at London\u2019s Southbank Centre, coinciding with the 75th anniversary of the venue.",
+    "timestamp": "2026-02-16T10:36:05Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "An Islamist party becomes Bangladesh's main opposition for the first time",
+    "link": "https://www.npr.org/2026/02/16/nx-s1-5715741/islamist-party-bangladesh-opposition",
+    "mean_score": 0.3051,
+    "vader_score": 0.4019,
+    "textblob_score": 0.2083,
+    "first_sentence": "DHAKA, Bangladesh \u2013 An Islamist party has become Bangladesh's main opposition for the first time in the country's history, challenging the old dynastic political system despite persistent concerns among critics about the party's policies on women.",
+    "timestamp": "2026-02-16T09:46:48Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "Michael Jordan, six-time NBA champion, is now a Daytona 500 winner",
+    "link": "https://www.npr.org/2026/02/16/g-s1-110249/michael-jordan-daytona-500-nascar-win",
+    "mean_score": 0.4135,
+    "vader_score": 0.8271,
+    "textblob_score": 0.0,
+    "first_sentence": "DAYTONA BEACH, Fla.",
+    "timestamp": "2026-02-16T09:06:00Z",
+    "source": "NPR News"
+  },
+  {
     "headline": "Live: Bobsled Bree's medal push to continue at Milano Cortina Games",
     "link": "https://www.abc.net.au/news/2026-02-16/winter-olympics-2026-live-milano-cortina/106350862",
     "mean_score": 0.3065,
