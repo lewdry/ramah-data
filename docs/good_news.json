@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-22T16:11:05Z",
+  "last run": "2026-02-22T17:11:00Z",
   "stories": [
+    {
+      "headline": "Winter Olympics 2026: Norway top medal table and Gu soars to gold as closing ceremony nears \u2013 live",
+      "link": "https://www.theguardian.com/sport/live/2026/feb/22/winter-olympics-2026-gold-medals-bobsleigh-curling-canada-usa-ice-hockey-final-closing-ceremony-live",
+      "mean_score": 0.4588,
+      "vader_score": 0.5994,
+      "textblob_score": 0.3182,
+      "first_sentence": "Norway has once again topped the Winter Olympics medal table, surpassing countries with far larger populations.",
+      "timestamp": "2026-02-22T16:53:49Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Norway (population: 5.7m) beats US (342m) to top Winter Olympics medal table",
+      "link": "https://www.theguardian.com/sport/2026/feb/22/winter-olympics-2026-medal-table-standings-norway",
+      "mean_score": 0.5497,
+      "vader_score": 0.5994,
+      "textblob_score": 0.5,
+      "first_sentence": "Norway has once again topped the Winter Olympics medal table, surpassing countries with far larger populations.",
+      "timestamp": "2026-02-22T16:24:11Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Baftas 2026: the red carpet, the ceremony, the winners \u2013\u00a0follow live!",
       "link": "https://www.theguardian.com/film/live/2026/feb/22/baftas-2026-the-red-carpet-the-ceremony-the-winners-follow-live",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Women in the Channel Islands who've suffered severe menopause symptoms have said there isn't enough support available.",
       "timestamp": "2026-02-16T06:04:05Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Families bid to take over their children\u2019s care home that amassed huge tax debts",
-      "link": "https://www.theguardian.com/society/2026/feb/16/william-blake-house-care-home-debts",
-      "mean_score": 0.5353,
-      "vader_score": 0.6705,
-      "textblob_score": 0.4,
-      "first_sentence": "A group of families have launched an audacious bid to take over their disabled children\u2019s residential care home after it emerged the charity running it faces closure after amassing huge tax debts and paying \u00a31m in fees to one of its trustees.",
-      "timestamp": "2026-02-16T06:00:45Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Keir Starmer has a unique talent \u2013 to alienate absolutely everyone | Nesrine Malik",
-      "link": "https://www.theguardian.com/commentisfree/2026/feb/16/keir-starmer-prime-minister-left-right-centre-polls",
-      "mean_score": 0.3545,
-      "vader_score": 0.4215,
-      "textblob_score": 0.2875,
-      "first_sentence": "After a tumultuous few weeks, we are once again in \u201creset\u201d territory.",
-      "timestamp": "2026-02-16T06:00:43Z",
-      "source": "The Guardian"
     }
   ]
 }
