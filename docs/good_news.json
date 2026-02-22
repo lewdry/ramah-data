@@ -1,5 +1,5 @@
 {
-  "last run": "2026-02-22T22:08:55Z",
+  "last run": "2026-02-22T23:10:39Z",
   "stories": [
     {
       "headline": "Australian 16-year-old medal hope Indra Brown misses out on last-day Olympic glory",
@@ -40,6 +40,16 @@
       "first_sentence": "One Battle After Another, Paul Thomas Anderson\u2019s counterculture comedy about a washed-up revolutionary trying to protect his daughter from a ruthless military officer, has dominated the Baftas, taking home six awards including best film, best director, best cinematography, best editing, best supporting actor, and best adapted screenplay.",
       "timestamp": "2026-02-22T20:29:52Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "Wunmi Mosaku shows 'ancestral power' with Bafta win",
+      "link": "https://www.bbc.com/news/articles/cy7jnj028lko?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.6929,
+      "vader_score": 0.5859,
+      "textblob_score": 0.8,
+      "first_sentence": "Bafta-winning actress Wunmi Mosaku says she found parts of herself \"I thought I had lost or tried to dim as an immigrant trying to fit in\" as she took the best supporting actress prize for her role in the film Sinners.",
+      "timestamp": "2026-02-22T20:19:04Z",
+      "source": "BBC News"
     },
     {
       "headline": "'Sisters, best friends or wives': How the world sees this married couple",
@@ -2490,16 +2500,6 @@
       "first_sentence": "A charity food van that gives out free meals to those who need it is back in action during the school half-term break in Jersey.",
       "timestamp": "2026-02-16T11:17:40Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "The one change that worked: When good things happen, I write them down \u2013 and it\u2019s made me more optimistic",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/feb/16/the-one-change-that-worked-write-good-things-down",
-      "mean_score": 0.5089,
-      "vader_score": 0.6697,
-      "textblob_score": 0.3481,
-      "first_sentence": "I was a chronic worrier.",
-      "timestamp": "2026-02-16T11:00:26Z",
-      "source": "The Guardian"
     }
   ]
 }
