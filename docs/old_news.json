@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Analog bag filled with hobbies help people go offline",
+    "link": "https://www.npr.org/2026/02/17/nx-s1-5704343/analog-bag-filled-with-hobbies-help-people-go-offline",
+    "mean_score": 0.348,
+    "vader_score": 0.296,
+    "textblob_score": 0.4,
+    "first_sentence": "The idea of an \"analog bag,\" filled with hobbies like reading, journaling and puzzles, is gaining popularity online.",
+    "timestamp": "2026-02-17T09:41:44Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "As US focuses on perfecting AI models, China wants to become better AI adopters",
+    "link": "https://www.npr.org/2026/02/17/nx-s1-5712615/as-us-focuses-on-perfecting-ai-models-china-wants-to-become-better-ai-adopters",
+    "mean_score": 0.5425,
+    "vader_score": 0.7351,
+    "textblob_score": 0.35,
+    "first_sentence": "The Chinese AI company DeepSeek shocked markets last year with a high-quality, low-cost model.",
+    "timestamp": "2026-02-17T09:40:13Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "Live: Italy and Canada celebrate Olympic speed skating golds",
+    "link": "https://www.abc.net.au/news/2026-02-17/winter-olympics-day-11-live-blog/106354466",
+    "mean_score": 0.3541,
+    "vader_score": 0.5719,
+    "textblob_score": 0.1364,
+    "first_sentence": "Heavy snow has played havoc with events on day 11 of the Winter Olympics, with Australia's women's and men's aerials and women's slopestyle athletes having their events postponed for the day.",
+    "timestamp": "2026-02-17T09:04:50Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Angus Taylor says his new frontbench will take the fight to Labor, but his biggest battle is to save the Liberal party",
+    "link": "https://www.theguardian.com/australia-news/2026/feb/17/angus-taylor-shadow-frontbench-battle-save-liberal-party",
+    "mean_score": 0.3505,
+    "vader_score": 0.5647,
+    "textblob_score": 0.1364,
+    "first_sentence": "It is almost impossible to overstate the challenge facing Angus Taylor just days into the job as opposition leader.",
+    "timestamp": "2026-02-17T08:29:48Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Real Madrid need reinvention as special circumstances are needed to rule Europe | Philipp Lahm",
     "link": "https://www.theguardian.com/football/2026/feb/17/real-madrid-reinvent-champions-league-la-liga-carlo-ancelotti-jose-mourinho",
     "mean_score": 0.3402,
