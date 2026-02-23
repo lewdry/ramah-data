@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-23T19:29:53Z",
+  "last run": "2026-02-23T20:19:24Z",
   "stories": [
+    {
+      "headline": "Communication is key to the chances of Send reforms succeeding",
+      "link": "https://www.theguardian.com/education/2026/feb/23/communication-key-to-send-reforms-succeeding-analysis",
+      "mean_score": 0.3062,
+      "vader_score": 0.6124,
+      "textblob_score": 0.0,
+      "first_sentence": "In her first week as a cabinet minister Bridget Phillipson held a meeting for new Labour MPs with one subject \u2013 special educational needs.",
+      "timestamp": "2026-02-23T19:46:59Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Jeremy Hunt urges medics to do more to improve detection of rare childbirth condition",
       "link": "https://www.theguardian.com/lifeandstyle/2026/feb/23/jeremy-hunt-medics-detection-rare-childbirth-condition-placenta-accreta-spectrum",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.0,
       "first_sentence": "Angus Taylor has unveiled his new shadow cabinet.",
       "timestamp": "2026-02-17T07:08:17Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "A man pushed me in the street, he wanted to teach me a lesson. Is that OK now? | Lucy Pasha-Robinson",
-      "link": "https://www.theguardian.com/commentisfree/2026/feb/17/men-push-abuse-women-street-stranger",
-      "mean_score": 0.4733,
-      "vader_score": 0.4466,
-      "textblob_score": 0.5,
-      "first_sentence": "What motivates a stranger to push a woman in public? That\u2019s a question I\u2019ve been stuck on this week after a man shoved me out of his way on an empty pedestrian street.",
-      "timestamp": "2026-02-17T07:00:03Z",
       "source": "The Guardian"
     }
   ]
