@@ -1,6 +1,36 @@
 {
-  "last run": "2026-02-23T00:43:00Z",
+  "last run": "2026-02-23T01:40:44Z",
   "stories": [
+    {
+      "headline": "Peak success: Australia just keeps doing better at the Winter Olympics",
+      "link": "https://www.theguardian.com/news/ng-interactive/2026/feb/23/australia-best-ever-winter-olympics-medal-tally-chart",
+      "mean_score": 0.5825,
+      "vader_score": 0.765,
+      "textblob_score": 0.4,
+      "first_sentence": "Australia has reached a record Winter Olympics medal tally of six, surpassing the previous high point of the 2022 Olympics.",
+      "timestamp": "2026-02-23T00:56:59Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Reporters' notebook: The Olympics closing ceremony is way more fun than you'd think",
+      "link": "https://www.npr.org/2026/02/22/nx-s1-5722948/2026-olympics-closing-ceremony",
+      "mean_score": 0.4782,
+      "vader_score": 0.5563,
+      "textblob_score": 0.4,
+      "first_sentence": "VERONA, Italy \u2014 The Winter Olympics are officially over.",
+      "timestamp": "2026-02-23T00:52:15Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "Even greater heights await Australia\u2019s Winter Olympians after success of Milano Cortina Games | Kieran Pender",
+      "link": "https://www.theguardian.com/sport/blog/2026/feb/23/australia-team-winter-olympics-2026-medal-tally-haul-milano-cortina-games",
+      "mean_score": 0.5825,
+      "vader_score": 0.765,
+      "textblob_score": 0.4,
+      "first_sentence": "Australia\u2019s golden 2026 Winter Olympics campaign ended on Sunday not with a medal, but with a thrilling view of the future.",
+      "timestamp": "2026-02-23T00:47:11Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Mescal and Abrams go red carpet official, a 'strong language' apology and other Bafta highlights",
       "link": "https://www.bbc.com/news/articles/c86ygl6821go?at_medium=RSS&at_campaign=rss",
@@ -2470,36 +2500,6 @@
       "first_sentence": "\"We knew we were going to need lots of blood,\" says YouTuber Markiplier as he reflects on his new debut film, Iron Lung.",
       "timestamp": "2026-02-16T13:48:30Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Gis\u00e8le Pelicot: The Newsnight Interview review \u2013 you can only gaze admiringly at her strength and grace",
-      "link": "https://www.theguardian.com/tv-and-radio/2026/feb/16/gisele-pelicot-the-newsnight-interview-review",
-      "mean_score": 0.4259,
-      "vader_score": 0.8519,
-      "textblob_score": 0.0,
-      "first_sentence": "It\u2019s hard to judge an interview with Gis\u00e8le Pelicot in the normal terms.",
-      "timestamp": "2026-02-16T13:21:49Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Rukmini Iyer\u2019s quick and easy reccipe for crispy baked gnocchi puttanesca | Quick and easy",
-      "link": "https://www.theguardian.com/food/2026/feb/16/rukmini-iyer-quick-and-easy-recipe-crispy-baked-gnocchi-puttanesca",
-      "mean_score": 0.5418,
-      "vader_score": 0.7003,
-      "textblob_score": 0.3833,
-      "first_sentence": "I\u2019ve non-canonically added in small cubes of aubergine, because they melt beautifully into the sauce while adding extra plant matter.",
-      "timestamp": "2026-02-16T13:00:27Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Rose review \u2013 Sandra H\u00fcller is outstanding in grimy examination of gender stereotypes",
-      "link": "https://www.theguardian.com/film/2026/feb/16/rose-review-sandra-huller-berlin-film-festival-gender-stereotypes",
-      "mean_score": 0.423,
-      "vader_score": 0.296,
-      "textblob_score": 0.55,
-      "first_sentence": "Austrian director Markus Schleinzer brings a chill to his eerie new movie, a stark monochrome period drama set in rural southern Germany in the aftermath of the Thirty Years\u2019 war.",
-      "timestamp": "2026-02-16T12:08:46Z",
-      "source": "The Guardian"
     }
   ]
 }
