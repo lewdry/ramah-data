@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-23T20:19:24Z",
+  "last run": "2026-02-23T21:21:42Z",
   "stories": [
+    {
+      "headline": "Live: 'Australia likes being first': PM defends bid to remove Andrew from succession",
+      "link": "https://www.abc.net.au/news/2026-02-24/federal-politics-albanese-taylor-rail-live-blog/106377802",
+      "mean_score": 0.3753,
+      "vader_score": 0.5574,
+      "textblob_score": 0.1932,
+      "first_sentence": "The prime minister has revealed he voluntarily wrote to his UK counterpart to offer his support for removing Andrew Mountbatten-Windsor from the line of succession.",
+      "timestamp": "2026-02-23T20:02:07Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Communication is key to the chances of Send reforms succeeding",
       "link": "https://www.theguardian.com/education/2026/feb/23/communication-key-to-send-reforms-succeeding-analysis",
@@ -2490,16 +2500,6 @@
       "first_sentence": "BEIJING (AP) \u2014 People are marking the Lunar New Year on Tuesday with prayers, fireworks and festivities.",
       "timestamp": "2026-02-17T07:53:02Z",
       "source": "AP News"
-    },
-    {
-      "headline": "Labor approves 4.41% increase for health insurance premiums \u2013 as it happened",
-      "link": "https://www.theguardian.com/australia-news/live/2026/feb/17/racism-systemic-universities-angus-taylor-leaked-migration-policy-coalition-anthony-albanese-labor-accc-coles-ntwnfb",
-      "mean_score": 0.3062,
-      "vader_score": 0.6124,
-      "textblob_score": 0.0,
-      "first_sentence": "Angus Taylor has unveiled his new shadow cabinet.",
-      "timestamp": "2026-02-17T07:08:17Z",
-      "source": "The Guardian"
     }
   ]
 }
