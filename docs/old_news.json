@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Openreach said yes to full fibre broadband, then branded it \u2018uneconomical\u2019",
+    "link": "https://www.theguardian.com/money/2026/feb/17/openreach-full-fibre-broadband-uneconomical",
+    "mean_score": 0.376,
+    "vader_score": 0.4019,
+    "textblob_score": 0.35,
+    "first_sentence": "My internet provider informed me by email that full fibre broadband had become available for my property, confirmed by Openreach\u2019s \u201cfibre checker\u201d tool.",
+    "timestamp": "2026-02-17T07:00:02Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Production company's closure is 'end of remarkable chapter' for Aussie TV",
+    "link": "https://www.abc.net.au/news/2026-02-17/matchbox-pictures-closed-universal-international-studios/106355260",
+    "mean_score": 0.6537,
+    "vader_score": 0.5574,
+    "textblob_score": 0.75,
+    "first_sentence": "The Australian production company behind popular and award-winning TV shows including ABC TV's Dog Park, The Slap and Secret City is set to close.",
+    "timestamp": "2026-02-17T06:30:35Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Thuy Diem Pham\u2019s recipe for joy pancake",
+    "link": "https://www.theguardian.com/food/2026/feb/17/joy-pancake-recipe-thuy-diem-pham",
+    "mean_score": 0.6929,
+    "vader_score": 0.5859,
+    "textblob_score": 0.8,
+    "first_sentence": "There\u2019s something endearing and confident about a dish named after the feeling it gives you.",
+    "timestamp": "2026-02-17T06:00:00Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "See the full list: Opposition leader Angus Taylor unveils fresh shadow ministry",
     "link": "https://www.sbs.com.au/news/article/opposition-leader-angus-taylor-unveils-fresh-shadow-ministry/411rnsatg",
     "mean_score": 0.3216,

@@ -1,6 +1,36 @@
 {
-  "last run": "2026-02-23T18:30:28Z",
+  "last run": "2026-02-23T19:29:53Z",
   "stories": [
+    {
+      "headline": "Jeremy Hunt urges medics to do more to improve detection of rare childbirth condition",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/feb/23/jeremy-hunt-medics-detection-rare-childbirth-condition-placenta-accreta-spectrum",
+      "mean_score": 0.4451,
+      "vader_score": 0.4902,
+      "textblob_score": 0.4,
+      "first_sentence": "Jeremy Hunt has urged leading doctors to do more to help maternity specialists detect a rare complication of childbirth that can lead to a women bleeding to death within minutes.",
+      "timestamp": "2026-02-23T19:06:57Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018No surprise\u2019: Robert Aramayo\u2019s teachers knew the Bafta winner was destined for great things",
+      "link": "https://www.theguardian.com/film/2026/feb/23/robert-aramayo-teachers-hull-bafta-winner-actor-tourette-syndrome",
+      "mean_score": 0.818,
+      "vader_score": 0.836,
+      "textblob_score": 0.8,
+      "first_sentence": "What is Tourette syndrome, what are tics and what happened at the Baftas?.",
+      "timestamp": "2026-02-23T18:45:30Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "How 19 years on Play School fed into Simon Burke's latest role",
+      "link": "https://www.abc.net.au/news/2026-02-24/simon-burke-the-elocution-of-benjamin-franklin-play-school/106295868",
+      "mean_score": 0.42,
+      "vader_score": 0.34,
+      "textblob_score": 0.5,
+      "first_sentence": "In rehearsals for his latest play, The Elocution of Benjamin Franklin, Simon Burke sometimes found himself falling into the rhythms of Play School.",
+      "timestamp": "2026-02-23T18:30:00Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Duke rises to No. 1 in AP Top 25 men\u2019s hoops poll for record 148th time; Florida, Alabama make leaps",
       "link": "https://apnews.com/article/ap-top-25-poll-duke-39fdb6bef07b4466f0e6140826fdcad5",
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.5,
       "first_sentence": "What motivates a stranger to push a woman in public? That\u2019s a question I\u2019ve been stuck on this week after a man shoved me out of his way on an empty pedestrian street.",
       "timestamp": "2026-02-17T07:00:03Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Openreach said yes to full fibre broadband, then branded it \u2018uneconomical\u2019",
-      "link": "https://www.theguardian.com/money/2026/feb/17/openreach-full-fibre-broadband-uneconomical",
-      "mean_score": 0.376,
-      "vader_score": 0.4019,
-      "textblob_score": 0.35,
-      "first_sentence": "My internet provider informed me by email that full fibre broadband had become available for my property, confirmed by Openreach\u2019s \u201cfibre checker\u201d tool.",
-      "timestamp": "2026-02-17T07:00:02Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Production company's closure is 'end of remarkable chapter' for Aussie TV",
-      "link": "https://www.abc.net.au/news/2026-02-17/matchbox-pictures-closed-universal-international-studios/106355260",
-      "mean_score": 0.6537,
-      "vader_score": 0.5574,
-      "textblob_score": 0.75,
-      "first_sentence": "The Australian production company behind popular and award-winning TV shows including ABC TV's Dog Park, The Slap and Secret City is set to close.",
-      "timestamp": "2026-02-17T06:30:35Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Thuy Diem Pham\u2019s recipe for joy pancake",
-      "link": "https://www.theguardian.com/food/2026/feb/17/joy-pancake-recipe-thuy-diem-pham",
-      "mean_score": 0.6929,
-      "vader_score": 0.5859,
-      "textblob_score": 0.8,
-      "first_sentence": "There\u2019s something endearing and confident about a dish named after the feeling it gives you.",
-      "timestamp": "2026-02-17T06:00:00Z",
       "source": "The Guardian"
     }
   ]
