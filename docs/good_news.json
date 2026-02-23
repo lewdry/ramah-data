@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-23T10:24:38Z",
+  "last run": "2026-02-23T11:20:46Z",
   "stories": [
+    {
+      "headline": "Martin Lewis ambushes Badenoch on Good Morning Britain over student loans plan",
+      "link": "https://www.theguardian.com/politics/2026/feb/23/martin-lewis-ambushes-kemi-badenoch-good-morning-britain-student-loans",
+      "mean_score": 0.5702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.7,
+      "first_sentence": "Kemi Badenoch has faced what could be described as the stuff of nightmares for a UK politician being interviewed about a personal finance policy: being ambushed and contradicted live on air by Martin Lewis.",
+      "timestamp": "2026-02-23T10:30:00Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Influencers are promoting peptides for better health. What's the science say?",
       "link": "https://www.npr.org/2026/02/23/nx-s1-5716162/peptides-science-muscle-growth-longevity-wellness",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Devyani Saltzman is leaving the Barbican as the arts institution undergoes another significant leadership change just a few weeks after its new CEO joined.",
       "timestamp": "2026-02-16T18:59:05Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "When is it worth forking out for comprehensive car insurance?",
-      "link": "https://www.abc.net.au/news/2026-02-17/how-do-i-know-what-car-insurance-is-best-for-me-/106260688",
-      "mean_score": 0.3702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.3,
-      "first_sentence": "An email that opens with \"It's time to renew your car insurance\" is hopefully among the less exciting correspondence to grace your inbox.",
-      "timestamp": "2026-02-16T18:30:00Z",
-      "source": "ABC News"
     }
   ]
 }
