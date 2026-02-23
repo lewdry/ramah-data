@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-23T07:30:34Z",
+  "last run": "2026-02-23T08:22:04Z",
   "stories": [
+    {
+      "headline": "Is it true that \u2026 men need to consume more calories than women?",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/feb/23/is-it-true-that-men-need-to-consume-more-calories-than-women",
+      "mean_score": 0.4233,
+      "vader_score": 0.4215,
+      "textblob_score": 0.425,
+      "first_sentence": "\u2018Generally speaking, yes,\u201d says Bethan Crouse, a performance nutritionist from Loughborough University, but it\u2019s not a one-size-fits-all rule.",
+      "timestamp": "2026-02-23T08:00:00Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Cockatoos! Everyone loves cockatoos (except property developers) | First Dog on the Moon",
       "link": "https://www.theguardian.com/commentisfree/picture/2026/feb/23/cockatoos-everyone-loves-cockatoos-except-property-developers",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.9,
       "first_sentence": "Australia could be out of the T20 World Cup before they even play their final first round group match after a stunning fightback by Sri Lanka in Pallekele.",
       "timestamp": "2026-02-16T17:35:10Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Did you solve it? Chapeau! A smart new hat puzzle",
-      "link": "https://www.theguardian.com/science/2026/feb/16/did-you-solve-it-chapeau-a-smart-new-hat-puzzle",
-      "mean_score": 0.3801,
-      "vader_score": 0.5848,
-      "textblob_score": 0.1753,
-      "first_sentence": "Earlier today I set you this logic puzzle.",
-      "timestamp": "2026-02-16T16:55:37Z",
       "source": "The Guardian"
     }
   ]

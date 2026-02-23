@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Did you solve it? Chapeau! A smart new hat puzzle",
+    "link": "https://www.theguardian.com/science/2026/feb/16/did-you-solve-it-chapeau-a-smart-new-hat-puzzle",
+    "mean_score": 0.3801,
+    "vader_score": 0.5848,
+    "textblob_score": 0.1753,
+    "first_sentence": "Earlier today I set you this logic puzzle.",
+    "timestamp": "2026-02-16T16:55:37Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "\u2018It was spooky\u2019: folk singer Olivia Chaney on how a song reflecting her own Bront\u00eb-ish love triangle wound up in Wuthering Heights",
     "link": "https://www.theguardian.com/music/2026/feb/16/folk-singer-olivia-chaney-dark-eyed-sailor-wuthering-heights-interview",
     "mean_score": 0.5935,
