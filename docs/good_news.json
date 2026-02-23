@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-22T23:10:39Z",
+  "last run": "2026-02-23T00:43:00Z",
   "stories": [
+    {
+      "headline": "Mescal and Abrams go red carpet official, a 'strong language' apology and other Bafta highlights",
+      "link": "https://www.bbc.com/news/articles/c86ygl6821go?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3225,
+      "vader_score": 0.5423,
+      "textblob_score": 0.1028,
+      "first_sentence": "This year's Bafta Film Awards had it all.",
+      "timestamp": "2026-02-22T23:35:15Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "How embracing sustainability can help the Olympic Games remain relevant",
+      "link": "https://www.abc.net.au/news/2026-02-23/olympic-games-relevant-sustainability/106374848",
+      "mean_score": 0.401,
+      "vader_score": 0.4019,
+      "textblob_score": 0.4,
+      "first_sentence": "The memories for the athletes, visitors and volunteers will last a lifetime.",
+      "timestamp": "2026-02-22T23:11:30Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Australian 16-year-old medal hope Indra Brown misses out on last-day Olympic glory",
       "link": "https://www.theguardian.com/sport/2026/feb/23/indra-brown-freestyle-skiing-halfpipe-australia-medal-hope-winter-olympics",
@@ -30,6 +50,16 @@
       "first_sentence": "I Swear star Robert Aramayo beat competition from the likes of Hollywood A-listers Leonardo DiCaprio and Timoth\u00e9e Chalamet to win best actor at this year's Bafta awards.",
       "timestamp": "2026-02-22T21:03:36Z",
       "source": "BBC News"
+    },
+    {
+      "headline": "Residents of a remote NT community happy to be home after two-week evacuation",
+      "link": "https://www.abc.net.au/news/2026-02-23/daly-river-nauiyu-flooding-evacuees-return-home/106372304",
+      "mean_score": 0.4609,
+      "vader_score": 0.5719,
+      "textblob_score": 0.35,
+      "first_sentence": "Residents in Nauiyu on the banks of the Daly River have returned to their homes after the remote Northern Territory community was evacuated due to flooding earlier this month.",
+      "timestamp": "2026-02-22T21:02:49Z",
+      "source": "ABC News"
     },
     {
       "headline": "One Battle After Another defeats Hamnet and Sinners at Baftas, as I Swear\u2019s Robert Aramayo takes best actor",
@@ -2470,36 +2500,6 @@
       "first_sentence": "Austrian director Markus Schleinzer brings a chill to his eerie new movie, a stark monochrome period drama set in rural southern Germany in the aftermath of the Thirty Years\u2019 war.",
       "timestamp": "2026-02-16T12:08:46Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Do plans for a new Mummy film signal the end for the multiverse blockbuster franchise?",
-      "link": "https://www.theguardian.com/film/2026/feb/16/new-mummy-signal-end-film-multiverse-blockbuster-franchise-hollywood",
-      "mean_score": 0.3679,
-      "vader_score": 0.5994,
-      "textblob_score": 0.1364,
-      "first_sentence": "The news this week that Brendan Fraser and Rachel Weisz are to return in a new Mummy film for the first time in a quarter of a century feels a bit like Hollywood stumbling out of a very long house party it doesn\u2019t entirely remember attending.",
-      "timestamp": "2026-02-16T12:05:57Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "More heartache than Hamnet?: Maggie O\u2019Farrell\u2019s best books \u2013 ranked!",
-      "link": "https://www.theguardian.com/books/2026/feb/16/more-heartache-than-hamnet-maggie-ofarrells-best-books-ranked",
-      "mean_score": 0.7098,
-      "vader_score": 0.6696,
-      "textblob_score": 0.75,
-      "first_sentence": "The ghost of a previous lover is always a challenge, particularly if you (mistakenly) believe that she\u2019s actually dead.",
-      "timestamp": "2026-02-16T12:00:26Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Spud truck handing out free meals to families",
-      "link": "https://www.bbc.com/news/articles/c0mg1e704d3o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4553,
-      "vader_score": 0.5106,
-      "textblob_score": 0.4,
-      "first_sentence": "A charity food van that gives out free meals to those who need it is back in action during the school half-term break in Jersey.",
-      "timestamp": "2026-02-16T11:17:40Z",
-      "source": "BBC News"
     }
   ]
 }
