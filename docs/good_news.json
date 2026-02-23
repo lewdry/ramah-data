@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-23T09:26:14Z",
+  "last run": "2026-02-23T10:24:38Z",
   "stories": [
+    {
+      "headline": "Influencers are promoting peptides for better health. What's the science say?",
+      "link": "https://www.npr.org/2026/02/23/nx-s1-5716162/peptides-science-muscle-growth-longevity-wellness",
+      "mean_score": 0.5798,
+      "vader_score": 0.6597,
+      "textblob_score": 0.5,
+      "first_sentence": "Search the term \"peptides\" and a long list of online retailer options will pop up.",
+      "timestamp": "2026-02-23T10:00:00Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "What is SEND and how many children get support?",
+      "link": "https://www.bbc.com/news/articles/cwy18y5jpw1o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4509,
+      "vader_score": 0.4019,
+      "textblob_score": 0.5,
+      "first_sentence": "The government says it will invest billions of pounds of new funding to \"make every school truly inclusive\" for children with special educational needs and disabilities (SEND) in England.",
+      "timestamp": "2026-02-23T09:14:54Z",
+      "source": "BBC News"
+    },
     {
       "headline": "U.S. boosts gold medal tally at Winter Games, led by athletes from handful of states",
       "link": "https://www.npr.org/2026/02/23/nx-s1-5720980/us-gold-medals-winter-games-vermont-alaska",
@@ -2480,26 +2500,6 @@
       "first_sentence": "An email that opens with \"It's time to renew your car insurance\" is hopefully among the less exciting correspondence to grace your inbox.",
       "timestamp": "2026-02-16T18:30:00Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Michigan rises to No. 1 in AP Top 25 men\u2019s hoops poll for 1st time since January 2013",
-      "link": "https://apnews.com/article/ap-top-25-poll-michigan-wisconsin-c8609da09f04c8475fc32d4e25ba38be",
-      "mean_score": 0.3512,
-      "vader_score": 0.2023,
-      "textblob_score": 0.5,
-      "first_sentence": "Michigan is No.",
-      "timestamp": "2026-02-16T18:23:02Z",
-      "source": "AP News"
-    },
-    {
-      "headline": "How Robert Duvall became a Hollywood great",
-      "link": "https://www.bbc.com/news/articles/cv2grggdzweo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.7125,
-      "vader_score": 0.6249,
-      "textblob_score": 0.8,
-      "first_sentence": "Robert Duvall was a distinguished and prolific screen actor who lent a brooding intensity and grizzled authority to seven decades of American film-making.",
-      "timestamp": "2026-02-16T18:19:09Z",
-      "source": "BBC News"
     }
   ]
 }
