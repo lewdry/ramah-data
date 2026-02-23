@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-23T21:21:42Z",
+  "last run": "2026-02-23T22:21:02Z",
   "stories": [
+    {
+      "headline": "Supersub Benjamin Sesko fires Manchester United past Everton and into top four",
+      "link": "https://www.theguardian.com/football/2026/feb/23/everton-manchester-united-premier-league-match-report",
+      "mean_score": 0.3412,
+      "vader_score": 0.5574,
+      "textblob_score": 0.125,
+      "first_sentence": "Sir Jim Ratcliffe must be seriously conflicted.",
+      "timestamp": "2026-02-23T22:06:11Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Live: 'Australia likes being first': PM defends bid to remove Andrew from succession",
       "link": "https://www.abc.net.au/news/2026-02-24/federal-politics-albanese-taylor-rail-live-blog/106377802",
@@ -10,6 +20,16 @@
       "first_sentence": "The prime minister has revealed he voluntarily wrote to his UK counterpart to offer his support for removing Andrew Mountbatten-Windsor from the line of succession.",
       "timestamp": "2026-02-23T20:02:07Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "\u2018I want to come back, to win gold\u2019: banned Ukrainian determined to race for glory in helmet of memory",
+      "link": "https://www.theguardian.com/sport/2026/feb/23/banned-ukrainian-vladislav-heraskevych-return-glory-helmet-memory-ioc-winter-olympics-2026",
+      "mean_score": 0.5953,
+      "vader_score": 0.7906,
+      "textblob_score": 0.4,
+      "first_sentence": "It is the image that will forever define the 2026 Winter Olympics: a Ukrainian skeleton racer, stoic and unbowed, holding a helmet bearing the faces of 24 athletes killed by Russia.",
+      "timestamp": "2026-02-23T20:00:49Z",
+      "source": "The Guardian"
     },
     {
       "headline": "Communication is key to the chances of Send reforms succeeding",
@@ -2480,26 +2500,6 @@
       "first_sentence": "It is almost impossible to overstate the challenge facing Angus Taylor just days into the job as opposition leader.",
       "timestamp": "2026-02-17T08:29:48Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Real Madrid need reinvention as special circumstances are needed to rule Europe | Philipp Lahm",
-      "link": "https://www.theguardian.com/football/2026/feb/17/real-madrid-reinvent-champions-league-la-liga-carlo-ancelotti-jose-mourinho",
-      "mean_score": 0.3402,
-      "vader_score": 0.4019,
-      "textblob_score": 0.2786,
-      "first_sentence": "All eyes are on Real Madrid again but in a different way than to which the 15-time Champions League winners are accustomed.",
-      "timestamp": "2026-02-17T08:00:05Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Lunar New Year prayers, robots and festivities usher in the Year of the Horse",
-      "link": "https://apnews.com/article/lunar-new-year-horse-37a6166548b209eda42e19c9fa3b61e0",
-      "mean_score": 0.3065,
-      "vader_score": 0.4767,
-      "textblob_score": 0.1364,
-      "first_sentence": "BEIJING (AP) \u2014 People are marking the Lunar New Year on Tuesday with prayers, fireworks and festivities.",
-      "timestamp": "2026-02-17T07:53:02Z",
-      "source": "AP News"
     }
   ]
 }
