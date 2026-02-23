@@ -1,5 +1,35 @@
 [
   {
+    "headline": "The Blood Countess review \u2013 Isabelle Huppert reigns supreme in a surreal vampire fantasia",
+    "link": "https://www.theguardian.com/film/2026/feb/16/blood-countess-film-review-isabelle-huppert",
+    "mean_score": 0.4037,
+    "vader_score": 0.5574,
+    "textblob_score": 0.25,
+    "first_sentence": "From the dark heart of central Europe comes a midnight-movie romp through the moonlit urban glades of Euro-goth and camp from German director Ulrike Ottinger.",
+    "timestamp": "2026-02-16T20:45:35Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Get ready for new Macs and iPads: Apple announces \"Special Experience\" on March 4",
+    "link": "https://arstechnica.com/apple/2026/02/get-ready-for-new-macs-and-ipads-apple-announces-special-experience-on-march-4/",
+    "mean_score": 0.434,
+    "vader_score": 0.6369,
+    "textblob_score": 0.2312,
+    "first_sentence": "Apple has not confirmed whether you\u2019ll be able to watch live, but Ars will bring you the news.",
+    "timestamp": "2026-02-16T20:30:15Z",
+    "source": "Ars Technica"
+  },
+  {
+    "headline": "Best Buy worker used manager\u2019s code to get 99% off MacBooks, cops say",
+    "link": "https://arstechnica.com/tech-policy/2026/02/best-buy-worker-used-managers-code-to-get-99-off-macbooks-cops-say/",
+    "mean_score": 0.8185,
+    "vader_score": 0.6369,
+    "textblob_score": 1.0,
+    "first_sentence": "Employee allegedly exploited Best Buy\u2019s discount system for months.",
+    "timestamp": "2026-02-16T20:10:54Z",
+    "source": "Ars Technica"
+  },
+  {
     "headline": "The U.S. ready to make up, Europe ready to break up in Munich",
     "link": "https://www.npr.org/2026/02/16/nx-s1-5716050/us-europe-relations-munich",
     "mean_score": 0.4062,
