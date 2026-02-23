@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-23T05:36:04Z",
+  "last run": "2026-02-23T06:33:45Z",
   "stories": [
+    {
+      "headline": "Cockatoos! Everyone loves cockatoos (except property developers) | First Dog on the Moon",
+      "link": "https://www.theguardian.com/commentisfree/picture/2026/feb/23/cockatoos-everyone-loves-cockatoos-except-property-developers",
+      "mean_score": 0.4307,
+      "vader_score": 0.6114,
+      "textblob_score": 0.25,
+      "first_sentence": "Developers in Western Australia are planning to bulldoze an endangered banskia ecosystem to build some overpriced homesSign up here to get an email whenever First Dog cartoons are publishedGet all your needs met at the First Dog shop if what you need is First Dog merchandise and prints Continue reading.",
+      "timestamp": "2026-02-23T06:09:45Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Forget sides, these four salads are satisfying meals",
+      "link": "https://www.abc.net.au/news/2026-02-23/these-four-salads-are-tasty-and-substantial-meals/106363054",
+      "mean_score": 0.3866,
+      "vader_score": 0.2732,
+      "textblob_score": 0.5,
+      "first_sentence": "Sometimes you're in the mood for a big bowl of salad but need something that will also fill you up and satisfy you.",
+      "timestamp": "2026-02-23T05:42:34Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Brumbies keeping cool after historic win over Crusaders in Christchurch",
       "link": "https://www.abc.net.au/news/2026-02-23/act-brumbies-keeping-cool-after-historic-win-over-crusaders/106375922",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.1753,
       "first_sentence": "Earlier today I set you this logic puzzle.",
       "timestamp": "2026-02-16T16:55:37Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018It was spooky\u2019: folk singer Olivia Chaney on how a song reflecting her own Bront\u00eb-ish love triangle wound up in Wuthering Heights",
-      "link": "https://www.theguardian.com/music/2026/feb/16/folk-singer-olivia-chaney-dark-eyed-sailor-wuthering-heights-interview",
-      "mean_score": 0.5935,
-      "vader_score": 0.6369,
-      "textblob_score": 0.55,
-      "first_sentence": "An hour into Emerald Fennell\u2019s Wuthering Heights, Margot Robbie is in a gauzy wedding dress, gliding forlornly across the moors towards the man her character feels she has to marry.",
-      "timestamp": "2026-02-16T15:33:33Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Winter Olympics 2026: Lo\u00efc Meillard wins men\u2019s slalom; speed skating, bobsleigh and more \u2013 live",
-      "link": "https://www.theguardian.com/sport/live/2026/feb/16/winter-olympics-2026-men-slalom-plus-curling-speed-skating-and-more-day-10-live",
-      "mean_score": 0.442,
-      "vader_score": 0.5719,
-      "textblob_score": 0.3121,
-      "first_sentence": "Norway have levelled with GB at 2-2; we\u2019re now playing the sixth end, GB with the hammer.",
-      "timestamp": "2026-02-16T14:09:28Z",
       "source": "The Guardian"
     }
   ]

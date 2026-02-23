@@ -1,5 +1,25 @@
 [
   {
+    "headline": "\u2018It was spooky\u2019: folk singer Olivia Chaney on how a song reflecting her own Bront\u00eb-ish love triangle wound up in Wuthering Heights",
+    "link": "https://www.theguardian.com/music/2026/feb/16/folk-singer-olivia-chaney-dark-eyed-sailor-wuthering-heights-interview",
+    "mean_score": 0.5935,
+    "vader_score": 0.6369,
+    "textblob_score": 0.55,
+    "first_sentence": "An hour into Emerald Fennell\u2019s Wuthering Heights, Margot Robbie is in a gauzy wedding dress, gliding forlornly across the moors towards the man her character feels she has to marry.",
+    "timestamp": "2026-02-16T15:33:33Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Winter Olympics 2026: Lo\u00efc Meillard wins men\u2019s slalom; speed skating, bobsleigh and more \u2013 live",
+    "link": "https://www.theguardian.com/sport/live/2026/feb/16/winter-olympics-2026-men-slalom-plus-curling-speed-skating-and-more-day-10-live",
+    "mean_score": 0.442,
+    "vader_score": 0.5719,
+    "textblob_score": 0.3121,
+    "first_sentence": "Norway have levelled with GB at 2-2; we\u2019re now playing the sixth end, GB with the hammer.",
+    "timestamp": "2026-02-16T14:09:28Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Ally Hickman tells proud school friends \u2018I\u2019m not nervous, I\u2019m just excited\u2019 before Winter Olympics final",
     "link": "https://www.theguardian.com/sport/2026/feb/16/ally-hickman-australian-16-year-old-2026-winter-olympics-finalist-school-friends",
     "mean_score": 0.5915,
