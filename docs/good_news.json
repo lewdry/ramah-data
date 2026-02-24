@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-24T06:29:49Z",
+  "last run": "2026-02-24T07:27:27Z",
   "stories": [
+    {
+      "headline": "FBI director invites fresh scrutiny over travels with appearance at US men's hockey team celebration",
+      "link": "https://www.npr.org/2026/02/24/g-s1-111308/fbi-director-invites-fresh-scrutiny-over-travels-with-appearance-at-us-mens-hockey-team-celebration",
+      "mean_score": 0.3091,
+      "vader_score": 0.3182,
+      "textblob_score": 0.3,
+      "first_sentence": "WASHINGTON \u2014 When the American men's hockey team retreated to their locker room to celebrate their Winter Olympics gold medal win, they were joined by a special guest from the United States: FBI Director Kash Patel.",
+      "timestamp": "2026-02-24T07:10:46Z",
+      "source": "NPR News"
+    },
     {
       "headline": "\u2018We\u2019ve been paying for happy endings for Andrew for years\u2019: the inside story of a royal disgrace, by his biographer",
       "link": "https://www.theguardian.com/uk-news/2026/feb/24/andrew-mountbatten-windsor-biographer-andrew-lownie-entitled",
@@ -2490,16 +2500,6 @@
       "first_sentence": "It was one of the most improbable match-ups in movie history.",
       "timestamp": "2026-02-17T10:46:25Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "England\u2019s slow-burn T20 World Cup heads for Super 8s with campaign yet to ignite",
-      "link": "https://www.theguardian.com/sport/2026/feb/17/england-cricket-t20-world-cup-super-8s",
-      "mean_score": 0.4664,
-      "vader_score": 0.5994,
-      "textblob_score": 0.3333,
-      "first_sentence": "If there was one thing the players of England and Italy agreed on at the end of a hugely entertaining and, from an English perspective, frequently concerning match\u00a0at Kolkata\u2019s Eden Gardens, it was that the situation favoured their opponents.",
-      "timestamp": "2026-02-17T10:25:48Z",
-      "source": "The Guardian"
     }
   ]
 }
