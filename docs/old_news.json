@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Lime wants its ebikes to take over the streets \u2013 but do they pass our safety test?",
+    "link": "https://www.theguardian.com/news/2026/feb/17/lime-wants-its-ebikes-to-take-over-the-streets-but-do-they-pass-our-safety-test",
+    "mean_score": 0.386,
+    "vader_score": 0.5719,
+    "textblob_score": 0.2,
+    "first_sentence": "Lime\u2019s distinctive green ebikes have left many Australians seeing red, attracting hundreds of complaints of injuries and dumped bikes every year.",
+    "timestamp": "2026-02-17T14:00:15Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "In a taste-test battle of supermarket mite-y bites, which will win? (Spoiler: it isn\u2019t Vegemite)",
     "link": "https://www.theguardian.com/food/2026/feb/17/supermarket-taste-test-yeast-spreads-vegemite-promite-marmite",
     "mean_score": 0.548,
