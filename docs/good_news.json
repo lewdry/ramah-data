@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-24T04:42:20Z",
+  "last run": "2026-02-24T05:33:40Z",
   "stories": [
+    {
+      "headline": "\u2018We\u2019ve been paying for happy endings for Andrew for years\u2019: the inside story of a royal disgrace, by his biographer",
+      "link": "https://www.theguardian.com/uk-news/2026/feb/24/andrew-mountbatten-windsor-biographer-andrew-lownie-entitled",
+      "mean_score": 0.464,
+      "vader_score": 0.128,
+      "textblob_score": 0.8,
+      "first_sentence": "Entitled was published last year, after four years of research.",
+      "timestamp": "2026-02-24T05:00:02Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "\u2018What\u2019s up with all these monkeys\u2019: Djungelskog the orangutan comforted Punch \u2013 but can the Ikea toy help me?",
       "link": "https://www.theguardian.com/world/2026/feb/24/punch-monkey-djungelskog-ikea-toy",
@@ -2490,16 +2500,6 @@
       "first_sentence": "If there was one thing the players of England and Italy agreed on at the end of a hugely entertaining and, from an English perspective, frequently concerning match\u00a0at Kolkata\u2019s Eden Gardens, it was that the situation favoured their opponents.",
       "timestamp": "2026-02-17T10:25:48Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "TV antennas and Super Bowl rehearsals: How prediction market traders seek an edge",
-      "link": "https://www.npr.org/2026/02/17/nx-s1-5716224/kalshi-polymarket-super-bowl-alpha",
-      "mean_score": 0.4664,
-      "vader_score": 0.5994,
-      "textblob_score": 0.3333,
-      "first_sentence": "That's finance slang for finding a competitive edge.",
-      "timestamp": "2026-02-17T10:00:00Z",
-      "source": "NPR News"
     }
   ]
 }
