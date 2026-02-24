@@ -1,5 +1,25 @@
 [
   {
+    "headline": "In a taste-test battle of supermarket mite-y bites, which will win? (Spoiler: it isn\u2019t Vegemite)",
+    "link": "https://www.theguardian.com/food/2026/feb/17/supermarket-taste-test-yeast-spreads-vegemite-promite-marmite",
+    "mean_score": 0.548,
+    "vader_score": 0.296,
+    "textblob_score": 0.8,
+    "first_sentence": "At the end of most taste tests, I have a clear idea of winners and losers, and I\u2019m usually confident enough in the findings that I\u2019d bet if I repeated it 100 times, with a different set of testers, the results would be similar.",
+    "timestamp": "2026-02-17T14:00:14Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "France releases suspected Russian shadow fleet tanker after huge fine, as Ukraine peace talks begin \u2013 Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/feb/17/ukraine-talks-geneva-russia-zelenskyy-putin-orban-rubio-latest-news-updates",
+    "mean_score": 0.4645,
+    "vader_score": 0.6908,
+    "textblob_score": 0.2383,
+    "first_sentence": "France released a tanker suspected of being part of Russia\u2019s sanctions-busting \u201cshadow fleet\u201d called \u201cGrinch\u201d after its owner paid a fine of several million euros, a minister said in comments reported by AFP.",
+    "timestamp": "2026-02-17T13:09:58Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "ASIC announces review into 'lead generators' pushing super switching",
     "link": "https://www.abc.net.au/news/2026-02-18/asic-announces-review-into-lead-generators-superannuation/106353740",
     "mean_score": 0.4664,
