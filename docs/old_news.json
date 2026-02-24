@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Forget Maga. Welcome to Mega: Make Empire Great Again | Mehdi Hasan",
+    "link": "https://www.theguardian.com/commentisfree/2026/feb/17/maga-marco-rubio-munich-security-conference",
+    "mean_score": 0.7675,
+    "vader_score": 0.7351,
+    "textblob_score": 0.8,
+    "first_sentence": "Fresh from toppling the president of Venezuela and taking control of the world\u2019s largest oil reserves, the Trump administration\u2019s top diplomat arrived at the Munich security conference on Saturday with a rather new and very disturbing message for European governments.",
+    "timestamp": "2026-02-17T15:00:45Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Ancient crocodile named Jones after 'inspirational' teacher",
+    "link": "https://www.bbc.com/news/articles/c1kgjwlmdv0o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.5053,
+    "vader_score": 0.5106,
+    "textblob_score": 0.5,
+    "first_sentence": "A newly-identified species of ancient crocodile has been named after an \"inspirational\" teacher by the scientist leading the research.",
+    "timestamp": "2026-02-17T14:25:21Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Jesse Jackson was \u2018direct connection to great civil rights era\u2019, says Diane Abbott",
     "link": "https://www.theguardian.com/us-news/2026/feb/17/jesse-jackson-direct-connection-great-civil-rights-era-diane-abbott",
     "mean_score": 0.5374,

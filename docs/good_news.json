@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-24T20:15:56Z",
+  "last run": "2026-02-24T21:15:36Z",
   "stories": [
+    {
+      "headline": "Google apologises for Baftas alert to 'see more' on racial slur",
+      "link": "https://www.bbc.com/news/articles/c3v730qwwzwo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4794,
+      "vader_score": 0.4588,
+      "textblob_score": 0.5,
+      "first_sentence": "Google has apologised for sending a news alert on this year's Bafta awards ceremony that suggested suggesting people read further into a racial slur.",
+      "timestamp": "2026-02-24T20:24:26Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Live: Taylor pleased PM 'safe and well' after evacuation from The Lodge over security threat",
       "link": "https://www.abc.net.au/news/2026-02-25/albanese-evacuation-labor-taylor-coalition-capital-gains/106382944",
@@ -9,6 +19,16 @@
       "textblob_score": 0.3788,
       "first_sentence": "Prime Minister Anthony Albanese was evacuated from The Lodge while police searched his residence in Canberra following a security threat.",
       "timestamp": "2026-02-24T20:02:34Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "'This is the place we've been looking for': Refugees find peace in new home",
+      "link": "https://www.abc.net.au/news/2026-02-25/congolese-refugees-welcomed-in-armidale-nsw/105972890",
+      "mean_score": 0.3393,
+      "vader_score": 0.5423,
+      "textblob_score": 0.1364,
+      "first_sentence": "Last year, 275 refugees, predominantly from Africa, settled in Armidale.",
+      "timestamp": "2026-02-24T19:31:26Z",
       "source": "ABC News"
     },
     {
@@ -2480,26 +2500,6 @@
       "first_sentence": "V\u00edtor Pereira believes the trust he has with Nottingham Forest\u2019s owner, Evangelos Marinakis, means he can survive the poisoned chalice of the City Ground job.",
       "timestamp": "2026-02-17T15:12:27Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Forget Maga. Welcome to Mega: Make Empire Great Again | Mehdi Hasan",
-      "link": "https://www.theguardian.com/commentisfree/2026/feb/17/maga-marco-rubio-munich-security-conference",
-      "mean_score": 0.7675,
-      "vader_score": 0.7351,
-      "textblob_score": 0.8,
-      "first_sentence": "Fresh from toppling the president of Venezuela and taking control of the world\u2019s largest oil reserves, the Trump administration\u2019s top diplomat arrived at the Munich security conference on Saturday with a rather new and very disturbing message for European governments.",
-      "timestamp": "2026-02-17T15:00:45Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Ancient crocodile named Jones after 'inspirational' teacher",
-      "link": "https://www.bbc.com/news/articles/c1kgjwlmdv0o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5053,
-      "vader_score": 0.5106,
-      "textblob_score": 0.5,
-      "first_sentence": "A newly-identified species of ancient crocodile has been named after an \"inspirational\" teacher by the scientist leading the research.",
-      "timestamp": "2026-02-17T14:25:21Z",
-      "source": "BBC News"
     }
   ]
 }
