@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-24T19:26:54Z",
+  "last run": "2026-02-24T20:15:56Z",
   "stories": [
+    {
+      "headline": "Live: Taylor pleased PM 'safe and well' after evacuation from The Lodge over security threat",
+      "link": "https://www.abc.net.au/news/2026-02-25/albanese-evacuation-labor-taylor-coalition-capital-gains/106382944",
+      "mean_score": 0.5442,
+      "vader_score": 0.7096,
+      "textblob_score": 0.3788,
+      "first_sentence": "Prime Minister Anthony Albanese was evacuated from The Lodge while police searched his residence in Canberra following a security threat.",
+      "timestamp": "2026-02-24T20:02:34Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Travel quiz: Can you win our race around the world?",
       "link": "https://www.abc.net.au/news/2026-02-25/travel-quiz/106251072",
@@ -2490,16 +2500,6 @@
       "first_sentence": "A newly-identified species of ancient crocodile has been named after an \"inspirational\" teacher by the scientist leading the research.",
       "timestamp": "2026-02-17T14:25:21Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Jesse Jackson was \u2018direct connection to great civil rights era\u2019, says Diane Abbott",
-      "link": "https://www.theguardian.com/us-news/2026/feb/17/jesse-jackson-direct-connection-great-civil-rights-era-diane-abbott",
-      "mean_score": 0.5374,
-      "vader_score": 0.6249,
-      "textblob_score": 0.45,
-      "first_sentence": "Jesse Jackson was a \u201cdirect connection to the great era of civil rights\u201d, Diane Abbott said, leading UK tributes to the African American campaigner.",
-      "timestamp": "2026-02-17T14:09:54Z",
-      "source": "The Guardian"
     }
   ]
 }
