@@ -1,5 +1,15 @@
 [
   {
+    "headline": "'One of the greatest actors we ever had': Hollywood mourns Robert Duvall",
+    "link": "https://www.bbc.com/news/articles/ce3g41z58vno?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.6011,
+    "vader_score": 0.2023,
+    "textblob_score": 1.0,
+    "first_sentence": "The Godfather and Apocalypse Now star Robert Duvall has been hailed as \"a giant\" and \"one of the greatest actors we ever had\" following his death at the age of 95.",
+    "timestamp": "2026-02-17T09:45:43Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Analog bag filled with hobbies help people go offline",
     "link": "https://www.npr.org/2026/02/17/nx-s1-5704343/analog-bag-filled-with-hobbies-help-people-go-offline",
     "mean_score": 0.348,
