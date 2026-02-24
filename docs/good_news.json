@@ -1,6 +1,36 @@
 {
-  "last run": "2026-02-24T09:24:59Z",
+  "last run": "2026-02-24T10:23:22Z",
   "stories": [
+    {
+      "headline": "Love Island winners revealed after drama-filled All Stars series",
+      "link": "https://www.bbc.com/news/articles/ceqvy1yn0y1o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.6537,
+      "vader_score": 0.8074,
+      "textblob_score": 0.5,
+      "first_sentence": "This article contains spoilers for the Love Island: All Stars final.",
+      "timestamp": "2026-02-24T10:13:04Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "\u2018It\u2019s more exciting than Tesco\u2019: can traditional fishing lure Cornwall\u2019s young people?",
+      "link": "https://www.theguardian.com/environment/2026/feb/24/its-more-exciting-than-tesco-can-traditional-fishing-lure-cornwalls-young-people",
+      "mean_score": 0.3831,
+      "vader_score": 0.5413,
+      "textblob_score": 0.225,
+      "first_sentence": "It\u2019s mid-morning on a rare calm day in Newlyn, Cornwall.",
+      "timestamp": "2026-02-24T10:00:11Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "WIN Network buys Nine Darwin, expanding operations to the NT",
+      "link": "https://www.abc.net.au/news/2026-02-24/win-network-expands-to-nt-acquires-nine-darwin-broadcast-licence/106381370",
+      "mean_score": 0.7369,
+      "vader_score": 0.6739,
+      "textblob_score": 0.8,
+      "first_sentence": "The WIN Network has acquired Nine Darwin under a five-year agreement, a year after Nine scrapped its local Northern Territory TV news bulletin.",
+      "timestamp": "2026-02-24T09:40:57Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Rugby league should celebrate and build on the World Club Challenge",
       "link": "https://www.theguardian.com/sport/no-helmets-required/2026/feb/24/rugby-league-celebrate-world-club-challenge-hull-kr-brisbane-broncos",
@@ -2470,36 +2500,6 @@
       "first_sentence": "GANGTOK, India \u2014 Nearly four years ago, Indian Finance Minister Nirmala Sitharaman told the Parliament she had big plans for India's border villages.",
       "timestamp": "2026-02-17T12:30:00Z",
       "source": "NPR News"
-    },
-    {
-      "headline": "\u2018I\u2019m trying to expand what it means to be a skier\u2019: Mallory Duncan on jazz, freedom and the mountains",
-      "link": "https://www.theguardian.com/sport/2026/feb/17/mallory-duncan-skiing-jazz-blackcountry-journal",
-      "mean_score": 0.379,
-      "vader_score": 0.7579,
-      "textblob_score": 0.0,
-      "first_sentence": "Growing up in the Hayward Hills, just south of Oakland, California, Mallory Duncan lived a hybrid lifestyle throughout his childhood.",
-      "timestamp": "2026-02-17T11:00:50Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The Breakdown | France\u2019s creative heart \u2018Jalipont\u2019 can easily join rugby\u2019s great double-acts",
-      "link": "https://www.theguardian.com/sport/2026/feb/17/the-breakdown-dupont-jalibert-six-nations-rugby-union",
-      "mean_score": 0.7595,
-      "vader_score": 0.9413,
-      "textblob_score": 0.5778,
-      "first_sentence": "The greatest double acts roll off the tongue.",
-      "timestamp": "2026-02-17T10:54:48Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Bangladesh\u2019s new prime minister is sworn in after his party\u2019s landslide election win",
-      "link": "https://apnews.com/article/bangladesh-election-tarique-rahman-yunus-fbc4222e01bbc5aa7ac120801218ef24",
-      "mean_score": 0.527,
-      "vader_score": 0.5859,
-      "textblob_score": 0.4682,
-      "first_sentence": "DHAKA, Bangladesh (AP) \u2014 Bangladesh\u2019 s new prime minister was sworn in on Tuesday after his party\u2019s landslide win in last week\u2019s parliamentary elections, the country\u2019s first since the massive 2024 uprising and a vote billed as key to the nation\u2019s future political landscape after years of intense rivalry and disputed polls.",
-      "timestamp": "2026-02-17T10:53:01Z",
-      "source": "AP News"
     }
   ]
 }
