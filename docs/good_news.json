@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-24T07:27:27Z",
+  "last run": "2026-02-24T08:21:33Z",
   "stories": [
+    {
+      "headline": "Rugby league should celebrate and build on the World Club Challenge",
+      "link": "https://www.theguardian.com/sport/no-helmets-required/2026/feb/24/rugby-league-celebrate-world-club-challenge-hull-kr-brisbane-broncos",
+      "mean_score": 0.3062,
+      "vader_score": 0.6124,
+      "textblob_score": 0.0,
+      "first_sentence": "Lifelong memories are not usually made during dank winter nights at the MKM Stadium in Hull, but the World Club Challenge will be treasured even by those of us who do not have red and white allegiances.",
+      "timestamp": "2026-02-24T08:00:05Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "FBI director invites fresh scrutiny over travels with appearance at US men's hockey team celebration",
       "link": "https://www.npr.org/2026/02/24/g-s1-111308/fbi-director-invites-fresh-scrutiny-over-travels-with-appearance-at-us-mens-hockey-team-celebration",
@@ -2490,16 +2500,6 @@
       "first_sentence": "DHAKA, Bangladesh (AP) \u2014 Bangladesh\u2019 s new prime minister was sworn in on Tuesday after his party\u2019s landslide win in last week\u2019s parliamentary elections, the country\u2019s first since the massive 2024 uprising and a vote billed as key to the nation\u2019s future political landscape after years of intense rivalry and disputed polls.",
       "timestamp": "2026-02-17T10:53:01Z",
       "source": "AP News"
-    },
-    {
-      "headline": "When Robert Duvall fell in love with Scottish football",
-      "link": "https://www.bbc.com/news/articles/c2lrjp0lz4go?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5685,
-      "vader_score": 0.6369,
-      "textblob_score": 0.5,
-      "first_sentence": "It was one of the most improbable match-ups in movie history.",
-      "timestamp": "2026-02-17T10:46:25Z",
-      "source": "BBC News"
     }
   ]
 }
