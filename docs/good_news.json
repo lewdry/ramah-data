@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-24T23:13:56Z",
+  "last run": "2026-02-25T00:45:05Z",
   "stories": [
+    {
+      "headline": "NHS secures bone cement rescue package so joint surgery can resume",
+      "link": "https://www.bbc.com/news/articles/cnv670d128go?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3404,
+      "vader_score": 0.6808,
+      "textblob_score": 0.0,
+      "first_sentence": "The NHS says it has secured a rescue package of alternative medical cement to allow joint surgery to continue.",
+      "timestamp": "2026-02-25T00:08:16Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Citizen scientists discover a Great Barrier Reef coral giant \u2018like a rolling meadow\u2019",
       "link": "https://www.theguardian.com/environment/2026/feb/24/citizen-scientists-discover-great-barrier-reef-coral-giant-census",
@@ -50,6 +60,16 @@
       "first_sentence": "Take a squiz at the ABC's New Quiz topic page and see if you're a whiz at our previous quizzes.",
       "timestamp": "2026-02-24T18:30:00Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "Christ arises and waiters break \u2013 readers\u2019 best photographs",
+      "link": "https://www.theguardian.com/community/gallery/2026/feb/24/christ-arises-and-waiters-break-readers-best-photographs",
+      "mean_score": 0.8185,
+      "vader_score": 0.6369,
+      "textblob_score": 1.0,
+      "first_sentence": "Click here to submit a picture for publication in these online galleries and/or on the Guardian letters page Continue reading.",
+      "timestamp": "2026-02-24T16:00:45Z",
+      "source": "The Guardian"
     },
     {
       "headline": "Down with Love: Ewan McGregor and Ren\u00e9e Zellweger\u2019s perfectly offbeat 60s fantasy",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.5,
       "first_sentence": "Age: Entered common parlance around the 1980s \u2013 Rosalind Coward used the term in her 1984 book Female Desire (one of its earliest documented uses).",
       "timestamp": "2026-02-17T16:19:21Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Here's the fun, action-packed trailer for Mandolorian and Grogu",
-      "link": "https://arstechnica.com/culture/2026/02/heres-the-fun-action-packed-trailer-for-mandolorian-and-grogu/",
-      "mean_score": 0.4053,
-      "vader_score": 0.5106,
-      "textblob_score": 0.3,
-      "first_sentence": "At long last, we have the official full trailer for The Mandalorian and Grogu, a feature film spinoff from Disney\u2019s megahit Star Wars series The Mandalorian.",
-      "timestamp": "2026-02-17T16:10:43Z",
-      "source": "Ars Technica"
-    },
-    {
-      "headline": "Winter Olympics 2026: France win biathlon relay, glory for Oftebro in Nordic combined \u2013 live",
-      "link": "https://www.theguardian.com/sport/live/2026/feb/17/winter-olympics-2026-crunch-time-in-curling-slopestyle-bobsleigh-and-more-on-day-11-live",
-      "mean_score": 0.6378,
-      "vader_score": 0.8074,
-      "textblob_score": 0.4682,
-      "first_sentence": "Our teams are ready to go for bronze.",
-      "timestamp": "2026-02-17T15:20:31Z",
       "source": "The Guardian"
     }
   ]
