@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-25T21:16:34Z",
+  "last run": "2026-02-25T22:12:44Z",
   "stories": [
+    {
+      "headline": "How shed boxes became one of the most precious collections in Australia",
+      "link": "https://www.abc.net.au/news/2026-02-26/aboriginal-activism-history-foley-collection-victoria-university/106385374",
+      "mean_score": 0.5557,
+      "vader_score": 0.6115,
+      "textblob_score": 0.5,
+      "first_sentence": "Warning: This story contains images of Indigenous people who have died.",
+      "timestamp": "2026-02-25T21:36:54Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Swedish vocal quartet \u00c5kervinda among highlights in annual radio festival on ABC Classic",
       "link": "https://www.abc.net.au/news/2026-02-26/guide-to-listening-international-womens-day-abc-classic-abc-jazz/106383718",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.2,
       "first_sentence": "It is a cold night before Ramadan, and a group of men are completing health and safety checks inside Cumbria\u2019s partly completed South Lakes Islamic Centre (SLIC).",
       "timestamp": "2026-02-18T12:12:20Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Winter Olympics 2026: Kl\u00e6bo wins fifth gold of Games; women\u2019s slalom, curling and more \u2013 live",
-      "link": "https://www.theguardian.com/sport/live/2026/feb/18/winter-olympics-2026-day-12-live-updates-slalom-slopestyle-curling-biathlon",
-      "mean_score": 0.442,
-      "vader_score": 0.5719,
-      "textblob_score": 0.3121,
-      "first_sentence": "Freestyle skiing: Xu does not stay in that top spot for long.",
-      "timestamp": "2026-02-18T12:09:07Z",
       "source": "The Guardian"
     }
   ]
