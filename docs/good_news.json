@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-25T19:27:35Z",
+  "last run": "2026-02-25T20:16:19Z",
   "stories": [
+    {
+      "headline": "Summer Games gold medallist sets sights on success in snow at Milan",
+      "link": "https://www.abc.net.au/news/2026-02-26/lauren-parker-paralympian-cross-country-skiing-milan-games/106366618",
+      "mean_score": 0.4359,
+      "vader_score": 0.5719,
+      "textblob_score": 0.3,
+      "first_sentence": "Paralympic gold-medal-winning triathlete Lauren Parker will compete at the Milano Cortina 2026 Paralympics, becoming a dual-games athlete.",
+      "timestamp": "2026-02-25T19:49:43Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Super industry sounds alarm about increased switching to 'riskier' funds",
       "link": "https://www.abc.net.au/news/2026-02-26/more-australians-switching-to-potentially-riskier-super-funds/106386326",
@@ -10,6 +20,16 @@
       "first_sentence": "More Australians are switching to \"riskier\" super funds, up 17 per cent over the past year, according to Super Members Council.",
       "timestamp": "2026-02-25T18:37:51Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "Steve Borthwick turns to 2003 World Cup heroes for Six Nations inspiration",
+      "link": "https://www.theguardian.com/sport/2026/feb/25/england-rugby-union-six-nations-2026-borthwick-world-cup",
+      "mean_score": 0.3859,
+      "vader_score": 0.7717,
+      "textblob_score": 0.0,
+      "first_sentence": "Steve Borthwick has turned to England\u2019s 2003 World Cup winners to arrest his side\u2019s drastic decline after enduring another setback with the scrum\u2011half Alex Mitchell ruled out for the rest of the Six Nations.",
+      "timestamp": "2026-02-25T18:31:49Z",
+      "source": "The Guardian"
     },
     {
       "headline": "2026 Lexus RZ 550e review: Likable, but it needs improvement",
@@ -2332,6 +2352,16 @@
       "source": "The Guardian"
     },
     {
+      "headline": "Plaid promises Welsh communities share of renewable energy profits",
+      "link": "https://www.bbc.com/news/articles/ckg180x2dq7o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4158,
+      "vader_score": 0.8316,
+      "textblob_score": 0.0,
+      "first_sentence": "Renewable energy projects will need to offer local communities part of their profits if they are to be approved by a Plaid Cymru-led Welsh government, the party has said.",
+      "timestamp": "2026-02-18T14:54:24Z",
+      "source": "BBC News"
+    },
+    {
       "headline": "\u2018OK, talk, but don\u2019t make any sound!\u2019: Philippe Gaulier\u2019s illustrious students on his clowning glory",
       "link": "https://www.theguardian.com/stage/2026/feb/18/philippe-gaulier-remembered-rachel-weisz-sally-phillips-simon-munnery",
       "mean_score": 0.611,
@@ -2470,36 +2500,6 @@
       "first_sentence": "As a small child, Winston Eggleston was only vaguely aware that his father, William Eggleston, was a famous photographer.",
       "timestamp": "2026-02-18T10:03:04Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "8 creative ways to build your village, according to our listeners",
-      "link": "https://www.npr.org/2026/02/18/nx-s1-5716105/8-creative-ways-to-build-your-village-community-according-to-our-listeners",
-      "mean_score": 0.4702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.5,
-      "first_sentence": "How did you build your village? We asked NPR's audience this question in our newsletter in January, inspired by Life Kit's interview with Priya Parker on how to create community.",
-      "timestamp": "2026-02-18T10:00:00Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "No trees, no food, shot for fun \u2026 yet Serbia\u2019s imperial eagles are making an improbable return",
-      "link": "https://www.theguardian.com/environment/2026/feb/18/serbia-eastern-imperial-eagles-returning-aoe",
-      "mean_score": 0.3783,
-      "vader_score": 0.4567,
-      "textblob_score": 0.3,
-      "first_sentence": "At the start of every spring, before the trees in northern Serbia begin to leaf out, ornithologists drive across the plains of Vojvodina.",
-      "timestamp": "2026-02-18T09:00:03Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Live: Australia's Dani Scott wins silver in women's aerials",
-      "link": "https://www.abc.net.au/news/2026-02-18/winter-olympics-day-12-live-blog/106358928",
-      "mean_score": 0.395,
-      "vader_score": 0.5719,
-      "textblob_score": 0.2182,
-      "first_sentence": "Australia's Danielle Scott and Abbey Willcox are through to the final of the women's aerials at Livigno on day 12 at the Winter Olympics.",
-      "timestamp": "2026-02-18T08:35:01Z",
-      "source": "ABC News"
     }
   ]
 }

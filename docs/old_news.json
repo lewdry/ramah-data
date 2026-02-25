@@ -1,5 +1,35 @@
 [
   {
+    "headline": "8 creative ways to build your village, according to our listeners",
+    "link": "https://www.npr.org/2026/02/18/nx-s1-5716105/8-creative-ways-to-build-your-village-community-according-to-our-listeners",
+    "mean_score": 0.4702,
+    "vader_score": 0.4404,
+    "textblob_score": 0.5,
+    "first_sentence": "How did you build your village? We asked NPR's audience this question in our newsletter in January, inspired by Life Kit's interview with Priya Parker on how to create community.",
+    "timestamp": "2026-02-18T10:00:00Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "No trees, no food, shot for fun \u2026 yet Serbia\u2019s imperial eagles are making an improbable return",
+    "link": "https://www.theguardian.com/environment/2026/feb/18/serbia-eastern-imperial-eagles-returning-aoe",
+    "mean_score": 0.3783,
+    "vader_score": 0.4567,
+    "textblob_score": 0.3,
+    "first_sentence": "At the start of every spring, before the trees in northern Serbia begin to leaf out, ornithologists drive across the plains of Vojvodina.",
+    "timestamp": "2026-02-18T09:00:03Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Live: Australia's Dani Scott wins silver in women's aerials",
+    "link": "https://www.abc.net.au/news/2026-02-18/winter-olympics-day-12-live-blog/106358928",
+    "mean_score": 0.395,
+    "vader_score": 0.5719,
+    "textblob_score": 0.2182,
+    "first_sentence": "Australia's Danielle Scott and Abbey Willcox are through to the final of the women's aerials at Livigno on day 12 at the Winter Olympics.",
+    "timestamp": "2026-02-18T08:35:01Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Plaid promises Welsh communities share of renewable energy profits",
     "link": "https://www.bbc.com/news/articles/ckg180x2dq7o?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.4158,
