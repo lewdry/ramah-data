@@ -1,5 +1,5 @@
 {
-  "last run": "2026-02-25T13:36:12Z",
+  "last run": "2026-02-25T14:27:15Z",
   "stories": [
     {
       "headline": "HSBC bankers to share $3.9bn bonus pot, the highest in more than a decade",
@@ -210,6 +210,16 @@
       "first_sentence": "Take a squiz at the ABC's New Quiz topic page and see if you're a whiz at our previous quizzes.",
       "timestamp": "2026-02-24T18:30:00Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "'Phenomenal' Bafta winner hailed an inspiration",
+      "link": "https://www.bbc.com/news/articles/cvgv05r8dgpo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.6721,
+      "vader_score": 0.8442,
+      "textblob_score": 0.5,
+      "first_sentence": "Robert Aramayo has been hailed an inspiration by people in his home city of Hull following the actor's Bafta success.",
+      "timestamp": "2026-02-24T16:14:35Z",
+      "source": "BBC News"
     },
     {
       "headline": "Christ arises and waiters break \u2013 readers\u2019 best photographs",
@@ -749,6 +759,16 @@
       "textblob_score": 0.35,
       "first_sentence": "The winners of the Bafta Film Awards, which celebrate the best on the big screen from the past 12 months, have been revealed.",
       "timestamp": "2026-02-22T21:14:19Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "The best looks from the Baftas red carpet",
+      "link": "https://www.bbc.com/news/articles/cvg3eq3gjeyo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5685,
+      "vader_score": 0.6369,
+      "textblob_score": 0.5,
+      "first_sentence": "Stars descended on London for this year's Bafta Film Awards at the Royal Festival Hall, to celebrate the best of the big screen.",
+      "timestamp": "2026-02-22T21:04:13Z",
       "source": "BBC News"
     },
     {
@@ -2480,26 +2500,6 @@
       "first_sentence": "A pair of penguins waddled into a care home in Nottinghamshire to spread some cheer to residents.",
       "timestamp": "2026-02-18T06:08:50Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Witkoff says 'meaningful progress' made as Ukraine talks enter second day",
-      "link": "https://www.bbc.com/news/articles/cgk2mlv2k1ro?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4375,
-      "vader_score": 0.6249,
-      "textblob_score": 0.25,
-      "first_sentence": "US special envoy Steve Witkoff said talks between Ukraine and Russia had \"brought about meaningful progress\" to end the war, as both sides prepared for a second day of negotiations in Geneva on Wednesday.",
-      "timestamp": "2026-02-18T06:00:34Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Tech billionaires fly in for Delhi AI expo as Modi jostles to lead in south",
-      "link": "https://www.theguardian.com/technology/2026/feb/18/delhi-ai-expo-modi-jostles-lead-south",
-      "mean_score": 0.4,
-      "vader_score": 0.0,
-      "textblob_score": 0.8,
-      "first_sentence": "Silicon Valley tech billionaires will land in Delhi this week for an AI summit hosted by India\u2019s prime minister, Narendra Modi, where leaders of the global south will wrestle for control over the fast-developing technology.",
-      "timestamp": "2026-02-18T05:00:00Z",
-      "source": "The Guardian"
     }
   ]
 }

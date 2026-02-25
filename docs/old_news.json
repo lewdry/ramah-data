@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Witkoff says 'meaningful progress' made as Ukraine talks enter second day",
+    "link": "https://www.bbc.com/news/articles/cgk2mlv2k1ro?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4375,
+    "vader_score": 0.6249,
+    "textblob_score": 0.25,
+    "first_sentence": "US special envoy Steve Witkoff said talks between Ukraine and Russia had \"brought about meaningful progress\" to end the war, as both sides prepared for a second day of negotiations in Geneva on Wednesday.",
+    "timestamp": "2026-02-18T06:00:34Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Tech billionaires fly in for Delhi AI expo as Modi jostles to lead in south",
+    "link": "https://www.theguardian.com/technology/2026/feb/18/delhi-ai-expo-modi-jostles-lead-south",
+    "mean_score": 0.4,
+    "vader_score": 0.0,
+    "textblob_score": 0.8,
+    "first_sentence": "Silicon Valley tech billionaires will land in Delhi this week for an AI summit hosted by India\u2019s prime minister, Narendra Modi, where leaders of the global south will wrestle for control over the fast-developing technology.",
+    "timestamp": "2026-02-18T05:00:00Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Cindy makes 1,000 dumplings a day. This is how she gets the perfect pleat \u2013\u00a0video",
     "link": "https://www.theguardian.com/food/video/2026/feb/18/cindy-makes-1000-dumplings-a-day-this-is-how-she-gets-the-perfect-pleat-video",
     "mean_score": 0.7633,
