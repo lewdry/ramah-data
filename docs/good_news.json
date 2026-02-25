@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-25T00:45:05Z",
+  "last run": "2026-02-25T01:38:51Z",
   "stories": [
+    {
+      "headline": "Pharmacists say better access needed to home medicines program",
+      "link": "https://www.abc.net.au/news/health/2026-02-25/home-medicine-review-pharmacy-patient/106380108",
+      "mean_score": 0.4702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.5,
+      "first_sentence": "Pharmacists are calling for a budget increase and removal of caps for a home medicine review program, which they say keeps people out of hospital and may even extend lives.",
+      "timestamp": "2026-02-25T01:02:37Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Woolworths reports 16% jump in profits as ACCC prepares legal action over \u2018illusory\u2019 discounts",
+      "link": "https://www.theguardian.com/australia-news/2026/feb/25/woolworths-reports-16-jump-in-profits-as-accc-prepares-legal-action-over-illusory-discounts",
+      "mean_score": 0.3383,
+      "vader_score": 0.5267,
+      "textblob_score": 0.15,
+      "first_sentence": "Woolworths has reported a significant 16.4% rise in profit, helped by expanding its margins in its key supermarket business.",
+      "timestamp": "2026-02-25T00:45:45Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "NHS secures bone cement rescue package so joint surgery can resume",
       "link": "https://www.bbc.com/news/articles/cnv670d128go?at_medium=RSS&at_campaign=rss",
@@ -2480,26 +2500,6 @@
       "first_sentence": "\"You paid a hundred and sixty thousand euros for this shit?\" Marc asks his old friend Serge at the start of Art.",
       "timestamp": "2026-02-17T18:30:00Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "New Orleans celebrates Mardi Gras, the indulgent conclusion of Carnival season",
-      "link": "https://apnews.com/article/mardi-gras-parades-new-orleans-92d89f37b7d957c39c9e28ee7c6a9a5b",
-      "mean_score": 0.3541,
-      "vader_score": 0.5719,
-      "textblob_score": 0.1364,
-      "first_sentence": "NEW ORLEANS, La.",
-      "timestamp": "2026-02-17T18:23:02Z",
-      "source": "AP News"
-    },
-    {
-      "headline": "\u2018Food porn\u2019: are sexy meal pics ruining the restaurant industry?",
-      "link": "https://www.theguardian.com/food/2026/feb/17/food-porn-are-sexy-meal-pics-ruining-the-restaurant-industry",
-      "mean_score": 0.42,
-      "vader_score": 0.34,
-      "textblob_score": 0.5,
-      "first_sentence": "Age: Entered common parlance around the 1980s \u2013 Rosalind Coward used the term in her 1984 book Female Desire (one of its earliest documented uses).",
-      "timestamp": "2026-02-17T16:19:21Z",
-      "source": "The Guardian"
     }
   ]
 }

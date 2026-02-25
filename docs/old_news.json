@@ -1,5 +1,25 @@
 [
   {
+    "headline": "New Orleans celebrates Mardi Gras, the indulgent conclusion of Carnival season",
+    "link": "https://apnews.com/article/mardi-gras-parades-new-orleans-92d89f37b7d957c39c9e28ee7c6a9a5b",
+    "mean_score": 0.3541,
+    "vader_score": 0.5719,
+    "textblob_score": 0.1364,
+    "first_sentence": "NEW ORLEANS, La.",
+    "timestamp": "2026-02-17T18:23:02Z",
+    "source": "AP News"
+  },
+  {
+    "headline": "\u2018Food porn\u2019: are sexy meal pics ruining the restaurant industry?",
+    "link": "https://www.theguardian.com/food/2026/feb/17/food-porn-are-sexy-meal-pics-ruining-the-restaurant-industry",
+    "mean_score": 0.42,
+    "vader_score": 0.34,
+    "textblob_score": 0.5,
+    "first_sentence": "Age: Entered common parlance around the 1980s \u2013 Rosalind Coward used the term in her 1984 book Female Desire (one of its earliest documented uses).",
+    "timestamp": "2026-02-17T16:19:21Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Here's the fun, action-packed trailer for Mandolorian and Grogu",
     "link": "https://arstechnica.com/culture/2026/02/heres-the-fun-action-packed-trailer-for-mandolorian-and-grogu/",
     "mean_score": 0.4053,
