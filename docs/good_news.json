@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-25T01:38:51Z",
+  "last run": "2026-02-25T03:08:36Z",
   "stories": [
+    {
+      "headline": "Woolworths shares surge as food sales and profit beat expectations",
+      "link": "https://www.abc.net.au/news/2026-02-25/woolworths-shares-surge-as-food-sales-and-profit-beat/106385714",
+      "mean_score": 0.3125,
+      "vader_score": 0.6249,
+      "textblob_score": 0.0,
+      "first_sentence": "Woolworths has reported a 16 per cent rise in net profit in the first half of the financial year, excluding a $485 million hit for repaying underpaid staff.",
+      "timestamp": "2026-02-25T01:42:24Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Pharmacists say better access needed to home medicines program",
       "link": "https://www.abc.net.au/news/health/2026-02-25/home-medicine-review-pharmacy-patient/106380108",
@@ -70,6 +80,16 @@
       "first_sentence": "Last year, 275 refugees, predominantly from Africa, settled in Armidale.",
       "timestamp": "2026-02-24T19:31:26Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "Are you on track to retire comfortably? Australia's new super benchmark released",
+      "link": "https://www.sbs.com.au/news/article/new-superannuation-target-released-comfortable-retirement/u5nkrhcnk",
+      "mean_score": 0.5308,
+      "vader_score": 0.7717,
+      "textblob_score": 0.2899,
+      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+      "timestamp": "2026-02-24T18:42:40Z",
+      "source": "SBS News"
     },
     {
       "headline": "Travel quiz: Can you win our race around the world?",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Steve Borthwick has backed Henry Pollock to thrive in the face of any wind-up tactics from Ireland on his first England start on Saturday, tipping his rising star to bring \u201ceuphoria\u201d to Twickenham.",
       "timestamp": "2026-02-17T18:44:44Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "'No-brainer': Why more young people like Zoe are rethinking their 'Australian Dream'",
-      "link": "https://www.sbs.com.au/news/article/no-brainer-why-more-young-people-like-zoe-are-rethinking-their-australian-dream/4mdmrz8w2",
-      "mean_score": 0.3904,
-      "vader_score": 0.5809,
-      "textblob_score": 0.2,
-      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-      "timestamp": "2026-02-17T18:43:52Z",
-      "source": "SBS News"
-    },
-    {
-      "headline": "Richard Roxburgh stars with real-life friends in 'wickedly funny' stage show",
-      "link": "https://www.abc.net.au/news/2026-02-18/art-the-play-richard-roxburgh-damon-herriman-toby-schmitz/106051888",
-      "mean_score": 0.3452,
-      "vader_score": 0.4404,
-      "textblob_score": 0.25,
-      "first_sentence": "\"You paid a hundred and sixty thousand euros for this shit?\" Marc asks his old friend Serge at the start of Art.",
-      "timestamp": "2026-02-17T18:30:00Z",
-      "source": "ABC News"
     }
   ]
 }
