@@ -1,6 +1,36 @@
 {
-  "last run": "2026-02-25T14:27:15Z",
+  "last run": "2026-02-25T15:26:55Z",
   "stories": [
+    {
+      "headline": "How did Epstein ensnare so many rich men? By knowing they were entitled and insecure | Emma Brockes",
+      "link": "https://www.theguardian.com/commentisfree/2026/feb/25/jeffrey-epstein-rich-men-entitled-and-insecure",
+      "mean_score": 0.3076,
+      "vader_score": 0.4902,
+      "textblob_score": 0.125,
+      "first_sentence": "One of the things that has been frequently puzzled over as the effluent of the Epstein story flows on, is how a college dropout who thought it was cool to do typos managed to persuade the world\u2019s most powerful into his lair.",
+      "timestamp": "2026-02-25T15:02:26Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Finally fixing capital gains tax is good \u2013 but linking it to another tax cut for Australia\u2019s rich is bollocks | Greg Jericho",
+      "link": "https://www.theguardian.com/business/grogonomics/2026/feb/25/capital-gains-tax-discount-federal-budget-coalition-tax-cuts-for-the-richest",
+      "mean_score": 0.534,
+      "vader_score": 0.7096,
+      "textblob_score": 0.3583,
+      "first_sentence": "With less than three months to go until the federal budget, you are going to be hearing a lot more about tax.",
+      "timestamp": "2026-02-25T14:00:40Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018I just want to be free\u2019: Australian children held in Syrian camps reveal their hopes and dreams",
+      "link": "https://www.theguardian.com/australia-news/2026/feb/25/for-an-hour-six-year-old-layla-was-free-now-shes-back-in-a-syrian-camp-where-she-has-spent-her-entire-life-ntwnfb",
+      "mean_score": 0.4502,
+      "vader_score": 0.7003,
+      "textblob_score": 0.2,
+      "first_sentence": "The first thing Layla did when she left al-Roj camp was stick her head out the car-window.",
+      "timestamp": "2026-02-25T14:00:39Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "HSBC bankers to share $3.9bn bonus pot, the highest in more than a decade",
       "link": "https://www.theguardian.com/business/2026/feb/25/hsbc-overhaul-bank-almost-over-profits-drop",
@@ -2470,36 +2500,6 @@
       "first_sentence": "I have waited years for this book.",
       "timestamp": "2026-02-18T07:00:01Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Career of ex-A-League star 'effectively over' after card fixing sentence",
-      "link": "https://www.abc.net.au/news/2026-02-18/ex-a-league-captain-ulises-d%C3%A1vila-fined-over-betting-scandal/106358086",
-      "mean_score": 0.547,
-      "vader_score": 0.4939,
-      "textblob_score": 0.6,
-      "first_sentence": "Ulises D\u00e1vila and two of his Macarthur FC teammates deliberately got yellow cards in a 2023 match against Sydney FC.",
-      "timestamp": "2026-02-18T06:47:41Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Rise in tax-free pay allowance 'totally positive'",
-      "link": "https://www.bbc.com/news/articles/cn4g828yqzjo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3843,
-      "vader_score": 0.5413,
-      "textblob_score": 0.2273,
-      "first_sentence": "Manx Businesses and pressure groups have welcomed what is the largest single rise in tax-free take home pay for workers, following the announcement of the budget.",
-      "timestamp": "2026-02-18T06:42:23Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Penguins delight residents in care home visit",
-      "link": "https://www.bbc.com/news/articles/cvg31kv2435o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3982,
-      "vader_score": 0.7964,
-      "textblob_score": 0.0,
-      "first_sentence": "A pair of penguins waddled into a care home in Nottinghamshire to spread some cheer to residents.",
-      "timestamp": "2026-02-18T06:08:50Z",
-      "source": "BBC News"
     }
   ]
 }

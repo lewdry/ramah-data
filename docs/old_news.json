@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Career of ex-A-League star 'effectively over' after card fixing sentence",
+    "link": "https://www.abc.net.au/news/2026-02-18/ex-a-league-captain-ulises-d%C3%A1vila-fined-over-betting-scandal/106358086",
+    "mean_score": 0.547,
+    "vader_score": 0.4939,
+    "textblob_score": 0.6,
+    "first_sentence": "Ulises D\u00e1vila and two of his Macarthur FC teammates deliberately got yellow cards in a 2023 match against Sydney FC.",
+    "timestamp": "2026-02-18T06:47:41Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Rise in tax-free pay allowance 'totally positive'",
+    "link": "https://www.bbc.com/news/articles/cn4g828yqzjo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3843,
+    "vader_score": 0.5413,
+    "textblob_score": 0.2273,
+    "first_sentence": "Manx Businesses and pressure groups have welcomed what is the largest single rise in tax-free take home pay for workers, following the announcement of the budget.",
+    "timestamp": "2026-02-18T06:42:23Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Penguins delight residents in care home visit",
+    "link": "https://www.bbc.com/news/articles/cvg31kv2435o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3982,
+    "vader_score": 0.7964,
+    "textblob_score": 0.0,
+    "first_sentence": "A pair of penguins waddled into a care home in Nottinghamshire to spread some cheer to residents.",
+    "timestamp": "2026-02-18T06:08:50Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Witkoff says 'meaningful progress' made as Ukraine talks enter second day",
     "link": "https://www.bbc.com/news/articles/cgk2mlv2k1ro?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.4375,
