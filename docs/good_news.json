@@ -1,5 +1,5 @@
 {
-  "last run": "2026-02-25T06:32:04Z",
+  "last run": "2026-02-25T07:27:54Z",
   "stories": [
     {
       "headline": "Opposition to expand Melbourne CBD in bid to boost home ownership",
@@ -80,6 +80,16 @@
       "first_sentence": "Citizen scientists have discovered what they believe is one of the largest coral colonies ever documented on the Great Barrier Reef.",
       "timestamp": "2026-02-24T22:00:52Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "Brockwell Park festivals approved by council",
+      "link": "https://www.bbc.com/news/articles/c4gjzdp2wkyo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3243,
+      "vader_score": 0.6486,
+      "textblob_score": 0.0,
+      "first_sentence": "Plans to hold a series of festivals in Brockwell Park have been approved, despite opposition from residents.",
+      "timestamp": "2026-02-24T21:11:13Z",
+      "source": "BBC News"
     },
     {
       "headline": "Google apologises for Baftas alert to 'see more' on racial slur",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.1364,
       "first_sentence": "Dr Randa Abdel-Fattah will appear in two sessions at this year\u2019s Sydney writers\u2019 festival, part of a program of about 200 events.",
       "timestamp": "2026-02-17T20:55:34Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Benfica v Real Madrid, Monaco v PSG, and more: Champions League \u2013 live",
-      "link": "https://www.theguardian.com/football/live/2026/feb/17/benfica-v-real-madrid-monaco-v-psg-and-more-champions-league-live",
-      "mean_score": 0.4248,
-      "vader_score": 0.5709,
-      "textblob_score": 0.2788,
-      "first_sentence": "Juve have fallen apart.",
-      "timestamp": "2026-02-17T19:11:18Z",
       "source": "The Guardian"
     }
   ]
