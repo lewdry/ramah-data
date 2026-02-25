@@ -1,5 +1,5 @@
 {
-  "last run": "2026-02-25T12:22:54Z",
+  "last run": "2026-02-25T13:36:12Z",
   "stories": [
     {
       "headline": "HSBC bankers to share $3.9bn bonus pot, the highest in more than a decade",
@@ -20,6 +20,16 @@
       "first_sentence": "The Tartan Army have been given the green light to wear sporrans with their kilts at World Cup matches this summer, the Scottish Football Association (SFA) has confirmed.",
       "timestamp": "2026-02-25T11:18:01Z",
       "source": "BBC News"
+    },
+    {
+      "headline": "Tax credits for solar panels are available, but the catch is you can't own them",
+      "link": "https://www.npr.org/2026/02/20/nx-s1-5649474/solar-panel-tax-credit",
+      "mean_score": 0.345,
+      "vader_score": 0.1901,
+      "textblob_score": 0.5,
+      "first_sentence": "PHILADELPHIA \u2014 On a recent cold morning, Micah Gold-Markel helped his installation crew hoist new solar panels onto the roof of a two-story, red brick house.",
+      "timestamp": "2026-02-25T09:40:11Z",
+      "source": "NPR News"
     },
     {
       "headline": "Child commissioner raises concerns about $50m secure care plan for at-risk kids",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.8,
       "first_sentence": "Silicon Valley tech billionaires will land in Delhi this week for an AI summit hosted by India\u2019s prime minister, Narendra Modi, where leaders of the global south will wrestle for control over the fast-developing technology.",
       "timestamp": "2026-02-18T05:00:00Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Cindy makes 1,000 dumplings a day. This is how she gets the perfect pleat \u2013\u00a0video",
-      "link": "https://www.theguardian.com/food/video/2026/feb/18/cindy-makes-1000-dumplings-a-day-this-is-how-she-gets-the-perfect-pleat-video",
-      "mean_score": 0.7633,
-      "vader_score": 0.5267,
-      "textblob_score": 1.0,
-      "first_sentence": "As Lunar New Year celebrations get under way, attention in some Chinese communities turns to one of the festival\u2019s most symbolic foods \u2013 the dumpling.",
-      "timestamp": "2026-02-18T04:13:28Z",
       "source": "The Guardian"
     }
   ]
