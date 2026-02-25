@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Cardi B review \u2013 ambitious spectacle and sizzling choreography",
+    "link": "https://www.theguardian.com/music/2026/feb/17/cardi-b-concert-review-los-angeles",
+    "mean_score": 0.3634,
+    "vader_score": 0.4767,
+    "textblob_score": 0.25,
+    "first_sentence": "She emerges in a haute couture trench coat resembling battle armor and with a shock of white in her dark hair, like Cruella de Vil if she\u2019d grown up in the Bronx.",
+    "timestamp": "2026-02-17T19:08:29Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "First day of Russia-Ukraine peace talks ends in Geneva",
+    "link": "https://www.bbc.com/news/articles/cge812y2549o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3962,
+    "vader_score": 0.5423,
+    "textblob_score": 0.25,
+    "first_sentence": "Russian and Ukrainian delegations have ended the first day of US-brokered peace talks in Geneva, a week before the fourth anniversary of Moscow's full-scale invasion of Ukraine.",
+    "timestamp": "2026-02-17T18:55:48Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Borthwick backs \u2018superstar\u2019 Pollock to deliver euphoria when England host Ireland",
     "link": "https://www.theguardian.com/sport/2026/feb/17/england-six-nations-team-henry-arundell-ireland-rugby-union",
     "mean_score": 0.3125,
