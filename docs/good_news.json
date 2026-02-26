@@ -1,6 +1,36 @@
 {
-  "last run": "2026-02-26T14:26:31Z",
+  "last run": "2026-02-26T15:23:43Z",
   "stories": [
+    {
+      "headline": "Flamm arts festival aims to spark interest in unsung Cornish town of Bodmin",
+      "link": "https://www.theguardian.com/uk-news/2026/feb/26/flamm-arts-festival-spark-interest-unsung-cornish-town-bodmin",
+      "mean_score": 0.3982,
+      "vader_score": 0.7964,
+      "textblob_score": 0.0,
+      "first_sentence": "Art lovers usually bypass the Cornish town of Bodmin as they head to the more obvious delights of seaside galleries in places such as St Ives and Newlyn.",
+      "timestamp": "2026-02-26T15:00:09Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "On Not Climbing Mountains by Claire Thomas review \u2013 impressive, for a patient reader",
+      "link": "https://www.theguardian.com/books/2026/feb/27/on-not-climbing-mountains-claire-thomas-book-review",
+      "mean_score": 0.7553,
+      "vader_score": 0.5106,
+      "textblob_score": 1.0,
+      "first_sentence": "On Not Climbing Mountains is a novel, but it draws from and references a great deal of actual historical and literary sources, and is told in a curiously impersonal tone.",
+      "timestamp": "2026-02-26T14:00:11Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "David Squires on \u2026 the spectacular own goal that united the world",
+      "link": "https://www.theguardian.com/football/picture/2026/feb/26/david-squires-josh-oluwayemi-own-goal-australia-football-a-league-ntwnfb",
+      "mean_score": 0.5108,
+      "vader_score": 0.4215,
+      "textblob_score": 0.6,
+      "first_sentence": "Our cartoonist looks at Wellington Phoenix goalkeeper Josh Oluwayemi\u2019s unfortunate intervention that created global headlines Continue reading.",
+      "timestamp": "2026-02-26T14:00:08Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Bridgerton's first East Asian family is a beautiful thing, say cast",
       "link": "https://www.bbc.com/news/articles/c2k8zyq0qgzo?at_medium=RSS&at_campaign=rss",
@@ -2470,36 +2500,6 @@
       "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
       "timestamp": "2026-02-18T18:42:02Z",
       "source": "SBS News"
-    },
-    {
-      "headline": "Farmer Tony Martin leaves \u00a32.5m to 'loyal friend'",
-      "link": "https://www.bbc.com/news/articles/cvg19m8p782o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5382,
-      "vader_score": 0.743,
-      "textblob_score": 0.3333,
-      "first_sentence": "Tony Martin, the farmer who shot dead a teenage intruder at his isolated Norfolk home in 1999, left more than \u00a32.5m to a \"very loyal friend\", his will reveals.",
-      "timestamp": "2026-02-18T17:54:26Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Reform-run council says free library scheme for refugees \u2018is not value for money\u2019",
-      "link": "https://www.theguardian.com/uk-news/2026/feb/18/reform-run-lancashire-council-says-free-library-scheme-refugees-not-value-for-money",
-      "mean_score": 0.3552,
-      "vader_score": 0.3103,
-      "textblob_score": 0.4,
-      "first_sentence": "Reform UK has been criticised for withdrawing all Lancashire libraries from a scheme supporting refugees because it was not value for money \u2013 despite being free.",
-      "timestamp": "2026-02-18T17:42:17Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "What to know about avalanches, what causes them and how to stay safe",
-      "link": "https://apnews.com/article/avalanches-safety-gear-safety-skiers-snowmobilers-79eef3b9371eff4455e6f789ecdcdbfb",
-      "mean_score": 0.4702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.5,
-      "first_sentence": "An avalanche \u2014 a mass of snow moving down a slope \u2014 happens most often in the wilderness.",
-      "timestamp": "2026-02-18T17:23:02Z",
-      "source": "AP News"
     }
   ]
 }
