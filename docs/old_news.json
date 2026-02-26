@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Arsenal set up Chelsea showdown in Women\u2019s Champions League with win over Leuven",
+    "link": "https://www.theguardian.com/football/2026/feb/18/arsenal-leuven-champions-league-second-leg-match-report",
+    "mean_score": 0.801,
+    "vader_score": 0.802,
+    "textblob_score": 0.8,
+    "first_sentence": "A hard-fought 3-1 victory over OH Leuven at Meadow Park sent Arsenal through to the quarter-finals of the Champions League.",
+    "timestamp": "2026-02-18T22:03:40Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Arsenal v Leuven: Women\u2019s Champions League \u2013 live",
+    "link": "https://www.theguardian.com/football/live/2026/feb/18/arsenal-v-leuven-womens-champions-league-live",
+    "mean_score": 0.3315,
+    "vader_score": 0.5267,
+    "textblob_score": 0.1364,
+    "first_sentence": "60 min: It wasn\u2019t Reynders, it was Biesmans, she goes to the sidelines but I believe she is okay to continue.",
+    "timestamp": "2026-02-18T21:15:51Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Tens of thousands more students join legal action over Covid-hit studies",
     "link": "https://www.theguardian.com/education/2026/feb/18/tens-of-thousands-more-students-join-legal-action-over-covid-hit-studies",
     "mean_score": 0.3838,
