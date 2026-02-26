@@ -1,5 +1,25 @@
 [
   {
+    "headline": "\u2018Let\u2019s go out in a beautiful fashion\u2019: Australian theatre company says goodbye with one last wondrous show",
+    "link": "https://www.theguardian.com/stage/2026/feb/19/adelaide-festival-slingsby-theatre-company-closing-final-show-a-concise-compendium-of-wonder",
+    "mean_score": 0.4414,
+    "vader_score": 0.5994,
+    "textblob_score": 0.2833,
+    "first_sentence": "Burrowed in the Adelaide Botanic Gardens, in a cool spot of shade among the plane trees under the hot summer sun, is a strange new addition: a circular wooden building created to snuggly fit 110 audience members.",
+    "timestamp": "2026-02-18T14:00:34Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Mikaela Shiffrin storms to stunning slalom gold to make Winter Olympic history",
+    "link": "https://www.theguardian.com/sport/2026/feb/18/mikaela-shiffrin-winter-olympics-slalom-skiing-gold",
+    "mean_score": 0.4409,
+    "vader_score": 0.3818,
+    "textblob_score": 0.5,
+    "first_sentence": "With one last chance to break an Olympic hoodoo stretching back a remarkable eight years, Mikaela Shiffrin delivered in style.",
+    "timestamp": "2026-02-18T13:59:57Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Nigella will be 'wonderful' on Bake Off - Prue Leith",
     "link": "https://www.bbc.com/news/articles/cwy9748zjd9o?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.7859,
