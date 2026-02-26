@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Starmer says Reform\u2019s pledge to restore two-child benefit cap in full is \u2018shameful\u2019 \u2013 UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/feb/18/keir-starmer-labour-youth-unemployment-minimum-wage-eluned-morgan-wales-robert-jenrick-reform-conservatives-kemi-badenoch-uk-politics-latest",
+    "mean_score": 0.44,
+    "vader_score": 0.6369,
+    "textblob_score": 0.2432,
+    "first_sentence": "I\u2019m incredibly proud that this government has scrapped the cruel two child limit.",
+    "timestamp": "2026-02-18T13:10:11Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Household energy bills in Great Britain forecast to fall by \u00a3117 a year",
+    "link": "https://www.theguardian.com/money/2026/feb/18/household-energy-bills-in-great-britain-forecast-to-fall",
+    "mean_score": 0.7675,
+    "vader_score": 0.7351,
+    "textblob_score": 0.8,
+    "first_sentence": "Household energy costs in Great Britain are expected to tumble by an average of \u00a3117 a year from April after Rachel Reeves announced in November\u2019s budget that the cost of green subsidies would be removed from domestic bills.",
+    "timestamp": "2026-02-18T12:48:42Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "\u2018A fantastic feeling\u2019: unfinished Cumbria mosque to open for Ramadan prayers",
     "link": "https://www.theguardian.com/world/2026/feb/18/unfinished-cumbria-mosque-to-open-early-for-ramadan-prayers",
     "mean_score": 0.3787,

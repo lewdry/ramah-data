@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-26T01:39:21Z",
+  "last run": "2026-02-26T03:06:23Z",
   "stories": [
+    {
+      "headline": "Qantas shares fall more than 6 per cent after first-half profit announced",
+      "link": "https://www.abc.net.au/news/2026-02-26/qantas-first-half-profit-2026-shares-decline/106390004",
+      "mean_score": 0.5625,
+      "vader_score": 0.6249,
+      "textblob_score": 0.5,
+      "first_sentence": "Qantas has reported a flat first-half statutory net profit of $925 million, up $2 million on the same period last year.",
+      "timestamp": "2026-02-26T02:14:25Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Town learns its water is 'only good to flush the toilet' with after 66 years",
+      "link": "https://www.abc.net.au/news/2026-02-26/sunset-strip-residents-learn-water-unsafe-after-66-years-nsw/106375164",
+      "mean_score": 0.3313,
+      "vader_score": 0.4404,
+      "textblob_score": 0.2222,
+      "first_sentence": "Residents of Sunset Strip have discovered via a letter shared to Facebook by a new resident that their water is \"only good to flush the toilet\" with.",
+      "timestamp": "2026-02-26T01:45:47Z",
+      "source": "ABC News"
+    },
     {
       "headline": "How shed boxes became one of the most precious collections in Australia",
       "link": "https://www.abc.net.au/news/2026-02-26/aboriginal-activism-history-foley-collection-victoria-university/106385374",
@@ -2480,26 +2500,6 @@
       "first_sentence": "CORTINA D'AMPEZZO, Italy \u2014 In her final race of the 2026 Winter Games, skiing in the slalom, widely considered her best event, Alpine legend Mikaela Shiffrin finally did it, winning a gold medal on a shimmering cold, blue-sky day in the mountains above Cortina.",
       "timestamp": "2026-02-18T13:44:33Z",
       "source": "NPR News"
-    },
-    {
-      "headline": "Starmer says Reform\u2019s pledge to restore two-child benefit cap in full is \u2018shameful\u2019 \u2013 UK politics live",
-      "link": "https://www.theguardian.com/politics/live/2026/feb/18/keir-starmer-labour-youth-unemployment-minimum-wage-eluned-morgan-wales-robert-jenrick-reform-conservatives-kemi-badenoch-uk-politics-latest",
-      "mean_score": 0.44,
-      "vader_score": 0.6369,
-      "textblob_score": 0.2432,
-      "first_sentence": "I\u2019m incredibly proud that this government has scrapped the cruel two child limit.",
-      "timestamp": "2026-02-18T13:10:11Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Household energy bills in Great Britain forecast to fall by \u00a3117 a year",
-      "link": "https://www.theguardian.com/money/2026/feb/18/household-energy-bills-in-great-britain-forecast-to-fall",
-      "mean_score": 0.7675,
-      "vader_score": 0.7351,
-      "textblob_score": 0.8,
-      "first_sentence": "Household energy costs in Great Britain are expected to tumble by an average of \u00a3117 a year from April after Rachel Reeves announced in November\u2019s budget that the cost of green subsidies would be removed from domestic bills.",
-      "timestamp": "2026-02-18T12:48:42Z",
-      "source": "The Guardian"
     }
   ]
 }
