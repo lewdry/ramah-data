@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Shiffrin wins slalom at Olympics, Klaebo takes a record 10th gold and Canada gets OT victory",
+    "link": "https://apnews.com/article/milan-cortina-winter-olympics-da916c274b64073a1c4320eb31647619",
+    "mean_score": 0.4359,
+    "vader_score": 0.5719,
+    "textblob_score": 0.3,
+    "first_sentence": "CORTINA D\u2019AMPEZZO, Italy (AP) \u2014 Redemption, at last, for Mikaela Shiffrin at the Winter Olympics.",
+    "timestamp": "2026-02-18T18:53:02Z",
+    "source": "AP News"
+  },
+  {
     "headline": "What makes people proud to be Australian? The answer might surprise you",
     "link": "https://www.sbs.com.au/news/article/australia-national-pride-pew-report/0nv0le4l0",
     "mean_score": 0.5185,
