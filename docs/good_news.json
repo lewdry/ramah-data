@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-26T03:06:23Z",
+  "last run": "2026-02-26T04:40:47Z",
   "stories": [
+    {
+      "headline": "Anthony Albanese take note: Human rights apply to all Australians \u2013 not just those deemed to be worthy | Daniela Gavshon",
+      "link": "https://www.theguardian.com/commentisfree/2026/feb/26/human-rights-australians-syria-women-children",
+      "mean_score": 0.3035,
+      "vader_score": 0.4404,
+      "textblob_score": 0.1667,
+      "first_sentence": "Human rights are not applicable only to some people.",
+      "timestamp": "2026-02-26T03:34:30Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Qantas shares fall more than 6 per cent after first-half profit announced",
       "link": "https://www.abc.net.au/news/2026-02-26/qantas-first-half-profit-2026-shares-decline/106390004",
@@ -2490,16 +2500,6 @@
       "first_sentence": "CORTINA D\u2019AMPEZZO, Italy (AP) \u2014 Mikaela Shiffrin\u2019s turbulent, 12-year Olympic journey came full circle Wednesday when she won the slalom by a massive 1.50 seconds to break her long medal drought at the Winter Games.",
       "timestamp": "2026-02-18T13:53:02Z",
       "source": "AP News"
-    },
-    {
-      "headline": "Sweet redemption for Mikaela Shiffrin, who wins Olympic gold",
-      "link": "https://www.npr.org/2026/02/18/nx-s1-5716783/sweet-redemption-for-shiffrin-who-wins-olympic-gold",
-      "mean_score": 0.5484,
-      "vader_score": 0.7717,
-      "textblob_score": 0.325,
-      "first_sentence": "CORTINA D'AMPEZZO, Italy \u2014 In her final race of the 2026 Winter Games, skiing in the slalom, widely considered her best event, Alpine legend Mikaela Shiffrin finally did it, winning a gold medal on a shimmering cold, blue-sky day in the mountains above Cortina.",
-      "timestamp": "2026-02-18T13:44:33Z",
-      "source": "NPR News"
     }
   ]
 }
