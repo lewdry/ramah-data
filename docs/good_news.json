@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-26T07:27:50Z",
+  "last run": "2026-02-26T08:21:34Z",
   "stories": [
+    {
+      "headline": "Britain and the US, calm down. The gen Z Chinamaxxers will do you no harm | Coco Khan",
+      "link": "https://www.theguardian.com/commentisfree/2026/feb/26/tiktok-gen-z-chinamaxxers-culture-china",
+      "mean_score": 0.3516,
+      "vader_score": 0.631,
+      "textblob_score": 0.0722,
+      "first_sentence": "As it\u2019s Chinese lunar new year, it would not be surprising if you\u2019ve found yourself scrolling through some China-inspired content.",
+      "timestamp": "2026-02-26T08:00:23Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "\u2018The most important part is the vibe\u2019: Bate Bay named Australia\u2019s best beach",
       "link": "https://www.theguardian.com/australia-news/2026/feb/26/bate-bay-best-australian-beach-2026",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.5,
       "first_sentence": "Philippe taught me to laugh at myself.",
       "timestamp": "2026-02-18T14:27:23Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Federal MPs accept free sport tickets from gambling companies amid calls to restrict wagering ads",
-      "link": "https://www.theguardian.com/australia-news/2026/feb/19/federal-mps-accept-free-sport-tickets-from-gambling-companies-amid-calls-to-restrict-wagering-ads",
-      "mean_score": 0.4553,
-      "vader_score": 0.5106,
-      "textblob_score": 0.4,
-      "first_sentence": "At least six federal Labor and Liberal politicians, including an assistant minister and shadow ministers, have disclosed they accepted free tickets to lucrative sporting events from major gambling companies in the past six months, as the government faces calls to restrict wagering ads and better regulate the sector.",
-      "timestamp": "2026-02-18T14:00:34Z",
       "source": "The Guardian"
     }
   ]
