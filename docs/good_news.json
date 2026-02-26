@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-26T20:16:17Z",
+  "last run": "2026-02-26T21:16:22Z",
   "stories": [
+    {
+      "headline": "US and Iran make 'significant progress' in nuclear talks, mediator says",
+      "link": "https://www.abc.net.au/news/2026-02-27/us-and-iran-make-significant-progress-in-talks-mediator-says/106394614",
+      "mean_score": 0.4662,
+      "vader_score": 0.5574,
+      "textblob_score": 0.375,
+      "first_sentence": "The US and Iran have made \"significant progress\" during talks on Tehran's nuclear program in Switzerland, according to mediator Oman.",
+      "timestamp": "2026-02-26T20:26:10Z",
+      "source": "ABC News"
+    },
     {
       "headline": "New image reveals secrets of Milky Way galaxy in stunning detail",
       "link": "https://www.theguardian.com/science/2026/feb/26/new-image-milky-way-galaxy",
@@ -2490,16 +2500,6 @@
       "first_sentence": "MILAN \u2014 For five terrifying minutes on Wednesday night, the U.S.",
       "timestamp": "2026-02-19T00:01:36Z",
       "source": "NPR News"
-    },
-    {
-      "headline": "From crime heists to a BDSM love story, here's what's in cinemas this month",
-      "link": "https://www.abc.net.au/news/2026-02-19/what-to-watch-movies-february-pillion-crime-101/106352928",
-      "mean_score": 0.3389,
-      "vader_score": 0.1779,
-      "textblob_score": 0.5,
-      "first_sentence": "From the loud blockbuster action of Crime 101, to Bradley Cooper's turn to stand-up comedy, and BDSM love story Pillion, there's something to please everyone this month.",
-      "timestamp": "2026-02-18T23:05:24Z",
-      "source": "ABC News"
     }
   ]
 }
