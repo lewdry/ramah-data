@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Nigella will be 'wonderful' on Bake Off - Prue Leith",
+    "link": "https://www.bbc.com/news/articles/cwy9748zjd9o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.7859,
+    "vader_score": 0.5719,
+    "textblob_score": 1.0,
+    "first_sentence": "Nigella Lawson will be \"wonderful\" as the new judge on The Great British Bake Off, her predecessor Dame Prue Leith has said.",
+    "timestamp": "2026-02-18T13:59:16Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Hull KR\u2019s rollercoaster ride from the depths to chance of World Club Challenge glory",
+    "link": "https://www.theguardian.com/sport/2026/feb/18/rugby-league-hull-kr-owner-hudgell-world-club-challenge-brisbane-broncos",
+    "mean_score": 0.3502,
+    "vader_score": 0.7003,
+    "textblob_score": 0.0,
+    "first_sentence": "To appreciate the absolute highs, you perhaps have to first experience the ultimate lows: when Hull KR walk out for Thursday\u2019s World Club Challenge, few will be better placed to say they have done that quite like their longstanding owner, Neil Hudgell.",
+    "timestamp": "2026-02-18T13:54:22Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "US star Mikaela Shiffrin wins slalom to break 8-year Olympic drought",
+    "link": "https://apnews.com/article/milan-cortina-olympics-mikaela-shiffrin-skiing-eee2ed4bf10364e2d922f29273152502",
+    "mean_score": 0.4359,
+    "vader_score": 0.5719,
+    "textblob_score": 0.3,
+    "first_sentence": "CORTINA D\u2019AMPEZZO, Italy (AP) \u2014 Mikaela Shiffrin\u2019s turbulent, 12-year Olympic journey came full circle Wednesday when she won the slalom by a massive 1.50 seconds to break her long medal drought at the Winter Games.",
+    "timestamp": "2026-02-18T13:53:02Z",
+    "source": "AP News"
+  },
+  {
     "headline": "Sweet redemption for Mikaela Shiffrin, who wins Olympic gold",
     "link": "https://www.npr.org/2026/02/18/nx-s1-5716783/sweet-redemption-for-shiffrin-who-wins-olympic-gold",
     "mean_score": 0.5484,
