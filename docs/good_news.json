@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-26T22:13:20Z",
+  "last run": "2026-02-26T23:13:39Z",
   "stories": [
+    {
+      "headline": "Anthropic CEO says AI company \u2018cannot in good conscience accede\u2019 to Pentagon\u2019s demands",
+      "link": "https://apnews.com/article/anthropic-ai-pentagon-hegseth-dario-amodei-9b28dda41bdb52b6a378fa9fc80b8fda",
+      "mean_score": 0.5702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.7,
+      "first_sentence": "WASHINGTON (AP) \u2014 Anthropic CEO Dario Amodei said Thursday the artificial intelligence company \u201ccannot in good conscience accede\u201d to the Pentagon\u2019s demands to allow wider use of its technology.",
+      "timestamp": "2026-02-26T22:53:02Z",
+      "source": "AP News"
+    },
+    {
+      "headline": "More children in residential care in Qld than other states, inquiry told",
+      "link": "https://www.abc.net.au/news/2026-02-27/qld-child-safety-commission-inquiry-wraps-in-toowoomba/106393512",
+      "mean_score": 0.3407,
+      "vader_score": 0.4939,
+      "textblob_score": 0.1875,
+      "first_sentence": "Since July 2025, Queensland's Commission of Inquiry into Child Safety has examined how to improve the state's care model.",
+      "timestamp": "2026-02-26T22:33:46Z",
+      "source": "ABC News"
+    },
     {
       "headline": "US and Iran make 'significant progress' in nuclear talks, mediator says",
       "link": "https://www.abc.net.au/news/2026-02-27/us-and-iran-make-significant-progress-in-talks-mediator-says/106394614",
@@ -2480,26 +2500,6 @@
       "first_sentence": "It's a heated debate in many households - is there a right way stack to the dishwasher?.",
       "timestamp": "2026-02-19T01:32:26Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Major special education support shake-up risks political backlash",
-      "link": "https://www.bbc.com/news/articles/cx2d041wl6po?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3667,
-      "vader_score": 0.5936,
-      "textblob_score": 0.1399,
-      "first_sentence": "Leaked details suggest special educational needs and disabilities (SEND) support is facing its biggest shake-up in a generation, potentially provoking a political backlash.",
-      "timestamp": "2026-02-19T01:32:15Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "With a win over Sweden, the U.S. men's hockey team will play for an Olympic medal",
-      "link": "https://www.npr.org/2026/02/18/nx-s1-5718567/olympic-mens-hockey-usa-beats-sweden",
-      "mean_score": 0.8259,
-      "vader_score": 0.8519,
-      "textblob_score": 0.8,
-      "first_sentence": "MILAN \u2014 For five terrifying minutes on Wednesday night, the U.S.",
-      "timestamp": "2026-02-19T00:01:36Z",
-      "source": "NPR News"
     }
   ]
 }
