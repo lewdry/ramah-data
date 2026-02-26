@@ -1,11 +1,71 @@
 [
   {
+    "headline": "Tens of thousands more students join legal action over Covid-hit studies",
+    "link": "https://www.theguardian.com/education/2026/feb/18/tens-of-thousands-more-students-join-legal-action-over-covid-hit-studies",
+    "mean_score": 0.3838,
+    "vader_score": 0.501,
+    "textblob_score": 0.2667,
+    "first_sentence": "Tens of thousands more students who were at university during the pandemic have joined a group claim for compensation, amid reports of a \u00a321m payout by one of the UK\u2019s leading institutions.",
+    "timestamp": "2026-02-18T20:46:48Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Live: PM says he 'has nothing but contempt' for women in Syria with links to ISIS",
+    "link": "https://www.abc.net.au/news/2026-02-19/federal-politics-live-blog-australians-isis-syria/106361474",
+    "mean_score": 0.3811,
+    "vader_score": 0.6259,
+    "textblob_score": 0.1364,
+    "first_sentence": "The prime minister says he has \"nothing but contempt\" for Australian women who travelled to Syria to join ISIS.",
+    "timestamp": "2026-02-18T20:08:02Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Qarabag 1-6 Newcastle United: Champions League playoff \u2013 live",
+    "link": "https://www.theguardian.com/football/live/2026/feb/18/qarabag-v-newcastle-united-champions-league-playoff-live",
+    "mean_score": 0.4357,
+    "vader_score": 0.7351,
+    "textblob_score": 0.1364,
+    "first_sentence": "We also have minute-by-minute coverage of Wolves 0-1 Arsenal.",
+    "timestamp": "2026-02-18T19:59:38Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "The super mistake that could cost you more than $120,000 at retirement",
+    "link": "https://www.sbs.com.au/news/article/how-not-checking-your-super-could-cost-you-over-120-000-at-retirement/pnthrysuz",
+    "mean_score": 0.3889,
+    "vader_score": 0.3612,
+    "textblob_score": 0.4167,
+    "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+    "timestamp": "2026-02-18T19:41:16Z",
+    "source": "SBS News"
+  },
+  {
+    "headline": "Dani Scott's tears of joy a welcome balm after years of pain",
+    "link": "https://www.abc.net.au/news/2026-02-19/danielle-scott-aerials-silver-medal-2026-winter-olympics/106361322",
+    "mean_score": 0.5909,
+    "vader_score": 0.3818,
+    "textblob_score": 0.8,
+    "first_sentence": "In fact, as readily as medals have rained down on Australia's Winter Olympic squad this past week, the tears flowed from almost everyone at the Livigno Aerials and Moguls Park as the four-Games veteran celebrated a silver medal as deserving as any at this Olympics.",
+    "timestamp": "2026-02-18T19:04:07Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Shiffrin wins slalom at Olympics, Klaebo takes a record 10th gold and Canada gets OT victory",
     "link": "https://apnews.com/article/milan-cortina-winter-olympics-da916c274b64073a1c4320eb31647619",
     "mean_score": 0.4359,
     "vader_score": 0.5719,
     "textblob_score": 0.3,
     "first_sentence": "CORTINA D\u2019AMPEZZO, Italy (AP) \u2014 Redemption, at last, for Mikaela Shiffrin at the Winter Olympics.",
+    "timestamp": "2026-02-18T18:53:02Z",
+    "source": "AP News"
+  },
+  {
+    "headline": "Paul Allen\u2019s estate says it has begun the process of selling the Super Bowl champion Seahawks",
+    "link": "https://apnews.com/article/seattle-seahawks-sale-de44677992a36b2bb4d8d354342a8f6b",
+    "mean_score": 0.5825,
+    "vader_score": 0.8316,
+    "textblob_score": 0.3333,
+    "first_sentence": "SEATTLE (AP) \u2014 The Seattle Seahawks are going up for sale in accordance with the wishes of late team owner Paul Allen.",
     "timestamp": "2026-02-18T18:53:02Z",
     "source": "AP News"
   },

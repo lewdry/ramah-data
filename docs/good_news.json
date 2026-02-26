@@ -1,6 +1,66 @@
 {
-  "last run": "2026-02-26T18:22:52Z",
+  "last run": "2026-02-26T19:22:21Z",
   "stories": [
+    {
+      "headline": "US-Iran talks end after 'significant progress', mediator says",
+      "link": "https://www.bbc.com/news/articles/cvg1vd95nl9o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4662,
+      "vader_score": 0.5574,
+      "textblob_score": 0.375,
+      "first_sentence": "High-stakes nuclear talks between the US and Iran have ended in Geneva after \"significant progress\", the Omani foreign minister says, though the chances of a deal that could avert a war remain unclear.",
+      "timestamp": "2026-02-26T19:20:12Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Proactive and expressive: Matildas' master plan for Asian Cup glory",
+      "link": "https://www.abc.net.au/news/2026-02-27/proactive-matildas-2026-womens-asian-cup-sam-kerr-mary-fowler/106388102",
+      "mean_score": 0.5715,
+      "vader_score": 0.743,
+      "textblob_score": 0.4,
+      "first_sentence": "The 2026 Women's Asian Cup looms as a moment of great importance for football in Australia.",
+      "timestamp": "2026-02-26T18:46:20Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Ocado failing to deliver on its potential as one of UK\u2019s great technology hopes",
+      "link": "https://www.theguardian.com/business/2026/feb/26/ocado-failing-deliver-potential-uk-technology-hopes",
+      "mean_score": 0.4787,
+      "vader_score": 0.5574,
+      "textblob_score": 0.4,
+      "first_sentence": "Only six years ago, the boss of Ocado Group was writing the obituary for supermarkets as he predicted that a surge in online grocery shopping during the pandemic had brought forward the hi-tech future.",
+      "timestamp": "2026-02-26T18:44:52Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "India thrash Zimbabwe to revive T20 World Cup hopes and South Africa close on semis",
+      "link": "https://www.theguardian.com/sport/2026/feb/26/t20-world-cup-cricket-south-africa-west-indies-zimbabwe-india",
+      "mean_score": 0.3185,
+      "vader_score": 0.6369,
+      "textblob_score": 0.0,
+      "first_sentence": "A rampant India piled up a record total and handed Zimbabwe a 72-run shellacking in a Super 8s contest to revive their Twenty20 World Cup title defence.",
+      "timestamp": "2026-02-26T18:38:28Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Quick, eco, delicate \u2014 what's the best wash cycle to use?",
+      "link": "https://www.abc.net.au/news/2026-02-27/best-wash-cycles-to-use-at-home-for-clothes-towels-linen/106361962",
+      "mean_score": 0.5021,
+      "vader_score": 0.6597,
+      "textblob_score": 0.3444,
+      "first_sentence": "From fast to eco, delicate to intense cold \u2014 the options your washing machine offers up can feel excessive.",
+      "timestamp": "2026-02-26T18:30:00Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "You owe us for rich history, proud Welshman Matthew Rhys tells USA",
+      "link": "https://www.bbc.com/news/articles/cn0zxpyl240o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.6796,
+      "vader_score": 0.7717,
+      "textblob_score": 0.5875,
+      "first_sentence": "Welsh actor Matthew Rhys has said the United States \"owes\" his homeland for contributing to the country's rich history.",
+      "timestamp": "2026-02-26T18:03:31Z",
+      "source": "BBC News"
+    },
     {
       "headline": "William and Catherine brave rain in Wales ahead of St David's Day",
       "link": "https://www.bbc.com/news/articles/crk8jv45km2o?at_medium=RSS&at_campaign=rss",
@@ -2440,66 +2500,6 @@
       "first_sentence": "60 min: It wasn\u2019t Reynders, it was Biesmans, she goes to the sidelines but I believe she is okay to continue.",
       "timestamp": "2026-02-18T21:15:51Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Tens of thousands more students join legal action over Covid-hit studies",
-      "link": "https://www.theguardian.com/education/2026/feb/18/tens-of-thousands-more-students-join-legal-action-over-covid-hit-studies",
-      "mean_score": 0.3838,
-      "vader_score": 0.501,
-      "textblob_score": 0.2667,
-      "first_sentence": "Tens of thousands more students who were at university during the pandemic have joined a group claim for compensation, amid reports of a \u00a321m payout by one of the UK\u2019s leading institutions.",
-      "timestamp": "2026-02-18T20:46:48Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Live: PM says he 'has nothing but contempt' for women in Syria with links to ISIS",
-      "link": "https://www.abc.net.au/news/2026-02-19/federal-politics-live-blog-australians-isis-syria/106361474",
-      "mean_score": 0.3811,
-      "vader_score": 0.6259,
-      "textblob_score": 0.1364,
-      "first_sentence": "The prime minister says he has \"nothing but contempt\" for Australian women who travelled to Syria to join ISIS.",
-      "timestamp": "2026-02-18T20:08:02Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Qarabag 1-6 Newcastle United: Champions League playoff \u2013 live",
-      "link": "https://www.theguardian.com/football/live/2026/feb/18/qarabag-v-newcastle-united-champions-league-playoff-live",
-      "mean_score": 0.4357,
-      "vader_score": 0.7351,
-      "textblob_score": 0.1364,
-      "first_sentence": "We also have minute-by-minute coverage of Wolves 0-1 Arsenal.",
-      "timestamp": "2026-02-18T19:59:38Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The super mistake that could cost you more than $120,000 at retirement",
-      "link": "https://www.sbs.com.au/news/article/how-not-checking-your-super-could-cost-you-over-120-000-at-retirement/pnthrysuz",
-      "mean_score": 0.3889,
-      "vader_score": 0.3612,
-      "textblob_score": 0.4167,
-      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-      "timestamp": "2026-02-18T19:41:16Z",
-      "source": "SBS News"
-    },
-    {
-      "headline": "Dani Scott's tears of joy a welcome balm after years of pain",
-      "link": "https://www.abc.net.au/news/2026-02-19/danielle-scott-aerials-silver-medal-2026-winter-olympics/106361322",
-      "mean_score": 0.5909,
-      "vader_score": 0.3818,
-      "textblob_score": 0.8,
-      "first_sentence": "In fact, as readily as medals have rained down on Australia's Winter Olympic squad this past week, the tears flowed from almost everyone at the Livigno Aerials and Moguls Park as the four-Games veteran celebrated a silver medal as deserving as any at this Olympics.",
-      "timestamp": "2026-02-18T19:04:07Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Paul Allen\u2019s estate says it has begun the process of selling the Super Bowl champion Seahawks",
-      "link": "https://apnews.com/article/seattle-seahawks-sale-de44677992a36b2bb4d8d354342a8f6b",
-      "mean_score": 0.5825,
-      "vader_score": 0.8316,
-      "textblob_score": 0.3333,
-      "first_sentence": "SEATTLE (AP) \u2014 The Seattle Seahawks are going up for sale in accordance with the wishes of late team owner Paul Allen.",
-      "timestamp": "2026-02-18T18:53:02Z",
-      "source": "AP News"
     }
   ]
 }
