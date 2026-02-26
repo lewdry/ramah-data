@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-26T08:21:34Z",
+  "last run": "2026-02-26T09:23:47Z",
   "stories": [
+    {
+      "headline": "Hopes 'extremely rare' fossil will unlock answers about evolution of whales",
+      "link": "https://www.abc.net.au/news/2026-02-26/21-million-year-old-whale-fossil-extracted-from-ocean-grove/106392450",
+      "mean_score": 0.3608,
+      "vader_score": 0.4215,
+      "textblob_score": 0.3,
+      "first_sentence": "A 21-million-year-old fossil has been safely removed from the beach at Ocean Grove, east of Geelong, in what has been described as one of the largest and most complicated excavations in Victorian history.",
+      "timestamp": "2026-02-26T08:33:31Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Britain and the US, calm down. The gen Z Chinamaxxers will do you no harm | Coco Khan",
       "link": "https://www.theguardian.com/commentisfree/2026/feb/26/tiktok-gen-z-chinamaxxers-culture-china",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Renewable energy projects will need to offer local communities part of their profits if they are to be approved by a Plaid Cymru-led Welsh government, the party has said.",
       "timestamp": "2026-02-18T14:54:24Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "\u2018OK, talk, but don\u2019t make any sound!\u2019: Philippe Gaulier\u2019s illustrious students on his clowning glory",
-      "link": "https://www.theguardian.com/stage/2026/feb/18/philippe-gaulier-remembered-rachel-weisz-sally-phillips-simon-munnery",
-      "mean_score": 0.611,
-      "vader_score": 0.722,
-      "textblob_score": 0.5,
-      "first_sentence": "Philippe taught me to laugh at myself.",
-      "timestamp": "2026-02-18T14:27:23Z",
-      "source": "The Guardian"
     }
   ]
 }
