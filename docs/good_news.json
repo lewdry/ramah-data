@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-26T12:22:59Z",
+  "last run": "2026-02-26T13:36:03Z",
   "stories": [
+    {
+      "headline": "Bridgerton's first East Asian family is a beautiful thing, say cast",
+      "link": "https://www.bbc.com/news/articles/c2k8zyq0qgzo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.483,
+      "vader_score": 0.5994,
+      "textblob_score": 0.3667,
+      "first_sentence": "Bridgerton having its first East Asian family is a \"beautiful thing\", say the newest stars of the hit Netflix show.",
+      "timestamp": "2026-02-26T12:46:40Z",
+      "source": "BBC News"
+    },
     {
       "headline": "\u2018Really a lot of amazing beauty\u2019: emails show how model scout connected Epstein with young women",
       "link": "https://www.theguardian.com/us-news/2026/feb/26/daniel-siad-model-scout-jeffrey-epstein-emails",
@@ -2490,16 +2500,6 @@
       "first_sentence": "An avalanche \u2014 a mass of snow moving down a slope \u2014 happens most often in the wilderness.",
       "timestamp": "2026-02-18T17:23:02Z",
       "source": "AP News"
-    },
-    {
-      "headline": "My breakdown cover was extortionate \u2013 and that taught me an important lesson | Adrian Chiles",
-      "link": "https://www.theguardian.com/commentisfree/2026/feb/18/my-breakdown-cover-was-extortionate-and-that-taught-me-an-important-lesson",
-      "mean_score": 0.3012,
-      "vader_score": 0.2023,
-      "textblob_score": 0.4,
-      "first_sentence": "Idiot.",
-      "timestamp": "2026-02-18T16:38:31Z",
-      "source": "The Guardian"
     }
   ]
 }
