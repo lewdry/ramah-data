@@ -1,5 +1,55 @@
 [
   {
+    "headline": "British Gas owner pauses share buyback as profits plummet",
+    "link": "https://www.theguardian.com/business/2026/feb/19/british-gas-owner-centrica-pauses-share-buyback-profits-plummet",
+    "mean_score": 0.3125,
+    "vader_score": 0.6249,
+    "textblob_score": 0.0,
+    "first_sentence": "The owner of British Gas has paused its plan to buy back shares from shareholders after the company\u2019s full-year profits slumped by almost 39%.",
+    "timestamp": "2026-02-19T08:25:39Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "You be the judge: should my best friend stop wearing the same perfume as me?",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/feb/19/you-be-the-judge-should-my-best-friend-stop-wearing-the-same-perfume-as-me",
+    "mean_score": 0.6176,
+    "vader_score": 0.7351,
+    "textblob_score": 0.5,
+    "first_sentence": "Marta wants her scent to be unique, but Elsa thinks copying her friend is just sharing the joy.",
+    "timestamp": "2026-02-19T08:00:02Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "TV set is most popular way to watch YouTube in UK, study finds",
+    "link": "https://www.theguardian.com/technology/2026/feb/19/youtube-uk-tv-set-most-popular",
+    "mean_score": 0.5127,
+    "vader_score": 0.4754,
+    "textblob_score": 0.55,
+    "first_sentence": "The television has replaced laptops, tablets and smartphones as the most common device for UK viewers to watch YouTube at home, according to data confirming the platform\u2019s place as a living room mainstay.",
+    "timestamp": "2026-02-19T06:00:55Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Say goodbye to the sex drought! What the Danes can teach us about making more love",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/feb/19/denmark-no-sex-recession",
+    "mean_score": 0.5995,
+    "vader_score": 0.6989,
+    "textblob_score": 0.5,
+    "first_sentence": "While other countries are deep in a sex recession, the Danish drive shows no signs of stalling.",
+    "timestamp": "2026-02-19T05:00:56Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "US funding for global internet freedom \u2018effectively gutted\u2019",
+    "link": "https://www.theguardian.com/world/2026/feb/19/us-funding-for-global-internet-freedom-effectively-gutted",
+    "mean_score": 0.4685,
+    "vader_score": 0.6369,
+    "textblob_score": 0.3,
+    "first_sentence": "For nearly two decades, the US quietly funded a global effort to keep the internet from splintering into fiefdoms run by authoritarian governments.",
+    "timestamp": "2026-02-19T05:00:55Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "White House says Iran would be 'wise' to make deal, as US ramps up military presence",
     "link": "https://www.bbc.com/news/articles/c204zpz0lyro?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.3383,

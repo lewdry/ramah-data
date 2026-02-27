@@ -1,6 +1,46 @@
 {
-  "last run": "2026-02-27T04:39:29Z",
+  "last run": "2026-02-27T05:28:41Z",
   "stories": [
+    {
+      "headline": "Hannah Spencer wins Gorton and Denton for the Greens and calls out \u2018divisive figures\u2019 \u2013 UK politics live",
+      "link": "https://www.theguardian.com/politics/live/2026/feb/27/gorton-and-denton-byelection-result-labour-green-party-reform-uk-politics-latest-news",
+      "mean_score": 0.395,
+      "vader_score": 0.5719,
+      "textblob_score": 0.2182,
+      "first_sentence": "The Green party has pulled off a landmark victory in the Gorton and Denton byelection in a significant blow to Keir Starmer, Josh Halliday is reporting.",
+      "timestamp": "2026-02-27T05:22:25Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Super Bowl champ backs Burton's boot as good enough for NFL",
+      "link": "https://www.abc.net.au/news/2026-02-27/michael-dickson-matt-burton-nrl-nfl-code-switch/106396080",
+      "mean_score": 0.6051,
+      "vader_score": 0.8658,
+      "textblob_score": 0.3444,
+      "first_sentence": "Australian Super Bowl winner Michael Dickson says the booming boot of Bulldogs five-eighth Matt Burton could cut it in the NFL.",
+      "timestamp": "2026-02-27T05:16:02Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "\u2018Everybody wants a bestie like this guy!\u2019 Rush on rock\u2019s most anticipated reunion \u2013 and its greatest bromance",
+      "link": "https://www.theguardian.com/music/2026/feb/27/rush-geddy-lee-alex-lifeson-interview",
+      "mean_score": 0.6867,
+      "vader_score": 0.7901,
+      "textblob_score": 0.5833,
+      "first_sentence": "The two men on the sofa, Rush\u2019s Geddy Lee and Alex Lifeson, have known each other for 60 years now.",
+      "timestamp": "2026-02-27T05:00:32Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Green party wins Gorton and Denton byelection, pushing Labour to third place in blow to Keir Starmer",
+      "link": "https://www.theguardian.com/politics/2026/feb/27/green-party-wins-gorton-and-denton-byelection-in-blow-to-keir-starmer",
+      "mean_score": 0.392,
+      "vader_score": 0.7506,
+      "textblob_score": 0.0333,
+      "first_sentence": "The Green party has pulled off a landmark victory in the Gorton and Denton byelection in a significant blow to Keir Starmer.",
+      "timestamp": "2026-02-27T04:32:01Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Six months since coming out Mitch Brown believes the AFL will do better",
       "link": "https://www.abc.net.au/news/2026-02-27/mitch-brown-hosts-mardi-gras-parade/106388108",
@@ -29,6 +69,16 @@
       "textblob_score": 0.5,
       "first_sentence": "Taking daily collagen supplements can rejuvenate the skin by boosting elasticity and hydration or moisture - but it won't stop wrinkles, says a new scientific review.",
       "timestamp": "2026-02-27T00:00:11Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "The Boys' Love at the heart of Heated Rivalry is a familiar tale in Asia",
+      "link": "https://www.bbc.com/news/articles/c78x973y5zvo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.6465,
+      "vader_score": 0.8555,
+      "textblob_score": 0.4375,
+      "first_sentence": "Charged glances catch across a crowded room.",
+      "timestamp": "2026-02-26T23:57:56Z",
       "source": "BBC News"
     },
     {
@@ -2449,56 +2499,6 @@
       "textblob_score": 0.8,
       "first_sentence": "Another hefty legacy project for Paul McCartney, who acts as off-camera interviewee and executive producer in this documentary by Morgan Neville.",
       "timestamp": "2026-02-19T09:00:02Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "British Gas owner pauses share buyback as profits plummet",
-      "link": "https://www.theguardian.com/business/2026/feb/19/british-gas-owner-centrica-pauses-share-buyback-profits-plummet",
-      "mean_score": 0.3125,
-      "vader_score": 0.6249,
-      "textblob_score": 0.0,
-      "first_sentence": "The owner of British Gas has paused its plan to buy back shares from shareholders after the company\u2019s full-year profits slumped by almost 39%.",
-      "timestamp": "2026-02-19T08:25:39Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "You be the judge: should my best friend stop wearing the same perfume as me?",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/feb/19/you-be-the-judge-should-my-best-friend-stop-wearing-the-same-perfume-as-me",
-      "mean_score": 0.6176,
-      "vader_score": 0.7351,
-      "textblob_score": 0.5,
-      "first_sentence": "Marta wants her scent to be unique, but Elsa thinks copying her friend is just sharing the joy.",
-      "timestamp": "2026-02-19T08:00:02Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "TV set is most popular way to watch YouTube in UK, study finds",
-      "link": "https://www.theguardian.com/technology/2026/feb/19/youtube-uk-tv-set-most-popular",
-      "mean_score": 0.5127,
-      "vader_score": 0.4754,
-      "textblob_score": 0.55,
-      "first_sentence": "The television has replaced laptops, tablets and smartphones as the most common device for UK viewers to watch YouTube at home, according to data confirming the platform\u2019s place as a living room mainstay.",
-      "timestamp": "2026-02-19T06:00:55Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Say goodbye to the sex drought! What the Danes can teach us about making more love",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/feb/19/denmark-no-sex-recession",
-      "mean_score": 0.5995,
-      "vader_score": 0.6989,
-      "textblob_score": 0.5,
-      "first_sentence": "While other countries are deep in a sex recession, the Danish drive shows no signs of stalling.",
-      "timestamp": "2026-02-19T05:00:56Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "US funding for global internet freedom \u2018effectively gutted\u2019",
-      "link": "https://www.theguardian.com/world/2026/feb/19/us-funding-for-global-internet-freedom-effectively-gutted",
-      "mean_score": 0.4685,
-      "vader_score": 0.6369,
-      "textblob_score": 0.3,
-      "first_sentence": "For nearly two decades, the US quietly funded a global effort to keep the internet from splintering into fiefdoms run by authoritarian governments.",
-      "timestamp": "2026-02-19T05:00:55Z",
       "source": "The Guardian"
     }
   ]
