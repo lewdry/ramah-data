@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-27T11:16:53Z",
+  "last run": "2026-02-27T12:19:23Z",
   "stories": [
+    {
+      "headline": "Green win shows progressive voters are now voting against Labour as well as Reform",
+      "link": "https://www.theguardian.com/politics/2026/feb/27/green-win-gorton-and-denton-byelection-progressive-voters-labour-reform-analysis",
+      "mean_score": 0.5048,
+      "vader_score": 0.7096,
+      "textblob_score": 0.3,
+      "first_sentence": "The Gorton and Denton byelection produced Labour\u2019s most feared outcome \u2013 the Greens winning and potential displacing Labour as the choice of anti-Reform voters.",
+      "timestamp": "2026-02-27T12:01:51Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "\u2018It\u2019s good music, not a guilty pleasure\u2019: how Bruno Mars embraced cheese to become pop\u2019s most popular star",
       "link": "https://www.theguardian.com/music/2026/feb/27/its-good-music-not-a-guilty-pleasure-how-bruno-mars-embraced-cheese-to-become-pops-most-popular-star",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.0,
       "first_sentence": "Call it the Cortina Comeback.",
       "timestamp": "2026-02-19T21:51:00Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Hull KR on top of the world after resisting thrilling Brisbane fightback",
-      "link": "https://www.theguardian.com/sport/2026/feb/19/hull-kr-on-top-world-after-resisting-brisbane-fightback-in-thriller",
-      "mean_score": 0.4872,
-      "vader_score": 0.5994,
-      "textblob_score": 0.375,
-      "first_sentence": "Hull KR are champions of the rugby league world for the first time in their history, after holding off a late rally from the NRL premiers Brisbane Broncos to win a first World Club Challenge.",
-      "timestamp": "2026-02-19T21:38:41Z",
       "source": "The Guardian"
     }
   ]
