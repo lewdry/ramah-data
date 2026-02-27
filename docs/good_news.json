@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-27T08:19:35Z",
+  "last run": "2026-02-27T09:20:25Z",
   "stories": [
+    {
+      "headline": "\u2018Putting on a brave face\u2019: why royal fashion has never been more arresting",
+      "link": "https://www.theguardian.com/fashion/2026/feb/27/why-royal-fashion-never-been-more-arresting",
+      "mean_score": 0.5883,
+      "vader_score": 0.5267,
+      "textblob_score": 0.65,
+      "first_sentence": "Could the royal family\u2019s latest troubles usher in a new era of diplomatic dressing?.",
+      "timestamp": "2026-02-27T09:00:36Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Force breaks NZ drought with first Super Rugby Pacific win of season",
+      "link": "https://www.abc.net.au/news/2026-02-27/western-force-defeat-moana-pasifika-for-first-super-rugby-win/106399112",
+      "mean_score": 0.6441,
+      "vader_score": 0.8271,
+      "textblob_score": 0.4611,
+      "first_sentence": "The Western Force have recorded their first win of the 2026 Super Rugby Pacfiic season, with a 35-19 win over Moana Pasifika.",
+      "timestamp": "2026-02-27T08:44:07Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Week in wildlife: rescued dolphins, a white whale and a precious k\u0101k\u0101p\u014d chick",
       "link": "https://www.theguardian.com/environment/gallery/2026/feb/27/week-in-wildlife-rescued-dolphins-a-white-whale-and-a-precious-kakapo-chick",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Skeleton was actually the third sport Frimpong took up to chase his dream of becoming an Olympian.",
       "timestamp": "2026-02-19T15:49:30Z",
       "source": "NPR News"
-    },
-    {
-      "headline": "Johann Ludwig Bach: The Leipzig Cantatas album review \u2013 this distant cousin\u2019s music is a remarkable discovery",
-      "link": "https://www.theguardian.com/music/2026/feb/19/johann-ludwig-bach-the-leipzig-cantatas-album-review-this-distant-cousins-music-is-a-remarkable-discovery",
-      "mean_score": 0.4412,
-      "vader_score": 0.5574,
-      "textblob_score": 0.325,
-      "first_sentence": "We\u2019ll probably never know why Johann Sebastian Bach broke off his prodigious flow of sacred cantatas in 1726 to instead perform a set of 18 by a distant third cousin, but as this revelatory four-disc set demonstrates, we should be glad he did.",
-      "timestamp": "2026-02-19T15:05:44Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018It feels like a worse version of Lotto\u2019: Guardian Australia readers on the great intergenerational wealth transfer",
-      "link": "https://www.theguardian.com/society/2026/feb/20/inheritance-guardian-australia-readers-intergenerational-wealth-transfer",
-      "mean_score": 0.4859,
-      "vader_score": 0.7717,
-      "textblob_score": 0.2,
-      "first_sentence": "Over the next two decades, economists predict that $5.4tn will be passed down from ageing baby boomers to their beneficiaries.",
-      "timestamp": "2026-02-19T14:00:16Z",
-      "source": "The Guardian"
     }
   ]
 }
