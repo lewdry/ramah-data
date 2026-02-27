@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-27T03:05:15Z",
+  "last run": "2026-02-27T04:39:29Z",
   "stories": [
+    {
+      "headline": "Six months since coming out Mitch Brown believes the AFL will do better",
+      "link": "https://www.abc.net.au/news/2026-02-27/mitch-brown-hosts-mardi-gras-parade/106388108",
+      "mean_score": 0.4702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.5,
+      "first_sentence": "Three months after ex-AFL player, Mitch Brown, made the historic decision to come out as bisexual he was bailed up by a media staffer at a Lady Gaga concert.",
+      "timestamp": "2026-02-27T03:21:50Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Why these Sydney beaches have been named Australia's best",
       "link": "https://www.abc.net.au/news/2026-02-27/sutherland-shire-bate-bay-beaches-named-australias-best/106394732",
@@ -2490,16 +2500,6 @@
       "first_sentence": "For nearly two decades, the US quietly funded a global effort to keep the internet from splintering into fiefdoms run by authoritarian governments.",
       "timestamp": "2026-02-19T05:00:55Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "White House says Iran would be 'wise' to make deal, as US ramps up military presence",
-      "link": "https://www.bbc.com/news/articles/c204zpz0lyro?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3383,
-      "vader_score": 0.4767,
-      "textblob_score": 0.2,
-      "first_sentence": "The White House has warned Iran would be \"very wise\" to make a deal with the US, amid reports that President Donald Trump is weighing fresh military action against the Islamic Republic.",
-      "timestamp": "2026-02-19T04:05:26Z",
-      "source": "BBC News"
     }
   ]
 }
