@@ -1,6 +1,36 @@
 {
-  "last run": "2026-02-27T12:19:23Z",
+  "last run": "2026-02-27T13:30:13Z",
   "stories": [
+    {
+      "headline": "Cocktail of the week: Nora\u2019s baklava old fashioned - recipe | The good mixer",
+      "link": "https://www.theguardian.com/food/2026/feb/27/cocktail-of-the-week-nora-london-e22-baklava-old-fashioned-recipe",
+      "mean_score": 0.4202,
+      "vader_score": 0.4404,
+      "textblob_score": 0.4,
+      "first_sentence": "The scent of honey and warm pastry that spills out of the late-night baklava shops on Taksim Square in Istanbul is the inspiration for this twist on the classic old fashioned.",
+      "timestamp": "2026-02-27T13:01:17Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Champions League last-16 draw: Manchester City face Real Madrid, Chelsea get PSG",
+      "link": "https://www.theguardian.com/football/2026/feb/27/champions-league-last-16-draw-manchester-city-chelsea-newcastle-liverpool-tottenham-arsenal",
+      "mean_score": 0.3633,
+      "vader_score": 0.5267,
+      "textblob_score": 0.2,
+      "first_sentence": "The draw for the last 16 of the Champions League has thrown up some intriguing heavyweight clashes.",
+      "timestamp": "2026-02-27T12:28:19Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "The Wanted's Max George says heart condition was 'a blessing in ways'",
+      "link": "https://www.bbc.com/news/articles/cwy8pnd4z77o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4063,
+      "vader_score": 0.8126,
+      "textblob_score": 0.0,
+      "first_sentence": "The Wanted singer Max George has said that his heart condition has been \"a blessing in ways\" as it has led to him connecting with many other young people going through something similar.",
+      "timestamp": "2026-02-27T12:24:11Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Green win shows progressive voters are now voting against Labour as well as Reform",
       "link": "https://www.theguardian.com/politics/2026/feb/27/green-win-gorton-and-denton-byelection-progressive-voters-labour-reform-analysis",
@@ -10,6 +40,16 @@
       "first_sentence": "The Gorton and Denton byelection produced Labour\u2019s most feared outcome \u2013 the Greens winning and potential displacing Labour as the choice of anti-Reform voters.",
       "timestamp": "2026-02-27T12:01:51Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "Rocket Report: Vulcan \"many months\" from flying; Falcon 9 extends reuse milestone",
+      "link": "https://arstechnica.com/space/2026/02/rocket-report-neutron-launch-date-is-delayed-again-vector-launch-is-back-sort-of/",
+      "mean_score": 0.314,
+      "vader_score": 0.128,
+      "textblob_score": 0.5,
+      "first_sentence": "Welcome to Edition 8.31 of the Rocket Report! We have some late-breaking news this week with an update Thursday afternoon from Rocket Lab on the timing of its much-anticipated Neutron rocket.",
+      "timestamp": "2026-02-27T12:00:13Z",
+      "source": "Ars Technica"
     },
     {
       "headline": "\u2018It\u2019s good music, not a guilty pleasure\u2019: how Bruno Mars embraced cheese to become pop\u2019s most popular star",
@@ -2460,46 +2500,6 @@
       "first_sentence": "Many of us enjoy interacting with wild birds \u2014 and that can include feeding them.",
       "timestamp": "2026-02-19T23:59:58Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Deer culling to be made easier to protect trees and crops",
-      "link": "https://www.bbc.com/news/articles/c0e5l7ll31yo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3298,
-      "vader_score": 0.6597,
-      "textblob_score": 0.0,
-      "first_sentence": "Culling deer in England will be made easier under a long-awaited government 10-year plan to deal with a population explosion that threatens woodlands, newly-planted trees and farmland.",
-      "timestamp": "2026-02-19T22:58:13Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Alysa Liu wins Winter Olympics gold to end US women\u2019s 24-year figure skating drought",
-      "link": "https://www.theguardian.com/sport/2026/feb/19/alysa-liu-figure-skating-winter-olympics-2026",
-      "mean_score": 0.4359,
-      "vader_score": 0.5719,
-      "textblob_score": 0.3,
-      "first_sentence": "Alysa Liu completed a stunning comeback to competitive figure skating by winning the first Olympic women\u2019s figure skating gold medal for the United States in 24 years on Thursday night.",
-      "timestamp": "2026-02-19T22:35:30Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Winter Olympics 2026: GB men win curling semi-final, figure skating and more \u2013 live",
-      "link": "https://www.theguardian.com/sport/live/2026/feb/19/winter-olympics-2026-winter-olympics-2026-day-13-live-updates-slalom-slopestyle-curling-biathlon",
-      "mean_score": 0.5323,
-      "vader_score": 0.5859,
-      "textblob_score": 0.4788,
-      "first_sentence": "GB progress to men\u2019s curling final, USA beat Canada in overtime to win gold in women\u2019s ice hockey, USA\u2019s Alysa Liu triumphs in figure skating.",
-      "timestamp": "2026-02-19T22:04:49Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Britain\u2019s curlers guarantee a medal as Mouat holds his nerve against Swiss",
-      "link": "https://www.theguardian.com/sport/2026/feb/19/britains-curlers-guarantee-a-medal-as-mouat-holds-his-nerve-against-swiss",
-      "mean_score": 0.3125,
-      "vader_score": 0.6249,
-      "textblob_score": 0.0,
-      "first_sentence": "Call it the Cortina Comeback.",
-      "timestamp": "2026-02-19T21:51:00Z",
-      "source": "The Guardian"
     }
   ]
 }
