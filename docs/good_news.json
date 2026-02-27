@@ -1,6 +1,36 @@
 {
-  "last run": "2026-02-27T16:16:53Z",
+  "last run": "2026-02-27T17:15:59Z",
   "stories": [
+    {
+      "headline": "Greens win Gorton and Denton: is this a turning point for UK politics? \u2013 The Latest",
+      "link": "https://www.theguardian.com/news/audio/2026/feb/27/greens-win-gorton-and-denton-is-this-a-turning-point-for-uk-politics-the-latest",
+      "mean_score": 0.6179,
+      "vader_score": 0.5859,
+      "textblob_score": 0.65,
+      "first_sentence": "The Green Party has pulled off a landmark victory in the Gordon and Denton byelection in a major blow to Keir Starmer.",
+      "timestamp": "2026-02-27T17:07:27Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Cruz Beckham launches music career, having fun amid family drama",
+      "link": "https://www.bbc.com/news/articles/cvg34zn3pywo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4053,
+      "vader_score": 0.5106,
+      "textblob_score": 0.3,
+      "first_sentence": "Cruz Beckham, the youngest son of David and Victoria, is trying to forge a path as the frontman in a rock band, and they started their first headline tour this week.",
+      "timestamp": "2026-02-27T17:01:14Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Excruciating but worth it: How a decades-old cult dating book helped me find love",
+      "link": "https://www.theguardian.com/wellness/2026/feb/27/dating-book-app-failure",
+      "mean_score": 0.579,
+      "vader_score": 0.7579,
+      "textblob_score": 0.4,
+      "first_sentence": "But when the book arrived, I discovered it wasn\u2019t a recommendation so much as an enlistment.",
+      "timestamp": "2026-02-27T17:00:48Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Having romped into third place in Gorton and Denton, Labour is celebrating its success with a word salad | Marina Hyde",
       "link": "https://www.theguardian.com/commentisfree/2026/feb/27/gorton-and-denton-labour-polls-keir-starmer",
@@ -2470,36 +2500,6 @@
       "first_sentence": "When standup comic Tom Allen received Attitude magazine\u2019s comedy award last year, he used his acceptance speech to salute the subversive wits who paved the way for freedoms now enjoyed by queer people in Britain.",
       "timestamp": "2026-02-20T05:00:25Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "For Muslims, Ramadan is a commitment to self-discipline, generosity and peace. Pauline Hanson, take note | Susan Carland",
-      "link": "https://www.theguardian.com/commentisfree/2026/feb/20/for-muslims-ramadan-is-a-commitment-to-self-discipline-generosity-and-peace-pauline-hanson-take-note",
-      "mean_score": 0.4278,
-      "vader_score": 0.8555,
-      "textblob_score": 0.0,
-      "first_sentence": "None of this is surprising.",
-      "timestamp": "2026-02-20T01:19:26Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "University secures 'conditional approval' after research accreditation issue, internal emails reveal",
-      "link": "https://www.abc.net.au/news/2026-02-20/adelaide-university-experienced-accreditation-issue/106362188",
-      "mean_score": 0.3298,
-      "vader_score": 0.6597,
-      "textblob_score": 0.0,
-      "first_sentence": "Adelaide University had experienced an accreditation issue over human research.",
-      "timestamp": "2026-02-20T01:11:10Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Broncos fall short of another miracle comeback in World Club Challenge",
-      "link": "https://www.abc.net.au/news/2026-02-20/brisbane-broncos-lose-world-club-challenge-to-hull-kr/106367354",
-      "mean_score": 0.3125,
-      "vader_score": 0.6249,
-      "textblob_score": 0.0,
-      "first_sentence": "The Brisbane Broncos have lost 30-24 to English champions Hull KR in the World Club Challenge.",
-      "timestamp": "2026-02-20T00:37:09Z",
-      "source": "ABC News"
     }
   ]
 }
