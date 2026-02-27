@@ -1,6 +1,36 @@
 {
-  "last run": "2026-02-26T23:13:39Z",
+  "last run": "2026-02-27T00:42:27Z",
   "stories": [
+    {
+      "headline": "Why these Sydney beaches have been named Australia's best",
+      "link": "https://www.abc.net.au/news/2026-02-27/sutherland-shire-bate-bay-beaches-named-australias-best/106394732",
+      "mean_score": 0.8185,
+      "vader_score": 0.6369,
+      "textblob_score": 1.0,
+      "first_sentence": "Bate Bay beaches in Sydney's Sutherland Shire have taken out the top spot in Tourism Australia's annual best beaches list.",
+      "timestamp": "2026-02-27T00:00:14Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Taking collagen keeps skin more elastic but won't stop wrinkles, say scientists",
+      "link": "https://www.bbc.com/news/articles/cge82vq9x9ro?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4126,
+      "vader_score": 0.3252,
+      "textblob_score": 0.5,
+      "first_sentence": "Taking daily collagen supplements can rejuvenate the skin by boosting elasticity and hydration or moisture - but it won't stop wrinkles, says a new scientific review.",
+      "timestamp": "2026-02-27T00:00:11Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Anthropic says it \u2018cannot in good conscience\u2019 allow Pentagon to remove AI checks",
+      "link": "https://www.theguardian.com/us-news/2026/feb/26/anthropic-pentagon-claude",
+      "mean_score": 0.6429,
+      "vader_score": 0.5859,
+      "textblob_score": 0.7,
+      "first_sentence": "Anthropic said Thursday it \u201ccannot in good conscience\u201d comply with a demand from the Pentagon to remove safety precautions from its artificial intelligence model and grant the US military unfettered access to its AI capabilities.",
+      "timestamp": "2026-02-26T23:28:14Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Anthropic CEO says AI company \u2018cannot in good conscience accede\u2019 to Pentagon\u2019s demands",
       "link": "https://apnews.com/article/anthropic-ai-pentagon-hegseth-dario-amodei-9b28dda41bdb52b6a378fa9fc80b8fda",
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.2,
       "first_sentence": "The White House has warned Iran would be \"very wise\" to make a deal with the US, amid reports that President Donald Trump is weighing fresh military action against the Islamic Republic.",
       "timestamp": "2026-02-19T04:05:26Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "In her memoir, Gis\u00e8le Pelicot reveals the love she kept secret",
-      "link": "https://www.abc.net.au/news/2026-02-19/secret-boyfriend-who-stood-beside-gis%C3%A8le-pelicot/106357080",
-      "mean_score": 0.3435,
-      "vader_score": 0.6369,
-      "textblob_score": 0.05,
-      "first_sentence": "For years, the story of Gis\u00e8le Pelicot has been defined by horror \u2014 the woman at the centre of France's most infamous mass rape trial, who chose to waive anonymity and became a global icon in the fight against sexual violence.",
-      "timestamp": "2026-02-19T03:51:50Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "KPMG asks Sydney writers\u2019 festival to delete its name from website after Randa Abdel-Fattah confirmed as speaker",
-      "link": "https://www.theguardian.com/australia-news/2026/feb/19/sydney-writers-festival-swf-kpmg-sponsor-randa-abdel-fattah-speaker",
-      "mean_score": 0.447,
-      "vader_score": 0.4939,
-      "textblob_score": 0.4,
-      "first_sentence": "Global accounting giant KPMG has distanced itself from the Sydney writers\u2019 festival, requesting its name be removed from the event\u2019s website where it was listed as a corporate partner.",
-      "timestamp": "2026-02-19T03:36:31Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Yes there is a right way to stack the dishwasher. Here are the 5 rules",
-      "link": "https://www.bbc.com/news/articles/cwy89lr3pl4o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3438,
-      "vader_score": 0.4019,
-      "textblob_score": 0.2857,
-      "first_sentence": "It's a heated debate in many households - is there a right way stack to the dishwasher?.",
-      "timestamp": "2026-02-19T01:32:26Z",
       "source": "BBC News"
     }
   ]
