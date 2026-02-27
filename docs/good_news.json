@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-27T14:20:16Z",
+  "last run": "2026-02-27T15:19:53Z",
   "stories": [
+    {
+      "headline": "What we\u2019re reading: writers and readers on the books they enjoyed in February",
+      "link": "https://www.theguardian.com/books/2026/feb/27/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-february",
+      "mean_score": 0.5053,
+      "vader_score": 0.5106,
+      "textblob_score": 0.5,
+      "first_sentence": "I\u2019ve been reading a very short book by Claire Baglin, translated by Jordan Stump, On the Clock.",
+      "timestamp": "2026-02-27T14:00:22Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Riding the rightwing algorithm to success: is Karl Stefanovic Australia\u2019s Joe Rogan?",
+      "link": "https://www.theguardian.com/media/2026/feb/28/karl-stefanovic-show-podcast-albanese-interview-australia-ntwnfb",
+      "mean_score": 0.4359,
+      "vader_score": 0.5719,
+      "textblob_score": 0.3,
+      "first_sentence": "By the time the prime minister sat down at the Lodge for a live chat on the Karl Stefanovic Show, Nine\u2019s highest-paid journalist had amassed more than 50,000 YouTube subscribers on his new independent platform in four weeks.",
+      "timestamp": "2026-02-27T14:00:19Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Cocktail of the week: Nora\u2019s baklava old fashioned - recipe | The good mixer",
       "link": "https://www.theguardian.com/food/2026/feb/27/cocktail-of-the-week-nora-london-e22-baklava-old-fashioned-recipe",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Officials in Los Angeles have said they are suing Roblox, alleging the popular online platform exposes children to sexual content, exploitation and online predators.",
       "timestamp": "2026-02-20T00:31:20Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Lion DNA helps convict poachers for first time",
-      "link": "https://www.bbc.com/news/articles/c4grxvdyy00o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3159,
-      "vader_score": 0.3818,
-      "textblob_score": 0.25,
-      "first_sentence": "Lion DNA has been used to successfully prosecute poachers for the first time in the world, it has emerged.",
-      "timestamp": "2026-02-20T00:23:10Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Is it ever OK to feed wild birds in Australia?",
-      "link": "https://www.abc.net.au/news/2026-02-20/is-it-ok-to-feed-australias-wild-birds/106349168",
-      "mean_score": 0.3733,
-      "vader_score": 0.4466,
-      "textblob_score": 0.3,
-      "first_sentence": "Many of us enjoy interacting with wild birds \u2014 and that can include feeding them.",
-      "timestamp": "2026-02-19T23:59:58Z",
-      "source": "ABC News"
     }
   ]
 }
