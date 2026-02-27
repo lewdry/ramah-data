@@ -1,5 +1,65 @@
 [
   {
+    "headline": "Pigs, punchups and a foaming red carpet: 10 amazing Baftas moments \u2013 ranked",
+    "link": "https://www.theguardian.com/film/2026/feb/19/10-amazing-baftas-moments-ranked",
+    "mean_score": 0.443,
+    "vader_score": 0.5859,
+    "textblob_score": 0.3,
+    "first_sentence": "Typically, the Baftas have fewer memorable moments than, say, the Oscars.",
+    "timestamp": "2026-02-19T13:24:53Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Alysa Liu carries US medal hopes into concluding women\u2019s free skate at the Milan Cortina Olympics",
+    "link": "https://apnews.com/article/milan-cortina-olympics-figure-skating-women-437ba97a98c0f43b1317dfc26275b633",
+    "mean_score": 0.624,
+    "vader_score": 0.8481,
+    "textblob_score": 0.4,
+    "first_sentence": "MILAN (AP) \u2014 Alysa Liu is left to bear the ambitions of the American figure skating team on Thursday night, when the last of the \u201cBlade Angels\u201d with a legitimate shot at the Olympic gold medal tries to catch Japanese teammates Ami Nakai and Kaori Sakamoto during the women\u2019s free skate at the Milan Cortina Games.",
+    "timestamp": "2026-02-19T12:53:02Z",
+    "source": "AP News"
+  },
+  {
+    "headline": "Healthy life expectancy falls across Scotland",
+    "link": "https://www.bbc.com/news/articles/cgml8e1dn84o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4509,
+    "vader_score": 0.4019,
+    "textblob_score": 0.5,
+    "first_sentence": "People in Scotland are spending a greater proportion of their life in poor health than in previous years, new figures from the National Records of Scotland (NRS) show.",
+    "timestamp": "2026-02-19T12:07:09Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "\u2018There has to be glitter\u2019: can the Rio carnival give up its love of beach-polluting microplastics?",
+    "link": "https://www.theguardian.com/environment/2026/feb/19/brazil-glitter-ban-rio-carnival-beaches-microplastic-pollution-health",
+    "mean_score": 0.5685,
+    "vader_score": 0.6369,
+    "textblob_score": 0.5,
+    "first_sentence": "Whether it is embellishing elaborate costumes, delicately applied as eye makeup, or smeared across bare skin, glitter is everywhere at Rio de Janeiro\u2019s carnival in Brazil.",
+    "timestamp": "2026-02-19T12:01:21Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Special needs support eligibility to be reviewed at start of secondary school in England",
+    "link": "https://www.theguardian.com/education/2026/feb/19/send-special-needs-support-eligibility-review-secondary-school-england",
+    "mean_score": 0.3441,
+    "vader_score": 0.6597,
+    "textblob_score": 0.0286,
+    "first_sentence": "Children with a legal right to special needs support will face a review when they move to secondary school, with the first cohort to be impacted currently in key stage 1, the Guardian understands.",
+    "timestamp": "2026-02-19T11:57:20Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Man on the Run review \u2013 archival delve into Paul McCartney\u2019s post-Beatles era is a welcome revisit",
+    "link": "https://www.theguardian.com/film/2026/feb/19/man-on-the-run-review-archival-delve-into-paul-mccartneys-post-beatles-era-is-a-welcome-revisit",
+    "mean_score": 0.6294,
+    "vader_score": 0.4588,
+    "textblob_score": 0.8,
+    "first_sentence": "Another hefty legacy project for Paul McCartney, who acts as off-camera interviewee and executive producer in this documentary by Morgan Neville.",
+    "timestamp": "2026-02-19T09:00:02Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "British Gas owner pauses share buyback as profits plummet",
     "link": "https://www.theguardian.com/business/2026/feb/19/british-gas-owner-centrica-pauses-share-buyback-profits-plummet",
     "mean_score": 0.3125,
