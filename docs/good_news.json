@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-27T06:25:15Z",
+  "last run": "2026-02-27T07:24:10Z",
   "stories": [
+    {
+      "headline": "Fashion\u2019s greatest challenges \u2018inequality and AI\u2019, say Prada designers",
+      "link": "https://www.theguardian.com/fashion/2026/feb/27/fashions-greatest-challenges-inequality-and-ai-say-prada-designers",
+      "mean_score": 0.8353,
+      "vader_score": 0.6705,
+      "textblob_score": 1.0,
+      "first_sentence": "Miuccia Prada and Raf Simons, the co-designers of Prada, said backstage at Milan fashion week that fashion\u2019s greatest challenges were inequality and artificial intelligence.",
+      "timestamp": "2026-02-27T07:00:37Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Green Party wins Gorton and Denton by-election, pushing Labour into third place",
       "link": "https://www.bbc.com/news/articles/cr453rvy6kvo?at_medium=RSS&at_campaign=rss",
@@ -209,6 +219,16 @@
       "textblob_score": 0.375,
       "first_sentence": "High-stakes nuclear talks between the US and Iran have ended in Geneva after \"significant progress\", the Omani foreign minister says, though the chances of a deal that could avert a war remain unclear.",
       "timestamp": "2026-02-26T19:20:12Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "EU states told to use existing fund for safe abortions after citizens' petition",
+      "link": "https://www.bbc.com/news/articles/cvgv92p6qzqo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.5,
+      "first_sentence": "The European Commission has told member states they can use existing EU funding to pay for safe abortions, after a citizens' initiative attracted 1.1 million signatures to help women without access to safe and legal terminations.",
+      "timestamp": "2026-02-26T19:07:30Z",
       "source": "BBC News"
     },
     {
@@ -2480,26 +2500,6 @@
       "first_sentence": "Every year around this time, I become like a cliche TV husband who disappears from his wife and children\u2019s lives in order to follow footy season.",
       "timestamp": "2026-02-19T14:00:13Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018A love letter to Beirut\u2019: Lana Daher on sifting 20,000 sources and 70 years of film to make Do You Love Me",
-      "link": "https://www.theguardian.com/film/2026/feb/19/a-love-letter-to-beirut-lana-daher-on-sifting-20000-sources-and-70-years-of-film-to-make-do-you-love-me",
-      "mean_score": 0.6778,
-      "vader_score": 0.8555,
-      "textblob_score": 0.5,
-      "first_sentence": "At one point in Lana Daher\u2019s film Do You Love Me, a woman questions the repeated advice of those around her to simply forget Lebanon\u2019s 15-year civil war that ended in 1990.",
-      "timestamp": "2026-02-19T13:47:03Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Rare gifted word-learner dogs like to share their toys",
-      "link": "https://arstechnica.com/science/2026/02/rare-gifted-word-learner-dogs-like-to-share-their-toys/",
-      "mean_score": 0.4859,
-      "vader_score": 0.5719,
-      "textblob_score": 0.4,
-      "first_sentence": "We love hearing about the latest findings coming out of an E\u00f6tv\u00f6s Lor\u00e1nd University (ELU) research group focused on gifted word learner (GWL) dogs\u2014if only for the pictures of adorable doggoes playing with their toys.",
-      "timestamp": "2026-02-19T13:32:52Z",
-      "source": "Ars Technica"
     }
   ]
 }
