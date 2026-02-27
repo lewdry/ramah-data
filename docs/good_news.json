@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-27T07:24:10Z",
+  "last run": "2026-02-27T08:19:35Z",
   "stories": [
+    {
+      "headline": "Week in wildlife: rescued dolphins, a white whale and a precious k\u0101k\u0101p\u014d chick",
+      "link": "https://www.theguardian.com/environment/gallery/2026/feb/27/week-in-wildlife-rescued-dolphins-a-white-whale-and-a-precious-kakapo-chick",
+      "mean_score": 0.504,
+      "vader_score": 0.7579,
+      "textblob_score": 0.25,
+      "first_sentence": "This week\u2019s best wildlife photographs from around the world Continue reading.",
+      "timestamp": "2026-02-27T08:00:36Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "This community festival embraces the joys of a frozen lake \u2014 while it still has one",
+      "link": "https://www.npr.org/sections/the-picture-show/2026/02/27/g-s1-111346/madison-wisconsin-frozen-assets-festival",
+      "mean_score": 0.3753,
+      "vader_score": 0.7506,
+      "textblob_score": 0.0,
+      "first_sentence": "MADISON, Wis.",
+      "timestamp": "2026-02-27T08:00:00Z",
+      "source": "NPR News"
+    },
     {
       "headline": "Fashion\u2019s greatest challenges \u2018inequality and AI\u2019, say Prada designers",
       "link": "https://www.theguardian.com/fashion/2026/feb/27/fashions-greatest-challenges-inequality-and-ai-say-prada-designers",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.2,
       "first_sentence": "Over the next two decades, economists predict that $5.4tn will be passed down from ageing baby boomers to their beneficiaries.",
       "timestamp": "2026-02-19T14:00:16Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Dance with Tom: an irresistibly joyous show for bubs who like to bop",
-      "link": "https://www.theguardian.com/tv-and-radio/2026/feb/20/dance-with-tom-abc-kids-tv-show-first-nations-culture",
-      "mean_score": 0.3825,
-      "vader_score": 0.765,
-      "textblob_score": 0.0,
-      "first_sentence": "There\u2019s an unending list of things to be worried about as a new parent: nap time, tummy time, vaccinations, viral illnesses.",
-      "timestamp": "2026-02-19T14:00:15Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Rose-tinted glasses: why I\u2019m gunning for an Australian upset in the best actress Oscar race | Rebecca Shaw",
-      "link": "https://www.theguardian.com/commentisfree/2026/feb/19/rose-byrne-tinted-glasses-best-actress-oscar",
-      "mean_score": 0.4409,
-      "vader_score": 0.3818,
-      "textblob_score": 0.5,
-      "first_sentence": "Every year around this time, I become like a cliche TV husband who disappears from his wife and children\u2019s lives in order to follow footy season.",
-      "timestamp": "2026-02-19T14:00:13Z",
       "source": "The Guardian"
     }
   ]
