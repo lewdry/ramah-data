@@ -1,6 +1,56 @@
 {
-  "last run": "2026-02-27T09:20:25Z",
+  "last run": "2026-02-27T10:18:16Z",
   "stories": [
+    {
+      "headline": "Liverpool\u2019s title win last season fuelled by Premier League\u2019s highest wage bill",
+      "link": "https://www.theguardian.com/football/2026/feb/27/liverpool-premier-league-highest-wage-bill-title-arne-slot",
+      "mean_score": 0.4929,
+      "vader_score": 0.5859,
+      "textblob_score": 0.4,
+      "first_sentence": "Liverpool had the highest wage bill in the Premier League when winning their 20th league title last season, the club\u2019s latest set of accounts have revealed.",
+      "timestamp": "2026-02-27T10:00:38Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Speed Dates is no feeble full-motion video game \u2013 it\u2019s a bold art film | Dominik Diamond",
+      "link": "https://www.theguardian.com/games/2026/feb/27/speed-dates-winter-edition-full-motion-video-game-subtitles-dominik-diamond",
+      "mean_score": 0.3848,
+      "vader_score": 0.7085,
+      "textblob_score": 0.0611,
+      "first_sentence": "I spent Valentine\u2019s Day not with my wife but with 18 Turkish women.",
+      "timestamp": "2026-02-27T10:00:38Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Ben Markovits: \u2018I used to think any book concerned with people falling in love can\u2019t be very good\u2019",
+      "link": "https://www.theguardian.com/books/2026/feb/27/ben-markovits-i-used-to-think-any-book-concerned-with-people-falling-in-love-cant-be-very-good",
+      "mean_score": 0.6312,
+      "vader_score": 0.5574,
+      "textblob_score": 0.705,
+      "first_sentence": "My earliest reading\u00a0memory\n I used to read Donald Sobol\u2019s Encyclopedia Brown stories with my mother.",
+      "timestamp": "2026-02-27T10:00:37Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "As the U.S. celebrates its 250th birthday, many Latinos question whether they belong",
+      "link": "https://www.npr.org/2026/02/27/nx-s1-5668186/u-s-celebrates-250th-birthday-latinos-question-belonging",
+      "mean_score": 0.5359,
+      "vader_score": 0.5719,
+      "textblob_score": 0.5,
+      "first_sentence": "AUSTIN \u2013 At a recent potluck in Austin, Texas, pots of chicken and creamy potato soup simmer on the stove.",
+      "timestamp": "2026-02-27T10:00:00Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "Scientists find a new clue to help them identify a healthy gut microbiome",
+      "link": "https://www.npr.org/2026/02/27/nx-s1-5724876/scientists-find-a-new-clue-to-help-them-identify-a-healthy-gut-microbiome",
+      "mean_score": 0.4889,
+      "vader_score": 0.6597,
+      "textblob_score": 0.3182,
+      "first_sentence": "Scientists are still trying to identify what a healthy gut microbiome looks like, but new research may offer a clue.",
+      "timestamp": "2026-02-27T09:44:23Z",
+      "source": "NPR News"
+    },
     {
       "headline": "\u2018Putting on a brave face\u2019: why royal fashion has never been more arresting",
       "link": "https://www.theguardian.com/fashion/2026/feb/27/why-royal-fashion-never-been-more-arresting",
@@ -20,6 +70,16 @@
       "first_sentence": "The Western Force have recorded their first win of the 2026 Super Rugby Pacfiic season, with a 35-19 win over Moana Pasifika.",
       "timestamp": "2026-02-27T08:44:07Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "Listen to By-Electioncast: Greens Win Gorton and Denton",
+      "link": "https://www.bbc.co.uk/sounds/play/p0n35rr6?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.6929,
+      "vader_score": 0.5859,
+      "textblob_score": 0.8,
+      "first_sentence": "Today, the Green party have won the Gorton and Denton by-election with nearly 41% of the votes, beating Reform into second place and Labour third.\n\nIn Newscast by-election tradition, this episode was livestreamed on Friday morning.",
+      "timestamp": "2026-02-27T08:20:00Z",
+      "source": "BBC News"
     },
     {
       "headline": "Week in wildlife: rescued dolphins, a white whale and a precious k\u0101k\u0101p\u014d chick",
@@ -2440,66 +2500,6 @@
       "first_sentence": "The Housing Industry of Australia is warning that housing shortages will deepen in regional Australia.",
       "timestamp": "2026-02-19T21:33:37Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Manchester United v Atl\u00e9tico Madrid: Women\u2019s Champions League playoff \u2013 live",
-      "link": "https://www.theguardian.com/football/live/2026/feb/19/manchester-united-v-atletico-madrid-womens-champions-league-playoff-live",
-      "mean_score": 0.4357,
-      "vader_score": 0.7351,
-      "textblob_score": 0.1364,
-      "first_sentence": "55 min: Possession is flying back and forth with the game hitting a bit of a lull but still fairly well paced.",
-      "timestamp": "2026-02-19T21:04:37Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Nottingham Forest dominate Fenerbahce to give V\u00edtor Pereira perfect start",
-      "link": "https://www.theguardian.com/football/2026/feb/19/fenerbahce-nottingham-forest-europa-league-playoff-first-leg-match-report",
-      "mean_score": 0.747,
-      "vader_score": 0.4939,
-      "textblob_score": 1.0,
-      "first_sentence": "Evangelos Marinakis\u2019s grand aim at the outset of this season, before moving on to his fourth manager since August, was to win this competition across the Bosphorus in Besiktas in May and, for all of the chaos and valid criticism, on this evidence it is very much an achievable aim.",
-      "timestamp": "2026-02-19T19:46:37Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Baby chicks link certain sounds with shapes, just like humans do",
-      "link": "https://www.npr.org/2026/02/19/nx-s1-5717039/baby-chicks-link-certain-sounds-with-shapes-just-like-humans-do",
-      "mean_score": 0.3858,
-      "vader_score": 0.5574,
-      "textblob_score": 0.2143,
-      "first_sentence": "When people are shown a spiky shape next to a rounded one and asked which shape is called \"kiki\" and which one is \"bouba,\" people from all kinds of cultures overwhelmingly associate \"bouba\" with the blob-like shape and \"kiki\" with the more jagged, pointy one.",
-      "timestamp": "2026-02-19T19:00:00Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Schools in England to get budget for children with special needs as part of Send overhaul",
-      "link": "https://www.theguardian.com/education/2026/feb/19/schools-in-england-to-get-budget-for-children-with-special-needs-as-part-of-send-overhaul",
-      "mean_score": 0.3795,
-      "vader_score": 0.4019,
-      "textblob_score": 0.3571,
-      "first_sentence": "Children in England with special needs will receive individual support and therapy directly from their schools as part of the government\u2019s overhaul of England\u2019s special education provision.",
-      "timestamp": "2026-02-19T18:50:34Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "In a thrilling comeback win, U.S. women take home Olympic hockey gold over Canada",
-      "link": "https://www.npr.org/2026/02/19/nx-s1-5719332/winter-olympics-us-canada-womens-hockey-final-gold",
-      "mean_score": 0.6547,
-      "vader_score": 0.7845,
-      "textblob_score": 0.525,
-      "first_sentence": "MILAN \u2014 With Olympic gold on the line, with just over two minutes to play in regulation of Thursday's final match, it was the U.S.",
-      "timestamp": "2026-02-19T17:14:59Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "'Dude, good luck': the Olympic wit and wisdom of a pioneering African skeleton racer",
-      "link": "https://www.npr.org/2026/02/19/g-s1-110433/olympics-skeleton-africa-bobsled-ghana",
-      "mean_score": 0.6009,
-      "vader_score": 0.8519,
-      "textblob_score": 0.35,
-      "first_sentence": "Skeleton was actually the third sport Frimpong took up to chase his dream of becoming an Olympian.",
-      "timestamp": "2026-02-19T15:49:30Z",
-      "source": "NPR News"
     }
   ]
 }

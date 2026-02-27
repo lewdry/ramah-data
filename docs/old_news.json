@@ -1,5 +1,65 @@
 [
   {
+    "headline": "Manchester United v Atl\u00e9tico Madrid: Women\u2019s Champions League playoff \u2013 live",
+    "link": "https://www.theguardian.com/football/live/2026/feb/19/manchester-united-v-atletico-madrid-womens-champions-league-playoff-live",
+    "mean_score": 0.4357,
+    "vader_score": 0.7351,
+    "textblob_score": 0.1364,
+    "first_sentence": "55 min: Possession is flying back and forth with the game hitting a bit of a lull but still fairly well paced.",
+    "timestamp": "2026-02-19T21:04:37Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Nottingham Forest dominate Fenerbahce to give V\u00edtor Pereira perfect start",
+    "link": "https://www.theguardian.com/football/2026/feb/19/fenerbahce-nottingham-forest-europa-league-playoff-first-leg-match-report",
+    "mean_score": 0.747,
+    "vader_score": 0.4939,
+    "textblob_score": 1.0,
+    "first_sentence": "Evangelos Marinakis\u2019s grand aim at the outset of this season, before moving on to his fourth manager since August, was to win this competition across the Bosphorus in Besiktas in May and, for all of the chaos and valid criticism, on this evidence it is very much an achievable aim.",
+    "timestamp": "2026-02-19T19:46:37Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Baby chicks link certain sounds with shapes, just like humans do",
+    "link": "https://www.npr.org/2026/02/19/nx-s1-5717039/baby-chicks-link-certain-sounds-with-shapes-just-like-humans-do",
+    "mean_score": 0.3858,
+    "vader_score": 0.5574,
+    "textblob_score": 0.2143,
+    "first_sentence": "When people are shown a spiky shape next to a rounded one and asked which shape is called \"kiki\" and which one is \"bouba,\" people from all kinds of cultures overwhelmingly associate \"bouba\" with the blob-like shape and \"kiki\" with the more jagged, pointy one.",
+    "timestamp": "2026-02-19T19:00:00Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "Schools in England to get budget for children with special needs as part of Send overhaul",
+    "link": "https://www.theguardian.com/education/2026/feb/19/schools-in-england-to-get-budget-for-children-with-special-needs-as-part-of-send-overhaul",
+    "mean_score": 0.3795,
+    "vader_score": 0.4019,
+    "textblob_score": 0.3571,
+    "first_sentence": "Children in England with special needs will receive individual support and therapy directly from their schools as part of the government\u2019s overhaul of England\u2019s special education provision.",
+    "timestamp": "2026-02-19T18:50:34Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "In a thrilling comeback win, U.S. women take home Olympic hockey gold over Canada",
+    "link": "https://www.npr.org/2026/02/19/nx-s1-5719332/winter-olympics-us-canada-womens-hockey-final-gold",
+    "mean_score": 0.6547,
+    "vader_score": 0.7845,
+    "textblob_score": 0.525,
+    "first_sentence": "MILAN \u2014 With Olympic gold on the line, with just over two minutes to play in regulation of Thursday's final match, it was the U.S.",
+    "timestamp": "2026-02-19T17:14:59Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "'Dude, good luck': the Olympic wit and wisdom of a pioneering African skeleton racer",
+    "link": "https://www.npr.org/2026/02/19/g-s1-110433/olympics-skeleton-africa-bobsled-ghana",
+    "mean_score": 0.6009,
+    "vader_score": 0.8519,
+    "textblob_score": 0.35,
+    "first_sentence": "Skeleton was actually the third sport Frimpong took up to chase his dream of becoming an Olympian.",
+    "timestamp": "2026-02-19T15:49:30Z",
+    "source": "NPR News"
+  },
+  {
     "headline": "Johann Ludwig Bach: The Leipzig Cantatas album review \u2013 this distant cousin\u2019s music is a remarkable discovery",
     "link": "https://www.theguardian.com/music/2026/feb/19/johann-ludwig-bach-the-leipzig-cantatas-album-review-this-distant-cousins-music-is-a-remarkable-discovery",
     "mean_score": 0.4412,
