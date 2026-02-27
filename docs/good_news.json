@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-27T10:18:16Z",
+  "last run": "2026-02-27T11:16:53Z",
   "stories": [
+    {
+      "headline": "\u2018It\u2019s good music, not a guilty pleasure\u2019: how Bruno Mars embraced cheese to become pop\u2019s most popular star",
+      "link": "https://www.theguardian.com/music/2026/feb/27/its-good-music-not-a-guilty-pleasure-how-bruno-mars-embraced-cheese-to-become-pops-most-popular-star",
+      "mean_score": 0.6606,
+      "vader_score": 0.8087,
+      "textblob_score": 0.5125,
+      "first_sentence": "Sixteen years since his sugary debut Just the Way You Are became a megahit, Bruno Mars is the most-streamed musician in the world.",
+      "timestamp": "2026-02-27T10:40:38Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Liverpool\u2019s title win last season fuelled by Premier League\u2019s highest wage bill",
       "link": "https://www.theguardian.com/football/2026/feb/27/liverpool-premier-league-highest-wage-bill-title-arne-slot",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Hull KR are champions of the rugby league world for the first time in their history, after holding off a late rally from the NRL premiers Brisbane Broncos to win a first World Club Challenge.",
       "timestamp": "2026-02-19T21:38:41Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "The outlook for housing supply is not looking good, this city believe it has a solution",
-      "link": "https://www.abc.net.au/news/2026-02-20/pilbara-housing-company-seeks-modular-houses-for-rent/106354430",
-      "mean_score": 0.3363,
-      "vader_score": -0.0274,
-      "textblob_score": 0.7,
-      "first_sentence": "The Housing Industry of Australia is warning that housing shortages will deepen in regional Australia.",
-      "timestamp": "2026-02-19T21:33:37Z",
-      "source": "ABC News"
     }
   ]
 }
