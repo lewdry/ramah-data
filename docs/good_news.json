@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-28T18:11:47Z",
+  "last run": "2026-02-28T19:08:57Z",
   "stories": [
+    {
+      "headline": "The moment I knew: I saw her enjoying herself in her perfect little witch\u2019s hat and I was a goner",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/mar/01/moment-i-knew-steph-tisdell",
+      "mean_score": 0.6169,
+      "vader_score": 0.7964,
+      "textblob_score": 0.4375,
+      "first_sentence": "In my early 30s I\u2019d decided I didn\u2019t want to swipe right on another man holding a fish on dating apps and I was taking tentative steps into the world of dating women in my home base of Brisbane.",
+      "timestamp": "2026-02-28T19:00:19Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "From Tennessee to today: Why we still love Arrested Development",
+      "link": "https://www.abc.net.au/news/2026-03-01/arrested-development-speech-interview-womadelaide-hip-hop/106358486",
+      "mean_score": 0.3866,
+      "vader_score": 0.2732,
+      "textblob_score": 0.5,
+      "first_sentence": "DJ Kool Herc started the genre over 50 years ago, and acts like Run-DMC brought an assertive attitude and tough guy image in the 1980s.",
+      "timestamp": "2026-02-28T18:30:00Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Our favorite affordable makeup products look more expensive than they really are",
       "link": "https://www.theguardian.com/lifeandstyle/2026/feb/27/budget-friendly-makeup-routine",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Indra Brown has earned incredible plaudits since bursting onto the elite freeski halfpipe scene \u2014 and all of them are thoroughly deserved.",
       "timestamp": "2026-02-20T19:59:27Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Is there a 'sweet spot'? These five charts are key to the migration debate",
-      "link": "https://www.sbs.com.au/news/article/migration-sweet-spot-these-five-charts-are-key-to-the-migration-debate/69sydxzau",
-      "mean_score": 0.3169,
-      "vader_score": 0.4588,
-      "textblob_score": 0.175,
-      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-      "timestamp": "2026-02-20T19:33:40Z",
-      "source": "SBS News"
-    },
-    {
-      "headline": "Dreams of being a ballerina: Hopes of Australian child in Syrian camp for IS-linked families",
-      "link": "https://www.sbs.com.au/news/dateline/article/dreams-of-being-a-ballerina-hopes-of-australian-child-in-syrian-camp-for-is-linked-families/cirb1lqi9",
-      "mean_score": 0.3352,
-      "vader_score": 0.6705,
-      "textblob_score": 0.0,
-      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-      "timestamp": "2026-02-20T19:32:42Z",
-      "source": "SBS News"
     }
   ]
 }
