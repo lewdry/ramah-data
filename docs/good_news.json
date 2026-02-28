@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-28T11:07:55Z",
+  "last run": "2026-02-28T12:14:26Z",
   "stories": [
+    {
+      "headline": "North Carolina Democrats latest to chart future of the party in congressional primary",
+      "link": "https://www.npr.org/2026/02/28/nx-s1-5726425/nc-primary-election-foushee-allam",
+      "mean_score": 0.3509,
+      "vader_score": 0.4019,
+      "textblob_score": 0.3,
+      "first_sentence": "DURHAM, N.C.",
+      "timestamp": "2026-02-28T12:00:00Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "\u2018I\u2019d hoped to capture the graphic chaos in the window. What I found was an even more tangled scene\u2019: Michael Krupka\u2019s best phone picture",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/feb/28/michael-krupka-best-phone-picture-philadelphia-via-bicycle-repair-shop",
+      "mean_score": 0.4884,
+      "vader_score": 0.4767,
+      "textblob_score": 0.5,
+      "first_sentence": "He may not be a cyclist, but the photographer was drawn by this bike shop\u2019s jumble of frames and partsMichael Krupka had passed Philadelphia\u2019s Via Bicycle repair shop for years before he ventured inside.",
+      "timestamp": "2026-02-28T11:00:09Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Premier League buildup, Champions League draw reaction, and more \u2013 matchday live",
       "link": "https://www.theguardian.com/football/live/2026/feb/28/premier-league-buildup-champions-league-draw-reaction-and-more-matchday-live",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.2216,
       "first_sentence": "Men\u2019s ice hockey semi final: Finland go ahead! Mikko Rantanen flicks with gimlet eye into the net during the power play.",
       "timestamp": "2026-02-20T16:14:32Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "UK migrant families face giving up vital in-work benefits to avoid being \u2018punished\u2019",
-      "link": "https://www.theguardian.com/society/2026/feb/20/uk-migrant-families-vital-in-work-benefits-hardship-avoid-punishment",
-      "mean_score": 0.3562,
-      "vader_score": 0.6124,
-      "textblob_score": 0.1,
-      "first_sentence": "Families claiming in-work benefits face giving them up and enduring hardship to avoid being \u201cpunished\u201d under a planned government migration crackdown, experts have said.",
-      "timestamp": "2026-02-20T15:56:04Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Tudor 100% sure Spurs will stay up, Carrick \u2018proud\u2019 of United\u2019s diverse culture and more \u2013 live",
-      "link": "https://www.theguardian.com/football/live/2026/feb/20/north-london-derby-buildup-europa-league-reaction-premier-league-team-news-and-more-live",
-      "mean_score": 0.4011,
-      "vader_score": 0.3182,
-      "textblob_score": 0.4841,
-      "first_sentence": "Mikel Arteta has been talking about where Arsenal stand after their draw at Molineux \u2013 and he insists they\u2019re \u201cexactly where we want to be\u201d in every competition.",
-      "timestamp": "2026-02-20T15:02:23Z",
       "source": "The Guardian"
     }
   ]
