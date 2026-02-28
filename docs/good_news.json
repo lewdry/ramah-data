@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-28T05:17:04Z",
+  "last run": "2026-02-28T06:14:55Z",
   "stories": [
+    {
+      "headline": "Six great reads: Gis\u00e8le Pelicot, Olympic politics and European dating tips",
+      "link": "https://www.theguardian.com/news/2026/feb/28/six-great-reads-gisele-pelicot-olympic-politics-european-dating-tips",
+      "mean_score": 0.5125,
+      "vader_score": 0.6249,
+      "textblob_score": 0.4,
+      "first_sentence": "From the US men\u2019s hockey team\u2019s chummy phone call with Trump to the backlash against Hunter Hess and others who criticised the US president, Milan-Cortina was an unusually political Winter Olympics.",
+      "timestamp": "2026-02-28T06:00:06Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Blind date: \u2018I was hoping for a lovely time, a fancy dinner and to meet the love of my life. I got two out of three\u2019",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/feb/28/blind-date-brigitte-jack",
+      "mean_score": 0.5054,
+      "vader_score": 0.8442,
+      "textblob_score": 0.1667,
+      "first_sentence": "What were you hoping for?\n Great food, great company and hopefully an evening that could be the\u00a0beginning of something.",
+      "timestamp": "2026-02-28T06:00:04Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Rent tops \u00a31,000 a month in more areas - find out where",
       "link": "https://www.bbc.com/news/articles/cx28njn2dwpo?at_medium=RSS&at_campaign=rss",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.0682,
       "first_sentence": "German defence minister Boris Pistorius suggested the E5 grouping of Europe\u2019s five countries \u2013 France, Germany, Italy, Poland and the United Kingdom \u2013 could expand its cooperation to have a joint tanker fleet or even establish a European version of the Five Eyes alliance.",
       "timestamp": "2026-02-20T13:13:05Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Smokejumper and union leader aims to win in Montana by focusing on workers",
-      "link": "https://www.theguardian.com/us-news/2026/feb/20/sam-forstag-montana-workers",
-      "mean_score": 0.6929,
-      "vader_score": 0.5859,
-      "textblob_score": 0.8,
-      "first_sentence": "Sam Forstag is used to launching himself into heated territory.",
-      "timestamp": "2026-02-20T13:00:14Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Cocktail of the week: Mareida\u2019s cerezo negro \u2013 recipe | The good mixer",
-      "link": "https://www.theguardian.com/food/2026/feb/20/cocktail-of-the-week-mareida-cerezo-negro-recipe",
-      "mean_score": 0.5702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.7,
-      "first_sentence": "A Chilean twist on a wine cocktail: elegant, vibrant and built on the balance between the depth of pinot noir and the bright sweetness of cherries.",
-      "timestamp": "2026-02-20T13:00:13Z",
       "source": "The Guardian"
     }
   ]
