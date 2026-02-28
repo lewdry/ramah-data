@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-28T15:08:25Z",
+  "last run": "2026-02-28T16:09:56Z",
   "stories": [
+    {
+      "headline": "Our favorite affordable makeup products look more expensive than they really are",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/feb/27/budget-friendly-makeup-routine",
+      "mean_score": 0.3169,
+      "vader_score": 0.4588,
+      "textblob_score": 0.175,
+      "first_sentence": "The Guardian\u2019s journalism is independent.",
+      "timestamp": "2026-02-28T15:15:14Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "New fungal research to support woodland creation",
+      "link": "https://www.bbc.com/news/articles/cx284ljnv31o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3611,
+      "vader_score": 0.5859,
+      "textblob_score": 0.1364,
+      "first_sentence": "New research is being carried out to understand how underground fungal networks influence the creation of woodland.",
+      "timestamp": "2026-02-28T15:11:29Z",
+      "source": "BBC News"
+    },
     {
       "headline": "From Amarillo to Stockport: 15 of Neil Sedaka\u2019s greatest songs, and their extraordinary stories",
       "link": "https://www.theguardian.com/music/2026/feb/28/15-neil-sedaka-greatest-songs-extraordinary-stories",
@@ -2480,26 +2500,6 @@
       "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
       "timestamp": "2026-02-20T19:32:42Z",
       "source": "SBS News"
-    },
-    {
-      "headline": "The AI catfish, country dating and a free lunch: Your modern love stories",
-      "link": "https://www.abc.net.au/news/2026-02-21/modern-dating-love-stories/106353870",
-      "mean_score": 0.5921,
-      "vader_score": 0.8176,
-      "textblob_score": 0.3667,
-      "first_sentence": "Apps and websites often promise the possibility of meeting a future partner, but singles say the dating landscape is not that simple.",
-      "timestamp": "2026-02-20T18:30:00Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "After dominant 6-2 win, the U.S. will face Canada for Olympic men's hockey gold",
-      "link": "https://www.npr.org/2026/02/20/nx-s1-5720937/u-s-mens-hockey-slovakia-olympic-gold-medal",
-      "mean_score": 0.6929,
-      "vader_score": 0.5859,
-      "textblob_score": 0.8,
-      "first_sentence": "MILAN \u2014 The U.S.-Canada hockey rivalry will get a second chapter at the 2026 Olympic Games when the two men's national teams meet Sunday in the gold medal matchup that many had been hoping for all along.",
-      "timestamp": "2026-02-20T18:23:34Z",
-      "source": "NPR News"
     }
   ]
 }
