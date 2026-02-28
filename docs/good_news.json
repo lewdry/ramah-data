@@ -1,6 +1,36 @@
 {
-  "last run": "2026-02-28T19:08:57Z",
+  "last run": "2026-02-28T20:09:54Z",
   "stories": [
+    {
+      "headline": "Matildas set off on Asian Cup journey to prove home sequel can be better than the original",
+      "link": "https://www.theguardian.com/football/2026/feb/28/matildas-australia-football-team-womens-asian-cup-preview",
+      "mean_score": 0.4643,
+      "vader_score": 0.6369,
+      "textblob_score": 0.2917,
+      "first_sentence": "The Women\u2019s Asian Cup is a sequel with a difference.",
+      "timestamp": "2026-02-28T19:00:22Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018The cows beat the shit out of the robots the first day\u2019: the tech revolution designed to improve dairy farming",
+      "link": "https://www.theguardian.com/australia-news/ng-interactive/2026/mar/01/the-cows-beat-the-shit-out-of-the-robots-the-first-day-the-tech-revolution-designed-to-improve-dairy-farming",
+      "mean_score": 0.4047,
+      "vader_score": 0.7845,
+      "textblob_score": 0.025,
+      "first_sentence": "Last October, Dixie farmer Darren Vickers completed construction of the 2.8-acre open shed that will house both his new dairy and 600-strong milking herd.",
+      "timestamp": "2026-02-28T19:00:20Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Albanese wants us to turn the temperature down. He should start by showing kindness not contempt for those in Syria | Julianne Schultz",
+      "link": "https://www.theguardian.com/commentisfree/2026/mar/01/albanese-syrian-camp-australian-citizens-women-children-empathy",
+      "mean_score": 0.3734,
+      "vader_score": 0.7246,
+      "textblob_score": 0.0222,
+      "first_sentence": "As governor general, Sam Mostyn has set herself a clear mission \u2013 to foster a culture of kindness, care and compassion in Australia.",
+      "timestamp": "2026-02-28T19:00:20Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "The moment I knew: I saw her enjoying herself in her perfect little witch\u2019s hat and I was a goner",
       "link": "https://www.theguardian.com/lifeandstyle/2026/mar/01/moment-i-knew-steph-tisdell",
@@ -19,6 +49,16 @@
       "textblob_score": 0.5,
       "first_sentence": "DJ Kool Herc started the genre over 50 years ago, and acts like Run-DMC brought an assertive attitude and tough guy image in the 1980s.",
       "timestamp": "2026-02-28T18:30:00Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Live: Netanyahu says there are 'many signs' Iran's supreme leader 'is gone'",
+      "link": "https://www.abc.net.au/news/2026-03-01/us-israel-launches-airstrikes-in-iran-live-blog/106401380",
+      "mean_score": 0.4378,
+      "vader_score": 0.5574,
+      "textblob_score": 0.3182,
+      "first_sentence": "Israel and the United States have attacked Iran and Tehran has responded with missile and drone attacks across the Middle East.",
+      "timestamp": "2026-02-28T17:41:47Z",
       "source": "ABC News"
     },
     {
@@ -2460,46 +2500,6 @@
       "first_sentence": "Like many wild and wacky ideas, it all started down at the pub.",
       "timestamp": "2026-02-20T22:16:49Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Alex Ferreira wins 10th gold medal for Team USA, matching America's highest total in Winter Olympics",
-      "link": "https://www.npr.org/2026/02/20/nx-s1-5721177/alex-ferreira-wins-10th-gold-medal-for-team-usa-matching-most-ever-in-winter-olympics",
-      "mean_score": 0.4642,
-      "vader_score": 0.7783,
-      "textblob_score": 0.15,
-      "first_sentence": "LIVIGNO, ITALY - Alex Ferreira, a 31-year-old free skier from Aspen, Colorado, won a gold medal in the freeski halfpipe event on Friday night.",
-      "timestamp": "2026-02-20T21:18:10Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Five Great Reads: burnout myths busted, football doping 1960s-style, and paedophile hunting on the dark web",
-      "link": "https://www.theguardian.com/australia-news/2026/feb/21/five-great-reads-burnout-myths-busted-football-doping-1960s-style-and-paedophile-hunting-on-the-dark-web",
-      "mean_score": 0.4749,
-      "vader_score": 0.6249,
-      "textblob_score": 0.325,
-      "first_sentence": "Get this in your inbox every weekend.",
-      "timestamp": "2026-02-20T21:00:50Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "How a fire-smart and water-rich succulent garden could help save your home",
-      "link": "https://www.abc.net.au/news/2026-02-21/succulents-garden-for-fire-protection-bushfire-research/106362920",
-      "mean_score": 0.3548,
-      "vader_score": 0.7096,
-      "textblob_score": 0.0,
-      "first_sentence": "Melbourne University is investigating what role water-rich plants can play in bushfire prevention.",
-      "timestamp": "2026-02-20T20:13:21Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Indra Brown 'the real deal' according to defending champion Elieen Gu",
-      "link": "https://www.abc.net.au/news/2026-02-21/indra-brown-real-deal-eileen-gu-freeski-olympic-final/106371022",
-      "mean_score": 0.3997,
-      "vader_score": 0.5994,
-      "textblob_score": 0.2,
-      "first_sentence": "Indra Brown has earned incredible plaudits since bursting onto the elite freeski halfpipe scene \u2014 and all of them are thoroughly deserved.",
-      "timestamp": "2026-02-20T19:59:27Z",
-      "source": "ABC News"
     }
   ]
 }

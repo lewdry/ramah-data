@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Alex Ferreira wins 10th gold medal for Team USA, matching America's highest total in Winter Olympics",
+    "link": "https://www.npr.org/2026/02/20/nx-s1-5721177/alex-ferreira-wins-10th-gold-medal-for-team-usa-matching-most-ever-in-winter-olympics",
+    "mean_score": 0.4642,
+    "vader_score": 0.7783,
+    "textblob_score": 0.15,
+    "first_sentence": "LIVIGNO, ITALY - Alex Ferreira, a 31-year-old free skier from Aspen, Colorado, won a gold medal in the freeski halfpipe event on Friday night.",
+    "timestamp": "2026-02-20T21:18:10Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "Five Great Reads: burnout myths busted, football doping 1960s-style, and paedophile hunting on the dark web",
+    "link": "https://www.theguardian.com/australia-news/2026/feb/21/five-great-reads-burnout-myths-busted-football-doping-1960s-style-and-paedophile-hunting-on-the-dark-web",
+    "mean_score": 0.4749,
+    "vader_score": 0.6249,
+    "textblob_score": 0.325,
+    "first_sentence": "Get this in your inbox every weekend.",
+    "timestamp": "2026-02-20T21:00:50Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "How a fire-smart and water-rich succulent garden could help save your home",
+    "link": "https://www.abc.net.au/news/2026-02-21/succulents-garden-for-fire-protection-bushfire-research/106362920",
+    "mean_score": 0.3548,
+    "vader_score": 0.7096,
+    "textblob_score": 0.0,
+    "first_sentence": "Melbourne University is investigating what role water-rich plants can play in bushfire prevention.",
+    "timestamp": "2026-02-20T20:13:21Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Indra Brown 'the real deal' according to defending champion Elieen Gu",
+    "link": "https://www.abc.net.au/news/2026-02-21/indra-brown-real-deal-eileen-gu-freeski-olympic-final/106371022",
+    "mean_score": 0.3997,
+    "vader_score": 0.5994,
+    "textblob_score": 0.2,
+    "first_sentence": "Indra Brown has earned incredible plaudits since bursting onto the elite freeski halfpipe scene \u2014 and all of them are thoroughly deserved.",
+    "timestamp": "2026-02-20T19:59:27Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Is there a 'sweet spot'? These five charts are key to the migration debate",
     "link": "https://www.sbs.com.au/news/article/migration-sweet-spot-these-five-charts-are-key-to-the-migration-debate/69sydxzau",
     "mean_score": 0.3169,
