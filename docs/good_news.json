@@ -1,5 +1,5 @@
 {
-  "last run": "2026-02-28T21:08:24Z",
+  "last run": "2026-02-28T22:08:24Z",
   "stories": [
     {
       "headline": "Where does all that rain end up? Here, and Lake Eyre watchers are excited",
@@ -100,6 +100,16 @@
       "first_sentence": "New research is being carried out to understand how underground fungal networks influence the creation of woodland.",
       "timestamp": "2026-02-28T15:11:29Z",
       "source": "BBC News"
+    },
+    {
+      "headline": "Flawless, fierce and serving face: the Sydney Mardi Gras Sissy Ball \u2013 in pictures",
+      "link": "https://www.theguardian.com/australia-news/gallery/2026/feb/28/flawless-fierce-and-serving-face-the-sydney-mardi-gras-sissy-ball-in-pictures",
+      "mean_score": 0.7553,
+      "vader_score": 0.5106,
+      "textblob_score": 1.0,
+      "first_sentence": "Inspired by New York\u2019s queer Black and Latinx ballroom scene, the Sissy Ball at the Sydney Gay and Lesbian Mardi Gras is more than an event \u2013 it\u2019s a community.",
+      "timestamp": "2026-02-28T12:47:22Z",
+      "source": "The Guardian"
     },
     {
       "headline": "From Amarillo to Stockport: 15 of Neil Sedaka\u2019s greatest songs, and their extraordinary stories",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.6,
       "first_sentence": "With their nets at the ready, tens of thousands of fishermen were poised to take part in a traditional festival in northern Nigeria last weekend after a six-year break due to Covid and security concerns.",
       "timestamp": "2026-02-21T01:57:30Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Is \u00a370 becoming harder to justify? The rise of cheaper blockbuster games",
-      "link": "https://www.bbc.com/news/articles/ckg1nwwv1xyo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3872,
-      "vader_score": 0.5994,
-      "textblob_score": 0.175,
-      "first_sentence": "In the UK, \u00a370 may not gurantee quality, but it tends to mean you are getting a blockbuster or \"AAA\" - a big-budget game made by a large team, built around cutting-edge graphics, sprawling worlds and dozens of hours of gameplay.",
-      "timestamp": "2026-02-21T01:30:31Z",
       "source": "BBC News"
     }
   ]
