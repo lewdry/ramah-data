@@ -1,5 +1,25 @@
 [
   {
+    "headline": "The best looks at London Fashion Week 2026",
+    "link": "https://www.bbc.com/news/articles/c4g0ke64v3no?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.8185,
+    "vader_score": 0.6369,
+    "textblob_score": 1.0,
+    "first_sentence": "Bigger, better, bolder is the message being touted about the first of this year's London fashion weeks.",
+    "timestamp": "2026-02-21T01:00:07Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Welcome to Australia's hottest beach event - nowhere near the sea",
+    "link": "https://www.bbc.com/news/articles/crrx792qk81o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4544,
+    "vader_score": 0.4588,
+    "textblob_score": 0.45,
+    "first_sentence": "Like many wild and wacky ideas, it all started down at the pub.",
+    "timestamp": "2026-02-20T22:16:49Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Alex Ferreira wins 10th gold medal for Team USA, matching America's highest total in Winter Olympics",
     "link": "https://www.npr.org/2026/02/20/nx-s1-5721177/alex-ferreira-wins-10th-gold-medal-for-team-usa-matching-most-ever-in-winter-olympics",
     "mean_score": 0.4642,

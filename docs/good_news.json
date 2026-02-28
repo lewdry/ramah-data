@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-28T20:09:54Z",
+  "last run": "2026-02-28T21:08:24Z",
   "stories": [
+    {
+      "headline": "Where does all that rain end up? Here, and Lake Eyre watchers are excited",
+      "link": "https://www.abc.net.au/news/2026-03-01/could-lake-eyre-finally-reach-capacity-after-decades/106395774",
+      "mean_score": 0.3575,
+      "vader_score": 0.34,
+      "textblob_score": 0.375,
+      "first_sentence": "For the second year in a row, an inland sea is making its slow journey through some of Australia's driest country to its home in the heart of South Australia.",
+      "timestamp": "2026-02-28T20:25:06Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "With few good strategic options, Iran\u2019s best prospect may be to retaliate while it can",
+      "link": "https://www.theguardian.com/world/2026/feb/28/strategic-options-iran-retaliate-us-israel-analysis",
+      "mean_score": 0.676,
+      "vader_score": 0.8519,
+      "textblob_score": 0.5,
+      "first_sentence": "Venezula\u2019s Nichol\u00e1s Maduro was captured.",
+      "timestamp": "2026-02-28T20:06:33Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Matildas set off on Asian Cup journey to prove home sequel can be better than the original",
       "link": "https://www.theguardian.com/football/2026/feb/28/matildas-australia-football-team-womens-asian-cup-preview",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.175,
       "first_sentence": "In the UK, \u00a370 may not gurantee quality, but it tends to mean you are getting a blockbuster or \"AAA\" - a big-budget game made by a large team, built around cutting-edge graphics, sprawling worlds and dozens of hours of gameplay.",
       "timestamp": "2026-02-21T01:30:31Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "The best looks at London Fashion Week 2026",
-      "link": "https://www.bbc.com/news/articles/c4g0ke64v3no?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.8185,
-      "vader_score": 0.6369,
-      "textblob_score": 1.0,
-      "first_sentence": "Bigger, better, bolder is the message being touted about the first of this year's London fashion weeks.",
-      "timestamp": "2026-02-21T01:00:07Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Welcome to Australia's hottest beach event - nowhere near the sea",
-      "link": "https://www.bbc.com/news/articles/crrx792qk81o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4544,
-      "vader_score": 0.4588,
-      "textblob_score": 0.45,
-      "first_sentence": "Like many wild and wacky ideas, it all started down at the pub.",
-      "timestamp": "2026-02-20T22:16:49Z",
       "source": "BBC News"
     }
   ]
