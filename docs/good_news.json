@@ -1,6 +1,46 @@
 {
-  "last run": "2026-02-28T09:11:15Z",
+  "last run": "2026-02-28T10:08:46Z",
   "stories": [
+    {
+      "headline": "Premier League buildup, Champions League draw reaction, and more \u2013 matchday live",
+      "link": "https://www.theguardian.com/football/live/2026/feb/28/premier-league-buildup-champions-league-draw-reaction-and-more-matchday-live",
+      "mean_score": 0.4224,
+      "vader_score": 0.5267,
+      "textblob_score": 0.3182,
+      "first_sentence": "This is usually the time on matchday live blogs when we chuck you a friendly reminder to beat the Fantasy Premier League deadline and sort out your transfers etc.",
+      "timestamp": "2026-02-28T10:05:20Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Parents, are you sure your kid's car seat is installed right? Here's how to know",
+      "link": "https://www.npr.org/2026/02/28/nx-s1-5711482/children-safety-parents-car-seats-mistakes",
+      "mean_score": 0.3555,
+      "vader_score": 0.3182,
+      "textblob_score": 0.3929,
+      "first_sentence": "Parents, are you sure you've got your kid's car seat installed right?.",
+      "timestamp": "2026-02-28T10:00:00Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "Asako Yuzuki: \u2018I\u2019m very far from the ideal Japanese woman\u2019",
+      "link": "https://www.theguardian.com/books/2026/feb/28/asako-yuzuki-im-very-far-from-the-ideal-japanese-woman",
+      "mean_score": 0.435,
+      "vader_score": 0.5267,
+      "textblob_score": 0.3433,
+      "first_sentence": "As anyone who has read Yuzuki\u2019s international bestseller Butter will know, Yuzuki is all about food.",
+      "timestamp": "2026-02-28T09:00:07Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018I know I can do it again \u2013 100%\u2019: Lando Norris on proving himself against the best in F1",
+      "link": "https://www.theguardian.com/sport/2026/feb/28/lando-norris-f1-world-champion-interview-2026-season",
+      "mean_score": 0.8185,
+      "vader_score": 0.6369,
+      "textblob_score": 1.0,
+      "first_sentence": "Lando Norris recalls being rendered speechless with joy when he was given his first contract with McLaren.",
+      "timestamp": "2026-02-28T07:00:08Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Six great reads: Gis\u00e8le Pelicot, Olympic politics and European dating tips",
       "link": "https://www.theguardian.com/news/2026/feb/28/six-great-reads-gisele-pelicot-olympic-politics-european-dating-tips",
@@ -2459,46 +2499,6 @@
       "textblob_score": 0.4841,
       "first_sentence": "Mikel Arteta has been talking about where Arsenal stand after their draw at Molineux \u2013 and he insists they\u2019re \u201cexactly where we want to be\u201d in every competition.",
       "timestamp": "2026-02-20T15:02:23Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The best electric blankets and heated throws in the UK, tried and tested to keep you toasty for less",
-      "link": "https://www.theguardian.com/thefilter/2024/dec/27/best-electric-blankets-heated-throws",
-      "mean_score": 0.5268,
-      "vader_score": 0.6369,
-      "textblob_score": 0.4167,
-      "first_sentence": "The Guardian\u2019s journalism is independent.",
-      "timestamp": "2026-02-20T15:01:08Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Trouble in paradise? Seven surprising signs you\u2019re heading for divorce",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/feb/20/seven-surprising-signs-youre-heading-for-divorce",
-      "mean_score": 0.4037,
-      "vader_score": 0.5574,
-      "textblob_score": 0.25,
-      "first_sentence": "You would think this is a sign of perfect harmony.",
-      "timestamp": "2026-02-20T15:00:13Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Norway wins its 17th gold medal, breaking its record for most golds won in a single Winter Olympics",
-      "link": "https://apnews.com/article/winter-olympics-norway-gold-record-biathlon-8d64eaeceeaf2d94e36df59d8d204639",
-      "mean_score": 0.569,
-      "vader_score": 0.8952,
-      "textblob_score": 0.2429,
-      "first_sentence": "ANTERSELVA, Italy (AP) \u2014 Johannes Dale-Skjevdal of Norway was the only biathlete to hit all 20 of his targets in the 15-kilometer mass start race Friday and skied his way to gold \u2014 Norway\u2019s 17th gold medal of the Milan Cortina Winter Olympics \u2014 breaking the record for the most gold medals won by a nation at a single Winter Olympics.",
-      "timestamp": "2026-02-20T14:23:01Z",
-      "source": "AP News"
-    },
-    {
-      "headline": "Defence ministers consider \u2018European Five Eyes\u2019 intelligence cooperation without the US - Europe live",
-      "link": "https://www.theguardian.com/world/live/2026/feb/20/european-defence-meeting-ukraine-war-russia-latest-news",
-      "mean_score": 0.3052,
-      "vader_score": 0.5423,
-      "textblob_score": 0.0682,
-      "first_sentence": "German defence minister Boris Pistorius suggested the E5 grouping of Europe\u2019s five countries \u2013 France, Germany, Italy, Poland and the United Kingdom \u2013 could expand its cooperation to have a joint tanker fleet or even establish a European version of the Five Eyes alliance.",
-      "timestamp": "2026-02-20T13:13:05Z",
       "source": "The Guardian"
     }
   ]
