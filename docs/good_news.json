@@ -1,6 +1,16 @@
 {
-  "last run": "2026-02-28T12:14:26Z",
+  "last run": "2026-02-28T13:19:08Z",
   "stories": [
+    {
+      "headline": "From Amarillo to Stockport: 15 of Neil Sedaka\u2019s greatest songs, and their extraordinary stories",
+      "link": "https://www.theguardian.com/music/2026/feb/28/15-neil-sedaka-greatest-songs-extraordinary-stories",
+      "mean_score": 0.6518,
+      "vader_score": 0.6369,
+      "textblob_score": 0.6667,
+      "first_sentence": "As a young jobbing songwriter charged with devising a hit for Connie Francis after the singer released a couple of flops, Neil Sedaka was unsure about Stupid Cupid: modest to a fault, he suggested that Francis, \u201ca classy lady\u201d, would be insulted by its daftness.",
+      "timestamp": "2026-02-28T12:34:08Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "North Carolina Democrats latest to chart future of the party in congressional primary",
       "link": "https://www.npr.org/2026/02/28/nx-s1-5726425/nc-primary-election-foushee-allam",
@@ -2490,16 +2500,6 @@
       "first_sentence": "MILAN \u2014 The U.S.-Canada hockey rivalry will get a second chapter at the 2026 Olympic Games when the two men's national teams meet Sunday in the gold medal matchup that many had been hoping for all along.",
       "timestamp": "2026-02-20T18:23:34Z",
       "source": "NPR News"
-    },
-    {
-      "headline": "Winter Olympics 2026: Norway break own record for golds won in single Games after biathlon triumph \u2013 live",
-      "link": "https://www.theguardian.com/sport/live/2026/feb/20/winter-olympics-2026-ski-cross-halfpipe-and-more-on-day-14-live",
-      "mean_score": 0.5,
-      "vader_score": 0.7783,
-      "textblob_score": 0.2216,
-      "first_sentence": "Men\u2019s ice hockey semi final: Finland go ahead! Mikko Rantanen flicks with gimlet eye into the net during the power play.",
-      "timestamp": "2026-02-20T16:14:32Z",
-      "source": "The Guardian"
     }
   ]
 }
