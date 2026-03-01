@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-01T08:12:40Z",
+  "last run": "2026-03-01T09:12:01Z",
   "stories": [
+    {
+      "headline": "Fire pip Lynx in overtime to win WNBL Championship",
+      "link": "https://www.abc.net.au/news/2026-03-01/wnbl-townsville-fire-beat-perth-lynx-to-win-championship/106403044",
+      "mean_score": 0.7243,
+      "vader_score": 0.6486,
+      "textblob_score": 0.8,
+      "first_sentence": "Townsville Fire defeated Perth Lynx 108-105 in the second game of the WNBL grand final series.",
+      "timestamp": "2026-03-01T09:04:16Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Aussie Green hangs on to win Women's World Championship by one shot",
+      "link": "https://www.abc.net.au/news/2026-03-01/golf-hannah-green-wins-world-championship-singapore/106403006",
+      "mean_score": 0.5359,
+      "vader_score": 0.7717,
+      "textblob_score": 0.3,
+      "first_sentence": "Hannah Green has won the Women's World Championship in Singapore by one stroke.",
+      "timestamp": "2026-03-01T08:36:15Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Stunning views, honesty shops and community pubs: people power on the Ll\u0177n peninsula in Wales",
       "link": "https://www.theguardian.com/travel/2026/mar/01/views-honesty-shops-community-pubs-llyn-peninsula-wales",
@@ -59,6 +79,16 @@
       "textblob_score": 0.8,
       "first_sentence": "A single social media post turned what had been one of Syed Usman Shah's  \"proudest moments\" into one of the most overwhelming and upsetting.",
       "timestamp": "2026-03-01T01:04:35Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "How responsible are climbers for each other's safety?",
+      "link": "https://www.bbc.com/news/articles/cwy8ppn4142o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3312,
+      "vader_score": 0.6249,
+      "textblob_score": 0.0375,
+      "first_sentence": "When Rebekah Lee was in her twenties, she decided to embark on an ambitious climb up Mount Stuart in Washington State and \"made a series of bad decisions\".",
+      "timestamp": "2026-03-01T00:57:16Z",
       "source": "BBC News"
     },
     {
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.525,
       "first_sentence": "Scotland pulled off a dramatic comeback win against Wales to back up their impressive Calcutta Cup success the previous week.",
       "timestamp": "2026-02-21T18:49:57Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Australia's Yerin Ha is living her own Cinderella story with Bridgerton",
-      "link": "https://www.abc.net.au/news/2026-02-22/bridgerton-season-four-part-two-yerin-ha-interview/106363336",
-      "mean_score": 0.47,
-      "vader_score": 0.34,
-      "textblob_score": 0.6,
-      "first_sentence": "The first TikTok on Yerin Ha's recently launched account features the Australian actor in period garb dancing to a meme sound.",
-      "timestamp": "2026-02-21T18:30:00Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Jorrit Bergsma wins mass start to continue golden Winter Olympics for 40-somethings",
-      "link": "https://www.theguardian.com/sport/2026/feb/21/jorrit-bergsma-wins-mass-start-to-continue-golden-winter-olympics-for-40-somethings",
-      "mean_score": 0.4359,
-      "vader_score": 0.5719,
-      "textblob_score": 0.3,
-      "first_sentence": "Jorrit Bergsma, the mullet-wearing 40-year-old speed skating legend from the Netherlands, won the men\u2019s mass start on Saturday afternoon for his second medal of the Milano Cortina Games and his first Olympic gold since 2014.",
-      "timestamp": "2026-02-21T17:09:20Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Aston Villa v Leeds, Chelsea v Burnley, Championship and more: Saturday clockwatch \u2013 live",
-      "link": "https://www.theguardian.com/football/live/2026/feb/21/aston-villa-leeds-chelsea-burnley-premier-league-championship-clockwatch-live",
-      "mean_score": 0.3793,
-      "vader_score": 0.4404,
-      "textblob_score": 0.3182,
-      "first_sentence": "West Ham v Bournemouth is the teatime kick-off in the Premier League but Truro City v Gateshead is worthy of a mention, too.",
-      "timestamp": "2026-02-21T16:55:23Z",
       "source": "The Guardian"
     }
   ]
