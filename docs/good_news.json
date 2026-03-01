@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-01T06:22:19Z",
+  "last run": "2026-03-01T07:19:10Z",
   "stories": [
+    {
+      "headline": "Stunning views, honesty shops and community pubs: people power on the Ll\u0177n peninsula in Wales",
+      "link": "https://www.theguardian.com/travel/2026/mar/01/views-honesty-shops-community-pubs-llyn-peninsula-wales",
+      "mean_score": 0.6001,
+      "vader_score": 0.7003,
+      "textblob_score": 0.5,
+      "first_sentence": "The Guardian\u2019s journalism is independent.",
+      "timestamp": "2026-03-01T07:00:34Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Kalyn Ponga inspires Newcastle to Las Vegas NRL win over North Queensland",
+      "link": "https://www.theguardian.com/sport/2026/mar/01/kalyn-ponga-nrl-newcastle-knights-las-vegas-north-queensland-cowboys-bulldogs-dragons",
+      "mean_score": 0.7859,
+      "vader_score": 0.7717,
+      "textblob_score": 0.8,
+      "first_sentence": "Newcastle\u2019s new-look halves pairing has lasted just 25 minutes, but Kalyn Ponga remained the Knights\u2019 most important man in a 28-18 win over North Queensland in Las Vegas.",
+      "timestamp": "2026-03-01T06:09:53Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "My best friend\u2019s ex is turning my partner against her. How can we heal our friendship group? | Annalisa Barbieri",
       "link": "https://www.theguardian.com/lifeandstyle/2026/mar/01/my-best-friends-ex-turning-partner-against-her-how-heal-friendship-group-annalisa-barbieri",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.3182,
       "first_sentence": "West Ham v Bournemouth is the teatime kick-off in the Premier League but Truro City v Gateshead is worthy of a mention, too.",
       "timestamp": "2026-02-21T16:55:23Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018He was approachable, down-to-earth, irritating\u2019: inside the real-life love story of JFK Jr and Carolyn Bessette",
-      "link": "https://www.theguardian.com/tv-and-radio/2026/feb/22/love-story-ryan-murphy-jfk-jr-carolyn-bessette-real-story",
-      "mean_score": 0.3435,
-      "vader_score": 0.6369,
-      "textblob_score": 0.05,
-      "first_sentence": "In the US, the Kennedys occupy territory somewhere between the British royal family and Greek tragedy, a tale of impossible glamour pierced by spectacles of public mourning.",
-      "timestamp": "2026-02-21T13:23:09Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Winter Olympics 2026: Kl\u00e6bo wins historic sixth gold, ski cross joy for Italy \u2013 live",
-      "link": "https://www.theguardian.com/sport/live/2026/feb/21/winter-olympics-2026-ski-cross-bobsleigh-and-more-on-day-15-live",
-      "mean_score": 0.5324,
-      "vader_score": 0.8176,
-      "textblob_score": 0.2473,
-      "first_sentence": "A couple more events are getting under way this lunchtime.",
-      "timestamp": "2026-02-21T13:20:18Z",
       "source": "The Guardian"
     }
   ]
