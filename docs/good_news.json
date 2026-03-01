@@ -1,6 +1,26 @@
 {
-  "last run": "2026-02-28T23:08:28Z",
+  "last run": "2026-03-01T00:47:29Z",
   "stories": [
+    {
+      "headline": "Buskers at Australian championships showcase why live is best",
+      "link": "https://www.abc.net.au/news/2026-03-01/buskers-perform-at-australian-championships-heat-stanthorpe/106400160",
+      "mean_score": 0.5957,
+      "vader_score": 0.8126,
+      "textblob_score": 0.3788,
+      "first_sentence": "Dozens of musicians have busted out their best, competing in the national busking championships in Stanthorpe, Queensland.",
+      "timestamp": "2026-03-01T00:09:34Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Sri Lanka helps New Zealand into World Cup semis despite Pakistan defeat",
+      "link": "https://www.abc.net.au/news/2026-03-01/new-zealand-pakistan-sri-lanka-t20-world-cup-semifinals/106401888",
+      "mean_score": 0.3794,
+      "vader_score": 0.6224,
+      "textblob_score": 0.1364,
+      "first_sentence": "New Zealand has been left celebrating in the team hotel as it watched Pakistan fall short in its bold bid to pinch a place in the T20 World Cup semifinals.",
+      "timestamp": "2026-02-28T23:06:58Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Where does all that rain end up? Here, and Lake Eyre watchers are excited",
       "link": "https://www.abc.net.au/news/2026-03-01/could-lake-eyre-finally-reach-capacity-after-decades/106395774",
@@ -2480,26 +2500,6 @@
       "first_sentence": "In 2021, vegetarianism and veganism were booming and menus reflected it.",
       "timestamp": "2026-02-21T06:00:00Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Quick hits: F1 politics, safety worries and Ferrari's stunning rear end",
-      "link": "https://www.abc.net.au/news/2026-02-21/f1-preseason-test-bahrain-ferrari-red-bull-mclaren-mercedes/106370550",
-      "mean_score": 0.3992,
-      "vader_score": 0.3818,
-      "textblob_score": 0.4167,
-      "first_sentence": "Preseason testing for the new Formula 1 season has ended in Bahrain, with teams now not putting their cars on a track until the first practice session of the Australian Grand Prix weekend on March 6.",
-      "timestamp": "2026-02-21T05:45:03Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Catch of the day: Pictures from spectacular Nigerian fishing festival",
-      "link": "https://www.bbc.com/news/articles/cwy6vdl3pxlo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.547,
-      "vader_score": 0.4939,
-      "textblob_score": 0.6,
-      "first_sentence": "With their nets at the ready, tens of thousands of fishermen were poised to take part in a traditional festival in northern Nigeria last weekend after a six-year break due to Covid and security concerns.",
-      "timestamp": "2026-02-21T01:57:30Z",
-      "source": "BBC News"
     }
   ]
 }

@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Quick hits: F1 politics, safety worries and Ferrari's stunning rear end",
+    "link": "https://www.abc.net.au/news/2026-02-21/f1-preseason-test-bahrain-ferrari-red-bull-mclaren-mercedes/106370550",
+    "mean_score": 0.3992,
+    "vader_score": 0.3818,
+    "textblob_score": 0.4167,
+    "first_sentence": "Preseason testing for the new Formula 1 season has ended in Bahrain, with teams now not putting their cars on a track until the first practice session of the Australian Grand Prix weekend on March 6.",
+    "timestamp": "2026-02-21T05:45:03Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Catch of the day: Pictures from spectacular Nigerian fishing festival",
+    "link": "https://www.bbc.com/news/articles/cwy6vdl3pxlo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.547,
+    "vader_score": 0.4939,
+    "textblob_score": 0.6,
+    "first_sentence": "With their nets at the ready, tens of thousands of fishermen were poised to take part in a traditional festival in northern Nigeria last weekend after a six-year break due to Covid and security concerns.",
+    "timestamp": "2026-02-21T01:57:30Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Is \u00a370 becoming harder to justify? The rise of cheaper blockbuster games",
     "link": "https://www.bbc.com/news/articles/ckg1nwwv1xyo?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.3872,
