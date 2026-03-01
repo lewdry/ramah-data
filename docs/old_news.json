@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Perry milestone ruined as India claims series win over Australia",
+    "link": "https://www.abc.net.au/news/2026-02-22/cricket-perry-milestone-ruined-india-beats-australia-series/106373140",
+    "mean_score": 0.4889,
+    "vader_score": 0.1779,
+    "textblob_score": 0.8,
+    "first_sentence": "Ellyse Perry's 350th international match has been soured as India claimed a 17-run win in a series-deciding T20 in Adelaide.",
+    "timestamp": "2026-02-21T20:13:47Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Many Afghan Australians felt grateful to the Liberal party. That faith is shaken | Shadi Khan Saif",
+    "link": "https://www.theguardian.com/commentisfree/2026/feb/22/afghan-liberal-party-immigration-diversity-australian-values",
+    "mean_score": 0.651,
+    "vader_score": 0.802,
+    "textblob_score": 0.5,
+    "first_sentence": "In my tough early days in Melbourne, when everything still felt slightly unreal, I was introduced to Suzy through a cricket magazine editor based in London.",
+    "timestamp": "2026-02-21T19:00:19Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Russell inspires Scotland to thrilling Six Nations comeback win against Wales",
+    "link": "https://www.theguardian.com/sport/2026/feb/21/wales-scotland-six-nations-rugby-union-match-report",
+    "mean_score": 0.6969,
+    "vader_score": 0.8689,
+    "textblob_score": 0.525,
+    "first_sentence": "Scotland pulled off a dramatic comeback win against Wales to back up their impressive Calcutta Cup success the previous week.",
+    "timestamp": "2026-02-21T18:49:57Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Australia's Yerin Ha is living her own Cinderella story with Bridgerton",
     "link": "https://www.abc.net.au/news/2026-02-22/bridgerton-season-four-part-two-yerin-ha-interview/106363336",
     "mean_score": 0.47,

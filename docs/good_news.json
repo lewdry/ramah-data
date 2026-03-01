@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-01T10:09:44Z",
+  "last run": "2026-03-01T11:08:46Z",
   "stories": [
+    {
+      "headline": "Demons premiership winner May retires from AFL 'with a heavy heart'",
+      "link": "https://www.abc.net.au/news/2026-03-01/afl-steven-may-retires-melbourne-demons/106403120",
+      "mean_score": 0.3201,
+      "vader_score": 0.8402,
+      "textblob_score": -0.2,
+      "first_sentence": "May was a member of the Demons' 2021 premiership-winning squad.",
+      "timestamp": "2026-03-01T10:34:18Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Fire pip Lynx in overtime to win WNBL Championship",
       "link": "https://www.abc.net.au/news/2026-03-01/wnbl-townsville-fire-beat-perth-lynx-to-win-championship/106403044",
@@ -12,6 +22,16 @@
       "source": "ABC News"
     },
     {
+      "headline": "British stonemasons win snow sculpting competition in Switzerland",
+      "link": "https://www.bbc.com/news/articles/cp329vv1n4go?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4929,
+      "vader_score": 0.5859,
+      "textblob_score": 0.4,
+      "first_sentence": "Two stonemasons have won a snow sculpting prize as part of Team GB's entry to the World Snow Festival in Switzerland.",
+      "timestamp": "2026-03-01T09:02:18Z",
+      "source": "BBC News"
+    },
+    {
       "headline": "Aussie Green hangs on to win Women's World Championship by one shot",
       "link": "https://www.abc.net.au/news/2026-03-01/golf-hannah-green-wins-world-championship-singapore/106403006",
       "mean_score": 0.5359,
@@ -19,6 +39,16 @@
       "textblob_score": 0.3,
       "first_sentence": "Hannah Green has won the Women's World Championship in Singapore by one stroke.",
       "timestamp": "2026-03-01T08:36:15Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Live: Matildas up and running with Asian Cup win over Filipinas",
+      "link": "https://www.abc.net.au/news/2026-03-01/asian-cup-matildas-vs-philippines-live-updates/106392606",
+      "mean_score": 0.449,
+      "vader_score": 0.5859,
+      "textblob_score": 0.3121,
+      "first_sentence": "The Matildas get off to a winning start, but the Filipinas don't make things easy in the opening game of the 2026 Women's Asian Cup at Perth Stadium.",
+      "timestamp": "2026-03-01T08:06:24Z",
       "source": "ABC News"
     },
     {
@@ -2470,36 +2500,6 @@
       "first_sentence": "Daly Cherry-Evans has shown promising signs of a strong combination with Sam Walker in his first match in Roosters colours.",
       "timestamp": "2026-02-21T20:27:49Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Perry milestone ruined as India claims series win over Australia",
-      "link": "https://www.abc.net.au/news/2026-02-22/cricket-perry-milestone-ruined-india-beats-australia-series/106373140",
-      "mean_score": 0.4889,
-      "vader_score": 0.1779,
-      "textblob_score": 0.8,
-      "first_sentence": "Ellyse Perry's 350th international match has been soured as India claimed a 17-run win in a series-deciding T20 in Adelaide.",
-      "timestamp": "2026-02-21T20:13:47Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Many Afghan Australians felt grateful to the Liberal party. That faith is shaken | Shadi Khan Saif",
-      "link": "https://www.theguardian.com/commentisfree/2026/feb/22/afghan-liberal-party-immigration-diversity-australian-values",
-      "mean_score": 0.651,
-      "vader_score": 0.802,
-      "textblob_score": 0.5,
-      "first_sentence": "In my tough early days in Melbourne, when everything still felt slightly unreal, I was introduced to Suzy through a cricket magazine editor based in London.",
-      "timestamp": "2026-02-21T19:00:19Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Russell inspires Scotland to thrilling Six Nations comeback win against Wales",
-      "link": "https://www.theguardian.com/sport/2026/feb/21/wales-scotland-six-nations-rugby-union-match-report",
-      "mean_score": 0.6969,
-      "vader_score": 0.8689,
-      "textblob_score": 0.525,
-      "first_sentence": "Scotland pulled off a dramatic comeback win against Wales to back up their impressive Calcutta Cup success the previous week.",
-      "timestamp": "2026-02-21T18:49:57Z",
-      "source": "The Guardian"
     }
   ]
 }
