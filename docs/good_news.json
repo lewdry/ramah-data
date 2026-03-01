@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-01T05:29:43Z",
+  "last run": "2026-03-01T06:22:19Z",
   "stories": [
+    {
+      "headline": "My best friend\u2019s ex is turning my partner against her. How can we heal our friendship group? | Annalisa Barbieri",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/mar/01/my-best-friends-ex-turning-partner-against-her-how-heal-friendship-group-annalisa-barbieri",
+      "mean_score": 0.8982,
+      "vader_score": 0.7964,
+      "textblob_score": 1.0,
+      "first_sentence": "I\u2019ve been best friends with Ellie [all names have been changed] for more than half my life.",
+      "timestamp": "2026-03-01T06:00:33Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "\u2018For us, it\u2019s like Christmas\u2019: Bad Bunny gets rapturous welcome at first-ever Australian show",
       "link": "https://www.theguardian.com/australia-news/2026/mar/01/bad-bunny-sydney-australia-show-debi-tirar-mas-fotos-world-tour-engie-stadium",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.2473,
       "first_sentence": "A couple more events are getting under way this lunchtime.",
       "timestamp": "2026-02-21T13:20:18Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018It brings the moon down to Earth\u2019: Mimi Mollica\u2019s best phone picture",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/feb/21/it-brings-the-moon-down-to-earth-mimi-mollicas-best-phone-picture",
-      "mean_score": 0.5296,
-      "vader_score": 0.6369,
-      "textblob_score": 0.4222,
-      "first_sentence": "Mollica took the shot from the balcony of his top-floor flat, which overlooks a skyline spanning from the Docklands to central London.",
-      "timestamp": "2026-02-21T11:00:06Z",
       "source": "The Guardian"
     }
   ]
