@@ -1,5 +1,5 @@
 {
-  "last run": "2026-03-01T03:10:58Z",
+  "last run": "2026-03-01T04:44:17Z",
   "stories": [
     {
       "headline": "\u2018For us, it\u2019s like Christmas\u2019: Bad Bunny gets rapturous welcome at first-ever Australian show",
@@ -239,6 +239,16 @@
       "textblob_score": 0.3433,
       "first_sentence": "As anyone who has read Yuzuki\u2019s international bestseller Butter will know, Yuzuki is all about food.",
       "timestamp": "2026-02-28T09:00:07Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "My cultural awakening: Leonardo da Vinci made me rethink surgery \u2013 I\u2019ve since mended more than 3,000 hearts",
+      "link": "https://www.theguardian.com/culture/2026/feb/28/my-cultural-awakening-leonardo-da-vinci-made-me-rethink-heart-surgery",
+      "mean_score": 0.4886,
+      "vader_score": 0.6771,
+      "textblob_score": 0.3,
+      "first_sentence": "If you\u2019d asked my teenage self, growing up in a small village in Shropshire, what I wanted to do with my life, I would have talked about art and music long before I spoke of scalpel blades and operating theatres.",
+      "timestamp": "2026-02-28T07:00:09Z",
       "source": "The Guardian"
     },
     {
@@ -2490,16 +2500,6 @@
       "first_sentence": "Mollica took the shot from the balcony of his top-floor flat, which overlooks a skyline spanning from the Docklands to central London.",
       "timestamp": "2026-02-21T11:00:06Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Stop picking at your cuticles! 7 ways to keep your nails healthy and strong",
-      "link": "https://www.npr.org/2026/02/21/nx-s1-5688858/nail-health-tips",
-      "mean_score": 0.5453,
-      "vader_score": 0.6239,
-      "textblob_score": 0.4667,
-      "first_sentence": "Caring for our fingernails and toenails is often an afterthought, says professional nail technician Titilayo Bankole.",
-      "timestamp": "2026-02-21T10:00:00Z",
-      "source": "NPR News"
     }
   ]
 }
