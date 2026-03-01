@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-01T19:10:08Z",
+  "last run": "2026-03-01T20:09:50Z",
   "stories": [
+    {
+      "headline": "Should tick safety be as popular as 'slip, slop, slap'?",
+      "link": "https://www.abc.net.au/news/2026-03-02/calls-to-increase-tick-safety-awareness-after-death-of-teenager/106391314",
+      "mean_score": 0.6675,
+      "vader_score": 0.7351,
+      "textblob_score": 0.6,
+      "first_sentence": "In early 2025, Queenslander Matt Jacobs couldn't figure out why everything was making him sick.",
+      "timestamp": "2026-03-01T19:34:18Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Teeth, finger bones and blessings: Buddhist relics inspire belief",
       "link": "https://apnews.com/article/buddhism-relics-buddha-tooth-shariras-1f2f8dca3b4431a77c3e19e653d94896",
@@ -90,6 +100,16 @@
       "first_sentence": "Two stonemasons have won a snow sculpting prize as part of Team GB's entry to the World Snow Festival in Switzerland.",
       "timestamp": "2026-03-01T09:02:18Z",
       "source": "BBC News"
+    },
+    {
+      "headline": "\u2018By 18 I was having sex to the music of Brian Eno\u2019: Tim Booth\u2019s honest playlist",
+      "link": "https://www.theguardian.com/music/2026/mar/01/tim-booth-honest-playlist-nina-simone-underworld-don-mclean-patti-smith",
+      "mean_score": 0.5553,
+      "vader_score": 0.5106,
+      "textblob_score": 0.6,
+      "first_sentence": "The James frontman fell for Leonard Cohen as a child and would do Val Doonican at karaoke.",
+      "timestamp": "2026-03-01T09:00:35Z",
+      "source": "The Guardian"
     },
     {
       "headline": "Aussie Green hangs on to win Women's World Championship by one shot",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.1,
       "first_sentence": "Four years into the full-scale war in Ukraine, Russia\u2019s elite has shown no sign of resisting the very difficult spot that Vladimir Putin placed them in by acting without their consultation.",
       "timestamp": "2026-02-22T08:00:31Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The Great Olympic lie: untold story of Winter Games\u2019 huge environmental impact",
-      "link": "https://www.theguardian.com/sport/2026/feb/22/the-great-olympic-lie-untold-story-of-winter-games-huge-environmental-impact",
-      "mean_score": 0.6753,
-      "vader_score": 0.7506,
-      "textblob_score": 0.6,
-      "first_sentence": "On the foothills of the mountains, by the banks of the river in Cortina, there was a forest.",
-      "timestamp": "2026-02-22T08:00:31Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Strong winds overturn boats in Hobart \u2013 As it happened",
-      "link": "https://www.theguardian.com/australia-news/live/2026/feb/22/australia-news-live-tony-burke-home-affairs-syria-albanese-chalmers-productivity-commission-federal-police-labor-liberal-angus-taylor-coalition-ntwnfb",
-      "mean_score": 0.472,
-      "vader_score": 0.5106,
-      "textblob_score": 0.4333,
-      "first_sentence": "Police are responding after strong winds blew several boats over on the River Derwent near Hobart.",
-      "timestamp": "2026-02-22T06:19:23Z",
       "source": "The Guardian"
     }
   ]

@@ -1,5 +1,25 @@
 [
   {
+    "headline": "The Great Olympic lie: untold story of Winter Games\u2019 huge environmental impact",
+    "link": "https://www.theguardian.com/sport/2026/feb/22/the-great-olympic-lie-untold-story-of-winter-games-huge-environmental-impact",
+    "mean_score": 0.6753,
+    "vader_score": 0.7506,
+    "textblob_score": 0.6,
+    "first_sentence": "On the foothills of the mountains, by the banks of the river in Cortina, there was a forest.",
+    "timestamp": "2026-02-22T08:00:31Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Strong winds overturn boats in Hobart \u2013 As it happened",
+    "link": "https://www.theguardian.com/australia-news/live/2026/feb/22/australia-news-live-tony-burke-home-affairs-syria-albanese-chalmers-productivity-commission-federal-police-labor-liberal-angus-taylor-coalition-ntwnfb",
+    "mean_score": 0.472,
+    "vader_score": 0.5106,
+    "textblob_score": 0.4333,
+    "first_sentence": "Police are responding after strong winds blew several boats over on the River Derwent near Hobart.",
+    "timestamp": "2026-02-22T06:19:23Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Thailand moves to cut sugar in popular drinks amid health drive",
     "link": "https://www.theguardian.com/world/2026/feb/22/thailand-moves-to-cut-sugar-in-popular-drinks-amid-health-drive",
     "mean_score": 0.389,
