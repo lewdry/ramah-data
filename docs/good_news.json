@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-01T01:39:19Z",
+  "last run": "2026-03-01T03:10:58Z",
   "stories": [
+    {
+      "headline": "\u2018For us, it\u2019s like Christmas\u2019: Bad Bunny gets rapturous welcome at first-ever Australian show",
+      "link": "https://www.theguardian.com/australia-news/2026/mar/01/bad-bunny-sydney-australia-show-debi-tirar-mas-fotos-world-tour-engie-stadium",
+      "mean_score": 0.3026,
+      "vader_score": 0.5719,
+      "textblob_score": 0.0333,
+      "first_sentence": "Few Australian tours carry the weight of Bad Bunny\u2019s first-ever shows in the country.",
+      "timestamp": "2026-03-01T01:49:20Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Exhibition shares First Nations stories of 'strength and resilience'",
       "link": "https://www.abc.net.au/news/2026-03-01/goldfields-legacies-karlkurla-elders-oral-history-exhibition/106381410",
@@ -49,6 +59,16 @@
       "textblob_score": 0.1364,
       "first_sentence": "New Zealand has been left celebrating in the team hotel as it watched Pakistan fall short in its bold bid to pinch a place in the T20 World Cup semifinals.",
       "timestamp": "2026-02-28T23:06:58Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "'Timing is impeccable': Record rain for parts of SA",
+      "link": "https://www.abc.net.au/news/2026-03-01/record-rain-in-eyre-peninsula-sa-west-coast/106401748",
+      "mean_score": 0.375,
+      "vader_score": 0.0,
+      "textblob_score": 0.75,
+      "first_sentence": "Record rainfall has been welcomed by some in the Eyre Peninsula.",
+      "timestamp": "2026-02-28T22:49:15Z",
       "source": "ABC News"
     },
     {
@@ -2480,26 +2500,6 @@
       "first_sentence": "Caring for our fingernails and toenails is often an afterthought, says professional nail technician Titilayo Bankole.",
       "timestamp": "2026-02-21T10:00:00Z",
       "source": "NPR News"
-    },
-    {
-      "headline": "Italian toddler dies after transplant with heart 'burned by frostbite'",
-      "link": "https://www.bbc.com/news/articles/ceqvgedennpo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3185,
-      "vader_score": 0.6369,
-      "textblob_score": 0.0,
-      "first_sentence": "A toddler in Italy who received a damaged donor heart has died, the family's lawyer has said.",
-      "timestamp": "2026-02-21T09:55:40Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "England head into T20 World Cup Super 8s with a clean slate and a clear aim to improve",
-      "link": "https://www.theguardian.com/sport/2026/feb/21/england-head-into-t20-world-cup-super-8s-with-a-clean-slate-and-a-clear-aim-to-improve",
-      "mean_score": 0.5844,
-      "vader_score": 0.9022,
-      "textblob_score": 0.2667,
-      "first_sentence": "Late on Friday morning, after the entire playing surface had spent most of the preceding few days shrouded in plastic sheeting, the sun broke out.",
-      "timestamp": "2026-02-21T08:00:03Z",
-      "source": "The Guardian"
     }
   ]
 }
