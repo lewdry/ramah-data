@@ -1,5 +1,35 @@
 [
   {
+    "headline": "'I love the look on his face' - The mum who takes her baby on wilderness adventures",
+    "link": "https://www.bbc.com/news/articles/c5y3y7kp8jlo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.6325,
+    "vader_score": 0.765,
+    "textblob_score": 0.5,
+    "first_sentence": "Experienced mountaineer Morag Skelton has been climbing and skiing in Scotland's mountains all her adult life.",
+    "timestamp": "2026-02-22T03:43:08Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Quilts 'made with love' bring comfort to end-of-life patients",
+    "link": "https://www.abc.net.au/news/2026-02-22/handmade-quilts-bring-comfort-to-palliative-care-patients/106321878",
+    "mean_score": 0.6359,
+    "vader_score": 0.7717,
+    "textblob_score": 0.5,
+    "first_sentence": "Kaye-Maree Hinton's husband Garry was in end-of-life care with a rare type of brain cancer, when a nurse laid a bright, handmade quilt over his hospital bed.",
+    "timestamp": "2026-02-22T02:06:37Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Super seamstress puts artistic spin on garlic mushrooms",
+    "link": "https://www.abc.net.au/news/2026-02-22/wa-artist-turns-garlic-stems-old-teabags-into-art/106221554",
+    "mean_score": 0.4664,
+    "vader_score": 0.5994,
+    "textblob_score": 0.3333,
+    "first_sentence": "Sewing has been a part of Elizabeth Jenkins's life since she began helping turn the wheel on her mother's sewing machine as a child.",
+    "timestamp": "2026-02-22T01:01:45Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "The most played music artists for UK cities - some may surprise you",
     "link": "https://www.bbc.com/news/articles/c78xjd68dp2o?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.5424,

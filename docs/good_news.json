@@ -1,6 +1,36 @@
 {
-  "last run": "2026-03-01T12:15:03Z",
+  "last run": "2026-03-01T13:20:21Z",
   "stories": [
+    {
+      "headline": "How to make the perfect bara brith \u2013 recipe | Felicity Cloake's How to make the perfect \u2026",
+      "link": "https://www.theguardian.com/food/2026/mar/01/how-to-make-the-perfect-bara-brith-recipe-felicity-cloake",
+      "mean_score": 0.9063,
+      "vader_score": 0.8126,
+      "textblob_score": 1.0,
+      "first_sentence": "Bara brith, the traditional Welsh fruit loaf whose name means speckled bread, is, as Ben Mervis notes, not dissimilar to Yorkshire brack, Irish barmbrack and Scottish \u201ckerrie loaf\u201d \u2013 the last is a new one on me, though, of course, I\u2019m more than familiar with how well they all pair with strong tea and cold salty butter.",
+      "timestamp": "2026-03-01T13:00:41Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Italian skier Sofia Goggia wins super-G to regain commanding lead in World Cup discipline standings",
+      "link": "https://apnews.com/article/alpine-skiing-olympics-superg-goggia-shiffrin-7fe98f7b3071bd0bf9989d436d6e8705",
+      "mean_score": 0.3609,
+      "vader_score": 0.5719,
+      "textblob_score": 0.15,
+      "first_sentence": "SOLDEU, Andorra (AP) \u2014 Sofia Goggia won her second super-G of the season Sunday and regained a commanding lead in the race to the World Cup discipline title.",
+      "timestamp": "2026-03-01T12:53:02Z",
+      "source": "AP News"
+    },
+    {
+      "headline": "How succession works in Iran and who could be the country\u2019s next supreme leader",
+      "link": "https://apnews.com/article/iran-supreme-leader-khamenei-succession-c1d1505581d36ffc84d3ededcb10a7d5",
+      "mean_score": 0.3298,
+      "vader_score": 0.6597,
+      "textblob_score": 0.0,
+      "first_sentence": "Ayatollah Ali Khamenei, who assembled theocratic power in Iran over the decades as its supreme leader and sought to turn it into a regional powerhouse, bringing it into confrontation with Israel and the United States over its nuclear program while crushing democracy protesters at home, has died, Iranian state media confirmed early Sunday.",
+      "timestamp": "2026-03-01T12:53:01Z",
+      "source": "AP News"
+    },
     {
       "headline": "How the internet reacted to Matildas 1-0 win over Philippines",
       "link": "https://www.abc.net.au/news/2026-03-01/how-the-internet-reacted-to-the-matildas-v-philippines/106402566",
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.2667,
       "first_sentence": "A successful rescue operation has been carried out in Hobart's River Derwent after at least eight boats competing in a race capsized in strong winds.",
       "timestamp": "2026-02-22T04:02:30Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "'I love the look on his face' - The mum who takes her baby on wilderness adventures",
-      "link": "https://www.bbc.com/news/articles/c5y3y7kp8jlo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.6325,
-      "vader_score": 0.765,
-      "textblob_score": 0.5,
-      "first_sentence": "Experienced mountaineer Morag Skelton has been climbing and skiing in Scotland's mountains all her adult life.",
-      "timestamp": "2026-02-22T03:43:08Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Quilts 'made with love' bring comfort to end-of-life patients",
-      "link": "https://www.abc.net.au/news/2026-02-22/handmade-quilts-bring-comfort-to-palliative-care-patients/106321878",
-      "mean_score": 0.6359,
-      "vader_score": 0.7717,
-      "textblob_score": 0.5,
-      "first_sentence": "Kaye-Maree Hinton's husband Garry was in end-of-life care with a rare type of brain cancer, when a nurse laid a bright, handmade quilt over his hospital bed.",
-      "timestamp": "2026-02-22T02:06:37Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Super seamstress puts artistic spin on garlic mushrooms",
-      "link": "https://www.abc.net.au/news/2026-02-22/wa-artist-turns-garlic-stems-old-teabags-into-art/106221554",
-      "mean_score": 0.4664,
-      "vader_score": 0.5994,
-      "textblob_score": 0.3333,
-      "first_sentence": "Sewing has been a part of Elizabeth Jenkins's life since she began helping turn the wheel on her mother's sewing machine as a child.",
-      "timestamp": "2026-02-22T01:01:45Z",
       "source": "ABC News"
     }
   ]
