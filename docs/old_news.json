@@ -1,5 +1,25 @@
 [
   {
+    "headline": "The most played music artists for UK cities - some may surprise you",
+    "link": "https://www.bbc.com/news/articles/c78xjd68dp2o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.5424,
+    "vader_score": 0.5849,
+    "textblob_score": 0.5,
+    "first_sentence": "Oasis are big in Manchester, but even bigger in Scotland.",
+    "timestamp": "2026-02-22T00:29:27Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "'Awesome' Cherry-Evans lauded on debut by star Roosters teammate",
+    "link": "https://www.abc.net.au/news/2026-02-22/nrl-cherry-evans-walker-combine-roosters-beaten-eels/106373172",
+    "mean_score": 0.8125,
+    "vader_score": 0.6249,
+    "textblob_score": 1.0,
+    "first_sentence": "Daly Cherry-Evans has shown promising signs of a strong combination with Sam Walker in his first match in Roosters colours.",
+    "timestamp": "2026-02-21T20:27:49Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Perry milestone ruined as India claims series win over Australia",
     "link": "https://www.abc.net.au/news/2026-02-22/cricket-perry-milestone-ruined-india-beats-australia-series/106373140",
     "mean_score": 0.4889,

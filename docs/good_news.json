@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-01T11:08:46Z",
+  "last run": "2026-03-01T12:15:03Z",
   "stories": [
+    {
+      "headline": "How the internet reacted to Matildas 1-0 win over Philippines",
+      "link": "https://www.abc.net.au/news/2026-03-01/how-the-internet-reacted-to-the-matildas-v-philippines/106402566",
+      "mean_score": 0.6929,
+      "vader_score": 0.5859,
+      "textblob_score": 0.8,
+      "first_sentence": "The last time the Matildas played the Philippines, they beat them 8-0.",
+      "timestamp": "2026-03-01T11:53:24Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Sam Kerr header delivers Matildas win over Philippines in Women\u2019s Asian Cup opener",
+      "link": "https://www.theguardian.com/football/2026/mar/01/matildas-australia-philippines-football-womens-asian-cup-report",
+      "mean_score": 0.4929,
+      "vader_score": 0.5859,
+      "textblob_score": 0.4,
+      "first_sentence": "The Matildas\u2019 Asian Cup campaign is off to an ideal, if rusty, start with a 1-0 defeat of the Philippines in their first group-stage match in Perth on Sunday afternoon.",
+      "timestamp": "2026-03-01T11:10:37Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Demons premiership winner May retires from AFL 'with a heavy heart'",
       "link": "https://www.abc.net.au/news/2026-03-01/afl-steven-may-retires-melbourne-demons/106403120",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.3333,
       "first_sentence": "Sewing has been a part of Elizabeth Jenkins's life since she began helping turn the wheel on her mother's sewing machine as a child.",
       "timestamp": "2026-02-22T01:01:45Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "The most played music artists for UK cities - some may surprise you",
-      "link": "https://www.bbc.com/news/articles/c78xjd68dp2o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5424,
-      "vader_score": 0.5849,
-      "textblob_score": 0.5,
-      "first_sentence": "Oasis are big in Manchester, but even bigger in Scotland.",
-      "timestamp": "2026-02-22T00:29:27Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "'Awesome' Cherry-Evans lauded on debut by star Roosters teammate",
-      "link": "https://www.abc.net.au/news/2026-02-22/nrl-cherry-evans-walker-combine-roosters-beaten-eels/106373172",
-      "mean_score": 0.8125,
-      "vader_score": 0.6249,
-      "textblob_score": 1.0,
-      "first_sentence": "Daly Cherry-Evans has shown promising signs of a strong combination with Sam Walker in his first match in Roosters colours.",
-      "timestamp": "2026-02-21T20:27:49Z",
       "source": "ABC News"
     }
   ]
