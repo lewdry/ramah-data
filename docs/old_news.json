@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Thailand moves to cut sugar in popular drinks amid health drive",
+    "link": "https://www.theguardian.com/world/2026/feb/22/thailand-moves-to-cut-sugar-in-popular-drinks-amid-health-drive",
+    "mean_score": 0.389,
+    "vader_score": 0.1779,
+    "textblob_score": 0.6,
+    "first_sentence": "A crowd of customers, holding phones aloft, watch intently as Auntie Nid mixes up her bestseller: an iced Thai tea.",
+    "timestamp": "2026-02-22T05:00:27Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Strong winds trigger mass rescue of 25 young sailors",
+    "link": "https://www.abc.net.au/news/2026-02-22/multiple-boats-capsize-at-bellerive-regatta/106373620",
+    "mean_score": 0.5158,
+    "vader_score": 0.765,
+    "textblob_score": 0.2667,
+    "first_sentence": "A successful rescue operation has been carried out in Hobart's River Derwent after at least eight boats competing in a race capsized in strong winds.",
+    "timestamp": "2026-02-22T04:02:30Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "'I love the look on his face' - The mum who takes her baby on wilderness adventures",
     "link": "https://www.bbc.com/news/articles/c5y3y7kp8jlo?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.6325,

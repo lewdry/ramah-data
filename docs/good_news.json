@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-01T15:08:42Z",
+  "last run": "2026-03-01T16:10:27Z",
   "stories": [
+    {
+      "headline": "Teeth, finger bones and blessings: Buddhist relics inspire belief",
+      "link": "https://apnews.com/article/buddhism-relics-buddha-tooth-shariras-1f2f8dca3b4431a77c3e19e653d94896",
+      "mean_score": 0.401,
+      "vader_score": 0.802,
+      "textblob_score": 0.0,
+      "first_sentence": "ROSEMEAD, Calif.",
+      "timestamp": "2026-03-01T15:53:02Z",
+      "source": "AP News"
+    },
     {
       "headline": "How to make the perfect bara brith \u2013 recipe | Felicity Cloake's How to make the perfect \u2026",
       "link": "https://www.theguardian.com/food/2026/mar/01/how-to-make-the-perfect-bara-brith-recipe-felicity-cloake",
@@ -100,6 +110,16 @@
       "first_sentence": "The Matildas get off to a winning start, but the Filipinas don't make things easy in the opening game of the 2026 Women's Asian Cup at Perth Stadium.",
       "timestamp": "2026-03-01T08:06:24Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "'It's joy in a pot': Why houseplants could make you happier",
+      "link": "https://www.bbc.com/news/articles/c0jven2eevlo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.801,
+      "vader_score": 0.802,
+      "textblob_score": 0.8,
+      "first_sentence": "Jonny Balchandani is so passionate about plants he turned his spare bedroom into a  greenhouse.",
+      "timestamp": "2026-03-01T07:21:33Z",
+      "source": "BBC News"
     },
     {
       "headline": "Stunning views, honesty shops and community pubs: people power on the Ll\u0177n peninsula in Wales",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Police are responding after strong winds blew several boats over on the River Derwent near Hobart.",
       "timestamp": "2026-02-22T06:19:23Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Thailand moves to cut sugar in popular drinks amid health drive",
-      "link": "https://www.theguardian.com/world/2026/feb/22/thailand-moves-to-cut-sugar-in-popular-drinks-amid-health-drive",
-      "mean_score": 0.389,
-      "vader_score": 0.1779,
-      "textblob_score": 0.6,
-      "first_sentence": "A crowd of customers, holding phones aloft, watch intently as Auntie Nid mixes up her bestseller: an iced Thai tea.",
-      "timestamp": "2026-02-22T05:00:27Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Strong winds trigger mass rescue of 25 young sailors",
-      "link": "https://www.abc.net.au/news/2026-02-22/multiple-boats-capsize-at-bellerive-regatta/106373620",
-      "mean_score": 0.5158,
-      "vader_score": 0.765,
-      "textblob_score": 0.2667,
-      "first_sentence": "A successful rescue operation has been carried out in Hobart's River Derwent after at least eight boats competing in a race capsized in strong winds.",
-      "timestamp": "2026-02-22T04:02:30Z",
-      "source": "ABC News"
     }
   ]
 }
