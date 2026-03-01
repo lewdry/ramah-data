@@ -1,11 +1,51 @@
 [
   {
+    "headline": "\u2018What do I play at a party? Oasis\u2019s Wonderwall goes down a storm\u2019: Alex James\u2019s honest playlist",
+    "link": "https://www.theguardian.com/music/2026/feb/22/alex-james-honest-playlist-blue-oasis-radiohead-dexys-joy-division",
+    "mean_score": 0.5174,
+    "vader_score": 0.8126,
+    "textblob_score": 0.2222,
+    "first_sentence": "The Blur bassist loves his Britpop rivals, weeps over Radiohead\u2019s Creep and finds Chitty Chitty Bang Bang sexy.",
+    "timestamp": "2026-02-22T09:00:32Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Live: Aussie 16yo Brown's 'special moment' with back-to-back champion after missing medals",
+    "link": "https://www.abc.net.au/news/2026-02-22/winter-olympics-day-16-live-updates-indra-brown/106372016",
+    "mean_score": 0.3788,
+    "vader_score": 0.6597,
+    "textblob_score": 0.0978,
+    "first_sentence": "Australian 16-year-old Indra Brown has finished fifth in the freeski halfpipe final on the last day of the 2026 Milano Cortina Winter Olympic Games, earning praise from back-to-back gold medallist Eileen Gu.",
+    "timestamp": "2026-02-22T08:47:41Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "How Italians fell in love with their Winter Olympics after gaffes turned into gold",
+    "link": "https://www.theguardian.com/sport/2026/feb/22/how-italians-fell-in-love-with-their-winter-olympics-after-gaffes-turned-into-gold",
+    "mean_score": 0.5685,
+    "vader_score": 0.6369,
+    "textblob_score": 0.5,
+    "first_sentence": "With the atmosphere in Rome subdued as the Winter Olympics unfolded across northern Italy, travelling to the Games was not on Amity Neumeister\u2019s radar.",
+    "timestamp": "2026-02-22T08:00:33Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "The Great Olympic lie: untold story of Winter Games\u2019 huge environmental impact",
     "link": "https://www.theguardian.com/sport/2026/feb/22/the-great-olympic-lie-untold-story-of-winter-games-huge-environmental-impact",
     "mean_score": 0.6753,
     "vader_score": 0.7506,
     "textblob_score": 0.6,
     "first_sentence": "On the foothills of the mountains, by the banks of the river in Cortina, there was a forest.",
+    "timestamp": "2026-02-22T08:00:31Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "The strategy of Russia\u2019s liberal elite is clear: make your peace with Putin. It\u2019s how they survive | Andrei Soldatov and Irina Borogan",
+    "link": "https://www.theguardian.com/commentisfree/2026/feb/22/russia-cultural-liberal-elite-putin",
+    "mean_score": 0.4134,
+    "vader_score": 0.7269,
+    "textblob_score": 0.1,
+    "first_sentence": "Four years into the full-scale war in Ukraine, Russia\u2019s elite has shown no sign of resisting the very difficult spot that Vladimir Putin placed them in by acting without their consultation.",
     "timestamp": "2026-02-22T08:00:31Z",
     "source": "The Guardian"
   },

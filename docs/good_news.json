@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-01T21:09:05Z",
+  "last run": "2026-03-01T22:08:41Z",
   "stories": [
+    {
+      "headline": "Delroy Lindo thankful for \u2018love and support\u2019 after N-word incident at Baftas",
+      "link": "https://www.theguardian.com/film/2026/mar/01/delroy-lindo-baftas-support-michael-b-jordan",
+      "mean_score": 0.5359,
+      "vader_score": 0.5719,
+      "textblob_score": 0.5,
+      "first_sentence": "British-American actor Delroy Lindo expressed gratitude for \u201cthe support and love\u201d he and Michael B Jordan have received after a man with Tourette syndrome (TS) shouted the N-word as the two men presented a Bafta award.",
+      "timestamp": "2026-03-01T21:43:55Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Should tick safety be as popular as 'slip, slop, slap'?",
       "link": "https://www.abc.net.au/news/2026-03-02/calls-to-increase-tick-safety-awareness-after-death-of-teenager/106391314",
@@ -12,6 +22,16 @@
       "source": "ABC News"
     },
     {
+      "headline": "Arsenal edge battling Chelsea thanks to Timber and Raya to restore five-point lead",
+      "link": "https://www.theguardian.com/football/2026/mar/01/arsenal-chelsea-premier-league-match-report",
+      "mean_score": 0.3294,
+      "vader_score": 0.4588,
+      "textblob_score": 0.2,
+      "first_sentence": "There were 63 minutes on the Emirates Stadium clock and the Arsenal crowd were in a state of extreme agitation.",
+      "timestamp": "2026-03-01T18:54:04Z",
+      "source": "The Guardian"
+    },
+    {
       "headline": "Teeth, finger bones and blessings: Buddhist relics inspire belief",
       "link": "https://apnews.com/article/buddhism-relics-buddha-tooth-shariras-1f2f8dca3b4431a77c3e19e653d94896",
       "mean_score": 0.401,
@@ -20,6 +40,16 @@
       "first_sentence": "ROSEMEAD, Calif.",
       "timestamp": "2026-03-01T15:53:02Z",
       "source": "AP News"
+    },
+    {
+      "headline": "Brave, visionary and queer: the Bohemian brilliance of author George Sand",
+      "link": "https://www.theguardian.com/books/2026/mar/01/brave-visionary-and-queer-the-bohemian-brilliance-of-author-george-sand",
+      "mean_score": 0.8467,
+      "vader_score": 0.8934,
+      "textblob_score": 0.8,
+      "first_sentence": "It would be hard to find a more courageous and perverse, iconic yet controversial figure in European literary history than George Sand.",
+      "timestamp": "2026-03-01T13:08:15Z",
+      "source": "The Guardian"
     },
     {
       "headline": "How to make the perfect bara brith \u2013 recipe | Felicity Cloake's How to make the perfect \u2026",
@@ -69,6 +99,16 @@
       "textblob_score": 0.4,
       "first_sentence": "The Matildas\u2019 Asian Cup campaign is off to an ideal, if rusty, start with a 1-0 defeat of the Philippines in their first group-stage match in Perth on Sunday afternoon.",
       "timestamp": "2026-03-01T11:10:37Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Savannah Guthrie may never know what happened to her loved one. In the US, she\u2019s not alone",
+      "link": "https://www.theguardian.com/us-news/2026/mar/01/savannah-guthrie-nancy-missing-persons",
+      "mean_score": 0.6924,
+      "vader_score": 0.6848,
+      "textblob_score": 0.7,
+      "first_sentence": "Savannah Guthrie could be moving back to New York to resume anchoring NBC\u2019s Today show and acknowledging that her 84-year-old mother, Nancy, may not be found a month after she disappeared from her Tucson, Arizona, home in the middle of the night.",
+      "timestamp": "2026-03-01T11:00:38Z",
       "source": "The Guardian"
     },
     {
@@ -2459,46 +2499,6 @@
       "textblob_score": 0.5,
       "first_sentence": "China has overtaken the US as Germany\u2019s top trading partner, figures have shown, as the chancellor, Friedrich Merz, prepares for his first visit to Beijing since taking office.",
       "timestamp": "2026-02-22T10:51:40Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018What do I play at a party? Oasis\u2019s Wonderwall goes down a storm\u2019: Alex James\u2019s honest playlist",
-      "link": "https://www.theguardian.com/music/2026/feb/22/alex-james-honest-playlist-blue-oasis-radiohead-dexys-joy-division",
-      "mean_score": 0.5174,
-      "vader_score": 0.8126,
-      "textblob_score": 0.2222,
-      "first_sentence": "The Blur bassist loves his Britpop rivals, weeps over Radiohead\u2019s Creep and finds Chitty Chitty Bang Bang sexy.",
-      "timestamp": "2026-02-22T09:00:32Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Live: Aussie 16yo Brown's 'special moment' with back-to-back champion after missing medals",
-      "link": "https://www.abc.net.au/news/2026-02-22/winter-olympics-day-16-live-updates-indra-brown/106372016",
-      "mean_score": 0.3788,
-      "vader_score": 0.6597,
-      "textblob_score": 0.0978,
-      "first_sentence": "Australian 16-year-old Indra Brown has finished fifth in the freeski halfpipe final on the last day of the 2026 Milano Cortina Winter Olympic Games, earning praise from back-to-back gold medallist Eileen Gu.",
-      "timestamp": "2026-02-22T08:47:41Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "How Italians fell in love with their Winter Olympics after gaffes turned into gold",
-      "link": "https://www.theguardian.com/sport/2026/feb/22/how-italians-fell-in-love-with-their-winter-olympics-after-gaffes-turned-into-gold",
-      "mean_score": 0.5685,
-      "vader_score": 0.6369,
-      "textblob_score": 0.5,
-      "first_sentence": "With the atmosphere in Rome subdued as the Winter Olympics unfolded across northern Italy, travelling to the Games was not on Amity Neumeister\u2019s radar.",
-      "timestamp": "2026-02-22T08:00:33Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The strategy of Russia\u2019s liberal elite is clear: make your peace with Putin. It\u2019s how they survive | Andrei Soldatov and Irina Borogan",
-      "link": "https://www.theguardian.com/commentisfree/2026/feb/22/russia-cultural-liberal-elite-putin",
-      "mean_score": 0.4134,
-      "vader_score": 0.7269,
-      "textblob_score": 0.1,
-      "first_sentence": "Four years into the full-scale war in Ukraine, Russia\u2019s elite has shown no sign of resisting the very difficult spot that Vladimir Putin placed them in by acting without their consultation.",
-      "timestamp": "2026-02-22T08:00:31Z",
       "source": "The Guardian"
     }
   ]
