@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-02T20:14:10Z",
+  "last run": "2026-03-02T21:15:46Z",
   "stories": [
+    {
+      "headline": "Territory Labor never should have lost Nightcliff. Does it deserve to win it back?",
+      "link": "https://www.abc.net.au/news/2026-03-03/nightcliff-by-election-analysis-territory-labor-the-greens/106404306",
+      "mean_score": 0.5484,
+      "vader_score": 0.6968,
+      "textblob_score": 0.4,
+      "first_sentence": "Nightcliff is the seat Territory Labor should never have lost.",
+      "timestamp": "2026-03-02T20:43:35Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Jesse Jackson returns to South Carolina to be honored by his home state: \u2018He freed us all\u2019",
+      "link": "https://www.theguardian.com/us-news/2026/mar/02/jesse-jackson-south-carolina",
+      "mean_score": 0.379,
+      "vader_score": 0.7579,
+      "textblob_score": 0.0,
+      "first_sentence": "After a long career of fighting for civil rights, the Rev Jesse Jackson Sr is visiting his home for one last time to lie in state at the South Carolina capitol on Monday.",
+      "timestamp": "2026-03-02T20:14:09Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Meet the $235,000 bull that dazzled buyers with his good looks",
       "link": "https://www.abc.net.au/news/2026-03-03/south-australia-record-breaking-sale-for-angus-bull/106384404",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Australia\u2019s golden 2026 Winter Olympics campaign ended on Sunday not with a medal, but with a thrilling view of the future.",
       "timestamp": "2026-02-23T00:47:11Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Mescal and Abrams go red carpet official, a 'strong language' apology and other Bafta highlights",
-      "link": "https://www.bbc.com/news/articles/c86ygl6821go?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3225,
-      "vader_score": 0.5423,
-      "textblob_score": 0.1028,
-      "first_sentence": "This year's Bafta Film Awards had it all.",
-      "timestamp": "2026-02-22T23:35:15Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "How embracing sustainability can help the Olympic Games remain relevant",
-      "link": "https://www.abc.net.au/news/2026-02-23/olympic-games-relevant-sustainability/106374848",
-      "mean_score": 0.401,
-      "vader_score": 0.4019,
-      "textblob_score": 0.4,
-      "first_sentence": "The memories for the athletes, visitors and volunteers will last a lifetime.",
-      "timestamp": "2026-02-22T23:11:30Z",
-      "source": "ABC News"
     }
   ]
 }

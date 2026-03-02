@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Mescal and Abrams go red carpet official, a 'strong language' apology and other Bafta highlights",
+    "link": "https://www.bbc.com/news/articles/c86ygl6821go?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3225,
+    "vader_score": 0.5423,
+    "textblob_score": 0.1028,
+    "first_sentence": "This year's Bafta Film Awards had it all.",
+    "timestamp": "2026-02-22T23:35:15Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "How embracing sustainability can help the Olympic Games remain relevant",
+    "link": "https://www.abc.net.au/news/2026-02-23/olympic-games-relevant-sustainability/106374848",
+    "mean_score": 0.401,
+    "vader_score": 0.4019,
+    "textblob_score": 0.4,
+    "first_sentence": "The memories for the athletes, visitors and volunteers will last a lifetime.",
+    "timestamp": "2026-02-22T23:11:30Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Australian 16-year-old medal hope Indra Brown misses out on last-day Olympic glory",
     "link": "https://www.theguardian.com/sport/2026/feb/23/indra-brown-freestyle-skiing-halfpipe-australia-medal-hope-winter-olympics",
     "mean_score": 0.4113,
