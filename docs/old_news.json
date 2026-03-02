@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Minister says children in England will get support more quickly under Send overhaul",
+    "link": "https://www.theguardian.com/education/2026/feb/22/minister-bridget-phillipson-says-children-in-england-will-get-support-more-quickly-under-send-overhaul",
+    "mean_score": 0.4093,
+    "vader_score": 0.4019,
+    "textblob_score": 0.4167,
+    "first_sentence": "Bridget Phillipson has pledged that under the government\u2019s overhaul of special needs support for children in England will begin within weeks not months, as she prepares to announce the controversial revamp.",
+    "timestamp": "2026-02-22T11:58:43Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Minister pledges that children will receive Send support \u2018much more quickly\u2019 under new reforms - UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/feb/22/uk-education-ehcp-attainment-schools-andrew-latest-news-updates",
+    "mean_score": 0.3392,
+    "vader_score": 0.4019,
+    "textblob_score": 0.2765,
+    "first_sentence": "A total overhaul of the special educational needs and disabilities (Send) system is due to be unveiled on Monday in a schools white paper that could face major opposition from Labour MPs.",
+    "timestamp": "2026-02-22T11:43:06Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "'Effective' SEND support won't be taken away, minister says",
+    "link": "https://www.bbc.com/news/articles/clygnnz6d9lo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.6502,
+    "vader_score": 0.7003,
+    "textblob_score": 0.6,
+    "first_sentence": "The government will not be withdrawing \"effective support\" from children with special educational needs and disabilities (SEND) under its planned school reforms for England, the education secretary has said.",
+    "timestamp": "2026-02-22T10:53:31Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "China overtakes US as Germany\u2019s top trading partner",
+    "link": "https://www.theguardian.com/business/2026/feb/22/china-overtakes-us-as-germany-top-trading-partner",
+    "mean_score": 0.3512,
+    "vader_score": 0.2023,
+    "textblob_score": 0.5,
+    "first_sentence": "China has overtaken the US as Germany\u2019s top trading partner, figures have shown, as the chancellor, Friedrich Merz, prepares for his first visit to Beijing since taking office.",
+    "timestamp": "2026-02-22T10:51:40Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "\u2018What do I play at a party? Oasis\u2019s Wonderwall goes down a storm\u2019: Alex James\u2019s honest playlist",
     "link": "https://www.theguardian.com/music/2026/feb/22/alex-james-honest-playlist-blue-oasis-radiohead-dexys-joy-division",
     "mean_score": 0.5174,

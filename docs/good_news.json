@@ -1,6 +1,46 @@
 {
-  "last run": "2026-03-02T05:29:12Z",
+  "last run": "2026-03-02T06:27:59Z",
   "stories": [
+    {
+      "headline": "What to know about Iran\u2019s Revolutionary Guard, a powerful force within the country\u2019s theocracy",
+      "link": "https://apnews.com/article/iran-us-israel-war-revolutionary-guard-what-to-know-fd7a89210c70cc9ab1d2c1a5ea16bca7",
+      "mean_score": 0.3608,
+      "vader_score": 0.4215,
+      "textblob_score": 0.3,
+      "first_sentence": "DUBAI, United Arab Emirates (AP) \u2014 Iran\u2019s paramilitary Revolutionary Guard has grown into a powerful force within the country\u2019s theocracy, answering only to its supreme leader and overseeing its ballistic missile arsenal and launching attacks overseas.",
+      "timestamp": "2026-03-02T05:53:02Z",
+      "source": "AP News"
+    },
+    {
+      "headline": "SA Labor pledges OSHC expansion as Liberals support free school concept",
+      "link": "https://www.abc.net.au/news/2026-03-02/labor-announces-oshc-expansion-liberals-demand-freight-bypass/106405534",
+      "mean_score": 0.5592,
+      "vader_score": 0.7184,
+      "textblob_score": 0.4,
+      "first_sentence": "The SA opposition has flagged its intent to back Labor's election promise to make public schooling free, in a sign the measure is likely to proceed, no matter who forms government.",
+      "timestamp": "2026-03-02T05:32:07Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Married at Mardi Gras: the Free, Gay n Happy float \u2013 in pictures",
+      "link": "https://www.theguardian.com/australia-news/gallery/2026/mar/02/sydney-mardi-gras-free-gay-n-happy-float-pictures",
+      "mean_score": 0.6286,
+      "vader_score": 0.7906,
+      "textblob_score": 0.4667,
+      "first_sentence": "No-one could rain on this parade.",
+      "timestamp": "2026-03-02T05:22:10Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Simple recipes to celebrate autumn and enjoy the cosy kitchen",
+      "link": "https://www.abc.net.au/news/2026-03-02/five-of-our-best-autumn-recipes-/106392174",
+      "mean_score": 0.4922,
+      "vader_score": 0.7845,
+      "textblob_score": 0.2,
+      "first_sentence": "Autumn means goodbye to the long days of summer but hello to the kind of weather that lends itself a little more to being inside and cooking.",
+      "timestamp": "2026-03-02T04:59:46Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Delroy Lindo thankful for \u2018love and support\u2019 after N-word incident at Baftas",
       "link": "https://www.theguardian.com/film/2026/mar/01/delroy-lindo-baftas-support-michael-b-jordan",
@@ -2459,46 +2499,6 @@
       "textblob_score": 0.55,
       "first_sentence": "Two south-westerners shared a love of boats, but how would they fare on tuition fees and NHS funding?.",
       "timestamp": "2026-02-22T12:00:37Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Minister says children in England will get support more quickly under Send overhaul",
-      "link": "https://www.theguardian.com/education/2026/feb/22/minister-bridget-phillipson-says-children-in-england-will-get-support-more-quickly-under-send-overhaul",
-      "mean_score": 0.4093,
-      "vader_score": 0.4019,
-      "textblob_score": 0.4167,
-      "first_sentence": "Bridget Phillipson has pledged that under the government\u2019s overhaul of special needs support for children in England will begin within weeks not months, as she prepares to announce the controversial revamp.",
-      "timestamp": "2026-02-22T11:58:43Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Minister pledges that children will receive Send support \u2018much more quickly\u2019 under new reforms - UK politics live",
-      "link": "https://www.theguardian.com/politics/live/2026/feb/22/uk-education-ehcp-attainment-schools-andrew-latest-news-updates",
-      "mean_score": 0.3392,
-      "vader_score": 0.4019,
-      "textblob_score": 0.2765,
-      "first_sentence": "A total overhaul of the special educational needs and disabilities (Send) system is due to be unveiled on Monday in a schools white paper that could face major opposition from Labour MPs.",
-      "timestamp": "2026-02-22T11:43:06Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "'Effective' SEND support won't be taken away, minister says",
-      "link": "https://www.bbc.com/news/articles/clygnnz6d9lo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.6502,
-      "vader_score": 0.7003,
-      "textblob_score": 0.6,
-      "first_sentence": "The government will not be withdrawing \"effective support\" from children with special educational needs and disabilities (SEND) under its planned school reforms for England, the education secretary has said.",
-      "timestamp": "2026-02-22T10:53:31Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "China overtakes US as Germany\u2019s top trading partner",
-      "link": "https://www.theguardian.com/business/2026/feb/22/china-overtakes-us-as-germany-top-trading-partner",
-      "mean_score": 0.3512,
-      "vader_score": 0.2023,
-      "textblob_score": 0.5,
-      "first_sentence": "China has overtaken the US as Germany\u2019s top trading partner, figures have shown, as the chancellor, Friedrich Merz, prepares for his first visit to Beijing since taking office.",
-      "timestamp": "2026-02-22T10:51:40Z",
       "source": "The Guardian"
     }
   ]
