@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Australian 16-year-old medal hope Indra Brown misses out on last-day Olympic glory",
+    "link": "https://www.theguardian.com/sport/2026/feb/23/indra-brown-freestyle-skiing-halfpipe-australia-medal-hope-winter-olympics",
+    "mean_score": 0.4113,
+    "vader_score": 0.8225,
+    "textblob_score": 0.0,
+    "first_sentence": "Melbourne schoolgirl Indra Brown missed out in her quest to become Australia\u2019s youngest Winter Olympic medallist at just 16, ending up fifth in a spectacular final of the freeski halfpipe on the last day of the Milan-Cortina Games.",
+    "timestamp": "2026-02-22T21:28:59Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Baftas 2026: The winners list in full",
+    "link": "https://www.bbc.com/news/articles/crk8687yeyzo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4133,
+    "vader_score": 0.4767,
+    "textblob_score": 0.35,
+    "first_sentence": "The winners of the Bafta Film Awards, which celebrate the best on the big screen from the past 12 months, have been revealed.",
+    "timestamp": "2026-02-22T21:14:19Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "The best looks from the Baftas red carpet",
     "link": "https://www.bbc.com/news/articles/cvg3eq3gjeyo?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.5685,

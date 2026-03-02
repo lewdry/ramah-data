@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-02T19:20:26Z",
+  "last run": "2026-03-02T20:14:10Z",
   "stories": [
+    {
+      "headline": "Meet the $235,000 bull that dazzled buyers with his good looks",
+      "link": "https://www.abc.net.au/news/2026-03-03/south-australia-record-breaking-sale-for-angus-bull/106384404",
+      "mean_score": 0.5702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.7,
+      "first_sentence": "A South Australian Angus bull that sold at auction for $235,000 has set a state record.",
+      "timestamp": "2026-03-02T19:58:16Z",
+      "source": "ABC News"
+    },
     {
       "headline": "The greenest flags: virtue signals that help you find love \u2013 from patchwork clothes to car sharing",
       "link": "https://www.theguardian.com/lifeandstyle/2026/mar/02/greenest-flags-virtue-signals-help-find-love-patchwork-clothes-car-sharing",
@@ -9,6 +19,16 @@
       "textblob_score": 0.5,
       "first_sentence": "Age: This is a thing for younger people, so listen up, boomers.",
       "timestamp": "2026-03-02T16:50:31Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Yes, relegation is now a very real possibility for Tottenham | Jonathan Wilson",
+      "link": "https://www.theguardian.com/football/2026/mar/02/tottenham-hotspur-relegation-premier-league",
+      "mean_score": 0.3309,
+      "vader_score": 0.4019,
+      "textblob_score": 0.26,
+      "first_sentence": "Last week, after Tottenham had lost 4-1 at home to Arsenal, Igor Tudor was bullish.",
+      "timestamp": "2026-03-02T16:30:14Z",
       "source": "The Guardian"
     },
     {
@@ -2480,26 +2500,6 @@
       "first_sentence": "The memories for the athletes, visitors and volunteers will last a lifetime.",
       "timestamp": "2026-02-22T23:11:30Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Australian 16-year-old medal hope Indra Brown misses out on last-day Olympic glory",
-      "link": "https://www.theguardian.com/sport/2026/feb/23/indra-brown-freestyle-skiing-halfpipe-australia-medal-hope-winter-olympics",
-      "mean_score": 0.4113,
-      "vader_score": 0.8225,
-      "textblob_score": 0.0,
-      "first_sentence": "Melbourne schoolgirl Indra Brown missed out in her quest to become Australia\u2019s youngest Winter Olympic medallist at just 16, ending up fifth in a spectacular final of the freeski halfpipe on the last day of the Milan-Cortina Games.",
-      "timestamp": "2026-02-22T21:28:59Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Baftas 2026: The winners list in full",
-      "link": "https://www.bbc.com/news/articles/crk8687yeyzo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4133,
-      "vader_score": 0.4767,
-      "textblob_score": 0.35,
-      "first_sentence": "The winners of the Bafta Film Awards, which celebrate the best on the big screen from the past 12 months, have been revealed.",
-      "timestamp": "2026-02-22T21:14:19Z",
-      "source": "BBC News"
     }
   ]
 }
