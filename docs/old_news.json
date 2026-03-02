@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Senior Alba members offer to help party contest Scottish election",
+    "link": "https://www.bbc.com/news/articles/c05v6106jj4o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3298,
+    "vader_score": 0.6597,
+    "textblob_score": 0.0,
+    "first_sentence": "Four senior Alba Party members have offered to take over the pro-independence party to ensure it can contest the Scottish Parliament election.",
+    "timestamp": "2026-02-22T18:40:26Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Live: Winter Olympics come to a thrilling conclusion in closing ceremony",
+    "link": "https://www.abc.net.au/news/2026-02-23/winter-olympics-closing-ceremony-live-blog/106373682",
+    "mean_score": 0.3349,
+    "vader_score": 0.4767,
+    "textblob_score": 0.1932,
+    "first_sentence": "The Milano Cortina Games are farewelled in style as the closing ceremony brings the 2026 Winter Olympics to an end.",
+    "timestamp": "2026-02-22T18:33:30Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Prominent Brits are facing a reckoning over Epstein. In the US, not so much | Arwa Mahdawi",
     "link": "https://www.theguardian.com/commentisfree/2026/feb/22/andrew-mountbatten-windsor-epstein-us-men",
     "mean_score": 0.3341,

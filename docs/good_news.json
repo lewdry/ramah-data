@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-02T10:23:09Z",
+  "last run": "2026-03-02T11:19:44Z",
   "stories": [
+    {
+      "headline": "The one change that worked: I stopped planning holidays \u2013 and found the joy in travel",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/mar/02/the-one-change-that-worked-i-stopped-planning-holidays-and-found-the-joy-in-travel",
+      "mean_score": 0.7352,
+      "vader_score": 0.6705,
+      "textblob_score": 0.8,
+      "first_sentence": "I have always been indecisive and scared of wasting money.",
+      "timestamp": "2026-03-02T11:00:07Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Texas primaries could test whether Latino support for GOP is holding after 2024 gains",
       "link": "https://www.npr.org/2026/03/02/nx-s1-5729467/texas-election-2026-latinos-ice-trump-vote-immigration",
@@ -10,6 +20,16 @@
       "first_sentence": "Ongoing primary elections in Texas could be a first look at whether Latino swing voters, who are increasingly influential in state elections, are sticking with the Republican Party.",
       "timestamp": "2026-03-02T10:00:00Z",
       "source": "NPR News"
+    },
+    {
+      "headline": "Why The Secret Agent should win the best picture Oscar",
+      "link": "https://www.theguardian.com/film/2026/mar/02/why-the-secret-agent-should-win-the-best-picture-oscar",
+      "mean_score": 0.6534,
+      "vader_score": 0.8402,
+      "textblob_score": 0.4667,
+      "first_sentence": "As ever, this year\u2019s Oscars have their half-dozen or so favourites and frontrunners, some truly outstanding movies among them.",
+      "timestamp": "2026-03-02T09:55:40Z",
+      "source": "The Guardian"
     },
     {
       "headline": "More than 100,000 Britons register for help in Middle East",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.25,
       "first_sentence": "Sydney mum Lianne Mackessy won Tropfest 2026, receiving a $50,000 award for her film Crescendo.",
       "timestamp": "2026-02-22T19:29:38Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Senior Alba members offer to help party contest Scottish election",
-      "link": "https://www.bbc.com/news/articles/c05v6106jj4o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3298,
-      "vader_score": 0.6597,
-      "textblob_score": 0.0,
-      "first_sentence": "Four senior Alba Party members have offered to take over the pro-independence party to ensure it can contest the Scottish Parliament election.",
-      "timestamp": "2026-02-22T18:40:26Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Live: Winter Olympics come to a thrilling conclusion in closing ceremony",
-      "link": "https://www.abc.net.au/news/2026-02-23/winter-olympics-closing-ceremony-live-blog/106373682",
-      "mean_score": 0.3349,
-      "vader_score": 0.4767,
-      "textblob_score": 0.1932,
-      "first_sentence": "The Milano Cortina Games are farewelled in style as the closing ceremony brings the 2026 Winter Olympics to an end.",
-      "timestamp": "2026-02-22T18:33:30Z",
       "source": "ABC News"
     }
   ]
