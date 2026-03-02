@@ -1,5 +1,5 @@
 {
-  "last run": "2026-03-02T13:32:02Z",
+  "last run": "2026-03-02T14:22:39Z",
   "stories": [
     {
       "headline": "Rukmini Iyer\u2019s quick and easy recipe for chard borani soup with yoghurt, crispy garlic and beans | Quick and easy",
@@ -149,6 +149,16 @@
       "textblob_score": 0.5,
       "first_sentence": "More than 52,000 patients waited longer than 24 hours to be admitted to hospitals across north-west England last year, a BBC investigation has revealed.",
       "timestamp": "2026-03-02T06:27:59Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "'I'm excited for new challenge after 16 years on Hollyoaks'",
+      "link": "https://www.bbc.com/news/articles/ceqv2rwwqjpo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3288,
+      "vader_score": 0.4019,
+      "textblob_score": 0.2557,
+      "first_sentence": "Spoiler warning: This article reveals details from upcoming episodes of Hollyoaks.",
+      "timestamp": "2026-03-02T06:24:55Z",
       "source": "BBC News"
     },
     {
@@ -2490,16 +2500,6 @@
       "first_sentence": "Residents in Nauiyu on the banks of the Daly River have returned to their homes after the remote Northern Territory community was evacuated due to flooding earlier this month.",
       "timestamp": "2026-02-22T21:02:49Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "One Battle After Another defeats Hamnet and Sinners at Baftas, as I Swear\u2019s Robert Aramayo takes best actor",
-      "link": "https://www.theguardian.com/film/2026/feb/22/one-battle-after-another-defeats-hamnet-and-sinners-at-baftas-i-swear-robert-aramayo-best-actor-jessie-buckley-leading-actress",
-      "mean_score": 0.5386,
-      "vader_score": 0.0772,
-      "textblob_score": 1.0,
-      "first_sentence": "One Battle After Another, Paul Thomas Anderson\u2019s counterculture comedy about a washed-up revolutionary trying to protect his daughter from a ruthless military officer, has dominated the Baftas, taking home six awards including best film, best director, best cinematography, best editing, best supporting actor, and best adapted screenplay.",
-      "timestamp": "2026-02-22T20:29:52Z",
-      "source": "The Guardian"
     }
   ]
 }
