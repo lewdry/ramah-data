@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-02T07:27:19Z",
+  "last run": "2026-03-02T08:20:52Z",
   "stories": [
+    {
+      "headline": "Is 14 the magic number? Promoted trio make instant Super League impact",
+      "link": "https://www.theguardian.com/sport/2026/mar/02/bradford-bulls-toulouse-york-super-league-las-vegas",
+      "mean_score": 0.5342,
+      "vader_score": 0.7906,
+      "textblob_score": 0.2778,
+      "first_sentence": "When the Super League fixtures were released late last year, it was hard not to be drawn to this weekend.",
+      "timestamp": "2026-03-02T08:00:04Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018I love midges because I know what their hearts look like\u2019: is the passion for taxonomy in danger of dying out?",
+      "link": "https://www.theguardian.com/environment/2026/mar/02/identify-species-taxonomists-crisis-art-borkent",
+      "mean_score": 0.6721,
+      "vader_score": 0.8442,
+      "textblob_score": 0.5,
+      "first_sentence": "Once Art Borkent starts speaking about biting midges, he rarely pauses for breath.",
+      "timestamp": "2026-03-02T08:00:04Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Bon app\u00e9tit! Celebrity pals pop round for lunch: best podcasts of the week",
       "link": "https://www.theguardian.com/tv-and-radio/2026/mar/02/bon-appetit-celebrity-pals-pop-round-for-lunch-best-podcasts-of-the-week",
@@ -20,6 +40,16 @@
       "first_sentence": "The Guardian\u2019s journalism is independent.",
       "timestamp": "2026-03-02T07:00:04Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "Tipping Point contestant who promised to use winnings on IVF now has triplets",
+      "link": "https://www.bbc.com/news/articles/cy7jvj18nnpo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3592,
+      "vader_score": 0.7184,
+      "textblob_score": 0.0,
+      "first_sentence": "A man who won ITV's Tipping Point says there was \"no way\" he and his wife would have had their triplets through IVF without the cash prize.",
+      "timestamp": "2026-03-02T06:40:27Z",
+      "source": "BBC News"
     },
     {
       "headline": "What to know about Iran\u2019s Revolutionary Guard, a powerful force within the country\u2019s theocracy",
@@ -60,6 +90,26 @@
       "first_sentence": "Autumn means goodbye to the long days of summer but hello to the kind of weather that lends itself a little more to being inside and cooking.",
       "timestamp": "2026-03-02T04:59:46Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "When Australians can get the best view of the 'eerie' blood moon",
+      "link": "https://www.sbs.com.au/news/article/best-time-to-watch-the-blood-moon-in-australia/6ff2b7f0o",
+      "mean_score": 0.3259,
+      "vader_score": 0.4019,
+      "textblob_score": 0.25,
+      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+      "timestamp": "2026-03-02T04:52:52Z",
+      "source": "SBS News"
+    },
+    {
+      "headline": "Who is leading Iran now \u2014 and how will a new supreme leader be chosen?",
+      "link": "https://www.sbs.com.au/news/article/how-iran-chooses-a-new-supreme-leader/6yi0ceboy",
+      "mean_score": 0.3469,
+      "vader_score": 0.5574,
+      "textblob_score": 0.1364,
+      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+      "timestamp": "2026-03-01T22:06:59Z",
+      "source": "SBS News"
     },
     {
       "headline": "Delroy Lindo thankful for \u2018love and support\u2019 after N-word incident at Baftas",
@@ -2449,56 +2499,6 @@
       "textblob_score": 0.5,
       "first_sentence": "Norway has once again topped the Winter Olympics medal table, surpassing countries with far larger populations.",
       "timestamp": "2026-02-22T16:24:11Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Baftas 2026: the red carpet, the ceremony, the winners \u2013\u00a0follow live!",
-      "link": "https://www.theguardian.com/film/live/2026/feb/22/baftas-2026-the-red-carpet-the-ceremony-the-winners-follow-live",
-      "mean_score": 0.3054,
-      "vader_score": 0.5255,
-      "textblob_score": 0.0852,
-      "first_sentence": "On the red carpet, Glenn Close is telling Dazed magazine that the line \u201cI\u2019m not going to be ignored, Dan\u201d from her role in Fatal Attraction is still stuck in her head.",
-      "timestamp": "2026-02-22T15:55:25Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "My daughter turns 18 today. I\u2019m giving her the gift of shared caring responsibilities with her brothers | Ranjana Srivastava",
-      "link": "https://www.theguardian.com/commentisfree/2026/feb/22/my-daughter-turns-18-today-im-giving-her-the-gift-of-shared-caring-responsibilities-with-her-brothers",
-      "mean_score": 0.436,
-      "vader_score": 0.872,
-      "textblob_score": 0.0,
-      "first_sentence": "It\u2019s the bleary-eyed 5am run to rowing practice and I have just relented to the eager \u2018Can I drive?\u2019 When your teenager takes a reluctant \u2018I guess\u2019 as full-throated approval, you still want to show grace.",
-      "timestamp": "2026-02-22T14:00:40Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Readers reply: what would be the most socially useful way to spend a billion dollars?",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/feb/22/readers-reply-what-would-be-the-most-socially-useful-way-to-spend-a-billion-dollars",
-      "mean_score": 0.4451,
-      "vader_score": 0.4902,
-      "textblob_score": 0.4,
-      "first_sentence": "This week\u2019s question: what would happen to the world if computer said yes?.",
-      "timestamp": "2026-02-22T14:00:40Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Tories would scrap \u2018debt trap\u2019 of high interest student loans, says Kemi Badenoch",
-      "link": "https://www.theguardian.com/politics/2026/feb/22/tories-scrap-high-interest-student-loans-says-kemi-badenoch",
-      "mean_score": 0.3094,
-      "vader_score": 0.4588,
-      "textblob_score": 0.16,
-      "first_sentence": "Kemi Badenoch has said the Conservatives would scrap the \u201cunfair debt trap\u201d of high interest rates on student loans, piling pressure on Labour ministers to tackle the growing outrage over the high costs.",
-      "timestamp": "2026-02-22T13:19:00Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Sheffield United aim to relegate Wednesday, Spurs v Arsenal buildup and more \u2013 matchday live",
-      "link": "https://www.theguardian.com/football/live/2026/feb/22/premier-league-news-spurs-v-arsenal-buildup-sheffield-derby-and-more-matchday-live",
-      "mean_score": 0.3698,
-      "vader_score": 0.4215,
-      "textblob_score": 0.3182,
-      "first_sentence": "Just a reminder, they need to win this match to avoid relegation.",
-      "timestamp": "2026-02-22T13:14:18Z",
       "source": "The Guardian"
     }
   ]
