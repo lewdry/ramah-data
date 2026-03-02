@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Wunmi Mosaku shows 'ancestral power' with Bafta win",
+    "link": "https://www.bbc.com/news/articles/cy7jnj028lko?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.6929,
+    "vader_score": 0.5859,
+    "textblob_score": 0.8,
+    "first_sentence": "Bafta-winning actress Wunmi Mosaku says she found parts of herself \"I thought I had lost or tried to dim as an immigrant trying to fit in\" as she took the best supporting actress prize for her role in the film Sinners.",
+    "timestamp": "2026-02-22T20:19:04Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "'Sisters, best friends or wives': How the world sees this married couple",
+    "link": "https://www.abc.net.au/news/2026-02-23/love-story-jackie-aimee-sydney-gay-lesbian-mardi-gras/106359548",
+    "mean_score": 0.7162,
+    "vader_score": 0.8074,
+    "textblob_score": 0.625,
+    "first_sentence": "Neither Jackie Turner nor Aimee Bull-McMahon were looking for love when they met in 2019.",
+    "timestamp": "2026-02-22T19:39:55Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Sydney filmmaker takes top prize at revived short film festival Tropfest",
     "link": "https://www.abc.net.au/news/2026-02-23/nsw-tropfest-resurrected-results/106372220",
     "mean_score": 0.5287,

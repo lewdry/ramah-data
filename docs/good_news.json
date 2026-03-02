@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-02T12:20:22Z",
+  "last run": "2026-03-02T13:32:02Z",
   "stories": [
+    {
+      "headline": "Rukmini Iyer\u2019s quick and easy recipe for chard borani soup with yoghurt, crispy garlic and beans | Quick and easy",
+      "link": "https://www.theguardian.com/food/2026/mar/02/quick-easy-chard-borani-soup-yoghurt-crispy-garlic-beans-recipe-rukmini-iyer",
+      "mean_score": 0.5418,
+      "vader_score": 0.7003,
+      "textblob_score": 0.3833,
+      "first_sentence": "I am emphatically not a dip person (see also: salad), but the first time I tried chard borani, a Persian dip made with chard and yoghurt, I became so obsessed that we\u2019ve been having it on repeat at home ever since.",
+      "timestamp": "2026-03-02T13:00:10Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018We have to take bold decisions\u2019: Williams chief James Vowles on 2026 hopes and F1 title dreams",
+      "link": "https://www.theguardian.com/sport/2026/mar/02/james-vowles-williams-formula-one-f1-interview",
+      "mean_score": 0.5649,
+      "vader_score": 0.7964,
+      "textblob_score": 0.3333,
+      "first_sentence": "Vowles is one of the most interesting men in F1 and not just because, as the director of strategy, he helped two of his past teams win nine constructors\u2019 championships, including eight drivers\u2019 titles.",
+      "timestamp": "2026-03-02T12:54:21Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Top UK film and TV production school puts spotlight on students with disabilities",
       "link": "https://www.theguardian.com/education/2026/mar/02/uk-national-film-and-television-school-puts-spotlight-on-students-with-disabilities",
@@ -2480,26 +2500,6 @@
       "first_sentence": "One Battle After Another, Paul Thomas Anderson\u2019s counterculture comedy about a washed-up revolutionary trying to protect his daughter from a ruthless military officer, has dominated the Baftas, taking home six awards including best film, best director, best cinematography, best editing, best supporting actor, and best adapted screenplay.",
       "timestamp": "2026-02-22T20:29:52Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Wunmi Mosaku shows 'ancestral power' with Bafta win",
-      "link": "https://www.bbc.com/news/articles/cy7jnj028lko?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.6929,
-      "vader_score": 0.5859,
-      "textblob_score": 0.8,
-      "first_sentence": "Bafta-winning actress Wunmi Mosaku says she found parts of herself \"I thought I had lost or tried to dim as an immigrant trying to fit in\" as she took the best supporting actress prize for her role in the film Sinners.",
-      "timestamp": "2026-02-22T20:19:04Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "'Sisters, best friends or wives': How the world sees this married couple",
-      "link": "https://www.abc.net.au/news/2026-02-23/love-story-jackie-aimee-sydney-gay-lesbian-mardi-gras/106359548",
-      "mean_score": 0.7162,
-      "vader_score": 0.8074,
-      "textblob_score": 0.625,
-      "first_sentence": "Neither Jackie Turner nor Aimee Bull-McMahon were looking for love when they met in 2019.",
-      "timestamp": "2026-02-22T19:39:55Z",
-      "source": "ABC News"
     }
   ]
 }
