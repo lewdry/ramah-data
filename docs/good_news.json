@@ -1,5 +1,5 @@
 {
-  "last run": "2026-03-03T22:11:25Z",
+  "last run": "2026-03-03T23:10:45Z",
   "stories": [
     {
       "headline": "Alessia Russo double for England sparks Women\u2019s World Cup qualifying win against Ukraine",
@@ -139,6 +139,16 @@
       "textblob_score": 0.3333,
       "first_sentence": "These days, it\u2019s easy to fall into the trap of thinking that every new indie game is either a co-op extraction shooter or a roguelike deck-builder \u2013 fortunately that\u2019s not quite the case.",
       "timestamp": "2026-03-03T13:00:03Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Baftas host Alan Cumming criticises BBC for \u2018broadcasting slurs and censoring free speech\u2019",
+      "link": "https://www.theguardian.com/film/2026/mar/03/baftas-host-alan-cumming-criticises-bbc-for-broadcasting-slurs",
+      "mean_score": 0.325,
+      "vader_score": 0.25,
+      "textblob_score": 0.4,
+      "first_sentence": "Alan Cumming has joined the chorus of disapproval at the BBC\u2019s failure to edit out a racial slur from their Baftas telecast, saying it turned \u201cwhat should have been an evening celebrating diversity and inclusion into a trauma-triggering shitshow\u201d.",
+      "timestamp": "2026-03-03T12:37:51Z",
       "source": "The Guardian"
     },
     {
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.4,
       "first_sentence": "Jeremy Hunt has urged leading doctors to do more to help maternity specialists detect a rare complication of childbirth that can lead to a women bleeding to death within minutes.",
       "timestamp": "2026-02-23T19:06:57Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018No surprise\u2019: Robert Aramayo\u2019s teachers knew the Bafta winner was destined for great things",
-      "link": "https://www.theguardian.com/film/2026/feb/23/robert-aramayo-teachers-hull-bafta-winner-actor-tourette-syndrome",
-      "mean_score": 0.818,
-      "vader_score": 0.836,
-      "textblob_score": 0.8,
-      "first_sentence": "What is Tourette syndrome, what are tics and what happened at the Baftas?.",
-      "timestamp": "2026-02-23T18:45:30Z",
       "source": "The Guardian"
     }
   ]
