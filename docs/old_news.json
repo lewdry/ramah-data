@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Cockatoos! Everyone loves cockatoos (except property developers) | First Dog on the Moon",
+    "link": "https://www.theguardian.com/commentisfree/picture/2026/feb/23/cockatoos-everyone-loves-cockatoos-except-property-developers",
+    "mean_score": 0.4307,
+    "vader_score": 0.6114,
+    "textblob_score": 0.25,
+    "first_sentence": "Developers in Western Australia are planning to bulldoze an endangered banskia ecosystem to build some overpriced homesSign up here to get an email whenever First Dog cartoons are publishedGet all your needs met at the First Dog shop if what you need is First Dog merchandise and prints Continue reading.",
+    "timestamp": "2026-02-23T06:09:45Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Forget sides, these four salads are satisfying meals",
+    "link": "https://www.abc.net.au/news/2026-02-23/these-four-salads-are-tasty-and-substantial-meals/106363054",
+    "mean_score": 0.3866,
+    "vader_score": 0.2732,
+    "textblob_score": 0.5,
+    "first_sentence": "Sometimes you're in the mood for a big bowl of salad but need something that will also fill you up and satisfy you.",
+    "timestamp": "2026-02-23T05:42:34Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Brumbies keeping cool after historic win over Crusaders in Christchurch",
+    "link": "https://www.abc.net.au/news/2026-02-23/act-brumbies-keeping-cool-after-historic-win-over-crusaders/106375922",
+    "mean_score": 0.5551,
+    "vader_score": 0.7269,
+    "textblob_score": 0.3833,
+    "first_sentence": "The ACT Brumbies are on top of the Super Rugby Pacific ladder after two rounds, coming off a drought-breaking win over the Crusaders in Christchurch.",
+    "timestamp": "2026-02-23T02:27:04Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Sydney Water ordered to clean Malabar treatment plant where fatberg is birthing poo balls",
     "link": "https://www.theguardian.com/environment/2026/feb/23/sydney-water-fatberg-poo-balls-malabar-treatment-plant",
     "mean_score": 0.3843,

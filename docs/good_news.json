@@ -1,6 +1,36 @@
 {
-  "last run": "2026-03-03T06:24:51Z",
+  "last run": "2026-03-03T07:23:23Z",
   "stories": [
+    {
+      "headline": "Want a better job and a pay rise? Eleven ways to progress at work \u2013 and avoid a \u2018dry promotion\u2019",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/mar/03/want-better-job-pay-rise-eleven-ways-progress-work-promotion",
+      "mean_score": 0.3717,
+      "vader_score": 0.5267,
+      "textblob_score": 0.2167,
+      "first_sentence": "There is nothing worse than feeling stuck in a job.",
+      "timestamp": "2026-03-03T07:00:33Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018Cultural monstrosities!\u2019 The thrilling visual legacy of punk and post-punk \u2013 in pictures",
+      "link": "https://www.theguardian.com/artanddesign/gallery/2026/mar/03/visual-legacy-post-punk-posters-in-pictures",
+      "mean_score": 0.3252,
+      "vader_score": 0.5255,
+      "textblob_score": 0.125,
+      "first_sentence": "From bold anti-Nazi posters to an acid-drenched take on Jean Cocteau, a new exhibition, curated by writer Philip Hoare, shows how influential the DIY designs of the 70s and 80s became Continue reading.",
+      "timestamp": "2026-03-03T07:00:31Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Australia news live: Kyle and Jackie O\u2019s breakfast radio show on KIIS taken off-air effective immediately",
+      "link": "https://www.theguardian.com/australia-news/live/2026/mar/03/australia-politics-live-anthony-albanese-mark-carney-iran-parliament-question-time-angus-taylor-pauline-hanson-jim-chalmers-rba-interest-rates-cost-of-living-inflation-ntwnfb",
+      "mean_score": 0.4224,
+      "vader_score": 0.4767,
+      "textblob_score": 0.3682,
+      "first_sentence": "ARN Media has just announced that both Kyle Sandilands and Jackie \u201cO\u201d Henderson will cease to present the Kiis FM breakfast show, on the basis that Henderson has expressed she \u201ccannot continue to work\u201d with Sandilands.",
+      "timestamp": "2026-03-03T07:00:22Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "'Our heart goes out to them': Matildas star lauds Iran players' bravery",
       "link": "https://www.abc.net.au/news/2026-03-03/matildas-amy-sayer-lauds-iran-bravery-asian-cup-clash/106410526",
@@ -2470,36 +2500,6 @@
       "first_sentence": "\u2018Generally speaking, yes,\u201d says Bethan Crouse, a performance nutritionist from Loughborough University, but it\u2019s not a one-size-fits-all rule.",
       "timestamp": "2026-02-23T08:00:00Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Cockatoos! Everyone loves cockatoos (except property developers) | First Dog on the Moon",
-      "link": "https://www.theguardian.com/commentisfree/picture/2026/feb/23/cockatoos-everyone-loves-cockatoos-except-property-developers",
-      "mean_score": 0.4307,
-      "vader_score": 0.6114,
-      "textblob_score": 0.25,
-      "first_sentence": "Developers in Western Australia are planning to bulldoze an endangered banskia ecosystem to build some overpriced homesSign up here to get an email whenever First Dog cartoons are publishedGet all your needs met at the First Dog shop if what you need is First Dog merchandise and prints Continue reading.",
-      "timestamp": "2026-02-23T06:09:45Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Forget sides, these four salads are satisfying meals",
-      "link": "https://www.abc.net.au/news/2026-02-23/these-four-salads-are-tasty-and-substantial-meals/106363054",
-      "mean_score": 0.3866,
-      "vader_score": 0.2732,
-      "textblob_score": 0.5,
-      "first_sentence": "Sometimes you're in the mood for a big bowl of salad but need something that will also fill you up and satisfy you.",
-      "timestamp": "2026-02-23T05:42:34Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Brumbies keeping cool after historic win over Crusaders in Christchurch",
-      "link": "https://www.abc.net.au/news/2026-02-23/act-brumbies-keeping-cool-after-historic-win-over-crusaders/106375922",
-      "mean_score": 0.5551,
-      "vader_score": 0.7269,
-      "textblob_score": 0.3833,
-      "first_sentence": "The ACT Brumbies are on top of the Super Rugby Pacific ladder after two rounds, coming off a drought-breaking win over the Crusaders in Christchurch.",
-      "timestamp": "2026-02-23T02:27:04Z",
-      "source": "ABC News"
     }
   ]
 }
