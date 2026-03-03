@@ -1,6 +1,46 @@
 {
-  "last run": "2026-03-03T12:20:10Z",
+  "last run": "2026-03-03T13:30:40Z",
   "stories": [
+    {
+      "headline": "Spring forecast: Reeves insists Labour has \u2018right economic plan\u2019 as 2026 growth downgraded",
+      "link": "https://www.theguardian.com/uk-news/2026/mar/03/spring-forecast-rachel-reeves-labour-economic-plan-2026-growth-obr",
+      "mean_score": 0.3123,
+      "vader_score": 0.3818,
+      "textblob_score": 0.2429,
+      "first_sentence": "Rachel Reeves insisted Labour has \u201cthe right economic plan\u201d for a world that has become \u201cyet more uncertain\u201d as she delivered a spring forecast that downgraded growth for this year.",
+      "timestamp": "2026-03-03T13:14:31Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Schools are using AI counselors to track students\u2019 mental health. Is it safe?",
+      "link": "https://www.theguardian.com/technology/ng-interactive/2026/mar/03/schools-student-ai-counselor",
+      "mean_score": 0.3202,
+      "vader_score": 0.4404,
+      "textblob_score": 0.2,
+      "first_sentence": "Brittani Phillips checked her phone.",
+      "timestamp": "2026-03-03T13:00:04Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Five of the most interesting upcoming indie games",
+      "link": "https://www.theguardian.com/games/2026/mar/03/five-of-the-most-interesting-upcoming-indie-games",
+      "mean_score": 0.3955,
+      "vader_score": 0.4576,
+      "textblob_score": 0.3333,
+      "first_sentence": "These days, it\u2019s easy to fall into the trap of thinking that every new indie game is either a co-op extraction shooter or a roguelike deck-builder \u2013 fortunately that\u2019s not quite the case.",
+      "timestamp": "2026-03-03T13:00:03Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "LLMs can unmask pseudonymous users at scale with surprising accuracy",
+      "link": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/",
+      "mean_score": 0.4866,
+      "vader_score": 0.2732,
+      "textblob_score": 0.7,
+      "first_sentence": "Pseudonymity has never been perfect for preserving privacy.",
+      "timestamp": "2026-03-03T12:30:24Z",
+      "source": "Ars Technica"
+    },
     {
       "headline": "Richard Osman quits quiz show House of Games after 'amazing nine years'",
       "link": "https://www.bbc.com/news/articles/cvg1j3zyl3do?at_medium=RSS&at_campaign=rss",
@@ -2460,46 +2500,6 @@
       "first_sentence": "Viktor Gy\u00f6keres has revealed that Arsenal\u2019s brutally honest team discussions after the draw at Wolves last Wednesday brought renewed purpose and helped them to Sunday\u2019s restorative win at Tottenham.",
       "timestamp": "2026-02-23T14:00:44Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Move over stoics! Why we should all embrace nihilism \u2013 and discover what really matters in life | Gemma Parker",
-      "link": "https://www.theguardian.com/books/2026/feb/23/nihilism-why-we-should-embrace-it",
-      "mean_score": 0.3281,
-      "vader_score": 0.4561,
-      "textblob_score": 0.2,
-      "first_sentence": "A trick I developed in the late stages of my first pregnancy to forestall inquiries, concern, recommendations and advice about having a baby was to refer to her impending birth as \u201cthe apocalypse\u201d.",
-      "timestamp": "2026-02-23T14:00:42Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "In the shadow of the Olympics, migrants search for a welcome in Milan",
-      "link": "https://www.npr.org/2026/02/23/nx-s1-5719485/italy-migrants-milan",
-      "mean_score": 0.6294,
-      "vader_score": 0.4588,
-      "textblob_score": 0.8,
-      "first_sentence": "MILAN \u2014 Three Afghan men stand together in the freezing fog outside of Milan's central train station on a recent night \u2014 their first moments in Italy.",
-      "timestamp": "2026-02-23T13:25:36Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Georgina Hayden\u2019s quick and easy recipe for roast butternut squash, halloumi and avocado tacos | Quick and easy",
-      "link": "https://www.theguardian.com/food/2026/feb/23/quick-and-easy-roast-butternut-squash-halloumi-avocado-tacos-recipe-georgina-hayden",
-      "mean_score": 0.5418,
-      "vader_score": 0.7003,
-      "textblob_score": 0.3833,
-      "first_sentence": "Taco night has become a weekly occasion in our house \u2013 something all ages and palates can get on board with.",
-      "timestamp": "2026-02-23T13:00:40Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The key changes being made to special educational needs - at a glance",
-      "link": "https://www.bbc.com/news/articles/cwyke5n1z4po?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3021,
-      "vader_score": 0.4019,
-      "textblob_score": 0.2024,
-      "first_sentence": "The government has published plans to reform the special educational needs and disabilities (SEND) system in England - and there are a lot of new terms to get your head around.",
-      "timestamp": "2026-02-23T12:47:38Z",
-      "source": "BBC News"
     }
   ]
 }
