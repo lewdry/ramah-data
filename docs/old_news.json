@@ -1,5 +1,25 @@
 [
   {
+    "headline": "A powerful winter storm is roiling travel across the northeastern U.S.",
+    "link": "https://www.npr.org/2026/02/23/g-s1-111202/winter-storm-northeast-travel-airport-flight-train-roads-new-york-boston",
+    "mean_score": 0.3608,
+    "vader_score": 0.4215,
+    "textblob_score": 0.3,
+    "first_sentence": "Heavy snow, strong winds and blizzard warnings have prompted transportation shutdowns, forcing millions of people to stay home.",
+    "timestamp": "2026-02-23T18:16:01Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "Special educational needs system to be overhauled in England",
+    "link": "https://www.bbc.com/news/articles/c309zp49zdno?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3527,
+    "vader_score": 0.4019,
+    "textblob_score": 0.3036,
+    "first_sentence": "Only children with the most complex special educational needs will be eligible for education, health and care plans (EHCPs) from 2035 in England, the government has said.",
+    "timestamp": "2026-02-23T17:51:20Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "'The end of Xbox': fans split as AI exec takes over Microsoft's top gaming role",
     "link": "https://www.bbc.com/news/articles/cq6q8l81d9qo?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.3512,
