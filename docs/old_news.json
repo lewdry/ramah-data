@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Reporters' notebook: The Olympics closing ceremony is way more fun than you'd think",
+    "link": "https://www.npr.org/2026/02/22/nx-s1-5722948/2026-olympics-closing-ceremony",
+    "mean_score": 0.4782,
+    "vader_score": 0.5563,
+    "textblob_score": 0.4,
+    "first_sentence": "VERONA, Italy \u2014 The Winter Olympics are officially over.",
+    "timestamp": "2026-02-23T00:52:15Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "Even greater heights await Australia\u2019s Winter Olympians after success of Milano Cortina Games | Kieran Pender",
+    "link": "https://www.theguardian.com/sport/blog/2026/feb/23/australia-team-winter-olympics-2026-medal-tally-haul-milano-cortina-games",
+    "mean_score": 0.5825,
+    "vader_score": 0.765,
+    "textblob_score": 0.4,
+    "first_sentence": "Australia\u2019s golden 2026 Winter Olympics campaign ended on Sunday not with a medal, but with a thrilling view of the future.",
+    "timestamp": "2026-02-23T00:47:11Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Mescal and Abrams go red carpet official, a 'strong language' apology and other Bafta highlights",
     "link": "https://www.bbc.com/news/articles/c86ygl6821go?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.3225,
