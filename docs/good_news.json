@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-03T04:39:28Z",
+  "last run": "2026-03-03T05:27:54Z",
   "stories": [
+    {
+      "headline": "'Our heart goes out to them': Matildas star lauds Iran players' bravery",
+      "link": "https://www.abc.net.au/news/2026-03-03/matildas-amy-sayer-lauds-iran-bravery-asian-cup-clash/106410526",
+      "mean_score": 0.4063,
+      "vader_score": 0.8126,
+      "textblob_score": 0.0,
+      "first_sentence": "Matildas star Amy Sayer has lauded the bravery of Iran's players ahead of this week's Asian Cup clash between the two sides.",
+      "timestamp": "2026-03-03T04:38:05Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Farmers hit 'ambitious' $100b target years ahead of schedule",
       "link": "https://www.abc.net.au/news/2026-03-03/australian-agriculture-hits-100-billion-milestone/106409018",
@@ -2490,16 +2500,6 @@
       "first_sentence": "The ACT Brumbies are on top of the Super Rugby Pacific ladder after two rounds, coming off a drought-breaking win over the Crusaders in Christchurch.",
       "timestamp": "2026-02-23T02:27:04Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Sydney Water ordered to clean Malabar treatment plant where fatberg is birthing poo balls",
-      "link": "https://www.theguardian.com/environment/2026/feb/23/sydney-water-fatberg-poo-balls-malabar-treatment-plant",
-      "mean_score": 0.3843,
-      "vader_score": 0.4019,
-      "textblob_score": 0.3667,
-      "first_sentence": "The New South Wales environment watchdog has ordered Sydney Water to remove fats from its Malabar wastewater treatment plant, a month after Guardian Australia revealed a huge fatberg was responsible for the poo balls that closed beaches last summer.",
-      "timestamp": "2026-02-23T02:04:59Z",
-      "source": "The Guardian"
     }
   ]
 }
