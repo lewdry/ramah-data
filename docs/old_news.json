@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Duke rises to No. 1 in AP Top 25 men\u2019s hoops poll for record 148th time; Florida, Alabama make leaps",
+    "link": "https://apnews.com/article/ap-top-25-poll-duke-39fdb6bef07b4466f0e6140826fdcad5",
+    "mean_score": 0.3512,
+    "vader_score": 0.2023,
+    "textblob_score": 0.5,
+    "first_sentence": "Duke\u2019s win against Michigan has propelled the Blue Devils to a familiar perch: No.",
+    "timestamp": "2026-02-23T18:23:03Z",
+    "source": "AP News"
+  },
+  {
     "headline": "New datacentres risk doubling Great Britain\u2019s electricity use, regulator says",
     "link": "https://www.theguardian.com/technology/2026/feb/23/new-datacentres-risk-doubling-uk-electricity-use-ofgem-peak-demand",
     "mean_score": 0.4635,
