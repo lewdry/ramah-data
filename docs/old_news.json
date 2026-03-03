@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Peak success: Australia just keeps doing better at the Winter Olympics",
+    "link": "https://www.theguardian.com/news/ng-interactive/2026/feb/23/australia-best-ever-winter-olympics-medal-tally-chart",
+    "mean_score": 0.5825,
+    "vader_score": 0.765,
+    "textblob_score": 0.4,
+    "first_sentence": "Australia has reached a record Winter Olympics medal tally of six, surpassing the previous high point of the 2022 Olympics.",
+    "timestamp": "2026-02-23T00:56:59Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Reporters' notebook: The Olympics closing ceremony is way more fun than you'd think",
     "link": "https://www.npr.org/2026/02/22/nx-s1-5722948/2026-olympics-closing-ceremony",
     "mean_score": 0.4782,

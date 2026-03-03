@@ -5,8 +5,16 @@
     <link>https://lewdry.github.io/ramah/</link>
     <description>Positive news stories from around the world, filtered by sentiment analysis</description>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Mar 2026 03:08:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 04:39:28 GMT</lastBuildDate>
     <atom:link href="https://lewdry.github.io/ramah/good_news.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Farmers hit 'ambitious' $100b target years ahead of schedule</title>
+      <link>https://www.abc.net.au/news/2026-03-03/australian-agriculture-hits-100-billion-milestone/106409018</link>
+      <description>Australia's peak farming body is celebrating the industry's achievement of reaching its $100 billion goal.</description>
+      <source>ABC News</source>
+      <pubDate>Tue, 03 Mar 2026 02:18:27 GMT</pubDate>
+      <guid isPermaLink="true">https://www.abc.net.au/news/2026-03-03/australian-agriculture-hits-100-billion-milestone/106409018</guid>
+    </item>
     <item>
       <title>Broome doesn't have accessible taxis, so one local is providing free rides</title>
       <link>https://www.abc.net.au/news/2026-03-03/calls-for-return-of-wheelchair-accessible-taxi-service-broome/106398902</link>
@@ -2002,14 +2010,6 @@ In Newscast by-election tradition, this episode was livestreamed on Friday morni
       <source>The Guardian</source>
       <pubDate>Mon, 23 Feb 2026 02:04:59 GMT</pubDate>
       <guid isPermaLink="true">https://www.theguardian.com/environment/2026/feb/23/sydney-water-fatberg-poo-balls-malabar-treatment-plant</guid>
-    </item>
-    <item>
-      <title>Peak success: Australia just keeps doing better at the Winter Olympics</title>
-      <link>https://www.theguardian.com/news/ng-interactive/2026/feb/23/australia-best-ever-winter-olympics-medal-tally-chart</link>
-      <description>Australia has reached a record Winter Olympics medal tally of six, surpassing the previous high point of the 2022 Olympics.</description>
-      <source>The Guardian</source>
-      <pubDate>Mon, 23 Feb 2026 00:56:59 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theguardian.com/news/ng-interactive/2026/feb/23/australia-best-ever-winter-olympics-medal-tally-chart</guid>
     </item>
   </channel>
 </rss>
