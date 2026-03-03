@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-03T09:20:37Z",
+  "last run": "2026-03-03T10:19:28Z",
   "stories": [
+    {
+      "headline": "\u2018Where the magic really happens\u2019: the influencers out to celebrate \u2013 and save \u2013 Britain\u2019s \u2018proper boozers\u2019",
+      "link": "https://www.theguardian.com/food/2026/mar/03/influencers-celebrate-save-britain-proper-boozers-pubs",
+      "mean_score": 0.5089,
+      "vader_score": 0.7845,
+      "textblob_score": 0.2333,
+      "first_sentence": "The Calthorpe Arms on Gray\u2019s Inn Road is a fairly atypical central London pub.",
+      "timestamp": "2026-03-03T10:03:45Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Family GP had 'sexual motivation' for breast and vaginal exams, tribunal finds",
       "link": "https://www.abc.net.au/news/2026-03-03/qld-doctor-examined-women-for-sexual-motivation-tribunal/106364680",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Kemi Badenoch has faced what could be described as the stuff of nightmares for a UK politician being interviewed about a personal finance policy: being ambushed and contradicted live on air by Martin Lewis.",
       "timestamp": "2026-02-23T10:30:00Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Influencers are promoting peptides for better health. What's the science say?",
-      "link": "https://www.npr.org/2026/02/23/nx-s1-5716162/peptides-science-muscle-growth-longevity-wellness",
-      "mean_score": 0.5798,
-      "vader_score": 0.6597,
-      "textblob_score": 0.5,
-      "first_sentence": "Search the term \"peptides\" and a long list of online retailer options will pop up.",
-      "timestamp": "2026-02-23T10:00:00Z",
-      "source": "NPR News"
     }
   ]
 }
