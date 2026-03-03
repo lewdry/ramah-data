@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-03T14:22:00Z",
+  "last run": "2026-03-03T15:23:43Z",
   "stories": [
+    {
+      "headline": "How AI is being used to support positive mental health",
+      "link": "https://www.bbc.com/videos/c1d6kyegl2wo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4033,
+      "vader_score": 0.743,
+      "textblob_score": 0.0636,
+      "first_sentence": "Emma-Louise Amanshia speaks to a mental health clinician about the Wysa AI chatbot.",
+      "timestamp": "2026-03-03T14:56:02Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Countess Luann: \u2018One lesson I wish I\u2019d learned earlier? If you don\u2019t think you\u2019re great, nobody else will\u2019",
       "link": "https://www.theguardian.com/tv-and-radio/2026/mar/03/countess-luann-de-lesseps-interview-real-housewives-new-york",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Pippa Crerar and Kiran Stacey discuss the government\u2019s long-awaited plans for the special educational needs and disabilities system.",
       "timestamp": "2026-02-23T17:04:04Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Powerful winter storm roils travel across the US, leading to thousands of flight cancellations",
-      "link": "https://apnews.com/article/winter-storm-flight-cancellations-us-travel-54feed6ca0fb8e05c3b59326bd7ff24c",
-      "mean_score": 0.3608,
-      "vader_score": 0.4215,
-      "textblob_score": 0.3,
-      "first_sentence": "NEW YORK (AP) \u2014 Air traffic is coming to a standstill in much of the northeastern U.S.",
-      "timestamp": "2026-02-23T15:23:02Z",
-      "source": "AP News"
     }
   ]
 }
