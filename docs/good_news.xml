@@ -5,8 +5,16 @@
     <link>https://lewdry.github.io/ramah/</link>
     <description>Positive news stories from around the world, filtered by sentiment analysis</description>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Mar 2026 18:22:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 19:21:03 GMT</lastBuildDate>
     <atom:link href="https://lewdry.github.io/ramah/good_news.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>'Hope' for drought-hit farmers after best rain in six months</title>
+      <link>https://www.abc.net.au/news/2026-03-04/best-rain-in-six-months-a-relief-for-drought-hit-southern-nsw/106409838</link>
+      <description>Widespread rain across central and southern New South Wales has resulted in some falls of more than 140 millimetres.</description>
+      <source>ABC News</source>
+      <pubDate>Tue, 03 Mar 2026 19:02:24 GMT</pubDate>
+      <guid isPermaLink="true">https://www.abc.net.au/news/2026-03-04/best-rain-in-six-months-a-relief-for-drought-hit-southern-nsw/106409838</guid>
+    </item>
     <item>
       <title>High-tech snowplows and AI help cities clean up from big storms</title>
       <link>https://apnews.com/article/snowplows-blizzard-ai-gps-syracuse-newyork-7508aa04a5877541bb1ea55e946a66a7</link>
@@ -2002,14 +2010,6 @@ In Newscast by-election tradition, this episode was livestreamed on Friday morni
       <source>AP News</source>
       <pubDate>Mon, 23 Feb 2026 18:23:03 GMT</pubDate>
       <guid isPermaLink="true">https://apnews.com/article/ap-top-25-poll-duke-39fdb6bef07b4466f0e6140826fdcad5</guid>
-    </item>
-    <item>
-      <title>New datacentres risk doubling Great Britain’s electricity use, regulator says</title>
-      <link>https://www.theguardian.com/technology/2026/feb/23/new-datacentres-risk-doubling-uk-electricity-use-ofgem-peak-demand</link>
-      <description>The amount of power being sought by new datacentre projects in Great Britain would exceed the national current peak electricity consumption, according to an industry watchdog.</description>
-      <source>The Guardian</source>
-      <pubDate>Mon, 23 Feb 2026 18:17:28 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/feb/23/new-datacentres-risk-doubling-uk-electricity-use-ofgem-peak-demand</guid>
     </item>
   </channel>
 </rss>

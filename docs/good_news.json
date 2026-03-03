@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-03T18:22:33Z",
+  "last run": "2026-03-03T19:21:03Z",
   "stories": [
+    {
+      "headline": "'Hope' for drought-hit farmers after best rain in six months",
+      "link": "https://www.abc.net.au/news/2026-03-04/best-rain-in-six-months-a-relief-for-drought-hit-southern-nsw/106409838",
+      "mean_score": 0.8982,
+      "vader_score": 0.7964,
+      "textblob_score": 1.0,
+      "first_sentence": "Widespread rain across central and southern New South Wales has resulted in some falls of more than 140 millimetres.",
+      "timestamp": "2026-03-03T19:02:24Z",
+      "source": "ABC News"
+    },
     {
       "headline": "High-tech snowplows and AI help cities clean up from big storms",
       "link": "https://apnews.com/article/snowplows-blizzard-ai-gps-syracuse-newyork-7508aa04a5877541bb1ea55e946a66a7",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Duke\u2019s win against Michigan has propelled the Blue Devils to a familiar perch: No.",
       "timestamp": "2026-02-23T18:23:03Z",
       "source": "AP News"
-    },
-    {
-      "headline": "New datacentres risk doubling Great Britain\u2019s electricity use, regulator says",
-      "link": "https://www.theguardian.com/technology/2026/feb/23/new-datacentres-risk-doubling-uk-electricity-use-ofgem-peak-demand",
-      "mean_score": 0.4635,
-      "vader_score": 0.4588,
-      "textblob_score": 0.4682,
-      "first_sentence": "The amount of power being sought by new datacentre projects in Great Britain would exceed the national current peak electricity consumption, according to an industry watchdog.",
-      "timestamp": "2026-02-23T18:17:28Z",
-      "source": "The Guardian"
     }
   ]
 }
