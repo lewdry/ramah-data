@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Letterboxd\u2019s most eager reviewers are changing cinema etiquette: \u2018I was excited to pull out my phone\u2019",
+    "link": "https://www.theguardian.com/film/2026/feb/23/letterboxd-film-reviews",
+    "mean_score": 0.5368,
+    "vader_score": 0.6361,
+    "textblob_score": 0.4375,
+    "first_sentence": "I completely turn my phone off when I go to the movies.",
+    "timestamp": "2026-02-23T12:00:39Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Martin Lewis ambushes Badenoch on Good Morning Britain over student loans plan",
+    "link": "https://www.theguardian.com/politics/2026/feb/23/martin-lewis-ambushes-kemi-badenoch-good-morning-britain-student-loans",
+    "mean_score": 0.5702,
+    "vader_score": 0.4404,
+    "textblob_score": 0.7,
+    "first_sentence": "Kemi Badenoch has faced what could be described as the stuff of nightmares for a UK politician being interviewed about a personal finance policy: being ambushed and contradicted live on air by Martin Lewis.",
+    "timestamp": "2026-02-23T10:30:00Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Influencers are promoting peptides for better health. What's the science say?",
     "link": "https://www.npr.org/2026/02/23/nx-s1-5716162/peptides-science-muscle-growth-longevity-wellness",
     "mean_score": 0.5798,
