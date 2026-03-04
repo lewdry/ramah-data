@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Pentagon buyer: We're happy with our launch industry, but payloads are lagging",
+    "link": "https://arstechnica.com/space/2026/02/pentagon-buyer-were-happy-with-our-launch-industry-but-payloads-are-lagging/",
+    "mean_score": 0.3614,
+    "vader_score": -0.0772,
+    "textblob_score": 0.8,
+    "first_sentence": "DALLAS\u2014The Space Force officer tasked with overseeing more than $24 billion in research and development spending says the Pentagon is more interested in supporting startups building new space sensors and payloads than adding yet another rocket company to its portfolio.",
+    "timestamp": "2026-02-23T22:14:28Z",
+    "source": "Ars Technica"
+  },
+  {
     "headline": "Supersub Benjamin Sesko fires Manchester United past Everton and into top four",
     "link": "https://www.theguardian.com/football/2026/feb/23/everton-manchester-united-premier-league-match-report",
     "mean_score": 0.3412,
