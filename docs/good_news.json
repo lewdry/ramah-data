@@ -1,6 +1,46 @@
 {
-  "last run": "2026-03-04T05:24:28Z",
+  "last run": "2026-03-04T06:22:54Z",
   "stories": [
+    {
+      "headline": "Protect caterpillars as UK\u2019s moth population plummets, urge charities",
+      "link": "https://www.theguardian.com/environment/2026/mar/04/caterpillars-spring-moth-population",
+      "mean_score": 0.3502,
+      "vader_score": 0.7003,
+      "textblob_score": 0.0,
+      "first_sentence": "As spring unfolds and plants come to life, gardeners often fight a losing battle against the caterpillars who munch their cabbages.",
+      "timestamp": "2026-03-04T06:00:41Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Pregnant women shed grey matter to help with motherhood, study seen by BBC suggests",
+      "link": "https://www.bbc.com/news/articles/cy0d59e7wjlo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3002,
+      "vader_score": 0.4588,
+      "textblob_score": 0.1417,
+      "first_sentence": "\"Baby brain\" is a cliche long-used to describe women becoming forgetful and feeling less capable during pregnancy.",
+      "timestamp": "2026-03-04T05:56:25Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "The fascinating science of dreams, and why some of us don't remember them",
+      "link": "https://www.abc.net.au/news/2026-03-04/why-some-vividly-remember-dreams-others-dont-dream/106413370",
+      "mean_score": 0.7175,
+      "vader_score": 0.7351,
+      "textblob_score": 0.7,
+      "first_sentence": "Some mornings, you wake up and the dream is right there.",
+      "timestamp": "2026-03-04T05:45:59Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Melbourne F1 Grand Prix rebuild sees $115m blowout due to asbestos",
+      "link": "https://www.abc.net.au/news/2026-03-04/victoria-asbestos-albert-park-melbourne-grand-prix-blowout/106415464",
+      "mean_score": 0.3231,
+      "vader_score": 0.4588,
+      "textblob_score": 0.1875,
+      "first_sentence": "The cost of redeveloping Melbourne's Grand Prix pit building has blown out by $115 million due to asbestos clean-up requirements.",
+      "timestamp": "2026-03-04T05:24:28Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Winter Paralympics 2026: who are Australia\u2019s top medal contenders? | Kieran Pender",
       "link": "https://www.theguardian.com/sport/2026/mar/04/milano-cortina-winter-paralympics-2026-australia-medal-contenders",
@@ -2460,46 +2500,6 @@
       "first_sentence": "This article contains spoilers for the Love Island: All Stars final.",
       "timestamp": "2026-02-24T10:13:04Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "\u2018It\u2019s more exciting than Tesco\u2019: can traditional fishing lure Cornwall\u2019s young people?",
-      "link": "https://www.theguardian.com/environment/2026/feb/24/its-more-exciting-than-tesco-can-traditional-fishing-lure-cornwalls-young-people",
-      "mean_score": 0.3831,
-      "vader_score": 0.5413,
-      "textblob_score": 0.225,
-      "first_sentence": "It\u2019s mid-morning on a rare calm day in Newlyn, Cornwall.",
-      "timestamp": "2026-02-24T10:00:11Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "WIN Network buys Nine Darwin, expanding operations to the NT",
-      "link": "https://www.abc.net.au/news/2026-02-24/win-network-expands-to-nt-acquires-nine-darwin-broadcast-licence/106381370",
-      "mean_score": 0.7369,
-      "vader_score": 0.6739,
-      "textblob_score": 0.8,
-      "first_sentence": "The WIN Network has acquired Nine Darwin under a five-year agreement, a year after Nine scrapped its local Northern Territory TV news bulletin.",
-      "timestamp": "2026-02-24T09:40:57Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Rugby league should celebrate and build on the World Club Challenge",
-      "link": "https://www.theguardian.com/sport/no-helmets-required/2026/feb/24/rugby-league-celebrate-world-club-challenge-hull-kr-brisbane-broncos",
-      "mean_score": 0.3062,
-      "vader_score": 0.6124,
-      "textblob_score": 0.0,
-      "first_sentence": "Lifelong memories are not usually made during dank winter nights at the MKM Stadium in Hull, but the World Club Challenge will be treasured even by those of us who do not have red and white allegiances.",
-      "timestamp": "2026-02-24T08:00:05Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "FBI director invites fresh scrutiny over travels with appearance at US men's hockey team celebration",
-      "link": "https://www.npr.org/2026/02/24/g-s1-111308/fbi-director-invites-fresh-scrutiny-over-travels-with-appearance-at-us-mens-hockey-team-celebration",
-      "mean_score": 0.3091,
-      "vader_score": 0.3182,
-      "textblob_score": 0.3,
-      "first_sentence": "WASHINGTON \u2014 When the American men's hockey team retreated to their locker room to celebrate their Winter Olympics gold medal win, they were joined by a special guest from the United States: FBI Director Kash Patel.",
-      "timestamp": "2026-02-24T07:10:46Z",
-      "source": "NPR News"
     }
   ]
 }
