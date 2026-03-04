@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-04T19:20:29Z",
+  "last run": "2026-03-04T20:14:22Z",
   "stories": [
+    {
+      "headline": "Newcastle United v Manchester United: Premier League \u2013 live",
+      "link": "https://www.theguardian.com/football/live/2026/mar/04/newcastle-v-manchester-united-premier-league-live",
+      "mean_score": 0.4086,
+      "vader_score": 0.6808,
+      "textblob_score": 0.1364,
+      "first_sentence": "A reminder of where both teams lie going into tonight\u2019s five-match card.",
+      "timestamp": "2026-03-04T20:00:10Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Colossal Biosciences breeds controversy while trying to revive mammoths",
       "link": "https://www.npr.org/2026/03/04/nx-s1-5704318/colossal-woolly-mammoth-dire-wolf",
@@ -2490,16 +2500,6 @@
       "first_sentence": "PHILADELPHIA \u2014 On a recent cold morning, Micah Gold-Markel helped his installation crew hoist new solar panels onto the roof of a two-story, red brick house.",
       "timestamp": "2026-02-25T09:40:11Z",
       "source": "NPR News"
-    },
-    {
-      "headline": "Child commissioner raises concerns about $50m secure care plan for at-risk kids",
-      "link": "https://www.abc.net.au/news/2026-02-25/qld-proposed-secure-care-model-for-at-risk-children-concerns/106389010",
-      "mean_score": 0.5404,
-      "vader_score": 0.6808,
-      "textblob_score": 0.4,
-      "first_sentence": "The Queensland government is looking at building a secure care facility to assist young people living in state care with mental health needs who pose a danger to themselves or others.",
-      "timestamp": "2026-02-25T09:17:07Z",
-      "source": "ABC News"
     }
   ]
 }
