@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-04T10:16:59Z",
+  "last run": "2026-03-04T11:14:44Z",
   "stories": [
+    {
+      "headline": "The great shared bed debate is here \u2013 and you have to pick a side | Polly Hudson",
+      "link": "https://www.theguardian.com/commentisfree/2026/mar/04/shared-bed-debate-pick-a-side",
+      "mean_score": 0.779,
+      "vader_score": 0.7579,
+      "textblob_score": 0.8,
+      "first_sentence": "How well do any of us really know our friends? You may be confident of the answer to that, feel secure \u2013 smug, even \u2013 but be warned.",
+      "timestamp": "2026-03-04T11:00:17Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Would you and your sexual partner like to share the story of what you get up to in the bedroom?",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/mar/04/would-you-and-your-sexual-partner-like-to-share-the-story-of-what-you-get-up-to-in-the-bedroom",
+      "mean_score": 0.5359,
+      "vader_score": 0.5719,
+      "textblob_score": 0.5,
+      "first_sentence": "How often do you have sex? The Guardian is looking for couples to talk honestly \u2013 and completely anonymously \u2013 about what they get up to in the bedroom for the Saturday magazine\u2019s much-loved This is How We Do It column.\n The idea behind the column is to provide a counterpoint to the airbrushed, exaggerated stories about sex we see on TV and in the media.",
+      "timestamp": "2026-03-04T10:14:01Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "GOP heads to runoff; Democrat Talarico wins big in Texas primary",
       "link": "https://www.npr.org/2026/03/04/nx-s1-5734371/gop-heads-to-runoff-democrat-talarico-wins-big-in-texas-primary",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Citizen scientists have discovered what they believe is one of the largest coral colonies ever documented on the Great Barrier Reef.",
       "timestamp": "2026-02-24T22:00:52Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Brockwell Park festivals approved by council",
-      "link": "https://www.bbc.com/news/articles/c4gjzdp2wkyo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3243,
-      "vader_score": 0.6486,
-      "textblob_score": 0.0,
-      "first_sentence": "Plans to hold a series of festivals in Brockwell Park have been approved, despite opposition from residents.",
-      "timestamp": "2026-02-24T21:11:13Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Google apologises for Baftas alert to 'see more' on racial slur",
-      "link": "https://www.bbc.com/news/articles/c3v730qwwzwo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4794,
-      "vader_score": 0.4588,
-      "textblob_score": 0.5,
-      "first_sentence": "Google has apologised for sending a news alert on this year's Bafta awards ceremony that suggested suggesting people read further into a racial slur.",
-      "timestamp": "2026-02-24T20:24:26Z",
-      "source": "BBC News"
     }
   ]
 }
