@@ -1,6 +1,46 @@
 {
-  "last run": "2026-03-04T06:22:54Z",
+  "last run": "2026-03-04T07:21:38Z",
   "stories": [
+    {
+      "headline": "Liam Rosenior knows clock is ticking on Chelsea\u2019s chance of Champions League spot",
+      "link": "https://www.theguardian.com/football/2026/mar/04/chelsea-liam-rosenior-champions-league",
+      "mean_score": 0.3298,
+      "vader_score": 0.6597,
+      "textblob_score": 0.0,
+      "first_sentence": "It is natural for young people to feel they have all the time in the world.",
+      "timestamp": "2026-03-04T07:00:44Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Horizons and highways: Franco Fontana\u2019s stunning photographic experiments \u2013 in pictures",
+      "link": "https://www.theguardian.com/artanddesign/gallery/2026/mar/04/franco-fontana-photography-exhibition-colour",
+      "mean_score": 0.4409,
+      "vader_score": 0.3818,
+      "textblob_score": 0.5,
+      "first_sentence": "A mesmerising new exhibition showcases the work of the Italian colour pioneer whose landscapes, motorways and swimming pools often seem more like abstract paintings Continue reading.",
+      "timestamp": "2026-03-04T07:00:43Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018That thrush just did something incredible\u2019: tuning in to bird calls on a North York Moors walk",
+      "link": "https://www.theguardian.com/travel/2026/mar/04/bird-calls-north-yorkshire-moors-walk",
+      "mean_score": 0.45,
+      "vader_score": 0.0,
+      "textblob_score": 0.9,
+      "first_sentence": "We follow a path up to an open ridge, but bird sounds are conspicuously absent.",
+      "timestamp": "2026-03-04T07:00:42Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "A moment that changed me: my girlfriend criticised my kisses \u2013 and it led to the best decision of my life",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/mar/04/a-moment-that-changed-me-my-girlfriend-criticised-my-kisses-and-it-led-to-the-best-decision-of-my-life",
+      "mean_score": 0.8454,
+      "vader_score": 0.6908,
+      "textblob_score": 1.0,
+      "first_sentence": "She said kissing me was like licking an ashtray, and I knew I had to quit smoking.",
+      "timestamp": "2026-03-04T06:45:41Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Protect caterpillars as UK\u2019s moth population plummets, urge charities",
       "link": "https://www.theguardian.com/environment/2026/mar/04/caterpillars-spring-moth-population",
@@ -2460,46 +2500,6 @@
       "first_sentence": "With its vote surging, One Nation is throwing down the gauntlet to the entire Australian political system, not just to the Coalition but to super-progressives as well.",
       "timestamp": "2026-02-24T14:00:35Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "A Woman's Hour and SEND in the Spotlight special",
-      "link": "https://www.bbc.co.uk/sounds/play/m002rql9?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3795,
-      "vader_score": 0.4019,
-      "textblob_score": 0.3571,
-      "first_sentence": "We hear from a range of voices on the impact of the government's SEND reforms in England.",
-      "timestamp": "2026-02-24T12:23:00Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Hong Kong lodges 'strong protest' after Panama takes control of canal ports",
-      "link": "https://www.bbc.com/news/articles/c2k8z9v3334o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3758,
-      "vader_score": 0.3182,
-      "textblob_score": 0.4333,
-      "first_sentence": "Hong Kong has formally complained to the government of Panama after it took control of two ports on the Panama Canal.",
-      "timestamp": "2026-02-24T12:16:36Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "The best massage guns in the UK to relieve sore, tired muscles",
-      "link": "https://www.theguardian.com/thefilter/2025/jan/24/best-massage-guns",
-      "mean_score": 0.3091,
-      "vader_score": 0.3182,
-      "textblob_score": 0.3,
-      "first_sentence": "The Guardian\u2019s journalism is independent.",
-      "timestamp": "2026-02-24T10:44:02Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Love Island winners revealed after drama-filled All Stars series",
-      "link": "https://www.bbc.com/news/articles/ceqvy1yn0y1o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.6537,
-      "vader_score": 0.8074,
-      "textblob_score": 0.5,
-      "first_sentence": "This article contains spoilers for the Love Island: All Stars final.",
-      "timestamp": "2026-02-24T10:13:04Z",
-      "source": "BBC News"
     }
   ]
 }
