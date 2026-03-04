@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-04T08:16:40Z",
+  "last run": "2026-03-04T09:19:38Z",
   "stories": [
+    {
+      "headline": "Outgunned review \u2013 action-thriller in Angola outstays its welcome",
+      "link": "https://www.theguardian.com/film/2026/mar/04/outgunned-review-action-thriller-angola",
+      "mean_score": 0.6294,
+      "vader_score": 0.4588,
+      "textblob_score": 0.8,
+      "first_sentence": "Here is an action-thriller that opens with some zesty Call of Duty-style military violence unfolding in Angola in 2013.",
+      "timestamp": "2026-03-04T09:00:45Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "James Talarico wins Democratic primary for US Senate in Texas",
+      "link": "https://www.theguardian.com/us-news/2026/mar/03/texas-primary-election-results",
+      "mean_score": 0.4609,
+      "vader_score": 0.5719,
+      "textblob_score": 0.35,
+      "first_sentence": "James Talarico won the Democratic nomination for a US Senate seat in Texas on Tuesday, capping a remarkable rise from state lawmaker and seminary student to the party\u2019s standard-bearer in one of the key races of the 2026 midterm cycle.",
+      "timestamp": "2026-03-04T08:25:27Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Why Sinners should win the best picture Oscar",
       "link": "https://www.theguardian.com/film/2026/mar/04/why-sinners-should-win-the-best-picture-oscar",
@@ -99,6 +119,16 @@
       "textblob_score": 0.7,
       "first_sentence": "Some mornings, you wake up and the dream is right there.",
       "timestamp": "2026-03-04T05:45:59Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "First flight has left Dubai for Sydney. How do airlines determine it is safe?",
+      "link": "https://www.abc.net.au/news/2026-03-04/how-airlines-determine-if-it-is-safe-to-fly-from-conflict-zones/106414544",
+      "mean_score": 0.3452,
+      "vader_score": 0.4404,
+      "textblob_score": 0.25,
+      "first_sentence": "A flight from Dubai to Sydney has departed the United Arab Emirates (UAE).",
+      "timestamp": "2026-03-04T05:45:02Z",
       "source": "ABC News"
     },
     {
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.3788,
       "first_sentence": "Prime Minister Anthony Albanese was evacuated from The Lodge while police searched his residence in Canberra following a security threat.",
       "timestamp": "2026-02-24T20:02:34Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "'This is the place we've been looking for': Refugees find peace in new home",
-      "link": "https://www.abc.net.au/news/2026-02-25/congolese-refugees-welcomed-in-armidale-nsw/105972890",
-      "mean_score": 0.3393,
-      "vader_score": 0.5423,
-      "textblob_score": 0.1364,
-      "first_sentence": "Last year, 275 refugees, predominantly from Africa, settled in Armidale.",
-      "timestamp": "2026-02-24T19:31:26Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Are you on track to retire comfortably? Australia's new super benchmark released",
-      "link": "https://www.sbs.com.au/news/article/new-superannuation-target-released-comfortable-retirement/u5nkrhcnk",
-      "mean_score": 0.5308,
-      "vader_score": 0.7717,
-      "textblob_score": 0.2899,
-      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-      "timestamp": "2026-02-24T18:42:40Z",
-      "source": "SBS News"
-    },
-    {
-      "headline": "Travel quiz: Can you win our race around the world?",
-      "link": "https://www.abc.net.au/news/2026-02-25/travel-quiz/106251072",
-      "mean_score": 0.6929,
-      "vader_score": 0.5859,
-      "textblob_score": 0.8,
-      "first_sentence": "Take a squiz at the ABC's New Quiz topic page and see if you're a whiz at our previous quizzes.",
-      "timestamp": "2026-02-24T18:30:00Z",
       "source": "ABC News"
     }
   ]
