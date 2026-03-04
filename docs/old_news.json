@@ -1,5 +1,15 @@
 [
   {
+    "headline": "A poetry collection inspired by a shouting match wins $100k prize",
+    "link": "https://www.abc.net.au/news/2026-02-25/victorian-premiers-literary-awards-2026-winners-evelyn-araluen/106384572",
+    "mean_score": 0.5904,
+    "vader_score": 0.8807,
+    "textblob_score": 0.3,
+    "first_sentence": "When Evelyn Araluen won the Stella Prize in 2022 for her debut poetry collection, Dropbear, it was a complete surprise.",
+    "timestamp": "2026-02-25T09:00:00Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Energy bills will fall by \u00a3117 for millions of households in Great Britain from April",
     "link": "https://www.theguardian.com/money/2026/feb/25/energy-bills-fall-households-april-price-cap",
     "mean_score": 0.7675,

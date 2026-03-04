@@ -1,5 +1,5 @@
 {
-  "last run": "2026-03-04T15:19:12Z",
+  "last run": "2026-03-04T16:18:59Z",
   "stories": [
     {
       "headline": "Greetings from Southwest Papua, which has some of the world's richest marine biodiversity",
@@ -70,6 +70,16 @@
       "first_sentence": "Sir David and Lady Beckham have wished son Brooklyn a happy birthday on Instagram, two months after the 27-year-old exposed a rift in the family.",
       "timestamp": "2026-03-04T12:22:08Z",
       "source": "BBC News"
+    },
+    {
+      "headline": "Ali Khamenei\u2019s son Mojtaba favourite to succeed him as Iran\u2019s supreme leader",
+      "link": "https://www.theguardian.com/world/2026/mar/04/mojtaba-khamenei-son-of-former-supreme-leader-tipped-to-become-irans-next-head-of-state",
+      "mean_score": 0.3891,
+      "vader_score": 0.7783,
+      "textblob_score": 0.0,
+      "first_sentence": "Mojtaba Khamenei, the second son of the assassinated Ali Khamenei, is being heavily tipped to succeed his father as supreme leader of Iran, which would pitch a hardliner into the task of steering the Islamic republic through the most turbulent period in its 48-year history and offer a powerful signal that, for now, it has no intention of changing course.",
+      "timestamp": "2026-03-04T12:08:51Z",
+      "source": "The Guardian"
     },
     {
       "headline": "\u2018I owe Iron Maiden my English A-level!\u2019 The great literature our writers discovered through pop music",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Good morning.",
       "timestamp": "2026-02-25T09:11:46Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "A poetry collection inspired by a shouting match wins $100k prize",
-      "link": "https://www.abc.net.au/news/2026-02-25/victorian-premiers-literary-awards-2026-winners-evelyn-araluen/106384572",
-      "mean_score": 0.5904,
-      "vader_score": 0.8807,
-      "textblob_score": 0.3,
-      "first_sentence": "When Evelyn Araluen won the Stella Prize in 2022 for her debut poetry collection, Dropbear, it was a complete surprise.",
-      "timestamp": "2026-02-25T09:00:00Z",
-      "source": "ABC News"
     }
   ]
 }
