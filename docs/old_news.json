@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Preaching kindness, Amanda Seyfried went all in on her latest role",
+    "link": "https://www.abc.net.au/news/2026-02-26/amanda-seyfried-interview-testament-of-ann-lee/106327294",
+    "mean_score": 0.4794,
+    "vader_score": 0.4588,
+    "textblob_score": 0.5,
+    "first_sentence": "A gifted singer and dancer, luminous Hollywood star Amanda Seyfried is a dab hand at musicals.",
+    "timestamp": "2026-02-25T18:30:00Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "2026 Lexus RZ 550e review: Likable, but it needs improvement",
+    "link": "https://arstechnica.com/cars/2026/02/2026-lexus-rz-550e-review-likable-but-it-needs-improvement/",
+    "mean_score": 0.5562,
+    "vader_score": 0.6124,
+    "textblob_score": 0.5,
+    "first_sentence": "It\u2019s not very efficient, and the synthetic gearshifts aren\u2019t great, but I liked it?.",
+    "timestamp": "2026-02-25T18:27:27Z",
+    "source": "Ars Technica"
+  },
+  {
     "headline": "Two skinheads counting the takings from a neo-Nazi gig: Leo Regan\u2019s best photograph",
     "link": "https://www.theguardian.com/artanddesign/2026/feb/25/skinheads-leo-regan-best-photograph-neo-nazi",
     "mean_score": 0.8185,
