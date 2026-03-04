@@ -1,6 +1,46 @@
 {
-  "last run": "2026-03-03T23:10:45Z",
+  "last run": "2026-03-04T00:40:39Z",
   "stories": [
+    {
+      "headline": "Red alert: the best photos of the rare blood moon total lunar eclipse \u2013 in pictures",
+      "link": "https://www.theguardian.com/environment/gallery/2026/mar/04/red-blood-moon-total-lunar-eclipse-march-2026-best-photos-gallery-in-pictures",
+      "mean_score": 0.5378,
+      "vader_score": 0.7506,
+      "textblob_score": 0.325,
+      "first_sentence": "A rare total lunar eclipse on Tuesday night resulted in a spectacular blood moon, seen first in Western Australia, then in parts of Asia, Europe and across North America.",
+      "timestamp": "2026-03-03T23:48:53Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Can\u2019t win? Drop out: California Democrats plead with governor hopefuls as party fears Republican surge",
+      "link": "https://www.theguardian.com/us-news/2026/mar/03/california-governor-democrats-gavin-newsom",
+      "mean_score": 0.5909,
+      "vader_score": 0.3818,
+      "textblob_score": 0.8,
+      "first_sentence": "It\u2019s been three decades since Democrats last had a wide open contest for the California governorship, one of the most visible and most powerful positions in the US.",
+      "timestamp": "2026-03-03T23:46:47Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Event planners of Barunga Festival 'blindsided' by hiring of new agency",
+      "link": "https://www.abc.net.au/news/2026-03-04/nt-barunga-festival-sprout-blindsided-2026-biggest-ever/106410198",
+      "mean_score": 0.3151,
+      "vader_score": 0.4939,
+      "textblob_score": 0.1364,
+      "first_sentence": "The company that has managed the planning of the Northern Territory's iconic Barunga Festival for the past three years will not have its contract renewed this year, in a change in direction for the event.",
+      "timestamp": "2026-03-03T23:11:30Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Live: Australian share market tumbles as economic growth picks up",
+      "link": "https://www.abc.net.au/news/2026-03-04/asx-markets-business-live-news/106412702",
+      "mean_score": 0.349,
+      "vader_score": 0.5859,
+      "textblob_score": 0.1121,
+      "first_sentence": "The Australian share market has fallen sharply as worries about a drawn-out Middle East war, surging oil prices and potentially higher inflation are fresh on investors' minds.",
+      "timestamp": "2026-03-03T20:50:38Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Alessia Russo double for England sparks Women\u2019s World Cup qualifying win against Ukraine",
       "link": "https://www.theguardian.com/football/2026/mar/03/ukraine-england-womens-world-cup-qualifier",
@@ -70,6 +110,16 @@
       "first_sentence": "The TV presenter shares how counselling has given her new perspectives on life.",
       "timestamp": "2026-03-03T16:40:58Z",
       "source": "BBC News"
+    },
+    {
+      "headline": "\u2018Cheap as chips and save backache\u2019: gardening pros on the tools they can\u2019t live without",
+      "link": "https://www.theguardian.com/thefilter/2026/mar/03/head-gardeners-best-gardening-kit",
+      "mean_score": 0.381,
+      "vader_score": 0.4939,
+      "textblob_score": 0.2682,
+      "first_sentence": "The Guardian\u2019s journalism is independent.",
+      "timestamp": "2026-03-03T15:00:00Z",
+      "source": "The Guardian"
     },
     {
       "headline": "How AI is being used to support positive mental health",
@@ -2450,56 +2500,6 @@
       "first_sentence": "DALLAS\u2014The Space Force officer tasked with overseeing more than $24 billion in research and development spending says the Pentagon is more interested in supporting startups building new space sensors and payloads than adding yet another rocket company to its portfolio.",
       "timestamp": "2026-02-23T22:14:28Z",
       "source": "Ars Technica"
-    },
-    {
-      "headline": "Supersub Benjamin Sesko fires Manchester United past Everton and into top four",
-      "link": "https://www.theguardian.com/football/2026/feb/23/everton-manchester-united-premier-league-match-report",
-      "mean_score": 0.3412,
-      "vader_score": 0.5574,
-      "textblob_score": 0.125,
-      "first_sentence": "Sir Jim Ratcliffe must be seriously conflicted.",
-      "timestamp": "2026-02-23T22:06:11Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Live: 'Australia likes being first': PM defends bid to remove Andrew from succession",
-      "link": "https://www.abc.net.au/news/2026-02-24/federal-politics-albanese-taylor-rail-live-blog/106377802",
-      "mean_score": 0.3753,
-      "vader_score": 0.5574,
-      "textblob_score": 0.1932,
-      "first_sentence": "The prime minister has revealed he voluntarily wrote to his UK counterpart to offer his support for removing Andrew Mountbatten-Windsor from the line of succession.",
-      "timestamp": "2026-02-23T20:02:07Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "\u2018I want to come back, to win gold\u2019: banned Ukrainian determined to race for glory in helmet of memory",
-      "link": "https://www.theguardian.com/sport/2026/feb/23/banned-ukrainian-vladislav-heraskevych-return-glory-helmet-memory-ioc-winter-olympics-2026",
-      "mean_score": 0.5953,
-      "vader_score": 0.7906,
-      "textblob_score": 0.4,
-      "first_sentence": "It is the image that will forever define the 2026 Winter Olympics: a Ukrainian skeleton racer, stoic and unbowed, holding a helmet bearing the faces of 24 athletes killed by Russia.",
-      "timestamp": "2026-02-23T20:00:49Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Communication is key to the chances of Send reforms succeeding",
-      "link": "https://www.theguardian.com/education/2026/feb/23/communication-key-to-send-reforms-succeeding-analysis",
-      "mean_score": 0.3062,
-      "vader_score": 0.6124,
-      "textblob_score": 0.0,
-      "first_sentence": "In her first week as a cabinet minister Bridget Phillipson held a meeting for new Labour MPs with one subject \u2013 special educational needs.",
-      "timestamp": "2026-02-23T19:46:59Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Jeremy Hunt urges medics to do more to improve detection of rare childbirth condition",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/feb/23/jeremy-hunt-medics-detection-rare-childbirth-condition-placenta-accreta-spectrum",
-      "mean_score": 0.4451,
-      "vader_score": 0.4902,
-      "textblob_score": 0.4,
-      "first_sentence": "Jeremy Hunt has urged leading doctors to do more to help maternity specialists detect a rare complication of childbirth that can lead to a women bleeding to death within minutes.",
-      "timestamp": "2026-02-23T19:06:57Z",
-      "source": "The Guardian"
     }
   ]
 }

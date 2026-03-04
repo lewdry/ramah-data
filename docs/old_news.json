@@ -1,5 +1,55 @@
 [
   {
+    "headline": "Supersub Benjamin Sesko fires Manchester United past Everton and into top four",
+    "link": "https://www.theguardian.com/football/2026/feb/23/everton-manchester-united-premier-league-match-report",
+    "mean_score": 0.3412,
+    "vader_score": 0.5574,
+    "textblob_score": 0.125,
+    "first_sentence": "Sir Jim Ratcliffe must be seriously conflicted.",
+    "timestamp": "2026-02-23T22:06:11Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Live: 'Australia likes being first': PM defends bid to remove Andrew from succession",
+    "link": "https://www.abc.net.au/news/2026-02-24/federal-politics-albanese-taylor-rail-live-blog/106377802",
+    "mean_score": 0.3753,
+    "vader_score": 0.5574,
+    "textblob_score": 0.1932,
+    "first_sentence": "The prime minister has revealed he voluntarily wrote to his UK counterpart to offer his support for removing Andrew Mountbatten-Windsor from the line of succession.",
+    "timestamp": "2026-02-23T20:02:07Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "\u2018I want to come back, to win gold\u2019: banned Ukrainian determined to race for glory in helmet of memory",
+    "link": "https://www.theguardian.com/sport/2026/feb/23/banned-ukrainian-vladislav-heraskevych-return-glory-helmet-memory-ioc-winter-olympics-2026",
+    "mean_score": 0.5953,
+    "vader_score": 0.7906,
+    "textblob_score": 0.4,
+    "first_sentence": "It is the image that will forever define the 2026 Winter Olympics: a Ukrainian skeleton racer, stoic and unbowed, holding a helmet bearing the faces of 24 athletes killed by Russia.",
+    "timestamp": "2026-02-23T20:00:49Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Communication is key to the chances of Send reforms succeeding",
+    "link": "https://www.theguardian.com/education/2026/feb/23/communication-key-to-send-reforms-succeeding-analysis",
+    "mean_score": 0.3062,
+    "vader_score": 0.6124,
+    "textblob_score": 0.0,
+    "first_sentence": "In her first week as a cabinet minister Bridget Phillipson held a meeting for new Labour MPs with one subject \u2013 special educational needs.",
+    "timestamp": "2026-02-23T19:46:59Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Jeremy Hunt urges medics to do more to improve detection of rare childbirth condition",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/feb/23/jeremy-hunt-medics-detection-rare-childbirth-condition-placenta-accreta-spectrum",
+    "mean_score": 0.4451,
+    "vader_score": 0.4902,
+    "textblob_score": 0.4,
+    "first_sentence": "Jeremy Hunt has urged leading doctors to do more to help maternity specialists detect a rare complication of childbirth that can lead to a women bleeding to death within minutes.",
+    "timestamp": "2026-02-23T19:06:57Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "\u2018No surprise\u2019: Robert Aramayo\u2019s teachers knew the Bafta winner was destined for great things",
     "link": "https://www.theguardian.com/film/2026/feb/23/robert-aramayo-teachers-hull-bafta-winner-actor-tourette-syndrome",
     "mean_score": 0.818,
