@@ -1,6 +1,36 @@
 {
-  "last run": "2026-03-04T20:14:22Z",
+  "last run": "2026-03-04T21:14:13Z",
   "stories": [
+    {
+      "headline": "Why Iran's most powerful ally is not coming to its aid",
+      "link": "https://www.abc.net.au/news/2026-03-05/why-iran-most-powerful-ally-is-not-coming-to-its-aid/106415362",
+      "mean_score": 0.4377,
+      "vader_score": 0.4754,
+      "textblob_score": 0.4,
+      "first_sentence": "President Donald Trump's backers have celebrated the United States and Israel's attack on Iran as a blow for not just the Iranian regime, but also for China.",
+      "timestamp": "2026-03-04T20:49:03Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Can China's 'Steel Roses' shine bright once again?",
+      "link": "https://www.abc.net.au/news/2026-03-05/womens-asian-cup-challenges-facing-china-women-football-team/106395844",
+      "mean_score": 0.5702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.7,
+      "first_sentence": "For decades, China's women's national football team have done what the men never could: win.",
+      "timestamp": "2026-03-04T20:25:05Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "The best beginner pickleball gear, according to pros",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/mar/04/best-beginner-pickleball-gear-according-to-pros",
+      "mean_score": 0.8185,
+      "vader_score": 0.6369,
+      "textblob_score": 1.0,
+      "first_sentence": "The Guardian\u2019s journalism is independent.",
+      "timestamp": "2026-03-04T20:15:40Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Newcastle United v Manchester United: Premier League \u2013 live",
       "link": "https://www.theguardian.com/football/live/2026/mar/04/newcastle-v-manchester-united-premier-league-live",
@@ -20,6 +50,16 @@
       "first_sentence": "When the elevator doors part on the second floor of a two-story brick and glass building in an office park on the outskirts of downtown Dallas, it feels like a portal opening to a different world.",
       "timestamp": "2026-03-04T18:53:01Z",
       "source": "NPR News"
+    },
+    {
+      "headline": "In these troubled times, who isn\u2019t loving the nostalgia of the Kennedys and Love Story\u2019s 90s New York? | Emma Brockes",
+      "link": "https://www.theguardian.com/commentisfree/2026/mar/04/love-story-kennedys-new-york-90s-nostalgia-tv",
+      "mean_score": 0.4555,
+      "vader_score": 0.7269,
+      "textblob_score": 0.1841,
+      "first_sentence": "If you are looking for a break in the clouds from this terrible news cycle, can I direct you towards Love Story, the nine-part series executive-produced \u2013 but crucially, not written! \u2013 by Ryan Murphy, which documents the love and untimely deaths of John F Kennedy Jr and his wife, Carolyn Bessette.",
+      "timestamp": "2026-03-04T17:25:50Z",
+      "source": "The Guardian"
     },
     {
       "headline": "Greetings from Southwest Papua, which has some of the world's richest marine biodiversity",
@@ -380,6 +420,16 @@
       "first_sentence": "The company that has managed the planning of the Northern Territory's iconic Barunga Festival for the past three years will not have its contract renewed this year, in a change in direction for the event.",
       "timestamp": "2026-03-03T23:11:30Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "Premier League top scorers 2025-26: who is leading race for golden boot?",
+      "link": "https://www.theguardian.com/football/2025/sep/15/premier-league-top-scorers-2025-26-who-is-leading-race-for-golden-boot",
+      "mean_score": 0.3012,
+      "vader_score": 0.2023,
+      "textblob_score": 0.4,
+      "first_sentence": "See which hot shots are leading the way in the English top flight\u2019s goalscoring charts this season Continue reading.",
+      "timestamp": "2026-03-03T21:17:33Z",
+      "source": "The Guardian"
     },
     {
       "headline": "Live: Australian share market tumbles as economic growth picks up",
@@ -2450,56 +2500,6 @@
       "first_sentence": "One of the things that has been frequently puzzled over as the effluent of the Epstein story flows on, is how a college dropout who thought it was cool to do typos managed to persuade the world\u2019s most powerful into his lair.",
       "timestamp": "2026-02-25T15:02:26Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Finally fixing capital gains tax is good \u2013 but linking it to another tax cut for Australia\u2019s rich is bollocks | Greg Jericho",
-      "link": "https://www.theguardian.com/business/grogonomics/2026/feb/25/capital-gains-tax-discount-federal-budget-coalition-tax-cuts-for-the-richest",
-      "mean_score": 0.534,
-      "vader_score": 0.7096,
-      "textblob_score": 0.3583,
-      "first_sentence": "With less than three months to go until the federal budget, you are going to be hearing a lot more about tax.",
-      "timestamp": "2026-02-25T14:00:40Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018I just want to be free\u2019: Australian children held in Syrian camps reveal their hopes and dreams",
-      "link": "https://www.theguardian.com/australia-news/2026/feb/25/for-an-hour-six-year-old-layla-was-free-now-shes-back-in-a-syrian-camp-where-she-has-spent-her-entire-life-ntwnfb",
-      "mean_score": 0.4502,
-      "vader_score": 0.7003,
-      "textblob_score": 0.2,
-      "first_sentence": "The first thing Layla did when she left al-Roj camp was stick her head out the car-window.",
-      "timestamp": "2026-02-25T14:00:39Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "HSBC bankers to share $3.9bn bonus pot, the highest in more than a decade",
-      "link": "https://www.theguardian.com/business/2026/feb/25/hsbc-overhaul-bank-almost-over-profits-drop",
-      "mean_score": 0.5954,
-      "vader_score": 0.6908,
-      "textblob_score": 0.5,
-      "first_sentence": "Bankers at HSBC are to share a bonus pot worth $3.9bn (\u00a32.9bn), the highest in more than a decade, after Europe\u2019s largest lender reported better-than-expected annual results.",
-      "timestamp": "2026-02-25T11:33:36Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Scotland fans secure Fifa approval to wear sporrans at World Cup",
-      "link": "https://www.bbc.com/news/articles/cn0erx6x228o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5353,
-      "vader_score": 0.6705,
-      "textblob_score": 0.4,
-      "first_sentence": "The Tartan Army have been given the green light to wear sporrans with their kilts at World Cup matches this summer, the Scottish Football Association (SFA) has confirmed.",
-      "timestamp": "2026-02-25T11:18:01Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Tax credits for solar panels are available, but the catch is you can't own them",
-      "link": "https://www.npr.org/2026/02/20/nx-s1-5649474/solar-panel-tax-credit",
-      "mean_score": 0.345,
-      "vader_score": 0.1901,
-      "textblob_score": 0.5,
-      "first_sentence": "PHILADELPHIA \u2014 On a recent cold morning, Micah Gold-Markel helped his installation crew hoist new solar panels onto the roof of a two-story, red brick house.",
-      "timestamp": "2026-02-25T09:40:11Z",
-      "source": "NPR News"
     }
   ]
 }
