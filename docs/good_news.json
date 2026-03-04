@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-04T18:21:19Z",
+  "last run": "2026-03-04T19:20:29Z",
   "stories": [
+    {
+      "headline": "Colossal Biosciences breeds controversy while trying to revive mammoths",
+      "link": "https://www.npr.org/2026/03/04/nx-s1-5704318/colossal-woolly-mammoth-dire-wolf",
+      "mean_score": 0.32,
+      "vader_score": 0.34,
+      "textblob_score": 0.3,
+      "first_sentence": "When the elevator doors part on the second floor of a two-story brick and glass building in an office park on the outskirts of downtown Dallas, it feels like a portal opening to a different world.",
+      "timestamp": "2026-03-04T18:53:01Z",
+      "source": "NPR News"
+    },
     {
       "headline": "Greetings from Southwest Papua, which has some of the world's richest marine biodiversity",
       "link": "https://www.npr.org/2026/03/04/nx-s1-5732787/indonesia-marine-biodiversity-fish-diving-southwest-papua",
@@ -2490,16 +2500,6 @@
       "first_sentence": "The Queensland government is looking at building a secure care facility to assist young people living in state care with mental health needs who pose a danger to themselves or others.",
       "timestamp": "2026-02-25T09:17:07Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Gorton and Denton byelection campaign hits final day with new poll saying it is too close to call who will win \u2013 UK politics live",
-      "link": "https://www.theguardian.com/politics/live/2026/feb/25/gorton-and-denton-byelection-campaign-greens-labour-reform-uk-politics-latest-news-updates",
-      "mean_score": 0.427,
-      "vader_score": 0.5859,
-      "textblob_score": 0.2682,
-      "first_sentence": "Good morning.",
-      "timestamp": "2026-02-25T09:11:46Z",
-      "source": "The Guardian"
     }
   ]
 }
