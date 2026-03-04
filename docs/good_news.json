@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-04T09:19:38Z",
+  "last run": "2026-03-04T10:16:59Z",
   "stories": [
+    {
+      "headline": "GOP heads to runoff; Democrat Talarico wins big in Texas primary",
+      "link": "https://www.npr.org/2026/03/04/nx-s1-5734371/gop-heads-to-runoff-democrat-talarico-wins-big-in-texas-primary",
+      "mean_score": 0.4026,
+      "vader_score": 0.5719,
+      "textblob_score": 0.2333,
+      "first_sentence": "Democrat James Talarico beat Rep.",
+      "timestamp": "2026-03-04T09:45:13Z",
+      "source": "NPR News"
+    },
     {
       "headline": "Outgunned review \u2013 action-thriller in Angola outstays its welcome",
       "link": "https://www.theguardian.com/film/2026/mar/04/outgunned-review-action-thriller-angola",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Google has apologised for sending a news alert on this year's Bafta awards ceremony that suggested suggesting people read further into a racial slur.",
       "timestamp": "2026-02-24T20:24:26Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Live: Taylor pleased PM 'safe and well' after evacuation from The Lodge over security threat",
-      "link": "https://www.abc.net.au/news/2026-02-25/albanese-evacuation-labor-taylor-coalition-capital-gains/106382944",
-      "mean_score": 0.5442,
-      "vader_score": 0.7096,
-      "textblob_score": 0.3788,
-      "first_sentence": "Prime Minister Anthony Albanese was evacuated from The Lodge while police searched his residence in Canberra following a security threat.",
-      "timestamp": "2026-02-24T20:02:34Z",
-      "source": "ABC News"
     }
   ]
 }
