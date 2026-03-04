@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-04T14:20:56Z",
+  "last run": "2026-03-04T15:19:12Z",
   "stories": [
+    {
+      "headline": "Greetings from Southwest Papua, which has some of the world's richest marine biodiversity",
+      "link": "https://www.npr.org/2026/03/04/nx-s1-5732787/indonesia-marine-biodiversity-fish-diving-southwest-papua",
+      "mean_score": 0.3675,
+      "vader_score": 0.7351,
+      "textblob_score": 0.0,
+      "first_sentence": "Far-Flung Postcards is a weekly series in which NPR's international team shares moments from their lives and work around the world.",
+      "timestamp": "2026-03-04T15:13:54Z",
+      "source": "NPR News"
+    },
     {
       "headline": "Dennis Cometti was erudite, funny and engaging. His witticisms could fill a library",
       "link": "https://www.theguardian.com/sport/blog/2026/mar/05/dennis-cometti-death-afl-australian-football-commentator",
@@ -2490,16 +2500,6 @@
       "first_sentence": "When Evelyn Araluen won the Stella Prize in 2022 for her debut poetry collection, Dropbear, it was a complete surprise.",
       "timestamp": "2026-02-25T09:00:00Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Energy bills will fall by \u00a3117 for millions of households in Great Britain from April",
-      "link": "https://www.theguardian.com/money/2026/feb/25/energy-bills-fall-households-april-price-cap",
-      "mean_score": 0.7675,
-      "vader_score": 0.7351,
-      "textblob_score": 0.8,
-      "first_sentence": "Annual energy bills will fall by \u00a3117 for millions of households from April after Rachel Reeves\u2019s plan to cut \u00a3150 a year from bills was partly foiled by rising costs.",
-      "timestamp": "2026-02-25T07:00:37Z",
-      "source": "The Guardian"
     }
   ]
 }
