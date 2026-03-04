@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Opposition to expand Melbourne CBD in bid to boost home ownership",
+    "link": "https://www.abc.net.au/news/2026-02-25/victorian-opposition-unveils-home-ownership-housing-plan/106387550",
+    "mean_score": 0.3062,
+    "vader_score": 0.6124,
+    "textblob_score": 0.0,
+    "first_sentence": "The state opposition has vowed to expand residential living in Melbourne's CBD and disrupt plans for higher-density housing in the city's middle-ring suburbs if the party wins November's state election.",
+    "timestamp": "2026-02-25T06:12:55Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Angus Taylor says federal Liberals must 'do better' amid SA campaign",
+    "link": "https://www.abc.net.au/news/2026-02-25/angus-taylor-in-adelaide-ahead-of-state-election/106386578",
+    "mean_score": 0.4702,
+    "vader_score": 0.4404,
+    "textblob_score": 0.5,
+    "first_sentence": "Opposition leader Angus Taylor says the federal Liberals need to \"restore Australia's confidence\" in the party.",
+    "timestamp": "2026-02-25T05:33:32Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "From the Pocket: Charlie Curnow was let off too easily for jumping ship",
+    "link": "https://www.theguardian.com/sport/2026/feb/25/charlie-curnow-carlton-swans-from-the-pocket-afl-newsletter",
+    "mean_score": 0.3867,
+    "vader_score": 0.34,
+    "textblob_score": 0.4333,
+    "first_sentence": "Want to get this in your inbox every Wednesday afternoon? Sign up for the AFL newsletter here.",
+    "timestamp": "2026-02-25T03:45:57Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Woolworths shares surge as food sales and profit beat expectations",
     "link": "https://www.abc.net.au/news/2026-02-25/woolworths-shares-surge-as-food-sales-and-profit-beat/106385714",
     "mean_score": 0.3125,

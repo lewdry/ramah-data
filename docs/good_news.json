@@ -1,6 +1,36 @@
 {
-  "last run": "2026-03-04T13:29:49Z",
+  "last run": "2026-03-04T14:20:56Z",
   "stories": [
+    {
+      "headline": "Dennis Cometti was erudite, funny and engaging. His witticisms could fill a library",
+      "link": "https://www.theguardian.com/sport/blog/2026/mar/05/dennis-cometti-death-afl-australian-football-commentator",
+      "mean_score": 0.4493,
+      "vader_score": 0.6486,
+      "textblob_score": 0.25,
+      "first_sentence": "The late Tony Charlton, who called a dozen VFL grand finals and three Olympic Games, said sporting commentators should \u201cproduce words like bubbles in champagne\u201d.",
+      "timestamp": "2026-03-04T14:00:34Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018Apartheid newsroom\u2019: minority ethnic journalists still locked out of top jobs, report finds",
+      "link": "https://www.theguardian.com/media/2026/mar/04/journalism-minority-newsroom-jobs-report",
+      "mean_score": 0.3512,
+      "vader_score": 0.2023,
+      "textblob_score": 0.5,
+      "first_sentence": "Broadcast journalists from ethnic minorities are still locked out of top jobs and face a backlash after being perceived as \u201cdiversity hires\u201d, according to a survey of UK television newsrooms.",
+      "timestamp": "2026-03-04T13:32:11Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "'Overjoyed': Emotions run high as first flight out of Middle East lands in Sydney",
+      "link": "https://www.abc.net.au/news/2026-03-05/dubai-sydney-flight-touches-down-middle-east-war/106416684",
+      "mean_score": 0.3543,
+      "vader_score": 0.5719,
+      "textblob_score": 0.1367,
+      "first_sentence": "About 200 Australians have landed safely in Sydney after flying out of Dubai following the outbreak of America and Israel's war with Iran.",
+      "timestamp": "2026-03-04T13:03:15Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Why supporting a shelter for women is now 'kind of radioactive'",
       "link": "https://www.npr.org/2026/03/04/g-s1-111527/abuse-partner-shelters-aid-cuts",
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.8,
       "first_sentence": "Annual energy bills will fall by \u00a3117 for millions of households from April after Rachel Reeves\u2019s plan to cut \u00a3150 a year from bills was partly foiled by rising costs.",
       "timestamp": "2026-02-25T07:00:37Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Opposition to expand Melbourne CBD in bid to boost home ownership",
-      "link": "https://www.abc.net.au/news/2026-02-25/victorian-opposition-unveils-home-ownership-housing-plan/106387550",
-      "mean_score": 0.3062,
-      "vader_score": 0.6124,
-      "textblob_score": 0.0,
-      "first_sentence": "The state opposition has vowed to expand residential living in Melbourne's CBD and disrupt plans for higher-density housing in the city's middle-ring suburbs if the party wins November's state election.",
-      "timestamp": "2026-02-25T06:12:55Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Angus Taylor says federal Liberals must 'do better' amid SA campaign",
-      "link": "https://www.abc.net.au/news/2026-02-25/angus-taylor-in-adelaide-ahead-of-state-election/106386578",
-      "mean_score": 0.4702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.5,
-      "first_sentence": "Opposition leader Angus Taylor says the federal Liberals need to \"restore Australia's confidence\" in the party.",
-      "timestamp": "2026-02-25T05:33:32Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "From the Pocket: Charlie Curnow was let off too easily for jumping ship",
-      "link": "https://www.theguardian.com/sport/2026/feb/25/charlie-curnow-carlton-swans-from-the-pocket-afl-newsletter",
-      "mean_score": 0.3867,
-      "vader_score": 0.34,
-      "textblob_score": 0.4333,
-      "first_sentence": "Want to get this in your inbox every Wednesday afternoon? Sign up for the AFL newsletter here.",
-      "timestamp": "2026-02-25T03:45:57Z",
       "source": "The Guardian"
     }
   ]
