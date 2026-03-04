@@ -1,5 +1,25 @@
 [
   {
+    "headline": "\u2018What\u2019s up with all these monkeys\u2019: Djungelskog the orangutan comforted Punch \u2013 but can the Ikea toy help me?",
+    "link": "https://www.theguardian.com/world/2026/feb/24/punch-monkey-djungelskog-ikea-toy",
+    "mean_score": 0.3326,
+    "vader_score": 0.6652,
+    "textblob_score": 0.0,
+    "first_sentence": "Standing in line at Ikea\u2019s click and collect service to pick up a large plush orangutan, a wave of fatigue washes over me.",
+    "timestamp": "2026-02-24T03:18:34Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Sunshine Coast live-music venue Solbar to shut down after more than 20 years",
+    "link": "https://www.abc.net.au/news/2026-02-24/sunshine-coast-solbar-closing-maroochydore/106379262",
+    "mean_score": 0.3331,
+    "vader_score": 0.4939,
+    "textblob_score": 0.1722,
+    "first_sentence": "The Sunshine Coast's longest-running live music venue Solbar has announced it will permanently close after this weekend.",
+    "timestamp": "2026-02-23T22:53:54Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Pentagon buyer: We're happy with our launch industry, but payloads are lagging",
     "link": "https://arstechnica.com/space/2026/02/pentagon-buyer-were-happy-with-our-launch-industry-but-payloads-are-lagging/",
     "mean_score": 0.3614,
