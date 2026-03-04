@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-04T11:14:44Z",
+  "last run": "2026-03-04T12:19:46Z",
   "stories": [
+    {
+      "headline": "\u2018I owe Iron Maiden my English A-level!\u2019 The great literature our writers discovered through pop music",
+      "link": "https://www.theguardian.com/music/2026/mar/04/world-book-day-iron-maiden-english-literature-pop-music",
+      "mean_score": 0.5294,
+      "vader_score": 0.6588,
+      "textblob_score": 0.4,
+      "first_sentence": "Ahead of World Book Day on Thursday, Guardian music writers pick out the musicians whose literary references illuminated them \u2013 from Adam Ant on Joe Orton to the National on Grace PaleyI first heard the Cure\u2019s Charlotte Sometimes as a teenager, and it was like waking up from a dream.",
+      "timestamp": "2026-03-04T11:54:38Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Talarico wins Texas Democratic primary as Republicans face runoff \u2013 US politics live",
+      "link": "https://www.theguardian.com/us-news/live/2026/mar/04/donald-trump-pete-hegseth-iran-james-talarico-primaries-midterms-immigration-minnesota-latest-news-updates",
+      "mean_score": 0.4253,
+      "vader_score": 0.5719,
+      "textblob_score": 0.2788,
+      "first_sentence": "As the war in the Middle East rages on half a world away, the midterm primary season kicked off with James Talarico winning the Democratic nomination for a US Senate seat in Texas \u2013 and a Republican runoff.",
+      "timestamp": "2026-03-04T11:51:40Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "The great shared bed debate is here \u2013 and you have to pick a side | Polly Hudson",
       "link": "https://www.theguardian.com/commentisfree/2026/mar/04/shared-bed-debate-pick-a-side",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.15,
       "first_sentence": "Woolworths has reported a significant 16.4% rise in profit, helped by expanding its margins in its key supermarket business.",
       "timestamp": "2026-02-25T00:45:45Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "NHS secures bone cement rescue package so joint surgery can resume",
-      "link": "https://www.bbc.com/news/articles/cnv670d128go?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3404,
-      "vader_score": 0.6808,
-      "textblob_score": 0.0,
-      "first_sentence": "The NHS says it has secured a rescue package of alternative medical cement to allow joint surgery to continue.",
-      "timestamp": "2026-02-25T00:08:16Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Citizen scientists discover a Great Barrier Reef coral giant \u2018like a rolling meadow\u2019",
-      "link": "https://www.theguardian.com/environment/2026/feb/24/citizen-scientists-discover-great-barrier-reef-coral-giant-census",
-      "mean_score": 0.4787,
-      "vader_score": 0.5574,
-      "textblob_score": 0.4,
-      "first_sentence": "Citizen scientists have discovered what they believe is one of the largest coral colonies ever documented on the Great Barrier Reef.",
-      "timestamp": "2026-02-24T22:00:52Z",
       "source": "The Guardian"
     }
   ]
