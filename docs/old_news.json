@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Woolworths shares surge as food sales and profit beat expectations",
+    "link": "https://www.abc.net.au/news/2026-02-25/woolworths-shares-surge-as-food-sales-and-profit-beat/106385714",
+    "mean_score": 0.3125,
+    "vader_score": 0.6249,
+    "textblob_score": 0.0,
+    "first_sentence": "Woolworths has reported a 16 per cent rise in net profit in the first half of the financial year, excluding a $485 million hit for repaying underpaid staff.",
+    "timestamp": "2026-02-25T01:42:24Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Pharmacists say better access needed to home medicines program",
+    "link": "https://www.abc.net.au/news/health/2026-02-25/home-medicine-review-pharmacy-patient/106380108",
+    "mean_score": 0.4702,
+    "vader_score": 0.4404,
+    "textblob_score": 0.5,
+    "first_sentence": "Pharmacists are calling for a budget increase and removal of caps for a home medicine review program, which they say keeps people out of hospital and may even extend lives.",
+    "timestamp": "2026-02-25T01:02:37Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Woolworths reports 16% jump in profits as ACCC prepares legal action over \u2018illusory\u2019 discounts",
+    "link": "https://www.theguardian.com/australia-news/2026/feb/25/woolworths-reports-16-jump-in-profits-as-accc-prepares-legal-action-over-illusory-discounts",
+    "mean_score": 0.3383,
+    "vader_score": 0.5267,
+    "textblob_score": 0.15,
+    "first_sentence": "Woolworths has reported a significant 16.4% rise in profit, helped by expanding its margins in its key supermarket business.",
+    "timestamp": "2026-02-25T00:45:45Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "NHS secures bone cement rescue package so joint surgery can resume",
     "link": "https://www.bbc.com/news/articles/cnv670d128go?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.3404,

@@ -1,6 +1,36 @@
 {
-  "last run": "2026-03-04T12:19:46Z",
+  "last run": "2026-03-04T13:29:49Z",
   "stories": [
+    {
+      "headline": "Why supporting a shelter for women is now 'kind of radioactive'",
+      "link": "https://www.npr.org/2026/03/04/g-s1-111527/abuse-partner-shelters-aid-cuts",
+      "mean_score": 0.4327,
+      "vader_score": 0.4404,
+      "textblob_score": 0.425,
+      "first_sentence": "There's one voice Lisseth can't get out of her head \u2014 the pleas of a 22-year-old woman.",
+      "timestamp": "2026-03-04T12:51:20Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "Nvidia and UK Wealth Fund invest in British autonomous driving startup Oxa",
+      "link": "https://www.theguardian.com/technology/2026/mar/04/nvidia-uk-wealth-fund-invest-british-autonomous-driving-startup-oxa",
+      "mean_score": 0.3469,
+      "vader_score": 0.4939,
+      "textblob_score": 0.2,
+      "first_sentence": "Nvidia is investing in the British autonomous driving startup Oxa, alongside backing from the UK\u2019s National Wealth Fund, in a boost to the country\u2019s technology sector.",
+      "timestamp": "2026-03-04T12:37:26Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "David and Victoria Beckham wish Brooklyn happy birthday despite feud",
+      "link": "https://www.bbc.com/news/articles/c7433z177ngo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.8072,
+      "vader_score": 0.8144,
+      "textblob_score": 0.8,
+      "first_sentence": "Sir David and Lady Beckham have wished son Brooklyn a happy birthday on Instagram, two months after the 27-year-old exposed a rift in the family.",
+      "timestamp": "2026-03-04T12:22:08Z",
+      "source": "BBC News"
+    },
     {
       "headline": "\u2018I owe Iron Maiden my English A-level!\u2019 The great literature our writers discovered through pop music",
       "link": "https://www.theguardian.com/music/2026/mar/04/world-book-day-iron-maiden-english-literature-pop-music",
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.4333,
       "first_sentence": "Want to get this in your inbox every Wednesday afternoon? Sign up for the AFL newsletter here.",
       "timestamp": "2026-02-25T03:45:57Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Woolworths shares surge as food sales and profit beat expectations",
-      "link": "https://www.abc.net.au/news/2026-02-25/woolworths-shares-surge-as-food-sales-and-profit-beat/106385714",
-      "mean_score": 0.3125,
-      "vader_score": 0.6249,
-      "textblob_score": 0.0,
-      "first_sentence": "Woolworths has reported a 16 per cent rise in net profit in the first half of the financial year, excluding a $485 million hit for repaying underpaid staff.",
-      "timestamp": "2026-02-25T01:42:24Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Pharmacists say better access needed to home medicines program",
-      "link": "https://www.abc.net.au/news/health/2026-02-25/home-medicine-review-pharmacy-patient/106380108",
-      "mean_score": 0.4702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.5,
-      "first_sentence": "Pharmacists are calling for a budget increase and removal of caps for a home medicine review program, which they say keeps people out of hospital and may even extend lives.",
-      "timestamp": "2026-02-25T01:02:37Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Woolworths reports 16% jump in profits as ACCC prepares legal action over \u2018illusory\u2019 discounts",
-      "link": "https://www.theguardian.com/australia-news/2026/feb/25/woolworths-reports-16-jump-in-profits-as-accc-prepares-legal-action-over-illusory-discounts",
-      "mean_score": 0.3383,
-      "vader_score": 0.5267,
-      "textblob_score": 0.15,
-      "first_sentence": "Woolworths has reported a significant 16.4% rise in profit, helped by expanding its margins in its key supermarket business.",
-      "timestamp": "2026-02-25T00:45:45Z",
       "source": "The Guardian"
     }
   ]
