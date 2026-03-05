@@ -1,6 +1,46 @@
 {
-  "last run": "2026-03-05T19:32:22Z",
+  "last run": "2026-03-05T20:17:21Z",
   "stories": [
+    {
+      "headline": "The Matildas embody Aussie pub rock spirit against Iran, and they're playing to win",
+      "link": "https://www.abc.net.au/news/2026-03-06/matildas-iran-womens-asian-cup-analysis-playing-to-win/106409680",
+      "mean_score": 0.7715,
+      "vader_score": 0.743,
+      "textblob_score": 0.8,
+      "first_sentence": "The Joe Montemurro incarnation of the Matildas feels like a throwback to classic Australian rock.",
+      "timestamp": "2026-03-05T19:56:56Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "How the internet reacted to the Matildas' 4-0 win over Iran",
+      "link": "https://www.abc.net.au/news/2026-03-06/how-the-internet-reacted-to-the-matildas-v-iran/106420356",
+      "mean_score": 0.6929,
+      "vader_score": 0.5859,
+      "textblob_score": 0.8,
+      "first_sentence": "The Matildas were looking for a few more goals in their second AFC Women's Asian Cup Australia 2026 game and certainly found them, beating Iran 4-0 in Robina.",
+      "timestamp": "2026-03-05T19:55:32Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Inside Iran, some citizens are already preparing for 'freedom day'",
+      "link": "https://www.abc.net.au/news/2026-03-06/iranians-signal-mixed-feelings-about-war-us-israel-intervention/106416804",
+      "mean_score": 0.3185,
+      "vader_score": 0.6369,
+      "textblob_score": 0.0,
+      "first_sentence": "Many Iranians are already celebrating and preparing for \"freedom day\" after Supreme leader Ali Khamenei was killed in strikes on Saturday.",
+      "timestamp": "2026-03-05T19:54:06Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Starmer is facing a cocktail of dissent that is growing ever more potent",
+      "link": "https://www.theguardian.com/politics/2026/mar/05/starmer-dissent-labour-may-elections",
+      "mean_score": 0.3389,
+      "vader_score": 0.1779,
+      "textblob_score": 0.5,
+      "first_sentence": "But for the Iran crisis, Labour\u2019s first major policy announcement since the party\u2019s calamitous defeat in the Gorton and Denton byelection would have been arguably the biggest political story of the week.",
+      "timestamp": "2026-03-05T19:41:12Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "It is\u00a0a popular beauty routine. But does it put workers at risk?",
       "link": "https://www.abc.net.au/news/2026-03-06/nail-salon-workers-voice-concern-over-chemical-exposure/106144444",
@@ -2460,46 +2500,6 @@
       "first_sentence": "Taking daily collagen supplements can rejuvenate the skin by boosting elasticity and hydration or moisture - but it won't stop wrinkles, says a new scientific review.",
       "timestamp": "2026-02-27T00:00:11Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "The Boys' Love at the heart of Heated Rivalry is a familiar tale in Asia",
-      "link": "https://www.bbc.com/news/articles/c78x973y5zvo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.6465,
-      "vader_score": 0.8555,
-      "textblob_score": 0.4375,
-      "first_sentence": "Charged glances catch across a crowded room.",
-      "timestamp": "2026-02-26T23:57:56Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Anthropic says it \u2018cannot in good conscience\u2019 allow Pentagon to remove AI checks",
-      "link": "https://www.theguardian.com/us-news/2026/feb/26/anthropic-pentagon-claude",
-      "mean_score": 0.6429,
-      "vader_score": 0.5859,
-      "textblob_score": 0.7,
-      "first_sentence": "Anthropic said Thursday it \u201ccannot in good conscience\u201d comply with a demand from the Pentagon to remove safety precautions from its artificial intelligence model and grant the US military unfettered access to its AI capabilities.",
-      "timestamp": "2026-02-26T23:28:14Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Anthropic CEO says AI company \u2018cannot in good conscience accede\u2019 to Pentagon\u2019s demands",
-      "link": "https://apnews.com/article/anthropic-ai-pentagon-hegseth-dario-amodei-9b28dda41bdb52b6a378fa9fc80b8fda",
-      "mean_score": 0.5702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.7,
-      "first_sentence": "WASHINGTON (AP) \u2014 Anthropic CEO Dario Amodei said Thursday the artificial intelligence company \u201ccannot in good conscience accede\u201d to the Pentagon\u2019s demands to allow wider use of its technology.",
-      "timestamp": "2026-02-26T22:53:02Z",
-      "source": "AP News"
-    },
-    {
-      "headline": "More children in residential care in Qld than other states, inquiry told",
-      "link": "https://www.abc.net.au/news/2026-02-27/qld-child-safety-commission-inquiry-wraps-in-toowoomba/106393512",
-      "mean_score": 0.3407,
-      "vader_score": 0.4939,
-      "textblob_score": 0.1875,
-      "first_sentence": "Since July 2025, Queensland's Commission of Inquiry into Child Safety has examined how to improve the state's care model.",
-      "timestamp": "2026-02-26T22:33:46Z",
-      "source": "ABC News"
     }
   ]
 }
