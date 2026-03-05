@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-05T18:43:32Z",
+  "last run": "2026-03-05T19:32:22Z",
   "stories": [
+    {
+      "headline": "It is\u00a0a popular beauty routine. But does it put workers at risk?",
+      "link": "https://www.abc.net.au/news/2026-03-06/nail-salon-workers-voice-concern-over-chemical-exposure/106144444",
+      "mean_score": 0.3827,
+      "vader_score": 0.1655,
+      "textblob_score": 0.6,
+      "first_sentence": "Duyen wore surgical masks, sometimes two at a time, to try and protect herself from chemical vapours and filing dust when she worked at a nail salon.",
+      "timestamp": "2026-03-05T18:44:38Z",
+      "source": "ABC News"
+    },
     {
       "headline": "They were led off course in a big race. But a fix is more complicated than prize money",
       "link": "https://www.npr.org/2026/03/05/nx-s1-5735682/atlanta-half-marathon-world-championship-mcclain-born-hurley-kurgat",
@@ -20,6 +30,26 @@
       "first_sentence": "Gen Z men are more likely than their Baby Boomer counterparts to believe wives should \"obey\" their husbands, a global study by Ipsos and King's College London suggests.",
       "timestamp": "2026-03-05T18:00:15Z",
       "source": "BBC News"
+    },
+    {
+      "headline": "India hold off brave England and brilliant Bethell to reach T20 World Cup final",
+      "link": "https://www.theguardian.com/sport/2026/mar/05/india-hold-off-brave-england-and-briliant-bethell-to-reach-t20-world-cup-final",
+      "mean_score": 0.687,
+      "vader_score": 0.8074,
+      "textblob_score": 0.5667,
+      "first_sentence": "England, India and the Wankhede Stadium ground staff conjured a ludicrous, blockbuster semi-final, but for the English in the end it was a bust, a night when records fell and they eventually went with them.",
+      "timestamp": "2026-03-05T17:57:53Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Why are Democrats surrendering the issue of healthy food? | Tim Ryan and Justin Talbot Zorn",
+      "link": "https://www.theguardian.com/commentisfree/2026/mar/05/democrats-rfk-jr-maha-healthy-food",
+      "mean_score": 0.4509,
+      "vader_score": 0.4019,
+      "textblob_score": 0.5,
+      "first_sentence": "On 25 February, in her opening remarks at her Senate confirmation hearing, Casey Means, Donald Trump\u2019s nominee for surgeon general, called on the US government to address key drivers of chronic disease, including \u201cultraprocessed foods, industrial chemical exposure\u201d and other factors.",
+      "timestamp": "2026-03-05T17:00:02Z",
+      "source": "The Guardian"
     },
     {
       "headline": "Doubles and triples are dwindling in MLB. Blame better outfielders and sluggers",
@@ -2470,36 +2500,6 @@
       "first_sentence": "Since July 2025, Queensland's Commission of Inquiry into Child Safety has examined how to improve the state's care model.",
       "timestamp": "2026-02-26T22:33:46Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "US and Iran make 'significant progress' in nuclear talks, mediator says",
-      "link": "https://www.abc.net.au/news/2026-02-27/us-and-iran-make-significant-progress-in-talks-mediator-says/106394614",
-      "mean_score": 0.4662,
-      "vader_score": 0.5574,
-      "textblob_score": 0.375,
-      "first_sentence": "The US and Iran have made \"significant progress\" during talks on Tehran's nuclear program in Switzerland, according to mediator Oman.",
-      "timestamp": "2026-02-26T20:26:10Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "New image reveals secrets of Milky Way galaxy in stunning detail",
-      "link": "https://www.theguardian.com/science/2026/feb/26/new-image-milky-way-galaxy",
-      "mean_score": 0.35,
-      "vader_score": 0.3818,
-      "textblob_score": 0.3182,
-      "first_sentence": "Scientists have captured a beautiful image in unprecedented detail of the vast Milky Way galaxy, of which our own solar system is a part.",
-      "timestamp": "2026-02-26T20:01:40Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Playwrights\u2019 \u2018thrilling\u2019 debuts share the Susan Smith Blackburn prize",
-      "link": "https://www.theguardian.com/stage/2026/feb/26/susan-smith-blackburn-prize-hannah-doran-ro-reddick",
-      "mean_score": 0.4602,
-      "vader_score": 0.6705,
-      "textblob_score": 0.25,
-      "first_sentence": "The Susan Smith Blackburn prize for female, transgender and non-binary playwrights has been awarded to joint winners, both for their debut plays.",
-      "timestamp": "2026-02-26T19:45:20Z",
-      "source": "The Guardian"
     }
   ]
 }
