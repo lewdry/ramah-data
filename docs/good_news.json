@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-05T01:40:08Z",
+  "last run": "2026-03-05T03:05:40Z",
   "stories": [
+    {
+      "headline": "Nepal votes in election pitting entrenched old guard against a powerful youth movement",
+      "link": "https://www.theguardian.com/world/2026/mar/05/nepal-election-2026-voting-balen-shah-sharma-oli",
+      "mean_score": 0.3107,
+      "vader_score": 0.4215,
+      "textblob_score": 0.2,
+      "first_sentence": "Nearly six months after a wave of unprecedented youth-led protests forced Nepal\u2019s then prime minister to quit, people have began voting in a general election that is shaping up as a high-stakes showdown between the entrenched old guard and a powerful youth movement.",
+      "timestamp": "2026-03-05T02:05:09Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "\u2018A win for democracy\u2019: Labor abandons freedom of information law changes that would have reduced transparency",
       "link": "https://www.theguardian.com/australia-news/2026/mar/05/a-win-for-democracy-labor-abandons-freedom-of-information-law-changes-that-would-have-reduced-transparency",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.1667,
       "first_sentence": "In 2026, ABC Classic marks 10 years of celebrating music by women, with their annual Festival of Female Composers.",
       "timestamp": "2026-02-25T21:00:00Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Live: ASX poised for fresh record as Wall Street powers higher",
-      "link": "https://www.abc.net.au/news/2026-02-26/asx-markets-business-news-live-updates/106389370",
-      "mean_score": 0.3697,
-      "vader_score": 0.5106,
-      "textblob_score": 0.2288,
-      "first_sentence": "Wall Street is extending its tech-led rally ahead of Nvidia results that are due to be released after the US market closes.",
-      "timestamp": "2026-02-25T20:21:26Z",
       "source": "ABC News"
     }
   ]
