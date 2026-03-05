@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-05T17:47:15Z",
+  "last run": "2026-03-05T18:43:32Z",
   "stories": [
+    {
+      "headline": "They were led off course in a big race. But a fix is more complicated than prize money",
+      "link": "https://www.npr.org/2026/03/05/nx-s1-5735682/atlanta-half-marathon-world-championship-mcclain-born-hurley-kurgat",
+      "mean_score": 0.3523,
+      "vader_score": 0.7046,
+      "textblob_score": 0.0,
+      "first_sentence": "A big road race with national team implications usually ends in jubilation and relief.",
+      "timestamp": "2026-03-05T18:04:48Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "Social media plays 'huge role' in promoting traditional gender views, say experts",
+      "link": "https://www.bbc.com/news/articles/c4g55v1g95qo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4224,
+      "vader_score": 0.7003,
+      "textblob_score": 0.1444,
+      "first_sentence": "Gen Z men are more likely than their Baby Boomer counterparts to believe wives should \"obey\" their husbands, a global study by Ipsos and King's College London suggests.",
+      "timestamp": "2026-03-05T18:00:15Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Doubles and triples are dwindling in MLB. Blame better outfielders and sluggers",
       "link": "https://apnews.com/article/mlb-doubles-triples-arenado-2eaee79e3c7a1a3772bbaba5a2bf0e71",
@@ -2480,26 +2500,6 @@
       "first_sentence": "The Susan Smith Blackburn prize for female, transgender and non-binary playwrights has been awarded to joint winners, both for their debut plays.",
       "timestamp": "2026-02-26T19:45:20Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "US-Iran talks end after 'significant progress', mediator says",
-      "link": "https://www.bbc.com/news/articles/cvg1vd95nl9o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4662,
-      "vader_score": 0.5574,
-      "textblob_score": 0.375,
-      "first_sentence": "High-stakes nuclear talks between the US and Iran have ended in Geneva after \"significant progress\", the Omani foreign minister says, though the chances of a deal that could avert a war remain unclear.",
-      "timestamp": "2026-02-26T19:20:12Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "EU states told to use existing fund for safe abortions after citizens' petition",
-      "link": "https://www.bbc.com/news/articles/cvgv92p6qzqo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.5,
-      "first_sentence": "The European Commission has told member states they can use existing EU funding to pay for safe abortions, after a citizens' initiative attracted 1.1 million signatures to help women without access to safe and legal terminations.",
-      "timestamp": "2026-02-26T19:07:30Z",
-      "source": "BBC News"
     }
   ]
 }
