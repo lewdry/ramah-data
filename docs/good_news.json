@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-05T06:24:50Z",
+  "last run": "2026-03-05T07:23:25Z",
   "stories": [
+    {
+      "headline": "Tales of the Suburbs by John Grindrod review \u2013 an entertaining alternative history of queer Britain",
+      "link": "https://www.theguardian.com/books/2026/mar/05/tales-of-the-suburbs-by-john-grindrod-review-an-entertaining-alternative-history-of-queer-britain",
+      "mean_score": 0.4702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.5,
+      "first_sentence": "Generations of readers have loved Armistead Maupin\u2019s Tales of the City novels.",
+      "timestamp": "2026-03-05T07:00:54Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Wildlife trust's centenary 'free weekend in nature'",
+      "link": "https://www.bbc.com/news/articles/c4g22d9n5llo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4553,
+      "vader_score": 0.5106,
+      "textblob_score": 0.4,
+      "first_sentence": "The UK's oldest wildlife trust is opening its sites for free for three days as part of its centenary celebrations.",
+      "timestamp": "2026-03-05T06:24:31Z",
+      "source": "BBC News"
+    },
     {
       "headline": "A Europe of clean, green cities and resurgent industry is a fantasy \u2013 unless we get really creative | Hans Larsson",
       "link": "https://www.theguardian.com/commentisfree/2026/mar/05/europe-clean-green-cities-resurgent-industry-fantasy-creative",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.5,
       "first_sentence": "Just outside the perimeter fence stand the hulking remains of grand stone engine houses, a testament to Cornwall\u2019s proud tin and copper mining history.",
       "timestamp": "2026-02-26T06:00:19Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Aussies focused on repeating 'perfect performance' against India",
-      "link": "https://www.abc.net.au/news/2026-02-26/cricket-odi-australia-india-odi-hobart-ash-gardner/106392878",
-      "mean_score": 0.8715,
-      "vader_score": 0.743,
-      "textblob_score": 1.0,
-      "first_sentence": "Ash Gardner says the Australians focused on their own game during the series-opening win over India.",
-      "timestamp": "2026-02-26T05:41:00Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Anthony Albanese take note: Human rights apply to all Australians \u2013 not just those deemed to be worthy | Daniela Gavshon",
-      "link": "https://www.theguardian.com/commentisfree/2026/feb/26/human-rights-australians-syria-women-children",
-      "mean_score": 0.3035,
-      "vader_score": 0.4404,
-      "textblob_score": 0.1667,
-      "first_sentence": "Human rights are not applicable only to some people.",
-      "timestamp": "2026-02-26T03:34:30Z",
       "source": "The Guardian"
     }
   ]

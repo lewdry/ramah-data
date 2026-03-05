@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Aussies focused on repeating 'perfect performance' against India",
+    "link": "https://www.abc.net.au/news/2026-02-26/cricket-odi-australia-india-odi-hobart-ash-gardner/106392878",
+    "mean_score": 0.8715,
+    "vader_score": 0.743,
+    "textblob_score": 1.0,
+    "first_sentence": "Ash Gardner says the Australians focused on their own game during the series-opening win over India.",
+    "timestamp": "2026-02-26T05:41:00Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Anthony Albanese take note: Human rights apply to all Australians \u2013 not just those deemed to be worthy | Daniela Gavshon",
+    "link": "https://www.theguardian.com/commentisfree/2026/feb/26/human-rights-australians-syria-women-children",
+    "mean_score": 0.3035,
+    "vader_score": 0.4404,
+    "textblob_score": 0.1667,
+    "first_sentence": "Human rights are not applicable only to some people.",
+    "timestamp": "2026-02-26T03:34:30Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Qantas shares fall more than 6 per cent after first-half profit announced",
     "link": "https://www.abc.net.au/news/2026-02-26/qantas-first-half-profit-2026-shares-decline/106390004",
     "mean_score": 0.5625,
