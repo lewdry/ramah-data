@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Hopes 'extremely rare' fossil will unlock answers about evolution of whales",
+    "link": "https://www.abc.net.au/news/2026-02-26/21-million-year-old-whale-fossil-extracted-from-ocean-grove/106392450",
+    "mean_score": 0.3608,
+    "vader_score": 0.4215,
+    "textblob_score": 0.3,
+    "first_sentence": "A 21-million-year-old fossil has been safely removed from the beach at Ocean Grove, east of Geelong, in what has been described as one of the largest and most complicated excavations in Victorian history.",
+    "timestamp": "2026-02-26T08:33:31Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Britain and the US, calm down. The gen Z Chinamaxxers will do you no harm | Coco Khan",
+    "link": "https://www.theguardian.com/commentisfree/2026/feb/26/tiktok-gen-z-chinamaxxers-culture-china",
+    "mean_score": 0.3516,
+    "vader_score": 0.631,
+    "textblob_score": 0.0722,
+    "first_sentence": "As it\u2019s Chinese lunar new year, it would not be surprising if you\u2019ve found yourself scrolling through some China-inspired content.",
+    "timestamp": "2026-02-26T08:00:23Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "\u2018The most important part is the vibe\u2019: Bate Bay named Australia\u2019s best beach",
+    "link": "https://www.theguardian.com/australia-news/2026/feb/26/bate-bay-best-australian-beach-2026",
+    "mean_score": 0.6879,
+    "vader_score": 0.7425,
+    "textblob_score": 0.6333,
+    "first_sentence": "The Sutherland shire\u2019s Bate Bay has been named best Australian beach for 2026.",
+    "timestamp": "2026-02-26T07:10:50Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Labour must search its conscience if Reform wins Gorton and Denton, says Green leader",
+    "link": "https://www.theguardian.com/politics/2026/feb/26/labour-must-search-its-conscience-if-reform-wins-gorton-and-denton-says-green-leader",
+    "mean_score": 0.3109,
+    "vader_score": 0.5719,
+    "textblob_score": 0.05,
+    "first_sentence": "The polls have opened in the three-way battle for Gorton and Denton in south-east Manchester in one of the most unpredictable byelections in years.",
+    "timestamp": "2026-02-26T07:00:22Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "'Luke Littler effect' inspiring young people to step up to the oche",
     "link": "https://www.bbc.com/news/articles/cd03v09pppro?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.3608,
