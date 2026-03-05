@@ -1,5 +1,5 @@
 {
-  "last run": "2026-03-05T21:15:16Z",
+  "last run": "2026-03-05T22:12:34Z",
   "stories": [
     {
       "headline": "The Matildas embody Aussie pub rock spirit against Iran, and they're playing to win",
@@ -229,6 +229,16 @@
       "textblob_score": 0.1364,
       "first_sentence": "Meanwhile, Italian defence minister Guido Crosetto signalled that Italy, Spain, France and the Netherlands will send naval assets to protect Cyprus in the coming days.",
       "timestamp": "2026-03-05T11:06:47Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Why are today\u2019s children\u2019s books and films often so much better than adult ones? | Catherine Shoard",
+      "link": "https://www.theguardian.com/commentisfree/2026/mar/05/childrens-books-films-better-than-adult",
+      "mean_score": 0.3951,
+      "vader_score": 0.4902,
+      "textblob_score": 0.3,
+      "first_sentence": "World Book Day dawns once more, with its morning chorus of swearing and sticky tape.",
+      "timestamp": "2026-03-05T11:00:03Z",
       "source": "The Guardian"
     },
     {
@@ -2490,16 +2500,6 @@
       "first_sentence": "Bate Bay beaches in Sydney's Sutherland Shire have taken out the top spot in Tourism Australia's annual best beaches list.",
       "timestamp": "2026-02-27T00:00:14Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Taking collagen keeps skin more elastic but won't stop wrinkles, say scientists",
-      "link": "https://www.bbc.com/news/articles/cge82vq9x9ro?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4126,
-      "vader_score": 0.3252,
-      "textblob_score": 0.5,
-      "first_sentence": "Taking daily collagen supplements can rejuvenate the skin by boosting elasticity and hydration or moisture - but it won't stop wrinkles, says a new scientific review.",
-      "timestamp": "2026-02-27T00:00:11Z",
-      "source": "BBC News"
     }
   ]
 }
