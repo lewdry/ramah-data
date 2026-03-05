@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-05T13:33:12Z",
+  "last run": "2026-03-05T14:23:10Z",
   "stories": [
+    {
+      "headline": "Department of the Vanishing by Johanna Bell review \u2013 brilliantly, terrifyingly plausible",
+      "link": "https://www.theguardian.com/books/2026/mar/06/department-of-the-vanishing-by-johanna-bell-book-review",
+      "mean_score": 0.5562,
+      "vader_score": 0.6124,
+      "textblob_score": 0.5,
+      "first_sentence": "Superb lyrebirds (Menura novaehollandiae) are nature\u2019s archivists.",
+      "timestamp": "2026-03-05T14:00:06Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Lewis Hamilton sets sights on racing in an African grand prix before retiring",
+      "link": "https://www.theguardian.com/sport/2026/mar/05/lewis-hamilton-race-africa-grand-prix-retiring-formula-one-colonial",
+      "mean_score": 0.3544,
+      "vader_score": 0.4588,
+      "textblob_score": 0.25,
+      "first_sentence": "Lewis Hamilton has called for a movement to \u201ctake Africa back\u201d, claiming the continent is being \u201ccontrolled\u201d by European powers.",
+      "timestamp": "2026-03-05T13:37:15Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Pok\u00e9mon Pokopia review \u2013 collectible creatures create their own perfect world",
       "link": "https://www.theguardian.com/games/2026/mar/05/pokemon-pokopia-review-collectible-creatures-create-their-own-perfect-world",
@@ -2480,26 +2500,6 @@
       "first_sentence": "The Prince and Princess of Wales have visited Powys to celebrate community ahead of St David's Day on Sunday.",
       "timestamp": "2026-02-26T17:58:21Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Has Corbyn won the Your Party power battle? - The Latest",
-      "link": "https://www.theguardian.com/news/audio/2026/feb/26/corbyn-v-sultana-in-your-party-power-battle-the-latest",
-      "mean_score": 0.543,
-      "vader_score": 0.5859,
-      "textblob_score": 0.5,
-      "first_sentence": "Jeremy Corbyn\u2019s allies declared victory after he was voted to be Your Party\u2019s parliamentary leader in an election in which his rival Zarah Sultana was also voted on to the party\u2019s leadership committee.",
-      "timestamp": "2026-02-26T17:11:06Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Flamm arts festival aims to spark interest in unsung Cornish town of Bodmin",
-      "link": "https://www.theguardian.com/uk-news/2026/feb/26/flamm-arts-festival-spark-interest-unsung-cornish-town-bodmin",
-      "mean_score": 0.3982,
-      "vader_score": 0.7964,
-      "textblob_score": 0.0,
-      "first_sentence": "Art lovers usually bypass the Cornish town of Bodmin as they head to the more obvious delights of seaside galleries in places such as St Ives and Newlyn.",
-      "timestamp": "2026-02-26T15:00:09Z",
-      "source": "The Guardian"
     }
   ]
 }
