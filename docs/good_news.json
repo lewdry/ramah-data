@@ -1,5 +1,5 @@
 {
-  "last run": "2026-03-05T15:23:31Z",
+  "last run": "2026-03-05T16:24:13Z",
   "stories": [
     {
       "headline": "Doubles and triples are dwindling in MLB. Blame better outfielders and sluggers",
@@ -70,6 +70,16 @@
       "first_sentence": "Lewis Hamilton has called for a movement to \u201ctake Africa back\u201d, claiming the continent is being \u201ccontrolled\u201d by European powers.",
       "timestamp": "2026-03-05T13:37:15Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "macOS Tahoe 26.3.1 update will \"upgrade\" your M5's CPU to new \"super\" cores",
+      "link": "https://arstechnica.com/gadgets/2026/03/macos-tahoe-26-3-1-update-will-upgrade-your-m5s-cpu-to-new-super-cores/",
+      "mean_score": 0.4171,
+      "vader_score": 0.5994,
+      "textblob_score": 0.2348,
+      "first_sentence": "In otherwise minor software update, macOS now uses M5\u2019s new nomenclature.",
+      "timestamp": "2026-03-05T13:28:43Z",
+      "source": "Ars Technica"
     },
     {
       "headline": "Pok\u00e9mon Pokopia review \u2013 collectible creatures create their own perfect world",
@@ -2490,16 +2500,6 @@
       "first_sentence": "The European Commission has told member states they can use existing EU funding to pay for safe abortions, after a citizens' initiative attracted 1.1 million signatures to help women without access to safe and legal terminations.",
       "timestamp": "2026-02-26T19:07:30Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Proactive and expressive: Matildas' master plan for Asian Cup glory",
-      "link": "https://www.abc.net.au/news/2026-02-27/proactive-matildas-2026-womens-asian-cup-sam-kerr-mary-fowler/106388102",
-      "mean_score": 0.5715,
-      "vader_score": 0.743,
-      "textblob_score": 0.4,
-      "first_sentence": "The 2026 Women's Asian Cup looms as a moment of great importance for football in Australia.",
-      "timestamp": "2026-02-26T18:46:20Z",
-      "source": "ABC News"
     }
   ]
 }

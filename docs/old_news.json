@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Proactive and expressive: Matildas' master plan for Asian Cup glory",
+    "link": "https://www.abc.net.au/news/2026-02-27/proactive-matildas-2026-womens-asian-cup-sam-kerr-mary-fowler/106388102",
+    "mean_score": 0.5715,
+    "vader_score": 0.743,
+    "textblob_score": 0.4,
+    "first_sentence": "The 2026 Women's Asian Cup looms as a moment of great importance for football in Australia.",
+    "timestamp": "2026-02-26T18:46:20Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Ocado failing to deliver on its potential as one of UK\u2019s great technology hopes",
     "link": "https://www.theguardian.com/business/2026/feb/26/ocado-failing-deliver-potential-uk-technology-hopes",
     "mean_score": 0.4787,
