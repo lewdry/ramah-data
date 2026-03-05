@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-05T04:39:31Z",
+  "last run": "2026-03-05T05:26:30Z",
   "stories": [
+    {
+      "headline": "A Europe of clean, green cities and resurgent industry is a fantasy \u2013 unless we get really creative | Hans Larsson",
+      "link": "https://www.theguardian.com/commentisfree/2026/mar/05/europe-clean-green-cities-resurgent-industry-fantasy-creative",
+      "mean_score": 0.4656,
+      "vader_score": 0.7089,
+      "textblob_score": 0.2222,
+      "first_sentence": "\u201cBitterfeld, Bitterfeld, where dirt falls from the sky,\u201d went a popular saying.",
+      "timestamp": "2026-03-05T05:00:52Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "A delightful day at the dump: \u2018The trick is not to leave with more stuff than I arrived with!\u2019",
+      "link": "https://www.theguardian.com/environment/2026/mar/05/dump-council-recycling-centre-tip-shop-treasures",
+      "mean_score": 0.5805,
+      "vader_score": 0.3485,
+      "textblob_score": 0.8125,
+      "first_sentence": "When an embalmed rabbit in a Perspex box arrived at the dump in Chingford, north-east London, last year, with fur on its head but its organs and skeleton exposed to teach veterinary students about the digestive system, Lisa Charlton knew she had to save it from landfill.",
+      "timestamp": "2026-03-05T05:00:51Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Government's controversial freedom of information reforms dropped after broad opposition",
       "link": "https://www.sbs.com.au/news/article/governments-controversial-freedom-of-information-laws-dropped-after-broad-opposition/d5nupe3dy",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Human rights are not applicable only to some people.",
       "timestamp": "2026-02-26T03:34:30Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Qantas shares fall more than 6 per cent after first-half profit announced",
-      "link": "https://www.abc.net.au/news/2026-02-26/qantas-first-half-profit-2026-shares-decline/106390004",
-      "mean_score": 0.5625,
-      "vader_score": 0.6249,
-      "textblob_score": 0.5,
-      "first_sentence": "Qantas has reported a flat first-half statutory net profit of $925 million, up $2 million on the same period last year.",
-      "timestamp": "2026-02-26T02:14:25Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Town learns its water is 'only good to flush the toilet' with after 66 years",
-      "link": "https://www.abc.net.au/news/2026-02-26/sunset-strip-residents-learn-water-unsafe-after-66-years-nsw/106375164",
-      "mean_score": 0.3313,
-      "vader_score": 0.4404,
-      "textblob_score": 0.2222,
-      "first_sentence": "Residents of Sunset Strip have discovered via a letter shared to Facebook by a new resident that their water is \"only good to flush the toilet\" with.",
-      "timestamp": "2026-02-26T01:45:47Z",
-      "source": "ABC News"
     }
   ]
 }
