@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-05T03:05:40Z",
+  "last run": "2026-03-05T04:39:31Z",
   "stories": [
+    {
+      "headline": "Government's controversial freedom of information reforms dropped after broad opposition",
+      "link": "https://www.sbs.com.au/news/article/governments-controversial-freedom-of-information-laws-dropped-after-broad-opposition/d5nupe3dy",
+      "mean_score": 0.4165,
+      "vader_score": 0.5267,
+      "textblob_score": 0.3063,
+      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+      "timestamp": "2026-03-05T04:12:29Z",
+      "source": "SBS News"
+    },
+    {
+      "headline": "'Slap in the face': Former Tropfest winner slams festival for AI film inclusion",
+      "link": "https://www.abc.net.au/news/2026-03-05/tropfest-ai-film-sparks-filmmaker-anger/106417734",
+      "mean_score": 0.4113,
+      "vader_score": 0.8225,
+      "textblob_score": 0.0,
+      "first_sentence": "Filmmakers have slammed the selection of a completely AI-generated film as a finalist at the recently returned Tropfest short film festival.",
+      "timestamp": "2026-03-05T03:32:35Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Nepal votes in election pitting entrenched old guard against a powerful youth movement",
       "link": "https://www.theguardian.com/world/2026/mar/05/nepal-election-2026-voting-balen-shah-sharma-oli",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.2222,
       "first_sentence": "Residents of Sunset Strip have discovered via a letter shared to Facebook by a new resident that their water is \"only good to flush the toilet\" with.",
       "timestamp": "2026-02-26T01:45:47Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "How shed boxes became one of the most precious collections in Australia",
-      "link": "https://www.abc.net.au/news/2026-02-26/aboriginal-activism-history-foley-collection-victoria-university/106385374",
-      "mean_score": 0.5557,
-      "vader_score": 0.6115,
-      "textblob_score": 0.5,
-      "first_sentence": "Warning: This story contains images of Indigenous people who have died.",
-      "timestamp": "2026-02-25T21:36:54Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Swedish vocal quartet \u00c5kervinda among highlights in annual radio festival on ABC Classic",
-      "link": "https://www.abc.net.au/news/2026-02-26/guide-to-listening-international-womens-day-abc-classic-abc-jazz/106383718",
-      "mean_score": 0.3303,
-      "vader_score": 0.4939,
-      "textblob_score": 0.1667,
-      "first_sentence": "In 2026, ABC Classic marks 10 years of celebrating music by women, with their annual Festival of Female Composers.",
-      "timestamp": "2026-02-25T21:00:00Z",
       "source": "ABC News"
     }
   ]
