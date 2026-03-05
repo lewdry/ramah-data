@@ -1,6 +1,36 @@
 {
-  "last run": "2026-03-05T12:20:55Z",
+  "last run": "2026-03-05T13:33:12Z",
   "stories": [
+    {
+      "headline": "Pok\u00e9mon Pokopia review \u2013 collectible creatures create their own perfect world",
+      "link": "https://www.theguardian.com/games/2026/mar/05/pokemon-pokopia-review-collectible-creatures-create-their-own-perfect-world",
+      "mean_score": 0.5335,
+      "vader_score": 0.7003,
+      "textblob_score": 0.3667,
+      "first_sentence": "Bear with me here: Pok\u00e9mon has always had an environmentalist subtext.",
+      "timestamp": "2026-03-05T13:15:01Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "10cc review \u2013 70s legends reprise a dazzling string of pop classics",
+      "link": "https://www.theguardian.com/music/2026/mar/05/10cc-review-york-barbican",
+      "mean_score": 0.375,
+      "vader_score": 0.0,
+      "textblob_score": 0.75,
+      "first_sentence": "10cc made some of the most innovative pop of the 1970s: melodic constructions combining glam rock, art rock, rock\u2019n\u2019roll and doo-wop with surreal Monty Pythonesque lyrics.",
+      "timestamp": "2026-03-05T13:01:39Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "More than pasties and beaches: Cornwall celebrates St Piran\u2019s Day amid cultural revival",
+      "link": "https://www.theguardian.com/uk-news/2026/mar/05/cornwall-celebrates-st-pirans-day-amid-cultural-revival-launceston",
+      "mean_score": 0.4359,
+      "vader_score": 0.5719,
+      "textblob_score": 0.3,
+      "first_sentence": "A crisp morning in Launceston, an ancient capital of Cornwall, and the town was humming as St Piran\u2019s Day celebrations got into full swing.",
+      "timestamp": "2026-03-05T12:40:31Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Moderate Democrats plot path to victory by winning the middle",
       "link": "https://www.theguardian.com/us-news/2026/mar/05/democrats-moderate-third-way-elections",
@@ -2470,36 +2500,6 @@
       "first_sentence": "Art lovers usually bypass the Cornish town of Bodmin as they head to the more obvious delights of seaside galleries in places such as St Ives and Newlyn.",
       "timestamp": "2026-02-26T15:00:09Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "On Not Climbing Mountains by Claire Thomas review \u2013 impressive, for a patient reader",
-      "link": "https://www.theguardian.com/books/2026/feb/27/on-not-climbing-mountains-claire-thomas-book-review",
-      "mean_score": 0.7553,
-      "vader_score": 0.5106,
-      "textblob_score": 1.0,
-      "first_sentence": "On Not Climbing Mountains is a novel, but it draws from and references a great deal of actual historical and literary sources, and is told in a curiously impersonal tone.",
-      "timestamp": "2026-02-26T14:00:11Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "David Squires on \u2026 the spectacular own goal that united the world",
-      "link": "https://www.theguardian.com/football/picture/2026/feb/26/david-squires-josh-oluwayemi-own-goal-australia-football-a-league-ntwnfb",
-      "mean_score": 0.5108,
-      "vader_score": 0.4215,
-      "textblob_score": 0.6,
-      "first_sentence": "Our cartoonist looks at Wellington Phoenix goalkeeper Josh Oluwayemi\u2019s unfortunate intervention that created global headlines Continue reading.",
-      "timestamp": "2026-02-26T14:00:08Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Bridgerton's first East Asian family is a beautiful thing, say cast",
-      "link": "https://www.bbc.com/news/articles/c2k8zyq0qgzo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.483,
-      "vader_score": 0.5994,
-      "textblob_score": 0.3667,
-      "first_sentence": "Bridgerton having its first East Asian family is a \"beautiful thing\", say the newest stars of the hit Netflix show.",
-      "timestamp": "2026-02-26T12:46:40Z",
-      "source": "BBC News"
     }
   ]
 }
