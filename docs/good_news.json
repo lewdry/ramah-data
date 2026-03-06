@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-06T04:38:34Z",
+  "last run": "2026-03-06T05:25:06Z",
   "stories": [
+    {
+      "headline": "NSW\u2019s top prosecutor scores legal win in bias claim against senior judge",
+      "link": "https://www.theguardian.com/australia-news/2026/mar/06/judge-penelope-wass-bias-case-nsw-prosecutor-win",
+      "mean_score": 0.5954,
+      "vader_score": 0.6908,
+      "textblob_score": 0.5,
+      "first_sentence": "New South Wales\u2019 top prosecutor has been given the green light to continue her fight to get a senior judge removed from a historical sexual offences trial on the grounds of apprehended bias.",
+      "timestamp": "2026-03-06T05:00:01Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Free parking at popular Sydney beaches could be scrapped under new plan",
       "link": "https://www.abc.net.au/news/2026-03-06/randwick-city-council-propose-paid-beach-parking-for-visitors/106418590",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.4,
       "first_sentence": "When North Korea\u2019s ruling party held a top-level meeting this month there were predictable boasts of unstoppable nuclear development and, more unexpectedly, a suggestion by Kim Jong-un that his country and the US \u201ccould get along\u201d \u2013 provided that Washington recognised North Korea as a legitimate nuclear power.",
       "timestamp": "2026-02-27T05:53:53Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Hannah Spencer wins Gorton and Denton for the Greens and calls out \u2018divisive figures\u2019 \u2013 UK politics live",
-      "link": "https://www.theguardian.com/politics/live/2026/feb/27/gorton-and-denton-byelection-result-labour-green-party-reform-uk-politics-latest-news",
-      "mean_score": 0.395,
-      "vader_score": 0.5719,
-      "textblob_score": 0.2182,
-      "first_sentence": "The Green party has pulled off a landmark victory in the Gorton and Denton byelection in a significant blow to Keir Starmer, Josh Halliday is reporting.",
-      "timestamp": "2026-02-27T05:22:25Z",
       "source": "The Guardian"
     }
   ]
