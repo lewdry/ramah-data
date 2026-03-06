@@ -1,6 +1,36 @@
 {
-  "last run": "2026-03-06T12:18:53Z",
+  "last run": "2026-03-06T13:28:24Z",
   "stories": [
+    {
+      "headline": "\u2018I love being proactive about ageing gracefully\u2019: Kerry Washington on memes, Botox and imperfect women",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/mar/06/kerry-washington-high-stakes-mystery-imperfect-women",
+      "mean_score": 0.5954,
+      "vader_score": 0.6908,
+      "textblob_score": 0.5,
+      "first_sentence": "As double entendres go, to say Kerry Washington acts with teeth isn\u2019t a bad one.",
+      "timestamp": "2026-03-06T13:00:23Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Italy wins claim over name of Spanish restaurant chain The Mafia Sits at the Table",
+      "link": "https://www.theguardian.com/world/2026/mar/06/italy-wins-claim-name-spanish-restaurant-chain-the-mafia-sits-at-the-table",
+      "mean_score": 0.3609,
+      "vader_score": 0.5719,
+      "textblob_score": 0.15,
+      "first_sentence": "A Spanish restaurant chain called The Mafia Sits at the Table may soon have to change its name after the country\u2019s patent and trademark office heeded objections from the Italian government and ruled that the brand\u2019s nomenclature ran counter to \u201cboth public order and morality\u201d.",
+      "timestamp": "2026-03-06T12:33:12Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Xbox confirms new console is coming - but can it revive the brand?",
+      "link": "https://www.bbc.com/news/articles/c875we893ggo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3065,
+      "vader_score": 0.4767,
+      "textblob_score": 0.1364,
+      "first_sentence": "Microsoft's Xbox division has confirmed it's working on a new console, code-named Project Helix.",
+      "timestamp": "2026-03-06T11:56:02Z",
+      "source": "BBC News"
+    },
     {
       "headline": "A century of care: Wildlife Trusts mark 100th birthday with woodland project",
       "link": "https://www.theguardian.com/environment/2026/mar/06/wildlife-trusts-mark-100th-birthday-with-woodland-project-norfolk",
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.5125,
       "first_sentence": "Sixteen years since his sugary debut Just the Way You Are became a megahit, Bruno Mars is the most-streamed musician in the world.",
       "timestamp": "2026-02-27T10:40:38Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Liverpool\u2019s title win last season fuelled by Premier League\u2019s highest wage bill",
-      "link": "https://www.theguardian.com/football/2026/feb/27/liverpool-premier-league-highest-wage-bill-title-arne-slot",
-      "mean_score": 0.4929,
-      "vader_score": 0.5859,
-      "textblob_score": 0.4,
-      "first_sentence": "Liverpool had the highest wage bill in the Premier League when winning their 20th league title last season, the club\u2019s latest set of accounts have revealed.",
-      "timestamp": "2026-02-27T10:00:38Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Speed Dates is no feeble full-motion video game \u2013 it\u2019s a bold art film | Dominik Diamond",
-      "link": "https://www.theguardian.com/games/2026/feb/27/speed-dates-winter-edition-full-motion-video-game-subtitles-dominik-diamond",
-      "mean_score": 0.3848,
-      "vader_score": 0.7085,
-      "textblob_score": 0.0611,
-      "first_sentence": "I spent Valentine\u2019s Day not with my wife but with 18 Turkish women.",
-      "timestamp": "2026-02-27T10:00:38Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Ben Markovits: \u2018I used to think any book concerned with people falling in love can\u2019t be very good\u2019",
-      "link": "https://www.theguardian.com/books/2026/feb/27/ben-markovits-i-used-to-think-any-book-concerned-with-people-falling-in-love-cant-be-very-good",
-      "mean_score": 0.6312,
-      "vader_score": 0.5574,
-      "textblob_score": 0.705,
-      "first_sentence": "My earliest reading\u00a0memory\n I used to read Donald Sobol\u2019s Encyclopedia Brown stories with my mother.",
-      "timestamp": "2026-02-27T10:00:37Z",
       "source": "The Guardian"
     }
   ]

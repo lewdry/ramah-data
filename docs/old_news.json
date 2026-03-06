@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Liverpool\u2019s title win last season fuelled by Premier League\u2019s highest wage bill",
+    "link": "https://www.theguardian.com/football/2026/feb/27/liverpool-premier-league-highest-wage-bill-title-arne-slot",
+    "mean_score": 0.4929,
+    "vader_score": 0.5859,
+    "textblob_score": 0.4,
+    "first_sentence": "Liverpool had the highest wage bill in the Premier League when winning their 20th league title last season, the club\u2019s latest set of accounts have revealed.",
+    "timestamp": "2026-02-27T10:00:38Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Speed Dates is no feeble full-motion video game \u2013 it\u2019s a bold art film | Dominik Diamond",
+    "link": "https://www.theguardian.com/games/2026/feb/27/speed-dates-winter-edition-full-motion-video-game-subtitles-dominik-diamond",
+    "mean_score": 0.3848,
+    "vader_score": 0.7085,
+    "textblob_score": 0.0611,
+    "first_sentence": "I spent Valentine\u2019s Day not with my wife but with 18 Turkish women.",
+    "timestamp": "2026-02-27T10:00:38Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Ben Markovits: \u2018I used to think any book concerned with people falling in love can\u2019t be very good\u2019",
+    "link": "https://www.theguardian.com/books/2026/feb/27/ben-markovits-i-used-to-think-any-book-concerned-with-people-falling-in-love-cant-be-very-good",
+    "mean_score": 0.6312,
+    "vader_score": 0.5574,
+    "textblob_score": 0.705,
+    "first_sentence": "My earliest reading\u00a0memory\n I used to read Donald Sobol\u2019s Encyclopedia Brown stories with my mother.",
+    "timestamp": "2026-02-27T10:00:37Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "As the U.S. celebrates its 250th birthday, many Latinos question whether they belong",
     "link": "https://www.npr.org/2026/02/27/nx-s1-5668186/u-s-celebrates-250th-birthday-latinos-question-belonging",
     "mean_score": 0.5359,
