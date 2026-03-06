@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-06T22:10:51Z",
+  "last run": "2026-03-06T23:11:42Z",
   "stories": [
+    {
+      "headline": "Ex-Liberal MP says the party must introduce gender quotas to start winning elections",
+      "link": "https://www.theguardian.com/australia-news/2026/mar/06/australian-liberal-party-gender-quotas",
+      "mean_score": 0.6135,
+      "vader_score": 0.7269,
+      "textblob_score": 0.5,
+      "first_sentence": "The former Liberal MP Jenny Ware says her party must implement gender quotas for candidates for office, warning the opposition \u201ccannot get back into government\u201d without putting forward candidates who are more reflective of the broader community.",
+      "timestamp": "2026-03-06T23:00:33Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "These are Australia\u2019s best medal chances at the Winter Paralympics",
+      "link": "https://www.abc.net.au/news/2026-03-07/who-to-watch-at-the-winter-paralympics/106417798",
+      "mean_score": 0.9221,
+      "vader_score": 0.8442,
+      "textblob_score": 1.0,
+      "first_sentence": "Australia is about to head into the 2026 Winter Paralympics with one of its biggest, and quite possibly strongest, teams ever.",
+      "timestamp": "2026-03-06T22:16:39Z",
+      "source": "ABC News"
+    },
     {
       "headline": "The unorthodox coaching gambit that helped Matildas to greatest triumph",
       "link": "https://www.abc.net.au/news/2026-03-07/how-the-matildas-won-the-2010-womens-asian-cup/106390122",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.4,
       "first_sentence": "When Prince William and Princess Catherine stepped out for their first public appearance since Andrew Mountbatten-Windsor's arrest, an innocuous question was levelled at them.",
       "timestamp": "2026-02-27T19:33:37Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "The AI apocalypse is nigh in Good Luck, Have Fun, Don't Die",
-      "link": "https://arstechnica.com/culture/2026/02/the-ai-apocalypse-is-nigh-in-good-luck-have-fun-dont-die/",
-      "mean_score": 0.7036,
-      "vader_score": 0.9071,
-      "textblob_score": 0.5,
-      "first_sentence": "Director Gore Verbinksi and screenwriter Matthew Robinson on the making of this darkly satirical sci-fi film.",
-      "timestamp": "2026-02-27T19:04:23Z",
-      "source": "Ars Technica"
-    },
-    {
-      "headline": "Our critics pick the 11 best books of the summer",
-      "link": "https://www.abc.net.au/news/2026-02-28/best-books-summer-what-to-read-next-julian-barnes-tim-ayliffe/106255824",
-      "mean_score": 0.7294,
-      "vader_score": 0.4588,
-      "textblob_score": 1.0,
-      "first_sentence": "It's February, and already we're talking about the most-hyped debut release of the year: Lost Lambs by literary it-girl Madeline Cash.",
-      "timestamp": "2026-02-27T18:30:00Z",
       "source": "ABC News"
     }
   ]
