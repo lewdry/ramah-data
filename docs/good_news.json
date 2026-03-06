@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-06T11:13:45Z",
+  "last run": "2026-03-06T12:18:53Z",
   "stories": [
+    {
+      "headline": "A century of care: Wildlife Trusts mark 100th birthday with woodland project",
+      "link": "https://www.theguardian.com/environment/2026/mar/06/wildlife-trusts-mark-100th-birthday-with-woodland-project-norfolk",
+      "mean_score": 0.3715,
+      "vader_score": 0.743,
+      "textblob_score": 0.0,
+      "first_sentence": "The place where Norton Wood once stood is now a vast field of decaying wheat stubble.",
+      "timestamp": "2026-03-06T11:49:25Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Taking the heat. Sauna's popular and there may be health benefits too",
       "link": "https://www.npr.org/2026/03/06/nx-s1-5719268/sauna-heat-health-benefits-science",
@@ -2490,16 +2500,6 @@
       "first_sentence": "My earliest reading\u00a0memory\n I used to read Donald Sobol\u2019s Encyclopedia Brown stories with my mother.",
       "timestamp": "2026-02-27T10:00:37Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "As the U.S. celebrates its 250th birthday, many Latinos question whether they belong",
-      "link": "https://www.npr.org/2026/02/27/nx-s1-5668186/u-s-celebrates-250th-birthday-latinos-question-belonging",
-      "mean_score": 0.5359,
-      "vader_score": 0.5719,
-      "textblob_score": 0.5,
-      "first_sentence": "AUSTIN \u2013 At a recent potluck in Austin, Texas, pots of chicken and creamy potato soup simmer on the stove.",
-      "timestamp": "2026-02-27T10:00:00Z",
-      "source": "NPR News"
     }
   ]
 }
