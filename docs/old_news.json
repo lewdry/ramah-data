@@ -1,5 +1,35 @@
 [
   {
+    "headline": "What we\u2019re reading: writers and readers on the books they enjoyed in February",
+    "link": "https://www.theguardian.com/books/2026/feb/27/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-february",
+    "mean_score": 0.5053,
+    "vader_score": 0.5106,
+    "textblob_score": 0.5,
+    "first_sentence": "I\u2019ve been reading a very short book by Claire Baglin, translated by Jordan Stump, On the Clock.",
+    "timestamp": "2026-02-27T14:00:22Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Riding the rightwing algorithm to success: is Karl Stefanovic Australia\u2019s Joe Rogan?",
+    "link": "https://www.theguardian.com/media/2026/feb/28/karl-stefanovic-show-podcast-albanese-interview-australia-ntwnfb",
+    "mean_score": 0.4359,
+    "vader_score": 0.5719,
+    "textblob_score": 0.3,
+    "first_sentence": "By the time the prime minister sat down at the Lodge for a live chat on the Karl Stefanovic Show, Nine\u2019s highest-paid journalist had amassed more than 50,000 YouTube subscribers on his new independent platform in four weeks.",
+    "timestamp": "2026-02-27T14:00:19Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Cocktail of the week: Nora\u2019s baklava old fashioned - recipe | The good mixer",
+    "link": "https://www.theguardian.com/food/2026/feb/27/cocktail-of-the-week-nora-london-e22-baklava-old-fashioned-recipe",
+    "mean_score": 0.4202,
+    "vader_score": 0.4404,
+    "textblob_score": 0.4,
+    "first_sentence": "The scent of honey and warm pastry that spills out of the late-night baklava shops on Taksim Square in Istanbul is the inspiration for this twist on the classic old fashioned.",
+    "timestamp": "2026-02-27T13:01:17Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Champions League last-16 draw: Manchester City face Real Madrid, Chelsea get PSG",
     "link": "https://www.theguardian.com/football/2026/feb/27/champions-league-last-16-draw-manchester-city-chelsea-newcastle-liverpool-tottenham-arsenal",
     "mean_score": 0.3633,

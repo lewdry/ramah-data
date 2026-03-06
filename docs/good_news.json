@@ -1,6 +1,36 @@
 {
-  "last run": "2026-03-06T17:17:51Z",
+  "last run": "2026-03-06T18:19:13Z",
   "stories": [
+    {
+      "headline": "\u2018Someone\u2019s paid a grand in cash\u2019: fans camp out in Manchester for first Harry Styles concert since 2023",
+      "link": "https://www.theguardian.com/music/2026/mar/06/fans-camp-out-in-manchester-for-first-harry-styles-concert-since-2023",
+      "mean_score": 0.4169,
+      "vader_score": 0.4588,
+      "textblob_score": 0.375,
+      "first_sentence": "More than 20,000 fans from all over the world flocked towards the Co-op Live arena in Manchester on Friday to watch Harry Styles perform his first concert in two and a half years \u2013 some waiting 48 hours for a place down the front.",
+      "timestamp": "2026-03-06T18:03:22Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "A lovely name for watching night fall | Letters",
+      "link": "https://www.theguardian.com/society/2026/mar/06/a-lovely-name-for-watching-night-fall",
+      "mean_score": 0.543,
+      "vader_score": 0.5859,
+      "textblob_score": 0.5,
+      "first_sentence": "Rachel Dixon\u2019s piece about \u201cdusking\u201d (\u2018All you need is a chair and a view\u2019: could daily \u2018dusking\u2019 make us healthier and happier?, 1 March) gave a lovely name to something I having been doing all my life, beginning as a child in the company of my Nanna, in a gas-lit kitchen in Wembley in the 1940s, with no view to speak of \u2013 just a back yard.",
+      "timestamp": "2026-03-06T17:30:01Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "'Dopamine Kids' explains why children crave screens and helps them enjoy life instead",
+      "link": "https://www.npr.org/2026/03/06/nx-s1-5737901/dopamine-kids-parenting-screens",
+      "mean_score": 0.5502,
+      "vader_score": 0.7003,
+      "textblob_score": 0.4,
+      "first_sentence": "Like many parents, Michaeleen Doucleff struggled with her young daughter's screen use.",
+      "timestamp": "2026-03-06T17:14:25Z",
+      "source": "NPR News"
+    },
     {
       "headline": "Crypto billionaire Christopher Harborne \u2018no longer\u2019 interested in Reform-Tory election pact",
       "link": "https://www.theguardian.com/politics/2026/mar/06/crypto-billionaire-christopher-harborne-reform-tory-election-pact",
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.4,
       "first_sentence": "A European occasion that appeared ominous for Celtic instead provided evidence that it is never wise to write off Martin O\u2019Neill.",
       "timestamp": "2026-02-27T15:09:04Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "What we\u2019re reading: writers and readers on the books they enjoyed in February",
-      "link": "https://www.theguardian.com/books/2026/feb/27/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-february",
-      "mean_score": 0.5053,
-      "vader_score": 0.5106,
-      "textblob_score": 0.5,
-      "first_sentence": "I\u2019ve been reading a very short book by Claire Baglin, translated by Jordan Stump, On the Clock.",
-      "timestamp": "2026-02-27T14:00:22Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Riding the rightwing algorithm to success: is Karl Stefanovic Australia\u2019s Joe Rogan?",
-      "link": "https://www.theguardian.com/media/2026/feb/28/karl-stefanovic-show-podcast-albanese-interview-australia-ntwnfb",
-      "mean_score": 0.4359,
-      "vader_score": 0.5719,
-      "textblob_score": 0.3,
-      "first_sentence": "By the time the prime minister sat down at the Lodge for a live chat on the Karl Stefanovic Show, Nine\u2019s highest-paid journalist had amassed more than 50,000 YouTube subscribers on his new independent platform in four weeks.",
-      "timestamp": "2026-02-27T14:00:19Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Cocktail of the week: Nora\u2019s baklava old fashioned - recipe | The good mixer",
-      "link": "https://www.theguardian.com/food/2026/feb/27/cocktail-of-the-week-nora-london-e22-baklava-old-fashioned-recipe",
-      "mean_score": 0.4202,
-      "vader_score": 0.4404,
-      "textblob_score": 0.4,
-      "first_sentence": "The scent of honey and warm pastry that spills out of the late-night baklava shops on Taksim Square in Istanbul is the inspiration for this twist on the classic old fashioned.",
-      "timestamp": "2026-02-27T13:01:17Z",
       "source": "The Guardian"
     }
   ]
