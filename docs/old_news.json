@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Super Bowl champ backs Burton's boot as good enough for NFL",
+    "link": "https://www.abc.net.au/news/2026-02-27/michael-dickson-matt-burton-nrl-nfl-code-switch/106396080",
+    "mean_score": 0.6051,
+    "vader_score": 0.8658,
+    "textblob_score": 0.3444,
+    "first_sentence": "Australian Super Bowl winner Michael Dickson says the booming boot of Bulldogs five-eighth Matt Burton could cut it in the NFL.",
+    "timestamp": "2026-02-27T05:16:02Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "\u2018Everybody wants a bestie like this guy!\u2019 Rush on rock\u2019s most anticipated reunion \u2013 and its greatest bromance",
+    "link": "https://www.theguardian.com/music/2026/feb/27/rush-geddy-lee-alex-lifeson-interview",
+    "mean_score": 0.6867,
+    "vader_score": 0.7901,
+    "textblob_score": 0.5833,
+    "first_sentence": "The two men on the sofa, Rush\u2019s Geddy Lee and Alex Lifeson, have known each other for 60 years now.",
+    "timestamp": "2026-02-27T05:00:32Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Green party wins Gorton and Denton byelection, pushing Labour to third place in blow to Keir Starmer",
     "link": "https://www.theguardian.com/politics/2026/feb/27/green-party-wins-gorton-and-denton-byelection-in-blow-to-keir-starmer",
     "mean_score": 0.392,

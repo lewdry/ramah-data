@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-06T03:05:23Z",
+  "last run": "2026-03-06T04:38:34Z",
   "stories": [
+    {
+      "headline": "Free parking at popular Sydney beaches could be scrapped under new plan",
+      "link": "https://www.abc.net.au/news/2026-03-06/randwick-city-council-propose-paid-beach-parking-for-visitors/106418590",
+      "mean_score": 0.5528,
+      "vader_score": 0.7269,
+      "textblob_score": 0.3788,
+      "first_sentence": "Randwick City Council has proposed installing parking meters at its beaches to charge visitors from outside the area, while issuing free parking permits to residents.",
+      "timestamp": "2026-03-06T03:32:09Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Calm before the storm? Oil's muted reaction to Iran",
+      "link": "https://www.abc.net.au/news/2026-03-06/oil-reaction-trump-attack-on-iran/106424164",
+      "mean_score": 0.3091,
+      "vader_score": 0.3182,
+      "textblob_score": 0.3,
+      "first_sentence": "For all the chaos, the terror and the loss of life in the past week following America's war on Iran, one thing has managed to maintain a semblance of stability.",
+      "timestamp": "2026-03-06T03:20:50Z",
+      "source": "ABC News"
+    },
     {
       "headline": "From a hilarious novel to a stellar charity album \u2014 we have your weekend covered",
       "link": "https://www.abc.net.au/news/2026-03-06/what-to-watch-read-and-listen-to-this-weekend/106376416",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.2182,
       "first_sentence": "The Green party has pulled off a landmark victory in the Gorton and Denton byelection in a significant blow to Keir Starmer, Josh Halliday is reporting.",
       "timestamp": "2026-02-27T05:22:25Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Super Bowl champ backs Burton's boot as good enough for NFL",
-      "link": "https://www.abc.net.au/news/2026-02-27/michael-dickson-matt-burton-nrl-nfl-code-switch/106396080",
-      "mean_score": 0.6051,
-      "vader_score": 0.8658,
-      "textblob_score": 0.3444,
-      "first_sentence": "Australian Super Bowl winner Michael Dickson says the booming boot of Bulldogs five-eighth Matt Burton could cut it in the NFL.",
-      "timestamp": "2026-02-27T05:16:02Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "\u2018Everybody wants a bestie like this guy!\u2019 Rush on rock\u2019s most anticipated reunion \u2013 and its greatest bromance",
-      "link": "https://www.theguardian.com/music/2026/feb/27/rush-geddy-lee-alex-lifeson-interview",
-      "mean_score": 0.6867,
-      "vader_score": 0.7901,
-      "textblob_score": 0.5833,
-      "first_sentence": "The two men on the sofa, Rush\u2019s Geddy Lee and Alex Lifeson, have known each other for 60 years now.",
-      "timestamp": "2026-02-27T05:00:32Z",
       "source": "The Guardian"
     }
   ]
