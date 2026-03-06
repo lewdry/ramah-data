@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-06T09:17:58Z",
+  "last run": "2026-03-06T10:15:46Z",
   "stories": [
+    {
+      "headline": "Good riddance to Kristi Noem. Her replacement won\u2019t be an improvement | Moira Donegan",
+      "link": "https://www.theguardian.com/commentisfree/2026/mar/06/good-riddance-to-kristi-noem-her-replacement-wont-be-an-improvement",
+      "mean_score": 0.7048,
+      "vader_score": 0.7096,
+      "textblob_score": 0.7,
+      "first_sentence": "Was it the blanket that did it? On Thursday, Donald Trump announced he fired Kristi Noem, the secretary of homeland security, in a post on Truth Social.",
+      "timestamp": "2026-03-06T10:00:19Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "An Ohio high school is on one of the greatest winning streaks in sports. What\u2019s the secret?",
       "link": "https://www.theguardian.com/sport/2026/mar/06/ohio-high-school-gymnastics-dynasty-23rd-state-title-brecksville-bees",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Could the royal family\u2019s latest troubles usher in a new era of diplomatic dressing?.",
       "timestamp": "2026-02-27T09:00:36Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Force breaks NZ drought with first Super Rugby Pacific win of season",
-      "link": "https://www.abc.net.au/news/2026-02-27/western-force-defeat-moana-pasifika-for-first-super-rugby-win/106399112",
-      "mean_score": 0.6441,
-      "vader_score": 0.8271,
-      "textblob_score": 0.4611,
-      "first_sentence": "The Western Force have recorded their first win of the 2026 Super Rugby Pacfiic season, with a 35-19 win over Moana Pasifika.",
-      "timestamp": "2026-02-27T08:44:07Z",
-      "source": "ABC News"
     }
   ]
 }
