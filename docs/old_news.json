@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Chris Mason: Green Party win will prompt soul searching within Labour and questions for Starmer",
+    "link": "https://www.bbc.com/news/articles/cy03ydp27nno?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.529,
+    "vader_score": 0.7579,
+    "textblob_score": 0.3,
+    "first_sentence": "Never before have the Green Party won a Westminster by-election.",
+    "timestamp": "2026-02-27T06:06:17Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Firefighters in Sicily rescue 400 rare books from library after landslide",
+    "link": "https://www.theguardian.com/world/2026/feb/27/firefighters-sicily-rescue-400-rare-books-library-after-landslide",
+    "mean_score": 0.4053,
+    "vader_score": 0.5106,
+    "textblob_score": 0.3,
+    "first_sentence": "Firefighters in Sicily have rescued about 400 rare books from a library in Niscemi that hangs on the edge of a mudflow, after a devastating landslide in January tore away an entire slope of the town and carved a 4km chasm.",
+    "timestamp": "2026-02-27T06:00:34Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Benjamina Ebuehi\u2019s recipe for coffee and walnut cookies | The sweet spot",
+    "link": "https://www.theguardian.com/food/2026/feb/27/coffee-walnut-cookies-recipe-benjamina-ebuehi",
+    "mean_score": 0.4044,
+    "vader_score": 0.4588,
+    "textblob_score": 0.35,
+    "first_sentence": "When it comes to British cakes, coffee and walnut is such a staple that if there isn\u2019t one present at a bake sale or coffee morning, I\u2019ll raise an eyebrow.",
+    "timestamp": "2026-02-27T06:00:33Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "North Korea\u2019s \u2018most beloved\u2019 child: what the key congress revealed about Kim Jong-un\u2019s succession plans",
+    "link": "https://www.theguardian.com/world/2026/feb/27/north-korea-kim-jong-un-daughter-ju-ae-succession",
+    "mean_score": 0.3011,
+    "vader_score": 0.2023,
+    "textblob_score": 0.4,
+    "first_sentence": "When North Korea\u2019s ruling party held a top-level meeting this month there were predictable boasts of unstoppable nuclear development and, more unexpectedly, a suggestion by Kim Jong-un that his country and the US \u201ccould get along\u201d \u2013 provided that Washington recognised North Korea as a legitimate nuclear power.",
+    "timestamp": "2026-02-27T05:53:53Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Hannah Spencer wins Gorton and Denton for the Greens and calls out \u2018divisive figures\u2019 \u2013 UK politics live",
     "link": "https://www.theguardian.com/politics/live/2026/feb/27/gorton-and-denton-byelection-result-labour-green-party-reform-uk-politics-latest-news",
     "mean_score": 0.395,

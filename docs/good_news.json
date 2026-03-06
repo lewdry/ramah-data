@@ -1,6 +1,46 @@
 {
-  "last run": "2026-03-06T05:25:06Z",
+  "last run": "2026-03-06T06:23:20Z",
   "stories": [
+    {
+      "headline": "Charity hopes new HQ can bring people together",
+      "link": "https://www.bbc.com/news/articles/cyv95qp77j6o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4086,
+      "vader_score": 0.6808,
+      "textblob_score": 0.1364,
+      "first_sentence": "A charity in Guernsey wants its new home to become a \"place where the community can come together to connect\".",
+      "timestamp": "2026-03-06T06:12:24Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Helen Goh\u2019s recipe for lemon curd layer cake | The sweet spot",
+      "link": "https://www.theguardian.com/food/2026/mar/06/lemon-curd-layer-cake-recipe-helen-goh",
+      "mean_score": 0.4044,
+      "vader_score": 0.4588,
+      "textblob_score": 0.35,
+      "first_sentence": "This is both simple and celebratory, which in my book makes it just right for Mother\u2019s Day next weekend.",
+      "timestamp": "2026-03-06T06:00:13Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Marsupials in the news again? Yes! And this time it\u2019s good news | First Dog on the Moon",
+      "link": "https://www.theguardian.com/commentisfree/picture/2026/mar/06/marsupials-in-the-news-again-yes-and-this-time-its-good-news",
+      "mean_score": 0.5919,
+      "vader_score": 0.7088,
+      "textblob_score": 0.475,
+      "first_sentence": "Lazarus taxaSign up here to get an email whenever First Dog cartoons are publishedGet all your needs met at the First Dog shop if what you need is First Dog merchandise and prints Continue reading.",
+      "timestamp": "2026-03-06T05:52:58Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "The Dinosaurs review \u2013 Morgan Freeman\u2019s narration is so soothing, you could use this as a relaxation aid",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/mar/06/the-dinosaurs-review-morgan-freemans-narration-is-so-soothing-you-could-use-this-as-a-relaxation-aid",
+      "mean_score": 0.375,
+      "vader_score": 0.75,
+      "textblob_score": 0.0,
+      "first_sentence": "It\u2019s difficult these days to make a nature documentary that isn\u2019t like all the others.",
+      "timestamp": "2026-03-06T05:00:11Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "NSW\u2019s top prosecutor scores legal win in bias claim against senior judge",
       "link": "https://www.theguardian.com/australia-news/2026/mar/06/judge-penelope-wass-bias-case-nsw-prosecutor-win",
@@ -2460,46 +2500,6 @@
       "first_sentence": "The Green Party has won the Gorton and Denton by-election, with Hannah Spencer taking the seat from Labour in the Green's first ever Westminster by-election victory.",
       "timestamp": "2026-02-27T06:08:42Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Chris Mason: Green Party win will prompt soul searching within Labour and questions for Starmer",
-      "link": "https://www.bbc.com/news/articles/cy03ydp27nno?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.529,
-      "vader_score": 0.7579,
-      "textblob_score": 0.3,
-      "first_sentence": "Never before have the Green Party won a Westminster by-election.",
-      "timestamp": "2026-02-27T06:06:17Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Firefighters in Sicily rescue 400 rare books from library after landslide",
-      "link": "https://www.theguardian.com/world/2026/feb/27/firefighters-sicily-rescue-400-rare-books-library-after-landslide",
-      "mean_score": 0.4053,
-      "vader_score": 0.5106,
-      "textblob_score": 0.3,
-      "first_sentence": "Firefighters in Sicily have rescued about 400 rare books from a library in Niscemi that hangs on the edge of a mudflow, after a devastating landslide in January tore away an entire slope of the town and carved a 4km chasm.",
-      "timestamp": "2026-02-27T06:00:34Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Benjamina Ebuehi\u2019s recipe for coffee and walnut cookies | The sweet spot",
-      "link": "https://www.theguardian.com/food/2026/feb/27/coffee-walnut-cookies-recipe-benjamina-ebuehi",
-      "mean_score": 0.4044,
-      "vader_score": 0.4588,
-      "textblob_score": 0.35,
-      "first_sentence": "When it comes to British cakes, coffee and walnut is such a staple that if there isn\u2019t one present at a bake sale or coffee morning, I\u2019ll raise an eyebrow.",
-      "timestamp": "2026-02-27T06:00:33Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "North Korea\u2019s \u2018most beloved\u2019 child: what the key congress revealed about Kim Jong-un\u2019s succession plans",
-      "link": "https://www.theguardian.com/world/2026/feb/27/north-korea-kim-jong-un-daughter-ju-ae-succession",
-      "mean_score": 0.3011,
-      "vader_score": 0.2023,
-      "textblob_score": 0.4,
-      "first_sentence": "When North Korea\u2019s ruling party held a top-level meeting this month there were predictable boasts of unstoppable nuclear development and, more unexpectedly, a suggestion by Kim Jong-un that his country and the US \u201ccould get along\u201d \u2013 provided that Washington recognised North Korea as a legitimate nuclear power.",
-      "timestamp": "2026-02-27T05:53:53Z",
-      "source": "The Guardian"
     }
   ]
 }
