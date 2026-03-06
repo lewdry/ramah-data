@@ -1,6 +1,46 @@
 {
-  "last run": "2026-03-06T20:12:47Z",
+  "last run": "2026-03-06T21:12:11Z",
   "stories": [
+    {
+      "headline": "From historic win to shock exit: Why Nightcliff is returning to the polls",
+      "link": "https://www.abc.net.au/news/2026-03-07/nt-politics-greens-nightcliff-byelection-challenge/106418924",
+      "mean_score": 0.348,
+      "vader_score": 0.296,
+      "textblob_score": 0.4,
+      "first_sentence": "A by-election is being held today for the urban and progressive Darwin seat of Nightcliff.",
+      "timestamp": "2026-03-06T20:33:58Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Coral cay declared rat-free in win for seabirds and nesting turtles",
+      "link": "https://www.abc.net.au/news/2026-03-07/north-west-island-great-barrier-reef-declared-rat-free/106409744",
+      "mean_score": 0.6929,
+      "vader_score": 0.5859,
+      "textblob_score": 0.8,
+      "first_sentence": "North West Island off the coast of Gladstone in the Southern Great Barrier Reef has been declared rat-free.",
+      "timestamp": "2026-03-06T20:30:00Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Having a leafy street could boost property values \u2014 depending where the trees are",
+      "link": "https://www.abc.net.au/news/2026-03-07/street-trees-boost-sydney-property-prices-research-finds/106418236",
+      "mean_score": 0.3298,
+      "vader_score": 0.6597,
+      "textblob_score": 0.0,
+      "first_sentence": "Would you spend $30,000 extra for a home on a leafy Sydney street?.",
+      "timestamp": "2026-03-06T20:15:36Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "\u2018I\u2019m relieved she\u2019s gone\u2019: Fema staffers celebrate ousting of Kristi Noem",
+      "link": "https://www.theguardian.com/us-news/2026/mar/06/fema-staffers-celebrate-firing-kristi-noem",
+      "mean_score": 0.3715,
+      "vader_score": 0.743,
+      "textblob_score": 0.0,
+      "first_sentence": "Some current and former Federal Emergency Management Agency (Fema) staff are celebrating the Thursday firing of homeland security secretary Kristi Noem, who they say has made the US more dangerous by micromanaging and shrinking the agency.",
+      "timestamp": "2026-03-06T20:06:59Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Asteroid defense mission shifted the orbit of more than its target",
       "link": "https://arstechnica.com/science/2026/03/nasas-dart-mission-shifted-the-orbits-of-two-asteroids/",
@@ -70,6 +110,16 @@
       "first_sentence": "There's no shortage of famous quotes about how much music means to people.",
       "timestamp": "2026-03-06T15:51:06Z",
       "source": "BBC News"
+    },
+    {
+      "headline": "\u2018It\u2019s 10,000 people saying \u2013 we\u2019re with you\u2019: inside Trans Mission, a night of solidarity and joy for a community under stress",
+      "link": "https://www.theguardian.com/music/2026/mar/06/trans-mission-transgender-olly-alexander-live-aid-wembley-arena",
+      "mean_score": 0.647,
+      "vader_score": 0.4939,
+      "textblob_score": 0.8,
+      "first_sentence": "\u2018We wanted to put on something as big as possible,\u201d says the musician and actor Olly Alexander.",
+      "timestamp": "2026-03-06T15:44:14Z",
+      "source": "The Guardian"
     },
     {
       "headline": "How to use AI tools to support our wellbeing in safe and simple ways",
@@ -2449,56 +2499,6 @@
       "textblob_score": 0.25,
       "first_sentence": "Demna is fashion\u2019s dark lord of apocalyptic streetwear.",
       "timestamp": "2026-02-27T18:21:31Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Green party\u2019s Gorton and Denton win is wake-up call Labour needed to hear",
-      "link": "https://www.theguardian.com/politics/2026/feb/27/greens-gorton-denton-win-wake-up-call-labour-needed-to-hear",
-      "mean_score": 0.443,
-      "vader_score": 0.5859,
-      "textblob_score": 0.3,
-      "first_sentence": "From the outset of the Gorton and Denton byelection, Labour strategists were desperate to say the party was on course to win, but the party\u2019s trouncing at the hands of the Greens has made this look laughable in hindsight.",
-      "timestamp": "2026-02-27T18:07:36Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Greens win Gorton and Denton: is this a turning point for UK politics? \u2013 The Latest",
-      "link": "https://www.theguardian.com/news/audio/2026/feb/27/greens-win-gorton-and-denton-is-this-a-turning-point-for-uk-politics-the-latest",
-      "mean_score": 0.6179,
-      "vader_score": 0.5859,
-      "textblob_score": 0.65,
-      "first_sentence": "The Green Party has pulled off a landmark victory in the Gordon and Denton byelection in a major blow to Keir Starmer.",
-      "timestamp": "2026-02-27T17:07:27Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Cruz Beckham launches music career, having fun amid family drama",
-      "link": "https://www.bbc.com/news/articles/cvg34zn3pywo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4053,
-      "vader_score": 0.5106,
-      "textblob_score": 0.3,
-      "first_sentence": "Cruz Beckham, the youngest son of David and Victoria, is trying to forge a path as the frontman in a rock band, and they started their first headline tour this week.",
-      "timestamp": "2026-02-27T17:01:14Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Excruciating but worth it: How a decades-old cult dating book helped me find love",
-      "link": "https://www.theguardian.com/wellness/2026/feb/27/dating-book-app-failure",
-      "mean_score": 0.579,
-      "vader_score": 0.7579,
-      "textblob_score": 0.4,
-      "first_sentence": "But when the book arrived, I discovered it wasn\u2019t a recommendation so much as an enlistment.",
-      "timestamp": "2026-02-27T17:00:48Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Having romped into third place in Gorton and Denton, Labour is celebrating its success with a word salad | Marina Hyde",
-      "link": "https://www.theguardian.com/commentisfree/2026/feb/27/gorton-and-denton-labour-polls-keir-starmer",
-      "mean_score": 0.4813,
-      "vader_score": 0.8126,
-      "textblob_score": 0.15,
-      "first_sentence": "As David Lammy put it on Thursday in a dispatch from Gorton and Denton: \u201cOnly Labour can stop Reform.\u201d And listen, stopping them by taking third place and haemorrhaging half your support from a general election that took place 19 months ago in an area where you haven\u2019t lost an election for almost 100 years is definitely an intriguing way to do it.",
-      "timestamp": "2026-02-27T15:43:00Z",
       "source": "The Guardian"
     }
   ]
