@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-06T19:18:32Z",
+  "last run": "2026-03-06T20:12:47Z",
   "stories": [
+    {
+      "headline": "Asteroid defense mission shifted the orbit of more than its target",
+      "link": "https://arstechnica.com/science/2026/03/nasas-dart-mission-shifted-the-orbits-of-two-asteroids/",
+      "mean_score": 0.314,
+      "vader_score": 0.128,
+      "textblob_score": 0.5,
+      "first_sentence": "The binary asteroid\u2019s orbit around the Sun was affected by the impact.",
+      "timestamp": "2026-03-06T19:00:02Z",
+      "source": "Ars Technica"
+    },
     {
       "headline": "\u2018Someone\u2019s paid a grand in cash\u2019: fans camp out in Manchester for first Harry Styles concert since 2023",
       "link": "https://www.theguardian.com/music/2026/mar/06/fans-camp-out-in-manchester-for-first-harry-styles-concert-since-2023",
@@ -10,6 +20,16 @@
       "first_sentence": "More than 20,000 fans from all over the world flocked towards the Co-op Live arena in Manchester on Friday to watch Harry Styles perform his first concert in two and a half years \u2013 some waiting 48 hours for a place down the front.",
       "timestamp": "2026-03-06T18:03:22Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "Live: Russia reportedly sharing intel to help Iran strike US targets",
+      "link": "https://www.abc.net.au/news/2026-03-07/us-israel-attacks-iran-live-updates-middle-east-war/106426908",
+      "mean_score": 0.3744,
+      "vader_score": 0.6124,
+      "textblob_score": 0.1364,
+      "first_sentence": "US President Donald Trump says there will be \"no deal with Iran except unconditional surrender\" as the conflict enters its second week.",
+      "timestamp": "2026-03-06T17:57:06Z",
+      "source": "ABC News"
     },
     {
       "headline": "A lovely name for watching night fall | Letters",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.15,
       "first_sentence": "As David Lammy put it on Thursday in a dispatch from Gorton and Denton: \u201cOnly Labour can stop Reform.\u201d And listen, stopping them by taking third place and haemorrhaging half your support from a general election that took place 19 months ago in an area where you haven\u2019t lost an election for almost 100 years is definitely an intriguing way to do it.",
       "timestamp": "2026-02-27T15:43:00Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Teenage girls are most likely to tear their ACLs. Parents say more must be done to protect them",
-      "link": "https://apnews.com/article/acl-women-girls-soccer-injury-athletes-high-school-b7cf544bfec1ac44e975bbd79d67fdfc",
-      "mean_score": 0.3159,
-      "vader_score": 0.3818,
-      "textblob_score": 0.25,
-      "first_sentence": "Tepichin joined the growing ranks of female high school athletes tearing their anterior cruciate ligament, a devastating knee injury that researchers are pressing the sports world to take more seriously.",
-      "timestamp": "2026-02-27T15:23:01Z",
-      "source": "AP News"
-    },
-    {
-      "headline": "Stakes are huge for Celtic and Rangers in derby that could yet shape title race",
-      "link": "https://www.theguardian.com/football/2026/feb/27/celtic-stuttgart-rally-oneill-effect-rangers-ibrox-derby",
-      "mean_score": 0.3591,
-      "vader_score": 0.3182,
-      "textblob_score": 0.4,
-      "first_sentence": "A European occasion that appeared ominous for Celtic instead provided evidence that it is never wise to write off Martin O\u2019Neill.",
-      "timestamp": "2026-02-27T15:09:04Z",
       "source": "The Guardian"
     }
   ]
