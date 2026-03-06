@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-06T21:12:11Z",
+  "last run": "2026-03-06T22:10:51Z",
   "stories": [
+    {
+      "headline": "The unorthodox coaching gambit that helped Matildas to greatest triumph",
+      "link": "https://www.abc.net.au/news/2026-03-07/how-the-matildas-won-the-2010-womens-asian-cup/106390122",
+      "mean_score": 0.9037,
+      "vader_score": 0.8074,
+      "textblob_score": 1.0,
+      "first_sentence": "Former Matildas coach Tom Sermanni received quite the makeover after guiding Australia to the final of the 2010 Women's Asian Cup.",
+      "timestamp": "2026-03-06T21:09:54Z",
+      "source": "ABC News"
+    },
     {
       "headline": "From historic win to shock exit: Why Nightcliff is returning to the polls",
       "link": "https://www.abc.net.au/news/2026-03-07/nt-politics-greens-nightcliff-byelection-challenge/106418924",
@@ -2490,16 +2500,6 @@
       "first_sentence": "It's February, and already we're talking about the most-hyped debut release of the year: Lost Lambs by literary it-girl Madeline Cash.",
       "timestamp": "2026-02-27T18:30:00Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Demna brings sexy back in effort to reinvigorate Gucci",
-      "link": "https://www.theguardian.com/fashion/2026/feb/27/demna-brings-sexy-back-reinvigorate-gucci",
-      "mean_score": 0.5109,
-      "vader_score": 0.7717,
-      "textblob_score": 0.25,
-      "first_sentence": "Demna is fashion\u2019s dark lord of apocalyptic streetwear.",
-      "timestamp": "2026-02-27T18:21:31Z",
-      "source": "The Guardian"
     }
   ]
 }
