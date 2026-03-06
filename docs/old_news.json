@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Green win shows progressive voters are now voting against Labour as well as Reform",
+    "link": "https://www.theguardian.com/politics/2026/feb/27/green-win-gorton-and-denton-byelection-progressive-voters-labour-reform-analysis",
+    "mean_score": 0.5048,
+    "vader_score": 0.7096,
+    "textblob_score": 0.3,
+    "first_sentence": "The Gorton and Denton byelection produced Labour\u2019s most feared outcome \u2013 the Greens winning and potential displacing Labour as the choice of anti-Reform voters.",
+    "timestamp": "2026-02-27T12:01:51Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Rocket Report: Vulcan \"many months\" from flying; Falcon 9 extends reuse milestone",
+    "link": "https://arstechnica.com/space/2026/02/rocket-report-neutron-launch-date-is-delayed-again-vector-launch-is-back-sort-of/",
+    "mean_score": 0.314,
+    "vader_score": 0.128,
+    "textblob_score": 0.5,
+    "first_sentence": "Welcome to Edition 8.31 of the Rocket Report! We have some late-breaking news this week with an update Thursday afternoon from Rocket Lab on the timing of its much-anticipated Neutron rocket.",
+    "timestamp": "2026-02-27T12:00:13Z",
+    "source": "Ars Technica"
+  },
+  {
+    "headline": "\u2018It\u2019s good music, not a guilty pleasure\u2019: how Bruno Mars embraced cheese to become pop\u2019s most popular star",
+    "link": "https://www.theguardian.com/music/2026/feb/27/its-good-music-not-a-guilty-pleasure-how-bruno-mars-embraced-cheese-to-become-pops-most-popular-star",
+    "mean_score": 0.6606,
+    "vader_score": 0.8087,
+    "textblob_score": 0.5125,
+    "first_sentence": "Sixteen years since his sugary debut Just the Way You Are became a megahit, Bruno Mars is the most-streamed musician in the world.",
+    "timestamp": "2026-02-27T10:40:38Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Liverpool\u2019s title win last season fuelled by Premier League\u2019s highest wage bill",
     "link": "https://www.theguardian.com/football/2026/feb/27/liverpool-premier-league-highest-wage-bill-title-arne-slot",
     "mean_score": 0.4929,
