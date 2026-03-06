@@ -1,6 +1,36 @@
 {
-  "last run": "2026-03-06T01:39:54Z",
+  "last run": "2026-03-06T03:05:23Z",
   "stories": [
+    {
+      "headline": "From a hilarious novel to a stellar charity album \u2014 we have your weekend covered",
+      "link": "https://www.abc.net.au/news/2026-03-06/what-to-watch-read-and-listen-to-this-weekend/106376416",
+      "mean_score": 0.5766,
+      "vader_score": 0.7783,
+      "textblob_score": 0.375,
+      "first_sentence": "From a laugh-out-loud novel to classic TV for adults and kids, there's plenty of culture to dig into this weekend.",
+      "timestamp": "2026-03-06T03:00:00Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Cillian Murphy hails 'humbling' love for Peaky Blinders as film is released",
+      "link": "https://www.bbc.com/news/articles/c4g225kzxrlo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4685,
+      "vader_score": 0.6369,
+      "textblob_score": 0.3,
+      "first_sentence": "Cillian Murphy has said it's \"wonderfully humbling\" to see the passion for Peaky Blinders, as he reprises his long-running role as Tommy Shelby in a feature film.",
+      "timestamp": "2026-03-06T02:31:09Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Getting an ADHD diagnosis may be easier, but will it make things better?",
+      "link": "https://www.abc.net.au/news/2026-03-06/adhd-diagnosis-changes-gp-doctor-demand/106419522",
+      "mean_score": 0.5978,
+      "vader_score": 0.6956,
+      "textblob_score": 0.5,
+      "first_sentence": "GPs around Australia are being trained to make an ADHD diagnosis and prescribe medications.",
+      "timestamp": "2026-03-06T02:16:19Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Teen photographer captures rural WA's beauty in first solo exhibition",
       "link": "https://www.abc.net.au/news/2026-03-06/casey-jacobs-young-photographer-agriculture-focus/106405544",
@@ -2470,36 +2500,6 @@
       "first_sentence": "The two men on the sofa, Rush\u2019s Geddy Lee and Alex Lifeson, have known each other for 60 years now.",
       "timestamp": "2026-02-27T05:00:32Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Green party wins Gorton and Denton byelection, pushing Labour to third place in blow to Keir Starmer",
-      "link": "https://www.theguardian.com/politics/2026/feb/27/green-party-wins-gorton-and-denton-byelection-in-blow-to-keir-starmer",
-      "mean_score": 0.392,
-      "vader_score": 0.7506,
-      "textblob_score": 0.0333,
-      "first_sentence": "The Green party has pulled off a landmark victory in the Gorton and Denton byelection in a significant blow to Keir Starmer.",
-      "timestamp": "2026-02-27T04:32:01Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Six months since coming out Mitch Brown believes the AFL will do better",
-      "link": "https://www.abc.net.au/news/2026-02-27/mitch-brown-hosts-mardi-gras-parade/106388108",
-      "mean_score": 0.4702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.5,
-      "first_sentence": "Three months after ex-AFL player, Mitch Brown, made the historic decision to come out as bisexual he was bailed up by a media staffer at a Lady Gaga concert.",
-      "timestamp": "2026-02-27T03:21:50Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Sussan Ley won't return to parliament for farewell but is 'proud' of leadership milestone",
-      "link": "https://www.sbs.com.au/news/article/sussan-ley-hands-in-resignation-letter-says-proud-of-being-first-female-leader/aw2x6yigp",
-      "mean_score": 0.7155,
-      "vader_score": 0.631,
-      "textblob_score": 0.8,
-      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-      "timestamp": "2026-02-27T01:11:30Z",
-      "source": "SBS News"
     }
   ]
 }
