@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Champions League last-16 draw: Manchester City face Real Madrid, Chelsea get PSG",
+    "link": "https://www.theguardian.com/football/2026/feb/27/champions-league-last-16-draw-manchester-city-chelsea-newcastle-liverpool-tottenham-arsenal",
+    "mean_score": 0.3633,
+    "vader_score": 0.5267,
+    "textblob_score": 0.2,
+    "first_sentence": "The draw for the last 16 of the Champions League has thrown up some intriguing heavyweight clashes.",
+    "timestamp": "2026-02-27T12:28:19Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "The Wanted's Max George says heart condition was 'a blessing in ways'",
+    "link": "https://www.bbc.com/news/articles/cwy8pnd4z77o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4063,
+    "vader_score": 0.8126,
+    "textblob_score": 0.0,
+    "first_sentence": "The Wanted singer Max George has said that his heart condition has been \"a blessing in ways\" as it has led to him connecting with many other young people going through something similar.",
+    "timestamp": "2026-02-27T12:24:11Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Green win shows progressive voters are now voting against Labour as well as Reform",
     "link": "https://www.theguardian.com/politics/2026/feb/27/green-win-gorton-and-denton-byelection-progressive-voters-labour-reform-analysis",
     "mean_score": 0.5048,
