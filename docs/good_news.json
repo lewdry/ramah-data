@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-07T03:46:43Z",
+  "last run": "2026-03-07T04:36:04Z",
   "stories": [
+    {
+      "headline": "Australian Grand Prix: F1 qualifying \u2013 live",
+      "link": "https://www.theguardian.com/sport/live/2026/mar/07/australian-grand-prix-f1-melbourne-qualifying-live",
+      "mean_score": 0.3355,
+      "vader_score": 0.4588,
+      "textblob_score": 0.2121,
+      "first_sentence": "Word from the Mercedes garage is that they\u2019re hopeful that Kimi Antonelli will be able to take part in qualifying after his big crash in FP3, with the power unit and chassis emerging unscathed from the incident and leaving a gearbox replacement as the largest outstanding job.",
+      "timestamp": "2026-03-07T04:29:50Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Zempilas tells right-wing conference Liberals must win back 'lost Australians'",
       "link": "https://www.abc.net.au/news/2026-03-07/basil-zempilas-addresses-conservative-conference-in-perth/106427784",
@@ -2490,16 +2500,6 @@
       "first_sentence": "A trip to the hairdresser with her son used to be a complicated exercise for Lucy Horne.",
       "timestamp": "2026-02-27T22:04:25Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Five Great Reads: New York\u2019s favourite dive bar, coping with chronic fatigue, and a royal biographer spills the beans",
-      "link": "https://www.theguardian.com/australia-news/2026/feb/28/five-great-reads-cbgbs-gisele-pelicot-andrew-mountbatten-windsor",
-      "mean_score": 0.4724,
-      "vader_score": 0.4767,
-      "textblob_score": 0.4682,
-      "first_sentence": "Good morning, and happy Mardi Gras to everyone in Sydney.",
-      "timestamp": "2026-02-27T21:00:52Z",
-      "source": "The Guardian"
     }
   ]
 }
