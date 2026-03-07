@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-07T19:09:18Z",
+  "last run": "2026-03-07T20:09:26Z",
   "stories": [
+    {
+      "headline": "What time the Australian Grand Prix starts and how to follow the race",
+      "link": "https://www.abc.net.au/news/2026-03-08/f1-australian-grand-prix-race-start-how-to-watch-oscar-piastri/106427720",
+      "mean_score": 0.3544,
+      "vader_score": 0.4588,
+      "textblob_score": 0.25,
+      "first_sentence": "The first grand prix of the Formula 1 season has arrived, with 11 teams and 22 drivers poised to battle in Melbourne.",
+      "timestamp": "2026-03-07T19:41:58Z",
+      "source": "ABC News"
+    },
     {
       "headline": "\u2018Incredibly liveable and creatively buzzy\u2019: Bret McKenzie\u2019s guide to Wellington/Te Whanganui-a-Tara",
       "link": "https://www.theguardian.com/travel/2026/mar/08/bret-mckenzie-guide-wellington-new-zealand",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.5,
       "first_sentence": "He may not be a cyclist, but the photographer was drawn by this bike shop\u2019s jumble of frames and partsMichael Krupka had passed Philadelphia\u2019s Via Bicycle repair shop for years before he ventured inside.",
       "timestamp": "2026-02-28T11:00:09Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Premier League buildup, Champions League draw reaction, and more \u2013 matchday live",
-      "link": "https://www.theguardian.com/football/live/2026/feb/28/premier-league-buildup-champions-league-draw-reaction-and-more-matchday-live",
-      "mean_score": 0.4224,
-      "vader_score": 0.5267,
-      "textblob_score": 0.3182,
-      "first_sentence": "This is usually the time on matchday live blogs when we chuck you a friendly reminder to beat the Fantasy Premier League deadline and sort out your transfers etc.",
-      "timestamp": "2026-02-28T10:05:20Z",
       "source": "The Guardian"
     }
   ]
