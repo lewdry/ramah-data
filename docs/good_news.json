@@ -1,6 +1,46 @@
 {
-  "last run": "2026-03-07T18:11:41Z",
+  "last run": "2026-03-07T19:09:18Z",
   "stories": [
+    {
+      "headline": "\u2018Incredibly liveable and creatively buzzy\u2019: Bret McKenzie\u2019s guide to Wellington/Te Whanganui-a-Tara",
+      "link": "https://www.theguardian.com/travel/2026/mar/08/bret-mckenzie-guide-wellington-new-zealand",
+      "mean_score": 0.5306,
+      "vader_score": 0.3612,
+      "textblob_score": 0.7,
+      "first_sentence": "I\u2019ve been based in Wellington for most of my life, aside from a stint in Los Angeles.",
+      "timestamp": "2026-03-07T19:00:06Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "The moment I knew: He stepped out of the shower and into a robe \u2013 he looked pretty handsome",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/mar/07/moment-i-knew-shower-robe-handsome",
+      "mean_score": 0.5628,
+      "vader_score": 0.7506,
+      "textblob_score": 0.375,
+      "first_sentence": "We met in 1998, at a health and relationship course run back then by the Gay Men\u2019s Health Centre in Melbourne.",
+      "timestamp": "2026-03-07T19:00:04Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "'You had to think on your feet': How Ranger Stacey became loved by Australian kids",
+      "link": "https://www.abc.net.au/news/science/2026-03-08/ranger-stacey-totally-wild-environment-tv-programs/106386130",
+      "mean_score": 0.4747,
+      "vader_score": 0.5994,
+      "textblob_score": 0.35,
+      "first_sentence": "Nineties kids didn't dawdle on the way home from school in the afternoon.",
+      "timestamp": "2026-03-07T18:30:00Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Insist you're the best at trivia all you want \u2014 I know the truth",
+      "link": "https://www.abc.net.au/news/2026-03-08/hard-quiz-weekly-trivia/106405696",
+      "mean_score": 0.8891,
+      "vader_score": 0.7783,
+      "textblob_score": 1.0,
+      "first_sentence": "I'm so glad you're back for another round! Just kidding, as if I'd ever say that.",
+      "timestamp": "2026-03-07T18:30:00Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Iran president apologises for striking neighbours",
       "link": "https://www.bbc.co.uk/sounds/play/p0n57ljj?at_medium=RSS&at_campaign=rss",
@@ -2459,46 +2499,6 @@
       "textblob_score": 0.3182,
       "first_sentence": "This is usually the time on matchday live blogs when we chuck you a friendly reminder to beat the Fantasy Premier League deadline and sort out your transfers etc.",
       "timestamp": "2026-02-28T10:05:20Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Parents, are you sure your kid's car seat is installed right? Here's how to know",
-      "link": "https://www.npr.org/2026/02/28/nx-s1-5711482/children-safety-parents-car-seats-mistakes",
-      "mean_score": 0.3555,
-      "vader_score": 0.3182,
-      "textblob_score": 0.3929,
-      "first_sentence": "Parents, are you sure you've got your kid's car seat installed right?.",
-      "timestamp": "2026-02-28T10:00:00Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Asako Yuzuki: \u2018I\u2019m very far from the ideal Japanese woman\u2019",
-      "link": "https://www.theguardian.com/books/2026/feb/28/asako-yuzuki-im-very-far-from-the-ideal-japanese-woman",
-      "mean_score": 0.435,
-      "vader_score": 0.5267,
-      "textblob_score": 0.3433,
-      "first_sentence": "As anyone who has read Yuzuki\u2019s international bestseller Butter will know, Yuzuki is all about food.",
-      "timestamp": "2026-02-28T09:00:07Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "My cultural awakening: Leonardo da Vinci made me rethink surgery \u2013 I\u2019ve since mended more than 3,000 hearts",
-      "link": "https://www.theguardian.com/culture/2026/feb/28/my-cultural-awakening-leonardo-da-vinci-made-me-rethink-heart-surgery",
-      "mean_score": 0.4886,
-      "vader_score": 0.6771,
-      "textblob_score": 0.3,
-      "first_sentence": "If you\u2019d asked my teenage self, growing up in a small village in Shropshire, what I wanted to do with my life, I would have talked about art and music long before I spoke of scalpel blades and operating theatres.",
-      "timestamp": "2026-02-28T07:00:09Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018I know I can do it again \u2013 100%\u2019: Lando Norris on proving himself against the best in F1",
-      "link": "https://www.theguardian.com/sport/2026/feb/28/lando-norris-f1-world-champion-interview-2026-season",
-      "mean_score": 0.8185,
-      "vader_score": 0.6369,
-      "textblob_score": 1.0,
-      "first_sentence": "Lando Norris recalls being rendered speechless with joy when he was given his first contract with McLaren.",
-      "timestamp": "2026-02-28T07:00:08Z",
       "source": "The Guardian"
     }
   ]

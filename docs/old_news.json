@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Parents, are you sure your kid's car seat is installed right? Here's how to know",
+    "link": "https://www.npr.org/2026/02/28/nx-s1-5711482/children-safety-parents-car-seats-mistakes",
+    "mean_score": 0.3555,
+    "vader_score": 0.3182,
+    "textblob_score": 0.3929,
+    "first_sentence": "Parents, are you sure you've got your kid's car seat installed right?.",
+    "timestamp": "2026-02-28T10:00:00Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "Asako Yuzuki: \u2018I\u2019m very far from the ideal Japanese woman\u2019",
+    "link": "https://www.theguardian.com/books/2026/feb/28/asako-yuzuki-im-very-far-from-the-ideal-japanese-woman",
+    "mean_score": 0.435,
+    "vader_score": 0.5267,
+    "textblob_score": 0.3433,
+    "first_sentence": "As anyone who has read Yuzuki\u2019s international bestseller Butter will know, Yuzuki is all about food.",
+    "timestamp": "2026-02-28T09:00:07Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "My cultural awakening: Leonardo da Vinci made me rethink surgery \u2013 I\u2019ve since mended more than 3,000 hearts",
+    "link": "https://www.theguardian.com/culture/2026/feb/28/my-cultural-awakening-leonardo-da-vinci-made-me-rethink-heart-surgery",
+    "mean_score": 0.4886,
+    "vader_score": 0.6771,
+    "textblob_score": 0.3,
+    "first_sentence": "If you\u2019d asked my teenage self, growing up in a small village in Shropshire, what I wanted to do with my life, I would have talked about art and music long before I spoke of scalpel blades and operating theatres.",
+    "timestamp": "2026-02-28T07:00:09Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "\u2018I know I can do it again \u2013 100%\u2019: Lando Norris on proving himself against the best in F1",
+    "link": "https://www.theguardian.com/sport/2026/feb/28/lando-norris-f1-world-champion-interview-2026-season",
+    "mean_score": 0.8185,
+    "vader_score": 0.6369,
+    "textblob_score": 1.0,
+    "first_sentence": "Lando Norris recalls being rendered speechless with joy when he was given his first contract with McLaren.",
+    "timestamp": "2026-02-28T07:00:08Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Six great reads: Gis\u00e8le Pelicot, Olympic politics and European dating tips",
     "link": "https://www.theguardian.com/news/2026/feb/28/six-great-reads-gisele-pelicot-olympic-politics-european-dating-tips",
     "mean_score": 0.5125,
