@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-07T05:20:59Z",
+  "last run": "2026-03-07T06:17:00Z",
   "stories": [
+    {
+      "headline": "Hero teen reunited with rescuers who saved family swept out to sea",
+      "link": "https://www.abc.net.au/news/2026-03-07/appelbee-family-thanks-rescuers-who-saved-them/106425048",
+      "mean_score": 0.3753,
+      "vader_score": 0.7506,
+      "textblob_score": 0.0,
+      "first_sentence": "A WA teenager who swam four kilometres to get help for his mother and siblings after they were swept out to sea has been reunited with the rescuers who helped him save his family.",
+      "timestamp": "2026-03-07T05:38:01Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Australian Grand Prix: F1 qualifying \u2013 live",
       "link": "https://www.theguardian.com/sport/live/2026/mar/07/australian-grand-prix-f1-melbourne-qualifying-live",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Message received.",
       "timestamp": "2026-02-27T22:47:36Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "How a cape that 'feels like a bear hug' helps kids on the spectrum",
-      "link": "https://www.abc.net.au/news/2026-02-28/sensory-suit-developed-by-mum-for-neurodivergent-kids/106305416",
-      "mean_score": 0.401,
-      "vader_score": 0.802,
-      "textblob_score": 0.0,
-      "first_sentence": "A trip to the hairdresser with her son used to be a complicated exercise for Lucy Horne.",
-      "timestamp": "2026-02-27T22:04:25Z",
-      "source": "ABC News"
     }
   ]
 }
