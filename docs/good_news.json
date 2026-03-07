@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-07T16:09:54Z",
+  "last run": "2026-03-07T17:08:53Z",
   "stories": [
+    {
+      "headline": "Iran president apologises for striking neighbours",
+      "link": "https://www.bbc.co.uk/sounds/play/p0n57ljj?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3512,
+      "vader_score": 0.2023,
+      "textblob_score": 0.5,
+      "first_sentence": "President says Iran will stop striking Gulf states if no attacks originate from them.",
+      "timestamp": "2026-03-07T14:28:00Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Too hyped up to sleep? Rituals to calm your body and mind before bed",
       "link": "https://www.npr.org/2026/03/07/nx-s1-5734392/sleep-better-wind-down-routine-bedtime-rituals",
@@ -2489,16 +2499,6 @@
       "textblob_score": 1.0,
       "first_sentence": "Lando Norris recalls being rendered speechless with joy when he was given his first contract with McLaren.",
       "timestamp": "2026-02-28T07:00:08Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Six great reads: Gis\u00e8le Pelicot, Olympic politics and European dating tips",
-      "link": "https://www.theguardian.com/news/2026/feb/28/six-great-reads-gisele-pelicot-olympic-politics-european-dating-tips",
-      "mean_score": 0.5125,
-      "vader_score": 0.6249,
-      "textblob_score": 0.4,
-      "first_sentence": "From the US men\u2019s hockey team\u2019s chummy phone call with Trump to the backlash against Hunter Hess and others who criticised the US president, Milan-Cortina was an unusually political Winter Olympics.",
-      "timestamp": "2026-02-28T06:00:06Z",
       "source": "The Guardian"
     }
   ]
