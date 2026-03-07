@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-07T01:39:03Z",
+  "last run": "2026-03-07T02:58:07Z",
   "stories": [
+    {
+      "headline": "Zempilas tells right-wing conference Liberals must win back 'lost Australians'",
+      "link": "https://www.abc.net.au/news/2026-03-07/basil-zempilas-addresses-conservative-conference-in-perth/106427784",
+      "mean_score": 0.3806,
+      "vader_score": 0.3612,
+      "textblob_score": 0.4,
+      "first_sentence": "Basil Zempilas has told a conservative conference the Liberal Party must win back the \"lost Australians\" if it wants to re-emerge as a political force.",
+      "timestamp": "2026-03-07T02:19:45Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "In China's great hall of power, we had questions. So began a delicate dance",
+      "link": "https://www.abc.net.au/news/2026-03-07/china-does-not-want-politicians-talking-to-reporters/106425346",
+      "mean_score": 0.4636,
+      "vader_score": 0.6771,
+      "textblob_score": 0.25,
+      "first_sentence": "Unlike Australia, where journalists would have near-daily access to speak with decision-makers and hold politicians to account, those in charge in China are closed-off from public scrutiny.",
+      "timestamp": "2026-03-07T02:00:00Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Ex-Liberal MP says the party must introduce gender quotas to start winning elections",
       "link": "https://www.theguardian.com/australia-news/2026/mar/06/australian-liberal-party-gender-quotas",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Good morning, and happy Mardi Gras to everyone in Sydney.",
       "timestamp": "2026-02-27T21:00:52Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Algorithm denies high level care for Melbourne man with advanced MND",
-      "link": "https://www.abc.net.au/news/2026-02-28/graham-crossan-mnd-ndis-funding-fight/106397572",
-      "mean_score": 0.31,
-      "vader_score": 0.34,
-      "textblob_score": 0.28,
-      "first_sentence": "Melbourne man Graham Crossan has advanced motor neurone disease and cannot eat, talk or breathe unassisted.",
-      "timestamp": "2026-02-27T20:06:31Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Prince William's 'calm state' comment about Andrew could signal a striking shift",
-      "link": "https://www.abc.net.au/news/2026-02-28/prince-william-is-set-to-inherit-the-andrew-problem-/106385970",
-      "mean_score": 0.3591,
-      "vader_score": 0.3182,
-      "textblob_score": 0.4,
-      "first_sentence": "When Prince William and Princess Catherine stepped out for their first public appearance since Andrew Mountbatten-Windsor's arrest, an innocuous question was levelled at them.",
-      "timestamp": "2026-02-27T19:33:37Z",
-      "source": "ABC News"
     }
   ]
 }

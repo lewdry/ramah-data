@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Algorithm denies high level care for Melbourne man with advanced MND",
+    "link": "https://www.abc.net.au/news/2026-02-28/graham-crossan-mnd-ndis-funding-fight/106397572",
+    "mean_score": 0.31,
+    "vader_score": 0.34,
+    "textblob_score": 0.28,
+    "first_sentence": "Melbourne man Graham Crossan has advanced motor neurone disease and cannot eat, talk or breathe unassisted.",
+    "timestamp": "2026-02-27T20:06:31Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Prince William's 'calm state' comment about Andrew could signal a striking shift",
+    "link": "https://www.abc.net.au/news/2026-02-28/prince-william-is-set-to-inherit-the-andrew-problem-/106385970",
+    "mean_score": 0.3591,
+    "vader_score": 0.3182,
+    "textblob_score": 0.4,
+    "first_sentence": "When Prince William and Princess Catherine stepped out for their first public appearance since Andrew Mountbatten-Windsor's arrest, an innocuous question was levelled at them.",
+    "timestamp": "2026-02-27T19:33:37Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "The AI apocalypse is nigh in Good Luck, Have Fun, Don't Die",
     "link": "https://arstechnica.com/culture/2026/02/the-ai-apocalypse-is-nigh-in-good-luck-have-fun-dont-die/",
     "mean_score": 0.7036,
