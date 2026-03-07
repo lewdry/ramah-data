@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Blind date: \u2018I was hoping for a lovely time, a fancy dinner and to meet the love of my life. I got two out of three\u2019",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/feb/28/blind-date-brigitte-jack",
+    "mean_score": 0.5054,
+    "vader_score": 0.8442,
+    "textblob_score": 0.1667,
+    "first_sentence": "What were you hoping for?\n Great food, great company and hopefully an evening that could be the\u00a0beginning of something.",
+    "timestamp": "2026-02-28T06:00:04Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Rent tops \u00a31,000 a month in more areas - find out where",
     "link": "https://www.bbc.com/news/articles/cx28njn2dwpo?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.5053,
