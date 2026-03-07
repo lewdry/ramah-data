@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Rent tops \u00a31,000 a month in more areas - find out where",
+    "link": "https://www.bbc.com/news/articles/cx28njn2dwpo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.5053,
+    "vader_score": 0.5106,
+    "textblob_score": 0.5,
+    "first_sentence": "Renters are paying an average of at least \u00a31,000 a month for a new tenancy in more than half of British neighbourhoods, according to data shared with the BBC.",
+    "timestamp": "2026-02-28T00:14:04Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Unleash your super power: how to prevent your retirement savings from funding fossil fuels",
+    "link": "https://www.theguardian.com/australia-news/2026/feb/28/superannuation-fund-ethical-investment-retirement-savings",
+    "mean_score": 0.4729,
+    "vader_score": 0.6124,
+    "textblob_score": 0.3333,
+    "first_sentence": "Superannuation is a multitrillion-dollar nest egg, and where those retirement savings are invested can play a part in Australia\u2019s path to net zero.",
+    "timestamp": "2026-02-27T23:00:56Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Australia\u2019s best photos of the month \u2013 February 2026",
     "link": "https://www.theguardian.com/australia-news/gallery/2026/feb/28/australia-best-photos-february-2026",
     "mean_score": 0.8185,
