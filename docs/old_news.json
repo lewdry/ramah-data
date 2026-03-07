@@ -1,5 +1,35 @@
 [
   {
+    "headline": "From Amarillo to Stockport: 15 of Neil Sedaka\u2019s greatest songs, and their extraordinary stories",
+    "link": "https://www.theguardian.com/music/2026/feb/28/15-neil-sedaka-greatest-songs-extraordinary-stories",
+    "mean_score": 0.6518,
+    "vader_score": 0.6369,
+    "textblob_score": 0.6667,
+    "first_sentence": "As a young jobbing songwriter charged with devising a hit for Connie Francis after the singer released a couple of flops, Neil Sedaka was unsure about Stupid Cupid: modest to a fault, he suggested that Francis, \u201ca classy lady\u201d, would be insulted by its daftness.",
+    "timestamp": "2026-02-28T12:34:08Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "North Carolina Democrats latest to chart future of the party in congressional primary",
+    "link": "https://www.npr.org/2026/02/28/nx-s1-5726425/nc-primary-election-foushee-allam",
+    "mean_score": 0.3509,
+    "vader_score": 0.4019,
+    "textblob_score": 0.3,
+    "first_sentence": "DURHAM, N.C.",
+    "timestamp": "2026-02-28T12:00:00Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "\u2018I\u2019d hoped to capture the graphic chaos in the window. What I found was an even more tangled scene\u2019: Michael Krupka\u2019s best phone picture",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/feb/28/michael-krupka-best-phone-picture-philadelphia-via-bicycle-repair-shop",
+    "mean_score": 0.4884,
+    "vader_score": 0.4767,
+    "textblob_score": 0.5,
+    "first_sentence": "He may not be a cyclist, but the photographer was drawn by this bike shop\u2019s jumble of frames and partsMichael Krupka had passed Philadelphia\u2019s Via Bicycle repair shop for years before he ventured inside.",
+    "timestamp": "2026-02-28T11:00:09Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Premier League buildup, Champions League draw reaction, and more \u2013 matchday live",
     "link": "https://www.theguardian.com/football/live/2026/feb/28/premier-league-buildup-champions-league-draw-reaction-and-more-matchday-live",
     "mean_score": 0.4224,
