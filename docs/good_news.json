@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-07T06:17:00Z",
+  "last run": "2026-03-07T07:14:26Z",
   "stories": [
+    {
+      "headline": "Why are cats\u2019 ears on top of their head and not at the sides? The kids\u2019 quiz",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/mar/07/why-are-cats-ears-on-top-of-their-head-and-not-at-the-sides-the-kids-quiz",
+      "mean_score": 0.3512,
+      "vader_score": 0.2023,
+      "textblob_score": 0.5,
+      "first_sentence": "Molly Oldfield hosts Everything Under the Sun, a podcast answering children\u2019s questions.",
+      "timestamp": "2026-03-07T07:00:46Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Hero teen reunited with rescuers who saved family swept out to sea",
       "link": "https://www.abc.net.au/news/2026-03-07/appelbee-family-thanks-rescuers-who-saved-them/106425048",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Phoebe Thorburn (they/them) is an autistic writer, cook and developer of inclusive recipes from Naarm/Melbourne.",
       "timestamp": "2026-02-27T23:00:00Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Pulp have the last word in Adelaide festival saga with triumphant opening gig",
-      "link": "https://www.theguardian.com/culture/2026/feb/28/pulp-adelaide-festival-opening-night-outdoor-concert",
-      "mean_score": 0.3825,
-      "vader_score": 0.765,
-      "textblob_score": 0.0,
-      "first_sentence": "Message received.",
-      "timestamp": "2026-02-27T22:47:36Z",
-      "source": "The Guardian"
     }
   ]
 }
