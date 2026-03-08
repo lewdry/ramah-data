@@ -1,5 +1,65 @@
 [
   {
+    "headline": "Simple recipes to celebrate autumn and enjoy the cosy kitchen",
+    "link": "https://www.abc.net.au/news/2026-03-02/five-of-our-best-autumn-recipes-/106392174",
+    "mean_score": 0.4922,
+    "vader_score": 0.7845,
+    "textblob_score": 0.2,
+    "first_sentence": "Autumn means goodbye to the long days of summer but hello to the kind of weather that lends itself a little more to being inside and cooking.",
+    "timestamp": "2026-03-02T04:59:46Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "When Australians can get the best view of the 'eerie' blood moon",
+    "link": "https://www.sbs.com.au/news/article/best-time-to-watch-the-blood-moon-in-australia/6ff2b7f0o",
+    "mean_score": 0.3259,
+    "vader_score": 0.4019,
+    "textblob_score": 0.25,
+    "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+    "timestamp": "2026-03-02T04:52:52Z",
+    "source": "SBS News"
+  },
+  {
+    "headline": "Who is leading Iran now \u2014 and how will a new supreme leader be chosen?",
+    "link": "https://www.sbs.com.au/news/article/how-iran-chooses-a-new-supreme-leader/6yi0ceboy",
+    "mean_score": 0.3469,
+    "vader_score": 0.5574,
+    "textblob_score": 0.1364,
+    "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+    "timestamp": "2026-03-01T22:06:59Z",
+    "source": "SBS News"
+  },
+  {
+    "headline": "Delroy Lindo thankful for \u2018love and support\u2019 after N-word incident at Baftas",
+    "link": "https://www.theguardian.com/film/2026/mar/01/delroy-lindo-baftas-support-michael-b-jordan",
+    "mean_score": 0.5359,
+    "vader_score": 0.5719,
+    "textblob_score": 0.5,
+    "first_sentence": "British-American actor Delroy Lindo expressed gratitude for \u201cthe support and love\u201d he and Michael B Jordan have received after a man with Tourette syndrome (TS) shouted the N-word as the two men presented a Bafta award.",
+    "timestamp": "2026-03-01T21:43:55Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Should tick safety be as popular as 'slip, slop, slap'?",
+    "link": "https://www.abc.net.au/news/2026-03-02/calls-to-increase-tick-safety-awareness-after-death-of-teenager/106391314",
+    "mean_score": 0.6675,
+    "vader_score": 0.7351,
+    "textblob_score": 0.6,
+    "first_sentence": "In early 2025, Queenslander Matt Jacobs couldn't figure out why everything was making him sick.",
+    "timestamp": "2026-03-01T19:34:18Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Arsenal edge battling Chelsea thanks to Timber and Raya to restore five-point lead",
+    "link": "https://www.theguardian.com/football/2026/mar/01/arsenal-chelsea-premier-league-match-report",
+    "mean_score": 0.3294,
+    "vader_score": 0.4588,
+    "textblob_score": 0.2,
+    "first_sentence": "There were 63 minutes on the Emirates Stadium clock and the Arsenal crowd were in a state of extreme agitation.",
+    "timestamp": "2026-03-01T18:54:04Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Teeth, finger bones and blessings: Buddhist relics inspire belief",
     "link": "https://apnews.com/article/buddhism-relics-buddha-tooth-shariras-1f2f8dca3b4431a77c3e19e653d94896",
     "mean_score": 0.401,
