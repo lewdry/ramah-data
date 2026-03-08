@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-08T08:12:19Z",
+  "last run": "2026-03-08T09:11:57Z",
   "stories": [
+    {
+      "headline": "Quick hits: Aussie hearts sink, Russell correctly predicts the future",
+      "link": "https://www.abc.net.au/news/2026-03-08/f1-australian-grand-prix-qualifying-quick-hits-from-albert-park/106427718",
+      "mean_score": 0.4076,
+      "vader_score": 0.6486,
+      "textblob_score": 0.1667,
+      "first_sentence": "Formula 1's first grand prix in the new regulation era had chaos and drama before the drivers got to the grid.",
+      "timestamp": "2026-03-08T08:50:03Z",
+      "source": "ABC News"
+    },
     {
       "headline": "A new Nepali party, led by an ex-rapper, is set for a landslide win in parliamentary election",
       "link": "https://www.npr.org/2026/03/08/nx-s1-5741598/nepali-party-rapper-win-parliamentary-election",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.8,
       "first_sentence": "A single social media post turned what had been one of Syed Usman Shah's  \"proudest moments\" into one of the most overwhelming and upsetting.",
       "timestamp": "2026-03-01T01:04:35Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "How responsible are climbers for each other's safety?",
-      "link": "https://www.bbc.com/news/articles/cwy8ppn4142o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3312,
-      "vader_score": 0.6249,
-      "textblob_score": 0.0375,
-      "first_sentence": "When Rebekah Lee was in her twenties, she decided to embark on an ambitious climb up Mount Stuart in Washington State and \"made a series of bad decisions\".",
-      "timestamp": "2026-03-01T00:57:16Z",
       "source": "BBC News"
     }
   ]
