@@ -5,8 +5,16 @@
     <link>https://lewdry.github.io/ramah/</link>
     <description>Positive news stories from around the world, filtered by sentiment analysis</description>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Mar 2026 05:24:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 06:20:22 GMT</lastBuildDate>
     <atom:link href="https://lewdry.github.io/ramah/good_news.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>George Russell wins Australian Grand Prix in thrilling Formula One season-opener</title>
+      <link>https://www.theguardian.com/sport/2026/mar/08/f1-australian-grand-prix-george-russell-wins-mercedes-formula-one-race</link>
+      <description>George Russell has won the Australian Grand Prix with a commanding drive from the front of the grid and with his Mercedes teammate Kimi Antonelli in second, securing a strong one-two for the team.</description>
+      <source>The Guardian</source>
+      <pubDate>Sun, 08 Mar 2026 05:53:06 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theguardian.com/sport/2026/mar/08/f1-australian-grand-prix-george-russell-wins-mercedes-formula-one-race</guid>
+    </item>
     <item>
       <title>Live: Healy to say farewell as Australia closes in on Test win in Perth</title>
       <link>https://www.abc.net.au/news/2026-03-08/australia-vs-india-women-s-test-day-three-live-blog/106429970</link>
@@ -1999,14 +2007,6 @@
       <source>ABC News</source>
       <pubDate>Sat, 28 Feb 2026 20:25:06 GMT</pubDate>
       <guid isPermaLink="true">https://www.abc.net.au/news/2026-03-01/could-lake-eyre-finally-reach-capacity-after-decades/106395774</guid>
-    </item>
-    <item>
-      <title>With few good strategic options, Iran’s best prospect may be to retaliate while it can</title>
-      <link>https://www.theguardian.com/world/2026/feb/28/strategic-options-iran-retaliate-us-israel-analysis</link>
-      <description>Venezula’s Nicholás Maduro was captured.</description>
-      <source>The Guardian</source>
-      <pubDate>Sat, 28 Feb 2026 20:06:33 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theguardian.com/world/2026/feb/28/strategic-options-iran-retaliate-us-israel-analysis</guid>
     </item>
   </channel>
 </rss>
