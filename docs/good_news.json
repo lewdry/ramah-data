@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-08T14:09:39Z",
+  "last run": "2026-03-08T15:09:16Z",
   "stories": [
+    {
+      "headline": "Balenciaga channels \u2018light through darkness\u2019 of Euphoria in Paris show",
+      "link": "https://www.theguardian.com/fashion/2026/mar/08/balenciaga-euphoria-paris-fashion-week-generation-z-celine",
+      "mean_score": 0.5243,
+      "vader_score": 0.6486,
+      "textblob_score": 0.4,
+      "first_sentence": "The anxiety-spiked, drug-fuelled, hyperstylised technicolour online messiness of generation Z was not on anyone\u2019s bingo card for Balenciaga\u2019s Paris fashion week show.",
+      "timestamp": "2026-03-08T14:42:13Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Which are more like life, novels or films?",
       "link": "https://www.theguardian.com/lifeandstyle/2026/mar/08/which-are-more-like-life-novels-or-films",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Two stonemasons have won a snow sculpting prize as part of Team GB's entry to the World Snow Festival in Switzerland.",
       "timestamp": "2026-03-01T09:02:18Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "\u2018By 18 I was having sex to the music of Brian Eno\u2019: Tim Booth\u2019s honest playlist",
-      "link": "https://www.theguardian.com/music/2026/mar/01/tim-booth-honest-playlist-nina-simone-underworld-don-mclean-patti-smith",
-      "mean_score": 0.5553,
-      "vader_score": 0.5106,
-      "textblob_score": 0.6,
-      "first_sentence": "The James frontman fell for Leonard Cohen as a child and would do Val Doonican at karaoke.",
-      "timestamp": "2026-03-01T09:00:35Z",
-      "source": "The Guardian"
     }
   ]
 }
