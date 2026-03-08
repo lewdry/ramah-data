@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-08T04:38:13Z",
+  "last run": "2026-03-08T05:24:08Z",
   "stories": [
+    {
+      "headline": "Live: Healy to say farewell as Australia closes in on Test win in Perth",
+      "link": "https://www.abc.net.au/news/2026-03-08/australia-vs-india-women-s-test-day-three-live-blog/106429970",
+      "mean_score": 0.527,
+      "vader_score": 0.5859,
+      "textblob_score": 0.4682,
+      "first_sentence": "The path to Test victory is clear for Australia on day three against India at the WACA, in what is set to be Alyssa Healy's final day of cricket for her country.",
+      "timestamp": "2026-03-08T04:53:11Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Australian Grand Prix: F1 race \u2013 live",
       "link": "https://www.theguardian.com/sport/live/2026/mar/08/australian-grand-prix-f1-melbourne-race-live",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.5,
       "first_sentence": "Venezula\u2019s Nichol\u00e1s Maduro was captured.",
       "timestamp": "2026-02-28T20:06:33Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Matildas set off on Asian Cup journey to prove home sequel can be better than the original",
-      "link": "https://www.theguardian.com/football/2026/feb/28/matildas-australia-football-team-womens-asian-cup-preview",
-      "mean_score": 0.4643,
-      "vader_score": 0.6369,
-      "textblob_score": 0.2917,
-      "first_sentence": "The Women\u2019s Asian Cup is a sequel with a difference.",
-      "timestamp": "2026-02-28T19:00:22Z",
       "source": "The Guardian"
     }
   ]
