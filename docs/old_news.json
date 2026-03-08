@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Survey shows successful reintroduction of eastern quolls to mainland Australia",
+    "link": "https://www.abc.net.au/news/2026-03-01/eastern-quoll-breeding-in-western-victoria/106380674",
+    "mean_score": 0.668,
+    "vader_score": 0.5859,
+    "textblob_score": 0.75,
+    "first_sentence": "An endangered \"native cat\" is making a celebrated comeback, with a breeding population of eastern quolls making a new home for themselves in a small pocket of south-east mainland Australia.",
+    "timestamp": "2026-03-01T00:50:12Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Buskers at Australian championships showcase why live is best",
+    "link": "https://www.abc.net.au/news/2026-03-01/buskers-perform-at-australian-championships-heat-stanthorpe/106400160",
+    "mean_score": 0.5957,
+    "vader_score": 0.8126,
+    "textblob_score": 0.3788,
+    "first_sentence": "Dozens of musicians have busted out their best, competing in the national busking championships in Stanthorpe, Queensland.",
+    "timestamp": "2026-03-01T00:09:34Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Sri Lanka helps New Zealand into World Cup semis despite Pakistan defeat",
+    "link": "https://www.abc.net.au/news/2026-03-01/new-zealand-pakistan-sri-lanka-t20-world-cup-semifinals/106401888",
+    "mean_score": 0.3794,
+    "vader_score": 0.6224,
+    "textblob_score": 0.1364,
+    "first_sentence": "New Zealand has been left celebrating in the team hotel as it watched Pakistan fall short in its bold bid to pinch a place in the T20 World Cup semifinals.",
+    "timestamp": "2026-02-28T23:06:58Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "'Timing is impeccable': Record rain for parts of SA",
+    "link": "https://www.abc.net.au/news/2026-03-01/record-rain-in-eyre-peninsula-sa-west-coast/106401748",
+    "mean_score": 0.375,
+    "vader_score": 0.0,
+    "textblob_score": 0.75,
+    "first_sentence": "Record rainfall has been welcomed by some in the Eyre Peninsula.",
+    "timestamp": "2026-02-28T22:49:15Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Where does all that rain end up? Here, and Lake Eyre watchers are excited",
     "link": "https://www.abc.net.au/news/2026-03-01/could-lake-eyre-finally-reach-capacity-after-decades/106395774",
     "mean_score": 0.3575,
