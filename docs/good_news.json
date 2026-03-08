@@ -1,6 +1,46 @@
 {
-  "last run": "2026-03-08T13:20:50Z",
+  "last run": "2026-03-08T14:09:39Z",
   "stories": [
+    {
+      "headline": "Which are more like life, novels or films?",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/mar/08/which-are-more-like-life-novels-or-films",
+      "mean_score": 0.46,
+      "vader_score": 0.4201,
+      "textblob_score": 0.5,
+      "first_sentence": "Readers reply: what if Shakespeare was dropped in modern-day London?.",
+      "timestamp": "2026-03-08T14:00:23Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "My teenager is exploring her spirituality. I support her leap of faith, even as a non-religious parent | Jackie Bailey",
+      "link": "https://www.theguardian.com/commentisfree/2026/mar/09/parenting-teenager-exploring-spirituality-religion",
+      "mean_score": 0.3352,
+      "vader_score": 0.6705,
+      "textblob_score": 0.0,
+      "first_sentence": "My teenager has recently decided to believe in God.",
+      "timestamp": "2026-03-08T14:00:21Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Ex-rapper Balendra Shah set to be Nepal PM after party\u2019s landslide election win",
+      "link": "https://www.theguardian.com/world/2026/mar/08/ex-rapper-balendra-shah-nepal-pm-landslide-election-win",
+      "mean_score": 0.6929,
+      "vader_score": 0.5859,
+      "textblob_score": 0.8,
+      "first_sentence": "Balendra Shah, the rapper turned politician and popular figurehead of a gen Z revolution, looks set to become Nepal\u2019s next prime minister after his party won by an unprecedented margin.",
+      "timestamp": "2026-03-08T13:47:22Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Democrat Roy Cooper needs to defy North Carolina history to keep winning streak alive in Senate race",
+      "link": "https://apnews.com/article/north-carolina-senate-cooper-whatley-trump-midterms-4c3b0a0b33bf57de9bc5bffa6e13cb4c",
+      "mean_score": 0.5092,
+      "vader_score": 0.7184,
+      "textblob_score": 0.3,
+      "first_sentence": "RALEIGH, N.C.",
+      "timestamp": "2026-03-08T13:23:01Z",
+      "source": "AP News"
+    },
     {
       "headline": "\u2018The antithesis of what Gen Z grew up with\u2019: Love Story inspires fervor for Carolyn Bessette\u2019s style",
       "link": "https://www.theguardian.com/fashion/2026/mar/08/love-story-fervor-carolyn-bessette-style",
@@ -2459,46 +2499,6 @@
       "textblob_score": 0.6,
       "first_sentence": "The James frontman fell for Leonard Cohen as a child and would do Val Doonican at karaoke.",
       "timestamp": "2026-03-01T09:00:35Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Aussie Green hangs on to win Women's World Championship by one shot",
-      "link": "https://www.abc.net.au/news/2026-03-01/golf-hannah-green-wins-world-championship-singapore/106403006",
-      "mean_score": 0.5359,
-      "vader_score": 0.7717,
-      "textblob_score": 0.3,
-      "first_sentence": "Hannah Green has won the Women's World Championship in Singapore by one stroke.",
-      "timestamp": "2026-03-01T08:36:15Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Live: Matildas up and running with Asian Cup win over Filipinas",
-      "link": "https://www.abc.net.au/news/2026-03-01/asian-cup-matildas-vs-philippines-live-updates/106392606",
-      "mean_score": 0.449,
-      "vader_score": 0.5859,
-      "textblob_score": 0.3121,
-      "first_sentence": "The Matildas get off to a winning start, but the Filipinas don't make things easy in the opening game of the 2026 Women's Asian Cup at Perth Stadium.",
-      "timestamp": "2026-03-01T08:06:24Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "'It's joy in a pot': Why houseplants could make you happier",
-      "link": "https://www.bbc.com/news/articles/c0jven2eevlo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.801,
-      "vader_score": 0.802,
-      "textblob_score": 0.8,
-      "first_sentence": "Jonny Balchandani is so passionate about plants he turned his spare bedroom into a  greenhouse.",
-      "timestamp": "2026-03-01T07:21:33Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Stunning views, honesty shops and community pubs: people power on the Ll\u0177n peninsula in Wales",
-      "link": "https://www.theguardian.com/travel/2026/mar/01/views-honesty-shops-community-pubs-llyn-peninsula-wales",
-      "mean_score": 0.6001,
-      "vader_score": 0.7003,
-      "textblob_score": 0.5,
-      "first_sentence": "The Guardian\u2019s journalism is independent.",
-      "timestamp": "2026-03-01T07:00:34Z",
       "source": "The Guardian"
     }
   ]
