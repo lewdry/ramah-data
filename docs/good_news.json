@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-08T06:20:22Z",
+  "last run": "2026-03-08T07:17:02Z",
   "stories": [
+    {
+      "headline": "Wildlife trust buys land to create new reserve",
+      "link": "https://www.bbc.com/news/articles/cg5n4148grpo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.398,
+      "vader_score": 0.6597,
+      "textblob_score": 0.1364,
+      "first_sentence": "A wildlife trust celebrating its centenary has bought what will become a new nature reserve for \u00a34.6m.",
+      "timestamp": "2026-03-08T06:45:46Z",
+      "source": "BBC News"
+    },
     {
       "headline": "George Russell wins Australian Grand Prix in thrilling Formula One season-opener",
       "link": "https://www.theguardian.com/sport/2026/mar/08/f1-australian-grand-prix-george-russell-wins-mercedes-formula-one-race",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.75,
       "first_sentence": "Record rainfall has been welcomed by some in the Eyre Peninsula.",
       "timestamp": "2026-02-28T22:49:15Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Where does all that rain end up? Here, and Lake Eyre watchers are excited",
-      "link": "https://www.abc.net.au/news/2026-03-01/could-lake-eyre-finally-reach-capacity-after-decades/106395774",
-      "mean_score": 0.3575,
-      "vader_score": 0.34,
-      "textblob_score": 0.375,
-      "first_sentence": "For the second year in a row, an inland sea is making its slow journey through some of Australia's driest country to its home in the heart of South Australia.",
-      "timestamp": "2026-02-28T20:25:06Z",
       "source": "ABC News"
     }
   ]
