@@ -1,6 +1,46 @@
 {
-  "last run": "2026-03-07T23:08:49Z",
+  "last run": "2026-03-08T00:42:53Z",
   "stories": [
+    {
+      "headline": "How to turn your old Aussie home into an energy efficient haven",
+      "link": "https://www.abc.net.au/news/2026-03-08/cheap-ways-to-improve-energy-efficiency-in-old-homes-/106416634",
+      "mean_score": 0.3497,
+      "vader_score": 0.5994,
+      "textblob_score": 0.1,
+      "first_sentence": "An estimated 70 per cent of Australian homes were built before the introduction of minimum energy efficiency standards, which today is seven stars out of 10.",
+      "timestamp": "2026-03-08T00:10:19Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "New Employment Rights Act \u2018a huge boost for women in the workplace\u2019",
+      "link": "https://www.theguardian.com/law/2026/mar/08/new-employment-rights-act-a-huge-boost-for-women-in-the-workplace",
+      "mean_score": 0.4403,
+      "vader_score": 0.6124,
+      "textblob_score": 0.2682,
+      "first_sentence": "Women will disproportionately benefit from new workers\u2019 rights measures rolled out from next month, according to research.",
+      "timestamp": "2026-03-08T00:01:04Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Free dance school run by 12yo champion pirouettes to success",
+      "link": "https://www.abc.net.au/news/2026-03-08/free-dance-classes-in-armidale-run-by-12-year-old/106369818",
+      "mean_score": 0.624,
+      "vader_score": 0.8979,
+      "textblob_score": 0.35,
+      "first_sentence": "As families struggle with the cost of living, extra-curricular activities such as dancing tend to be the first to go.",
+      "timestamp": "2026-03-07T23:24:37Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Dancers loved practising in this Singapore walkway. Then the complaints came",
+      "link": "https://www.bbc.com/news/articles/c4g4q9xl4p6o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.498,
+      "vader_score": 0.296,
+      "textblob_score": 0.7,
+      "first_sentence": "With its wide floors, floor-to-ceiling mirrors and a ready audience, the underground passage connecting a train station to Singapore's iconic Gardens by the Bay had served as a practice ground for aspiring dancers for years.",
+      "timestamp": "2026-03-07T23:11:02Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Live: Piastri starting on third row of home F1 grand prix in Melbourne",
       "link": "https://www.abc.net.au/news/2026-03-08/f1-live-australian-grand-prix-2026-albert-park-melbourne/106413560",
@@ -20,6 +60,16 @@
       "first_sentence": "Pep Guardiola had Omar Marmoush in the tightest of bear hugs and seemed strangely unwilling to release the smiling Egyptian.",
       "timestamp": "2026-03-07T22:10:58Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "First HBCU D1 women's wrestlers compete at championship",
+      "link": "https://www.npr.org/2026/03/07/nx-s1-5719189/first-hbcu-d1-womens-wrestlers-compete-at-first-national-womens-college-wrestling-championship",
+      "mean_score": 0.3452,
+      "vader_score": 0.4404,
+      "textblob_score": 0.25,
+      "first_sentence": "It's a weekend of firsts in Iowa, where the first national women's college wrestling championship is taking place and the first HBCU Division 1 women's wrestling team is fielding players.",
+      "timestamp": "2026-03-07T22:07:58Z",
+      "source": "NPR News"
     },
     {
       "headline": "What time the Australian Grand Prix starts and how to follow the race",
@@ -2449,56 +2499,6 @@
       "textblob_score": 0.4375,
       "first_sentence": "In my early 30s I\u2019d decided I didn\u2019t want to swipe right on another man holding a fish on dating apps and I was taking tentative steps into the world of dating women in my home base of Brisbane.",
       "timestamp": "2026-02-28T19:00:19Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "From Tennessee to today: Why we still love Arrested Development",
-      "link": "https://www.abc.net.au/news/2026-03-01/arrested-development-speech-interview-womadelaide-hip-hop/106358486",
-      "mean_score": 0.3866,
-      "vader_score": 0.2732,
-      "textblob_score": 0.5,
-      "first_sentence": "DJ Kool Herc started the genre over 50 years ago, and acts like Run-DMC brought an assertive attitude and tough guy image in the 1980s.",
-      "timestamp": "2026-02-28T18:30:00Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Live: Netanyahu says there are 'many signs' Iran's supreme leader 'is gone'",
-      "link": "https://www.abc.net.au/news/2026-03-01/us-israel-launches-airstrikes-in-iran-live-blog/106401380",
-      "mean_score": 0.4378,
-      "vader_score": 0.5574,
-      "textblob_score": 0.3182,
-      "first_sentence": "Israel and the United States have attacked Iran and Tehran has responded with missile and drone attacks across the Middle East.",
-      "timestamp": "2026-02-28T17:41:47Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Our favorite affordable makeup products look more expensive than they really are",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/feb/27/budget-friendly-makeup-routine",
-      "mean_score": 0.3169,
-      "vader_score": 0.4588,
-      "textblob_score": 0.175,
-      "first_sentence": "The Guardian\u2019s journalism is independent.",
-      "timestamp": "2026-02-28T15:15:14Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "New fungal research to support woodland creation",
-      "link": "https://www.bbc.com/news/articles/cx284ljnv31o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3611,
-      "vader_score": 0.5859,
-      "textblob_score": 0.1364,
-      "first_sentence": "New research is being carried out to understand how underground fungal networks influence the creation of woodland.",
-      "timestamp": "2026-02-28T15:11:29Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Flawless, fierce and serving face: the Sydney Mardi Gras Sissy Ball \u2013 in pictures",
-      "link": "https://www.theguardian.com/australia-news/gallery/2026/feb/28/flawless-fierce-and-serving-face-the-sydney-mardi-gras-sissy-ball-in-pictures",
-      "mean_score": 0.7553,
-      "vader_score": 0.5106,
-      "textblob_score": 1.0,
-      "first_sentence": "Inspired by New York\u2019s queer Black and Latinx ballroom scene, the Sissy Ball at the Sydney Gay and Lesbian Mardi Gras is more than an event \u2013 it\u2019s a community.",
-      "timestamp": "2026-02-28T12:47:22Z",
       "source": "The Guardian"
     }
   ]
