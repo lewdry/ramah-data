@@ -1,6 +1,56 @@
 {
-  "last run": "2026-03-08T21:09:42Z",
+  "last run": "2026-03-08T22:08:49Z",
   "stories": [
+    {
+      "headline": "Patient 'effectively ramped' for three days waiting for care",
+      "link": "https://www.abc.net.au/news/2026-03-09/patient-ramped-regional-hospital-for-three-days-before-transfer/106409094",
+      "mean_score": 0.6634,
+      "vader_score": 0.7269,
+      "textblob_score": 0.6,
+      "first_sentence": "When Riverland farmer Mick Evans had a suspected heart attack last year, he was stranded at a regional hospital for almost three days.",
+      "timestamp": "2026-03-08T22:02:33Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Who is Mojtaba Khamenei, Iran's new supreme leader?",
+      "link": "https://www.bbc.com/news/articles/c78xxg05w0zo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3469,
+      "vader_score": 0.5574,
+      "textblob_score": 0.1364,
+      "first_sentence": "Mojtaba Khamenei, the son of Iran's Ayatollah Ali Khamenei who was killed in US-Israeli strikes, has been chosen as his successor.",
+      "timestamp": "2026-03-08T21:51:48Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Four-year-old clumber spaniel called Bruin wins best in show at Crufts",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/mar/08/four-year-old-clumber-spaniel-called-bruin-wins-best-in-show-at-crufts",
+      "mean_score": 0.743,
+      "vader_score": 0.836,
+      "textblob_score": 0.65,
+      "first_sentence": "Bruin, a clumber spaniel, has won the best in show prize at Crufts, which took place at the National Exhibition Centre (NEC) in Birmingham.",
+      "timestamp": "2026-03-08T21:31:45Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Ali Khamenei\u2019s son Mojtaba chosen as Iran\u2019s new supreme leader",
+      "link": "https://www.theguardian.com/world/2026/mar/08/ali-khameneis-son-mojtaba-chosen-as-irans-new-supreme-leader",
+      "mean_score": 0.3469,
+      "vader_score": 0.5574,
+      "textblob_score": 0.1364,
+      "first_sentence": "Mojtaba Khamenei, the second son of the late Iranian supreme leader Ayatollah Ali Khamenei, has been chosen as his successor.",
+      "timestamp": "2026-03-08T21:20:49Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Live: Khamenei's son named as Iran's new supreme leader, state media reports",
+      "link": "https://www.abc.net.au/news/2026-03-09/war-in-the-middle-east-live-trump-israel-iran-live-march-9/106429686",
+      "mean_score": 0.3469,
+      "vader_score": 0.5574,
+      "textblob_score": 0.1364,
+      "first_sentence": "Mojtaba Khamenei will replace his father Ayatollah Ali Khamenei as the country's new supreme leader, state media has reported.",
+      "timestamp": "2026-03-08T19:19:57Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Defiant and proud \u2013 Australian Jews speak out in first ABC National Forum",
       "link": "https://www.abc.net.au/news/2026-03-09/australian-jews-speak-on-abc-national-forum/106429942",
@@ -2450,56 +2500,6 @@
       "first_sentence": "There were 63 minutes on the Emirates Stadium clock and the Arsenal crowd were in a state of extreme agitation.",
       "timestamp": "2026-03-01T18:54:04Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Teeth, finger bones and blessings: Buddhist relics inspire belief",
-      "link": "https://apnews.com/article/buddhism-relics-buddha-tooth-shariras-1f2f8dca3b4431a77c3e19e653d94896",
-      "mean_score": 0.401,
-      "vader_score": 0.802,
-      "textblob_score": 0.0,
-      "first_sentence": "ROSEMEAD, Calif.",
-      "timestamp": "2026-03-01T15:53:02Z",
-      "source": "AP News"
-    },
-    {
-      "headline": "Brave, visionary and queer: the Bohemian brilliance of author George Sand",
-      "link": "https://www.theguardian.com/books/2026/mar/01/brave-visionary-and-queer-the-bohemian-brilliance-of-author-george-sand",
-      "mean_score": 0.8467,
-      "vader_score": 0.8934,
-      "textblob_score": 0.8,
-      "first_sentence": "It would be hard to find a more courageous and perverse, iconic yet controversial figure in European literary history than George Sand.",
-      "timestamp": "2026-03-01T13:08:15Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "How to make the perfect bara brith \u2013 recipe | Felicity Cloake's How to make the perfect \u2026",
-      "link": "https://www.theguardian.com/food/2026/mar/01/how-to-make-the-perfect-bara-brith-recipe-felicity-cloake",
-      "mean_score": 0.9063,
-      "vader_score": 0.8126,
-      "textblob_score": 1.0,
-      "first_sentence": "Bara brith, the traditional Welsh fruit loaf whose name means speckled bread, is, as Ben Mervis notes, not dissimilar to Yorkshire brack, Irish barmbrack and Scottish \u201ckerrie loaf\u201d \u2013 the last is a new one on me, though, of course, I\u2019m more than familiar with how well they all pair with strong tea and cold salty butter.",
-      "timestamp": "2026-03-01T13:00:41Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Italian skier Sofia Goggia wins super-G to regain commanding lead in World Cup discipline standings",
-      "link": "https://apnews.com/article/alpine-skiing-olympics-superg-goggia-shiffrin-7fe98f7b3071bd0bf9989d436d6e8705",
-      "mean_score": 0.3609,
-      "vader_score": 0.5719,
-      "textblob_score": 0.15,
-      "first_sentence": "SOLDEU, Andorra (AP) \u2014 Sofia Goggia won her second super-G of the season Sunday and regained a commanding lead in the race to the World Cup discipline title.",
-      "timestamp": "2026-03-01T12:53:02Z",
-      "source": "AP News"
-    },
-    {
-      "headline": "How succession works in Iran and who could be the country\u2019s next supreme leader",
-      "link": "https://apnews.com/article/iran-supreme-leader-khamenei-succession-c1d1505581d36ffc84d3ededcb10a7d5",
-      "mean_score": 0.3298,
-      "vader_score": 0.6597,
-      "textblob_score": 0.0,
-      "first_sentence": "Ayatollah Ali Khamenei, who assembled theocratic power in Iran over the decades as its supreme leader and sought to turn it into a regional powerhouse, bringing it into confrontation with Israel and the United States over its nuclear program while crushing democracy protesters at home, has died, Iranian state media confirmed early Sunday.",
-      "timestamp": "2026-03-01T12:53:01Z",
-      "source": "AP News"
     }
   ]
 }

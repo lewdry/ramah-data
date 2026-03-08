@@ -1,5 +1,55 @@
 [
   {
+    "headline": "Teeth, finger bones and blessings: Buddhist relics inspire belief",
+    "link": "https://apnews.com/article/buddhism-relics-buddha-tooth-shariras-1f2f8dca3b4431a77c3e19e653d94896",
+    "mean_score": 0.401,
+    "vader_score": 0.802,
+    "textblob_score": 0.0,
+    "first_sentence": "ROSEMEAD, Calif.",
+    "timestamp": "2026-03-01T15:53:02Z",
+    "source": "AP News"
+  },
+  {
+    "headline": "Brave, visionary and queer: the Bohemian brilliance of author George Sand",
+    "link": "https://www.theguardian.com/books/2026/mar/01/brave-visionary-and-queer-the-bohemian-brilliance-of-author-george-sand",
+    "mean_score": 0.8467,
+    "vader_score": 0.8934,
+    "textblob_score": 0.8,
+    "first_sentence": "It would be hard to find a more courageous and perverse, iconic yet controversial figure in European literary history than George Sand.",
+    "timestamp": "2026-03-01T13:08:15Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "How to make the perfect bara brith \u2013 recipe | Felicity Cloake's How to make the perfect \u2026",
+    "link": "https://www.theguardian.com/food/2026/mar/01/how-to-make-the-perfect-bara-brith-recipe-felicity-cloake",
+    "mean_score": 0.9063,
+    "vader_score": 0.8126,
+    "textblob_score": 1.0,
+    "first_sentence": "Bara brith, the traditional Welsh fruit loaf whose name means speckled bread, is, as Ben Mervis notes, not dissimilar to Yorkshire brack, Irish barmbrack and Scottish \u201ckerrie loaf\u201d \u2013 the last is a new one on me, though, of course, I\u2019m more than familiar with how well they all pair with strong tea and cold salty butter.",
+    "timestamp": "2026-03-01T13:00:41Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Italian skier Sofia Goggia wins super-G to regain commanding lead in World Cup discipline standings",
+    "link": "https://apnews.com/article/alpine-skiing-olympics-superg-goggia-shiffrin-7fe98f7b3071bd0bf9989d436d6e8705",
+    "mean_score": 0.3609,
+    "vader_score": 0.5719,
+    "textblob_score": 0.15,
+    "first_sentence": "SOLDEU, Andorra (AP) \u2014 Sofia Goggia won her second super-G of the season Sunday and regained a commanding lead in the race to the World Cup discipline title.",
+    "timestamp": "2026-03-01T12:53:02Z",
+    "source": "AP News"
+  },
+  {
+    "headline": "How succession works in Iran and who could be the country\u2019s next supreme leader",
+    "link": "https://apnews.com/article/iran-supreme-leader-khamenei-succession-c1d1505581d36ffc84d3ededcb10a7d5",
+    "mean_score": 0.3298,
+    "vader_score": 0.6597,
+    "textblob_score": 0.0,
+    "first_sentence": "Ayatollah Ali Khamenei, who assembled theocratic power in Iran over the decades as its supreme leader and sought to turn it into a regional powerhouse, bringing it into confrontation with Israel and the United States over its nuclear program while crushing democracy protesters at home, has died, Iranian state media confirmed early Sunday.",
+    "timestamp": "2026-03-01T12:53:01Z",
+    "source": "AP News"
+  },
+  {
     "headline": "How the internet reacted to Matildas 1-0 win over Philippines",
     "link": "https://www.abc.net.au/news/2026-03-01/how-the-internet-reacted-to-the-matildas-v-philippines/106402566",
     "mean_score": 0.6929,
