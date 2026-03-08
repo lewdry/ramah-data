@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-08T03:07:36Z",
+  "last run": "2026-03-08T04:38:13Z",
   "stories": [
+    {
+      "headline": "Australian Grand Prix: F1 race \u2013 live",
+      "link": "https://www.theguardian.com/sport/live/2026/mar/08/australian-grand-prix-f1-melbourne-race-live",
+      "mean_score": 0.3355,
+      "vader_score": 0.4588,
+      "textblob_score": 0.2121,
+      "first_sentence": "Incredible drama in Melbourne, as the hometown hero Oscar Piastri, the subject of so much attention during the build-up to the race, is out of the Australian Grand Prix after crashing out in the warm-up lap.",
+      "timestamp": "2026-03-08T04:26:42Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Breeding and releasing cane toads a 'bit crazy' but for greater good",
       "link": "https://www.abc.net.au/news/2026-03-08/cane-toad-breeding-program-wa-kimberley/106409356",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.2917,
       "first_sentence": "The Women\u2019s Asian Cup is a sequel with a difference.",
       "timestamp": "2026-02-28T19:00:22Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018The cows beat the shit out of the robots the first day\u2019: the tech revolution designed to improve dairy farming",
-      "link": "https://www.theguardian.com/australia-news/ng-interactive/2026/mar/01/the-cows-beat-the-shit-out-of-the-robots-the-first-day-the-tech-revolution-designed-to-improve-dairy-farming",
-      "mean_score": 0.4047,
-      "vader_score": 0.7845,
-      "textblob_score": 0.025,
-      "first_sentence": "Last October, Dixie farmer Darren Vickers completed construction of the 2.8-acre open shed that will house both his new dairy and 600-strong milking herd.",
-      "timestamp": "2026-02-28T19:00:20Z",
       "source": "The Guardian"
     }
   ]
