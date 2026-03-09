@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-09T20:13:24Z",
+  "last run": "2026-03-09T21:13:51Z",
   "stories": [
+    {
+      "headline": "Politics live: Australia to deploy aircraft to Gulf to protect civilians; PM praises \u2018brave women\u2019 of Iranian football team after visas granted",
+      "link": "https://www.theguardian.com/australia-news/live/2026/mar/10/iran-football-team-tony-burke-anthony-albanese-labor-angus-taylor-coalition-oil-price-inflation-federal-parliament-ntwnfb",
+      "mean_score": 0.6294,
+      "vader_score": 0.7906,
+      "textblob_score": 0.4682,
+      "first_sentence": "Donald Trump\u2019s dramatic announcement about the granting by Australia of asylum to five Iranian women footballers was the big breaking news of the night.",
+      "timestamp": "2026-03-09T21:02:56Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018They are safe here\u2019: five Iranian women footballers granted humanitarian visas in Australia, Burke confirms",
+      "link": "https://www.theguardian.com/football/2026/mar/09/iran-women-football-team-australia-asian-cup",
+      "mean_score": 0.5497,
+      "vader_score": 0.5994,
+      "textblob_score": 0.5,
+      "first_sentence": "Five members of the Iranian women\u2019s football team have been granted humanitarian visas in Australia, with the federal government offering assistance to other players.",
+      "timestamp": "2026-03-09T20:26:55Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Ministers must act more quickly on deepfakes to protect women and girls, Kendall says",
       "link": "https://www.theguardian.com/politics/2026/mar/09/ministers-act-quickly-deepfakes-protect-women-girls-liz-kendall-technology-misogyny",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.2333,
       "first_sentence": "The Calthorpe Arms on Gray\u2019s Inn Road is a fairly atypical central London pub.",
       "timestamp": "2026-03-03T10:03:45Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Family GP had 'sexual motivation' for breast and vaginal exams, tribunal finds",
-      "link": "https://www.abc.net.au/news/2026-03-03/qld-doctor-examined-women-for-sexual-motivation-tribunal/106364680",
-      "mean_score": 0.42,
-      "vader_score": 0.34,
-      "textblob_score": 0.5,
-      "first_sentence": "One of Stellios (Stan) Theodoros's former patients, Beverley*, told the ABC she hoped the decision sent a \"strong and clear message\".",
-      "timestamp": "2026-03-03T08:05:08Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "My sexual freedom odyssey: what ancient African wisdom can teach us about pleasure today",
-      "link": "https://www.theguardian.com/global-development/2026/mar/03/sexual-freedom-ancient-african-wisdom-teach-us-about-pleasure-today-nana-darkoa-sekyiama",
-      "mean_score": 0.5781,
-      "vader_score": 0.9062,
-      "textblob_score": 0.25,
-      "first_sentence": "In the kitchen of my Airbnb in Dar es Salaam I stripped down to my underwear and wrapped a colourful kanga cloth around my hips.",
-      "timestamp": "2026-03-03T08:00:33Z",
       "source": "The Guardian"
     }
   ]

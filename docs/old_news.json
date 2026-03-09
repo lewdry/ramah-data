@@ -1,11 +1,31 @@
 [
   {
+    "headline": "Family GP had 'sexual motivation' for breast and vaginal exams, tribunal finds",
+    "link": "https://www.abc.net.au/news/2026-03-03/qld-doctor-examined-women-for-sexual-motivation-tribunal/106364680",
+    "mean_score": 0.42,
+    "vader_score": 0.34,
+    "textblob_score": 0.5,
+    "first_sentence": "One of Stellios (Stan) Theodoros's former patients, Beverley*, told the ABC she hoped the decision sent a \"strong and clear message\".",
+    "timestamp": "2026-03-03T08:05:08Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Why Frankenstein should win the best picture Oscar",
     "link": "https://www.theguardian.com/film/2026/mar/03/why-frankenstein-should-win-the-best-picture-oscar",
     "mean_score": 0.8701,
     "vader_score": 0.8402,
     "textblob_score": 0.9,
     "first_sentence": "Guillermo del Toro has spent his career humanising monsters, once calling them the \u201cpatron saints of our blissful imperfection\u201d, so his adaptation of Frankenstein was always going to be a match made in heaven.",
+    "timestamp": "2026-03-03T08:00:33Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "My sexual freedom odyssey: what ancient African wisdom can teach us about pleasure today",
+    "link": "https://www.theguardian.com/global-development/2026/mar/03/sexual-freedom-ancient-african-wisdom-teach-us-about-pleasure-today-nana-darkoa-sekyiama",
+    "mean_score": 0.5781,
+    "vader_score": 0.9062,
+    "textblob_score": 0.25,
+    "first_sentence": "In the kitchen of my Airbnb in Dar es Salaam I stripped down to my underwear and wrapped a colourful kanga cloth around my hips.",
     "timestamp": "2026-03-03T08:00:33Z",
     "source": "The Guardian"
   },
