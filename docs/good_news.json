@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-09T13:34:52Z",
+  "last run": "2026-03-09T14:26:09Z",
   "stories": [
+    {
+      "headline": "Richest super balances to be taxed at higher rates after Greens agree to back Labor plan",
+      "link": "https://www.theguardian.com/australia-news/2026/mar/09/superannuation-higher-tax-reform-labor-greens",
+      "mean_score": 0.5317,
+      "vader_score": 0.8689,
+      "textblob_score": 0.1944,
+      "first_sentence": "Labor\u2019s plan to raise the tax rate on the largest super balances will become law after the Greens agreed to wave it through the Senate, ending a three-year political fight over concessions for wealthier retirees.",
+      "timestamp": "2026-03-09T14:00:50Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018Bitter result\u2019 for Friedrich Merz as Greens win in German car heartland",
+      "link": "https://www.theguardian.com/world/2026/mar/09/bitter-result-friedrich-merz-greens-baden-wurttemberg-cem-ozdemir",
+      "mean_score": 0.4096,
+      "vader_score": 0.5859,
+      "textblob_score": 0.2333,
+      "first_sentence": "Friedrich Merz\u2019s Christian Democrats (CDU) have stumbled into a busy election year with a defeat to the Greens in a key state poll, as his embattled party struggles to fend off a challenge in other pivotal races from the far right.",
+      "timestamp": "2026-03-09T13:54:40Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Georgina Hayden\u2019s quick and easy recipe for cauliflower, lentils and chorizo | Quick and easy",
       "link": "https://www.theguardian.com/food/2026/mar/09/quick-easy-cauliflower-lentils-chorizo-recipe-georgina-hayden",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.4,
       "first_sentence": "Nightcliff is the seat Territory Labor should never have lost.",
       "timestamp": "2026-03-02T20:43:35Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Jesse Jackson returns to South Carolina to be honored by his home state: \u2018He freed us all\u2019",
-      "link": "https://www.theguardian.com/us-news/2026/mar/02/jesse-jackson-south-carolina",
-      "mean_score": 0.379,
-      "vader_score": 0.7579,
-      "textblob_score": 0.0,
-      "first_sentence": "After a long career of fighting for civil rights, the Rev Jesse Jackson Sr is visiting his home for one last time to lie in state at the South Carolina capitol on Monday.",
-      "timestamp": "2026-03-02T20:14:09Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Meet the $235,000 bull that dazzled buyers with his good looks",
-      "link": "https://www.abc.net.au/news/2026-03-03/south-australia-record-breaking-sale-for-angus-bull/106384404",
-      "mean_score": 0.5702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.7,
-      "first_sentence": "A South Australian Angus bull that sold at auction for $235,000 has set a state record.",
-      "timestamp": "2026-03-02T19:58:16Z",
       "source": "ABC News"
     }
   ]
