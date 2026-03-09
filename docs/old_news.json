@@ -1,5 +1,25 @@
 [
   {
+    "headline": "SA Labor pledges OSHC expansion as Liberals support free school concept",
+    "link": "https://www.abc.net.au/news/2026-03-02/labor-announces-oshc-expansion-liberals-demand-freight-bypass/106405534",
+    "mean_score": 0.5592,
+    "vader_score": 0.7184,
+    "textblob_score": 0.4,
+    "first_sentence": "The SA opposition has flagged its intent to back Labor's election promise to make public schooling free, in a sign the measure is likely to proceed, no matter who forms government.",
+    "timestamp": "2026-03-02T05:32:07Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Married at Mardi Gras: the Free, Gay n Happy float \u2013 in pictures",
+    "link": "https://www.theguardian.com/australia-news/gallery/2026/mar/02/sydney-mardi-gras-free-gay-n-happy-float-pictures",
+    "mean_score": 0.6286,
+    "vader_score": 0.7906,
+    "textblob_score": 0.4667,
+    "first_sentence": "No-one could rain on this parade.",
+    "timestamp": "2026-03-02T05:22:10Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Simple recipes to celebrate autumn and enjoy the cosy kitchen",
     "link": "https://www.abc.net.au/news/2026-03-02/five-of-our-best-autumn-recipes-/106392174",
     "mean_score": 0.4922,

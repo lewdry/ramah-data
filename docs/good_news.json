@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-08T23:09:39Z",
+  "last run": "2026-03-09T00:42:17Z",
   "stories": [
+    {
+      "headline": "Spain's migrants welcome amnesty: 'It will help us in every way'",
+      "link": "https://www.bbc.com/news/articles/crk8rdz5131o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.7454,
+      "vader_score": 0.6908,
+      "textblob_score": 0.8,
+      "first_sentence": "Diana left her native Peru two years ago, looking for financial and professional stability in Europe.",
+      "timestamp": "2026-03-09T00:17:54Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Australia falls just short of stunning victory over Japan at World Baseball Classic",
       "link": "https://www.abc.net.au/news/2026-03-09/world-baseball-classic-australia-almost-defeats-japan/106431342",
@@ -260,6 +270,16 @@
       "first_sentence": "KAPIKOY BORDER CROSSING, Turkey (AP) \u2014 A land crossing near eastern Turkey\u2019s Van province is one of the few routes connecting Iranians to the rest of the world amid an airspace shutdown in Iran since the U.S.",
       "timestamp": "2026-03-08T11:23:02Z",
       "source": "AP News"
+    },
+    {
+      "headline": "Government urged to let Iranian women's football team stay in Australia until safety is assured",
+      "link": "https://www.sbs.com.au/news/article/government-urged-to-let-iranian-womens-football-team-stay-in-australia-until-safety-is-assured/cfild2g9r",
+      "mean_score": 0.3243,
+      "vader_score": 0.6486,
+      "textblob_score": 0.0,
+      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+      "timestamp": "2026-03-08T10:20:53Z",
+      "source": "SBS News"
     },
     {
       "headline": "Quick hits: Aussie hearts sink, Russell correctly predicts the future",
@@ -2480,26 +2500,6 @@
       "first_sentence": "DUBAI, United Arab Emirates (AP) \u2014 Iran\u2019s paramilitary Revolutionary Guard has grown into a powerful force within the country\u2019s theocracy, answering only to its supreme leader and overseeing its ballistic missile arsenal and launching attacks overseas.",
       "timestamp": "2026-03-02T05:53:02Z",
       "source": "AP News"
-    },
-    {
-      "headline": "SA Labor pledges OSHC expansion as Liberals support free school concept",
-      "link": "https://www.abc.net.au/news/2026-03-02/labor-announces-oshc-expansion-liberals-demand-freight-bypass/106405534",
-      "mean_score": 0.5592,
-      "vader_score": 0.7184,
-      "textblob_score": 0.4,
-      "first_sentence": "The SA opposition has flagged its intent to back Labor's election promise to make public schooling free, in a sign the measure is likely to proceed, no matter who forms government.",
-      "timestamp": "2026-03-02T05:32:07Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Married at Mardi Gras: the Free, Gay n Happy float \u2013 in pictures",
-      "link": "https://www.theguardian.com/australia-news/gallery/2026/mar/02/sydney-mardi-gras-free-gay-n-happy-float-pictures",
-      "mean_score": 0.6286,
-      "vader_score": 0.7906,
-      "textblob_score": 0.4667,
-      "first_sentence": "No-one could rain on this parade.",
-      "timestamp": "2026-03-02T05:22:10Z",
-      "source": "The Guardian"
     }
   ]
 }
