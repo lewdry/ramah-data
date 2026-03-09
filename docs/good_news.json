@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-09T06:30:38Z",
+  "last run": "2026-03-09T07:28:24Z",
   "stories": [
+    {
+      "headline": "A loving homage to pop culture\u2019s also-rans: best podcasts of the week",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/mar/09/a-loving-homage-to-pop-cultures-also-rans-best-podcasts-of-the-week",
+      "mean_score": 0.8221,
+      "vader_score": 0.8442,
+      "textblob_score": 0.8,
+      "first_sentence": "Maisie Adam and Scott Bryan talk comically and sensitively to people who found sudden tabloid and early internet fame in the 00s.",
+      "timestamp": "2026-03-09T07:00:43Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Big Red Bash organisers search for new site to hold iconic festival",
+      "link": "https://www.abc.net.au/news/2026-03-09/big-red-bash-music-festival-new-location-birdsville/106432910",
+      "mean_score": 0.3265,
+      "vader_score": 0.4939,
+      "textblob_score": 0.1591,
+      "first_sentence": "Organisers of outback music festival Big Red Bash have ruled out holding this year's event at its usual location west of Birdsville.",
+      "timestamp": "2026-03-09T06:58:53Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Labor's Ed Smelt wins Nightcliff by-election, taking Greens' only NT seat",
       "link": "https://www.abc.net.au/news/2026-03-09/nt-labor-ed-smelt-wins-nightcliff-byelection-greens-seat-suki/106432806",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.4667,
       "first_sentence": "As ever, this year\u2019s Oscars have their half-dozen or so favourites and frontrunners, some truly outstanding movies among them.",
       "timestamp": "2026-03-02T09:55:40Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "More than 100,000 Britons register for help in Middle East",
-      "link": "https://www.bbc.com/news/articles/c62drgzled6o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3259,
-      "vader_score": 0.4019,
-      "textblob_score": 0.25,
-      "first_sentence": "A total of 102,000 Britons have registered their presence in the Middle East with the UK government, as Iranian strikes continue across the region.",
-      "timestamp": "2026-03-02T09:49:37Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "\u2018You know when you\u2019ve hit it \u2013 it\u2019s a transformation\u2019: Ruth E Carter on building the bold world of Sinners",
-      "link": "https://www.theguardian.com/fashion/costume-and-culture/2026/mar/02/you-know-when-youve-hit-it-its-a-transformation-ruth-e-carter-on-building-the-bold-world-of-sinners",
-      "mean_score": 0.3576,
-      "vader_score": 0.3818,
-      "textblob_score": 0.3333,
-      "first_sentence": "This is just a small example of the canny period world-building that has made Carter the most-garlanded Black woman in Oscars history, and the owner of a star on the Hollywood Walk of Fame (her family were in attendance, she says, of its Covid-era unveiling, while Oprah and Eddie Murphy dialled in via Zoom).",
-      "timestamp": "2026-03-02T09:00:05Z",
       "source": "The Guardian"
     }
   ]
