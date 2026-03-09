@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-09T17:23:07Z",
+  "last run": "2026-03-09T18:23:56Z",
   "stories": [
+    {
+      "headline": "What to know about Mojtaba Khamenei, Iran's new supreme leader",
+      "link": "https://www.npr.org/2026/03/09/nx-s1-5742375/mojtaba-khamenei-iran-supreme-leader",
+      "mean_score": 0.3469,
+      "vader_score": 0.5574,
+      "textblob_score": 0.1364,
+      "first_sentence": "Conflict in the Middle East has been escalating.",
+      "timestamp": "2026-03-09T18:11:42Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "Will this year\u2019s flu vaccine protect against the fast-moving Super- K strain?",
+      "link": "https://www.abc.net.au/news/health/2026-03-10/influenza-vaccine-super-k-vaccination-urge/106431754",
+      "mean_score": 0.4526,
+      "vader_score": 0.5719,
+      "textblob_score": 0.3333,
+      "first_sentence": "Experts are urging Australians to roll up their sleeves as soon as the 2026 influenza vaccine becomes available, following last year's low vaccine uptake and high caseload.",
+      "timestamp": "2026-03-09T18:00:00Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Individual grit won\u2019t make men beautiful | Letters",
       "link": "https://www.theguardian.com/fashion/2026/mar/09/individual-grit-wont-make-men-beautiful",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.2167,
       "first_sentence": "There is nothing worse than feeling stuck in a job.",
       "timestamp": "2026-03-03T07:00:33Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018Cultural monstrosities!\u2019 The thrilling visual legacy of punk and post-punk \u2013 in pictures",
-      "link": "https://www.theguardian.com/artanddesign/gallery/2026/mar/03/visual-legacy-post-punk-posters-in-pictures",
-      "mean_score": 0.3252,
-      "vader_score": 0.5255,
-      "textblob_score": 0.125,
-      "first_sentence": "From bold anti-Nazi posters to an acid-drenched take on Jean Cocteau, a new exhibition, curated by writer Philip Hoare, shows how influential the DIY designs of the 70s and 80s became Continue reading.",
-      "timestamp": "2026-03-03T07:00:31Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Australia news live: Kyle and Jackie O\u2019s breakfast radio show on KIIS taken off-air effective immediately",
-      "link": "https://www.theguardian.com/australia-news/live/2026/mar/03/australia-politics-live-anthony-albanese-mark-carney-iran-parliament-question-time-angus-taylor-pauline-hanson-jim-chalmers-rba-interest-rates-cost-of-living-inflation-ntwnfb",
-      "mean_score": 0.4224,
-      "vader_score": 0.4767,
-      "textblob_score": 0.3682,
-      "first_sentence": "ARN Media has just announced that both Kyle Sandilands and Jackie \u201cO\u201d Henderson will cease to present the Kiis FM breakfast show, on the basis that Henderson has expressed she \u201ccannot continue to work\u201d with Sandilands.",
-      "timestamp": "2026-03-03T07:00:22Z",
       "source": "The Guardian"
     }
   ]
