@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-09T04:42:07Z",
+  "last run": "2026-03-09T05:32:22Z",
   "stories": [
+    {
+      "headline": "Labor's Ed Smelt wins Nightcliff by-election, taking Greens' only NT seat",
+      "link": "https://www.abc.net.au/news/2026-03-09/nt-labor-ed-smelt-wins-nightcliff-byelection-greens-seat-suki/106432806",
+      "mean_score": 0.3609,
+      "vader_score": 0.5719,
+      "textblob_score": 0.15,
+      "first_sentence": "Labor's Ed Smelt has won the Nightcliff by-election, with a check count of votes removing any shred of doubt he has claimed the seat.",
+      "timestamp": "2026-03-09T05:06:46Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Five tasty recipes that also make a great lunch the next day",
+      "link": "https://www.abc.net.au/news/2026-03-09/tasty-lunchboxes-from-leftovers-recipes/106414678",
+      "mean_score": 0.5125,
+      "vader_score": 0.6249,
+      "textblob_score": 0.4,
+      "first_sentence": "It's all about no-fuss ingredients that often taste even better the next day.",
+      "timestamp": "2026-03-09T05:03:38Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Lomax to join Super Rugby in major blow to NRL after contract saga",
       "link": "https://www.abc.net.au/news/2026-03-09/nrl-star-zac-lomax-defects-to-super-rugby/106431920",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.3333,
       "first_sentence": "This is just a small example of the canny period world-building that has made Carter the most-garlanded Black woman in Oscars history, and the owner of a star on the Hollywood Walk of Fame (her family were in attendance, she says, of its Covid-era unveiling, while Oprah and Eddie Murphy dialled in via Zoom).",
       "timestamp": "2026-03-02T09:00:05Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Becoming George by Fiona Sampson review \u2013 the remarkable story of a cross-dressing 19th century novelist",
-      "link": "https://www.theguardian.com/books/2026/mar/02/becoming-george-by-fiona-sampson-review-the-remarkable-story-of-a-cross-dressing-19th-century-novelist",
-      "mean_score": 0.5787,
-      "vader_score": 0.5574,
-      "textblob_score": 0.6,
-      "first_sentence": "If we really are in a reading crisis \u2013 whether you blame TikTok or podcasts \u2013 it stands to reason that, of all the genres, literary biography might have particular cause to fear for\u00a0its life: who wants the life story of somebody whose books no one reads?.",
-      "timestamp": "2026-03-02T09:00:05Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Is 14 the magic number? Promoted trio make instant Super League impact",
-      "link": "https://www.theguardian.com/sport/2026/mar/02/bradford-bulls-toulouse-york-super-league-las-vegas",
-      "mean_score": 0.5342,
-      "vader_score": 0.7906,
-      "textblob_score": 0.2778,
-      "first_sentence": "When the Super League fixtures were released late last year, it was hard not to be drawn to this weekend.",
-      "timestamp": "2026-03-02T08:00:04Z",
       "source": "The Guardian"
     }
   ]
