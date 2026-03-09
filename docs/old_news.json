@@ -1,5 +1,25 @@
 [
   {
+    "headline": "\u2018We have to take bold decisions\u2019: Williams chief James Vowles on 2026 hopes and F1 title dreams",
+    "link": "https://www.theguardian.com/sport/2026/mar/02/james-vowles-williams-formula-one-f1-interview",
+    "mean_score": 0.5649,
+    "vader_score": 0.7964,
+    "textblob_score": 0.3333,
+    "first_sentence": "Vowles is one of the most interesting men in F1 and not just because, as the director of strategy, he helped two of his past teams win nine constructors\u2019 championships, including eight drivers\u2019 titles.",
+    "timestamp": "2026-03-02T12:54:21Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Top UK film and TV production school puts spotlight on students with disabilities",
+    "link": "https://www.theguardian.com/education/2026/mar/02/uk-national-film-and-television-school-puts-spotlight-on-students-with-disabilities",
+    "mean_score": 0.3512,
+    "vader_score": 0.2023,
+    "textblob_score": 0.5,
+    "first_sentence": "For a long time, physically disabled students who dreamed of studying at the UK\u2019s most prestigious film and TV production school had nowhere to stay in the local area.",
+    "timestamp": "2026-03-02T12:00:09Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "\u2018Do what you really want to do while you\u2019re still alive\u2019: Masayoshi Takanaka, the Japanese guitar hero surfing a second wave in his 70s",
     "link": "https://www.theguardian.com/music/2026/mar/02/masayoshi-takanaka-japanese-guitar-hero-surfing-a-second-wave",
     "mean_score": 0.3556,
