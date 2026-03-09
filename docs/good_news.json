@@ -1,5 +1,5 @@
 {
-  "last run": "2026-03-09T01:40:33Z",
+  "last run": "2026-03-09T03:09:27Z",
   "stories": [
     {
       "headline": "Lomax to join Super Rugby in major blow to NRL after contract saga",
@@ -132,6 +132,16 @@
       "source": "NPR News"
     },
     {
+      "headline": "\u2018A wonderful journey\u2019: Suryakumar Yadav revels in India\u2019s T20 World Cup win",
+      "link": "https://www.theguardian.com/sport/2026/mar/08/india-suryakumar-yadav-t20-world-cup-win-new-zealand-cricket",
+      "mean_score": 0.8588,
+      "vader_score": 0.8176,
+      "textblob_score": 0.9,
+      "first_sentence": "India\u2019s captain, Suryakumar Yadav, has set his sights on an extended period of white-ball dominance after the team secured a third successive ICC men\u2019s trophy with a one-sided victory against New Zealand in the T20 World Cup final.",
+      "timestamp": "2026-03-08T20:27:39Z",
+      "source": "The Guardian"
+    },
+    {
       "headline": "The Cavalry won the season, then dropped out. Now they want back in",
       "link": "https://www.abc.net.au/news/2026-03-09/canberra-cavalry-to-learn-what-future-holds/106424588",
       "mean_score": 0.3062,
@@ -252,6 +262,16 @@
       "source": "AP News"
     },
     {
+      "headline": "Echo and the Bunnymen \u2013 Ian McCulloch leaves it to the crowd to sing these timelessly great songs",
+      "link": "https://www.theguardian.com/music/2026/mar/08/echo-and-the-bunnymen-ian-mcculloch-o2-academy-leeds",
+      "mean_score": 0.7125,
+      "vader_score": 0.6249,
+      "textblob_score": 0.8,
+      "first_sentence": "Ian McCulloch once cheekily described the Bunnymen as \u201cthe greatest band in the world, the greatest songs in the history of time and the greatest singer\u201d, although you\u2019d be hard pushed to find evidence of the latter at this show.",
+      "timestamp": "2026-03-08T13:07:01Z",
+      "source": "The Guardian"
+    },
+    {
       "headline": "\u2018The antithesis of what Gen Z grew up with\u2019: Love Story inspires fervor for Carolyn Bessette\u2019s style",
       "link": "https://www.theguardian.com/fashion/2026/mar/08/love-story-fervor-carolyn-bessette-style",
       "mean_score": 0.6482,
@@ -340,6 +360,16 @@
       "first_sentence": "KATHMANDU, Nepal \u2014 A Nepali political party led by an ex-rapper is set for a landslide victory in the country's first parliamentary election since Gen Z protests ousted the old leadership that has ruled the Himalayan nation for decades.",
       "timestamp": "2026-03-08T08:18:54Z",
       "source": "NPR News"
+    },
+    {
+      "headline": "\u2018I was mesmerised by Kate Bush and the Smurfs, so I had great taste\u2019: Diane Morgan\u2019s honest playlist",
+      "link": "https://www.theguardian.com/music/2026/mar/08/diane-morgan-honest-playlist",
+      "mean_score": 0.7628,
+      "vader_score": 0.8255,
+      "textblob_score": 0.7,
+      "first_sentence": "The Philomena Cunk star\u2019s life was changed by the Fall and she knows a Spitting Image song inside out.",
+      "timestamp": "2026-03-08T08:00:13Z",
+      "source": "The Guardian"
     },
     {
       "headline": "Live: Matildas face South Korea in blockbuster Asian Cup clash in Sydney",
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.2778,
       "first_sentence": "When the Super League fixtures were released late last year, it was hard not to be drawn to this weekend.",
       "timestamp": "2026-03-02T08:00:04Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018I love midges because I know what their hearts look like\u2019: is the passion for taxonomy in danger of dying out?",
-      "link": "https://www.theguardian.com/environment/2026/mar/02/identify-species-taxonomists-crisis-art-borkent",
-      "mean_score": 0.6721,
-      "vader_score": 0.8442,
-      "textblob_score": 0.5,
-      "first_sentence": "Once Art Borkent starts speaking about biting midges, he rarely pauses for breath.",
-      "timestamp": "2026-03-02T08:00:04Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Bon app\u00e9tit! Celebrity pals pop round for lunch: best podcasts of the week",
-      "link": "https://www.theguardian.com/tv-and-radio/2026/mar/02/bon-appetit-celebrity-pals-pop-round-for-lunch-best-podcasts-of-the-week",
-      "mean_score": 0.5348,
-      "vader_score": 0.6696,
-      "textblob_score": 0.4,
-      "first_sentence": "Joanna Page and her Gavin & Stacey on-screen husband Mathew Horne host a foodie podcast for celebs.",
-      "timestamp": "2026-03-02T07:00:04Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "My search for the  perfect brown bar in Amsterdam",
-      "link": "https://www.theguardian.com/travel/2026/mar/02/my-search-for-the-perfect-brown-bar-in-amsterdam",
-      "mean_score": 0.7859,
-      "vader_score": 0.5719,
-      "textblob_score": 1.0,
-      "first_sentence": "The Guardian\u2019s journalism is independent.",
-      "timestamp": "2026-03-02T07:00:04Z",
       "source": "The Guardian"
     }
   ]

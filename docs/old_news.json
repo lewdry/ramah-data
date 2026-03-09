@@ -1,5 +1,35 @@
 [
   {
+    "headline": "\u2018I love midges because I know what their hearts look like\u2019: is the passion for taxonomy in danger of dying out?",
+    "link": "https://www.theguardian.com/environment/2026/mar/02/identify-species-taxonomists-crisis-art-borkent",
+    "mean_score": 0.6721,
+    "vader_score": 0.8442,
+    "textblob_score": 0.5,
+    "first_sentence": "Once Art Borkent starts speaking about biting midges, he rarely pauses for breath.",
+    "timestamp": "2026-03-02T08:00:04Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Bon app\u00e9tit! Celebrity pals pop round for lunch: best podcasts of the week",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/mar/02/bon-appetit-celebrity-pals-pop-round-for-lunch-best-podcasts-of-the-week",
+    "mean_score": 0.5348,
+    "vader_score": 0.6696,
+    "textblob_score": 0.4,
+    "first_sentence": "Joanna Page and her Gavin & Stacey on-screen husband Mathew Horne host a foodie podcast for celebs.",
+    "timestamp": "2026-03-02T07:00:04Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "My search for the  perfect brown bar in Amsterdam",
+    "link": "https://www.theguardian.com/travel/2026/mar/02/my-search-for-the-perfect-brown-bar-in-amsterdam",
+    "mean_score": 0.7859,
+    "vader_score": 0.5719,
+    "textblob_score": 1.0,
+    "first_sentence": "The Guardian\u2019s journalism is independent.",
+    "timestamp": "2026-03-02T07:00:04Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Tipping Point contestant who promised to use winnings on IVF now has triplets",
     "link": "https://www.bbc.com/news/articles/cy7jvj18nnpo?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.3592,
