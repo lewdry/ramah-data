@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-09T18:23:56Z",
+  "last run": "2026-03-09T19:21:09Z",
   "stories": [
+    {
+      "headline": "Top Arizona lawmaker says he's complied with a subpoena for 2020 election records",
+      "link": "https://www.npr.org/2026/03/09/nx-s1-5742633/arizona-maricopa-county-2020-records-petersen",
+      "mean_score": 0.3512,
+      "vader_score": 0.2023,
+      "textblob_score": 0.5,
+      "first_sentence": "Arizona's state Senate president says he has complied with a subpoena he received last week seeking records from a flawed review of the 2020 election in Maricopa County.",
+      "timestamp": "2026-03-09T18:36:22Z",
+      "source": "NPR News"
+    },
     {
       "headline": "What to know about Mojtaba Khamenei, Iran's new supreme leader",
       "link": "https://www.npr.org/2026/03/09/nx-s1-5742375/mojtaba-khamenei-iran-supreme-leader",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.9,
       "first_sentence": "Guillermo del Toro has spent his career humanising monsters, once calling them the \u201cpatron saints of our blissful imperfection\u201d, so his adaptation of Frankenstein was always going to be a match made in heaven.",
       "timestamp": "2026-03-03T08:00:33Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Want a better job and a pay rise? Eleven ways to progress at work \u2013 and avoid a \u2018dry promotion\u2019",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/mar/03/want-better-job-pay-rise-eleven-ways-progress-work-promotion",
-      "mean_score": 0.3717,
-      "vader_score": 0.5267,
-      "textblob_score": 0.2167,
-      "first_sentence": "There is nothing worse than feeling stuck in a job.",
-      "timestamp": "2026-03-03T07:00:33Z",
       "source": "The Guardian"
     }
   ]
