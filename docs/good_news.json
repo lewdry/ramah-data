@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-09T22:11:44Z",
+  "last run": "2026-03-09T23:11:41Z",
   "stories": [
+    {
+      "headline": "Rooster review \u2013 Steve Carell and a naked college president add wisdom to this cringe comedy drama",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/mar/09/rooster-review-steve-carell-comedy-drama",
+      "mean_score": 0.3548,
+      "vader_score": 0.7096,
+      "textblob_score": 0.0,
+      "first_sentence": "Humankind, as TS Eliot\u2019s bird said in Burnt Norton , cannot bear too much reality.",
+      "timestamp": "2026-03-09T22:40:00Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Morning Mail: five Iranian footballers granted humanitarian visas, Hanson secured solar rebate, Wallabies get boost",
       "link": "https://www.theguardian.com/australia-news/2026/mar/10/morning-mail-tuesday-ntwnfb",
@@ -150,6 +160,16 @@
       "first_sentence": "Friedrich Merz\u2019s Christian Democrats (CDU) have stumbled into a busy election year with a defeat to the Greens in a key state poll, as his embattled party struggles to fend off a challenge in other pivotal races from the far right.",
       "timestamp": "2026-03-09T13:54:40Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "'Welcome to stay': Five Iranian football players granted asylum in Australia",
+      "link": "https://www.abc.net.au/news/2026-03-10/iranian-womens-football-escape-asylum/106434542",
+      "mean_score": 0.7062,
+      "vader_score": 0.6124,
+      "textblob_score": 0.8,
+      "first_sentence": "Five Iranian soccer players, who would likely have faced persecution if they returned home after their Women's Asian Cup campaign, have been granted asylum in Australia.",
+      "timestamp": "2026-03-09T13:34:34Z",
+      "source": "ABC News"
     },
     {
       "headline": "Georgina Hayden\u2019s quick and easy recipe for cauliflower, lentils and chorizo | Quick and easy",
@@ -1962,6 +1982,16 @@
       "source": "NPR News"
     },
     {
+      "headline": "Showdown over datacenter politics at heart of North Carolina primary",
+      "link": "https://www.theguardian.com/us-news/2026/mar/03/datacenter-politics-north-carolina-primary",
+      "mean_score": 0.5185,
+      "vader_score": 0.6369,
+      "textblob_score": 0.4,
+      "first_sentence": "A North Carolina congressional primary on Tuesday is an early test of datacenter politics \u2013 a fight increasingly shaping elections nationwide.",
+      "timestamp": "2026-03-04T14:34:44Z",
+      "source": "The Guardian"
+    },
+    {
       "headline": "Dennis Cometti was erudite, funny and engaging. His witticisms could fill a library",
       "link": "https://www.theguardian.com/sport/blog/2026/mar/05/dennis-cometti-death-afl-australian-football-commentator",
       "mean_score": 0.4493,
@@ -2470,36 +2500,6 @@
       "first_sentence": "Brittani Phillips checked her phone.",
       "timestamp": "2026-03-03T13:00:04Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Five of the most interesting upcoming indie games",
-      "link": "https://www.theguardian.com/games/2026/mar/03/five-of-the-most-interesting-upcoming-indie-games",
-      "mean_score": 0.3955,
-      "vader_score": 0.4576,
-      "textblob_score": 0.3333,
-      "first_sentence": "These days, it\u2019s easy to fall into the trap of thinking that every new indie game is either a co-op extraction shooter or a roguelike deck-builder \u2013 fortunately that\u2019s not quite the case.",
-      "timestamp": "2026-03-03T13:00:03Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Baftas host Alan Cumming criticises BBC for \u2018broadcasting slurs and censoring free speech\u2019",
-      "link": "https://www.theguardian.com/film/2026/mar/03/baftas-host-alan-cumming-criticises-bbc-for-broadcasting-slurs",
-      "mean_score": 0.325,
-      "vader_score": 0.25,
-      "textblob_score": 0.4,
-      "first_sentence": "Alan Cumming has joined the chorus of disapproval at the BBC\u2019s failure to edit out a racial slur from their Baftas telecast, saying it turned \u201cwhat should have been an evening celebrating diversity and inclusion into a trauma-triggering shitshow\u201d.",
-      "timestamp": "2026-03-03T12:37:51Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "LLMs can unmask pseudonymous users at scale with surprising accuracy",
-      "link": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/",
-      "mean_score": 0.4866,
-      "vader_score": 0.2732,
-      "textblob_score": 0.7,
-      "first_sentence": "Pseudonymity has never been perfect for preserving privacy.",
-      "timestamp": "2026-03-03T12:30:24Z",
-      "source": "Ars Technica"
     }
   ]
 }

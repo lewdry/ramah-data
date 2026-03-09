@@ -5,8 +5,16 @@
     <link>https://lewdry.github.io/ramah/</link>
     <description>Positive news stories from around the world, filtered by sentiment analysis</description>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Mar 2026 22:11:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 23:11:41 GMT</lastBuildDate>
     <atom:link href="https://lewdry.github.io/ramah/good_news.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Rooster review – Steve Carell and a naked college president add wisdom to this cringe comedy drama</title>
+      <link>https://www.theguardian.com/tv-and-radio/2026/mar/09/rooster-review-steve-carell-comedy-drama</link>
+      <description>Humankind, as TS Eliot’s bird said in Burnt Norton , cannot bear too much reality.</description>
+      <source>The Guardian</source>
+      <pubDate>Mon, 09 Mar 2026 22:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theguardian.com/tv-and-radio/2026/mar/09/rooster-review-steve-carell-comedy-drama</guid>
+    </item>
     <item>
       <title>Morning Mail: five Iranian footballers granted humanitarian visas, Hanson secured solar rebate, Wallabies get boost</title>
       <link>https://www.theguardian.com/australia-news/2026/mar/10/morning-mail-tuesday-ntwnfb</link>
@@ -126,6 +134,14 @@
       <source>The Guardian</source>
       <pubDate>Mon, 09 Mar 2026 13:54:40 GMT</pubDate>
       <guid isPermaLink="true">https://www.theguardian.com/world/2026/mar/09/bitter-result-friedrich-merz-greens-baden-wurttemberg-cem-ozdemir</guid>
+    </item>
+    <item>
+      <title>'Welcome to stay': Five Iranian football players granted asylum in Australia</title>
+      <link>https://www.abc.net.au/news/2026-03-10/iranian-womens-football-escape-asylum/106434542</link>
+      <description>Five Iranian soccer players, who would likely have faced persecution if they returned home after their Women's Asian Cup campaign, have been granted asylum in Australia.</description>
+      <source>ABC News</source>
+      <pubDate>Mon, 09 Mar 2026 13:34:34 GMT</pubDate>
+      <guid isPermaLink="true">https://www.abc.net.au/news/2026-03-10/iranian-womens-football-escape-asylum/106434542</guid>
     </item>
     <item>
       <title>Georgina Hayden’s quick and easy recipe for cauliflower, lentils and chorizo | Quick and easy</title>
@@ -1576,6 +1592,14 @@
       <guid isPermaLink="true">https://www.npr.org/2026/03/04/nx-s1-5732787/indonesia-marine-biodiversity-fish-diving-southwest-papua</guid>
     </item>
     <item>
+      <title>Showdown over datacenter politics at heart of North Carolina primary</title>
+      <link>https://www.theguardian.com/us-news/2026/mar/03/datacenter-politics-north-carolina-primary</link>
+      <description>A North Carolina congressional primary on Tuesday is an early test of datacenter politics – a fight increasingly shaping elections nationwide.</description>
+      <source>The Guardian</source>
+      <pubDate>Wed, 04 Mar 2026 14:34:44 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theguardian.com/us-news/2026/mar/03/datacenter-politics-north-carolina-primary</guid>
+    </item>
+    <item>
       <title>Dennis Cometti was erudite, funny and engaging. His witticisms could fill a library</title>
       <link>https://www.theguardian.com/sport/blog/2026/mar/05/dennis-cometti-death-afl-australian-football-commentator</link>
       <description>The late Tony Charlton, who called a dozen VFL grand finals and three Olympic Games, said sporting commentators should “produce words like bubbles in champagne”.</description>
@@ -1983,30 +2007,6 @@
       <source>The Guardian</source>
       <pubDate>Tue, 03 Mar 2026 13:00:04 GMT</pubDate>
       <guid isPermaLink="true">https://www.theguardian.com/technology/ng-interactive/2026/mar/03/schools-student-ai-counselor</guid>
-    </item>
-    <item>
-      <title>Five of the most interesting upcoming indie games</title>
-      <link>https://www.theguardian.com/games/2026/mar/03/five-of-the-most-interesting-upcoming-indie-games</link>
-      <description>These days, it’s easy to fall into the trap of thinking that every new indie game is either a co-op extraction shooter or a roguelike deck-builder – fortunately that’s not quite the case.</description>
-      <source>The Guardian</source>
-      <pubDate>Tue, 03 Mar 2026 13:00:03 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theguardian.com/games/2026/mar/03/five-of-the-most-interesting-upcoming-indie-games</guid>
-    </item>
-    <item>
-      <title>Baftas host Alan Cumming criticises BBC for ‘broadcasting slurs and censoring free speech’</title>
-      <link>https://www.theguardian.com/film/2026/mar/03/baftas-host-alan-cumming-criticises-bbc-for-broadcasting-slurs</link>
-      <description>Alan Cumming has joined the chorus of disapproval at the BBC’s failure to edit out a racial slur from their Baftas telecast, saying it turned “what should have been an evening celebrating diversity and inclusion into a trauma-triggering shitshow”.</description>
-      <source>The Guardian</source>
-      <pubDate>Tue, 03 Mar 2026 12:37:51 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theguardian.com/film/2026/mar/03/baftas-host-alan-cumming-criticises-bbc-for-broadcasting-slurs</guid>
-    </item>
-    <item>
-      <title>LLMs can unmask pseudonymous users at scale with surprising accuracy</title>
-      <link>https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/</link>
-      <description>Pseudonymity has never been perfect for preserving privacy.</description>
-      <source>Ars Technica</source>
-      <pubDate>Tue, 03 Mar 2026 12:30:24 GMT</pubDate>
-      <guid isPermaLink="true">https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/</guid>
     </item>
   </channel>
 </rss>

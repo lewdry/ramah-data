@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Five of the most interesting upcoming indie games",
+    "link": "https://www.theguardian.com/games/2026/mar/03/five-of-the-most-interesting-upcoming-indie-games",
+    "mean_score": 0.3955,
+    "vader_score": 0.4576,
+    "textblob_score": 0.3333,
+    "first_sentence": "These days, it\u2019s easy to fall into the trap of thinking that every new indie game is either a co-op extraction shooter or a roguelike deck-builder \u2013 fortunately that\u2019s not quite the case.",
+    "timestamp": "2026-03-03T13:00:03Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Baftas host Alan Cumming criticises BBC for \u2018broadcasting slurs and censoring free speech\u2019",
+    "link": "https://www.theguardian.com/film/2026/mar/03/baftas-host-alan-cumming-criticises-bbc-for-broadcasting-slurs",
+    "mean_score": 0.325,
+    "vader_score": 0.25,
+    "textblob_score": 0.4,
+    "first_sentence": "Alan Cumming has joined the chorus of disapproval at the BBC\u2019s failure to edit out a racial slur from their Baftas telecast, saying it turned \u201cwhat should have been an evening celebrating diversity and inclusion into a trauma-triggering shitshow\u201d.",
+    "timestamp": "2026-03-03T12:37:51Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "LLMs can unmask pseudonymous users at scale with surprising accuracy",
+    "link": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/",
+    "mean_score": 0.4866,
+    "vader_score": 0.2732,
+    "textblob_score": 0.7,
+    "first_sentence": "Pseudonymity has never been perfect for preserving privacy.",
+    "timestamp": "2026-03-03T12:30:24Z",
+    "source": "Ars Technica"
+  },
+  {
     "headline": "Richard Osman quits quiz show House of Games after 'amazing nine years'",
     "link": "https://www.bbc.com/news/articles/cvg1j3zyl3do?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.593,
