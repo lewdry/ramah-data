@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-09T15:26:33Z",
+  "last run": "2026-03-09T16:28:01Z",
   "stories": [
+    {
+      "headline": "No. 2 UCLA ends UConn run as unanimous No. 1 in women\u2019s AP Top 25, Texas moves up to No. 3",
+      "link": "https://apnews.com/article/ap-top-25-b63b5f3055219bab6b27eea81b1d85bd",
+      "mean_score": 0.3512,
+      "vader_score": 0.2023,
+      "textblob_score": 0.5,
+      "first_sentence": "No.",
+      "timestamp": "2026-03-09T16:23:02Z",
+      "source": "AP News"
+    },
+    {
+      "headline": "2026 Australian Grand Prix: Formula 1 debuts a new style of racing",
+      "link": "https://arstechnica.com/cars/2026/03/2026-australian-grand-prix-formula-1-debuts-a-new-style-of-racing/",
+      "mean_score": 0.3355,
+      "vader_score": 0.4588,
+      "textblob_score": 0.2121,
+      "first_sentence": "The key is understanding how to conserve energy across a lap.",
+      "timestamp": "2026-03-09T15:50:15Z",
+      "source": "Ars Technica"
+    },
     {
       "headline": "Richest super balances to be taxed at higher rates after Greens agree to back Labor plan",
       "link": "https://www.theguardian.com/australia-news/2026/mar/09/superannuation-higher-tax-reform-labor-greens",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.25,
       "first_sentence": "Australia's peak farming body is celebrating the industry's achievement of reaching its $100 billion goal.",
       "timestamp": "2026-03-03T02:18:27Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Broome doesn't have accessible taxis, so one local is providing free rides",
-      "link": "https://www.abc.net.au/news/2026-03-03/calls-for-return-of-wheelchair-accessible-taxi-service-broome/106398902",
-      "mean_score": 0.3845,
-      "vader_score": 0.5106,
-      "textblob_score": 0.2583,
-      "first_sentence": "With no wheelchair-accessible taxi services available, Andy Guidera has been providing free lifts to his community in Western Australia's north.",
-      "timestamp": "2026-03-03T00:06:07Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Territory Labor never should have lost Nightcliff. Does it deserve to win it back?",
-      "link": "https://www.abc.net.au/news/2026-03-03/nightcliff-by-election-analysis-territory-labor-the-greens/106404306",
-      "mean_score": 0.5484,
-      "vader_score": 0.6968,
-      "textblob_score": 0.4,
-      "first_sentence": "Nightcliff is the seat Territory Labor should never have lost.",
-      "timestamp": "2026-03-02T20:43:35Z",
       "source": "ABC News"
     }
   ]

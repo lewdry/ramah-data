@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Broome doesn't have accessible taxis, so one local is providing free rides",
+    "link": "https://www.abc.net.au/news/2026-03-03/calls-for-return-of-wheelchair-accessible-taxi-service-broome/106398902",
+    "mean_score": 0.3845,
+    "vader_score": 0.5106,
+    "textblob_score": 0.2583,
+    "first_sentence": "With no wheelchair-accessible taxi services available, Andy Guidera has been providing free lifts to his community in Western Australia's north.",
+    "timestamp": "2026-03-03T00:06:07Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Territory Labor never should have lost Nightcliff. Does it deserve to win it back?",
+    "link": "https://www.abc.net.au/news/2026-03-03/nightcliff-by-election-analysis-territory-labor-the-greens/106404306",
+    "mean_score": 0.5484,
+    "vader_score": 0.6968,
+    "textblob_score": 0.4,
+    "first_sentence": "Nightcliff is the seat Territory Labor should never have lost.",
+    "timestamp": "2026-03-02T20:43:35Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Jesse Jackson returns to South Carolina to be honored by his home state: \u2018He freed us all\u2019",
     "link": "https://www.theguardian.com/us-news/2026/mar/02/jesse-jackson-south-carolina",
     "mean_score": 0.379,
