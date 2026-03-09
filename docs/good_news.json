@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-09T09:24:27Z",
+  "last run": "2026-03-09T10:23:09Z",
   "stories": [
+    {
+      "headline": "Chimps' taste for fermented fruit hints at origins of human love of alcohol",
+      "link": "https://www.npr.org/2026/03/09/nx-s1-5740557/chimpanzees-fermented-fruit-alcohol-evolution",
+      "mean_score": 0.4435,
+      "vader_score": 0.6369,
+      "textblob_score": 0.25,
+      "first_sentence": "For 11 days in late summer 2025, Aleksey Maro found himself in the Ugandan rainforest, doing whatever he could to collect chimpanzee urine.",
+      "timestamp": "2026-03-09T10:00:00Z",
+      "source": "NPR News"
+    },
     {
       "headline": "Stock markets plunge after oil surges over $100 a barrel, wiping out hopes of UK interest rate cut \u2013 business live",
       "link": "https://www.theguardian.com/business/live/2026/mar/09/stock-markets-plunge-oil-over-100-a-barrel-g7-emergency-oil-reserves-news-updates",
@@ -82,6 +92,16 @@
       "source": "BBC News"
     },
     {
+      "headline": "The predator-spotting laser tech trying to keep women safe",
+      "link": "https://www.bbc.com/news/articles/c0jvy4xn0l4o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.5,
+      "first_sentence": "On a dark winter evening, a woman waits for a train on a deserted platform.",
+      "timestamp": "2026-03-09T06:00:05Z",
+      "source": "BBC News"
+    },
+    {
       "headline": "Labor's Ed Smelt wins Nightcliff by-election, taking Greens' only NT seat",
       "link": "https://www.abc.net.au/news/2026-03-09/nt-labor-ed-smelt-wins-nightcliff-byelection-greens-seat-suki/106432806",
       "mean_score": 0.3609,
@@ -140,6 +160,16 @@
       "first_sentence": "Diana left her native Peru two years ago, looking for financial and professional stability in Europe.",
       "timestamp": "2026-03-09T00:17:54Z",
       "source": "BBC News"
+    },
+    {
+      "headline": "Who is Mojtaba Khamenei, Iran's new supreme leader?",
+      "link": "https://www.sbs.com.au/news/article/who-is-mojtaba-khamenei-irans-new-supreme-leader/wh3vo9p6j",
+      "mean_score": 0.3469,
+      "vader_score": 0.5574,
+      "textblob_score": 0.1364,
+      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+      "timestamp": "2026-03-08T23:36:28Z",
+      "source": "SBS News"
     },
     {
       "headline": "Australia falls just short of stunning victory over Japan at World Baseball Classic",
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.26,
       "first_sentence": "Last week, after Tottenham had lost 4-1 at home to Arsenal, Igor Tudor was bullish.",
       "timestamp": "2026-03-02T16:30:14Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Why a good night's sleep starts in the morning",
-      "link": "https://www.bbc.com/news/videos/cy4wg7m84lpo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.7,
-      "first_sentence": "Sleep psychologist Stephanie Romiszewski explains the benefits of waking up at the same time every day.",
-      "timestamp": "2026-03-02T15:42:43Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "$599 M4 iPad Air is a lot like the old one, but with a substantial RAM boost",
-      "link": "https://arstechnica.com/gadgets/2026/03/apple-keeps-the-ipad-air-fresh-with-m4-chip-upgrade-and-12gb-of-ram/",
-      "mean_score": 0.4289,
-      "vader_score": 0.7579,
-      "textblob_score": 0.1,
-      "first_sentence": "Unexpected RAM upgrade is the highlight of an otherwise straightforward refresh.",
-      "timestamp": "2026-03-02T15:06:00Z",
-      "source": "Ars Technica"
-    },
-    {
-      "headline": "Rukmini Iyer\u2019s quick and easy recipe for chard borani soup with yoghurt, crispy garlic and beans | Quick and easy",
-      "link": "https://www.theguardian.com/food/2026/mar/02/quick-easy-chard-borani-soup-yoghurt-crispy-garlic-beans-recipe-rukmini-iyer",
-      "mean_score": 0.5418,
-      "vader_score": 0.7003,
-      "textblob_score": 0.3833,
-      "first_sentence": "I am emphatically not a dip person (see also: salad), but the first time I tried chard borani, a Persian dip made with chard and yoghurt, I became so obsessed that we\u2019ve been having it on repeat at home ever since.",
-      "timestamp": "2026-03-02T13:00:10Z",
       "source": "The Guardian"
     }
   ]
