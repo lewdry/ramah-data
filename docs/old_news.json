@@ -1,5 +1,25 @@
 [
   {
+    "headline": "'Our heart goes out to them': Matildas star lauds Iran players' bravery",
+    "link": "https://www.abc.net.au/news/2026-03-03/matildas-amy-sayer-lauds-iran-bravery-asian-cup-clash/106410526",
+    "mean_score": 0.4063,
+    "vader_score": 0.8126,
+    "textblob_score": 0.0,
+    "first_sentence": "Matildas star Amy Sayer has lauded the bravery of Iran's players ahead of this week's Asian Cup clash between the two sides.",
+    "timestamp": "2026-03-03T04:38:05Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Farmers hit 'ambitious' $100b target years ahead of schedule",
+    "link": "https://www.abc.net.au/news/2026-03-03/australian-agriculture-hits-100-billion-milestone/106409018",
+    "mean_score": 0.3634,
+    "vader_score": 0.4767,
+    "textblob_score": 0.25,
+    "first_sentence": "Australia's peak farming body is celebrating the industry's achievement of reaching its $100 billion goal.",
+    "timestamp": "2026-03-03T02:18:27Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Broome doesn't have accessible taxis, so one local is providing free rides",
     "link": "https://www.abc.net.au/news/2026-03-03/calls-for-return-of-wheelchair-accessible-taxi-service-broome/106398902",
     "mean_score": 0.3845,

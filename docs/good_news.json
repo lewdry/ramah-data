@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-09T16:28:01Z",
+  "last run": "2026-03-09T17:23:07Z",
   "stories": [
+    {
+      "headline": "Individual grit won\u2019t make men beautiful | Letters",
+      "link": "https://www.theguardian.com/fashion/2026/mar/09/individual-grit-wont-make-men-beautiful",
+      "mean_score": 0.5122,
+      "vader_score": 0.5994,
+      "textblob_score": 0.425,
+      "first_sentence": "Your piece on the rise of impossible male beauty standards (\u2018There is no shame in being vain\u2019: the relentless rise of impossible male beauty standards, 5 March) captures something bigger than vanity, that of a neoliberal moral economy which turns the body into a private \u201cproject\u201d and then invoices the individual for failing it.",
+      "timestamp": "2026-03-09T16:47:37Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "SEND reforms to 'strip away' children's legal protections, charity says",
+      "link": "https://www.bbc.com/news/articles/c24dy787revo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3553,
+      "vader_score": 0.5106,
+      "textblob_score": 0.2,
+      "first_sentence": "The government's plans to reform the special educational needs and disabilities (SEND) system in England will \"strip away\" legal protections for children and young people needing support, a charity has warned.",
+      "timestamp": "2026-03-09T16:30:11Z",
+      "source": "BBC News"
+    },
     {
       "headline": "No. 2 UCLA ends UConn run as unanimous No. 1 in women\u2019s AP Top 25, Texas moves up to No. 3",
       "link": "https://apnews.com/article/ap-top-25-b63b5f3055219bab6b27eea81b1d85bd",
@@ -2480,26 +2500,6 @@
       "first_sentence": "ARN Media has just announced that both Kyle Sandilands and Jackie \u201cO\u201d Henderson will cease to present the Kiis FM breakfast show, on the basis that Henderson has expressed she \u201ccannot continue to work\u201d with Sandilands.",
       "timestamp": "2026-03-03T07:00:22Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "'Our heart goes out to them': Matildas star lauds Iran players' bravery",
-      "link": "https://www.abc.net.au/news/2026-03-03/matildas-amy-sayer-lauds-iran-bravery-asian-cup-clash/106410526",
-      "mean_score": 0.4063,
-      "vader_score": 0.8126,
-      "textblob_score": 0.0,
-      "first_sentence": "Matildas star Amy Sayer has lauded the bravery of Iran's players ahead of this week's Asian Cup clash between the two sides.",
-      "timestamp": "2026-03-03T04:38:05Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Farmers hit 'ambitious' $100b target years ahead of schedule",
-      "link": "https://www.abc.net.au/news/2026-03-03/australian-agriculture-hits-100-billion-milestone/106409018",
-      "mean_score": 0.3634,
-      "vader_score": 0.4767,
-      "textblob_score": 0.25,
-      "first_sentence": "Australia's peak farming body is celebrating the industry's achievement of reaching its $100 billion goal.",
-      "timestamp": "2026-03-03T02:18:27Z",
-      "source": "ABC News"
     }
   ]
 }
