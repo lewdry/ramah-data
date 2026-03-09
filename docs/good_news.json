@@ -1,6 +1,36 @@
 {
-  "last run": "2026-03-09T07:28:24Z",
+  "last run": "2026-03-09T08:21:05Z",
   "stories": [
+    {
+      "headline": "Why Train Dreams should win the best picture Oscar",
+      "link": "https://www.theguardian.com/film/2026/mar/09/why-train-dreams-should-win-the-best-picture-oscar",
+      "mean_score": 0.8967,
+      "vader_score": 0.8934,
+      "textblob_score": 0.9,
+      "first_sentence": "Train Dreams is arguably the lowest-profile of all the Oscar best film nominees, and could have easily passed me by, destined instead to be lost in the sprawling Netflix library, if it weren\u2019t for a phone call with a friend last year.",
+      "timestamp": "2026-03-09T08:00:43Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Leeds return from wilderness with Rhinos resurgence an asset for Super League",
+      "link": "https://www.theguardian.com/sport/2026/mar/09/leeds-rhinos-castleford-tigers-super-league-rugby-league",
+      "mean_score": 0.542,
+      "vader_score": 0.7506,
+      "textblob_score": 0.3333,
+      "first_sentence": "With the prospect of National Rugby League investment in Super League \u2013 however that may look, and with whatever level of control the Australian authorities want to overhaul the British game \u2013 now at boiling point, there has been a lot of discussion lately about what Super League does, and perhaps does not, need.",
+      "timestamp": "2026-03-09T08:00:43Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Is it true that \u2026 if you pluck a grey hair, two will grow in its place?",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/mar/09/grey-hair-plucking-thinning-growth",
+      "mean_score": 0.3044,
+      "vader_score": 0.4588,
+      "textblob_score": 0.15,
+      "first_sentence": "Unfortunately, it\u2019s a myth.",
+      "timestamp": "2026-03-09T08:00:42Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "A loving homage to pop culture\u2019s also-rans: best podcasts of the week",
       "link": "https://www.theguardian.com/tv-and-radio/2026/mar/09/a-loving-homage-to-pop-cultures-also-rans-best-podcasts-of-the-week",
@@ -20,6 +50,16 @@
       "first_sentence": "Organisers of outback music festival Big Red Bash have ruled out holding this year's event at its usual location west of Birdsville.",
       "timestamp": "2026-03-09T06:58:53Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "Australia urged to protect Iranian women's football team as they prepare to fly home",
+      "link": "https://www.bbc.com/news/articles/cwy8e978xl8o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5909,
+      "vader_score": 0.3818,
+      "textblob_score": 0.8,
+      "first_sentence": "Football's governing bodies and Australian authorities are being urged to ensure the safety of Iran's women's team as they prepare to fly home from Australia after being eliminated from the Asian Cup.",
+      "timestamp": "2026-03-09T06:51:18Z",
+      "source": "BBC News"
     },
     {
       "headline": "Labor's Ed Smelt wins Nightcliff by-election, taking Greens' only NT seat",
@@ -2459,46 +2499,6 @@
       "textblob_score": 0.5,
       "first_sentence": "For a long time, physically disabled students who dreamed of studying at the UK\u2019s most prestigious film and TV production school had nowhere to stay in the local area.",
       "timestamp": "2026-03-02T12:00:09Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018Do what you really want to do while you\u2019re still alive\u2019: Masayoshi Takanaka, the Japanese guitar hero surfing a second wave in his 70s",
-      "link": "https://www.theguardian.com/music/2026/mar/02/masayoshi-takanaka-japanese-guitar-hero-surfing-a-second-wave",
-      "mean_score": 0.3556,
-      "vader_score": 0.6361,
-      "textblob_score": 0.075,
-      "first_sentence": "Sadistic Mika Band appeared on the BBC\u2019s music television show the Old Grey Whistle Test during that visit, in a performance Takanaka proudly recalls being praised by fellow guitarist Jeff Beck.",
-      "timestamp": "2026-03-02T11:50:24Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The one change that worked: I stopped planning holidays \u2013 and found the joy in travel",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/mar/02/the-one-change-that-worked-i-stopped-planning-holidays-and-found-the-joy-in-travel",
-      "mean_score": 0.7352,
-      "vader_score": 0.6705,
-      "textblob_score": 0.8,
-      "first_sentence": "I have always been indecisive and scared of wasting money.",
-      "timestamp": "2026-03-02T11:00:07Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Texas primaries could test whether Latino support for GOP is holding after 2024 gains",
-      "link": "https://www.npr.org/2026/03/02/nx-s1-5729467/texas-election-2026-latinos-ice-trump-vote-immigration",
-      "mean_score": 0.3125,
-      "vader_score": 0.6249,
-      "textblob_score": 0.0,
-      "first_sentence": "Ongoing primary elections in Texas could be a first look at whether Latino swing voters, who are increasingly influential in state elections, are sticking with the Republican Party.",
-      "timestamp": "2026-03-02T10:00:00Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Why The Secret Agent should win the best picture Oscar",
-      "link": "https://www.theguardian.com/film/2026/mar/02/why-the-secret-agent-should-win-the-best-picture-oscar",
-      "mean_score": 0.6534,
-      "vader_score": 0.8402,
-      "textblob_score": 0.4667,
-      "first_sentence": "As ever, this year\u2019s Oscars have their half-dozen or so favourites and frontrunners, some truly outstanding movies among them.",
-      "timestamp": "2026-03-02T09:55:40Z",
       "source": "The Guardian"
     }
   ]

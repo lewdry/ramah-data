@@ -1,5 +1,45 @@
 [
   {
+    "headline": "\u2018Do what you really want to do while you\u2019re still alive\u2019: Masayoshi Takanaka, the Japanese guitar hero surfing a second wave in his 70s",
+    "link": "https://www.theguardian.com/music/2026/mar/02/masayoshi-takanaka-japanese-guitar-hero-surfing-a-second-wave",
+    "mean_score": 0.3556,
+    "vader_score": 0.6361,
+    "textblob_score": 0.075,
+    "first_sentence": "Sadistic Mika Band appeared on the BBC\u2019s music television show the Old Grey Whistle Test during that visit, in a performance Takanaka proudly recalls being praised by fellow guitarist Jeff Beck.",
+    "timestamp": "2026-03-02T11:50:24Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "The one change that worked: I stopped planning holidays \u2013 and found the joy in travel",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/mar/02/the-one-change-that-worked-i-stopped-planning-holidays-and-found-the-joy-in-travel",
+    "mean_score": 0.7352,
+    "vader_score": 0.6705,
+    "textblob_score": 0.8,
+    "first_sentence": "I have always been indecisive and scared of wasting money.",
+    "timestamp": "2026-03-02T11:00:07Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Texas primaries could test whether Latino support for GOP is holding after 2024 gains",
+    "link": "https://www.npr.org/2026/03/02/nx-s1-5729467/texas-election-2026-latinos-ice-trump-vote-immigration",
+    "mean_score": 0.3125,
+    "vader_score": 0.6249,
+    "textblob_score": 0.0,
+    "first_sentence": "Ongoing primary elections in Texas could be a first look at whether Latino swing voters, who are increasingly influential in state elections, are sticking with the Republican Party.",
+    "timestamp": "2026-03-02T10:00:00Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "Why The Secret Agent should win the best picture Oscar",
+    "link": "https://www.theguardian.com/film/2026/mar/02/why-the-secret-agent-should-win-the-best-picture-oscar",
+    "mean_score": 0.6534,
+    "vader_score": 0.8402,
+    "textblob_score": 0.4667,
+    "first_sentence": "As ever, this year\u2019s Oscars have their half-dozen or so favourites and frontrunners, some truly outstanding movies among them.",
+    "timestamp": "2026-03-02T09:55:40Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "More than 100,000 Britons register for help in Middle East",
     "link": "https://www.bbc.com/news/articles/c62drgzled6o?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.3259,
