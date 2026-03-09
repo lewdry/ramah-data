@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-09T12:20:53Z",
+  "last run": "2026-03-09T13:34:52Z",
   "stories": [
+    {
+      "headline": "Georgina Hayden\u2019s quick and easy recipe for cauliflower, lentils and chorizo | Quick and easy",
+      "link": "https://www.theguardian.com/food/2026/mar/09/quick-easy-cauliflower-lentils-chorizo-recipe-georgina-hayden",
+      "mean_score": 0.5418,
+      "vader_score": 0.7003,
+      "textblob_score": 0.3833,
+      "first_sentence": "The transformation that cauliflower undergoes in a very hot oven means there is now rarely a time when I don\u2019t roast it first.",
+      "timestamp": "2026-03-09T13:00:49Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Ali Khamenei\u2019s son Mojtaba chosen as Iran\u2019s new supreme leader | First Thing",
+      "link": "https://www.theguardian.com/us-news/2026/mar/09/first-thing-ali-khamenei-son-mojtaba-chosen-iran-new-supreme-leader",
+      "mean_score": 0.3753,
+      "vader_score": 0.5574,
+      "textblob_score": 0.1932,
+      "first_sentence": "Mojtaba Khamenei, the second son of the late Iranian supreme leader Ayatollah Ali Khamenei, has been chosen as his successor, as the war enters its 10th day and fresh missile and drone strikes reverberate across the Middle East.",
+      "timestamp": "2026-03-09T12:39:47Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Chimps' taste for fermented fruit hints at origins of human love of alcohol",
       "link": "https://www.npr.org/2026/03/09/nx-s1-5740557/chimpanzees-fermented-fruit-alcohol-evolution",
@@ -2480,26 +2500,6 @@
       "first_sentence": "A South Australian Angus bull that sold at auction for $235,000 has set a state record.",
       "timestamp": "2026-03-02T19:58:16Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "The greenest flags: virtue signals that help you find love \u2013 from patchwork clothes to car sharing",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/mar/02/greenest-flags-virtue-signals-help-find-love-patchwork-clothes-car-sharing",
-      "mean_score": 0.705,
-      "vader_score": 0.91,
-      "textblob_score": 0.5,
-      "first_sentence": "Age: This is a thing for younger people, so listen up, boomers.",
-      "timestamp": "2026-03-02T16:50:31Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Yes, relegation is now a very real possibility for Tottenham | Jonathan Wilson",
-      "link": "https://www.theguardian.com/football/2026/mar/02/tottenham-hotspur-relegation-premier-league",
-      "mean_score": 0.3309,
-      "vader_score": 0.4019,
-      "textblob_score": 0.26,
-      "first_sentence": "Last week, after Tottenham had lost 4-1 at home to Arsenal, Igor Tudor was bullish.",
-      "timestamp": "2026-03-02T16:30:14Z",
-      "source": "The Guardian"
     }
   ]
 }

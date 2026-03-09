@@ -1,5 +1,25 @@
 [
   {
+    "headline": "The greenest flags: virtue signals that help you find love \u2013 from patchwork clothes to car sharing",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/mar/02/greenest-flags-virtue-signals-help-find-love-patchwork-clothes-car-sharing",
+    "mean_score": 0.705,
+    "vader_score": 0.91,
+    "textblob_score": 0.5,
+    "first_sentence": "Age: This is a thing for younger people, so listen up, boomers.",
+    "timestamp": "2026-03-02T16:50:31Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Yes, relegation is now a very real possibility for Tottenham | Jonathan Wilson",
+    "link": "https://www.theguardian.com/football/2026/mar/02/tottenham-hotspur-relegation-premier-league",
+    "mean_score": 0.3309,
+    "vader_score": 0.4019,
+    "textblob_score": 0.26,
+    "first_sentence": "Last week, after Tottenham had lost 4-1 at home to Arsenal, Igor Tudor was bullish.",
+    "timestamp": "2026-03-02T16:30:14Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Why a good night's sleep starts in the morning",
     "link": "https://www.bbc.com/news/videos/cy4wg7m84lpo?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.5702,
