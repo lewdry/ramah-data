@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-09T19:21:09Z",
+  "last run": "2026-03-09T20:13:24Z",
   "stories": [
+    {
+      "headline": "Ministers must act more quickly on deepfakes to protect women and girls, Kendall says",
+      "link": "https://www.theguardian.com/politics/2026/mar/09/ministers-act-quickly-deepfakes-protect-women-girls-liz-kendall-technology-misogyny",
+      "mean_score": 0.3992,
+      "vader_score": 0.3818,
+      "textblob_score": 0.4167,
+      "first_sentence": "Ministers need to act more quickly to combat fast-changing threats from technology such as deepfakes, the technology secretary has said, as she warned about the risks women and girls face online.",
+      "timestamp": "2026-03-09T19:56:35Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Top Arizona lawmaker says he's complied with a subpoena for 2020 election records",
       "link": "https://www.npr.org/2026/03/09/nx-s1-5742633/arizona-maricopa-county-2020-records-petersen",
@@ -2488,16 +2498,6 @@
       "vader_score": 0.9062,
       "textblob_score": 0.25,
       "first_sentence": "In the kitchen of my Airbnb in Dar es Salaam I stripped down to my underwear and wrapped a colourful kanga cloth around my hips.",
-      "timestamp": "2026-03-03T08:00:33Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Why Frankenstein should win the best picture Oscar",
-      "link": "https://www.theguardian.com/film/2026/mar/03/why-frankenstein-should-win-the-best-picture-oscar",
-      "mean_score": 0.8701,
-      "vader_score": 0.8402,
-      "textblob_score": 0.9,
-      "first_sentence": "Guillermo del Toro has spent his career humanising monsters, once calling them the \u201cpatron saints of our blissful imperfection\u201d, so his adaptation of Frankenstein was always going to be a match made in heaven.",
       "timestamp": "2026-03-03T08:00:33Z",
       "source": "The Guardian"
     }
