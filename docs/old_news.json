@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Tipping Point contestant who promised to use winnings on IVF now has triplets",
+    "link": "https://www.bbc.com/news/articles/cy7jvj18nnpo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3592,
+    "vader_score": 0.7184,
+    "textblob_score": 0.0,
+    "first_sentence": "A man who won ITV's Tipping Point says there was \"no way\" he and his wife would have had their triplets through IVF without the cash prize.",
+    "timestamp": "2026-03-02T06:40:27Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "More than 50,000 people waited over 24 hours in A&E corridor care, BBC investigation finds",
+    "link": "https://www.bbc.com/news/articles/cy8lvjn66zxo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.497,
+    "vader_score": 0.4939,
+    "textblob_score": 0.5,
+    "first_sentence": "More than 52,000 patients waited longer than 24 hours to be admitted to hospitals across north-west England last year, a BBC investigation has revealed.",
+    "timestamp": "2026-03-02T06:27:59Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "'I'm excited for new challenge after 16 years on Hollyoaks'",
+    "link": "https://www.bbc.com/news/articles/ceqv2rwwqjpo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3288,
+    "vader_score": 0.4019,
+    "textblob_score": 0.2557,
+    "first_sentence": "Spoiler warning: This article reveals details from upcoming episodes of Hollyoaks.",
+    "timestamp": "2026-03-02T06:24:55Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "What to know about Iran\u2019s Revolutionary Guard, a powerful force within the country\u2019s theocracy",
+    "link": "https://apnews.com/article/iran-us-israel-war-revolutionary-guard-what-to-know-fd7a89210c70cc9ab1d2c1a5ea16bca7",
+    "mean_score": 0.3608,
+    "vader_score": 0.4215,
+    "textblob_score": 0.3,
+    "first_sentence": "DUBAI, United Arab Emirates (AP) \u2014 Iran\u2019s paramilitary Revolutionary Guard has grown into a powerful force within the country\u2019s theocracy, answering only to its supreme leader and overseeing its ballistic missile arsenal and launching attacks overseas.",
+    "timestamp": "2026-03-02T05:53:02Z",
+    "source": "AP News"
+  },
+  {
     "headline": "SA Labor pledges OSHC expansion as Liberals support free school concept",
     "link": "https://www.abc.net.au/news/2026-03-02/labor-announces-oshc-expansion-liberals-demand-freight-bypass/106405534",
     "mean_score": 0.5592,
