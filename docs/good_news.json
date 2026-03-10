@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-10T16:28:12Z",
+  "last run": "2026-03-10T17:21:56Z",
   "stories": [
+    {
+      "headline": "Galatasaray v Liverpool: Champions League last-16, first leg \u2013 live",
+      "link": "https://www.theguardian.com/football/live/2026/mar/10/galatasaray-v-liverpool-champions-league-last-16-first-leg-live",
+      "mean_score": 0.3599,
+      "vader_score": 0.5267,
+      "textblob_score": 0.1932,
+      "first_sentence": "As for the Galatasaray team \u2026 there is just one change to their starting XI from the 2-3 loss at Juventus last month.",
+      "timestamp": "2026-03-10T17:06:11Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Dr Xand on the wellness benefits of knitting",
       "link": "https://www.bbc.com/news/videos/crl4w609lpyo?at_medium=RSS&at_campaign=rss",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Legendary sports commentator Dennis Cometti has died aged 76, his family has confirmed.",
       "timestamp": "2026-03-04T02:20:14Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "North Carolina: Roy Cooper and Michael Whatley win primaries to set up Senate contest",
-      "link": "https://www.theguardian.com/us-news/2026/mar/03/north-carolina-democratic-republican-primaries-senate",
-      "mean_score": 0.6929,
-      "vader_score": 0.5859,
-      "textblob_score": 0.8,
-      "first_sentence": "North Carolina\u2019s competitive Senate race came into shape on Tuesday, with former Democratic governor Roy Cooper and former Republican National Committee chair Michael Whatley winning their respective primaries.",
-      "timestamp": "2026-03-04T02:12:48Z",
-      "source": "The Guardian"
     }
   ]
 }
