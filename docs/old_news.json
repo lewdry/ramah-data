@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Breaking: Legendary sports commentator Dennis Cometti dies",
+    "link": "https://www.abc.net.au/news/2026-03-04/dennis-cometti-legendary-sports-commentator-dies-aged-76/106414474",
+    "mean_score": 0.5,
+    "vader_score": 0.0,
+    "textblob_score": 1.0,
+    "first_sentence": "Legendary sports commentator Dennis Cometti has died aged 76, his family has confirmed.",
+    "timestamp": "2026-03-04T02:20:14Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "North Carolina: Roy Cooper and Michael Whatley win primaries to set up Senate contest",
     "link": "https://www.theguardian.com/us-news/2026/mar/03/north-carolina-democratic-republican-primaries-senate",
     "mean_score": 0.6929,
