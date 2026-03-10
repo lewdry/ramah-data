@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Red alert: the best photos of the rare blood moon total lunar eclipse \u2013 in pictures",
+    "link": "https://www.theguardian.com/environment/gallery/2026/mar/04/red-blood-moon-total-lunar-eclipse-march-2026-best-photos-gallery-in-pictures",
+    "mean_score": 0.5378,
+    "vader_score": 0.7506,
+    "textblob_score": 0.325,
+    "first_sentence": "A rare total lunar eclipse on Tuesday night resulted in a spectacular blood moon, seen first in Western Australia, then in parts of Asia, Europe and across North America.",
+    "timestamp": "2026-03-03T23:48:53Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Can\u2019t win? Drop out: California Democrats plead with governor hopefuls as party fears Republican surge",
+    "link": "https://www.theguardian.com/us-news/2026/mar/03/california-governor-democrats-gavin-newsom",
+    "mean_score": 0.5909,
+    "vader_score": 0.3818,
+    "textblob_score": 0.8,
+    "first_sentence": "It\u2019s been three decades since Democrats last had a wide open contest for the California governorship, one of the most visible and most powerful positions in the US.",
+    "timestamp": "2026-03-03T23:46:47Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Talarico wins Democratic nomination for Texas Senate seat; Republicans set for runoff",
     "link": "https://www.npr.org/2026/03/03/nx-s1-5734515/texas-primary-election-results-james-talarico-jasmine-crockett-john-cornyn-ken-paxton",
     "mean_score": 0.4359,

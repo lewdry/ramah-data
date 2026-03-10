@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-10T14:23:25Z",
+  "last run": "2026-03-10T15:25:53Z",
   "stories": [
+    {
+      "headline": "Ladies Day returns to Cheltenham festival promising \u2018glamour and glory\u2019",
+      "link": "https://www.theguardian.com/sport/2026/mar/10/ladies-day-returns-cheltenham-festival-glamour-glory",
+      "mean_score": 0.4548,
+      "vader_score": 0.7096,
+      "textblob_score": 0.2,
+      "first_sentence": "First and foremost, it is a huge sporting event, billed by its fans as the Olympics of jump racing \u2013 but it can also act as a social barometer, giving clues as to the state and mood of the nation.",
+      "timestamp": "2026-03-10T15:00:52Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Matthieu Blazy\u2019s Chanel show celebrates and plays with brand\u2019s history",
+      "link": "https://www.theguardian.com/fashion/2026/mar/10/matthieu-blazy-chanel-paris-fashion-week-show",
+      "mean_score": 0.3454,
+      "vader_score": 0.6908,
+      "textblob_score": 0.0,
+      "first_sentence": "A building site, but make it chic: that was the set for Chanel\u2019s Paris fashion week show.",
+      "timestamp": "2026-03-10T14:29:42Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Perfect chopped chives are a status symbol for chefs. Can I learn to master \u2018green confetti\u2019?",
       "link": "https://www.theguardian.com/food/2026/mar/10/perfect-chopped-chives-chef-status-symbol",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Millions of people are celebrating Holi, the festival of colours, in India and across the world.",
       "timestamp": "2026-03-04T00:59:51Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Red alert: the best photos of the rare blood moon total lunar eclipse \u2013 in pictures",
-      "link": "https://www.theguardian.com/environment/gallery/2026/mar/04/red-blood-moon-total-lunar-eclipse-march-2026-best-photos-gallery-in-pictures",
-      "mean_score": 0.5378,
-      "vader_score": 0.7506,
-      "textblob_score": 0.325,
-      "first_sentence": "A rare total lunar eclipse on Tuesday night resulted in a spectacular blood moon, seen first in Western Australia, then in parts of Asia, Europe and across North America.",
-      "timestamp": "2026-03-03T23:48:53Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Can\u2019t win? Drop out: California Democrats plead with governor hopefuls as party fears Republican surge",
-      "link": "https://www.theguardian.com/us-news/2026/mar/03/california-governor-democrats-gavin-newsom",
-      "mean_score": 0.5909,
-      "vader_score": 0.3818,
-      "textblob_score": 0.8,
-      "first_sentence": "It\u2019s been three decades since Democrats last had a wide open contest for the California governorship, one of the most visible and most powerful positions in the US.",
-      "timestamp": "2026-03-03T23:46:47Z",
-      "source": "The Guardian"
     }
   ]
 }
