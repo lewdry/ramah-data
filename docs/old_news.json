@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Can a robot recruiter really spot a good carer?",
+    "link": "https://www.bbc.com/news/articles/cdxg4e1dw12o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4688,
+    "vader_score": 0.4877,
+    "textblob_score": 0.45,
+    "first_sentence": "Just half an hour after she applied for a care job, Mollie Cole-Wilkin's phone rang.",
+    "timestamp": "2026-03-04T05:46:32Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "The fascinating science of dreams, and why some of us don't remember them",
+    "link": "https://www.abc.net.au/news/2026-03-04/why-some-vividly-remember-dreams-others-dont-dream/106413370",
+    "mean_score": 0.7175,
+    "vader_score": 0.7351,
+    "textblob_score": 0.7,
+    "first_sentence": "Some mornings, you wake up and the dream is right there.",
+    "timestamp": "2026-03-04T05:45:59Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "First flight has left Dubai for Sydney. How do airlines determine it is safe?",
+    "link": "https://www.abc.net.au/news/2026-03-04/how-airlines-determine-if-it-is-safe-to-fly-from-conflict-zones/106414544",
+    "mean_score": 0.3452,
+    "vader_score": 0.4404,
+    "textblob_score": 0.25,
+    "first_sentence": "A flight from Dubai to Sydney has departed the United Arab Emirates (UAE).",
+    "timestamp": "2026-03-04T05:45:02Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Melbourne F1 Grand Prix rebuild sees $115m blowout due to asbestos",
+    "link": "https://www.abc.net.au/news/2026-03-04/victoria-asbestos-albert-park-melbourne-grand-prix-blowout/106415464",
+    "mean_score": 0.3231,
+    "vader_score": 0.4588,
+    "textblob_score": 0.1875,
+    "first_sentence": "The cost of redeveloping Melbourne's Grand Prix pit building has blown out by $115 million due to asbestos clean-up requirements.",
+    "timestamp": "2026-03-04T05:24:28Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Winter Paralympics 2026: who are Australia\u2019s top medal contenders? | Kieran Pender",
     "link": "https://www.theguardian.com/sport/2026/mar/04/milano-cortina-winter-paralympics-2026-australia-medal-contenders",
     "mean_score": 0.5497,

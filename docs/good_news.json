@@ -1,6 +1,46 @@
 {
-  "last run": "2026-03-10T21:14:10Z",
+  "last run": "2026-03-10T22:10:54Z",
   "stories": [
+    {
+      "headline": "Two more Iranian football squad members granted humanitarian visas in Australia, minister confirms",
+      "link": "https://www.theguardian.com/australia-news/2026/mar/11/iran-womens-football-team-asylum-tony-burke-labor",
+      "mean_score": 0.375,
+      "vader_score": 0.25,
+      "textblob_score": 0.5,
+      "first_sentence": "A total of seven members of the Iranian women\u2019s football team have now sought asylum in Australia, home affairs minister Tony Burke has confirmed.",
+      "timestamp": "2026-03-10T22:04:16Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Atl\u00e9tico 5-2 Tottenham, Newcastle 1-1 Barcelona: Champions League last-16 first legs \u2013 live",
+      "link": "https://www.theguardian.com/football/live/2026/mar/10/newcastle-barcelona-atletico-tottenham-champions-league-last-16-first-legs-live",
+      "mean_score": 0.3599,
+      "vader_score": 0.5267,
+      "textblob_score": 0.1932,
+      "first_sentence": "It was a night when the Tyneside passions pulsed; the nervous energy, too, because this was something unprecedented \u2013 a first Champions League knockout tie in Newcastle\u2019s history.",
+      "timestamp": "2026-03-10T22:01:37Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Rapper Lil\u2019 Kim to headline both Vivid Sydney and Melbourne\u2019s 2026 Rising festival",
+      "link": "https://www.theguardian.com/culture/2026/mar/10/melbourne-rising-festival-lineup-lil-kim",
+      "mean_score": 0.3095,
+      "vader_score": 0.4939,
+      "textblob_score": 0.125,
+      "first_sentence": "The pioneering female rapper Lil\u2019 Kim will headline both Vivid Sydney and Melbourne\u2019s Rising this year, as each festival revealed its programs on Wednesday.",
+      "timestamp": "2026-03-10T22:00:10Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Musk\u2019s xAI wins permit for datacenter\u2019s makeshift power plant despite backlash",
+      "link": "https://www.theguardian.com/technology/2026/mar/10/elon-musk-xai-data-centers",
+      "mean_score": 0.4359,
+      "vader_score": 0.5719,
+      "textblob_score": 0.3,
+      "first_sentence": "Elon Musk\u2019s artificial intelligence company xAI won approval on Tuesday to run 41 methane gas turbines at its \u201cColossus 2\u201d datacenter in northern Mississippi.",
+      "timestamp": "2026-03-10T21:15:31Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Happy birthday to the telephone \u2014 oh, how you've grown in 150 years!",
       "link": "https://www.npr.org/2026/03/10/nx-s1-5726812/happy-birthday-to-the-telephone-oh-how-youve-grown-in-150-years",
@@ -2460,46 +2500,6 @@
       "first_sentence": "\"Baby brain\" is a cliche long-used to describe women becoming forgetful and feeling less capable during pregnancy.",
       "timestamp": "2026-03-04T05:56:25Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Can a robot recruiter really spot a good carer?",
-      "link": "https://www.bbc.com/news/articles/cdxg4e1dw12o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4688,
-      "vader_score": 0.4877,
-      "textblob_score": 0.45,
-      "first_sentence": "Just half an hour after she applied for a care job, Mollie Cole-Wilkin's phone rang.",
-      "timestamp": "2026-03-04T05:46:32Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "The fascinating science of dreams, and why some of us don't remember them",
-      "link": "https://www.abc.net.au/news/2026-03-04/why-some-vividly-remember-dreams-others-dont-dream/106413370",
-      "mean_score": 0.7175,
-      "vader_score": 0.7351,
-      "textblob_score": 0.7,
-      "first_sentence": "Some mornings, you wake up and the dream is right there.",
-      "timestamp": "2026-03-04T05:45:59Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "First flight has left Dubai for Sydney. How do airlines determine it is safe?",
-      "link": "https://www.abc.net.au/news/2026-03-04/how-airlines-determine-if-it-is-safe-to-fly-from-conflict-zones/106414544",
-      "mean_score": 0.3452,
-      "vader_score": 0.4404,
-      "textblob_score": 0.25,
-      "first_sentence": "A flight from Dubai to Sydney has departed the United Arab Emirates (UAE).",
-      "timestamp": "2026-03-04T05:45:02Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Melbourne F1 Grand Prix rebuild sees $115m blowout due to asbestos",
-      "link": "https://www.abc.net.au/news/2026-03-04/victoria-asbestos-albert-park-melbourne-grand-prix-blowout/106415464",
-      "mean_score": 0.3231,
-      "vader_score": 0.4588,
-      "textblob_score": 0.1875,
-      "first_sentence": "The cost of redeveloping Melbourne's Grand Prix pit building has blown out by $115 million due to asbestos clean-up requirements.",
-      "timestamp": "2026-03-04T05:24:28Z",
-      "source": "ABC News"
     }
   ]
 }
