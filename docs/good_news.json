@@ -1,6 +1,36 @@
 {
-  "last run": "2026-03-10T07:22:19Z",
+  "last run": "2026-03-10T08:18:22Z",
   "stories": [
+    {
+      "headline": "\u2018I\u2019m buggered\u2019: David Littleproud resigns as leader of National party as MPs jockey for top job",
+      "link": "https://www.theguardian.com/australia-news/2026/mar/10/david-littleproud-resigns-as-leader-of-national-party-saying-hes-buggered",
+      "mean_score": 0.398,
+      "vader_score": 0.296,
+      "textblob_score": 0.5,
+      "first_sentence": "A crowded field of Nationals MPs are set to jockey for the leadership after a \u201cbuggered\u201d David Littleproud blindsided colleagues with his shock resignation.",
+      "timestamp": "2026-03-10T08:07:11Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Iran expert discusses what new supreme leader means for country's future",
+      "link": "https://www.npr.org/2026/03/10/nx-s1-5742539/iran-expert-discusses-what-new-supreme-leader-means-for-countrys-future",
+      "mean_score": 0.3128,
+      "vader_score": 0.5574,
+      "textblob_score": 0.0682,
+      "first_sentence": "NPR's Steve Inskeep asks Iran expert Vali Nasr about what the appointment of a new Supreme Leader in Iran means for the country's future.",
+      "timestamp": "2026-03-10T08:01:53Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "Why One Battle After Another should win the best picture Oscar",
+      "link": "https://www.theguardian.com/film/2026/mar/10/why-one-battle-after-another-should-win-the-best-picture-oscar",
+      "mean_score": 0.8253,
+      "vader_score": 0.7506,
+      "textblob_score": 0.9,
+      "first_sentence": "Viva la revolution and don\u2019t forget your password, your pronouns, your plaid gown and your gun.",
+      "timestamp": "2026-03-10T08:00:14Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Super Netball's Kiwi influx leaves sour taste for diehard Australian fans",
       "link": "https://www.abc.net.au/news/2026-03-10/super-netball-launch-2026-kiwi-influx/106437842",
@@ -2470,36 +2500,6 @@
       "first_sentence": "Residents of Syracuse, New York \u2014 America\u2019s snowiest city \u2014 once barraged a service hotline with street neglect complaints during blizzards, even if plows had passed two hours earlier but the work was hidden by fresh snow.",
       "timestamp": "2026-03-03T17:53:02Z",
       "source": "AP News"
-    },
-    {
-      "headline": "\u2018People are gripped by huge fear\u2019: defiance and hope on the streets of Tehran",
-      "link": "https://www.theguardian.com/world/2026/mar/03/people-are-gripped-by-huge-fear-defiance-and-hope-on-the-streets-of-tehran",
-      "mean_score": 0.5185,
-      "vader_score": 0.6369,
-      "textblob_score": 0.4,
-      "first_sentence": "Fear, defiance, and quiet celebration intermingled in Tehran with everyday chores, local people said, as Iran\u2019s capital continued to be rocked by American and Israeli airstrikes.",
-      "timestamp": "2026-03-03T17:07:34Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Declutter, define, discard: seven easy and cheap home organization tips, from experts",
-      "link": "https://www.theguardian.com/wellness/2026/mar/03/home-organization-tips-cheap-easy",
-      "mean_score": 0.3215,
-      "vader_score": 0.2263,
-      "textblob_score": 0.4167,
-      "first_sentence": "Overcurated home organization content has flourished on social media for the past decade: well-lit photos of pantries, closets and bathrooms with contents arranged in clear acrylic bins.",
-      "timestamp": "2026-03-03T17:00:24Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Ruth Langsford: Counselling is the best thing I ever did",
-      "link": "https://www.bbc.com/news/videos/cedzwj13qwzo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.8185,
-      "vader_score": 0.6369,
-      "textblob_score": 1.0,
-      "first_sentence": "The TV presenter shares how counselling has given her new perspectives on life.",
-      "timestamp": "2026-03-03T16:40:58Z",
-      "source": "BBC News"
     }
   ]
 }
