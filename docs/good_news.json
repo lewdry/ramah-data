@@ -1,6 +1,36 @@
 {
-  "last run": "2026-03-09T23:11:41Z",
+  "last run": "2026-03-10T00:38:13Z",
   "stories": [
+    {
+      "headline": "NBA cancels team's plans to celebrate local Magic City strip club",
+      "link": "https://www.abc.net.au/news/2026-03-10/basketball-nba-cancels-atlanta-hawks-magic-city-promo-night/106435964",
+      "mean_score": 0.3357,
+      "vader_score": 0.4215,
+      "textblob_score": 0.25,
+      "first_sentence": "The NBA has cancelled the Atlanta Hawks' plans to celebrate the Magic City strip club.",
+      "timestamp": "2026-03-10T00:20:39Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "More whales are stranding. Now more people are needed to help them",
+      "link": "https://www.bbc.com/news/articles/cqlg4vl61kro?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4509,
+      "vader_score": 0.4019,
+      "textblob_score": 0.5,
+      "first_sentence": "More volunteers are being recruited to help rescue a growing number of whales, dolphins and porpoises washing up on UK shores.",
+      "timestamp": "2026-03-10T00:09:39Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Labor to pass super tax changes with support of Greens",
+      "link": "https://www.abc.net.au/news/2026-03-10/labor-to-pass-super-tax-changes-with-support-of-greens/106435670",
+      "mean_score": 0.5492,
+      "vader_score": 0.765,
+      "textblob_score": 0.3333,
+      "first_sentence": "Labor will pass legislation to increase the tax on those with super balances above $3 million, ending a years-long stalemate.",
+      "timestamp": "2026-03-09T23:58:43Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Rooster review \u2013 Steve Carell and a naked college president add wisdom to this cringe comedy drama",
       "link": "https://www.theguardian.com/tv-and-radio/2026/mar/09/rooster-review-steve-carell-comedy-drama",
@@ -2469,36 +2499,6 @@
       "textblob_score": 1.0,
       "first_sentence": "\u201cIt\u2019s definitely not ideal, is it?\u201d Darcy Fogarty said in the days following Izak Rankine\u2019s homophobic slur.",
       "timestamp": "2026-03-03T14:00:03Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Sea moss is everywhere on TikTok \u2013 yes it\u2019s natural but that doesn\u2019t mean it\u2019s safe or beneficial for all | Antiviral",
-      "link": "https://www.theguardian.com/commentisfree/2026/mar/03/sea-moss-benefits-safety-algae-nutrition",
-      "mean_score": 0.4896,
-      "vader_score": 0.8834,
-      "textblob_score": 0.0958,
-      "first_sentence": "If you have a weak stomach, I don\u2019t recommend watching one of the many videos on social media of influencers dipping their spoons into a jar of sea moss and putting mounds of the congealed substance \u2013 with a texture resembling congealed oil or snot \u2013 straight into their mouths.",
-      "timestamp": "2026-03-03T14:00:01Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Spring forecast: Reeves insists Labour has \u2018right economic plan\u2019 as 2026 growth downgraded",
-      "link": "https://www.theguardian.com/uk-news/2026/mar/03/spring-forecast-rachel-reeves-labour-economic-plan-2026-growth-obr",
-      "mean_score": 0.3123,
-      "vader_score": 0.3818,
-      "textblob_score": 0.2429,
-      "first_sentence": "Rachel Reeves insisted Labour has \u201cthe right economic plan\u201d for a world that has become \u201cyet more uncertain\u201d as she delivered a spring forecast that downgraded growth for this year.",
-      "timestamp": "2026-03-03T13:14:31Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Schools are using AI counselors to track students\u2019 mental health. Is it safe?",
-      "link": "https://www.theguardian.com/technology/ng-interactive/2026/mar/03/schools-student-ai-counselor",
-      "mean_score": 0.3202,
-      "vader_score": 0.4404,
-      "textblob_score": 0.2,
-      "first_sentence": "Brittani Phillips checked her phone.",
-      "timestamp": "2026-03-03T13:00:04Z",
       "source": "The Guardian"
     }
   ]
