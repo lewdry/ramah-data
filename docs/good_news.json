@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-10T22:10:54Z",
+  "last run": "2026-03-10T23:11:36Z",
   "stories": [
+    {
+      "headline": "NASA approved a safety waiver for this week's reentry of Van Allen Probe",
+      "link": "https://arstechnica.com/space/2026/03/nasa-approved-a-safety-waiver-for-this-weeks-reentry-of-van-allen-probe/",
+      "mean_score": 0.3404,
+      "vader_score": 0.6808,
+      "textblob_score": 0.0,
+      "first_sentence": "A NASA satellite that spent more than a decade coursing through the Van Allen radiation belts encircling Earth is about to fall back into the atmosphere.",
+      "timestamp": "2026-03-10T23:01:36Z",
+      "source": "Ars Technica"
+    },
     {
       "headline": "Two more Iranian football squad members granted humanitarian visas in Australia, minister confirms",
       "link": "https://www.theguardian.com/australia-news/2026/mar/11/iran-womens-football-team-asylum-tony-burke-labor",
@@ -2490,16 +2500,6 @@
       "first_sentence": "As spring unfolds and plants come to life, gardeners often fight a losing battle against the caterpillars who munch their cabbages.",
       "timestamp": "2026-03-04T06:00:41Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Pregnant women shed grey matter to help with motherhood, study seen by BBC suggests",
-      "link": "https://www.bbc.com/news/articles/cy0d59e7wjlo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3002,
-      "vader_score": 0.4588,
-      "textblob_score": 0.1417,
-      "first_sentence": "\"Baby brain\" is a cliche long-used to describe women becoming forgetful and feeling less capable during pregnancy.",
-      "timestamp": "2026-03-04T05:56:25Z",
-      "source": "BBC News"
     }
   ]
 }
