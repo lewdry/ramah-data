@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-10T09:21:22Z",
+  "last run": "2026-03-10T10:19:30Z",
   "stories": [
+    {
+      "headline": "Under financial strain, primary care doctors unite",
+      "link": "https://www.npr.org/2026/03/10/nx-s1-5707306/under-financial-strain-primary-care-doctors-unite",
+      "mean_score": 0.3294,
+      "vader_score": 0.4588,
+      "textblob_score": 0.2,
+      "first_sentence": "Under increasing financial stress, primary care practices across the U.S.",
+      "timestamp": "2026-03-10T09:59:56Z",
+      "source": "NPR News"
+    },
     {
       "headline": "\u2018I\u2019m buggered\u2019: David Littleproud resigns as leader of National party as MPs jockey for top job",
       "link": "https://www.theguardian.com/australia-news/2026/mar/10/david-littleproud-resigns-as-leader-of-national-party-saying-hes-buggered",
@@ -40,6 +50,16 @@
       "first_sentence": "Super Netball's 10th season will have a Kiwi flavour to it and it's left a sour taste in the mouths of diehard Australian supporters.",
       "timestamp": "2026-03-10T06:54:47Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "'Soft, friendly and some slobber': Crufts win puts Clumber spaniels in spotlight",
+      "link": "https://www.bbc.com/news/articles/cddnl91480qo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.6078,
+      "vader_score": 0.7906,
+      "textblob_score": 0.425,
+      "first_sentence": "The champion of Crufts, Bruin, is a breed you may not have heard of before - a Clumber spaniel.",
+      "timestamp": "2026-03-10T05:59:52Z",
+      "source": "BBC News"
     },
     {
       "headline": "Champions, captains and icons: The Iranian players granted asylum",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Widespread rain across central and southern New South Wales has resulted in some falls of more than 140 millimetres.",
       "timestamp": "2026-03-03T19:02:24Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Tourists crowding an echidna reveal the problem facing this popular island",
-      "link": "https://www.abc.net.au/news/2026-03-04/maria-island-tasmania-major-upgrades-public-opinion/106409882",
-      "mean_score": 0.3129,
-      "vader_score": 0.0258,
-      "textblob_score": 0.6,
-      "first_sentence": "With tourist numbers rapidly rising on Maria Island, authorities are working out the best way to accommodate them.",
-      "timestamp": "2026-03-03T18:47:19Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "High-tech snowplows and AI help cities clean up from big storms",
-      "link": "https://apnews.com/article/snowplows-blizzard-ai-gps-syracuse-newyork-7508aa04a5877541bb1ea55e946a66a7",
-      "mean_score": 0.4215,
-      "vader_score": 0.6597,
-      "textblob_score": 0.1833,
-      "first_sentence": "Residents of Syracuse, New York \u2014 America\u2019s snowiest city \u2014 once barraged a service hotline with street neglect complaints during blizzards, even if plows had passed two hours earlier but the work was hidden by fresh snow.",
-      "timestamp": "2026-03-03T17:53:02Z",
-      "source": "AP News"
     }
   ]
 }
