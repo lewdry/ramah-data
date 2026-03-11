@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Major search for 18-year-old swimmer lost from popular Sunshine Coast beach",
+    "link": "https://www.abc.net.au/news/2026-03-05/missing-swimming-buddina-sunshine-coast/106417462",
+    "mean_score": 0.4516,
+    "vader_score": 0.5719,
+    "textblob_score": 0.3312,
+    "first_sentence": "A major search along popular Sunshine Coast beaches has restarted this morning after an 18-year-old swimmer never returned to the sand overnight.",
+    "timestamp": "2026-03-04T21:51:37Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Jo\u00e3o Pedro hat-trick fires Chelsea to emphatic comeback win at Aston Villa",
     "link": "https://www.theguardian.com/football/2026/mar/04/aston-villa-chelsea-premier-league-match-report",
     "mean_score": 0.6929,
