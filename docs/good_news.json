@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-11T15:21:51Z",
+  "last run": "2026-03-11T16:24:18Z",
   "stories": [
+    {
+      "headline": "More support as heating oil costs 'double'",
+      "link": "https://www.bbc.com/news/articles/c07jrp8ryy8o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3538,
+      "vader_score": 0.4576,
+      "textblob_score": 0.25,
+      "first_sentence": "Farmers and residents say they are concerned after heating oil costs have \"doubled\" since the conflict in Iran escalated.",
+      "timestamp": "2026-03-11T16:17:09Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Surely if you rule the manosphere, you can be your own boss? These influencers aren\u2019t even that | Elle Hunt",
       "link": "https://www.theguardian.com/commentisfree/2026/mar/11/manosphere-influencers-louis-theroux-documentary",
@@ -19,6 +29,16 @@
       "textblob_score": 0.3312,
       "first_sentence": "A Democrat won a special election for a state house seat in New Hampshire on Tuesday, flipping a Republican district that Donald Trump carried and marking the latest in a string of 28 Democratic upsets that could usher in a blue wave in the midterms.",
       "timestamp": "2026-03-11T14:45:26Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Becky the dog steals the show: John Dean\u2019s best photograph",
+      "link": "https://www.theguardian.com/artanddesign/2026/mar/11/becky-dog-steals-show-john-deans-best-photograph-nottingham",
+      "mean_score": 0.6131,
+      "vader_score": 0.2263,
+      "textblob_score": 1.0,
+      "first_sentence": "This was taken 50 years ago by my 20-year-old self.",
+      "timestamp": "2026-03-11T14:44:40Z",
       "source": "The Guardian"
     },
     {
@@ -2480,26 +2500,6 @@
       "first_sentence": "A reminder of where both teams lie going into tonight\u2019s five-match card.",
       "timestamp": "2026-03-04T20:00:10Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Colossal Biosciences breeds controversy while trying to revive mammoths",
-      "link": "https://www.npr.org/2026/03/04/nx-s1-5704318/colossal-woolly-mammoth-dire-wolf",
-      "mean_score": 0.32,
-      "vader_score": 0.34,
-      "textblob_score": 0.3,
-      "first_sentence": "When the elevator doors part on the second floor of a two-story brick and glass building in an office park on the outskirts of downtown Dallas, it feels like a portal opening to a different world.",
-      "timestamp": "2026-03-04T18:53:01Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "How did radio's most successful duo end here?",
-      "link": "https://www.abc.net.au/news/2026-03-05/kyle-jackie-o-show-astrology-mad-witches-campaign/106413902",
-      "mean_score": 0.6245,
-      "vader_score": 0.624,
-      "textblob_score": 0.625,
-      "first_sentence": "I don't think Andrew anticipated the door opening might be that of a police station, and the door closing would be his own front door \u2014 behind him.",
-      "timestamp": "2026-03-04T18:00:00Z",
-      "source": "ABC News"
     }
   ]
 }
