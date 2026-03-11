@@ -1,5 +1,5 @@
 {
-  "last run": "2026-03-11T21:13:45Z",
+  "last run": "2026-03-11T22:11:16Z",
   "stories": [
     {
       "headline": "Singapore has gone to great lengths to boost its fertility rate. Why hasn't it worked?",
@@ -139,6 +139,16 @@
       "textblob_score": 0.0333,
       "first_sentence": "It\u2019s just after midnight in an industrial courtyard in Auburn in Sydney\u2019s west and a glow of string lights and the constant sizzle of a grill signal one of Ramadan\u2019s newest late-night rituals.",
       "timestamp": "2026-03-11T14:00:52Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "David Hockney review \u2013 a 90-metre vision of nature that only looks great on your phone",
+      "link": "https://www.theguardian.com/artanddesign/2026/mar/11/david-hockney-a-year-in-normandie-and-some-other-thoughts-about-painting-review-serpentine-north",
+      "mean_score": 0.5635,
+      "vader_score": 0.7269,
+      "textblob_score": 0.4,
+      "first_sentence": "To call Hockney a gifted sentimentalist is no backhanded compliment.",
+      "timestamp": "2026-03-11T12:21:49Z",
       "source": "The Guardian"
     },
     {
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.2,
       "first_sentence": "Nearly six months after a wave of unprecedented youth-led protests forced Nepal\u2019s then prime minister to quit, people have began voting in a general election that is shaping up as a high-stakes showdown between the entrenched old guard and a powerful youth movement.",
       "timestamp": "2026-03-05T02:05:09Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018A win for democracy\u2019: Labor abandons freedom of information law changes that would have reduced transparency",
-      "link": "https://www.theguardian.com/australia-news/2026/mar/05/a-win-for-democracy-labor-abandons-freedom-of-information-law-changes-that-would-have-reduced-transparency",
-      "mean_score": 0.7859,
-      "vader_score": 0.7717,
-      "textblob_score": 0.8,
-      "first_sentence": "The Labor government has dumped its controversial changes to the freedom of information request system, which would have imposed new fees and further reduced transparency, after admitting it had no pathway to passing the parliament.",
-      "timestamp": "2026-03-05T00:48:45Z",
       "source": "The Guardian"
     }
   ]
