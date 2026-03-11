@@ -1,6 +1,46 @@
 {
-  "last run": "2026-03-11T20:14:19Z",
+  "last run": "2026-03-11T21:13:45Z",
   "stories": [
+    {
+      "headline": "Singapore has gone to great lengths to boost its fertility rate. Why hasn't it worked?",
+      "link": "https://www.abc.net.au/news/2026-03-12/singapore-low-fertility-rate-existential-challenge/106397470",
+      "mean_score": 0.7892,
+      "vader_score": 0.7783,
+      "textblob_score": 0.8,
+      "first_sentence": "Boon Shang says if she decides to have children, she wants it to be for the right reasons.",
+      "timestamp": "2026-03-11T21:02:43Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Saunas' health benefits draw enthusiasts and researchers",
+      "link": "https://www.npr.org/2026/03/11/nx-s1-5719269/saunas-health-benefits-draw-enthusiasts-and-researchers",
+      "mean_score": 0.3062,
+      "vader_score": 0.6124,
+      "textblob_score": 0.0,
+      "first_sentence": "Saunas are having a moment right now, thanks to a surge of interest in wellness.",
+      "timestamp": "2026-03-11T20:34:55Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "Why IV drips are surging in popularity in Australia's wellness space",
+      "link": "https://www.abc.net.au/news/2026-03-12/iv-drip-therapy-popular-australia-wellness/106299280",
+      "mean_score": 0.3592,
+      "vader_score": 0.7184,
+      "textblob_score": 0.0,
+      "first_sentence": "Bek Walter sits in a softly lit clinic in the Gold Coast's north while a bag of fluid slowly drips into her vein through a tube.",
+      "timestamp": "2026-03-11T20:31:49Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Defence town to choose between Huey and Seahawk for iconic landmark",
+      "link": "https://www.abc.net.au/news/2026-03-12/nowra-chopper-on-a-stick-poll-huey-seahawk-hmas-albatross/106438136",
+      "mean_score": 0.3389,
+      "vader_score": 0.1779,
+      "textblob_score": 0.5,
+      "first_sentence": "The Department of Defence has opened a poll for Shoalhaven residents to choose whether the iconic chopper on a stick should feature a Huey or a Seahawk replica.",
+      "timestamp": "2026-03-11T20:12:01Z",
+      "source": "ABC News"
+    },
     {
       "headline": "The best house shoes might be fuzzy Crocs. Yes, really",
       "link": "https://www.theguardian.com/lifeandstyle/2026/mar/11/baya-fuzzy-crocs",
@@ -2460,46 +2500,6 @@
       "first_sentence": "The Labor government has dumped its controversial changes to the freedom of information request system, which would have imposed new fees and further reduced transparency, after admitting it had no pathway to passing the parliament.",
       "timestamp": "2026-03-05T00:48:45Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018Only one team tried to play\u2019: H\u00fcrzeler hits out at Arsenal after win at Brighton",
-      "link": "https://www.theguardian.com/football/2026/mar/04/fabian-hurzeler-mikel-arteta-brighton-arsenal-premier-league",
-      "mean_score": 0.4929,
-      "vader_score": 0.5859,
-      "textblob_score": 0.4,
-      "first_sentence": "Fabian H\u00fcrzeler accused Arsenal of playing by their own rules in a void left by weak Premier League refereeing in a furious broadside at their approach.",
-      "timestamp": "2026-03-04T23:52:12Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "TerraPower gets OK to start construction of its first nuclear plant",
-      "link": "https://arstechnica.com/science/2026/03/terrapower-gets-ok-to-start-construction-of-its-first-nuclear-plant/",
-      "mean_score": 0.4108,
-      "vader_score": 0.4466,
-      "textblob_score": 0.375,
-      "first_sentence": "Plant won\u2019t be done until 2030 at the earliest, and it still needs an operating license.",
-      "timestamp": "2026-03-04T22:54:40Z",
-      "source": "Ars Technica"
-    },
-    {
-      "headline": "Arsenal go seven points clear with Bukayo Saka on target in tough Brighton win",
-      "link": "https://www.theguardian.com/football/2026/mar/04/brighton-arsenal-premier-league-match-report",
-      "mean_score": 0.44,
-      "vader_score": 0.7096,
-      "textblob_score": 0.1704,
-      "first_sentence": "Arsenal did not come to see the \u00adseaside.",
-      "timestamp": "2026-03-04T21:54:15Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Aaron Judge and a loaded US roster hope to dethrone Ohtani\u2019s Japan at the World Baseball Classic",
-      "link": "https://apnews.com/article/world-baseball-classic-21455fa184035174aff4f1ad8939db78",
-      "mean_score": 0.3035,
-      "vader_score": 0.4404,
-      "textblob_score": 0.1667,
-      "first_sentence": "Aaron Judge is trading pinstripes for a plain jersey with red, white and blue letters.",
-      "timestamp": "2026-03-04T21:53:02Z",
-      "source": "AP News"
     }
   ]
 }

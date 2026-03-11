@@ -1,5 +1,45 @@
 [
   {
+    "headline": "\u2018Only one team tried to play\u2019: H\u00fcrzeler hits out at Arsenal after win at Brighton",
+    "link": "https://www.theguardian.com/football/2026/mar/04/fabian-hurzeler-mikel-arteta-brighton-arsenal-premier-league",
+    "mean_score": 0.4929,
+    "vader_score": 0.5859,
+    "textblob_score": 0.4,
+    "first_sentence": "Fabian H\u00fcrzeler accused Arsenal of playing by their own rules in a void left by weak Premier League refereeing in a furious broadside at their approach.",
+    "timestamp": "2026-03-04T23:52:12Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "TerraPower gets OK to start construction of its first nuclear plant",
+    "link": "https://arstechnica.com/science/2026/03/terrapower-gets-ok-to-start-construction-of-its-first-nuclear-plant/",
+    "mean_score": 0.4108,
+    "vader_score": 0.4466,
+    "textblob_score": 0.375,
+    "first_sentence": "Plant won\u2019t be done until 2030 at the earliest, and it still needs an operating license.",
+    "timestamp": "2026-03-04T22:54:40Z",
+    "source": "Ars Technica"
+  },
+  {
+    "headline": "Arsenal go seven points clear with Bukayo Saka on target in tough Brighton win",
+    "link": "https://www.theguardian.com/football/2026/mar/04/brighton-arsenal-premier-league-match-report",
+    "mean_score": 0.44,
+    "vader_score": 0.7096,
+    "textblob_score": 0.1704,
+    "first_sentence": "Arsenal did not come to see the \u00adseaside.",
+    "timestamp": "2026-03-04T21:54:15Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Aaron Judge and a loaded US roster hope to dethrone Ohtani\u2019s Japan at the World Baseball Classic",
+    "link": "https://apnews.com/article/world-baseball-classic-21455fa184035174aff4f1ad8939db78",
+    "mean_score": 0.3035,
+    "vader_score": 0.4404,
+    "textblob_score": 0.1667,
+    "first_sentence": "Aaron Judge is trading pinstripes for a plain jersey with red, white and blue letters.",
+    "timestamp": "2026-03-04T21:53:02Z",
+    "source": "AP News"
+  },
+  {
     "headline": "Major search for 18-year-old swimmer lost from popular Sunshine Coast beach",
     "link": "https://www.abc.net.au/news/2026-03-05/missing-swimming-buddina-sunshine-coast/106417462",
     "mean_score": 0.4516,
