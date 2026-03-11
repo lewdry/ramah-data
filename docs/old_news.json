@@ -1,5 +1,15 @@
 [
   {
+    "headline": "David and Victoria Beckham wish Brooklyn happy birthday despite feud",
+    "link": "https://www.bbc.com/news/articles/c7433z177ngo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.8072,
+    "vader_score": 0.8144,
+    "textblob_score": 0.8,
+    "first_sentence": "Sir David and Lady Beckham have wished son Brooklyn a happy birthday on Instagram, two months after the 27-year-old exposed a rift in the family.",
+    "timestamp": "2026-03-04T12:22:08Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Ali Khamenei\u2019s son Mojtaba favourite to succeed him as Iran\u2019s supreme leader",
     "link": "https://www.theguardian.com/world/2026/mar/04/mojtaba-khamenei-son-of-former-supreme-leader-tipped-to-become-irans-next-head-of-state",
     "mean_score": 0.3891,
