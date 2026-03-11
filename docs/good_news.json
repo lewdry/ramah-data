@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-11T01:39:25Z",
+  "last run": "2026-03-11T03:03:13Z",
   "stories": [
+    {
+      "headline": "Politics live: Spender says tax system \u2018no longer fit for purpose\u2019; Palmer vows to mail ads to all Australians as he announces run for parliament",
+      "link": "https://www.theguardian.com/australia-news/live/2026/mar/11/federal-politics-updates-iran-womens-football-team-asylum-anthony-albanese-tony-burke-labor-angus-taylor-coalition-ntwnfb",
+      "mean_score": 0.3147,
+      "vader_score": 0.3612,
+      "textblob_score": 0.2682,
+      "first_sentence": "Independent MP Allegra Spender says our tax system is \u201cno longer fit for purpose\u201d, as she releases a reform plan that would tax the owners of capital more and deliver tax relief for working Australians.",
+      "timestamp": "2026-03-11T02:40:19Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "\u2018My lovely distraction\u2019: Live stream of k\u0101k\u0101p\u014d \u2013 world\u2019s fattest parrot \u2013 and her chicks captivates New Zealand",
       "link": "https://www.theguardian.com/world/2026/mar/11/kakapo-cam-live-stream-parrot-new-zealand",
@@ -110,6 +120,16 @@
       "first_sentence": "Customers strolling through the refrigerated aisle at Australia's major supermarkets might notice a shortage of Greek yoghurt.",
       "timestamp": "2026-03-10T19:41:19Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "US weighs sending forces into Iran to secure nuclear stockpile, reports say",
+      "link": "https://www.theguardian.com/world/2026/mar/10/us-weighs-sending-forces-into-iran-to-secure-nuclear-stockpile-reports-say",
+      "mean_score": 0.37,
+      "vader_score": 0.34,
+      "textblob_score": 0.4,
+      "first_sentence": "The Trump administration is reportedly considering the deployment of special forces into Iran to secure its stockpile of highly enriched uranium (HEU), which experts say could be used to make at least 10 nuclear warheads.",
+      "timestamp": "2026-03-10T19:28:10Z",
+      "source": "The Guardian"
     },
     {
       "headline": "Philippines celebrate as jaw-dropping free kick lights up group stage finale",
@@ -2480,26 +2500,6 @@
       "first_sentence": "James Talarico won the Democratic nomination for a US Senate seat in Texas on Tuesday, capping a remarkable rise from state lawmaker and seminary student to the party\u2019s standard-bearer in one of the key races of the 2026 midterm cycle.",
       "timestamp": "2026-03-04T08:25:27Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Why Sinners should win the best picture Oscar",
-      "link": "https://www.theguardian.com/film/2026/mar/04/why-sinners-should-win-the-best-picture-oscar",
-      "mean_score": 0.8701,
-      "vader_score": 0.8402,
-      "textblob_score": 0.9,
-      "first_sentence": "It\u2019s a symptom of the modern entertainment landscape that movies are now either commercially successful or critically acclaimed, but rarely both.",
-      "timestamp": "2026-03-04T08:00:00Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "'I've lost something truly precious': McAvaney mourns great mate Cometti",
-      "link": "https://www.abc.net.au/news/2026-03-04/bruce-mcavaney-remembers-dennis-cometti/106416198",
-      "mean_score": 0.6842,
-      "vader_score": 0.7184,
-      "textblob_score": 0.65,
-      "first_sentence": "For decades, the greatest moments in Australian rules football were described and embellished by Dennis Cometti and Bruce McAvaney, forming one of the great double acts.",
-      "timestamp": "2026-03-04T07:23:47Z",
-      "source": "ABC News"
     }
   ]
 }

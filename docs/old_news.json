@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Why Sinners should win the best picture Oscar",
+    "link": "https://www.theguardian.com/film/2026/mar/04/why-sinners-should-win-the-best-picture-oscar",
+    "mean_score": 0.8701,
+    "vader_score": 0.8402,
+    "textblob_score": 0.9,
+    "first_sentence": "It\u2019s a symptom of the modern entertainment landscape that movies are now either commercially successful or critically acclaimed, but rarely both.",
+    "timestamp": "2026-03-04T08:00:00Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "'I've lost something truly precious': McAvaney mourns great mate Cometti",
+    "link": "https://www.abc.net.au/news/2026-03-04/bruce-mcavaney-remembers-dennis-cometti/106416198",
+    "mean_score": 0.6842,
+    "vader_score": 0.7184,
+    "textblob_score": 0.65,
+    "first_sentence": "For decades, the greatest moments in Australian rules football were described and embellished by Dennis Cometti and Bruce McAvaney, forming one of the great double acts.",
+    "timestamp": "2026-03-04T07:23:47Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Liam Rosenior knows clock is ticking on Chelsea\u2019s chance of Champions League spot",
     "link": "https://www.theguardian.com/football/2026/mar/04/chelsea-liam-rosenior-champions-league",
     "mean_score": 0.3298,
