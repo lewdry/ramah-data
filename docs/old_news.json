@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Why supporting a shelter for women is now 'kind of radioactive'",
+    "link": "https://www.npr.org/2026/03/04/g-s1-111527/abuse-partner-shelters-aid-cuts",
+    "mean_score": 0.4327,
+    "vader_score": 0.4404,
+    "textblob_score": 0.425,
+    "first_sentence": "There's one voice Lisseth can't get out of her head \u2014 the pleas of a 22-year-old woman.",
+    "timestamp": "2026-03-04T12:51:20Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "Nvidia and UK Wealth Fund invest in British autonomous driving startup Oxa",
+    "link": "https://www.theguardian.com/technology/2026/mar/04/nvidia-uk-wealth-fund-invest-british-autonomous-driving-startup-oxa",
+    "mean_score": 0.3469,
+    "vader_score": 0.4939,
+    "textblob_score": 0.2,
+    "first_sentence": "Nvidia is investing in the British autonomous driving startup Oxa, alongside backing from the UK\u2019s National Wealth Fund, in a boost to the country\u2019s technology sector.",
+    "timestamp": "2026-03-04T12:37:26Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "David and Victoria Beckham wish Brooklyn happy birthday despite feud",
     "link": "https://www.bbc.com/news/articles/c7433z177ngo?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.8072,
