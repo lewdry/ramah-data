@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Jo\u00e3o Pedro hat-trick fires Chelsea to emphatic comeback win at Aston Villa",
+    "link": "https://www.theguardian.com/football/2026/mar/04/aston-villa-chelsea-premier-league-match-report",
+    "mean_score": 0.6929,
+    "vader_score": 0.5859,
+    "textblob_score": 0.8,
+    "first_sentence": "As these teams emerged for kick-off, the Holte End displayed a tifo proudly flaunting Aston Villa\u2019s hand, chiefly an ace of clubs.",
+    "timestamp": "2026-03-04T21:50:34Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Why Iran's most powerful ally is not coming to its aid",
+    "link": "https://www.abc.net.au/news/2026-03-05/why-iran-most-powerful-ally-is-not-coming-to-its-aid/106415362",
+    "mean_score": 0.4377,
+    "vader_score": 0.4754,
+    "textblob_score": 0.4,
+    "first_sentence": "President Donald Trump's backers have celebrated the United States and Israel's attack on Iran as a blow for not just the Iranian regime, but also for China.",
+    "timestamp": "2026-03-04T20:49:03Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Can China's 'Steel Roses' shine bright once again?",
     "link": "https://www.abc.net.au/news/2026-03-05/womens-asian-cup-challenges-facing-china-women-football-team/106395844",
     "mean_score": 0.5702,
