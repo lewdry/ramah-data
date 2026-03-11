@@ -1,5 +1,15 @@
 [
   {
+    "headline": "James Talarico wins Democratic primary for US Senate in Texas",
+    "link": "https://www.theguardian.com/us-news/2026/mar/03/texas-primary-election-results",
+    "mean_score": 0.4609,
+    "vader_score": 0.5719,
+    "textblob_score": 0.35,
+    "first_sentence": "James Talarico won the Democratic nomination for a US Senate seat in Texas on Tuesday, capping a remarkable rise from state lawmaker and seminary student to the party\u2019s standard-bearer in one of the key races of the 2026 midterm cycle.",
+    "timestamp": "2026-03-04T08:25:27Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Why Sinners should win the best picture Oscar",
     "link": "https://www.theguardian.com/film/2026/mar/04/why-sinners-should-win-the-best-picture-oscar",
     "mean_score": 0.8701,
