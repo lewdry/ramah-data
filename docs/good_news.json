@@ -1,6 +1,36 @@
 {
-  "last run": "2026-03-10T23:11:36Z",
+  "last run": "2026-03-11T00:39:09Z",
   "stories": [
+    {
+      "headline": "Hawaii braces for powerful kona storm bringing heavy rain and strong winds",
+      "link": "https://www.theguardian.com/us-news/2026/mar/10/hawaii-kona-storm-winds",
+      "mean_score": 0.4523,
+      "vader_score": 0.7269,
+      "textblob_score": 0.1778,
+      "first_sentence": "Hawaii is preparing for a powerful storm this week that is expected to cause intense winds, thunderstorms and possibly significant flooding across multiple islands.",
+      "timestamp": "2026-03-11T00:13:31Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Indigenous dance academy celebrates 50 years of cultural pride",
+      "link": "https://www.abc.net.au/news/2026-03-11/naisda-indigenous-dance-college-50-years/106418320",
+      "mean_score": 0.4134,
+      "vader_score": 0.7269,
+      "textblob_score": 0.1,
+      "first_sentence": "Chetachi Nwaogiza has never felt more alive than when he is dancing.",
+      "timestamp": "2026-03-10T23:59:55Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Childcare and more paid leave: Will China's new plan to boost spending work?",
+      "link": "https://www.bbc.com/news/articles/c70n5xllp1do?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3095,
+      "vader_score": 0.3008,
+      "textblob_score": 0.3182,
+      "first_sentence": "China's leaders are trying something new to revive the country's slowing economy: encouraging people to spend more.",
+      "timestamp": "2026-03-10T23:33:10Z",
+      "source": "BBC News"
+    },
     {
       "headline": "NASA approved a safety waiver for this week's reentry of Van Allen Probe",
       "link": "https://arstechnica.com/space/2026/03/nasa-approved-a-safety-waiver-for-this-weeks-reentry-of-van-allen-probe/",
@@ -179,6 +209,16 @@
       "textblob_score": 0.2,
       "first_sentence": "Under increasing financial stress, primary care practices across the U.S.",
       "timestamp": "2026-03-10T09:59:56Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "Crowded field of candidates compete to replace MTG in Georgia special election",
+      "link": "https://www.npr.org/2026/03/10/nx-s1-5742711/georgia-special-election-mtg-trump-fuller-moore",
+      "mean_score": 0.3795,
+      "vader_score": 0.4019,
+      "textblob_score": 0.3571,
+      "first_sentence": "ATLANTA \u2014 Democrat Shawn Harris and Trump-endorsed Republican Clay Fuller will advance to an April runoff in a race to replace former Republican Rep.",
+      "timestamp": "2026-03-10T09:00:00Z",
       "source": "NPR News"
     },
     {
@@ -2459,46 +2499,6 @@
       "textblob_score": 0.0,
       "first_sentence": "It is natural for young people to feel they have all the time in the world.",
       "timestamp": "2026-03-04T07:00:44Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Horizons and highways: Franco Fontana\u2019s stunning photographic experiments \u2013 in pictures",
-      "link": "https://www.theguardian.com/artanddesign/gallery/2026/mar/04/franco-fontana-photography-exhibition-colour",
-      "mean_score": 0.4409,
-      "vader_score": 0.3818,
-      "textblob_score": 0.5,
-      "first_sentence": "A mesmerising new exhibition showcases the work of the Italian colour pioneer whose landscapes, motorways and swimming pools often seem more like abstract paintings Continue reading.",
-      "timestamp": "2026-03-04T07:00:43Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018That thrush just did something incredible\u2019: tuning in to bird calls on a North York Moors walk",
-      "link": "https://www.theguardian.com/travel/2026/mar/04/bird-calls-north-yorkshire-moors-walk",
-      "mean_score": 0.45,
-      "vader_score": 0.0,
-      "textblob_score": 0.9,
-      "first_sentence": "We follow a path up to an open ridge, but bird sounds are conspicuously absent.",
-      "timestamp": "2026-03-04T07:00:42Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "A moment that changed me: my girlfriend criticised my kisses \u2013 and it led to the best decision of my life",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/mar/04/a-moment-that-changed-me-my-girlfriend-criticised-my-kisses-and-it-led-to-the-best-decision-of-my-life",
-      "mean_score": 0.8454,
-      "vader_score": 0.6908,
-      "textblob_score": 1.0,
-      "first_sentence": "She said kissing me was like licking an ashtray, and I knew I had to quit smoking.",
-      "timestamp": "2026-03-04T06:45:41Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Protect caterpillars as UK\u2019s moth population plummets, urge charities",
-      "link": "https://www.theguardian.com/environment/2026/mar/04/caterpillars-spring-moth-population",
-      "mean_score": 0.3502,
-      "vader_score": 0.7003,
-      "textblob_score": 0.0,
-      "first_sentence": "As spring unfolds and plants come to life, gardeners often fight a losing battle against the caterpillars who munch their cabbages.",
-      "timestamp": "2026-03-04T06:00:41Z",
       "source": "The Guardian"
     }
   ]
