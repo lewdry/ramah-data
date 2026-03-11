@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-11T11:17:02Z",
+  "last run": "2026-03-11T12:21:14Z",
   "stories": [
+    {
+      "headline": "\u2018Severe water stress\u2019: why desalination plants are the Gulf\u2019s greatest weakness",
+      "link": "https://www.theguardian.com/world/2026/mar/11/severe-water-stress-why-desalination-plants-are-gulf-greatest-weakness",
+      "mean_score": 0.67,
+      "vader_score": 0.34,
+      "textblob_score": 1.0,
+      "first_sentence": "In 1983, the CIA determined that the most crucial commodity in the Gulf was its desalinated potable water.",
+      "timestamp": "2026-03-11T12:01:01Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "The V&A\u2019s Gilbert Galleries review \u2013\u00a0a fabulous treasure trove that must be seen to be believed",
       "link": "https://www.theguardian.com/artanddesign/2026/mar/11/gilbert-galleries-vanda-art-rosalinde-arthur-collection",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.25,
       "first_sentence": "The late Tony Charlton, who called a dozen VFL grand finals and three Olympic Games, said sporting commentators should \u201cproduce words like bubbles in champagne\u201d.",
       "timestamp": "2026-03-04T14:00:34Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018Apartheid newsroom\u2019: minority ethnic journalists still locked out of top jobs, report finds",
-      "link": "https://www.theguardian.com/media/2026/mar/04/journalism-minority-newsroom-jobs-report",
-      "mean_score": 0.3512,
-      "vader_score": 0.2023,
-      "textblob_score": 0.5,
-      "first_sentence": "Broadcast journalists from ethnic minorities are still locked out of top jobs and face a backlash after being perceived as \u201cdiversity hires\u201d, according to a survey of UK television newsrooms.",
-      "timestamp": "2026-03-04T13:32:11Z",
       "source": "The Guardian"
     }
   ]
