@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-11T16:24:18Z",
+  "last run": "2026-03-11T17:23:57Z",
   "stories": [
+    {
+      "headline": "Bayer Leverkusen v Arsenal: Champions League last 16, first leg\u2013 live",
+      "link": "https://www.theguardian.com/football/live/2026/mar/11/bayer-leverkusen-v-arsenal-champions-league-last-16-first-leg-live",
+      "mean_score": 0.3277,
+      "vader_score": 0.5267,
+      "textblob_score": 0.1288,
+      "first_sentence": "Competitive balance across Europe\u2019s leagues would be transformed with the adoption of a new model for distributing revenue from the Champions League and other Uefa club competitions, according to a proposal by the Union of European Clubs (UEC).",
+      "timestamp": "2026-03-11T17:04:48Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "More support as heating oil costs 'double'",
       "link": "https://www.bbc.com/news/articles/c07jrp8ryy8o?at_medium=RSS&at_campaign=rss",
@@ -10,6 +20,16 @@
       "first_sentence": "Farmers and residents say they are concerned after heating oil costs have \"doubled\" since the conflict in Iran escalated.",
       "timestamp": "2026-03-11T16:17:09Z",
       "source": "BBC News"
+    },
+    {
+      "headline": "NIH director launches \"Scientific Freedom\" lectures with non-scientist",
+      "link": "https://arstechnica.com/science/2026/03/nih-director-launches-scientific-freedom-lectures-with-non-scientist/",
+      "mean_score": 0.3185,
+      "vader_score": 0.6369,
+      "textblob_score": 0.0,
+      "first_sentence": "First speaker minimizes climate change, COVID risks\u2014and is a lab leak proponent.",
+      "timestamp": "2026-03-11T15:33:50Z",
+      "source": "Ars Technica"
     },
     {
       "headline": "Surely if you rule the manosphere, you can be your own boss? These influencers aren\u2019t even that | Elle Hunt",
@@ -2480,26 +2500,6 @@
       "first_sentence": "For decades, China's women's national football team have done what the men never could: win.",
       "timestamp": "2026-03-04T20:25:05Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "The best beginner pickleball gear, according to pros",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/mar/04/best-beginner-pickleball-gear-according-to-pros",
-      "mean_score": 0.8185,
-      "vader_score": 0.6369,
-      "textblob_score": 1.0,
-      "first_sentence": "The Guardian\u2019s journalism is independent.",
-      "timestamp": "2026-03-04T20:15:40Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Newcastle United v Manchester United: Premier League \u2013 live",
-      "link": "https://www.theguardian.com/football/live/2026/mar/04/newcastle-v-manchester-united-premier-league-live",
-      "mean_score": 0.4086,
-      "vader_score": 0.6808,
-      "textblob_score": 0.1364,
-      "first_sentence": "A reminder of where both teams lie going into tonight\u2019s five-match card.",
-      "timestamp": "2026-03-04T20:00:10Z",
-      "source": "The Guardian"
     }
   ]
 }
