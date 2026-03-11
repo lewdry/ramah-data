@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-11T17:23:57Z",
+  "last run": "2026-03-11T18:25:45Z",
   "stories": [
+    {
+      "headline": "Colts, QB Daniel Jones agree to 2-year deal worth up to $100 million, AP source says",
+      "link": "https://apnews.com/article/indianapolis-colts-daniel-jones-aa7c64daa186fd7028d327eba1664cd2",
+      "mean_score": 0.4133,
+      "vader_score": 0.5267,
+      "textblob_score": 0.3,
+      "first_sentence": "INDIANAPOLIS (AP) \u2014 Quarterback Daniel Jones plans to stay with the Indianapolis Colts for at least two more years.",
+      "timestamp": "2026-03-11T18:23:01Z",
+      "source": "AP News"
+    },
     {
       "headline": "Bayer Leverkusen v Arsenal: Champions League last 16, first leg\u2013 live",
       "link": "https://www.theguardian.com/football/live/2026/mar/11/bayer-leverkusen-v-arsenal-champions-league-last-16-first-leg-live",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.4,
       "first_sentence": "President Donald Trump's backers have celebrated the United States and Israel's attack on Iran as a blow for not just the Iranian regime, but also for China.",
       "timestamp": "2026-03-04T20:49:03Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Can China's 'Steel Roses' shine bright once again?",
-      "link": "https://www.abc.net.au/news/2026-03-05/womens-asian-cup-challenges-facing-china-women-football-team/106395844",
-      "mean_score": 0.5702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.7,
-      "first_sentence": "For decades, China's women's national football team have done what the men never could: win.",
-      "timestamp": "2026-03-04T20:25:05Z",
       "source": "ABC News"
     }
   ]
