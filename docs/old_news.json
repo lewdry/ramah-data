@@ -1,5 +1,15 @@
 [
   {
+    "headline": "'Overjoyed': Emotions run high as first flight out of Middle East lands in Sydney",
+    "link": "https://www.abc.net.au/news/2026-03-05/dubai-sydney-flight-touches-down-middle-east-war/106416684",
+    "mean_score": 0.3543,
+    "vader_score": 0.5719,
+    "textblob_score": 0.1367,
+    "first_sentence": "About 200 Australians have landed safely in Sydney after flying out of Dubai following the outbreak of America and Israel's war with Iran.",
+    "timestamp": "2026-03-04T13:03:15Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Why supporting a shelter for women is now 'kind of radioactive'",
     "link": "https://www.npr.org/2026/03/04/g-s1-111527/abuse-partner-shelters-aid-cuts",
     "mean_score": 0.4327,
