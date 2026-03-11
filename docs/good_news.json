@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-11T05:27:07Z",
+  "last run": "2026-03-11T06:24:55Z",
   "stories": [
+    {
+      "headline": "If plant-based foods must be more honest, let\u2019s do the same for meat \u2013 fancy some \u2018cow muscle\u2019? | Deirdra Barr",
+      "link": "https://www.theguardian.com/commentisfree/2026/mar/11/plant-based-foods-honest-meat-cow-muscle-eu-rules-ban-veggie",
+      "mean_score": 0.399,
+      "vader_score": 0.5563,
+      "textblob_score": 0.2417,
+      "first_sentence": "Last week, European policymakers decided that plant-based foods should no longer be marketed with terms such as \u201cchicken\u201d, \u201cbacon\u201d or \u201csteak\u201d.",
+      "timestamp": "2026-03-11T06:00:13Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "The Perth Festival shows it's well and truly back post-COVID",
+      "link": "https://www.abc.net.au/news/2026-03-11/six-shows-we-loved-at-perth-festival/106432576",
+      "mean_score": 0.401,
+      "vader_score": 0.802,
+      "textblob_score": 0.0,
+      "first_sentence": "After taking the reins in 2025, this year's Perth Festival was a chance for artistic director Anna Reece to consolidate the ideas she set in motion last year.",
+      "timestamp": "2026-03-11T04:00:00Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Joy prevails at WOMADelaide 2026",
       "link": "https://www.abc.net.au/news/2026-03-11/womadelaide-festival-review-2026/106363674",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.5,
       "first_sentence": "How often do you have sex? The Guardian is looking for couples to talk honestly \u2013 and completely anonymously \u2013 about what they get up to in the bedroom for the Saturday magazine\u2019s much-loved This is How We Do It column.\n The idea behind the column is to provide a counterpoint to the airbrushed, exaggerated stories about sex we see on TV and in the media.",
       "timestamp": "2026-03-04T10:14:01Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "GOP heads to runoff; Democrat Talarico wins big in Texas primary",
-      "link": "https://www.npr.org/2026/03/04/nx-s1-5734371/gop-heads-to-runoff-democrat-talarico-wins-big-in-texas-primary",
-      "mean_score": 0.4026,
-      "vader_score": 0.5719,
-      "textblob_score": 0.2333,
-      "first_sentence": "Democrat James Talarico beat Rep.",
-      "timestamp": "2026-03-04T09:45:13Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Outgunned review \u2013 action-thriller in Angola outstays its welcome",
-      "link": "https://www.theguardian.com/film/2026/mar/04/outgunned-review-action-thriller-angola",
-      "mean_score": 0.6294,
-      "vader_score": 0.4588,
-      "textblob_score": 0.8,
-      "first_sentence": "Here is an action-thriller that opens with some zesty Call of Duty-style military violence unfolding in Angola in 2013.",
-      "timestamp": "2026-03-04T09:00:45Z",
       "source": "The Guardian"
     }
   ]

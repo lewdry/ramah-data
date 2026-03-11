@@ -1,5 +1,25 @@
 [
   {
+    "headline": "GOP heads to runoff; Democrat Talarico wins big in Texas primary",
+    "link": "https://www.npr.org/2026/03/04/nx-s1-5734371/gop-heads-to-runoff-democrat-talarico-wins-big-in-texas-primary",
+    "mean_score": 0.4026,
+    "vader_score": 0.5719,
+    "textblob_score": 0.2333,
+    "first_sentence": "Democrat James Talarico beat Rep.",
+    "timestamp": "2026-03-04T09:45:13Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "Outgunned review \u2013 action-thriller in Angola outstays its welcome",
+    "link": "https://www.theguardian.com/film/2026/mar/04/outgunned-review-action-thriller-angola",
+    "mean_score": 0.6294,
+    "vader_score": 0.4588,
+    "textblob_score": 0.8,
+    "first_sentence": "Here is an action-thriller that opens with some zesty Call of Duty-style military violence unfolding in Angola in 2013.",
+    "timestamp": "2026-03-04T09:00:45Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "James Talarico wins Democratic primary for US Senate in Texas",
     "link": "https://www.theguardian.com/us-news/2026/mar/03/texas-primary-election-results",
     "mean_score": 0.4609,
