@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-12T15:25:47Z",
+  "last run": "2026-03-12T16:29:27Z",
   "stories": [
+    {
+      "headline": "NFL free agency: Panthers, 49ers, Patriots, Jets and Rams are early winners",
+      "link": "https://apnews.com/article/nfl-free-agency-winners-losers-3bd3c58016cd8a9eb21f6f7535915056",
+      "mean_score": 0.5003,
+      "vader_score": 0.7506,
+      "textblob_score": 0.25,
+      "first_sentence": "NFL teams have committed billions of dollars in free agency, hoping the players they\u2019ve added can help them win a Super Bowl.",
+      "timestamp": "2026-03-12T16:23:02Z",
+      "source": "AP News"
+    },
+    {
+      "headline": "\u2018Casting is a very easy thing for others to credit for\u2019: Richard E Grant on cinema\u2019s invisible moguls",
+      "link": "https://www.theguardian.com/film/2026/mar/12/everyone-thinks-they-could-do-it-but-they-dont-understand-how-good-we-have-to-be-the-hidden-art-of-the-casting-director",
+      "mean_score": 0.6852,
+      "vader_score": 0.807,
+      "textblob_score": 0.5633,
+      "first_sentence": "This Sunday, casting directors will be honoured at the Oscars for the first time.",
+      "timestamp": "2026-03-12T15:41:56Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "The were dating AI partners when they found real love \u2013 with each other",
       "link": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/mar/12/ai-partners-dumped",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.375,
       "first_sentence": "Karl Stefanovic continues to host the Today show in the morning while carving out a new identity as an \u201canti-woke\u201d podcaster on YouTube.",
       "timestamp": "2026-03-05T14:15:04Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Department of the Vanishing by Johanna Bell review \u2013 brilliantly, terrifyingly plausible",
-      "link": "https://www.theguardian.com/books/2026/mar/06/department-of-the-vanishing-by-johanna-bell-book-review",
-      "mean_score": 0.5562,
-      "vader_score": 0.6124,
-      "textblob_score": 0.5,
-      "first_sentence": "Superb lyrebirds (Menura novaehollandiae) are nature\u2019s archivists.",
-      "timestamp": "2026-03-05T14:00:06Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Bob Carr, \u2018a masterpiece\u2019 and a horny queer fantasy: the best Australian books out in March",
-      "link": "https://www.theguardian.com/books/ng-interactive/2026/mar/05/best-australian-books-march-bob-carr-memoir",
-      "mean_score": 0.5685,
-      "vader_score": 0.6369,
-      "textblob_score": 0.5,
-      "first_sentence": "In this memoir of loss, written after the sudden death of his wife of five decades, Helena, former New South Wales premier Bob Carr reveals himself as most have rarely seen him: vulnerable, emotionally raw and despairing.",
-      "timestamp": "2026-03-05T14:00:04Z",
       "source": "The Guardian"
     }
   ]
