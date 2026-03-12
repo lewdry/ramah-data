@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-12T19:22:06Z",
+  "last run": "2026-03-12T20:14:15Z",
   "stories": [
+    {
+      "headline": "Swim rescue hero Austin Appelbee honoured by Irish president",
+      "link": "https://www.abc.net.au/news/2026-03-13/austin-appelbee-honoured-by-irish-president/106448682",
+      "mean_score": 0.439,
+      "vader_score": 0.8779,
+      "textblob_score": 0.0,
+      "first_sentence": "Irish government minister Kevin Moran has presented WA teenager Austin Appelbee with gifts and a letter from the nation's president, Catherine Connolly.",
+      "timestamp": "2026-03-12T20:01:33Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Iran vows to keep Strait of Hormuz shut in first statement from new Supreme Leader",
+      "link": "https://www.sbs.com.au/news/article/iran-vows-to-keep-strait-of-hormuz-shut-in-first-statement-from-new-supreme-leader/ej46y6rss",
+      "mean_score": 0.3753,
+      "vader_score": 0.5574,
+      "textblob_score": 0.1932,
+      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+      "timestamp": "2026-03-12T19:55:03Z",
+      "source": "SBS News"
+    },
     {
       "headline": "Iran\u2019s New Supreme Leader (Sort Of) Speaks Out",
       "link": "https://www.bbc.co.uk/sounds/play/p0n6b2hm?at_medium=RSS&at_campaign=rss",
@@ -120,6 +140,16 @@
       "first_sentence": "Smiljan Radi\u0107 Clarke was named the newest Pritzker Prize-winner \u2014 an award often called the Nobel of architecture \u2014 Thursday morning.",
       "timestamp": "2026-03-12T13:44:22Z",
       "source": "NPR News"
+    },
+    {
+      "headline": "How do these grab you, darlin\u2019? Nancy Sinatra\u2019s 20 best songs \u2013 ranked!",
+      "link": "https://www.theguardian.com/music/2026/mar/12/nancy-sinatra-20-best-songs-ranked",
+      "mean_score": 0.8348,
+      "vader_score": 0.6696,
+      "textblob_score": 1.0,
+      "first_sentence": "Before she sang a Bond theme, Nancy Sinatra had recorded a parody of one: twanging guitar, John-Barry-mocking brass and all.",
+      "timestamp": "2026-03-12T13:04:30Z",
+      "source": "The Guardian"
     },
     {
       "headline": "\u2018Unbelievably unequal\u2019: report shows how 1% of Mexicans own 40% of country\u2019s wealth",
@@ -2470,36 +2500,6 @@
       "first_sentence": "But for the Iran crisis, Labour\u2019s first major policy announcement since the party\u2019s calamitous defeat in the Gorton and Denton byelection would have been arguably the biggest political story of the week.",
       "timestamp": "2026-03-05T19:41:12Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "It is\u00a0a popular beauty routine. But does it put workers at risk?",
-      "link": "https://www.abc.net.au/news/2026-03-06/nail-salon-workers-voice-concern-over-chemical-exposure/106144444",
-      "mean_score": 0.3827,
-      "vader_score": 0.1655,
-      "textblob_score": 0.6,
-      "first_sentence": "Duyen wore surgical masks, sometimes two at a time, to try and protect herself from chemical vapours and filing dust when she worked at a nail salon.",
-      "timestamp": "2026-03-05T18:44:38Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "They were led off course in a big race. But a fix is more complicated than prize money",
-      "link": "https://www.npr.org/2026/03/05/nx-s1-5735682/atlanta-half-marathon-world-championship-mcclain-born-hurley-kurgat",
-      "mean_score": 0.3523,
-      "vader_score": 0.7046,
-      "textblob_score": 0.0,
-      "first_sentence": "A big road race with national team implications usually ends in jubilation and relief.",
-      "timestamp": "2026-03-05T18:04:48Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Social media plays 'huge role' in promoting traditional gender views, say experts",
-      "link": "https://www.bbc.com/news/articles/c4g55v1g95qo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4224,
-      "vader_score": 0.7003,
-      "textblob_score": 0.1444,
-      "first_sentence": "Gen Z men are more likely than their Baby Boomer counterparts to believe wives should \"obey\" their husbands, a global study by Ipsos and King's College London suggests.",
-      "timestamp": "2026-03-05T18:00:15Z",
-      "source": "BBC News"
     }
   ]
 }
