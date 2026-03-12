@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-12T08:20:30Z",
+  "last run": "2026-03-12T09:21:31Z",
   "stories": [
+    {
+      "headline": "London, San Francisco and Beijing achieve \u2018remarkable reductions\u2019 in air pollution",
+      "link": "https://www.theguardian.com/environment/2026/mar/12/london-san-francisco-and-beijing-achieve-remarkable-reductions-in-air-pollution",
+      "mean_score": 0.375,
+      "vader_score": 0.0,
+      "textblob_score": 0.75,
+      "first_sentence": "London, San Francisco and Beijing are among 19 global cities that have achieved \u201cremarkable reductions\u201d in air pollution, analysis has found, having slashed levels of two airway-aggravating pollutants by more than 20% since 2010.",
+      "timestamp": "2026-03-12T09:00:13Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Why Sentimental Value should win the best picture Oscar",
+      "link": "https://www.theguardian.com/film/2026/mar/12/why-sentimental-value-should-win-the-best-picture-oscar",
+      "mean_score": 0.7151,
+      "vader_score": 0.9136,
+      "textblob_score": 0.5167,
+      "first_sentence": "This is a best picture race full of ambitious ideas and big swings.",
+      "timestamp": "2026-03-12T08:00:12Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "John Lewis to pay first staff bonus for four years",
       "link": "https://www.bbc.com/news/articles/c626emvy1z7o?at_medium=RSS&at_campaign=rss",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.1364,
       "first_sentence": "Meanwhile, Italian defence minister Guido Crosetto signalled that Italy, Spain, France and the Netherlands will send naval assets to protect Cyprus in the coming days.",
       "timestamp": "2026-03-05T11:06:47Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Why are today\u2019s children\u2019s books and films often so much better than adult ones? | Catherine Shoard",
-      "link": "https://www.theguardian.com/commentisfree/2026/mar/05/childrens-books-films-better-than-adult",
-      "mean_score": 0.3951,
-      "vader_score": 0.4902,
-      "textblob_score": 0.3,
-      "first_sentence": "World Book Day dawns once more, with its morning chorus of swearing and sticky tape.",
-      "timestamp": "2026-03-05T11:00:03Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Soul to Soul review \u2013 joyous 1971 concert film captures Black American stars\u2019 emotional return to Ghana",
-      "link": "https://www.theguardian.com/film/2026/mar/05/soul-to-soul-review-film-denis-sanders-ghana-tina-turner",
-      "mean_score": 0.3176,
-      "vader_score": 0.6908,
-      "textblob_score": -0.0556,
-      "first_sentence": "This exuberant, distinctively high-minded documentary, now restored, comes from the Oscar-winning though now somewhat overlooked film-maker Denis Sanders, made just one year after his renowned 1970 film Elvis: That\u2019s the Way It Is, about Elvis Presley in Las Vegas.",
-      "timestamp": "2026-03-05T11:00:02Z",
       "source": "The Guardian"
     }
   ]
