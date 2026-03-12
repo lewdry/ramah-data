@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-12T17:23:57Z",
+  "last run": "2026-03-12T18:24:26Z",
   "stories": [
+    {
+      "headline": "This tale of a Chicago school book ban was inspired by true events",
+      "link": "https://www.npr.org/2026/03/12/nx-s1-5744667/wake-now-in-the-fire-book-review",
+      "mean_score": 0.345,
+      "vader_score": 0.34,
+      "textblob_score": 0.35,
+      "first_sentence": "I couldn't help but think of little Francie Nolan \u2013 who, like Smith, grew up in the tenements of Brooklyn in the early 20th century and aimed, as a young girl, to read every book she could find \u2013 as I tore through librarian Jarrett Dapier's debut young adult graphic novel, Wake Now in the Fire.",
+      "timestamp": "2026-03-12T17:36:51Z",
+      "source": "NPR News"
+    },
     {
       "headline": "Special episode planned in The Archers tour",
       "link": "https://www.bbc.com/news/articles/crk83dg0zxro?at_medium=RSS&at_campaign=rss",
@@ -10,6 +20,16 @@
       "first_sentence": "The Archers will mark its 75th anniversary with a national stage tour, it has been announced.",
       "timestamp": "2026-03-12T17:19:51Z",
       "source": "BBC News"
+    },
+    {
+      "headline": "Centuries before the Inca, Peru's wealthy imported parrots from afar",
+      "link": "https://arstechnica.com/science/2026/03/centuries-before-the-inca-perus-wealthy-imported-parrots-from-afar/",
+      "mean_score": 0.4306,
+      "vader_score": 0.3612,
+      "textblob_score": 0.5,
+      "first_sentence": "The Inca Empire\u2019s system of roads were built on centuries-old trade routes.",
+      "timestamp": "2026-03-12T16:49:58Z",
+      "source": "Ars Technica"
     },
     {
       "headline": "Medicare Advantage 'dark money' group tries to win higher payments for insurers",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.5667,
       "first_sentence": "England, India and the Wankhede Stadium ground staff conjured a ludicrous, blockbuster semi-final, but for the English in the end it was a bust, a night when records fell and they eventually went with them.",
       "timestamp": "2026-03-05T17:57:53Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Why are Democrats surrendering the issue of healthy food? | Tim Ryan and Justin Talbot Zorn",
-      "link": "https://www.theguardian.com/commentisfree/2026/mar/05/democrats-rfk-jr-maha-healthy-food",
-      "mean_score": 0.4509,
-      "vader_score": 0.4019,
-      "textblob_score": 0.5,
-      "first_sentence": "On 25 February, in her opening remarks at her Senate confirmation hearing, Casey Means, Donald Trump\u2019s nominee for surgeon general, called on the US government to address key drivers of chronic disease, including \u201cultraprocessed foods, industrial chemical exposure\u201d and other factors.",
-      "timestamp": "2026-03-05T17:00:02Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Nepal: voting closes in election pitting old guard against powerful youth movement",
-      "link": "https://www.theguardian.com/world/2026/mar/05/nepal-election-2026-voting-balen-shah-sharma-oli",
-      "mean_score": 0.3107,
-      "vader_score": 0.4215,
-      "textblob_score": 0.2,
-      "first_sentence": "Nearly six months after a wave of unprecedented youth-led protests forced Nepal\u2019s then prime minister to quit, people have began voting in a general election that is shaping up as a high-stakes showdown between the entrenched old guard and a powerful youth movement.",
-      "timestamp": "2026-03-05T15:25:05Z",
       "source": "The Guardian"
     }
   ]
