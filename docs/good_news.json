@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-12T13:33:14Z",
+  "last run": "2026-03-12T14:24:33Z",
   "stories": [
+    {
+      "headline": "Capital gains tax discount \u2018overwhelmingly\u2019 benefits investors in Australia\u2019s richest electorates, analysis shows",
+      "link": "https://www.theguardian.com/australia-news/2026/mar/12/capital-gains-tax-discount-overwhelmingly-benefits-investors-in-australias-richest-electorates-analysis-shows",
+      "mean_score": 0.6563,
+      "vader_score": 0.8126,
+      "textblob_score": 0.5,
+      "first_sentence": "Investors who live in the wealthy electorate of Wentworth in Sydney\u2019s eastern suburbs claimed about $1.8bn from the 50% capital gains tax discount, according to new research.",
+      "timestamp": "2026-03-12T14:00:27Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Chilean Smiljan Radi\u0107 Clarke wins architecture's highest honor",
+      "link": "https://www.npr.org/2026/03/12/nx-s1-5743590/smiljan-radic-clarke-pritzker-prize-architect",
+      "mean_score": 0.5423,
+      "vader_score": 0.7845,
+      "textblob_score": 0.3,
+      "first_sentence": "Smiljan Radi\u0107 Clarke was named the newest Pritzker Prize-winner \u2014 an award often called the Nobel of architecture \u2014 Thursday morning.",
+      "timestamp": "2026-03-12T13:44:22Z",
+      "source": "NPR News"
+    },
     {
       "headline": "\u2018Unbelievably unequal\u2019: report shows how 1% of Mexicans own 40% of country\u2019s wealth",
       "link": "https://www.theguardian.com/world/2026/mar/12/mexico-city-neighborhoods-inequality",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.25,
       "first_sentence": "Lewis Hamilton has called for a movement to \u201ctake Africa back\u201d, claiming the continent is being \u201ccontrolled\u201d by European powers.",
       "timestamp": "2026-03-05T13:37:15Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "macOS Tahoe 26.3.1 update will \"upgrade\" your M5's CPU to new \"super\" cores",
-      "link": "https://arstechnica.com/gadgets/2026/03/macos-tahoe-26-3-1-update-will-upgrade-your-m5s-cpu-to-new-super-cores/",
-      "mean_score": 0.4171,
-      "vader_score": 0.5994,
-      "textblob_score": 0.2348,
-      "first_sentence": "In otherwise minor software update, macOS now uses M5\u2019s new nomenclature.",
-      "timestamp": "2026-03-05T13:28:43Z",
-      "source": "Ars Technica"
-    },
-    {
-      "headline": "Pok\u00e9mon Pokopia review \u2013 collectible creatures create their own perfect world",
-      "link": "https://www.theguardian.com/games/2026/mar/05/pokemon-pokopia-review-collectible-creatures-create-their-own-perfect-world",
-      "mean_score": 0.5335,
-      "vader_score": 0.7003,
-      "textblob_score": 0.3667,
-      "first_sentence": "Bear with me here: Pok\u00e9mon has always had an environmentalist subtext.",
-      "timestamp": "2026-03-05T13:15:01Z",
       "source": "The Guardian"
     }
   ]
