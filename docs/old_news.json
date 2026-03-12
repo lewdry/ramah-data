@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Wildlife trust's centenary 'free weekend in nature'",
+    "link": "https://www.bbc.com/news/articles/c4g22d9n5llo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4553,
+    "vader_score": 0.5106,
+    "textblob_score": 0.4,
+    "first_sentence": "The UK's oldest wildlife trust is opening its sites for free for three days as part of its centenary celebrations.",
+    "timestamp": "2026-03-05T06:24:31Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "A Europe of clean, green cities and resurgent industry is a fantasy \u2013 unless we get really creative | Hans Larsson",
+    "link": "https://www.theguardian.com/commentisfree/2026/mar/05/europe-clean-green-cities-resurgent-industry-fantasy-creative",
+    "mean_score": 0.4656,
+    "vader_score": 0.7089,
+    "textblob_score": 0.2222,
+    "first_sentence": "\u201cBitterfeld, Bitterfeld, where dirt falls from the sky,\u201d went a popular saying.",
+    "timestamp": "2026-03-05T05:00:52Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "A delightful day at the dump: \u2018The trick is not to leave with more stuff than I arrived with!\u2019",
+    "link": "https://www.theguardian.com/environment/2026/mar/05/dump-council-recycling-centre-tip-shop-treasures",
+    "mean_score": 0.5805,
+    "vader_score": 0.3485,
+    "textblob_score": 0.8125,
+    "first_sentence": "When an embalmed rabbit in a Perspex box arrived at the dump in Chingford, north-east London, last year, with fur on its head but its organs and skeleton exposed to teach veterinary students about the digestive system, Lisa Charlton knew she had to save it from landfill.",
+    "timestamp": "2026-03-05T05:00:51Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Government's controversial freedom of information reforms dropped after broad opposition",
+    "link": "https://www.sbs.com.au/news/article/governments-controversial-freedom-of-information-laws-dropped-after-broad-opposition/d5nupe3dy",
+    "mean_score": 0.4165,
+    "vader_score": 0.5267,
+    "textblob_score": 0.3063,
+    "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+    "timestamp": "2026-03-05T04:12:29Z",
+    "source": "SBS News"
+  },
+  {
     "headline": "'Slap in the face': Former Tropfest winner slams festival for AI film inclusion",
     "link": "https://www.abc.net.au/news/2026-03-05/tropfest-ai-film-sparks-filmmaker-anger/106417734",
     "mean_score": 0.4113,

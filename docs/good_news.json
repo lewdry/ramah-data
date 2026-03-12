@@ -1,6 +1,36 @@
 {
-  "last run": "2026-03-11T23:10:38Z",
+  "last run": "2026-03-12T00:36:18Z",
   "stories": [
+    {
+      "headline": "As a refugee, I have lived in limbo for 13 years. Why are only some Iranian women worthy of Australia\u2019s protection? | Fatemeh Lahmidi",
+      "link": "https://www.theguardian.com/commentisfree/2026/mar/12/iranian-women-refugee-asylum-visa-australia-nauru",
+      "mean_score": 0.3035,
+      "vader_score": 0.4404,
+      "textblob_score": 0.1667,
+      "first_sentence": "When I heard this week that Australia had granted humanitarian visas to the Iranian women\u2019s football team, I felt two very different emotions at once.",
+      "timestamp": "2026-03-12T00:06:09Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Australian champion leading new era of women's motocross in the US",
+      "link": "https://www.abc.net.au/news/2026-03-12/australian-charli-cannon-sets-sights-on-american-motocross-title/106414496",
+      "mean_score": 0.3338,
+      "vader_score": 0.5994,
+      "textblob_score": 0.0682,
+      "first_sentence": "Four-time Australian Champion Charli Cannon will feature in a new era of American motocross this year.",
+      "timestamp": "2026-03-12T00:00:35Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Google Play Games for PC is getting more premium titles and cross-buy with Android",
+      "link": "https://arstechnica.com/gaming/2026/03/google-play-games-for-pc-is-getting-more-premium-titles-and-cross-buy-with-android/",
+      "mean_score": 0.42,
+      "vader_score": 0.34,
+      "textblob_score": 0.5,
+      "first_sentence": "Google has been tinkering with porting its Play Games platform to Windows for several years, but it started getting serious about it last year.",
+      "timestamp": "2026-03-11T23:00:36Z",
+      "source": "Ars Technica"
+    },
     {
       "headline": "King penguins surfing on the 'good edge' of climate change \u2014 for now",
       "link": "https://www.abc.net.au/news/science/2026-03-12/king-penguins-in-southern-ocean-resilient-to-climate-change/106436648",
@@ -2232,6 +2262,16 @@
       "source": "The Guardian"
     },
     {
+      "headline": "Nepal: voting closes in election pitting old guard against powerful youth movement",
+      "link": "https://www.theguardian.com/world/2026/mar/05/nepal-election-2026-voting-balen-shah-sharma-oli",
+      "mean_score": 0.3107,
+      "vader_score": 0.4215,
+      "textblob_score": 0.2,
+      "first_sentence": "Nearly six months after a wave of unprecedented youth-led protests forced Nepal\u2019s then prime minister to quit, people have began voting in a general election that is shaping up as a high-stakes showdown between the entrenched old guard and a powerful youth movement.",
+      "timestamp": "2026-03-05T15:25:05Z",
+      "source": "The Guardian"
+    },
+    {
       "headline": "Doubles and triples are dwindling in MLB. Blame better outfielders and sluggers",
       "link": "https://apnews.com/article/mlb-doubles-triples-arenado-2eaee79e3c7a1a3772bbaba5a2bf0e71",
       "mean_score": 0.314,
@@ -2460,46 +2500,6 @@
       "first_sentence": "The runaway success of the TV crime drama Peaky Blinders has been credited with boosting tourism to Birmingham and the West Midlands since it first aired in 2013, even though much of the series was actually shot farther north, in Merseyside, Yorkshire and Manchester.",
       "timestamp": "2026-03-05T07:00:54Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Wildlife trust's centenary 'free weekend in nature'",
-      "link": "https://www.bbc.com/news/articles/c4g22d9n5llo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4553,
-      "vader_score": 0.5106,
-      "textblob_score": 0.4,
-      "first_sentence": "The UK's oldest wildlife trust is opening its sites for free for three days as part of its centenary celebrations.",
-      "timestamp": "2026-03-05T06:24:31Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "A Europe of clean, green cities and resurgent industry is a fantasy \u2013 unless we get really creative | Hans Larsson",
-      "link": "https://www.theguardian.com/commentisfree/2026/mar/05/europe-clean-green-cities-resurgent-industry-fantasy-creative",
-      "mean_score": 0.4656,
-      "vader_score": 0.7089,
-      "textblob_score": 0.2222,
-      "first_sentence": "\u201cBitterfeld, Bitterfeld, where dirt falls from the sky,\u201d went a popular saying.",
-      "timestamp": "2026-03-05T05:00:52Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "A delightful day at the dump: \u2018The trick is not to leave with more stuff than I arrived with!\u2019",
-      "link": "https://www.theguardian.com/environment/2026/mar/05/dump-council-recycling-centre-tip-shop-treasures",
-      "mean_score": 0.5805,
-      "vader_score": 0.3485,
-      "textblob_score": 0.8125,
-      "first_sentence": "When an embalmed rabbit in a Perspex box arrived at the dump in Chingford, north-east London, last year, with fur on its head but its organs and skeleton exposed to teach veterinary students about the digestive system, Lisa Charlton knew she had to save it from landfill.",
-      "timestamp": "2026-03-05T05:00:51Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Government's controversial freedom of information reforms dropped after broad opposition",
-      "link": "https://www.sbs.com.au/news/article/governments-controversial-freedom-of-information-laws-dropped-after-broad-opposition/d5nupe3dy",
-      "mean_score": 0.4165,
-      "vader_score": 0.5267,
-      "textblob_score": 0.3063,
-      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-      "timestamp": "2026-03-05T04:12:29Z",
-      "source": "SBS News"
     }
   ]
 }
