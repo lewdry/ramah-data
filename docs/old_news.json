@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Starmer is facing a cocktail of dissent that is growing ever more potent",
+    "link": "https://www.theguardian.com/politics/2026/mar/05/starmer-dissent-labour-may-elections",
+    "mean_score": 0.3389,
+    "vader_score": 0.1779,
+    "textblob_score": 0.5,
+    "first_sentence": "But for the Iran crisis, Labour\u2019s first major policy announcement since the party\u2019s calamitous defeat in the Gorton and Denton byelection would have been arguably the biggest political story of the week.",
+    "timestamp": "2026-03-05T19:41:12Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "It is\u00a0a popular beauty routine. But does it put workers at risk?",
     "link": "https://www.abc.net.au/news/2026-03-06/nail-salon-workers-voice-concern-over-chemical-exposure/106144444",
     "mean_score": 0.3827,
