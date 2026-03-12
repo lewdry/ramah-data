@@ -1,6 +1,36 @@
 {
-  "last run": "2026-03-12T03:06:47Z",
+  "last run": "2026-03-12T04:39:55Z",
   "stories": [
+    {
+      "headline": "Fuel quality rules relaxed to add 100 million litres more petrol",
+      "link": "https://www.abc.net.au/news/2026-03-12/petrol-quality-relaxed-100-million-litre-boost/106446796",
+      "mean_score": 0.497,
+      "vader_score": 0.4939,
+      "textblob_score": 0.5,
+      "first_sentence": "The energy minister has relaxed fuel standards for two months in order for more supply to be brought into the domestic market.",
+      "timestamp": "2026-03-12T04:07:48Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Matt Canavan has promised me a hyper Australia. I\u2019m ready to chug red cordial and get on board | James Colley",
+      "link": "https://www.theguardian.com/australia-news/commentisfree/2026/mar/12/matt-canavan-national-party-leader-hyper-australia-james-colley",
+      "mean_score": 0.3562,
+      "vader_score": 0.6124,
+      "textblob_score": 0.1,
+      "first_sentence": "If you felt a sense of disillusionment with the world yesterday, if the star by which you navigate home disappeared from the sky, if sweet fruit turned to ash in your mouth and you wondered if anything would ever be beautiful again, you were not alone.",
+      "timestamp": "2026-03-12T03:39:32Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Darwin's boil water alert lifted after testing shows water is free of E.coli",
+      "link": "https://www.abc.net.au/news/2026-03-12/boil-water-alert-lifted-in-darwin/106446216",
+      "mean_score": 0.5353,
+      "vader_score": 0.6705,
+      "textblob_score": 0.4,
+      "first_sentence": "The boil water alert is no longer in place for Darwin, after testing of water showed it was free of E.coli and other harmful bacteria.",
+      "timestamp": "2026-03-12T03:23:26Z",
+      "source": "ABC News"
+    },
     {
       "headline": "As a refugee, I have lived in limbo for 13 years. Why are only some Iranian women worthy of Australia\u2019s protection? | Fatemeh Lahmidi",
       "link": "https://www.theguardian.com/commentisfree/2026/mar/12/iranian-women-refugee-asylum-visa-australia-nauru",
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.9,
       "first_sentence": "Emma Stone as a kidnapped, shaven-headed pharmaceuticals CEO who might also be the ruler of an alien master race? It says a lot about director Yorgos Lanthimos that Bugonia was arguably his most straightforward film to date.",
       "timestamp": "2026-03-05T08:00:55Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Live: Grant produces hour of brilliance as Storm keeps 24-year NRL record",
-      "link": "https://www.abc.net.au/news/2026-03-05/nrl-live-updates-melbourne-storm-parramatta-eels-round-one/106414036",
-      "mean_score": 0.4435,
-      "vader_score": 0.7506,
-      "textblob_score": 0.1364,
-      "first_sentence": "Melbourne captain Harry Grant has produced an hour of rugby league excellence, as the Storm maintained its round one winning streak for a 24th season.",
-      "timestamp": "2026-03-05T07:45:12Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Live: Curnow has last laugh as Sydney uses 75-point quarter to thrash Carlton",
-      "link": "https://www.abc.net.au/news/2026-03-05/afl-opening-round-sydney-swans-carlton-blues-scg-live-blog/106421044",
-      "mean_score": 0.3514,
-      "vader_score": 0.5574,
-      "textblob_score": 0.1455,
-      "first_sentence": "Charlie Curnow has kicked three goals against his old side as Sydney used an incredible 75-point third quarter to thrash Carlton in the AFL's season-opener.",
-      "timestamp": "2026-03-05T07:33:15Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Tales of the Suburbs by John Grindrod review \u2013 an entertaining alternative history of queer Britain",
-      "link": "https://www.theguardian.com/books/2026/mar/05/tales-of-the-suburbs-by-john-grindrod-review-an-entertaining-alternative-history-of-queer-britain",
-      "mean_score": 0.4702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.5,
-      "first_sentence": "Generations of readers have loved Armistead Maupin\u2019s Tales of the City novels.",
-      "timestamp": "2026-03-05T07:00:54Z",
       "source": "The Guardian"
     }
   ]
