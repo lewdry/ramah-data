@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-12T11:17:19Z",
+  "last run": "2026-03-12T12:19:56Z",
   "stories": [
+    {
+      "headline": "\u2018Unbelievably unequal\u2019: report shows how 1% of Mexicans own 40% of country\u2019s wealth",
+      "link": "https://www.theguardian.com/world/2026/mar/12/mexico-city-neighborhoods-inequality",
+      "mean_score": 0.3345,
+      "vader_score": 0.4939,
+      "textblob_score": 0.175,
+      "first_sentence": "Scrunched between luxury apartment buildings and a lush gated community, the neighborhood of Santa Luc\u00eda Reacomodo in Mexico City is a working-class pocket of real estate.",
+      "timestamp": "2026-03-12T11:00:21Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Save our soles! Cobblers on the 15 best ways to look after your shoes",
       "link": "https://www.theguardian.com/fashion/2026/mar/12/the-experts-cobblers-on-15-best-ways-to-look-after-shoes",
@@ -52,6 +62,16 @@
       "source": "BBC News"
     },
     {
+      "headline": "Blues hang on for scratchy but vital win over Tigers at the MCG",
+      "link": "https://www.abc.net.au/news/2026-03-12/afl-round-one-carlton-richmond-live-blog/106443928",
+      "mean_score": 0.6451,
+      "vader_score": 0.8402,
+      "textblob_score": 0.45,
+      "first_sentence": "Carlton has kicked only one goal in the second half, but it is just enough to hold off a late charge by a wayward Richmond at the MCG.",
+      "timestamp": "2026-03-12T07:37:14Z",
+      "source": "ABC News"
+    },
+    {
       "headline": "John Lewis pays first annual staff bonus in four years as profits rise",
       "link": "https://www.theguardian.com/business/2026/mar/12/john-lewis-pays-first-annual-staff-bonus-in-four-years-as-profits-rise",
       "mean_score": 0.5003,
@@ -60,6 +80,16 @@
       "first_sentence": "The owner of John Lewis and Waitrose has paid an annual bonus to workers for the first time in four years after underlying profits rose by 6%.",
       "timestamp": "2026-03-12T07:19:40Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "'I imagine they had a healthy sex life early on' - Ruth Jones in Austen-inspired drama",
+      "link": "https://www.bbc.com/news/articles/cy03jw2g78no?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3509,
+      "vader_score": 0.4019,
+      "textblob_score": 0.3,
+      "first_sentence": "Ruth Jones says she is \"stepping into very big shoes\" as she stars in a new BBC comedy series inspired by Jane Austen's Pride and Prejudice.",
+      "timestamp": "2026-03-12T06:10:53Z",
+      "source": "BBC News"
     },
     {
       "headline": "US orders petroleum reserve release in bid to calm markets \u2013 as it happened",
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.3667,
       "first_sentence": "Bear with me here: Pok\u00e9mon has always had an environmentalist subtext.",
       "timestamp": "2026-03-05T13:15:01Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "10cc review \u2013 70s legends reprise a dazzling string of pop classics",
-      "link": "https://www.theguardian.com/music/2026/mar/05/10cc-review-york-barbican",
-      "mean_score": 0.375,
-      "vader_score": 0.0,
-      "textblob_score": 0.75,
-      "first_sentence": "10cc made some of the most innovative pop of the 1970s: melodic constructions combining glam rock, art rock, rock\u2019n\u2019roll and doo-wop with surreal Monty Pythonesque lyrics.",
-      "timestamp": "2026-03-05T13:01:39Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "More than pasties and beaches: Cornwall celebrates St Piran\u2019s Day amid cultural revival",
-      "link": "https://www.theguardian.com/uk-news/2026/mar/05/cornwall-celebrates-st-pirans-day-amid-cultural-revival-launceston",
-      "mean_score": 0.4359,
-      "vader_score": 0.5719,
-      "textblob_score": 0.3,
-      "first_sentence": "A crisp morning in Launceston, an ancient capital of Cornwall, and the town was humming as St Piran\u2019s Day celebrations got into full swing.",
-      "timestamp": "2026-03-05T12:40:31Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Moderate Democrats plot path to victory by winning the middle",
-      "link": "https://www.theguardian.com/us-news/2026/mar/05/democrats-moderate-third-way-elections",
-      "mean_score": 0.3467,
-      "vader_score": 0.5267,
-      "textblob_score": 0.1667,
-      "first_sentence": "Joe Walsh half jumped out of his seat when discussion at the Third Way conference in Charleston turned to how Democrats sound to voters.",
-      "timestamp": "2026-03-05T12:00:04Z",
       "source": "The Guardian"
     }
   ]
