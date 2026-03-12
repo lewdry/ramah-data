@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-12T07:25:03Z",
+  "last run": "2026-03-12T08:20:30Z",
   "stories": [
+    {
+      "headline": "John Lewis to pay first staff bonus for four years",
+      "link": "https://www.bbc.com/news/articles/c626emvy1z7o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3634,
+      "vader_score": 0.4767,
+      "textblob_score": 0.25,
+      "first_sentence": "John Lewis is awarding its staff a bonus for the first time in four years as the retailer continues its turnaround.",
+      "timestamp": "2026-03-12T07:54:50Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "John Lewis pays first annual staff bonus in four years as profits rise",
+      "link": "https://www.theguardian.com/business/2026/mar/12/john-lewis-pays-first-annual-staff-bonus-in-four-years-as-profits-rise",
+      "mean_score": 0.5003,
+      "vader_score": 0.7506,
+      "textblob_score": 0.25,
+      "first_sentence": "The owner of John Lewis and Waitrose has paid an annual bonus to workers for the first time in four years after underlying profits rose by 6%.",
+      "timestamp": "2026-03-12T07:19:40Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "US orders petroleum reserve release in bid to calm markets \u2013 as it happened",
       "link": "https://www.theguardian.com/world/live/2026/mar/11/iran-war-live-updates-trump-oil-hormuz-protestors-us-israel-beirut-middle-east-latest-news",
@@ -2479,26 +2499,6 @@
       "textblob_score": -0.0556,
       "first_sentence": "This exuberant, distinctively high-minded documentary, now restored, comes from the Oscar-winning though now somewhat overlooked film-maker Denis Sanders, made just one year after his renowned 1970 film Elvis: That\u2019s the Way It Is, about Elvis Presley in Las Vegas.",
       "timestamp": "2026-03-05T11:00:02Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "$700 Erewhon hauls, 21-hour shifts: celebrity assistants go public with their grueling, fabulous work",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/mar/05/celebrity-personal-assistants-tiktok",
-      "mean_score": 0.3633,
-      "vader_score": 0.5267,
-      "textblob_score": 0.2,
-      "first_sentence": "Victoria Hiegel, personal assistant to a celebrity client she cannot name because of a nondisclosure agreement, spent 13 February ferrying Valentine\u2019s Day cookies across Manhattan.",
-      "timestamp": "2026-03-05T11:00:01Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Vladimir review \u2013 Rachel Weisz is unswervingly brilliant in a TV show you\u2019ll admire for years to come",
-      "link": "https://www.theguardian.com/tv-and-radio/2026/mar/05/vladimir-review-rachel-weisz-is-unswervingly-brilliant-in-a-tv-show-youll-admire-for-years-to-come",
-      "mean_score": 0.8422,
-      "vader_score": 0.7845,
-      "textblob_score": 0.9,
-      "first_sentence": "Vladimir is that rare visitor to the screen \u2013 proper television for proper grownups.",
-      "timestamp": "2026-03-05T08:01:54Z",
       "source": "The Guardian"
     }
   ]
