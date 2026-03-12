@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-12T16:29:27Z",
+  "last run": "2026-03-12T17:23:57Z",
   "stories": [
+    {
+      "headline": "Special episode planned in The Archers tour",
+      "link": "https://www.bbc.com/news/articles/crk83dg0zxro?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3795,
+      "vader_score": 0.4019,
+      "textblob_score": 0.3571,
+      "first_sentence": "The Archers will mark its 75th anniversary with a national stage tour, it has been announced.",
+      "timestamp": "2026-03-12T17:19:51Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Medicare Advantage 'dark money' group tries to win higher payments for insurers",
+      "link": "https://www.npr.org/2026/03/12/nx-s1-5745891/medicare-advantage-dark-money-insurers",
+      "mean_score": 0.4502,
+      "vader_score": 0.7003,
+      "textblob_score": 0.2,
+      "first_sentence": "Judging by more than 16,300 comments recently posted on a federal government website, you'd think there was a groundswell of older Americans demanding that federal officials hike payments to their Medicare Advantage health insurance plans.",
+      "timestamp": "2026-03-12T16:44:48Z",
+      "source": "NPR News"
+    },
     {
       "headline": "NFL free agency: Panthers, 49ers, Patriots, Jets and Rams are early winners",
       "link": "https://apnews.com/article/nfl-free-agency-winners-losers-3bd3c58016cd8a9eb21f6f7535915056",
@@ -20,6 +40,16 @@
       "first_sentence": "This Sunday, casting directors will be honoured at the Oscars for the first time.",
       "timestamp": "2026-03-12T15:41:56Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "Rapper-politician Balendra Shah's party wins Nepal election",
+      "link": "https://www.bbc.com/news/articles/c8jxnjvjkg7o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5253,
+      "vader_score": 0.7506,
+      "textblob_score": 0.3,
+      "first_sentence": "The Rastriya Swatantra Party (RSP) has won a landslide in Nepal's election - the first held since last year's youth-led protests toppled the then government.",
+      "timestamp": "2026-03-12T15:25:35Z",
+      "source": "BBC News"
     },
     {
       "headline": "The were dating AI partners when they found real love \u2013 with each other",
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.2,
       "first_sentence": "Nearly six months after a wave of unprecedented youth-led protests forced Nepal\u2019s then prime minister to quit, people have began voting in a general election that is shaping up as a high-stakes showdown between the entrenched old guard and a powerful youth movement.",
       "timestamp": "2026-03-05T15:25:05Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Doubles and triples are dwindling in MLB. Blame better outfielders and sluggers",
-      "link": "https://apnews.com/article/mlb-doubles-triples-arenado-2eaee79e3c7a1a3772bbaba5a2bf0e71",
-      "mean_score": 0.314,
-      "vader_score": 0.128,
-      "textblob_score": 0.5,
-      "first_sentence": "GLENDALE, Ariz.",
-      "timestamp": "2026-03-05T15:23:02Z",
-      "source": "AP News"
-    },
-    {
-      "headline": "Bright and beautiful? The man causing millennial rapture with his school hymn singalongs",
-      "link": "https://www.theguardian.com/music/2026/mar/05/james-b-partridge-millennial-rapture-school-hymn-singalongs-glastonbury-tiktok-nostalgia",
-      "mean_score": 0.7938,
-      "vader_score": 0.8126,
-      "textblob_score": 0.775,
-      "first_sentence": "Primary School Bangers caused a sensation on TikTok, then at Glastonbury, and now it\u2019s gone nationwide.",
-      "timestamp": "2026-03-05T15:00:04Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Pauline Hanson\u2019s excited announcement about Karl Stefanovic prompts swift clarification | Weekly Beast",
-      "link": "https://www.theguardian.com/media/2026/mar/05/weekly-beast-pauline-hanson-karl-stefanovic-podcast-kyle-jackie-u-media-ntwnfb",
-      "mean_score": 0.4345,
-      "vader_score": 0.4939,
-      "textblob_score": 0.375,
-      "first_sentence": "Karl Stefanovic continues to host the Today show in the morning while carving out a new identity as an \u201canti-woke\u201d podcaster on YouTube.",
-      "timestamp": "2026-03-05T14:15:04Z",
       "source": "The Guardian"
     }
   ]

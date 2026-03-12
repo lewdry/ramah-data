@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Doubles and triples are dwindling in MLB. Blame better outfielders and sluggers",
+    "link": "https://apnews.com/article/mlb-doubles-triples-arenado-2eaee79e3c7a1a3772bbaba5a2bf0e71",
+    "mean_score": 0.314,
+    "vader_score": 0.128,
+    "textblob_score": 0.5,
+    "first_sentence": "GLENDALE, Ariz.",
+    "timestamp": "2026-03-05T15:23:02Z",
+    "source": "AP News"
+  },
+  {
+    "headline": "Bright and beautiful? The man causing millennial rapture with his school hymn singalongs",
+    "link": "https://www.theguardian.com/music/2026/mar/05/james-b-partridge-millennial-rapture-school-hymn-singalongs-glastonbury-tiktok-nostalgia",
+    "mean_score": 0.7938,
+    "vader_score": 0.8126,
+    "textblob_score": 0.775,
+    "first_sentence": "Primary School Bangers caused a sensation on TikTok, then at Glastonbury, and now it\u2019s gone nationwide.",
+    "timestamp": "2026-03-05T15:00:04Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Pauline Hanson\u2019s excited announcement about Karl Stefanovic prompts swift clarification | Weekly Beast",
+    "link": "https://www.theguardian.com/media/2026/mar/05/weekly-beast-pauline-hanson-karl-stefanovic-podcast-kyle-jackie-u-media-ntwnfb",
+    "mean_score": 0.4345,
+    "vader_score": 0.4939,
+    "textblob_score": 0.375,
+    "first_sentence": "Karl Stefanovic continues to host the Today show in the morning while carving out a new identity as an \u201canti-woke\u201d podcaster on YouTube.",
+    "timestamp": "2026-03-05T14:15:04Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Department of the Vanishing by Johanna Bell review \u2013 brilliantly, terrifyingly plausible",
     "link": "https://www.theguardian.com/books/2026/mar/06/department-of-the-vanishing-by-johanna-bell-book-review",
     "mean_score": 0.5562,
