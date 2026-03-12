@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-12T10:19:52Z",
+  "last run": "2026-03-12T11:17:19Z",
   "stories": [
+    {
+      "headline": "Save our soles! Cobblers on the 15 best ways to look after your shoes",
+      "link": "https://www.theguardian.com/fashion/2026/mar/12/the-experts-cobblers-on-15-best-ways-to-look-after-shoes",
+      "mean_score": 0.9134,
+      "vader_score": 0.8268,
+      "textblob_score": 1.0,
+      "first_sentence": "Now that trainers have supplanted smart shoes for so many occasions, and people replace them as often as fashion and budget allow, shoe maintenance is becoming a lost art.",
+      "timestamp": "2026-03-12T10:44:15Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Why is smoking so addictive \u2013 and what are the best ways to give up?",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/mar/12/why-is-smoking-so-addictive-and-what-are-the-best-ways-to-give-up",
+      "mean_score": 0.5685,
+      "vader_score": 0.6369,
+      "textblob_score": 0.5,
+      "first_sentence": "Smoking is bad for you and you shouldn\u2019t do it.",
+      "timestamp": "2026-03-12T10:26:38Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "London, San Francisco and Beijing achieve \u2018remarkable reductions\u2019 in air pollution",
       "link": "https://www.theguardian.com/environment/2026/mar/12/london-san-francisco-and-beijing-achieve-remarkable-reductions-in-air-pollution",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.1667,
       "first_sentence": "Joe Walsh half jumped out of his seat when discussion at the Third Way conference in Charleston turned to how Democrats sound to voters.",
       "timestamp": "2026-03-05T12:00:04Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Championship playoffs will expand to six teams after approval from EFL clubs",
-      "link": "https://www.theguardian.com/football/2026/mar/05/championship-playoffs-will-expand-to-six-teams-efl-next-season",
-      "mean_score": 0.4037,
-      "vader_score": 0.8074,
-      "textblob_score": 0.0,
-      "first_sentence": "The Championship playoffs will expand to six teams from next season after the change was approved by EFL clubs on Thursday.",
-      "timestamp": "2026-03-05T11:10:44Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "EU countries to send naval assets to help protect Cyprus \u2013 Europe live",
-      "link": "https://www.theguardian.com/world/live/2026/mar/05/spain-us-israel-war-iran-white-house-trade-evacuations-latest-news",
-      "mean_score": 0.4274,
-      "vader_score": 0.7184,
-      "textblob_score": 0.1364,
-      "first_sentence": "Meanwhile, Italian defence minister Guido Crosetto signalled that Italy, Spain, France and the Netherlands will send naval assets to protect Cyprus in the coming days.",
-      "timestamp": "2026-03-05T11:06:47Z",
       "source": "The Guardian"
     }
   ]
