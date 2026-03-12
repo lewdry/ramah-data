@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Inside Iran, some citizens are already preparing for 'freedom day'",
+    "link": "https://www.abc.net.au/news/2026-03-06/iranians-signal-mixed-feelings-about-war-us-israel-intervention/106416804",
+    "mean_score": 0.3185,
+    "vader_score": 0.6369,
+    "textblob_score": 0.0,
+    "first_sentence": "Many Iranians are already celebrating and preparing for \"freedom day\" after Supreme leader Ali Khamenei was killed in strikes on Saturday.",
+    "timestamp": "2026-03-05T19:54:06Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Starmer is facing a cocktail of dissent that is growing ever more potent",
     "link": "https://www.theguardian.com/politics/2026/mar/05/starmer-dissent-labour-may-elections",
     "mean_score": 0.3389,

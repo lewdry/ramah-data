@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-12T22:09:37Z",
+  "last run": "2026-03-12T23:11:50Z",
   "stories": [
+    {
+      "headline": "Loved one stuck inside the manosphere? Here's how to help",
+      "link": "https://www.abc.net.au/news/2026-03-13/how-to-talk-to-boys-and-young-men-about-the-manosphere/106447888",
+      "mean_score": 0.6904,
+      "vader_score": 0.6808,
+      "textblob_score": 0.7,
+      "first_sentence": "Researchers agree the manosphere can sow some dangerous seeds.",
+      "timestamp": "2026-03-12T22:20:38Z",
+      "source": "ABC News"
+    },
     {
       "headline": "When the Matildas played in North Korea a full stadium laughed at them",
       "link": "https://www.abc.net.au/news/2026-03-13/matildas-north-korea-2007-in-pyongyang-hostile-match/106432732",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.8,
       "first_sentence": "The Matildas were looking for a few more goals in their second AFC Women's Asian Cup Australia 2026 game and certainly found them, beating Iran 4-0 in Robina.",
       "timestamp": "2026-03-05T19:55:32Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Inside Iran, some citizens are already preparing for 'freedom day'",
-      "link": "https://www.abc.net.au/news/2026-03-06/iranians-signal-mixed-feelings-about-war-us-israel-intervention/106416804",
-      "mean_score": 0.3185,
-      "vader_score": 0.6369,
-      "textblob_score": 0.0,
-      "first_sentence": "Many Iranians are already celebrating and preparing for \"freedom day\" after Supreme leader Ali Khamenei was killed in strikes on Saturday.",
-      "timestamp": "2026-03-05T19:54:06Z",
       "source": "ABC News"
     }
   ]
