@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-12T04:39:55Z",
+  "last run": "2026-03-12T05:28:39Z",
   "stories": [
+    {
+      "headline": "US orders petroleum reserve release in bid to calm markets \u2013 as it happened",
+      "link": "https://www.theguardian.com/world/live/2026/mar/11/iran-war-live-updates-trump-oil-hormuz-protestors-us-israel-beirut-middle-east-latest-news",
+      "mean_score": 0.3091,
+      "vader_score": 0.3182,
+      "textblob_score": 0.3,
+      "first_sentence": "Iraq\u2019s oil ports have completely stopped operations while commercial ports continue to operate after an attack on a fuel tanker, an Iraqi official has said.",
+      "timestamp": "2026-03-12T04:33:47Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Fuel quality rules relaxed to add 100 million litres more petrol",
       "link": "https://www.abc.net.au/news/2026-03-12/petrol-quality-relaxed-100-million-litre-boost/106446796",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.9,
       "first_sentence": "Vladimir is that rare visitor to the screen \u2013 proper television for proper grownups.",
       "timestamp": "2026-03-05T08:01:54Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Why Bugonia should win the best picture Oscar",
-      "link": "https://www.theguardian.com/film/2026/mar/05/why-bugonia-should-win-the-best-picture-oscar",
-      "mean_score": 0.8701,
-      "vader_score": 0.8402,
-      "textblob_score": 0.9,
-      "first_sentence": "Emma Stone as a kidnapped, shaven-headed pharmaceuticals CEO who might also be the ruler of an alien master race? It says a lot about director Yorgos Lanthimos that Bugonia was arguably his most straightforward film to date.",
-      "timestamp": "2026-03-05T08:00:55Z",
       "source": "The Guardian"
     }
   ]
