@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-12T14:24:33Z",
+  "last run": "2026-03-12T15:25:47Z",
   "stories": [
+    {
+      "headline": "The were dating AI partners when they found real love \u2013 with each other",
+      "link": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/mar/12/ai-partners-dumped",
+      "mean_score": 0.4747,
+      "vader_score": 0.6369,
+      "textblob_score": 0.3125,
+      "first_sentence": "People are reporting \u201cdating\u201d artificially intelligent companions \u2013 but not every relationship lasts.",
+      "timestamp": "2026-03-12T15:00:33Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Capital gains tax discount \u2018overwhelmingly\u2019 benefits investors in Australia\u2019s richest electorates, analysis shows",
       "link": "https://www.theguardian.com/australia-news/2026/mar/12/capital-gains-tax-discount-overwhelmingly-benefits-investors-in-australias-richest-electorates-analysis-shows",
@@ -8,6 +18,16 @@
       "vader_score": 0.8126,
       "textblob_score": 0.5,
       "first_sentence": "Investors who live in the wealthy electorate of Wentworth in Sydney\u2019s eastern suburbs claimed about $1.8bn from the 50% capital gains tax discount, according to new research.",
+      "timestamp": "2026-03-12T14:00:27Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Sydney Biennale 2026: politics is everywhere \u2013 but with nuance, beauty and heart",
+      "link": "https://www.theguardian.com/culture/ng-interactive/2026/mar/13/sydney-biennale-2026-highlights-politics-nuance-beauty",
+      "mean_score": 0.4593,
+      "vader_score": 0.9186,
+      "textblob_score": 0.0,
+      "first_sentence": "According to its critics, this year\u2019s Biennale of Sydney, under the leadership of Emirati artistic director Hoor Al Qasimi (the first Arab appointed to the role in the festival\u2019s 53-year history) was destined to be a \u201chate Israel jamboree\u201d at worst; a hotbed of pro-Palestinian politics at best.",
       "timestamp": "2026-03-12T14:00:27Z",
       "source": "The Guardian"
     },
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.5,
       "first_sentence": "In this memoir of loss, written after the sudden death of his wife of five decades, Helena, former New South Wales premier Bob Carr reveals himself as most have rarely seen him: vulnerable, emotionally raw and despairing.",
       "timestamp": "2026-03-05T14:00:04Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Melbourne comedy festival turns 40: tell us your most chaotic stories \u2013 from the audience or the stage",
-      "link": "https://www.theguardian.com/stage/2026/mar/06/melbourne-comedy-festival-40-your-stories",
-      "mean_score": 0.3987,
-      "vader_score": 0.2975,
-      "textblob_score": 0.5,
-      "first_sentence": "The Melbourne international comedy festival takes over the city from 25 March: the world\u2019s largest dedicated comedy festival, celebrating its milestone 40th year.",
-      "timestamp": "2026-03-05T14:00:03Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Lewis Hamilton sets sights on racing in an African grand prix before retiring",
-      "link": "https://www.theguardian.com/sport/2026/mar/05/lewis-hamilton-race-africa-grand-prix-retiring-formula-one-colonial",
-      "mean_score": 0.3544,
-      "vader_score": 0.4588,
-      "textblob_score": 0.25,
-      "first_sentence": "Lewis Hamilton has called for a movement to \u201ctake Africa back\u201d, claiming the continent is being \u201ccontrolled\u201d by European powers.",
-      "timestamp": "2026-03-05T13:37:15Z",
       "source": "The Guardian"
     }
   ]
