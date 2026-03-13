@@ -1,5 +1,35 @@
 [
   {
+    "headline": "The Dinosaurs review \u2013 Morgan Freeman\u2019s narration is so soothing, you could use this as a relaxation aid",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/mar/06/the-dinosaurs-review-morgan-freemans-narration-is-so-soothing-you-could-use-this-as-a-relaxation-aid",
+    "mean_score": 0.375,
+    "vader_score": 0.75,
+    "textblob_score": 0.0,
+    "first_sentence": "It\u2019s difficult these days to make a nature documentary that isn\u2019t like all the others.",
+    "timestamp": "2026-03-06T05:00:11Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "NSW\u2019s top prosecutor scores legal win in bias claim against senior judge",
+    "link": "https://www.theguardian.com/australia-news/2026/mar/06/judge-penelope-wass-bias-case-nsw-prosecutor-win",
+    "mean_score": 0.5954,
+    "vader_score": 0.6908,
+    "textblob_score": 0.5,
+    "first_sentence": "New South Wales\u2019 top prosecutor has been given the green light to continue her fight to get a senior judge removed from a historical sexual offences trial on the grounds of apprehended bias.",
+    "timestamp": "2026-03-06T05:00:01Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Live: Australia takes early wickets after winning the toss against India",
+    "link": "https://www.abc.net.au/news/2026-03-06/australia-vs-india-womens-test-day-one-live-blog/106420750",
+    "mean_score": 0.3861,
+    "vader_score": 0.5267,
+    "textblob_score": 0.2455,
+    "first_sentence": "Australia is out to seal a multi-format series victory over India as the sides meet for the sole Test match, in what will also be Alyssa Healy's final game for Australia.",
+    "timestamp": "2026-03-06T04:49:04Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Free parking at popular Sydney beaches could be scrapped under new plan",
     "link": "https://www.abc.net.au/news/2026-03-06/randwick-city-council-propose-paid-beach-parking-for-visitors/106418590",
     "mean_score": 0.5528,

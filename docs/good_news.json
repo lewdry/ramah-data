@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-13T04:39:13Z",
+  "last run": "2026-03-13T06:17:06Z",
   "stories": [
+    {
+      "headline": "Benjamina Ebuehi\u2019s recipe for caramelised white chocolate and rhubarb cheesecake | The sweet spot",
+      "link": "https://www.theguardian.com/food/2026/mar/13/caramelised-white-chocolate-rhubarb-cheesecake-recipe-benjamina-ebuehi",
+      "mean_score": 0.3169,
+      "vader_score": 0.4588,
+      "textblob_score": 0.175,
+      "first_sentence": "It\u2019s often my own impatience that forces me to make no-bake cheesecakes over baked ones.",
+      "timestamp": "2026-03-13T06:00:41Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Nepal election results - Balendra Shah's party wins in a landslide",
+      "link": "https://www.bbc.com/news/articles/cev7z9802zjo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5253,
+      "vader_score": 0.7506,
+      "textblob_score": 0.3,
+      "first_sentence": "The party of rapper and ex-Kathmandu mayor Balendra Shah has won a a clear majority, according to the final results from Nepal's general election held on 5 March.",
+      "timestamp": "2026-03-13T04:10:33Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Every Brilliant Thing review \u2013 Daniel Radcliffe sells tricky Broadway transfer",
       "link": "https://www.theguardian.com/stage/2026/mar/12/every-brilliant-thing-daniel-radcliffe-broadway",
@@ -10,6 +30,16 @@
       "first_sentence": "Every Brilliant Thing presents a theatrical gauntlet for Daniel Radcliffe, the erstwhile Harry Potter, acclaimed Broadway stage regular and only star of this 13-week limited engagement.",
       "timestamp": "2026-03-13T03:00:37Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "A young party led by a rapper wins a huge mandate - and Nepal steps into the unknown",
+      "link": "https://www.bbc.com/news/articles/c178jq791w4o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.501,
+      "vader_score": 0.8271,
+      "textblob_score": 0.175,
+      "first_sentence": "The four-year-old Rastriya Swatantra Party (RSP), led by rapper-turned-politician Balendra Shah, has achieved a feat many thought impossible under Nepal's dual-election system: a sweeping majority.",
+      "timestamp": "2026-03-13T02:11:59Z",
+      "source": "BBC News"
     },
     {
       "headline": "Churchill's granddaughter happy with his picture being replaced on \u00a35 note",
@@ -2470,36 +2500,6 @@
       "first_sentence": "Lazarus taxaSign up here to get an email whenever First Dog cartoons are publishedGet all your needs met at the First Dog shop if what you need is First Dog merchandise and prints Continue reading.",
       "timestamp": "2026-03-06T05:52:58Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "The Dinosaurs review \u2013 Morgan Freeman\u2019s narration is so soothing, you could use this as a relaxation aid",
-      "link": "https://www.theguardian.com/tv-and-radio/2026/mar/06/the-dinosaurs-review-morgan-freemans-narration-is-so-soothing-you-could-use-this-as-a-relaxation-aid",
-      "mean_score": 0.375,
-      "vader_score": 0.75,
-      "textblob_score": 0.0,
-      "first_sentence": "It\u2019s difficult these days to make a nature documentary that isn\u2019t like all the others.",
-      "timestamp": "2026-03-06T05:00:11Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "NSW\u2019s top prosecutor scores legal win in bias claim against senior judge",
-      "link": "https://www.theguardian.com/australia-news/2026/mar/06/judge-penelope-wass-bias-case-nsw-prosecutor-win",
-      "mean_score": 0.5954,
-      "vader_score": 0.6908,
-      "textblob_score": 0.5,
-      "first_sentence": "New South Wales\u2019 top prosecutor has been given the green light to continue her fight to get a senior judge removed from a historical sexual offences trial on the grounds of apprehended bias.",
-      "timestamp": "2026-03-06T05:00:01Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Live: Australia takes early wickets after winning the toss against India",
-      "link": "https://www.abc.net.au/news/2026-03-06/australia-vs-india-womens-test-day-one-live-blog/106420750",
-      "mean_score": 0.3861,
-      "vader_score": 0.5267,
-      "textblob_score": 0.2455,
-      "first_sentence": "Australia is out to seal a multi-format series victory over India as the sides meet for the sole Test match, in what will also be Alyssa Healy's final game for Australia.",
-      "timestamp": "2026-03-06T04:49:04Z",
-      "source": "ABC News"
     }
   ]
 }
