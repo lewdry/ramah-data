@@ -1,5 +1,55 @@
 [
   {
+    "headline": "\u2018I\u2019m relieved she\u2019s gone\u2019: Fema staffers celebrate ousting of Kristi Noem",
+    "link": "https://www.theguardian.com/us-news/2026/mar/06/fema-staffers-celebrate-firing-kristi-noem",
+    "mean_score": 0.3715,
+    "vader_score": 0.743,
+    "textblob_score": 0.0,
+    "first_sentence": "Some current and former Federal Emergency Management Agency (Fema) staff are celebrating the Thursday firing of homeland security secretary Kristi Noem, who they say has made the US more dangerous by micromanaging and shrinking the agency.",
+    "timestamp": "2026-03-06T20:06:59Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Asteroid defense mission shifted the orbit of more than its target",
+    "link": "https://arstechnica.com/science/2026/03/nasas-dart-mission-shifted-the-orbits-of-two-asteroids/",
+    "mean_score": 0.314,
+    "vader_score": 0.128,
+    "textblob_score": 0.5,
+    "first_sentence": "The binary asteroid\u2019s orbit around the Sun was affected by the impact.",
+    "timestamp": "2026-03-06T19:00:02Z",
+    "source": "Ars Technica"
+  },
+  {
+    "headline": "\u2018Someone\u2019s paid a grand in cash\u2019: fans camp out in Manchester for first Harry Styles concert since 2023",
+    "link": "https://www.theguardian.com/music/2026/mar/06/fans-camp-out-in-manchester-for-first-harry-styles-concert-since-2023",
+    "mean_score": 0.4169,
+    "vader_score": 0.4588,
+    "textblob_score": 0.375,
+    "first_sentence": "More than 20,000 fans from all over the world flocked towards the Co-op Live arena in Manchester on Friday to watch Harry Styles perform his first concert in two and a half years \u2013 some waiting 48 hours for a place down the front.",
+    "timestamp": "2026-03-06T18:03:22Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Live: Russia reportedly sharing intel to help Iran strike US targets",
+    "link": "https://www.abc.net.au/news/2026-03-07/us-israel-attacks-iran-live-updates-middle-east-war/106426908",
+    "mean_score": 0.3744,
+    "vader_score": 0.6124,
+    "textblob_score": 0.1364,
+    "first_sentence": "US President Donald Trump says there will be \"no deal with Iran except unconditional surrender\" as the conflict enters its second week.",
+    "timestamp": "2026-03-06T17:57:06Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "A lovely name for watching night fall | Letters",
+    "link": "https://www.theguardian.com/society/2026/mar/06/a-lovely-name-for-watching-night-fall",
+    "mean_score": 0.543,
+    "vader_score": 0.5859,
+    "textblob_score": 0.5,
+    "first_sentence": "Rachel Dixon\u2019s piece about \u201cdusking\u201d (\u2018All you need is a chair and a view\u2019: could daily \u2018dusking\u2019 make us healthier and happier?, 1 March) gave a lovely name to something I having been doing all my life, beginning as a child in the company of my Nanna, in a gas-lit kitchen in Wembley in the 1940s, with no view to speak of \u2013 just a back yard.",
+    "timestamp": "2026-03-06T17:30:01Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "'Dopamine Kids' explains why children crave screens and helps them enjoy life instead",
     "link": "https://www.npr.org/2026/03/06/nx-s1-5737901/dopamine-kids-parenting-screens",
     "mean_score": 0.5502,
