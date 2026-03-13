@@ -1,6 +1,36 @@
 {
-  "last run": "2026-03-12T23:11:50Z",
+  "last run": "2026-03-13T00:41:22Z",
   "stories": [
+    {
+      "headline": "French vote tests polarised electorate with right hoping to win control of Paris",
+      "link": "https://www.bbc.com/news/articles/cdxzzqye9w0o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5635,
+      "vader_score": 0.765,
+      "textblob_score": 0.3619,
+      "first_sentence": "France is preparing to vote in town council elections, whose results will be closely analysed for trends ahead of next year's presidential votes.",
+      "timestamp": "2026-03-13T00:15:23Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Winners, Sinners and record breakers: 17 fun facts about this year's Oscars",
+      "link": "https://www.bbc.com/news/articles/c1je21lgn5zo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5253,
+      "vader_score": 0.7506,
+      "textblob_score": 0.3,
+      "first_sentence": "When Sinners director Ryan Coogler went to the movies as a child, he would smuggle in some snacks - and get particularly creative with the cinema's drinks machine.",
+      "timestamp": "2026-03-13T00:02:30Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Aussie curling underdogs set to take on world's best",
+      "link": "https://www.abc.net.au/news/2026-03-13/australian-womens-curling-team-world-championships-first/106444858",
+      "mean_score": 0.8185,
+      "vader_score": 0.6369,
+      "textblob_score": 1.0,
+      "first_sentence": "The Australian women's curling team is competing at the world championships for the first time.",
+      "timestamp": "2026-03-12T23:33:25Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Loved one stuck inside the manosphere? Here's how to help",
       "link": "https://www.abc.net.au/news/2026-03-13/how-to-talk-to-boys-and-young-men-about-the-manosphere/106447888",
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.5,
       "first_sentence": "GPs around Australia are being trained to make an ADHD diagnosis and prescribe medications.",
       "timestamp": "2026-03-06T02:16:19Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Teen photographer captures rural WA's beauty in first solo exhibition",
-      "link": "https://www.abc.net.au/news/2026-03-06/casey-jacobs-young-photographer-agriculture-focus/106405544",
-      "mean_score": 0.3346,
-      "vader_score": 0.5859,
-      "textblob_score": 0.0833,
-      "first_sentence": "Narrogin local Casey Jacobs is looking to continue his photographic work after his debut photography exhibition in the Great Southern.",
-      "timestamp": "2026-03-06T00:01:04Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "The Matildas embody Aussie pub rock spirit against Iran, and they're playing to win",
-      "link": "https://www.abc.net.au/news/2026-03-06/matildas-iran-womens-asian-cup-analysis-playing-to-win/106409680",
-      "mean_score": 0.7715,
-      "vader_score": 0.743,
-      "textblob_score": 0.8,
-      "first_sentence": "The Joe Montemurro incarnation of the Matildas feels like a throwback to classic Australian rock.",
-      "timestamp": "2026-03-05T19:56:56Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "How the internet reacted to the Matildas' 4-0 win over Iran",
-      "link": "https://www.abc.net.au/news/2026-03-06/how-the-internet-reacted-to-the-matildas-v-iran/106420356",
-      "mean_score": 0.6929,
-      "vader_score": 0.5859,
-      "textblob_score": 0.8,
-      "first_sentence": "The Matildas were looking for a few more goals in their second AFC Women's Asian Cup Australia 2026 game and certainly found them, beating Iran 4-0 in Robina.",
-      "timestamp": "2026-03-05T19:55:32Z",
       "source": "ABC News"
     }
   ]

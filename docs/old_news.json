@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Teen photographer captures rural WA's beauty in first solo exhibition",
+    "link": "https://www.abc.net.au/news/2026-03-06/casey-jacobs-young-photographer-agriculture-focus/106405544",
+    "mean_score": 0.3346,
+    "vader_score": 0.5859,
+    "textblob_score": 0.0833,
+    "first_sentence": "Narrogin local Casey Jacobs is looking to continue his photographic work after his debut photography exhibition in the Great Southern.",
+    "timestamp": "2026-03-06T00:01:04Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "The Matildas embody Aussie pub rock spirit against Iran, and they're playing to win",
+    "link": "https://www.abc.net.au/news/2026-03-06/matildas-iran-womens-asian-cup-analysis-playing-to-win/106409680",
+    "mean_score": 0.7715,
+    "vader_score": 0.743,
+    "textblob_score": 0.8,
+    "first_sentence": "The Joe Montemurro incarnation of the Matildas feels like a throwback to classic Australian rock.",
+    "timestamp": "2026-03-05T19:56:56Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "How the internet reacted to the Matildas' 4-0 win over Iran",
+    "link": "https://www.abc.net.au/news/2026-03-06/how-the-internet-reacted-to-the-matildas-v-iran/106420356",
+    "mean_score": 0.6929,
+    "vader_score": 0.5859,
+    "textblob_score": 0.8,
+    "first_sentence": "The Matildas were looking for a few more goals in their second AFC Women's Asian Cup Australia 2026 game and certainly found them, beating Iran 4-0 in Robina.",
+    "timestamp": "2026-03-05T19:55:32Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Inside Iran, some citizens are already preparing for 'freedom day'",
     "link": "https://www.abc.net.au/news/2026-03-06/iranians-signal-mixed-feelings-about-war-us-israel-intervention/106416804",
     "mean_score": 0.3185,
