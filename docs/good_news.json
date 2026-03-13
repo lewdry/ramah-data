@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-13T00:41:22Z",
+  "last run": "2026-03-13T01:39:35Z",
   "stories": [
+    {
+      "headline": "Australians are right to ask \u2018is this good enough?\u2019 when it comes to the Nacc\u2019s final robodebt report | A J Brown",
+      "link": "https://www.theguardian.com/commentisfree/2026/mar/13/nacc-final-robodebt-report-corruption-australia-reaction-ntwnfb",
+      "mean_score": 0.3846,
+      "vader_score": 0.5228,
+      "textblob_score": 0.2464,
+      "first_sentence": "Disappointed reactions to the National Anti-Corruption Commission\u2019s long-awaited robodebt report say a lot about what many Australians have been expecting from the almost three-year-old Nacc.",
+      "timestamp": "2026-03-13T01:01:22Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "French vote tests polarised electorate with right hoping to win control of Paris",
       "link": "https://www.bbc.com/news/articles/cdxzzqye9w0o?at_medium=RSS&at_campaign=rss",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Cillian Murphy has said it's \"wonderfully humbling\" to see the passion for Peaky Blinders, as he reprises his long-running role as Tommy Shelby in a feature film.",
       "timestamp": "2026-03-06T02:31:09Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Getting an ADHD diagnosis may be easier, but will it make things better?",
-      "link": "https://www.abc.net.au/news/2026-03-06/adhd-diagnosis-changes-gp-doctor-demand/106419522",
-      "mean_score": 0.5978,
-      "vader_score": 0.6956,
-      "textblob_score": 0.5,
-      "first_sentence": "GPs around Australia are being trained to make an ADHD diagnosis and prescribe medications.",
-      "timestamp": "2026-03-06T02:16:19Z",
-      "source": "ABC News"
     }
   ]
 }
