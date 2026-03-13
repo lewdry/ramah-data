@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Calm before the storm? Oil's muted reaction to Iran",
+    "link": "https://www.abc.net.au/news/2026-03-06/oil-reaction-trump-attack-on-iran/106424164",
+    "mean_score": 0.3091,
+    "vader_score": 0.3182,
+    "textblob_score": 0.3,
+    "first_sentence": "For all the chaos, the terror and the loss of life in the past week following America's war on Iran, one thing has managed to maintain a semblance of stability.",
+    "timestamp": "2026-03-06T03:20:50Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "From a hilarious novel to a stellar charity album \u2014 we have your weekend covered",
+    "link": "https://www.abc.net.au/news/2026-03-06/what-to-watch-read-and-listen-to-this-weekend/106376416",
+    "mean_score": 0.5766,
+    "vader_score": 0.7783,
+    "textblob_score": 0.375,
+    "first_sentence": "From a laugh-out-loud novel to classic TV for adults and kids, there's plenty of culture to dig into this weekend.",
+    "timestamp": "2026-03-06T03:00:00Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Cillian Murphy hails 'humbling' love for Peaky Blinders as film is released",
+    "link": "https://www.bbc.com/news/articles/c4g225kzxrlo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4685,
+    "vader_score": 0.6369,
+    "textblob_score": 0.3,
+    "first_sentence": "Cillian Murphy has said it's \"wonderfully humbling\" to see the passion for Peaky Blinders, as he reprises his long-running role as Tommy Shelby in a feature film.",
+    "timestamp": "2026-03-06T02:31:09Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Getting an ADHD diagnosis may be easier, but will it make things better?",
     "link": "https://www.abc.net.au/news/2026-03-06/adhd-diagnosis-changes-gp-doctor-demand/106419522",
     "mean_score": 0.5978,

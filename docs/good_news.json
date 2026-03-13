@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-13T01:39:35Z",
+  "last run": "2026-03-13T03:05:07Z",
   "stories": [
+    {
+      "headline": "Churchill's granddaughter happy with his picture being replaced on \u00a35 note",
+      "link": "https://www.bbc.com/news/videos/cvg8yp84mplo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.686,
+      "vader_score": 0.5719,
+      "textblob_score": 0.8,
+      "first_sentence": "Sir Winston Churchill will be replaced on the \u00a35 note by an animal, the Bank of England has said.",
+      "timestamp": "2026-03-13T02:00:04Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Qantas told to 'be a good corporate citizen for once', as deal reached on flight credits",
+      "link": "https://www.abc.net.au/news/2026-03-13/qantas-covid-pandemic-flight-credits-on-their-way-to-customers/106450562",
+      "mean_score": 0.5252,
+      "vader_score": 0.7003,
+      "textblob_score": 0.35,
+      "first_sentence": "Qantas has agreed to settle a class action\u00a0\u200brelated to flight credits issued during the COVID-19\u00a0\u200cpandemic.",
+      "timestamp": "2026-03-13T01:16:44Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Australians are right to ask \u2018is this good enough?\u2019 when it comes to the Nacc\u2019s final robodebt report | A J Brown",
       "link": "https://www.theguardian.com/commentisfree/2026/mar/13/nacc-final-robodebt-report-corruption-australia-reaction-ntwnfb",
@@ -89,6 +109,16 @@
       "textblob_score": 0.1364,
       "first_sentence": "Today, the new Iranian Supreme Leader, Mojtaba Khamenei, gave his first statement pledging to continue blocking the Strait of Hormuz.\n\nThis was delivered not by Khamenei himself, but by a newsreader on Iranian state TV speaking over a photo of him, sparking further speculation as to his health and whereabouts.\n\nAlex and James are joined by Jane Corbin, Panorama film maker, and Baran Abbasi, reporter and presenter for BBC Persian, to discuss what to make of the new Supreme Leader\u2019s statement.\n\nPlus, diplomatic correspondent, James Landale, joins Alex and James from Kyiv to analyse what the US-Israeli war with Iran means for the war in Ukraine and how President Zelensky and President Putin have responded.\n\nYou can now listen to Newscast on a smart speaker.",
       "timestamp": "2026-03-12T18:59:00Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Weekly quiz: This dog was Best in Show at Crufts - what other prize did he win?",
+      "link": "https://www.bbc.com/news/articles/cn714lpej85o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.7323,
+      "vader_score": 0.9062,
+      "textblob_score": 0.5583,
+      "first_sentence": "This week, Iran appointed a new supreme leader, a German city had to be evacuated when a large WW2 bomb was found, and the UK got a first listen to its unusual entry for this year's Eurovision song contest.",
+      "timestamp": "2026-03-12T17:49:47Z",
       "source": "BBC News"
     },
     {
@@ -2470,36 +2500,6 @@
       "first_sentence": "Randwick City Council has proposed installing parking meters at its beaches to charge visitors from outside the area, while issuing free parking permits to residents.",
       "timestamp": "2026-03-06T03:32:09Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Calm before the storm? Oil's muted reaction to Iran",
-      "link": "https://www.abc.net.au/news/2026-03-06/oil-reaction-trump-attack-on-iran/106424164",
-      "mean_score": 0.3091,
-      "vader_score": 0.3182,
-      "textblob_score": 0.3,
-      "first_sentence": "For all the chaos, the terror and the loss of life in the past week following America's war on Iran, one thing has managed to maintain a semblance of stability.",
-      "timestamp": "2026-03-06T03:20:50Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "From a hilarious novel to a stellar charity album \u2014 we have your weekend covered",
-      "link": "https://www.abc.net.au/news/2026-03-06/what-to-watch-read-and-listen-to-this-weekend/106376416",
-      "mean_score": 0.5766,
-      "vader_score": 0.7783,
-      "textblob_score": 0.375,
-      "first_sentence": "From a laugh-out-loud novel to classic TV for adults and kids, there's plenty of culture to dig into this weekend.",
-      "timestamp": "2026-03-06T03:00:00Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Cillian Murphy hails 'humbling' love for Peaky Blinders as film is released",
-      "link": "https://www.bbc.com/news/articles/c4g225kzxrlo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4685,
-      "vader_score": 0.6369,
-      "textblob_score": 0.3,
-      "first_sentence": "Cillian Murphy has said it's \"wonderfully humbling\" to see the passion for Peaky Blinders, as he reprises his long-running role as Tommy Shelby in a feature film.",
-      "timestamp": "2026-03-06T02:31:09Z",
-      "source": "BBC News"
     }
   ]
 }
