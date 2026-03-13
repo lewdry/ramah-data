@@ -2,7 +2,7 @@ name: Fetch Good News
 
 on:
   schedule:
-    - cron: '0 * * * *' # Runs every hour
+    - cron: '0 */3 * * *' # Runs every three hours
   workflow_dispatch: # Allows manual triggering
 
 jobs:
