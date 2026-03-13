@@ -1,5 +1,65 @@
 [
   {
+    "headline": "Leslie Odom Jr, Broadway\u2019s original Aaron Burr, to join London cast of Hamilton",
+    "link": "https://www.theguardian.com/stage/2026/mar/06/leslie-odom-jr-broadways-original-aaron-burr-to-join-london-cast-of-hamilton",
+    "mean_score": 0.4587,
+    "vader_score": 0.5423,
+    "textblob_score": 0.375,
+    "first_sentence": "Leslie Odom Jr, who originated the role of Aaron Burr in Hamilton on Broadway, is to return to the hit musical \u2013 this time making his West End debut.",
+    "timestamp": "2026-03-06T14:31:04Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "\u2018I love being proactive about ageing gracefully\u2019: Kerry Washington on memes, Botox and imperfect women",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/mar/06/kerry-washington-high-stakes-mystery-imperfect-women",
+    "mean_score": 0.5954,
+    "vader_score": 0.6908,
+    "textblob_score": 0.5,
+    "first_sentence": "As double entendres go, to say Kerry Washington acts with teeth isn\u2019t a bad one.",
+    "timestamp": "2026-03-06T13:00:23Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Italy wins claim over name of Spanish restaurant chain The Mafia Sits at the Table",
+    "link": "https://www.theguardian.com/world/2026/mar/06/italy-wins-claim-name-spanish-restaurant-chain-the-mafia-sits-at-the-table",
+    "mean_score": 0.3609,
+    "vader_score": 0.5719,
+    "textblob_score": 0.15,
+    "first_sentence": "A Spanish restaurant chain called The Mafia Sits at the Table may soon have to change its name after the country\u2019s patent and trademark office heeded objections from the Italian government and ruled that the brand\u2019s nomenclature ran counter to \u201cboth public order and morality\u201d.",
+    "timestamp": "2026-03-06T12:33:12Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Xbox confirms new console is coming - but can it revive the brand?",
+    "link": "https://www.bbc.com/news/articles/c875we893ggo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3065,
+    "vader_score": 0.4767,
+    "textblob_score": 0.1364,
+    "first_sentence": "Microsoft's Xbox division has confirmed it's working on a new console, code-named Project Helix.",
+    "timestamp": "2026-03-06T11:56:02Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "A century of care: Wildlife Trusts mark 100th birthday with woodland project",
+    "link": "https://www.theguardian.com/environment/2026/mar/06/wildlife-trusts-mark-100th-birthday-with-woodland-project-norfolk",
+    "mean_score": 0.3715,
+    "vader_score": 0.743,
+    "textblob_score": 0.0,
+    "first_sentence": "The place where Norton Wood once stood is now a vast field of decaying wheat stubble.",
+    "timestamp": "2026-03-06T11:49:25Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Taking the heat. Sauna's popular and there may be health benefits too",
+    "link": "https://www.npr.org/2026/03/06/nx-s1-5719268/sauna-heat-health-benefits-science",
+    "mean_score": 0.6299,
+    "vader_score": 0.6597,
+    "textblob_score": 0.6,
+    "first_sentence": "Saunas have captured the wellness zeitgeist, attracting a new generation of followers eager to tap into the benefits of the age-old practice.",
+    "timestamp": "2026-03-06T11:00:00Z",
+    "source": "NPR News"
+  },
+  {
     "headline": "3G pitch set to be approved despite pollution fears",
     "link": "https://www.bbc.com/news/articles/cvgv403y6rno?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.3144,

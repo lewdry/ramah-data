@@ -1,6 +1,56 @@
 {
-  "last run": "2026-03-13T12:10:52Z",
+  "last run": "2026-03-13T15:16:13Z",
   "stories": [
+    {
+      "headline": "Five Great Reads: the biggest jewelled egg in the world, the language that stumps Duo Lingo, and one thing you should do before you die",
+      "link": "https://www.theguardian.com/australia-news/2026/mar/14/five-great-reads-the-biggest-jewelled-egg-in-the-world-the-language-that-stumps-duo-lingo-and-one-thing-you-should-do-before-you-die",
+      "mean_score": 0.4258,
+      "vader_score": 0.0516,
+      "textblob_score": 0.8,
+      "first_sentence": "Good morning.",
+      "timestamp": "2026-03-13T14:00:55Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Cuba confirms recent talks with United States to resolve differences",
+      "link": "https://www.abc.net.au/news/2026-03-14/cuba-confirms-recent-talks-with-united-states-for-first-time/106454488",
+      "mean_score": 0.3298,
+      "vader_score": 0.6597,
+      "textblob_score": 0.0,
+      "first_sentence": "Cuban President Miguel D\u00edaz-Canel says his government has held recent talks with the United States, the first time Havana has confirmed such contacts.",
+      "timestamp": "2026-03-13T13:46:59Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "3G pitch given approval despite pollution fears",
+      "link": "https://www.bbc.com/news/articles/cvgv403y6rno?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3316,
+      "vader_score": 0.6632,
+      "textblob_score": 0.0,
+      "first_sentence": "A new sports centre is set to be approved despite concerns about the risk of microplastic contamination from an artificial pitch.",
+      "timestamp": "2026-03-13T13:46:22Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "The best recent science fiction, fantasy and horror \u2013 review roundup",
+      "link": "https://www.theguardian.com/books/2026/mar/13/the-best-recent-science-fiction-fantasy-and-horror-review-roundup",
+      "mean_score": 0.314,
+      "vader_score": 0.128,
+      "textblob_score": 0.5,
+      "first_sentence": "The Library of Traumatic Memory by Neil Jordan (Head of Zeus, \u00a320) Better known as a film-maker, Jordan has never stopped writing novels.",
+      "timestamp": "2026-03-13T12:00:49Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Add to playlist: the dadaist cubist racket of Angine de Poitrine and the week\u2019s best new tracks",
+      "link": "https://www.theguardian.com/music/2026/mar/13/add-to-playlist-the-dadaist-cubist-racket-of-angine-de-poitrine-and-the-weeks-best-new-tracks",
+      "mean_score": 0.6025,
+      "vader_score": 0.6369,
+      "textblob_score": 0.5682,
+      "first_sentence": "In 2023, two young men \u2013 their earthly identities a jealously guarded secret \u2013 began \u201ca joke that spilled into reality\u201d intended to simulate something like its namesake heart condition.",
+      "timestamp": "2026-03-13T12:00:49Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Musician Labrinth says he is 'done with this industry' and hits out at Euphoria",
       "link": "https://www.bbc.com/news/articles/cx28z41v98do?at_medium=RSS&at_campaign=rss",
@@ -100,6 +150,16 @@
       "first_sentence": "A woman whose blood donations are so rare they are frozen for up to 30 years said she feels \"very special and honoured\" to be able to help sick patients.",
       "timestamp": "2026-03-13T06:22:13Z",
       "source": "BBC News"
+    },
+    {
+      "headline": "'Get me out of here': Johnston says fans on the field was fun until it wasn't",
+      "link": "https://www.abc.net.au/news/2026-03-13/nrl-live-warriors-raiders-roosters-rabbitohs-alex-johnston/106453350",
+      "mean_score": 0.4053,
+      "vader_score": 0.5106,
+      "textblob_score": 0.3,
+      "first_sentence": "Alex Johnston has become the greatest try-scorer in Australian rugby league history with a double against the Roosters, prompting fans to ignore the NRL's pleas not to storm the field to celebrate.",
+      "timestamp": "2026-03-13T06:13:32Z",
+      "source": "ABC News"
     },
     {
       "headline": "Benjamina Ebuehi\u2019s recipe for caramelised white chocolate and rhubarb cheesecake | The sweet spot",
@@ -2440,66 +2500,6 @@
       "first_sentence": "One hundred lucky school pupils have bagged tickets to Harry Style's one-off concert in Manchester later - thanks to a gift from the star himself.",
       "timestamp": "2026-03-06T14:40:41Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Leslie Odom Jr, Broadway\u2019s original Aaron Burr, to join London cast of Hamilton",
-      "link": "https://www.theguardian.com/stage/2026/mar/06/leslie-odom-jr-broadways-original-aaron-burr-to-join-london-cast-of-hamilton",
-      "mean_score": 0.4587,
-      "vader_score": 0.5423,
-      "textblob_score": 0.375,
-      "first_sentence": "Leslie Odom Jr, who originated the role of Aaron Burr in Hamilton on Broadway, is to return to the hit musical \u2013 this time making his West End debut.",
-      "timestamp": "2026-03-06T14:31:04Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018I love being proactive about ageing gracefully\u2019: Kerry Washington on memes, Botox and imperfect women",
-      "link": "https://www.theguardian.com/tv-and-radio/2026/mar/06/kerry-washington-high-stakes-mystery-imperfect-women",
-      "mean_score": 0.5954,
-      "vader_score": 0.6908,
-      "textblob_score": 0.5,
-      "first_sentence": "As double entendres go, to say Kerry Washington acts with teeth isn\u2019t a bad one.",
-      "timestamp": "2026-03-06T13:00:23Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Italy wins claim over name of Spanish restaurant chain The Mafia Sits at the Table",
-      "link": "https://www.theguardian.com/world/2026/mar/06/italy-wins-claim-name-spanish-restaurant-chain-the-mafia-sits-at-the-table",
-      "mean_score": 0.3609,
-      "vader_score": 0.5719,
-      "textblob_score": 0.15,
-      "first_sentence": "A Spanish restaurant chain called The Mafia Sits at the Table may soon have to change its name after the country\u2019s patent and trademark office heeded objections from the Italian government and ruled that the brand\u2019s nomenclature ran counter to \u201cboth public order and morality\u201d.",
-      "timestamp": "2026-03-06T12:33:12Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Xbox confirms new console is coming - but can it revive the brand?",
-      "link": "https://www.bbc.com/news/articles/c875we893ggo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3065,
-      "vader_score": 0.4767,
-      "textblob_score": 0.1364,
-      "first_sentence": "Microsoft's Xbox division has confirmed it's working on a new console, code-named Project Helix.",
-      "timestamp": "2026-03-06T11:56:02Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "A century of care: Wildlife Trusts mark 100th birthday with woodland project",
-      "link": "https://www.theguardian.com/environment/2026/mar/06/wildlife-trusts-mark-100th-birthday-with-woodland-project-norfolk",
-      "mean_score": 0.3715,
-      "vader_score": 0.743,
-      "textblob_score": 0.0,
-      "first_sentence": "The place where Norton Wood once stood is now a vast field of decaying wheat stubble.",
-      "timestamp": "2026-03-06T11:49:25Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Taking the heat. Sauna's popular and there may be health benefits too",
-      "link": "https://www.npr.org/2026/03/06/nx-s1-5719268/sauna-heat-health-benefits-science",
-      "mean_score": 0.6299,
-      "vader_score": 0.6597,
-      "textblob_score": 0.6,
-      "first_sentence": "Saunas have captured the wellness zeitgeist, attracting a new generation of followers eager to tap into the benefits of the age-old practice.",
-      "timestamp": "2026-03-06T11:00:00Z",
-      "source": "NPR News"
     }
   ]
 }
