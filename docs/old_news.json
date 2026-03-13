@@ -1,5 +1,65 @@
 [
   {
+    "headline": "'Dopamine Kids' explains why children crave screens and helps them enjoy life instead",
+    "link": "https://www.npr.org/2026/03/06/nx-s1-5737901/dopamine-kids-parenting-screens",
+    "mean_score": 0.5502,
+    "vader_score": 0.7003,
+    "textblob_score": 0.4,
+    "first_sentence": "Like many parents, Michaeleen Doucleff struggled with her young daughter's screen use.",
+    "timestamp": "2026-03-06T17:14:25Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "Crypto billionaire Christopher Harborne \u2018no longer\u2019 interested in Reform-Tory election pact",
+    "link": "https://www.theguardian.com/politics/2026/mar/06/crypto-billionaire-christopher-harborne-reform-tory-election-pact",
+    "mean_score": 0.3259,
+    "vader_score": 0.4019,
+    "textblob_score": 0.25,
+    "first_sentence": "Christopher Harborne, the ultra-wealthy political donor who has given \u00a312m to Reform UK, has told the Guardian he is \u201cno longer\u201d interested in a Reform-Conservative pact before the next general election.",
+    "timestamp": "2026-03-06T16:08:22Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Singers praise new gospel music chart that will 'open doors'",
+    "link": "https://www.bbc.com/news/articles/c8xyyvw47k8o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3128,
+    "vader_score": 0.5574,
+    "textblob_score": 0.0682,
+    "first_sentence": "There's no shortage of famous quotes about how much music means to people.",
+    "timestamp": "2026-03-06T15:51:06Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "\u2018It\u2019s 10,000 people saying \u2013 we\u2019re with you\u2019: inside Trans Mission, a night of solidarity and joy for a community under stress",
+    "link": "https://www.theguardian.com/music/2026/mar/06/trans-mission-transgender-olly-alexander-live-aid-wembley-arena",
+    "mean_score": 0.647,
+    "vader_score": 0.4939,
+    "textblob_score": 0.8,
+    "first_sentence": "\u2018We wanted to put on something as big as possible,\u201d says the musician and actor Olly Alexander.",
+    "timestamp": "2026-03-06T15:44:14Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "How to use AI tools to support our wellbeing in safe and simple ways",
+    "link": "https://www.bbc.com/videos/cwyk3xgz89do?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4654,
+    "vader_score": 0.6808,
+    "textblob_score": 0.25,
+    "first_sentence": "Do you know the important difference between open and closed AI?.",
+    "timestamp": "2026-03-06T14:42:38Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Harry Styles gives pupils at old school 100 free tickets for show",
+    "link": "https://www.bbc.com/news/articles/cly1j4x2djro?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3803,
+    "vader_score": 0.5106,
+    "textblob_score": 0.25,
+    "first_sentence": "One hundred lucky school pupils have bagged tickets to Harry Style's one-off concert in Manchester later - thanks to a gift from the star himself.",
+    "timestamp": "2026-03-06T14:40:41Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Leslie Odom Jr, Broadway\u2019s original Aaron Burr, to join London cast of Hamilton",
     "link": "https://www.theguardian.com/stage/2026/mar/06/leslie-odom-jr-broadways-original-aaron-burr-to-join-london-cast-of-hamilton",
     "mean_score": 0.4587,
