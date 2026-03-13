@@ -1,6 +1,56 @@
 {
-  "last run": "2026-03-13T06:17:06Z",
+  "last run": "2026-03-13T09:13:16Z",
   "stories": [
+    {
+      "headline": "James Blake: Trying Times review \u2013 platitudes about politics and Kanye can\u2019t detract from an excellent album",
+      "link": "https://www.theguardian.com/music/2026/mar/13/james-blake-trying-times-review",
+      "mean_score": 0.4859,
+      "vader_score": 0.5719,
+      "textblob_score": 0.4,
+      "first_sentence": "Of all the things you might expect from a James Blake album \u2013 exquisite minimalism, plaintive vocal distortion, appearances from hip-hop\u2019s great and good \u2013 chin-stroking socio0political commentary probably isn\u2019t one of them.",
+      "timestamp": "2026-03-13T08:40:09Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Dynasty: The Murdochs review \u2013 who cares which billionaire will control even more billions?",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/mar/13/dynasty-the-murdochs-review-rupert-children-netflix-documentary",
+      "mean_score": 0.4794,
+      "vader_score": 0.4588,
+      "textblob_score": 0.5,
+      "first_sentence": "\u2018To explain the Murdochs, you have to understand the television show Succession.\u201d So quips New York Times writer Jim Rutenberg a few minutes into this four-part documentary about Rupert Murdoch\u2019s empire \u2013 and, specifically, his children\u2019s battle for control of it when he dies.",
+      "timestamp": "2026-03-13T08:01:43Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Why Marty Supreme should win the best picture Oscar",
+      "link": "https://www.theguardian.com/film/2026/mar/13/why-marty-supreme-should-win-the-best-picture-oscar",
+      "mean_score": 0.9059,
+      "vader_score": 0.9118,
+      "textblob_score": 0.9,
+      "first_sentence": "First things first: the best picture Oscar should go to Marty Supreme for the incredible job it has done in bringing new eyes to ping pong.",
+      "timestamp": "2026-03-13T08:00:45Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Gay Muslim influencer hosts inclusive Ramadan meal and calls for acceptance across faiths",
+      "link": "https://apnews.com/article/germany-lgbtq-ramadan-influencer-iftar-b7235de634d9139bdc5222b73e223fd3",
+      "mean_score": 0.5585,
+      "vader_score": 0.7003,
+      "textblob_score": 0.4167,
+      "first_sentence": "BERLIN (AP) \u2014 Ali Darwich, a gay Muslim influencer in Berlin, picks up a date from his plate, takes a sip of water, and addresses the 15 friends sitting around the table and breaking the Ramadan fast with him.",
+      "timestamp": "2026-03-13T07:23:03Z",
+      "source": "AP News"
+    },
+    {
+      "headline": "Woman with rare blood feels 'honoured' to donate",
+      "link": "https://www.bbc.com/news/articles/cgrz7rql4kwo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.397,
+      "vader_score": 0.4939,
+      "textblob_score": 0.3,
+      "first_sentence": "A woman whose blood donations are so rare they are frozen for up to 30 years said she feels \"very special and honoured\" to be able to help sick patients.",
+      "timestamp": "2026-03-13T06:22:13Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Benjamina Ebuehi\u2019s recipe for caramelised white chocolate and rhubarb cheesecake | The sweet spot",
       "link": "https://www.theguardian.com/food/2026/mar/13/caramelised-white-chocolate-rhubarb-cheesecake-recipe-benjamina-ebuehi",
@@ -2449,56 +2499,6 @@
       "textblob_score": 0.2321,
       "first_sentence": "Backstage at the Berlin venue Huxleys Neue Welt, Audrey Hobert is showing me around her dressing room.",
       "timestamp": "2026-03-06T08:00:15Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The Infamous Gilberts by Angela Tomaski review \u2013 a delicious comfort read",
-      "link": "https://www.theguardian.com/books/2026/mar/06/the-infamous-gilberts-by-angela-tomaski-review-a-delicious-comfort-read",
-      "mean_score": 0.4925,
-      "vader_score": 0.7351,
-      "textblob_score": 0.25,
-      "first_sentence": "Angela Tomaski\u2019s debut novel is\u00a0a delicious comfort read about loyalty and despair, and a\u00a0gentle questioning of the nature of progress.",
-      "timestamp": "2026-03-06T07:00:15Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Charity hopes new HQ can bring people together",
-      "link": "https://www.bbc.com/news/articles/cyv95qp77j6o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4086,
-      "vader_score": 0.6808,
-      "textblob_score": 0.1364,
-      "first_sentence": "A charity in Guernsey wants its new home to become a \"place where the community can come together to connect\".",
-      "timestamp": "2026-03-06T06:12:24Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Mountbatten-Windsor to keep City of London Freedom",
-      "link": "https://www.bbc.com/news/articles/c9wnn0en9kgo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3185,
-      "vader_score": 0.6369,
-      "textblob_score": 0.0,
-      "first_sentence": "Andrew Mountbatten-Windsor will keep one of his few remaining honours after a review determined it could not be removed.",
-      "timestamp": "2026-03-06T06:00:21Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Helen Goh\u2019s recipe for lemon curd layer cake | The sweet spot",
-      "link": "https://www.theguardian.com/food/2026/mar/06/lemon-curd-layer-cake-recipe-helen-goh",
-      "mean_score": 0.4044,
-      "vader_score": 0.4588,
-      "textblob_score": 0.35,
-      "first_sentence": "This is both simple and celebratory, which in my book makes it just right for Mother\u2019s Day next weekend.",
-      "timestamp": "2026-03-06T06:00:13Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Marsupials in the news again? Yes! And this time it\u2019s good news | First Dog on the Moon",
-      "link": "https://www.theguardian.com/commentisfree/picture/2026/mar/06/marsupials-in-the-news-again-yes-and-this-time-its-good-news",
-      "mean_score": 0.5919,
-      "vader_score": 0.7088,
-      "textblob_score": 0.475,
-      "first_sentence": "Lazarus taxaSign up here to get an email whenever First Dog cartoons are publishedGet all your needs met at the First Dog shop if what you need is First Dog merchandise and prints Continue reading.",
-      "timestamp": "2026-03-06T05:52:58Z",
       "source": "The Guardian"
     }
   ]
