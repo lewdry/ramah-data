@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-14T00:18:32Z",
+  "last run": "2026-03-14T03:47:30Z",
   "stories": [
+    {
+      "headline": "What's in the free daytime power plan as global tensions rattle energy markets",
+      "link": "https://www.abc.net.au/news/2026-03-14/free-power-part-of-aer-dfo-draft-release/106446770",
+      "mean_score": 0.3009,
+      "vader_score": 0.4019,
+      "textblob_score": 0.2,
+      "first_sentence": "The Australian Energy Regulator has released more details about the Government's plan to offer free power in the middle of the day for some Australians.",
+      "timestamp": "2026-03-14T03:27:39Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Biscuit, tiramisu and pistachio stuffing: dates just got even better",
+      "link": "https://www.abc.net.au/news/2026-03-14/stuffed-dates-with-three-fillings/106397336",
+      "mean_score": 0.4702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.5,
+      "first_sentence": "Lina Jebeile is a food photographer and content creator.",
+      "timestamp": "2026-03-14T02:00:00Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Slay the Spire 2 is a bit too familiar for its own good",
       "link": "https://arstechnica.com/gaming/2026/03/slay-the-spire-2-is-a-bit-too-familiar-for-its-own-good/",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.25,
       "first_sentence": "Unlike Australia, where journalists would have near-daily access to speak with decision-makers and hold politicians to account, those in charge in China are closed-off from public scrutiny.",
       "timestamp": "2026-03-07T02:00:00Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Ex-Liberal MP says the party must introduce gender quotas to start winning elections",
-      "link": "https://www.theguardian.com/australia-news/2026/mar/06/australian-liberal-party-gender-quotas",
-      "mean_score": 0.6135,
-      "vader_score": 0.7269,
-      "textblob_score": 0.5,
-      "first_sentence": "The former Liberal MP Jenny Ware says her party must implement gender quotas for candidates for office, warning the opposition \u201ccannot get back into government\u201d without putting forward candidates who are more reflective of the broader community.",
-      "timestamp": "2026-03-06T23:00:33Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "These are Australia\u2019s best medal chances at the Winter Paralympics",
-      "link": "https://www.abc.net.au/news/2026-03-07/who-to-watch-at-the-winter-paralympics/106417798",
-      "mean_score": 0.9221,
-      "vader_score": 0.8442,
-      "textblob_score": 1.0,
-      "first_sentence": "Australia is about to head into the 2026 Winter Paralympics with one of its biggest, and quite possibly strongest, teams ever.",
-      "timestamp": "2026-03-06T22:16:39Z",
       "source": "ABC News"
     }
   ]

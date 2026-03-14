@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Ex-Liberal MP says the party must introduce gender quotas to start winning elections",
+    "link": "https://www.theguardian.com/australia-news/2026/mar/06/australian-liberal-party-gender-quotas",
+    "mean_score": 0.6135,
+    "vader_score": 0.7269,
+    "textblob_score": 0.5,
+    "first_sentence": "The former Liberal MP Jenny Ware says her party must implement gender quotas for candidates for office, warning the opposition \u201ccannot get back into government\u201d without putting forward candidates who are more reflective of the broader community.",
+    "timestamp": "2026-03-06T23:00:33Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "These are Australia\u2019s best medal chances at the Winter Paralympics",
+    "link": "https://www.abc.net.au/news/2026-03-07/who-to-watch-at-the-winter-paralympics/106417798",
+    "mean_score": 0.9221,
+    "vader_score": 0.8442,
+    "textblob_score": 1.0,
+    "first_sentence": "Australia is about to head into the 2026 Winter Paralympics with one of its biggest, and quite possibly strongest, teams ever.",
+    "timestamp": "2026-03-06T22:16:39Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "The unorthodox coaching gambit that helped Matildas to greatest triumph",
     "link": "https://www.abc.net.au/news/2026-03-07/how-the-matildas-won-the-2010-womens-asian-cup/106390122",
     "mean_score": 0.9037,
