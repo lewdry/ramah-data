@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-14T15:07:39Z",
+  "last run": "2026-03-14T18:07:24Z",
   "stories": [
+    {
+      "headline": "Reform UK government would replace top civil servants with policy \u2018believers\u2019",
+      "link": "https://www.theguardian.com/politics/2026/mar/14/reform-uk-government-replace-top-civil-servants-people-aligned-policies",
+      "mean_score": 0.3512,
+      "vader_score": 0.2023,
+      "textblob_score": 0.5,
+      "first_sentence": "A Reform UK government would expect to dismiss the top civil servant in every government department and replace them with people seen as more likely to implement the party\u2019s priorities, the Guardian has learned.",
+      "timestamp": "2026-03-14T18:00:01Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Swinney promises \u00a3500m childcare boost and more GP walk-in clinics",
+      "link": "https://www.bbc.com/news/articles/cx2rwjr4y59o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5743,
+      "vader_score": 0.6486,
+      "textblob_score": 0.5,
+      "first_sentence": "The first minister has pledged to spend more than \u00a3500m on boosting childcare provision if the SNP is re-elected in May.",
+      "timestamp": "2026-03-14T16:42:33Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Put your phone down and focus: the four best ways to watch movies",
       "link": "https://www.theguardian.com/lifeandstyle/2026/mar/12/four-ways-to-watch-movies-more-intentionally",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Pep Guardiola had Omar Marmoush in the tightest of bear hugs and seemed strangely unwilling to release the smiling Egyptian.",
       "timestamp": "2026-03-07T22:10:58Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "First HBCU D1 women's wrestlers compete at championship",
-      "link": "https://www.npr.org/2026/03/07/nx-s1-5719189/first-hbcu-d1-womens-wrestlers-compete-at-first-national-womens-college-wrestling-championship",
-      "mean_score": 0.3452,
-      "vader_score": 0.4404,
-      "textblob_score": 0.25,
-      "first_sentence": "It's a weekend of firsts in Iowa, where the first national women's college wrestling championship is taking place and the first HBCU Division 1 women's wrestling team is fielding players.",
-      "timestamp": "2026-03-07T22:07:58Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "What time the Australian Grand Prix starts and how to follow the race",
-      "link": "https://www.abc.net.au/news/2026-03-08/f1-australian-grand-prix-race-start-how-to-watch-oscar-piastri/106427720",
-      "mean_score": 0.3544,
-      "vader_score": 0.4588,
-      "textblob_score": 0.25,
-      "first_sentence": "The first grand prix of the Formula 1 season has arrived, with 11 teams and 22 drivers poised to battle in Melbourne.",
-      "timestamp": "2026-03-07T19:41:58Z",
-      "source": "ABC News"
     }
   ]
 }
