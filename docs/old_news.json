@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Olympic champion Alysa Liu withdraws from world figure skating championships",
+    "link": "https://www.theguardian.com/sport/2026/mar/07/alysa-liu-withdraws-world-figure-skating-championships-prague",
+    "mean_score": 0.3982,
+    "vader_score": 0.7964,
+    "textblob_score": 0.0,
+    "first_sentence": "Olympic figure skating champion Alysa Liu has withdrawn from the world championships later this month, an unsurprising move for the defending champ after she won the first Winter Games gold medal by an American woman in more than two decades.",
+    "timestamp": "2026-03-07T18:10:51Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Iran president apologises for striking neighbours",
+    "link": "https://www.bbc.co.uk/sounds/play/p0n57ljj?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3512,
+    "vader_score": 0.2023,
+    "textblob_score": 0.5,
+    "first_sentence": "President says Iran will stop striking Gulf states if no attacks originate from them.",
+    "timestamp": "2026-03-07T14:28:00Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Too hyped up to sleep? Rituals to calm your body and mind before bed",
+    "link": "https://www.npr.org/2026/03/07/nx-s1-5734392/sleep-better-wind-down-routine-bedtime-rituals",
+    "mean_score": 0.3091,
+    "vader_score": 0.3182,
+    "textblob_score": 0.3,
+    "first_sentence": "This story is adapted from Life Kit's Guide to Better Sleep, a one-week email series.",
+    "timestamp": "2026-03-07T10:00:00Z",
+    "source": "NPR News"
+  },
+  {
     "headline": "Labor on track to win Nightcliff by-election, taking NT's single Greens seat",
     "link": "https://www.abc.net.au/news/2026-03-07/labor-on-track-to-win-nightcliff-by-election-abc-predicts/106428180",
     "mean_score": 0.4751,
