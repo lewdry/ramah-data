@@ -1,6 +1,46 @@
 {
-  "last run": "2026-03-14T18:07:24Z",
+  "last run": "2026-03-14T21:07:14Z",
   "stories": [
+    {
+      "headline": "Three more Iranian women\u2019s football squad members return home after being granted asylum in Australia",
+      "link": "https://www.theguardian.com/australia-news/2026/mar/15/iran-womens-football-squad-members-decide-to-return-home-australia-asylum-visas-tony-burke",
+      "mean_score": 0.375,
+      "vader_score": 0.25,
+      "textblob_score": 0.5,
+      "first_sentence": "Three more members of the Iranian women\u2019s football squad have left Australia, leaving behind teammates who sought asylum after playing in the Women\u2019s Asian Cup.",
+      "timestamp": "2026-03-14T20:32:58Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "How the Iranian-Australian community united to help footballers",
+      "link": "https://www.abc.net.au/news/2026-03-15/iranian-australian-community-unite-iran-womens-football-asylum/106450314",
+      "mean_score": 0.3352,
+      "vader_score": 0.6705,
+      "textblob_score": 0.0,
+      "first_sentence": "Before Iran's women's football team even landed in Australia for the Women's Asian Cup, many members of the Iranian-Australian community were already coming together for a common cause.",
+      "timestamp": "2026-03-14T19:09:05Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Gatz review \u2013 the Great Gatsby performed in eight-and-a-half hours of attentive, immersive joy",
+      "link": "https://www.theguardian.com/culture/2026/mar/15/gatz-review-the-great-gatsby-performed-in-eight-and-a-half-hours-of-attentive-immersive-joy",
+      "mean_score": 0.7513,
+      "vader_score": 0.836,
+      "textblob_score": 0.6667,
+      "first_sentence": "A man enters his office in the morning, finds his computer on the fritz, and after a few attempts to turn it on and off again, comes across a copy of F Scott Fitzgerald\u2019s 1925 novel The Great Gatsby.",
+      "timestamp": "2026-03-14T19:00:05Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "UK faces \u2018seismic moment\u2019 as nationalists target election wins, says John Swinney",
+      "link": "https://www.theguardian.com/uk-news/2026/mar/14/uk-faces-seismic-moment-as-nationalists-target-election-wins-says-swinney",
+      "mean_score": 0.4359,
+      "vader_score": 0.5719,
+      "textblob_score": 0.3,
+      "first_sentence": "The UK is facing an \u201cabsolutely seismic moment\u201d, John Swinney has said, with the prospect of the election of first ministers in Scotland, Wales and Northern Ireland in May who are all committed to the break-up of the union.",
+      "timestamp": "2026-03-14T18:22:10Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Reform UK government would replace top civil servants with policy \u2018believers\u2019",
       "link": "https://www.theguardian.com/politics/2026/mar/14/reform-uk-government-replace-top-civil-servants-people-aligned-policies",
@@ -90,6 +130,16 @@
       "first_sentence": "1 Which dictator spent his last days in power playing Candy Crush?2 What children\u2019s TV production company was founded by Anne Wood?3 Rome\u2019s Ludus Magnus was a training school for whom?4 Where were Liz Truss and Lord Salisbury both appointed prime minister?5 Referring to 17 metals, what does REE stand for?6 In the title of an 1886 novel, what is David Balfour\u2019s predicament?7 Which fish has the scientific name Electrophorus electricus?8 What sport is the subject of the documentary Love Means Zero?What links:\n  9 Booker T & the MG\u2019s; Manfred Mann; Ben Folds Five?10 Genoese; Lepers; Millionaires; Rat Stabbers; Red Devils?11 Moonfleet; Three Men in a Boat; The Wonderful Wizard of Oz; Consider Phlebas?12 Glengarry Glen Ross; Lawrence of Arabia; The Great Escape; 12 Angry Men?13 Arbuthnot Latham; Coutts; C Hoare; Weatherbys?14 Horn; Agulhas; Leeuwin; South East; Whiore?15 Nicholas Breakspear and Robert Prevost?.",
       "timestamp": "2026-03-14T07:00:13Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "Why Australia's famous flying doctors are more important now than ever before",
+      "link": "https://www.sbs.com.au/news/article/why-australias-famous-flying-doctors-are-more-important-now-than-ever-before/kdvrooiyo",
+      "mean_score": 0.3691,
+      "vader_score": 0.2716,
+      "textblob_score": 0.4667,
+      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+      "timestamp": "2026-03-14T06:43:00Z",
+      "source": "SBS News"
     },
     {
       "headline": "Zoo celebrates first UK-born elephant shrews",
@@ -2450,56 +2500,6 @@
       "first_sentence": "All the talking points and in-depth analysis from Round 4 of the Six Nations.",
       "timestamp": "2026-03-08T00:00:00Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Free dance school run by 12yo champion pirouettes to success",
-      "link": "https://www.abc.net.au/news/2026-03-08/free-dance-classes-in-armidale-run-by-12-year-old/106369818",
-      "mean_score": 0.624,
-      "vader_score": 0.8979,
-      "textblob_score": 0.35,
-      "first_sentence": "As families struggle with the cost of living, extra-curricular activities such as dancing tend to be the first to go.",
-      "timestamp": "2026-03-07T23:24:37Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Dancers loved practising in this Singapore walkway. Then the complaints came",
-      "link": "https://www.bbc.com/news/articles/c4g4q9xl4p6o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.498,
-      "vader_score": 0.296,
-      "textblob_score": 0.7,
-      "first_sentence": "With its wide floors, floor-to-ceiling mirrors and a ready audience, the underground passage connecting a train station to Singapore's iconic Gardens by the Bay had served as a practice ground for aspiring dancers for years.",
-      "timestamp": "2026-03-07T23:11:02Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Live: Piastri starting on third row of home F1 grand prix in Melbourne",
-      "link": "https://www.abc.net.au/news/2026-03-08/f1-live-australian-grand-prix-2026-albert-park-melbourne/106413560",
-      "mean_score": 0.3089,
-      "vader_score": 0.4588,
-      "textblob_score": 0.1591,
-      "first_sentence": "The first race of the Formula 1 season is here, with thousands flocking to Melbourne's Albert Park for the Australian Grand Prix.",
-      "timestamp": "2026-03-07T23:00:41Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "This pristine tourist hotspot is being preserved by those who love it most",
-      "link": "https://www.abc.net.au/news/2026-03-08/protecting-the-beauty-of-shark-bay/106283828",
-      "mean_score": 0.5685,
-      "vader_score": 0.6369,
-      "textblob_score": 0.5,
-      "first_sentence": "There's a lot that goes on behind the scenes before a Back Roads shoot, but that's not the kind of text I normally get from a producer.",
-      "timestamp": "2026-03-07T23:00:00Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Marmoush double seals comeback FA Cup win for Manchester City at Newcastle",
-      "link": "https://www.theguardian.com/football/2026/mar/07/newcastle-manchester-city-fa-cup-match-report",
-      "mean_score": 0.4929,
-      "vader_score": 0.5859,
-      "textblob_score": 0.4,
-      "first_sentence": "Pep Guardiola had Omar Marmoush in the tightest of bear hugs and seemed strangely unwilling to release the smiling Egyptian.",
-      "timestamp": "2026-03-07T22:10:58Z",
-      "source": "The Guardian"
     }
   ]
 }

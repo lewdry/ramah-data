@@ -1,5 +1,55 @@
 [
   {
+    "headline": "Free dance school run by 12yo champion pirouettes to success",
+    "link": "https://www.abc.net.au/news/2026-03-08/free-dance-classes-in-armidale-run-by-12-year-old/106369818",
+    "mean_score": 0.624,
+    "vader_score": 0.8979,
+    "textblob_score": 0.35,
+    "first_sentence": "As families struggle with the cost of living, extra-curricular activities such as dancing tend to be the first to go.",
+    "timestamp": "2026-03-07T23:24:37Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Dancers loved practising in this Singapore walkway. Then the complaints came",
+    "link": "https://www.bbc.com/news/articles/c4g4q9xl4p6o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.498,
+    "vader_score": 0.296,
+    "textblob_score": 0.7,
+    "first_sentence": "With its wide floors, floor-to-ceiling mirrors and a ready audience, the underground passage connecting a train station to Singapore's iconic Gardens by the Bay had served as a practice ground for aspiring dancers for years.",
+    "timestamp": "2026-03-07T23:11:02Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Live: Piastri starting on third row of home F1 grand prix in Melbourne",
+    "link": "https://www.abc.net.au/news/2026-03-08/f1-live-australian-grand-prix-2026-albert-park-melbourne/106413560",
+    "mean_score": 0.3089,
+    "vader_score": 0.4588,
+    "textblob_score": 0.1591,
+    "first_sentence": "The first race of the Formula 1 season is here, with thousands flocking to Melbourne's Albert Park for the Australian Grand Prix.",
+    "timestamp": "2026-03-07T23:00:41Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "This pristine tourist hotspot is being preserved by those who love it most",
+    "link": "https://www.abc.net.au/news/2026-03-08/protecting-the-beauty-of-shark-bay/106283828",
+    "mean_score": 0.5685,
+    "vader_score": 0.6369,
+    "textblob_score": 0.5,
+    "first_sentence": "There's a lot that goes on behind the scenes before a Back Roads shoot, but that's not the kind of text I normally get from a producer.",
+    "timestamp": "2026-03-07T23:00:00Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Marmoush double seals comeback FA Cup win for Manchester City at Newcastle",
+    "link": "https://www.theguardian.com/football/2026/mar/07/newcastle-manchester-city-fa-cup-match-report",
+    "mean_score": 0.4929,
+    "vader_score": 0.5859,
+    "textblob_score": 0.4,
+    "first_sentence": "Pep Guardiola had Omar Marmoush in the tightest of bear hugs and seemed strangely unwilling to release the smiling Egyptian.",
+    "timestamp": "2026-03-07T22:10:58Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "First HBCU D1 women's wrestlers compete at championship",
     "link": "https://www.npr.org/2026/03/07/nx-s1-5719189/first-hbcu-d1-womens-wrestlers-compete-at-first-national-womens-college-wrestling-championship",
     "mean_score": 0.3452,
