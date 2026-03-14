@@ -1,5 +1,45 @@
 [
   {
+    "headline": "\u2018Incredibly liveable and creatively buzzy\u2019: Bret McKenzie\u2019s guide to Wellington/Te Whanganui-a-Tara",
+    "link": "https://www.theguardian.com/travel/2026/mar/08/bret-mckenzie-guide-wellington-new-zealand",
+    "mean_score": 0.5306,
+    "vader_score": 0.3612,
+    "textblob_score": 0.7,
+    "first_sentence": "I\u2019ve been based in Wellington for most of my life, aside from a stint in Los Angeles.",
+    "timestamp": "2026-03-07T19:00:06Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "The moment I knew: He stepped out of the shower and into a robe \u2013 he looked pretty handsome",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/mar/07/moment-i-knew-shower-robe-handsome",
+    "mean_score": 0.5628,
+    "vader_score": 0.7506,
+    "textblob_score": 0.375,
+    "first_sentence": "We met in 1998, at a health and relationship course run back then by the Gay Men\u2019s Health Centre in Melbourne.",
+    "timestamp": "2026-03-07T19:00:04Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "'You had to think on your feet': How Ranger Stacey became loved by Australian kids",
+    "link": "https://www.abc.net.au/news/science/2026-03-08/ranger-stacey-totally-wild-environment-tv-programs/106386130",
+    "mean_score": 0.4747,
+    "vader_score": 0.5994,
+    "textblob_score": 0.35,
+    "first_sentence": "Nineties kids didn't dawdle on the way home from school in the afternoon.",
+    "timestamp": "2026-03-07T18:30:00Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Insist you're the best at trivia all you want \u2014 I know the truth",
+    "link": "https://www.abc.net.au/news/2026-03-08/hard-quiz-weekly-trivia/106405696",
+    "mean_score": 0.8891,
+    "vader_score": 0.7783,
+    "textblob_score": 1.0,
+    "first_sentence": "I'm so glad you're back for another round! Just kidding, as if I'd ever say that.",
+    "timestamp": "2026-03-07T18:30:00Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Olympic champion Alysa Liu withdraws from world figure skating championships",
     "link": "https://www.theguardian.com/sport/2026/mar/07/alysa-liu-withdraws-world-figure-skating-championships-prague",
     "mean_score": 0.3982,

@@ -1,6 +1,36 @@
 {
-  "last run": "2026-03-14T12:07:49Z",
+  "last run": "2026-03-14T15:07:39Z",
   "stories": [
+    {
+      "headline": "Put your phone down and focus: the four best ways to watch movies",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/mar/12/four-ways-to-watch-movies-more-intentionally",
+      "mean_score": 0.5296,
+      "vader_score": 0.6369,
+      "textblob_score": 0.4222,
+      "first_sentence": "The Guardian\u2019s journalism is independent.",
+      "timestamp": "2026-03-14T14:15:20Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Democratic lead in Georgia special election signals change in party\u2019s fortunes",
+      "link": "https://www.theguardian.com/us-news/2026/mar/14/democrats-georgia-election",
+      "mean_score": 0.3795,
+      "vader_score": 0.4019,
+      "textblob_score": 0.3571,
+      "first_sentence": "Earlier this week, a steady trickle of voters casting ballots in Dalton at Georgia\u2019s City Hall offered a glimpse into what may be changing fortunes for Democrats in Marjorie Taylor Greene\u2019s former congressional district.",
+      "timestamp": "2026-03-14T12:00:20Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Opinion: An ancient, sophisticated palate",
+      "link": "https://www.npr.org/2026/03/14/nx-s1-5741107/opinion-an-ancient-sophisticated-palate",
+      "mean_score": 0.5287,
+      "vader_score": 0.5574,
+      "textblob_score": 0.5,
+      "first_sentence": "We might look at cave paintings and conclude that our prehistoric ancestors speared a bison or saber-toothed tiger and just hefted their carcasses into a fire.",
+      "timestamp": "2026-03-14T12:00:00Z",
+      "source": "NPR News"
+    },
     {
       "headline": "Master gardener Jessica Damiano explains seed packet lingo to aid successful gardening",
       "link": "https://www.npr.org/2026/03/14/nx-s1-5741696/master-gardener-jessica-damiano-explains-seed-packet-lingo-to-aid-successful-gardening",
@@ -100,6 +130,16 @@
       "first_sentence": "George Russell won the opening sprint race of the new Formula One season at the Chinese Grand Prix.",
       "timestamp": "2026-03-14T04:24:49Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "Love Island star Maya Jama ready to make the leap from presenter to actress",
+      "link": "https://www.bbc.com/news/articles/cq57x0nlnv9o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5609,
+      "vader_score": 0.7717,
+      "textblob_score": 0.35,
+      "first_sentence": "She might be one of the most recognisable faces on British TV as the host of Love Island and a panellist on The Masked Singer, but Maya Jama is ready to take the leap from presenter to leading lady.",
+      "timestamp": "2026-03-14T03:59:10Z",
+      "source": "BBC News"
     },
     {
       "headline": "What's in the free daytime power plan as global tensions rattle energy markets",
@@ -2459,46 +2499,6 @@
       "textblob_score": 0.25,
       "first_sentence": "The first grand prix of the Formula 1 season has arrived, with 11 teams and 22 drivers poised to battle in Melbourne.",
       "timestamp": "2026-03-07T19:41:58Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "\u2018Incredibly liveable and creatively buzzy\u2019: Bret McKenzie\u2019s guide to Wellington/Te Whanganui-a-Tara",
-      "link": "https://www.theguardian.com/travel/2026/mar/08/bret-mckenzie-guide-wellington-new-zealand",
-      "mean_score": 0.5306,
-      "vader_score": 0.3612,
-      "textblob_score": 0.7,
-      "first_sentence": "I\u2019ve been based in Wellington for most of my life, aside from a stint in Los Angeles.",
-      "timestamp": "2026-03-07T19:00:06Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The moment I knew: He stepped out of the shower and into a robe \u2013 he looked pretty handsome",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/mar/07/moment-i-knew-shower-robe-handsome",
-      "mean_score": 0.5628,
-      "vader_score": 0.7506,
-      "textblob_score": 0.375,
-      "first_sentence": "We met in 1998, at a health and relationship course run back then by the Gay Men\u2019s Health Centre in Melbourne.",
-      "timestamp": "2026-03-07T19:00:04Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "'You had to think on your feet': How Ranger Stacey became loved by Australian kids",
-      "link": "https://www.abc.net.au/news/science/2026-03-08/ranger-stacey-totally-wild-environment-tv-programs/106386130",
-      "mean_score": 0.4747,
-      "vader_score": 0.5994,
-      "textblob_score": 0.35,
-      "first_sentence": "Nineties kids didn't dawdle on the way home from school in the afternoon.",
-      "timestamp": "2026-03-07T18:30:00Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Insist you're the best at trivia all you want \u2014 I know the truth",
-      "link": "https://www.abc.net.au/news/2026-03-08/hard-quiz-weekly-trivia/106405696",
-      "mean_score": 0.8891,
-      "vader_score": 0.7783,
-      "textblob_score": 1.0,
-      "first_sentence": "I'm so glad you're back for another round! Just kidding, as if I'd ever say that.",
-      "timestamp": "2026-03-07T18:30:00Z",
       "source": "ABC News"
     }
   ]
