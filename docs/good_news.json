@@ -1,6 +1,46 @@
 {
-  "last run": "2026-03-14T03:47:30Z",
+  "last run": "2026-03-14T06:15:19Z",
   "stories": [
+    {
+      "headline": "Formula One: Chinese Grand Prix qualifying \u2013 live",
+      "link": "https://www.theguardian.com/sport/live/2026/mar/14/chinese-grand-prix-f1-qualifying-race-live-updates",
+      "mean_score": 0.3355,
+      "vader_score": 0.4588,
+      "textblob_score": 0.2121,
+      "first_sentence": "What were the other major takeaways from our season-opening race in Melbourne?.",
+      "timestamp": "2026-03-14T06:02:01Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Russell wins Shanghai sprint for Mercedes, Piastri finishes sixth",
+      "link": "https://www.abc.net.au/news/2026-03-14/f1-china-sprint-race-george-russell-wins-mercedes/106444542",
+      "mean_score": 0.4359,
+      "vader_score": 0.5719,
+      "textblob_score": 0.3,
+      "first_sentence": "George Russell wins the Chinese Grand Prix sprint race ahead of Charles Leclerc and Lewis Hamilton.",
+      "timestamp": "2026-03-14T05:44:11Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Haiti's first Paralympic skier hits the slopes, as Australia's Ben Tudhope wins bronze",
+      "link": "https://www.sbs.com.au/news/article/haitis-first-paralympic-skier-hits-the-slopes-as-australias-ben-tudhope-wins-bronze/n2nomfete",
+      "mean_score": 0.4234,
+      "vader_score": 0.5719,
+      "textblob_score": 0.275,
+      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+      "timestamp": "2026-03-14T05:12:12Z",
+      "source": "SBS News"
+    },
+    {
+      "headline": "George Russell wins first F1 sprint race of season at Chinese Grand Prix",
+      "link": "https://www.theguardian.com/sport/2026/mar/14/f1-chinese-grand-prix-sprint-qualifying-george-russell-mercedes-ferrari-report",
+      "mean_score": 0.5171,
+      "vader_score": 0.7717,
+      "textblob_score": 0.2625,
+      "first_sentence": "George Russell won the opening sprint race of the new Formula One season at the Chinese Grand Prix.",
+      "timestamp": "2026-03-14T04:24:49Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "What's in the free daytime power plan as global tensions rattle energy markets",
       "link": "https://www.abc.net.au/news/2026-03-14/free-power-part-of-aer-dfo-draft-release/106446770",
@@ -109,6 +149,16 @@
       "textblob_score": 0.1932,
       "first_sentence": "Employees at the Transport Security Administration (Tsa) are set to miss their first full paychecks today as the partial shutdown of the Department of Homeland Security (DHS) nears a month.",
       "timestamp": "2026-03-13T17:57:08Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Process is progress as Scotland seek Six Nations title eliminator triumph",
+      "link": "https://www.theguardian.com/sport/2026/mar/13/process-is-progress-as-scotland-seek-six-nations-title-eliminator-triumph",
+      "mean_score": 0.3548,
+      "vader_score": 0.7096,
+      "textblob_score": 0.0,
+      "first_sentence": "Trusting the process.",
+      "timestamp": "2026-03-13T17:50:47Z",
       "source": "The Guardian"
     },
     {
@@ -2450,56 +2500,6 @@
       "first_sentence": "From Robin Williams to Jim Carrey, Hugh Laurie to Daniel Kaluuya, when an actor gets more admiration keeping the hahas in, they often don\u2019t go back.",
       "timestamp": "2026-03-07T07:00:45Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "A Beautiful Loan by Mary Costello review \u2013 a profound exploration of the inner life",
-      "link": "https://www.theguardian.com/books/2026/mar/07/a-beautiful-loan-by-mary-costello-review-a-profound-exploration-of-the-inner-life",
-      "mean_score": 0.5057,
-      "vader_score": 0.7003,
-      "textblob_score": 0.3111,
-      "first_sentence": "In each of her previous novels and story collections, the Irish author Mary Costello has revealed the inner vastness hidden within even the\u00a0quietest lives.",
-      "timestamp": "2026-03-07T07:00:44Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Hero teen reunited with rescuers who saved family swept out to sea",
-      "link": "https://www.abc.net.au/news/2026-03-07/appelbee-family-thanks-rescuers-who-saved-them/106425048",
-      "mean_score": 0.3753,
-      "vader_score": 0.7506,
-      "textblob_score": 0.0,
-      "first_sentence": "A WA teenager who swam four kilometres to get help for his mother and siblings after they were swept out to sea has been reunited with the rescuers who helped him save his family.",
-      "timestamp": "2026-03-07T05:38:01Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Australian Grand Prix: F1 qualifying \u2013 live",
-      "link": "https://www.theguardian.com/sport/live/2026/mar/07/australian-grand-prix-f1-melbourne-qualifying-live",
-      "mean_score": 0.3355,
-      "vader_score": 0.4588,
-      "textblob_score": 0.2121,
-      "first_sentence": "Word from the Mercedes garage is that they\u2019re hopeful that Kimi Antonelli will be able to take part in qualifying after his big crash in FP3, with the power unit and chassis emerging unscathed from the incident and leaving a gearbox replacement as the largest outstanding job.",
-      "timestamp": "2026-03-07T04:29:50Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Zempilas tells right-wing conference Liberals must win back 'lost Australians'",
-      "link": "https://www.abc.net.au/news/2026-03-07/basil-zempilas-addresses-conservative-conference-in-perth/106427784",
-      "mean_score": 0.3806,
-      "vader_score": 0.3612,
-      "textblob_score": 0.4,
-      "first_sentence": "Basil Zempilas has told a conservative conference the Liberal Party must win back the \"lost Australians\" if it wants to re-emerge as a political force.",
-      "timestamp": "2026-03-07T02:19:45Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "In China's great hall of power, we had questions. So began a delicate dance",
-      "link": "https://www.abc.net.au/news/2026-03-07/china-does-not-want-politicians-talking-to-reporters/106425346",
-      "mean_score": 0.4636,
-      "vader_score": 0.6771,
-      "textblob_score": 0.25,
-      "first_sentence": "Unlike Australia, where journalists would have near-daily access to speak with decision-makers and hold politicians to account, those in charge in China are closed-off from public scrutiny.",
-      "timestamp": "2026-03-07T02:00:00Z",
-      "source": "ABC News"
     }
   ]
 }
