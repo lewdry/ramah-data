@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-15T00:22:18Z",
+  "last run": "2026-03-15T03:58:33Z",
   "stories": [
+    {
+      "headline": "Live: Roos looking strong against Power as Demons begin life under new coach",
+      "link": "https://www.abc.net.au/news/2026-03-15/afl-round-one-sunday-live-blog-nmfc-pa-melb-stk-gc-wce/106448362",
+      "mean_score": 0.373,
+      "vader_score": 0.5106,
+      "textblob_score": 0.2354,
+      "first_sentence": "North Melbourne plays host to a Port Adelaide side excited to begin life under new coach Josh Carr, in the first match of an AFL Sunday triple-header.",
+      "timestamp": "2026-03-15T01:52:56Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Race to restore 'raw horsepower' that gave outback motocross club true grit",
+      "link": "https://www.abc.net.au/news/2026-03-15/community-push-to-revive-newman-motocross-club/106376174",
+      "mean_score": 0.336,
+      "vader_score": 0.6124,
+      "textblob_score": 0.0596,
+      "first_sentence": "An outback West Australian community is hoping to restore its motocross circuit and clubhouse, after it was handed over to the local shire.",
+      "timestamp": "2026-03-15T01:00:06Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Oscars 2026: What to expect, how to watch and who will win",
       "link": "https://www.bbc.com/news/articles/clyv4e2ldpjo?at_medium=RSS&at_campaign=rss",
@@ -10,6 +30,16 @@
       "first_sentence": "Hollywood stars are gearing up for Sunday night's Oscars, in an exciting year for the awards race where several categories are too close to call.",
       "timestamp": "2026-03-15T00:01:28Z",
       "source": "BBC News"
+    },
+    {
+      "headline": "Danish royals King Frederik and Queen Mary get rare treat at Uluru",
+      "link": "https://www.abc.net.au/news/2026-03-15/second-day-danish-royal-tour-begins-uluru-before-canberra/106456128",
+      "mean_score": 0.3509,
+      "vader_score": 0.4019,
+      "textblob_score": 0.3,
+      "first_sentence": "Queen Mary and King Frederik of Denmark began the second day of their royal tour of Australia at a sacred waterhole at Uluru.",
+      "timestamp": "2026-03-14T23:47:54Z",
+      "source": "ABC News"
     },
     {
       "headline": "France win Six Nations with last kick as Thomas Ramos sinks England in thriller",
@@ -70,6 +100,16 @@
       "first_sentence": "A man enters his office in the morning, finds his computer on the fritz, and after a few attempts to turn it on and off again, comes across a copy of F Scott Fitzgerald\u2019s 1925 novel The Great Gatsby.",
       "timestamp": "2026-03-14T19:00:05Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "'On the run' or 'disfigured'? Mystery surrounds Iran's new supreme leader",
+      "link": "https://www.abc.net.au/news/2026-03-15/iran-supreme-leader-mojtaba-khamenei-unseen-since-israel-us-war/106440826",
+      "mean_score": 0.3469,
+      "vader_score": 0.5574,
+      "textblob_score": 0.1364,
+      "first_sentence": "Late last week, Iran's new supreme leader, Mojtaba Khamenei, broke his silence after days of intensifying rumours about his health and whereabouts, but it did little to put them to rest.",
+      "timestamp": "2026-03-14T18:44:08Z",
+      "source": "ABC News"
     },
     {
       "headline": "UK faces \u2018seismic moment\u2019 as nationalists target election wins, says John Swinney",
@@ -2460,46 +2500,6 @@
       "first_sentence": "The Philomena Cunk star\u2019s life was changed by the Fall and she knows a Spitting Image song inside out.",
       "timestamp": "2026-03-08T08:00:13Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Live: Matildas face South Korea in blockbuster Asian Cup clash in Sydney",
-      "link": "https://www.abc.net.au/news/2026-03-08/matildas-south-korea-womens-asian-cup-live-blog/106428654",
-      "mean_score": 0.3338,
-      "vader_score": 0.5994,
-      "textblob_score": 0.0682,
-      "first_sentence": "Top spot in Group A is on the line as the Matildas take on South Korea at Stadium Australia.",
-      "timestamp": "2026-03-08T07:58:10Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Campaigners push to better protect chalk streams",
-      "link": "https://www.bbc.com/news/articles/c93wex5zv6qo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5853,
-      "vader_score": 0.6705,
-      "textblob_score": 0.5,
-      "first_sentence": "Environmental campaigners are calling for greater protection for chalk streams.",
-      "timestamp": "2026-03-08T07:56:33Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "George Russell victorious at Australian Grand Prix \u2013 in pictures",
-      "link": "https://www.theguardian.com/sport/gallery/2026/mar/08/george-russell-victorious-at-australian-grand-prix-in-pictures",
-      "mean_score": 0.3544,
-      "vader_score": 0.4588,
-      "textblob_score": 0.25,
-      "first_sentence": "All the action from the Formula One season-opener in MelbourneFull report: George Russell wins Australian Grand Prix in thrilling Formula One season-opener Continue reading.",
-      "timestamp": "2026-03-08T07:17:13Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Wildlife trust buys land to create new reserve",
-      "link": "https://www.bbc.com/news/articles/cg5n4148grpo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.398,
-      "vader_score": 0.6597,
-      "textblob_score": 0.1364,
-      "first_sentence": "A wildlife trust celebrating its centenary has bought what will become a new nature reserve for \u00a34.6m.",
-      "timestamp": "2026-03-08T06:45:46Z",
-      "source": "BBC News"
     }
   ]
 }

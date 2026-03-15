@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Live: Matildas face South Korea in blockbuster Asian Cup clash in Sydney",
+    "link": "https://www.abc.net.au/news/2026-03-08/matildas-south-korea-womens-asian-cup-live-blog/106428654",
+    "mean_score": 0.3338,
+    "vader_score": 0.5994,
+    "textblob_score": 0.0682,
+    "first_sentence": "Top spot in Group A is on the line as the Matildas take on South Korea at Stadium Australia.",
+    "timestamp": "2026-03-08T07:58:10Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Campaigners push to better protect chalk streams",
+    "link": "https://www.bbc.com/news/articles/c93wex5zv6qo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.5853,
+    "vader_score": 0.6705,
+    "textblob_score": 0.5,
+    "first_sentence": "Environmental campaigners are calling for greater protection for chalk streams.",
+    "timestamp": "2026-03-08T07:56:33Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "George Russell victorious at Australian Grand Prix \u2013 in pictures",
+    "link": "https://www.theguardian.com/sport/gallery/2026/mar/08/george-russell-victorious-at-australian-grand-prix-in-pictures",
+    "mean_score": 0.3544,
+    "vader_score": 0.4588,
+    "textblob_score": 0.25,
+    "first_sentence": "All the action from the Formula One season-opener in MelbourneFull report: George Russell wins Australian Grand Prix in thrilling Formula One season-opener Continue reading.",
+    "timestamp": "2026-03-08T07:17:13Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Wildlife trust buys land to create new reserve",
+    "link": "https://www.bbc.com/news/articles/cg5n4148grpo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.398,
+    "vader_score": 0.6597,
+    "textblob_score": 0.1364,
+    "first_sentence": "A wildlife trust celebrating its centenary has bought what will become a new nature reserve for \u00a34.6m.",
+    "timestamp": "2026-03-08T06:45:46Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "George Russell wins Australian Grand Prix in thrilling Formula One season-opener",
     "link": "https://www.theguardian.com/sport/2026/mar/08/f1-australian-grand-prix-george-russell-wins-mercedes-formula-one-race",
     "mean_score": 0.5657,
