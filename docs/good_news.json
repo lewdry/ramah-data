@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-14T21:07:14Z",
+  "last run": "2026-03-15T00:22:18Z",
   "stories": [
+    {
+      "headline": "Oscars 2026: What to expect, how to watch and who will win",
+      "link": "https://www.bbc.com/news/articles/clyv4e2ldpjo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.6929,
+      "vader_score": 0.5859,
+      "textblob_score": 0.8,
+      "first_sentence": "Hollywood stars are gearing up for Sunday night's Oscars, in an exciting year for the awards race where several categories are too close to call.",
+      "timestamp": "2026-03-15T00:01:28Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "France win Six Nations with last kick as Thomas Ramos sinks England in thriller",
+      "link": "https://www.theguardian.com/sport/2026/mar/14/france-win-six-nations-with-last-kick-as-thomas-ramos-sinks-england-in-thriller",
+      "mean_score": 0.4351,
+      "vader_score": 0.6369,
+      "textblob_score": 0.2333,
+      "first_sentence": "This has been a stunningly unpredictable Six Nations and no one saw this remarkable final reel coming.",
+      "timestamp": "2026-03-14T22:29:23Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Three more Iranian women\u2019s football squad members return home after being granted asylum in Australia",
       "link": "https://www.theguardian.com/australia-news/2026/mar/15/iran-womens-football-squad-members-decide-to-return-home-australia-asylum-visas-tony-burke",
@@ -9,6 +29,26 @@
       "textblob_score": 0.5,
       "first_sentence": "Three more members of the Iranian women\u2019s football squad have left Australia, leaving behind teammates who sought asylum after playing in the Women\u2019s Asian Cup.",
       "timestamp": "2026-03-14T20:32:58Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Max Dowman breaks record as Arsenal boost title push with late win against Everton",
+      "link": "https://www.theguardian.com/football/2026/mar/14/arsenal-everton-premier-league-match-report",
+      "mean_score": 0.504,
+      "vader_score": 0.7579,
+      "textblob_score": 0.25,
+      "first_sentence": "It was the moment to blow the roof off the Emirates Stadium, the exclamation mark on a victory that felt pivotal to the destination of the Premier League title.",
+      "timestamp": "2026-03-14T20:02:04Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Rosenior insists no huddle \u2018disrespect\u2019 as Newcastle earn rare win at Chelsea",
+      "link": "https://www.theguardian.com/football/2026/mar/14/chelsea-newcastle-premier-league-match-report",
+      "mean_score": 0.4659,
+      "vader_score": 0.3818,
+      "textblob_score": 0.55,
+      "first_sentence": "A first Newcastle victory at Stamford Bridge since 2012, Anthony Gordon their match-winner against the club he was close to joining in 2022.",
+      "timestamp": "2026-03-14T19:42:02Z",
       "source": "The Guardian"
     },
     {
@@ -52,6 +92,26 @@
       "source": "The Guardian"
     },
     {
+      "headline": "'They honestly saved my life': The bikers helping abused kids feel safe",
+      "link": "https://www.abc.net.au/news/2026-03-15/bikers-against-child-abuse-australia-young-people-abuse-safety/106307714",
+      "mean_score": 0.6575,
+      "vader_score": 0.765,
+      "textblob_score": 0.55,
+      "first_sentence": "BACA members accompany kids to court, stand guard outside their homes, and provide a sense of safety with burly presences and deeply rumbling motorbikes.",
+      "timestamp": "2026-03-14T18:00:00Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Yankuba Minteh\u2019s lucky strike earns Brighton first win at Sunderland for 45 years",
+      "link": "https://www.theguardian.com/football/2026/mar/14/sunderland-brighton-premier-league-match-report",
+      "mean_score": 0.594,
+      "vader_score": 0.7269,
+      "textblob_score": 0.4611,
+      "first_sentence": "Wearside will always be a special place for James Milner.",
+      "timestamp": "2026-03-14T17:21:13Z",
+      "source": "The Guardian"
+    },
+    {
       "headline": "Swinney promises \u00a3500m childcare boost and more GP walk-in clinics",
       "link": "https://www.bbc.com/news/articles/cx2rwjr4y59o?at_medium=RSS&at_campaign=rss",
       "mean_score": 0.5743,
@@ -69,6 +129,16 @@
       "textblob_score": 0.4222,
       "first_sentence": "The Guardian\u2019s journalism is independent.",
       "timestamp": "2026-03-14T14:15:20Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018You\u2019ve got to be able to laugh at yourself\u2019: Jamie Oliver stars in video for CMAT\u2019s The Jamie Oliver Petrol Station",
+      "link": "https://www.theguardian.com/music/2026/mar/14/jamie-oliver-cmat-video-the-jamie-oliver-petrol-station",
+      "mean_score": 0.4787,
+      "vader_score": 0.5574,
+      "textblob_score": 0.4,
+      "first_sentence": "It is 27 years since Jamie Oliver first appeared on TV as The Naked Chef, bish-bash-boshing his way to cultural ubiquity thanks in part to his rock\u2019n\u2019roll credentials: his band Scarlet Division provided the show\u2019s theme tune, and his love of Toploader made their cover of Dancing in the Moonlight a monumental hit.",
+      "timestamp": "2026-03-14T14:00:20Z",
       "source": "The Guardian"
     },
     {
@@ -2429,76 +2499,6 @@
       "textblob_score": 0.1364,
       "first_sentence": "A wildlife trust celebrating its centenary has bought what will become a new nature reserve for \u00a34.6m.",
       "timestamp": "2026-03-08T06:45:46Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "George Russell wins Australian Grand Prix in thrilling Formula One season-opener",
-      "link": "https://www.theguardian.com/sport/2026/mar/08/f1-australian-grand-prix-george-russell-wins-mercedes-formula-one-race",
-      "mean_score": 0.5657,
-      "vader_score": 0.8689,
-      "textblob_score": 0.2625,
-      "first_sentence": "George Russell has won the Australian Grand Prix with a commanding drive from the front of the grid and with his Mercedes teammate Kimi Antonelli in second, securing a strong one-two for the team.",
-      "timestamp": "2026-03-08T05:53:06Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Live: Healy to say farewell as Australia closes in on Test win in Perth",
-      "link": "https://www.abc.net.au/news/2026-03-08/australia-vs-india-women-s-test-day-three-live-blog/106429970",
-      "mean_score": 0.527,
-      "vader_score": 0.5859,
-      "textblob_score": 0.4682,
-      "first_sentence": "The path to Test victory is clear for Australia on day three against India at the WACA, in what is set to be Alyssa Healy's final day of cricket for her country.",
-      "timestamp": "2026-03-08T04:53:11Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Australian Grand Prix: F1 race \u2013 live",
-      "link": "https://www.theguardian.com/sport/live/2026/mar/08/australian-grand-prix-f1-melbourne-race-live",
-      "mean_score": 0.3355,
-      "vader_score": 0.4588,
-      "textblob_score": 0.2121,
-      "first_sentence": "Incredible drama in Melbourne, as the hometown hero Oscar Piastri, the subject of so much attention during the build-up to the race, is out of the Australian Grand Prix after crashing out in the warm-up lap.",
-      "timestamp": "2026-03-08T04:26:42Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Breeding and releasing cane toads a 'bit crazy' but for greater good",
-      "link": "https://www.abc.net.au/news/2026-03-08/cane-toad-breeding-program-wa-kimberley/106409356",
-      "mean_score": 0.4753,
-      "vader_score": 0.7506,
-      "textblob_score": 0.2,
-      "first_sentence": "Scientists are deliberately breeding the invasive cane toad in Western Australia's far north as part of a strategy to protect native wildlife.",
-      "timestamp": "2026-03-08T01:00:39Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "How to turn your old Aussie home into an energy efficient haven",
-      "link": "https://www.abc.net.au/news/2026-03-08/cheap-ways-to-improve-energy-efficiency-in-old-homes-/106416634",
-      "mean_score": 0.3497,
-      "vader_score": 0.5994,
-      "textblob_score": 0.1,
-      "first_sentence": "An estimated 70 per cent of Australian homes were built before the introduction of minimum energy efficiency standards, which today is seven stars out of 10.",
-      "timestamp": "2026-03-08T00:10:19Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "New Employment Rights Act \u2018a huge boost for women in the workplace\u2019",
-      "link": "https://www.theguardian.com/law/2026/mar/08/new-employment-rights-act-a-huge-boost-for-women-in-the-workplace",
-      "mean_score": 0.4403,
-      "vader_score": 0.6124,
-      "textblob_score": 0.2682,
-      "first_sentence": "Women will disproportionately benefit from new workers\u2019 rights measures rolled out from next month, according to research.",
-      "timestamp": "2026-03-08T00:01:04Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Watch Rugby Special: Six Nations highlights",
-      "link": "https://www.bbc.co.uk/iplayer/live/bbctwo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3795,
-      "vader_score": 0.4019,
-      "textblob_score": 0.3571,
-      "first_sentence": "All the talking points and in-depth analysis from Round 4 of the Six Nations.",
-      "timestamp": "2026-03-08T00:00:00Z",
       "source": "BBC News"
     }
   ]
