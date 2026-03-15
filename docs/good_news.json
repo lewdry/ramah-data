@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-15T15:08:11Z",
+  "last run": "2026-03-15T18:08:37Z",
   "stories": [
+    {
+      "headline": "Chelsea\u2019s James leads way to win League Cup final against Manchester United",
+      "link": "https://www.theguardian.com/football/2026/mar/15/chelsea-manchester-united-womens-league-cup-final-match-report",
+      "mean_score": 0.5825,
+      "vader_score": 0.765,
+      "textblob_score": 0.4,
+      "first_sentence": "Death, taxes and Chelsea women winning trophies.",
+      "timestamp": "2026-03-15T16:32:55Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "UK looking at all options to secure Strait of Hormuz, says Miliband",
       "link": "https://www.bbc.com/news/articles/cj0dlvl086eo?at_medium=RSS&at_campaign=rss",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.0,
       "first_sentence": "Canberra Cavalry withdrew from the 2025-26 Australian Baseball League season due to \"ongoing uncertainty\" around its finances.",
       "timestamp": "2026-03-08T19:49:10Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Live: Khamenei's son named as Iran's new supreme leader, state media reports",
-      "link": "https://www.abc.net.au/news/2026-03-09/war-in-the-middle-east-live-trump-israel-iran-live-march-9/106429686",
-      "mean_score": 0.3469,
-      "vader_score": 0.5574,
-      "textblob_score": 0.1364,
-      "first_sentence": "Mojtaba Khamenei will replace his father Ayatollah Ali Khamenei as the country's new supreme leader, state media has reported.",
-      "timestamp": "2026-03-08T19:19:57Z",
       "source": "ABC News"
     }
   ]
