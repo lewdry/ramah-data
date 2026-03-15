@@ -1,5 +1,35 @@
 [
   {
+    "headline": "\u2018The antithesis of what Gen Z grew up with\u2019: Love Story inspires fervor for Carolyn Bessette\u2019s style",
+    "link": "https://www.theguardian.com/fashion/2026/mar/08/love-story-fervor-carolyn-bessette-style",
+    "mean_score": 0.6482,
+    "vader_score": 0.7964,
+    "textblob_score": 0.5,
+    "first_sentence": "While US pop culture has a long-held fascination with the Kennedys, much of the recent fervor around FX\u2019s newest hit show, Love Story, has been aimed at the style of Carolyn Bessette, who worked as a publicist at Calvin Klein before marrying into America\u2019s most storied political family.",
+    "timestamp": "2026-03-08T13:00:20Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "George Russell wins Formula 1\u2019s Australian GP as Mercedes goes 1-2",
+    "link": "https://apnews.com/article/formula-1-australian-gp-352eab6afa3a55d6230d279501148370",
+    "mean_score": 0.3609,
+    "vader_score": 0.5719,
+    "textblob_score": 0.15,
+    "first_sentence": "MELBOURNE, Australia (AP) \u2014 Mercedes\u2019 George Russell has won a thrilling season-opening Formula 1 Australian Grand Prix, with teammate Kimi Antonelli following him home, after a double-stacked pit stop under the virtual safety car outmaneuvered a lightning quick start by Ferrari.",
+    "timestamp": "2026-03-08T11:53:02Z",
+    "source": "AP News"
+  },
+  {
+    "headline": "A new Nepali party led by an ex-rapper is set for a landslide win in parliamentary election",
+    "link": "https://apnews.com/article/nepal-parliament-election-new-party-38cefee554c5e2e036b7d0c561a5cb2e",
+    "mean_score": 0.613,
+    "vader_score": 0.7579,
+    "textblob_score": 0.4682,
+    "first_sentence": "KATHMANDU, Nepal (AP) \u2014 A Nepali political party led by an ex-rapper is set for a landslide victory in the country\u2019s first parliamentary election since Gen Z protests ousted the old leadership that has ruled the Himalayan nation for decades.",
+    "timestamp": "2026-03-08T11:53:02Z",
+    "source": "AP News"
+  },
+  {
     "headline": "Iran names Mojtaba Khamenei as its new supreme leader",
     "link": "https://www.npr.org/2026/03/08/nx-s1-5741654/israel-iran-oil-ayatollah-successor",
     "mean_score": 0.3469,
