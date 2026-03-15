@@ -1,6 +1,66 @@
 {
-  "last run": "2026-03-15T06:21:20Z",
+  "last run": "2026-03-15T09:10:51Z",
   "stories": [
+    {
+      "headline": "Irresistible Japan cruises into Asian Cup semis and delights diaspora",
+      "link": "https://www.abc.net.au/news/2026-03-15/japan-downs-philippines-asian-cup-semis-sydney/106457522",
+      "mean_score": 0.3298,
+      "vader_score": 0.6597,
+      "textblob_score": 0.0,
+      "first_sentence": "Japan has booked its place in the Asian Cup semifinals with a hard-fought but ultimately sublime 7-0 victory over the Philippines at picture-perfect Stadium Australia.",
+      "timestamp": "2026-03-15T08:58:05Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Formula One: Kimi Antonelli wins Chinese Grand Prix race updates \u2013 as it happened",
+      "link": "https://www.theguardian.com/sport/live/2026/mar/15/formula-one-chinese-grand-prix-race-updates-live",
+      "mean_score": 0.5192,
+      "vader_score": 0.7717,
+      "textblob_score": 0.2667,
+      "first_sentence": "But that\u2019s about all that\u2019s needed from me today.",
+      "timestamp": "2026-03-15T08:54:08Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Green records 'nerve-racking' Australian Open win to end 12-year drought",
+      "link": "https://www.abc.net.au/news/2026-03-15/golf-hannah-green-wins-australian-open/106457652",
+      "mean_score": 0.313,
+      "vader_score": 0.5859,
+      "textblob_score": 0.04,
+      "first_sentence": "Hannah Green has won the Women's Australian Open by one shot in Adelaide.",
+      "timestamp": "2026-03-15T07:11:00Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Nepal\u2019s uprising took their loved ones. Now they hope for change \u2013 gallery",
+      "link": "https://www.theguardian.com/world/gallery/2026/mar/15/nepals-uprising-took-their-loved-ones-now-they-hope-for-change-gallery",
+      "mean_score": 0.7391,
+      "vader_score": 0.7783,
+      "textblob_score": 0.7,
+      "first_sentence": "Seventy-seven people were killed during youth-led protests that toppled Nepal\u2019s prime minister Continue reading.",
+      "timestamp": "2026-03-15T07:00:17Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018No one saw this coming\u2019: will the surprise Telegraph winner change the paper\u2019s direction?",
+      "link": "https://www.theguardian.com/media/2026/mar/15/telegraph-sale-axel-springer-lord-rothermere-daily-mail",
+      "mean_score": 0.3548,
+      "vader_score": 0.7096,
+      "textblob_score": 0.0,
+      "first_sentence": "The day after Lord Rothermere was gazumped in his pursuit of the Telegraph by Axel Springer\u2019s \u00a3575m knockout offer, the Daily Mail owner was pictured beaming at Rupert Murdoch\u2019s 95th birthday party in New York.",
+      "timestamp": "2026-03-15T06:00:18Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Live: 'Half their salary cap gone': Knights' costly NRL win over Manly",
+      "link": "https://www.abc.net.au/news/2026-03-15/nrl-live-sea-eagles-newcastle-knights-dolphins-gold-coast-titans/106457442",
+      "mean_score": 0.3916,
+      "vader_score": 0.5267,
+      "textblob_score": 0.2566,
+      "first_sentence": "The Dolphins storm back from 14-0 down to beat the Titans and become the first Queensland team to win a game this season.",
+      "timestamp": "2026-03-15T04:34:16Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Carlos Alcaraz stays positive after winning streak ended by Daniil Medvedev at Indian Wells",
       "link": "https://www.theguardian.com/sport/2026/mar/15/carlos-alcaraz-winning-streak-ended-by-daniil-medvedev-indian-wells",
@@ -2440,66 +2500,6 @@
       "first_sentence": "KATHMANDU, Nepal (AP) \u2014 A Nepali political party led by an ex-rapper is set for a landslide victory in the country\u2019s first parliamentary election since Gen Z protests ousted the old leadership that has ruled the Himalayan nation for decades.",
       "timestamp": "2026-03-08T11:53:02Z",
       "source": "AP News"
-    },
-    {
-      "headline": "Iran names Mojtaba Khamenei as its new supreme leader",
-      "link": "https://www.npr.org/2026/03/08/nx-s1-5741654/israel-iran-oil-ayatollah-successor",
-      "mean_score": 0.3469,
-      "vader_score": 0.5574,
-      "textblob_score": 0.1364,
-      "first_sentence": "Conflict in the Middle East has been escalating.",
-      "timestamp": "2026-03-08T11:49:02Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Iran\u2019s new supreme leader has been selected, says deciding body",
-      "link": "https://www.theguardian.com/world/2026/mar/08/iran-new-supreme-leader-selected-says-deciding-body",
-      "mean_score": 0.3469,
-      "vader_score": 0.5574,
-      "textblob_score": 0.1364,
-      "first_sentence": "The body in charge of selecting a new supreme leader for Iran says it has reached a decision \u2013 although the name was not immediately announced.",
-      "timestamp": "2026-03-08T11:36:58Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Iran\u2019s border with Turkey offers a way out, but few are leaving for good",
-      "link": "https://apnews.com/article/turkey-iran-border-war-f95736df2abfa6f221be7810e0b019e3",
-      "mean_score": 0.3963,
-      "vader_score": 0.5927,
-      "textblob_score": 0.2,
-      "first_sentence": "KAPIKOY BORDER CROSSING, Turkey (AP) \u2014 A land crossing near eastern Turkey\u2019s Van province is one of the few routes connecting Iranians to the rest of the world amid an airspace shutdown in Iran since the U.S.",
-      "timestamp": "2026-03-08T11:23:02Z",
-      "source": "AP News"
-    },
-    {
-      "headline": "Government urged to let Iranian women's football team stay in Australia until safety is assured",
-      "link": "https://www.sbs.com.au/news/article/government-urged-to-let-iranian-womens-football-team-stay-in-australia-until-safety-is-assured/cfild2g9r",
-      "mean_score": 0.3243,
-      "vader_score": 0.6486,
-      "textblob_score": 0.0,
-      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-      "timestamp": "2026-03-08T10:20:53Z",
-      "source": "SBS News"
-    },
-    {
-      "headline": "Quick hits: Aussie hearts sink, Russell correctly predicts the future",
-      "link": "https://www.abc.net.au/news/2026-03-08/f1-australian-grand-prix-qualifying-quick-hits-from-albert-park/106427718",
-      "mean_score": 0.4076,
-      "vader_score": 0.6486,
-      "textblob_score": 0.1667,
-      "first_sentence": "Formula 1's first grand prix in the new regulation era had chaos and drama before the drivers got to the grid.",
-      "timestamp": "2026-03-08T08:50:03Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "A new Nepali party, led by an ex-rapper, is set for a landslide win in parliamentary election",
-      "link": "https://www.npr.org/2026/03/08/nx-s1-5741598/nepali-party-rapper-win-parliamentary-election",
-      "mean_score": 0.613,
-      "vader_score": 0.7579,
-      "textblob_score": 0.4682,
-      "first_sentence": "KATHMANDU, Nepal \u2014 A Nepali political party led by an ex-rapper is set for a landslide victory in the country's first parliamentary election since Gen Z protests ousted the old leadership that has ruled the Himalayan nation for decades.",
-      "timestamp": "2026-03-08T08:18:54Z",
-      "source": "NPR News"
     }
   ]
 }

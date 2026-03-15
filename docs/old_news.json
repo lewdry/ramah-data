@@ -1,5 +1,65 @@
 [
   {
+    "headline": "Iran names Mojtaba Khamenei as its new supreme leader",
+    "link": "https://www.npr.org/2026/03/08/nx-s1-5741654/israel-iran-oil-ayatollah-successor",
+    "mean_score": 0.3469,
+    "vader_score": 0.5574,
+    "textblob_score": 0.1364,
+    "first_sentence": "Conflict in the Middle East has been escalating.",
+    "timestamp": "2026-03-08T11:49:02Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "Iran\u2019s new supreme leader has been selected, says deciding body",
+    "link": "https://www.theguardian.com/world/2026/mar/08/iran-new-supreme-leader-selected-says-deciding-body",
+    "mean_score": 0.3469,
+    "vader_score": 0.5574,
+    "textblob_score": 0.1364,
+    "first_sentence": "The body in charge of selecting a new supreme leader for Iran says it has reached a decision \u2013 although the name was not immediately announced.",
+    "timestamp": "2026-03-08T11:36:58Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Iran\u2019s border with Turkey offers a way out, but few are leaving for good",
+    "link": "https://apnews.com/article/turkey-iran-border-war-f95736df2abfa6f221be7810e0b019e3",
+    "mean_score": 0.3963,
+    "vader_score": 0.5927,
+    "textblob_score": 0.2,
+    "first_sentence": "KAPIKOY BORDER CROSSING, Turkey (AP) \u2014 A land crossing near eastern Turkey\u2019s Van province is one of the few routes connecting Iranians to the rest of the world amid an airspace shutdown in Iran since the U.S.",
+    "timestamp": "2026-03-08T11:23:02Z",
+    "source": "AP News"
+  },
+  {
+    "headline": "Government urged to let Iranian women's football team stay in Australia until safety is assured",
+    "link": "https://www.sbs.com.au/news/article/government-urged-to-let-iranian-womens-football-team-stay-in-australia-until-safety-is-assured/cfild2g9r",
+    "mean_score": 0.3243,
+    "vader_score": 0.6486,
+    "textblob_score": 0.0,
+    "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+    "timestamp": "2026-03-08T10:20:53Z",
+    "source": "SBS News"
+  },
+  {
+    "headline": "Quick hits: Aussie hearts sink, Russell correctly predicts the future",
+    "link": "https://www.abc.net.au/news/2026-03-08/f1-australian-grand-prix-qualifying-quick-hits-from-albert-park/106427718",
+    "mean_score": 0.4076,
+    "vader_score": 0.6486,
+    "textblob_score": 0.1667,
+    "first_sentence": "Formula 1's first grand prix in the new regulation era had chaos and drama before the drivers got to the grid.",
+    "timestamp": "2026-03-08T08:50:03Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "A new Nepali party, led by an ex-rapper, is set for a landslide win in parliamentary election",
+    "link": "https://www.npr.org/2026/03/08/nx-s1-5741598/nepali-party-rapper-win-parliamentary-election",
+    "mean_score": 0.613,
+    "vader_score": 0.7579,
+    "textblob_score": 0.4682,
+    "first_sentence": "KATHMANDU, Nepal \u2014 A Nepali political party led by an ex-rapper is set for a landslide victory in the country's first parliamentary election since Gen Z protests ousted the old leadership that has ruled the Himalayan nation for decades.",
+    "timestamp": "2026-03-08T08:18:54Z",
+    "source": "NPR News"
+  },
+  {
     "headline": "\u2018I was mesmerised by Kate Bush and the Smurfs, so I had great taste\u2019: Diane Morgan\u2019s honest playlist",
     "link": "https://www.theguardian.com/music/2026/mar/08/diane-morgan-honest-playlist",
     "mean_score": 0.7628,
