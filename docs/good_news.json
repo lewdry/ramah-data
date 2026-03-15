@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-15T03:58:33Z",
+  "last run": "2026-03-15T06:21:20Z",
   "stories": [
+    {
+      "headline": "Carlos Alcaraz stays positive after winning streak ended by Daniil Medvedev at Indian Wells",
+      "link": "https://www.theguardian.com/sport/2026/mar/15/carlos-alcaraz-winning-streak-ended-by-daniil-medvedev-indian-wells",
+      "mean_score": 0.6019,
+      "vader_score": 0.8402,
+      "textblob_score": 0.3636,
+      "first_sentence": "Carlos Alcaraz said he was finding it tough to constantly have a target on his back and was surprised by the level of performance from Daniil Medvedev after the Russian handed him his first defeat of the season at Indian Wells.",
+      "timestamp": "2026-03-15T04:12:14Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Live: Roos looking strong against Power as Demons begin life under new coach",
       "link": "https://www.abc.net.au/news/2026-03-15/afl-round-one-sunday-live-blog-nmfc-pa-melb-stk-gc-wce/106448362",
@@ -2490,16 +2500,6 @@
       "first_sentence": "KATHMANDU, Nepal \u2014 A Nepali political party led by an ex-rapper is set for a landslide victory in the country's first parliamentary election since Gen Z protests ousted the old leadership that has ruled the Himalayan nation for decades.",
       "timestamp": "2026-03-08T08:18:54Z",
       "source": "NPR News"
-    },
-    {
-      "headline": "\u2018I was mesmerised by Kate Bush and the Smurfs, so I had great taste\u2019: Diane Morgan\u2019s honest playlist",
-      "link": "https://www.theguardian.com/music/2026/mar/08/diane-morgan-honest-playlist",
-      "mean_score": 0.7628,
-      "vader_score": 0.8255,
-      "textblob_score": 0.7,
-      "first_sentence": "The Philomena Cunk star\u2019s life was changed by the Fall and she knows a Spitting Image song inside out.",
-      "timestamp": "2026-03-08T08:00:13Z",
-      "source": "The Guardian"
     }
   ]
 }
