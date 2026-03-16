@@ -1,5 +1,35 @@
 [
   {
+    "headline": "\u2018I\u2019m buggered\u2019: David Littleproud resigns as leader of National party as MPs jockey for top job",
+    "link": "https://www.theguardian.com/australia-news/2026/mar/10/david-littleproud-resigns-as-leader-of-national-party-saying-hes-buggered",
+    "mean_score": 0.398,
+    "vader_score": 0.296,
+    "textblob_score": 0.5,
+    "first_sentence": "A crowded field of Nationals MPs are set to jockey for the leadership after a \u201cbuggered\u201d David Littleproud blindsided colleagues with his shock resignation.",
+    "timestamp": "2026-03-10T08:07:11Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Iran expert discusses what new supreme leader means for country's future",
+    "link": "https://www.npr.org/2026/03/10/nx-s1-5742539/iran-expert-discusses-what-new-supreme-leader-means-for-countrys-future",
+    "mean_score": 0.3128,
+    "vader_score": 0.5574,
+    "textblob_score": 0.0682,
+    "first_sentence": "NPR's Steve Inskeep asks Iran expert Vali Nasr about what the appointment of a new Supreme Leader in Iran means for the country's future.",
+    "timestamp": "2026-03-10T08:01:53Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "Why One Battle After Another should win the best picture Oscar",
+    "link": "https://www.theguardian.com/film/2026/mar/10/why-one-battle-after-another-should-win-the-best-picture-oscar",
+    "mean_score": 0.8253,
+    "vader_score": 0.7506,
+    "textblob_score": 0.9,
+    "first_sentence": "Viva la revolution and don\u2019t forget your password, your pronouns, your plaid gown and your gun.",
+    "timestamp": "2026-03-10T08:00:14Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Super Netball's Kiwi influx leaves sour taste for diehard Australian fans",
     "link": "https://www.abc.net.au/news/2026-03-10/super-netball-launch-2026-kiwi-influx/106437842",
     "mean_score": 0.3303,

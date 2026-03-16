@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-16T18:20:36Z",
+  "last run": "2026-03-16T21:13:26Z",
   "stories": [
+    {
+      "headline": "\u2018The Premier League is surprisingly lenient\u2019: did Chelsea get off lightly?",
+      "link": "https://www.theguardian.com/football/2026/mar/16/the-premier-league-is-surprisingly-lenient-did-chelsea-get-off-lighly",
+      "mean_score": 0.373,
+      "vader_score": 0.296,
+      "textblob_score": 0.45,
+      "first_sentence": "The Premier League\u2019s judgment against Chelsea for breaking football\u2019s rules \u2013 during an eight-year trophy spree under Roman Abramovich \u2013 concludes that the club engaged in \u201cdeception and concealment\u201d.",
+      "timestamp": "2026-03-16T20:31:09Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "The Taylor Swift effect: US vinyl sales top $1bn for the first time since 1983",
       "link": "https://www.theguardian.com/music/2026/mar/16/vinyl-record-sales-us-taylor-swift",
@@ -30,6 +40,16 @@
       "first_sentence": "MIAMI (AP) \u2014 On a night when All-Stars and future Hall of Famers thrilled fans and each other until the final out, Aaron Judge proclaimed the World Baseball Classic had grown into the sport\u2019s biggest event.",
       "timestamp": "2026-03-16T14:53:01Z",
       "source": "AP News"
+    },
+    {
+      "headline": "Norway \u2018climbs out of shadow\u2019 of neighbours with first Oscar win for Sentimental Value",
+      "link": "https://www.theguardian.com/film/2026/mar/16/norway-climbs-out-of-shadow-of-neighbours-with-first-oscar-win-for-sentimental-value",
+      "mean_score": 0.5421,
+      "vader_score": 0.8176,
+      "textblob_score": 0.2667,
+      "first_sentence": "Sentimental Value\u2019s victory at the Oscars on Sunday has been hailed in Norway as the moment the country stepped out of the film industry shadow cast by its Scandinavian neighbours Sweden and Denmark.",
+      "timestamp": "2026-03-16T14:32:14Z",
+      "source": "The Guardian"
     },
     {
       "headline": "Key Oscar moments: Paul Thomas Anderson and Amy Madigan wins, outstanding songs and sad goodbyes",
@@ -170,6 +190,16 @@
       "first_sentence": "The emerging strength of the far left and far right is creating awkward choices for mainstream parties after the first round of French mayoral elections.",
       "timestamp": "2026-03-16T10:46:41Z",
       "source": "BBC News"
+    },
+    {
+      "headline": "Sinners\u2019 Oscar triumphs show that Black cinema is now a vital and valid part of Hollywood",
+      "link": "https://www.theguardian.com/film/2026/mar/16/sinners-oscar-triumphs-black-cinema-ryan-coogler-michael-b-jordan",
+      "mean_score": 0.3018,
+      "vader_score": 0.6369,
+      "textblob_score": -0.0333,
+      "first_sentence": "Congratulations to the Sinners camp on its Oscar night triumphs \u2013 affirmation that cinema can be deep and entertaining at the same time.",
+      "timestamp": "2026-03-16T10:24:13Z",
+      "source": "The Guardian"
     },
     {
       "headline": "London book fair roundup: Idris Elba\u2019s thriller deal, the rise of romcom, and fights against censorship",
@@ -2470,36 +2500,6 @@
       "first_sentence": "ATLANTA \u2014 Democrat Shawn Harris and Trump-endorsed Republican Clay Fuller will advance to an April runoff in a race to replace former Republican Rep.",
       "timestamp": "2026-03-10T09:00:00Z",
       "source": "NPR News"
-    },
-    {
-      "headline": "\u2018I\u2019m buggered\u2019: David Littleproud resigns as leader of National party as MPs jockey for top job",
-      "link": "https://www.theguardian.com/australia-news/2026/mar/10/david-littleproud-resigns-as-leader-of-national-party-saying-hes-buggered",
-      "mean_score": 0.398,
-      "vader_score": 0.296,
-      "textblob_score": 0.5,
-      "first_sentence": "A crowded field of Nationals MPs are set to jockey for the leadership after a \u201cbuggered\u201d David Littleproud blindsided colleagues with his shock resignation.",
-      "timestamp": "2026-03-10T08:07:11Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Iran expert discusses what new supreme leader means for country's future",
-      "link": "https://www.npr.org/2026/03/10/nx-s1-5742539/iran-expert-discusses-what-new-supreme-leader-means-for-countrys-future",
-      "mean_score": 0.3128,
-      "vader_score": 0.5574,
-      "textblob_score": 0.0682,
-      "first_sentence": "NPR's Steve Inskeep asks Iran expert Vali Nasr about what the appointment of a new Supreme Leader in Iran means for the country's future.",
-      "timestamp": "2026-03-10T08:01:53Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Why One Battle After Another should win the best picture Oscar",
-      "link": "https://www.theguardian.com/film/2026/mar/10/why-one-battle-after-another-should-win-the-best-picture-oscar",
-      "mean_score": 0.8253,
-      "vader_score": 0.7506,
-      "textblob_score": 0.9,
-      "first_sentence": "Viva la revolution and don\u2019t forget your password, your pronouns, your plaid gown and your gun.",
-      "timestamp": "2026-03-10T08:00:14Z",
-      "source": "The Guardian"
     }
   ]
 }
