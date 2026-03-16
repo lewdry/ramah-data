@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-16T15:25:21Z",
+  "last run": "2026-03-16T18:20:36Z",
   "stories": [
+    {
+      "headline": "The Taylor Swift effect: US vinyl sales top $1bn for the first time since 1983",
+      "link": "https://www.theguardian.com/music/2026/mar/16/vinyl-record-sales-us-taylor-swift",
+      "mean_score": 0.3784,
+      "vader_score": 0.3818,
+      "textblob_score": 0.375,
+      "first_sentence": "For the first time in over four decades, US vinyl sales have topped $1bn in annual revenue.",
+      "timestamp": "2026-03-16T17:11:31Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Girl in meningitis outbreak was 'lovely and caring'",
       "link": "https://www.bbc.com/news/articles/cp9mdxz4dd2o?at_medium=RSS&at_campaign=rss",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Viva la revolution and don\u2019t forget your password, your pronouns, your plaid gown and your gun.",
       "timestamp": "2026-03-10T08:00:14Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Super Netball's Kiwi influx leaves sour taste for diehard Australian fans",
-      "link": "https://www.abc.net.au/news/2026-03-10/super-netball-launch-2026-kiwi-influx/106437842",
-      "mean_score": 0.3303,
-      "vader_score": 0.5994,
-      "textblob_score": 0.0611,
-      "first_sentence": "Super Netball's 10th season will have a Kiwi flavour to it and it's left a sour taste in the mouths of diehard Australian supporters.",
-      "timestamp": "2026-03-10T06:54:47Z",
-      "source": "ABC News"
     }
   ]
 }
