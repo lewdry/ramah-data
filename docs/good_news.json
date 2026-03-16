@@ -1,6 +1,86 @@
 {
-  "last run": "2026-03-16T00:22:30Z",
+  "last run": "2026-03-16T04:01:09Z",
   "stories": [
+    {
+      "headline": "Historic firsts, risqu\u00e9 jokes, and a tie - watch the top moments",
+      "link": "https://www.bbc.com/news/videos/cedzq0q6x5lo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3357,
+      "vader_score": 0.4215,
+      "textblob_score": 0.25,
+      "first_sentence": "The 2026 Oscars featured surprise wins, emotional speeches and some comical moments as stars gathered for Hollywood's biggest night.",
+      "timestamp": "2026-03-16T03:15:43Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "One Battle After Another sweeps the Oscars as Michael B Jordan and Jessie Buckley win big",
+      "link": "https://www.theguardian.com/film/2026/mar/15/oscars-2026-best-picture-one-battle-after-another-win",
+      "mean_score": 0.348,
+      "vader_score": 0.296,
+      "textblob_score": 0.4,
+      "first_sentence": "Paul Thomas Anderson\u2019s counter-culture caper One Battle After Another has won the Oscars war, taking home six awards after a hotly contested season.",
+      "timestamp": "2026-03-16T02:43:32Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Best animated film winner Kpop Demon Hunters captures hearts world over",
+      "link": "https://www.bbc.com/news/articles/c4g4n1dyepdo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.9616,
+      "vader_score": 0.9231,
+      "textblob_score": 1.0,
+      "first_sentence": "Kpop Demon Hunters has won best animated film at the Oscars on Sunday evening - the latest in a growing list of accolades for the movie that has swept the world since it was released last summer.",
+      "timestamp": "2026-03-16T02:39:01Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Mr Nobody Against Putin wins the best documentary Oscar",
+      "link": "https://www.theguardian.com/film/2026/mar/16/mr-nobody-against-putin-wins-the-best-documentary-oscar",
+      "mean_score": 0.6347,
+      "vader_score": 0.836,
+      "textblob_score": 0.4333,
+      "first_sentence": "Mr Nobody Against Putin, a primary school teacher\u2019s record of the indoctrination of his pupils to support Russia\u2019s invasion of Ukraine, has won the Oscar for best documentary.",
+      "timestamp": "2026-03-16T01:19:01Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "One-off \u00a32,000 grant gives care leavers head start, study finds",
+      "link": "https://www.bbc.com/news/articles/cx24z8rvw1go?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3454,
+      "vader_score": 0.6908,
+      "textblob_score": 0.0,
+      "first_sentence": "Care leavers who were given a one-off, no strings attached \u00a32,000 grant were less likely to become homeless or spend time in hospital or prison, according to a new study.",
+      "timestamp": "2026-03-16T01:13:30Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Alex Johnston bedlam delivers one of rugby league\u2019s most unforgettable nights | Jack Snape",
+      "link": "https://www.theguardian.com/sport/blog/2026/mar/16/alex-johnston-rugby-league-try-scoring-record-south-sydney-roosters",
+      "mean_score": 0.325,
+      "vader_score": 0.0,
+      "textblob_score": 0.65,
+      "first_sentence": "Alex Johnston is adored by all in rugby league, but even so, this was extreme.",
+      "timestamp": "2026-03-16T01:03:52Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Untagged livestock roaming free continues to raise alarm across WA shires",
+      "link": "https://www.abc.net.au/news/2026-03-16/stray-livestock-on-rural-roads-farms-cause-ongoing-concern/106436978",
+      "mean_score": 0.3132,
+      "vader_score": 0.2263,
+      "textblob_score": 0.4,
+      "first_sentence": "A farmer in Western Australia's south has joined growing calls for stronger action to address wandering livestock on rural properties and roads.",
+      "timestamp": "2026-03-16T00:33:29Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Jannik Sinnner ends wait for title with Indian Wells win over Daniil Medvedev",
+      "link": "https://www.theguardian.com/sport/2026/mar/15/indian-wells-tennis-2026-finals",
+      "mean_score": 0.7502,
+      "vader_score": 0.7003,
+      "textblob_score": 0.8,
+      "first_sentence": "Jannik Sinner claimed his first title of the year with victory over Daniil Medvedev in Indian Wells, while Aryna Sabalenka snapped her losing streak against Elena Rybakina in a thrilling women\u2019s final.",
+      "timestamp": "2026-03-16T00:27:44Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Taxpayer bill for saving Scunthorpe steel furnaces could top \u00a31.5bn by 2028, auditor says",
       "link": "https://www.theguardian.com/business/2026/mar/16/taxpayer-bill-for-saving-scunthorpe-steel-furnaces-could-top-15bn-by-2028-auditor-says",
@@ -20,6 +100,26 @@
       "first_sentence": "Hollywood's best and brightest have gathered to find out which of them will be taking home one of the most coveted awards in the movie industry, the Oscars.",
       "timestamp": "2026-03-15T23:52:18Z",
       "source": "BBC News"
+    },
+    {
+      "headline": "Oscars 2026 winners list: Michael B Jordan takes Best Actor, One Battle After Another wins Best Picture",
+      "link": "https://www.abc.net.au/news/2026-03-16/oscars-winner-list-2026/106458764",
+      "mean_score": 0.847,
+      "vader_score": 0.9274,
+      "textblob_score": 0.7667,
+      "first_sentence": "Hollywood's night of night has taken place this evening with One Battle After Another dominating.",
+      "timestamp": "2026-03-15T23:31:47Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "'One Battle After Another' takes best picture. Here's the full list of Oscar winners",
+      "link": "https://www.npr.org/2026/03/15/nx-s1-5739287/oscars-2026-winners-list-best-picture-actor-actress",
+      "mean_score": 0.6829,
+      "vader_score": 0.6908,
+      "textblob_score": 0.675,
+      "first_sentence": "One Battle After Another took home best picture at the 98th Oscars on Sunday night.",
+      "timestamp": "2026-03-15T23:24:24Z",
+      "source": "NPR News"
     },
     {
       "headline": "Amy Madigan wins best supporting actress Oscar for Weapons",
@@ -60,6 +160,16 @@
       "first_sentence": "Meanwhile, Peter Bradshaw\u2019s red carpet whirlwind continues apace.",
       "timestamp": "2026-03-15T21:03:11Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "See the full list: Here are the winners of the 2026 Oscars",
+      "link": "https://www.sbs.com.au/news/article/oscars-2026-what-you-need-to-know/a0sbbkk7v",
+      "mean_score": 0.4133,
+      "vader_score": 0.4767,
+      "textblob_score": 0.35,
+      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+      "timestamp": "2026-03-15T21:01:00Z",
+      "source": "SBS News"
     },
     {
       "headline": "How this Sydney high school drastically improved their HSC results",
@@ -2390,116 +2500,6 @@
       "first_sentence": "Maisie Adam and Scott Bryan talk comically and sensitively to people who found sudden tabloid and early internet fame in the 00s.",
       "timestamp": "2026-03-09T07:00:43Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Big Red Bash organisers search for new site to hold iconic festival",
-      "link": "https://www.abc.net.au/news/2026-03-09/big-red-bash-music-festival-new-location-birdsville/106432910",
-      "mean_score": 0.3265,
-      "vader_score": 0.4939,
-      "textblob_score": 0.1591,
-      "first_sentence": "Organisers of outback music festival Big Red Bash have ruled out holding this year's event at its usual location west of Birdsville.",
-      "timestamp": "2026-03-09T06:58:53Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Australia urged to protect Iranian women's football team as they prepare to fly home",
-      "link": "https://www.bbc.com/news/articles/cwy8e978xl8o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5909,
-      "vader_score": 0.3818,
-      "textblob_score": 0.8,
-      "first_sentence": "Football's governing bodies and Australian authorities are being urged to ensure the safety of Iran's women's team as they prepare to fly home from Australia after being eliminated from the Asian Cup.",
-      "timestamp": "2026-03-09T06:51:18Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "The predator-spotting laser tech trying to keep women safe",
-      "link": "https://www.bbc.com/news/articles/c0jvy4xn0l4o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.5,
-      "first_sentence": "On a dark winter evening, a woman waits for a train on a deserted platform.",
-      "timestamp": "2026-03-09T06:00:05Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Labor's Ed Smelt wins Nightcliff by-election, taking Greens' only NT seat",
-      "link": "https://www.abc.net.au/news/2026-03-09/nt-labor-ed-smelt-wins-nightcliff-byelection-greens-seat-suki/106432806",
-      "mean_score": 0.3609,
-      "vader_score": 0.5719,
-      "textblob_score": 0.15,
-      "first_sentence": "Labor's Ed Smelt has won the Nightcliff by-election, with a check count of votes removing any shred of doubt he has claimed the seat.",
-      "timestamp": "2026-03-09T05:06:46Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Five tasty recipes that also make a great lunch the next day",
-      "link": "https://www.abc.net.au/news/2026-03-09/tasty-lunchboxes-from-leftovers-recipes/106414678",
-      "mean_score": 0.5125,
-      "vader_score": 0.6249,
-      "textblob_score": 0.4,
-      "first_sentence": "It's all about no-fuss ingredients that often taste even better the next day.",
-      "timestamp": "2026-03-09T05:03:38Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Lomax to join Super Rugby in major blow to NRL after contract saga",
-      "link": "https://www.abc.net.au/news/2026-03-09/nrl-star-zac-lomax-defects-to-super-rugby/106431920",
-      "mean_score": 0.4624,
-      "vader_score": 0.7269,
-      "textblob_score": 0.1979,
-      "first_sentence": "Zac Lomax will join the Western Force and Rugby Australia on a two-year deal.",
-      "timestamp": "2026-03-09T01:18:18Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Who is Mojtaba Khamenei, the man chosen as Iran's new supreme leader?",
-      "link": "https://www.abc.net.au/news/2026-03-09/who-is-irans-new-supreme-leader-mojtaba-khamenei-/106431406",
-      "mean_score": 0.3469,
-      "vader_score": 0.5574,
-      "textblob_score": 0.1364,
-      "first_sentence": "In what has been described as a sign that hardliners are still firmly in charge in Iran, Ayatollah Ali Khamenei's son Mojtaba has been chosen to succeed his late father as supreme leader.",
-      "timestamp": "2026-03-09T00:58:18Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "\u2018Country\u2019 Joe McDonald, \u201860s rock star, proud protest counterculture icon, dies at 84",
-      "link": "https://apnews.com/article/country-joe-mcdonald-vietnam-protest-woodstock-hippie-b4eca4ef494e4d78916eb1e8ef229eb7",
-      "mean_score": 0.5366,
-      "vader_score": 0.2732,
-      "textblob_score": 0.8,
-      "first_sentence": "NEW YORK (AP) \u2014 \u201cCountry\u201d Joe McDonald, a hippie rock star of the 1960s whose \u201cI-Feel-Like-I\u2019m-Fixin\u2019-To-Die Rag\u201d was a four-lettered rebuke to the Vietnam War that became an anthem for protesters and a highlight of the Woodstock music festival, died Sunday.",
-      "timestamp": "2026-03-09T00:53:02Z",
-      "source": "AP News"
-    },
-    {
-      "headline": "Spain's migrants welcome amnesty: 'It will help us in every way'",
-      "link": "https://www.bbc.com/news/articles/crk8rdz5131o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.7454,
-      "vader_score": 0.6908,
-      "textblob_score": 0.8,
-      "first_sentence": "Diana left her native Peru two years ago, looking for financial and professional stability in Europe.",
-      "timestamp": "2026-03-09T00:17:54Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Who is Mojtaba Khamenei, Iran's new supreme leader?",
-      "link": "https://www.sbs.com.au/news/article/who-is-mojtaba-khamenei-irans-new-supreme-leader/wh3vo9p6j",
-      "mean_score": 0.3469,
-      "vader_score": 0.5574,
-      "textblob_score": 0.1364,
-      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-      "timestamp": "2026-03-08T23:36:28Z",
-      "source": "SBS News"
-    },
-    {
-      "headline": "Australia falls just short of stunning victory over Japan at World Baseball Classic",
-      "link": "https://www.abc.net.au/news/2026-03-09/world-baseball-classic-australia-almost-defeats-japan/106431342",
-      "mean_score": 0.302,
-      "vader_score": 0.3818,
-      "textblob_score": 0.2222,
-      "first_sentence": "Australia fell just short of defeating baseball giant Japan at the World Baseball Classic, the sport's premier event.",
-      "timestamp": "2026-03-08T23:00:59Z",
-      "source": "ABC News"
     }
   ]
 }

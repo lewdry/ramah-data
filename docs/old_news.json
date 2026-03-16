@@ -1,5 +1,115 @@
 [
   {
+    "headline": "Big Red Bash organisers search for new site to hold iconic festival",
+    "link": "https://www.abc.net.au/news/2026-03-09/big-red-bash-music-festival-new-location-birdsville/106432910",
+    "mean_score": 0.3265,
+    "vader_score": 0.4939,
+    "textblob_score": 0.1591,
+    "first_sentence": "Organisers of outback music festival Big Red Bash have ruled out holding this year's event at its usual location west of Birdsville.",
+    "timestamp": "2026-03-09T06:58:53Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Australia urged to protect Iranian women's football team as they prepare to fly home",
+    "link": "https://www.bbc.com/news/articles/cwy8e978xl8o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.5909,
+    "vader_score": 0.3818,
+    "textblob_score": 0.8,
+    "first_sentence": "Football's governing bodies and Australian authorities are being urged to ensure the safety of Iran's women's team as they prepare to fly home from Australia after being eliminated from the Asian Cup.",
+    "timestamp": "2026-03-09T06:51:18Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "The predator-spotting laser tech trying to keep women safe",
+    "link": "https://www.bbc.com/news/articles/c0jvy4xn0l4o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4702,
+    "vader_score": 0.4404,
+    "textblob_score": 0.5,
+    "first_sentence": "On a dark winter evening, a woman waits for a train on a deserted platform.",
+    "timestamp": "2026-03-09T06:00:05Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Labor's Ed Smelt wins Nightcliff by-election, taking Greens' only NT seat",
+    "link": "https://www.abc.net.au/news/2026-03-09/nt-labor-ed-smelt-wins-nightcliff-byelection-greens-seat-suki/106432806",
+    "mean_score": 0.3609,
+    "vader_score": 0.5719,
+    "textblob_score": 0.15,
+    "first_sentence": "Labor's Ed Smelt has won the Nightcliff by-election, with a check count of votes removing any shred of doubt he has claimed the seat.",
+    "timestamp": "2026-03-09T05:06:46Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Five tasty recipes that also make a great lunch the next day",
+    "link": "https://www.abc.net.au/news/2026-03-09/tasty-lunchboxes-from-leftovers-recipes/106414678",
+    "mean_score": 0.5125,
+    "vader_score": 0.6249,
+    "textblob_score": 0.4,
+    "first_sentence": "It's all about no-fuss ingredients that often taste even better the next day.",
+    "timestamp": "2026-03-09T05:03:38Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Lomax to join Super Rugby in major blow to NRL after contract saga",
+    "link": "https://www.abc.net.au/news/2026-03-09/nrl-star-zac-lomax-defects-to-super-rugby/106431920",
+    "mean_score": 0.4624,
+    "vader_score": 0.7269,
+    "textblob_score": 0.1979,
+    "first_sentence": "Zac Lomax will join the Western Force and Rugby Australia on a two-year deal.",
+    "timestamp": "2026-03-09T01:18:18Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Who is Mojtaba Khamenei, the man chosen as Iran's new supreme leader?",
+    "link": "https://www.abc.net.au/news/2026-03-09/who-is-irans-new-supreme-leader-mojtaba-khamenei-/106431406",
+    "mean_score": 0.3469,
+    "vader_score": 0.5574,
+    "textblob_score": 0.1364,
+    "first_sentence": "In what has been described as a sign that hardliners are still firmly in charge in Iran, Ayatollah Ali Khamenei's son Mojtaba has been chosen to succeed his late father as supreme leader.",
+    "timestamp": "2026-03-09T00:58:18Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "\u2018Country\u2019 Joe McDonald, \u201860s rock star, proud protest counterculture icon, dies at 84",
+    "link": "https://apnews.com/article/country-joe-mcdonald-vietnam-protest-woodstock-hippie-b4eca4ef494e4d78916eb1e8ef229eb7",
+    "mean_score": 0.5366,
+    "vader_score": 0.2732,
+    "textblob_score": 0.8,
+    "first_sentence": "NEW YORK (AP) \u2014 \u201cCountry\u201d Joe McDonald, a hippie rock star of the 1960s whose \u201cI-Feel-Like-I\u2019m-Fixin\u2019-To-Die Rag\u201d was a four-lettered rebuke to the Vietnam War that became an anthem for protesters and a highlight of the Woodstock music festival, died Sunday.",
+    "timestamp": "2026-03-09T00:53:02Z",
+    "source": "AP News"
+  },
+  {
+    "headline": "Spain's migrants welcome amnesty: 'It will help us in every way'",
+    "link": "https://www.bbc.com/news/articles/crk8rdz5131o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.7454,
+    "vader_score": 0.6908,
+    "textblob_score": 0.8,
+    "first_sentence": "Diana left her native Peru two years ago, looking for financial and professional stability in Europe.",
+    "timestamp": "2026-03-09T00:17:54Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Who is Mojtaba Khamenei, Iran's new supreme leader?",
+    "link": "https://www.sbs.com.au/news/article/who-is-mojtaba-khamenei-irans-new-supreme-leader/wh3vo9p6j",
+    "mean_score": 0.3469,
+    "vader_score": 0.5574,
+    "textblob_score": 0.1364,
+    "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+    "timestamp": "2026-03-08T23:36:28Z",
+    "source": "SBS News"
+  },
+  {
+    "headline": "Australia falls just short of stunning victory over Japan at World Baseball Classic",
+    "link": "https://www.abc.net.au/news/2026-03-09/world-baseball-classic-australia-almost-defeats-japan/106431342",
+    "mean_score": 0.302,
+    "vader_score": 0.3818,
+    "textblob_score": 0.2222,
+    "first_sentence": "Australia fell just short of defeating baseball giant Japan at the World Baseball Classic, the sport's premier event.",
+    "timestamp": "2026-03-08T23:00:59Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "F1 fans have seen the new era in all its chaotic and thrilling glory",
     "link": "https://www.abc.net.au/news/2026-03-09/new-f1-regulations-debut-at-australian-grand-prix/106430404",
     "mean_score": 0.3599,
