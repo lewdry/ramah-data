@@ -1,6 +1,106 @@
 {
-  "last run": "2026-03-16T06:32:23Z",
+  "last run": "2026-03-16T09:24:35Z",
   "stories": [
+    {
+      "headline": "Influencers push 'parasite cleanses' but doctors say to steer clear",
+      "link": "https://www.npr.org/2026/03/16/nx-s1-5745200/parasite-cleanse-safety-science",
+      "mean_score": 0.3133,
+      "vader_score": 0.5267,
+      "textblob_score": 0.1,
+      "first_sentence": "In online posts and videos, they suggest the organisms can be blamed for a host of symptoms \u2014 bloating, insomnia, food cravings, teeth grinding, headaches, among others.",
+      "timestamp": "2026-03-16T09:00:00Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "Thames Water lenders float new \u00a310bn rescue plan",
+      "link": "https://www.theguardian.com/business/2026/mar/16/thames-water-lenders-float-new-financial-rescue-plan",
+      "mean_score": 0.3235,
+      "vader_score": 0.5106,
+      "textblob_score": 0.1364,
+      "first_sentence": "Thames Water\u2019s lenders have put forward a \u00a310bn rescue plan that would involve paying off the troubled water company\u2019s hundreds of millions of pounds-worth of fines for leaks and pollution, as part of an effort to stave off financial collapse.",
+      "timestamp": "2026-03-16T08:51:28Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "India hopeful Iran talks will ease Hormuz route for its ships",
+      "link": "https://www.bbc.com/news/articles/ckg2m8zp2n3o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3502,
+      "vader_score": 0.7003,
+      "textblob_score": 0.0,
+      "first_sentence": "Indian Foreign Minister S Jaishankar has said he is hopeful that talks with Iran are beginning to ease shipping disruptions for the country's vessels in the Strait of Hormuz.",
+      "timestamp": "2026-03-16T08:41:12Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Cherry on the top: Jessie Buckley pulled off a stunning double Oscar win for herself \u2026 and Chanel",
+      "link": "https://www.theguardian.com/film/2026/mar/16/jessie-buckley-best-actress-oscar-hamnet-chanel-gown",
+      "mean_score": 0.626,
+      "vader_score": 0.802,
+      "textblob_score": 0.45,
+      "first_sentence": "There are two ways to win at the Oscars: go home with a statuette, or be crowned on the red carpet.",
+      "timestamp": "2026-03-16T08:20:33Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Rukmini Iyer\u2019s quick and easy reccipe for crispy baked gnocchi puttanesca | Quick and easy",
+      "link": "https://www.theguardian.com/food/2026/feb/16/rukmini-iyer-quick-and-easy-recipe-crispy-baked-gnocchi-puttanesca",
+      "mean_score": 0.5418,
+      "vader_score": 0.7003,
+      "textblob_score": 0.3833,
+      "first_sentence": "I\u2019ve non-canonically added in small cubes of aubergine, because they melt beautifully into the sauce while adding extra plant matter.",
+      "timestamp": "2026-03-16T08:00:27Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "'We don't talk about it enough': Mum makes emotional return to Super Netball",
+      "link": "https://www.abc.net.au/news/2026-03-16/2026-super-netball-round-up-round1/106461062",
+      "mean_score": 0.3908,
+      "vader_score": 0.6705,
+      "textblob_score": 0.1111,
+      "first_sentence": "Super Netball's 10th season has been tipped to be its most unpredictable yet, so it was only fitting that we get some surprising results in round one.",
+      "timestamp": "2026-03-16T07:58:59Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Cillian Murphy opens up about Peaky Blinders: best podcasts of the week",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/mar/16/cillian-murphy-opens-up-about-peaky-blinders-best-podcasts-of-the-week",
+      "mean_score": 0.5935,
+      "vader_score": 0.6369,
+      "textblob_score": 0.55,
+      "first_sentence": "The stars of the smash hit Birmingham-set series tell all to Edith Bowman.",
+      "timestamp": "2026-03-16T07:00:11Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Five of Europe\u2019s best accessible island escapes",
+      "link": "https://www.theguardian.com/travel/2026/mar/16/europe-best-accessible-island-escapes",
+      "mean_score": 0.6891,
+      "vader_score": 0.6908,
+      "textblob_score": 0.6875,
+      "first_sentence": "Connected to the German mainland by a single rail causeway, Sylt is just over three hours from Hamburg by direct train.",
+      "timestamp": "2026-03-16T07:00:10Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "South Korea celebrates \u2018miracle\u2019 Oscar wins for KPop Demon Hunters",
+      "link": "https://www.theguardian.com/film/2026/mar/16/kpop-demon-hunters-oscar-wins-golden-performance",
+      "mean_score": 0.5563,
+      "vader_score": 0.8126,
+      "textblob_score": 0.3,
+      "first_sentence": "Two Oscar wins for hit film KPop Demon Hunters have been met with jubilation in South Korea, where the film has been hailed as a cultural \u201cmiracle\u201d and a win for the country\u2019s artistic exports.",
+      "timestamp": "2026-03-16T06:54:38Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "After experiencing youth homelessness, Sully wants to help others",
+      "link": "https://www.abc.net.au/news/2026-03-16/call-for-more-help-end-youth-homelessness-in-western-australia/106459938",
+      "mean_score": 0.3009,
+      "vader_score": 0.4019,
+      "textblob_score": 0.2,
+      "first_sentence": "Youth homelessness is becoming such an issue in Perth that on one average night earlier this month, services identified 73 young people sleeping rough, but only three available beds in crisis services.",
+      "timestamp": "2026-03-16T06:30:57Z",
+      "source": "ABC News"
+    },
     {
       "headline": "TikTok and Meta risked safety to win algorithm arms race, whistleblowers say",
       "link": "https://www.bbc.com/news/articles/cqj9kgxqjwjo?at_medium=RSS&at_campaign=rss",
@@ -380,6 +480,16 @@
       "first_sentence": "In the final moments of the Los Angeles marathon last weekend, the announcers were already narrating frontrunner Michael Kimani Kamau\u2019s finish when Nathan Martin suddenly propelled forward, shocking newscasters and spectators.",
       "timestamp": "2026-03-15T13:00:24Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "A race for a safe blue seat tests how far left Democrats want new leaders to go",
+      "link": "https://www.npr.org/2026/03/13/nx-s1-5726873/generational-politics-il-9",
+      "mean_score": 0.3206,
+      "vader_score": 0.4939,
+      "textblob_score": 0.1473,
+      "first_sentence": "On an overcast Saturday in Evanston, Ill., as local union members file into a small campaign office, sip coffee and get ready to go canvass, a classic campaign scene begins to take shape.",
+      "timestamp": "2026-03-15T12:09:47Z",
+      "source": "NPR News"
     },
     {
       "headline": "Peter Bradshaw\u2019s Oscars 2026 predictions: who will win, who should win, who should\u2019ve been in the running?",
@@ -2389,116 +2499,6 @@
       "textblob_score": 0.1364,
       "first_sentence": "Conflict in the Middle East has been escalating.",
       "timestamp": "2026-03-09T18:11:42Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Will this year\u2019s flu vaccine protect against the fast-moving Super- K strain?",
-      "link": "https://www.abc.net.au/news/health/2026-03-10/influenza-vaccine-super-k-vaccination-urge/106431754",
-      "mean_score": 0.4526,
-      "vader_score": 0.5719,
-      "textblob_score": 0.3333,
-      "first_sentence": "Experts are urging Australians to roll up their sleeves as soon as the 2026 influenza vaccine becomes available, following last year's low vaccine uptake and high caseload.",
-      "timestamp": "2026-03-09T18:00:00Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Individual grit won\u2019t make men beautiful | Letters",
-      "link": "https://www.theguardian.com/fashion/2026/mar/09/individual-grit-wont-make-men-beautiful",
-      "mean_score": 0.5122,
-      "vader_score": 0.5994,
-      "textblob_score": 0.425,
-      "first_sentence": "Your piece on the rise of impossible male beauty standards (\u2018There is no shame in being vain\u2019: the relentless rise of impossible male beauty standards, 5 March) captures something bigger than vanity, that of a neoliberal moral economy which turns the body into a private \u201cproject\u201d and then invoices the individual for failing it.",
-      "timestamp": "2026-03-09T16:47:37Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "SEND reforms to 'strip away' children's legal protections, charity says",
-      "link": "https://www.bbc.com/news/articles/c24dy787revo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3553,
-      "vader_score": 0.5106,
-      "textblob_score": 0.2,
-      "first_sentence": "The government's plans to reform the special educational needs and disabilities (SEND) system in England will \"strip away\" legal protections for children and young people needing support, a charity has warned.",
-      "timestamp": "2026-03-09T16:30:11Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "No. 2 UCLA ends UConn run as unanimous No. 1 in women\u2019s AP Top 25, Texas moves up to No. 3",
-      "link": "https://apnews.com/article/ap-top-25-b63b5f3055219bab6b27eea81b1d85bd",
-      "mean_score": 0.3512,
-      "vader_score": 0.2023,
-      "textblob_score": 0.5,
-      "first_sentence": "No.",
-      "timestamp": "2026-03-09T16:23:02Z",
-      "source": "AP News"
-    },
-    {
-      "headline": "2026 Australian Grand Prix: Formula 1 debuts a new style of racing",
-      "link": "https://arstechnica.com/cars/2026/03/2026-australian-grand-prix-formula-1-debuts-a-new-style-of-racing/",
-      "mean_score": 0.3355,
-      "vader_score": 0.4588,
-      "textblob_score": 0.2121,
-      "first_sentence": "The key is understanding how to conserve energy across a lap.",
-      "timestamp": "2026-03-09T15:50:15Z",
-      "source": "Ars Technica"
-    },
-    {
-      "headline": "Richest super balances to be taxed at higher rates after Greens agree to back Labor plan",
-      "link": "https://www.theguardian.com/australia-news/2026/mar/09/superannuation-higher-tax-reform-labor-greens",
-      "mean_score": 0.5317,
-      "vader_score": 0.8689,
-      "textblob_score": 0.1944,
-      "first_sentence": "Labor\u2019s plan to raise the tax rate on the largest super balances will become law after the Greens agreed to wave it through the Senate, ending a three-year political fight over concessions for wealthier retirees.",
-      "timestamp": "2026-03-09T14:00:50Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018Bitter result\u2019 for Friedrich Merz as Greens win in German car heartland",
-      "link": "https://www.theguardian.com/world/2026/mar/09/bitter-result-friedrich-merz-greens-baden-wurttemberg-cem-ozdemir",
-      "mean_score": 0.4096,
-      "vader_score": 0.5859,
-      "textblob_score": 0.2333,
-      "first_sentence": "Friedrich Merz\u2019s Christian Democrats (CDU) have stumbled into a busy election year with a defeat to the Greens in a key state poll, as his embattled party struggles to fend off a challenge in other pivotal races from the far right.",
-      "timestamp": "2026-03-09T13:54:40Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "'Welcome to stay': Five Iranian football players granted asylum in Australia",
-      "link": "https://www.abc.net.au/news/2026-03-10/iranian-womens-football-escape-asylum/106434542",
-      "mean_score": 0.7062,
-      "vader_score": 0.6124,
-      "textblob_score": 0.8,
-      "first_sentence": "Five Iranian soccer players, who would likely have faced persecution if they returned home after their Women's Asian Cup campaign, have been granted asylum in Australia.",
-      "timestamp": "2026-03-09T13:34:34Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Georgina Hayden\u2019s quick and easy recipe for cauliflower, lentils and chorizo | Quick and easy",
-      "link": "https://www.theguardian.com/food/2026/mar/09/quick-easy-cauliflower-lentils-chorizo-recipe-georgina-hayden",
-      "mean_score": 0.5418,
-      "vader_score": 0.7003,
-      "textblob_score": 0.3833,
-      "first_sentence": "The transformation that cauliflower undergoes in a very hot oven means there is now rarely a time when I don\u2019t roast it first.",
-      "timestamp": "2026-03-09T13:00:49Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Ali Khamenei\u2019s son Mojtaba chosen as Iran\u2019s new supreme leader | First Thing",
-      "link": "https://www.theguardian.com/us-news/2026/mar/09/first-thing-ali-khamenei-son-mojtaba-chosen-iran-new-supreme-leader",
-      "mean_score": 0.3753,
-      "vader_score": 0.5574,
-      "textblob_score": 0.1932,
-      "first_sentence": "Mojtaba Khamenei, the second son of the late Iranian supreme leader Ayatollah Ali Khamenei, has been chosen as his successor, as the war enters its 10th day and fresh missile and drone strikes reverberate across the Middle East.",
-      "timestamp": "2026-03-09T12:39:47Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Chimps' taste for fermented fruit hints at origins of human love of alcohol",
-      "link": "https://www.npr.org/2026/03/09/nx-s1-5740557/chimpanzees-fermented-fruit-alcohol-evolution",
-      "mean_score": 0.4435,
-      "vader_score": 0.6369,
-      "textblob_score": 0.25,
-      "first_sentence": "For 11 days in late summer 2025, Aleksey Maro found himself in the Ugandan rainforest, doing whatever he could to collect chimpanzee urine.",
-      "timestamp": "2026-03-09T10:00:00Z",
       "source": "NPR News"
     }
   ]
