@@ -1,5 +1,95 @@
 [
   {
+    "headline": "Morning Mail: five Iranian footballers granted humanitarian visas, Hanson secured solar rebate, Wallabies get boost",
+    "link": "https://www.theguardian.com/australia-news/2026/mar/10/morning-mail-tuesday-ntwnfb",
+    "mean_score": 0.3753,
+    "vader_score": 0.7506,
+    "textblob_score": 0.0,
+    "first_sentence": "Morning everyone.",
+    "timestamp": "2026-03-09T21:07:45Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Politics live: Australia to deploy aircraft to Gulf to protect civilians; PM praises \u2018brave women\u2019 of Iranian football team after visas granted",
+    "link": "https://www.theguardian.com/australia-news/live/2026/mar/10/iran-football-team-tony-burke-anthony-albanese-labor-angus-taylor-coalition-oil-price-inflation-federal-parliament-ntwnfb",
+    "mean_score": 0.6294,
+    "vader_score": 0.7906,
+    "textblob_score": 0.4682,
+    "first_sentence": "Donald Trump\u2019s dramatic announcement about the granting by Australia of asylum to five Iranian women footballers was the big breaking news of the night.",
+    "timestamp": "2026-03-09T21:02:56Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Australia to send surveillance plane to help 'protect and secure' airspace in the Gulf",
+    "link": "https://www.abc.net.au/news/2026-03-10/australia-to-provide-military-support-to-gulf-states/106435248",
+    "mean_score": 0.5858,
+    "vader_score": 0.7717,
+    "textblob_score": 0.4,
+    "first_sentence": "Australia will send a military aircraft and 85 ADF personnel to the United Arab Emirates to assist in the defence of Gulf nations that have been attacked by Iran.",
+    "timestamp": "2026-03-09T20:49:50Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "\u2018They are safe here\u2019: five Iranian women footballers granted humanitarian visas in Australia, Burke confirms",
+    "link": "https://www.theguardian.com/football/2026/mar/09/iran-women-football-team-australia-asian-cup",
+    "mean_score": 0.5497,
+    "vader_score": 0.5994,
+    "textblob_score": 0.5,
+    "first_sentence": "Five members of the Iranian women\u2019s football team have been granted humanitarian visas in Australia, with the federal government offering assistance to other players.",
+    "timestamp": "2026-03-09T20:26:55Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Ministers must act more quickly on deepfakes to protect women and girls, Kendall says",
+    "link": "https://www.theguardian.com/politics/2026/mar/09/ministers-act-quickly-deepfakes-protect-women-girls-liz-kendall-technology-misogyny",
+    "mean_score": 0.3992,
+    "vader_score": 0.3818,
+    "textblob_score": 0.4167,
+    "first_sentence": "Ministers need to act more quickly to combat fast-changing threats from technology such as deepfakes, the technology secretary has said, as she warned about the risks women and girls face online.",
+    "timestamp": "2026-03-09T19:56:35Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Epstein paid for a conference of top scientists in 2006. His motives are now clear",
+    "link": "https://www.npr.org/2026/03/09/nx-s1-5721150/epstein-scientists-physics-virgin-islands-conference",
+    "mean_score": 0.4133,
+    "vader_score": 0.5267,
+    "textblob_score": 0.3,
+    "first_sentence": "Some 100 feet below the ocean's surface, Stephen Hawking peeked through the circular porthole of a submarine and saw the brilliant blue tropical water.",
+    "timestamp": "2026-03-09T19:33:55Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "\u2018Revolutionary\u2019: Ukrainian para-biathlete wins silver using ChatGPT as his coach",
+    "link": "https://www.theguardian.com/sport/2026/mar/09/ukraine-winter-paralympics-chat-gpt-artificial-intelligence",
+    "mean_score": 0.4359,
+    "vader_score": 0.5719,
+    "textblob_score": 0.3,
+    "first_sentence": "Team Ukraine have hit the ground running at the Winter Paralympics, standing second in the medal table after three days of competition.",
+    "timestamp": "2026-03-09T18:52:04Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Top Arizona lawmaker says he's complied with a subpoena for 2020 election records",
+    "link": "https://www.npr.org/2026/03/09/nx-s1-5742633/arizona-maricopa-county-2020-records-petersen",
+    "mean_score": 0.3512,
+    "vader_score": 0.2023,
+    "textblob_score": 0.5,
+    "first_sentence": "Arizona's state Senate president says he has complied with a subpoena he received last week seeking records from a flawed review of the 2020 election in Maricopa County.",
+    "timestamp": "2026-03-09T18:36:22Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "What to know about Mojtaba Khamenei, Iran's new supreme leader",
+    "link": "https://www.npr.org/2026/03/09/nx-s1-5742375/mojtaba-khamenei-iran-supreme-leader",
+    "mean_score": 0.3469,
+    "vader_score": 0.5574,
+    "textblob_score": 0.1364,
+    "first_sentence": "Conflict in the Middle East has been escalating.",
+    "timestamp": "2026-03-09T18:11:42Z",
+    "source": "NPR News"
+  },
+  {
     "headline": "Will this year\u2019s flu vaccine protect against the fast-moving Super- K strain?",
     "link": "https://www.abc.net.au/news/health/2026-03-10/influenza-vaccine-super-k-vaccination-urge/106431754",
     "mean_score": 0.4526,

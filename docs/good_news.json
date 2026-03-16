@@ -1,6 +1,96 @@
 {
-  "last run": "2026-03-16T09:24:35Z",
+  "last run": "2026-03-16T12:16:57Z",
   "stories": [
+    {
+      "headline": "Better than Wuthering Heights? The Bront\u00ebs\u2019 novels \u2013 ranked!",
+      "link": "https://www.theguardian.com/books/2026/mar/16/better-than-wuthering-heights-the-brontes-novels-ranked",
+      "mean_score": 0.5588,
+      "vader_score": 0.4926,
+      "textblob_score": 0.625,
+      "first_sentence": "This was the first novel that Charlotte Bront\u00eb completed.",
+      "timestamp": "2026-03-16T12:00:16Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Crossword editor\u2019s desk: the joy of The Goodies and a setter deviates from the letter of house-style law",
+      "link": "https://www.theguardian.com/crosswords/crossword-blog/2026/mar/16/crossword-editors-desk-the-joy-of-the-goodies-and-a-setter-deviates-from-the-letter-of-house-style-law",
+      "mean_score": 0.6929,
+      "vader_score": 0.5859,
+      "textblob_score": 0.8,
+      "first_sentence": "\u2026 with the perfectly accurate observation that BOTSWANA is not in the country of South Africa.",
+      "timestamp": "2026-03-16T12:00:15Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Starmer announces \u00a353m to help households most hit by rising heating oil costs",
+      "link": "https://www.bbc.com/news/articles/cp9mgpzn901o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4509,
+      "vader_score": 0.4019,
+      "textblob_score": 0.5,
+      "first_sentence": "Prime Minister Sir Keir Starmer has said the government will provide \u00a353m to help \"vulnerable\" households who have been hit by a sharp increase in the price of heating oil.",
+      "timestamp": "2026-03-16T11:59:45Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "How a charity founded by farmers' wives helps children in the Borders",
+      "link": "https://www.bbc.com/news/articles/cd03mmjgl8ro?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3298,
+      "vader_score": 0.6597,
+      "textblob_score": 0.0,
+      "first_sentence": "A charity founded by farmers' wives in the 1960s to protect vulnerable children is celebrating its 60th birthday by appealing for more people to support it.",
+      "timestamp": "2026-03-16T11:29:46Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "'Goatsucker' bird makes 'remarkable comeback'",
+      "link": "https://www.bbc.com/news/articles/c7952d4dwd8o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.6537,
+      "vader_score": 0.5574,
+      "textblob_score": 0.75,
+      "first_sentence": "The number of nightjars recorded in a National Park is thought to have doubled in the past five years following conservation efforts.",
+      "timestamp": "2026-03-16T11:13:19Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "A century after the first rocket launch, Ars staffers pick their favorites",
+      "link": "https://arstechnica.com/space/2026/03/a-century-after-the-first-rocket-launch-ars-staffers-pick-their-favorites/",
+      "mean_score": 0.3357,
+      "vader_score": 0.4215,
+      "textblob_score": 0.25,
+      "first_sentence": "Robert Goddard, a Massachusetts-born physicist, launched the world\u2019s first liquid-fueled rocket on this date 100 years ago.",
+      "timestamp": "2026-03-16T11:00:56Z",
+      "source": "Ars Technica"
+    },
+    {
+      "headline": "Why run for the love of it when you could be making butter at the same time | Emma Beddington",
+      "link": "https://www.theguardian.com/commentisfree/2026/mar/16/why-run-for-the-love-of-it-when-you-could-be-making-butter-at-the-same-time",
+      "mean_score": 0.4435,
+      "vader_score": 0.6369,
+      "textblob_score": 0.25,
+      "first_sentence": "There is a new entry in the overstuffed \u201cWhat fresh hell?\u201d category for 2026 \u2013 people have started making butter while they run.",
+      "timestamp": "2026-03-16T11:00:14Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Far-left and far-right gains throw French mainstream parties into a quandary",
+      "link": "https://www.bbc.com/news/articles/c8r17knnz5vo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3125,
+      "vader_score": 0.6249,
+      "textblob_score": 0.0,
+      "first_sentence": "The emerging strength of the far left and far right is creating awkward choices for mainstream parties after the first round of French mayoral elections.",
+      "timestamp": "2026-03-16T10:46:41Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "London book fair roundup: Idris Elba\u2019s thriller deal, the rise of romcom, and fights against censorship",
+      "link": "https://www.theguardian.com/books/2026/mar/16/london-book-fair-roundup-idris-elbas-thriller-deal-the-rise-of-romcom-and-fights-against-censorship",
+      "mean_score": 0.35,
+      "vader_score": 0.0,
+      "textblob_score": 0.7,
+      "first_sentence": "The annual London book fair wrapped on Thursday, marking the end of three days that saw 33,000 people connected to the book industry \u2013 agents, publishers, authors, among others \u2013 gather at Olympia to make deals and discuss the state of the publishing world, and its future.",
+      "timestamp": "2026-03-16T10:22:29Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Influencers push 'parasite cleanses' but doctors say to steer clear",
       "link": "https://www.npr.org/2026/03/16/nx-s1-5745200/parasite-cleanse-safety-science",
@@ -2410,96 +2500,6 @@
       "first_sentence": "Humankind, as TS Eliot\u2019s bird said in Burnt Norton , cannot bear too much reality.",
       "timestamp": "2026-03-09T22:40:00Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Morning Mail: five Iranian footballers granted humanitarian visas, Hanson secured solar rebate, Wallabies get boost",
-      "link": "https://www.theguardian.com/australia-news/2026/mar/10/morning-mail-tuesday-ntwnfb",
-      "mean_score": 0.3753,
-      "vader_score": 0.7506,
-      "textblob_score": 0.0,
-      "first_sentence": "Morning everyone.",
-      "timestamp": "2026-03-09T21:07:45Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Politics live: Australia to deploy aircraft to Gulf to protect civilians; PM praises \u2018brave women\u2019 of Iranian football team after visas granted",
-      "link": "https://www.theguardian.com/australia-news/live/2026/mar/10/iran-football-team-tony-burke-anthony-albanese-labor-angus-taylor-coalition-oil-price-inflation-federal-parliament-ntwnfb",
-      "mean_score": 0.6294,
-      "vader_score": 0.7906,
-      "textblob_score": 0.4682,
-      "first_sentence": "Donald Trump\u2019s dramatic announcement about the granting by Australia of asylum to five Iranian women footballers was the big breaking news of the night.",
-      "timestamp": "2026-03-09T21:02:56Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Australia to send surveillance plane to help 'protect and secure' airspace in the Gulf",
-      "link": "https://www.abc.net.au/news/2026-03-10/australia-to-provide-military-support-to-gulf-states/106435248",
-      "mean_score": 0.5858,
-      "vader_score": 0.7717,
-      "textblob_score": 0.4,
-      "first_sentence": "Australia will send a military aircraft and 85 ADF personnel to the United Arab Emirates to assist in the defence of Gulf nations that have been attacked by Iran.",
-      "timestamp": "2026-03-09T20:49:50Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "\u2018They are safe here\u2019: five Iranian women footballers granted humanitarian visas in Australia, Burke confirms",
-      "link": "https://www.theguardian.com/football/2026/mar/09/iran-women-football-team-australia-asian-cup",
-      "mean_score": 0.5497,
-      "vader_score": 0.5994,
-      "textblob_score": 0.5,
-      "first_sentence": "Five members of the Iranian women\u2019s football team have been granted humanitarian visas in Australia, with the federal government offering assistance to other players.",
-      "timestamp": "2026-03-09T20:26:55Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Ministers must act more quickly on deepfakes to protect women and girls, Kendall says",
-      "link": "https://www.theguardian.com/politics/2026/mar/09/ministers-act-quickly-deepfakes-protect-women-girls-liz-kendall-technology-misogyny",
-      "mean_score": 0.3992,
-      "vader_score": 0.3818,
-      "textblob_score": 0.4167,
-      "first_sentence": "Ministers need to act more quickly to combat fast-changing threats from technology such as deepfakes, the technology secretary has said, as she warned about the risks women and girls face online.",
-      "timestamp": "2026-03-09T19:56:35Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Epstein paid for a conference of top scientists in 2006. His motives are now clear",
-      "link": "https://www.npr.org/2026/03/09/nx-s1-5721150/epstein-scientists-physics-virgin-islands-conference",
-      "mean_score": 0.4133,
-      "vader_score": 0.5267,
-      "textblob_score": 0.3,
-      "first_sentence": "Some 100 feet below the ocean's surface, Stephen Hawking peeked through the circular porthole of a submarine and saw the brilliant blue tropical water.",
-      "timestamp": "2026-03-09T19:33:55Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "\u2018Revolutionary\u2019: Ukrainian para-biathlete wins silver using ChatGPT as his coach",
-      "link": "https://www.theguardian.com/sport/2026/mar/09/ukraine-winter-paralympics-chat-gpt-artificial-intelligence",
-      "mean_score": 0.4359,
-      "vader_score": 0.5719,
-      "textblob_score": 0.3,
-      "first_sentence": "Team Ukraine have hit the ground running at the Winter Paralympics, standing second in the medal table after three days of competition.",
-      "timestamp": "2026-03-09T18:52:04Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Top Arizona lawmaker says he's complied with a subpoena for 2020 election records",
-      "link": "https://www.npr.org/2026/03/09/nx-s1-5742633/arizona-maricopa-county-2020-records-petersen",
-      "mean_score": 0.3512,
-      "vader_score": 0.2023,
-      "textblob_score": 0.5,
-      "first_sentence": "Arizona's state Senate president says he has complied with a subpoena he received last week seeking records from a flawed review of the 2020 election in Maricopa County.",
-      "timestamp": "2026-03-09T18:36:22Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "What to know about Mojtaba Khamenei, Iran's new supreme leader",
-      "link": "https://www.npr.org/2026/03/09/nx-s1-5742375/mojtaba-khamenei-iran-supreme-leader",
-      "mean_score": 0.3469,
-      "vader_score": 0.5574,
-      "textblob_score": 0.1364,
-      "first_sentence": "Conflict in the Middle East has been escalating.",
-      "timestamp": "2026-03-09T18:11:42Z",
-      "source": "NPR News"
     }
   ]
 }
