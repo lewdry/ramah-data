@@ -1,6 +1,56 @@
 {
-  "last run": "2026-03-15T21:07:50Z",
+  "last run": "2026-03-16T00:22:30Z",
   "stories": [
+    {
+      "headline": "Taxpayer bill for saving Scunthorpe steel furnaces could top \u00a31.5bn by 2028, auditor says",
+      "link": "https://www.theguardian.com/business/2026/mar/16/taxpayer-bill-for-saving-scunthorpe-steel-furnaces-could-top-15bn-by-2028-auditor-says",
+      "mean_score": 0.3512,
+      "vader_score": 0.2023,
+      "textblob_score": 0.5,
+      "first_sentence": "The cost of keeping the UK\u2019s last remaining blast furnaces going at British Steel\u2019s Scunthorpe plant could exceed \u00a31.5bn by 2028 if it continues at its current rate, according to the government\u2019s spending watchdog.",
+      "timestamp": "2026-03-16T00:01:01Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Oscars 2026: Winners list in full (updating live)",
+      "link": "https://www.bbc.com/news/articles/c33jkvmzl4ko?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3599,
+      "vader_score": 0.4767,
+      "textblob_score": 0.2432,
+      "first_sentence": "Hollywood's best and brightest have gathered to find out which of them will be taking home one of the most coveted awards in the movie industry, the Oscars.",
+      "timestamp": "2026-03-15T23:52:18Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Amy Madigan wins best supporting actress Oscar for Weapons",
+      "link": "https://www.theguardian.com/film/2026/mar/15/amy-madigan-wins-best-supporting-actress-oscar-for-weapons",
+      "mean_score": 0.6763,
+      "vader_score": 0.836,
+      "textblob_score": 0.5167,
+      "first_sentence": "Amy Madigan has won the best supporting actress Oscar for Weapons at the 98th Academy Awards,.",
+      "timestamp": "2026-03-15T23:20:57Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "First-round of French local elections sees strong showing for National Rally and LFI",
+      "link": "https://www.theguardian.com/world/2026/mar/15/french-local-elections-first-round-results",
+      "mean_score": 0.3275,
+      "vader_score": 0.5106,
+      "textblob_score": 0.1444,
+      "first_sentence": "The first-round of the French municipal elections have seen a strong showing for Marine Le Pen\u2019s far-right the National Rally (RN), as well as for Jean-Luc M\u00e9lenchon\u2019s radical left, with both parties likely to increase their local presence ahead of next year\u2019s French presidential race.",
+      "timestamp": "2026-03-15T22:26:03Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Live: Oscars underway as Amy Madigan and KPop Demon Hunters win early",
+      "link": "https://www.abc.net.au/news/2026-03-16/oscars-live-blog-latest-updates-jacob-elordi-rose-byrne/106346834",
+      "mean_score": 0.4657,
+      "vader_score": 0.5859,
+      "textblob_score": 0.3455,
+      "first_sentence": "The 98th Academy Awards are here! Australia's Rose Byrne and Jacob Elordi are in the running to win their first Oscars and potentially cap off an already successful awards season with the top honours.",
+      "timestamp": "2026-03-15T21:44:55Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Oscars 2026: the red carpet, the ceremony, the winners \u2013\u00a0follow the action live!",
       "link": "https://www.theguardian.com/film/live/2026/mar/15/oscars-2026-live-updates-red-carpet-ceremony-winners",
@@ -22,6 +72,16 @@
       "source": "ABC News"
     },
     {
+      "headline": "'The country is watching': Bernardi says One Nation must win seats in SA poll",
+      "link": "https://www.abc.net.au/news/2026-03-16/one-nation-predicts-strong-primary-vote-at-sa-election/106455334",
+      "mean_score": 0.6929,
+      "vader_score": 0.5859,
+      "textblob_score": 0.8,
+      "first_sentence": "One Nation's performance in recent polling has been one of the prominent themes of the SA election campaign.",
+      "timestamp": "2026-03-15T19:05:50Z",
+      "source": "ABC News"
+    },
+    {
       "headline": "'A dream come true': What life is like a year after The Piano",
       "link": "https://www.abc.net.au/news/2026-03-16/the-piano-where-are-they-now/106443040",
       "mean_score": 0.5465,
@@ -39,6 +99,16 @@
       "textblob_score": 0.4,
       "first_sentence": "Death, taxes and Chelsea women winning trophies.",
       "timestamp": "2026-03-15T16:32:55Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Manchester United sink Aston Villa to tighten grip on Champions League spot",
+      "link": "https://www.theguardian.com/football/2026/mar/15/manchester-united-aston-villa-premier-league-match-report",
+      "mean_score": 0.3675,
+      "vader_score": 0.7351,
+      "textblob_score": 0.0,
+      "first_sentence": "On 71 minutes a classic Manchester United riposte, via Matheus Cunha, to Ross Barkley\u2019s equaliser moments before.",
+      "timestamp": "2026-03-15T16:13:27Z",
       "source": "The Guardian"
     },
     {
@@ -2429,76 +2499,6 @@
       "textblob_score": 0.2222,
       "first_sentence": "Australia fell just short of defeating baseball giant Japan at the World Baseball Classic, the sport's premier event.",
       "timestamp": "2026-03-08T23:00:59Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "F1 fans have seen the new era in all its chaotic and thrilling glory",
-      "link": "https://www.abc.net.au/news/2026-03-09/new-f1-regulations-debut-at-australian-grand-prix/106430404",
-      "mean_score": 0.3599,
-      "vader_score": 0.5267,
-      "textblob_score": 0.1932,
-      "first_sentence": "If Formula 1's top brass were hoping the new regulations would provide a thrilling spectacle, then Sunday's reveal party was a success.",
-      "timestamp": "2026-03-08T22:17:05Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Clumber spaniel named Bruin wins best in show at Crufts 2026",
-      "link": "https://www.bbc.com/news/articles/crrxp4p8p77o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.743,
-      "vader_score": 0.836,
-      "textblob_score": 0.65,
-      "first_sentence": "A Clumber spaniel named Bruin has been crowned best in show at Crufts 2026.",
-      "timestamp": "2026-03-08T22:12:57Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Patient 'effectively ramped' for three days waiting for care",
-      "link": "https://www.abc.net.au/news/2026-03-09/patient-ramped-regional-hospital-for-three-days-before-transfer/106409094",
-      "mean_score": 0.6634,
-      "vader_score": 0.7269,
-      "textblob_score": 0.6,
-      "first_sentence": "When Riverland farmer Mick Evans had a suspected heart attack last year, he was stranded at a regional hospital for almost three days.",
-      "timestamp": "2026-03-08T22:02:33Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Who is Mojtaba Khamenei, Iran's new supreme leader?",
-      "link": "https://www.bbc.com/news/articles/c78xxg05w0zo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3469,
-      "vader_score": 0.5574,
-      "textblob_score": 0.1364,
-      "first_sentence": "Mojtaba Khamenei, the son of Iran's Ayatollah Ali Khamenei who was killed in US-Israeli strikes, has been chosen as his successor.",
-      "timestamp": "2026-03-08T21:51:48Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Four-year-old clumber spaniel called Bruin wins best in show at Crufts",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/mar/08/four-year-old-clumber-spaniel-called-bruin-wins-best-in-show-at-crufts",
-      "mean_score": 0.743,
-      "vader_score": 0.836,
-      "textblob_score": 0.65,
-      "first_sentence": "Bruin, a clumber spaniel, has won the best in show prize at Crufts, which took place at the National Exhibition Centre (NEC) in Birmingham.",
-      "timestamp": "2026-03-08T21:31:45Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Ali Khamenei\u2019s son Mojtaba chosen as Iran\u2019s new supreme leader",
-      "link": "https://www.theguardian.com/world/2026/mar/08/ali-khameneis-son-mojtaba-chosen-as-irans-new-supreme-leader",
-      "mean_score": 0.3469,
-      "vader_score": 0.5574,
-      "textblob_score": 0.1364,
-      "first_sentence": "Mojtaba Khamenei, the second son of the late Iranian supreme leader Ayatollah Ali Khamenei, has been chosen as his successor.",
-      "timestamp": "2026-03-08T21:20:49Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Charity seeing people who 'never thought' they'd need help as demand soars",
-      "link": "https://www.abc.net.au/news/2026-03-09/wattle-house-loses-federal-funding-vulnerable-people-at-risk/106397204",
-      "mean_score": 0.3062,
-      "vader_score": 0.6124,
-      "textblob_score": 0.0,
-      "first_sentence": "Wattle House, a charity in south-east Perth that provides food and financial assistance for people who are struggling, has lost its federal funding.",
-      "timestamp": "2026-03-08T21:07:32Z",
       "source": "ABC News"
     }
   ]
