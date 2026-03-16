@@ -1,5 +1,85 @@
 [
   {
+    "headline": "'Soft, friendly and some slobber': Crufts win puts Clumber spaniels in spotlight",
+    "link": "https://www.bbc.com/news/articles/cddnl91480qo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.6078,
+    "vader_score": 0.7906,
+    "textblob_score": 0.425,
+    "first_sentence": "The champion of Crufts, Bruin, is a breed you may not have heard of before - a Clumber spaniel.",
+    "timestamp": "2026-03-10T05:59:52Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Champions, captains and icons: The Iranian players granted asylum",
+    "link": "https://www.abc.net.au/news/2026-03-10/who-are-the-iranian-players-granted-asylum-after-asian-cup/106435656",
+    "mean_score": 0.3298,
+    "vader_score": 0.6597,
+    "textblob_score": 0.0,
+    "first_sentence": "Iran brought 26 players to Australia for the Women's Asian Cup and five of them have been granted asylum to avoid returning home.",
+    "timestamp": "2026-03-10T02:46:30Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "New Zealand Covid response among world\u2019s best but \u2018scars\u2019 remain, inquiry finds",
+    "link": "https://www.theguardian.com/world/2026/mar/10/new-zealand-covid-response-inquiry-royal-commission-findings",
+    "mean_score": 0.475,
+    "vader_score": 0.3818,
+    "textblob_score": 0.5682,
+    "first_sentence": "A royal commission into New Zealand\u2019s Covid response has found it was one of the best in the world but acknowledged the period had left \u201cscars\u201d.",
+    "timestamp": "2026-03-10T02:43:56Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Plan for thousands of new homes at 'one of Sydney's most vibrant areas'",
+    "link": "https://www.abc.net.au/news/2026-03-10/nsw-burwood-north-metro-rezoning-housing-jobs/106435512",
+    "mean_score": 0.4193,
+    "vader_score": 0.5709,
+    "textblob_score": 0.2677,
+    "first_sentence": "Rezoning in Sydney's inner west could see thousands of new homes around an upcoming metro station.",
+    "timestamp": "2026-03-10T01:44:53Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "NBA cancels team's plans to celebrate local Magic City strip club",
+    "link": "https://www.abc.net.au/news/2026-03-10/basketball-nba-cancels-atlanta-hawks-magic-city-promo-night/106435964",
+    "mean_score": 0.3357,
+    "vader_score": 0.4215,
+    "textblob_score": 0.25,
+    "first_sentence": "The NBA has cancelled the Atlanta Hawks' plans to celebrate the Magic City strip club.",
+    "timestamp": "2026-03-10T00:20:39Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "More whales are stranding. Now more people are needed to help them",
+    "link": "https://www.bbc.com/news/articles/cqlg4vl61kro?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4509,
+    "vader_score": 0.4019,
+    "textblob_score": 0.5,
+    "first_sentence": "More volunteers are being recruited to help rescue a growing number of whales, dolphins and porpoises washing up on UK shores.",
+    "timestamp": "2026-03-10T00:09:39Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Labor to pass super tax changes with support of Greens",
+    "link": "https://www.abc.net.au/news/2026-03-10/labor-to-pass-super-tax-changes-with-support-of-greens/106435670",
+    "mean_score": 0.5492,
+    "vader_score": 0.765,
+    "textblob_score": 0.3333,
+    "first_sentence": "Labor will pass legislation to increase the tax on those with super balances above $3 million, ending a years-long stalemate.",
+    "timestamp": "2026-03-09T23:58:43Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Rooster review \u2013 Steve Carell and a naked college president add wisdom to this cringe comedy drama",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/mar/09/rooster-review-steve-carell-comedy-drama",
+    "mean_score": 0.3548,
+    "vader_score": 0.7096,
+    "textblob_score": 0.0,
+    "first_sentence": "Humankind, as TS Eliot\u2019s bird said in Burnt Norton , cannot bear too much reality.",
+    "timestamp": "2026-03-09T22:40:00Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Morning Mail: five Iranian footballers granted humanitarian visas, Hanson secured solar rebate, Wallabies get boost",
     "link": "https://www.theguardian.com/australia-news/2026/mar/10/morning-mail-tuesday-ntwnfb",
     "mean_score": 0.3753,

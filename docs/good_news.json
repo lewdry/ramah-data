@@ -1,6 +1,86 @@
 {
-  "last run": "2026-03-16T12:16:57Z",
+  "last run": "2026-03-16T15:25:21Z",
   "stories": [
+    {
+      "headline": "Girl in meningitis outbreak was 'lovely and caring'",
+      "link": "https://www.bbc.com/news/articles/cp9mdxz4dd2o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.6453,
+      "vader_score": 0.7906,
+      "textblob_score": 0.5,
+      "first_sentence": "A sixth former who died following an outbreak of meningitis in Kent was \"genuinely caring\" and had a \"loving nature\", her head teacher has said.",
+      "timestamp": "2026-03-16T15:23:22Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Aaron Judge hails World Baseball Classic crowds as \u2018bigger and better than the World Series\u2019",
+      "link": "https://apnews.com/article/wbc-us-dominican-522c2d881f9834a5fc98e4dcd29359ea",
+      "mean_score": 0.3313,
+      "vader_score": 0.4404,
+      "textblob_score": 0.2222,
+      "first_sentence": "MIAMI (AP) \u2014 On a night when All-Stars and future Hall of Famers thrilled fans and each other until the final out, Aaron Judge proclaimed the World Baseball Classic had grown into the sport\u2019s biggest event.",
+      "timestamp": "2026-03-16T14:53:01Z",
+      "source": "AP News"
+    },
+    {
+      "headline": "Key Oscar moments: Paul Thomas Anderson and Amy Madigan wins, outstanding songs and sad goodbyes",
+      "link": "https://apnews.com/article/2026-oscars-best-moments-highlights-24c5cdbe4af2a91798a5ad61067732cb",
+      "mean_score": 0.3779,
+      "vader_score": 0.6808,
+      "textblob_score": 0.075,
+      "first_sentence": "It was a 3 hour and 40 minute whirl through cinema and celebration, with Michael B.",
+      "timestamp": "2026-03-16T14:23:01Z",
+      "source": "AP News"
+    },
+    {
+      "headline": "\u2018They become part of people\u2019s identity\u2019: how Australia fell in love with the Skywhales",
+      "link": "https://www.theguardian.com/artanddesign/ng-interactive/2026/mar/17/skywhales-hot-air-balloons-patricia-piccinini-australia",
+      "mean_score": 0.5685,
+      "vader_score": 0.6369,
+      "textblob_score": 0.5,
+      "first_sentence": "All around Australia, Patricia Piccinini has been approached by people who are rolling up a sleeve, tugging at a trouser leg, or even lifting their T-shirt.",
+      "timestamp": "2026-03-16T14:00:22Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018We did Disneyland on mind-altering substances\u2019: Primus frontman Les Claypool on being rock\u2019s great joker \u2013 and why Metallica rejected him",
+      "link": "https://www.theguardian.com/music/2026/mar/16/we-did-disneyland-on-mind-altering-substances-primus-frontman-les-claypool-on-being-rocks-great-joker-and-why-metallica-rejected-him",
+      "mean_score": 0.5591,
+      "vader_score": 0.3182,
+      "textblob_score": 0.8,
+      "first_sentence": "It was the first oddball creation of many: Primus\u2019s rubbery fusions of prog, metal and funk have made Claypool one of rock\u2019s most unlikely success stories.",
+      "timestamp": "2026-03-16T13:57:44Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Delight across Ireland at Jessie Buckley\u2019s \u2018historic\u2019 best actress Oscar win",
+      "link": "https://www.theguardian.com/culture/2026/mar/16/delight-ireland-jessie-buckley-historic-best-actress-oscar-win",
+      "mean_score": 0.7585,
+      "vader_score": 0.9169,
+      "textblob_score": 0.6,
+      "first_sentence": "Jessie Buckley\u2019s Oscar win has uncorked delight across Ireland and prompted an early start to St Patrick\u2019s Day celebrations.",
+      "timestamp": "2026-03-16T13:56:17Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Iranian footballer says 'everything will be fine' as she trains with Oz team",
+      "link": "https://www.bbc.com/news/articles/clyxwgll758o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3095,
+      "vader_score": 0.2023,
+      "textblob_score": 0.4167,
+      "first_sentence": "Two members of Iran's national women's football team who sought asylum in Australia have been pictured training at the grounds of the A-league football team Brisbane Roar.",
+      "timestamp": "2026-03-16T13:40:22Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "F\u00e0bregas outwits Gasperini to take controversial Como a step closer to Champions League | Nicky Bandini",
+      "link": "https://www.theguardian.com/football/2026/mar/16/serie-a-italy-como-roma-cesc-fabregas-gian-piero-gasperini",
+      "mean_score": 0.4659,
+      "vader_score": 0.3818,
+      "textblob_score": 0.55,
+      "first_sentence": "For once the TV cameras at the Stadio Giuseppe Sinigaglia had not picked out a Hollywood A-lister in the stands but a celebrity of calcio instead.",
+      "timestamp": "2026-03-16T13:31:51Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Better than Wuthering Heights? The Bront\u00ebs\u2019 novels \u2013 ranked!",
       "link": "https://www.theguardian.com/books/2026/mar/16/better-than-wuthering-heights-the-brontes-novels-ranked",
@@ -2420,86 +2500,6 @@
       "first_sentence": "Super Netball's 10th season will have a Kiwi flavour to it and it's left a sour taste in the mouths of diehard Australian supporters.",
       "timestamp": "2026-03-10T06:54:47Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "'Soft, friendly and some slobber': Crufts win puts Clumber spaniels in spotlight",
-      "link": "https://www.bbc.com/news/articles/cddnl91480qo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.6078,
-      "vader_score": 0.7906,
-      "textblob_score": 0.425,
-      "first_sentence": "The champion of Crufts, Bruin, is a breed you may not have heard of before - a Clumber spaniel.",
-      "timestamp": "2026-03-10T05:59:52Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Champions, captains and icons: The Iranian players granted asylum",
-      "link": "https://www.abc.net.au/news/2026-03-10/who-are-the-iranian-players-granted-asylum-after-asian-cup/106435656",
-      "mean_score": 0.3298,
-      "vader_score": 0.6597,
-      "textblob_score": 0.0,
-      "first_sentence": "Iran brought 26 players to Australia for the Women's Asian Cup and five of them have been granted asylum to avoid returning home.",
-      "timestamp": "2026-03-10T02:46:30Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "New Zealand Covid response among world\u2019s best but \u2018scars\u2019 remain, inquiry finds",
-      "link": "https://www.theguardian.com/world/2026/mar/10/new-zealand-covid-response-inquiry-royal-commission-findings",
-      "mean_score": 0.475,
-      "vader_score": 0.3818,
-      "textblob_score": 0.5682,
-      "first_sentence": "A royal commission into New Zealand\u2019s Covid response has found it was one of the best in the world but acknowledged the period had left \u201cscars\u201d.",
-      "timestamp": "2026-03-10T02:43:56Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Plan for thousands of new homes at 'one of Sydney's most vibrant areas'",
-      "link": "https://www.abc.net.au/news/2026-03-10/nsw-burwood-north-metro-rezoning-housing-jobs/106435512",
-      "mean_score": 0.4193,
-      "vader_score": 0.5709,
-      "textblob_score": 0.2677,
-      "first_sentence": "Rezoning in Sydney's inner west could see thousands of new homes around an upcoming metro station.",
-      "timestamp": "2026-03-10T01:44:53Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "NBA cancels team's plans to celebrate local Magic City strip club",
-      "link": "https://www.abc.net.au/news/2026-03-10/basketball-nba-cancels-atlanta-hawks-magic-city-promo-night/106435964",
-      "mean_score": 0.3357,
-      "vader_score": 0.4215,
-      "textblob_score": 0.25,
-      "first_sentence": "The NBA has cancelled the Atlanta Hawks' plans to celebrate the Magic City strip club.",
-      "timestamp": "2026-03-10T00:20:39Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "More whales are stranding. Now more people are needed to help them",
-      "link": "https://www.bbc.com/news/articles/cqlg4vl61kro?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4509,
-      "vader_score": 0.4019,
-      "textblob_score": 0.5,
-      "first_sentence": "More volunteers are being recruited to help rescue a growing number of whales, dolphins and porpoises washing up on UK shores.",
-      "timestamp": "2026-03-10T00:09:39Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Labor to pass super tax changes with support of Greens",
-      "link": "https://www.abc.net.au/news/2026-03-10/labor-to-pass-super-tax-changes-with-support-of-greens/106435670",
-      "mean_score": 0.5492,
-      "vader_score": 0.765,
-      "textblob_score": 0.3333,
-      "first_sentence": "Labor will pass legislation to increase the tax on those with super balances above $3 million, ending a years-long stalemate.",
-      "timestamp": "2026-03-09T23:58:43Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Rooster review \u2013 Steve Carell and a naked college president add wisdom to this cringe comedy drama",
-      "link": "https://www.theguardian.com/tv-and-radio/2026/mar/09/rooster-review-steve-carell-comedy-drama",
-      "mean_score": 0.3548,
-      "vader_score": 0.7096,
-      "textblob_score": 0.0,
-      "first_sentence": "Humankind, as TS Eliot\u2019s bird said in Burnt Norton , cannot bear too much reality.",
-      "timestamp": "2026-03-09T22:40:00Z",
-      "source": "The Guardian"
     }
   ]
 }
