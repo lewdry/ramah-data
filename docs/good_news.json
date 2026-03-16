@@ -1,6 +1,56 @@
 {
-  "last run": "2026-03-16T04:01:09Z",
+  "last run": "2026-03-16T06:32:23Z",
   "stories": [
+    {
+      "headline": "TikTok and Meta risked safety to win algorithm arms race, whistleblowers say",
+      "link": "https://www.bbc.com/news/articles/cqj9kgxqjwjo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.7454,
+      "vader_score": 0.6908,
+      "textblob_score": 0.8,
+      "first_sentence": "Social media giants made decisions which allowed more harmful content on people's feeds, after internal research into their algorithms showed how outrage fuelled engagement, whistleblowers told the BBC.",
+      "timestamp": "2026-03-16T06:10:55Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Petrol is running out! Is it time to panic?! Help help | First Dog on the Moon",
+      "link": "https://www.theguardian.com/commentisfree/picture/2026/mar/16/petrol-is-running-out-is-it-time-to-panic-help-help",
+      "mean_score": 0.3244,
+      "vader_score": 0.3987,
+      "textblob_score": 0.25,
+      "first_sentence": "The government is asking people to remain calm which is always a sign that it is time to flip out massivelySign up here to get an email whenever First Dog cartoons are publishedGet all your needs met at the First Dog shop if what you need is First Dog merchandise and prints Continue reading.",
+      "timestamp": "2026-03-16T06:10:05Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "5 takeaways from an Oscars night that spread the love",
+      "link": "https://www.npr.org/2026/03/16/nx-s1-5739288/oscars-2026-takeaways-winners-best-picture-actor",
+      "mean_score": 0.5685,
+      "vader_score": 0.6369,
+      "textblob_score": 0.5,
+      "first_sentence": "As Sunday's Oscars ceremony approached, it seemed to be shaping up to be a showdown between the vampires and the revolutionaries, between Sinners and One Battle After Another.",
+      "timestamp": "2026-03-16T04:34:40Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "\u2018Next year, it\u2019s going to be a Waymo in a tux\u2019: the best quotes from Oscars 2026",
+      "link": "https://www.theguardian.com/film/2026/mar/15/oscars-2026-best-quotes-waymo-ballet",
+      "mean_score": 0.5685,
+      "vader_score": 0.6369,
+      "textblob_score": 0.5,
+      "first_sentence": "Hathaway: Anna, just curious, what do you think of my dress tonight?.",
+      "timestamp": "2026-03-16T04:14:09Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "New rock monitor lizard species reveals remarkable evolutionary story",
+      "link": "https://www.abc.net.au/news/2026-03-16/new-rock-monitor-species-north-queensland-savanna/106459522",
+      "mean_score": 0.5003,
+      "vader_score": 0.5574,
+      "textblob_score": 0.4432,
+      "first_sentence": "Three new species of rock monitor lizards previously unknown to science have been formally described in Far North Queensland.",
+      "timestamp": "2026-03-16T04:11:15Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Historic firsts, risqu\u00e9 jokes, and a tie - watch the top moments",
       "link": "https://www.bbc.com/news/videos/cedzq0q6x5lo?at_medium=RSS&at_campaign=rss",
@@ -30,6 +80,16 @@
       "first_sentence": "Kpop Demon Hunters has won best animated film at the Oscars on Sunday evening - the latest in a growing list of accolades for the movie that has swept the world since it was released last summer.",
       "timestamp": "2026-03-16T02:39:01Z",
       "source": "BBC News"
+    },
+    {
+      "headline": "Sinners\u2019 Autumn Durald Arkapaw becomes first woman \u2013 and first black person \u2013 to win best cinematography Oscar",
+      "link": "https://www.theguardian.com/film/2026/mar/16/sinners-autumn-durald-arkapaw-is-first-woman-to-win-best-cinematography-oscar",
+      "mean_score": 0.6334,
+      "vader_score": 0.8402,
+      "textblob_score": 0.4267,
+      "first_sentence": "Sinners\u2019 director of photography Autumn Durald Arkapaw has become the first woman to win the Oscar for best cinematography at the 98th Academy Awards.",
+      "timestamp": "2026-03-16T01:50:17Z",
+      "source": "The Guardian"
     },
     {
       "headline": "Mr Nobody Against Putin wins the best documentary Oscar",
@@ -2440,66 +2500,6 @@
       "first_sentence": "For 11 days in late summer 2025, Aleksey Maro found himself in the Ugandan rainforest, doing whatever he could to collect chimpanzee urine.",
       "timestamp": "2026-03-09T10:00:00Z",
       "source": "NPR News"
-    },
-    {
-      "headline": "Stock markets plunge after oil surges over $100 a barrel, wiping out hopes of UK interest rate cut \u2013 business live",
-      "link": "https://www.theguardian.com/business/live/2026/mar/09/stock-markets-plunge-oil-over-100-a-barrel-g7-emergency-oil-reserves-news-updates",
-      "mean_score": 0.3541,
-      "vader_score": 0.5719,
-      "textblob_score": 0.1364,
-      "first_sentence": "Good morning, and welcome to our rolling coverage of business, the financial markets and the world economy.",
-      "timestamp": "2026-03-09T09:09:51Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Love Magic Power Danger Bliss by Paul Morley review \u2013 reappraising Yoko Ono",
-      "link": "https://www.theguardian.com/books/2026/mar/09/love-magic-power-danger-bliss-by-paul-morley-review-reappraising-yoko-ono",
-      "mean_score": 0.5853,
-      "vader_score": 0.6705,
-      "textblob_score": 0.5,
-      "first_sentence": "John Lennon once described Yoko Ono as \u201cthe world\u2019s most famous unknown artist.",
-      "timestamp": "2026-03-09T09:00:43Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Why Train Dreams should win the best picture Oscar",
-      "link": "https://www.theguardian.com/film/2026/mar/09/why-train-dreams-should-win-the-best-picture-oscar",
-      "mean_score": 0.8967,
-      "vader_score": 0.8934,
-      "textblob_score": 0.9,
-      "first_sentence": "Train Dreams is arguably the lowest-profile of all the Oscar best film nominees, and could have easily passed me by, destined instead to be lost in the sprawling Netflix library, if it weren\u2019t for a phone call with a friend last year.",
-      "timestamp": "2026-03-09T08:00:43Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Leeds return from wilderness with Rhinos resurgence an asset for Super League",
-      "link": "https://www.theguardian.com/sport/2026/mar/09/leeds-rhinos-castleford-tigers-super-league-rugby-league",
-      "mean_score": 0.542,
-      "vader_score": 0.7506,
-      "textblob_score": 0.3333,
-      "first_sentence": "With the prospect of National Rugby League investment in Super League \u2013 however that may look, and with whatever level of control the Australian authorities want to overhaul the British game \u2013 now at boiling point, there has been a lot of discussion lately about what Super League does, and perhaps does not, need.",
-      "timestamp": "2026-03-09T08:00:43Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Is it true that \u2026 if you pluck a grey hair, two will grow in its place?",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/mar/09/grey-hair-plucking-thinning-growth",
-      "mean_score": 0.3044,
-      "vader_score": 0.4588,
-      "textblob_score": 0.15,
-      "first_sentence": "Unfortunately, it\u2019s a myth.",
-      "timestamp": "2026-03-09T08:00:42Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "A loving homage to pop culture\u2019s also-rans: best podcasts of the week",
-      "link": "https://www.theguardian.com/tv-and-radio/2026/mar/09/a-loving-homage-to-pop-cultures-also-rans-best-podcasts-of-the-week",
-      "mean_score": 0.8221,
-      "vader_score": 0.8442,
-      "textblob_score": 0.8,
-      "first_sentence": "Maisie Adam and Scott Bryan talk comically and sensitively to people who found sudden tabloid and early internet fame in the 00s.",
-      "timestamp": "2026-03-09T07:00:43Z",
-      "source": "The Guardian"
     }
   ]
 }
