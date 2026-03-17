@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-17T03:49:08Z",
+  "last run": "2026-03-17T06:23:25Z",
   "stories": [
+    {
+      "headline": "And the burger goes to... Michael B Jordan marks Oscars win at fast food chain",
+      "link": "https://www.bbc.com/news/articles/cpd8w5y0dpdo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.543,
+      "vader_score": 0.5859,
+      "textblob_score": 0.5,
+      "first_sentence": "After he was handed a statuette for best actor at the Academy Awards, Michael B Jordan received another golden prize - a cheeseburger.",
+      "timestamp": "2026-03-17T04:41:58Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Australia news live: fresh blow to mortgage holders as RBA hikes official interest rate to 4.1% in second consecutive increase",
       "link": "https://www.theguardian.com/australia-news/live/2026/mar/17/bowen-rba-interest-rates-decision-cost-of-living-inflation-fuel-price-shortages-petrol-jim-chalmers-economy-war-iran-anthony-albanese-ntwnfb",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.0,
       "first_sentence": "A building site, but make it chic: that was the set for Chanel\u2019s Paris fashion week show.",
       "timestamp": "2026-03-10T14:29:42Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Perfect chopped chives are a status symbol for chefs. Can I learn to master \u2018green confetti\u2019?",
-      "link": "https://www.theguardian.com/food/2026/mar/10/perfect-chopped-chives-chef-status-symbol",
-      "mean_score": 0.4859,
-      "vader_score": 0.5719,
-      "textblob_score": 0.4,
-      "first_sentence": "My goal: a perfect 10 from Rate My Chives, the \u2018number one authority on chives worldwide\u2019.",
-      "timestamp": "2026-03-10T14:00:08Z",
       "source": "The Guardian"
     }
   ]
