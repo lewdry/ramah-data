@@ -1,5 +1,55 @@
 [
   {
+    "headline": "Philippines celebrate as jaw-dropping free kick lights up group stage finale",
+    "link": "https://www.abc.net.au/news/2026-03-11/stunning-free-kick-philippines-progress-womens-asian-cup/106438682",
+    "mean_score": 0.5953,
+    "vader_score": 0.7906,
+    "textblob_score": 0.4,
+    "first_sentence": "On a night that featured two high-stakes games played simultaneously on opposite sides of the country, it was a team that spent the evening huddled nervously around the television that ended it with the most to celebrate.",
+    "timestamp": "2026-03-10T19:12:13Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Galatasaray v Liverpool: Champions League last-16, first leg \u2013 live",
+    "link": "https://www.theguardian.com/football/live/2026/mar/10/galatasaray-v-liverpool-champions-league-last-16-first-leg-live",
+    "mean_score": 0.3599,
+    "vader_score": 0.5267,
+    "textblob_score": 0.1932,
+    "first_sentence": "As for the Galatasaray team \u2026 there is just one change to their starting XI from the 2-3 loss at Juventus last month.",
+    "timestamp": "2026-03-10T17:06:11Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Dr Xand on the wellness benefits of knitting",
+    "link": "https://www.bbc.com/news/videos/crl4w609lpyo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3352,
+    "vader_score": 0.6705,
+    "textblob_score": 0.0,
+    "first_sentence": "Listen to What's Up Docs? on BBc Sounds.",
+    "timestamp": "2026-03-10T16:24:38Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Ladies Day returns to Cheltenham festival promising \u2018glamour and glory\u2019",
+    "link": "https://www.theguardian.com/sport/2026/mar/10/ladies-day-returns-cheltenham-festival-glamour-glory",
+    "mean_score": 0.4548,
+    "vader_score": 0.7096,
+    "textblob_score": 0.2,
+    "first_sentence": "First and foremost, it is a huge sporting event, billed by its fans as the Olympics of jump racing \u2013 but it can also act as a social barometer, giving clues as to the state and mood of the nation.",
+    "timestamp": "2026-03-10T15:00:52Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Matthieu Blazy\u2019s Chanel show celebrates and plays with brand\u2019s history",
+    "link": "https://www.theguardian.com/fashion/2026/mar/10/matthieu-blazy-chanel-paris-fashion-week-show",
+    "mean_score": 0.3454,
+    "vader_score": 0.6908,
+    "textblob_score": 0.0,
+    "first_sentence": "A building site, but make it chic: that was the set for Chanel\u2019s Paris fashion week show.",
+    "timestamp": "2026-03-10T14:29:42Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Perfect chopped chives are a status symbol for chefs. Can I learn to master \u2018green confetti\u2019?",
     "link": "https://www.theguardian.com/food/2026/mar/10/perfect-chopped-chives-chef-status-symbol",
     "mean_score": 0.4859,
