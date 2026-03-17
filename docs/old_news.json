@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Eni Aluko wins Joey Barton libel case over X posts",
+    "link": "https://www.bbc.com/news/articles/c8eg2n83y1eo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4359,
+    "vader_score": 0.5719,
+    "textblob_score": 0.3,
+    "first_sentence": "Former England footballer and pundit Eni Aluko has been awarded more than \u00a3300,000 damages and legal costs after suing Joey Barton for libel over social media posts.",
+    "timestamp": "2026-03-10T13:27:46Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Families welcome appointment of Donna Ockenden to Leeds maternity inquiry",
+    "link": "https://www.theguardian.com/uk-news/2026/mar/10/donna-ockenden-appointment-leeds-maternity-inquiry",
+    "mean_score": 0.6294,
+    "vader_score": 0.4588,
+    "textblob_score": 0.8,
+    "first_sentence": "Families who lost babies at two hospitals in Leeds have said they are slowly regaining trust in the health secretary after the midwife Donna Ockenden was appointed to lead a review into the failing service, where 56 babies and two mothers died in five years.",
+    "timestamp": "2026-03-10T13:00:05Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "How a bid for freedom by Iran\u2019s women footballers went deep into extra time",
+    "link": "https://www.theguardian.com/australia-news/2026/mar/10/how-iranian-women-footballers-bid-for-freedom-went-deep-into-extra-time",
+    "mean_score": 0.3185,
+    "vader_score": 0.6369,
+    "textblob_score": 0.0,
+    "first_sentence": "As the Philippines\u2019 second goal sailed untouched into the back of the net, sealing their victory, the clock started ticking for their opponents: the Iranian women\u2019s team were now out of the Asia Cup tournament.",
+    "timestamp": "2026-03-10T11:34:50Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Georgia voters to pick replacement for Marjorie Taylor Greene in special election",
+    "link": "https://www.bbc.com/news/articles/c77ey1v7jrzo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3795,
+    "vader_score": 0.4019,
+    "textblob_score": 0.3571,
+    "first_sentence": "Her name isn't on the ballot.",
+    "timestamp": "2026-03-10T10:47:08Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Under financial strain, primary care doctors unite",
     "link": "https://www.npr.org/2026/03/10/nx-s1-5707306/under-financial-strain-primary-care-doctors-unite",
     "mean_score": 0.3294,
