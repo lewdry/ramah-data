@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-16T21:13:26Z",
+  "last run": "2026-03-17T00:20:33Z",
   "stories": [
+    {
+      "headline": "Train delays: compensation claims to be easier under Great British Railways",
+      "link": "https://www.theguardian.com/business/2026/mar/17/train-delays-compensation-claims-great-british-railways",
+      "mean_score": 0.5922,
+      "vader_score": 0.7845,
+      "textblob_score": 0.4,
+      "first_sentence": "Rail passengers will be able to claim compensation for delayed trains directly from the website where they bought their ticket, the government has said, as part of a shake-up to make rail travel simpler.",
+      "timestamp": "2026-03-17T00:01:33Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Which Oscar-winning movie best reflects our reality? | Fiona Katauskas",
+      "link": "https://www.theguardian.com/commentisfree/picture/2026/mar/17/which-oscar-winning-movie-best-reflects-our-reality",
+      "mean_score": 0.8185,
+      "vader_score": 0.6369,
+      "textblob_score": 1.0,
+      "first_sentence": "Truth is sometimes stranger than fictionSee more of Fiona Katauskas\u2019s cartoons here Continue reading.",
+      "timestamp": "2026-03-16T23:32:29Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "\u2018The Premier League is surprisingly lenient\u2019: did Chelsea get off lightly?",
       "link": "https://www.theguardian.com/football/2026/mar/16/the-premier-league-is-surprisingly-lenient-did-chelsea-get-off-lighly",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Her name isn't on the ballot.",
       "timestamp": "2026-03-10T10:47:08Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Under financial strain, primary care doctors unite",
-      "link": "https://www.npr.org/2026/03/10/nx-s1-5707306/under-financial-strain-primary-care-doctors-unite",
-      "mean_score": 0.3294,
-      "vader_score": 0.4588,
-      "textblob_score": 0.2,
-      "first_sentence": "Under increasing financial stress, primary care practices across the U.S.",
-      "timestamp": "2026-03-10T09:59:56Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Crowded field of candidates compete to replace MTG in Georgia special election",
-      "link": "https://www.npr.org/2026/03/10/nx-s1-5742711/georgia-special-election-mtg-trump-fuller-moore",
-      "mean_score": 0.3795,
-      "vader_score": 0.4019,
-      "textblob_score": 0.3571,
-      "first_sentence": "ATLANTA \u2014 Democrat Shawn Harris and Trump-endorsed Republican Clay Fuller will advance to an April runoff in a race to replace former Republican Rep.",
-      "timestamp": "2026-03-10T09:00:00Z",
-      "source": "NPR News"
     }
   ]
 }
