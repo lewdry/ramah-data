@@ -1,6 +1,76 @@
 {
-  "last run": "2026-03-17T18:19:24Z",
+  "last run": "2026-03-17T21:12:55Z",
   "stories": [
+    {
+      "headline": "Adelaide 36ers into their first NBL grand final since 2018",
+      "link": "https://www.abc.net.au/news/2026-03-18/bryce-cotton-steers-adelaide-36ers-into-nbl-grand-final/106466856",
+      "mean_score": 0.3544,
+      "vader_score": 0.4588,
+      "textblob_score": 0.25,
+      "first_sentence": "The Adelaide 36ers have secured their first NBL grand final berth since 2018.",
+      "timestamp": "2026-03-17T21:11:45Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Matildas coach explains Raso absence in Asian Cup semifinal win over China",
+      "link": "https://www.abc.net.au/news/2026-03-18/joe-montemurro-explains-hayley-raso-absence-matildas-china/106466894",
+      "mean_score": 0.4242,
+      "vader_score": 0.5859,
+      "textblob_score": 0.2625,
+      "first_sentence": "Matildas coach Joe Montemurro has revealed his decision not to play Hayley Raso in the 2-1 semifinal win over China was purely tactical, declaring the star winger fit to go for Saturday's decider.",
+      "timestamp": "2026-03-17T21:06:21Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Live: Chance of RBA interest rate hike in May drops to 40pc, ASX likely to rise",
+      "link": "https://www.abc.net.au/news/2026-03-18/asx-markets-business-live-news-march-18/106466908",
+      "mean_score": 0.3403,
+      "vader_score": 0.6124,
+      "textblob_score": 0.0682,
+      "first_sentence": "The likelihood of a follow-up interest rate hike in May may has fallen substantially after the Reserve Bank's 5-4 vote in favour of yesterday's rate increase \u2014 the slimmest of majorities.",
+      "timestamp": "2026-03-17T21:00:57Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Manchester City v Real Madrid: Champions League last 16, second leg \u2013 live",
+      "link": "https://www.theguardian.com/football/live/2026/mar/17/manchester-city-v-real-madrid-champions-league-last-16-second-leg-live",
+      "mean_score": 0.3054,
+      "vader_score": 0.5267,
+      "textblob_score": 0.0841,
+      "first_sentence": "50 min Doku has played well tonight, picking really clever passes, and with Alexander-Arnold expecting to be run it, instead he punches a square pass to Haaland who shoots \u2026 and Lunin parries really well, the rebound falling back to the Norwegian Les Dawson \u2026 who shoots over.",
+      "timestamp": "2026-03-17T20:57:24Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Reform UK may breach data laws with free energy bills competition",
+      "link": "https://www.theguardian.com/politics/2026/mar/17/reform-uk-may-breach-data-laws-free-energy-bills-competition",
+      "mean_score": 0.5298,
+      "vader_score": 0.6597,
+      "textblob_score": 0.4,
+      "first_sentence": "Reform UK risks breaching data protection laws with its competition to win free energy bills for a year, lawyers and data experts have warned.",
+      "timestamp": "2026-03-17T19:34:21Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Report finds 'significant and sustained shift' in support for salmon industry",
+      "link": "https://www.abc.net.au/news/2026-03-18/tas-support-for-tasmanian-salmon-industry-drops/106462820",
+      "mean_score": 0.4587,
+      "vader_score": 0.5423,
+      "textblob_score": 0.375,
+      "first_sentence": "A report by Australia's national science agency has found Tasmania's salmon farming industry has experienced a \"significant and sustained shift\" away from strong community support it experienced a decade ago.",
+      "timestamp": "2026-03-17T19:07:02Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "'You have to laugh': Why this critique of corporate work culture is a comedy",
+      "link": "https://www.abc.net.au/news/2026-03-18/do-not-pass-go-mtc-jean-tong/106461264",
+      "mean_score": 0.4385,
+      "vader_score": 0.7269,
+      "textblob_score": 0.15,
+      "first_sentence": "Do Not Pass Go is a play set entirely in one room of a workplace, but we never find out what the work actually is.",
+      "timestamp": "2026-03-17T18:30:00Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Mayors to gain more spending power under Reeves tax plans",
       "link": "https://www.bbc.com/news/articles/c0k16zdr1r1o?at_medium=RSS&at_campaign=rss",
@@ -70,6 +140,16 @@
       "first_sentence": "A charity is giving away packs which they claim could reduce energy bills by up to \u00a3800 per year.",
       "timestamp": "2026-03-17T11:25:06Z",
       "source": "BBC News"
+    },
+    {
+      "headline": "The Breakdown | From Ramos to Carr\u00e9: selecting the best XV of the 2026 Six Nations",
+      "link": "https://www.theguardian.com/sport/2026/mar/17/ramos-carre-selecting-best-xv-2026-six-nations-rugby-union-breakdown",
+      "mean_score": 0.8185,
+      "vader_score": 0.6369,
+      "textblob_score": 1.0,
+      "first_sentence": "15.",
+      "timestamp": "2026-03-17T11:01:55Z",
+      "source": "The Guardian"
     },
     {
       "headline": "David Squires on \u2026 Max Dowman, Arsenal\u2019s great release and Chelsea\u2019s Tierney totem",
@@ -2420,86 +2500,6 @@
       "first_sentence": "It has been exactly a year since bin workers in Birmingham staged an all-out strike, with no current negotiations or seeming end in sight.",
       "timestamp": "2026-03-11T06:20:13Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "If plant-based foods must be more honest, let\u2019s do the same for meat \u2013 fancy some \u2018cow muscle\u2019? | Deirdra Barr",
-      "link": "https://www.theguardian.com/commentisfree/2026/mar/11/plant-based-foods-honest-meat-cow-muscle-eu-rules-ban-veggie",
-      "mean_score": 0.399,
-      "vader_score": 0.5563,
-      "textblob_score": 0.2417,
-      "first_sentence": "Last week, European policymakers decided that plant-based foods should no longer be marketed with terms such as \u201cchicken\u201d, \u201cbacon\u201d or \u201csteak\u201d.",
-      "timestamp": "2026-03-11T06:00:13Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "'Everyone wants to know my true Kinky Boots story'",
-      "link": "https://www.bbc.com/news/articles/c1w5yy1e5plo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3483,
-      "vader_score": 0.4215,
-      "textblob_score": 0.275,
-      "first_sentence": "Everyone wants to know the \"true story\" of Kinky Boots, said the man who inspired the film that went on to become a hit musical.",
-      "timestamp": "2026-03-11T05:43:44Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "The Perth Festival shows it's well and truly back post-COVID",
-      "link": "https://www.abc.net.au/news/2026-03-11/six-shows-we-loved-at-perth-festival/106432576",
-      "mean_score": 0.401,
-      "vader_score": 0.802,
-      "textblob_score": 0.0,
-      "first_sentence": "After taking the reins in 2025, this year's Perth Festival was a chance for artistic director Anna Reece to consolidate the ideas she set in motion last year.",
-      "timestamp": "2026-03-11T04:00:00Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Joy prevails at WOMADelaide 2026",
-      "link": "https://www.abc.net.au/news/2026-03-11/womadelaide-festival-review-2026/106363674",
-      "mean_score": 0.6929,
-      "vader_score": 0.5859,
-      "textblob_score": 0.8,
-      "first_sentence": "No matter who is playing, attending WOMADelaide tends to be an emotional experience.",
-      "timestamp": "2026-03-11T03:29:00Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Politics live: Spender says tax system \u2018no longer fit for purpose\u2019; Palmer vows to mail ads to all Australians as he announces run for parliament",
-      "link": "https://www.theguardian.com/australia-news/live/2026/mar/11/federal-politics-updates-iran-womens-football-team-asylum-anthony-albanese-tony-burke-labor-angus-taylor-coalition-ntwnfb",
-      "mean_score": 0.3147,
-      "vader_score": 0.3612,
-      "textblob_score": 0.2682,
-      "first_sentence": "Independent MP Allegra Spender says our tax system is \u201cno longer fit for purpose\u201d, as she releases a reform plan that would tax the owners of capital more and deliver tax relief for working Australians.",
-      "timestamp": "2026-03-11T02:40:19Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018My lovely distraction\u2019: Live stream of k\u0101k\u0101p\u014d \u2013 world\u2019s fattest parrot \u2013 and her chicks captivates New Zealand",
-      "link": "https://www.theguardian.com/world/2026/mar/11/kakapo-cam-live-stream-parrot-new-zealand",
-      "mean_score": 0.4217,
-      "vader_score": 0.5859,
-      "textblob_score": 0.2576,
-      "first_sentence": "On an island in New Zealand\u2019s remote southern fjords, one of the world\u2019s strangest and rarest parrots \u2013 the k\u0101k\u0101p\u014d \u2013 is caring for her tiny chick as fans from across the globe watch on.",
-      "timestamp": "2026-03-11T01:03:28Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Hawaii braces for powerful kona storm bringing heavy rain and strong winds",
-      "link": "https://www.theguardian.com/us-news/2026/mar/10/hawaii-kona-storm-winds",
-      "mean_score": 0.4523,
-      "vader_score": 0.7269,
-      "textblob_score": 0.1778,
-      "first_sentence": "Hawaii is preparing for a powerful storm this week that is expected to cause intense winds, thunderstorms and possibly significant flooding across multiple islands.",
-      "timestamp": "2026-03-11T00:13:31Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Indigenous dance academy celebrates 50 years of cultural pride",
-      "link": "https://www.abc.net.au/news/2026-03-11/naisda-indigenous-dance-college-50-years/106418320",
-      "mean_score": 0.4134,
-      "vader_score": 0.7269,
-      "textblob_score": 0.1,
-      "first_sentence": "Chetachi Nwaogiza has never felt more alive than when he is dancing.",
-      "timestamp": "2026-03-10T23:59:55Z",
-      "source": "ABC News"
     }
   ]
 }
