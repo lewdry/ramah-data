@@ -1,5 +1,55 @@
 [
   {
+    "headline": "Rapper Lil\u2019 Kim to headline both Vivid Sydney and Melbourne\u2019s 2026 Rising festival",
+    "link": "https://www.theguardian.com/culture/2026/mar/10/melbourne-rising-festival-lineup-lil-kim",
+    "mean_score": 0.3095,
+    "vader_score": 0.4939,
+    "textblob_score": 0.125,
+    "first_sentence": "The pioneering female rapper Lil\u2019 Kim will headline both Vivid Sydney and Melbourne\u2019s Rising this year, as each festival revealed its programs on Wednesday.",
+    "timestamp": "2026-03-10T22:00:10Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Musk\u2019s xAI wins permit for datacenter\u2019s makeshift power plant despite backlash",
+    "link": "https://www.theguardian.com/technology/2026/mar/10/elon-musk-xai-data-centers",
+    "mean_score": 0.4359,
+    "vader_score": 0.5719,
+    "textblob_score": 0.3,
+    "first_sentence": "Elon Musk\u2019s artificial intelligence company xAI won approval on Tuesday to run 41 methane gas turbines at its \u201cColossus 2\u201d datacenter in northern Mississippi.",
+    "timestamp": "2026-03-10T21:15:31Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Happy birthday to the telephone \u2014 oh, how you've grown in 150 years!",
+    "link": "https://www.npr.org/2026/03/10/nx-s1-5726812/happy-birthday-to-the-telephone-oh-how-youve-grown-in-150-years",
+    "mean_score": 0.8057,
+    "vader_score": 0.6114,
+    "textblob_score": 1.0,
+    "first_sentence": "These days, our phones are basically extensions of our bodies.",
+    "timestamp": "2026-03-10T20:05:45Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "Why this popular dairy product has been flying off the shelf",
+    "link": "https://www.abc.net.au/news/2026-03-11/why-there-is-a-greek-yoghurt-shortage-in-australia/106435584",
+    "mean_score": 0.5108,
+    "vader_score": 0.4215,
+    "textblob_score": 0.6,
+    "first_sentence": "Customers strolling through the refrigerated aisle at Australia's major supermarkets might notice a shortage of Greek yoghurt.",
+    "timestamp": "2026-03-10T19:41:19Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "US weighs sending forces into Iran to secure nuclear stockpile, reports say",
+    "link": "https://www.theguardian.com/world/2026/mar/10/us-weighs-sending-forces-into-iran-to-secure-nuclear-stockpile-reports-say",
+    "mean_score": 0.37,
+    "vader_score": 0.34,
+    "textblob_score": 0.4,
+    "first_sentence": "The Trump administration is reportedly considering the deployment of special forces into Iran to secure its stockpile of highly enriched uranium (HEU), which experts say could be used to make at least 10 nuclear warheads.",
+    "timestamp": "2026-03-10T19:28:10Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Philippines celebrate as jaw-dropping free kick lights up group stage finale",
     "link": "https://www.abc.net.au/news/2026-03-11/stunning-free-kick-philippines-progress-womens-asian-cup/106438682",
     "mean_score": 0.5953,

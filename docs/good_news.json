@@ -1,6 +1,46 @@
 {
-  "last run": "2026-03-17T09:19:13Z",
+  "last run": "2026-03-17T12:16:05Z",
   "stories": [
+    {
+      "headline": "Rachel Reeves to call for rapid AI adoption and deeper ties with EU to boost growth \u2013 business live",
+      "link": "https://www.theguardian.com/business/live/2026/mar/17/rachel-reeves-mais-lecture-ai-adoption-deeper-eu-ties-regional-growth-business-live-news-updates",
+      "mean_score": 0.3925,
+      "vader_score": 0.6486,
+      "textblob_score": 0.1364,
+      "first_sentence": "Good morning, and welcome to our rolling coverage of business, the financial markets and the world economy.",
+      "timestamp": "2026-03-17T11:41:42Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Free energy packs 'to reduce bills by up to \u00a3800'",
+      "link": "https://www.bbc.com/news/articles/c99jednepllo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5298,
+      "vader_score": 0.6597,
+      "textblob_score": 0.4,
+      "first_sentence": "A charity is giving away packs which they claim could reduce energy bills by up to \u00a3800 per year.",
+      "timestamp": "2026-03-17T11:25:06Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "David Squires on \u2026 Max Dowman, Arsenal\u2019s great release and Chelsea\u2019s Tierney totem",
+      "link": "https://www.theguardian.com/football/picture/2026/mar/17/david-squires-on-max-dowman-arsenal-great-release-and-chelsea-tierney-totem",
+      "mean_score": 0.7125,
+      "vader_score": 0.6249,
+      "textblob_score": 0.8,
+      "first_sentence": "Our cartoonist on the Gunners\u2019 teenage saviour and a new springtime ritual at Stamford BridgeBuy a cartoon | David\u2019s favourite works of 2025And his latest book, Chaos in the Box: get it now Continue reading.",
+      "timestamp": "2026-03-17T10:55:56Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Is there a more fair way to sell World Cup tickets?",
+      "link": "https://www.npr.org/sections/planet-money/2026/03/17/g-s1-113996/is-there-a-more-fair-way-to-sell-world-cup-tickets",
+      "mean_score": 0.4902,
+      "vader_score": 0.3804,
+      "textblob_score": 0.6,
+      "first_sentence": "Last October, I had a decision to make.",
+      "timestamp": "2026-03-17T10:30:00Z",
+      "source": "NPR News"
+    },
     {
       "headline": "Why we fell in love with Love Story: JFK Jr and Carolyn Bessette",
       "link": "https://www.theguardian.com/tv-and-radio/2026/mar/17/love-story-jfk-jr-carolyn-bessette",
@@ -50,6 +90,16 @@
       "first_sentence": "From fluffy owlets to rosy-hued flamingos, Claire Rosen\u2019s portraits of live birds took her on a journey that touched on colonialism, wallpaper design \u2026 and chickens Continue reading.",
       "timestamp": "2026-03-17T07:00:41Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "Are football Ultras a menace or a force for good?",
+      "link": "https://www.bbc.com/news/articles/cg5nlvmy2rmo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3114,
+      "vader_score": -0.0772,
+      "textblob_score": 0.7,
+      "first_sentence": "Smoke bombs, pyrotechnics, balaclavas and punch-ups - welcome to the world of the football Ultras.",
+      "timestamp": "2026-03-17T06:15:46Z",
+      "source": "BBC News"
     },
     {
       "headline": "And the burger goes to... Michael B Jordan marks Oscars win at fast food chain",
@@ -2449,56 +2499,6 @@
       "textblob_score": 0.1932,
       "first_sentence": "It was a night when the Tyneside passions pulsed; the nervous energy, too, because this was something unprecedented \u2013 a first Champions League knockout tie in Newcastle\u2019s history.",
       "timestamp": "2026-03-10T22:01:37Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Rapper Lil\u2019 Kim to headline both Vivid Sydney and Melbourne\u2019s 2026 Rising festival",
-      "link": "https://www.theguardian.com/culture/2026/mar/10/melbourne-rising-festival-lineup-lil-kim",
-      "mean_score": 0.3095,
-      "vader_score": 0.4939,
-      "textblob_score": 0.125,
-      "first_sentence": "The pioneering female rapper Lil\u2019 Kim will headline both Vivid Sydney and Melbourne\u2019s Rising this year, as each festival revealed its programs on Wednesday.",
-      "timestamp": "2026-03-10T22:00:10Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Musk\u2019s xAI wins permit for datacenter\u2019s makeshift power plant despite backlash",
-      "link": "https://www.theguardian.com/technology/2026/mar/10/elon-musk-xai-data-centers",
-      "mean_score": 0.4359,
-      "vader_score": 0.5719,
-      "textblob_score": 0.3,
-      "first_sentence": "Elon Musk\u2019s artificial intelligence company xAI won approval on Tuesday to run 41 methane gas turbines at its \u201cColossus 2\u201d datacenter in northern Mississippi.",
-      "timestamp": "2026-03-10T21:15:31Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Happy birthday to the telephone \u2014 oh, how you've grown in 150 years!",
-      "link": "https://www.npr.org/2026/03/10/nx-s1-5726812/happy-birthday-to-the-telephone-oh-how-youve-grown-in-150-years",
-      "mean_score": 0.8057,
-      "vader_score": 0.6114,
-      "textblob_score": 1.0,
-      "first_sentence": "These days, our phones are basically extensions of our bodies.",
-      "timestamp": "2026-03-10T20:05:45Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Why this popular dairy product has been flying off the shelf",
-      "link": "https://www.abc.net.au/news/2026-03-11/why-there-is-a-greek-yoghurt-shortage-in-australia/106435584",
-      "mean_score": 0.5108,
-      "vader_score": 0.4215,
-      "textblob_score": 0.6,
-      "first_sentence": "Customers strolling through the refrigerated aisle at Australia's major supermarkets might notice a shortage of Greek yoghurt.",
-      "timestamp": "2026-03-10T19:41:19Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "US weighs sending forces into Iran to secure nuclear stockpile, reports say",
-      "link": "https://www.theguardian.com/world/2026/mar/10/us-weighs-sending-forces-into-iran-to-secure-nuclear-stockpile-reports-say",
-      "mean_score": 0.37,
-      "vader_score": 0.34,
-      "textblob_score": 0.4,
-      "first_sentence": "The Trump administration is reportedly considering the deployment of special forces into Iran to secure its stockpile of highly enriched uranium (HEU), which experts say could be used to make at least 10 nuclear warheads.",
-      "timestamp": "2026-03-10T19:28:10Z",
       "source": "The Guardian"
     }
   ]
