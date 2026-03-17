@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-17T15:24:15Z",
+  "last run": "2026-03-17T18:19:24Z",
   "stories": [
+    {
+      "headline": "Mayors to gain more spending power under Reeves tax plans",
+      "link": "https://www.bbc.com/news/articles/c0k16zdr1r1o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5133,
+      "vader_score": 0.5267,
+      "textblob_score": 0.5,
+      "first_sentence": "Regional mayors could be given control of some tax revenue to spend on their local priorities, Chancellor Rachel Reeves has announced.",
+      "timestamp": "2026-03-17T15:43:04Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Switch 2's new \"Handheld Mode Boost\" can run original Switch games at 1080p",
+      "link": "https://arstechnica.com/gadgets/2026/03/nintendo-switch-2-update-adds-one-possible-fix-for-blurry-og-switch-games/",
+      "mean_score": 0.434,
+      "vader_score": 0.6124,
+      "textblob_score": 0.2557,
+      "first_sentence": "Switch games running at 720p can look worse on the Switch 2\u2019s 1080p display.",
+      "timestamp": "2026-03-17T15:11:28Z",
+      "source": "Ars Technica"
+    },
     {
       "headline": "Prince William joins Greg James on Comic Relief bike ride",
       "link": "https://www.bbc.com/news/articles/c3rzgg8wp52o?at_medium=RSS&at_campaign=rss",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Chetachi Nwaogiza has never felt more alive than when he is dancing.",
       "timestamp": "2026-03-10T23:59:55Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Matt Canavan calls for 'hyper Australia' with 'more babies' as he leads National Party",
-      "link": "https://www.sbs.com.au/news/article/matt-canavan-wins-national-party-leadership-challenge/ggv48c1k5",
-      "mean_score": 0.4509,
-      "vader_score": 0.4019,
-      "textblob_score": 0.5,
-      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-      "timestamp": "2026-03-10T23:50:55Z",
-      "source": "SBS News"
-    },
-    {
-      "headline": "Childcare and more paid leave: Will China's new plan to boost spending work?",
-      "link": "https://www.bbc.com/news/articles/c70n5xllp1do?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3095,
-      "vader_score": 0.3008,
-      "textblob_score": 0.3182,
-      "first_sentence": "China's leaders are trying something new to revive the country's slowing economy: encouraging people to spend more.",
-      "timestamp": "2026-03-10T23:33:10Z",
-      "source": "BBC News"
     }
   ]
 }

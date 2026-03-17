@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Matt Canavan calls for 'hyper Australia' with 'more babies' as he leads National Party",
+    "link": "https://www.sbs.com.au/news/article/matt-canavan-wins-national-party-leadership-challenge/ggv48c1k5",
+    "mean_score": 0.4509,
+    "vader_score": 0.4019,
+    "textblob_score": 0.5,
+    "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+    "timestamp": "2026-03-10T23:50:55Z",
+    "source": "SBS News"
+  },
+  {
+    "headline": "Childcare and more paid leave: Will China's new plan to boost spending work?",
+    "link": "https://www.bbc.com/news/articles/c70n5xllp1do?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3095,
+    "vader_score": 0.3008,
+    "textblob_score": 0.3182,
+    "first_sentence": "China's leaders are trying something new to revive the country's slowing economy: encouraging people to spend more.",
+    "timestamp": "2026-03-10T23:33:10Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "NASA approved a safety waiver for this week's reentry of Van Allen Probe",
     "link": "https://arstechnica.com/space/2026/03/nasa-approved-a-safety-waiver-for-this-weeks-reentry-of-van-allen-probe/",
     "mean_score": 0.3404,
