@@ -1,6 +1,76 @@
 {
-  "last run": "2026-03-18T12:16:42Z",
+  "last run": "2026-03-18T15:28:20Z",
   "stories": [
+    {
+      "headline": "\u2018Prince laughed like a kid as I painted \u201cFree\u201d on his stomach\u2019: Steve Parke\u2019s best photograph",
+      "link": "https://www.theguardian.com/artanddesign/2026/mar/18/prince-free-stomach-steve-parkes-best-photograph",
+      "mean_score": 0.7829,
+      "vader_score": 0.8658,
+      "textblob_score": 0.7,
+      "first_sentence": "I grew up loving Prince\u2019s music and remember thinking: \u201cI\u2019m gonna work for that guy one day.\u201d Through high school and college I photographed local bands.",
+      "timestamp": "2026-03-18T15:00:42Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Greetings from Nyeri, Kenya, where grandmothers help coach the next generation",
+      "link": "https://www.npr.org/2026/03/18/g-s1-113817/kenya-grandmothers-mentor-teenagers-soccer",
+      "mean_score": 0.3352,
+      "vader_score": 0.6705,
+      "textblob_score": 0.0,
+      "first_sentence": "Far-Flung Postcards is a weekly series in which NPR's international team shares moments from their lives and work around the world.",
+      "timestamp": "2026-03-18T14:33:18Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "The BTS comeback album is almost here \u2013 and you best believe I\u2019m slipping back into my K-pop obsessive era | Aastha Agrawal",
+      "link": "https://www.theguardian.com/commentisfree/2026/mar/18/bts-2026-album-arirang-korean-boyband-fandom",
+      "mean_score": 0.4053,
+      "vader_score": 0.5106,
+      "textblob_score": 0.3,
+      "first_sentence": "When I heard the surprise news that BTS are releasing a comeback album, it pulled me back into a past version of myself, one that was all-consuming in its obsession, but equally marked by shame.",
+      "timestamp": "2026-03-18T14:00:43Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Jess Cartner-Morley on fashion: primary colours are back, but styling them isn\u2019t child\u2019s play",
+      "link": "https://www.theguardian.com/fashion/2026/mar/18/jess-cartner-morley-on-fashion-primary-colours",
+      "mean_score": 0.3384,
+      "vader_score": 0.4767,
+      "textblob_score": 0.2,
+      "first_sentence": "The Guardian\u2019s journalism is independent.",
+      "timestamp": "2026-03-18T14:00:42Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "The one who got away: how did Australia lose one of its brightest football talents to Croatia? | Jack Snape",
+      "link": "https://www.theguardian.com/football/2026/mar/19/the-one-who-got-away-how-did-australia-lose-one-of-its-brightest-football-talents-to-croatia",
+      "mean_score": 0.3243,
+      "vader_score": 0.6486,
+      "textblob_score": 0.0,
+      "first_sentence": "There have been many to choose other nations over Australia, but for Socceroos fans this one hurts.",
+      "timestamp": "2026-03-18T14:00:41Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Other nations danced for joy at the World Baseball Classic. Team USA played toy soldiers",
+      "link": "https://www.theguardian.com/sport/2026/mar/18/world-baseball-classic-usa-venezuela-trump-war",
+      "mean_score": 0.5078,
+      "vader_score": 0.7351,
+      "textblob_score": 0.2806,
+      "first_sentence": "On the morning of the World Baseball Classic final between the United States and Venezuela, the headline of the New York Times daily briefing read, \u201cAmerica, alone,\u201d in reference to the unwillingness of the country\u2019s traditional allies to join the war with Iran.",
+      "timestamp": "2026-03-18T13:44:19Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Record property profits see home owner wealth surge despite rising rates",
+      "link": "https://www.abc.net.au/news/2026-03-19/home-owners-record-equity-australian-real-estate-domain-report/106459336",
+      "mean_score": 0.3634,
+      "vader_score": 0.7269,
+      "textblob_score": 0.0,
+      "first_sentence": "For the first time in 15 years more than 90 per cent of house resales in all Australian capital cities have returned a profit, according to property portal Domain.",
+      "timestamp": "2026-03-18T13:01:19Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Urgent call to ensure all babies are born a healthy weight",
       "link": "https://www.abc.net.au/news/2026-03-18/closing-the-gap-report-shows-little-progress-march-2026/106437910",
@@ -2429,76 +2499,6 @@
       "textblob_score": 0.0682,
       "first_sentence": "Four-time Australian Champion Charli Cannon will feature in a new era of American motocross this year.",
       "timestamp": "2026-03-12T00:00:35Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Google Play Games for PC is getting more premium titles and cross-buy with Android",
-      "link": "https://arstechnica.com/gaming/2026/03/google-play-games-for-pc-is-getting-more-premium-titles-and-cross-buy-with-android/",
-      "mean_score": 0.42,
-      "vader_score": 0.34,
-      "textblob_score": 0.5,
-      "first_sentence": "Google has been tinkering with porting its Play Games platform to Windows for several years, but it started getting serious about it last year.",
-      "timestamp": "2026-03-11T23:00:36Z",
-      "source": "Ars Technica"
-    },
-    {
-      "headline": "King penguins surfing on the 'good edge' of climate change \u2014 for now",
-      "link": "https://www.abc.net.au/news/science/2026-03-12/king-penguins-in-southern-ocean-resilient-to-climate-change/106436648",
-      "mean_score": 0.5702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.7,
-      "first_sentence": "King penguins on the Crozet Islands are breeding earlier and with a higher level of success than they did 24 years ago.\u00a0Researchers say this is likely in response to their changing environment and food availability.",
-      "timestamp": "2026-03-11T23:00:00Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Captain Patterson guides NSW to One Day Cup win in rain-hit final",
-      "link": "https://www.abc.net.au/news/2026-03-12/nsw-defeat-tasmania-by-four-wickets-to-win-one-day-cup/106444792",
-      "mean_score": 0.4929,
-      "vader_score": 0.5859,
-      "textblob_score": 0.4,
-      "first_sentence": "NSW has won the One Day Cup with a four-wicket win over Tasmania in the final.",
-      "timestamp": "2026-03-11T22:48:12Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Singapore has gone to great lengths to boost its fertility rate. Why hasn't it worked?",
-      "link": "https://www.abc.net.au/news/2026-03-12/singapore-low-fertility-rate-existential-challenge/106397470",
-      "mean_score": 0.7892,
-      "vader_score": 0.7783,
-      "textblob_score": 0.8,
-      "first_sentence": "Boon Shang says if she decides to have children, she wants it to be for the right reasons.",
-      "timestamp": "2026-03-11T21:02:43Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Saunas' health benefits draw enthusiasts and researchers",
-      "link": "https://www.npr.org/2026/03/11/nx-s1-5719269/saunas-health-benefits-draw-enthusiasts-and-researchers",
-      "mean_score": 0.3062,
-      "vader_score": 0.6124,
-      "textblob_score": 0.0,
-      "first_sentence": "Saunas are having a moment right now, thanks to a surge of interest in wellness.",
-      "timestamp": "2026-03-11T20:34:55Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Why IV drips are surging in popularity in Australia's wellness space",
-      "link": "https://www.abc.net.au/news/2026-03-12/iv-drip-therapy-popular-australia-wellness/106299280",
-      "mean_score": 0.3592,
-      "vader_score": 0.7184,
-      "textblob_score": 0.0,
-      "first_sentence": "Bek Walter sits in a softly lit clinic in the Gold Coast's north while a bag of fluid slowly drips into her vein through a tube.",
-      "timestamp": "2026-03-11T20:31:49Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Defence town to choose between Huey and Seahawk for iconic landmark",
-      "link": "https://www.abc.net.au/news/2026-03-12/nowra-chopper-on-a-stick-poll-huey-seahawk-hmas-albatross/106438136",
-      "mean_score": 0.3389,
-      "vader_score": 0.1779,
-      "textblob_score": 0.5,
-      "first_sentence": "The Department of Defence has opened a poll for Shoalhaven residents to choose whether the iconic chopper on a stick should feature a Huey or a Seahawk replica.",
-      "timestamp": "2026-03-11T20:12:01Z",
       "source": "ABC News"
     }
   ]
