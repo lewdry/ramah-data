@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-17T21:12:55Z",
+  "last run": "2026-03-18T00:21:11Z",
   "stories": [
+    {
+      "headline": "Senegal's AFCON win overturned months after controversial final",
+      "link": "https://www.abc.net.au/news/2026-03-18/senegal-stripped-of-afcon-title-morocco-declared-winner/106467082",
+      "mean_score": 0.4544,
+      "vader_score": 0.4588,
+      "textblob_score": 0.45,
+      "first_sentence": "Morocco has been awarded the Africa Cup of Nations (AFCON) title by appeals judges who stunningly overturned Senegal's victory in a chaotic final in January.",
+      "timestamp": "2026-03-17T22:39:55Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Adelaide 36ers into their first NBL grand final since 2018",
       "link": "https://www.abc.net.au/news/2026-03-18/bryce-cotton-steers-adelaide-36ers-into-nbl-grand-final/106466856",
@@ -30,6 +40,16 @@
       "first_sentence": "The likelihood of a follow-up interest rate hike in May may has fallen substantially after the Reserve Bank's 5-4 vote in favour of yesterday's rate increase \u2014 the slimmest of majorities.",
       "timestamp": "2026-03-17T21:00:57Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "Sporting\u2019s stunning turnaround ends Bod\u00f8/Glimt\u2019s Champions League run",
+      "link": "https://www.theguardian.com/football/2026/mar/17/sporting-lisbon-bodo-glimt-champions-league-last-16-match-report",
+      "mean_score": 0.6092,
+      "vader_score": 0.7184,
+      "textblob_score": 0.5,
+      "first_sentence": "Sporting staged a stunning comeback to beat Bod\u00f8/Glimt 5-0 after extra time and reach the Champions League quarter-finals with a 5-3 aggregate victory in their last-16 tie.",
+      "timestamp": "2026-03-17T21:00:57Z",
+      "source": "The Guardian"
     },
     {
       "headline": "Manchester City v Real Madrid: Champions League last 16, second leg \u2013 live",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Britain is once again paying the price of an energy system that is more effective at extracting profits than delivering security.",
       "timestamp": "2026-03-11T07:00:11Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "UK ticket holder wins \u00a3181m EuroMillions jackpot",
-      "link": "https://www.bbc.com/news/articles/c743gk3gdljo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4359,
-      "vader_score": 0.5719,
-      "textblob_score": 0.3,
-      "first_sentence": "A UK ticket holder has won Tuesday's \u00a3181m EuroMillions jackpot, the National Lottery operator has confirmed.",
-      "timestamp": "2026-03-11T06:44:16Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "'We deserve better after a year of all-out Birmingham bin strike'",
-      "link": "https://www.bbc.com/news/articles/c4g8ym890q7o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.42,
-      "vader_score": 0.34,
-      "textblob_score": 0.5,
-      "first_sentence": "It has been exactly a year since bin workers in Birmingham staged an all-out strike, with no current negotiations or seeming end in sight.",
-      "timestamp": "2026-03-11T06:20:13Z",
-      "source": "BBC News"
     }
   ]
 }

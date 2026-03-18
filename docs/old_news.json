@@ -1,5 +1,25 @@
 [
   {
+    "headline": "UK ticket holder wins \u00a3181m EuroMillions jackpot",
+    "link": "https://www.bbc.com/news/articles/c743gk3gdljo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4359,
+    "vader_score": 0.5719,
+    "textblob_score": 0.3,
+    "first_sentence": "A UK ticket holder has won Tuesday's \u00a3181m EuroMillions jackpot, the National Lottery operator has confirmed.",
+    "timestamp": "2026-03-11T06:44:16Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "'We deserve better after a year of all-out Birmingham bin strike'",
+    "link": "https://www.bbc.com/news/articles/c4g8ym890q7o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.42,
+    "vader_score": 0.34,
+    "textblob_score": 0.5,
+    "first_sentence": "It has been exactly a year since bin workers in Birmingham staged an all-out strike, with no current negotiations or seeming end in sight.",
+    "timestamp": "2026-03-11T06:20:13Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "If plant-based foods must be more honest, let\u2019s do the same for meat \u2013 fancy some \u2018cow muscle\u2019? | Deirdra Barr",
     "link": "https://www.theguardian.com/commentisfree/2026/mar/11/plant-based-foods-honest-meat-cow-muscle-eu-rules-ban-veggie",
     "mean_score": 0.399,
