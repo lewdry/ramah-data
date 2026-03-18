@@ -1,6 +1,56 @@
 {
-  "last run": "2026-03-18T18:21:00Z",
+  "last run": "2026-03-18T21:12:34Z",
   "stories": [
+    {
+      "headline": "Liverpool v Galatasaray, Spurs v Atl\u00e9tico Madrid and more: Champions League last-16 second legs \u2013 live",
+      "link": "https://www.theguardian.com/football/live/2026/mar/18/champions-league-last-16-liverpool-galatasaray-tottenham-atletico-madrid-live",
+      "mean_score": 0.3915,
+      "vader_score": 0.5709,
+      "textblob_score": 0.2121,
+      "first_sentence": "Spurs appeal for a foul on Simons in the buildup by the goalscorer \u2026 but the goal stands.",
+      "timestamp": "2026-03-18T20:58:55Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Live: EU president to visit Australia as sides inch closer to signing free trade deal",
+      "link": "https://www.abc.net.au/news/2026-03-19/federal-politics-live-blog-australia-europe/106471388",
+      "mean_score": 0.3894,
+      "vader_score": 0.5106,
+      "textblob_score": 0.2682,
+      "first_sentence": "EU President Ursula von der Leyen will visit Australia next week to meet with the prime minister as Australia inches closer to signing a free trade agreement with Europe.",
+      "timestamp": "2026-03-18T20:10:20Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "UConn teammates Sarah Strong and Azzi Fudd headline AP All-America first team",
+      "link": "https://apnews.com/article/ap-all-america-womens-college-basketball-team-8ea2e1062c77b55da2830d9ef7cc1997",
+      "mean_score": 0.4261,
+      "vader_score": 0.5106,
+      "textblob_score": 0.3417,
+      "first_sentence": "Sarah Strong and Azzi Fudd helped UConn to an undefeated season heading into March Madness.",
+      "timestamp": "2026-03-18T18:53:02Z",
+      "source": "AP News"
+    },
+    {
+      "headline": "I didn\u2019t know how much I needed work until I lost it. But now I\u2019ve learned to love Mondays again | Adrian Chiles",
+      "link": "https://www.theguardian.com/commentisfree/2026/mar/18/need-work-lost-it-learned-to-love-mondays-again",
+      "mean_score": 0.5405,
+      "vader_score": 0.7311,
+      "textblob_score": 0.35,
+      "first_sentence": "I do like Mondays.",
+      "timestamp": "2026-03-18T18:06:37Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Famous Iditarod dog sled race ends in repeat win for Jessie Holmes",
+      "link": "https://www.bbc.com/news/videos/cyv9v5dld42o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.6179,
+      "vader_score": 0.5859,
+      "textblob_score": 0.65,
+      "first_sentence": "Jessie Holmes has won his second consecutive Iditarod Trail Sled Dog Race in Nome, Alaska.",
+      "timestamp": "2026-03-18T17:54:14Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Mamdani put Ramadan at the center of NYC's cultural life, bringing joy -- and a backlash",
       "link": "https://www.npr.org/2026/03/18/nx-s1-5751787/mamdani-put-ramadan-at-the-center-of-nycs-cultural-life-bringing-joy-and-a-backlash",
@@ -2450,56 +2500,6 @@
       "first_sentence": "The owner of John Lewis and Waitrose has paid an annual bonus to workers for the first time in four years after underlying profits rose by 6%.",
       "timestamp": "2026-03-12T07:19:40Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "'I imagine they had a healthy sex life early on' - Ruth Jones in Austen-inspired drama",
-      "link": "https://www.bbc.com/news/articles/cy03jw2g78no?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3509,
-      "vader_score": 0.4019,
-      "textblob_score": 0.3,
-      "first_sentence": "Ruth Jones says she is \"stepping into very big shoes\" as she stars in a new BBC comedy series inspired by Jane Austen's Pride and Prejudice.",
-      "timestamp": "2026-03-12T06:10:53Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "US orders petroleum reserve release in bid to calm markets \u2013 as it happened",
-      "link": "https://www.theguardian.com/world/live/2026/mar/11/iran-war-live-updates-trump-oil-hormuz-protestors-us-israel-beirut-middle-east-latest-news",
-      "mean_score": 0.3091,
-      "vader_score": 0.3182,
-      "textblob_score": 0.3,
-      "first_sentence": "Iraq\u2019s oil ports have completely stopped operations while commercial ports continue to operate after an attack on a fuel tanker, an Iraqi official has said.",
-      "timestamp": "2026-03-12T04:33:47Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Fuel quality rules relaxed to add 100 million litres more petrol",
-      "link": "https://www.abc.net.au/news/2026-03-12/petrol-quality-relaxed-100-million-litre-boost/106446796",
-      "mean_score": 0.497,
-      "vader_score": 0.4939,
-      "textblob_score": 0.5,
-      "first_sentence": "The energy minister has relaxed fuel standards for two months in order for more supply to be brought into the domestic market.",
-      "timestamp": "2026-03-12T04:07:48Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Matt Canavan has promised me a hyper Australia. I\u2019m ready to chug red cordial and get on board | James Colley",
-      "link": "https://www.theguardian.com/australia-news/commentisfree/2026/mar/12/matt-canavan-national-party-leader-hyper-australia-james-colley",
-      "mean_score": 0.3562,
-      "vader_score": 0.6124,
-      "textblob_score": 0.1,
-      "first_sentence": "If you felt a sense of disillusionment with the world yesterday, if the star by which you navigate home disappeared from the sky, if sweet fruit turned to ash in your mouth and you wondered if anything would ever be beautiful again, you were not alone.",
-      "timestamp": "2026-03-12T03:39:32Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Darwin's boil water alert lifted after testing shows water is free of E.coli",
-      "link": "https://www.abc.net.au/news/2026-03-12/boil-water-alert-lifted-in-darwin/106446216",
-      "mean_score": 0.5353,
-      "vader_score": 0.6705,
-      "textblob_score": 0.4,
-      "first_sentence": "The boil water alert is no longer in place for Darwin, after testing of water showed it was free of E.coli and other harmful bacteria.",
-      "timestamp": "2026-03-12T03:23:26Z",
-      "source": "ABC News"
     }
   ]
 }
