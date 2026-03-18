@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Becky the dog steals the show: John Dean\u2019s best photograph",
+    "link": "https://www.theguardian.com/artanddesign/2026/mar/11/becky-dog-steals-show-john-deans-best-photograph-nottingham",
+    "mean_score": 0.6131,
+    "vader_score": 0.2263,
+    "textblob_score": 1.0,
+    "first_sentence": "This was taken 50 years ago by my 20-year-old self.",
+    "timestamp": "2026-03-11T14:44:40Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Before sunrise: while the city sleeps, suhoor meals attract a lively social scene during Ramadan",
+    "link": "https://www.theguardian.com/food/2026/mar/12/suhoor-meals-ramadan-sydney",
+    "mean_score": 0.3465,
+    "vader_score": 0.6597,
+    "textblob_score": 0.0333,
+    "first_sentence": "It\u2019s just after midnight in an industrial courtyard in Auburn in Sydney\u2019s west and a glow of string lights and the constant sizzle of a grill signal one of Ramadan\u2019s newest late-night rituals.",
+    "timestamp": "2026-03-11T14:00:52Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "David Hockney review \u2013 a 90-metre vision of nature that only looks great on your phone",
+    "link": "https://www.theguardian.com/artanddesign/2026/mar/11/david-hockney-a-year-in-normandie-and-some-other-thoughts-about-painting-review-serpentine-north",
+    "mean_score": 0.5635,
+    "vader_score": 0.7269,
+    "textblob_score": 0.4,
+    "first_sentence": "To call Hockney a gifted sentimentalist is no backhanded compliment.",
+    "timestamp": "2026-03-11T12:21:49Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Special relationships shape the 2026 Edinburgh International Festival",
+    "link": "https://www.bbc.com/news/articles/c86y2xwn1pjo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4441,
+    "vader_score": 0.7096,
+    "textblob_score": 0.1786,
+    "first_sentence": "Nicola Benedetti fell in love with the United States when she was just 16 years old.",
+    "timestamp": "2026-03-11T12:05:07Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "\u2018Severe water stress\u2019: why desalination plants are the Gulf\u2019s greatest weakness",
     "link": "https://www.theguardian.com/world/2026/mar/11/severe-water-stress-why-desalination-plants-are-gulf-greatest-weakness",
     "mean_score": 0.67,
