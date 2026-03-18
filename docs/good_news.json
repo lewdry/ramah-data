@@ -1,6 +1,76 @@
 {
-  "last run": "2026-03-18T00:21:11Z",
+  "last run": "2026-03-18T03:52:25Z",
   "stories": [
+    {
+      "headline": "Venezuela win first World Baseball Classic title after taming USA in politically fraught final",
+      "link": "https://www.theguardian.com/sport/2026/mar/17/venezuela-beat-usa-wbc-final-suarez-trump-politics",
+      "mean_score": 0.4146,
+      "vader_score": 0.5859,
+      "textblob_score": 0.2433,
+      "first_sentence": "Venezuela defeated the United States 3-2 on Tuesday night to win their first World Baseball Classic title, a landmark triumph in a politically charged final that resonated far beyond the diamond.",
+      "timestamp": "2026-03-18T03:21:44Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Juliana Stratton wins Illinois Democratic Senate primary race",
+      "link": "https://www.theguardian.com/us-news/2026/mar/18/illinois-democratic-senate-primary-race-juliana-stratton",
+      "mean_score": 0.4609,
+      "vader_score": 0.5719,
+      "textblob_score": 0.35,
+      "first_sentence": "Illinois lieutenant governor Juliana Stratton won the Democratic primary race to succeed Illinois\u2019 US senator Dick Durbin in Washington, beating out US representative Raja Krishnamoorthi.",
+      "timestamp": "2026-03-18T02:44:05Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Why the B-52s are trading their Love Shack for Downton Abbey",
+      "link": "https://www.bbc.com/news/articles/cjen83lw25jo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5685,
+      "vader_score": 0.6369,
+      "textblob_score": 0.5,
+      "first_sentence": "If you see a faded sign at the side of the road that says, \"15 miles to the Love Shack,\" you know you're in for a good time.",
+      "timestamp": "2026-03-18T02:42:18Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Daniel Biss wins Democratic primary for closely-watched Illinois House seat",
+      "link": "https://www.npr.org/2026/03/17/nx-s1-5751169/illinois-primary-ninth-district-daniel-biss-kat-abughazaleh",
+      "mean_score": 0.4609,
+      "vader_score": 0.5719,
+      "textblob_score": 0.35,
+      "first_sentence": "Daniel Biss, the mayor of Evanston, Ill., has won the Democratic primary for the state's 9th congressional district, according to a race call by The Associated Press, topping a crowded field in the race for a Chicago-area seat that has not been open for nearly three decades.",
+      "timestamp": "2026-03-18T02:40:24Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "Lucky escape for mine workers almost hit by debris during explosive blasts",
+      "link": "https://www.abc.net.au/news/2026-03-18/worksafe-two-separate-exposives-incidents-at-wa-mines/106418758",
+      "mean_score": 0.4378,
+      "vader_score": 0.5423,
+      "textblob_score": 0.3333,
+      "first_sentence": "Workers were almost hit by debris, known as \"flyrock\", in two separate explosive incidents at WA mine sites in recent months.",
+      "timestamp": "2026-03-18T01:07:19Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Rangers combine ancient wisdom with modern technology to care for country",
+      "link": "https://www.abc.net.au/news/2026-03-18/aboriginal-rangers-conference-on-nsw-south-coast/106460538",
+      "mean_score": 0.4825,
+      "vader_score": 0.765,
+      "textblob_score": 0.2,
+      "first_sentence": "The first Aboriginal rangers conference for the NSW South Coast has been held in Mystery Bay.",
+      "timestamp": "2026-03-18T01:03:45Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Eze keeps Arsenal\u2019s shot at history alive with magic moment against Leverkusen | Barney Ronay",
+      "link": "https://www.theguardian.com/football/2026/mar/17/eze-keeps-arsenals-shot-at-history-alive-with-magic-moment-against-leverkusen",
+      "mean_score": 0.3409,
+      "vader_score": 0.3818,
+      "textblob_score": 0.3,
+      "first_sentence": "And now I am become Springtime Eze, destroyer of netting.",
+      "timestamp": "2026-03-17T23:46:39Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Senegal's AFCON win overturned months after controversial final",
       "link": "https://www.abc.net.au/news/2026-03-18/senegal-stripped-of-afcon-title-morocco-declared-winner/106467082",
@@ -2430,76 +2500,6 @@
       "first_sentence": "Nicola Benedetti fell in love with the United States when she was just 16 years old.",
       "timestamp": "2026-03-11T12:05:07Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "\u2018Severe water stress\u2019: why desalination plants are the Gulf\u2019s greatest weakness",
-      "link": "https://www.theguardian.com/world/2026/mar/11/severe-water-stress-why-desalination-plants-are-gulf-greatest-weakness",
-      "mean_score": 0.67,
-      "vader_score": 0.34,
-      "textblob_score": 1.0,
-      "first_sentence": "In 1983, the CIA determined that the most crucial commodity in the Gulf was its desalinated potable water.",
-      "timestamp": "2026-03-11T12:01:01Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The V&A\u2019s Gilbert Galleries review \u2013\u00a0a fabulous treasure trove that must be seen to be believed",
-      "link": "https://www.theguardian.com/artanddesign/2026/mar/11/gilbert-galleries-vanda-art-rosalinde-arthur-collection",
-      "mean_score": 0.5404,
-      "vader_score": 0.6808,
-      "textblob_score": 0.4,
-      "first_sentence": "We periodically hear when a masterpiece is \u201csaved for the nation\u201d, usually when a museum is obliged to raise eye-watering sums to prevent the export or sale of an artwork deemed of national significance.",
-      "timestamp": "2026-03-11T10:52:26Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Sali Hughes on beauty: from blusher to lipstick \u2013 and even eyeshadow \u2013 a hint of cool purple adds polish",
-      "link": "https://www.theguardian.com/fashion/2026/mar/11/sali-hughes-on-beauty-blusher-lipstick-eyeshadow-hint-of-cool-purple-adds-polish-mauve",
-      "mean_score": 0.5384,
-      "vader_score": 0.7269,
-      "textblob_score": 0.35,
-      "first_sentence": "The Guardian\u2019s journalism is independent.",
-      "timestamp": "2026-03-11T10:00:02Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018When I leave, part of me stays\u2019: why Scarborough\u2019s youth won\u2019t turn their backs on the seaside town they love",
-      "link": "https://www.theguardian.com/environment/2026/mar/11/against-the-tide-scarborough-eastfield-youth-town-love-opportunity-transport-seaside",
-      "mean_score": 0.543,
-      "vader_score": 0.5859,
-      "textblob_score": 0.5,
-      "first_sentence": "It\u2019s the morning after a wet and stormy day in the Yorkshire seaside town of Scarborough.",
-      "timestamp": "2026-03-11T10:00:01Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "G7 energy ministers say they support in principle use of strategic oil reserves \u2013 business live",
-      "link": "https://www.theguardian.com/business/live/2026/mar/11/oil-prices-asian-shares-rise-iea-reserve-release-business-live-news-updates",
-      "mean_score": 0.3611,
-      "vader_score": 0.5859,
-      "textblob_score": 0.1364,
-      "first_sentence": "News just in: the G7 group of nations said today that they supported, in principle, the implementation of proactive measures to address oil supply issues and market volatility, including the use of strategic oil reserves.",
-      "timestamp": "2026-03-11T08:12:43Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Why F1 the Movie should win the best picture Oscar",
-      "link": "https://www.theguardian.com/film/2026/mar/11/why-f1-the-movie-should-win-the-best-picture-oscar",
-      "mean_score": 0.8701,
-      "vader_score": 0.8402,
-      "textblob_score": 0.9,
-      "first_sentence": "Could, should, would F1 the Movie win the best picture Oscar? Well, we have to be realistic here: F1 is currently a massive outsider, at 200-1 along with The Secret Agent, which has no chance either but for very different reasons.",
-      "timestamp": "2026-03-11T08:00:14Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The Iran oil crisis has proved Ed Miliband right on green energy. But households still need more help | Mathew Lawrence",
-      "link": "https://www.theguardian.com/commentisfree/2026/mar/11/renewable-energy-oil-shocks-lower-bills-uk",
-      "mean_score": 0.3261,
-      "vader_score": 0.4569,
-      "textblob_score": 0.1952,
-      "first_sentence": "Britain is once again paying the price of an energy system that is more effective at extracting profits than delivering security.",
-      "timestamp": "2026-03-11T07:00:11Z",
-      "source": "The Guardian"
     }
   ]
 }
