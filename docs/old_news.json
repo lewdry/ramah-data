@@ -1,5 +1,55 @@
 [
   {
+    "headline": "A clever person knows their limitations \u2026 Kemi believes she has none | John Crace",
+    "link": "https://www.theguardian.com/politics/2026/mar/11/a-clever-person-knows-their-limitations-kemi-believes-she-has-none",
+    "mean_score": 0.3127,
+    "vader_score": 0.4588,
+    "textblob_score": 0.1667,
+    "first_sentence": "Taxi for Kemi.",
+    "timestamp": "2026-03-11T16:56:14Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "More support as heating oil costs 'double'",
+    "link": "https://www.bbc.com/news/articles/c07jrp8ryy8o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3538,
+    "vader_score": 0.4576,
+    "textblob_score": 0.25,
+    "first_sentence": "Farmers and residents say they are concerned after heating oil costs have \"doubled\" since the conflict in Iran escalated.",
+    "timestamp": "2026-03-11T16:17:09Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "NIH director launches \"Scientific Freedom\" lectures with non-scientist",
+    "link": "https://arstechnica.com/science/2026/03/nih-director-launches-scientific-freedom-lectures-with-non-scientist/",
+    "mean_score": 0.3185,
+    "vader_score": 0.6369,
+    "textblob_score": 0.0,
+    "first_sentence": "First speaker minimizes climate change, COVID risks\u2014and is a lab leak proponent.",
+    "timestamp": "2026-03-11T15:33:50Z",
+    "source": "Ars Technica"
+  },
+  {
+    "headline": "Surely if you rule the manosphere, you can be your own boss? These influencers aren\u2019t even that | Elle Hunt",
+    "link": "https://www.theguardian.com/commentisfree/2026/mar/11/manosphere-influencers-louis-theroux-documentary",
+    "mean_score": 0.4952,
+    "vader_score": 0.4404,
+    "textblob_score": 0.55,
+    "first_sentence": "Who wouldn\u2019t want to be an influencer? You\u2019re famous and maybe even rich, just for doing what you\u2019d be doing anyway: working out at the gym, hanging out with your mates and mucking about on the internet.",
+    "timestamp": "2026-03-11T15:00:45Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Democrats deliver stunning flip in New Hampshire special election",
+    "link": "https://www.theguardian.com/us-news/2026/mar/11/democrat-new-hampshire-bobbi-boudman",
+    "mean_score": 0.4899,
+    "vader_score": 0.6486,
+    "textblob_score": 0.3312,
+    "first_sentence": "A Democrat won a special election for a state house seat in New Hampshire on Tuesday, flipping a Republican district that Donald Trump carried and marking the latest in a string of 28 Democratic upsets that could usher in a blue wave in the midterms.",
+    "timestamp": "2026-03-11T14:45:26Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Becky the dog steals the show: John Dean\u2019s best photograph",
     "link": "https://www.theguardian.com/artanddesign/2026/mar/11/becky-dog-steals-show-john-deans-best-photograph-nottingham",
     "mean_score": 0.6131,

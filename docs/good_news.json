@@ -1,6 +1,56 @@
 {
-  "last run": "2026-03-18T06:23:50Z",
+  "last run": "2026-03-18T09:19:23Z",
   "stories": [
+    {
+      "headline": "Illinois Lt. Gov. Juliana Stratton wins Democratic nomination for U.S. Senate",
+      "link": "https://www.npr.org/2026/03/18/nx-s1-5749357/illinois-lt-gov-juliana-stratton-wins-democratic-nomination-for-u-s-senate",
+      "mean_score": 0.4359,
+      "vader_score": 0.5719,
+      "textblob_score": 0.3,
+      "first_sentence": "Among the crowded field of Democratic primary candidates, Juliana Stratton said she would strongly oppose the Trump administration and not vote for any of his appointees, if elected.",
+      "timestamp": "2026-03-18T08:49:14Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "'Special human' James Slipper to break Super Rugby record",
+      "link": "https://www.abc.net.au/news/2026-03-18/brumbies-james-slipper-to-break-super-rugby-record/106469246",
+      "mean_score": 0.4976,
+      "vader_score": 0.765,
+      "textblob_score": 0.2302,
+      "first_sentence": "Brumbies prop James Slipper will soon have played more Super Rugby games than anyone else.",
+      "timestamp": "2026-03-18T08:28:54Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Live: The Asian Cup's two best teams duel to win right to face Matildas in final",
+      "link": "https://www.abc.net.au/news/2026-03-18/south-korea-vs-japan-live-blog-womens-asian-cup/106469438",
+      "mean_score": 0.6053,
+      "vader_score": 0.8402,
+      "textblob_score": 0.3703,
+      "first_sentence": "Japan has been rampant at the tournament so far, scoring 17 group stage goals before easily accounting for the Philippines in the quarterfinals.",
+      "timestamp": "2026-03-18T08:20:12Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "'Moment of pride': Venezuela edges US to win first World Baseball Classic",
+      "link": "https://www.abc.net.au/news/2026-03-18/world-baseball-classic-final-venezuela-united-states/106470290",
+      "mean_score": 0.5703,
+      "vader_score": 0.7351,
+      "textblob_score": 0.4056,
+      "first_sentence": "Venezuela has claimed its first World Baseball Classic championship with a 3-2 win over the United States in Miami.",
+      "timestamp": "2026-03-18T07:22:57Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "A moment that changed me: I applied mucous-tinted mascara \u2013 and loved the reaction",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/mar/17/a-moment-that-changed-me-mucous-tinted-mascara-reaction",
+      "mean_score": 0.6497,
+      "vader_score": 0.5994,
+      "textblob_score": 0.7,
+      "first_sentence": "I wore makeup for the first time just after I turned 12: a tube of green mascara from a pound\u00a0shop in my home town in south Wales.",
+      "timestamp": "2026-03-18T06:45:24Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Venezuela beats U.S. 3-2, wins first World Baseball Classic title",
       "link": "https://www.npr.org/2026/03/18/g-s1-114247/venezuela-beats-u-s-3-2-wins-first-world-baseball-classic-title",
@@ -2449,56 +2499,6 @@
       "textblob_score": 0.1288,
       "first_sentence": "Competitive balance across Europe\u2019s leagues would be transformed with the adoption of a new model for distributing revenue from the Champions League and other Uefa club competitions, according to a proposal by the Union of European Clubs (UEC).",
       "timestamp": "2026-03-11T17:04:48Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "A clever person knows their limitations \u2026 Kemi believes she has none | John Crace",
-      "link": "https://www.theguardian.com/politics/2026/mar/11/a-clever-person-knows-their-limitations-kemi-believes-she-has-none",
-      "mean_score": 0.3127,
-      "vader_score": 0.4588,
-      "textblob_score": 0.1667,
-      "first_sentence": "Taxi for Kemi.",
-      "timestamp": "2026-03-11T16:56:14Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "More support as heating oil costs 'double'",
-      "link": "https://www.bbc.com/news/articles/c07jrp8ryy8o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3538,
-      "vader_score": 0.4576,
-      "textblob_score": 0.25,
-      "first_sentence": "Farmers and residents say they are concerned after heating oil costs have \"doubled\" since the conflict in Iran escalated.",
-      "timestamp": "2026-03-11T16:17:09Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "NIH director launches \"Scientific Freedom\" lectures with non-scientist",
-      "link": "https://arstechnica.com/science/2026/03/nih-director-launches-scientific-freedom-lectures-with-non-scientist/",
-      "mean_score": 0.3185,
-      "vader_score": 0.6369,
-      "textblob_score": 0.0,
-      "first_sentence": "First speaker minimizes climate change, COVID risks\u2014and is a lab leak proponent.",
-      "timestamp": "2026-03-11T15:33:50Z",
-      "source": "Ars Technica"
-    },
-    {
-      "headline": "Surely if you rule the manosphere, you can be your own boss? These influencers aren\u2019t even that | Elle Hunt",
-      "link": "https://www.theguardian.com/commentisfree/2026/mar/11/manosphere-influencers-louis-theroux-documentary",
-      "mean_score": 0.4952,
-      "vader_score": 0.4404,
-      "textblob_score": 0.55,
-      "first_sentence": "Who wouldn\u2019t want to be an influencer? You\u2019re famous and maybe even rich, just for doing what you\u2019d be doing anyway: working out at the gym, hanging out with your mates and mucking about on the internet.",
-      "timestamp": "2026-03-11T15:00:45Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Democrats deliver stunning flip in New Hampshire special election",
-      "link": "https://www.theguardian.com/us-news/2026/mar/11/democrat-new-hampshire-bobbi-boudman",
-      "mean_score": 0.4899,
-      "vader_score": 0.6486,
-      "textblob_score": 0.3312,
-      "first_sentence": "A Democrat won a special election for a state house seat in New Hampshire on Tuesday, flipping a Republican district that Donald Trump carried and marking the latest in a string of 28 Democratic upsets that could usher in a blue wave in the midterms.",
-      "timestamp": "2026-03-11T14:45:26Z",
       "source": "The Guardian"
     }
   ]
