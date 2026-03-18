@@ -1,5 +1,45 @@
 [
   {
+    "headline": "The best house shoes might be fuzzy Crocs. Yes, really",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/mar/11/baya-fuzzy-crocs",
+    "mean_score": 0.6923,
+    "vader_score": 0.7845,
+    "textblob_score": 0.6,
+    "first_sentence": "The Guardian\u2019s journalism is independent.",
+    "timestamp": "2026-03-11T19:15:00Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Real Madrid v Manchester City: Champions League last 16, first leg \u2013 live",
+    "link": "https://www.theguardian.com/football/live/2026/mar/11/real-madrid-v-manchester-city-champions-league-last-16-first-leg-live",
+    "mean_score": 0.3366,
+    "vader_score": 0.5267,
+    "textblob_score": 0.1466,
+    "first_sentence": "TNT Sports report that the Bernabeu isn\u2019t sold out tonight.",
+    "timestamp": "2026-03-11T19:11:19Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Colts, QB Daniel Jones agree to 2-year deal worth up to $100 million, AP source says",
+    "link": "https://apnews.com/article/indianapolis-colts-daniel-jones-aa7c64daa186fd7028d327eba1664cd2",
+    "mean_score": 0.4133,
+    "vader_score": 0.5267,
+    "textblob_score": 0.3,
+    "first_sentence": "INDIANAPOLIS (AP) \u2014 Quarterback Daniel Jones plans to stay with the Indianapolis Colts for at least two more years.",
+    "timestamp": "2026-03-11T18:23:01Z",
+    "source": "AP News"
+  },
+  {
+    "headline": "Bayer Leverkusen v Arsenal: Champions League last 16, first leg\u2013 live",
+    "link": "https://www.theguardian.com/football/live/2026/mar/11/bayer-leverkusen-v-arsenal-champions-league-last-16-first-leg-live",
+    "mean_score": 0.3277,
+    "vader_score": 0.5267,
+    "textblob_score": 0.1288,
+    "first_sentence": "Competitive balance across Europe\u2019s leagues would be transformed with the adoption of a new model for distributing revenue from the Champions League and other Uefa club competitions, according to a proposal by the Union of European Clubs (UEC).",
+    "timestamp": "2026-03-11T17:04:48Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "A clever person knows their limitations \u2026 Kemi believes she has none | John Crace",
     "link": "https://www.theguardian.com/politics/2026/mar/11/a-clever-person-knows-their-limitations-kemi-believes-she-has-none",
     "mean_score": 0.3127,
