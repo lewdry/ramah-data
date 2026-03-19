@@ -1,6 +1,76 @@
 {
-  "last run": "2026-03-19T12:11:48Z",
+  "last run": "2026-03-19T15:17:33Z",
   "stories": [
+    {
+      "headline": "The best pressure washers in the UK for cleaning garden furniture and patios \u2013 tested",
+      "link": "https://www.theguardian.com/thefilter/2025/apr/18/best-pressure-washers-cleaners-uk",
+      "mean_score": 0.7294,
+      "vader_score": 0.4588,
+      "textblob_score": 1.0,
+      "first_sentence": "The Guardian\u2019s journalism is independent.",
+      "timestamp": "2026-03-19T15:00:08Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018My taste is superb. My eyes are exquisite\u2019: Dianne Wiest\u2019s 20 best film performances \u2013 ranked!",
+      "link": "https://www.theguardian.com/culture/2026/mar/19/dianne-wiest-20-best-film-performances-ranked",
+      "mean_score": 0.9311,
+      "vader_score": 0.8622,
+      "textblob_score": 1.0,
+      "first_sentence": "Every great performer should have at least one baffling movie on their CV, and this curio, produced by Ismail Merchant, is Dianne Wiest\u2019s.",
+      "timestamp": "2026-03-19T14:19:07Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Record crowds, empty seats and the Matildas in a dream final: has the Women\u2019s Asian Cup been a success?",
+      "link": "https://www.theguardian.com/football/2026/mar/19/womens-asian-cup-australia-matildas-crowds-success",
+      "mean_score": 0.3247,
+      "vader_score": 0.5994,
+      "textblob_score": 0.05,
+      "first_sentence": "Sarah Walsh has heard the naysayers, heard the voices sniggering about half-empty stadiums and unsold tickets.",
+      "timestamp": "2026-03-19T14:00:53Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Show us your dome! Hot, balding, confident men are bringing sexy back | Rebecca Shaw",
+      "link": "https://www.theguardian.com/commentisfree/2026/mar/19/show-us-your-dome-sexy-bald-men",
+      "mean_score": 0.5483,
+      "vader_score": 0.784,
+      "textblob_score": 0.3125,
+      "first_sentence": "The Oscars were this week, and as usual I took the day off to judge the red carpet looks from my tracksuit pants-ed position on the couch, pick apart the monologue (love you Conan), declare I could write better presenter segments, and keep an eye on social media to see which stars cause the most buzz.",
+      "timestamp": "2026-03-19T14:00:52Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "RFK Jr. makes food sound like a miracle drug. Researchers say he often overstates the science",
+      "link": "https://apnews.com/article/robert-kennedy-diet-food-schizophrenia-bipolar-diabetes-914787992e743f588ef02ed33242536e",
+      "mean_score": 0.5715,
+      "vader_score": 0.743,
+      "textblob_score": 0.4,
+      "first_sentence": "In the Trump administration\u2019s campaign to promote healthy eating, Robert F.",
+      "timestamp": "2026-03-19T13:23:02Z",
+      "source": "AP News"
+    },
+    {
+      "headline": "The housing charity helping key workers stay local",
+      "link": "https://www.bbc.com/news/articles/c0rjkr9d9ywo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3062,
+      "vader_score": 0.6124,
+      "textblob_score": 0.0,
+      "first_sentence": "A housing organisation that offers key workers affordable rental properties has celebrated 20 years since it was founded.",
+      "timestamp": "2026-03-19T12:45:55Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Underscores: U review \u2013 ultra-imaginative auteur has pop\u2019s most brilliant brain",
+      "link": "https://www.theguardian.com/music/2026/mar/19/underscores-u-album-review-april-grey-ultra-imaginative-auteur-has-pops-most-brilliant-brain",
+      "mean_score": 0.662,
+      "vader_score": 0.624,
+      "textblob_score": 0.7,
+      "first_sentence": "April Grey is a US bedroom producer beloved of an impressive range of other artists \u2013 experimental pop duo 100 Gecs are fans, so is rapper Danny Brown and Blink-182 drummer Travis Barker \u2013 but thus far it\u2019s been hard to accurately pin her down.",
+      "timestamp": "2026-03-19T12:45:49Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Nightclub linked to outbreak 'won't open until people are safe' says owner",
       "link": "https://www.bbc.com/news/articles/cpw0wwgwkr1o?at_medium=RSS&at_campaign=rss",
@@ -2430,76 +2500,6 @@
       "first_sentence": "In 2007 the Matildas found themselves on a bus travelling through empty streets of North Korea.",
       "timestamp": "2026-03-12T20:35:49Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Swim rescue hero Austin Appelbee honoured by Irish president",
-      "link": "https://www.abc.net.au/news/2026-03-13/austin-appelbee-honoured-by-irish-president/106448682",
-      "mean_score": 0.439,
-      "vader_score": 0.8779,
-      "textblob_score": 0.0,
-      "first_sentence": "Irish government minister Kevin Moran has presented WA teenager Austin Appelbee with gifts and a letter from the nation's president, Catherine Connolly.",
-      "timestamp": "2026-03-12T20:01:33Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Iran vows to keep Strait of Hormuz shut in first statement from new Supreme Leader",
-      "link": "https://www.sbs.com.au/news/article/iran-vows-to-keep-strait-of-hormuz-shut-in-first-statement-from-new-supreme-leader/ej46y6rss",
-      "mean_score": 0.3753,
-      "vader_score": 0.5574,
-      "textblob_score": 0.1932,
-      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-      "timestamp": "2026-03-12T19:55:03Z",
-      "source": "SBS News"
-    },
-    {
-      "headline": "Iran\u2019s New Supreme Leader (Sort Of) Speaks Out",
-      "link": "https://www.bbc.co.uk/sounds/play/p0n6b2hm?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3469,
-      "vader_score": 0.5574,
-      "textblob_score": 0.1364,
-      "first_sentence": "Today, the new Iranian Supreme Leader, Mojtaba Khamenei, gave his first statement pledging to continue blocking the Strait of Hormuz.\n\nThis was delivered not by Khamenei himself, but by a newsreader on Iranian state TV speaking over a photo of him, sparking further speculation as to his health and whereabouts.\n\nAlex and James are joined by Jane Corbin, Panorama film maker, and Baran Abbasi, reporter and presenter for BBC Persian, to discuss what to make of the new Supreme Leader\u2019s statement.\n\nPlus, diplomatic correspondent, James Landale, joins Alex and James from Kyiv to analyse what the US-Israeli war with Iran means for the war in Ukraine and how President Zelensky and President Putin have responded.\n\nYou can now listen to Newscast on a smart speaker.",
-      "timestamp": "2026-03-12T18:59:00Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Weekly quiz: This dog was Best in Show at Crufts - what other prize did he win?",
-      "link": "https://www.bbc.com/news/articles/cn714lpej85o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.7323,
-      "vader_score": 0.9062,
-      "textblob_score": 0.5583,
-      "first_sentence": "This week, Iran appointed a new supreme leader, a German city had to be evacuated when a large WW2 bomb was found, and the UK got a first listen to its unusual entry for this year's Eurovision song contest.",
-      "timestamp": "2026-03-12T17:49:47Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "This tale of a Chicago school book ban was inspired by true events",
-      "link": "https://www.npr.org/2026/03/12/nx-s1-5744667/wake-now-in-the-fire-book-review",
-      "mean_score": 0.345,
-      "vader_score": 0.34,
-      "textblob_score": 0.35,
-      "first_sentence": "I couldn't help but think of little Francie Nolan \u2013 who, like Smith, grew up in the tenements of Brooklyn in the early 20th century and aimed, as a young girl, to read every book she could find \u2013 as I tore through librarian Jarrett Dapier's debut young adult graphic novel, Wake Now in the Fire.",
-      "timestamp": "2026-03-12T17:36:51Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Special episode planned in The Archers tour",
-      "link": "https://www.bbc.com/news/articles/crk83dg0zxro?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3795,
-      "vader_score": 0.4019,
-      "textblob_score": 0.3571,
-      "first_sentence": "The Archers will mark its 75th anniversary with a national stage tour, it has been announced.",
-      "timestamp": "2026-03-12T17:19:51Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Centuries before the Inca, Peru's wealthy imported parrots from afar",
-      "link": "https://arstechnica.com/science/2026/03/centuries-before-the-inca-perus-wealthy-imported-parrots-from-afar/",
-      "mean_score": 0.4306,
-      "vader_score": 0.3612,
-      "textblob_score": 0.5,
-      "first_sentence": "The Inca Empire\u2019s system of roads were built on centuries-old trade routes.",
-      "timestamp": "2026-03-12T16:49:58Z",
-      "source": "Ars Technica"
     }
   ]
 }

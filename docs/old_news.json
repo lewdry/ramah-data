@@ -1,5 +1,75 @@
 [
   {
+    "headline": "Swim rescue hero Austin Appelbee honoured by Irish president",
+    "link": "https://www.abc.net.au/news/2026-03-13/austin-appelbee-honoured-by-irish-president/106448682",
+    "mean_score": 0.439,
+    "vader_score": 0.8779,
+    "textblob_score": 0.0,
+    "first_sentence": "Irish government minister Kevin Moran has presented WA teenager Austin Appelbee with gifts and a letter from the nation's president, Catherine Connolly.",
+    "timestamp": "2026-03-12T20:01:33Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Iran vows to keep Strait of Hormuz shut in first statement from new Supreme Leader",
+    "link": "https://www.sbs.com.au/news/article/iran-vows-to-keep-strait-of-hormuz-shut-in-first-statement-from-new-supreme-leader/ej46y6rss",
+    "mean_score": 0.3753,
+    "vader_score": 0.5574,
+    "textblob_score": 0.1932,
+    "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+    "timestamp": "2026-03-12T19:55:03Z",
+    "source": "SBS News"
+  },
+  {
+    "headline": "Iran\u2019s New Supreme Leader (Sort Of) Speaks Out",
+    "link": "https://www.bbc.co.uk/sounds/play/p0n6b2hm?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3469,
+    "vader_score": 0.5574,
+    "textblob_score": 0.1364,
+    "first_sentence": "Today, the new Iranian Supreme Leader, Mojtaba Khamenei, gave his first statement pledging to continue blocking the Strait of Hormuz.\n\nThis was delivered not by Khamenei himself, but by a newsreader on Iranian state TV speaking over a photo of him, sparking further speculation as to his health and whereabouts.\n\nAlex and James are joined by Jane Corbin, Panorama film maker, and Baran Abbasi, reporter and presenter for BBC Persian, to discuss what to make of the new Supreme Leader\u2019s statement.\n\nPlus, diplomatic correspondent, James Landale, joins Alex and James from Kyiv to analyse what the US-Israeli war with Iran means for the war in Ukraine and how President Zelensky and President Putin have responded.\n\nYou can now listen to Newscast on a smart speaker.",
+    "timestamp": "2026-03-12T18:59:00Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Weekly quiz: This dog was Best in Show at Crufts - what other prize did he win?",
+    "link": "https://www.bbc.com/news/articles/cn714lpej85o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.7323,
+    "vader_score": 0.9062,
+    "textblob_score": 0.5583,
+    "first_sentence": "This week, Iran appointed a new supreme leader, a German city had to be evacuated when a large WW2 bomb was found, and the UK got a first listen to its unusual entry for this year's Eurovision song contest.",
+    "timestamp": "2026-03-12T17:49:47Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "This tale of a Chicago school book ban was inspired by true events",
+    "link": "https://www.npr.org/2026/03/12/nx-s1-5744667/wake-now-in-the-fire-book-review",
+    "mean_score": 0.345,
+    "vader_score": 0.34,
+    "textblob_score": 0.35,
+    "first_sentence": "I couldn't help but think of little Francie Nolan \u2013 who, like Smith, grew up in the tenements of Brooklyn in the early 20th century and aimed, as a young girl, to read every book she could find \u2013 as I tore through librarian Jarrett Dapier's debut young adult graphic novel, Wake Now in the Fire.",
+    "timestamp": "2026-03-12T17:36:51Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "Special episode planned in The Archers tour",
+    "link": "https://www.bbc.com/news/articles/crk83dg0zxro?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3795,
+    "vader_score": 0.4019,
+    "textblob_score": 0.3571,
+    "first_sentence": "The Archers will mark its 75th anniversary with a national stage tour, it has been announced.",
+    "timestamp": "2026-03-12T17:19:51Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Centuries before the Inca, Peru's wealthy imported parrots from afar",
+    "link": "https://arstechnica.com/science/2026/03/centuries-before-the-inca-perus-wealthy-imported-parrots-from-afar/",
+    "mean_score": 0.4306,
+    "vader_score": 0.3612,
+    "textblob_score": 0.5,
+    "first_sentence": "The Inca Empire\u2019s system of roads were built on centuries-old trade routes.",
+    "timestamp": "2026-03-12T16:49:58Z",
+    "source": "Ars Technica"
+  },
+  {
     "headline": "Medicare Advantage 'dark money' group tries to win higher payments for insurers",
     "link": "https://www.npr.org/2026/03/12/nx-s1-5745891/medicare-advantage-dark-money-insurers",
     "mean_score": 0.4502,
