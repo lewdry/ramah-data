@@ -1,6 +1,76 @@
 {
-  "last run": "2026-03-19T06:21:28Z",
+  "last run": "2026-03-19T09:15:49Z",
   "stories": [
+    {
+      "headline": "Kick your tiredness with these 7 natural energy boosters",
+      "link": "https://www.npr.org/2026/03/19/nx-s1-5751855/tired-energy-fatigue",
+      "mean_score": 0.3287,
+      "vader_score": 0.5574,
+      "textblob_score": 0.1,
+      "first_sentence": "Feeling like a wilted flower most days? Perk up with these natural energy boosters.",
+      "timestamp": "2026-03-19T09:00:00Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "C\u00e9sar Chavez and Dolores Huerta led a movement that won better wages and conditions for farmworkers",
+      "link": "https://apnews.com/article/cesar-chavez-dolores-huerta-sexual-abuse-allegations-ef70eb3f05c25317357aa79e74f76438",
+      "mean_score": 0.6325,
+      "vader_score": 0.765,
+      "textblob_score": 0.5,
+      "first_sentence": "Dolores Huerta and the late C\u00e9sar Chavez are both labor rights icons credited with leading a movement that pushed growers to negotiate for better wages and working conditions for farmworkers.",
+      "timestamp": "2026-03-19T08:53:02Z",
+      "source": "AP News"
+    },
+    {
+      "headline": "Former DHS official on how the agency's next leader can be successful in the role",
+      "link": "https://www.npr.org/2026/03/19/nx-s1-5752165/former-dhs-official-on-how-the-agencys-next-leader-can-be-successful-in-the-role",
+      "mean_score": 0.4179,
+      "vader_score": 0.5859,
+      "textblob_score": 0.25,
+      "first_sentence": "NPR's Steve Inskeep speaks with former DHS official Miles Taylor about the confirmation hearing for Sen.",
+      "timestamp": "2026-03-19T08:43:13Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "Mum 'so proud' of deafblind son's Eastenders debut",
+      "link": "https://www.bbc.com/news/articles/c1kgk9pmpelo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.6383,
+      "vader_score": 0.4767,
+      "textblob_score": 0.8,
+      "first_sentence": "A mum whose five-year-old deafblind son has made his acting debut in Eastenders has said she is \"so proud\" of him and she hopes it will \"break down barriers\" for disabled children.",
+      "timestamp": "2026-03-19T08:40:51Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Better NHS care might have saved 58 babies, BBC finds",
+      "link": "https://www.bbc.com/news/articles/cz9qq8d7l1ko?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.668,
+      "vader_score": 0.836,
+      "textblob_score": 0.5,
+      "first_sentence": "At least 58 babies at an NHS maternity unit might have survived with better care, a BBC investigation has found.",
+      "timestamp": "2026-03-19T07:47:55Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Aurora australis might soon be on display. Here's how to get the best view",
+      "link": "https://www.sbs.com.au/news/article/aurora-australis-southern-lights-where-and-when-to-watch/eumojobwa",
+      "mean_score": 0.8185,
+      "vader_score": 0.6369,
+      "textblob_score": 1.0,
+      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+      "timestamp": "2026-03-19T07:34:43Z",
+      "source": "SBS News"
+    },
+    {
+      "headline": "Mare by Emily Haworth-Booth review \u2013 profound story of a woman\u2019s love for a horse",
+      "link": "https://www.theguardian.com/books/2026/mar/19/mare-by-emily-haworth-booth-review-profound-story-of-a-womans-love-for-a-horse",
+      "mean_score": 0.4643,
+      "vader_score": 0.6369,
+      "textblob_score": 0.2917,
+      "first_sentence": "Mare, Emily Haworth-Booth\u2019s wonderful first novel for adults, is about a woman confronting three life-altering crises.",
+      "timestamp": "2026-03-19T07:00:01Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "We need to be honest about Iran \u2013 and how our rampant greed for oil is causing mayhem | George Monbiot",
       "link": "https://www.theguardian.com/commentisfree/2026/mar/19/iran-greed-oil-capitalism-regimes",
@@ -2430,76 +2500,6 @@
       "first_sentence": "NFL teams have committed billions of dollars in free agency, hoping the players they\u2019ve added can help them win a Super Bowl.",
       "timestamp": "2026-03-12T16:23:02Z",
       "source": "AP News"
-    },
-    {
-      "headline": "\u2018Casting is a very easy thing for others to credit for\u2019: Richard E Grant on cinema\u2019s invisible moguls",
-      "link": "https://www.theguardian.com/film/2026/mar/12/everyone-thinks-they-could-do-it-but-they-dont-understand-how-good-we-have-to-be-the-hidden-art-of-the-casting-director",
-      "mean_score": 0.6852,
-      "vader_score": 0.807,
-      "textblob_score": 0.5633,
-      "first_sentence": "This Sunday, casting directors will be honoured at the Oscars for the first time.",
-      "timestamp": "2026-03-12T15:41:56Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Rapper-politician Balendra Shah's party wins Nepal election",
-      "link": "https://www.bbc.com/news/articles/c8jxnjvjkg7o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5253,
-      "vader_score": 0.7506,
-      "textblob_score": 0.3,
-      "first_sentence": "The Rastriya Swatantra Party (RSP) has won a landslide in Nepal's election - the first held since last year's youth-led protests toppled the then government.",
-      "timestamp": "2026-03-12T15:25:35Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "The were dating AI partners when they found real love \u2013 with each other",
-      "link": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/mar/12/ai-partners-dumped",
-      "mean_score": 0.4747,
-      "vader_score": 0.6369,
-      "textblob_score": 0.3125,
-      "first_sentence": "People are reporting \u201cdating\u201d artificially intelligent companions \u2013 but not every relationship lasts.",
-      "timestamp": "2026-03-12T15:00:33Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "'I imagine they had a healthy sex life early on' - Jones and Grant in Austen-inspired drama",
-      "link": "https://www.bbc.com/news/articles/cy03jw2g78no?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4685,
-      "vader_score": 0.6369,
-      "textblob_score": 0.3,
-      "first_sentence": "Ruth Jones says she is \"stepping into very big shoes\" as she stars in a new BBC comedy series inspired by Jane Austen's Pride and Prejudice.",
-      "timestamp": "2026-03-12T14:50:48Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Capital gains tax discount \u2018overwhelmingly\u2019 benefits investors in Australia\u2019s richest electorates, analysis shows",
-      "link": "https://www.theguardian.com/australia-news/2026/mar/12/capital-gains-tax-discount-overwhelmingly-benefits-investors-in-australias-richest-electorates-analysis-shows",
-      "mean_score": 0.6563,
-      "vader_score": 0.8126,
-      "textblob_score": 0.5,
-      "first_sentence": "Investors who live in the wealthy electorate of Wentworth in Sydney\u2019s eastern suburbs claimed about $1.8bn from the 50% capital gains tax discount, according to new research.",
-      "timestamp": "2026-03-12T14:00:27Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Sydney Biennale 2026: politics is everywhere \u2013 but with nuance, beauty and heart",
-      "link": "https://www.theguardian.com/culture/ng-interactive/2026/mar/13/sydney-biennale-2026-highlights-politics-nuance-beauty",
-      "mean_score": 0.4593,
-      "vader_score": 0.9186,
-      "textblob_score": 0.0,
-      "first_sentence": "According to its critics, this year\u2019s Biennale of Sydney, under the leadership of Emirati artistic director Hoor Al Qasimi (the first Arab appointed to the role in the festival\u2019s 53-year history) was destined to be a \u201chate Israel jamboree\u201d at worst; a hotbed of pro-Palestinian politics at best.",
-      "timestamp": "2026-03-12T14:00:27Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Chilean Smiljan Radi\u0107 Clarke wins architecture's highest honor",
-      "link": "https://www.npr.org/2026/03/12/nx-s1-5743590/smiljan-radic-clarke-pritzker-prize-architect",
-      "mean_score": 0.5423,
-      "vader_score": 0.7845,
-      "textblob_score": 0.3,
-      "first_sentence": "Smiljan Radi\u0107 Clarke was named the newest Pritzker Prize-winner \u2014 an award often called the Nobel of architecture \u2014 Thursday morning.",
-      "timestamp": "2026-03-12T13:44:22Z",
-      "source": "NPR News"
     }
   ]
 }
