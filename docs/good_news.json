@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-18T21:12:34Z",
+  "last run": "2026-03-19T00:21:36Z",
   "stories": [
+    {
+      "headline": "Check mates: analysis of medieval chess sets reveal vision of equality and mutual respect",
+      "link": "https://www.theguardian.com/world/2026/mar/19/medieval-chess-set-equality-respect",
+      "mean_score": 0.3125,
+      "vader_score": 0.6249,
+      "textblob_score": 0.0,
+      "first_sentence": "On the chessboard, black and white pieces are lined up against each other for an unrelenting battle.",
+      "timestamp": "2026-03-19T00:01:53Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "'One of the greatest': Influential former judge dies weeks shy of 101st birthday",
+      "link": "https://www.abc.net.au/news/2026-03-19/nsw-sir-anthony-mason-chief-justice-dies/106471390",
+      "mean_score": 0.4468,
+      "vader_score": 0.7269,
+      "textblob_score": 0.1667,
+      "first_sentence": "Sir Anthony Mason, who presided as chief judge of the High Court between 1987 and 1995, has died aged 100.",
+      "timestamp": "2026-03-18T21:59:13Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Liverpool v Galatasaray, Spurs v Atl\u00e9tico Madrid and more: Champions League last-16 second legs \u2013 live",
       "link": "https://www.theguardian.com/football/live/2026/mar/18/champions-league-last-16-liverpool-galatasaray-tottenham-atletico-madrid-live",
@@ -150,6 +170,16 @@
       "first_sentence": "The Productivity Commission's latest Closing the Gap data shows only four out of 19 targets are on track.",
       "timestamp": "2026-03-18T11:31:34Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "Top WNBA players set to make more than $1m a year after new CBA agreed in principle",
+      "link": "https://www.theguardian.com/sport/2026/mar/18/wnba-new-cba-player-salaries-basketball",
+      "mean_score": 0.4096,
+      "vader_score": 0.4404,
+      "textblob_score": 0.3788,
+      "first_sentence": "The WNBA and its players\u2019 union reached an agreement in principle on a new collective bargaining agreement early Wednesday morning.",
+      "timestamp": "2026-03-18T11:27:04Z",
+      "source": "The Guardian"
     },
     {
       "headline": "We asked experts about the most responsible ways to use AI tools \u2013 here\u2019s what they said",
@@ -2382,6 +2412,16 @@
       "source": "The Guardian"
     },
     {
+      "headline": "'I imagine they had a healthy sex life early on' - Jones and Grant in Austen-inspired drama",
+      "link": "https://www.bbc.com/news/articles/cy03jw2g78no?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4685,
+      "vader_score": 0.6369,
+      "textblob_score": 0.3,
+      "first_sentence": "Ruth Jones says she is \"stepping into very big shoes\" as she stars in a new BBC comedy series inspired by Jane Austen's Pride and Prejudice.",
+      "timestamp": "2026-03-12T14:50:48Z",
+      "source": "BBC News"
+    },
+    {
       "headline": "Capital gains tax discount \u2018overwhelmingly\u2019 benefits investors in Australia\u2019s richest electorates, analysis shows",
       "link": "https://www.theguardian.com/australia-news/2026/mar/12/capital-gains-tax-discount-overwhelmingly-benefits-investors-in-australias-richest-electorates-analysis-shows",
       "mean_score": 0.6563,
@@ -2459,46 +2499,6 @@
       "textblob_score": 0.75,
       "first_sentence": "London, San Francisco and Beijing are among 19 global cities that have achieved \u201cremarkable reductions\u201d in air pollution, analysis has found, having slashed levels of two airway-aggravating pollutants by more than 20% since 2010.",
       "timestamp": "2026-03-12T09:00:13Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Why Sentimental Value should win the best picture Oscar",
-      "link": "https://www.theguardian.com/film/2026/mar/12/why-sentimental-value-should-win-the-best-picture-oscar",
-      "mean_score": 0.7151,
-      "vader_score": 0.9136,
-      "textblob_score": 0.5167,
-      "first_sentence": "This is a best picture race full of ambitious ideas and big swings.",
-      "timestamp": "2026-03-12T08:00:12Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "John Lewis to pay first staff bonus for four years",
-      "link": "https://www.bbc.com/news/articles/c626emvy1z7o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3634,
-      "vader_score": 0.4767,
-      "textblob_score": 0.25,
-      "first_sentence": "John Lewis is awarding its staff a bonus for the first time in four years as the retailer continues its turnaround.",
-      "timestamp": "2026-03-12T07:54:50Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Blues hang on for scratchy but vital win over Tigers at the MCG",
-      "link": "https://www.abc.net.au/news/2026-03-12/afl-round-one-carlton-richmond-live-blog/106443928",
-      "mean_score": 0.6451,
-      "vader_score": 0.8402,
-      "textblob_score": 0.45,
-      "first_sentence": "Carlton has kicked only one goal in the second half, but it is just enough to hold off a late charge by a wayward Richmond at the MCG.",
-      "timestamp": "2026-03-12T07:37:14Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "John Lewis pays first annual staff bonus in four years as profits rise",
-      "link": "https://www.theguardian.com/business/2026/mar/12/john-lewis-pays-first-annual-staff-bonus-in-four-years-as-profits-rise",
-      "mean_score": 0.5003,
-      "vader_score": 0.7506,
-      "textblob_score": 0.25,
-      "first_sentence": "The owner of John Lewis and Waitrose has paid an annual bonus to workers for the first time in four years after underlying profits rose by 6%.",
-      "timestamp": "2026-03-12T07:19:40Z",
       "source": "The Guardian"
     }
   ]

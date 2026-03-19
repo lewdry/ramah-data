@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Why Sentimental Value should win the best picture Oscar",
+    "link": "https://www.theguardian.com/film/2026/mar/12/why-sentimental-value-should-win-the-best-picture-oscar",
+    "mean_score": 0.7151,
+    "vader_score": 0.9136,
+    "textblob_score": 0.5167,
+    "first_sentence": "This is a best picture race full of ambitious ideas and big swings.",
+    "timestamp": "2026-03-12T08:00:12Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "John Lewis to pay first staff bonus for four years",
+    "link": "https://www.bbc.com/news/articles/c626emvy1z7o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3634,
+    "vader_score": 0.4767,
+    "textblob_score": 0.25,
+    "first_sentence": "John Lewis is awarding its staff a bonus for the first time in four years as the retailer continues its turnaround.",
+    "timestamp": "2026-03-12T07:54:50Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Blues hang on for scratchy but vital win over Tigers at the MCG",
+    "link": "https://www.abc.net.au/news/2026-03-12/afl-round-one-carlton-richmond-live-blog/106443928",
+    "mean_score": 0.6451,
+    "vader_score": 0.8402,
+    "textblob_score": 0.45,
+    "first_sentence": "Carlton has kicked only one goal in the second half, but it is just enough to hold off a late charge by a wayward Richmond at the MCG.",
+    "timestamp": "2026-03-12T07:37:14Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "John Lewis pays first annual staff bonus in four years as profits rise",
+    "link": "https://www.theguardian.com/business/2026/mar/12/john-lewis-pays-first-annual-staff-bonus-in-four-years-as-profits-rise",
+    "mean_score": 0.5003,
+    "vader_score": 0.7506,
+    "textblob_score": 0.25,
+    "first_sentence": "The owner of John Lewis and Waitrose has paid an annual bonus to workers for the first time in four years after underlying profits rose by 6%.",
+    "timestamp": "2026-03-12T07:19:40Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "'I imagine they had a healthy sex life early on' - Ruth Jones in Austen-inspired drama",
     "link": "https://www.bbc.com/news/articles/cy03jw2g78no?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.3509,
