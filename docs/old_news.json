@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Medicare Advantage 'dark money' group tries to win higher payments for insurers",
+    "link": "https://www.npr.org/2026/03/12/nx-s1-5745891/medicare-advantage-dark-money-insurers",
+    "mean_score": 0.4502,
+    "vader_score": 0.7003,
+    "textblob_score": 0.2,
+    "first_sentence": "Judging by more than 16,300 comments recently posted on a federal government website, you'd think there was a groundswell of older Americans demanding that federal officials hike payments to their Medicare Advantage health insurance plans.",
+    "timestamp": "2026-03-12T16:44:48Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "NFL free agency: Panthers, 49ers, Patriots, Jets and Rams are early winners",
+    "link": "https://apnews.com/article/nfl-free-agency-winners-losers-3bd3c58016cd8a9eb21f6f7535915056",
+    "mean_score": 0.5003,
+    "vader_score": 0.7506,
+    "textblob_score": 0.25,
+    "first_sentence": "NFL teams have committed billions of dollars in free agency, hoping the players they\u2019ve added can help them win a Super Bowl.",
+    "timestamp": "2026-03-12T16:23:02Z",
+    "source": "AP News"
+  },
+  {
     "headline": "\u2018Casting is a very easy thing for others to credit for\u2019: Richard E Grant on cinema\u2019s invisible moguls",
     "link": "https://www.theguardian.com/film/2026/mar/12/everyone-thinks-they-could-do-it-but-they-dont-understand-how-good-we-have-to-be-the-hidden-art-of-the-casting-director",
     "mean_score": 0.6852,

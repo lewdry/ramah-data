@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-19T09:15:49Z",
+  "last run": "2026-03-19T12:11:48Z",
   "stories": [
+    {
+      "headline": "Nightclub linked to outbreak 'won't open until people are safe' says owner",
+      "link": "https://www.bbc.com/news/articles/cpw0wwgwkr1o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3452,
+      "vader_score": 0.4404,
+      "textblob_score": 0.25,
+      "first_sentence": "The owner of a nightclub linked to the centre of a deadly meningitis outbreak in Kent says it \"will not open until this is under control\" after two members of staff were hospitalised.",
+      "timestamp": "2026-03-19T11:47:08Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Kick your tiredness with these 7 natural energy boosters",
       "link": "https://www.npr.org/2026/03/19/nx-s1-5751855/tired-energy-fatigue",
@@ -40,6 +50,16 @@
       "first_sentence": "A mum whose five-year-old deafblind son has made his acting debut in Eastenders has said she is \"so proud\" of him and she hopes it will \"break down barriers\" for disabled children.",
       "timestamp": "2026-03-19T08:40:51Z",
       "source": "BBC News"
+    },
+    {
+      "headline": "Live: Great Gunston gets Hawks home at the MCG",
+      "link": "https://www.abc.net.au/news/2026-03-19/afl-thursday-hawks-swans-blog/106474504",
+      "mean_score": 0.5465,
+      "vader_score": 0.6249,
+      "textblob_score": 0.4682,
+      "first_sentence": "Hawthorn finishes over the top of an understrength Sydney side to knock off the ladder-leaders at the MCG, thanks to a four-goal haul from Jack Gunston.",
+      "timestamp": "2026-03-19T07:58:32Z",
+      "source": "ABC News"
     },
     {
       "headline": "Better NHS care might have saved 58 babies, BBC finds",
@@ -2480,26 +2500,6 @@
       "first_sentence": "The Inca Empire\u2019s system of roads were built on centuries-old trade routes.",
       "timestamp": "2026-03-12T16:49:58Z",
       "source": "Ars Technica"
-    },
-    {
-      "headline": "Medicare Advantage 'dark money' group tries to win higher payments for insurers",
-      "link": "https://www.npr.org/2026/03/12/nx-s1-5745891/medicare-advantage-dark-money-insurers",
-      "mean_score": 0.4502,
-      "vader_score": 0.7003,
-      "textblob_score": 0.2,
-      "first_sentence": "Judging by more than 16,300 comments recently posted on a federal government website, you'd think there was a groundswell of older Americans demanding that federal officials hike payments to their Medicare Advantage health insurance plans.",
-      "timestamp": "2026-03-12T16:44:48Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "NFL free agency: Panthers, 49ers, Patriots, Jets and Rams are early winners",
-      "link": "https://apnews.com/article/nfl-free-agency-winners-losers-3bd3c58016cd8a9eb21f6f7535915056",
-      "mean_score": 0.5003,
-      "vader_score": 0.7506,
-      "textblob_score": 0.25,
-      "first_sentence": "NFL teams have committed billions of dollars in free agency, hoping the players they\u2019ve added can help them win a Super Bowl.",
-      "timestamp": "2026-03-12T16:23:02Z",
-      "source": "AP News"
     }
   ]
 }
