@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-19T15:17:33Z",
+  "last run": "2026-03-19T18:17:42Z",
   "stories": [
+    {
+      "headline": "Huge queues for jabs as meningitis vaccination scheme expanded",
+      "link": "https://www.bbc.com/news/articles/cwyk44px2j5o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3591,
+      "vader_score": 0.3182,
+      "textblob_score": 0.4,
+      "first_sentence": "A meningitis vaccination programme has been expanded following a deadly outbreak in Kent - with university students queuing for hours for jabs.",
+      "timestamp": "2026-03-19T18:09:26Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Afroman keeps trolling cops after winning \u201cLemon Pound Cake\u201d defamation case",
+      "link": "https://arstechnica.com/tech-policy/2026/03/afroman-keeps-trolling-cops-after-winning-lemon-pound-cake-defamation-case/",
+      "mean_score": 0.5133,
+      "vader_score": 0.5267,
+      "textblob_score": 0.5,
+      "first_sentence": "Cops asked the jury for millions after Afroman used raid footage in music videos.",
+      "timestamp": "2026-03-19T17:45:28Z",
+      "source": "Ars Technica"
+    },
     {
       "headline": "The best pressure washers in the UK for cleaning garden furniture and patios \u2013 tested",
       "link": "https://www.theguardian.com/thefilter/2025/apr/18/best-pressure-washers-cleaners-uk",
@@ -2479,26 +2499,6 @@
       "textblob_score": 1.0,
       "first_sentence": "The Australian women's curling team is competing at the world championships for the first time.",
       "timestamp": "2026-03-12T23:33:25Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Loved one stuck inside the manosphere? Here's how to help",
-      "link": "https://www.abc.net.au/news/2026-03-13/how-to-talk-to-boys-and-young-men-about-the-manosphere/106447888",
-      "mean_score": 0.6904,
-      "vader_score": 0.6808,
-      "textblob_score": 0.7,
-      "first_sentence": "Researchers agree the manosphere can sow some dangerous seeds.",
-      "timestamp": "2026-03-12T22:20:38Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "When the Matildas played in North Korea a full stadium laughed at them",
-      "link": "https://www.abc.net.au/news/2026-03-13/matildas-north-korea-2007-in-pyongyang-hostile-match/106432732",
-      "mean_score": 0.5923,
-      "vader_score": 0.6597,
-      "textblob_score": 0.525,
-      "first_sentence": "In 2007 the Matildas found themselves on a bus travelling through empty streets of North Korea.",
-      "timestamp": "2026-03-12T20:35:49Z",
       "source": "ABC News"
     }
   ]
