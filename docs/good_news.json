@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-19T18:17:42Z",
+  "last run": "2026-03-19T21:11:37Z",
   "stories": [
+    {
+      "headline": "Xavier Edmonds\u2019 layup with 4.3 seconds left lifts TCU to 66-64 March Madness win over Ohio State",
+      "link": "https://apnews.com/article/tcu-ohio-state-score-march-madness-c2d8c7a561d1bfb176cac8feafd24eba",
+      "mean_score": 0.3132,
+      "vader_score": 0.2263,
+      "textblob_score": 0.4,
+      "first_sentence": "GREENVILLE, S.C.",
+      "timestamp": "2026-03-19T19:53:02Z",
+      "source": "AP News"
+    },
+    {
+      "headline": "Concerns over super balances as around $250b wiped off Australian share market",
+      "link": "https://www.abc.net.au/news/2026-03-20/middle-east-war-australian-superannuation-funds/106468230",
+      "mean_score": 0.4468,
+      "vader_score": 0.7269,
+      "textblob_score": 0.1667,
+      "first_sentence": "The war in the Middle East is escalating with more attacks on critical energy infrastructure.",
+      "timestamp": "2026-03-19T18:49:12Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Huge queues for jabs as meningitis vaccination scheme expanded",
       "link": "https://www.bbc.com/news/articles/cwyk44px2j5o?at_medium=RSS&at_campaign=rss",
@@ -22,6 +42,16 @@
       "source": "Ars Technica"
     },
     {
+      "headline": "Premier League set to amend spending rules to give clubs more flexibility for transfers",
+      "link": "https://www.theguardian.com/football/2026/mar/19/premier-league-spending-rules-squad-cost-ratio",
+      "mean_score": 0.4503,
+      "vader_score": 0.4005,
+      "textblob_score": 0.5,
+      "first_sentence": "The Premier League is poised to amend its new spending rules before they are introduced next season to give clubs greater flexibility in the transfer market.",
+      "timestamp": "2026-03-19T17:06:42Z",
+      "source": "The Guardian"
+    },
+    {
       "headline": "The best pressure washers in the UK for cleaning garden furniture and patios \u2013 tested",
       "link": "https://www.theguardian.com/thefilter/2025/apr/18/best-pressure-washers-cleaners-uk",
       "mean_score": 0.7294,
@@ -39,6 +69,16 @@
       "textblob_score": 1.0,
       "first_sentence": "Every great performer should have at least one baffling movie on their CV, and this curio, produced by Ismail Merchant, is Dianne Wiest\u2019s.",
       "timestamp": "2026-03-19T14:19:07Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Pr\u00edncipe Discos: how Black DJs from Lisbon\u2019s suburbs made Europe\u2019s most exciting record label",
+      "link": "https://www.theguardian.com/music/2026/mar/19/principe-record-label-lisbon-anniversary",
+      "mean_score": 0.3762,
+      "vader_score": 0.5413,
+      "textblob_score": 0.2111,
+      "first_sentence": "It\u2019s just after 11.30pm on a Friday in early March, and the air at Lux Fr\u00e1gil is already thick with excitement.",
+      "timestamp": "2026-03-19T14:01:41Z",
       "source": "The Guardian"
     },
     {
@@ -2459,46 +2499,6 @@
       "textblob_score": 0.35,
       "first_sentence": "Qantas has agreed to settle a class action\u00a0\u200brelated to flight credits issued during the COVID-19\u00a0\u200cpandemic.",
       "timestamp": "2026-03-13T01:16:44Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Australians are right to ask \u2018is this good enough?\u2019 when it comes to the Nacc\u2019s final robodebt report | A J Brown",
-      "link": "https://www.theguardian.com/commentisfree/2026/mar/13/nacc-final-robodebt-report-corruption-australia-reaction-ntwnfb",
-      "mean_score": 0.3846,
-      "vader_score": 0.5228,
-      "textblob_score": 0.2464,
-      "first_sentence": "Disappointed reactions to the National Anti-Corruption Commission\u2019s long-awaited robodebt report say a lot about what many Australians have been expecting from the almost three-year-old Nacc.",
-      "timestamp": "2026-03-13T01:01:22Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "French vote tests polarised electorate with right hoping to win control of Paris",
-      "link": "https://www.bbc.com/news/articles/cdxzzqye9w0o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5635,
-      "vader_score": 0.765,
-      "textblob_score": 0.3619,
-      "first_sentence": "France is preparing to vote in town council elections, whose results will be closely analysed for trends ahead of next year's presidential votes.",
-      "timestamp": "2026-03-13T00:15:23Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Winners, Sinners and record breakers: 17 fun facts about this year's Oscars",
-      "link": "https://www.bbc.com/news/articles/c1je21lgn5zo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5253,
-      "vader_score": 0.7506,
-      "textblob_score": 0.3,
-      "first_sentence": "When Sinners director Ryan Coogler went to the movies as a child, he would smuggle in some snacks - and get particularly creative with the cinema's drinks machine.",
-      "timestamp": "2026-03-13T00:02:30Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Aussie curling underdogs set to take on world's best",
-      "link": "https://www.abc.net.au/news/2026-03-13/australian-womens-curling-team-world-championships-first/106444858",
-      "mean_score": 0.8185,
-      "vader_score": 0.6369,
-      "textblob_score": 1.0,
-      "first_sentence": "The Australian women's curling team is competing at the world championships for the first time.",
-      "timestamp": "2026-03-12T23:33:25Z",
       "source": "ABC News"
     }
   ]
