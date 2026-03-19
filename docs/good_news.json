@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-19T00:21:36Z",
+  "last run": "2026-03-19T03:52:19Z",
   "stories": [
+    {
+      "headline": "Ryan Gosling on bringing humour to sci-fi adventure Project Hail Mary",
+      "link": "https://www.bbc.com/news/articles/cm2xrxp3kz0o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3454,
+      "vader_score": 0.6908,
+      "textblob_score": 0.0,
+      "first_sentence": "Humour and science fiction may not seem obvious bedfellows but a history of cinema will tell you different.",
+      "timestamp": "2026-03-19T00:53:59Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Check mates: analysis of medieval chess sets reveal vision of equality and mutual respect",
       "link": "https://www.theguardian.com/world/2026/mar/19/medieval-chess-set-equality-respect",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.5,
       "first_sentence": "Smoking is bad for you and you shouldn\u2019t do it.",
       "timestamp": "2026-03-12T10:26:38Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "London, San Francisco and Beijing achieve \u2018remarkable reductions\u2019 in air pollution",
-      "link": "https://www.theguardian.com/environment/2026/mar/12/london-san-francisco-and-beijing-achieve-remarkable-reductions-in-air-pollution",
-      "mean_score": 0.375,
-      "vader_score": 0.0,
-      "textblob_score": 0.75,
-      "first_sentence": "London, San Francisco and Beijing are among 19 global cities that have achieved \u201cremarkable reductions\u201d in air pollution, analysis has found, having slashed levels of two airway-aggravating pollutants by more than 20% since 2010.",
-      "timestamp": "2026-03-12T09:00:13Z",
       "source": "The Guardian"
     }
   ]
