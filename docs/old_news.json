@@ -1,5 +1,45 @@
 [
   {
+    "headline": "How do these grab you, darlin\u2019? Nancy Sinatra\u2019s 20 best songs \u2013 ranked!",
+    "link": "https://www.theguardian.com/music/2026/mar/12/nancy-sinatra-20-best-songs-ranked",
+    "mean_score": 0.8348,
+    "vader_score": 0.6696,
+    "textblob_score": 1.0,
+    "first_sentence": "Before she sang a Bond theme, Nancy Sinatra had recorded a parody of one: twanging guitar, John-Barry-mocking brass and all.",
+    "timestamp": "2026-03-12T13:04:30Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "\u2018Unbelievably unequal\u2019: report shows how 1% of Mexicans own 40% of country\u2019s wealth",
+    "link": "https://www.theguardian.com/world/2026/mar/12/mexico-city-neighborhoods-inequality",
+    "mean_score": 0.3345,
+    "vader_score": 0.4939,
+    "textblob_score": 0.175,
+    "first_sentence": "Scrunched between luxury apartment buildings and a lush gated community, the neighborhood of Santa Luc\u00eda Reacomodo in Mexico City is a working-class pocket of real estate.",
+    "timestamp": "2026-03-12T11:00:21Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Save our soles! Cobblers on the 15 best ways to look after your shoes",
+    "link": "https://www.theguardian.com/fashion/2026/mar/12/the-experts-cobblers-on-15-best-ways-to-look-after-shoes",
+    "mean_score": 0.9134,
+    "vader_score": 0.8268,
+    "textblob_score": 1.0,
+    "first_sentence": "Now that trainers have supplanted smart shoes for so many occasions, and people replace them as often as fashion and budget allow, shoe maintenance is becoming a lost art.",
+    "timestamp": "2026-03-12T10:44:15Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Why is smoking so addictive \u2013 and what are the best ways to give up?",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/mar/12/why-is-smoking-so-addictive-and-what-are-the-best-ways-to-give-up",
+    "mean_score": 0.5685,
+    "vader_score": 0.6369,
+    "textblob_score": 0.5,
+    "first_sentence": "Smoking is bad for you and you shouldn\u2019t do it.",
+    "timestamp": "2026-03-12T10:26:38Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "London, San Francisco and Beijing achieve \u2018remarkable reductions\u2019 in air pollution",
     "link": "https://www.theguardian.com/environment/2026/mar/12/london-san-francisco-and-beijing-achieve-remarkable-reductions-in-air-pollution",
     "mean_score": 0.375,

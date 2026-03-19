@@ -1,6 +1,46 @@
 {
-  "last run": "2026-03-19T03:52:19Z",
+  "last run": "2026-03-19T06:21:28Z",
   "stories": [
+    {
+      "headline": "We need to be honest about Iran \u2013 and how our rampant greed for oil is causing mayhem | George Monbiot",
+      "link": "https://www.theguardian.com/commentisfree/2026/mar/19/iran-greed-oil-capitalism-regimes",
+      "mean_score": 0.3765,
+      "vader_score": 0.1531,
+      "textblob_score": 0.6,
+      "first_sentence": "I realise this is a serious breach of etiquette.",
+      "timestamp": "2026-03-19T06:00:02Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Night buses will run to every Greater Manchester borough as Bee Network expands",
+      "link": "https://www.theguardian.com/uk-news/2026/mar/19/night-buses-to-run-every-greater-manchester-borough-bee-network-expansion",
+      "mean_score": 0.4702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.5,
+      "first_sentence": "Night buses will run to every borough in Greater Manchester as the city region expands its publicly controlled Bee Network.",
+      "timestamp": "2026-03-19T06:00:01Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Last One Laughing UK review \u2013 the funniest TV show of the year",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/mar/19/last-one-laughing-uk-review-the-funniest-tv-show-of-the-year",
+      "mean_score": 0.3891,
+      "vader_score": 0.7783,
+      "textblob_score": 0.0,
+      "first_sentence": "It could easily have been a fluke.",
+      "timestamp": "2026-03-19T05:00:59Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Lizzy Hoo's surprising love of Mongolian indie rock",
+      "link": "https://www.abc.net.au/news/2026-03-19/lizzy-hoo-mongolia-take-5-podcast/106468644",
+      "mean_score": 0.5715,
+      "vader_score": 0.743,
+      "textblob_score": 0.4,
+      "first_sentence": "Australian comedian Lizzy Hoo loves an adventure, a trait she reckons she inherited from her mum, who left Toowoomba to go backpacking in the 70s.",
+      "timestamp": "2026-03-19T04:34:57Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Ryan Gosling on bringing humour to sci-fi adventure Project Hail Mary",
       "link": "https://www.bbc.com/news/articles/cm2xrxp3kz0o?at_medium=RSS&at_campaign=rss",
@@ -2460,46 +2500,6 @@
       "first_sentence": "Smiljan Radi\u0107 Clarke was named the newest Pritzker Prize-winner \u2014 an award often called the Nobel of architecture \u2014 Thursday morning.",
       "timestamp": "2026-03-12T13:44:22Z",
       "source": "NPR News"
-    },
-    {
-      "headline": "How do these grab you, darlin\u2019? Nancy Sinatra\u2019s 20 best songs \u2013 ranked!",
-      "link": "https://www.theguardian.com/music/2026/mar/12/nancy-sinatra-20-best-songs-ranked",
-      "mean_score": 0.8348,
-      "vader_score": 0.6696,
-      "textblob_score": 1.0,
-      "first_sentence": "Before she sang a Bond theme, Nancy Sinatra had recorded a parody of one: twanging guitar, John-Barry-mocking brass and all.",
-      "timestamp": "2026-03-12T13:04:30Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018Unbelievably unequal\u2019: report shows how 1% of Mexicans own 40% of country\u2019s wealth",
-      "link": "https://www.theguardian.com/world/2026/mar/12/mexico-city-neighborhoods-inequality",
-      "mean_score": 0.3345,
-      "vader_score": 0.4939,
-      "textblob_score": 0.175,
-      "first_sentence": "Scrunched between luxury apartment buildings and a lush gated community, the neighborhood of Santa Luc\u00eda Reacomodo in Mexico City is a working-class pocket of real estate.",
-      "timestamp": "2026-03-12T11:00:21Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Save our soles! Cobblers on the 15 best ways to look after your shoes",
-      "link": "https://www.theguardian.com/fashion/2026/mar/12/the-experts-cobblers-on-15-best-ways-to-look-after-shoes",
-      "mean_score": 0.9134,
-      "vader_score": 0.8268,
-      "textblob_score": 1.0,
-      "first_sentence": "Now that trainers have supplanted smart shoes for so many occasions, and people replace them as often as fashion and budget allow, shoe maintenance is becoming a lost art.",
-      "timestamp": "2026-03-12T10:44:15Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Why is smoking so addictive \u2013 and what are the best ways to give up?",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/mar/12/why-is-smoking-so-addictive-and-what-are-the-best-ways-to-give-up",
-      "mean_score": 0.5685,
-      "vader_score": 0.6369,
-      "textblob_score": 0.5,
-      "first_sentence": "Smoking is bad for you and you shouldn\u2019t do it.",
-      "timestamp": "2026-03-12T10:26:38Z",
-      "source": "The Guardian"
     }
   ]
 }
