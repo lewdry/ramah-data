@@ -1,6 +1,106 @@
 {
-  "last run": "2026-03-20T12:10:44Z",
+  "last run": "2026-03-20T15:16:12Z",
   "stories": [
+    {
+      "headline": "Work from home and drive more slowly to save energy, global body urges",
+      "link": "https://www.bbc.com/news/articles/cvg4540d0g4o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3719,
+      "vader_score": 0.6771,
+      "textblob_score": 0.0667,
+      "first_sentence": "With energy prices still high due to the conflict in the Gulf, governments around the world are being urged to reduce driving speed limits and encourage more working from home.",
+      "timestamp": "2026-03-20T15:05:03Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "\u2018We need to think much bigger\u2019: trade minister calls for greater ambition in UK-EU reset",
+      "link": "https://www.theguardian.com/politics/2026/mar/20/trade-minister-chris-bryant-uk-eu-reset-ambition",
+      "mean_score": 0.3056,
+      "vader_score": 0.3612,
+      "textblob_score": 0.25,
+      "first_sentence": "It was all smiles and warm handshakes when the two men in charge of renegotiating the UK\u2019s relationship with the EU met in Brussels this week.",
+      "timestamp": "2026-03-20T15:00:27Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Jehovah\u2019s Witnesses ease policy on transfusions, allowing storage and use of one\u2019s own blood",
+      "link": "https://apnews.com/article/jehovahs-witnesses-blood-transfusion-policy-change-3b01d3b095fe895a131633192a774e17",
+      "mean_score": 0.4806,
+      "vader_score": 0.3612,
+      "textblob_score": 0.6,
+      "first_sentence": "Leaders of Jehovah\u2019s Witnesses are modifying their prohibition on receiving blood transfusions on religious grounds, now allowing members to decide whether to allow their own blood to be drawn and stored in advance for such things as a scheduled surgery with a risk of significant blood loss.",
+      "timestamp": "2026-03-20T14:23:02Z",
+      "source": "AP News"
+    },
+    {
+      "headline": "Many states count mail ballots that arrive after Election Day. Those grace periods could go away",
+      "link": "https://apnews.com/article/supreme-court-mail-ballots-election-day-mississippi-2d83cde64284e9e06d19162a45065801",
+      "mean_score": 0.4607,
+      "vader_score": 0.4215,
+      "textblob_score": 0.5,
+      "first_sentence": "There will be just one Election Day for this fall\u2019s midterm elections \u2014 Nov.",
+      "timestamp": "2026-03-20T14:23:02Z",
+      "source": "AP News"
+    },
+    {
+      "headline": "\u2018We need to believe\u2019: Matildas embrace underdogs tag for last shot at home glory in Women\u2019s Asian Cup",
+      "link": "https://www.theguardian.com/football/2026/mar/21/matildas-womens-asian-cup-final-embrace-underdog-tag",
+      "mean_score": 0.3502,
+      "vader_score": 0.7003,
+      "textblob_score": 0.0,
+      "first_sentence": "The end is nigh, and Ellie Carpenter \u2013 even though she is not 26 for another month \u2013 knows it.",
+      "timestamp": "2026-03-20T14:00:27Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "What\u2019s the best solution to the world\u2019s current problems? | Fiona Katauskas",
+      "link": "https://www.theguardian.com/commentisfree/picture/2026/mar/20/whats-the-best-solution-to-the-worlds-current-problems",
+      "mean_score": 0.543,
+      "vader_score": 0.5859,
+      "textblob_score": 0.5,
+      "first_sentence": "Implementing it may be a challenge, howeverSee more of Fiona Katauskas\u2019s cartoons here Continue reading.",
+      "timestamp": "2026-03-20T14:00:25Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "South Australian election: Labor heads for a win, the Liberals a battering and One Nation a test of surging support",
+      "link": "https://www.theguardian.com/australia-news/2026/mar/21/south-australia-election-labor-leading-liberals-one-nation-surge-ntwnfb",
+      "mean_score": 0.579,
+      "vader_score": 0.7579,
+      "textblob_score": 0.4,
+      "first_sentence": "In an odd campaign Peter Malinauskas mocks Pauline Hanson\u2019s anti-immigration stance and she finger-wags back.",
+      "timestamp": "2026-03-20T14:00:25Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "The best bike lights in the US to see and be seen",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/mar/20/best-bike-lights-us",
+      "mean_score": 0.8185,
+      "vader_score": 0.6369,
+      "textblob_score": 1.0,
+      "first_sentence": "The Guardian\u2019s journalism is independent.",
+      "timestamp": "2026-03-20T13:30:24Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Matisse, 1941-1954 review \u2013 hit after glorious hit in a show of life-enhancing genius",
+      "link": "https://www.theguardian.com/artanddesign/2026/mar/20/henri-matisse-1941-1954-review-grand-palais-paris",
+      "mean_score": 0.3185,
+      "vader_score": 0.6369,
+      "textblob_score": 0.0,
+      "first_sentence": "Forget the joy and energy of youth \u2013 your best days might yet be ahead.",
+      "timestamp": "2026-03-20T13:22:29Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Cocktail of the week: Bear by Carlo Scotto\u2019s wild garlic martini \u2013 recipe | The good mixer",
+      "link": "https://www.theguardian.com/food/2026/mar/20/cocktail-of-the-week-wild-garlic-martini-recipe",
+      "mean_score": 0.4202,
+      "vader_score": 0.4404,
+      "textblob_score": 0.4,
+      "first_sentence": "It\u2019s wild garlic season, which is as much cause for celebration on the drinks trolley as it is in the kitchen.",
+      "timestamp": "2026-03-20T13:00:23Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Greg James completes Comic Relief challenge, raising more than \u00a34m",
       "link": "https://www.bbc.com/news/articles/clyxw9wr73no?at_medium=RSS&at_campaign=rss",
@@ -2400,106 +2500,6 @@
       "first_sentence": "A combination of drought conditions in South Australia and flooding in Queensland are contributing to a booming population of some feral animals.",
       "timestamp": "2026-03-13T19:30:00Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Piastri pleased in China, but 'impressive' Mercedes continue F1 dominance",
-      "link": "https://www.abc.net.au/news/2026-03-14/mercedes-dominat-f1-china-sprint-qualifying-oscar-piastri-fifth/106444540",
-      "mean_score": 0.7863,
-      "vader_score": 0.8225,
-      "textblob_score": 0.75,
-      "first_sentence": "Mercedes has once again dominated the Formula 1 field, qualifying their cars first and second for Saturday's sprint race in China.",
-      "timestamp": "2026-03-13T18:25:04Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "US airport security misses first paycheck as homeland security shutdown nears one month \u2013 live",
-      "link": "https://www.theguardian.com/us-news/live/2026/mar/13/donald-trump-iran-military-hegseth-caine-immigration-voter-id-latest-news-updates",
-      "mean_score": 0.3168,
-      "vader_score": 0.4404,
-      "textblob_score": 0.1932,
-      "first_sentence": "Employees at the Transport Security Administration (Tsa) are set to miss their first full paychecks today as the partial shutdown of the Department of Homeland Security (DHS) nears a month.",
-      "timestamp": "2026-03-13T17:57:08Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Process is progress as Scotland seek Six Nations title eliminator triumph",
-      "link": "https://www.theguardian.com/sport/2026/mar/13/process-is-progress-as-scotland-seek-six-nations-title-eliminator-triumph",
-      "mean_score": 0.3548,
-      "vader_score": 0.7096,
-      "textblob_score": 0.0,
-      "first_sentence": "Trusting the process.",
-      "timestamp": "2026-03-13T17:50:47Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "How Italy became the darlings (and contenders, too) of the World Baseball Classic",
-      "link": "https://www.npr.org/2026/03/13/nx-s1-5745919/world-baseball-classic-italy-espresso",
-      "mean_score": 0.3303,
-      "vader_score": 0.4939,
-      "textblob_score": 0.1667,
-      "first_sentence": "When a Team Italy player hits a home run, he dons an Armani jacket and takes a shot of espresso (and don't forget the kiss on each cheek from the team captain).",
-      "timestamp": "2026-03-13T17:12:25Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "M5 MacBook Air review: Still the best MacBook for almost everybody",
-      "link": "https://arstechnica.com/gadgets/2026/03/m5-macbook-air-review-still-the-best-macbook-for-almost-everybody/",
-      "mean_score": 0.8185,
-      "vader_score": 0.6369,
-      "textblob_score": 1.0,
-      "first_sentence": "The M5 MacBook Air is a minor upgrade, but minor upgrades add up over time.",
-      "timestamp": "2026-03-13T16:31:29Z",
-      "source": "Ars Technica"
-    },
-    {
-      "headline": "Great haul of China: how table-topping nation rose to be a Winter Paralympic power",
-      "link": "https://www.theguardian.com/sport/2026/mar/13/great-haul-of-china-winter-paralympics-milano-cortina",
-      "mean_score": 0.6624,
-      "vader_score": 0.6249,
-      "textblob_score": 0.7,
-      "first_sentence": "With two days of competition left at the Winter Paralympics there is no doubt who will finish top of the medal table.",
-      "timestamp": "2026-03-13T16:22:16Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "With $200m to spend on the midterms, crypto hopes to repeat its 2024 success: \u2018It\u2019s the most critical time\u2019",
-      "link": "https://www.theguardian.com/us-news/2026/mar/13/midterms-crypto-pacs-political-spending",
-      "mean_score": 0.4335,
-      "vader_score": 0.6003,
-      "textblob_score": 0.2667,
-      "first_sentence": "With the first primaries of the US midterm elections now under way, the cryptocurrency industry is injecting millions of dollars into congressional races across the country, with particular emphasis on Illinois, which has attracted the bulk of the campaign financing.",
-      "timestamp": "2026-03-13T16:00:53Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "'I don't even think it was his message': Iranians on new supreme leader's first address",
-      "link": "https://www.bbc.com/news/articles/czj1z0enk70o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3753,
-      "vader_score": 0.5574,
-      "textblob_score": 0.1932,
-      "first_sentence": "\"I don't even think it was his message,\" an Iranian woman in her 40s told the BBC after her country's new Supreme Leader Mojtaba Khamenei gave his first official address in the form of a statement read out on state TV.",
-      "timestamp": "2026-03-13T15:53:48Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "\u2018It works for me and it\u2019s free!\u2019: 18 tried-and-tested tips for better sleep",
-      "link": "https://www.theguardian.com/thefilter/2026/mar/13/readers-how-to-sleep-better",
-      "mean_score": 0.4963,
-      "vader_score": 0.4926,
-      "textblob_score": 0.5,
-      "first_sentence": "The Guardian\u2019s journalism is independent.",
-      "timestamp": "2026-03-13T15:00:52Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Five Great Reads: the biggest jewelled egg in the world, the language that stumps Duo Lingo, and one thing you should do before you die",
-      "link": "https://www.theguardian.com/australia-news/2026/mar/14/five-great-reads-the-biggest-jewelled-egg-in-the-world-the-language-that-stumps-duo-lingo-and-one-thing-you-should-do-before-you-die",
-      "mean_score": 0.4258,
-      "vader_score": 0.0516,
-      "textblob_score": 0.8,
-      "first_sentence": "Good morning.",
-      "timestamp": "2026-03-13T14:00:55Z",
-      "source": "The Guardian"
     }
   ]
 }
