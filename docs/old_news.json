@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Vaccinating bats could be good for people. But how do you vaccinate a bat?",
+    "link": "https://www.npr.org/2026/03/13/g-s1-113183/vaccinate-vaccine-bats-rabies-nipah",
+    "mean_score": 0.4691,
+    "vader_score": 0.2382,
+    "textblob_score": 0.7,
+    "first_sentence": "Here's a question you might never have asked yourself: How do you vaccinate a bat?.",
+    "timestamp": "2026-03-13T19:45:42Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "Imperfect Matildas get perfect result to make Asian Cup semis",
+    "link": "https://www.abc.net.au/news/2026-03-14/matildas-womens-asian-cup-north-korea-quarter-final-analysis/106450290",
+    "mean_score": 0.42,
+    "vader_score": 0.34,
+    "textblob_score": 0.5,
+    "first_sentence": "You only get one shot, or in this case two.",
+    "timestamp": "2026-03-13T19:35:44Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Perfect storm helping feral animals take over South Australia",
+    "link": "https://www.abc.net.au/news/2026-03-14/drought-floods-causing-feral-animals-take-over-south-australia/106452500",
+    "mean_score": 0.8548,
+    "vader_score": 0.7096,
+    "textblob_score": 1.0,
+    "first_sentence": "A combination of drought conditions in South Australia and flooding in Queensland are contributing to a booming population of some feral animals.",
+    "timestamp": "2026-03-13T19:30:00Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Piastri pleased in China, but 'impressive' Mercedes continue F1 dominance",
     "link": "https://www.abc.net.au/news/2026-03-14/mercedes-dominat-f1-china-sprint-qualifying-oscar-piastri-fifth/106444540",
     "mean_score": 0.7863,

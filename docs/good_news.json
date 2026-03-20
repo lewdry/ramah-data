@@ -1,6 +1,36 @@
 {
-  "last run": "2026-03-20T18:12:24Z",
+  "last run": "2026-03-20T21:08:26Z",
   "stories": [
+    {
+      "headline": "Small but mighty cheers for team Japan at Asian Cup final",
+      "link": "https://www.abc.net.au/news/2026-03-21/womens-asian-cup-2026-japanese-diaspora-support-team/106479958",
+      "mean_score": 0.3342,
+      "vader_score": 0.631,
+      "textblob_score": 0.0375,
+      "first_sentence": "Young Japanese diaspora in Sydney will be showing up loud and proud in support of Japan against Australia's Matildas at the Asian Cup final on Saturday.",
+      "timestamp": "2026-03-20T20:19:39Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Polls predict easy Labor win in SA, but One Nation will be closely watched",
+      "link": "https://www.abc.net.au/news/2026-03-21/one-nation-results-in-sa-election-to-be-closely-watched/106463332",
+      "mean_score": 0.5677,
+      "vader_score": 0.5187,
+      "textblob_score": 0.6167,
+      "first_sentence": "One Nation isn't shying away from the national significance of today.",
+      "timestamp": "2026-03-20T20:15:31Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Starmer most popular PM - in Toby Jug sales",
+      "link": "https://www.bbc.com/news/articles/cp385808jk2o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5127,
+      "vader_score": 0.4754,
+      "textblob_score": 0.55,
+      "first_sentence": "Sir Keir Starmer may have had a tough year in office, but in one key measure he is top of the shop: the Toby Jug in his likeness outsold all other prime ministers in 2025.",
+      "timestamp": "2026-03-20T18:55:33Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Work from home and drive more slowly to save energy, global body urges",
       "link": "https://www.bbc.com/news/articles/cvg4540d0g4o?at_medium=RSS&at_campaign=rss",
@@ -2470,36 +2500,6 @@
       "first_sentence": "New guidelines for managing cholesterol call for more aggressive prevention and earlier treatment, including a recommendation that all adults be tested once for lipoprotein(a), a genetic risk marker for heart disease.",
       "timestamp": "2026-03-13T20:56:19Z",
       "source": "NPR News"
-    },
-    {
-      "headline": "Vaccinating bats could be good for people. But how do you vaccinate a bat?",
-      "link": "https://www.npr.org/2026/03/13/g-s1-113183/vaccinate-vaccine-bats-rabies-nipah",
-      "mean_score": 0.4691,
-      "vader_score": 0.2382,
-      "textblob_score": 0.7,
-      "first_sentence": "Here's a question you might never have asked yourself: How do you vaccinate a bat?.",
-      "timestamp": "2026-03-13T19:45:42Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Imperfect Matildas get perfect result to make Asian Cup semis",
-      "link": "https://www.abc.net.au/news/2026-03-14/matildas-womens-asian-cup-north-korea-quarter-final-analysis/106450290",
-      "mean_score": 0.42,
-      "vader_score": 0.34,
-      "textblob_score": 0.5,
-      "first_sentence": "You only get one shot, or in this case two.",
-      "timestamp": "2026-03-13T19:35:44Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Perfect storm helping feral animals take over South Australia",
-      "link": "https://www.abc.net.au/news/2026-03-14/drought-floods-causing-feral-animals-take-over-south-australia/106452500",
-      "mean_score": 0.8548,
-      "vader_score": 0.7096,
-      "textblob_score": 1.0,
-      "first_sentence": "A combination of drought conditions in South Australia and flooding in Queensland are contributing to a booming population of some feral animals.",
-      "timestamp": "2026-03-13T19:30:00Z",
-      "source": "ABC News"
     }
   ]
 }
