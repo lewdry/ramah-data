@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Every Brilliant Thing review \u2013 Daniel Radcliffe sells tricky Broadway transfer",
+    "link": "https://www.theguardian.com/stage/2026/mar/12/every-brilliant-thing-daniel-radcliffe-broadway",
+    "mean_score": 0.6969,
+    "vader_score": 0.4939,
+    "textblob_score": 0.9,
+    "first_sentence": "Every Brilliant Thing presents a theatrical gauntlet for Daniel Radcliffe, the erstwhile Harry Potter, acclaimed Broadway stage regular and only star of this 13-week limited engagement.",
+    "timestamp": "2026-03-13T03:00:37Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "A young party led by a rapper wins a huge mandate - and Nepal steps into the unknown",
+    "link": "https://www.bbc.com/news/articles/c178jq791w4o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.501,
+    "vader_score": 0.8271,
+    "textblob_score": 0.175,
+    "first_sentence": "The four-year-old Rastriya Swatantra Party (RSP), led by rapper-turned-politician Balendra Shah, has achieved a feat many thought impossible under Nepal's dual-election system: a sweeping majority.",
+    "timestamp": "2026-03-13T02:11:59Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Churchill's granddaughter happy with his picture being replaced on \u00a35 note",
+    "link": "https://www.bbc.com/news/videos/cvg8yp84mplo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.686,
+    "vader_score": 0.5719,
+    "textblob_score": 0.8,
+    "first_sentence": "Sir Winston Churchill will be replaced on the \u00a35 note by an animal, the Bank of England has said.",
+    "timestamp": "2026-03-13T02:00:04Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Qantas told to 'be a good corporate citizen for once', as deal reached on flight credits",
+    "link": "https://www.abc.net.au/news/2026-03-13/qantas-covid-pandemic-flight-credits-on-their-way-to-customers/106450562",
+    "mean_score": 0.5252,
+    "vader_score": 0.7003,
+    "textblob_score": 0.35,
+    "first_sentence": "Qantas has agreed to settle a class action\u00a0\u200brelated to flight credits issued during the COVID-19\u00a0\u200cpandemic.",
+    "timestamp": "2026-03-13T01:16:44Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Australians are right to ask \u2018is this good enough?\u2019 when it comes to the Nacc\u2019s final robodebt report | A J Brown",
     "link": "https://www.theguardian.com/commentisfree/2026/mar/13/nacc-final-robodebt-report-corruption-australia-reaction-ntwnfb",
     "mean_score": 0.3846,

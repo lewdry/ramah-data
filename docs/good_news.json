@@ -1,6 +1,36 @@
 {
-  "last run": "2026-03-19T21:11:37Z",
+  "last run": "2026-03-20T00:20:19Z",
   "stories": [
+    {
+      "headline": "UK's most popular tourist attraction for 2025 takes top spot from British Museum",
+      "link": "https://www.bbc.com/news/articles/c70n09pz4y1o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5998,
+      "vader_score": 0.7996,
+      "textblob_score": 0.4,
+      "first_sentence": "The Natural History Museum was the UK's most popular tourist attraction in 2025, breaking the record for the most visitors to any museum or gallery in a single year.",
+      "timestamp": "2026-03-20T00:05:07Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Natural History Museum tops UK attraction list with record visitors",
+      "link": "https://www.theguardian.com/culture/2026/mar/20/natural-history-museum-tops-uk-attraction-list-with-record-visitors",
+      "mean_score": 0.4658,
+      "vader_score": 0.8316,
+      "textblob_score": 0.1,
+      "first_sentence": "London\u2019s Natural History Museum (NHM) was the most popular attraction in the UK during 2025, with its renovated gardens, new climate gallery and lack of entry fee leading to record-breaking numbers of visitors.",
+      "timestamp": "2026-03-20T00:01:04Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "High Point\u2019s upset of Wisconsin ends the hope of a perfect March Madness bracket for millions",
+      "link": "https://apnews.com/article/march-madness-ncaa-tournament-4523b2747fb71d73c1ab8bee2134e666",
+      "mean_score": 0.4266,
+      "vader_score": 0.2732,
+      "textblob_score": 0.58,
+      "first_sentence": "Well, the dream was fun while it lasted .",
+      "timestamp": "2026-03-19T21:23:02Z",
+      "source": "AP News"
+    },
     {
       "headline": "Xavier Edmonds\u2019 layup with 4.3 seconds left lifts TCU to 66-64 March Madness win over Ohio State",
       "link": "https://apnews.com/article/tcu-ohio-state-score-march-madness-c2d8c7a561d1bfb176cac8feafd24eba",
@@ -99,6 +129,16 @@
       "textblob_score": 0.3125,
       "first_sentence": "The Oscars were this week, and as usual I took the day off to judge the red carpet looks from my tracksuit pants-ed position on the couch, pick apart the monologue (love you Conan), declare I could write better presenter segments, and keep an eye on social media to see which stars cause the most buzz.",
       "timestamp": "2026-03-19T14:00:52Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Striking gambit: Erling Haaland invests in new world chess championship",
+      "link": "https://www.theguardian.com/sport/2026/mar/19/striking-gambit-erling-haaland-invests-in-new-world-chess-championship",
+      "mean_score": 0.3793,
+      "vader_score": 0.4404,
+      "textblob_score": 0.3182,
+      "first_sentence": "Erling Haaland has become a significant investor in a new world chess championship tour that is expected to star his fellow Norwegian Magnus Carlsen, the Guardian can reveal.",
+      "timestamp": "2026-03-19T13:25:50Z",
       "source": "The Guardian"
     },
     {
@@ -2460,46 +2500,6 @@
       "first_sentence": "The party of rapper and ex-Kathmandu mayor Balendra Shah has won a a clear majority, according to the final results from Nepal's general election held on 5 March.",
       "timestamp": "2026-03-13T04:10:33Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Every Brilliant Thing review \u2013 Daniel Radcliffe sells tricky Broadway transfer",
-      "link": "https://www.theguardian.com/stage/2026/mar/12/every-brilliant-thing-daniel-radcliffe-broadway",
-      "mean_score": 0.6969,
-      "vader_score": 0.4939,
-      "textblob_score": 0.9,
-      "first_sentence": "Every Brilliant Thing presents a theatrical gauntlet for Daniel Radcliffe, the erstwhile Harry Potter, acclaimed Broadway stage regular and only star of this 13-week limited engagement.",
-      "timestamp": "2026-03-13T03:00:37Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "A young party led by a rapper wins a huge mandate - and Nepal steps into the unknown",
-      "link": "https://www.bbc.com/news/articles/c178jq791w4o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.501,
-      "vader_score": 0.8271,
-      "textblob_score": 0.175,
-      "first_sentence": "The four-year-old Rastriya Swatantra Party (RSP), led by rapper-turned-politician Balendra Shah, has achieved a feat many thought impossible under Nepal's dual-election system: a sweeping majority.",
-      "timestamp": "2026-03-13T02:11:59Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Churchill's granddaughter happy with his picture being replaced on \u00a35 note",
-      "link": "https://www.bbc.com/news/videos/cvg8yp84mplo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.686,
-      "vader_score": 0.5719,
-      "textblob_score": 0.8,
-      "first_sentence": "Sir Winston Churchill will be replaced on the \u00a35 note by an animal, the Bank of England has said.",
-      "timestamp": "2026-03-13T02:00:04Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Qantas told to 'be a good corporate citizen for once', as deal reached on flight credits",
-      "link": "https://www.abc.net.au/news/2026-03-13/qantas-covid-pandemic-flight-credits-on-their-way-to-customers/106450562",
-      "mean_score": 0.5252,
-      "vader_score": 0.7003,
-      "textblob_score": 0.35,
-      "first_sentence": "Qantas has agreed to settle a class action\u00a0\u200brelated to flight credits issued during the COVID-19\u00a0\u200cpandemic.",
-      "timestamp": "2026-03-13T01:16:44Z",
-      "source": "ABC News"
     }
   ]
 }
