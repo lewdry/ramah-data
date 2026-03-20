@@ -1,6 +1,76 @@
 {
-  "last run": "2026-03-20T03:48:10Z",
+  "last run": "2026-03-20T06:18:28Z",
   "stories": [
+    {
+      "headline": "Social supermarket praise for Comic Relief support",
+      "link": "https://www.bbc.com/news/articles/c9q5qypz5w8o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4986,
+      "vader_score": 0.8555,
+      "textblob_score": 0.1417,
+      "first_sentence": "The former teaching assistant and her husband found themselves out of work because of ill health and were on benefits.",
+      "timestamp": "2026-03-20T06:11:18Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Helen Goh\u2019s recipe for peanut and blackcurrant thumbprint cookies | The sweet spot",
+      "link": "https://www.theguardian.com/food/2026/mar/20/peanut-and-blackcurrant-thumbprint-cookies-recipe-helen-goh",
+      "mean_score": 0.4044,
+      "vader_score": 0.4588,
+      "textblob_score": 0.35,
+      "first_sentence": "Niki Segnit writes in The Flavour Thesaurus that, while grape jelly is the familiar partner to peanut butter in the classic PBJ, she thinks blackcurrant, with its sharper, more complex character, would be a far better match for the fatty and salty peanuts.",
+      "timestamp": "2026-03-20T06:00:11Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Adorable alert! A Tasmanian possum has fallen asleep among the soft toys in an airport gift shop | First Dog on the Moon",
+      "link": "https://www.theguardian.com/commentisfree/picture/2026/mar/20/adorable-alert-a-tasmanian-possum-has-fallen-asleep-among-the-soft-toys-in-an-airport-gift-shop",
+      "mean_score": 0.5256,
+      "vader_score": 0.7263,
+      "textblob_score": 0.325,
+      "first_sentence": "The little guy just needed somewhere to napSign up here to get an email whenever First Dog cartoons are publishedGet all your needs met at the First Dog shop if what you need is First Dog merchandise and prints Continue reading.",
+      "timestamp": "2026-03-20T05:38:52Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "'Asking why honey is better than s***': Japan coach spins favouritism ahead of Matildas clash",
+      "link": "https://www.abc.net.au/news/2026-03-20/matildas-womens-asian-cup-japan-coach-nils-nielsen/106472632",
+      "mean_score": 0.4702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.5,
+      "first_sentence": "It's an unusual question, posed by one of the most fascinating coaches at the Women's Asian Cup.",
+      "timestamp": "2026-03-20T05:04:04Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "A bust of Barbra Streisand and beautiful memories: Richard E Grant\u2019s garden \u2013 in seven extraordinary items",
+      "link": "https://www.theguardian.com/culture/2026/mar/20/barbra-streisand-beautiful-memories-richard-e-grant-garden-seven-extraordinary-items",
+      "mean_score": 0.5955,
+      "vader_score": 0.5994,
+      "textblob_score": 0.5917,
+      "first_sentence": "Step into Richard E Grant\u2019s garden in Richmond, London, and you\u2019ll be met with a rather unconventional sight.",
+      "timestamp": "2026-03-20T05:00:10Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Luka Don\u010di\u0107 erupts for 60 as surging LA Lakers extend win streak in Miami",
+      "link": "https://www.theguardian.com/sport/2026/mar/20/luka-doncic-60-lakers-heat-lebron-triple-double-miami",
+      "mean_score": 0.7352,
+      "vader_score": 0.6705,
+      "textblob_score": 0.8,
+      "first_sentence": "Luka Don\u010di\u0107 scored 60 points, LeBron James had a triple-double on a night where he tied the NBA record for games played, and the Los Angeles Lakers pushed their season-best winning streak to eight games with a 134-126 win over the Miami Heat on Thursday night.",
+      "timestamp": "2026-03-20T04:50:24Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Teen happiness falls in western countries as social media hours rise",
+      "link": "https://www.abc.net.au/news/2026-03-20/aus-teen-happiness-falls-social-media-hours-rise/106478522",
+      "mean_score": 0.3704,
+      "vader_score": 0.5574,
+      "textblob_score": 0.1833,
+      "first_sentence": "Costa Rica breaks into the World Happiness Report's top five, while Nordic countries stay on top and Australia stays outside the top 10.",
+      "timestamp": "2026-03-20T04:06:27Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Australia dig themselves out of a hole in women\u2019s T20 win over West Indies",
       "link": "https://www.theguardian.com/sport/2026/mar/20/womens-t20-cricket-australia-win-over-west-indies",
@@ -2430,76 +2500,6 @@
       "first_sentence": "The mother of Aidan Becker, a 22-year-old who died trying to protect a teenage boy last Friday, has spoken of her family's deep pain during a packed community vigil for her son at a Melbourne railway station.",
       "timestamp": "2026-03-13T10:22:09Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Radio 1 DJ Greg James sets off on 630-mile Comic Relief cycle challenge",
-      "link": "https://www.bbc.com/news/articles/cy8le3dg5gzo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3883,
-      "vader_score": 0.5267,
-      "textblob_score": 0.25,
-      "first_sentence": "Radio 1 DJ Greg James has set off on a tandem bike for his 630-mile cycle challenge for Comic Relief.",
-      "timestamp": "2026-03-13T10:17:17Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Less respawning, more re-rolling: six of the best board games based on video games",
-      "link": "https://www.theguardian.com/games/2026/mar/13/six-essential-board-games-based-on-video-games",
-      "mean_score": 0.5407,
-      "vader_score": 0.6369,
-      "textblob_score": 0.4444,
-      "first_sentence": "Video games have long been heavily inspired by physical games, from chess and Scrabble to Dungeons & Dragons.",
-      "timestamp": "2026-03-13T10:00:48Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Mother\u2019s Day UK recipes: three delicious ideas to make for your mum from Ravinder Bhogal",
-      "link": "https://www.theguardian.com/food/2026/mar/13/mothers-day-recipes-curd-biscuits-prawn-rolls-drizzle-cake-ravinder-bhogal",
-      "mean_score": 0.7859,
-      "vader_score": 0.5719,
-      "textblob_score": 1.0,
-      "first_sentence": "Few things say \u201cI love you\u201d more than an unbidden cup of tea, but if you want to show true appreciation to the maternal figure in your life this Mother\u2019s Day, there\u2019s nothing better than a few indulgent snacks to go with it.",
-      "timestamp": "2026-03-13T10:00:47Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "James Blake: Trying Times review \u2013 platitudes about politics and Kanye can\u2019t detract from an excellent album",
-      "link": "https://www.theguardian.com/music/2026/mar/13/james-blake-trying-times-review",
-      "mean_score": 0.4859,
-      "vader_score": 0.5719,
-      "textblob_score": 0.4,
-      "first_sentence": "Of all the things you might expect from a James Blake album \u2013 exquisite minimalism, plaintive vocal distortion, appearances from hip-hop\u2019s great and good \u2013 chin-stroking socio0political commentary probably isn\u2019t one of them.",
-      "timestamp": "2026-03-13T08:40:09Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Dynasty: The Murdochs review \u2013 who cares which billionaire will control even more billions?",
-      "link": "https://www.theguardian.com/tv-and-radio/2026/mar/13/dynasty-the-murdochs-review-rupert-children-netflix-documentary",
-      "mean_score": 0.4794,
-      "vader_score": 0.4588,
-      "textblob_score": 0.5,
-      "first_sentence": "\u2018To explain the Murdochs, you have to understand the television show Succession.\u201d So quips New York Times writer Jim Rutenberg a few minutes into this four-part documentary about Rupert Murdoch\u2019s empire \u2013 and, specifically, his children\u2019s battle for control of it when he dies.",
-      "timestamp": "2026-03-13T08:01:43Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Why Marty Supreme should win the best picture Oscar",
-      "link": "https://www.theguardian.com/film/2026/mar/13/why-marty-supreme-should-win-the-best-picture-oscar",
-      "mean_score": 0.9059,
-      "vader_score": 0.9118,
-      "textblob_score": 0.9,
-      "first_sentence": "First things first: the best picture Oscar should go to Marty Supreme for the incredible job it has done in bringing new eyes to ping pong.",
-      "timestamp": "2026-03-13T08:00:45Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Gay Muslim influencer hosts inclusive Ramadan meal and calls for acceptance across faiths",
-      "link": "https://apnews.com/article/germany-lgbtq-ramadan-influencer-iftar-b7235de634d9139bdc5222b73e223fd3",
-      "mean_score": 0.5585,
-      "vader_score": 0.7003,
-      "textblob_score": 0.4167,
-      "first_sentence": "BERLIN (AP) \u2014 Ali Darwich, a gay Muslim influencer in Berlin, picks up a date from his plate, takes a sip of water, and addresses the 15 friends sitting around the table and breaking the Ramadan fast with him.",
-      "timestamp": "2026-03-13T07:23:03Z",
-      "source": "AP News"
     }
   ]
 }

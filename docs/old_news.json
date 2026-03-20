@@ -1,5 +1,75 @@
 [
   {
+    "headline": "Radio 1 DJ Greg James sets off on 630-mile Comic Relief cycle challenge",
+    "link": "https://www.bbc.com/news/articles/cy8le3dg5gzo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3883,
+    "vader_score": 0.5267,
+    "textblob_score": 0.25,
+    "first_sentence": "Radio 1 DJ Greg James has set off on a tandem bike for his 630-mile cycle challenge for Comic Relief.",
+    "timestamp": "2026-03-13T10:17:17Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Less respawning, more re-rolling: six of the best board games based on video games",
+    "link": "https://www.theguardian.com/games/2026/mar/13/six-essential-board-games-based-on-video-games",
+    "mean_score": 0.5407,
+    "vader_score": 0.6369,
+    "textblob_score": 0.4444,
+    "first_sentence": "Video games have long been heavily inspired by physical games, from chess and Scrabble to Dungeons & Dragons.",
+    "timestamp": "2026-03-13T10:00:48Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Mother\u2019s Day UK recipes: three delicious ideas to make for your mum from Ravinder Bhogal",
+    "link": "https://www.theguardian.com/food/2026/mar/13/mothers-day-recipes-curd-biscuits-prawn-rolls-drizzle-cake-ravinder-bhogal",
+    "mean_score": 0.7859,
+    "vader_score": 0.5719,
+    "textblob_score": 1.0,
+    "first_sentence": "Few things say \u201cI love you\u201d more than an unbidden cup of tea, but if you want to show true appreciation to the maternal figure in your life this Mother\u2019s Day, there\u2019s nothing better than a few indulgent snacks to go with it.",
+    "timestamp": "2026-03-13T10:00:47Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "James Blake: Trying Times review \u2013 platitudes about politics and Kanye can\u2019t detract from an excellent album",
+    "link": "https://www.theguardian.com/music/2026/mar/13/james-blake-trying-times-review",
+    "mean_score": 0.4859,
+    "vader_score": 0.5719,
+    "textblob_score": 0.4,
+    "first_sentence": "Of all the things you might expect from a James Blake album \u2013 exquisite minimalism, plaintive vocal distortion, appearances from hip-hop\u2019s great and good \u2013 chin-stroking socio0political commentary probably isn\u2019t one of them.",
+    "timestamp": "2026-03-13T08:40:09Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Dynasty: The Murdochs review \u2013 who cares which billionaire will control even more billions?",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/mar/13/dynasty-the-murdochs-review-rupert-children-netflix-documentary",
+    "mean_score": 0.4794,
+    "vader_score": 0.4588,
+    "textblob_score": 0.5,
+    "first_sentence": "\u2018To explain the Murdochs, you have to understand the television show Succession.\u201d So quips New York Times writer Jim Rutenberg a few minutes into this four-part documentary about Rupert Murdoch\u2019s empire \u2013 and, specifically, his children\u2019s battle for control of it when he dies.",
+    "timestamp": "2026-03-13T08:01:43Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Why Marty Supreme should win the best picture Oscar",
+    "link": "https://www.theguardian.com/film/2026/mar/13/why-marty-supreme-should-win-the-best-picture-oscar",
+    "mean_score": 0.9059,
+    "vader_score": 0.9118,
+    "textblob_score": 0.9,
+    "first_sentence": "First things first: the best picture Oscar should go to Marty Supreme for the incredible job it has done in bringing new eyes to ping pong.",
+    "timestamp": "2026-03-13T08:00:45Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Gay Muslim influencer hosts inclusive Ramadan meal and calls for acceptance across faiths",
+    "link": "https://apnews.com/article/germany-lgbtq-ramadan-influencer-iftar-b7235de634d9139bdc5222b73e223fd3",
+    "mean_score": 0.5585,
+    "vader_score": 0.7003,
+    "textblob_score": 0.4167,
+    "first_sentence": "BERLIN (AP) \u2014 Ali Darwich, a gay Muslim influencer in Berlin, picks up a date from his plate, takes a sip of water, and addresses the 15 friends sitting around the table and breaking the Ramadan fast with him.",
+    "timestamp": "2026-03-13T07:23:03Z",
+    "source": "AP News"
+  },
+  {
     "headline": "Woman with rare blood feels 'honoured' to donate",
     "link": "https://www.bbc.com/news/articles/cgrz7rql4kwo?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.397,
