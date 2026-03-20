@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Cuba confirms recent talks with United States to resolve differences",
+    "link": "https://www.abc.net.au/news/2026-03-14/cuba-confirms-recent-talks-with-united-states-for-first-time/106454488",
+    "mean_score": 0.3298,
+    "vader_score": 0.6597,
+    "textblob_score": 0.0,
+    "first_sentence": "Cuban President Miguel D\u00edaz-Canel says his government has held recent talks with the United States, the first time Havana has confirmed such contacts.",
+    "timestamp": "2026-03-13T13:46:59Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "The best recent science fiction, fantasy and horror \u2013 review roundup",
+    "link": "https://www.theguardian.com/books/2026/mar/13/the-best-recent-science-fiction-fantasy-and-horror-review-roundup",
+    "mean_score": 0.314,
+    "vader_score": 0.128,
+    "textblob_score": 0.5,
+    "first_sentence": "The Library of Traumatic Memory by Neil Jordan (Head of Zeus, \u00a320) Better known as a film-maker, Jordan has never stopped writing novels.",
+    "timestamp": "2026-03-13T12:00:49Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Add to playlist: the dadaist cubist racket of Angine de Poitrine and the week\u2019s best new tracks",
+    "link": "https://www.theguardian.com/music/2026/mar/13/add-to-playlist-the-dadaist-cubist-racket-of-angine-de-poitrine-and-the-weeks-best-new-tracks",
+    "mean_score": 0.6025,
+    "vader_score": 0.6369,
+    "textblob_score": 0.5682,
+    "first_sentence": "In 2023, two young men \u2013 their earthly identities a jealously guarded secret \u2013 began \u201ca joke that spilled into reality\u201d intended to simulate something like its namesake heart condition.",
+    "timestamp": "2026-03-13T12:00:49Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Musician Labrinth says he is 'done with this industry' and hits out at Euphoria",
     "link": "https://www.bbc.com/news/articles/cx28z41v98do?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.3243,

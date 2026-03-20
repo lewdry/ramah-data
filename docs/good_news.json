@@ -1,6 +1,36 @@
 {
-  "last run": "2026-03-20T09:13:57Z",
+  "last run": "2026-03-20T12:10:44Z",
   "stories": [
+    {
+      "headline": "Greg James completes Comic Relief challenge, raising more than \u00a34m",
+      "link": "https://www.bbc.com/news/articles/clyxw9wr73no?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4508,
+      "vader_score": 0.5267,
+      "textblob_score": 0.375,
+      "first_sentence": "BBC Radio 1's Greg James has crossed the finish line of his Comic Relief tandem cycling challenge, raising more than \u00a34m for charity.",
+      "timestamp": "2026-03-20T10:45:45Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "\u2018Weirdness, paranoia and extremity\u2019: why HBO\u2019s Neighbors is TV\u2019s most fascinating show",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/mar/20/neighbors-hbo-docuseries",
+      "mean_score": 0.5101,
+      "vader_score": 0.4201,
+      "textblob_score": 0.6,
+      "first_sentence": "Once upon a time, I worked as a local reporter in small-town Montana.",
+      "timestamp": "2026-03-20T09:03:14Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Live: Bulldog Baker's brilliant goal seals thrilling win over fast-finishing Crows",
+      "link": "https://www.abc.net.au/news/2026-03-20/afl-round-two-friday-live-blog-crows-bulldogs/106479850",
+      "mean_score": 0.7075,
+      "vader_score": 0.8934,
+      "textblob_score": 0.5216,
+      "first_sentence": "The Western Bulldogs have hung on to claim a thrilling six-point win over Adelaide, with a brilliant Oskar Baker goal clinching the win as the Crows stormed home.",
+      "timestamp": "2026-03-20T07:58:49Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Giddey sets new Aussie NBA record as Bulls fall short of miracle comeback",
       "link": "https://www.abc.net.au/news/2026-03-20/nba-josh-giddey-assists-record-doncic-60-points-lakers-heat/106480240",
@@ -9,6 +39,16 @@
       "textblob_score": 0.0682,
       "first_sentence": "Josh Giddey has recorded a career-high 19 assists in a loss to Cleveland, the most by an Australian in a single NBA game.",
       "timestamp": "2026-03-20T07:37:28Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Brisbane pull off grand final repeat in rematch with Storm",
+      "link": "https://www.abc.net.au/news/2026-03-20/nrl-live-updates-roosters-panthers-storm-broncos-/106480150",
+      "mean_score": 0.3544,
+      "vader_score": 0.4588,
+      "textblob_score": 0.25,
+      "first_sentence": "Brisbane have inflicted another second-half nightmare on the Storm, roaring back to win their grand final replay 18-14 in Melbourne to secure their first points of the NRL season.",
+      "timestamp": "2026-03-20T06:35:06Z",
       "source": "ABC News"
     },
     {
@@ -2459,46 +2499,6 @@
       "textblob_score": 0.8,
       "first_sentence": "Good morning.",
       "timestamp": "2026-03-13T14:00:55Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Cuba confirms recent talks with United States to resolve differences",
-      "link": "https://www.abc.net.au/news/2026-03-14/cuba-confirms-recent-talks-with-united-states-for-first-time/106454488",
-      "mean_score": 0.3298,
-      "vader_score": 0.6597,
-      "textblob_score": 0.0,
-      "first_sentence": "Cuban President Miguel D\u00edaz-Canel says his government has held recent talks with the United States, the first time Havana has confirmed such contacts.",
-      "timestamp": "2026-03-13T13:46:59Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "3G pitch given approval despite pollution fears",
-      "link": "https://www.bbc.com/news/articles/cvgv403y6rno?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3316,
-      "vader_score": 0.6632,
-      "textblob_score": 0.0,
-      "first_sentence": "A new sports centre is set to be approved despite concerns about the risk of microplastic contamination from an artificial pitch.",
-      "timestamp": "2026-03-13T13:46:22Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "The best recent science fiction, fantasy and horror \u2013 review roundup",
-      "link": "https://www.theguardian.com/books/2026/mar/13/the-best-recent-science-fiction-fantasy-and-horror-review-roundup",
-      "mean_score": 0.314,
-      "vader_score": 0.128,
-      "textblob_score": 0.5,
-      "first_sentence": "The Library of Traumatic Memory by Neil Jordan (Head of Zeus, \u00a320) Better known as a film-maker, Jordan has never stopped writing novels.",
-      "timestamp": "2026-03-13T12:00:49Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Add to playlist: the dadaist cubist racket of Angine de Poitrine and the week\u2019s best new tracks",
-      "link": "https://www.theguardian.com/music/2026/mar/13/add-to-playlist-the-dadaist-cubist-racket-of-angine-de-poitrine-and-the-weeks-best-new-tracks",
-      "mean_score": 0.6025,
-      "vader_score": 0.6369,
-      "textblob_score": 0.5682,
-      "first_sentence": "In 2023, two young men \u2013 their earthly identities a jealously guarded secret \u2013 began \u201ca joke that spilled into reality\u201d intended to simulate something like its namesake heart condition.",
-      "timestamp": "2026-03-13T12:00:49Z",
       "source": "The Guardian"
     }
   ]
