@@ -1,6 +1,46 @@
 {
-  "last run": "2026-03-20T00:20:19Z",
+  "last run": "2026-03-20T03:48:10Z",
   "stories": [
+    {
+      "headline": "Australia dig themselves out of a hole in women\u2019s T20 win over West Indies",
+      "link": "https://www.theguardian.com/sport/2026/mar/20/womens-t20-cricket-australia-win-over-west-indies",
+      "mean_score": 0.6929,
+      "vader_score": 0.5859,
+      "textblob_score": 0.8,
+      "first_sentence": "Australia got the Sophie Molineux era under way in sloppy style as a new-look side overcame six spilled chances before turning the screw late for a 43-run victory over West Indies in the first women\u2019s T20 international in St Vincent.",
+      "timestamp": "2026-03-20T02:46:01Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Teen becomes youngest player since Nadal to win ATP Masters 1000 match",
+      "link": "https://www.abc.net.au/news/2026-03-20/moise-kouame-miami-open-atp-masters-1000/106478468",
+      "mean_score": 0.4929,
+      "vader_score": 0.5859,
+      "textblob_score": 0.4,
+      "first_sentence": "French tennis player Moise Kouame has become the youngest player to win a match at the Miami Open.",
+      "timestamp": "2026-03-20T02:35:09Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "'The ABC got lucky': How the VFA became must-watch TV for footy fans",
+      "link": "https://www.abc.net.au/news/2026-03-20/vfa-coverage-the-history-of-the-game-on-the-abc/106476798",
+      "mean_score": 0.3774,
+      "vader_score": 0.4215,
+      "textblob_score": 0.3333,
+      "first_sentence": "Phil Cleary, Sam Kekovich, Peter Gee, Len Thompson and Ross Booth together in a promo shot for the ABC's VFA coverage.",
+      "timestamp": "2026-03-20T01:56:52Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Traitors, Amandaland - and Idris Elba -  get set for Comic Relief",
+      "link": "https://www.bbc.com/news/articles/cvg3gnlwn10o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3634,
+      "vader_score": 0.4767,
+      "textblob_score": 0.25,
+      "first_sentence": "Marcella star Anna Friel is to play Claudia Winkleman in a sketch for this year's Comic Relief, alongside some recent stars of The Traitors such as Rachel Duffy and Faraaz Noor.",
+      "timestamp": "2026-03-20T01:10:02Z",
+      "source": "BBC News"
+    },
     {
       "headline": "UK's most popular tourist attraction for 2025 takes top spot from British Museum",
       "link": "https://www.bbc.com/news/articles/c70n09pz4y1o?at_medium=RSS&at_campaign=rss",
@@ -2460,46 +2500,6 @@
       "first_sentence": "BERLIN (AP) \u2014 Ali Darwich, a gay Muslim influencer in Berlin, picks up a date from his plate, takes a sip of water, and addresses the 15 friends sitting around the table and breaking the Ramadan fast with him.",
       "timestamp": "2026-03-13T07:23:03Z",
       "source": "AP News"
-    },
-    {
-      "headline": "Woman with rare blood feels 'honoured' to donate",
-      "link": "https://www.bbc.com/news/articles/cgrz7rql4kwo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.397,
-      "vader_score": 0.4939,
-      "textblob_score": 0.3,
-      "first_sentence": "A woman whose blood donations are so rare they are frozen for up to 30 years said she feels \"very special and honoured\" to be able to help sick patients.",
-      "timestamp": "2026-03-13T06:22:13Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "'Get me out of here': Johnston says fans on the field was fun until it wasn't",
-      "link": "https://www.abc.net.au/news/2026-03-13/nrl-live-warriors-raiders-roosters-rabbitohs-alex-johnston/106453350",
-      "mean_score": 0.4053,
-      "vader_score": 0.5106,
-      "textblob_score": 0.3,
-      "first_sentence": "Alex Johnston has become the greatest try-scorer in Australian rugby league history with a double against the Roosters, prompting fans to ignore the NRL's pleas not to storm the field to celebrate.",
-      "timestamp": "2026-03-13T06:13:32Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Benjamina Ebuehi\u2019s recipe for caramelised white chocolate and rhubarb cheesecake | The sweet spot",
-      "link": "https://www.theguardian.com/food/2026/mar/13/caramelised-white-chocolate-rhubarb-cheesecake-recipe-benjamina-ebuehi",
-      "mean_score": 0.3169,
-      "vader_score": 0.4588,
-      "textblob_score": 0.175,
-      "first_sentence": "It\u2019s often my own impatience that forces me to make no-bake cheesecakes over baked ones.",
-      "timestamp": "2026-03-13T06:00:41Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Nepal election results - Balendra Shah's party wins in a landslide",
-      "link": "https://www.bbc.com/news/articles/cev7z9802zjo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5253,
-      "vader_score": 0.7506,
-      "textblob_score": 0.3,
-      "first_sentence": "The party of rapper and ex-Kathmandu mayor Balendra Shah has won a a clear majority, according to the final results from Nepal's general election held on 5 March.",
-      "timestamp": "2026-03-13T04:10:33Z",
-      "source": "BBC News"
     }
   ]
 }
