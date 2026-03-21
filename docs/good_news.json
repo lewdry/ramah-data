@@ -1,6 +1,56 @@
 {
-  "last run": "2026-03-21T09:08:38Z",
+  "last run": "2026-03-21T12:07:29Z",
   "stories": [
+    {
+      "headline": "Fans elated as BTS play first gig together in nearly four years",
+      "link": "https://www.bbc.com/news/articles/cge0dyjwezgo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.47,
+      "vader_score": 0.765,
+      "textblob_score": 0.175,
+      "first_sentence": "Fans have poured into the historic heart of South Korea's capital for what may well be the year's biggest event: the return of the world's most successful band in recent years, BTS.",
+      "timestamp": "2026-03-21T12:02:09Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "SA state election 2026: Labor secures victory as results show One Nation taking huge chunks of Liberal vote",
+      "link": "https://www.theguardian.com/australia-news/2026/mar/21/sa-state-election-2026-results-labor-confident-but-all-eyes-on-one-nation-vote-as-polls-close-in-south-australia",
+      "mean_score": 0.4787,
+      "vader_score": 0.5574,
+      "textblob_score": 0.4,
+      "first_sentence": "Peter Malinauskas is on track for a landslide victory in South Australia\u2019s state election, with Labor easily securing a second term and an increased majority in Saturday\u2019s poll, amid a surge in support for One Nation.",
+      "timestamp": "2026-03-21T11:19:14Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018I was relieved I got the shot without my phone ending up in the sea!\u2019: Easelyn Pineda\u2019s best phone picture",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/mar/21/easelyn-pineda-best-phone-picture",
+      "mean_score": 0.898,
+      "vader_score": 0.7959,
+      "textblob_score": 1.0,
+      "first_sentence": "Pineda waded into the water with her phone to get closer, later making adjustments to ensure the forms of the fishers weren\u2019t lost in silhouette.",
+      "timestamp": "2026-03-21T11:00:50Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Best thing I ever ate? My first In-N-Out burger in LA",
+      "link": "https://www.theguardian.com/food/2026/mar/21/best-thing-i-ever-ate-tim-anderson-in-n-out-burger",
+      "mean_score": 0.631,
+      "vader_score": 0.6369,
+      "textblob_score": 0.625,
+      "first_sentence": "They say you never forget your first time, but for most of us, this doesn\u2019t apply to cheeseburgers.",
+      "timestamp": "2026-03-21T10:00:49Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Carol Vorderman: \u2018Best kiss of my life? There\u2019s a long list \u2026 \u2019",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/mar/21/carol-vorderman-best-kiss-of-my-life-theres-a-long-list",
+      "mean_score": 0.4482,
+      "vader_score": 0.4215,
+      "textblob_score": 0.475,
+      "first_sentence": "Born in Bedfordshire, Carol Vorderman, 65, studied engineering at Cambridge University.",
+      "timestamp": "2026-03-21T10:00:49Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "\u2018Tastes of salt, smells of coffee\u2019: why Trieste is one of Italy\u2019s best food cities",
       "link": "https://www.theguardian.com/travel/2026/mar/21/trieste-italy-best-food-cities",
@@ -60,6 +110,16 @@
       "first_sentence": "The Guardian\u2019s journalism is independent.",
       "timestamp": "2026-03-21T05:00:43Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "Dockers much too strong for Dees, Petracca hurt in Suns' win over Tigers",
+      "link": "https://www.abc.net.au/news/2026-03-21/afl-r2-tigers-suns-gws-saints-freo-dees-live-blog/106480120",
+      "mean_score": 0.5248,
+      "vader_score": 0.5719,
+      "textblob_score": 0.4778,
+      "first_sentence": "Fremantle has overpower Melbourne for a 48-point win, thrilling the home crowd as the Dockers got off the mark in 2026.",
+      "timestamp": "2026-03-21T01:50:22Z",
+      "source": "ABC News"
     },
     {
       "headline": "Saturday Night Live UK is here - but can it make you laugh?",
@@ -2439,66 +2499,6 @@
       "textblob_score": 1.0,
       "first_sentence": "Ogilvie didn\u2019t know it at the time, but the Ford Cortina in the shot is a familiar feature of the area, and is known affectionately as Cortie.",
       "timestamp": "2026-03-14T11:00:16Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Reframing Georgia O'Keeffe's legacy and protecting the land she loved",
-      "link": "https://www.npr.org/2026/03/14/nx-s1-5745147/georgia-okeeffe-legacy-land-protection",
-      "mean_score": 0.6497,
-      "vader_score": 0.5994,
-      "textblob_score": 0.7,
-      "first_sentence": "ABIQUIU, NM \u2013 On a recent afternoon, fluffy clouds drift past the sun, throwing light, then shadow, across distant cliffs layered in yellow, ochre and sienna.",
-      "timestamp": "2026-03-14T09:00:00Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "What links The Wonderful Wizard of Oz and Moonfleet? The Saturday quiz",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/mar/14/what-links-the-wonderful-wizard-of-oz-and-moonfleet-the-saturday-quiz",
-      "mean_score": 0.7859,
-      "vader_score": 0.5719,
-      "textblob_score": 1.0,
-      "first_sentence": "1 Which dictator spent his last days in power playing Candy Crush?2 What children\u2019s TV production company was founded by Anne Wood?3 Rome\u2019s Ludus Magnus was a training school for whom?4 Where were Liz Truss and Lord Salisbury both appointed prime minister?5 Referring to 17 metals, what does REE stand for?6 In the title of an 1886 novel, what is David Balfour\u2019s predicament?7 Which fish has the scientific name Electrophorus electricus?8 What sport is the subject of the documentary Love Means Zero?What links:\n  9 Booker T & the MG\u2019s; Manfred Mann; Ben Folds Five?10 Genoese; Lepers; Millionaires; Rat Stabbers; Red Devils?11 Moonfleet; Three Men in a Boat; The Wonderful Wizard of Oz; Consider Phlebas?12 Glengarry Glen Ross; Lawrence of Arabia; The Great Escape; 12 Angry Men?13 Arbuthnot Latham; Coutts; C Hoare; Weatherbys?14 Horn; Agulhas; Leeuwin; South East; Whiore?15 Nicholas Breakspear and Robert Prevost?.",
-      "timestamp": "2026-03-14T07:00:13Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Why Australia's famous flying doctors are more important now than ever before",
-      "link": "https://www.sbs.com.au/news/article/why-australias-famous-flying-doctors-are-more-important-now-than-ever-before/kdvrooiyo",
-      "mean_score": 0.3691,
-      "vader_score": 0.2716,
-      "textblob_score": 0.4667,
-      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-      "timestamp": "2026-03-14T06:43:00Z",
-      "source": "SBS News"
-    },
-    {
-      "headline": "Zoo celebrates first UK-born elephant shrews",
-      "link": "https://www.bbc.com/news/articles/c98q05eygm3o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4109,
-      "vader_score": 0.5719,
-      "textblob_score": 0.25,
-      "first_sentence": "Two black and rufous sengi, known as elephant shrews, have been born for the first time in the UK.",
-      "timestamp": "2026-03-14T06:15:18Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Formula One: Chinese Grand Prix qualifying \u2013 live",
-      "link": "https://www.theguardian.com/sport/live/2026/mar/14/chinese-grand-prix-f1-qualifying-race-live-updates",
-      "mean_score": 0.3355,
-      "vader_score": 0.4588,
-      "textblob_score": 0.2121,
-      "first_sentence": "What were the other major takeaways from our season-opening race in Melbourne?.",
-      "timestamp": "2026-03-14T06:02:01Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Six great reads: Louis Theroux\u2019s reluctance to answer questions, Apple\u2019s hits and misses, and boomers v gen Z",
-      "link": "https://www.theguardian.com/news/2026/mar/14/six-great-reads-louis-therouxs-reluctance-to-answer-questions-apples-hits-and-misses-and-boomers-v-gen-z",
-      "mean_score": 0.5011,
-      "vader_score": 0.2023,
-      "textblob_score": 0.8,
-      "first_sentence": "Lucia Osborne-Crowley has endured threats and sexual harassment to report on Jeffrey Epstein\u2019s chief enabler.",
-      "timestamp": "2026-03-14T06:00:13Z",
       "source": "The Guardian"
     }
   ]
