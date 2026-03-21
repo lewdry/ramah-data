@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Swinney promises \u00a3500m childcare boost and more GP walk-in clinics",
+    "link": "https://www.bbc.com/news/articles/cx2rwjr4y59o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.5743,
+    "vader_score": 0.6486,
+    "textblob_score": 0.5,
+    "first_sentence": "The first minister has pledged to spend more than \u00a3500m on boosting childcare provision if the SNP is re-elected in May.",
+    "timestamp": "2026-03-14T16:42:33Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Put your phone down and focus: the four best ways to watch movies",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/mar/12/four-ways-to-watch-movies-more-intentionally",
+    "mean_score": 0.5296,
+    "vader_score": 0.6369,
+    "textblob_score": 0.4222,
+    "first_sentence": "The Guardian\u2019s journalism is independent.",
+    "timestamp": "2026-03-14T14:15:20Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "\u2018You\u2019ve got to be able to laugh at yourself\u2019: Jamie Oliver stars in video for CMAT\u2019s The Jamie Oliver Petrol Station",
+    "link": "https://www.theguardian.com/music/2026/mar/14/jamie-oliver-cmat-video-the-jamie-oliver-petrol-station",
+    "mean_score": 0.4787,
+    "vader_score": 0.5574,
+    "textblob_score": 0.4,
+    "first_sentence": "It is 27 years since Jamie Oliver first appeared on TV as The Naked Chef, bish-bash-boshing his way to cultural ubiquity thanks in part to his rock\u2019n\u2019roll credentials: his band Scarlet Division provided the show\u2019s theme tune, and his love of Toploader made their cover of Dancing in the Moonlight a monumental hit.",
+    "timestamp": "2026-03-14T14:00:20Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Democratic lead in Georgia special election signals change in party\u2019s fortunes",
     "link": "https://www.theguardian.com/us-news/2026/mar/14/democrats-georgia-election",
     "mean_score": 0.3795,

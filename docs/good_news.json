@@ -1,6 +1,36 @@
 {
-  "last run": "2026-03-21T18:07:09Z",
+  "last run": "2026-03-21T21:06:22Z",
   "stories": [
+    {
+      "headline": "Three sailors remain missing near Iran. Their families are hoping for a 'miracle'",
+      "link": "https://www.abc.net.au/news/2026-03-22/middle-east-war-leaves-sailors-at-risk-in-persian-gulf-near-iran/106479052",
+      "mean_score": 0.3048,
+      "vader_score": 0.6597,
+      "textblob_score": -0.05,
+      "first_sentence": "Three sailors remain missing after a Thai merchant ship was bombed by Iran as it tried to escape the war zone via the Strait of Hormuz.",
+      "timestamp": "2026-03-21T19:09:07Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Superannuation should be used for aged care, not inherited by next generation, aged care CEO says",
+      "link": "https://www.theguardian.com/australia-news/2026/mar/21/superannuation-should-be-used-for-aged-care-not-inherited-by-next-generation-aged-care-ceo-says",
+      "mean_score": 0.342,
+      "vader_score": 0.7506,
+      "textblob_score": -0.0667,
+      "first_sentence": "Labor should more actively encourage wealthier Australians to spend more of their superannuation on their own care, an industry leader says, to help free up capacity in the struggling system to protect elderly people without means.",
+      "timestamp": "2026-03-21T19:01:01Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "I lost my love of cooking after 12 years as a chef. Moving to a pig farm restored it",
+      "link": "https://www.theguardian.com/food/2026/mar/21/hospitality-love-of-cooking-chef-pig-farm",
+      "mean_score": 0.5743,
+      "vader_score": 0.6486,
+      "textblob_score": 0.5,
+      "first_sentence": "I was a keen-bean 15-year-old when I got my first job in a commercial kitchen in Canberra, raised on a diet of Jamie and Nigella and bursting with a passion for food.",
+      "timestamp": "2026-03-21T19:01:00Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Iraqi Kurds mark Nowruz, celebrating light over darkness",
       "link": "https://www.npr.org/sections/the-picture-show/2026/03/21/nx-s1-5753923/nowruz-iraqi-kurds-photos",
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.4611,
       "first_sentence": "Wearside will always be a special place for James Milner.",
       "timestamp": "2026-03-14T17:21:13Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Swinney promises \u00a3500m childcare boost and more GP walk-in clinics",
-      "link": "https://www.bbc.com/news/articles/cx2rwjr4y59o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5743,
-      "vader_score": 0.6486,
-      "textblob_score": 0.5,
-      "first_sentence": "The first minister has pledged to spend more than \u00a3500m on boosting childcare provision if the SNP is re-elected in May.",
-      "timestamp": "2026-03-14T16:42:33Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Put your phone down and focus: the four best ways to watch movies",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/mar/12/four-ways-to-watch-movies-more-intentionally",
-      "mean_score": 0.5296,
-      "vader_score": 0.6369,
-      "textblob_score": 0.4222,
-      "first_sentence": "The Guardian\u2019s journalism is independent.",
-      "timestamp": "2026-03-14T14:15:20Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018You\u2019ve got to be able to laugh at yourself\u2019: Jamie Oliver stars in video for CMAT\u2019s The Jamie Oliver Petrol Station",
-      "link": "https://www.theguardian.com/music/2026/mar/14/jamie-oliver-cmat-video-the-jamie-oliver-petrol-station",
-      "mean_score": 0.4787,
-      "vader_score": 0.5574,
-      "textblob_score": 0.4,
-      "first_sentence": "It is 27 years since Jamie Oliver first appeared on TV as The Naked Chef, bish-bash-boshing his way to cultural ubiquity thanks in part to his rock\u2019n\u2019roll credentials: his band Scarlet Division provided the show\u2019s theme tune, and his love of Toploader made their cover of Dancing in the Moonlight a monumental hit.",
-      "timestamp": "2026-03-14T14:00:20Z",
       "source": "The Guardian"
     }
   ]
