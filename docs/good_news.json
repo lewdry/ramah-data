@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-21T03:44:12Z",
+  "last run": "2026-03-21T06:12:44Z",
   "stories": [
+    {
+      "headline": "Rhoda Roberts, the woman behind 'Welcome to Country', dies at 66",
+      "link": "https://www.abc.net.au/news/2026-03-21/indigenous-artistic-leader-cultural-adviser-rhoda-roberts-dies/106445192",
+      "mean_score": 0.3294,
+      "vader_score": 0.4588,
+      "textblob_score": 0.2,
+      "first_sentence": "A guiding force in Australia's arts scene and the woman who coined the term \"Welcome to Country\", Aunty Rhoda Roberts AO has died at the age of 66.",
+      "timestamp": "2026-03-21T05:38:25Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "\u2018A fascinating discovery\u2019: research challenges Battle of Hastings narrative",
+      "link": "https://www.theguardian.com/culture/2026/mar/21/battle-of-hastings-discovery-research-england-history",
+      "mean_score": 0.498,
+      "vader_score": 0.296,
+      "textblob_score": 0.7,
+      "first_sentence": "The Guardian\u2019s journalism is independent.",
+      "timestamp": "2026-03-21T05:00:43Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Saturday Night Live UK is here - but can it make you laugh?",
       "link": "https://www.bbc.com/news/articles/cj40xxj4v5po?at_medium=RSS&at_campaign=rss",
@@ -2480,26 +2500,6 @@
       "first_sentence": "She might be one of the most recognisable faces on British TV as the host of Love Island and a panellist on The Masked Singer, but Maya Jama is ready to take the leap from presenter to leading lady.",
       "timestamp": "2026-03-14T03:59:10Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "What's in the free daytime power plan as global tensions rattle energy markets",
-      "link": "https://www.abc.net.au/news/2026-03-14/free-power-part-of-aer-dfo-draft-release/106446770",
-      "mean_score": 0.3009,
-      "vader_score": 0.4019,
-      "textblob_score": 0.2,
-      "first_sentence": "The Australian Energy Regulator has released more details about the Government's plan to offer free power in the middle of the day for some Australians.",
-      "timestamp": "2026-03-14T03:27:39Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Biscuit, tiramisu and pistachio stuffing: dates just got even better",
-      "link": "https://www.abc.net.au/news/2026-03-14/stuffed-dates-with-three-fillings/106397336",
-      "mean_score": 0.4702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.5,
-      "first_sentence": "Lina Jebeile is a food photographer and content creator.",
-      "timestamp": "2026-03-14T02:00:00Z",
-      "source": "ABC News"
     }
   ]
 }
