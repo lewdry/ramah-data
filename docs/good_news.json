@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-21T15:06:22Z",
+  "last run": "2026-03-21T18:07:09Z",
   "stories": [
+    {
+      "headline": "Iraqi Kurds mark Nowruz, celebrating light over darkness",
+      "link": "https://www.npr.org/sections/the-picture-show/2026/03/21/nx-s1-5753923/nowruz-iraqi-kurds-photos",
+      "mean_score": 0.401,
+      "vader_score": 0.4019,
+      "textblob_score": 0.4,
+      "first_sentence": "AKRE, Kurdistan Region of Iraq \u2014 For many people, the vernal equinox \u2014 which marked the beginning of spring Friday \u2014 is just another date on the calendar.",
+      "timestamp": "2026-03-21T16:56:00Z",
+      "source": "NPR News"
+    },
     {
       "headline": "Fans elated as BTS play first gig together in nearly four years",
       "link": "https://www.bbc.com/news/articles/cge0dyjwezgo?at_medium=RSS&at_campaign=rss",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.4,
       "first_sentence": "It is 27 years since Jamie Oliver first appeared on TV as The Naked Chef, bish-bash-boshing his way to cultural ubiquity thanks in part to his rock\u2019n\u2019roll credentials: his band Scarlet Division provided the show\u2019s theme tune, and his love of Toploader made their cover of Dancing in the Moonlight a monumental hit.",
       "timestamp": "2026-03-14T14:00:20Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Democratic lead in Georgia special election signals change in party\u2019s fortunes",
-      "link": "https://www.theguardian.com/us-news/2026/mar/14/democrats-georgia-election",
-      "mean_score": 0.3795,
-      "vader_score": 0.4019,
-      "textblob_score": 0.3571,
-      "first_sentence": "Earlier this week, a steady trickle of voters casting ballots in Dalton at Georgia\u2019s City Hall offered a glimpse into what may be changing fortunes for Democrats in Marjorie Taylor Greene\u2019s former congressional district.",
-      "timestamp": "2026-03-14T12:00:20Z",
       "source": "The Guardian"
     }
   ]
