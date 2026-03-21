@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Slay the Spire 2 is a bit too familiar for its own good",
+    "link": "https://arstechnica.com/gaming/2026/03/slay-the-spire-2-is-a-bit-too-familiar-for-its-own-good/",
+    "mean_score": 0.4994,
+    "vader_score": 0.4404,
+    "textblob_score": 0.5583,
+    "first_sentence": "Early Access impressions: New characters shine, but it feels like we\u2019ve done this before.",
+    "timestamp": "2026-03-13T22:26:06Z",
+    "source": "Ars Technica"
+  },
+  {
+    "headline": "Bennett calls fan invasion 'pretty disruptive' after historic Johnston try",
+    "link": "https://www.abc.net.au/news/2026-03-14/wayne-bennett-alex-johnston-nrl-try-record-pitch-invasion/106455186",
+    "mean_score": 0.3095,
+    "vader_score": 0.4939,
+    "textblob_score": 0.125,
+    "first_sentence": "South Sydney Rabbitohs coach Wayne Bennett seemed to have had enough of answering questions about Alex Johnston's NRL try-scoring record, during Friday's post-match press conference.",
+    "timestamp": "2026-03-13T22:19:48Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Mary and Fred's love story: How a girl from Hobart met a prince and became queen",
+    "link": "https://www.abc.net.au/news/2026-03-14/mary-and-fred-love-story-danish-royals-australian-tour/106451850",
+    "mean_score": 0.5685,
+    "vader_score": 0.6369,
+    "textblob_score": 0.5,
+    "first_sentence": "King Frederik and Australian-born Queen Mary of Denmark are touring Australia this week.",
+    "timestamp": "2026-03-13T21:16:10Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "A cholesterol test you've never heard of is now recommended to prevent heart disease",
+    "link": "https://www.npr.org/2026/03/13/nx-s1-5747111/cholesterol-guidelines-lipoproteina-test",
+    "mean_score": 0.3634,
+    "vader_score": 0.7269,
+    "textblob_score": 0.0,
+    "first_sentence": "New guidelines for managing cholesterol call for more aggressive prevention and earlier treatment, including a recommendation that all adults be tested once for lipoprotein(a), a genetic risk marker for heart disease.",
+    "timestamp": "2026-03-13T20:56:19Z",
+    "source": "NPR News"
+  },
+  {
     "headline": "Vaccinating bats could be good for people. But how do you vaccinate a bat?",
     "link": "https://www.npr.org/2026/03/13/g-s1-113183/vaccinate-vaccine-bats-rabies-nipah",
     "mean_score": 0.4691,

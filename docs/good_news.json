@@ -1,6 +1,36 @@
 {
-  "last run": "2026-03-20T21:08:26Z",
+  "last run": "2026-03-21T00:18:32Z",
   "stories": [
+    {
+      "headline": "My love of baking helps me deal with arthritis at age of 13",
+      "link": "https://www.bbc.com/news/articles/cvg1g21gvk1o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.6391,
+      "vader_score": 0.7783,
+      "textblob_score": 0.5,
+      "first_sentence": "After being diagnosed with juvenile idiopathic arthritis (JIA) in 2024, she found it became therapeutic way of coping with a condition that many people she knew had never even heard of.",
+      "timestamp": "2026-03-21T00:00:07Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Maguire red card costs Manchester United as Kroupi rescues Bournemouth draw",
+      "link": "https://www.theguardian.com/football/2026/mar/20/bournemouth-manchester-united-premier-league-match-report",
+      "mean_score": 0.3125,
+      "vader_score": 0.6249,
+      "textblob_score": 0.0,
+      "first_sentence": "Under Friday night lights, Manchester United stumbled.",
+      "timestamp": "2026-03-20T22:06:07Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "It's not a royal visit, but something else important happened in Tassie this week",
+      "link": "https://www.abc.net.au/news/2026-03-21/tasmania-government-integrity-transparency-rebuild-trust/106479724",
+      "mean_score": 0.348,
+      "vader_score": 0.296,
+      "textblob_score": 0.4,
+      "first_sentence": "You'd have to be living under a rock if you missed that \"our\" Danish Queen Mary visited Hobart this week.",
+      "timestamp": "2026-03-20T21:07:26Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Small but mighty cheers for team Japan at Asian Cup final",
       "link": "https://www.abc.net.au/news/2026-03-21/womens-asian-cup-2026-japanese-diaspora-support-team/106479958",
@@ -30,6 +60,16 @@
       "first_sentence": "Sir Keir Starmer may have had a tough year in office, but in one key measure he is top of the shop: the Toby Jug in his likeness outsold all other prime ministers in 2025.",
       "timestamp": "2026-03-20T18:55:33Z",
       "source": "BBC News"
+    },
+    {
+      "headline": "Why Ryan Gosling's eyes were so important to Project Hail Mary",
+      "link": "https://www.abc.net.au/news/2026-03-21/project-hail-mary-greig-fraser-interview/106472300",
+      "mean_score": 0.3976,
+      "vader_score": 0.3952,
+      "textblob_score": 0.4,
+      "first_sentence": "Australian cinematographer Grieg Fraser has recreated pretty much every earthly environment you can think of; from the night vision deserts of Zero Dark Thirty, to the comic-book grime of Gotham City in The Batman to queasy sheen of Washington politics in Vice.",
+      "timestamp": "2026-03-20T18:30:00Z",
+      "source": "ABC News"
     },
     {
       "headline": "Work from home and drive more slowly to save energy, global body urges",
@@ -2460,46 +2500,6 @@
       "first_sentence": "Sydney has smashed a depleted Brisbane side at the SCG while Adelaide records an impressive victory over Collingwood at the MCG.",
       "timestamp": "2026-03-14T01:47:53Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Slay the Spire 2 is a bit too familiar for its own good",
-      "link": "https://arstechnica.com/gaming/2026/03/slay-the-spire-2-is-a-bit-too-familiar-for-its-own-good/",
-      "mean_score": 0.4994,
-      "vader_score": 0.4404,
-      "textblob_score": 0.5583,
-      "first_sentence": "Early Access impressions: New characters shine, but it feels like we\u2019ve done this before.",
-      "timestamp": "2026-03-13T22:26:06Z",
-      "source": "Ars Technica"
-    },
-    {
-      "headline": "Bennett calls fan invasion 'pretty disruptive' after historic Johnston try",
-      "link": "https://www.abc.net.au/news/2026-03-14/wayne-bennett-alex-johnston-nrl-try-record-pitch-invasion/106455186",
-      "mean_score": 0.3095,
-      "vader_score": 0.4939,
-      "textblob_score": 0.125,
-      "first_sentence": "South Sydney Rabbitohs coach Wayne Bennett seemed to have had enough of answering questions about Alex Johnston's NRL try-scoring record, during Friday's post-match press conference.",
-      "timestamp": "2026-03-13T22:19:48Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Mary and Fred's love story: How a girl from Hobart met a prince and became queen",
-      "link": "https://www.abc.net.au/news/2026-03-14/mary-and-fred-love-story-danish-royals-australian-tour/106451850",
-      "mean_score": 0.5685,
-      "vader_score": 0.6369,
-      "textblob_score": 0.5,
-      "first_sentence": "King Frederik and Australian-born Queen Mary of Denmark are touring Australia this week.",
-      "timestamp": "2026-03-13T21:16:10Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "A cholesterol test you've never heard of is now recommended to prevent heart disease",
-      "link": "https://www.npr.org/2026/03/13/nx-s1-5747111/cholesterol-guidelines-lipoproteina-test",
-      "mean_score": 0.3634,
-      "vader_score": 0.7269,
-      "textblob_score": 0.0,
-      "first_sentence": "New guidelines for managing cholesterol call for more aggressive prevention and earlier treatment, including a recommendation that all adults be tested once for lipoprotein(a), a genetic risk marker for heart disease.",
-      "timestamp": "2026-03-13T20:56:19Z",
-      "source": "NPR News"
     }
   ]
 }
