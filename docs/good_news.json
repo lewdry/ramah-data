@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-21T00:18:32Z",
+  "last run": "2026-03-21T03:44:12Z",
   "stories": [
+    {
+      "headline": "Saturday Night Live UK is here - but can it make you laugh?",
+      "link": "https://www.bbc.com/news/articles/cj40xxj4v5po?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4639,
+      "vader_score": 0.7096,
+      "textblob_score": 0.2182,
+      "first_sentence": "Walking into the Saturday Night Live UK studios for the first time, it's clear much time and money has been pumped into helping this show succeed.",
+      "timestamp": "2026-03-21T01:30:17Z",
+      "source": "BBC News"
+    },
     {
       "headline": "My love of baking helps me deal with arthritis at age of 13",
       "link": "https://www.bbc.com/news/articles/cvg1g21gvk1o?at_medium=RSS&at_campaign=rss",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.5,
       "first_sentence": "Lina Jebeile is a food photographer and content creator.",
       "timestamp": "2026-03-14T02:00:00Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Crows claim impressive win over Pies, Swans demolish depleted Lions",
-      "link": "https://www.abc.net.au/news/2026-03-14/afl-round-one-saturday-live-blog-wb-gws-gee-freo-syd-bl-coll-ade/106448288",
-      "mean_score": 0.8482,
-      "vader_score": 0.7964,
-      "textblob_score": 0.9,
-      "first_sentence": "Sydney has smashed a depleted Brisbane side at the SCG while Adelaide records an impressive victory over Collingwood at the MCG.",
-      "timestamp": "2026-03-14T01:47:53Z",
       "source": "ABC News"
     }
   ]
