@@ -1,6 +1,46 @@
 {
-  "last run": "2026-03-21T06:12:44Z",
+  "last run": "2026-03-21T09:08:38Z",
   "stories": [
+    {
+      "headline": "\u2018Tastes of salt, smells of coffee\u2019: why Trieste is one of Italy\u2019s best food cities",
+      "link": "https://www.theguardian.com/travel/2026/mar/21/trieste-italy-best-food-cities",
+      "mean_score": 0.8185,
+      "vader_score": 0.6369,
+      "textblob_score": 1.0,
+      "first_sentence": "The Guardian\u2019s journalism is independent.",
+      "timestamp": "2026-03-21T08:00:46Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Live: Massive crowd as Matildas take on Japan in blockbuster Asian Cup final",
+      "link": "https://www.abc.net.au/news/2026-03-21/matildas-vs-japan-asian-cup-final-live-blog/106480482",
+      "mean_score": 0.3167,
+      "vader_score": 0.5994,
+      "textblob_score": 0.0341,
+      "first_sentence": "The Women's Asian Cup final is upon us, with a red-hot Japan standing in the way of the Matildas and what could be their first piece of silverware since 2010.",
+      "timestamp": "2026-03-21T07:42:24Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Comic Relief helps fund free school uniform charity",
+      "link": "https://www.bbc.com/news/articles/cdrmle57mm8o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.6104,
+      "vader_score": 0.8957,
+      "textblob_score": 0.325,
+      "first_sentence": "As children across the country ditch school uniform for the day to raise money for Comic Relief, one Greater Manchester charity that has helped thousands of families with recycled uniforms will be receiving funding.",
+      "timestamp": "2026-03-21T07:27:01Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Love Actually? Washington\u2019s current relationship with Britain is more like Contempt Actually | Timothy Garton Ash",
+      "link": "https://www.theguardian.com/commentisfree/2026/mar/21/britain-us-special-relationship-trump-starmer",
+      "mean_score": 0.3216,
+      "vader_score": 0.4432,
+      "textblob_score": 0.2,
+      "first_sentence": "\u201cA friend who bullies us is no longer a friend.",
+      "timestamp": "2026-03-21T06:00:46Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Rhoda Roberts, the woman behind 'Welcome to Country', dies at 66",
       "link": "https://www.abc.net.au/news/2026-03-21/indigenous-artistic-leader-cultural-adviser-rhoda-roberts-dies/106445192",
@@ -2460,46 +2500,6 @@
       "first_sentence": "Lucia Osborne-Crowley has endured threats and sexual harassment to report on Jeffrey Epstein\u2019s chief enabler.",
       "timestamp": "2026-03-14T06:00:13Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Russell wins Shanghai sprint for Mercedes, Piastri finishes sixth",
-      "link": "https://www.abc.net.au/news/2026-03-14/f1-china-sprint-race-george-russell-wins-mercedes/106444542",
-      "mean_score": 0.4359,
-      "vader_score": 0.5719,
-      "textblob_score": 0.3,
-      "first_sentence": "George Russell wins the Chinese Grand Prix sprint race ahead of Charles Leclerc and Lewis Hamilton.",
-      "timestamp": "2026-03-14T05:44:11Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Haiti's first Paralympic skier hits the slopes, as Australia's Ben Tudhope wins bronze",
-      "link": "https://www.sbs.com.au/news/article/haitis-first-paralympic-skier-hits-the-slopes-as-australias-ben-tudhope-wins-bronze/n2nomfete",
-      "mean_score": 0.4234,
-      "vader_score": 0.5719,
-      "textblob_score": 0.275,
-      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-      "timestamp": "2026-03-14T05:12:12Z",
-      "source": "SBS News"
-    },
-    {
-      "headline": "George Russell wins first F1 sprint race of season at Chinese Grand Prix",
-      "link": "https://www.theguardian.com/sport/2026/mar/14/f1-chinese-grand-prix-sprint-qualifying-george-russell-mercedes-ferrari-report",
-      "mean_score": 0.5171,
-      "vader_score": 0.7717,
-      "textblob_score": 0.2625,
-      "first_sentence": "George Russell won the opening sprint race of the new Formula One season at the Chinese Grand Prix.",
-      "timestamp": "2026-03-14T04:24:49Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Love Island star Maya Jama ready to make the leap from presenter to actress",
-      "link": "https://www.bbc.com/news/articles/cq57x0nlnv9o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5609,
-      "vader_score": 0.7717,
-      "textblob_score": 0.35,
-      "first_sentence": "She might be one of the most recognisable faces on British TV as the host of Love Island and a panellist on The Masked Singer, but Maya Jama is ready to take the leap from presenter to leading lady.",
-      "timestamp": "2026-03-14T03:59:10Z",
-      "source": "BBC News"
     }
   ]
 }
