@@ -1,5 +1,55 @@
 [
   {
+    "headline": "Nathan Martin wins closest-ever Los Angeles marathon in its 40-year history",
+    "link": "https://www.theguardian.com/us-news/2026/mar/15/nathan-martin-los-angeles-marathon",
+    "mean_score": 0.4359,
+    "vader_score": 0.5719,
+    "textblob_score": 0.3,
+    "first_sentence": "In the final moments of the Los Angeles marathon last weekend, the announcers were already narrating frontrunner Michael Kimani Kamau\u2019s finish when Nathan Martin suddenly propelled forward, shocking newscasters and spectators.",
+    "timestamp": "2026-03-15T13:00:24Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "A race for a safe blue seat tests how far left Democrats want new leaders to go",
+    "link": "https://www.npr.org/2026/03/13/nx-s1-5726873/generational-politics-il-9",
+    "mean_score": 0.3206,
+    "vader_score": 0.4939,
+    "textblob_score": 0.1473,
+    "first_sentence": "On an overcast Saturday in Evanston, Ill., as local union members file into a small campaign office, sip coffee and get ready to go canvass, a classic campaign scene begins to take shape.",
+    "timestamp": "2026-03-15T12:09:47Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "Peter Bradshaw\u2019s Oscars 2026 predictions: who will win, who should win, who should\u2019ve been in the running?",
+    "link": "https://www.theguardian.com/film/2026/mar/15/oscars-2026-predictions-winners-sinners-one-battle-after-another",
+    "mean_score": 0.8113,
+    "vader_score": 0.8225,
+    "textblob_score": 0.8,
+    "first_sentence": "Will Sinners and One Battle After Another sweep the board as expected, or are there surprises on the way? Our critic shares his predictions for the big-screen triumphs and disasters\u2022 Join us from 8pm GMT for live coverageWill win: SinnersShould win: The Secret AgentShoulda been a contender: The Mastermind Continue reading.",
+    "timestamp": "2026-03-15T12:00:25Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Kimi Antonelli takes his first F1 win with victory in China to extend Mercedes\u2019 dominant start",
+    "link": "https://apnews.com/article/f1-china-antonelli-russell-hamilton-leclerc-b327c1053d98616bf04dd1874109239d",
+    "mean_score": 0.5978,
+    "vader_score": 0.6705,
+    "textblob_score": 0.525,
+    "first_sentence": "SHANGHAI (AP) \u2014 He\u2019s been defined by being Lewis Hamilton\u2019s successor and George Russell\u2019s teammate.",
+    "timestamp": "2026-03-15T11:53:02Z",
+    "source": "AP News"
+  },
+  {
+    "headline": "This is how we do it: \u2018We\u2019re more adventurous now \u2013 I\u2019ve discovered my animalistic side\u2019",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/mar/15/this-is-how-we-do-it-more-adventurous-animalistic-rupert-eva",
+    "mean_score": 0.4503,
+    "vader_score": 0.4005,
+    "textblob_score": 0.5,
+    "first_sentence": "Eva and I have been together for four years, but we lived in different countries for two of those years, seeing each other every other weekend.",
+    "timestamp": "2026-03-15T11:00:22Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Irresistible Japan cruises into Asian Cup semis and delights diaspora",
     "link": "https://www.abc.net.au/news/2026-03-15/japan-downs-philippines-asian-cup-semis-sydney/106457522",
     "mean_score": 0.3298,
