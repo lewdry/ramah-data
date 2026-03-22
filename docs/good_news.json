@@ -1,6 +1,46 @@
 {
-  "last run": "2026-03-22T00:20:43Z",
+  "last run": "2026-03-22T03:49:57Z",
   "stories": [
+    {
+      "headline": "Family-friendly TV drama Crookhaven hopes to be latest hit book adaptation",
+      "link": "https://www.bbc.com/news/articles/cedzqdqewn3o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4607,
+      "vader_score": 0.4215,
+      "textblob_score": 0.5,
+      "first_sentence": "There's nothing hotter in the world of TV right now than adaptations of popular books, especially those that cater to younger audiences.",
+      "timestamp": "2026-03-22T01:14:44Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Anyone who goes through IVF 'should be so proud', says Sara Pascoe",
+      "link": "https://www.bbc.com/news/articles/c1j7dn3gkk9o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.7056,
+      "vader_score": 0.6113,
+      "textblob_score": 0.8,
+      "first_sentence": "Sara Pascoe has said anyone who tries to conceive through IVF \"should be so proud of themselves\", explaining that it is \"such a big thing to put your body through\".",
+      "timestamp": "2026-03-22T01:06:17Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "\u2018So awesome\u2019: BTS fans on K-pop\u2019s biggest comeback",
+      "link": "https://www.theguardian.com/music/2026/mar/22/bts-concert-arirang-kpop-fans-comeback-south-korea-seoul",
+      "mean_score": 0.5,
+      "vader_score": 0.0,
+      "textblob_score": 1.0,
+      "first_sentence": "The Zubillaga family had come from Veracruz, Mexico.",
+      "timestamp": "2026-03-22T00:32:32Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Jess Hull and Kurtis Marschall win bronze as Australia eye more medals on final day at world indoors",
+      "link": "https://www.theguardian.com/sport/2026/mar/22/jess-hull-kurtis-marschal-win-bronze-australia-medals-world-athletics-indoor-championships",
+      "mean_score": 0.5096,
+      "vader_score": 0.5859,
+      "textblob_score": 0.4333,
+      "first_sentence": "Jess Hull and Kurtis Marschall have won bronze medals at the world athletics indoor championships on another successful day for the Australian team in Poland.",
+      "timestamp": "2026-03-22T00:20:33Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Is your jerry can safe and legal?",
       "link": "https://www.abc.net.au/news/2026-03-22/fuel-storage-jerry-can-safety-explainer/106481586",
@@ -2459,46 +2499,6 @@
       "textblob_score": 0.55,
       "first_sentence": "A first Newcastle victory at Stamford Bridge since 2012, Anthony Gordon their match-winner against the club he was close to joining in 2022.",
       "timestamp": "2026-03-14T19:42:02Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "How the Iranian-Australian community united to help footballers",
-      "link": "https://www.abc.net.au/news/2026-03-15/iranian-australian-community-unite-iran-womens-football-asylum/106450314",
-      "mean_score": 0.3352,
-      "vader_score": 0.6705,
-      "textblob_score": 0.0,
-      "first_sentence": "Before Iran's women's football team even landed in Australia for the Women's Asian Cup, many members of the Iranian-Australian community were already coming together for a common cause.",
-      "timestamp": "2026-03-14T19:09:05Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Gatz review \u2013 the Great Gatsby performed in eight-and-a-half hours of attentive, immersive joy",
-      "link": "https://www.theguardian.com/culture/2026/mar/15/gatz-review-the-great-gatsby-performed-in-eight-and-a-half-hours-of-attentive-immersive-joy",
-      "mean_score": 0.7513,
-      "vader_score": 0.836,
-      "textblob_score": 0.6667,
-      "first_sentence": "A man enters his office in the morning, finds his computer on the fritz, and after a few attempts to turn it on and off again, comes across a copy of F Scott Fitzgerald\u2019s 1925 novel The Great Gatsby.",
-      "timestamp": "2026-03-14T19:00:05Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "'On the run' or 'disfigured'? Mystery surrounds Iran's new supreme leader",
-      "link": "https://www.abc.net.au/news/2026-03-15/iran-supreme-leader-mojtaba-khamenei-unseen-since-israel-us-war/106440826",
-      "mean_score": 0.3469,
-      "vader_score": 0.5574,
-      "textblob_score": 0.1364,
-      "first_sentence": "Late last week, Iran's new supreme leader, Mojtaba Khamenei, broke his silence after days of intensifying rumours about his health and whereabouts, but it did little to put them to rest.",
-      "timestamp": "2026-03-14T18:44:08Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "UK faces \u2018seismic moment\u2019 as nationalists target election wins, says John Swinney",
-      "link": "https://www.theguardian.com/uk-news/2026/mar/14/uk-faces-seismic-moment-as-nationalists-target-election-wins-says-swinney",
-      "mean_score": 0.4359,
-      "vader_score": 0.5719,
-      "textblob_score": 0.3,
-      "first_sentence": "The UK is facing an \u201cabsolutely seismic moment\u201d, John Swinney has said, with the prospect of the election of first ministers in Scotland, Wales and Northern Ireland in May who are all committed to the break-up of the union.",
-      "timestamp": "2026-03-14T18:22:10Z",
       "source": "The Guardian"
     }
   ]

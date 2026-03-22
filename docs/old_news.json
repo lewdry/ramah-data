@@ -1,5 +1,45 @@
 [
   {
+    "headline": "How the Iranian-Australian community united to help footballers",
+    "link": "https://www.abc.net.au/news/2026-03-15/iranian-australian-community-unite-iran-womens-football-asylum/106450314",
+    "mean_score": 0.3352,
+    "vader_score": 0.6705,
+    "textblob_score": 0.0,
+    "first_sentence": "Before Iran's women's football team even landed in Australia for the Women's Asian Cup, many members of the Iranian-Australian community were already coming together for a common cause.",
+    "timestamp": "2026-03-14T19:09:05Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Gatz review \u2013 the Great Gatsby performed in eight-and-a-half hours of attentive, immersive joy",
+    "link": "https://www.theguardian.com/culture/2026/mar/15/gatz-review-the-great-gatsby-performed-in-eight-and-a-half-hours-of-attentive-immersive-joy",
+    "mean_score": 0.7513,
+    "vader_score": 0.836,
+    "textblob_score": 0.6667,
+    "first_sentence": "A man enters his office in the morning, finds his computer on the fritz, and after a few attempts to turn it on and off again, comes across a copy of F Scott Fitzgerald\u2019s 1925 novel The Great Gatsby.",
+    "timestamp": "2026-03-14T19:00:05Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "'On the run' or 'disfigured'? Mystery surrounds Iran's new supreme leader",
+    "link": "https://www.abc.net.au/news/2026-03-15/iran-supreme-leader-mojtaba-khamenei-unseen-since-israel-us-war/106440826",
+    "mean_score": 0.3469,
+    "vader_score": 0.5574,
+    "textblob_score": 0.1364,
+    "first_sentence": "Late last week, Iran's new supreme leader, Mojtaba Khamenei, broke his silence after days of intensifying rumours about his health and whereabouts, but it did little to put them to rest.",
+    "timestamp": "2026-03-14T18:44:08Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "UK faces \u2018seismic moment\u2019 as nationalists target election wins, says John Swinney",
+    "link": "https://www.theguardian.com/uk-news/2026/mar/14/uk-faces-seismic-moment-as-nationalists-target-election-wins-says-swinney",
+    "mean_score": 0.4359,
+    "vader_score": 0.5719,
+    "textblob_score": 0.3,
+    "first_sentence": "The UK is facing an \u201cabsolutely seismic moment\u201d, John Swinney has said, with the prospect of the election of first ministers in Scotland, Wales and Northern Ireland in May who are all committed to the break-up of the union.",
+    "timestamp": "2026-03-14T18:22:10Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Reform UK government would replace top civil servants with policy \u2018believers\u2019",
     "link": "https://www.theguardian.com/politics/2026/mar/14/reform-uk-government-replace-top-civil-servants-people-aligned-policies",
     "mean_score": 0.3512,
