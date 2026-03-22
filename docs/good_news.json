@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-21T21:06:22Z",
+  "last run": "2026-03-22T00:20:43Z",
   "stories": [
+    {
+      "headline": "Is your jerry can safe and legal?",
+      "link": "https://www.abc.net.au/news/2026-03-22/fuel-storage-jerry-can-safety-explainer/106481586",
+      "mean_score": 0.4383,
+      "vader_score": 0.5267,
+      "textblob_score": 0.35,
+      "first_sentence": "Despite repeated calls from authorities not to stockpile fuel, warning it will only push prices even higher as demand outpaces supply, some Australians are continuing to fill jerry cans and store petrol at home.",
+      "timestamp": "2026-03-22T00:09:14Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Hull, Marschall win bronze at World Athletics Indoor Championships",
+      "link": "https://www.abc.net.au/news/2026-03-22/world-athletics-indoor-championships-jess-hull-kurtis-marschall/106483330",
+      "mean_score": 0.7953,
+      "vader_score": 0.7906,
+      "textblob_score": 0.8,
+      "first_sentence": "Jessica Hull won bronze in the women's 3,000 metres at the World Athletics Indoor Championships.",
+      "timestamp": "2026-03-21T21:55:57Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Three sailors remain missing near Iran. Their families are hoping for a 'miracle'",
       "link": "https://www.abc.net.au/news/2026-03-22/middle-east-war-leaves-sailors-at-risk-in-persian-gulf-near-iran/106479052",
@@ -250,6 +270,16 @@
       "first_sentence": "One Nation isn't shying away from the national significance of today.",
       "timestamp": "2026-03-20T20:15:31Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "Top US Fema official claims to have teleported to a Waffle House before",
+      "link": "https://www.theguardian.com/us-news/2026/mar/20/fema-gregg-phillips-waffle-house",
+      "mean_score": 0.3512,
+      "vader_score": 0.2023,
+      "textblob_score": 0.5,
+      "first_sentence": "A far-right conspiracy theorist turned high-ranking official at the US Federal Emergency Management Agency (Fema) claims to have once teleported to a Waffle House.",
+      "timestamp": "2026-03-20T19:38:03Z",
+      "source": "The Guardian"
     },
     {
       "headline": "Starmer most popular PM - in Toby Jug sales",
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.3,
       "first_sentence": "The UK is facing an \u201cabsolutely seismic moment\u201d, John Swinney has said, with the prospect of the election of first ministers in Scotland, Wales and Northern Ireland in May who are all committed to the break-up of the union.",
       "timestamp": "2026-03-14T18:22:10Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Reform UK government would replace top civil servants with policy \u2018believers\u2019",
-      "link": "https://www.theguardian.com/politics/2026/mar/14/reform-uk-government-replace-top-civil-servants-people-aligned-policies",
-      "mean_score": 0.3512,
-      "vader_score": 0.2023,
-      "textblob_score": 0.5,
-      "first_sentence": "A Reform UK government would expect to dismiss the top civil servant in every government department and replace them with people seen as more likely to implement the party\u2019s priorities, the Guardian has learned.",
-      "timestamp": "2026-03-14T18:00:01Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "'They honestly saved my life': The bikers helping abused kids feel safe",
-      "link": "https://www.abc.net.au/news/2026-03-15/bikers-against-child-abuse-australia-young-people-abuse-safety/106307714",
-      "mean_score": 0.6575,
-      "vader_score": 0.765,
-      "textblob_score": 0.55,
-      "first_sentence": "BACA members accompany kids to court, stand guard outside their homes, and provide a sense of safety with burly presences and deeply rumbling motorbikes.",
-      "timestamp": "2026-03-14T18:00:00Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Yankuba Minteh\u2019s lucky strike earns Brighton first win at Sunderland for 45 years",
-      "link": "https://www.theguardian.com/football/2026/mar/14/sunderland-brighton-premier-league-match-report",
-      "mean_score": 0.594,
-      "vader_score": 0.7269,
-      "textblob_score": 0.4611,
-      "first_sentence": "Wearside will always be a special place for James Milner.",
-      "timestamp": "2026-03-14T17:21:13Z",
       "source": "The Guardian"
     }
   ]
