@@ -1,6 +1,66 @@
 {
-  "last run": "2026-03-22T12:07:37Z",
+  "last run": "2026-03-22T15:06:27Z",
   "stories": [
+    {
+      "headline": "The Matildas\u2019 near misses sting but their Asian Cup final suggests this great team are not done",
+      "link": "https://www.theguardian.com/football/2026/mar/23/australia-matildas-near-misses-sting-but-asian-cup-final-suggests-great-team-not-done",
+      "mean_score": 0.5179,
+      "vader_score": 0.8107,
+      "textblob_score": 0.225,
+      "first_sentence": "Two steps to the left.",
+      "timestamp": "2026-03-22T14:00:23Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "The kindness of strangers: My kids sent me a birthday fax from far away \u2013 a modest man made sure I received it",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/mar/23/kindness-strangers-lost-birthday-fax-washington-hotel",
+      "mean_score": 0.441,
+      "vader_score": 0.6486,
+      "textblob_score": 0.2333,
+      "first_sentence": "In the 1990s I travelled extensively for work, leaving behind my young family.",
+      "timestamp": "2026-03-22T14:00:23Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Starmer adviser urges ministers to look at profits cap for energy and petrol firms",
+      "link": "https://www.theguardian.com/money/2026/mar/22/starmer-adviser-richard-walker-profits-cap-energy-petrol-firms",
+      "mean_score": 0.3062,
+      "vader_score": 0.6124,
+      "textblob_score": 0.0,
+      "first_sentence": "The government\u2019s top cost of living adviser has called on ministers to explore a temporary cap on the profits of energy and petrol companies to prevent them from cashing in excessively on the war in the Middle East.",
+      "timestamp": "2026-03-22T13:26:17Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "How to make the perfect cheese khachapuri \u2013 recipe | Felicity Cloake's How to make the perfect \u2026",
+      "link": "https://www.theguardian.com/food/2026/mar/22/how-to-make-the-perfect-cheese-khachapuri-recipe-felicity-cloake",
+      "mean_score": 0.9063,
+      "vader_score": 0.8126,
+      "textblob_score": 1.0,
+      "first_sentence": "Tuskadze goes on to explain in her book Supra that there are \u201cas many variations \u2026 as there are families in Georgia\u201d \u2013 the boat-shaped, open adjaruili that Polina Chesnakova notes has \u201ctaken the internet by storm\u201d, the Ossetian mashed potato variety and the Gurian take with hard-boiled eggs and a \u201csupremely fluffy, slightly oniony, souffl\u00e9-like cheese filling\u201d, which inspires Caroline Eden to share with readers of her book Green Mountains the glorious Georgian word shemomechama, \u201cwhich loosely translates as, \u2018I accidentally ate the whole thing\u2019\u201d.",
+      "timestamp": "2026-03-22T13:00:21Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "An orthopedic surgeon explains the hand injury that has many MLB players on the bench",
+      "link": "https://www.npr.org/2026/03/22/nx-s1-5729148/an-orthopedic-surgeon-explains-the-hand-injury-that-has-many-mlb-players-on-the-bench",
+      "mean_score": 0.3014,
+      "vader_score": 0.1027,
+      "textblob_score": 0.5,
+      "first_sentence": "Baseball hitters are on a quest for power.",
+      "timestamp": "2026-03-22T12:23:11Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "\u2018I want my career, my children and a free supple life\u2019: Sylvia Plath\u2019s radical reinvention",
+      "link": "https://www.theguardian.com/books/2026/mar/22/i-want-my-career-my-children-and-a-free-supple-life-sylvia-plaths-radical-reinvention",
+      "mean_score": 0.4787,
+      "vader_score": 0.5574,
+      "textblob_score": 0.4,
+      "first_sentence": "In February 1962, Sylvia Plath dropped in on her neighbour in Devon, Rose Key, with \u201ca plate of absolutely indigestible Black Walnut-flavored cupcakes\u201d.",
+      "timestamp": "2026-03-22T12:00:20Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Goggia wins to lock up World Cup super-G title. Aicher further closes gap on overall leader Shiffrin",
       "link": "https://apnews.com/article/alpine-skiing-superg-goggia-shiffrin-olympics-e1189931bb31afee4ba998509a5b5ab0",
@@ -2439,66 +2499,6 @@
       "textblob_score": 0.5,
       "first_sentence": "Eva and I have been together for four years, but we lived in different countries for two of those years, seeing each other every other weekend.",
       "timestamp": "2026-03-15T11:00:22Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Irresistible Japan cruises into Asian Cup semis and delights diaspora",
-      "link": "https://www.abc.net.au/news/2026-03-15/japan-downs-philippines-asian-cup-semis-sydney/106457522",
-      "mean_score": 0.3298,
-      "vader_score": 0.6597,
-      "textblob_score": 0.0,
-      "first_sentence": "Japan has booked its place in the Asian Cup semifinals with a hard-fought but ultimately sublime 7-0 victory over the Philippines at picture-perfect Stadium Australia.",
-      "timestamp": "2026-03-15T08:58:05Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Kimi Antonelli wins F1 Chinese GP from pole as Lewis Hamilton claims first Ferrari podium",
-      "link": "https://www.theguardian.com/sport/2026/mar/15/kimi-antonelli-wins-chinese-gp-lewis-hamilton-takes-first-podium-for-ferrari",
-      "mean_score": 0.3776,
-      "vader_score": 0.5719,
-      "textblob_score": 0.1833,
-      "first_sentence": "Teenage dreams so hard to beat, and what a moment when realised for Kimi Antonelli as he took his first Formula One victory at the Chinese Grand Prix.",
-      "timestamp": "2026-03-15T08:58:02Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Formula One: Kimi Antonelli wins Chinese Grand Prix race updates \u2013 as it happened",
-      "link": "https://www.theguardian.com/sport/live/2026/mar/15/formula-one-chinese-grand-prix-race-updates-live",
-      "mean_score": 0.5192,
-      "vader_score": 0.7717,
-      "textblob_score": 0.2667,
-      "first_sentence": "But that\u2019s about all that\u2019s needed from me today.",
-      "timestamp": "2026-03-15T08:54:08Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Green records 'nerve-racking' Australian Open win to end 12-year drought",
-      "link": "https://www.abc.net.au/news/2026-03-15/golf-hannah-green-wins-australian-open/106457652",
-      "mean_score": 0.313,
-      "vader_score": 0.5859,
-      "textblob_score": 0.04,
-      "first_sentence": "Hannah Green has won the Women's Australian Open by one shot in Adelaide.",
-      "timestamp": "2026-03-15T07:11:00Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Nepal\u2019s uprising took their loved ones. Now they hope for change \u2013 gallery",
-      "link": "https://www.theguardian.com/world/gallery/2026/mar/15/nepals-uprising-took-their-loved-ones-now-they-hope-for-change-gallery",
-      "mean_score": 0.7391,
-      "vader_score": 0.7783,
-      "textblob_score": 0.7,
-      "first_sentence": "Seventy-seven people were killed during youth-led protests that toppled Nepal\u2019s prime minister Continue reading.",
-      "timestamp": "2026-03-15T07:00:17Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018No one saw this coming\u2019: will the surprise Telegraph winner change the paper\u2019s direction?",
-      "link": "https://www.theguardian.com/media/2026/mar/15/telegraph-sale-axel-springer-lord-rothermere-daily-mail",
-      "mean_score": 0.3548,
-      "vader_score": 0.7096,
-      "textblob_score": 0.0,
-      "first_sentence": "The day after Lord Rothermere was gazumped in his pursuit of the Telegraph by Axel Springer\u2019s \u00a3575m knockout offer, the Daily Mail owner was pictured beaming at Rupert Murdoch\u2019s 95th birthday party in New York.",
-      "timestamp": "2026-03-15T06:00:18Z",
       "source": "The Guardian"
     }
   ]
