@@ -1,6 +1,36 @@
 {
-  "last run": "2026-03-22T03:49:57Z",
+  "last run": "2026-03-22T06:17:23Z",
   "stories": [
+    {
+      "headline": "Breaking: One Nation wins first seat in SA Parliament's Lower House, ABC projects",
+      "link": "https://www.abc.net.au/news/2026-03-22/one-nation-projected-to-win-lower-house-seat-abc-projects/106483382",
+      "mean_score": 0.3181,
+      "vader_score": 0.3612,
+      "textblob_score": 0.275,
+      "first_sentence": "Pauline Hanson's One Nation has won its first ever Lower House seat at an election outside of Queensland, the ABC projects.",
+      "timestamp": "2026-03-22T06:09:42Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "It\u2019s always me who makes the effort to see my friends. Don\u2019t they value me? | Ask Annalisa Barbieri",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/mar/22/its-always-me-who-makes-the-effort-to-see-my-friends-dont-they-value-me",
+      "mean_score": 0.3352,
+      "vader_score": 0.6705,
+      "textblob_score": 0.0,
+      "first_sentence": "My friends seem genuinely happy to\u00a0see me when we\u2019re together and usually accept when I suggest meeting up.",
+      "timestamp": "2026-03-22T06:00:13Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "We are living in a period of political anti-intellectualism. But in pop culture, clever is the new cool",
+      "link": "https://www.theguardian.com/fashion/2026/mar/22/living-period-political-anti-intellectualism-pop-culture-clever-new-cool",
+      "mean_score": 0.4754,
+      "vader_score": 0.7876,
+      "textblob_score": 0.1633,
+      "first_sentence": "Put down your negroni, hang up your Prada handbag and pick up a paperback.",
+      "timestamp": "2026-03-22T06:00:12Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Family-friendly TV drama Crookhaven hopes to be latest hit book adaptation",
       "link": "https://www.bbc.com/news/articles/cedzqdqewn3o?at_medium=RSS&at_campaign=rss",
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.2333,
       "first_sentence": "This has been a stunningly unpredictable Six Nations and no one saw this remarkable final reel coming.",
       "timestamp": "2026-03-14T22:29:23Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Three more Iranian women\u2019s football squad members return home after being granted asylum in Australia",
-      "link": "https://www.theguardian.com/australia-news/2026/mar/15/iran-womens-football-squad-members-decide-to-return-home-australia-asylum-visas-tony-burke",
-      "mean_score": 0.375,
-      "vader_score": 0.25,
-      "textblob_score": 0.5,
-      "first_sentence": "Three more members of the Iranian women\u2019s football squad have left Australia, leaving behind teammates who sought asylum after playing in the Women\u2019s Asian Cup.",
-      "timestamp": "2026-03-14T20:32:58Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Max Dowman breaks record as Arsenal boost title push with late win against Everton",
-      "link": "https://www.theguardian.com/football/2026/mar/14/arsenal-everton-premier-league-match-report",
-      "mean_score": 0.504,
-      "vader_score": 0.7579,
-      "textblob_score": 0.25,
-      "first_sentence": "It was the moment to blow the roof off the Emirates Stadium, the exclamation mark on a victory that felt pivotal to the destination of the Premier League title.",
-      "timestamp": "2026-03-14T20:02:04Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Rosenior insists no huddle \u2018disrespect\u2019 as Newcastle earn rare win at Chelsea",
-      "link": "https://www.theguardian.com/football/2026/mar/14/chelsea-newcastle-premier-league-match-report",
-      "mean_score": 0.4659,
-      "vader_score": 0.3818,
-      "textblob_score": 0.55,
-      "first_sentence": "A first Newcastle victory at Stamford Bridge since 2012, Anthony Gordon their match-winner against the club he was close to joining in 2022.",
-      "timestamp": "2026-03-14T19:42:02Z",
       "source": "The Guardian"
     }
   ]

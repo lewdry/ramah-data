@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Three more Iranian women\u2019s football squad members return home after being granted asylum in Australia",
+    "link": "https://www.theguardian.com/australia-news/2026/mar/15/iran-womens-football-squad-members-decide-to-return-home-australia-asylum-visas-tony-burke",
+    "mean_score": 0.375,
+    "vader_score": 0.25,
+    "textblob_score": 0.5,
+    "first_sentence": "Three more members of the Iranian women\u2019s football squad have left Australia, leaving behind teammates who sought asylum after playing in the Women\u2019s Asian Cup.",
+    "timestamp": "2026-03-14T20:32:58Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Max Dowman breaks record as Arsenal boost title push with late win against Everton",
+    "link": "https://www.theguardian.com/football/2026/mar/14/arsenal-everton-premier-league-match-report",
+    "mean_score": 0.504,
+    "vader_score": 0.7579,
+    "textblob_score": 0.25,
+    "first_sentence": "It was the moment to blow the roof off the Emirates Stadium, the exclamation mark on a victory that felt pivotal to the destination of the Premier League title.",
+    "timestamp": "2026-03-14T20:02:04Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Rosenior insists no huddle \u2018disrespect\u2019 as Newcastle earn rare win at Chelsea",
+    "link": "https://www.theguardian.com/football/2026/mar/14/chelsea-newcastle-premier-league-match-report",
+    "mean_score": 0.4659,
+    "vader_score": 0.3818,
+    "textblob_score": 0.55,
+    "first_sentence": "A first Newcastle victory at Stamford Bridge since 2012, Anthony Gordon their match-winner against the club he was close to joining in 2022.",
+    "timestamp": "2026-03-14T19:42:02Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "How the Iranian-Australian community united to help footballers",
     "link": "https://www.abc.net.au/news/2026-03-15/iranian-australian-community-unite-iran-womens-football-asylum/106450314",
     "mean_score": 0.3352,
