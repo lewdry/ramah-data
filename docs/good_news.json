@@ -1,6 +1,46 @@
 {
-  "last run": "2026-03-22T06:17:23Z",
+  "last run": "2026-03-22T09:08:51Z",
   "stories": [
+    {
+      "headline": "How tacking centre left will help Labour win the next election | Andy Beckett",
+      "link": "https://www.theguardian.com/commentisfree/2026/mar/22/labour-left-centre-win-election-fragmented-electorate",
+      "mean_score": 0.5123,
+      "vader_score": 0.7579,
+      "textblob_score": 0.2667,
+      "first_sentence": "Led by a probably doomed prime minister, presiding over a struggling economy, exposed by an ongoing scandal, besieged by populist insurgents to its right and left, ambushed by a war that will bring higher inflation and public debt, and predicted to win just 75 seats at the next general election, according to the website Electoral Calculus, Labour is in an unprecedented crisis.",
+      "timestamp": "2026-03-22T08:00:16Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018We can create hype\u2019: H&M\u2019s UK boss on its commitment to the high street",
+      "link": "https://www.theguardian.com/business/2026/mar/22/h-and-m-uk-high-street-karen-orourke",
+      "mean_score": 0.3659,
+      "vader_score": 0.5719,
+      "textblob_score": 0.16,
+      "first_sentence": "Almost exactly 50 years after H&M opened its first British store, the doors on its newest, in Brighton, swung open this week and the Swedish fashion company\u2019s UK boss is determined to keep investing in the nation\u2019s high streets despite its struggles.",
+      "timestamp": "2026-03-22T08:00:15Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Slop it like it\u2019s hot: the rise of build-your-own takeaway salad bowls",
+      "link": "https://www.theguardian.com/food/2026/mar/22/slop-takeaway-salad-lunch-bowls-morwenna-ferrier",
+      "mean_score": 0.3056,
+      "vader_score": 0.3612,
+      "textblob_score": 0.25,
+      "first_sentence": "How did this pick-n-mix salad-and-protein sludge become a typical working lunch?.",
+      "timestamp": "2026-03-22T08:00:15Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Scrambling, walking and swimming in splendid isolation: 75 years of the UK\u2019s national parks",
+      "link": "https://www.theguardian.com/travel/2026/mar/22/guide-to-lake-district-eryi-snowdonia-dartmoor-national-parks",
+      "mean_score": 0.5533,
+      "vader_score": 0.2732,
+      "textblob_score": 0.8333,
+      "first_sentence": "The Guardian\u2019s journalism is independent.",
+      "timestamp": "2026-03-22T07:00:14Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Breaking: One Nation wins first seat in SA Parliament's Lower House, ABC projects",
       "link": "https://www.abc.net.au/news/2026-03-22/one-nation-projected-to-win-lower-house-seat-abc-projects/106483382",
@@ -2460,46 +2500,6 @@
       "first_sentence": "North Melbourne plays host to a Port Adelaide side excited to begin life under new coach Josh Carr, in the first match of an AFL Sunday triple-header.",
       "timestamp": "2026-03-15T01:52:56Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Race to restore 'raw horsepower' that gave outback motocross club true grit",
-      "link": "https://www.abc.net.au/news/2026-03-15/community-push-to-revive-newman-motocross-club/106376174",
-      "mean_score": 0.336,
-      "vader_score": 0.6124,
-      "textblob_score": 0.0596,
-      "first_sentence": "An outback West Australian community is hoping to restore its motocross circuit and clubhouse, after it was handed over to the local shire.",
-      "timestamp": "2026-03-15T01:00:06Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Oscars 2026: What to expect, how to watch and who will win",
-      "link": "https://www.bbc.com/news/articles/clyv4e2ldpjo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.6929,
-      "vader_score": 0.5859,
-      "textblob_score": 0.8,
-      "first_sentence": "Hollywood stars are gearing up for Sunday night's Oscars, in an exciting year for the awards race where several categories are too close to call.",
-      "timestamp": "2026-03-15T00:01:28Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Danish royals King Frederik and Queen Mary get rare treat at Uluru",
-      "link": "https://www.abc.net.au/news/2026-03-15/second-day-danish-royal-tour-begins-uluru-before-canberra/106456128",
-      "mean_score": 0.3509,
-      "vader_score": 0.4019,
-      "textblob_score": 0.3,
-      "first_sentence": "Queen Mary and King Frederik of Denmark began the second day of their royal tour of Australia at a sacred waterhole at Uluru.",
-      "timestamp": "2026-03-14T23:47:54Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "France win Six Nations with last kick as Thomas Ramos sinks England in thriller",
-      "link": "https://www.theguardian.com/sport/2026/mar/14/france-win-six-nations-with-last-kick-as-thomas-ramos-sinks-england-in-thriller",
-      "mean_score": 0.4351,
-      "vader_score": 0.6369,
-      "textblob_score": 0.2333,
-      "first_sentence": "This has been a stunningly unpredictable Six Nations and no one saw this remarkable final reel coming.",
-      "timestamp": "2026-03-14T22:29:23Z",
-      "source": "The Guardian"
     }
   ]
 }
