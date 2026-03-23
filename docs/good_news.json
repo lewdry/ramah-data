@@ -1,6 +1,96 @@
 {
-  "last run": "2026-03-23T06:25:52Z",
+  "last run": "2026-03-23T09:22:32Z",
   "stories": [
+    {
+      "headline": "Pro-EU liberals see narrow win in Slovenia as key Italian referendum enters final hours \u2013 Europe live",
+      "link": "https://www.theguardian.com/world/live/2026/mar/23/local-eu-elections-slovenia-italy-france-latest-updates-news",
+      "mean_score": 0.3543,
+      "vader_score": 0.5859,
+      "textblob_score": 0.1227,
+      "first_sentence": "Slovenia\u2019s incumbent liberal prime minister Robert Golob claimed victory in parliamentary elections on Sunday, as results put his party just slightly ahead of the populist conservatives led by Trump-ally Janez Jan\u0161a.",
+      "timestamp": "2026-03-23T09:08:26Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018A big smile on my face\u2019: why Everybody Wants Some!! is my feelgood movie",
+      "link": "https://www.theguardian.com/film/2026/mar/23/everybody-wants-some-richard-linklater-feelgood-movie",
+      "mean_score": 0.339,
+      "vader_score": 0.4738,
+      "textblob_score": 0.2042,
+      "first_sentence": "If any film can make me feel like a teenager again, it\u2019s Everybody Wants Some!!.",
+      "timestamp": "2026-03-23T09:00:45Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "With more older drivers on the road, states try to balance safety and mobility",
+      "link": "https://www.npr.org/2026/03/23/nx-s1-5672445/older-drivers-licensing-safety",
+      "mean_score": 0.3774,
+      "vader_score": 0.4215,
+      "textblob_score": 0.3333,
+      "first_sentence": "GREEN LAKE, Wis.",
+      "timestamp": "2026-03-23T09:00:00Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "What does a 'GLP-1 Friendly' diet look like? We asked nutritionists",
+      "link": "https://www.npr.org/2026/03/23/nx-s1-5699407/glp-1-ozempic-zepbound-wegovy-nutrition",
+      "mean_score": 0.5329,
+      "vader_score": 0.6908,
+      "textblob_score": 0.375,
+      "first_sentence": "Some food companies, including Nestle and Conagra, are responding to the popularity of obesity and diabetes drugs by branding some products \"GLP-1 Friendly.\" The labels target a growing number of consumers taking medicines such as Zepbound and Wegovy who may be looking for healthier, ready-made meals that minimize side-effects from the drugs.",
+      "timestamp": "2026-03-23T09:00:00Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "Ukrainians are growing more pessimistic about the prospects for peace, survey says",
+      "link": "https://www.npr.org/2026/03/23/nx-s1-5754745/ukrainians-are-growing-more-pessimistic-about-the-prospects-for-peace-survey-says",
+      "mean_score": 0.5292,
+      "vader_score": 0.5584,
+      "textblob_score": 0.5,
+      "first_sentence": "As the Iran war delays peace talks for Ukraine \u2014 and global supplies of air defense missiles \u2014 there are signs that fewer Ukrainians are willing to endure Russia's war for as long as necessary.",
+      "timestamp": "2026-03-23T08:43:20Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "Hull FC turn tide and tame Leeds before era-defining moment for Super League",
+      "link": "https://www.theguardian.com/sport/2026/mar/23/hull-turn-tide-era-defining-moment-super-league",
+      "mean_score": 0.3289,
+      "vader_score": 0.5994,
+      "textblob_score": 0.0583,
+      "first_sentence": "It may seem slightly churlish to suggest the pressure is rising in the lower reaches of Super League when the clocks haven\u2019t even gone forward yet and the season is still in its early stages.",
+      "timestamp": "2026-03-23T08:00:45Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Raye: This Music May Contain Hope review \u2013 a wildly ambitious epic of unbridled self-expression",
+      "link": "https://www.theguardian.com/music/2026/mar/23/raye-this-music-may-contain-hope-review",
+      "mean_score": 0.4467,
+      "vader_score": 0.7184,
+      "textblob_score": 0.175,
+      "first_sentence": "This story seems telling in light of This Music May Contain Hope, an album that very much suggests an artist determined to go her own way.",
+      "timestamp": "2026-03-23T08:00:44Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018I\u2019m a big bear. I lumber\u2019: showbiz superstar Richard Kind on delivering performances you can see from space",
+      "link": "https://www.theguardian.com/stage/2026/mar/23/showbiz-superstar-richard-kind-nazio-spoof-producers",
+      "mean_score": 0.4133,
+      "vader_score": 0.5267,
+      "textblob_score": 0.3,
+      "first_sentence": "The first time Kind starred in Nazi-spoof The Producers, he lost 30lb.",
+      "timestamp": "2026-03-23T08:00:44Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Jane Fonda\u2019s life goes under the microscope: best podcasts of the week",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/mar/23/jane-fondas-life-goes-under-the-microscope-best-podcasts-of-the-week",
+      "mean_score": 0.8185,
+      "vader_score": 0.6369,
+      "textblob_score": 1.0,
+      "first_sentence": "Pop culture icons and music legends are explored in a new show that has access to the BBC\u2019s vast archive.",
+      "timestamp": "2026-03-23T07:00:43Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Starwatch: Look west to see the moon blot out Leo\u2019s brightest star",
       "link": "https://www.theguardian.com/science/2026/mar/23/starwatch-look-west-to-see-the-moon-blot-out-leos-brightest-star",
@@ -179,6 +269,16 @@
       "textblob_score": 0.5,
       "first_sentence": "Baseball hitters are on a quest for power.",
       "timestamp": "2026-03-22T12:23:11Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "This local official thinks he may have the road map for Democrats to win big in 2026",
+      "link": "https://www.npr.org/2026/03/22/nx-s1-5730370/democrats-2026-lehigh-county-pennsylvania",
+      "mean_score": 0.4263,
+      "vader_score": 0.5859,
+      "textblob_score": 0.2667,
+      "first_sentence": "ALLENTOWN, Pa.",
+      "timestamp": "2026-03-22T12:09:00Z",
       "source": "NPR News"
     },
     {
@@ -2400,106 +2500,6 @@
       "first_sentence": "Hollywood's night of night has taken place this evening with One Battle After Another dominating.",
       "timestamp": "2026-03-15T23:31:47Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "'One Battle After Another' takes best picture. Here's the full list of Oscar winners",
-      "link": "https://www.npr.org/2026/03/15/nx-s1-5739287/oscars-2026-winners-list-best-picture-actor-actress",
-      "mean_score": 0.6829,
-      "vader_score": 0.6908,
-      "textblob_score": 0.675,
-      "first_sentence": "One Battle After Another took home best picture at the 98th Oscars on Sunday night.",
-      "timestamp": "2026-03-15T23:24:24Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Amy Madigan wins best supporting actress Oscar for Weapons",
-      "link": "https://www.theguardian.com/film/2026/mar/15/amy-madigan-wins-best-supporting-actress-oscar-for-weapons",
-      "mean_score": 0.6763,
-      "vader_score": 0.836,
-      "textblob_score": 0.5167,
-      "first_sentence": "Amy Madigan has won the best supporting actress Oscar for Weapons at the 98th Academy Awards,.",
-      "timestamp": "2026-03-15T23:20:57Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "First-round of French local elections sees strong showing for National Rally and LFI",
-      "link": "https://www.theguardian.com/world/2026/mar/15/french-local-elections-first-round-results",
-      "mean_score": 0.3275,
-      "vader_score": 0.5106,
-      "textblob_score": 0.1444,
-      "first_sentence": "The first-round of the French municipal elections have seen a strong showing for Marine Le Pen\u2019s far-right the National Rally (RN), as well as for Jean-Luc M\u00e9lenchon\u2019s radical left, with both parties likely to increase their local presence ahead of next year\u2019s French presidential race.",
-      "timestamp": "2026-03-15T22:26:03Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Live: Oscars underway as Amy Madigan and KPop Demon Hunters win early",
-      "link": "https://www.abc.net.au/news/2026-03-16/oscars-live-blog-latest-updates-jacob-elordi-rose-byrne/106346834",
-      "mean_score": 0.4657,
-      "vader_score": 0.5859,
-      "textblob_score": 0.3455,
-      "first_sentence": "The 98th Academy Awards are here! Australia's Rose Byrne and Jacob Elordi are in the running to win their first Oscars and potentially cap off an already successful awards season with the top honours.",
-      "timestamp": "2026-03-15T21:44:55Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Oscars 2026: the red carpet, the ceremony, the winners \u2013\u00a0follow the action live!",
-      "link": "https://www.theguardian.com/film/live/2026/mar/15/oscars-2026-live-updates-red-carpet-ceremony-winners",
-      "mean_score": 0.3078,
-      "vader_score": 0.5255,
-      "textblob_score": 0.0902,
-      "first_sentence": "Meanwhile, Peter Bradshaw\u2019s red carpet whirlwind continues apace.",
-      "timestamp": "2026-03-15T21:03:11Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "See the full list: Here are the winners of the 2026 Oscars",
-      "link": "https://www.sbs.com.au/news/article/oscars-2026-what-you-need-to-know/a0sbbkk7v",
-      "mean_score": 0.4133,
-      "vader_score": 0.4767,
-      "textblob_score": 0.35,
-      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-      "timestamp": "2026-03-15T21:01:00Z",
-      "source": "SBS News"
-    },
-    {
-      "headline": "How this Sydney high school drastically improved their HSC results",
-      "link": "https://www.abc.net.au/news/2026-03-16/most-improved-school-hsc-grades-south-sydney-high-school/106451534",
-      "mean_score": 0.3184,
-      "vader_score": 0.4767,
-      "textblob_score": 0.16,
-      "first_sentence": "When Janice Neilsen joined South Sydney High School as principal seven years ago, turning around their HSC results was a top priority.",
-      "timestamp": "2026-03-15T19:21:14Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "'The country is watching': Bernardi says One Nation must win seats in SA poll",
-      "link": "https://www.abc.net.au/news/2026-03-16/one-nation-predicts-strong-primary-vote-at-sa-election/106455334",
-      "mean_score": 0.6929,
-      "vader_score": 0.5859,
-      "textblob_score": 0.8,
-      "first_sentence": "One Nation's performance in recent polling has been one of the prominent themes of the SA election campaign.",
-      "timestamp": "2026-03-15T19:05:50Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "'A dream come true': What life is like a year after The Piano",
-      "link": "https://www.abc.net.au/news/2026-03-16/the-piano-where-are-they-now/106443040",
-      "mean_score": 0.5465,
-      "vader_score": 0.743,
-      "textblob_score": 0.35,
-      "first_sentence": "For 14-year-old Melburnian Stefania Robu, walking down the street has become a \"bizarre experience\".",
-      "timestamp": "2026-03-15T18:30:00Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Chelsea\u2019s James leads way to win League Cup final against Manchester United",
-      "link": "https://www.theguardian.com/football/2026/mar/15/chelsea-manchester-united-womens-league-cup-final-match-report",
-      "mean_score": 0.5825,
-      "vader_score": 0.765,
-      "textblob_score": 0.4,
-      "first_sentence": "Death, taxes and Chelsea women winning trophies.",
-      "timestamp": "2026-03-15T16:32:55Z",
-      "source": "The Guardian"
     }
   ]
 }
