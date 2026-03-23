@@ -1,6 +1,36 @@
 {
-  "last run": "2026-03-23T18:17:00Z",
+  "last run": "2026-03-23T21:11:58Z",
   "stories": [
+    {
+      "headline": "Senate to vote on DHS chief, with TSA funding and SAVE act tied up in Congress",
+      "link": "https://www.npr.org/2026/03/23/nx-s1-5757456/senate-to-vote-on-dhs-chief-with-tsa-funding-and-save-act-tied-up-in-congress",
+      "mean_score": 0.3019,
+      "vader_score": 0.6037,
+      "textblob_score": 0.0,
+      "first_sentence": "The Senate votes Monday on the nomination of Sen.",
+      "timestamp": "2026-03-23T20:03:35Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "Australia and European Union to sign free trade agreement decades in the making",
+      "link": "https://www.abc.net.au/news/2026-03-24/eu-australia-free-trade-agreement-reached/106488438",
+      "mean_score": 0.4789,
+      "vader_score": 0.7579,
+      "textblob_score": 0.2,
+      "first_sentence": "Australia and the European Union look set to finally sign off on a long-awaited free trade pact after almost a decade of negotiations.",
+      "timestamp": "2026-03-23T19:05:38Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Aged care algorithm 'like Russian roulette'",
+      "link": "https://www.abc.net.au/news/2026-03-24/aged-care-algorithm-for-home-care-under-fire/106475138",
+      "mean_score": 0.3204,
+      "vader_score": 0.6908,
+      "textblob_score": -0.05,
+      "first_sentence": "The algorithm to determine a person's eligibility for in-home care came into effect in November.",
+      "timestamp": "2026-03-23T18:50:02Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Viktor Orb\u00e1n celebrated by Europe\u2019s far right before Hungary election",
       "link": "https://www.theguardian.com/world/2026/mar/23/viktor-orban-celebrated-europe-far-right-hungary-election",
@@ -70,6 +100,16 @@
       "first_sentence": "Katalyst Space Technologies must launch the Swift rescue mission by this summer.",
       "timestamp": "2026-03-23T11:00:01Z",
       "source": "Ars Technica"
+    },
+    {
+      "headline": "Welcome to the United States of Mancunia",
+      "link": "https://www.theguardian.com/food/2026/mar/23/united-states-of-mancunia-american-fast-food-manchester",
+      "mean_score": 0.7502,
+      "vader_score": 0.7003,
+      "textblob_score": 0.8,
+      "first_sentence": "A new wave of hyper-regional hoagies, subs and pizzas are taking over Manchester\u2019s food scene.",
+      "timestamp": "2026-03-23T10:00:46Z",
+      "source": "The Guardian"
     },
     {
       "headline": "Pro-EU liberals see narrow win in Slovenia as key Italian referendum enters final hours \u2013 Europe live",
@@ -2460,46 +2500,6 @@
       "first_sentence": "Three new species of rock monitor lizards previously unknown to science have been formally described in Far North Queensland.",
       "timestamp": "2026-03-16T04:11:15Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Historic firsts, risqu\u00e9 jokes, and a tie - watch the top moments",
-      "link": "https://www.bbc.com/news/videos/cedzq0q6x5lo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3357,
-      "vader_score": 0.4215,
-      "textblob_score": 0.25,
-      "first_sentence": "The 2026 Oscars featured surprise wins, emotional speeches and some comical moments as stars gathered for Hollywood's biggest night.",
-      "timestamp": "2026-03-16T03:15:43Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "One Battle After Another sweeps the Oscars as Michael B Jordan and Jessie Buckley win big",
-      "link": "https://www.theguardian.com/film/2026/mar/15/oscars-2026-best-picture-one-battle-after-another-win",
-      "mean_score": 0.348,
-      "vader_score": 0.296,
-      "textblob_score": 0.4,
-      "first_sentence": "Paul Thomas Anderson\u2019s counter-culture caper One Battle After Another has won the Oscars war, taking home six awards after a hotly contested season.",
-      "timestamp": "2026-03-16T02:43:32Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Best animated film winner Kpop Demon Hunters captures hearts world over",
-      "link": "https://www.bbc.com/news/articles/c4g4n1dyepdo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.9616,
-      "vader_score": 0.9231,
-      "textblob_score": 1.0,
-      "first_sentence": "Kpop Demon Hunters has won best animated film at the Oscars on Sunday evening - the latest in a growing list of accolades for the movie that has swept the world since it was released last summer.",
-      "timestamp": "2026-03-16T02:39:01Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Sinners\u2019 Autumn Durald Arkapaw becomes first woman \u2013 and first black person \u2013 to win best cinematography Oscar",
-      "link": "https://www.theguardian.com/film/2026/mar/16/sinners-autumn-durald-arkapaw-is-first-woman-to-win-best-cinematography-oscar",
-      "mean_score": 0.6334,
-      "vader_score": 0.8402,
-      "textblob_score": 0.4267,
-      "first_sentence": "Sinners\u2019 director of photography Autumn Durald Arkapaw has become the first woman to win the Oscar for best cinematography at the 98th Academy Awards.",
-      "timestamp": "2026-03-16T01:50:17Z",
-      "source": "The Guardian"
     }
   ]
 }
