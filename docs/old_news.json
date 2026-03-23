@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Mr Nobody Against Putin wins the best documentary Oscar",
+    "link": "https://www.theguardian.com/film/2026/mar/16/mr-nobody-against-putin-wins-the-best-documentary-oscar",
+    "mean_score": 0.6347,
+    "vader_score": 0.836,
+    "textblob_score": 0.4333,
+    "first_sentence": "Mr Nobody Against Putin, a primary school teacher\u2019s record of the indoctrination of his pupils to support Russia\u2019s invasion of Ukraine, has won the Oscar for best documentary.",
+    "timestamp": "2026-03-16T01:19:01Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "One-off \u00a32,000 grant gives care leavers head start, study finds",
+    "link": "https://www.bbc.com/news/articles/cx24z8rvw1go?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3454,
+    "vader_score": 0.6908,
+    "textblob_score": 0.0,
+    "first_sentence": "Care leavers who were given a one-off, no strings attached \u00a32,000 grant were less likely to become homeless or spend time in hospital or prison, according to a new study.",
+    "timestamp": "2026-03-16T01:13:30Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Alex Johnston bedlam delivers one of rugby league\u2019s most unforgettable nights | Jack Snape",
     "link": "https://www.theguardian.com/sport/blog/2026/mar/16/alex-johnston-rugby-league-try-scoring-record-south-sydney-roosters",
     "mean_score": 0.325,

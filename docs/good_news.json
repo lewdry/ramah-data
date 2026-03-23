@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-23T15:23:05Z",
+  "last run": "2026-03-23T18:17:00Z",
   "stories": [
+    {
+      "headline": "Viktor Orb\u00e1n celebrated by Europe\u2019s far right before Hungary election",
+      "link": "https://www.theguardian.com/world/2026/mar/23/viktor-orban-celebrated-europe-far-right-hungary-election",
+      "mean_score": 0.4086,
+      "vader_score": 0.5719,
+      "textblob_score": 0.2452,
+      "first_sentence": "Marine Le Pen has called Viktor Orb\u00e1n \u201can exceptional leader\u201d and Geert Wilders hailed \u201ca lion on a continent led by sheep\u201d as Europe\u2019s far-right figureheads rallied round Hungary\u2019s prime minister before an election that polls suggest he may lose.",
+      "timestamp": "2026-03-23T17:56:59Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "WNBA players unanimously approve a new 7-year collective bargaining agreement through 2032",
+      "link": "https://apnews.com/article/cba-wnba-vote-2b56582d24d56d6cdeb0711e584cc7b9",
+      "mean_score": 0.3151,
+      "vader_score": 0.4939,
+      "textblob_score": 0.1364,
+      "first_sentence": "NEW YORK (AP) \u2014 WNBA players unanimously approved the new collective bargaining agreement on Monday with more than 90% participating in voting over the weekend.",
+      "timestamp": "2026-03-23T15:53:02Z",
+      "source": "AP News"
+    },
     {
       "headline": "Blades of glory (or not): what makes a chef\u2019s knife truly great?",
       "link": "https://www.theguardian.com/thefilter/2026/mar/20/what-makes-chefs-knife-great",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Sinners\u2019 director of photography Autumn Durald Arkapaw has become the first woman to win the Oscar for best cinematography at the 98th Academy Awards.",
       "timestamp": "2026-03-16T01:50:17Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Mr Nobody Against Putin wins the best documentary Oscar",
-      "link": "https://www.theguardian.com/film/2026/mar/16/mr-nobody-against-putin-wins-the-best-documentary-oscar",
-      "mean_score": 0.6347,
-      "vader_score": 0.836,
-      "textblob_score": 0.4333,
-      "first_sentence": "Mr Nobody Against Putin, a primary school teacher\u2019s record of the indoctrination of his pupils to support Russia\u2019s invasion of Ukraine, has won the Oscar for best documentary.",
-      "timestamp": "2026-03-16T01:19:01Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "One-off \u00a32,000 grant gives care leavers head start, study finds",
-      "link": "https://www.bbc.com/news/articles/cx24z8rvw1go?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3454,
-      "vader_score": 0.6908,
-      "textblob_score": 0.0,
-      "first_sentence": "Care leavers who were given a one-off, no strings attached \u00a32,000 grant were less likely to become homeless or spend time in hospital or prison, according to a new study.",
-      "timestamp": "2026-03-16T01:13:30Z",
-      "source": "BBC News"
     }
   ]
 }
