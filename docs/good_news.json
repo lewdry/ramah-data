@@ -1,5 +1,5 @@
 {
-  "last run": "2026-03-23T00:22:03Z",
+  "last run": "2026-03-23T03:54:43Z",
   "stories": [
     {
       "headline": "How an island became ferret free  - thanks, in part, to Woody the wonderdog",
@@ -699,6 +699,16 @@
       "textblob_score": 0.4,
       "first_sentence": "It\u2019s wild garlic season, which is as much cause for celebration on the drinks trolley as it is in the kitchen.",
       "timestamp": "2026-03-20T13:00:23Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Add to playlist: the sharply observed electro-twee of the Femcels and the week\u2019s best new tracks",
+      "link": "https://www.theguardian.com/music/2026/mar/20/add-to-playlist-the-sharply-observed-electro-twee-of-the-femcels-and-the-weeks-best-new-tracks",
+      "mean_score": 0.487,
+      "vader_score": 0.6369,
+      "textblob_score": 0.3371,
+      "first_sentence": "The Femcels\u2019 music is euphoric and depressive, sometimes ironic but mostly sincere, often high-tempo, and all delivered with wired, unvarnished vocals.",
+      "timestamp": "2026-03-20T12:00:22Z",
       "source": "The Guardian"
     },
     {
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.0,
       "first_sentence": "For most of his tenure at North Melbourne, Alastair Clarkson\u2019s eyebrows have been arched in a kind of perma-frown.",
       "timestamp": "2026-03-15T14:00:35Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Prue Leith looks back: \u2018I had a great time on Bake Off, but I don\u2019t think I\u2019ll have any yearning when I see Nigella in that position\u2019",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/mar/15/prue-leith-looks-back-interview-bake-off-nigella",
-      "mean_score": 0.4553,
-      "vader_score": 0.5106,
-      "textblob_score": 0.4,
-      "first_sentence": "Born in Cape Town in 1940, Prue Leith is a restaurateur, chef, broadcaster and writer.",
-      "timestamp": "2026-03-15T14:00:29Z",
       "source": "The Guardian"
     }
   ]
