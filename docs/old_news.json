@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Manchester United sink Aston Villa to tighten grip on Champions League spot",
+    "link": "https://www.theguardian.com/football/2026/mar/15/manchester-united-aston-villa-premier-league-match-report",
+    "mean_score": 0.3675,
+    "vader_score": 0.7351,
+    "textblob_score": 0.0,
+    "first_sentence": "On 71 minutes a classic Manchester United riposte, via Matheus Cunha, to Ross Barkley\u2019s equaliser moments before.",
+    "timestamp": "2026-03-15T16:13:27Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "UK looking at all options to secure Strait of Hormuz, says Miliband",
+    "link": "https://www.bbc.com/news/articles/cj0dlvl086eo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.37,
+    "vader_score": 0.34,
+    "textblob_score": 0.4,
+    "first_sentence": "The UK is looking at \"any options\" - including working with the US and allies - to secure key oil shipping routes through the Strait of Hormuz, Ed Miliband has said.",
+    "timestamp": "2026-03-15T14:45:43Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "How a \u2018vacuum cleaner turned the other way\u2019 became a popular solution to snoring disorders",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/mar/16/how-a-vacuum-cleaner-turned-the-other-way-became-a-popular-solution-to-snoring-disorders",
+    "mean_score": 0.4279,
+    "vader_score": 0.7003,
+    "textblob_score": 0.1556,
+    "first_sentence": "When Nick went camping in the summer with friends, he would set up his tent 100 metres away from the group.",
+    "timestamp": "2026-03-15T14:00:35Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Grounds for optimism at North Melbourne as emerging talents give glimpse of rosy future | Jonathan Horn",
+    "link": "https://www.theguardian.com/sport/blog/2026/mar/16/afl-north-melbourne-port-adelaide-optimism",
+    "mean_score": 0.379,
+    "vader_score": 0.7579,
+    "textblob_score": 0.0,
+    "first_sentence": "For most of his tenure at North Melbourne, Alastair Clarkson\u2019s eyebrows have been arched in a kind of perma-frown.",
+    "timestamp": "2026-03-15T14:00:35Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Prue Leith looks back: \u2018I had a great time on Bake Off, but I don\u2019t think I\u2019ll have any yearning when I see Nigella in that position\u2019",
     "link": "https://www.theguardian.com/lifeandstyle/2026/mar/15/prue-leith-looks-back-interview-bake-off-nigella",
     "mean_score": 0.4553,
