@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Alex Johnston bedlam delivers one of rugby league\u2019s most unforgettable nights | Jack Snape",
+    "link": "https://www.theguardian.com/sport/blog/2026/mar/16/alex-johnston-rugby-league-try-scoring-record-south-sydney-roosters",
+    "mean_score": 0.325,
+    "vader_score": 0.0,
+    "textblob_score": 0.65,
+    "first_sentence": "Alex Johnston is adored by all in rugby league, but even so, this was extreme.",
+    "timestamp": "2026-03-16T01:03:52Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Untagged livestock roaming free continues to raise alarm across WA shires",
+    "link": "https://www.abc.net.au/news/2026-03-16/stray-livestock-on-rural-roads-farms-cause-ongoing-concern/106436978",
+    "mean_score": 0.3132,
+    "vader_score": 0.2263,
+    "textblob_score": 0.4,
+    "first_sentence": "A farmer in Western Australia's south has joined growing calls for stronger action to address wandering livestock on rural properties and roads.",
+    "timestamp": "2026-03-16T00:33:29Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Jannik Sinnner ends wait for title with Indian Wells win over Daniil Medvedev",
+    "link": "https://www.theguardian.com/sport/2026/mar/15/indian-wells-tennis-2026-finals",
+    "mean_score": 0.7502,
+    "vader_score": 0.7003,
+    "textblob_score": 0.8,
+    "first_sentence": "Jannik Sinner claimed his first title of the year with victory over Daniil Medvedev in Indian Wells, while Aryna Sabalenka snapped her losing streak against Elena Rybakina in a thrilling women\u2019s final.",
+    "timestamp": "2026-03-16T00:27:44Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Taxpayer bill for saving Scunthorpe steel furnaces could top \u00a31.5bn by 2028, auditor says",
     "link": "https://www.theguardian.com/business/2026/mar/16/taxpayer-bill-for-saving-scunthorpe-steel-furnaces-could-top-15bn-by-2028-auditor-says",
     "mean_score": 0.3512,
