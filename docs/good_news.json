@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-23T09:22:32Z",
+  "last run": "2026-03-23T12:15:49Z",
   "stories": [
+    {
+      "headline": "\u2018There\u2019s biological treasure here\u2019: Chile\u2019s endemic seals gain protection with new marine park",
+      "link": "https://www.theguardian.com/environment/2026/mar/23/chile-seals-colony-gain-protection-new-marine-park-juan-fernandez-archipelago-wildlife",
+      "mean_score": 0.4086,
+      "vader_score": 0.6808,
+      "textblob_score": 0.1364,
+      "first_sentence": "Six decades ago, pioneering oceanographer and conservationist Sylvia Earle made a bittersweet discovery while diving off Chile\u2019s oceanic islands with the US National Science Foundation vessel, the Anton Bruun.",
+      "timestamp": "2026-03-23T12:00:49Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "A unique NASA satellite is falling out of orbit\u2014this team is trying to rescue it",
+      "link": "https://arstechnica.com/space/2026/03/a-unique-nasa-satellite-is-falling-out-of-orbit-this-team-is-trying-to-rescue-it/",
+      "mean_score": 0.3884,
+      "vader_score": 0.4019,
+      "textblob_score": 0.375,
+      "first_sentence": "Katalyst Space Technologies must launch the Swift rescue mission by this summer.",
+      "timestamp": "2026-03-23T11:00:01Z",
+      "source": "Ars Technica"
+    },
     {
       "headline": "Pro-EU liberals see narrow win in Slovenia as key Italian referendum enters final hours \u2013 Europe live",
       "link": "https://www.theguardian.com/world/live/2026/mar/23/local-eu-elections-slovenia-italy-france-latest-updates-news",
@@ -90,6 +110,16 @@
       "first_sentence": "Pop culture icons and music legends are explored in a new show that has access to the BBC\u2019s vast archive.",
       "timestamp": "2026-03-23T07:00:43Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "Primary school with just one pupil could be closed for good",
+      "link": "https://www.bbc.com/news/articles/cr51npez4yro?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3869,
+      "vader_score": 0.4404,
+      "textblob_score": 0.3333,
+      "first_sentence": "A small school in the Scottish Borders where pupil numbers fell to just one could be closed for good.",
+      "timestamp": "2026-03-23T06:20:51Z",
+      "source": "BBC News"
     },
     {
       "headline": "Starwatch: Look west to see the moon blot out Leo\u2019s brightest star",
@@ -2470,36 +2500,6 @@
       "first_sentence": "Jannik Sinner claimed his first title of the year with victory over Daniil Medvedev in Indian Wells, while Aryna Sabalenka snapped her losing streak against Elena Rybakina in a thrilling women\u2019s final.",
       "timestamp": "2026-03-16T00:27:44Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Taxpayer bill for saving Scunthorpe steel furnaces could top \u00a31.5bn by 2028, auditor says",
-      "link": "https://www.theguardian.com/business/2026/mar/16/taxpayer-bill-for-saving-scunthorpe-steel-furnaces-could-top-15bn-by-2028-auditor-says",
-      "mean_score": 0.3512,
-      "vader_score": 0.2023,
-      "textblob_score": 0.5,
-      "first_sentence": "The cost of keeping the UK\u2019s last remaining blast furnaces going at British Steel\u2019s Scunthorpe plant could exceed \u00a31.5bn by 2028 if it continues at its current rate, according to the government\u2019s spending watchdog.",
-      "timestamp": "2026-03-16T00:01:01Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Oscars 2026: Winners list in full (updating live)",
-      "link": "https://www.bbc.com/news/articles/c33jkvmzl4ko?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3599,
-      "vader_score": 0.4767,
-      "textblob_score": 0.2432,
-      "first_sentence": "Hollywood's best and brightest have gathered to find out which of them will be taking home one of the most coveted awards in the movie industry, the Oscars.",
-      "timestamp": "2026-03-15T23:52:18Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Oscars 2026 winners list: Michael B Jordan takes Best Actor, One Battle After Another wins Best Picture",
-      "link": "https://www.abc.net.au/news/2026-03-16/oscars-winner-list-2026/106458764",
-      "mean_score": 0.847,
-      "vader_score": 0.9274,
-      "textblob_score": 0.7667,
-      "first_sentence": "Hollywood's night of night has taken place this evening with One Battle After Another dominating.",
-      "timestamp": "2026-03-15T23:31:47Z",
-      "source": "ABC News"
     }
   ]
 }
