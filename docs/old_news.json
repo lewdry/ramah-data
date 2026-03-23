@@ -1,5 +1,55 @@
 [
   {
+    "headline": "The kindness of strangers: on an emptied train carriage, a man rubbed his hand on my thigh \u2013 then another passenger intervened",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/mar/16/kindness-strangers-saved-from-creepy-train-passenger",
+    "mean_score": 0.3352,
+    "vader_score": 0.6705,
+    "textblob_score": 0.0,
+    "first_sentence": "It was already dark when I boarded the train home.",
+    "timestamp": "2026-03-15T14:00:27Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Readers reply: which are more like life, novels or films?",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/mar/15/readers-reply-which-are-more-like-life-novels-or-films",
+    "mean_score": 0.46,
+    "vader_score": 0.4201,
+    "textblob_score": 0.5,
+    "first_sentence": "This week\u2019s question: travel broadens the mind \u2013 what other sayings are patently false?.",
+    "timestamp": "2026-03-15T14:00:25Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Mikaela Shiffrin closes on overall World Cup title after record-equaling slalom win",
+    "link": "https://www.theguardian.com/sport/2026/mar/15/mikaela-shiffrin-closes-on-overall-world-cup-title-after-record-slalom-win",
+    "mean_score": 0.4929,
+    "vader_score": 0.5859,
+    "textblob_score": 0.4,
+    "first_sentence": "Olympic champion Mikaela Shiffrin won her record-equaling eighth World Cup slalom of the season on Sunday but her main rival in the overall standings was second to maintain pressure on the American star.",
+    "timestamp": "2026-03-15T13:24:39Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Olympic champion Shiffrin takes record 8th slalom win of season but main rival Aicher is 2nd",
+    "link": "https://apnews.com/article/alpine-skiing-slalom-shiffrin-sweden-olympics-93c262e985e65c052fa6e374afcc88d9",
+    "mean_score": 0.4575,
+    "vader_score": 0.5927,
+    "textblob_score": 0.3222,
+    "first_sentence": "\u00c5RE, Sweden (AP) \u2014 After crossing the finish line for her record-equaling eighth World Cup slalom win of the season on Sunday, Olympic champion Mikaela Shiffrin bent over and let out a loud scream.",
+    "timestamp": "2026-03-15T13:23:01Z",
+    "source": "AP News"
+  },
+  {
+    "headline": "I love vultures, mosquitoes and, yes, even wasps. This is why you should too | Jo Wimpenny",
+    "link": "https://www.theguardian.com/commentisfree/2026/mar/15/vultures-mosquitoes-wasps-species-human-life",
+    "mean_score": 0.5904,
+    "vader_score": 0.6808,
+    "textblob_score": 0.5,
+    "first_sentence": "A wasp has just flown into your kitchen.",
+    "timestamp": "2026-03-15T13:00:25Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Nathan Martin wins closest-ever Los Angeles marathon in its 40-year history",
     "link": "https://www.theguardian.com/us-news/2026/mar/15/nathan-martin-los-angeles-marathon",
     "mean_score": 0.4359,
