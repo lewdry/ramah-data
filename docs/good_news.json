@@ -1,6 +1,36 @@
 {
-  "last run": "2026-03-24T18:20:18Z",
+  "last run": "2026-03-24T21:13:08Z",
   "stories": [
+    {
+      "headline": "Arsenal v Chelsea: Women\u2019s Champions League quarter-final, first leg \u2013 live",
+      "link": "https://www.theguardian.com/football/live/2026/mar/24/arsenal-v-chelsea-womens-champions-league-quarter-final-first-leg-live",
+      "mean_score": 0.3599,
+      "vader_score": 0.5267,
+      "textblob_score": 0.1932,
+      "first_sentence": "49 min: Arsenal have a corner.",
+      "timestamp": "2026-03-24T21:08:26Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "'The day has come': Liverpool great announces he is leaving EPL giant",
+      "link": "https://www.abc.net.au/news/2026-03-25/epl-soccer-mo-salah-announces-he-will-leave-liverpool/106494190",
+      "mean_score": 0.5125,
+      "vader_score": 0.6249,
+      "textblob_score": 0.4,
+      "first_sentence": "Mo Salah has announced he is leaving EPL giants Liverpool despite having a year left on his contract.",
+      "timestamp": "2026-03-24T21:04:02Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "NDIS participants work more and feel better after accessing the scheme",
+      "link": "https://www.abc.net.au/news/2026-03-25/ndis-participants-work-more-and-feel-better/106490952",
+      "mean_score": 0.4939,
+      "vader_score": 0.4877,
+      "textblob_score": 0.5,
+      "first_sentence": "People who access the NDIS fare better in the workforce and feel healthier within four years of entering the scheme, a new report finds.",
+      "timestamp": "2026-03-24T18:44:47Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Vivid dreams can make you feel like you've had a deep sleep: study",
       "link": "https://www.abc.net.au/news/science/2026-03-25/waking-up-after-a-vivid-dream-creates-perception-of-deep-sleep/106406372",
@@ -20,6 +50,16 @@
       "first_sentence": "We've barely recovered from season four of Bridgerton, but now details of series five have been announced - with a new romance to set hearts aflutter.",
       "timestamp": "2026-03-24T16:49:13Z",
       "source": "BBC News"
+    },
+    {
+      "headline": "Shoplifting, sex shows and sheepdog-breeding: great artists and the side-hustles they did to get by",
+      "link": "https://www.theguardian.com/culture/2026/mar/24/artists-side-hustles-john-cage-jean-genet-kathy-acker-shoplifting-sex-shows-sheepdog-breeding",
+      "mean_score": 0.7125,
+      "vader_score": 0.6249,
+      "textblob_score": 0.8,
+      "first_sentence": "For as long as young people have dreamed of careers in the arts \u2013 as novelists, painters, poets, musicians and other species \u2013 they have had to measure their dreams against their economic circumstances.",
+      "timestamp": "2026-03-24T16:00:42Z",
+      "source": "The Guardian"
     },
     {
       "headline": "Voting under way in Denmark as Greenland PM says election is most important in territory\u2019s history \u2013 Europe live",
@@ -142,6 +182,16 @@
       "source": "ABC News"
     },
     {
+      "headline": "Cheaper EVs, easier job access: What's in the EU-Australia free trade deal for you?",
+      "link": "https://www.sbs.com.au/news/article/cheaper-evs-easier-job-access-whats-in-the-eu-australia-free-trade-deal-for-you/t9yt57stn",
+      "mean_score": 0.5635,
+      "vader_score": 0.7269,
+      "textblob_score": 0.4,
+      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+      "timestamp": "2026-03-24T05:31:56Z",
+      "source": "SBS News"
+    },
+    {
       "headline": "The global authoritarian right loves Orb\u00e1n \u2013 and that could cost him in Hungary\u2019s elections | Gellert Tamas",
       "link": "https://www.theguardian.com/commentisfree/2026/mar/24/viktor-orban-hungary-elections-global-authoritarian-right",
       "mean_score": 0.3574,
@@ -160,6 +210,16 @@
       "first_sentence": "Service stations across Victoria have run out of petrol and diesel, as the war in the Middle East increases demand, the state's energy minister says.",
       "timestamp": "2026-03-24T01:20:42Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "Meat exporters criticise $10 billion free trade agreement as Australia, EU hail 'win-win'",
+      "link": "https://www.sbs.com.au/news/article/australia-signs-10-billion-free-trade-agreement-with-the-european-union/396vdc14g",
+      "mean_score": 0.4997,
+      "vader_score": 0.5994,
+      "textblob_score": 0.4,
+      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+      "timestamp": "2026-03-24T00:53:01Z",
+      "source": "SBS News"
     },
     {
       "headline": "UK universities flock to India - but will they succeed?",
@@ -2440,66 +2500,6 @@
       "first_sentence": "It was a 3 hour and 40 minute whirl through cinema and celebration, with Michael B.",
       "timestamp": "2026-03-16T14:23:01Z",
       "source": "AP News"
-    },
-    {
-      "headline": "\u2018They become part of people\u2019s identity\u2019: how Australia fell in love with the Skywhales",
-      "link": "https://www.theguardian.com/artanddesign/ng-interactive/2026/mar/17/skywhales-hot-air-balloons-patricia-piccinini-australia",
-      "mean_score": 0.5685,
-      "vader_score": 0.6369,
-      "textblob_score": 0.5,
-      "first_sentence": "All around Australia, Patricia Piccinini has been approached by people who are rolling up a sleeve, tugging at a trouser leg, or even lifting their T-shirt.",
-      "timestamp": "2026-03-16T14:00:22Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018We did Disneyland on mind-altering substances\u2019: Primus frontman Les Claypool on being rock\u2019s great joker \u2013 and why Metallica rejected him",
-      "link": "https://www.theguardian.com/music/2026/mar/16/we-did-disneyland-on-mind-altering-substances-primus-frontman-les-claypool-on-being-rocks-great-joker-and-why-metallica-rejected-him",
-      "mean_score": 0.5591,
-      "vader_score": 0.3182,
-      "textblob_score": 0.8,
-      "first_sentence": "It was the first oddball creation of many: Primus\u2019s rubbery fusions of prog, metal and funk have made Claypool one of rock\u2019s most unlikely success stories.",
-      "timestamp": "2026-03-16T13:57:44Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Delight across Ireland at Jessie Buckley\u2019s \u2018historic\u2019 best actress Oscar win",
-      "link": "https://www.theguardian.com/culture/2026/mar/16/delight-ireland-jessie-buckley-historic-best-actress-oscar-win",
-      "mean_score": 0.7585,
-      "vader_score": 0.9169,
-      "textblob_score": 0.6,
-      "first_sentence": "Jessie Buckley\u2019s Oscar win has uncorked delight across Ireland and prompted an early start to St Patrick\u2019s Day celebrations.",
-      "timestamp": "2026-03-16T13:56:17Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Iranian footballer says 'everything will be fine' as she trains with Oz team",
-      "link": "https://www.bbc.com/news/articles/clyxwgll758o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3095,
-      "vader_score": 0.2023,
-      "textblob_score": 0.4167,
-      "first_sentence": "Two members of Iran's national women's football team who sought asylum in Australia have been pictured training at the grounds of the A-league football team Brisbane Roar.",
-      "timestamp": "2026-03-16T13:40:22Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "F\u00e0bregas outwits Gasperini to take controversial Como a step closer to Champions League | Nicky Bandini",
-      "link": "https://www.theguardian.com/football/2026/mar/16/serie-a-italy-como-roma-cesc-fabregas-gian-piero-gasperini",
-      "mean_score": 0.4659,
-      "vader_score": 0.3818,
-      "textblob_score": 0.55,
-      "first_sentence": "For once the TV cameras at the Stadio Giuseppe Sinigaglia had not picked out a Hollywood A-lister in the stands but a celebrity of calcio instead.",
-      "timestamp": "2026-03-16T13:31:51Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Better than Wuthering Heights? The Bront\u00ebs\u2019 novels \u2013 ranked!",
-      "link": "https://www.theguardian.com/books/2026/mar/16/better-than-wuthering-heights-the-brontes-novels-ranked",
-      "mean_score": 0.5588,
-      "vader_score": 0.4926,
-      "textblob_score": 0.625,
-      "first_sentence": "This was the first novel that Charlotte Bront\u00eb completed.",
-      "timestamp": "2026-03-16T12:00:16Z",
-      "source": "The Guardian"
     }
   ]
 }

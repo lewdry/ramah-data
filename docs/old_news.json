@@ -1,5 +1,65 @@
 [
   {
+    "headline": "\u2018They become part of people\u2019s identity\u2019: how Australia fell in love with the Skywhales",
+    "link": "https://www.theguardian.com/artanddesign/ng-interactive/2026/mar/17/skywhales-hot-air-balloons-patricia-piccinini-australia",
+    "mean_score": 0.5685,
+    "vader_score": 0.6369,
+    "textblob_score": 0.5,
+    "first_sentence": "All around Australia, Patricia Piccinini has been approached by people who are rolling up a sleeve, tugging at a trouser leg, or even lifting their T-shirt.",
+    "timestamp": "2026-03-16T14:00:22Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "\u2018We did Disneyland on mind-altering substances\u2019: Primus frontman Les Claypool on being rock\u2019s great joker \u2013 and why Metallica rejected him",
+    "link": "https://www.theguardian.com/music/2026/mar/16/we-did-disneyland-on-mind-altering-substances-primus-frontman-les-claypool-on-being-rocks-great-joker-and-why-metallica-rejected-him",
+    "mean_score": 0.5591,
+    "vader_score": 0.3182,
+    "textblob_score": 0.8,
+    "first_sentence": "It was the first oddball creation of many: Primus\u2019s rubbery fusions of prog, metal and funk have made Claypool one of rock\u2019s most unlikely success stories.",
+    "timestamp": "2026-03-16T13:57:44Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Delight across Ireland at Jessie Buckley\u2019s \u2018historic\u2019 best actress Oscar win",
+    "link": "https://www.theguardian.com/culture/2026/mar/16/delight-ireland-jessie-buckley-historic-best-actress-oscar-win",
+    "mean_score": 0.7585,
+    "vader_score": 0.9169,
+    "textblob_score": 0.6,
+    "first_sentence": "Jessie Buckley\u2019s Oscar win has uncorked delight across Ireland and prompted an early start to St Patrick\u2019s Day celebrations.",
+    "timestamp": "2026-03-16T13:56:17Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Iranian footballer says 'everything will be fine' as she trains with Oz team",
+    "link": "https://www.bbc.com/news/articles/clyxwgll758o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3095,
+    "vader_score": 0.2023,
+    "textblob_score": 0.4167,
+    "first_sentence": "Two members of Iran's national women's football team who sought asylum in Australia have been pictured training at the grounds of the A-league football team Brisbane Roar.",
+    "timestamp": "2026-03-16T13:40:22Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "F\u00e0bregas outwits Gasperini to take controversial Como a step closer to Champions League | Nicky Bandini",
+    "link": "https://www.theguardian.com/football/2026/mar/16/serie-a-italy-como-roma-cesc-fabregas-gian-piero-gasperini",
+    "mean_score": 0.4659,
+    "vader_score": 0.3818,
+    "textblob_score": 0.55,
+    "first_sentence": "For once the TV cameras at the Stadio Giuseppe Sinigaglia had not picked out a Hollywood A-lister in the stands but a celebrity of calcio instead.",
+    "timestamp": "2026-03-16T13:31:51Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Better than Wuthering Heights? The Bront\u00ebs\u2019 novels \u2013 ranked!",
+    "link": "https://www.theguardian.com/books/2026/mar/16/better-than-wuthering-heights-the-brontes-novels-ranked",
+    "mean_score": 0.5588,
+    "vader_score": 0.4926,
+    "textblob_score": 0.625,
+    "first_sentence": "This was the first novel that Charlotte Bront\u00eb completed.",
+    "timestamp": "2026-03-16T12:00:16Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Crossword editor\u2019s desk: the joy of The Goodies and a setter deviates from the letter of house-style law",
     "link": "https://www.theguardian.com/crosswords/crossword-blog/2026/mar/16/crossword-editors-desk-the-joy-of-the-goodies-and-a-setter-deviates-from-the-letter-of-house-style-law",
     "mean_score": 0.6929,
