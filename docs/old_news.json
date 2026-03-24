@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Five of Europe\u2019s best accessible island escapes",
+    "link": "https://www.theguardian.com/travel/2026/mar/16/europe-best-accessible-island-escapes",
+    "mean_score": 0.6891,
+    "vader_score": 0.6908,
+    "textblob_score": 0.6875,
+    "first_sentence": "Connected to the German mainland by a single rail causeway, Sylt is just over three hours from Hamburg by direct train.",
+    "timestamp": "2026-03-16T07:00:10Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "South Korea celebrates \u2018miracle\u2019 Oscar wins for KPop Demon Hunters",
+    "link": "https://www.theguardian.com/film/2026/mar/16/kpop-demon-hunters-oscar-wins-golden-performance",
+    "mean_score": 0.5563,
+    "vader_score": 0.8126,
+    "textblob_score": 0.3,
+    "first_sentence": "Two Oscar wins for hit film KPop Demon Hunters have been met with jubilation in South Korea, where the film has been hailed as a cultural \u201cmiracle\u201d and a win for the country\u2019s artistic exports.",
+    "timestamp": "2026-03-16T06:54:38Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Does a 'Great Firewall' loom? Why Russians are buying up walkie-talkies and road maps",
+    "link": "https://www.sbs.com.au/news/article/moscow-internet-shutdown-russia-test-censorship/69rjp4wai",
+    "mean_score": 0.647,
+    "vader_score": 0.4939,
+    "textblob_score": 0.8,
+    "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+    "timestamp": "2026-03-16T06:37:58Z",
+    "source": "SBS News"
+  },
+  {
+    "headline": "After experiencing youth homelessness, Sully wants to help others",
+    "link": "https://www.abc.net.au/news/2026-03-16/call-for-more-help-end-youth-homelessness-in-western-australia/106459938",
+    "mean_score": 0.3009,
+    "vader_score": 0.4019,
+    "textblob_score": 0.2,
+    "first_sentence": "Youth homelessness is becoming such an issue in Perth that on one average night earlier this month, services identified 73 young people sleeping rough, but only three available beds in crisis services.",
+    "timestamp": "2026-03-16T06:30:57Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "TikTok and Meta risked safety to win algorithm arms race, whistleblowers say",
     "link": "https://www.bbc.com/news/articles/cqj9kgxqjwjo?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.7454,

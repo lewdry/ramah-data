@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-24T00:18:11Z",
+  "last run": "2026-03-24T03:48:58Z",
   "stories": [
+    {
+      "headline": "More than 100 petrol stations run out of petrol across Victoria, energy minister says",
+      "link": "https://www.abc.net.au/news/2026-03-24/victorian-petrol-stations-run-out-diesel-fuel-iran-conflict/106489808",
+      "mean_score": 0.3866,
+      "vader_score": 0.2732,
+      "textblob_score": 0.5,
+      "first_sentence": "Service stations across Victoria have run out of petrol and diesel, as the war in the Middle East increases demand, the state's energy minister says.",
+      "timestamp": "2026-03-24T01:20:42Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "UK universities flock to India - but will they succeed?",
+      "link": "https://www.bbc.com/news/articles/c93w2pw3y0no?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3243,
+      "vader_score": 0.6486,
+      "textblob_score": 0.0,
+      "first_sentence": "On the shores of Mumbai's Powai lake - a rare pocket of serenity in the bustling metropolis of more than 20 million people - a glitzy new campus of the University of York is getting its final finishing touches.",
+      "timestamp": "2026-03-24T00:10:24Z",
+      "source": "BBC News"
+    },
     {
       "headline": "'We treated Natalie like a princess, we'll love her forever'",
       "link": "https://www.bbc.com/news/articles/cy41yeq1v08o?at_medium=RSS&at_campaign=rss",
@@ -20,6 +40,16 @@
       "first_sentence": "The One Nation leader is not as grounded as you thinkSee more of Fiona Katauskas\u2019s cartoons here Continue reading.",
       "timestamp": "2026-03-23T23:19:54Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "BOM says more rain causing 'significant river level rises' in soaked NT",
+      "link": "https://www.abc.net.au/news/2026-03-24/rain-threatens-flooded-nt-rivers-ex-tropical-cyclone-narelle/106486670",
+      "mean_score": 0.3511,
+      "vader_score": 0.2648,
+      "textblob_score": 0.4375,
+      "first_sentence": "BOM has a number of active weather warnings in the Northern Territory, including the potential for moderate and major flooding in several rivers.",
+      "timestamp": "2026-03-23T22:40:14Z",
+      "source": "ABC News"
     },
     {
       "headline": "Victoria Mboko and Mirra Andreeva lead new generation of friendly rivals",
@@ -60,6 +90,16 @@
       "first_sentence": "Alessia Russo is happy and it shows.",
       "timestamp": "2026-03-23T20:00:58Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "Live: Albanese, EU boss give green light to free trade deal",
+      "link": "https://www.abc.net.au/news/2026-03-24/federal-politics-blog-albanese-eu-trade-deal-fuel/106487714",
+      "mean_score": 0.3473,
+      "vader_score": 0.5106,
+      "textblob_score": 0.1841,
+      "first_sentence": "After almost a decade of negotiations, Prime Minister Anthony Albanese has confirmed Australia has struck a free trade agreement with the European Union.",
+      "timestamp": "2026-03-23T19:59:03Z",
+      "source": "ABC News"
     },
     {
       "headline": "Australia and European Union to sign free trade agreement decades in the making",
@@ -2460,46 +2500,6 @@
       "first_sentence": "The stars of the smash hit Birmingham-set series tell all to Edith Bowman.",
       "timestamp": "2026-03-16T07:00:11Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Five of Europe\u2019s best accessible island escapes",
-      "link": "https://www.theguardian.com/travel/2026/mar/16/europe-best-accessible-island-escapes",
-      "mean_score": 0.6891,
-      "vader_score": 0.6908,
-      "textblob_score": 0.6875,
-      "first_sentence": "Connected to the German mainland by a single rail causeway, Sylt is just over three hours from Hamburg by direct train.",
-      "timestamp": "2026-03-16T07:00:10Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "South Korea celebrates \u2018miracle\u2019 Oscar wins for KPop Demon Hunters",
-      "link": "https://www.theguardian.com/film/2026/mar/16/kpop-demon-hunters-oscar-wins-golden-performance",
-      "mean_score": 0.5563,
-      "vader_score": 0.8126,
-      "textblob_score": 0.3,
-      "first_sentence": "Two Oscar wins for hit film KPop Demon Hunters have been met with jubilation in South Korea, where the film has been hailed as a cultural \u201cmiracle\u201d and a win for the country\u2019s artistic exports.",
-      "timestamp": "2026-03-16T06:54:38Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Does a 'Great Firewall' loom? Why Russians are buying up walkie-talkies and road maps",
-      "link": "https://www.sbs.com.au/news/article/moscow-internet-shutdown-russia-test-censorship/69rjp4wai",
-      "mean_score": 0.647,
-      "vader_score": 0.4939,
-      "textblob_score": 0.8,
-      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-      "timestamp": "2026-03-16T06:37:58Z",
-      "source": "SBS News"
-    },
-    {
-      "headline": "After experiencing youth homelessness, Sully wants to help others",
-      "link": "https://www.abc.net.au/news/2026-03-16/call-for-more-help-end-youth-homelessness-in-western-australia/106459938",
-      "mean_score": 0.3009,
-      "vader_score": 0.4019,
-      "textblob_score": 0.2,
-      "first_sentence": "Youth homelessness is becoming such an issue in Perth that on one average night earlier this month, services identified 73 young people sleeping rough, but only three available beds in crisis services.",
-      "timestamp": "2026-03-16T06:30:57Z",
-      "source": "ABC News"
     }
   ]
 }
