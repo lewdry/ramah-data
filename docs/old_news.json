@@ -1,5 +1,35 @@
 [
   {
+    "headline": "How a charity founded by farmers' wives helps children in the Borders",
+    "link": "https://www.bbc.com/news/articles/cd03mmjgl8ro?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3298,
+    "vader_score": 0.6597,
+    "textblob_score": 0.0,
+    "first_sentence": "A charity founded by farmers' wives in the 1960s to protect vulnerable children is celebrating its 60th birthday by appealing for more people to support it.",
+    "timestamp": "2026-03-16T11:29:46Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "'Goatsucker' bird makes 'remarkable comeback'",
+    "link": "https://www.bbc.com/news/articles/c7952d4dwd8o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.6537,
+    "vader_score": 0.5574,
+    "textblob_score": 0.75,
+    "first_sentence": "The number of nightjars recorded in a National Park is thought to have doubled in the past five years following conservation efforts.",
+    "timestamp": "2026-03-16T11:13:19Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "A century after the first rocket launch, Ars staffers pick their favorites",
+    "link": "https://arstechnica.com/space/2026/03/a-century-after-the-first-rocket-launch-ars-staffers-pick-their-favorites/",
+    "mean_score": 0.3357,
+    "vader_score": 0.4215,
+    "textblob_score": 0.25,
+    "first_sentence": "Robert Goddard, a Massachusetts-born physicist, launched the world\u2019s first liquid-fueled rocket on this date 100 years ago.",
+    "timestamp": "2026-03-16T11:00:56Z",
+    "source": "Ars Technica"
+  },
+  {
     "headline": "Why run for the love of it when you could be making butter at the same time | Emma Beddington",
     "link": "https://www.theguardian.com/commentisfree/2026/mar/16/why-run-for-the-love-of-it-when-you-could-be-making-butter-at-the-same-time",
     "mean_score": 0.4435,
