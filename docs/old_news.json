@@ -1,5 +1,55 @@
 [
   {
+    "headline": "TikTok and Meta risked safety to win algorithm arms race, whistleblowers say",
+    "link": "https://www.bbc.com/news/articles/cqj9kgxqjwjo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.7454,
+    "vader_score": 0.6908,
+    "textblob_score": 0.8,
+    "first_sentence": "Social media giants made decisions which allowed more harmful content on people's feeds, after internal research into their algorithms showed how outrage fuelled engagement, whistleblowers told the BBC.",
+    "timestamp": "2026-03-16T06:10:55Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Petrol is running out! Is it time to panic?! Help help | First Dog on the Moon",
+    "link": "https://www.theguardian.com/commentisfree/picture/2026/mar/16/petrol-is-running-out-is-it-time-to-panic-help-help",
+    "mean_score": 0.3244,
+    "vader_score": 0.3987,
+    "textblob_score": 0.25,
+    "first_sentence": "The government is asking people to remain calm which is always a sign that it is time to flip out massivelySign up here to get an email whenever First Dog cartoons are publishedGet all your needs met at the First Dog shop if what you need is First Dog merchandise and prints Continue reading.",
+    "timestamp": "2026-03-16T06:10:05Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "5 takeaways from an Oscars night that spread the love",
+    "link": "https://www.npr.org/2026/03/16/nx-s1-5739288/oscars-2026-takeaways-winners-best-picture-actor",
+    "mean_score": 0.5685,
+    "vader_score": 0.6369,
+    "textblob_score": 0.5,
+    "first_sentence": "As Sunday's Oscars ceremony approached, it seemed to be shaping up to be a showdown between the vampires and the revolutionaries, between Sinners and One Battle After Another.",
+    "timestamp": "2026-03-16T04:34:40Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "\u2018Next year, it\u2019s going to be a Waymo in a tux\u2019: the best quotes from Oscars 2026",
+    "link": "https://www.theguardian.com/film/2026/mar/15/oscars-2026-best-quotes-waymo-ballet",
+    "mean_score": 0.5685,
+    "vader_score": 0.6369,
+    "textblob_score": 0.5,
+    "first_sentence": "Hathaway: Anna, just curious, what do you think of my dress tonight?.",
+    "timestamp": "2026-03-16T04:14:09Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "New rock monitor lizard species reveals remarkable evolutionary story",
+    "link": "https://www.abc.net.au/news/2026-03-16/new-rock-monitor-species-north-queensland-savanna/106459522",
+    "mean_score": 0.5003,
+    "vader_score": 0.5574,
+    "textblob_score": 0.4432,
+    "first_sentence": "Three new species of rock monitor lizards previously unknown to science have been formally described in Far North Queensland.",
+    "timestamp": "2026-03-16T04:11:15Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Historic firsts, risqu\u00e9 jokes, and a tie - watch the top moments",
     "link": "https://www.bbc.com/news/videos/cedzq0q6x5lo?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.3357,
