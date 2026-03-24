@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Thames Water lenders float new \u00a310bn rescue plan",
+    "link": "https://www.theguardian.com/business/2026/mar/16/thames-water-lenders-float-new-financial-rescue-plan",
+    "mean_score": 0.3235,
+    "vader_score": 0.5106,
+    "textblob_score": 0.1364,
+    "first_sentence": "Thames Water\u2019s lenders have put forward a \u00a310bn rescue plan that would involve paying off the troubled water company\u2019s hundreds of millions of pounds-worth of fines for leaks and pollution, as part of an effort to stave off financial collapse.",
+    "timestamp": "2026-03-16T08:51:28Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "India hopeful Iran talks will ease Hormuz route for its ships",
+    "link": "https://www.bbc.com/news/articles/ckg2m8zp2n3o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3502,
+    "vader_score": 0.7003,
+    "textblob_score": 0.0,
+    "first_sentence": "Indian Foreign Minister S Jaishankar has said he is hopeful that talks with Iran are beginning to ease shipping disruptions for the country's vessels in the Strait of Hormuz.",
+    "timestamp": "2026-03-16T08:41:12Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Cherry on the top: Jessie Buckley pulled off a stunning double Oscar win for herself \u2026 and Chanel",
+    "link": "https://www.theguardian.com/film/2026/mar/16/jessie-buckley-best-actress-oscar-hamnet-chanel-gown",
+    "mean_score": 0.626,
+    "vader_score": 0.802,
+    "textblob_score": 0.45,
+    "first_sentence": "There are two ways to win at the Oscars: go home with a statuette, or be crowned on the red carpet.",
+    "timestamp": "2026-03-16T08:20:33Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "'We don't talk about it enough': Mum makes emotional return to Super Netball",
     "link": "https://www.abc.net.au/news/2026-03-16/2026-super-netball-round-up-round1/106461062",
     "mean_score": 0.3908,

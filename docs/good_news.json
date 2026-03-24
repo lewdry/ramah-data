@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-24T06:23:40Z",
+  "last run": "2026-03-24T09:19:33Z",
   "stories": [
+    {
+      "headline": "More sightings of the Northern Lights with stunning bright colours",
+      "link": "https://www.bbc.com/weather/articles/c4g6zj7yz2lo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.6186,
+      "vader_score": 0.6705,
+      "textblob_score": 0.5667,
+      "first_sentence": "The Northern Lights were seen in the UK again on Monday night following an increase in solar activity over the last few days.",
+      "timestamp": "2026-03-24T08:20:33Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Villagers 'proud' of overturning second home crackdown in 'David and Goliath moment'",
+      "link": "https://www.bbc.com/news/articles/cx2dxz4nejpo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4384,
+      "vader_score": 0.4767,
+      "textblob_score": 0.4,
+      "first_sentence": "A group of villagers who fought to overturn a council's crackdown on second home-ownership say they are \"proud\" of their \"David and Goliath moment\".",
+      "timestamp": "2026-03-24T06:34:44Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Regional charity struggles to rescue more than 100 cats from property",
       "link": "https://www.abc.net.au/news/2026-03-24/100-cats-rescued-from-wodonga-home/106491882",
@@ -109,6 +129,16 @@
       "textblob_score": 0.0,
       "first_sentence": "The Senate votes Monday on the nomination of Sen.",
       "timestamp": "2026-03-23T20:03:35Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "First female archbishop of Canterbury highlights progress and ongoing challenges",
+      "link": "https://www.npr.org/2026/03/23/nx-s1-5717172/first-female-archbishop-of-canterbury-highlights-progress-and-ongoing-challenges",
+      "mean_score": 0.3009,
+      "vader_score": 0.4767,
+      "textblob_score": 0.125,
+      "first_sentence": "On a bright morning in Hermosa Beach, Calif., sunlight enters St.",
+      "timestamp": "2026-03-23T20:03:28Z",
       "source": "NPR News"
     },
     {
@@ -2470,36 +2500,6 @@
       "first_sentence": "In online posts and videos, they suggest the organisms can be blamed for a host of symptoms \u2014 bloating, insomnia, food cravings, teeth grinding, headaches, among others.",
       "timestamp": "2026-03-16T09:00:00Z",
       "source": "NPR News"
-    },
-    {
-      "headline": "Thames Water lenders float new \u00a310bn rescue plan",
-      "link": "https://www.theguardian.com/business/2026/mar/16/thames-water-lenders-float-new-financial-rescue-plan",
-      "mean_score": 0.3235,
-      "vader_score": 0.5106,
-      "textblob_score": 0.1364,
-      "first_sentence": "Thames Water\u2019s lenders have put forward a \u00a310bn rescue plan that would involve paying off the troubled water company\u2019s hundreds of millions of pounds-worth of fines for leaks and pollution, as part of an effort to stave off financial collapse.",
-      "timestamp": "2026-03-16T08:51:28Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "India hopeful Iran talks will ease Hormuz route for its ships",
-      "link": "https://www.bbc.com/news/articles/ckg2m8zp2n3o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3502,
-      "vader_score": 0.7003,
-      "textblob_score": 0.0,
-      "first_sentence": "Indian Foreign Minister S Jaishankar has said he is hopeful that talks with Iran are beginning to ease shipping disruptions for the country's vessels in the Strait of Hormuz.",
-      "timestamp": "2026-03-16T08:41:12Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Cherry on the top: Jessie Buckley pulled off a stunning double Oscar win for herself \u2026 and Chanel",
-      "link": "https://www.theguardian.com/film/2026/mar/16/jessie-buckley-best-actress-oscar-hamnet-chanel-gown",
-      "mean_score": 0.626,
-      "vader_score": 0.802,
-      "textblob_score": 0.45,
-      "first_sentence": "There are two ways to win at the Oscars: go home with a statuette, or be crowned on the red carpet.",
-      "timestamp": "2026-03-16T08:20:33Z",
-      "source": "The Guardian"
     }
   ]
 }
