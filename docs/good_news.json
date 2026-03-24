@@ -1,6 +1,36 @@
 {
-  "last run": "2026-03-24T03:48:58Z",
+  "last run": "2026-03-24T06:23:40Z",
   "stories": [
+    {
+      "headline": "Regional charity struggles to rescue more than 100 cats from property",
+      "link": "https://www.abc.net.au/news/2026-03-24/100-cats-rescued-from-wodonga-home/106491882",
+      "mean_score": 0.5287,
+      "vader_score": 0.5574,
+      "textblob_score": 0.5,
+      "first_sentence": "More than 100 cats have been found at a property at Wodonga on the Victoria\u2013New South Wales border.",
+      "timestamp": "2026-03-24T06:06:26Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Are you 'panic-buying' or 'playing it safe'?",
+      "link": "https://www.abc.net.au/news/2026-03-24/panic-buying-fuel-groceries-iran-covid-playing-it-safe/106489580",
+      "mean_score": 0.5359,
+      "vader_score": 0.5719,
+      "textblob_score": 0.5,
+      "first_sentence": "If you've topped up your tank at a petrol station recently, did it feel like you were \"panic buying\"? Or did it feel more like \"I'd better buy some, just in case\"?.",
+      "timestamp": "2026-03-24T05:51:29Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "The global authoritarian right loves Orb\u00e1n \u2013 and that could cost him in Hungary\u2019s elections | Gellert Tamas",
+      "link": "https://www.theguardian.com/commentisfree/2026/mar/24/viktor-orban-hungary-elections-global-authoritarian-right",
+      "mean_score": 0.3574,
+      "vader_score": 0.5719,
+      "textblob_score": 0.1429,
+      "first_sentence": "\u201cViktor Orb\u00e1n is a true friend, fighter, and WINNER, and has my Complete and Total Endorsement for Re-Election as Prime Minister of Hungary,\u201d Donald Trump wrote on Truth Social last month.",
+      "timestamp": "2026-03-24T05:00:09Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "More than 100 petrol stations run out of petrol across Victoria, energy minister says",
       "link": "https://www.abc.net.au/news/2026-03-24/victorian-petrol-stations-run-out-diesel-fuel-iran-conflict/106489808",
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.45,
       "first_sentence": "There are two ways to win at the Oscars: go home with a statuette, or be crowned on the red carpet.",
       "timestamp": "2026-03-16T08:20:33Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Rukmini Iyer\u2019s quick and easy reccipe for crispy baked gnocchi puttanesca | Quick and easy",
-      "link": "https://www.theguardian.com/food/2026/feb/16/rukmini-iyer-quick-and-easy-recipe-crispy-baked-gnocchi-puttanesca",
-      "mean_score": 0.5418,
-      "vader_score": 0.7003,
-      "textblob_score": 0.3833,
-      "first_sentence": "I\u2019ve non-canonically added in small cubes of aubergine, because they melt beautifully into the sauce while adding extra plant matter.",
-      "timestamp": "2026-03-16T08:00:27Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "'We don't talk about it enough': Mum makes emotional return to Super Netball",
-      "link": "https://www.abc.net.au/news/2026-03-16/2026-super-netball-round-up-round1/106461062",
-      "mean_score": 0.3908,
-      "vader_score": 0.6705,
-      "textblob_score": 0.1111,
-      "first_sentence": "Super Netball's 10th season has been tipped to be its most unpredictable yet, so it was only fitting that we get some surprising results in round one.",
-      "timestamp": "2026-03-16T07:58:59Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Cillian Murphy opens up about Peaky Blinders: best podcasts of the week",
-      "link": "https://www.theguardian.com/tv-and-radio/2026/mar/16/cillian-murphy-opens-up-about-peaky-blinders-best-podcasts-of-the-week",
-      "mean_score": 0.5935,
-      "vader_score": 0.6369,
-      "textblob_score": 0.55,
-      "first_sentence": "The stars of the smash hit Birmingham-set series tell all to Edith Bowman.",
-      "timestamp": "2026-03-16T07:00:11Z",
       "source": "The Guardian"
     }
   ]
