@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Crossword editor\u2019s desk: the joy of The Goodies and a setter deviates from the letter of house-style law",
+    "link": "https://www.theguardian.com/crosswords/crossword-blog/2026/mar/16/crossword-editors-desk-the-joy-of-the-goodies-and-a-setter-deviates-from-the-letter-of-house-style-law",
+    "mean_score": 0.6929,
+    "vader_score": 0.5859,
+    "textblob_score": 0.8,
+    "first_sentence": "\u2026 with the perfectly accurate observation that BOTSWANA is not in the country of South Africa.",
+    "timestamp": "2026-03-16T12:00:15Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Starmer announces \u00a353m to help households most hit by rising heating oil costs",
+    "link": "https://www.bbc.com/news/articles/cp9mgpzn901o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4509,
+    "vader_score": 0.4019,
+    "textblob_score": 0.5,
+    "first_sentence": "Prime Minister Sir Keir Starmer has said the government will provide \u00a353m to help \"vulnerable\" households who have been hit by a sharp increase in the price of heating oil.",
+    "timestamp": "2026-03-16T11:59:45Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "How a charity founded by farmers' wives helps children in the Borders",
     "link": "https://www.bbc.com/news/articles/cd03mmjgl8ro?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.3298,
