@@ -1,6 +1,56 @@
 {
-  "last run": "2026-03-24T09:19:33Z",
+  "last run": "2026-03-24T12:16:33Z",
   "stories": [
+    {
+      "headline": "Manchester United fan, 76, feeling \u2018helpless\u2019 as family seat is given to VIPs",
+      "link": "https://www.theguardian.com/football/2026/mar/24/manchester-united-fan-family-seat-given-to-vips",
+      "mean_score": 0.3404,
+      "vader_score": 0.6808,
+      "textblob_score": 0.0,
+      "first_sentence": "A Manchester United fan said he feels \u201chelpless and hopeless\u201d after being evicted from the seat his family have held since just after the second world war to make way for \u00a3300-a-head VIPs.",
+      "timestamp": "2026-03-24T11:12:35Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "The Breakdown | Fiji and the beautiful south reveal rugby\u2019s soul but northern money talks loudest",
+      "link": "https://www.theguardian.com/sport/2026/mar/24/rugby-union-breakdown-southern-hemisphere-fiji-south-africa-argentina",
+      "mean_score": 0.6003,
+      "vader_score": 0.3506,
+      "textblob_score": 0.85,
+      "first_sentence": "They\u2019re present in every top-flight club in Europe.",
+      "timestamp": "2026-03-24T10:00:33Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "A Canadian goal threat to a versatile Spaniard: three of the best teenagers in women\u2019s football",
+      "link": "https://www.theguardian.com/football/2026/mar/24/womens-soccer-prospects-kaylee-hunter-justine-rouquet-aiara-agirrezabala",
+      "mean_score": 0.6011,
+      "vader_score": 0.2023,
+      "textblob_score": 1.0,
+      "first_sentence": "Vicky L\u00f3pez, Lily Yohannes, Michelle Agyemang \u2014 these are all names you may have heard before.",
+      "timestamp": "2026-03-24T10:00:32Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "More North Sea drilling will put UK at mercy of fossil fuel markets, ministers say",
+      "link": "https://www.theguardian.com/environment/2026/mar/24/north-sea-drilling-concerns-uk-fossil-fuel-markets-ed-miliband",
+      "mean_score": 0.4306,
+      "vader_score": 0.3612,
+      "textblob_score": 0.5,
+      "first_sentence": "Ministers have said expanding North Sea drilling would put the UK at further risk from volatile fossil fuel markets, amid calls from the Conservatives and some Labour MPs to breach the manifesto pledge of no new oil and gas licences.",
+      "timestamp": "2026-03-24T09:32:13Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Molly Miller, \u2018pretty privilege\u2019 and women\u2019s basketball\u2019s beauty trap",
+      "link": "https://www.theguardian.com/sport/2026/mar/24/molly-miller-arizona-state-university-basketball",
+      "mean_score": 0.3056,
+      "vader_score": 0.3612,
+      "textblob_score": 0.25,
+      "first_sentence": "In March 2025, the Arizona State women\u2019s basketball team were looking for a coach who could end a drought that had seen them go without a NCAA Tournament appearance \u2013 or even a winning season \u2013 since 2019-20.",
+      "timestamp": "2026-03-24T09:00:14Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "More sightings of the Northern Lights with stunning bright colours",
       "link": "https://www.bbc.com/weather/articles/c4g6zj7yz2lo?at_medium=RSS&at_campaign=rss",
@@ -2450,56 +2500,6 @@
       "first_sentence": "Robert Goddard, a Massachusetts-born physicist, launched the world\u2019s first liquid-fueled rocket on this date 100 years ago.",
       "timestamp": "2026-03-16T11:00:56Z",
       "source": "Ars Technica"
-    },
-    {
-      "headline": "Why run for the love of it when you could be making butter at the same time | Emma Beddington",
-      "link": "https://www.theguardian.com/commentisfree/2026/mar/16/why-run-for-the-love-of-it-when-you-could-be-making-butter-at-the-same-time",
-      "mean_score": 0.4435,
-      "vader_score": 0.6369,
-      "textblob_score": 0.25,
-      "first_sentence": "There is a new entry in the overstuffed \u201cWhat fresh hell?\u201d category for 2026 \u2013 people have started making butter while they run.",
-      "timestamp": "2026-03-16T11:00:14Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Far-left and far-right gains throw French mainstream parties into a quandary",
-      "link": "https://www.bbc.com/news/articles/c8r17knnz5vo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3125,
-      "vader_score": 0.6249,
-      "textblob_score": 0.0,
-      "first_sentence": "The emerging strength of the far left and far right is creating awkward choices for mainstream parties after the first round of French mayoral elections.",
-      "timestamp": "2026-03-16T10:46:41Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Sinners\u2019 Oscar triumphs show that Black cinema is now a vital and valid part of Hollywood",
-      "link": "https://www.theguardian.com/film/2026/mar/16/sinners-oscar-triumphs-black-cinema-ryan-coogler-michael-b-jordan",
-      "mean_score": 0.3018,
-      "vader_score": 0.6369,
-      "textblob_score": -0.0333,
-      "first_sentence": "Congratulations to the Sinners camp on its Oscar night triumphs \u2013 affirmation that cinema can be deep and entertaining at the same time.",
-      "timestamp": "2026-03-16T10:24:13Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "London book fair roundup: Idris Elba\u2019s thriller deal, the rise of romcom, and fights against censorship",
-      "link": "https://www.theguardian.com/books/2026/mar/16/london-book-fair-roundup-idris-elbas-thriller-deal-the-rise-of-romcom-and-fights-against-censorship",
-      "mean_score": 0.35,
-      "vader_score": 0.0,
-      "textblob_score": 0.7,
-      "first_sentence": "The annual London book fair wrapped on Thursday, marking the end of three days that saw 33,000 people connected to the book industry \u2013 agents, publishers, authors, among others \u2013 gather at Olympia to make deals and discuss the state of the publishing world, and its future.",
-      "timestamp": "2026-03-16T10:22:29Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Influencers push 'parasite cleanses' but doctors say to steer clear",
-      "link": "https://www.npr.org/2026/03/16/nx-s1-5745200/parasite-cleanse-safety-science",
-      "mean_score": 0.3133,
-      "vader_score": 0.5267,
-      "textblob_score": 0.1,
-      "first_sentence": "In online posts and videos, they suggest the organisms can be blamed for a host of symptoms \u2014 bloating, insomnia, food cravings, teeth grinding, headaches, among others.",
-      "timestamp": "2026-03-16T09:00:00Z",
-      "source": "NPR News"
     }
   ]
 }
