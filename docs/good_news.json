@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-25T00:21:05Z",
+  "last run": "2026-03-25T03:49:38Z",
   "stories": [
+    {
+      "headline": "\u2018With solar and batteries so popular, will all Australians generate their own power?\u2019 - Your climate questions answered",
+      "link": "https://www.theguardian.com/australia-news/2026/mar/25/is-this-australias-moment-to-embrace-renewables-ask-adam-morton-your-questions-now",
+      "mean_score": 0.5799,
+      "vader_score": 0.5598,
+      "textblob_score": 0.6,
+      "first_sentence": "The US-Israel war on Iran has caused a surge in fossil fuel prices \u2013 again.",
+      "timestamp": "2026-03-25T02:00:00Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Australia politics live: NSW to compel oil companies to explain where extra petrol being sent; Victoria announces three hours of free power a day",
       "link": "https://www.theguardian.com/australia-news/live/2026/mar/25/politics-federal-queensland-nsw-parliament-tony-burke-jim-chalmers-middle-east-fuel-crisis-ntwnfb",
@@ -20,6 +30,16 @@
       "first_sentence": "Encouraging men to have more frequent ejaculations may boost their fertility, according to researchers who found that sperm deteriorates over time as it remains in the body.",
       "timestamp": "2026-03-25T00:01:52Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "Married at First Sight expert remembered as 'amazing' and 'radiant'",
+      "link": "https://www.abc.net.au/news/2026-03-25/mel-schilling-mafs-dies-bowel-cancer-australia-deadliest-expert/106494154",
+      "mean_score": 0.5756,
+      "vader_score": 0.7845,
+      "textblob_score": 0.3667,
+      "first_sentence": "Mel Schilling emerged as one of Australia's most recognisable relationship experts on Australian television.",
+      "timestamp": "2026-03-24T23:49:05Z",
+      "source": "ABC News"
     },
     {
       "headline": "How Melbourne ended up with the biggest comedy festival in the world",
@@ -2479,26 +2499,6 @@
       "textblob_score": 1.0,
       "first_sentence": "Truth is sometimes stranger than fictionSee more of Fiona Katauskas\u2019s cartoons here Continue reading.",
       "timestamp": "2026-03-16T23:32:29Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018The Premier League is surprisingly lenient\u2019: did Chelsea get off lightly?",
-      "link": "https://www.theguardian.com/football/2026/mar/16/the-premier-league-is-surprisingly-lenient-did-chelsea-get-off-lighly",
-      "mean_score": 0.373,
-      "vader_score": 0.296,
-      "textblob_score": 0.45,
-      "first_sentence": "The Premier League\u2019s judgment against Chelsea for breaking football\u2019s rules \u2013 during an eight-year trophy spree under Roman Abramovich \u2013 concludes that the club engaged in \u201cdeception and concealment\u201d.",
-      "timestamp": "2026-03-16T20:31:09Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "And the winner is ... all of us? How the Oscars have changed for the better",
-      "link": "https://www.theguardian.com/film/2026/mar/16/oscars-change-better",
-      "mean_score": 0.6359,
-      "vader_score": 0.7717,
-      "textblob_score": 0.5,
-      "first_sentence": "Last year, as the major fall film festivals took place around the world, it was hard to make out the sound of audience applause.",
-      "timestamp": "2026-03-16T19:35:35Z",
       "source": "The Guardian"
     }
   ]
