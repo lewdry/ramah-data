@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-25T03:49:38Z",
+  "last run": "2026-03-25T06:23:25Z",
   "stories": [
+    {
+      "headline": "Bait review \u2013 Riz Ahmed\u2019s comedy is petty, narcissistic \u2026 and excellent",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/mar/25/bait-review-riz-ahmed-bond-comedy-prime-video",
+      "mean_score": 0.8298,
+      "vader_score": 0.6597,
+      "textblob_score": 1.0,
+      "first_sentence": "Part autobiography, part industry satire, this hilarious show boasts dazzling dialogue and ace cameos.",
+      "timestamp": "2026-03-25T05:00:02Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Bridgerton\u2019s fifth season will focus on queer love story between Francesca Bridgerton and Michaela Stirling",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/mar/25/bridgerton-fifth-season-queer-romance-francesca-michaela-stirling",
+      "mean_score": 0.5685,
+      "vader_score": 0.6369,
+      "textblob_score": 0.5,
+      "first_sentence": "Dearest gentle reader \u2026 Netflix has announced that Bridgerton\u2019s upcoming fifth season will focus on a gay lead storyline in a first for the hit romantic period drama.",
+      "timestamp": "2026-03-25T04:38:11Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "\u2018With solar and batteries so popular, will all Australians generate their own power?\u2019 - Your climate questions answered",
       "link": "https://www.theguardian.com/australia-news/2026/mar/25/is-this-australias-moment-to-embrace-renewables-ask-adam-morton-your-questions-now",
@@ -100,6 +120,16 @@
       "first_sentence": "People who access the NDIS fare better in the workforce and feel healthier within four years of entering the scheme, a new report finds.",
       "timestamp": "2026-03-24T18:44:47Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "Gary is part of the super-rich. He believes wealthy Australians should be paying more tax",
+      "link": "https://www.sbs.com.au/news/the-feed/article/gary-is-part-of-the-super-rich-he-believes-wealthy-australians-should-be-paying-more-tax/m4ti99zc6",
+      "mean_score": 0.4306,
+      "vader_score": 0.3612,
+      "textblob_score": 0.5,
+      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+      "timestamp": "2026-03-24T18:32:22Z",
+      "source": "SBS News"
     },
     {
       "headline": "Vivid dreams can make you feel like you've had a deep sleep: study",
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.1455,
       "first_sentence": "Australia\u2019s Reserve Bank had been the only one expected to hike so soon, with central banks in the US, UK, European Union, Japan, Canada, Switzerland and Sweden all expected to leave rates on hold this week.",
       "timestamp": "2026-03-17T03:33:33Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "'We have exciting days ahead': Danish royals arrive in Melbourne",
-      "link": "https://www.abc.net.au/news/2026-03-17/queen-mary-king-frederik-denmark-royal-visit-melbourne/106460480",
-      "mean_score": 0.397,
-      "vader_score": 0.4939,
-      "textblob_score": 0.3,
-      "first_sentence": "The king and queen of Denmark are in Melbourne for two days of royal engagements as part of their Australian state visit.",
-      "timestamp": "2026-03-17T00:39:44Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Train delays: compensation claims to be easier under Great British Railways",
-      "link": "https://www.theguardian.com/business/2026/mar/17/train-delays-compensation-claims-great-british-railways",
-      "mean_score": 0.5922,
-      "vader_score": 0.7845,
-      "textblob_score": 0.4,
-      "first_sentence": "Rail passengers will be able to claim compensation for delayed trains directly from the website where they bought their ticket, the government has said, as part of a shake-up to make rail travel simpler.",
-      "timestamp": "2026-03-17T00:01:33Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Which Oscar-winning movie best reflects our reality? | Fiona Katauskas",
-      "link": "https://www.theguardian.com/commentisfree/picture/2026/mar/17/which-oscar-winning-movie-best-reflects-our-reality",
-      "mean_score": 0.8185,
-      "vader_score": 0.6369,
-      "textblob_score": 1.0,
-      "first_sentence": "Truth is sometimes stranger than fictionSee more of Fiona Katauskas\u2019s cartoons here Continue reading.",
-      "timestamp": "2026-03-16T23:32:29Z",
       "source": "The Guardian"
     }
   ]
