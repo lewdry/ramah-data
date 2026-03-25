@@ -1,6 +1,56 @@
 {
-  "last run": "2026-03-25T12:15:33Z",
+  "last run": "2026-03-25T15:26:39Z",
   "stories": [
+    {
+      "headline": "As a furniture removalist I learned all mattresses are stained, and that\u2019s fine",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/mar/25/furniture-removalist-experience-stories",
+      "mean_score": 0.3095,
+      "vader_score": 0.2023,
+      "textblob_score": 0.4167,
+      "first_sentence": "My \u201cwilderness years\u201d began when I lost a job I loved hosting a daily radio show in Melbourne, then spent a decade slowly rebuilding my broadcasting career.",
+      "timestamp": "2026-03-25T14:00:11Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "When my best friend died, I couldn\u2019t bear to delete her phone contact. Here\u2019s why I never will",
+      "link": "https://www.theguardian.com/society/2026/mar/26/best-friend-died-never-deleting-her-phone-contact",
+      "mean_score": 0.793,
+      "vader_score": 0.5859,
+      "textblob_score": 1.0,
+      "first_sentence": "A couple of weeks after my oldest friend died, my phone rang and her name lit up the screen.",
+      "timestamp": "2026-03-25T14:00:10Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Arundhati Roy and Lyse Doucet lead \u2018exceptional\u2019 Women\u2019s prize for nonfiction shortlist",
+      "link": "https://www.theguardian.com/books/2026/mar/25/arundhati-roy-lyse-doucet-womens-prize-for-nonfiction-shortlist",
+      "mean_score": 0.5886,
+      "vader_score": 0.5106,
+      "textblob_score": 0.6667,
+      "first_sentence": "Arundhati Roy, Lyse Doucet and Judith Mackrell are among the writers shortlisted for this year\u2019s Women\u2019s prize for nonfiction.",
+      "timestamp": "2026-03-25T14:00:09Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Denmark braces for lengthy and challenging coalition talks",
+      "link": "https://www.theguardian.com/world/2026/mar/25/denmark-braces-lengthy-challenging-coalition-talks",
+      "mean_score": 0.3266,
+      "vader_score": 0.1531,
+      "textblob_score": 0.5,
+      "first_sentence": "Denmark is braced for lengthy and challenging coalition talks after neither Mette Frederiksen\u2019s leftwing bloc nor the rightwing parties managed to get a majority in Tuesday\u2019s election.",
+      "timestamp": "2026-03-25T13:19:49Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Yep, a mom's COVID shot during pregnancy protects her baby, a large study finds",
+      "link": "https://www.npr.org/2026/03/25/nx-s1-5759732/covid-vaccination-pregnancy-safety-efficacy",
+      "mean_score": 0.3783,
+      "vader_score": 0.5423,
+      "textblob_score": 0.2143,
+      "first_sentence": "Babies under 6 months old still have one of the highest rates of hospitalization from COVID-19 infections compared to other age groups, but no COVID vaccine is available for these infants.",
+      "timestamp": "2026-03-25T12:12:54Z",
+      "source": "NPR News"
+    },
     {
       "headline": "Fresh start: Hetty Lui McKinnon\u2019s recipes to celebrate spring",
       "link": "https://www.theguardian.com/food/2026/mar/25/spring-recipes-vegetables-hetty-lui-mckinnon-asparagus-loaf-filo-tart-feta-salad-strawberry-matcha-pudding",
@@ -40,6 +90,16 @@
       "first_sentence": "The Guardian\u2019s journalism is independent.",
       "timestamp": "2026-03-25T10:00:04Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "So long, farewell: Saying goodbye to Audi's best car, the 2026 RS6 Avant",
+      "link": "https://arstechnica.com/cars/2026/03/so-long-farewell-saying-goodbye-to-audis-best-car-the-2026-rs6-avant/",
+      "mean_score": 0.5559,
+      "vader_score": 0.6369,
+      "textblob_score": 0.475,
+      "first_sentence": "With production now finished, we take one last ride in our favorite station wagon.",
+      "timestamp": "2026-03-25T10:00:01Z",
+      "source": "Ars Technica"
     },
     {
       "headline": "Stocks rise and oil dips on hopes of 15-point Iran peace plan",
@@ -2439,66 +2499,6 @@
       "textblob_score": 0.5,
       "first_sentence": "Regional mayors could be given control of some tax revenue to spend on their local priorities, Chancellor Rachel Reeves has announced.",
       "timestamp": "2026-03-17T15:43:04Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Switch 2's new \"Handheld Mode Boost\" can run original Switch games at 1080p",
-      "link": "https://arstechnica.com/gadgets/2026/03/nintendo-switch-2-update-adds-one-possible-fix-for-blurry-og-switch-games/",
-      "mean_score": 0.434,
-      "vader_score": 0.6124,
-      "textblob_score": 0.2557,
-      "first_sentence": "Switch games running at 720p can look worse on the Switch 2\u2019s 1080p display.",
-      "timestamp": "2026-03-17T15:11:28Z",
-      "source": "Ars Technica"
-    },
-    {
-      "headline": "Prince William joins Greg James on Comic Relief bike ride",
-      "link": "https://www.bbc.com/news/articles/c3rzgg8wp52o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3634,
-      "vader_score": 0.4767,
-      "textblob_score": 0.25,
-      "first_sentence": "The Prince of Wales surprised Radio 1's Greg James by joining the presenter during his 630-mile tandem bike ride challenge.",
-      "timestamp": "2026-03-17T14:34:38Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Honey as a superfood: can it really heal wounds, fight superbugs and provide sweet relief for coughs? | Antiviral",
-      "link": "https://www.theguardian.com/commentisfree/2026/mar/18/honey-health-benefits-sore-throat-antibiotic-sweetner-research",
-      "mean_score": 0.3875,
-      "vader_score": 0.5,
-      "textblob_score": 0.275,
-      "first_sentence": "Humans have been consuming honey for thousands of years.",
-      "timestamp": "2026-03-17T14:00:51Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Aspiring female Zambian politicians asked for sexual favours, official says",
-      "link": "https://www.bbc.com/news/articles/cm28ldvj3jvo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3357,
-      "vader_score": 0.4215,
-      "textblob_score": 0.25,
-      "first_sentence": "A senior Zambian government official has said that some political parties were asking prospective female candidates for sexual favours in exchange for selection ahead of August's general election.",
-      "timestamp": "2026-03-17T13:31:08Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Rachel Reeves to call for rapid AI adoption and deeper ties with EU to boost growth \u2013 business live",
-      "link": "https://www.theguardian.com/business/live/2026/mar/17/rachel-reeves-mais-lecture-ai-adoption-deeper-eu-ties-regional-growth-business-live-news-updates",
-      "mean_score": 0.3925,
-      "vader_score": 0.6486,
-      "textblob_score": 0.1364,
-      "first_sentence": "Good morning, and welcome to our rolling coverage of business, the financial markets and the world economy.",
-      "timestamp": "2026-03-17T11:41:42Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Free energy packs 'to reduce bills by up to \u00a3800'",
-      "link": "https://www.bbc.com/news/articles/c99jednepllo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5298,
-      "vader_score": 0.6597,
-      "textblob_score": 0.4,
-      "first_sentence": "A charity is giving away packs which they claim could reduce energy bills by up to \u00a3800 per year.",
-      "timestamp": "2026-03-17T11:25:06Z",
       "source": "BBC News"
     }
   ]

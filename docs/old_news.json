@@ -1,5 +1,65 @@
 [
   {
+    "headline": "Switch 2's new \"Handheld Mode Boost\" can run original Switch games at 1080p",
+    "link": "https://arstechnica.com/gadgets/2026/03/nintendo-switch-2-update-adds-one-possible-fix-for-blurry-og-switch-games/",
+    "mean_score": 0.434,
+    "vader_score": 0.6124,
+    "textblob_score": 0.2557,
+    "first_sentence": "Switch games running at 720p can look worse on the Switch 2\u2019s 1080p display.",
+    "timestamp": "2026-03-17T15:11:28Z",
+    "source": "Ars Technica"
+  },
+  {
+    "headline": "Prince William joins Greg James on Comic Relief bike ride",
+    "link": "https://www.bbc.com/news/articles/c3rzgg8wp52o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3634,
+    "vader_score": 0.4767,
+    "textblob_score": 0.25,
+    "first_sentence": "The Prince of Wales surprised Radio 1's Greg James by joining the presenter during his 630-mile tandem bike ride challenge.",
+    "timestamp": "2026-03-17T14:34:38Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Honey as a superfood: can it really heal wounds, fight superbugs and provide sweet relief for coughs? | Antiviral",
+    "link": "https://www.theguardian.com/commentisfree/2026/mar/18/honey-health-benefits-sore-throat-antibiotic-sweetner-research",
+    "mean_score": 0.3875,
+    "vader_score": 0.5,
+    "textblob_score": 0.275,
+    "first_sentence": "Humans have been consuming honey for thousands of years.",
+    "timestamp": "2026-03-17T14:00:51Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Aspiring female Zambian politicians asked for sexual favours, official says",
+    "link": "https://www.bbc.com/news/articles/cm28ldvj3jvo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3357,
+    "vader_score": 0.4215,
+    "textblob_score": 0.25,
+    "first_sentence": "A senior Zambian government official has said that some political parties were asking prospective female candidates for sexual favours in exchange for selection ahead of August's general election.",
+    "timestamp": "2026-03-17T13:31:08Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Rachel Reeves to call for rapid AI adoption and deeper ties with EU to boost growth \u2013 business live",
+    "link": "https://www.theguardian.com/business/live/2026/mar/17/rachel-reeves-mais-lecture-ai-adoption-deeper-eu-ties-regional-growth-business-live-news-updates",
+    "mean_score": 0.3925,
+    "vader_score": 0.6486,
+    "textblob_score": 0.1364,
+    "first_sentence": "Good morning, and welcome to our rolling coverage of business, the financial markets and the world economy.",
+    "timestamp": "2026-03-17T11:41:42Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Free energy packs 'to reduce bills by up to \u00a3800'",
+    "link": "https://www.bbc.com/news/articles/c99jednepllo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.5298,
+    "vader_score": 0.6597,
+    "textblob_score": 0.4,
+    "first_sentence": "A charity is giving away packs which they claim could reduce energy bills by up to \u00a3800 per year.",
+    "timestamp": "2026-03-17T11:25:06Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "The Breakdown | From Ramos to Carr\u00e9: selecting the best XV of the 2026 Six Nations",
     "link": "https://www.theguardian.com/sport/2026/mar/17/ramos-carre-selecting-best-xv-2026-six-nations-rugby-union-breakdown",
     "mean_score": 0.8185,
