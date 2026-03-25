@@ -1,6 +1,66 @@
 {
-  "last run": "2026-03-25T06:23:25Z",
+  "last run": "2026-03-25T09:18:55Z",
   "stories": [
+    {
+      "headline": "Stocks rise and oil dips on hopes of 15-point Iran peace plan",
+      "link": "https://www.theguardian.com/business/2026/mar/25/stocks-rise-oil-dips-iran-peace-plan-market-optimism",
+      "mean_score": 0.3715,
+      "vader_score": 0.743,
+      "textblob_score": 0.0,
+      "first_sentence": "The price of oil has dipped and Asian stock markets moved higher after reports that Donald Trump has sent a 15-point framework for peace to Iran, amid hopes of a ceasefire in the Middle East.",
+      "timestamp": "2026-03-25T09:08:32Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Are you sure you know what 'gaslighting' is?",
+      "link": "https://www.npr.org/2026/03/25/nx-s1-5728191/gaslighting-origin-history-word",
+      "mean_score": 0.4091,
+      "vader_score": 0.3182,
+      "textblob_score": 0.5,
+      "first_sentence": "You're not imagining it.",
+      "timestamp": "2026-03-25T09:00:00Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "Mette Frederiksen keen to remain as Denmark\u2019s PM despite losing ground in election \u2013 Europe live",
+      "link": "https://www.theguardian.com/world/live/2026/mar/25/denmark-election-results-mette-frederiksen-europe-latest-news-updates",
+      "mean_score": 0.353,
+      "vader_score": 0.5696,
+      "textblob_score": 0.1364,
+      "first_sentence": "Good morning from Copenhagen, where there is no left or right majority and the Moderates\u2019 Lars L\u00f8kke Rasmussen is expected to hold the key to coalition discussions.",
+      "timestamp": "2026-03-25T08:44:36Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Perfect homework, blank stares: Why colleges are turning to oral exams to combat AI",
+      "link": "https://apnews.com/article/college-oral-exam-ai-chatgpt-77954a19f5304bfc6e76dc92d4bef3ad",
+      "mean_score": 0.4091,
+      "vader_score": 0.3182,
+      "textblob_score": 0.5,
+      "first_sentence": "The assignment involves no laptop, no chatbot and no technology of any kind.",
+      "timestamp": "2026-03-25T07:23:01Z",
+      "source": "AP News"
+    },
+    {
+      "headline": "Playful lynx snatches top prize in photo competition",
+      "link": "https://www.bbc.com/news/articles/c150yl0y5vzo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.6453,
+      "vader_score": 0.7906,
+      "textblob_score": 0.5,
+      "first_sentence": "A young Iberian lynx caught mid play has won the Wildlife Photographer of the Year People's Choice Award 2026.",
+      "timestamp": "2026-03-25T06:29:10Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "'Liverpool music trail will inspire new musicians'",
+      "link": "https://www.bbc.com/news/articles/ckgxz2031jro?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3541,
+      "vader_score": 0.5719,
+      "textblob_score": 0.1364,
+      "first_sentence": "A new tourist trail celebrating Liverpool's rich musical heritage has been designed to inspire a new generation of creative talent.",
+      "timestamp": "2026-03-25T06:28:06Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Bait review \u2013 Riz Ahmed\u2019s comedy is petty, narcissistic \u2026 and excellent",
       "link": "https://www.theguardian.com/tv-and-radio/2026/mar/25/bait-review-riz-ahmed-bond-comedy-prime-video",
@@ -2439,66 +2499,6 @@
       "textblob_score": 0.4,
       "first_sentence": "I am, in the way of my country, an over-apologiser.",
       "timestamp": "2026-03-17T09:00:44Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Live: Midfield star returns for the Matildas' blockbuster Asian Cup semifinal",
-      "link": "https://www.abc.net.au/news/2026-03-17/matildas-vs-china-womens-asian-cup-semifinal-live-updates/106465674",
-      "mean_score": 0.3338,
-      "vader_score": 0.5994,
-      "textblob_score": 0.0682,
-      "first_sentence": "The semifinals of the Women's Asian Cup begin with the Matildas taking on defending champion and tournament titan China at Perth Stadium.",
-      "timestamp": "2026-03-17T08:42:56Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "\u2018We were all so happy\u2019: Arsenal bid to harness feel-good factor against Leverkusen",
-      "link": "https://www.theguardian.com/football/2026/mar/17/arsenal-riccardo-calafiori-bayer-leverkusen-champions-league-preview",
-      "mean_score": 0.4,
-      "vader_score": 0.0,
-      "textblob_score": 0.8,
-      "first_sentence": "Even the man who Mikel Arteta has described as his chief \u201cchaos creator\u201d almost found things a bit too much.",
-      "timestamp": "2026-03-17T07:08:44Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "A total hoot! Beautiful birds \u2013 in pictures",
-      "link": "https://www.theguardian.com/artanddesign/gallery/2026/mar/17/a-total-hoot-beautiful-birds-in-pictures-claire-rosen",
-      "mean_score": 0.5462,
-      "vader_score": 0.6673,
-      "textblob_score": 0.425,
-      "first_sentence": "From fluffy owlets to rosy-hued flamingos, Claire Rosen\u2019s portraits of live birds took her on a journey that touched on colonialism, wallpaper design \u2026 and chickens Continue reading.",
-      "timestamp": "2026-03-17T07:00:41Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Are football Ultras a menace or a force for good?",
-      "link": "https://www.bbc.com/news/articles/cg5nlvmy2rmo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3114,
-      "vader_score": -0.0772,
-      "textblob_score": 0.7,
-      "first_sentence": "Smoke bombs, pyrotechnics, balaclavas and punch-ups - welcome to the world of the football Ultras.",
-      "timestamp": "2026-03-17T06:15:46Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "And the burger goes to... Michael B Jordan marks Oscars win at fast food chain",
-      "link": "https://www.bbc.com/news/articles/cpd8w5y0dpdo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.543,
-      "vader_score": 0.5859,
-      "textblob_score": 0.5,
-      "first_sentence": "After he was handed a statuette for best actor at the Academy Awards, Michael B Jordan received another golden prize - a cheeseburger.",
-      "timestamp": "2026-03-17T04:41:58Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Australia news live: fresh blow to mortgage holders as RBA hikes official interest rate to 4.1% in second consecutive increase",
-      "link": "https://www.theguardian.com/australia-news/live/2026/mar/17/bowen-rba-interest-rates-decision-cost-of-living-inflation-fuel-price-shortages-petrol-jim-chalmers-economy-war-iran-anthony-albanese-ntwnfb",
-      "mean_score": 0.4552,
-      "vader_score": 0.765,
-      "textblob_score": 0.1455,
-      "first_sentence": "Australia\u2019s Reserve Bank had been the only one expected to hike so soon, with central banks in the US, UK, European Union, Japan, Canada, Switzerland and Sweden all expected to leave rates on hold this week.",
-      "timestamp": "2026-03-17T03:33:33Z",
       "source": "The Guardian"
     }
   ]
