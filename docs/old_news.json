@@ -1,5 +1,55 @@
 [
   {
+    "headline": "The Taylor Swift effect: US vinyl sales top $1bn for the first time since 1983",
+    "link": "https://www.theguardian.com/music/2026/mar/16/vinyl-record-sales-us-taylor-swift",
+    "mean_score": 0.3784,
+    "vader_score": 0.3818,
+    "textblob_score": 0.375,
+    "first_sentence": "For the first time in over four decades, US vinyl sales have topped $1bn in annual revenue.",
+    "timestamp": "2026-03-16T17:11:31Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Girl in meningitis outbreak was 'lovely and caring'",
+    "link": "https://www.bbc.com/news/articles/cp9mdxz4dd2o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.6453,
+    "vader_score": 0.7906,
+    "textblob_score": 0.5,
+    "first_sentence": "A sixth former who died following an outbreak of meningitis in Kent was \"genuinely caring\" and had a \"loving nature\", her head teacher has said.",
+    "timestamp": "2026-03-16T15:23:22Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Aaron Judge hails World Baseball Classic crowds as \u2018bigger and better than the World Series\u2019",
+    "link": "https://apnews.com/article/wbc-us-dominican-522c2d881f9834a5fc98e4dcd29359ea",
+    "mean_score": 0.3313,
+    "vader_score": 0.4404,
+    "textblob_score": 0.2222,
+    "first_sentence": "MIAMI (AP) \u2014 On a night when All-Stars and future Hall of Famers thrilled fans and each other until the final out, Aaron Judge proclaimed the World Baseball Classic had grown into the sport\u2019s biggest event.",
+    "timestamp": "2026-03-16T14:53:01Z",
+    "source": "AP News"
+  },
+  {
+    "headline": "Norway \u2018climbs out of shadow\u2019 of neighbours with first Oscar win for Sentimental Value",
+    "link": "https://www.theguardian.com/film/2026/mar/16/norway-climbs-out-of-shadow-of-neighbours-with-first-oscar-win-for-sentimental-value",
+    "mean_score": 0.5421,
+    "vader_score": 0.8176,
+    "textblob_score": 0.2667,
+    "first_sentence": "Sentimental Value\u2019s victory at the Oscars on Sunday has been hailed in Norway as the moment the country stepped out of the film industry shadow cast by its Scandinavian neighbours Sweden and Denmark.",
+    "timestamp": "2026-03-16T14:32:14Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Key Oscar moments: Paul Thomas Anderson and Amy Madigan wins, outstanding songs and sad goodbyes",
+    "link": "https://apnews.com/article/2026-oscars-best-moments-highlights-24c5cdbe4af2a91798a5ad61067732cb",
+    "mean_score": 0.3779,
+    "vader_score": 0.6808,
+    "textblob_score": 0.075,
+    "first_sentence": "It was a 3 hour and 40 minute whirl through cinema and celebration, with Michael B.",
+    "timestamp": "2026-03-16T14:23:01Z",
+    "source": "AP News"
+  },
+  {
     "headline": "\u2018They become part of people\u2019s identity\u2019: how Australia fell in love with the Skywhales",
     "link": "https://www.theguardian.com/artanddesign/ng-interactive/2026/mar/17/skywhales-hot-air-balloons-patricia-piccinini-australia",
     "mean_score": 0.5685,

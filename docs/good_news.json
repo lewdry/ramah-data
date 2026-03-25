@@ -1,6 +1,56 @@
 {
-  "last run": "2026-03-24T21:13:08Z",
+  "last run": "2026-03-25T00:21:05Z",
   "stories": [
+    {
+      "headline": "Australia politics live: NSW to compel oil companies to explain where extra petrol being sent; Victoria announces three hours of free power a day",
+      "link": "https://www.theguardian.com/australia-news/live/2026/mar/25/politics-federal-queensland-nsw-parliament-tony-burke-jim-chalmers-middle-east-fuel-crisis-ntwnfb",
+      "mean_score": 0.3447,
+      "vader_score": 0.5106,
+      "textblob_score": 0.1788,
+      "first_sentence": "The NSW government will compel major fuel companies to explain how they will distribute extra fuel released from federal reserves in the first use of emergency powers in the state to address shortages.",
+      "timestamp": "2026-03-25T00:08:57Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "More frequent ejaculations may boost men\u2019s fertility, research suggests",
+      "link": "https://www.theguardian.com/society/2026/mar/25/more-frequent-ejaculations-men-fertility-research",
+      "mean_score": 0.3509,
+      "vader_score": 0.4019,
+      "textblob_score": 0.3,
+      "first_sentence": "Encouraging men to have more frequent ejaculations may boost their fertility, according to researchers who found that sperm deteriorates over time as it remains in the body.",
+      "timestamp": "2026-03-25T00:01:52Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "How Melbourne ended up with the biggest comedy festival in the world",
+      "link": "https://www.abc.net.au/news/2026-03-25/melbourne-international-comedy-festival-40-year-anniversary/106450836",
+      "mean_score": 0.3454,
+      "vader_score": 0.6908,
+      "textblob_score": 0.0,
+      "first_sentence": "Paul McDermott doesn't remember a lot from the first Melbourne International Comedy Festival (MICF) 40 years ago, where he performed as part of the now-legendary musical comedy group, the Doug Anthony All Stars.",
+      "timestamp": "2026-03-24T23:00:57Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Like millions of others, I pull my own hair out - we need to talk about trichotillomania",
+      "link": "https://www.bbc.com/news/articles/czx9l9lwr22o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4806,
+      "vader_score": 0.3612,
+      "textblob_score": 0.6,
+      "first_sentence": "An online content creator who has a compulsive hair-pulling disorder says others with the condition \"shouldn't be ashamed\" or \"feel embarrassed\".",
+      "timestamp": "2026-03-24T22:50:06Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "\u2018I will never walk alone\u2019: Mohamed Salah to leave Liverpool on free transfer at end of season",
+      "link": "https://www.theguardian.com/football/2026/mar/24/mohamed-salah-to-leave-liverpool-at-end-of-the-season",
+      "mean_score": 0.4384,
+      "vader_score": 0.4767,
+      "textblob_score": 0.4,
+      "first_sentence": "Mohamed Salah has announced he will leave Liverpool at the end of the season, bringing to a close one of the greatest careers in the club\u2019s storied history.",
+      "timestamp": "2026-03-24T21:46:46Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Arsenal v Chelsea: Women\u2019s Champions League quarter-final, first leg \u2013 live",
       "link": "https://www.theguardian.com/football/live/2026/mar/24/arsenal-v-chelsea-womens-champions-league-quarter-final-first-leg-live",
@@ -2450,56 +2500,6 @@
       "first_sentence": "Last year, as the major fall film festivals took place around the world, it was hard to make out the sound of audience applause.",
       "timestamp": "2026-03-16T19:35:35Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "The Taylor Swift effect: US vinyl sales top $1bn for the first time since 1983",
-      "link": "https://www.theguardian.com/music/2026/mar/16/vinyl-record-sales-us-taylor-swift",
-      "mean_score": 0.3784,
-      "vader_score": 0.3818,
-      "textblob_score": 0.375,
-      "first_sentence": "For the first time in over four decades, US vinyl sales have topped $1bn in annual revenue.",
-      "timestamp": "2026-03-16T17:11:31Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Girl in meningitis outbreak was 'lovely and caring'",
-      "link": "https://www.bbc.com/news/articles/cp9mdxz4dd2o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.6453,
-      "vader_score": 0.7906,
-      "textblob_score": 0.5,
-      "first_sentence": "A sixth former who died following an outbreak of meningitis in Kent was \"genuinely caring\" and had a \"loving nature\", her head teacher has said.",
-      "timestamp": "2026-03-16T15:23:22Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Aaron Judge hails World Baseball Classic crowds as \u2018bigger and better than the World Series\u2019",
-      "link": "https://apnews.com/article/wbc-us-dominican-522c2d881f9834a5fc98e4dcd29359ea",
-      "mean_score": 0.3313,
-      "vader_score": 0.4404,
-      "textblob_score": 0.2222,
-      "first_sentence": "MIAMI (AP) \u2014 On a night when All-Stars and future Hall of Famers thrilled fans and each other until the final out, Aaron Judge proclaimed the World Baseball Classic had grown into the sport\u2019s biggest event.",
-      "timestamp": "2026-03-16T14:53:01Z",
-      "source": "AP News"
-    },
-    {
-      "headline": "Norway \u2018climbs out of shadow\u2019 of neighbours with first Oscar win for Sentimental Value",
-      "link": "https://www.theguardian.com/film/2026/mar/16/norway-climbs-out-of-shadow-of-neighbours-with-first-oscar-win-for-sentimental-value",
-      "mean_score": 0.5421,
-      "vader_score": 0.8176,
-      "textblob_score": 0.2667,
-      "first_sentence": "Sentimental Value\u2019s victory at the Oscars on Sunday has been hailed in Norway as the moment the country stepped out of the film industry shadow cast by its Scandinavian neighbours Sweden and Denmark.",
-      "timestamp": "2026-03-16T14:32:14Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Key Oscar moments: Paul Thomas Anderson and Amy Madigan wins, outstanding songs and sad goodbyes",
-      "link": "https://apnews.com/article/2026-oscars-best-moments-highlights-24c5cdbe4af2a91798a5ad61067732cb",
-      "mean_score": 0.3779,
-      "vader_score": 0.6808,
-      "textblob_score": 0.075,
-      "first_sentence": "It was a 3 hour and 40 minute whirl through cinema and celebration, with Michael B.",
-      "timestamp": "2026-03-16T14:23:01Z",
-      "source": "AP News"
     }
   ]
 }
