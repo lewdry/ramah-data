@@ -1,5 +1,25 @@
 [
   {
+    "headline": "'You have to laugh': Why this critique of corporate work culture is a comedy",
+    "link": "https://www.abc.net.au/news/2026-03-18/do-not-pass-go-mtc-jean-tong/106461264",
+    "mean_score": 0.4385,
+    "vader_score": 0.7269,
+    "textblob_score": 0.15,
+    "first_sentence": "Do Not Pass Go is a play set entirely in one room of a workplace, but we never find out what the work actually is.",
+    "timestamp": "2026-03-17T18:30:00Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Mayors to gain more spending power under Reeves tax plans",
+    "link": "https://www.bbc.com/news/articles/c0k16zdr1r1o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.5133,
+    "vader_score": 0.5267,
+    "textblob_score": 0.5,
+    "first_sentence": "Regional mayors could be given control of some tax revenue to spend on their local priorities, Chancellor Rachel Reeves has announced.",
+    "timestamp": "2026-03-17T15:43:04Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Switch 2's new \"Handheld Mode Boost\" can run original Switch games at 1080p",
     "link": "https://arstechnica.com/gadgets/2026/03/nintendo-switch-2-update-adds-one-possible-fix-for-blurry-og-switch-games/",
     "mean_score": 0.434,

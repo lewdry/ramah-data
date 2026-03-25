@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-25T15:26:39Z",
+  "last run": "2026-03-25T18:19:52Z",
   "stories": [
+    {
+      "headline": "I thought my cuckoo clock was amazing, but it\u2019s got nothing on my statue of Bert the cheery chef | Adrian Chiles",
+      "link": "https://www.theguardian.com/commentisfree/2026/mar/25/thought-my-cuckoo-clock-was-amazing-but-nothing-on-my-statue-of-cheery-chef",
+      "mean_score": 0.7287,
+      "vader_score": 0.8074,
+      "textblob_score": 0.65,
+      "first_sentence": "I came across something that makes me happy every day.",
+      "timestamp": "2026-03-25T17:34:36Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Dogs became man's best friend far earlier than thought, scientists find",
+      "link": "https://www.bbc.com/news/articles/cn0ky1n791go?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5896,
+      "vader_score": 0.8126,
+      "textblob_score": 0.3667,
+      "first_sentence": "A fragment of a jawbone found deep underground in a cave in Somerset has rewritten the story of when and how dogs became our best friends.",
+      "timestamp": "2026-03-25T16:00:49Z",
+      "source": "BBC News"
+    },
     {
       "headline": "As a furniture removalist I learned all mattresses are stained, and that\u2019s fine",
       "link": "https://www.theguardian.com/lifeandstyle/2026/mar/25/furniture-removalist-experience-stories",
@@ -2480,26 +2500,6 @@
       "first_sentence": "A report by Australia's national science agency has found Tasmania's salmon farming industry has experienced a \"significant and sustained shift\" away from strong community support it experienced a decade ago.",
       "timestamp": "2026-03-17T19:07:02Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "'You have to laugh': Why this critique of corporate work culture is a comedy",
-      "link": "https://www.abc.net.au/news/2026-03-18/do-not-pass-go-mtc-jean-tong/106461264",
-      "mean_score": 0.4385,
-      "vader_score": 0.7269,
-      "textblob_score": 0.15,
-      "first_sentence": "Do Not Pass Go is a play set entirely in one room of a workplace, but we never find out what the work actually is.",
-      "timestamp": "2026-03-17T18:30:00Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Mayors to gain more spending power under Reeves tax plans",
-      "link": "https://www.bbc.com/news/articles/c0k16zdr1r1o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5133,
-      "vader_score": 0.5267,
-      "textblob_score": 0.5,
-      "first_sentence": "Regional mayors could be given control of some tax revenue to spend on their local priorities, Chancellor Rachel Reeves has announced.",
-      "timestamp": "2026-03-17T15:43:04Z",
-      "source": "BBC News"
     }
   ]
 }
