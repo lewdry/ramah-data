@@ -1,5 +1,45 @@
 [
   {
+    "headline": "\u2018Prince laughed like a kid as I painted \u201cFree\u201d on his stomach\u2019: Steve Parke\u2019s best photograph",
+    "link": "https://www.theguardian.com/artanddesign/2026/mar/18/prince-free-stomach-steve-parkes-best-photograph",
+    "mean_score": 0.7829,
+    "vader_score": 0.8658,
+    "textblob_score": 0.7,
+    "first_sentence": "I grew up loving Prince\u2019s music and remember thinking: \u201cI\u2019m gonna work for that guy one day.\u201d Through high school and college I photographed local bands.",
+    "timestamp": "2026-03-18T15:00:42Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Greetings from Nyeri, Kenya, where grandmothers help coach the next generation",
+    "link": "https://www.npr.org/2026/03/18/g-s1-113817/kenya-grandmothers-mentor-teenagers-soccer",
+    "mean_score": 0.3352,
+    "vader_score": 0.6705,
+    "textblob_score": 0.0,
+    "first_sentence": "Far-Flung Postcards is a weekly series in which NPR's international team shares moments from their lives and work around the world.",
+    "timestamp": "2026-03-18T14:33:18Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "The BTS comeback album is almost here \u2013 and you best believe I\u2019m slipping back into my K-pop obsessive era | Aastha Agrawal",
+    "link": "https://www.theguardian.com/commentisfree/2026/mar/18/bts-2026-album-arirang-korean-boyband-fandom",
+    "mean_score": 0.4053,
+    "vader_score": 0.5106,
+    "textblob_score": 0.3,
+    "first_sentence": "When I heard the surprise news that BTS are releasing a comeback album, it pulled me back into a past version of myself, one that was all-consuming in its obsession, but equally marked by shame.",
+    "timestamp": "2026-03-18T14:00:43Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Jess Cartner-Morley on fashion: primary colours are back, but styling them isn\u2019t child\u2019s play",
+    "link": "https://www.theguardian.com/fashion/2026/mar/18/jess-cartner-morley-on-fashion-primary-colours",
+    "mean_score": 0.3384,
+    "vader_score": 0.4767,
+    "textblob_score": 0.2,
+    "first_sentence": "The Guardian\u2019s journalism is independent.",
+    "timestamp": "2026-03-18T14:00:42Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "The one who got away: how did Australia lose one of its brightest football talents to Croatia? | Jack Snape",
     "link": "https://www.theguardian.com/football/2026/mar/19/the-one-who-got-away-how-did-australia-lose-one-of-its-brightest-football-talents-to-croatia",
     "mean_score": 0.3243,

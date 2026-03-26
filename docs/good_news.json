@@ -1,6 +1,36 @@
 {
-  "last run": "2026-03-26T18:21:38Z",
+  "last run": "2026-03-26T21:10:11Z",
   "stories": [
+    {
+      "headline": "Max Verstappen kicks Guardian F1 reporter out of Japanese Grand Prix press conference",
+      "link": "https://www.abc.net.au/news/2026-03-27/max-verstappen-boots-reporter-from-japanese-gp-media-session/106500946",
+      "mean_score": 0.3544,
+      "vader_score": 0.4588,
+      "textblob_score": 0.25,
+      "first_sentence": "Four-time world champion Max Verstappen has kicked a British journalist out of a Formula 1 press conference ahead of this weekend's Japanese Grand Prix.",
+      "timestamp": "2026-03-26T20:59:53Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Sinner continues smooth Miami progress with win over Tiafoe as rivals fall",
+      "link": "https://www.theguardian.com/sport/2026/mar/26/sinner-continues-smooth-miami-progress-with-win-over-tiafoe-as-rivals-fall",
+      "mean_score": 0.6825,
+      "vader_score": 0.765,
+      "textblob_score": 0.6,
+      "first_sentence": "The past nine days at the Miami Open have not been kind to most of the world\u2019s best male tennis players.",
+      "timestamp": "2026-03-26T19:19:19Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Sarah Ferguson stripped of Freedom of City of York title",
+      "link": "https://www.bbc.com/news/articles/c3w3ez3xp92o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3185,
+      "vader_score": 0.6369,
+      "textblob_score": 0.0,
+      "first_sentence": "Sarah Ferguson has had her honorary Freedom of the City of York stripped, in a further fall from grace for the former Duchess of York.",
+      "timestamp": "2026-03-26T19:06:12Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Intel Core Ultra 270K and 250K Plus review: Conditionally great CPUs",
       "link": "https://arstechnica.com/gadgets/2026/03/intel-core-ultra-270k-and-250k-plus-review-conditionally-great-cpus/",
@@ -150,6 +180,16 @@
       "first_sentence": "Hair transplants have never been more widespread or more affordable.",
       "timestamp": "2026-03-26T05:00:28Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "What's a 'super' El Ni\u00f1o, and is Australia facing one?",
+      "link": "https://www.sbs.com.au/news/article/is-a-super-el-nino-forming-australia/sknakmybs",
+      "mean_score": 0.4664,
+      "vader_score": 0.5994,
+      "textblob_score": 0.3333,
+      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+      "timestamp": "2026-03-26T04:31:45Z",
+      "source": "SBS News"
     },
     {
       "headline": "'My left foot was in his mouth': Fisher's lucky escape from 3.5m shark",
@@ -2459,46 +2499,6 @@
       "textblob_score": 0.4,
       "first_sentence": "Nigel Farage called for the release of the imprisoned rapper Sean \u201cDiddy\u201d Combs and commended the efforts to free a former Honduran president jailed in the US for drug trafficking.",
       "timestamp": "2026-03-18T16:00:43Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018Prince laughed like a kid as I painted \u201cFree\u201d on his stomach\u2019: Steve Parke\u2019s best photograph",
-      "link": "https://www.theguardian.com/artanddesign/2026/mar/18/prince-free-stomach-steve-parkes-best-photograph",
-      "mean_score": 0.7829,
-      "vader_score": 0.8658,
-      "textblob_score": 0.7,
-      "first_sentence": "I grew up loving Prince\u2019s music and remember thinking: \u201cI\u2019m gonna work for that guy one day.\u201d Through high school and college I photographed local bands.",
-      "timestamp": "2026-03-18T15:00:42Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Greetings from Nyeri, Kenya, where grandmothers help coach the next generation",
-      "link": "https://www.npr.org/2026/03/18/g-s1-113817/kenya-grandmothers-mentor-teenagers-soccer",
-      "mean_score": 0.3352,
-      "vader_score": 0.6705,
-      "textblob_score": 0.0,
-      "first_sentence": "Far-Flung Postcards is a weekly series in which NPR's international team shares moments from their lives and work around the world.",
-      "timestamp": "2026-03-18T14:33:18Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "The BTS comeback album is almost here \u2013 and you best believe I\u2019m slipping back into my K-pop obsessive era | Aastha Agrawal",
-      "link": "https://www.theguardian.com/commentisfree/2026/mar/18/bts-2026-album-arirang-korean-boyband-fandom",
-      "mean_score": 0.4053,
-      "vader_score": 0.5106,
-      "textblob_score": 0.3,
-      "first_sentence": "When I heard the surprise news that BTS are releasing a comeback album, it pulled me back into a past version of myself, one that was all-consuming in its obsession, but equally marked by shame.",
-      "timestamp": "2026-03-18T14:00:43Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Jess Cartner-Morley on fashion: primary colours are back, but styling them isn\u2019t child\u2019s play",
-      "link": "https://www.theguardian.com/fashion/2026/mar/18/jess-cartner-morley-on-fashion-primary-colours",
-      "mean_score": 0.3384,
-      "vader_score": 0.4767,
-      "textblob_score": 0.2,
-      "first_sentence": "The Guardian\u2019s journalism is independent.",
-      "timestamp": "2026-03-18T14:00:42Z",
       "source": "The Guardian"
     }
   ]
