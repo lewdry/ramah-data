@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Venezuela beats U.S. 3-2, wins first World Baseball Classic title",
+    "link": "https://www.npr.org/2026/03/18/g-s1-114247/venezuela-beats-u-s-3-2-wins-first-world-baseball-classic-title",
+    "mean_score": 0.4054,
+    "vader_score": 0.5719,
+    "textblob_score": 0.2389,
+    "first_sentence": "MIAMI \u2014 Venezuela won the World Baseball Classic for the first time, rebounding from a blown eighth-inning lead to beat the United States 3-2 Tuesday night on Eugenio Su\u00e1rez's tiebreaking double in the ninth.",
+    "timestamp": "2026-03-18T05:20:24Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "\u2018Old masters too\u2019: Ghent exhibition celebrates female artists of the baroque",
+    "link": "https://www.theguardian.com/world/2026/mar/18/ghent-exhibition-celebrates-female-artists-baroque-low-countries",
+    "mean_score": 0.311,
+    "vader_score": 0.5719,
+    "textblob_score": 0.05,
+    "first_sentence": "Judith Leyster, an artist of the Dutch golden age, was thought to be about 21 when she painted her self-portrait in 1630.",
+    "timestamp": "2026-03-18T05:00:23Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Shaun Ryder on highs, lows and Happy Mondays: \u2018Heroin isn\u2019t a party drug \u2013 you can\u2019t just do it at the weekend\u2019",
+    "link": "https://www.theguardian.com/music/2026/mar/17/shaun-ryder-highs-lows-happy-mondays-heroin-isnt-a-party-drug-you-cant-just-do-it-at-the-weekend",
+    "mean_score": 0.7404,
+    "vader_score": 0.6808,
+    "textblob_score": 0.8,
+    "first_sentence": "There are thousands of pictures of Shaun Ryder and Bez in Happy Mondays, from the mid- to late 80s, that run the gamut from mashed to wrecked.",
+    "timestamp": "2026-03-18T05:00:23Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Venezuela win first World Baseball Classic title after taming USA in politically fraught final",
     "link": "https://www.theguardian.com/sport/2026/mar/17/venezuela-beat-usa-wbc-final-suarez-trump-politics",
     "mean_score": 0.4146,

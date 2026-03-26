@@ -1,6 +1,36 @@
 {
-  "last run": "2026-03-26T03:57:46Z",
+  "last run": "2026-03-26T06:26:02Z",
   "stories": [
+    {
+      "headline": "AFL braces for increase in positive tests under \u2018stronger\u2019 new illicit drugs policy",
+      "link": "https://www.theguardian.com/sport/2026/mar/26/afl-new-illicit-drugs-policy-andrew-dillon",
+      "mean_score": 0.4457,
+      "vader_score": 0.7096,
+      "textblob_score": 0.1818,
+      "first_sentence": "The AFL is preparing for an increase in players testing positive to drugs such as cocaine and MDMA due to more effective testing under a new illicit substances policy, even if the public will never find out.",
+      "timestamp": "2026-03-26T05:26:51Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018You go in bald and walk out with the best hair you\u2019ve ever had\u2019: the remarkable return of the toupee",
+      "link": "https://www.theguardian.com/fashion/2026/mar/26/bald-toupee-hair-transplants-hairpieces-glued",
+      "mean_score": 0.8533,
+      "vader_score": 0.8316,
+      "textblob_score": 0.875,
+      "first_sentence": "Hair transplants have never been more widespread or more affordable.",
+      "timestamp": "2026-03-26T05:00:28Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "'My left foot was in his mouth': Fisher's lucky escape from 3.5m shark",
+      "link": "https://www.abc.net.au/news/2026-03-26/shark-attack-escape-cape-jaffa-great-white/106496684",
+      "mean_score": 0.3545,
+      "vader_score": 0.5423,
+      "textblob_score": 0.1667,
+      "first_sentence": "Amateur fisher Luke Kuhn says he is lucky to have escaped an encounter with a great white shark that bit his swim fin and dragged him along the ocean floor.",
+      "timestamp": "2026-03-26T04:14:32Z",
+      "source": "ABC News"
+    },
     {
       "headline": "The Matildas\u2019 coach wants the side to face the world\u2019s best \u2013 so why are they playing Malawi next? | Samantha Lewis",
       "link": "https://www.theguardian.com/football/2026/mar/26/matildas-coach-worlds-best-playing-emerging-next",
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.7,
       "first_sentence": "I wore makeup for the first time just after I turned 12: a tube of green mascara from a pound\u00a0shop in my home town in south Wales.",
       "timestamp": "2026-03-18T06:45:24Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Venezuela beats U.S. 3-2, wins first World Baseball Classic title",
-      "link": "https://www.npr.org/2026/03/18/g-s1-114247/venezuela-beats-u-s-3-2-wins-first-world-baseball-classic-title",
-      "mean_score": 0.4054,
-      "vader_score": 0.5719,
-      "textblob_score": 0.2389,
-      "first_sentence": "MIAMI \u2014 Venezuela won the World Baseball Classic for the first time, rebounding from a blown eighth-inning lead to beat the United States 3-2 Tuesday night on Eugenio Su\u00e1rez's tiebreaking double in the ninth.",
-      "timestamp": "2026-03-18T05:20:24Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "\u2018Old masters too\u2019: Ghent exhibition celebrates female artists of the baroque",
-      "link": "https://www.theguardian.com/world/2026/mar/18/ghent-exhibition-celebrates-female-artists-baroque-low-countries",
-      "mean_score": 0.311,
-      "vader_score": 0.5719,
-      "textblob_score": 0.05,
-      "first_sentence": "Judith Leyster, an artist of the Dutch golden age, was thought to be about 21 when she painted her self-portrait in 1630.",
-      "timestamp": "2026-03-18T05:00:23Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Shaun Ryder on highs, lows and Happy Mondays: \u2018Heroin isn\u2019t a party drug \u2013 you can\u2019t just do it at the weekend\u2019",
-      "link": "https://www.theguardian.com/music/2026/mar/17/shaun-ryder-highs-lows-happy-mondays-heroin-isnt-a-party-drug-you-cant-just-do-it-at-the-weekend",
-      "mean_score": 0.7404,
-      "vader_score": 0.6808,
-      "textblob_score": 0.8,
-      "first_sentence": "There are thousands of pictures of Shaun Ryder and Bez in Happy Mondays, from the mid- to late 80s, that run the gamut from mashed to wrecked.",
-      "timestamp": "2026-03-18T05:00:23Z",
       "source": "The Guardian"
     }
   ]
