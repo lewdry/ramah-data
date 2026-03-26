@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Live: The Asian Cup's two best teams duel to win right to face Matildas in final",
+    "link": "https://www.abc.net.au/news/2026-03-18/south-korea-vs-japan-live-blog-womens-asian-cup/106469438",
+    "mean_score": 0.6053,
+    "vader_score": 0.8402,
+    "textblob_score": 0.3703,
+    "first_sentence": "Japan has been rampant at the tournament so far, scoring 17 group stage goals before easily accounting for the Philippines in the quarterfinals.",
+    "timestamp": "2026-03-18T08:20:12Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "'Moment of pride': Venezuela edges US to win first World Baseball Classic",
+    "link": "https://www.abc.net.au/news/2026-03-18/world-baseball-classic-final-venezuela-united-states/106470290",
+    "mean_score": 0.5703,
+    "vader_score": 0.7351,
+    "textblob_score": 0.4056,
+    "first_sentence": "Venezuela has claimed its first World Baseball Classic championship with a 3-2 win over the United States in Miami.",
+    "timestamp": "2026-03-18T07:22:57Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "A moment that changed me: I applied mucous-tinted mascara \u2013 and loved the reaction",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/mar/17/a-moment-that-changed-me-mucous-tinted-mascara-reaction",
+    "mean_score": 0.6497,
+    "vader_score": 0.5994,
+    "textblob_score": 0.7,
+    "first_sentence": "I wore makeup for the first time just after I turned 12: a tube of green mascara from a pound\u00a0shop in my home town in south Wales.",
+    "timestamp": "2026-03-18T06:45:24Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Venezuela beats U.S. 3-2, wins first World Baseball Classic title",
     "link": "https://www.npr.org/2026/03/18/g-s1-114247/venezuela-beats-u-s-3-2-wins-first-world-baseball-classic-title",
     "mean_score": 0.4054,
