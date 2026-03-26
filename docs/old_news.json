@@ -1,5 +1,45 @@
 [
   {
+    "headline": "The best cordless vacuum cleaners for a spotless home: 10 tried and tested favourites",
+    "link": "https://www.theguardian.com/thefilter/2025/mar/28/best-cordless-vacuum-cleaners-uk",
+    "mean_score": 0.5664,
+    "vader_score": 0.6369,
+    "textblob_score": 0.4958,
+    "first_sentence": "The Guardian\u2019s journalism is independent.",
+    "timestamp": "2026-03-18T10:00:13Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Woman who learned to walk again after 130ft fall meets 'incredible' rescuers",
+    "link": "https://www.bbc.com/news/articles/c4g5ne4q7l9o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.45,
+    "vader_score": 0.0,
+    "textblob_score": 0.9,
+    "first_sentence": "A woman who had to learn to walk again after a 130ft (39.6m) fall at a beauty spot has been reunited with the teams who rescued her, saying she will be \"forever grateful\" to them for saving her life.",
+    "timestamp": "2026-03-18T09:26:50Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Illinois Lt. Gov. Juliana Stratton wins Democratic nomination for U.S. Senate",
+    "link": "https://www.npr.org/2026/03/18/nx-s1-5749357/illinois-lt-gov-juliana-stratton-wins-democratic-nomination-for-u-s-senate",
+    "mean_score": 0.4359,
+    "vader_score": 0.5719,
+    "textblob_score": 0.3,
+    "first_sentence": "Among the crowded field of Democratic primary candidates, Juliana Stratton said she would strongly oppose the Trump administration and not vote for any of his appointees, if elected.",
+    "timestamp": "2026-03-18T08:49:14Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "'Special human' James Slipper to break Super Rugby record",
+    "link": "https://www.abc.net.au/news/2026-03-18/brumbies-james-slipper-to-break-super-rugby-record/106469246",
+    "mean_score": 0.4976,
+    "vader_score": 0.765,
+    "textblob_score": 0.2302,
+    "first_sentence": "Brumbies prop James Slipper will soon have played more Super Rugby games than anyone else.",
+    "timestamp": "2026-03-18T08:28:54Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Live: The Asian Cup's two best teams duel to win right to face Matildas in final",
     "link": "https://www.abc.net.au/news/2026-03-18/south-korea-vs-japan-live-blog-womens-asian-cup/106469438",
     "mean_score": 0.6053,
