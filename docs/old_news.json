@@ -1,5 +1,75 @@
 [
   {
+    "headline": "Daniel Biss wins Democratic primary for closely-watched Illinois House seat",
+    "link": "https://www.npr.org/2026/03/17/nx-s1-5751169/illinois-primary-ninth-district-daniel-biss-kat-abughazaleh",
+    "mean_score": 0.4609,
+    "vader_score": 0.5719,
+    "textblob_score": 0.35,
+    "first_sentence": "Daniel Biss, the mayor of Evanston, Ill., has won the Democratic primary for the state's 9th congressional district, according to a race call by The Associated Press, topping a crowded field in the race for a Chicago-area seat that has not been open for nearly three decades.",
+    "timestamp": "2026-03-18T02:40:24Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "Lucky escape for mine workers almost hit by debris during explosive blasts",
+    "link": "https://www.abc.net.au/news/2026-03-18/worksafe-two-separate-exposives-incidents-at-wa-mines/106418758",
+    "mean_score": 0.4378,
+    "vader_score": 0.5423,
+    "textblob_score": 0.3333,
+    "first_sentence": "Workers were almost hit by debris, known as \"flyrock\", in two separate explosive incidents at WA mine sites in recent months.",
+    "timestamp": "2026-03-18T01:07:19Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Rangers combine ancient wisdom with modern technology to care for country",
+    "link": "https://www.abc.net.au/news/2026-03-18/aboriginal-rangers-conference-on-nsw-south-coast/106460538",
+    "mean_score": 0.4825,
+    "vader_score": 0.765,
+    "textblob_score": 0.2,
+    "first_sentence": "The first Aboriginal rangers conference for the NSW South Coast has been held in Mystery Bay.",
+    "timestamp": "2026-03-18T01:03:45Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Eze keeps Arsenal\u2019s shot at history alive with magic moment against Leverkusen | Barney Ronay",
+    "link": "https://www.theguardian.com/football/2026/mar/17/eze-keeps-arsenals-shot-at-history-alive-with-magic-moment-against-leverkusen",
+    "mean_score": 0.3409,
+    "vader_score": 0.3818,
+    "textblob_score": 0.3,
+    "first_sentence": "And now I am become Springtime Eze, destroyer of netting.",
+    "timestamp": "2026-03-17T23:46:39Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Senegal's AFCON win overturned months after controversial final",
+    "link": "https://www.abc.net.au/news/2026-03-18/senegal-stripped-of-afcon-title-morocco-declared-winner/106467082",
+    "mean_score": 0.4544,
+    "vader_score": 0.4588,
+    "textblob_score": 0.45,
+    "first_sentence": "Morocco has been awarded the Africa Cup of Nations (AFCON) title by appeals judges who stunningly overturned Senegal's victory in a chaotic final in January.",
+    "timestamp": "2026-03-17T22:39:55Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Adelaide 36ers into their first NBL grand final since 2018",
+    "link": "https://www.abc.net.au/news/2026-03-18/bryce-cotton-steers-adelaide-36ers-into-nbl-grand-final/106466856",
+    "mean_score": 0.3544,
+    "vader_score": 0.4588,
+    "textblob_score": 0.25,
+    "first_sentence": "The Adelaide 36ers have secured their first NBL grand final berth since 2018.",
+    "timestamp": "2026-03-17T21:11:45Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Matildas coach explains Raso absence in Asian Cup semifinal win over China",
+    "link": "https://www.abc.net.au/news/2026-03-18/joe-montemurro-explains-hayley-raso-absence-matildas-china/106466894",
+    "mean_score": 0.4242,
+    "vader_score": 0.5859,
+    "textblob_score": 0.2625,
+    "first_sentence": "Matildas coach Joe Montemurro has revealed his decision not to play Hayley Raso in the 2-1 semifinal win over China was purely tactical, declaring the star winger fit to go for Saturday's decider.",
+    "timestamp": "2026-03-17T21:06:21Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Sporting\u2019s stunning turnaround ends Bod\u00f8/Glimt\u2019s Champions League run",
     "link": "https://www.theguardian.com/football/2026/mar/17/sporting-lisbon-bodo-glimt-champions-league-last-16-match-report",
     "mean_score": 0.6092,
@@ -8,6 +78,16 @@
     "first_sentence": "Sporting staged a stunning comeback to beat Bod\u00f8/Glimt 5-0 after extra time and reach the Champions League quarter-finals with a 5-3 aggregate victory in their last-16 tie.",
     "timestamp": "2026-03-17T21:00:57Z",
     "source": "The Guardian"
+  },
+  {
+    "headline": "Live: Chance of RBA interest rate hike in May drops to 40pc, ASX likely to rise",
+    "link": "https://www.abc.net.au/news/2026-03-18/asx-markets-business-live-news-march-18/106466908",
+    "mean_score": 0.3403,
+    "vader_score": 0.6124,
+    "textblob_score": 0.0682,
+    "first_sentence": "The likelihood of a follow-up interest rate hike in May may has fallen substantially after the Reserve Bank's 5-4 vote in favour of yesterday's rate increase \u2014 the slimmest of majorities.",
+    "timestamp": "2026-03-17T21:00:57Z",
+    "source": "ABC News"
   },
   {
     "headline": "Manchester City v Real Madrid: Champions League last 16, second leg \u2013 live",

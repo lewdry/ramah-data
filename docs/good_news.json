@@ -1,6 +1,86 @@
 {
-  "last run": "2026-03-25T21:12:05Z",
+  "last run": "2026-03-26T00:22:50Z",
   "stories": [
+    {
+      "headline": "Camilla's love of books explored in BBC documentary",
+      "link": "https://www.bbc.com/news/articles/c3w3e0jjx3xo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4435,
+      "vader_score": 0.6369,
+      "textblob_score": 0.25,
+      "first_sentence": "Queen Camilla is to appear in a BBC documentary about the life-changing power of books.",
+      "timestamp": "2026-03-26T00:18:25Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "The homeless teenager who became a successful advertising boss",
+      "link": "https://www.bbc.com/news/articles/cn08lx745ndo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.668,
+      "vader_score": 0.5859,
+      "textblob_score": 0.75,
+      "first_sentence": "When Greg Daily found himself homeless as a teenager, becoming a successful entrepreneur seemed an impossibility.",
+      "timestamp": "2026-03-26T00:03:36Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "British suppliers to be prioritised for contracts in sectors vital to national security",
+      "link": "https://www.theguardian.com/business/2026/mar/26/british-suppliers-to-be-prioritised-for-contracts-in-sectors-vital-to-national-security",
+      "mean_score": 0.3037,
+      "vader_score": 0.5574,
+      "textblob_score": 0.05,
+      "first_sentence": "British suppliers will be prioritised for public contracts in shipbuilding, steel, AI and energy infrastructure under new guidance marking them out as sectors vital to national security.",
+      "timestamp": "2026-03-26T00:01:21Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Hannah Gadsby, Aaron Chen and more share their picks of the comedy festival",
+      "link": "https://www.abc.net.au/news/2026-03-26/comedy-festival-recommendations-hannah-gadsby-rove-mcmanus/106473012",
+      "mean_score": 0.6508,
+      "vader_score": 0.8016,
+      "textblob_score": 0.5,
+      "first_sentence": "Luke Heggie was 37 when he did his first show at Melbourne International Comedy Festival in 2012.",
+      "timestamp": "2026-03-26T00:00:14Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Health, education, tax and more - Has the SNP delivered on its promises at Holyrood?",
+      "link": "https://www.bbc.com/news/articles/c0rxnp11y7yo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4409,
+      "vader_score": 0.3818,
+      "textblob_score": 0.5,
+      "first_sentence": "Holyrood has broken up for May's election, and parties will spend the next six weeks  debating their policies for the future of Scotland.",
+      "timestamp": "2026-03-25T22:54:26Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Harry Maguire: \u2018I really like Ruben, he\u2019s got great ideas. They just didn\u2019t work at Manchester United\u2019",
+      "link": "https://www.theguardian.com/football/2026/mar/25/harry-maguire-ruben-amorim-manchester-united-england",
+      "mean_score": 0.6421,
+      "vader_score": 0.7841,
+      "textblob_score": 0.5,
+      "first_sentence": "Harry Maguire was injured again and Manchester United were stuck in a loop under Ruben Amorim, offering their own take on the definition of insanity.",
+      "timestamp": "2026-03-25T22:30:19Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Brisbane capitalises on 'less sexy' business events to the tune of millions",
+      "link": "https://www.abc.net.au/news/2026-03-26/brisbane-attracting-more-business-scientific-conferences/106395792",
+      "mean_score": 0.3223,
+      "vader_score": 0.4779,
+      "textblob_score": 0.1667,
+      "first_sentence": "Brisbane is pitching to attract more major business conventions and conferences in the lead up to the 2032 Olympics.",
+      "timestamp": "2026-03-25T21:59:07Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Bay the 'greatest risk and biggest asset' for beachside residents in Victoria",
+      "link": "https://www.abc.net.au/news/2026-03-26/coastal-erosion-climate-change-impacts-bellarine-coast-victoria/105184364",
+      "mean_score": 0.8404,
+      "vader_score": 0.6808,
+      "textblob_score": 1.0,
+      "first_sentence": "Two new reports have listed parts of Victoria's Bellarine Peninsula that are likely to be affected by inundation and erosion associated with climate change.",
+      "timestamp": "2026-03-25T21:10:23Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Manchester United v Bayern Munich: Women\u2019s Champion League quarter-final, first leg \u2013 live",
       "link": "https://www.theguardian.com/football/live/2026/mar/25/manchester-united-v-bayern-munich-womens-champion-league-quarter-final-first-leg-live",
@@ -2420,86 +2500,6 @@
       "first_sentence": "If you see a faded sign at the side of the road that says, \"15 miles to the Love Shack,\" you know you're in for a good time.",
       "timestamp": "2026-03-18T02:42:18Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Daniel Biss wins Democratic primary for closely-watched Illinois House seat",
-      "link": "https://www.npr.org/2026/03/17/nx-s1-5751169/illinois-primary-ninth-district-daniel-biss-kat-abughazaleh",
-      "mean_score": 0.4609,
-      "vader_score": 0.5719,
-      "textblob_score": 0.35,
-      "first_sentence": "Daniel Biss, the mayor of Evanston, Ill., has won the Democratic primary for the state's 9th congressional district, according to a race call by The Associated Press, topping a crowded field in the race for a Chicago-area seat that has not been open for nearly three decades.",
-      "timestamp": "2026-03-18T02:40:24Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Lucky escape for mine workers almost hit by debris during explosive blasts",
-      "link": "https://www.abc.net.au/news/2026-03-18/worksafe-two-separate-exposives-incidents-at-wa-mines/106418758",
-      "mean_score": 0.4378,
-      "vader_score": 0.5423,
-      "textblob_score": 0.3333,
-      "first_sentence": "Workers were almost hit by debris, known as \"flyrock\", in two separate explosive incidents at WA mine sites in recent months.",
-      "timestamp": "2026-03-18T01:07:19Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Rangers combine ancient wisdom with modern technology to care for country",
-      "link": "https://www.abc.net.au/news/2026-03-18/aboriginal-rangers-conference-on-nsw-south-coast/106460538",
-      "mean_score": 0.4825,
-      "vader_score": 0.765,
-      "textblob_score": 0.2,
-      "first_sentence": "The first Aboriginal rangers conference for the NSW South Coast has been held in Mystery Bay.",
-      "timestamp": "2026-03-18T01:03:45Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Eze keeps Arsenal\u2019s shot at history alive with magic moment against Leverkusen | Barney Ronay",
-      "link": "https://www.theguardian.com/football/2026/mar/17/eze-keeps-arsenals-shot-at-history-alive-with-magic-moment-against-leverkusen",
-      "mean_score": 0.3409,
-      "vader_score": 0.3818,
-      "textblob_score": 0.3,
-      "first_sentence": "And now I am become Springtime Eze, destroyer of netting.",
-      "timestamp": "2026-03-17T23:46:39Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Senegal's AFCON win overturned months after controversial final",
-      "link": "https://www.abc.net.au/news/2026-03-18/senegal-stripped-of-afcon-title-morocco-declared-winner/106467082",
-      "mean_score": 0.4544,
-      "vader_score": 0.4588,
-      "textblob_score": 0.45,
-      "first_sentence": "Morocco has been awarded the Africa Cup of Nations (AFCON) title by appeals judges who stunningly overturned Senegal's victory in a chaotic final in January.",
-      "timestamp": "2026-03-17T22:39:55Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Adelaide 36ers into their first NBL grand final since 2018",
-      "link": "https://www.abc.net.au/news/2026-03-18/bryce-cotton-steers-adelaide-36ers-into-nbl-grand-final/106466856",
-      "mean_score": 0.3544,
-      "vader_score": 0.4588,
-      "textblob_score": 0.25,
-      "first_sentence": "The Adelaide 36ers have secured their first NBL grand final berth since 2018.",
-      "timestamp": "2026-03-17T21:11:45Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Matildas coach explains Raso absence in Asian Cup semifinal win over China",
-      "link": "https://www.abc.net.au/news/2026-03-18/joe-montemurro-explains-hayley-raso-absence-matildas-china/106466894",
-      "mean_score": 0.4242,
-      "vader_score": 0.5859,
-      "textblob_score": 0.2625,
-      "first_sentence": "Matildas coach Joe Montemurro has revealed his decision not to play Hayley Raso in the 2-1 semifinal win over China was purely tactical, declaring the star winger fit to go for Saturday's decider.",
-      "timestamp": "2026-03-17T21:06:21Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Live: Chance of RBA interest rate hike in May drops to 40pc, ASX likely to rise",
-      "link": "https://www.abc.net.au/news/2026-03-18/asx-markets-business-live-news-march-18/106466908",
-      "mean_score": 0.3403,
-      "vader_score": 0.6124,
-      "textblob_score": 0.0682,
-      "first_sentence": "The likelihood of a follow-up interest rate hike in May may has fallen substantially after the Reserve Bank's 5-4 vote in favour of yesterday's rate increase \u2014 the slimmest of majorities.",
-      "timestamp": "2026-03-17T21:00:57Z",
-      "source": "ABC News"
     }
   ]
 }
