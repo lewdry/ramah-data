@@ -1,6 +1,36 @@
 {
-  "last run": "2026-03-26T00:22:50Z",
+  "last run": "2026-03-26T03:57:46Z",
   "stories": [
+    {
+      "headline": "The Matildas\u2019 coach wants the side to face the world\u2019s best \u2013 so why are they playing Malawi next? | Samantha Lewis",
+      "link": "https://www.theguardian.com/football/2026/mar/26/matildas-coach-worlds-best-playing-emerging-next",
+      "mean_score": 0.5592,
+      "vader_score": 0.7184,
+      "textblob_score": 0.4,
+      "first_sentence": "Did someone forget to include Matildas head coach Joe Montemurro on the emails?.",
+      "timestamp": "2026-03-26T02:50:40Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018It\u2019s something bling\u2019: Gout Gout ready to sparkle as he enters new phase of sprint career",
+      "link": "https://www.theguardian.com/sport/2026/mar/26/gout-gout-sprinter-new-phase",
+      "mean_score": 0.4084,
+      "vader_score": 0.6486,
+      "textblob_score": 0.1682,
+      "first_sentence": "Dazzling in his sponsor\u2019s tracksuit, and sparkling with an earring and two glimmering chains, sprint sensation Gout Gout told his first press conference in Melbourne his confidence is growing.",
+      "timestamp": "2026-03-26T01:08:04Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Andrew Hastie open to 25% tax on gas profits and says multinationals have \u2018had a really good run\u2019 on Australian wealth",
+      "link": "https://www.theguardian.com/australia-news/2026/mar/26/andrew-hastie-open-to-25-tax-on-gas-profits-and-says-multinationals-have-had-a-really-good-run-on-australian-wealth",
+      "mean_score": 0.5425,
+      "vader_score": 0.8516,
+      "textblob_score": 0.2333,
+      "first_sentence": "Liberal frontbencher Andrew Hastie says he is open to a new 25% tax on soaring gas profits as part of a Scandinavian-style sovereign wealth fund to strengthen the federal budget amid the global energy crisis.",
+      "timestamp": "2026-03-26T01:00:22Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Camilla's love of books explored in BBC documentary",
       "link": "https://www.bbc.com/news/articles/c3w3e0jjx3xo?at_medium=RSS&at_campaign=rss",
@@ -2470,36 +2500,6 @@
       "first_sentence": "There are thousands of pictures of Shaun Ryder and Bez in Happy Mondays, from the mid- to late 80s, that run the gamut from mashed to wrecked.",
       "timestamp": "2026-03-18T05:00:23Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Venezuela win first World Baseball Classic title after taming USA in politically fraught final",
-      "link": "https://www.theguardian.com/sport/2026/mar/17/venezuela-beat-usa-wbc-final-suarez-trump-politics",
-      "mean_score": 0.4146,
-      "vader_score": 0.5859,
-      "textblob_score": 0.2433,
-      "first_sentence": "Venezuela defeated the United States 3-2 on Tuesday night to win their first World Baseball Classic title, a landmark triumph in a politically charged final that resonated far beyond the diamond.",
-      "timestamp": "2026-03-18T03:21:44Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Juliana Stratton wins Illinois Democratic Senate primary race",
-      "link": "https://www.theguardian.com/us-news/2026/mar/18/illinois-democratic-senate-primary-race-juliana-stratton",
-      "mean_score": 0.4609,
-      "vader_score": 0.5719,
-      "textblob_score": 0.35,
-      "first_sentence": "Illinois lieutenant governor Juliana Stratton won the Democratic primary race to succeed Illinois\u2019 US senator Dick Durbin in Washington, beating out US representative Raja Krishnamoorthi.",
-      "timestamp": "2026-03-18T02:44:05Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Why the B-52s are trading their Love Shack for Downton Abbey",
-      "link": "https://www.bbc.com/news/articles/cjen83lw25jo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5685,
-      "vader_score": 0.6369,
-      "textblob_score": 0.5,
-      "first_sentence": "If you see a faded sign at the side of the road that says, \"15 miles to the Love Shack,\" you know you're in for a good time.",
-      "timestamp": "2026-03-18T02:42:18Z",
-      "source": "BBC News"
     }
   ]
 }
