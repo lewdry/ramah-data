@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Urgent call to ensure all babies are born a healthy weight",
+    "link": "https://www.abc.net.au/news/2026-03-18/closing-the-gap-report-shows-little-progress-march-2026/106437910",
+    "mean_score": 0.6135,
+    "vader_score": 0.7269,
+    "textblob_score": 0.5,
+    "first_sentence": "The Productivity Commission's latest Closing the Gap data shows only four out of 19 targets are on track.",
+    "timestamp": "2026-03-18T11:31:34Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Top WNBA players set to make more than $1m a year after new CBA agreed in principle",
+    "link": "https://www.theguardian.com/sport/2026/mar/18/wnba-new-cba-player-salaries-basketball",
+    "mean_score": 0.4096,
+    "vader_score": 0.4404,
+    "textblob_score": 0.3788,
+    "first_sentence": "The WNBA and its players\u2019 union reached an agreement in principle on a new collective bargaining agreement early Wednesday morning.",
+    "timestamp": "2026-03-18T11:27:04Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "We asked experts about the most responsible ways to use AI tools \u2013 here\u2019s what they said",
+    "link": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/mar/18/how-to-use-ai-tools-expert-guide",
+    "mean_score": 0.3652,
+    "vader_score": 0.3804,
+    "textblob_score": 0.35,
+    "first_sentence": "Three years on from the release of ChatGPT, two broad camps have formed: those people who refuse to use it, and those who use it every day.",
+    "timestamp": "2026-03-18T11:00:40Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "The best cordless vacuum cleaners for a spotless home: 10 tried and tested favourites",
     "link": "https://www.theguardian.com/thefilter/2025/mar/28/best-cordless-vacuum-cleaners-uk",
     "mean_score": 0.5664,
