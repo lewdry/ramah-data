@@ -1,5 +1,55 @@
 [
   {
+    "headline": "\u2018My taste is superb. My eyes are exquisite\u2019: Dianne Wiest\u2019s 20 best film performances \u2013 ranked!",
+    "link": "https://www.theguardian.com/culture/2026/mar/19/dianne-wiest-20-best-film-performances-ranked",
+    "mean_score": 0.9311,
+    "vader_score": 0.8622,
+    "textblob_score": 1.0,
+    "first_sentence": "Every great performer should have at least one baffling movie on their CV, and this curio, produced by Ismail Merchant, is Dianne Wiest\u2019s.",
+    "timestamp": "2026-03-19T14:19:07Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Pr\u00edncipe Discos: how Black DJs from Lisbon\u2019s suburbs made Europe\u2019s most exciting record label",
+    "link": "https://www.theguardian.com/music/2026/mar/19/principe-record-label-lisbon-anniversary",
+    "mean_score": 0.3762,
+    "vader_score": 0.5413,
+    "textblob_score": 0.2111,
+    "first_sentence": "It\u2019s just after 11.30pm on a Friday in early March, and the air at Lux Fr\u00e1gil is already thick with excitement.",
+    "timestamp": "2026-03-19T14:01:41Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Record crowds, empty seats and the Matildas in a dream final: has the Women\u2019s Asian Cup been a success?",
+    "link": "https://www.theguardian.com/football/2026/mar/19/womens-asian-cup-australia-matildas-crowds-success",
+    "mean_score": 0.3247,
+    "vader_score": 0.5994,
+    "textblob_score": 0.05,
+    "first_sentence": "Sarah Walsh has heard the naysayers, heard the voices sniggering about half-empty stadiums and unsold tickets.",
+    "timestamp": "2026-03-19T14:00:53Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Show us your dome! Hot, balding, confident men are bringing sexy back | Rebecca Shaw",
+    "link": "https://www.theguardian.com/commentisfree/2026/mar/19/show-us-your-dome-sexy-bald-men",
+    "mean_score": 0.5483,
+    "vader_score": 0.784,
+    "textblob_score": 0.3125,
+    "first_sentence": "The Oscars were this week, and as usual I took the day off to judge the red carpet looks from my tracksuit pants-ed position on the couch, pick apart the monologue (love you Conan), declare I could write better presenter segments, and keep an eye on social media to see which stars cause the most buzz.",
+    "timestamp": "2026-03-19T14:00:52Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Striking gambit: Erling Haaland invests in new world chess championship",
+    "link": "https://www.theguardian.com/sport/2026/mar/19/striking-gambit-erling-haaland-invests-in-new-world-chess-championship",
+    "mean_score": 0.3793,
+    "vader_score": 0.4404,
+    "textblob_score": 0.3182,
+    "first_sentence": "Erling Haaland has become a significant investor in a new world chess championship tour that is expected to star his fellow Norwegian Magnus Carlsen, the Guardian can reveal.",
+    "timestamp": "2026-03-19T13:25:50Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "RFK Jr. makes food sound like a miracle drug. Researchers say he often overstates the science",
     "link": "https://apnews.com/article/robert-kennedy-diet-food-schizophrenia-bipolar-diabetes-914787992e743f588ef02ed33242536e",
     "mean_score": 0.5715,

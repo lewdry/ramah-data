@@ -1,6 +1,56 @@
 {
-  "last run": "2026-03-27T18:18:36Z",
+  "last run": "2026-03-27T21:11:45Z",
   "stories": [
+    {
+      "headline": "Progress on DHS funding stalls as polarized public opinion becomes more entrenched",
+      "link": "https://www.npr.org/2026/03/27/nx-s1-5763867/progress-on-dhs-funding-stalls-as-polarized-public-opinion-becomes-more-entrenched",
+      "mean_score": 0.3357,
+      "vader_score": 0.4215,
+      "textblob_score": 0.25,
+      "first_sentence": "Public support for Democrats and Republicans has hardened in recent months, leaving an increasingly narrow sliver of undecided voters.",
+      "timestamp": "2026-03-27T21:02:47Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "England v Uruguay: men\u2019s international football friendly \u2013 live",
+      "link": "https://www.theguardian.com/football/live/2026/mar/27/england-v-uruguay-mens-international-football-friendly-live",
+      "mean_score": 0.3322,
+      "vader_score": 0.4939,
+      "textblob_score": 0.1705,
+      "first_sentence": "58 min: Foden has gone straight down the tunnel, so England are taking no chances there.",
+      "timestamp": "2026-03-27T20:53:08Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Schools in England must be compelled to offer pupils healthy food, not junk",
+      "link": "https://www.theguardian.com/education/2026/mar/27/schools-england-must-offer-pupils-healthy-food-not-junk",
+      "mean_score": 0.4702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.5,
+      "first_sentence": "Almost a generation has passed since Jamie Oliver\u2019s four-part Channel 4 documentary series Jamie\u2019s School Dinners exposed the unhealthy reality of the food served to pupils at lunchtime, including \u2013 notoriously \u2013 fat-heavy, meat-light Turkey Twizzlers.",
+      "timestamp": "2026-03-27T18:48:55Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Is government intervention keeping LNG exporters on their 'best behaviour'?",
+      "link": "https://www.abc.net.au/news/2026-03-28/claims-gas-producers-best-behaviour-government-intervention/106501812",
+      "mean_score": 0.8185,
+      "vader_score": 0.6369,
+      "textblob_score": 1.0,
+      "first_sentence": "When Andrew Richards returned to work after a short break a couple of weeks ago, the world that existed before he went on leave had been turned on its head.",
+      "timestamp": "2026-03-27T18:43:27Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "\u2018Unapologetically schmaltzy\u2019: how Love Story became Disney+\u2019s most-streamed drama ever",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/mar/27/love-story-disney-plus-most-streamed-drama-ever-jfk-jr",
+      "mean_score": 0.5685,
+      "vader_score": 0.6369,
+      "textblob_score": 0.5,
+      "first_sentence": "The plane vanishes.",
+      "timestamp": "2026-03-27T18:24:14Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Vance holds first meeting of a new anti-fraud task force targeting benefit programs",
       "link": "https://apnews.com/article/vance-antifraud-task-force-45cc5786a3c84cf2190f3d312fcc3a6d",
@@ -2449,56 +2499,6 @@
       "textblob_score": 1.0,
       "first_sentence": "The Guardian\u2019s journalism is independent.",
       "timestamp": "2026-03-19T15:00:08Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018My taste is superb. My eyes are exquisite\u2019: Dianne Wiest\u2019s 20 best film performances \u2013 ranked!",
-      "link": "https://www.theguardian.com/culture/2026/mar/19/dianne-wiest-20-best-film-performances-ranked",
-      "mean_score": 0.9311,
-      "vader_score": 0.8622,
-      "textblob_score": 1.0,
-      "first_sentence": "Every great performer should have at least one baffling movie on their CV, and this curio, produced by Ismail Merchant, is Dianne Wiest\u2019s.",
-      "timestamp": "2026-03-19T14:19:07Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Pr\u00edncipe Discos: how Black DJs from Lisbon\u2019s suburbs made Europe\u2019s most exciting record label",
-      "link": "https://www.theguardian.com/music/2026/mar/19/principe-record-label-lisbon-anniversary",
-      "mean_score": 0.3762,
-      "vader_score": 0.5413,
-      "textblob_score": 0.2111,
-      "first_sentence": "It\u2019s just after 11.30pm on a Friday in early March, and the air at Lux Fr\u00e1gil is already thick with excitement.",
-      "timestamp": "2026-03-19T14:01:41Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Record crowds, empty seats and the Matildas in a dream final: has the Women\u2019s Asian Cup been a success?",
-      "link": "https://www.theguardian.com/football/2026/mar/19/womens-asian-cup-australia-matildas-crowds-success",
-      "mean_score": 0.3247,
-      "vader_score": 0.5994,
-      "textblob_score": 0.05,
-      "first_sentence": "Sarah Walsh has heard the naysayers, heard the voices sniggering about half-empty stadiums and unsold tickets.",
-      "timestamp": "2026-03-19T14:00:53Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Show us your dome! Hot, balding, confident men are bringing sexy back | Rebecca Shaw",
-      "link": "https://www.theguardian.com/commentisfree/2026/mar/19/show-us-your-dome-sexy-bald-men",
-      "mean_score": 0.5483,
-      "vader_score": 0.784,
-      "textblob_score": 0.3125,
-      "first_sentence": "The Oscars were this week, and as usual I took the day off to judge the red carpet looks from my tracksuit pants-ed position on the couch, pick apart the monologue (love you Conan), declare I could write better presenter segments, and keep an eye on social media to see which stars cause the most buzz.",
-      "timestamp": "2026-03-19T14:00:52Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Striking gambit: Erling Haaland invests in new world chess championship",
-      "link": "https://www.theguardian.com/sport/2026/mar/19/striking-gambit-erling-haaland-invests-in-new-world-chess-championship",
-      "mean_score": 0.3793,
-      "vader_score": 0.4404,
-      "textblob_score": 0.3182,
-      "first_sentence": "Erling Haaland has become a significant investor in a new world chess championship tour that is expected to star his fellow Norwegian Magnus Carlsen, the Guardian can reveal.",
-      "timestamp": "2026-03-19T13:25:50Z",
       "source": "The Guardian"
     }
   ]
