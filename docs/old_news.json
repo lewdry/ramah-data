@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Mum 'so proud' of deafblind son's Eastenders debut",
+    "link": "https://www.bbc.com/news/articles/c1kgk9pmpelo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.6383,
+    "vader_score": 0.4767,
+    "textblob_score": 0.8,
+    "first_sentence": "A mum whose five-year-old deafblind son has made his acting debut in Eastenders has said she is \"so proud\" of him and she hopes it will \"break down barriers\" for disabled children.",
+    "timestamp": "2026-03-19T08:40:51Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Live: Great Gunston gets Hawks home at the MCG",
+    "link": "https://www.abc.net.au/news/2026-03-19/afl-thursday-hawks-swans-blog/106474504",
+    "mean_score": 0.5465,
+    "vader_score": 0.6249,
+    "textblob_score": 0.4682,
+    "first_sentence": "Hawthorn finishes over the top of an understrength Sydney side to knock off the ladder-leaders at the MCG, thanks to a four-goal haul from Jack Gunston.",
+    "timestamp": "2026-03-19T07:58:32Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Better NHS care might have saved 58 babies, BBC finds",
     "link": "https://www.bbc.com/news/articles/cz9qq8d7l1ko?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.668,
@@ -1727,6 +1747,16 @@
     "textblob_score": 0.5,
     "first_sentence": "The first minister has pledged to spend more than \u00a3500m on boosting childcare provision if the SNP is re-elected in May.",
     "timestamp": "2026-03-14T16:42:33Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Lively, bold animated Spider-Man adventure",
+    "link": "https://www.bbc.co.uk/iplayer/episode/m002stnp?at_mid=4NWuGGi9Mj&at_campaign=Spiderman_Into_the_Spider_Verse&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002stnp&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Spiderman_Into_the_Spider_Verse&at_bbc_team=BBC",
+    "mean_score": 0.5558,
+    "vader_score": 0.7783,
+    "textblob_score": 0.3333,
+    "first_sentence": "Gaining powers like his hero Spider-Man puts teen Miles in danger, but he is not alone.",
+    "timestamp": "2026-03-14T15:41:00Z",
     "source": "BBC News"
   },
   {
