@@ -1,5 +1,45 @@
 [
   {
+    "headline": "'One of the greatest': Influential former judge dies weeks shy of 101st birthday",
+    "link": "https://www.abc.net.au/news/2026-03-19/nsw-sir-anthony-mason-chief-justice-dies/106471390",
+    "mean_score": 0.4468,
+    "vader_score": 0.7269,
+    "textblob_score": 0.1667,
+    "first_sentence": "Sir Anthony Mason, who presided as chief judge of the High Court between 1987 and 1995, has died aged 100.",
+    "timestamp": "2026-03-18T21:59:13Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Liverpool v Galatasaray, Spurs v Atl\u00e9tico Madrid and more: Champions League last-16 second legs \u2013 live",
+    "link": "https://www.theguardian.com/football/live/2026/mar/18/champions-league-last-16-liverpool-galatasaray-tottenham-atletico-madrid-live",
+    "mean_score": 0.3915,
+    "vader_score": 0.5709,
+    "textblob_score": 0.2121,
+    "first_sentence": "Spurs appeal for a foul on Simons in the buildup by the goalscorer \u2026 but the goal stands.",
+    "timestamp": "2026-03-18T20:58:55Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Live: EU president to visit Australia as sides inch closer to signing free trade deal",
+    "link": "https://www.abc.net.au/news/2026-03-19/federal-politics-live-blog-australia-europe/106471388",
+    "mean_score": 0.3894,
+    "vader_score": 0.5106,
+    "textblob_score": 0.2682,
+    "first_sentence": "EU President Ursula von der Leyen will visit Australia next week to meet with the prime minister as Australia inches closer to signing a free trade agreement with Europe.",
+    "timestamp": "2026-03-18T20:10:20Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "UConn teammates Sarah Strong and Azzi Fudd headline AP All-America first team",
+    "link": "https://apnews.com/article/ap-all-america-womens-college-basketball-team-8ea2e1062c77b55da2830d9ef7cc1997",
+    "mean_score": 0.4261,
+    "vader_score": 0.5106,
+    "textblob_score": 0.3417,
+    "first_sentence": "Sarah Strong and Azzi Fudd helped UConn to an undefeated season heading into March Madness.",
+    "timestamp": "2026-03-18T18:53:02Z",
+    "source": "AP News"
+  },
+  {
     "headline": "I didn\u2019t know how much I needed work until I lost it. But now I\u2019ve learned to love Mondays again | Adrian Chiles",
     "link": "https://www.theguardian.com/commentisfree/2026/mar/18/need-work-lost-it-learned-to-love-mondays-again",
     "mean_score": 0.5405,
