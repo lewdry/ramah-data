@@ -1,6 +1,46 @@
 {
-  "last run": "2026-03-27T06:26:17Z",
+  "last run": "2026-03-27T09:18:39Z",
   "stories": [
+    {
+      "headline": "Whale swims for freedom after big German rescue effort on Baltic coast",
+      "link": "https://www.bbc.com/news/articles/c9vlmxwk2jmo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4088,
+      "vader_score": 0.8176,
+      "textblob_score": 0.0,
+      "first_sentence": "A humpback whale has freed itself from a sandbank near the German coastal city of L\u00fcbeck, after a series of rescue attempts.",
+      "timestamp": "2026-03-27T09:12:03Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Self-taught chef wins MasterChef: The Professionals",
+      "link": "https://www.bbc.com/news/articles/cq6jgg0jzvlo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4359,
+      "vader_score": 0.5719,
+      "textblob_score": 0.3,
+      "first_sentence": "Spoiler warning.",
+      "timestamp": "2026-03-27T09:03:24Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Australia v Cameroon: Fifa Series international football friendly \u2013 live",
+      "link": "https://www.theguardian.com/football/live/2026/mar/27/australia-v-cameroon-live-match-updates-football",
+      "mean_score": 0.3322,
+      "vader_score": 0.4939,
+      "textblob_score": 0.1705,
+      "first_sentence": "5 mins: Jacob Italiano is off to a bright start as he takes his shot to claim a regular spot at right back.",
+      "timestamp": "2026-03-27T08:38:59Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Boy, 5, goes outside for first time since heart operation",
+      "link": "https://www.bbc.com/news/articles/c20dez2jq8eo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.381,
+      "vader_score": 0.6369,
+      "textblob_score": 0.125,
+      "first_sentence": "A five-year-old boy who has had five heart operations has taken his first steps outside a hospital building in weeks.",
+      "timestamp": "2026-03-27T06:39:42Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Benjamina Ebuehi\u2019s recipe for lemon lamington cake | The sweet spot",
       "link": "https://www.theguardian.com/food/2026/mar/27/lemon-lamington-cake-recipe-benjamina-ebuehi",
@@ -2460,46 +2500,6 @@
       "first_sentence": "Hawthorn finishes over the top of an understrength Sydney side to knock off the ladder-leaders at the MCG, thanks to a four-goal haul from Jack Gunston.",
       "timestamp": "2026-03-19T07:58:32Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Better NHS care might have saved 58 babies, BBC finds",
-      "link": "https://www.bbc.com/news/articles/cz9qq8d7l1ko?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.668,
-      "vader_score": 0.836,
-      "textblob_score": 0.5,
-      "first_sentence": "At least 58 babies at an NHS maternity unit might have survived with better care, a BBC investigation has found.",
-      "timestamp": "2026-03-19T07:47:55Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Aurora australis might soon be on display. Here's how to get the best view",
-      "link": "https://www.sbs.com.au/news/article/aurora-australis-southern-lights-where-and-when-to-watch/eumojobwa",
-      "mean_score": 0.8185,
-      "vader_score": 0.6369,
-      "textblob_score": 1.0,
-      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-      "timestamp": "2026-03-19T07:34:43Z",
-      "source": "SBS News"
-    },
-    {
-      "headline": "Mare by Emily Haworth-Booth review \u2013 profound story of a woman\u2019s love for a horse",
-      "link": "https://www.theguardian.com/books/2026/mar/19/mare-by-emily-haworth-booth-review-profound-story-of-a-womans-love-for-a-horse",
-      "mean_score": 0.4643,
-      "vader_score": 0.6369,
-      "textblob_score": 0.2917,
-      "first_sentence": "Mare, Emily Haworth-Booth\u2019s wonderful first novel for adults, is about a woman confronting three life-altering crises.",
-      "timestamp": "2026-03-19T07:00:01Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "We need to be honest about Iran \u2013 and how our rampant greed for oil is causing mayhem | George Monbiot",
-      "link": "https://www.theguardian.com/commentisfree/2026/mar/19/iran-greed-oil-capitalism-regimes",
-      "mean_score": 0.3765,
-      "vader_score": 0.1531,
-      "textblob_score": 0.6,
-      "first_sentence": "I realise this is a serious breach of etiquette.",
-      "timestamp": "2026-03-19T06:00:02Z",
-      "source": "The Guardian"
     }
   ]
 }

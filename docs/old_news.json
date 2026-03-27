@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Better NHS care might have saved 58 babies, BBC finds",
+    "link": "https://www.bbc.com/news/articles/cz9qq8d7l1ko?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.668,
+    "vader_score": 0.836,
+    "textblob_score": 0.5,
+    "first_sentence": "At least 58 babies at an NHS maternity unit might have survived with better care, a BBC investigation has found.",
+    "timestamp": "2026-03-19T07:47:55Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Aurora australis might soon be on display. Here's how to get the best view",
+    "link": "https://www.sbs.com.au/news/article/aurora-australis-southern-lights-where-and-when-to-watch/eumojobwa",
+    "mean_score": 0.8185,
+    "vader_score": 0.6369,
+    "textblob_score": 1.0,
+    "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+    "timestamp": "2026-03-19T07:34:43Z",
+    "source": "SBS News"
+  },
+  {
+    "headline": "Mare by Emily Haworth-Booth review \u2013 profound story of a woman\u2019s love for a horse",
+    "link": "https://www.theguardian.com/books/2026/mar/19/mare-by-emily-haworth-booth-review-profound-story-of-a-womans-love-for-a-horse",
+    "mean_score": 0.4643,
+    "vader_score": 0.6369,
+    "textblob_score": 0.2917,
+    "first_sentence": "Mare, Emily Haworth-Booth\u2019s wonderful first novel for adults, is about a woman confronting three life-altering crises.",
+    "timestamp": "2026-03-19T07:00:01Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "We need to be honest about Iran \u2013 and how our rampant greed for oil is causing mayhem | George Monbiot",
+    "link": "https://www.theguardian.com/commentisfree/2026/mar/19/iran-greed-oil-capitalism-regimes",
+    "mean_score": 0.3765,
+    "vader_score": 0.1531,
+    "textblob_score": 0.6,
+    "first_sentence": "I realise this is a serious breach of etiquette.",
+    "timestamp": "2026-03-19T06:00:02Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Night buses will run to every Greater Manchester borough as Bee Network expands",
     "link": "https://www.theguardian.com/uk-news/2026/mar/19/night-buses-to-run-every-greater-manchester-borough-bee-network-expansion",
     "mean_score": 0.4702,
