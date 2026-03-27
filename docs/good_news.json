@@ -1,6 +1,36 @@
 {
-  "last run": "2026-03-27T15:18:30Z",
+  "last run": "2026-03-27T18:18:36Z",
   "stories": [
+    {
+      "headline": "Vance holds first meeting of a new anti-fraud task force targeting benefit programs",
+      "link": "https://apnews.com/article/vance-antifraud-task-force-45cc5786a3c84cf2190f3d312fcc3a6d",
+      "mean_score": 0.326,
+      "vader_score": 0.4588,
+      "textblob_score": 0.1932,
+      "first_sentence": "Vice President JD Vance announces Wednesday that the Trump administration will \u201ctemporarily halt\u201d some Medicaid funding to the state of Minnesota over fraud concerns, as part of what he described as an aggressive crackdown on misuse of public funds.",
+      "timestamp": "2026-03-27T16:53:02Z",
+      "source": "AP News"
+    },
+    {
+      "headline": "Whale stranded off Germany swims to freedom after days of efforts to save it",
+      "link": "https://www.theguardian.com/world/2026/mar/27/whale-stranded-germany-free-rescue",
+      "mean_score": 0.4063,
+      "vader_score": 0.8126,
+      "textblob_score": 0.0,
+      "first_sentence": "A humpback whale stranded on Germany\u2019s Baltic Sea coast since early this week has freed itself and swum into deeper waters, rescuers said on Friday.",
+      "timestamp": "2026-03-27T16:35:13Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "No one is happy with NASA's new idea for private space stations",
+      "link": "https://arstechnica.com/space/2026/03/what-happens-next-with-nasas-plan-to-replace-the-iss-source-it-could-get-ugly/",
+      "mean_score": 0.3367,
+      "vader_score": 0.3612,
+      "textblob_score": 0.3121,
+      "first_sentence": "Most elements of a major NASA event this week that laid out spaceflight plans for the coming decade were well received: a Moon base, a focus on less talk and more action, and working with industry to streamline regulations so increased innovation can propel the United States further into space.",
+      "timestamp": "2026-03-27T15:42:35Z",
+      "source": "Ars Technica"
+    },
     {
       "headline": "Less stuff, more joy: seven lessons from \u2018enoughfluencers\u2019 on how to live a happier, simpler life",
       "link": "https://www.theguardian.com/lifeandstyle/2026/mar/27/lessons-from-enoughfluencers-how-to-live-happier-simpler-life",
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.3182,
       "first_sentence": "Erling Haaland has become a significant investor in a new world chess championship tour that is expected to star his fellow Norwegian Magnus Carlsen, the Guardian can reveal.",
       "timestamp": "2026-03-19T13:25:50Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "RFK Jr. makes food sound like a miracle drug. Researchers say he often overstates the science",
-      "link": "https://apnews.com/article/robert-kennedy-diet-food-schizophrenia-bipolar-diabetes-914787992e743f588ef02ed33242536e",
-      "mean_score": 0.5715,
-      "vader_score": 0.743,
-      "textblob_score": 0.4,
-      "first_sentence": "In the Trump administration\u2019s campaign to promote healthy eating, Robert F.",
-      "timestamp": "2026-03-19T13:23:02Z",
-      "source": "AP News"
-    },
-    {
-      "headline": "The housing charity helping key workers stay local",
-      "link": "https://www.bbc.com/news/articles/c0rjkr9d9ywo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3062,
-      "vader_score": 0.6124,
-      "textblob_score": 0.0,
-      "first_sentence": "A housing organisation that offers key workers affordable rental properties has celebrated 20 years since it was founded.",
-      "timestamp": "2026-03-19T12:45:55Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Underscores: U review \u2013 ultra-imaginative auteur has pop\u2019s most brilliant brain",
-      "link": "https://www.theguardian.com/music/2026/mar/19/underscores-u-album-review-april-grey-ultra-imaginative-auteur-has-pops-most-brilliant-brain",
-      "mean_score": 0.662,
-      "vader_score": 0.624,
-      "textblob_score": 0.7,
-      "first_sentence": "April Grey is a US bedroom producer beloved of an impressive range of other artists \u2013 experimental pop duo 100 Gecs are fans, so is rapper Danny Brown and Blink-182 drummer Travis Barker \u2013 but thus far it\u2019s been hard to accurately pin her down.",
-      "timestamp": "2026-03-19T12:45:49Z",
       "source": "The Guardian"
     }
   ]
