@@ -1,5 +1,55 @@
 [
   {
+    "headline": "Night buses will run to every Greater Manchester borough as Bee Network expands",
+    "link": "https://www.theguardian.com/uk-news/2026/mar/19/night-buses-to-run-every-greater-manchester-borough-bee-network-expansion",
+    "mean_score": 0.4702,
+    "vader_score": 0.4404,
+    "textblob_score": 0.5,
+    "first_sentence": "Night buses will run to every borough in Greater Manchester as the city region expands its publicly controlled Bee Network.",
+    "timestamp": "2026-03-19T06:00:01Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Last One Laughing UK review \u2013 the funniest TV show of the year",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/mar/19/last-one-laughing-uk-review-the-funniest-tv-show-of-the-year",
+    "mean_score": 0.3891,
+    "vader_score": 0.7783,
+    "textblob_score": 0.0,
+    "first_sentence": "It could easily have been a fluke.",
+    "timestamp": "2026-03-19T05:00:59Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Lizzy Hoo's surprising love of Mongolian indie rock",
+    "link": "https://www.abc.net.au/news/2026-03-19/lizzy-hoo-mongolia-take-5-podcast/106468644",
+    "mean_score": 0.5715,
+    "vader_score": 0.743,
+    "textblob_score": 0.4,
+    "first_sentence": "Australian comedian Lizzy Hoo loves an adventure, a trait she reckons she inherited from her mum, who left Toowoomba to go backpacking in the 70s.",
+    "timestamp": "2026-03-19T04:34:57Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Ryan Gosling on bringing humour to sci-fi adventure Project Hail Mary",
+    "link": "https://www.bbc.com/news/articles/cm2xrxp3kz0o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3454,
+    "vader_score": 0.6908,
+    "textblob_score": 0.0,
+    "first_sentence": "Humour and science fiction may not seem obvious bedfellows but a history of cinema will tell you different.",
+    "timestamp": "2026-03-19T00:53:59Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Check mates: analysis of medieval chess sets reveal vision of equality and mutual respect",
+    "link": "https://www.theguardian.com/world/2026/mar/19/medieval-chess-set-equality-respect",
+    "mean_score": 0.3125,
+    "vader_score": 0.6249,
+    "textblob_score": 0.0,
+    "first_sentence": "On the chessboard, black and white pieces are lined up against each other for an unrelenting battle.",
+    "timestamp": "2026-03-19T00:01:53Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "'One of the greatest': Influential former judge dies weeks shy of 101st birthday",
     "link": "https://www.abc.net.au/news/2026-03-19/nsw-sir-anthony-mason-chief-justice-dies/106471390",
     "mean_score": 0.4468,

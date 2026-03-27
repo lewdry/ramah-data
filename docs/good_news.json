@@ -1,6 +1,56 @@
 {
-  "last run": "2026-03-27T03:58:04Z",
+  "last run": "2026-03-27T06:26:17Z",
   "stories": [
+    {
+      "headline": "Benjamina Ebuehi\u2019s recipe for lemon lamington cake | The sweet spot",
+      "link": "https://www.theguardian.com/food/2026/mar/27/lemon-lamington-cake-recipe-benjamina-ebuehi",
+      "mean_score": 0.4044,
+      "vader_score": 0.4588,
+      "textblob_score": 0.35,
+      "first_sentence": "I think lamingtons should be much more popular than they are on this side of the world.",
+      "timestamp": "2026-03-27T06:00:07Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "More than 6m vapes and pods discarded weekly in UK despite single-use ban, study finds",
+      "link": "https://www.theguardian.com/society/2026/mar/27/vapes-pods-waste-uk-recycling-disposable-single-use-ban",
+      "mean_score": 0.317,
+      "vader_score": 0.1341,
+      "textblob_score": 0.5,
+      "first_sentence": "More than 6m vapes and vape pods are still being discarded every week in the UK, with waste management companies warning the sheer volume continues to strain recycling systems despite the ban on disposable e-cigarettes.",
+      "timestamp": "2026-03-27T06:00:05Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Australia news live: One Nation wins second seat in South Australia, ABC projects; high winds and large surf expected along NSW coast",
+      "link": "https://www.theguardian.com/australia-news/live/2026/mar/27/tropical-cyclone-narelle-fuel-crisis-petrol-cost-of-living-inflation-iran-war-storm-anthony-albanese-angus-taylor-ntwnfb",
+      "mean_score": 0.3452,
+      "vader_score": 0.5719,
+      "textblob_score": 0.1184,
+      "first_sentence": "One Nation has secured a second seat in South Australia, the ABC is projecting.",
+      "timestamp": "2026-03-27T05:50:51Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Progressive Paris has many weapons to fight the far right, but the best? Spaces where you can simply hang out | Alexander Hurst",
+      "link": "https://www.theguardian.com/commentisfree/2026/mar/27/progressive-paris-far-right-french-capital-food-culture-community-extremists",
+      "mean_score": 0.4979,
+      "vader_score": 0.6187,
+      "textblob_score": 0.3771,
+      "first_sentence": "Paris\u2019s success in removing cars from its streets has been more widely praised than its progress in opening up mixed-use spaces.",
+      "timestamp": "2026-03-27T05:00:04Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "A surprise resignation could open the door for an independent to win a Montana Senate seat",
+      "link": "https://www.npr.org/2026/03/27/nx-s1-5752350/a-surprise-resignation-could-open-the-door-for-an-independent-to-win-a-montana-senate-seat",
+      "mean_score": 0.4193,
+      "vader_score": 0.5719,
+      "textblob_score": 0.2667,
+      "first_sentence": "BUTTE, Mont.",
+      "timestamp": "2026-03-27T04:01:00Z",
+      "source": "NPR News"
+    },
     {
       "headline": "The spiky cactus fruit giving Indian farmers a cash boost",
       "link": "https://www.bbc.com/news/articles/c3ewyyjjzkwo?at_medium=RSS&at_campaign=rss",
@@ -2449,56 +2499,6 @@
       "textblob_score": 0.6,
       "first_sentence": "I realise this is a serious breach of etiquette.",
       "timestamp": "2026-03-19T06:00:02Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Night buses will run to every Greater Manchester borough as Bee Network expands",
-      "link": "https://www.theguardian.com/uk-news/2026/mar/19/night-buses-to-run-every-greater-manchester-borough-bee-network-expansion",
-      "mean_score": 0.4702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.5,
-      "first_sentence": "Night buses will run to every borough in Greater Manchester as the city region expands its publicly controlled Bee Network.",
-      "timestamp": "2026-03-19T06:00:01Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Last One Laughing UK review \u2013 the funniest TV show of the year",
-      "link": "https://www.theguardian.com/tv-and-radio/2026/mar/19/last-one-laughing-uk-review-the-funniest-tv-show-of-the-year",
-      "mean_score": 0.3891,
-      "vader_score": 0.7783,
-      "textblob_score": 0.0,
-      "first_sentence": "It could easily have been a fluke.",
-      "timestamp": "2026-03-19T05:00:59Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Lizzy Hoo's surprising love of Mongolian indie rock",
-      "link": "https://www.abc.net.au/news/2026-03-19/lizzy-hoo-mongolia-take-5-podcast/106468644",
-      "mean_score": 0.5715,
-      "vader_score": 0.743,
-      "textblob_score": 0.4,
-      "first_sentence": "Australian comedian Lizzy Hoo loves an adventure, a trait she reckons she inherited from her mum, who left Toowoomba to go backpacking in the 70s.",
-      "timestamp": "2026-03-19T04:34:57Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Ryan Gosling on bringing humour to sci-fi adventure Project Hail Mary",
-      "link": "https://www.bbc.com/news/articles/cm2xrxp3kz0o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3454,
-      "vader_score": 0.6908,
-      "textblob_score": 0.0,
-      "first_sentence": "Humour and science fiction may not seem obvious bedfellows but a history of cinema will tell you different.",
-      "timestamp": "2026-03-19T00:53:59Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Check mates: analysis of medieval chess sets reveal vision of equality and mutual respect",
-      "link": "https://www.theguardian.com/world/2026/mar/19/medieval-chess-set-equality-respect",
-      "mean_score": 0.3125,
-      "vader_score": 0.6249,
-      "textblob_score": 0.0,
-      "first_sentence": "On the chessboard, black and white pieces are lined up against each other for an unrelenting battle.",
-      "timestamp": "2026-03-19T00:01:53Z",
       "source": "The Guardian"
     }
   ]
