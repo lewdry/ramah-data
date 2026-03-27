@@ -1,5 +1,45 @@
 [
   {
+    "headline": "I didn\u2019t know how much I needed work until I lost it. But now I\u2019ve learned to love Mondays again | Adrian Chiles",
+    "link": "https://www.theguardian.com/commentisfree/2026/mar/18/need-work-lost-it-learned-to-love-mondays-again",
+    "mean_score": 0.5405,
+    "vader_score": 0.7311,
+    "textblob_score": 0.35,
+    "first_sentence": "I do like Mondays.",
+    "timestamp": "2026-03-18T18:06:37Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Famous Iditarod dog sled race ends in repeat win for Jessie Holmes",
+    "link": "https://www.bbc.com/news/videos/cyv9v5dld42o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.6179,
+    "vader_score": 0.5859,
+    "textblob_score": 0.65,
+    "first_sentence": "Jessie Holmes has won his second consecutive Iditarod Trail Sled Dog Race in Nome, Alaska.",
+    "timestamp": "2026-03-18T17:54:14Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Mamdani put Ramadan at the center of NYC's cultural life, bringing joy -- and a backlash",
+    "link": "https://www.npr.org/2026/03/18/nx-s1-5751787/mamdani-put-ramadan-at-the-center-of-nycs-cultural-life-bringing-joy-and-a-backlash",
+    "mean_score": 0.4263,
+    "vader_score": 0.5859,
+    "textblob_score": 0.2667,
+    "first_sentence": "When Mayor Zohran Mamdani took the stage at the Museum of the City of New York last week, he was surrounded by city workers invited to share iftar, the dinner held after sunset to break the daily Ramadan fast.",
+    "timestamp": "2026-03-18T16:38:37Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "Farage called for release of Sean \u2018Diddy\u2019 Combs and praised effort to free drug trafficker",
+    "link": "https://www.theguardian.com/uk-news/ng-interactive/2026/mar/18/farage-called-release-sean-diddy-combs-praised-effort-free-drug-trafficker",
+    "mean_score": 0.579,
+    "vader_score": 0.7579,
+    "textblob_score": 0.4,
+    "first_sentence": "Nigel Farage called for the release of the imprisoned rapper Sean \u201cDiddy\u201d Combs and commended the efforts to free a former Honduran president jailed in the US for drug trafficking.",
+    "timestamp": "2026-03-18T16:00:43Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "\u2018Prince laughed like a kid as I painted \u201cFree\u201d on his stomach\u2019: Steve Parke\u2019s best photograph",
     "link": "https://www.theguardian.com/artanddesign/2026/mar/18/prince-free-stomach-steve-parkes-best-photograph",
     "mean_score": 0.7829,
