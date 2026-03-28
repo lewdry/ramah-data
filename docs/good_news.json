@@ -1,6 +1,56 @@
 {
-  "last run": "2026-03-28T03:49:02Z",
+  "last run": "2026-03-28T06:21:01Z",
   "stories": [
+    {
+      "headline": "Formula One 2026: Japanese Grand Prix qualifying \u2013 live",
+      "link": "https://www.theguardian.com/sport/live/2026/mar/28/formula-one-2026-japanese-grand-prix-qualifying-live",
+      "mean_score": 0.3355,
+      "vader_score": 0.4588,
+      "textblob_score": 0.2121,
+      "first_sentence": "We have our elimination list: Albon, Bearman, Perez, Bottas, Alonso and Stroll.",
+      "timestamp": "2026-03-28T06:08:06Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Blind date: \u2018It was truly a great first date\u2019",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/mar/28/blind-date-adam-tina",
+      "mean_score": 0.416,
+      "vader_score": 0.6486,
+      "textblob_score": 0.1833,
+      "first_sentence": "What were you hoping for?\n Good food, good company and hopefully a bit of romance.",
+      "timestamp": "2026-03-28T06:00:21Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Cambridge offers botany course that inspired Darwin after rare archive uncovered",
+      "link": "https://www.theguardian.com/environment/2026/mar/28/cambridge-university-botany-course-charles-darwin-john-stevens-henslow",
+      "mean_score": 0.3469,
+      "vader_score": 0.4939,
+      "textblob_score": 0.2,
+      "first_sentence": "Plant specimens and teaching materials that inspired Charles Darwin and qualified him to work as a naturalist on HMS Beagle have been unearthed from an archive in Cambridge and will be used for the first time to teach contemporary students about botany.",
+      "timestamp": "2026-03-28T06:00:20Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Can Vinted help me look more gen Z? The Becky Barnicoat cartoon",
+      "link": "https://www.theguardian.com/lifeandstyle/picture/2026/mar/28/can-vinted-help-me-look-more-gen-z-becky-barnicoat-cartoon",
+      "mean_score": 0.4509,
+      "vader_score": 0.4019,
+      "textblob_score": 0.5,
+      "first_sentence": "Continue reading.",
+      "timestamp": "2026-03-28T06:00:19Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "'Like winning lotto': Medicare owes money to almost one million Aussies",
+      "link": "https://www.abc.net.au/news/2026-03-28/medicare-rebates-bank-details-services-australia/106503810",
+      "mean_score": 0.6048,
+      "vader_score": 0.7096,
+      "textblob_score": 0.5,
+      "first_sentence": "More than 300 Australians are owed $10,000 or more from Medicare as part of a $272 million pool of unclaimed money.",
+      "timestamp": "2026-03-28T03:51:51Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Labor to underwrite Australian fuel imports under new security powers to ensure supply",
       "link": "https://www.theguardian.com/australia-news/2026/mar/28/anthony-albanese-chris-bowen-fuel-security-powers-oil-crisis-petrol-diesel-prices",
@@ -2449,56 +2499,6 @@
       "textblob_score": 0.4,
       "first_sentence": "The Natural History Museum was the UK's most popular tourist attraction in 2025, breaking the record for the most visitors to any museum or gallery in a single year.",
       "timestamp": "2026-03-20T00:05:07Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Natural History Museum tops UK attraction list with record visitors",
-      "link": "https://www.theguardian.com/culture/2026/mar/20/natural-history-museum-tops-uk-attraction-list-with-record-visitors",
-      "mean_score": 0.4658,
-      "vader_score": 0.8316,
-      "textblob_score": 0.1,
-      "first_sentence": "London\u2019s Natural History Museum (NHM) was the most popular attraction in the UK during 2025, with its renovated gardens, new climate gallery and lack of entry fee leading to record-breaking numbers of visitors.",
-      "timestamp": "2026-03-20T00:01:04Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "High Point\u2019s upset of Wisconsin ends the hope of a perfect March Madness bracket for millions",
-      "link": "https://apnews.com/article/march-madness-ncaa-tournament-4523b2747fb71d73c1ab8bee2134e666",
-      "mean_score": 0.4266,
-      "vader_score": 0.2732,
-      "textblob_score": 0.58,
-      "first_sentence": "Well, the dream was fun while it lasted .",
-      "timestamp": "2026-03-19T21:23:02Z",
-      "source": "AP News"
-    },
-    {
-      "headline": "Xavier Edmonds\u2019 layup with 4.3 seconds left lifts TCU to 66-64 March Madness win over Ohio State",
-      "link": "https://apnews.com/article/tcu-ohio-state-score-march-madness-c2d8c7a561d1bfb176cac8feafd24eba",
-      "mean_score": 0.3132,
-      "vader_score": 0.2263,
-      "textblob_score": 0.4,
-      "first_sentence": "GREENVILLE, S.C.",
-      "timestamp": "2026-03-19T19:53:02Z",
-      "source": "AP News"
-    },
-    {
-      "headline": "Concerns over super balances as around $250b wiped off Australian share market",
-      "link": "https://www.abc.net.au/news/2026-03-20/middle-east-war-australian-superannuation-funds/106468230",
-      "mean_score": 0.4468,
-      "vader_score": 0.7269,
-      "textblob_score": 0.1667,
-      "first_sentence": "The war in the Middle East is escalating with more attacks on critical energy infrastructure.",
-      "timestamp": "2026-03-19T18:49:12Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Huge queues for jabs as meningitis vaccination scheme expanded",
-      "link": "https://www.bbc.com/news/articles/cwyk44px2j5o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3591,
-      "vader_score": 0.3182,
-      "textblob_score": 0.4,
-      "first_sentence": "A meningitis vaccination programme has been expanded following a deadly outbreak in Kent - with university students queuing for hours for jabs.",
-      "timestamp": "2026-03-19T18:09:26Z",
       "source": "BBC News"
     }
   ]

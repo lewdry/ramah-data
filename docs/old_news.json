@@ -1,5 +1,55 @@
 [
   {
+    "headline": "Natural History Museum tops UK attraction list with record visitors",
+    "link": "https://www.theguardian.com/culture/2026/mar/20/natural-history-museum-tops-uk-attraction-list-with-record-visitors",
+    "mean_score": 0.4658,
+    "vader_score": 0.8316,
+    "textblob_score": 0.1,
+    "first_sentence": "London\u2019s Natural History Museum (NHM) was the most popular attraction in the UK during 2025, with its renovated gardens, new climate gallery and lack of entry fee leading to record-breaking numbers of visitors.",
+    "timestamp": "2026-03-20T00:01:04Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "High Point\u2019s upset of Wisconsin ends the hope of a perfect March Madness bracket for millions",
+    "link": "https://apnews.com/article/march-madness-ncaa-tournament-4523b2747fb71d73c1ab8bee2134e666",
+    "mean_score": 0.4266,
+    "vader_score": 0.2732,
+    "textblob_score": 0.58,
+    "first_sentence": "Well, the dream was fun while it lasted .",
+    "timestamp": "2026-03-19T21:23:02Z",
+    "source": "AP News"
+  },
+  {
+    "headline": "Xavier Edmonds\u2019 layup with 4.3 seconds left lifts TCU to 66-64 March Madness win over Ohio State",
+    "link": "https://apnews.com/article/tcu-ohio-state-score-march-madness-c2d8c7a561d1bfb176cac8feafd24eba",
+    "mean_score": 0.3132,
+    "vader_score": 0.2263,
+    "textblob_score": 0.4,
+    "first_sentence": "GREENVILLE, S.C.",
+    "timestamp": "2026-03-19T19:53:02Z",
+    "source": "AP News"
+  },
+  {
+    "headline": "Concerns over super balances as around $250b wiped off Australian share market",
+    "link": "https://www.abc.net.au/news/2026-03-20/middle-east-war-australian-superannuation-funds/106468230",
+    "mean_score": 0.4468,
+    "vader_score": 0.7269,
+    "textblob_score": 0.1667,
+    "first_sentence": "The war in the Middle East is escalating with more attacks on critical energy infrastructure.",
+    "timestamp": "2026-03-19T18:49:12Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Huge queues for jabs as meningitis vaccination scheme expanded",
+    "link": "https://www.bbc.com/news/articles/cwyk44px2j5o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3591,
+    "vader_score": 0.3182,
+    "textblob_score": 0.4,
+    "first_sentence": "A meningitis vaccination programme has been expanded following a deadly outbreak in Kent - with university students queuing for hours for jabs.",
+    "timestamp": "2026-03-19T18:09:26Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Afroman keeps trolling cops after winning \u201cLemon Pound Cake\u201d defamation case",
     "link": "https://arstechnica.com/tech-policy/2026/03/afroman-keeps-trolling-cops-after-winning-lemon-pound-cake-defamation-case/",
     "mean_score": 0.5133,
