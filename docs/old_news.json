@@ -1,5 +1,55 @@
 [
   {
+    "headline": "Live: Bulldog Baker's brilliant goal seals thrilling win over fast-finishing Crows",
+    "link": "https://www.abc.net.au/news/2026-03-20/afl-round-two-friday-live-blog-crows-bulldogs/106479850",
+    "mean_score": 0.7075,
+    "vader_score": 0.8934,
+    "textblob_score": 0.5216,
+    "first_sentence": "The Western Bulldogs have hung on to claim a thrilling six-point win over Adelaide, with a brilliant Oskar Baker goal clinching the win as the Crows stormed home.",
+    "timestamp": "2026-03-20T07:58:49Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Giddey sets new Aussie NBA record as Bulls fall short of miracle comeback",
+    "link": "https://www.abc.net.au/news/2026-03-20/nba-josh-giddey-assists-record-doncic-60-points-lakers-heat/106480240",
+    "mean_score": 0.327,
+    "vader_score": 0.5859,
+    "textblob_score": 0.0682,
+    "first_sentence": "Josh Giddey has recorded a career-high 19 assists in a loss to Cleveland, the most by an Australian in a single NBA game.",
+    "timestamp": "2026-03-20T07:37:28Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Brisbane pull off grand final repeat in rematch with Storm",
+    "link": "https://www.abc.net.au/news/2026-03-20/nrl-live-updates-roosters-panthers-storm-broncos-/106480150",
+    "mean_score": 0.3544,
+    "vader_score": 0.4588,
+    "textblob_score": 0.25,
+    "first_sentence": "Brisbane have inflicted another second-half nightmare on the Storm, roaring back to win their grand final replay 18-14 in Melbourne to secure their first points of the NRL season.",
+    "timestamp": "2026-03-20T06:35:06Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "More than 1,600 new gas wells approved for rural Queensland until 2081",
+    "link": "https://www.abc.net.au/news/2026-03-20/federal-government-approves-1695-gas-wells-in-rural-queensland/106462828",
+    "mean_score": 0.399,
+    "vader_score": 0.5859,
+    "textblob_score": 0.2121,
+    "first_sentence": "The federal government has approved more than 1,600 new gas wells for rural Queensland until 2081.",
+    "timestamp": "2026-03-20T06:27:53Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Social supermarket praise for Comic Relief support",
+    "link": "https://www.bbc.com/news/articles/c9q5qypz5w8o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4986,
+    "vader_score": 0.8555,
+    "textblob_score": 0.1417,
+    "first_sentence": "The former teaching assistant and her husband found themselves out of work because of ill health and were on benefits.",
+    "timestamp": "2026-03-20T06:11:18Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Helen Goh\u2019s recipe for peanut and blackcurrant thumbprint cookies | The sweet spot",
     "link": "https://www.theguardian.com/food/2026/mar/20/peanut-and-blackcurrant-thumbprint-cookies-recipe-helen-goh",
     "mean_score": 0.4044,

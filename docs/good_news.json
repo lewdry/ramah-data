@@ -1,6 +1,56 @@
 {
-  "last run": "2026-03-28T18:08:39Z",
+  "last run": "2026-03-28T21:07:57Z",
   "stories": [
+    {
+      "headline": "Frosting, sprinkles and layers of fun: Giant cake picnic hits Sydney",
+      "link": "https://www.bbc.com/news/articles/c1w40dy58vwo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3303,
+      "vader_score": 0.5106,
+      "textblob_score": 0.15,
+      "first_sentence": "It's the viral event that's already sold out dates in San Francisco, New York and Los Angeles.",
+      "timestamp": "2026-03-28T21:04:30Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Public transport to be free for Victorians in April",
+      "link": "https://www.abc.net.au/news/2026-03-29/free-public-transport-april-victoria-fuel-prices-cost-of-living/106506974",
+      "mean_score": 0.3553,
+      "vader_score": 0.5106,
+      "textblob_score": 0.2,
+      "first_sentence": "Public transport will be free in Victoria across metropolitan and V/Line services in the month of April.",
+      "timestamp": "2026-03-28T20:01:05Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "The moment I knew: It felt like the end of the world \u2013 then he smiled at me on the dancefloor",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/mar/28/moment-knew-adelaide-fringe-dancefloor",
+      "mean_score": 0.6592,
+      "vader_score": 0.7184,
+      "textblob_score": 0.6,
+      "first_sentence": "I met Harley at the Adelaide Fringe festival in 2020.",
+      "timestamp": "2026-03-28T19:00:37Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Two in five Australian GPs use AI scribes to record patient notes \u2013 but do they trade care for convenience?",
+      "link": "https://www.theguardian.com/australia-news/2026/mar/29/doctors-using-ai-for-notes-australia",
+      "mean_score": 0.3243,
+      "vader_score": 0.6486,
+      "textblob_score": 0.0,
+      "first_sentence": "According to an online poll by the Royal Australian College of GPs (RACGP), use of AI scribes by doctors in Australia nearly doubled from 22% in August 2024 to 40% in November 2025.",
+      "timestamp": "2026-03-28T19:00:36Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Obongjayar is the genre-defying Nigerian star challenging stereotypes",
+      "link": "https://www.abc.net.au/news/2026-03-29/obongjayar-paradise-now-australia-fred-again-little-simz-nigeria/106489772",
+      "mean_score": 0.3266,
+      "vader_score": 0.1531,
+      "textblob_score": 0.5,
+      "first_sentence": "Obongjayar understands the wisdom of the old saying that variety is the spice of life.",
+      "timestamp": "2026-03-28T18:30:00Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Arsenal v Tottenham: Women\u2019s Super League \u2013 live",
       "link": "https://www.theguardian.com/football/live/2026/mar/28/arsenal-v-tottenham-womens-super-league-live",
@@ -2450,56 +2500,6 @@
       "first_sentence": "Once upon a time, I worked as a local reporter in small-town Montana.",
       "timestamp": "2026-03-20T09:03:14Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Live: Bulldog Baker's brilliant goal seals thrilling win over fast-finishing Crows",
-      "link": "https://www.abc.net.au/news/2026-03-20/afl-round-two-friday-live-blog-crows-bulldogs/106479850",
-      "mean_score": 0.7075,
-      "vader_score": 0.8934,
-      "textblob_score": 0.5216,
-      "first_sentence": "The Western Bulldogs have hung on to claim a thrilling six-point win over Adelaide, with a brilliant Oskar Baker goal clinching the win as the Crows stormed home.",
-      "timestamp": "2026-03-20T07:58:49Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Giddey sets new Aussie NBA record as Bulls fall short of miracle comeback",
-      "link": "https://www.abc.net.au/news/2026-03-20/nba-josh-giddey-assists-record-doncic-60-points-lakers-heat/106480240",
-      "mean_score": 0.327,
-      "vader_score": 0.5859,
-      "textblob_score": 0.0682,
-      "first_sentence": "Josh Giddey has recorded a career-high 19 assists in a loss to Cleveland, the most by an Australian in a single NBA game.",
-      "timestamp": "2026-03-20T07:37:28Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Brisbane pull off grand final repeat in rematch with Storm",
-      "link": "https://www.abc.net.au/news/2026-03-20/nrl-live-updates-roosters-panthers-storm-broncos-/106480150",
-      "mean_score": 0.3544,
-      "vader_score": 0.4588,
-      "textblob_score": 0.25,
-      "first_sentence": "Brisbane have inflicted another second-half nightmare on the Storm, roaring back to win their grand final replay 18-14 in Melbourne to secure their first points of the NRL season.",
-      "timestamp": "2026-03-20T06:35:06Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "More than 1,600 new gas wells approved for rural Queensland until 2081",
-      "link": "https://www.abc.net.au/news/2026-03-20/federal-government-approves-1695-gas-wells-in-rural-queensland/106462828",
-      "mean_score": 0.399,
-      "vader_score": 0.5859,
-      "textblob_score": 0.2121,
-      "first_sentence": "The federal government has approved more than 1,600 new gas wells for rural Queensland until 2081.",
-      "timestamp": "2026-03-20T06:27:53Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Social supermarket praise for Comic Relief support",
-      "link": "https://www.bbc.com/news/articles/c9q5qypz5w8o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4986,
-      "vader_score": 0.8555,
-      "textblob_score": 0.1417,
-      "first_sentence": "The former teaching assistant and her husband found themselves out of work because of ill health and were on benefits.",
-      "timestamp": "2026-03-20T06:11:18Z",
-      "source": "BBC News"
     }
   ]
 }
