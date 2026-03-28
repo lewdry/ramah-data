@@ -1,6 +1,36 @@
 {
-  "last run": "2026-03-27T21:11:45Z",
+  "last run": "2026-03-28T00:21:05Z",
   "stories": [
+    {
+      "headline": "Labor to underwrite Australian fuel imports under new security powers to ensure supply",
+      "link": "https://www.theguardian.com/australia-news/2026/mar/28/anthony-albanese-chris-bowen-fuel-security-powers-oil-crisis-petrol-diesel-prices",
+      "mean_score": 0.3403,
+      "vader_score": 0.6124,
+      "textblob_score": 0.0682,
+      "first_sentence": "The Australian government will take on the financial risk of importing essential products affected by the war in the Middle East to get additional supplies of petrol, diesel, and fertiliser into the country.",
+      "timestamp": "2026-03-27T23:28:11Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Playing Wolfenstein 3D with one hand in 2026",
+      "link": "https://arstechnica.com/gaming/2026/03/playing-wolfenstein-3d-with-one-hand-in-2026/",
+      "mean_score": 0.3062,
+      "vader_score": 0.6124,
+      "textblob_score": 0.0,
+      "first_sentence": "Once or twice a month, we\u2019ll publish a personal retrospective like this one, where we\u2019ll feature one of the games from the list\u2014perhaps a retro game you\u2019ve heard of, perhaps a modern title you missed.",
+      "timestamp": "2026-03-27T22:09:00Z",
+      "source": "Ars Technica"
+    },
+    {
+      "headline": "Five Great Reads: Imran Khan, Sylvia Plath and the Melbourne man with more than 20,000 books",
+      "link": "https://www.theguardian.com/australia-news/2026/mar/27/five-great-reads-imran-khan-sylvia-plath-and-the-melbourne-man-with-more-than-20000-books",
+      "mean_score": 0.6375,
+      "vader_score": 0.6249,
+      "textblob_score": 0.65,
+      "first_sentence": "Good morning.",
+      "timestamp": "2026-03-27T21:59:39Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Progress on DHS funding stalls as polarized public opinion becomes more entrenched",
       "link": "https://www.npr.org/2026/03/27/nx-s1-5763867/progress-on-dhs-funding-stalls-as-polarized-public-opinion-becomes-more-entrenched",
@@ -2470,36 +2500,6 @@
       "first_sentence": "A meningitis vaccination programme has been expanded following a deadly outbreak in Kent - with university students queuing for hours for jabs.",
       "timestamp": "2026-03-19T18:09:26Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Afroman keeps trolling cops after winning \u201cLemon Pound Cake\u201d defamation case",
-      "link": "https://arstechnica.com/tech-policy/2026/03/afroman-keeps-trolling-cops-after-winning-lemon-pound-cake-defamation-case/",
-      "mean_score": 0.5133,
-      "vader_score": 0.5267,
-      "textblob_score": 0.5,
-      "first_sentence": "Cops asked the jury for millions after Afroman used raid footage in music videos.",
-      "timestamp": "2026-03-19T17:45:28Z",
-      "source": "Ars Technica"
-    },
-    {
-      "headline": "Premier League set to amend spending rules to give clubs more flexibility for transfers",
-      "link": "https://www.theguardian.com/football/2026/mar/19/premier-league-spending-rules-squad-cost-ratio",
-      "mean_score": 0.4503,
-      "vader_score": 0.4005,
-      "textblob_score": 0.5,
-      "first_sentence": "The Premier League is poised to amend its new spending rules before they are introduced next season to give clubs greater flexibility in the transfer market.",
-      "timestamp": "2026-03-19T17:06:42Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The best pressure washers in the UK for cleaning garden furniture and patios \u2013 tested",
-      "link": "https://www.theguardian.com/thefilter/2025/apr/18/best-pressure-washers-cleaners-uk",
-      "mean_score": 0.7294,
-      "vader_score": 0.4588,
-      "textblob_score": 1.0,
-      "first_sentence": "The Guardian\u2019s journalism is independent.",
-      "timestamp": "2026-03-19T15:00:08Z",
-      "source": "The Guardian"
     }
   ]
 }
