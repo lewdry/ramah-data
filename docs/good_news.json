@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-28T09:12:24Z",
+  "last run": "2026-03-28T12:10:05Z",
   "stories": [
+    {
+      "headline": "\u2018The happiness on their faces pulled me back to my own childhood\u2019: Mark Linel Padecio\u2019s best phone picture",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/mar/28/mark-linel-padecios-best-phone-picture-muddy-happy-children",
+      "mean_score": 0.7033,
+      "vader_score": 0.8316,
+      "textblob_score": 0.575,
+      "first_sentence": "When Mark Linel Padecio is at home in Danao City, Cebu, in the Philippines, family life lies \u201cwithin a rhythm of schedules, studies and screens\u201d.",
+      "timestamp": "2026-03-28T11:00:26Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Does the U.S. have a chance in the World Cup? 2 important games will provide clues",
       "link": "https://www.npr.org/2026/03/28/nx-s1-5764272/world-cup-usmnt-us-soccer-belgium-portugal",
@@ -20,6 +30,16 @@
       "first_sentence": "MONACO (AP) \u2014 Pope Leo XIV visited the cosmopolitan Mediterranean principality of Monaco on Saturday to encourage its people to use their Catholic faith and wealth for good.",
       "timestamp": "2026-03-28T08:53:01Z",
       "source": "AP News"
+    },
+    {
+      "headline": "First Paisley Arts Festival celebrates late designer Pam Hogg",
+      "link": "https://www.bbc.com/news/articles/cq8wkl3dyypo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3797,
+      "vader_score": 0.7845,
+      "textblob_score": -0.025,
+      "first_sentence": "The first Paisley Arts Festival has launched with a celebration of late Scottish fashion designer Pam Hogg who died last November.",
+      "timestamp": "2026-03-28T08:24:21Z",
+      "source": "BBC News"
     },
     {
       "headline": "The top moments from this year\u2019s CPAC conference in Texas",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Step into Richard E Grant\u2019s garden in Richmond, London, and you\u2019ll be met with a rather unconventional sight.",
       "timestamp": "2026-03-20T05:00:10Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Luka Don\u010di\u0107 erupts for 60 as surging LA Lakers extend win streak in Miami",
-      "link": "https://www.theguardian.com/sport/2026/mar/20/luka-doncic-60-lakers-heat-lebron-triple-double-miami",
-      "mean_score": 0.7352,
-      "vader_score": 0.6705,
-      "textblob_score": 0.8,
-      "first_sentence": "Luka Don\u010di\u0107 scored 60 points, LeBron James had a triple-double on a night where he tied the NBA record for games played, and the Los Angeles Lakers pushed their season-best winning streak to eight games with a 134-126 win over the Miami Heat on Thursday night.",
-      "timestamp": "2026-03-20T04:50:24Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Teen happiness falls in western countries as social media hours rise",
-      "link": "https://www.abc.net.au/news/2026-03-20/aus-teen-happiness-falls-social-media-hours-rise/106478522",
-      "mean_score": 0.3704,
-      "vader_score": 0.5574,
-      "textblob_score": 0.1833,
-      "first_sentence": "Costa Rica breaks into the World Happiness Report's top five, while Nordic countries stay on top and Australia stays outside the top 10.",
-      "timestamp": "2026-03-20T04:06:27Z",
-      "source": "ABC News"
     }
   ]
 }

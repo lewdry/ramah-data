@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Luka Don\u010di\u0107 erupts for 60 as surging LA Lakers extend win streak in Miami",
+    "link": "https://www.theguardian.com/sport/2026/mar/20/luka-doncic-60-lakers-heat-lebron-triple-double-miami",
+    "mean_score": 0.7352,
+    "vader_score": 0.6705,
+    "textblob_score": 0.8,
+    "first_sentence": "Luka Don\u010di\u0107 scored 60 points, LeBron James had a triple-double on a night where he tied the NBA record for games played, and the Los Angeles Lakers pushed their season-best winning streak to eight games with a 134-126 win over the Miami Heat on Thursday night.",
+    "timestamp": "2026-03-20T04:50:24Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Teen happiness falls in western countries as social media hours rise",
+    "link": "https://www.abc.net.au/news/2026-03-20/aus-teen-happiness-falls-social-media-hours-rise/106478522",
+    "mean_score": 0.3704,
+    "vader_score": 0.5574,
+    "textblob_score": 0.1833,
+    "first_sentence": "Costa Rica breaks into the World Happiness Report's top five, while Nordic countries stay on top and Australia stays outside the top 10.",
+    "timestamp": "2026-03-20T04:06:27Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Australia dig themselves out of a hole in women\u2019s T20 win over West Indies",
     "link": "https://www.theguardian.com/sport/2026/mar/20/womens-t20-cricket-australia-win-over-west-indies",
     "mean_score": 0.6929,
