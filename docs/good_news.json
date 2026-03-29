@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-28T21:07:57Z",
+  "last run": "2026-03-29T00:23:00Z",
   "stories": [
+    {
+      "headline": "Different beliefs, shared humanity: why so many Australians celebrate diverse religious festivals",
+      "link": "https://www.theguardian.com/australia-news/2026/mar/29/australians-celebrate-diverse-religious-festivals-ntwnfb",
+      "mean_score": 0.5005,
+      "vader_score": 0.8344,
+      "textblob_score": 0.1667,
+      "first_sentence": "Maureen Doonan tries to participate in as many faith and cultural celebrations as she can.",
+      "timestamp": "2026-03-28T23:00:39Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "From confectionery to boot polish, show bags were originally free sample bags",
+      "link": "https://www.abc.net.au/news/2026-03-29/show-bags-sideshow-alley-history-australian-tradition/106405158",
+      "mean_score": 0.4553,
+      "vader_score": 0.5106,
+      "textblob_score": 0.4,
+      "first_sentence": "For many rural farmers and their families, the annual pilgrimage to the Sydney Royal Easter Show is the social event of the year.",
+      "timestamp": "2026-03-28T21:04:56Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Frosting, sprinkles and layers of fun: Giant cake picnic hits Sydney",
       "link": "https://www.bbc.com/news/articles/c1w40dy58vwo?at_medium=RSS&at_campaign=rss",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.3371,
       "first_sentence": "The Femcels\u2019 music is euphoric and depressive, sometimes ironic but mostly sincere, often high-tempo, and all delivered with wired, unvarnished vocals.",
       "timestamp": "2026-03-20T12:00:22Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Greg James completes Comic Relief challenge, raising more than \u00a34m",
-      "link": "https://www.bbc.com/news/articles/clyxw9wr73no?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4508,
-      "vader_score": 0.5267,
-      "textblob_score": 0.375,
-      "first_sentence": "BBC Radio 1's Greg James has crossed the finish line of his Comic Relief tandem cycling challenge, raising more than \u00a34m for charity.",
-      "timestamp": "2026-03-20T10:45:45Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "\u2018Weirdness, paranoia and extremity\u2019: why HBO\u2019s Neighbors is TV\u2019s most fascinating show",
-      "link": "https://www.theguardian.com/tv-and-radio/2026/mar/20/neighbors-hbo-docuseries",
-      "mean_score": 0.5101,
-      "vader_score": 0.4201,
-      "textblob_score": 0.6,
-      "first_sentence": "Once upon a time, I worked as a local reporter in small-town Montana.",
-      "timestamp": "2026-03-20T09:03:14Z",
       "source": "The Guardian"
     }
   ]
