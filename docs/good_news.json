@@ -1,6 +1,46 @@
 {
-  "last run": "2026-03-29T09:13:04Z",
+  "last run": "2026-03-29T12:09:36Z",
   "stories": [
+    {
+      "headline": "Arizona reaches its first Final Four in 25 years with 79-64 win over Purdue",
+      "link": "https://apnews.com/article/march-madness-purdue-arizona-score-fb1d7ba88d91fc3530f2aacb4605b5ec",
+      "mean_score": 0.4812,
+      "vader_score": 0.6124,
+      "textblob_score": 0.35,
+      "first_sentence": "Lloyd and the Wildcats are back in the Final Four for the first time since Lute Olson\u2019s heyday 25 years ago as Arizona once again looks like a threat to win it all.",
+      "timestamp": "2026-03-29T11:53:02Z",
+      "source": "AP News"
+    },
+    {
+      "headline": "19-year-old Kimi Antonelli of Mercedes wins Japanese GP for second straight victory",
+      "link": "https://apnews.com/article/antonelli-hamilton-japanese-gp-russell-d9d9f55ff98bb27c6459e358b04f85e4",
+      "mean_score": 0.4029,
+      "vader_score": 0.6808,
+      "textblob_score": 0.125,
+      "first_sentence": "SUZUKA, Japan (AP) \u2014 Italian 19-year-old Kimi Antonelli of Mercedes has won his second consecutive Formula 1 race, taking Sunday\u2019s Japanese Grand Prix ahead of Oscar Piastri of McLaren.",
+      "timestamp": "2026-03-29T11:23:03Z",
+      "source": "AP News"
+    },
+    {
+      "headline": "Polygraphs have major flaws. Are there better options?",
+      "link": "https://arstechnica.com/science/2026/03/polygraphs-have-major-flaws-are-there-better-options/",
+      "mean_score": 0.3608,
+      "vader_score": 0.4404,
+      "textblob_score": 0.2812,
+      "first_sentence": "Research proceeds on alternatives, but some doubt whether true lie detection is possible.",
+      "timestamp": "2026-03-29T11:01:46Z",
+      "source": "Ars Technica"
+    },
+    {
+      "headline": "\u2018Serve, smile, procreate\u2019: Yesteryear author Caro Claire Burke on the rise of the tradwife",
+      "link": "https://www.theguardian.com/books/2026/mar/29/serve-smile-procreate-yesteryear-author-caro-claire-burke-on-the-rise-of-the-tradwife",
+      "mean_score": 0.3306,
+      "vader_score": 0.3612,
+      "textblob_score": 0.3,
+      "first_sentence": "Gingham dresses, linen aprons; toddlers smiling toothily out from their perch on a perfectly cocked hip.",
+      "timestamp": "2026-03-29T11:00:02Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Kimi Antonelli wins Japan Grand Prix to become youngest F1 championship leader",
       "link": "https://www.theguardian.com/sport/2026/mar/29/kimi-antonelli-wins-japan-grand-prix-to-become-youngest-f1-championship-leader",
@@ -40,6 +80,16 @@
       "first_sentence": "Lap 40/53: Antonelli is streaking away into the clear air in front of him, now nearly ten seconds clear of second-placed Piastri.",
       "timestamp": "2026-03-29T06:19:53Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "From puppacinos to doggy high tea - how dog friendly should we be?",
+      "link": "https://www.bbc.com/news/articles/c24ry3vevq9o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3807,
+      "vader_score": 0.4939,
+      "textblob_score": 0.2675,
+      "first_sentence": "As more people look to pets as companions, the pattering of paws has become a common backing track to grabbing a coffee with a friend.",
+      "timestamp": "2026-03-29T06:11:13Z",
+      "source": "BBC News"
     },
     {
       "headline": "How Australia is supporting NASA's first Moon flight in 50 years",
@@ -120,6 +170,16 @@
       "first_sentence": "Josh Carr's Port Adelaide will face off against a West Coast side buoyed by its drought-breaking win as Sunday's AFL double-header kicks off.",
       "timestamp": "2026-03-29T01:06:12Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "It's Love Island but with fruit...the AI series dividing TikTok",
+      "link": "https://www.bbc.com/news/articles/ckgr35y26q7o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4409,
+      "vader_score": 0.3818,
+      "textblob_score": 0.5,
+      "first_sentence": "A new bombshell has just entered the villa.",
+      "timestamp": "2026-03-29T00:00:05Z",
+      "source": "BBC News"
     },
     {
       "headline": "Alex Carey scores superb century as SA builds solid score in Sheffield Shield final, live scores",
@@ -2439,66 +2499,6 @@
       "textblob_score": 0.4778,
       "first_sentence": "Fremantle has overpower Melbourne for a 48-point win, thrilling the home crowd as the Dockers got off the mark in 2026.",
       "timestamp": "2026-03-21T01:50:22Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Saturday Night Live UK is here - but can it make you laugh?",
-      "link": "https://www.bbc.com/news/articles/cj40xxj4v5po?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4639,
-      "vader_score": 0.7096,
-      "textblob_score": 0.2182,
-      "first_sentence": "Walking into the Saturday Night Live UK studios for the first time, it's clear much time and money has been pumped into helping this show succeed.",
-      "timestamp": "2026-03-21T01:30:17Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "My love of baking helps me deal with arthritis at age of 13",
-      "link": "https://www.bbc.com/news/articles/cvg1g21gvk1o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.6391,
-      "vader_score": 0.7783,
-      "textblob_score": 0.5,
-      "first_sentence": "After being diagnosed with juvenile idiopathic arthritis (JIA) in 2024, she found it became therapeutic way of coping with a condition that many people she knew had never even heard of.",
-      "timestamp": "2026-03-21T00:00:07Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Maguire red card costs Manchester United as Kroupi rescues Bournemouth draw",
-      "link": "https://www.theguardian.com/football/2026/mar/20/bournemouth-manchester-united-premier-league-match-report",
-      "mean_score": 0.3125,
-      "vader_score": 0.6249,
-      "textblob_score": 0.0,
-      "first_sentence": "Under Friday night lights, Manchester United stumbled.",
-      "timestamp": "2026-03-20T22:06:07Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "It's not a royal visit, but something else important happened in Tassie this week",
-      "link": "https://www.abc.net.au/news/2026-03-21/tasmania-government-integrity-transparency-rebuild-trust/106479724",
-      "mean_score": 0.348,
-      "vader_score": 0.296,
-      "textblob_score": 0.4,
-      "first_sentence": "You'd have to be living under a rock if you missed that \"our\" Danish Queen Mary visited Hobart this week.",
-      "timestamp": "2026-03-20T21:07:26Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Small but mighty cheers for team Japan at Asian Cup final",
-      "link": "https://www.abc.net.au/news/2026-03-21/womens-asian-cup-2026-japanese-diaspora-support-team/106479958",
-      "mean_score": 0.3342,
-      "vader_score": 0.631,
-      "textblob_score": 0.0375,
-      "first_sentence": "Young Japanese diaspora in Sydney will be showing up loud and proud in support of Japan against Australia's Matildas at the Asian Cup final on Saturday.",
-      "timestamp": "2026-03-20T20:19:39Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Polls predict easy Labor win in SA, but One Nation will be closely watched",
-      "link": "https://www.abc.net.au/news/2026-03-21/one-nation-results-in-sa-election-to-be-closely-watched/106463332",
-      "mean_score": 0.5677,
-      "vader_score": 0.5187,
-      "textblob_score": 0.6167,
-      "first_sentence": "One Nation isn't shying away from the national significance of today.",
-      "timestamp": "2026-03-20T20:15:31Z",
       "source": "ABC News"
     }
   ]
