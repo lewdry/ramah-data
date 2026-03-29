@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Rhoda Roberts, the woman behind 'Welcome to Country', dies at 66",
+    "link": "https://www.abc.net.au/news/2026-03-21/indigenous-artistic-leader-cultural-adviser-rhoda-roberts-dies/106445192",
+    "mean_score": 0.3294,
+    "vader_score": 0.4588,
+    "textblob_score": 0.2,
+    "first_sentence": "A guiding force in Australia's arts scene and the woman who coined the term \"Welcome to Country\", Aunty Rhoda Roberts AO has died at the age of 66.",
+    "timestamp": "2026-03-21T05:38:25Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "\u2018A fascinating discovery\u2019: research challenges Battle of Hastings narrative",
+    "link": "https://www.theguardian.com/culture/2026/mar/21/battle-of-hastings-discovery-research-england-history",
+    "mean_score": 0.498,
+    "vader_score": 0.296,
+    "textblob_score": 0.7,
+    "first_sentence": "The Guardian\u2019s journalism is independent.",
+    "timestamp": "2026-03-21T05:00:43Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Dockers much too strong for Dees, Petracca hurt in Suns' win over Tigers",
+    "link": "https://www.abc.net.au/news/2026-03-21/afl-r2-tigers-suns-gws-saints-freo-dees-live-blog/106480120",
+    "mean_score": 0.5248,
+    "vader_score": 0.5719,
+    "textblob_score": 0.4778,
+    "first_sentence": "Fremantle has overpower Melbourne for a 48-point win, thrilling the home crowd as the Dockers got off the mark in 2026.",
+    "timestamp": "2026-03-21T01:50:22Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Saturday Night Live UK is here - but can it make you laugh?",
     "link": "https://www.bbc.com/news/articles/cj40xxj4v5po?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.4639,
