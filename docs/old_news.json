@@ -1,11 +1,71 @@
 [
   {
+    "headline": "Top US Fema official claims to have teleported to a Waffle House before",
+    "link": "https://www.theguardian.com/us-news/2026/mar/20/fema-gregg-phillips-waffle-house",
+    "mean_score": 0.3512,
+    "vader_score": 0.2023,
+    "textblob_score": 0.5,
+    "first_sentence": "A far-right conspiracy theorist turned high-ranking official at the US Federal Emergency Management Agency (Fema) claims to have once teleported to a Waffle House.",
+    "timestamp": "2026-03-20T19:38:03Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Starmer most popular PM - in Toby Jug sales",
+    "link": "https://www.bbc.com/news/articles/cp385808jk2o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.5127,
+    "vader_score": 0.4754,
+    "textblob_score": 0.55,
+    "first_sentence": "Sir Keir Starmer may have had a tough year in office, but in one key measure he is top of the shop: the Toby Jug in his likeness outsold all other prime ministers in 2025.",
+    "timestamp": "2026-03-20T18:55:33Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Why Ryan Gosling's eyes were so important to Project Hail Mary",
+    "link": "https://www.abc.net.au/news/2026-03-21/project-hail-mary-greig-fraser-interview/106472300",
+    "mean_score": 0.3976,
+    "vader_score": 0.3952,
+    "textblob_score": 0.4,
+    "first_sentence": "Australian cinematographer Grieg Fraser has recreated pretty much every earthly environment you can think of; from the night vision deserts of Zero Dark Thirty, to the comic-book grime of Gotham City in The Batman to queasy sheen of Washington politics in Vice.",
+    "timestamp": "2026-03-20T18:30:00Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Work from home and drive more slowly to save energy, global body urges",
+    "link": "https://www.bbc.com/news/articles/cvg4540d0g4o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3719,
+    "vader_score": 0.6771,
+    "textblob_score": 0.0667,
+    "first_sentence": "With energy prices still high due to the conflict in the Gulf, governments around the world are being urged to reduce driving speed limits and encourage more working from home.",
+    "timestamp": "2026-03-20T15:05:03Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "\u2018We need to think much bigger\u2019: trade minister calls for greater ambition in UK-EU reset",
+    "link": "https://www.theguardian.com/politics/2026/mar/20/trade-minister-chris-bryant-uk-eu-reset-ambition",
+    "mean_score": 0.3056,
+    "vader_score": 0.3612,
+    "textblob_score": 0.25,
+    "first_sentence": "It was all smiles and warm handshakes when the two men in charge of renegotiating the UK\u2019s relationship with the EU met in Brussels this week.",
+    "timestamp": "2026-03-20T15:00:27Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Many states count mail ballots that arrive after Election Day. Those grace periods could go away",
     "link": "https://apnews.com/article/supreme-court-mail-ballots-election-day-mississippi-2d83cde64284e9e06d19162a45065801",
     "mean_score": 0.4607,
     "vader_score": 0.4215,
     "textblob_score": 0.5,
     "first_sentence": "There will be just one Election Day for this fall\u2019s midterm elections \u2014 Nov.",
+    "timestamp": "2026-03-20T14:23:02Z",
+    "source": "AP News"
+  },
+  {
+    "headline": "Jehovah\u2019s Witnesses ease policy on transfusions, allowing storage and use of one\u2019s own blood",
+    "link": "https://apnews.com/article/jehovahs-witnesses-blood-transfusion-policy-change-3b01d3b095fe895a131633192a774e17",
+    "mean_score": 0.4806,
+    "vader_score": 0.3612,
+    "textblob_score": 0.6,
+    "first_sentence": "Leaders of Jehovah\u2019s Witnesses are modifying their prohibition on receiving blood transfusions on religious grounds, now allowing members to decide whether to allow their own blood to be drawn and stored in advance for such things as a scheduled surgery with a risk of significant blood loss.",
     "timestamp": "2026-03-20T14:23:02Z",
     "source": "AP News"
   },

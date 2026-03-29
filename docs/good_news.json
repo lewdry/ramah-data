@@ -1,6 +1,36 @@
 {
-  "last run": "2026-03-29T06:24:59Z",
+  "last run": "2026-03-29T09:13:04Z",
   "stories": [
+    {
+      "headline": "Kimi Antonelli wins Japan Grand Prix to become youngest F1 championship leader",
+      "link": "https://www.theguardian.com/sport/2026/mar/29/kimi-antonelli-wins-japan-grand-prix-to-become-youngest-f1-championship-leader",
+      "mean_score": 0.6313,
+      "vader_score": 0.8625,
+      "textblob_score": 0.4,
+      "first_sentence": "Kimi Antonelli won the Japanese Grand Prix ultimately dominating the second half of the race and with it the 19-year-old has become the youngest driver to lead the Formula One world championship.",
+      "timestamp": "2026-03-29T07:08:53Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "My search for the perfect Sachertorte in Vienna",
+      "link": "https://www.theguardian.com/travel/2026/mar/29/perfect-sachertorte-cake-vienna-austria",
+      "mean_score": 0.7859,
+      "vader_score": 0.5719,
+      "textblob_score": 1.0,
+      "first_sentence": "The luscious chocolate and apricot torte is the stuff of legend in the grand, old world of Viennese coffeehouses.",
+      "timestamp": "2026-03-29T07:00:50Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Forget birdwatching, I\u2019m into moth-watching: they\u2019re fascinating and misunderstood insects | Helen Pilcher",
+      "link": "https://www.theguardian.com/commentisfree/2026/mar/29/birdwatching-mothwatching-uk-nature-cognitive-decline",
+      "mean_score": 0.3758,
+      "vader_score": 0.0516,
+      "textblob_score": 0.7,
+      "first_sentence": "Do you ever worry that your brain\u2019s slowing down and your mind is \u2026 what\u2019s the word \u2026 fogging? If you do, I have news.",
+      "timestamp": "2026-03-29T07:00:50Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Formula One 2026: Japanese Grand Prix race updates \u2013 live",
       "link": "https://www.theguardian.com/sport/live/2026/mar/29/formula-one-japanese-gp-grand-prix-f1-race-live-updates",
@@ -10,6 +40,26 @@
       "first_sentence": "Lap 40/53: Antonelli is streaking away into the clear air in front of him, now nearly ten seconds clear of second-placed Piastri.",
       "timestamp": "2026-03-29T06:19:53Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "How Australia is supporting NASA's first Moon flight in 50 years",
+      "link": "https://www.abc.net.au/news/2026-03-29/australia-support-nasa-artemis-moon-mission/106508360",
+      "mean_score": 0.3452,
+      "vader_score": 0.4404,
+      "textblob_score": 0.25,
+      "first_sentence": "Australia will support NASA's Artemis II mission with Canberra-based communications and tracking systems, helping astronauts orbit the Moon for the first time in more than 50 years.",
+      "timestamp": "2026-03-29T05:00:34Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Live: Titans and Dragons fight for first NRL win of 2026",
+      "link": "https://www.abc.net.au/news/2026-03-29/nrl-live-updates-raiders-harks-titans-dragons/106508782",
+      "mean_score": 0.3457,
+      "vader_score": 0.296,
+      "textblob_score": 0.3955,
+      "first_sentence": "Round 4 of the NRL season concludes with St George Illawarra heading to the Gold Coast to play the Titans.",
+      "timestamp": "2026-03-29T04:38:31Z",
+      "source": "ABC News"
     },
     {
       "headline": "Faithful, sensitive, forgiving: overthinkers like me make the best partners | Polly Hudson",
@@ -179,6 +229,16 @@
       "textblob_score": 0.2,
       "first_sentence": "Public transport will be free in Victoria for a month, in an effort to encourage people to switch from driving and alleviate the surge in demand for fuel.",
       "timestamp": "2026-03-28T18:00:33Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Ilia Malinin completes redemption arc with third straight world figure skating championship",
+      "link": "https://www.theguardian.com/sport/2026/mar/28/ilia-malinin-third-world-title-redemption-olympic-collapse",
+      "mean_score": 0.3429,
+      "vader_score": 0.5859,
+      "textblob_score": 0.1,
+      "first_sentence": "Ilia Malinin claimed a third straight world figure skating championship on Saturday afternoon, completing a swift redemption a month after his shock Olympic collapse with a commanding free skate.",
+      "timestamp": "2026-03-28T15:31:52Z",
       "source": "The Guardian"
     },
     {
@@ -2440,66 +2500,6 @@
       "first_sentence": "One Nation isn't shying away from the national significance of today.",
       "timestamp": "2026-03-20T20:15:31Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Top US Fema official claims to have teleported to a Waffle House before",
-      "link": "https://www.theguardian.com/us-news/2026/mar/20/fema-gregg-phillips-waffle-house",
-      "mean_score": 0.3512,
-      "vader_score": 0.2023,
-      "textblob_score": 0.5,
-      "first_sentence": "A far-right conspiracy theorist turned high-ranking official at the US Federal Emergency Management Agency (Fema) claims to have once teleported to a Waffle House.",
-      "timestamp": "2026-03-20T19:38:03Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Starmer most popular PM - in Toby Jug sales",
-      "link": "https://www.bbc.com/news/articles/cp385808jk2o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5127,
-      "vader_score": 0.4754,
-      "textblob_score": 0.55,
-      "first_sentence": "Sir Keir Starmer may have had a tough year in office, but in one key measure he is top of the shop: the Toby Jug in his likeness outsold all other prime ministers in 2025.",
-      "timestamp": "2026-03-20T18:55:33Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Why Ryan Gosling's eyes were so important to Project Hail Mary",
-      "link": "https://www.abc.net.au/news/2026-03-21/project-hail-mary-greig-fraser-interview/106472300",
-      "mean_score": 0.3976,
-      "vader_score": 0.3952,
-      "textblob_score": 0.4,
-      "first_sentence": "Australian cinematographer Grieg Fraser has recreated pretty much every earthly environment you can think of; from the night vision deserts of Zero Dark Thirty, to the comic-book grime of Gotham City in The Batman to queasy sheen of Washington politics in Vice.",
-      "timestamp": "2026-03-20T18:30:00Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Work from home and drive more slowly to save energy, global body urges",
-      "link": "https://www.bbc.com/news/articles/cvg4540d0g4o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3719,
-      "vader_score": 0.6771,
-      "textblob_score": 0.0667,
-      "first_sentence": "With energy prices still high due to the conflict in the Gulf, governments around the world are being urged to reduce driving speed limits and encourage more working from home.",
-      "timestamp": "2026-03-20T15:05:03Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "\u2018We need to think much bigger\u2019: trade minister calls for greater ambition in UK-EU reset",
-      "link": "https://www.theguardian.com/politics/2026/mar/20/trade-minister-chris-bryant-uk-eu-reset-ambition",
-      "mean_score": 0.3056,
-      "vader_score": 0.3612,
-      "textblob_score": 0.25,
-      "first_sentence": "It was all smiles and warm handshakes when the two men in charge of renegotiating the UK\u2019s relationship with the EU met in Brussels this week.",
-      "timestamp": "2026-03-20T15:00:27Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Jehovah\u2019s Witnesses ease policy on transfusions, allowing storage and use of one\u2019s own blood",
-      "link": "https://apnews.com/article/jehovahs-witnesses-blood-transfusion-policy-change-3b01d3b095fe895a131633192a774e17",
-      "mean_score": 0.4806,
-      "vader_score": 0.3612,
-      "textblob_score": 0.6,
-      "first_sentence": "Leaders of Jehovah\u2019s Witnesses are modifying their prohibition on receiving blood transfusions on religious grounds, now allowing members to decide whether to allow their own blood to be drawn and stored in advance for such things as a scheduled surgery with a risk of significant blood loss.",
-      "timestamp": "2026-03-20T14:23:02Z",
-      "source": "AP News"
     }
   ]
 }
