@@ -1,6 +1,46 @@
 {
-  "last run": "2026-03-29T00:23:00Z",
+  "last run": "2026-03-29T04:00:23Z",
   "stories": [
+    {
+      "headline": "Labor wins blue-ribbon seat of Morphett from Liberals",
+      "link": "https://www.abc.net.au/news/2026-03-29/sa-labor-wins-morphett/106508638",
+      "mean_score": 0.4359,
+      "vader_score": 0.5719,
+      "textblob_score": 0.3,
+      "first_sentence": "The Liberal Party has held the seat of Morphett almost continuously for 46 years.",
+      "timestamp": "2026-03-29T03:09:26Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Vital Aboriginal records saved in the 70s by an astute WA archivist",
+      "link": "https://www.abc.net.au/news/2026-03-29/archivists-life-work-celebrated-western-australia/106504878",
+      "mean_score": 0.4687,
+      "vader_score": 0.6124,
+      "textblob_score": 0.325,
+      "first_sentence": "At her 100th birthday celebrations, staff at the state library of WA celebrated the extraordinary work of Margaret Medcalf, who ensured that some of the state's most important documents were preserved.",
+      "timestamp": "2026-03-29T01:32:02Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Live: Power and Eagles look to make it back-to-back wins",
+      "link": "https://www.abc.net.au/news/2026-03-29/afl-round-three-sunday-live-blog-port-wce-carl-melb/106504820",
+      "mean_score": 0.395,
+      "vader_score": 0.5719,
+      "textblob_score": 0.2182,
+      "first_sentence": "Josh Carr's Port Adelaide will face off against a West Coast side buoyed by its drought-breaking win as Sunday's AFL double-header kicks off.",
+      "timestamp": "2026-03-29T01:06:12Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Alex Carey scores superb century as SA builds solid score in Sheffield Shield final, live scores",
+      "link": "https://www.abc.net.au/news/2026-03-29/sheffield-shield-final-live-scores-victoria-sa-day-four/106496594",
+      "mean_score": 0.4874,
+      "vader_score": 0.6908,
+      "textblob_score": 0.2841,
+      "first_sentence": "Alex Carey scores a superb century as South Australia fights back from early wickets on day four of the Sheffield Shield at Melbourne's Junction Oval.",
+      "timestamp": "2026-03-28T23:05:01Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Different beliefs, shared humanity: why so many Australians celebrate diverse religious festivals",
       "link": "https://www.theguardian.com/australia-news/2026/mar/29/australians-celebrate-diverse-religious-festivals-ntwnfb",
@@ -2459,46 +2499,6 @@
       "textblob_score": 0.4,
       "first_sentence": "In an odd campaign Peter Malinauskas mocks Pauline Hanson\u2019s anti-immigration stance and she finger-wags back.",
       "timestamp": "2026-03-20T14:00:25Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The best bike lights in the US to see and be seen",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/mar/20/best-bike-lights-us",
-      "mean_score": 0.8185,
-      "vader_score": 0.6369,
-      "textblob_score": 1.0,
-      "first_sentence": "The Guardian\u2019s journalism is independent.",
-      "timestamp": "2026-03-20T13:30:24Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Matisse, 1941-1954 review \u2013 hit after glorious hit in a show of life-enhancing genius",
-      "link": "https://www.theguardian.com/artanddesign/2026/mar/20/henri-matisse-1941-1954-review-grand-palais-paris",
-      "mean_score": 0.3185,
-      "vader_score": 0.6369,
-      "textblob_score": 0.0,
-      "first_sentence": "Forget the joy and energy of youth \u2013 your best days might yet be ahead.",
-      "timestamp": "2026-03-20T13:22:29Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Cocktail of the week: Bear by Carlo Scotto\u2019s wild garlic martini \u2013 recipe | The good mixer",
-      "link": "https://www.theguardian.com/food/2026/mar/20/cocktail-of-the-week-wild-garlic-martini-recipe",
-      "mean_score": 0.4202,
-      "vader_score": 0.4404,
-      "textblob_score": 0.4,
-      "first_sentence": "It\u2019s wild garlic season, which is as much cause for celebration on the drinks trolley as it is in the kitchen.",
-      "timestamp": "2026-03-20T13:00:23Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Add to playlist: the sharply observed electro-twee of the Femcels and the week\u2019s best new tracks",
-      "link": "https://www.theguardian.com/music/2026/mar/20/add-to-playlist-the-sharply-observed-electro-twee-of-the-femcels-and-the-weeks-best-new-tracks",
-      "mean_score": 0.487,
-      "vader_score": 0.6369,
-      "textblob_score": 0.3371,
-      "first_sentence": "The Femcels\u2019 music is euphoric and depressive, sometimes ironic but mostly sincere, often high-tempo, and all delivered with wired, unvarnished vocals.",
-      "timestamp": "2026-03-20T12:00:22Z",
       "source": "The Guardian"
     }
   ]

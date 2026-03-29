@@ -1,5 +1,45 @@
 [
   {
+    "headline": "The best bike lights in the US to see and be seen",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/mar/20/best-bike-lights-us",
+    "mean_score": 0.8185,
+    "vader_score": 0.6369,
+    "textblob_score": 1.0,
+    "first_sentence": "The Guardian\u2019s journalism is independent.",
+    "timestamp": "2026-03-20T13:30:24Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Matisse, 1941-1954 review \u2013 hit after glorious hit in a show of life-enhancing genius",
+    "link": "https://www.theguardian.com/artanddesign/2026/mar/20/henri-matisse-1941-1954-review-grand-palais-paris",
+    "mean_score": 0.3185,
+    "vader_score": 0.6369,
+    "textblob_score": 0.0,
+    "first_sentence": "Forget the joy and energy of youth \u2013 your best days might yet be ahead.",
+    "timestamp": "2026-03-20T13:22:29Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Cocktail of the week: Bear by Carlo Scotto\u2019s wild garlic martini \u2013 recipe | The good mixer",
+    "link": "https://www.theguardian.com/food/2026/mar/20/cocktail-of-the-week-wild-garlic-martini-recipe",
+    "mean_score": 0.4202,
+    "vader_score": 0.4404,
+    "textblob_score": 0.4,
+    "first_sentence": "It\u2019s wild garlic season, which is as much cause for celebration on the drinks trolley as it is in the kitchen.",
+    "timestamp": "2026-03-20T13:00:23Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Add to playlist: the sharply observed electro-twee of the Femcels and the week\u2019s best new tracks",
+    "link": "https://www.theguardian.com/music/2026/mar/20/add-to-playlist-the-sharply-observed-electro-twee-of-the-femcels-and-the-weeks-best-new-tracks",
+    "mean_score": 0.487,
+    "vader_score": 0.6369,
+    "textblob_score": 0.3371,
+    "first_sentence": "The Femcels\u2019 music is euphoric and depressive, sometimes ironic but mostly sincere, often high-tempo, and all delivered with wired, unvarnished vocals.",
+    "timestamp": "2026-03-20T12:00:22Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Greg James completes Comic Relief challenge, raising more than \u00a34m",
     "link": "https://www.bbc.com/news/articles/clyxw9wr73no?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.4508,
