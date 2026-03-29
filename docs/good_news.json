@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-29T15:08:52Z",
+  "last run": "2026-03-29T18:09:17Z",
   "stories": [
+    {
+      "headline": "Vingegaard keeps up \u2018amazing start\u2019 to season with Volta a Catalunya triumph",
+      "link": "https://www.theguardian.com/sport/2026/mar/29/jonas-vingegaard-amazing-start-season-volta-a-catalunya-cyling",
+      "mean_score": 0.5384,
+      "vader_score": 0.4767,
+      "textblob_score": 0.6,
+      "first_sentence": "Jonas Vingegaard triumphed at the Volta a Catalunya as he continued his strong start to the season, while Brady Gilmore sprinted to a surprise stage seven victory.",
+      "timestamp": "2026-03-29T16:03:08Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "First Nations children\u2019s commissioner Sue-Anne Hunter on courage, speaking truth to power and the boy she can\u2019t forget",
       "link": "https://www.theguardian.com/australia-news/2026/mar/30/first-nations-childrens-commissioner-sue-anne-hunter-interview-ntwnfb",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Labor has secured victory in South Australia with Peter Malinauskas winning a second term.",
       "timestamp": "2026-03-21T06:07:44Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Love Actually? Washington\u2019s current relationship with Britain is more like Contempt Actually | Timothy Garton Ash",
-      "link": "https://www.theguardian.com/commentisfree/2026/mar/21/britain-us-special-relationship-trump-starmer",
-      "mean_score": 0.3216,
-      "vader_score": 0.4432,
-      "textblob_score": 0.2,
-      "first_sentence": "\u201cA friend who bullies us is no longer a friend.",
-      "timestamp": "2026-03-21T06:00:46Z",
-      "source": "The Guardian"
     }
   ]
 }
