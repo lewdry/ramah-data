@@ -1,5 +1,45 @@
 [
   {
+    "headline": "\u2018So awesome\u2019: BTS fans on K-pop\u2019s biggest comeback",
+    "link": "https://www.theguardian.com/music/2026/mar/22/bts-concert-arirang-kpop-fans-comeback-south-korea-seoul",
+    "mean_score": 0.5,
+    "vader_score": 0.0,
+    "textblob_score": 1.0,
+    "first_sentence": "The Zubillaga family had come from Veracruz, Mexico.",
+    "timestamp": "2026-03-22T00:32:32Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Jess Hull and Kurtis Marschall win bronze as Australia eye more medals on final day at world indoors",
+    "link": "https://www.theguardian.com/sport/2026/mar/22/jess-hull-kurtis-marschal-win-bronze-australia-medals-world-athletics-indoor-championships",
+    "mean_score": 0.5096,
+    "vader_score": 0.5859,
+    "textblob_score": 0.4333,
+    "first_sentence": "Jess Hull and Kurtis Marschall have won bronze medals at the world athletics indoor championships on another successful day for the Australian team in Poland.",
+    "timestamp": "2026-03-22T00:20:33Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Is your jerry can safe and legal?",
+    "link": "https://www.abc.net.au/news/2026-03-22/fuel-storage-jerry-can-safety-explainer/106481586",
+    "mean_score": 0.4383,
+    "vader_score": 0.5267,
+    "textblob_score": 0.35,
+    "first_sentence": "Despite repeated calls from authorities not to stockpile fuel, warning it will only push prices even higher as demand outpaces supply, some Australians are continuing to fill jerry cans and store petrol at home.",
+    "timestamp": "2026-03-22T00:09:14Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Hull, Marschall win bronze at World Athletics Indoor Championships",
+    "link": "https://www.abc.net.au/news/2026-03-22/world-athletics-indoor-championships-jess-hull-kurtis-marschall/106483330",
+    "mean_score": 0.7953,
+    "vader_score": 0.7906,
+    "textblob_score": 0.8,
+    "first_sentence": "Jessica Hull won bronze in the women's 3,000 metres at the World Athletics Indoor Championships.",
+    "timestamp": "2026-03-21T21:55:57Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Three sailors remain missing near Iran. Their families are hoping for a 'miracle'",
     "link": "https://www.abc.net.au/news/2026-03-22/middle-east-war-leaves-sailors-at-risk-in-persian-gulf-near-iran/106479052",
     "mean_score": 0.3048,
