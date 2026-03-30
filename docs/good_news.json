@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-30T09:31:53Z",
+  "last run": "2026-03-30T12:18:56Z",
   "stories": [
+    {
+      "headline": "Rukmini Iyer\u2019s quick and easy recipe for artichoke, olive and feta pithivier | Quick and easy",
+      "link": "https://www.theguardian.com/food/2026/mar/30/artichoke-olive-feta-pithivier-quick-and-easy-recipe-rukmini-iyer",
+      "mean_score": 0.5418,
+      "vader_score": 0.7003,
+      "textblob_score": 0.3833,
+      "first_sentence": "Pithiviers look absolutely beautiful at the table.",
+      "timestamp": "2026-03-30T12:00:10Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Is it true that \u2026 you can never eat too much fibre?",
       "link": "https://www.theguardian.com/lifeandstyle/2026/mar/30/is-it-true-that-you-can-never-eat-too-much-fibre-fibremaxxing",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.8,
       "first_sentence": "Jessica Hull won bronze in the women's 3,000 metres at the World Athletics Indoor Championships.",
       "timestamp": "2026-03-21T21:55:57Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Three sailors remain missing near Iran. Their families are hoping for a 'miracle'",
-      "link": "https://www.abc.net.au/news/2026-03-22/middle-east-war-leaves-sailors-at-risk-in-persian-gulf-near-iran/106479052",
-      "mean_score": 0.3048,
-      "vader_score": 0.6597,
-      "textblob_score": -0.05,
-      "first_sentence": "Three sailors remain missing after a Thai merchant ship was bombed by Iran as it tried to escape the war zone via the Strait of Hormuz.",
-      "timestamp": "2026-03-21T19:09:07Z",
       "source": "ABC News"
     }
   ]

@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Three sailors remain missing near Iran. Their families are hoping for a 'miracle'",
+    "link": "https://www.abc.net.au/news/2026-03-22/middle-east-war-leaves-sailors-at-risk-in-persian-gulf-near-iran/106479052",
+    "mean_score": 0.3048,
+    "vader_score": 0.6597,
+    "textblob_score": -0.05,
+    "first_sentence": "Three sailors remain missing after a Thai merchant ship was bombed by Iran as it tried to escape the war zone via the Strait of Hormuz.",
+    "timestamp": "2026-03-21T19:09:07Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Superannuation should be used for aged care, not inherited by next generation, aged care CEO says",
     "link": "https://www.theguardian.com/australia-news/2026/mar/21/superannuation-should-be-used-for-aged-care-not-inherited-by-next-generation-aged-care-ceo-says",
     "mean_score": 0.342,
