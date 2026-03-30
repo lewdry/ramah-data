@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-30T06:37:40Z",
+  "last run": "2026-03-30T09:31:53Z",
   "stories": [
+    {
+      "headline": "Is it true that \u2026 you can never eat too much fibre?",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/mar/30/is-it-true-that-you-can-never-eat-too-much-fibre-fibremaxxing",
+      "mean_score": 0.3483,
+      "vader_score": 0.4215,
+      "textblob_score": 0.275,
+      "first_sentence": "Fibre has replaced protein as TikTok health influencers\u2019 macronutrient du jour, with \u201cfibremaxxers\u201d urging followers to pack as much roughage into their diets as possible.",
+      "timestamp": "2026-03-30T07:00:20Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "The new Serial is here! Best podcasts of the week",
       "link": "https://www.theguardian.com/tv-and-radio/2026/mar/30/the-new-serial-is-here-best-podcasts-of-the-week",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Three sailors remain missing after a Thai merchant ship was bombed by Iran as it tried to escape the war zone via the Strait of Hormuz.",
       "timestamp": "2026-03-21T19:09:07Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Superannuation should be used for aged care, not inherited by next generation, aged care CEO says",
-      "link": "https://www.theguardian.com/australia-news/2026/mar/21/superannuation-should-be-used-for-aged-care-not-inherited-by-next-generation-aged-care-ceo-says",
-      "mean_score": 0.342,
-      "vader_score": 0.7506,
-      "textblob_score": -0.0667,
-      "first_sentence": "Labor should more actively encourage wealthier Australians to spend more of their superannuation on their own care, an industry leader says, to help free up capacity in the struggling system to protect elderly people without means.",
-      "timestamp": "2026-03-21T19:01:01Z",
-      "source": "The Guardian"
     }
   ]
 }
