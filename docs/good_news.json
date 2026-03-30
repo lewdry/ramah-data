@@ -1,6 +1,36 @@
 {
-  "last run": "2026-03-30T18:19:12Z",
+  "last run": "2026-03-30T21:15:21Z",
   "stories": [
+    {
+      "headline": "Australia\u2019s most high-profile manhunt ended in a sleepy high country farming community. But how did Dezi Freeman get to Thologolong?",
+      "link": "https://www.theguardian.com/australia-news/2026/mar/31/australias-most-high-profile-manhunt-ended-in-a-sleepy-high-country-farming-community-but-how-did-dezi-freeman-get-to-thologolong-ntwnfb",
+      "mean_score": 0.44,
+      "vader_score": 0.5499,
+      "textblob_score": 0.33,
+      "first_sentence": "In Thologolong, a small mark on the map in the Victorian high country, the sky is clear, the Murray River is up and Australia\u2019s longest manhunt has come to an end.",
+      "timestamp": "2026-03-30T19:28:07Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "C\u00e9line Dion announces comeback shows: 'I'm so ready for this'",
+      "link": "https://www.bbc.com/news/articles/c0708dkm2lko?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3505,
+      "vader_score": 0.5009,
+      "textblob_score": 0.2,
+      "first_sentence": "C\u00e9line Dion has announced her return to the stage, four years after she was diagnosed with an incurable condition that affected her singing voice and her ability to walk.",
+      "timestamp": "2026-03-30T19:15:23Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Iran's 'safe passage' signals a new global divide",
+      "link": "https://www.abc.net.au/news/2026-03-31/strait-of-hormuz-iran-russia-india-china-oil-trade/106510800",
+      "mean_score": 0.3263,
+      "vader_score": 0.4404,
+      "textblob_score": 0.2121,
+      "first_sentence": "In early March, a Chinese-owned oil tanker moved through the Strait of Hormuz.",
+      "timestamp": "2026-03-30T18:00:00Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Avi Lewis, elected to lead Canada\u2019s New Democratic party, promises \u2018NDP comeback\u2019",
       "link": "https://www.theguardian.com/world/2026/mar/30/canada-avi-lewis-elected-new-democratic-party",
@@ -29,6 +59,16 @@
       "textblob_score": 0.7,
       "first_sentence": "The Competition and Markets Authority report on vet chains is welcome, but your editorial (24 March) does little to clarify things for struggling pet owners.",
       "timestamp": "2026-03-30T15:40:53Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Welfare for the wealthy or an easy fix? Why free public transport might not be the answer to the fuel crisis",
+      "link": "https://www.theguardian.com/australia-news/2026/mar/31/the-arguments-for-and-against-making-public-transport-free-as-australian-fuel-costs-soar",
+      "mean_score": 0.4454,
+      "vader_score": 0.5574,
+      "textblob_score": 0.3333,
+      "first_sentence": "Victoria and Tasmania are trialling free public transport as a way to drive down demand for petrol.",
+      "timestamp": "2026-03-30T14:00:13Z",
       "source": "The Guardian"
     },
     {
@@ -2460,46 +2500,6 @@
       "first_sentence": "Led by a probably doomed prime minister, presiding over a struggling economy, exposed by an ongoing scandal, besieged by populist insurgents to its right and left, ambushed by a war that will bring higher inflation and public debt, and predicted to win just 75 seats at the next general election, according to the website Electoral Calculus, Labour is in an unprecedented crisis.",
       "timestamp": "2026-03-22T08:00:16Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018We can create hype\u2019: H&M\u2019s UK boss on its commitment to the high street",
-      "link": "https://www.theguardian.com/business/2026/mar/22/h-and-m-uk-high-street-karen-orourke",
-      "mean_score": 0.3659,
-      "vader_score": 0.5719,
-      "textblob_score": 0.16,
-      "first_sentence": "Almost exactly 50 years after H&M opened its first British store, the doors on its newest, in Brighton, swung open this week and the Swedish fashion company\u2019s UK boss is determined to keep investing in the nation\u2019s high streets despite its struggles.",
-      "timestamp": "2026-03-22T08:00:15Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Slop it like it\u2019s hot: the rise of build-your-own takeaway salad bowls",
-      "link": "https://www.theguardian.com/food/2026/mar/22/slop-takeaway-salad-lunch-bowls-morwenna-ferrier",
-      "mean_score": 0.3056,
-      "vader_score": 0.3612,
-      "textblob_score": 0.25,
-      "first_sentence": "How did this pick-n-mix salad-and-protein sludge become a typical working lunch?.",
-      "timestamp": "2026-03-22T08:00:15Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Scrambling, walking and swimming in splendid isolation: 75 years of the UK\u2019s national parks",
-      "link": "https://www.theguardian.com/travel/2026/mar/22/guide-to-lake-district-eryi-snowdonia-dartmoor-national-parks",
-      "mean_score": 0.5533,
-      "vader_score": 0.2732,
-      "textblob_score": 0.8333,
-      "first_sentence": "The Guardian\u2019s journalism is independent.",
-      "timestamp": "2026-03-22T07:00:14Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Breaking: One Nation wins first seat in SA Parliament's Lower House, ABC projects",
-      "link": "https://www.abc.net.au/news/2026-03-22/one-nation-projected-to-win-lower-house-seat-abc-projects/106483382",
-      "mean_score": 0.3181,
-      "vader_score": 0.3612,
-      "textblob_score": 0.275,
-      "first_sentence": "Pauline Hanson's One Nation has won its first ever Lower House seat at an election outside of Queensland, the ABC projects.",
-      "timestamp": "2026-03-22T06:09:42Z",
-      "source": "ABC News"
     }
   ]
 }
