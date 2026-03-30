@@ -1,6 +1,46 @@
 {
-  "last run": "2026-03-30T04:02:05Z",
+  "last run": "2026-03-30T06:37:40Z",
   "stories": [
+    {
+      "headline": "The new Serial is here! Best podcasts of the week",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/mar/30/the-new-serial-is-here-best-podcasts-of-the-week",
+      "mean_score": 0.6274,
+      "vader_score": 0.6696,
+      "textblob_score": 0.5852,
+      "first_sentence": "M Gessen explores the wild truth about his cousin, who keeps kidnapping his own child.",
+      "timestamp": "2026-03-30T06:00:19Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Zoning in on Marolles, Brussels: \u2018A friendly, cosmopolitan village where everyone is welcome\u2019",
+      "link": "https://www.theguardian.com/travel/2026/mar/30/marolles-brussels-cosmopolitan-village",
+      "mean_score": 0.4428,
+      "vader_score": 0.4939,
+      "textblob_score": 0.3917,
+      "first_sentence": "The Brusseleir dialect that\u2019s still spoken in much of the Marolles dates back to the middle ages, a symbol of the independence of this proudly working-class neighbourhood in central Brussels.",
+      "timestamp": "2026-03-30T06:00:19Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "The first London marathon: brave and personal triumphs \u2013 archive, 1981",
+      "link": "https://www.theguardian.com/sport/2026/mar/30/first-london-marathon-brave-personal-triumphs-1981",
+      "mean_score": 0.5503,
+      "vader_score": 0.7506,
+      "textblob_score": 0.35,
+      "first_sentence": "Inge Simonsen, a 27-year-old Norwegian, \u201cofficially\u201d won the first London marathon in 2 hours 11 minutes 48 seconds yesterday, the fastest time recorded in Britain for 11 years, watched by an estimated 100,000 people.",
+      "timestamp": "2026-03-30T05:30:16Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Five easy seafood dinners for busy weeknights",
+      "link": "https://www.abc.net.au/news/2026-03-30/five-easy-seafood-dinners-for-busy-weeknights/106385708",
+      "mean_score": 0.3535,
+      "vader_score": 0.4404,
+      "textblob_score": 0.2667,
+      "first_sentence": "Looking for tasty, hassle-free seafood meals to add to your menu?.",
+      "timestamp": "2026-03-30T05:07:20Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Aussies cruise to ODI series win over West Indies with dominant second game",
       "link": "https://www.abc.net.au/news/2026-03-30/australia-beat-west-indies-in-second-odi/106511512",
@@ -2460,46 +2500,6 @@
       "first_sentence": "Labor should more actively encourage wealthier Australians to spend more of their superannuation on their own care, an industry leader says, to help free up capacity in the struggling system to protect elderly people without means.",
       "timestamp": "2026-03-21T19:01:01Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "I lost my love of cooking after 12 years as a chef. Moving to a pig farm restored it",
-      "link": "https://www.theguardian.com/food/2026/mar/21/hospitality-love-of-cooking-chef-pig-farm",
-      "mean_score": 0.5743,
-      "vader_score": 0.6486,
-      "textblob_score": 0.5,
-      "first_sentence": "I was a keen-bean 15-year-old when I got my first job in a commercial kitchen in Canberra, raised on a diet of Jamie and Nigella and bursting with a passion for food.",
-      "timestamp": "2026-03-21T19:01:00Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The Melbourne man who loves libraries so much he created his own \u2013 and it\u2019s so huge he needs two homes to house it",
-      "link": "https://www.theguardian.com/australia-news/2026/mar/22/melbourne-rare-books-expert-wallace-kirsop",
-      "mean_score": 0.6192,
-      "vader_score": 0.8383,
-      "textblob_score": 0.4,
-      "first_sentence": "The last time he counted, Prof Wallace Kirsop and his wife, Joan, had about 20,000 books.",
-      "timestamp": "2026-03-21T19:01:00Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Iraqi Kurds mark Nowruz, celebrating light over darkness",
-      "link": "https://www.npr.org/sections/the-picture-show/2026/03/21/nx-s1-5753923/nowruz-iraqi-kurds-photos",
-      "mean_score": 0.401,
-      "vader_score": 0.4019,
-      "textblob_score": 0.4,
-      "first_sentence": "AKRE, Kurdistan Region of Iraq \u2014 For many people, the vernal equinox \u2014 which marked the beginning of spring Friday \u2014 is just another date on the calendar.",
-      "timestamp": "2026-03-21T16:56:00Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Fans elated as BTS play first gig together in nearly four years",
-      "link": "https://www.bbc.com/news/articles/cge0dyjwezgo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.47,
-      "vader_score": 0.765,
-      "textblob_score": 0.175,
-      "first_sentence": "Fans have poured into the historic heart of South Korea's capital for what may well be the year's biggest event: the return of the world's most successful band in recent years, BTS.",
-      "timestamp": "2026-03-21T12:02:09Z",
-      "source": "BBC News"
     }
   ]
 }

@@ -1,5 +1,45 @@
 [
   {
+    "headline": "I lost my love of cooking after 12 years as a chef. Moving to a pig farm restored it",
+    "link": "https://www.theguardian.com/food/2026/mar/21/hospitality-love-of-cooking-chef-pig-farm",
+    "mean_score": 0.5743,
+    "vader_score": 0.6486,
+    "textblob_score": 0.5,
+    "first_sentence": "I was a keen-bean 15-year-old when I got my first job in a commercial kitchen in Canberra, raised on a diet of Jamie and Nigella and bursting with a passion for food.",
+    "timestamp": "2026-03-21T19:01:00Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "The Melbourne man who loves libraries so much he created his own \u2013 and it\u2019s so huge he needs two homes to house it",
+    "link": "https://www.theguardian.com/australia-news/2026/mar/22/melbourne-rare-books-expert-wallace-kirsop",
+    "mean_score": 0.6192,
+    "vader_score": 0.8383,
+    "textblob_score": 0.4,
+    "first_sentence": "The last time he counted, Prof Wallace Kirsop and his wife, Joan, had about 20,000 books.",
+    "timestamp": "2026-03-21T19:01:00Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Iraqi Kurds mark Nowruz, celebrating light over darkness",
+    "link": "https://www.npr.org/sections/the-picture-show/2026/03/21/nx-s1-5753923/nowruz-iraqi-kurds-photos",
+    "mean_score": 0.401,
+    "vader_score": 0.4019,
+    "textblob_score": 0.4,
+    "first_sentence": "AKRE, Kurdistan Region of Iraq \u2014 For many people, the vernal equinox \u2014 which marked the beginning of spring Friday \u2014 is just another date on the calendar.",
+    "timestamp": "2026-03-21T16:56:00Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "Fans elated as BTS play first gig together in nearly four years",
+    "link": "https://www.bbc.com/news/articles/cge0dyjwezgo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.47,
+    "vader_score": 0.765,
+    "textblob_score": 0.175,
+    "first_sentence": "Fans have poured into the historic heart of South Korea's capital for what may well be the year's biggest event: the return of the world's most successful band in recent years, BTS.",
+    "timestamp": "2026-03-21T12:02:09Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "\u2018I\u2019m going to leave you some landmines\u2019: Pauline Hanson sends SA premier a message amid jubilant supporters",
     "link": "https://www.theguardian.com/australia-news/2026/mar/21/im-going-to-leave-you-some-landmines-pauline-hanson-sends-sa-premier-a-message-amid-jubilant-supporters",
     "mean_score": 0.3859,
