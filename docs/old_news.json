@@ -1,5 +1,25 @@
 [
   {
+    "headline": "US high school student Cooper Lutkenhaus wins 800m to become youngest ever indoor world champion",
+    "link": "https://www.theguardian.com/sport/2026/mar/22/cooper-lutkenhaus-800m-world-indoor-championship-teenager",
+    "mean_score": 0.5262,
+    "vader_score": 0.8225,
+    "textblob_score": 0.23,
+    "first_sentence": "US teenager Cooper Lutkenhaus made history on Sunday when he won gold in the 800m to becomes the youngest ever champion at the world indoor athletics championship.",
+    "timestamp": "2026-03-22T20:08:59Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Barking dogs to shared fences: How to resolve issues with your neighbour",
+    "link": "https://www.abc.net.au/news/2026-03-23/how-to-resolve-common-issues-with-neighbours/106432686",
+    "mean_score": 0.3062,
+    "vader_score": 0.6124,
+    "textblob_score": 0.0,
+    "first_sentence": "What often starts as an ordinary issue with a neighbour, like a barking dog or overhanging tree, can snowball into conflict when not handled well.",
+    "timestamp": "2026-03-22T19:00:00Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Manchester City win Carabao Cup after Nico O\u2019Reilly\u2019s double downs lacklustre Arsenal",
     "link": "https://www.theguardian.com/football/2026/mar/22/arsenal-manchester-city-carabao-cup-final-match-report",
     "mean_score": 0.4929,

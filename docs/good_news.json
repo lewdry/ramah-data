@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-31T09:24:33Z",
+  "last run": "2026-03-31T12:19:05Z",
   "stories": [
+    {
+      "headline": "The Drama review \u2013 Zendaya and Robert Pattinson\u2019s controversial wedding film delivers on its promise",
+      "link": "https://www.theguardian.com/film/2026/mar/31/the-drama-review-zendaya-robert-pattinson-wedding-film",
+      "mean_score": 0.339,
+      "vader_score": 0.128,
+      "textblob_score": 0.55,
+      "first_sentence": "How much of your past should you reveal to your adorable fiance before the big day? Very tricky issues are probably best avoided in the run-up to the ceremony, but can still be recklessly raised by attractively naive young people who assume the worms surely can\u2019t be that big or plentiful \u2013 or difficult to get back into the can.",
+      "timestamp": "2026-03-31T10:00:52Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Love on the Spectrum proves that we still crave wholesome reality TV",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/mar/31/love-on-the-spectrum-netflix",
+      "mean_score": 0.5185,
+      "vader_score": 0.6369,
+      "textblob_score": 0.4,
+      "first_sentence": "Logan is one of the new participants on Netflix\u2019s Love on the Spectrum: a series that follows a group of neurodivergent young people as they search for a romantic connection, which returns this week for its fourth season.",
+      "timestamp": "2026-03-31T10:00:52Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Australia v Cura\u00e7ao: Fifa Series men\u2019s international football friendly \u2013 live",
       "link": "https://www.theguardian.com/football/live/2026/mar/31/australia-v-curacao-fifa-series-mens-international-football-friendly-live",
@@ -2480,26 +2500,6 @@
       "first_sentence": "The Prince of Wales is \"keen to build a strong and meaningful bond\" with the Church of England, a royal aide has said, ahead of the future monarch attending the new Archbishop of Canterbury's official installation this week.",
       "timestamp": "2026-03-22T20:59:37Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "US high school student Cooper Lutkenhaus wins 800m to become youngest ever indoor world champion",
-      "link": "https://www.theguardian.com/sport/2026/mar/22/cooper-lutkenhaus-800m-world-indoor-championship-teenager",
-      "mean_score": 0.5262,
-      "vader_score": 0.8225,
-      "textblob_score": 0.23,
-      "first_sentence": "US teenager Cooper Lutkenhaus made history on Sunday when he won gold in the 800m to becomes the youngest ever champion at the world indoor athletics championship.",
-      "timestamp": "2026-03-22T20:08:59Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Barking dogs to shared fences: How to resolve issues with your neighbour",
-      "link": "https://www.abc.net.au/news/2026-03-23/how-to-resolve-common-issues-with-neighbours/106432686",
-      "mean_score": 0.3062,
-      "vader_score": 0.6124,
-      "textblob_score": 0.0,
-      "first_sentence": "What often starts as an ordinary issue with a neighbour, like a barking dog or overhanging tree, can snowball into conflict when not handled well.",
-      "timestamp": "2026-03-22T19:00:00Z",
-      "source": "ABC News"
     }
   ]
 }
