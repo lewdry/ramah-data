@@ -1,6 +1,46 @@
 {
-  "last run": "2026-03-31T18:19:32Z",
+  "last run": "2026-03-31T21:13:12Z",
   "stories": [
+    {
+      "headline": "England 0-1 Japan: men\u2019s international football friendly \u2013 live",
+      "link": "https://www.theguardian.com/football/live/2026/mar/31/england-v-japan-mens-international-football-friendly-live",
+      "mean_score": 0.3322,
+      "vader_score": 0.4939,
+      "textblob_score": 0.1705,
+      "first_sentence": "And here\u2019s David Hytner\u2019s report from Wembley, with which I bid you farewell.",
+      "timestamp": "2026-03-31T21:05:59Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "USMNT v Portugal live \u2013 Updates and analysis from international friendly",
+      "link": "https://www.theguardian.com/football/live/2026/mar/31/usmnt-portugal-live-updates-analysis",
+      "mean_score": 0.3322,
+      "vader_score": 0.4939,
+      "textblob_score": 0.1705,
+      "first_sentence": "Full-time has been called on the Turkey v Kosovo playoff game in Kosovo, with Turkey winning 1-0.",
+      "timestamp": "2026-03-31T20:45:30Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Developer fined for chopping trees plans to clear more for $10m mansion",
+      "link": "https://www.abc.net.au/news/2026-04-01/developer-amir-abu-abara-trees-cut-down-sydney-mansion/106515314",
+      "mean_score": 0.3409,
+      "vader_score": 0.3818,
+      "textblob_score": 0.3,
+      "first_sentence": "Property developer Amir Abu Abara illegally cut down hundreds of native trees to build a $3 million mansion in Sydney.",
+      "timestamp": "2026-03-31T19:08:58Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "This controversial rom-com starring Zendaya is one of the best movies of the year",
+      "link": "https://www.abc.net.au/news/2026-04-01/the-drama-review-robert-pattinson-zendaya/106512184",
+      "mean_score": 0.6508,
+      "vader_score": 0.5267,
+      "textblob_score": 0.775,
+      "first_sentence": "Despite appearances to the contrary, the wildly unpredictable new A24 film The Drama is anything but a traditional romantic comedy, even if it tangles with modern love in darkly funny ways.",
+      "timestamp": "2026-03-31T18:30:00Z",
+      "source": "ABC News"
+    },
     {
       "headline": "The wellness world is eager for RFK Jr.'s promised move on peptides",
       "link": "https://www.npr.org/2026/03/31/nx-s1-5768206/peptides-rfk-fda-compounding-pharmacies",
@@ -2460,46 +2500,6 @@
       "first_sentence": "As the Iran war delays peace talks for Ukraine \u2014 and global supplies of air defense missiles \u2014 there are signs that fewer Ukrainians are willing to endure Russia's war for as long as necessary.",
       "timestamp": "2026-03-23T08:43:20Z",
       "source": "NPR News"
-    },
-    {
-      "headline": "Hull FC turn tide and tame Leeds before era-defining moment for Super League",
-      "link": "https://www.theguardian.com/sport/2026/mar/23/hull-turn-tide-era-defining-moment-super-league",
-      "mean_score": 0.3289,
-      "vader_score": 0.5994,
-      "textblob_score": 0.0583,
-      "first_sentence": "It may seem slightly churlish to suggest the pressure is rising in the lower reaches of Super League when the clocks haven\u2019t even gone forward yet and the season is still in its early stages.",
-      "timestamp": "2026-03-23T08:00:45Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Raye: This Music May Contain Hope review \u2013 a wildly ambitious epic of unbridled self-expression",
-      "link": "https://www.theguardian.com/music/2026/mar/23/raye-this-music-may-contain-hope-review",
-      "mean_score": 0.4467,
-      "vader_score": 0.7184,
-      "textblob_score": 0.175,
-      "first_sentence": "This story seems telling in light of This Music May Contain Hope, an album that very much suggests an artist determined to go her own way.",
-      "timestamp": "2026-03-23T08:00:44Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018I\u2019m a big bear. I lumber\u2019: showbiz superstar Richard Kind on delivering performances you can see from space",
-      "link": "https://www.theguardian.com/stage/2026/mar/23/showbiz-superstar-richard-kind-nazio-spoof-producers",
-      "mean_score": 0.4133,
-      "vader_score": 0.5267,
-      "textblob_score": 0.3,
-      "first_sentence": "The first time Kind starred in Nazi-spoof The Producers, he lost 30lb.",
-      "timestamp": "2026-03-23T08:00:44Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Jane Fonda\u2019s life goes under the microscope: best podcasts of the week",
-      "link": "https://www.theguardian.com/tv-and-radio/2026/mar/23/jane-fondas-life-goes-under-the-microscope-best-podcasts-of-the-week",
-      "mean_score": 0.8185,
-      "vader_score": 0.6369,
-      "textblob_score": 1.0,
-      "first_sentence": "Pop culture icons and music legends are explored in a new show that has access to the BBC\u2019s vast archive.",
-      "timestamp": "2026-03-23T07:00:43Z",
-      "source": "The Guardian"
     }
   ]
 }

@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Hull FC turn tide and tame Leeds before era-defining moment for Super League",
+    "link": "https://www.theguardian.com/sport/2026/mar/23/hull-turn-tide-era-defining-moment-super-league",
+    "mean_score": 0.3289,
+    "vader_score": 0.5994,
+    "textblob_score": 0.0583,
+    "first_sentence": "It may seem slightly churlish to suggest the pressure is rising in the lower reaches of Super League when the clocks haven\u2019t even gone forward yet and the season is still in its early stages.",
+    "timestamp": "2026-03-23T08:00:45Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Raye: This Music May Contain Hope review \u2013 a wildly ambitious epic of unbridled self-expression",
+    "link": "https://www.theguardian.com/music/2026/mar/23/raye-this-music-may-contain-hope-review",
+    "mean_score": 0.4467,
+    "vader_score": 0.7184,
+    "textblob_score": 0.175,
+    "first_sentence": "This story seems telling in light of This Music May Contain Hope, an album that very much suggests an artist determined to go her own way.",
+    "timestamp": "2026-03-23T08:00:44Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "\u2018I\u2019m a big bear. I lumber\u2019: showbiz superstar Richard Kind on delivering performances you can see from space",
+    "link": "https://www.theguardian.com/stage/2026/mar/23/showbiz-superstar-richard-kind-nazio-spoof-producers",
+    "mean_score": 0.4133,
+    "vader_score": 0.5267,
+    "textblob_score": 0.3,
+    "first_sentence": "The first time Kind starred in Nazi-spoof The Producers, he lost 30lb.",
+    "timestamp": "2026-03-23T08:00:44Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Jane Fonda\u2019s life goes under the microscope: best podcasts of the week",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/mar/23/jane-fondas-life-goes-under-the-microscope-best-podcasts-of-the-week",
+    "mean_score": 0.8185,
+    "vader_score": 0.6369,
+    "textblob_score": 1.0,
+    "first_sentence": "Pop culture icons and music legends are explored in a new show that has access to the BBC\u2019s vast archive.",
+    "timestamp": "2026-03-23T07:00:43Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Primary school with just one pupil could be closed for good",
     "link": "https://www.bbc.com/news/articles/cr51npez4yro?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.3869,
