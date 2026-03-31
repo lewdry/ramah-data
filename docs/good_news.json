@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-31T00:23:07Z",
+  "last run": "2026-03-31T03:58:26Z",
   "stories": [
+    {
+      "headline": "Sydney brick pit becomes arena in fight to save iconic frog",
+      "link": "https://www.abc.net.au/news/2026-03-31/chytrid-vaccinated-bell-frogs-released-sydney-olympic-park/106511634",
+      "mean_score": 0.3266,
+      "vader_score": 0.1531,
+      "textblob_score": 0.5,
+      "first_sentence": "Hundreds of endangered green and golden bell frogs vaccinated against chytrid fungus have been released in Sydney Olympic Park in a leading-edge conservation trial.",
+      "timestamp": "2026-03-31T03:11:48Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Australian politics live: MP celebrates end to \u2018rip off at the checkout\u2019 as RBA moves to end credit card surcharges by October",
       "link": "https://www.theguardian.com/australia-news/live/2026/mar/31/australian-politics-live-social-media-ban-cost-of-living-fuel-crisis-excise-inflation-anthony-albanese-jim-chalmers-budget-ntwnfb",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.5,
       "first_sentence": "Baseball hitters are on a quest for power.",
       "timestamp": "2026-03-22T12:23:11Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "This local official thinks he may have the road map for Democrats to win big in 2026",
-      "link": "https://www.npr.org/2026/03/22/nx-s1-5730370/democrats-2026-lehigh-county-pennsylvania",
-      "mean_score": 0.4263,
-      "vader_score": 0.5859,
-      "textblob_score": 0.2667,
-      "first_sentence": "ALLENTOWN, Pa.",
-      "timestamp": "2026-03-22T12:09:00Z",
       "source": "NPR News"
     }
   ]
