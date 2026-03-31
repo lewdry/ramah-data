@@ -1,6 +1,46 @@
 {
-  "last run": "2026-03-31T03:58:26Z",
+  "last run": "2026-03-31T06:29:18Z",
   "stories": [
+    {
+      "headline": "Schumer had a plan to win back the Senate. But some Democrats aren\u2019t on board",
+      "link": "https://apnews.com/article/senate-democrats-election-schumer-7bdceaee6aa547a5db98a5395cbfcdfe",
+      "mean_score": 0.37,
+      "vader_score": 0.34,
+      "textblob_score": 0.4,
+      "first_sentence": "WASHINGTON (AP) \u2014 Democrats\u2019 hopes of reclaiming the U.S.",
+      "timestamp": "2026-03-31T06:23:04Z",
+      "source": "AP News"
+    },
+    {
+      "headline": "Lomax 'no stranger' to hostile Brisbane if he makes Super Rugby debut",
+      "link": "https://www.abc.net.au/news/2026-03-31/zac-lomax-western-force-lang-park-queensland-reds/106517164",
+      "mean_score": 0.3258,
+      "vader_score": 0.3182,
+      "textblob_score": 0.3333,
+      "first_sentence": "Queensland Reds hooker Matt Faessler says rugby union convert Zac Lomax will be used to a hostile Lang Park if he makes his Super Rugby Pacific debut this weekend.",
+      "timestamp": "2026-03-31T05:17:48Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Hundreds gather to farewell 'Welcome to Country' pioneer",
+      "link": "https://www.abc.net.au/news/2026-03-31/rhoda-roberts-funeral-farewell-bundjalung/106515268",
+      "mean_score": 0.6294,
+      "vader_score": 0.4588,
+      "textblob_score": 0.8,
+      "first_sentence": "The woman who coined the term \"Welcome to Country\" has been remembered as a \"true storyteller\" and inspiration to many at a funeral on Bundjalung Country in northern New South Wales.",
+      "timestamp": "2026-03-31T05:05:09Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "More drilling in North Sea \u2018not the answer\u2019 for UK energy security, say former military leaders",
+      "link": "https://www.theguardian.com/environment/2026/mar/31/drilling-north-sea-not-the-answer-uk-energy-security",
+      "mean_score": 0.3378,
+      "vader_score": 0.5423,
+      "textblob_score": 0.1333,
+      "first_sentence": "More drilling in the North Sea would do nothing to improve the UK\u2019s energy security, former military leaders have said, as a new analysis finds no fossil fuel importer is safe from chokepoints in the global supply chain.",
+      "timestamp": "2026-03-31T05:00:32Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Sydney brick pit becomes arena in fight to save iconic frog",
       "link": "https://www.abc.net.au/news/2026-03-31/chytrid-vaccinated-bell-frogs-released-sydney-olympic-park/106511634",
@@ -2460,46 +2500,6 @@
       "first_sentence": "Two steps to the left.",
       "timestamp": "2026-03-22T14:00:23Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "The kindness of strangers: My kids sent me a birthday fax from far away \u2013 a modest man made sure I received it",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/mar/23/kindness-strangers-lost-birthday-fax-washington-hotel",
-      "mean_score": 0.441,
-      "vader_score": 0.6486,
-      "textblob_score": 0.2333,
-      "first_sentence": "In the 1990s I travelled extensively for work, leaving behind my young family.",
-      "timestamp": "2026-03-22T14:00:23Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Starmer adviser urges ministers to look at profits cap for energy and petrol firms",
-      "link": "https://www.theguardian.com/money/2026/mar/22/starmer-adviser-richard-walker-profits-cap-energy-petrol-firms",
-      "mean_score": 0.3062,
-      "vader_score": 0.6124,
-      "textblob_score": 0.0,
-      "first_sentence": "The government\u2019s top cost of living adviser has called on ministers to explore a temporary cap on the profits of energy and petrol companies to prevent them from cashing in excessively on the war in the Middle East.",
-      "timestamp": "2026-03-22T13:26:17Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "How to make the perfect cheese khachapuri \u2013 recipe | Felicity Cloake's How to make the perfect \u2026",
-      "link": "https://www.theguardian.com/food/2026/mar/22/how-to-make-the-perfect-cheese-khachapuri-recipe-felicity-cloake",
-      "mean_score": 0.9063,
-      "vader_score": 0.8126,
-      "textblob_score": 1.0,
-      "first_sentence": "Tuskadze goes on to explain in her book Supra that there are \u201cas many variations \u2026 as there are families in Georgia\u201d \u2013 the boat-shaped, open adjaruili that Polina Chesnakova notes has \u201ctaken the internet by storm\u201d, the Ossetian mashed potato variety and the Gurian take with hard-boiled eggs and a \u201csupremely fluffy, slightly oniony, souffl\u00e9-like cheese filling\u201d, which inspires Caroline Eden to share with readers of her book Green Mountains the glorious Georgian word shemomechama, \u201cwhich loosely translates as, \u2018I accidentally ate the whole thing\u2019\u201d.",
-      "timestamp": "2026-03-22T13:00:21Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "An orthopedic surgeon explains the hand injury that has many MLB players on the bench",
-      "link": "https://www.npr.org/2026/03/22/nx-s1-5729148/an-orthopedic-surgeon-explains-the-hand-injury-that-has-many-mlb-players-on-the-bench",
-      "mean_score": 0.3014,
-      "vader_score": 0.1027,
-      "textblob_score": 0.5,
-      "first_sentence": "Baseball hitters are on a quest for power.",
-      "timestamp": "2026-03-22T12:23:11Z",
-      "source": "NPR News"
     }
   ]
 }
