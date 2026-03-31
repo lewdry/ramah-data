@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Primary school with just one pupil could be closed for good",
+    "link": "https://www.bbc.com/news/articles/cr51npez4yro?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3869,
+    "vader_score": 0.4404,
+    "textblob_score": 0.3333,
+    "first_sentence": "A small school in the Scottish Borders where pupil numbers fell to just one could be closed for good.",
+    "timestamp": "2026-03-23T06:20:51Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Starwatch: Look west to see the moon blot out Leo\u2019s brightest star",
+    "link": "https://www.theguardian.com/science/2026/mar/23/starwatch-look-west-to-see-the-moon-blot-out-leos-brightest-star",
+    "mean_score": 0.3062,
+    "vader_score": 0.6124,
+    "textblob_score": 0.0,
+    "first_sentence": "There is something unexpectedly thrilling about watching one celestial object pass in front of another, an eclipse being the obvious example.",
+    "timestamp": "2026-03-23T06:00:42Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Flock and awe: inside the big changes at Henry Moore\u2019s glorious sheep-filled Hoglands home",
+    "link": "https://www.theguardian.com/artanddesign/2026/mar/23/henry-moore-sheep-barn-gallery-war-masterpieces",
+    "mean_score": 0.3185,
+    "vader_score": 0.6369,
+    "textblob_score": 0.0,
+    "first_sentence": "In September 1940, Henry Moore and his wife, Irina, left London to escape wartime bombing, ending up in the bucolic hamlet of Perry Green, where Hertfordshire meets Essex.",
+    "timestamp": "2026-03-23T05:00:41Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Have an easier morning thanks to these make-ahead breakfast recipes",
+    "link": "https://www.abc.net.au/news/2026-03-23/easy-meal-prep-breakfast-recipes-for-busy-mornings/106477666",
+    "mean_score": 0.4454,
+    "vader_score": 0.6908,
+    "textblob_score": 0.2,
+    "first_sentence": "The weekday morning routine can be difficult to perfect, but breakfast doesn't need to be a rushed slice of toast.",
+    "timestamp": "2026-03-23T04:55:29Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "How an island became ferret free  - thanks, in part, to Woody the wonderdog",
     "link": "https://www.bbc.com/news/articles/cre1jly1ny2o?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.5175,

@@ -1,6 +1,26 @@
 {
-  "last run": "2026-03-31T15:27:18Z",
+  "last run": "2026-03-31T18:19:32Z",
   "stories": [
+    {
+      "headline": "The wellness world is eager for RFK Jr.'s promised move on peptides",
+      "link": "https://www.npr.org/2026/03/31/nx-s1-5768206/peptides-rfk-fda-compounding-pharmacies",
+      "mean_score": 0.3922,
+      "vader_score": 0.7845,
+      "textblob_score": 0.0,
+      "first_sentence": "For the past month, wellness and longevity enthusiasts have eagerly waited for the federal government to loosen restrictions on some of the trendy and unapproved therapies.",
+      "timestamp": "2026-03-31T17:52:49Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "Islanders snap up free bananas after shop orders 38,000 by mistake",
+      "link": "https://www.bbc.com/news/articles/crm1kn33wk2o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3132,
+      "vader_score": 0.2263,
+      "textblob_score": 0.4,
+      "first_sentence": "A supermarket in Orkney has given away about 38,000 bananas - almost double the entire population of the islands - in just three days after accidentally ordering them.",
+      "timestamp": "2026-03-31T16:10:45Z",
+      "source": "BBC News"
+    },
     {
       "headline": "What's the best cabin layout for aircraft evacuation?",
       "link": "https://arstechnica.com/science/2026/03/whats-the-best-cabin-layout-for-aircraft-evacuation/",
@@ -329,6 +349,16 @@
       "textblob_score": 0.3333,
       "first_sentence": "Gary Woodland won the Houston Open on Sunday, a moment that seemed improbable 30 months ago when he had brain surgery, and even two weeks ago when he opened up about his struggles with post-traumatic stress disorder.",
       "timestamp": "2026-03-30T11:59:02Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018Prosthetics aren\u2019t made for people like us\u2019: the brothers creating innovative artificial limbs for Africans",
+      "link": "https://www.theguardian.com/global-development/2026/mar/30/prosthetics-brothers-creating-innovative-artificial-limbs-for-africans",
+      "mean_score": 0.3575,
+      "vader_score": 0.765,
+      "textblob_score": -0.05,
+      "first_sentence": "On a humid morning in Uyo, Nigeria, Ubokobong Amanam shows off the lifelike prosthetic where his fingers once were.",
+      "timestamp": "2026-03-30T09:00:05Z",
       "source": "The Guardian"
     },
     {
@@ -2332,6 +2362,16 @@
       "source": "The Guardian"
     },
     {
+      "headline": "Our son loved the outdoors - invisible illness means he now can't walk or talk",
+      "link": "https://www.bbc.com/news/articles/cpv8e71p3evo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.498,
+      "vader_score": 0.296,
+      "textblob_score": 0.7,
+      "first_sentence": "It is heart-breaking for Myfanwy and Charlie Sleep to watch their once active 28-year-old son lying in bed every day, unable to walk or talk.",
+      "timestamp": "2026-03-23T13:11:52Z",
+      "source": "BBC News"
+    },
+    {
       "headline": "Cecily Brown: \u2018I was too shy to talk to all these super cool kids like Sarah Lucas and Damien Hirst\u2019",
       "link": "https://www.theguardian.com/artanddesign/2026/mar/23/cecily-brown-serpentine-exhibition-sarah-lucas-damien-hirst",
       "mean_score": 0.4164,
@@ -2460,46 +2500,6 @@
       "first_sentence": "Pop culture icons and music legends are explored in a new show that has access to the BBC\u2019s vast archive.",
       "timestamp": "2026-03-23T07:00:43Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Primary school with just one pupil could be closed for good",
-      "link": "https://www.bbc.com/news/articles/cr51npez4yro?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3869,
-      "vader_score": 0.4404,
-      "textblob_score": 0.3333,
-      "first_sentence": "A small school in the Scottish Borders where pupil numbers fell to just one could be closed for good.",
-      "timestamp": "2026-03-23T06:20:51Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Starwatch: Look west to see the moon blot out Leo\u2019s brightest star",
-      "link": "https://www.theguardian.com/science/2026/mar/23/starwatch-look-west-to-see-the-moon-blot-out-leos-brightest-star",
-      "mean_score": 0.3062,
-      "vader_score": 0.6124,
-      "textblob_score": 0.0,
-      "first_sentence": "There is something unexpectedly thrilling about watching one celestial object pass in front of another, an eclipse being the obvious example.",
-      "timestamp": "2026-03-23T06:00:42Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Flock and awe: inside the big changes at Henry Moore\u2019s glorious sheep-filled Hoglands home",
-      "link": "https://www.theguardian.com/artanddesign/2026/mar/23/henry-moore-sheep-barn-gallery-war-masterpieces",
-      "mean_score": 0.3185,
-      "vader_score": 0.6369,
-      "textblob_score": 0.0,
-      "first_sentence": "In September 1940, Henry Moore and his wife, Irina, left London to escape wartime bombing, ending up in the bucolic hamlet of Perry Green, where Hertfordshire meets Essex.",
-      "timestamp": "2026-03-23T05:00:41Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Have an easier morning thanks to these make-ahead breakfast recipes",
-      "link": "https://www.abc.net.au/news/2026-03-23/easy-meal-prep-breakfast-recipes-for-busy-mornings/106477666",
-      "mean_score": 0.4454,
-      "vader_score": 0.6908,
-      "textblob_score": 0.2,
-      "first_sentence": "The weekday morning routine can be difficult to perfect, but breakfast doesn't need to be a rushed slice of toast.",
-      "timestamp": "2026-03-23T04:55:29Z",
-      "source": "ABC News"
     }
   ]
 }
