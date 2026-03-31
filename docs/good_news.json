@@ -1,6 +1,56 @@
 {
-  "last run": "2026-03-31T12:19:05Z",
+  "last run": "2026-03-31T15:27:18Z",
   "stories": [
+    {
+      "headline": "What's the best cabin layout for aircraft evacuation?",
+      "link": "https://arstechnica.com/science/2026/03/whats-the-best-cabin-layout-for-aircraft-evacuation/",
+      "mean_score": 0.8185,
+      "vader_score": 0.6369,
+      "textblob_score": 1.0,
+      "first_sentence": "The key is to evenly distribute elderly passengers, who move more slowly, among the aircraft cabins.",
+      "timestamp": "2026-03-31T15:00:57Z",
+      "source": "Ars Technica"
+    },
+    {
+      "headline": "\u2018A good little hack for giant yorkies\u2019: top chefs on everything you need to make the perfect roast",
+      "link": "https://www.theguardian.com/thefilter/2026/mar/31/chefs-everything-you-need-perfect-roast",
+      "mean_score": 0.6076,
+      "vader_score": 0.8126,
+      "textblob_score": 0.4025,
+      "first_sentence": "The Guardian\u2019s journalism is independent.",
+      "timestamp": "2026-03-31T14:00:03Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "As Bondi\u2019s Jewish community celebrates Passover, freedom and fear are front of mind",
+      "link": "https://www.theguardian.com/australia-news/2026/apr/01/bondi-jewish-community-passover-freedom-fear-ntwnfb",
+      "mean_score": 0.3454,
+      "vader_score": 0.6908,
+      "textblob_score": 0.0,
+      "first_sentence": "Schlanger\u2019s highlight of the holiday was the first night, which they celebrated as a family, allowing him to focus on his children \u2013 engaging them in the story of their ancestors\u2019 liberation from slavery in Egypt more than 3,000 years ago.",
+      "timestamp": "2026-03-31T14:00:01Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Smiley Face: finally, a stoner comedy for the girls who get overstimulated at the supermarket",
+      "link": "https://www.theguardian.com/culture/2026/apr/01/smiley-face-stoner-comedy-film",
+      "mean_score": 0.3185,
+      "vader_score": 0.6369,
+      "textblob_score": 0.0,
+      "first_sentence": "It\u2019s hard not to feel a strange sense of kinship with each of the hapless heroines played by Anna Faris.",
+      "timestamp": "2026-03-31T14:00:00Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018It was an exorcism\u2019: how heartbreak, queer rebirth and finding love over Only Connect shaped Wendy Eisenberg\u2019s stunning new album",
+      "link": "https://www.theguardian.com/music/2026/mar/31/it-was-an-exorcism-how-heartbreak-queer-rebirth-and-finding-love-over-only-connect-shaped-wendy-eisenbergs-stunning-new-album",
+      "mean_score": 0.3804,
+      "vader_score": 0.4767,
+      "textblob_score": 0.2841,
+      "first_sentence": "While out on their fevered walk, Eisenberg ran into an old friend.",
+      "timestamp": "2026-03-31T13:00:56Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "The Drama review \u2013 Zendaya and Robert Pattinson\u2019s controversial wedding film delivers on its promise",
       "link": "https://www.theguardian.com/film/2026/mar/31/the-drama-review-zendaya-robert-pattinson-wedding-film",
@@ -2450,56 +2500,6 @@
       "first_sentence": "The weekday morning routine can be difficult to perfect, but breakfast doesn't need to be a rushed slice of toast.",
       "timestamp": "2026-03-23T04:55:29Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "How an island became ferret free  - thanks, in part, to Woody the wonderdog",
-      "link": "https://www.bbc.com/news/articles/cre1jly1ny2o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5175,
-      "vader_score": 0.7351,
-      "textblob_score": 0.3,
-      "first_sentence": "In a world-first, Rathlin Island, off the coast of County Antrim, has eradicated ferrets.",
-      "timestamp": "2026-03-23T00:00:16Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Jess Hull says 'my time is coming' after another world championship medal",
-      "link": "https://www.abc.net.au/news/2026-03-23/jess-hull-wins-second-world-indoor-medal-in-1500-metres/106485142",
-      "mean_score": 0.3592,
-      "vader_score": 0.7184,
-      "textblob_score": 0.0,
-      "first_sentence": "Jess Hull took women's silver and Adam Spencer nabbed men's bronze in the 1,500m at the World Athletics Indoor Championships.",
-      "timestamp": "2026-03-22T22:15:38Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Our son loved being outdoors - now ME means he can't walk or talk",
-      "link": "https://www.bbc.com/news/articles/cpv8e71p3evo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.6497,
-      "vader_score": 0.5994,
-      "textblob_score": 0.7,
-      "first_sentence": "It is heart-breaking for Myfanwy and Charlie Sleep to watch their once active 28-year-old son lying in bed every day, unable to walk or talk.",
-      "timestamp": "2026-03-22T22:01:36Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "How a 15-year-old boy became a surprise Melbourne Cup winner",
-      "link": "https://www.abc.net.au/news/2026-03-23/birchip-silo-art-melbourne-cup-history-horse-racing-regional/106446886",
-      "mean_score": 0.3548,
-      "vader_score": 0.7096,
-      "textblob_score": 0.0,
-      "first_sentence": "In 1948, country Victoria's Ray Neville stunned the nation, becoming one of the youngest jockeys to win the Melbourne Cup.",
-      "timestamp": "2026-03-22T21:06:16Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Prince William keen to build 'strong and meaningful' bond with Church",
-      "link": "https://www.bbc.com/news/articles/cx230em8jg7o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.6315,
-      "vader_score": 0.7964,
-      "textblob_score": 0.4667,
-      "first_sentence": "The Prince of Wales is \"keen to build a strong and meaningful bond\" with the Church of England, a royal aide has said, ahead of the future monarch attending the new Archbishop of Canterbury's official installation this week.",
-      "timestamp": "2026-03-22T20:59:37Z",
-      "source": "BBC News"
     }
   ]
 }
