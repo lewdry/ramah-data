@@ -1,6 +1,46 @@
 {
-  "last run": "2026-03-30T21:15:21Z",
+  "last run": "2026-03-31T00:23:07Z",
   "stories": [
+    {
+      "headline": "Australian politics live: MP celebrates end to \u2018rip off at the checkout\u2019 as RBA moves to end credit card surcharges by October",
+      "link": "https://www.theguardian.com/australia-news/live/2026/mar/31/australian-politics-live-social-media-ban-cost-of-living-fuel-crisis-excise-inflation-anthony-albanese-jim-chalmers-budget-ntwnfb",
+      "mean_score": 0.4056,
+      "vader_score": 0.743,
+      "textblob_score": 0.0682,
+      "first_sentence": "Labor MP Jerome Laxale has been leading the charge on ending surcharges for card transactions, which has now been removed by the Reserve Bank.",
+      "timestamp": "2026-03-31T00:18:00Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "New bin rules begin in England but not all councils are ready",
+      "link": "https://www.bbc.com/news/articles/cn4vwj0yj20o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3352,
+      "vader_score": 0.5023,
+      "textblob_score": 0.1682,
+      "first_sentence": "New rules requiring weekly food waste collections for all homes in England have come into force, but dozens of councils are still not ready to provide the service.",
+      "timestamp": "2026-03-30T23:41:43Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Fair Work Commission abolishes junior pay rates for young adults",
+      "link": "https://www.abc.net.au/news/2026-03-31/fair-work-comission-junior-pay-rates-retail-fast-food/106514948",
+      "mean_score": 0.3131,
+      "vader_score": 0.2263,
+      "textblob_score": 0.4,
+      "first_sentence": "Young adults working in retail, fast food and pharmacies are set to receive a pay rise, after a decision by the Fair Work Commission described as \"up there with the introduction of equal pay for women in the 1970s\".",
+      "timestamp": "2026-03-30T23:29:17Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Concerns about light and noise from $1b outback energy project resolved",
+      "link": "https://www.abc.net.au/news/2026-03-31/hydrostor-energy-stargazing-tourism-business-dispute-resolved/106497838",
+      "mean_score": 0.4108,
+      "vader_score": 0.4215,
+      "textblob_score": 0.4,
+      "first_sentence": "An astronomy business has resolved its dispute with Canadian company Hydrostor over its energy storage project in far-west NSW.",
+      "timestamp": "2026-03-30T21:33:03Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Australia\u2019s most high-profile manhunt ended in a sleepy high country farming community. But how did Dezi Freeman get to Thologolong?",
       "link": "https://www.theguardian.com/australia-news/2026/mar/31/australias-most-high-profile-manhunt-ended-in-a-sleepy-high-country-farming-community-but-how-did-dezi-freeman-get-to-thologolong-ntwnfb",
@@ -119,6 +159,16 @@
       "textblob_score": 0.3833,
       "first_sentence": "Pithiviers look absolutely beautiful at the table.",
       "timestamp": "2026-03-30T12:00:10Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Gary Woodland wins Houston Open after brain surgery and PTSD struggles: \u2018Today was a good day\u2019",
+      "link": "https://www.theguardian.com/sport/2026/mar/30/gary-woodland-wins-houston-open-after-brain-surgery-and-ptsd-struggles-today-was-a-good-day",
+      "mean_score": 0.4791,
+      "vader_score": 0.6249,
+      "textblob_score": 0.3333,
+      "first_sentence": "Gary Woodland won the Houston Open on Sunday, a moment that seemed improbable 30 months ago when he had brain surgery, and even two weeks ago when he opened up about his struggles with post-traumatic stress disorder.",
+      "timestamp": "2026-03-30T11:59:02Z",
       "source": "The Guardian"
     },
     {
@@ -2450,56 +2500,6 @@
       "first_sentence": "ALLENTOWN, Pa.",
       "timestamp": "2026-03-22T12:09:00Z",
       "source": "NPR News"
-    },
-    {
-      "headline": "\u2018I want my career, my children and a free supple life\u2019: Sylvia Plath\u2019s radical reinvention",
-      "link": "https://www.theguardian.com/books/2026/mar/22/i-want-my-career-my-children-and-a-free-supple-life-sylvia-plaths-radical-reinvention",
-      "mean_score": 0.4787,
-      "vader_score": 0.5574,
-      "textblob_score": 0.4,
-      "first_sentence": "In February 1962, Sylvia Plath dropped in on her neighbour in Devon, Rose Key, with \u201ca plate of absolutely indigestible Black Walnut-flavored cupcakes\u201d.",
-      "timestamp": "2026-03-22T12:00:20Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Goggia wins to lock up World Cup super-G title. Aicher further closes gap on overall leader Shiffrin",
-      "link": "https://apnews.com/article/alpine-skiing-superg-goggia-shiffrin-olympics-e1189931bb31afee4ba998509a5b5ab0",
-      "mean_score": 0.3359,
-      "vader_score": 0.5719,
-      "textblob_score": 0.1,
-      "first_sentence": "KVITFJELL, Norway (AP) \u2014 Sofia Goggia won her third super-G of the season at the World Cup finals on Sunday to secure the discipline title, while Emma Aicher further closed the gap to overall leader Mikaela Shiffrin.",
-      "timestamp": "2026-03-22T11:53:02Z",
-      "source": "AP News"
-    },
-    {
-      "headline": "Welcome to allergy season. Here\u2019s how to protect yourself",
-      "link": "https://apnews.com/article/allergy-pollen-immunotherapy-itchy-eyes-0bc02ee3b306da565a48817066ba05b5",
-      "mean_score": 0.7404,
-      "vader_score": 0.6808,
-      "textblob_score": 0.8,
-      "first_sentence": "ATLANTA (AP) \u2014 Allergy season can be miserable for tens of millions of Americans when trees, grass, and other pollens cause runny noses, itchy eyes, coughing and sneezing.",
-      "timestamp": "2026-03-22T11:53:02Z",
-      "source": "AP News"
-    },
-    {
-      "headline": "Cooking with Angela Hartnett: \u2018I love food, but I don\u2019t need to talk about it 24/7\u2019",
-      "link": "https://www.theguardian.com/food/2026/mar/22/i-love-food-cooking-angela-hartnett-interview-zoe-williams",
-      "mean_score": 0.4409,
-      "vader_score": 0.3818,
-      "textblob_score": 0.5,
-      "first_sentence": "Angela Hartnett\u2019s home kitchen isn\u2019t a place you could recreate, however much Le Creuset you bought.",
-      "timestamp": "2026-03-22T10:00:18Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "How tacking centre left will help Labour win the next election | Andy Beckett",
-      "link": "https://www.theguardian.com/commentisfree/2026/mar/22/labour-left-centre-win-election-fragmented-electorate",
-      "mean_score": 0.5123,
-      "vader_score": 0.7579,
-      "textblob_score": 0.2667,
-      "first_sentence": "Led by a probably doomed prime minister, presiding over a struggling economy, exposed by an ongoing scandal, besieged by populist insurgents to its right and left, ambushed by a war that will bring higher inflation and public debt, and predicted to win just 75 seats at the next general election, according to the website Electoral Calculus, Labour is in an unprecedented crisis.",
-      "timestamp": "2026-03-22T08:00:16Z",
-      "source": "The Guardian"
     }
   ]
 }

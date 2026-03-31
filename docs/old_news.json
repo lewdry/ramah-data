@@ -1,5 +1,55 @@
 [
   {
+    "headline": "\u2018I want my career, my children and a free supple life\u2019: Sylvia Plath\u2019s radical reinvention",
+    "link": "https://www.theguardian.com/books/2026/mar/22/i-want-my-career-my-children-and-a-free-supple-life-sylvia-plaths-radical-reinvention",
+    "mean_score": 0.4787,
+    "vader_score": 0.5574,
+    "textblob_score": 0.4,
+    "first_sentence": "In February 1962, Sylvia Plath dropped in on her neighbour in Devon, Rose Key, with \u201ca plate of absolutely indigestible Black Walnut-flavored cupcakes\u201d.",
+    "timestamp": "2026-03-22T12:00:20Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Goggia wins to lock up World Cup super-G title. Aicher further closes gap on overall leader Shiffrin",
+    "link": "https://apnews.com/article/alpine-skiing-superg-goggia-shiffrin-olympics-e1189931bb31afee4ba998509a5b5ab0",
+    "mean_score": 0.3359,
+    "vader_score": 0.5719,
+    "textblob_score": 0.1,
+    "first_sentence": "KVITFJELL, Norway (AP) \u2014 Sofia Goggia won her third super-G of the season at the World Cup finals on Sunday to secure the discipline title, while Emma Aicher further closed the gap to overall leader Mikaela Shiffrin.",
+    "timestamp": "2026-03-22T11:53:02Z",
+    "source": "AP News"
+  },
+  {
+    "headline": "Welcome to allergy season. Here\u2019s how to protect yourself",
+    "link": "https://apnews.com/article/allergy-pollen-immunotherapy-itchy-eyes-0bc02ee3b306da565a48817066ba05b5",
+    "mean_score": 0.7404,
+    "vader_score": 0.6808,
+    "textblob_score": 0.8,
+    "first_sentence": "ATLANTA (AP) \u2014 Allergy season can be miserable for tens of millions of Americans when trees, grass, and other pollens cause runny noses, itchy eyes, coughing and sneezing.",
+    "timestamp": "2026-03-22T11:53:02Z",
+    "source": "AP News"
+  },
+  {
+    "headline": "Cooking with Angela Hartnett: \u2018I love food, but I don\u2019t need to talk about it 24/7\u2019",
+    "link": "https://www.theguardian.com/food/2026/mar/22/i-love-food-cooking-angela-hartnett-interview-zoe-williams",
+    "mean_score": 0.4409,
+    "vader_score": 0.3818,
+    "textblob_score": 0.5,
+    "first_sentence": "Angela Hartnett\u2019s home kitchen isn\u2019t a place you could recreate, however much Le Creuset you bought.",
+    "timestamp": "2026-03-22T10:00:18Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "How tacking centre left will help Labour win the next election | Andy Beckett",
+    "link": "https://www.theguardian.com/commentisfree/2026/mar/22/labour-left-centre-win-election-fragmented-electorate",
+    "mean_score": 0.5123,
+    "vader_score": 0.7579,
+    "textblob_score": 0.2667,
+    "first_sentence": "Led by a probably doomed prime minister, presiding over a struggling economy, exposed by an ongoing scandal, besieged by populist insurgents to its right and left, ambushed by a war that will bring higher inflation and public debt, and predicted to win just 75 seats at the next general election, according to the website Electoral Calculus, Labour is in an unprecedented crisis.",
+    "timestamp": "2026-03-22T08:00:16Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "\u2018We can create hype\u2019: H&M\u2019s UK boss on its commitment to the high street",
     "link": "https://www.theguardian.com/business/2026/mar/22/h-and-m-uk-high-street-karen-orourke",
     "mean_score": 0.3659,
