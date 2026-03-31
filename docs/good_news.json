@@ -1,6 +1,36 @@
 {
-  "last run": "2026-03-31T06:29:18Z",
+  "last run": "2026-03-31T09:24:33Z",
   "stories": [
+    {
+      "headline": "Australia v Cura\u00e7ao: Fifa Series men\u2019s international football friendly \u2013 live",
+      "link": "https://www.theguardian.com/football/live/2026/mar/31/australia-v-curacao-fifa-series-mens-international-football-friendly-live",
+      "mean_score": 0.3322,
+      "vader_score": 0.4939,
+      "textblob_score": 0.1705,
+      "first_sentence": "10 mins: Juric darts forward on the left and reaches the edge of the box before he is disposseed.",
+      "timestamp": "2026-03-31T09:17:19Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Jim Chalmers claims removing card surcharges will ease cost-of-living pressures. But will you be better off?",
+      "link": "https://www.theguardian.com/australia-news/2026/mar/31/jim-chalmers-claims-removing-card-surcharges-will-ease-cost-of-living-pressures-but-will-you-be-better-off",
+      "mean_score": 0.553,
+      "vader_score": 0.6059,
+      "textblob_score": 0.5,
+      "first_sentence": "Credit card rewards are likely to fall and businesses could hike their prices when Australia ends debit and credit card surcharges in October.",
+      "timestamp": "2026-03-31T08:16:33Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Legal experts push back on removal of 'good character' evidence in NSW",
+      "link": "https://www.abc.net.au/news/2026-03-31/nsw-government-proposed-removal-good-character-evidence-justice/106517568",
+      "mean_score": 0.4133,
+      "vader_score": 0.5267,
+      "textblob_score": 0.3,
+      "first_sentence": "Legal figures are warning a proposed change to New South Wales sentencing laws prohibiting 'good character' evidence goes too far.",
+      "timestamp": "2026-03-31T06:36:50Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Schumer had a plan to win back the Senate. But some Democrats aren\u2019t on board",
       "link": "https://apnews.com/article/senate-democrats-election-schumer-7bdceaee6aa547a5db98a5395cbfcdfe",
@@ -39,6 +69,16 @@
       "textblob_score": 0.1333,
       "first_sentence": "More drilling in the North Sea would do nothing to improve the UK\u2019s energy security, former military leaders have said, as a new analysis finds no fossil fuel importer is safe from chokepoints in the global supply chain.",
       "timestamp": "2026-03-31T05:00:32Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Viktor Orb\u00e1n has the support of both Russia and the US. Here\u2019s why that doesn\u2019t seem to be doing him any good | P\u00e9ter Krek\u00f3",
+      "link": "https://www.theguardian.com/commentisfree/2026/mar/31/viktor-orban-us-russian-support-hungary-iran-war-voters",
+      "mean_score": 0.6904,
+      "vader_score": 0.6808,
+      "textblob_score": 0.7,
+      "first_sentence": "On 3 March, Viktor Orb\u00e1n held a phone conversation with Vladimir Putin.",
+      "timestamp": "2026-03-31T04:00:31Z",
       "source": "The Guardian"
     },
     {
@@ -2460,46 +2500,6 @@
       "first_sentence": "What often starts as an ordinary issue with a neighbour, like a barking dog or overhanging tree, can snowball into conflict when not handled well.",
       "timestamp": "2026-03-22T19:00:00Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Manchester City win Carabao Cup after Nico O\u2019Reilly\u2019s double downs lacklustre Arsenal",
-      "link": "https://www.theguardian.com/football/2026/mar/22/arsenal-manchester-city-carabao-cup-final-match-report",
-      "mean_score": 0.4929,
-      "vader_score": 0.5859,
-      "textblob_score": 0.4,
-      "first_sentence": "There was a time when the old trophy with the three handles felt like the personal property of Pep Guardiola.",
-      "timestamp": "2026-03-22T18:45:24Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Matildas need a grand plan to stave off end-of-an-era concerns",
-      "link": "https://www.abc.net.au/news/2026-03-23/matildas-womens-asian-cup-grand-plan-needed/106484046",
-      "mean_score": 0.4794,
-      "vader_score": 0.4588,
-      "textblob_score": 0.5,
-      "first_sentence": "The day after the Matildas' loss to Japan in the final of the Women's Asian Cup, they fronted a 'thank you' event in Sydney, attended by a couple of thousand fans.",
-      "timestamp": "2026-03-22T18:44:10Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Ollie Watkins puts seal on Villa\u2019s win over West Ham after England omission",
-      "link": "https://www.theguardian.com/football/2026/mar/22/aston-villa-west-ham-premier-league-match-report",
-      "mean_score": 0.6929,
-      "vader_score": 0.5859,
-      "textblob_score": 0.8,
-      "first_sentence": "While Ollie Watkins gave the most articulate response to his omission from the England squad with the second-half goal that consolidated Aston Villa\u2019s place in the Premier League\u2019s top four, the most rousing noise around Villa Park arrived when Youri Tielemans replaced John McGinn a minute earlier.",
-      "timestamp": "2026-03-22T16:32:35Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The Matildas\u2019 near misses sting but their Asian Cup final suggests this great team are not done",
-      "link": "https://www.theguardian.com/football/2026/mar/23/australia-matildas-near-misses-sting-but-asian-cup-final-suggests-great-team-not-done",
-      "mean_score": 0.5179,
-      "vader_score": 0.8107,
-      "textblob_score": 0.225,
-      "first_sentence": "Two steps to the left.",
-      "timestamp": "2026-03-22T14:00:23Z",
-      "source": "The Guardian"
     }
   ]
 }
