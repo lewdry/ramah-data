@@ -1,6 +1,16 @@
 {
-  "last run": "2026-04-01T00:25:25Z",
+  "last run": "2026-04-01T04:03:06Z",
   "stories": [
+    {
+      "headline": "SA primary school principals' association query free public school policy",
+      "link": "https://www.abc.net.au/news/2026-04-01/questions-over-free-public-school-policy-sa/106519710",
+      "mean_score": 0.3886,
+      "vader_score": 0.5106,
+      "textblob_score": 0.2667,
+      "first_sentence": "Ahead of winning the state election, Labor promised to abolish fees for public schools.",
+      "timestamp": "2026-04-01T01:17:27Z",
+      "source": "ABC News"
+    },
     {
       "headline": "How English-only condolences undid one of Canada's top CEOs",
       "link": "https://www.bbc.com/news/articles/cyv1q9gz39do?at_medium=RSS&at_campaign=rss",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.1227,
       "first_sentence": "Slovenia\u2019s incumbent liberal prime minister Robert Golob claimed victory in parliamentary elections on Sunday, as results put his party just slightly ahead of the populist conservatives led by Trump-ally Janez Jan\u0161a.",
       "timestamp": "2026-03-23T09:08:26Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018A big smile on my face\u2019: why Everybody Wants Some!! is my feelgood movie",
-      "link": "https://www.theguardian.com/film/2026/mar/23/everybody-wants-some-richard-linklater-feelgood-movie",
-      "mean_score": 0.339,
-      "vader_score": 0.4738,
-      "textblob_score": 0.2042,
-      "first_sentence": "If any film can make me feel like a teenager again, it\u2019s Everybody Wants Some!!.",
-      "timestamp": "2026-03-23T09:00:45Z",
       "source": "The Guardian"
     }
   ]
