@@ -1,6 +1,36 @@
 {
-  "last run": "2026-04-01T04:03:06Z",
+  "last run": "2026-04-01T06:34:57Z",
   "stories": [
+    {
+      "headline": "Amsterdam celebrates 25 years since the world\u2019s first same-sex weddings",
+      "link": "https://apnews.com/article/gay-marriage-netherlands-25-anniversary-lgbtq-d96f6f88bd9e2365322a9056017ba8fa",
+      "mean_score": 0.4109,
+      "vader_score": 0.5719,
+      "textblob_score": 0.25,
+      "first_sentence": "AMSTERDAM (AP) \u2014 The Dutch capital marked the 25th anniversary of the world\u2019s first gay marriages with three same-sex couples tying the knot at City Hall early Wednesday.",
+      "timestamp": "2026-04-01T06:23:03Z",
+      "source": "AP News"
+    },
+    {
+      "headline": "Arnold carried in jubilant scenes after Iraq qualifies for World Cup",
+      "link": "https://www.abc.net.au/news/2026-04-01/graham-arnold-coaches-iraq-to-fifa-world-cup/106522826",
+      "mean_score": 0.3062,
+      "vader_score": 0.6124,
+      "textblob_score": 0.0,
+      "first_sentence": "Iraq is the final nation to secure a spot in this year's FIFA World Cup with a 2-1 win over Bolivia.",
+      "timestamp": "2026-04-01T05:27:47Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "'A region rich in culture': Eurovision to launch inaugural Asia edition",
+      "link": "https://www.sbs.com.au/news/article/eurovision-launches-inaugural-asia-edition-in-bangkok/6iqvy3io3",
+      "mean_score": 0.4662,
+      "vader_score": 0.5574,
+      "textblob_score": 0.375,
+      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+      "timestamp": "2026-04-01T01:34:24Z",
+      "source": "SBS News"
+    },
     {
       "headline": "SA primary school principals' association query free public school policy",
       "link": "https://www.abc.net.au/news/2026-04-01/questions-over-free-public-school-policy-sa/106519710",
@@ -10,6 +40,16 @@
       "first_sentence": "Ahead of winning the state election, Labor promised to abolish fees for public schools.",
       "timestamp": "2026-04-01T01:17:27Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "'It's going to be a great show': Crowds gather for countdown to Nasa\u2019s Artemis launch",
+      "link": "https://www.bbc.com/news/articles/cz0e1myvl2ko?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.7125,
+      "vader_score": 0.6249,
+      "textblob_score": 0.8,
+      "first_sentence": "\"People going up to the Moon is kind of cool,\" eight-year-old Isiah says.",
+      "timestamp": "2026-04-01T00:00:18Z",
+      "source": "BBC News"
     },
     {
       "headline": "How English-only condolences undid one of Canada's top CEOs",
@@ -2459,46 +2499,6 @@
       "textblob_score": 0.0611,
       "first_sentence": "You would think, then, that she\u2019d be returning triumphant.",
       "timestamp": "2026-03-23T12:15:36Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018There\u2019s biological treasure here\u2019: Chile\u2019s endemic seals gain protection with new marine park",
-      "link": "https://www.theguardian.com/environment/2026/mar/23/chile-seals-colony-gain-protection-new-marine-park-juan-fernandez-archipelago-wildlife",
-      "mean_score": 0.4086,
-      "vader_score": 0.6808,
-      "textblob_score": 0.1364,
-      "first_sentence": "Six decades ago, pioneering oceanographer and conservationist Sylvia Earle made a bittersweet discovery while diving off Chile\u2019s oceanic islands with the US National Science Foundation vessel, the Anton Bruun.",
-      "timestamp": "2026-03-23T12:00:49Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "A unique NASA satellite is falling out of orbit\u2014this team is trying to rescue it",
-      "link": "https://arstechnica.com/space/2026/03/a-unique-nasa-satellite-is-falling-out-of-orbit-this-team-is-trying-to-rescue-it/",
-      "mean_score": 0.3884,
-      "vader_score": 0.4019,
-      "textblob_score": 0.375,
-      "first_sentence": "Katalyst Space Technologies must launch the Swift rescue mission by this summer.",
-      "timestamp": "2026-03-23T11:00:01Z",
-      "source": "Ars Technica"
-    },
-    {
-      "headline": "Welcome to the United States of Mancunia",
-      "link": "https://www.theguardian.com/food/2026/mar/23/united-states-of-mancunia-american-fast-food-manchester",
-      "mean_score": 0.7502,
-      "vader_score": 0.7003,
-      "textblob_score": 0.8,
-      "first_sentence": "A new wave of hyper-regional hoagies, subs and pizzas are taking over Manchester\u2019s food scene.",
-      "timestamp": "2026-03-23T10:00:46Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Pro-EU liberals see narrow win in Slovenia as key Italian referendum enters final hours \u2013 Europe live",
-      "link": "https://www.theguardian.com/world/live/2026/mar/23/local-eu-elections-slovenia-italy-france-latest-updates-news",
-      "mean_score": 0.3543,
-      "vader_score": 0.5859,
-      "textblob_score": 0.1227,
-      "first_sentence": "Slovenia\u2019s incumbent liberal prime minister Robert Golob claimed victory in parliamentary elections on Sunday, as results put his party just slightly ahead of the populist conservatives led by Trump-ally Janez Jan\u0161a.",
-      "timestamp": "2026-03-23T09:08:26Z",
       "source": "The Guardian"
     }
   ]
