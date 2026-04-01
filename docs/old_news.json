@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Blades of glory (or not): what makes a chef\u2019s knife truly great?",
+    "link": "https://www.theguardian.com/thefilter/2026/mar/20/what-makes-chefs-knife-great",
+    "mean_score": 0.8442,
+    "vader_score": 0.8885,
+    "textblob_score": 0.8,
+    "first_sentence": "The Guardian\u2019s journalism is independent.",
+    "timestamp": "2026-03-23T15:00:52Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "AI will tell you Australia\u2019s fuel reserve is in the US. But is that even true?",
+    "link": "https://www.theguardian.com/australia-news/2026/mar/24/australia-fuel-reserve-what-and-where-is-it",
+    "mean_score": 0.4609,
+    "vader_score": 0.5719,
+    "textblob_score": 0.35,
+    "first_sentence": "If you Google where Australia\u2019s emergency fuel reserves are held, the search engine\u2019s AI overview will tell you that a \u201csignificant portion\u201d of it is stored overseas in the US.",
+    "timestamp": "2026-03-23T14:00:52Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Cecily Brown: \u2018I was too shy to talk to all these super cool kids like Sarah Lucas and Damien Hirst\u2019",
+    "link": "https://www.theguardian.com/artanddesign/2026/mar/23/cecily-brown-serpentine-exhibition-sarah-lucas-damien-hirst",
+    "mean_score": 0.4164,
+    "vader_score": 0.7717,
+    "textblob_score": 0.0611,
+    "first_sentence": "You would think, then, that she\u2019d be returning triumphant.",
+    "timestamp": "2026-03-23T12:15:36Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "\u2018There\u2019s biological treasure here\u2019: Chile\u2019s endemic seals gain protection with new marine park",
     "link": "https://www.theguardian.com/environment/2026/mar/23/chile-seals-colony-gain-protection-new-marine-park-juan-fernandez-archipelago-wildlife",
     "mean_score": 0.4086,
