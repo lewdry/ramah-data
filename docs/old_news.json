@@ -1,5 +1,55 @@
 [
   {
+    "headline": "Live: Albanese, EU boss give green light to free trade deal",
+    "link": "https://www.abc.net.au/news/2026-03-24/federal-politics-blog-albanese-eu-trade-deal-fuel/106487714",
+    "mean_score": 0.3473,
+    "vader_score": 0.5106,
+    "textblob_score": 0.1841,
+    "first_sentence": "After almost a decade of negotiations, Prime Minister Anthony Albanese has confirmed Australia has struck a free trade agreement with the European Union.",
+    "timestamp": "2026-03-23T19:59:03Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Australia and European Union to sign free trade agreement decades in the making",
+    "link": "https://www.abc.net.au/news/2026-03-24/eu-australia-free-trade-agreement-reached/106488438",
+    "mean_score": 0.4789,
+    "vader_score": 0.7579,
+    "textblob_score": 0.2,
+    "first_sentence": "Australia and the European Union look set to finally sign off on a long-awaited free trade pact after almost a decade of negotiations.",
+    "timestamp": "2026-03-23T19:05:38Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Aged care algorithm 'like Russian roulette'",
+    "link": "https://www.abc.net.au/news/2026-03-24/aged-care-algorithm-for-home-care-under-fire/106475138",
+    "mean_score": 0.3204,
+    "vader_score": 0.6908,
+    "textblob_score": -0.05,
+    "first_sentence": "The algorithm to determine a person's eligibility for in-home care came into effect in November.",
+    "timestamp": "2026-03-23T18:50:02Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Viktor Orb\u00e1n celebrated by Europe\u2019s far right before Hungary election",
+    "link": "https://www.theguardian.com/world/2026/mar/23/viktor-orban-celebrated-europe-far-right-hungary-election",
+    "mean_score": 0.4086,
+    "vader_score": 0.5719,
+    "textblob_score": 0.2452,
+    "first_sentence": "Marine Le Pen has called Viktor Orb\u00e1n \u201can exceptional leader\u201d and Geert Wilders hailed \u201ca lion on a continent led by sheep\u201d as Europe\u2019s far-right figureheads rallied round Hungary\u2019s prime minister before an election that polls suggest he may lose.",
+    "timestamp": "2026-03-23T17:56:59Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "WNBA players unanimously approve a new 7-year collective bargaining agreement through 2032",
+    "link": "https://apnews.com/article/cba-wnba-vote-2b56582d24d56d6cdeb0711e584cc7b9",
+    "mean_score": 0.3151,
+    "vader_score": 0.4939,
+    "textblob_score": 0.1364,
+    "first_sentence": "NEW YORK (AP) \u2014 WNBA players unanimously approved the new collective bargaining agreement on Monday with more than 90% participating in voting over the weekend.",
+    "timestamp": "2026-03-23T15:53:02Z",
+    "source": "AP News"
+  },
+  {
     "headline": "Blades of glory (or not): what makes a chef\u2019s knife truly great?",
     "link": "https://www.theguardian.com/thefilter/2026/mar/20/what-makes-chefs-knife-great",
     "mean_score": 0.8442,
@@ -3057,6 +3107,16 @@
     "textblob_score": 0.3333,
     "first_sentence": "Gaining powers like his hero Spider-Man puts teen Miles in danger, but he is not alone.",
     "timestamp": "2026-03-14T15:41:00Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Classic musical comedy about the ups and downs of true love",
+    "link": "https://www.bbc.co.uk/iplayer/episode/m001nx09?at_mid=Zdbdw3VilD&at_campaign=Sweet_Charity&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m001nx09&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Sweet_Charity&at_bbc_team=BBC&at_creation=film",
+    "mean_score": 0.5566,
+    "vader_score": 0.8591,
+    "textblob_score": 0.2542,
+    "first_sentence": "Musical comedy about the romantic ups and downs of a dance partner-for-hire at a seedy New York dance hall, who longs for true love but has bad luck with men.",
+    "timestamp": "2026-03-14T14:29:28Z",
     "source": "BBC News"
   },
   {

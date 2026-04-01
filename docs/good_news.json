@@ -1,6 +1,36 @@
 {
-  "last run": "2026-04-01T09:26:49Z",
+  "last run": "2026-04-01T12:18:49Z",
   "stories": [
+    {
+      "headline": "DR Congo declares national holiday after reaching World Cup for first time in 52 years",
+      "link": "https://www.bbc.com/news/articles/cm296yv05eeo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3962,
+      "vader_score": 0.5423,
+      "textblob_score": 0.25,
+      "first_sentence": "Authorities in the Democratic Republic Congo have declared Wednesday a public holiday after the national football team qualified for their first World Cup in 52 years.",
+      "timestamp": "2026-04-01T11:46:50Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Bland or fan love letter? The Super Mario Galaxy Movie draws mixed reaction",
+      "link": "https://www.bbc.com/news/articles/cpvxky2jx79o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5263,
+      "vader_score": 0.886,
+      "textblob_score": 0.1667,
+      "first_sentence": "The most famous plumber in the world returns to cinemas this week with a sequel to the mega-successful Super Mario Brothers Movie.",
+      "timestamp": "2026-04-01T11:43:32Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Yes, the rich must start paying their fair share of taxes | Bernie Sanders",
+      "link": "https://www.theguardian.com/commentisfree/2026/apr/01/billionaire-wealth-tax-trump",
+      "mean_score": 0.7032,
+      "vader_score": 0.8689,
+      "textblob_score": 0.5375,
+      "first_sentence": "Never before in American history have so few had so much wealth and power.",
+      "timestamp": "2026-04-01T10:00:24Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Sali Hughes on beauty: new foundation launches come with a lot of hype. Do they deserve it?",
       "link": "https://www.theguardian.com/fashion/2026/apr/01/sali-hughes-on-beauty-new-foundation-launches",
@@ -62,6 +92,16 @@
       "source": "ABC News"
     },
     {
+      "headline": "'Afro hair care workshops are about more than styling, they're about belonging'",
+      "link": "https://www.bbc.com/news/articles/c2lryn2xvd0o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.497,
+      "vader_score": 0.4939,
+      "textblob_score": 0.5,
+      "first_sentence": "Growing up as a teenager of mixed heritage in Wrexham in the 1990s, Natalie Edwards remembers struggling to find services or understanding of how to care for her afro hair.",
+      "timestamp": "2026-04-01T05:13:48Z",
+      "source": "BBC News"
+    },
+    {
       "headline": "'A region rich in culture': Eurovision to launch inaugural Asia edition",
       "link": "https://www.sbs.com.au/news/article/eurovision-launches-inaugural-asia-edition-in-bangkok/6iqvy3io3",
       "mean_score": 0.4662,
@@ -80,6 +120,16 @@
       "first_sentence": "Ahead of winning the state election, Labor promised to abolish fees for public schools.",
       "timestamp": "2026-04-01T01:17:27Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "Billion-plus people, three million officials, 33 questions - India begins huge census",
+      "link": "https://www.bbc.com/news/articles/c7vqnpqrgy3o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3591,
+      "vader_score": 0.3182,
+      "textblob_score": 0.4,
+      "first_sentence": "What is your main cereal? Do you have internet access - or just a basic mobile phone? And how many married couples live under your roof?.",
+      "timestamp": "2026-04-01T00:11:33Z",
+      "source": "BBC News"
     },
     {
       "headline": "'It's going to be a great show': Crowds gather for countdown to Nasa\u2019s Artemis launch",
@@ -2450,56 +2500,6 @@
       "first_sentence": "Alessia Russo is happy and it shows.",
       "timestamp": "2026-03-23T20:00:58Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Live: Albanese, EU boss give green light to free trade deal",
-      "link": "https://www.abc.net.au/news/2026-03-24/federal-politics-blog-albanese-eu-trade-deal-fuel/106487714",
-      "mean_score": 0.3473,
-      "vader_score": 0.5106,
-      "textblob_score": 0.1841,
-      "first_sentence": "After almost a decade of negotiations, Prime Minister Anthony Albanese has confirmed Australia has struck a free trade agreement with the European Union.",
-      "timestamp": "2026-03-23T19:59:03Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Australia and European Union to sign free trade agreement decades in the making",
-      "link": "https://www.abc.net.au/news/2026-03-24/eu-australia-free-trade-agreement-reached/106488438",
-      "mean_score": 0.4789,
-      "vader_score": 0.7579,
-      "textblob_score": 0.2,
-      "first_sentence": "Australia and the European Union look set to finally sign off on a long-awaited free trade pact after almost a decade of negotiations.",
-      "timestamp": "2026-03-23T19:05:38Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Aged care algorithm 'like Russian roulette'",
-      "link": "https://www.abc.net.au/news/2026-03-24/aged-care-algorithm-for-home-care-under-fire/106475138",
-      "mean_score": 0.3204,
-      "vader_score": 0.6908,
-      "textblob_score": -0.05,
-      "first_sentence": "The algorithm to determine a person's eligibility for in-home care came into effect in November.",
-      "timestamp": "2026-03-23T18:50:02Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Viktor Orb\u00e1n celebrated by Europe\u2019s far right before Hungary election",
-      "link": "https://www.theguardian.com/world/2026/mar/23/viktor-orban-celebrated-europe-far-right-hungary-election",
-      "mean_score": 0.4086,
-      "vader_score": 0.5719,
-      "textblob_score": 0.2452,
-      "first_sentence": "Marine Le Pen has called Viktor Orb\u00e1n \u201can exceptional leader\u201d and Geert Wilders hailed \u201ca lion on a continent led by sheep\u201d as Europe\u2019s far-right figureheads rallied round Hungary\u2019s prime minister before an election that polls suggest he may lose.",
-      "timestamp": "2026-03-23T17:56:59Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "WNBA players unanimously approve a new 7-year collective bargaining agreement through 2032",
-      "link": "https://apnews.com/article/cba-wnba-vote-2b56582d24d56d6cdeb0711e584cc7b9",
-      "mean_score": 0.3151,
-      "vader_score": 0.4939,
-      "textblob_score": 0.1364,
-      "first_sentence": "NEW YORK (AP) \u2014 WNBA players unanimously approved the new collective bargaining agreement on Monday with more than 90% participating in voting over the weekend.",
-      "timestamp": "2026-03-23T15:53:02Z",
-      "source": "AP News"
     }
   ]
 }
