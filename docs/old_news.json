@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Meat exporters criticise $10 billion free trade agreement as Australia, EU hail 'win-win'",
+    "link": "https://www.sbs.com.au/news/article/australia-signs-10-billion-free-trade-agreement-with-the-european-union/396vdc14g",
+    "mean_score": 0.4997,
+    "vader_score": 0.5994,
+    "textblob_score": 0.4,
+    "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+    "timestamp": "2026-03-24T00:53:01Z",
+    "source": "SBS News"
+  },
+  {
+    "headline": "UK universities flock to India - but will they succeed?",
+    "link": "https://www.bbc.com/news/articles/c93w2pw3y0no?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3243,
+    "vader_score": 0.6486,
+    "textblob_score": 0.0,
+    "first_sentence": "On the shores of Mumbai's Powai lake - a rare pocket of serenity in the bustling metropolis of more than 20 million people - a glitzy new campus of the University of York is getting its final finishing touches.",
+    "timestamp": "2026-03-24T00:10:24Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "'We treated Natalie like a princess, we'll love her forever'",
     "link": "https://www.bbc.com/news/articles/cy41yeq1v08o?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.6359,

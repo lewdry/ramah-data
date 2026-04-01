@@ -1,6 +1,26 @@
 {
-  "last run": "2026-04-01T15:29:40Z",
+  "last run": "2026-04-01T18:18:18Z",
   "stories": [
+    {
+      "headline": "Good Friday is a unique and solemn day for Christians, with ancient prayers and fervent processions",
+      "link": "https://apnews.com/article/easter-good-friday-cross-processions-spain-miami-1ea2448f88afbc394d6f0952c573fe63",
+      "mean_score": 0.5547,
+      "vader_score": 0.5719,
+      "textblob_score": 0.5375,
+      "first_sentence": "Celebrated the Friday before Easter, Good Friday commemorates the crucifixion and death of Jesus.",
+      "timestamp": "2026-04-01T17:23:02Z",
+      "source": "AP News"
+    },
+    {
+      "headline": "FDA grants speedy approval to Eli Lilly\u2019s weight-loss pill for obesity",
+      "link": "https://apnews.com/article/eli-lilly-orforglipron-glp1-weight-loss-obesity-ac23734a63e8354b5d9f0c93718ef2ff",
+      "mean_score": 0.3062,
+      "vader_score": 0.6124,
+      "textblob_score": 0.0,
+      "first_sentence": "Federal regulators on Wednesday approved Eli Lilly\u2019s new weight-loss pill, a second daily oral medication to treat obesity and other weight-related conditions.",
+      "timestamp": "2026-04-01T16:53:02Z",
+      "source": "AP News"
+    },
     {
       "headline": "Macron praises Europe\u2019s predictability in face of countries that \u2018hurt you without even informing you\u2019 \u2013 Europe live",
       "link": "https://www.theguardian.com/world/live/2026/apr/01/zelenskyy-trump-putin-ukraine-russia-war-easter-ceasefire-iran-europe-latest-news-updates",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Service stations across Victoria have run out of petrol and diesel, as the war in the Middle East increases demand, the state's energy minister says.",
       "timestamp": "2026-03-24T01:20:42Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Meat exporters criticise $10 billion free trade agreement as Australia, EU hail 'win-win'",
-      "link": "https://www.sbs.com.au/news/article/australia-signs-10-billion-free-trade-agreement-with-the-european-union/396vdc14g",
-      "mean_score": 0.4997,
-      "vader_score": 0.5994,
-      "textblob_score": 0.4,
-      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-      "timestamp": "2026-03-24T00:53:01Z",
-      "source": "SBS News"
-    },
-    {
-      "headline": "UK universities flock to India - but will they succeed?",
-      "link": "https://www.bbc.com/news/articles/c93w2pw3y0no?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3243,
-      "vader_score": 0.6486,
-      "textblob_score": 0.0,
-      "first_sentence": "On the shores of Mumbai's Powai lake - a rare pocket of serenity in the bustling metropolis of more than 20 million people - a glitzy new campus of the University of York is getting its final finishing touches.",
-      "timestamp": "2026-03-24T00:10:24Z",
-      "source": "BBC News"
     }
   ]
 }
