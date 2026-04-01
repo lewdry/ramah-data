@@ -1,6 +1,46 @@
 {
-  "last run": "2026-04-01T18:18:18Z",
+  "last run": "2026-04-01T21:15:53Z",
   "stories": [
+    {
+      "headline": "Guardian power rankings: France lead the way with Senegal and Japan in top 10",
+      "link": "https://www.theguardian.com/football/2026/apr/01/guardian-power-rankings-france-senegal-japan-top-10-world-cup-2026",
+      "mean_score": 0.3512,
+      "vader_score": 0.2023,
+      "textblob_score": 0.5,
+      "first_sentence": "Some countries, like Kosovo and Iraq, have only just qualified after playoffs while most have been fine-tuning in friendlies\u201cThere\u2019s more talent and potential than in 2022,\u201d Kylian Mbapp\u00e9 said ominously this week after France had beaten Brazil 2-1 despite having Dayot Upamecano sent off after 55 minutes.",
+      "timestamp": "2026-04-01T20:30:07Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "The FDA approves a new obesity pill, giving patients another option",
+      "link": "https://www.npr.org/2026/04/01/nx-s1-5760899/weight-loss-pill-foundayo",
+      "mean_score": 0.3806,
+      "vader_score": 0.6249,
+      "textblob_score": 0.1364,
+      "first_sentence": "The Food and Drug Administration has approved the second GLP-1 pill to treat obesity, this time from drugmaker Eli Lilly.",
+      "timestamp": "2026-04-01T20:07:39Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "Is the U.S. Navy ready to clear sea mines in the Persian Gulf?",
+      "link": "https://www.npr.org/2026/04/01/nx-s1-5766222/mines-persian-gulf-strait-navy-lcs",
+      "mean_score": 0.3875,
+      "vader_score": 0.6249,
+      "textblob_score": 0.15,
+      "first_sentence": "In the ongoing war with the United States and Israel, Iran has been threatening to mine the vital Strait of Hormuz, with reports suggesting it may have already placed devices in the narrow shipping chokepoint.",
+      "timestamp": "2026-04-01T19:54:36Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "What Australia can learn from French cities that made public transport free",
+      "link": "https://www.abc.net.au/news/2026-04-02/free-public-transport-french-cities/106510914",
+      "mean_score": 0.322,
+      "vader_score": 0.5106,
+      "textblob_score": 0.1333,
+      "first_sentence": "A year after the last energy crisis shook the world, a French city made a bold move.",
+      "timestamp": "2026-04-01T19:11:01Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Good Friday is a unique and solemn day for Christians, with ancient prayers and fervent processions",
       "link": "https://apnews.com/article/easter-good-friday-cross-processions-spain-miami-1ea2448f88afbc394d6f0952c573fe63",
@@ -39,6 +79,16 @@
       "textblob_score": 0.5,
       "first_sentence": "How much do you know about the history of one of the most powerful computing companies on the planet?.",
       "timestamp": "2026-04-01T14:46:30Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "A truckload of F1 KitKats, a painting of fish: what is it that makes heists so delicious? | Imogen West-Knights",
+      "link": "https://www.theguardian.com/commentisfree/2026/apr/01/kitkat-heists-paintings-art-gallery-theft",
+      "mean_score": 0.8474,
+      "vader_score": 0.6948,
+      "textblob_score": 1.0,
+      "first_sentence": "Now, let me begin by saying: stealing is bad.",
+      "timestamp": "2026-04-01T14:43:31Z",
       "source": "The Guardian"
     },
     {
@@ -2450,56 +2500,6 @@
       "first_sentence": "A group of villagers who fought to overturn a council's crackdown on second home-ownership say they are \"proud\" of their \"David and Goliath moment\".",
       "timestamp": "2026-03-24T06:34:44Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Regional charity struggles to rescue more than 100 cats from property",
-      "link": "https://www.abc.net.au/news/2026-03-24/100-cats-rescued-from-wodonga-home/106491882",
-      "mean_score": 0.5287,
-      "vader_score": 0.5574,
-      "textblob_score": 0.5,
-      "first_sentence": "More than 100 cats have been found at a property at Wodonga on the Victoria\u2013New South Wales border.",
-      "timestamp": "2026-03-24T06:06:26Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Are you 'panic-buying' or 'playing it safe'?",
-      "link": "https://www.abc.net.au/news/2026-03-24/panic-buying-fuel-groceries-iran-covid-playing-it-safe/106489580",
-      "mean_score": 0.5359,
-      "vader_score": 0.5719,
-      "textblob_score": 0.5,
-      "first_sentence": "If you've topped up your tank at a petrol station recently, did it feel like you were \"panic buying\"? Or did it feel more like \"I'd better buy some, just in case\"?.",
-      "timestamp": "2026-03-24T05:51:29Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Cheaper EVs, easier job access: What's in the EU-Australia free trade deal for you?",
-      "link": "https://www.sbs.com.au/news/article/cheaper-evs-easier-job-access-whats-in-the-eu-australia-free-trade-deal-for-you/t9yt57stn",
-      "mean_score": 0.5635,
-      "vader_score": 0.7269,
-      "textblob_score": 0.4,
-      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-      "timestamp": "2026-03-24T05:31:56Z",
-      "source": "SBS News"
-    },
-    {
-      "headline": "The global authoritarian right loves Orb\u00e1n \u2013 and that could cost him in Hungary\u2019s elections | Gellert Tamas",
-      "link": "https://www.theguardian.com/commentisfree/2026/mar/24/viktor-orban-hungary-elections-global-authoritarian-right",
-      "mean_score": 0.3574,
-      "vader_score": 0.5719,
-      "textblob_score": 0.1429,
-      "first_sentence": "\u201cViktor Orb\u00e1n is a true friend, fighter, and WINNER, and has my Complete and Total Endorsement for Re-Election as Prime Minister of Hungary,\u201d Donald Trump wrote on Truth Social last month.",
-      "timestamp": "2026-03-24T05:00:09Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "More than 100 petrol stations run out of petrol across Victoria, energy minister says",
-      "link": "https://www.abc.net.au/news/2026-03-24/victorian-petrol-stations-run-out-diesel-fuel-iran-conflict/106489808",
-      "mean_score": 0.3866,
-      "vader_score": 0.2732,
-      "textblob_score": 0.5,
-      "first_sentence": "Service stations across Victoria have run out of petrol and diesel, as the war in the Middle East increases demand, the state's energy minister says.",
-      "timestamp": "2026-03-24T01:20:42Z",
-      "source": "ABC News"
     }
   ]
 }
