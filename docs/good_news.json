@@ -1,6 +1,16 @@
 {
-  "last run": "2026-03-31T21:13:12Z",
+  "last run": "2026-04-01T00:25:25Z",
   "stories": [
+    {
+      "headline": "How English-only condolences undid one of Canada's top CEOs",
+      "link": "https://www.bbc.com/news/articles/cyv1q9gz39do?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3512,
+      "vader_score": 0.2023,
+      "textblob_score": 0.5,
+      "first_sentence": "A fatal collision at LaGuardia Airport last week marked the start of a difficult period for Air Canada, culminating on Monday with its CEO announcing he will soon retire.",
+      "timestamp": "2026-03-31T23:46:22Z",
+      "source": "BBC News"
+    },
     {
       "headline": "England 0-1 Japan: men\u2019s international football friendly \u2013 live",
       "link": "https://www.theguardian.com/football/live/2026/mar/31/england-v-japan-mens-international-football-friendly-live",
@@ -10,6 +20,16 @@
       "first_sentence": "And here\u2019s David Hytner\u2019s report from Wembley, with which I bid you farewell.",
       "timestamp": "2026-03-31T21:05:59Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "Bluey's lead composer on helping kids fall in love with music",
+      "link": "https://www.abc.net.au/news/2026-04-01/classical-music-and-new-bluey-album-with-lead-composer-joff-bush/106517772",
+      "mean_score": 0.6253,
+      "vader_score": 0.7506,
+      "textblob_score": 0.5,
+      "first_sentence": "Even if you don\u2019t have little ones in your life, there\u2019s a very good chance you can sing the theme of the hit children\u2019s series Bluey.",
+      "timestamp": "2026-03-31T21:00:00Z",
+      "source": "ABC News"
     },
     {
       "headline": "USMNT v Portugal live \u2013 Updates and analysis from international friendly",
@@ -60,6 +80,16 @@
       "first_sentence": "A supermarket in Orkney has given away about 38,000 bananas - almost double the entire population of the islands - in just three days after accidentally ordering them.",
       "timestamp": "2026-03-31T16:10:45Z",
       "source": "BBC News"
+    },
+    {
+      "headline": "\u2018Money! Glamour! Yachts! But not for me!\u2019 Adrian Searle relives 30 glorious years as our chief art critic",
+      "link": "https://www.theguardian.com/artanddesign/2026/mar/31/money-glamour-yachts-adrian-searle-30-glorious-years-guardian-chief-art-critic",
+      "mean_score": 0.4093,
+      "vader_score": 0.8185,
+      "textblob_score": 0.0,
+      "first_sentence": "After writing about art at the Guardian for 30 years, I have been asked by my editor to reflect on what I have learned.",
+      "timestamp": "2026-03-31T15:13:06Z",
+      "source": "The Guardian"
     },
     {
       "headline": "What's the best cabin layout for aircraft evacuation?",
@@ -2470,36 +2500,6 @@
       "first_sentence": "If any film can make me feel like a teenager again, it\u2019s Everybody Wants Some!!.",
       "timestamp": "2026-03-23T09:00:45Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "With more older drivers on the road, states try to balance safety and mobility",
-      "link": "https://www.npr.org/2026/03/23/nx-s1-5672445/older-drivers-licensing-safety",
-      "mean_score": 0.3774,
-      "vader_score": 0.4215,
-      "textblob_score": 0.3333,
-      "first_sentence": "GREEN LAKE, Wis.",
-      "timestamp": "2026-03-23T09:00:00Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "What does a 'GLP-1 Friendly' diet look like? We asked nutritionists",
-      "link": "https://www.npr.org/2026/03/23/nx-s1-5699407/glp-1-ozempic-zepbound-wegovy-nutrition",
-      "mean_score": 0.5329,
-      "vader_score": 0.6908,
-      "textblob_score": 0.375,
-      "first_sentence": "Some food companies, including Nestle and Conagra, are responding to the popularity of obesity and diabetes drugs by branding some products \"GLP-1 Friendly.\" The labels target a growing number of consumers taking medicines such as Zepbound and Wegovy who may be looking for healthier, ready-made meals that minimize side-effects from the drugs.",
-      "timestamp": "2026-03-23T09:00:00Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Ukrainians are growing more pessimistic about the prospects for peace, survey says",
-      "link": "https://www.npr.org/2026/03/23/nx-s1-5754745/ukrainians-are-growing-more-pessimistic-about-the-prospects-for-peace-survey-says",
-      "mean_score": 0.5292,
-      "vader_score": 0.5584,
-      "textblob_score": 0.5,
-      "first_sentence": "As the Iran war delays peace talks for Ukraine \u2014 and global supplies of air defense missiles \u2014 there are signs that fewer Ukrainians are willing to endure Russia's war for as long as necessary.",
-      "timestamp": "2026-03-23T08:43:20Z",
-      "source": "NPR News"
     }
   ]
 }
