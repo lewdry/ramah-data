@@ -1,5 +1,85 @@
 [
   {
+    "headline": "'We treated Natalie like a princess, we'll love her forever'",
+    "link": "https://www.bbc.com/news/articles/cy41yeq1v08o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.6359,
+    "vader_score": 0.7717,
+    "textblob_score": 0.5,
+    "first_sentence": "It's Sunday 18 December 2022 and Lionel Messi is lifting the World Cup trophy on TV while a delighted Natalie McNally watches on.",
+    "timestamp": "2026-03-24T00:02:38Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Why is Pauline\u2019s vote soaring? She\u2019s got friends in high places | Fiona Katauskas",
+    "link": "https://www.theguardian.com/commentisfree/picture/2026/mar/24/why-is-pauline-hansons-vote-soaring-shes-got-friends-in-high-places",
+    "mean_score": 0.3184,
+    "vader_score": 0.4767,
+    "textblob_score": 0.16,
+    "first_sentence": "The One Nation leader is not as grounded as you thinkSee more of Fiona Katauskas\u2019s cartoons here Continue reading.",
+    "timestamp": "2026-03-23T23:19:54Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "BOM says more rain causing 'significant river level rises' in soaked NT",
+    "link": "https://www.abc.net.au/news/2026-03-24/rain-threatens-flooded-nt-rivers-ex-tropical-cyclone-narelle/106486670",
+    "mean_score": 0.3511,
+    "vader_score": 0.2648,
+    "textblob_score": 0.4375,
+    "first_sentence": "BOM has a number of active weather warnings in the Northern Territory, including the potential for moderate and major flooding in several rivers.",
+    "timestamp": "2026-03-23T22:40:14Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Victoria Mboko and Mirra Andreeva lead new generation of friendly rivals",
+    "link": "https://www.theguardian.com/sport/2026/mar/23/victoria-mboko-mirra-andreeva-new-generation-friendly-rivals-miami-open-tennis",
+    "mean_score": 0.3748,
+    "vader_score": 0.4939,
+    "textblob_score": 0.2557,
+    "first_sentence": "Victoria Mboko and Mirra Andreeva, the two highest-ranked teenagers in the world, prepared for their marquee Miami Open fourth-round match in an unusual manner.",
+    "timestamp": "2026-03-23T21:43:55Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Young musicians bring the beauty of music and maths to life",
+    "link": "https://www.abc.net.au/news/2026-03-24/australian-youth-orchestra-maths-music-world-science-festival/106479530",
+    "mean_score": 0.3429,
+    "vader_score": 0.5859,
+    "textblob_score": 0.1,
+    "first_sentence": "Old stereotypes often paint creative pursuits like music as worlds apart from subjects such as maths and science.",
+    "timestamp": "2026-03-23T21:00:00Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Senate to vote on DHS chief, with TSA funding and SAVE act tied up in Congress",
+    "link": "https://www.npr.org/2026/03/23/nx-s1-5757456/senate-to-vote-on-dhs-chief-with-tsa-funding-and-save-act-tied-up-in-congress",
+    "mean_score": 0.3019,
+    "vader_score": 0.6037,
+    "textblob_score": 0.0,
+    "first_sentence": "The Senate votes Monday on the nomination of Sen.",
+    "timestamp": "2026-03-23T20:03:35Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "First female archbishop of Canterbury highlights progress and ongoing challenges",
+    "link": "https://www.npr.org/2026/03/23/nx-s1-5717172/first-female-archbishop-of-canterbury-highlights-progress-and-ongoing-challenges",
+    "mean_score": 0.3009,
+    "vader_score": 0.4767,
+    "textblob_score": 0.125,
+    "first_sentence": "On a bright morning in Hermosa Beach, Calif., sunlight enters St.",
+    "timestamp": "2026-03-23T20:03:28Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "\u2018I enjoy when things get tough\u2019: Alessia Russo on Arsenal\u2019s trophy quest, family pride and staying focused",
+    "link": "https://www.theguardian.com/football/2026/mar/23/alessia-russo-interview-womens-champions-league-showdown-arsenal-chelsea",
+    "mean_score": 0.4038,
+    "vader_score": 0.802,
+    "textblob_score": 0.0056,
+    "first_sentence": "Alessia Russo is happy and it shows.",
+    "timestamp": "2026-03-23T20:00:58Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Live: Albanese, EU boss give green light to free trade deal",
     "link": "https://www.abc.net.au/news/2026-03-24/federal-politics-blog-albanese-eu-trade-deal-fuel/106487714",
     "mean_score": 0.3473,
