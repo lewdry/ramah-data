@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Mette Frederiksen keen to remain as Denmark\u2019s PM despite losing ground in election \u2013 Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/mar/25/denmark-election-results-mette-frederiksen-europe-latest-news-updates",
+    "mean_score": 0.353,
+    "vader_score": 0.5696,
+    "textblob_score": 0.1364,
+    "first_sentence": "Good morning from Copenhagen, where there is no left or right majority and the Moderates\u2019 Lars L\u00f8kke Rasmussen is expected to hold the key to coalition discussions.",
+    "timestamp": "2026-03-25T08:44:36Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Perfect homework, blank stares: Why colleges are turning to oral exams to combat AI",
+    "link": "https://apnews.com/article/college-oral-exam-ai-chatgpt-77954a19f5304bfc6e76dc92d4bef3ad",
+    "mean_score": 0.4091,
+    "vader_score": 0.3182,
+    "textblob_score": 0.5,
+    "first_sentence": "The assignment involves no laptop, no chatbot and no technology of any kind.",
+    "timestamp": "2026-03-25T07:23:01Z",
+    "source": "AP News"
+  },
+  {
+    "headline": "Playful lynx snatches top prize in photo competition",
+    "link": "https://www.bbc.com/news/articles/c150yl0y5vzo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.6453,
+    "vader_score": 0.7906,
+    "textblob_score": 0.5,
+    "first_sentence": "A young Iberian lynx caught mid play has won the Wildlife Photographer of the Year People's Choice Award 2026.",
+    "timestamp": "2026-03-25T06:29:10Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "'Liverpool music trail will inspire new musicians'",
+    "link": "https://www.bbc.com/news/articles/ckgxz2031jro?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3541,
+    "vader_score": 0.5719,
+    "textblob_score": 0.1364,
+    "first_sentence": "A new tourist trail celebrating Liverpool's rich musical heritage has been designed to inspire a new generation of creative talent.",
+    "timestamp": "2026-03-25T06:28:06Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Bait review \u2013 Riz Ahmed\u2019s comedy is petty, narcissistic \u2026 and excellent",
     "link": "https://www.theguardian.com/tv-and-radio/2026/mar/25/bait-review-riz-ahmed-bond-comedy-prime-video",
     "mean_score": 0.8298,

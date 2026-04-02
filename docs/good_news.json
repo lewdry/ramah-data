@@ -1,6 +1,36 @@
 {
-  "last run": "2026-04-02T15:22:50Z",
+  "last run": "2026-04-02T18:17:34Z",
   "stories": [
+    {
+      "headline": "Uganda receives first US deportation flight under third-country agreement",
+      "link": "https://www.theguardian.com/us-news/2026/apr/02/uganda-receives-first-us-deportation-flight-under-third-country-agreement",
+      "mean_score": 0.372,
+      "vader_score": 0.4939,
+      "textblob_score": 0.25,
+      "first_sentence": "A flight carrying people being deported from the US has landed in Uganda, as Donald Trump\u2019s administration pushes on with its strategy of expelling migrants to countries they have no ties to.",
+      "timestamp": "2026-04-02T16:37:12Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "'Unbelievable!': Backshall overjoyed at rare sighting of orcas",
+      "link": "https://www.bbc.com/news/videos/c5y80gl0rd1o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3467,
+      "vader_score": 0.6996,
+      "textblob_score": -0.0063,
+      "first_sentence": "Wildlife explorer Steve Backshall was overjoyed to have spotted two of the UK's last surviving orcas as he described them as \"international celebrities\".",
+      "timestamp": "2026-04-02T16:21:11Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "HBO to air standalone special on the making of new Harry Potter series",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/apr/02/hbo-finding-harry-potter-making-of-special",
+      "mean_score": 0.3243,
+      "vader_score": 0.4019,
+      "textblob_score": 0.2468,
+      "first_sentence": "HBO has more Harry Potter magic up its sleeve \u2013 today, the company announced a standalone, behind-the-scenes special to accompany its upcoming TV adaptation of Harry Potter and the Philosopher\u2019s Stone.",
+      "timestamp": "2026-04-02T16:16:11Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "William hails 'incredible' \u00a320m milestone for Bowelbabe fund",
       "link": "https://www.bbc.com/news/articles/c4gvd994x15o?at_medium=RSS&at_campaign=rss",
@@ -160,6 +190,16 @@
       "first_sentence": "A new book celebrating four decades of fashion photography duo Inez and Vinoodh features celebrity portraits, surrealist visions and a meditation on love itself Continue reading.",
       "timestamp": "2026-04-02T06:00:18Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "Call the Midwife praised by one of the nuns who inspired it",
+      "link": "https://www.bbc.com/news/articles/cwykjex4v9do?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3753,
+      "vader_score": 0.7506,
+      "textblob_score": 0.0,
+      "first_sentence": "After a dramatic end to the 15th series of Call the Midwife and with work beginning on a prequel to the TV drama, one of the nuns who inspired the series has been praising its attention to detail.",
+      "timestamp": "2026-04-02T05:05:42Z",
+      "source": "BBC News"
     },
     {
       "headline": "The PM said 'enjoy your Easter'. Here's what you should know first about fuel",
@@ -2460,46 +2500,6 @@
       "first_sentence": "You're not imagining it.",
       "timestamp": "2026-03-25T09:00:00Z",
       "source": "NPR News"
-    },
-    {
-      "headline": "Mette Frederiksen keen to remain as Denmark\u2019s PM despite losing ground in election \u2013 Europe live",
-      "link": "https://www.theguardian.com/world/live/2026/mar/25/denmark-election-results-mette-frederiksen-europe-latest-news-updates",
-      "mean_score": 0.353,
-      "vader_score": 0.5696,
-      "textblob_score": 0.1364,
-      "first_sentence": "Good morning from Copenhagen, where there is no left or right majority and the Moderates\u2019 Lars L\u00f8kke Rasmussen is expected to hold the key to coalition discussions.",
-      "timestamp": "2026-03-25T08:44:36Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Perfect homework, blank stares: Why colleges are turning to oral exams to combat AI",
-      "link": "https://apnews.com/article/college-oral-exam-ai-chatgpt-77954a19f5304bfc6e76dc92d4bef3ad",
-      "mean_score": 0.4091,
-      "vader_score": 0.3182,
-      "textblob_score": 0.5,
-      "first_sentence": "The assignment involves no laptop, no chatbot and no technology of any kind.",
-      "timestamp": "2026-03-25T07:23:01Z",
-      "source": "AP News"
-    },
-    {
-      "headline": "Playful lynx snatches top prize in photo competition",
-      "link": "https://www.bbc.com/news/articles/c150yl0y5vzo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.6453,
-      "vader_score": 0.7906,
-      "textblob_score": 0.5,
-      "first_sentence": "A young Iberian lynx caught mid play has won the Wildlife Photographer of the Year People's Choice Award 2026.",
-      "timestamp": "2026-03-25T06:29:10Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "'Liverpool music trail will inspire new musicians'",
-      "link": "https://www.bbc.com/news/articles/ckgxz2031jro?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3541,
-      "vader_score": 0.5719,
-      "textblob_score": 0.1364,
-      "first_sentence": "A new tourist trail celebrating Liverpool's rich musical heritage has been designed to inspire a new generation of creative talent.",
-      "timestamp": "2026-03-25T06:28:06Z",
-      "source": "BBC News"
     }
   ]
 }
