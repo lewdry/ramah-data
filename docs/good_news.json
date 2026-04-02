@@ -1,6 +1,56 @@
 {
-  "last run": "2026-04-02T06:26:44Z",
+  "last run": "2026-04-02T09:22:18Z",
   "stories": [
+    {
+      "headline": "Scientists' efforts to free whale stuck in the Baltic Sea cause online firestorm",
+      "link": "https://www.npr.org/2026/04/02/nx-s1-5767061/scientists-efforts-to-free-whale-stuck-in-the-baltic-sea-cause-online-firestorm",
+      "mean_score": 0.3591,
+      "vader_score": 0.3182,
+      "textblob_score": 0.4,
+      "first_sentence": "German scientists face a social media firestorm as they try to save a humpback whale in the Baltic Sea.",
+      "timestamp": "2026-04-02T08:41:36Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "'Oh my goodness, that is spectacular':  See BBC science editor react to launch",
+      "link": "https://www.bbc.com/news/videos/c05d6pprdleo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5294,
+      "vader_score": 0.4588,
+      "textblob_score": 0.6,
+      "first_sentence": "Nasa's Artemis II spacecraft has launched and is now orbiting Earth, where it will then head on to circle the Moon as part of a 10-day mission.",
+      "timestamp": "2026-04-02T08:40:55Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Moira Deeming to secure top spot on Victorian Liberal ticket",
+      "link": "https://www.theguardian.com/australia-news/2026/apr/02/moira-deeming-top-victorian-liberal-ticket-ntwnfb",
+      "mean_score": 0.4719,
+      "vader_score": 0.4939,
+      "textblob_score": 0.45,
+      "first_sentence": "Moira Deeming will secure a top spot on the Victorian Liberal party\u2019s upper house ticket unopposed \u2013 less than a week after members voted to dump her \u2013 after the withdrawal of candidates from a re-run ballot.",
+      "timestamp": "2026-04-02T08:34:34Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "One Nation wins fourth seat in SA \u2013 as it happened",
+      "link": "https://www.theguardian.com/australia-news/live/2026/apr/02/anthony-albanese-fuel-crisis-angus-taylor-middle-east-labor-liberals-easter-travel-press-club-ntwnfb",
+      "mean_score": 0.3609,
+      "vader_score": 0.5719,
+      "textblob_score": 0.15,
+      "first_sentence": "One Nation has picked up its fourth lower house seat in the South Australian election.",
+      "timestamp": "2026-04-02T07:00:02Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Tszyu ready to revive world title dream with Easter Sunday bout",
+      "link": "https://www.abc.net.au/news/2026-04-02/tim-tszyu-denis-nurja-easter-sunday-boxing/106527706",
+      "mean_score": 0.4548,
+      "vader_score": 0.7096,
+      "textblob_score": 0.2,
+      "first_sentence": "Tim Tszyu fights undefeated Albanian Denis Nurja in Wollongong on Easter Sunday.",
+      "timestamp": "2026-04-02T06:30:56Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Families praise charity for Easter holiday support",
       "link": "https://www.bbc.com/news/articles/cre19p478d9o?at_medium=RSS&at_campaign=rss",
@@ -2450,56 +2500,6 @@
       "first_sentence": "An online content creator who has a compulsive hair-pulling disorder says others with the condition \"shouldn't be ashamed\" or \"feel embarrassed\".",
       "timestamp": "2026-03-24T22:50:06Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "\u2018I will never walk alone\u2019: Mohamed Salah to leave Liverpool on free transfer at end of season",
-      "link": "https://www.theguardian.com/football/2026/mar/24/mohamed-salah-to-leave-liverpool-at-end-of-the-season",
-      "mean_score": 0.4384,
-      "vader_score": 0.4767,
-      "textblob_score": 0.4,
-      "first_sentence": "Mohamed Salah has announced he will leave Liverpool at the end of the season, bringing to a close one of the greatest careers in the club\u2019s storied history.",
-      "timestamp": "2026-03-24T21:46:46Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Arsenal v Chelsea: Women\u2019s Champions League quarter-final, first leg \u2013 live",
-      "link": "https://www.theguardian.com/football/live/2026/mar/24/arsenal-v-chelsea-womens-champions-league-quarter-final-first-leg-live",
-      "mean_score": 0.3599,
-      "vader_score": 0.5267,
-      "textblob_score": 0.1932,
-      "first_sentence": "49 min: Arsenal have a corner.",
-      "timestamp": "2026-03-24T21:08:26Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "'The day has come': Liverpool great announces he is leaving EPL giant",
-      "link": "https://www.abc.net.au/news/2026-03-25/epl-soccer-mo-salah-announces-he-will-leave-liverpool/106494190",
-      "mean_score": 0.5125,
-      "vader_score": 0.6249,
-      "textblob_score": 0.4,
-      "first_sentence": "Mo Salah has announced he is leaving EPL giants Liverpool despite having a year left on his contract.",
-      "timestamp": "2026-03-24T21:04:02Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "NDIS participants work more and feel better after accessing the scheme",
-      "link": "https://www.abc.net.au/news/2026-03-25/ndis-participants-work-more-and-feel-better/106490952",
-      "mean_score": 0.4939,
-      "vader_score": 0.4877,
-      "textblob_score": 0.5,
-      "first_sentence": "People who access the NDIS fare better in the workforce and feel healthier within four years of entering the scheme, a new report finds.",
-      "timestamp": "2026-03-24T18:44:47Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Gary is part of the super-rich. He believes wealthy Australians should be paying more tax",
-      "link": "https://www.sbs.com.au/news/the-feed/article/gary-is-part-of-the-super-rich-he-believes-wealthy-australians-should-be-paying-more-tax/m4ti99zc6",
-      "mean_score": 0.4306,
-      "vader_score": 0.3612,
-      "textblob_score": 0.5,
-      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-      "timestamp": "2026-03-24T18:32:22Z",
-      "source": "SBS News"
     }
   ]
 }
