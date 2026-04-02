@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Manchester United fan, 76, feeling \u2018helpless\u2019 as family seat is given to VIPs",
+    "link": "https://www.theguardian.com/football/2026/mar/24/manchester-united-fan-family-seat-given-to-vips",
+    "mean_score": 0.3404,
+    "vader_score": 0.6808,
+    "textblob_score": 0.0,
+    "first_sentence": "A Manchester United fan said he feels \u201chelpless and hopeless\u201d after being evicted from the seat his family have held since just after the second world war to make way for \u00a3300-a-head VIPs.",
+    "timestamp": "2026-03-24T11:12:35Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "The Breakdown | Fiji and the beautiful south reveal rugby\u2019s soul but northern money talks loudest",
+    "link": "https://www.theguardian.com/sport/2026/mar/24/rugby-union-breakdown-southern-hemisphere-fiji-south-africa-argentina",
+    "mean_score": 0.6003,
+    "vader_score": 0.3506,
+    "textblob_score": 0.85,
+    "first_sentence": "They\u2019re present in every top-flight club in Europe.",
+    "timestamp": "2026-03-24T10:00:33Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "A Canadian goal threat to a versatile Spaniard: three of the best teenagers in women\u2019s football",
+    "link": "https://www.theguardian.com/football/2026/mar/24/womens-soccer-prospects-kaylee-hunter-justine-rouquet-aiara-agirrezabala",
+    "mean_score": 0.6011,
+    "vader_score": 0.2023,
+    "textblob_score": 1.0,
+    "first_sentence": "Vicky L\u00f3pez, Lily Yohannes, Michelle Agyemang \u2014 these are all names you may have heard before.",
+    "timestamp": "2026-03-24T10:00:32Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "More North Sea drilling will put UK at mercy of fossil fuel markets, ministers say",
     "link": "https://www.theguardian.com/environment/2026/mar/24/north-sea-drilling-concerns-uk-fossil-fuel-markets-ed-miliband",
     "mean_score": 0.4306,
