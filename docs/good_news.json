@@ -1,6 +1,46 @@
 {
-  "last run": "2026-04-01T21:15:53Z",
+  "last run": "2026-04-02T00:21:29Z",
   "stories": [
+    {
+      "headline": "Safety work means no Easter opening for iconic WA tree climb",
+      "link": "https://www.abc.net.au/news/2026-04-02/wa-gloucester-tree-reopening-delayed/106516670",
+      "mean_score": 0.3266,
+      "vader_score": 0.1531,
+      "textblob_score": 0.5,
+      "first_sentence": "Southern WA's landmark Gloucester Tree climb will not reopen in time for Easter.",
+      "timestamp": "2026-04-02T00:02:17Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "DHS boss rescinds restrictive $100,000 approval process, giving hope to FEMA relief efforts",
+      "link": "https://apnews.com/article/homeland-security-fema-mullin-moem-8b03d9240b267422d6fadf3f7d12f0eb",
+      "mean_score": 0.4442,
+      "vader_score": 0.8885,
+      "textblob_score": 0.0,
+      "first_sentence": "WASHINGTON (AP) \u2014 Homeland Security Secretary Markwayne Mullin on Wednesday rescinded a rule that DHS expenditures over $100,000 be personally approved by his office, ending a widely criticized policy implemented by his predecessor Kristi Noem that critics said put a particular burden on the Federal Emergency Management Agency \u2019s work aiding disaster response and recovery.",
+      "timestamp": "2026-04-01T23:23:01Z",
+      "source": "AP News"
+    },
+    {
+      "headline": "'We entered Race Across the World to honour dying wish'",
+      "link": "https://www.bbc.com/news/articles/c15dvelwd7qo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3753,
+      "vader_score": 0.7506,
+      "textblob_score": 0.0,
+      "first_sentence": "When Margo Oakley, now 59, was introduced to her older sister's new boyfriend her first impressions of the \"po-faced\" and \"judgey\" young man were not great.",
+      "timestamp": "2026-04-01T23:08:39Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Live: 'We have a beautiful moon rise': NASA's Artemis II crew headed for the lunar orbit",
+      "link": "https://www.abc.net.au/news/2026-04-02/artemis-ii-launch-abc-live-blog-moon-mission/106513102",
+      "mean_score": 0.5463,
+      "vader_score": 0.5994,
+      "textblob_score": 0.4932,
+      "first_sentence": "NASA's Artemis II mission lifted-off at 9:35am AEDT, with the space agency hoping to send humans around the Moon for the first time since 1972.",
+      "timestamp": "2026-04-01T20:49:33Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Guardian power rankings: France lead the way with Senegal and Japan in top 10",
       "link": "https://www.theguardian.com/football/2026/apr/01/guardian-power-rankings-france-senegal-japan-top-10-world-cup-2026",
@@ -2460,46 +2500,6 @@
       "first_sentence": "Vicky L\u00f3pez, Lily Yohannes, Michelle Agyemang \u2014 these are all names you may have heard before.",
       "timestamp": "2026-03-24T10:00:32Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "More North Sea drilling will put UK at mercy of fossil fuel markets, ministers say",
-      "link": "https://www.theguardian.com/environment/2026/mar/24/north-sea-drilling-concerns-uk-fossil-fuel-markets-ed-miliband",
-      "mean_score": 0.4306,
-      "vader_score": 0.3612,
-      "textblob_score": 0.5,
-      "first_sentence": "Ministers have said expanding North Sea drilling would put the UK at further risk from volatile fossil fuel markets, amid calls from the Conservatives and some Labour MPs to breach the manifesto pledge of no new oil and gas licences.",
-      "timestamp": "2026-03-24T09:32:13Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Molly Miller, \u2018pretty privilege\u2019 and women\u2019s basketball\u2019s beauty trap",
-      "link": "https://www.theguardian.com/sport/2026/mar/24/molly-miller-arizona-state-university-basketball",
-      "mean_score": 0.3056,
-      "vader_score": 0.3612,
-      "textblob_score": 0.25,
-      "first_sentence": "In March 2025, the Arizona State women\u2019s basketball team were looking for a coach who could end a drought that had seen them go without a NCAA Tournament appearance \u2013 or even a winning season \u2013 since 2019-20.",
-      "timestamp": "2026-03-24T09:00:14Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "More sightings of the Northern Lights with stunning bright colours",
-      "link": "https://www.bbc.com/weather/articles/c4g6zj7yz2lo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.6186,
-      "vader_score": 0.6705,
-      "textblob_score": 0.5667,
-      "first_sentence": "The Northern Lights were seen in the UK again on Monday night following an increase in solar activity over the last few days.",
-      "timestamp": "2026-03-24T08:20:33Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Villagers 'proud' of overturning second home crackdown in 'David and Goliath moment'",
-      "link": "https://www.bbc.com/news/articles/cx2dxz4nejpo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4384,
-      "vader_score": 0.4767,
-      "textblob_score": 0.4,
-      "first_sentence": "A group of villagers who fought to overturn a council's crackdown on second home-ownership say they are \"proud\" of their \"David and Goliath moment\".",
-      "timestamp": "2026-03-24T06:34:44Z",
-      "source": "BBC News"
     }
   ]
 }

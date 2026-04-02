@@ -1,5 +1,45 @@
 [
   {
+    "headline": "More North Sea drilling will put UK at mercy of fossil fuel markets, ministers say",
+    "link": "https://www.theguardian.com/environment/2026/mar/24/north-sea-drilling-concerns-uk-fossil-fuel-markets-ed-miliband",
+    "mean_score": 0.4306,
+    "vader_score": 0.3612,
+    "textblob_score": 0.5,
+    "first_sentence": "Ministers have said expanding North Sea drilling would put the UK at further risk from volatile fossil fuel markets, amid calls from the Conservatives and some Labour MPs to breach the manifesto pledge of no new oil and gas licences.",
+    "timestamp": "2026-03-24T09:32:13Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Molly Miller, \u2018pretty privilege\u2019 and women\u2019s basketball\u2019s beauty trap",
+    "link": "https://www.theguardian.com/sport/2026/mar/24/molly-miller-arizona-state-university-basketball",
+    "mean_score": 0.3056,
+    "vader_score": 0.3612,
+    "textblob_score": 0.25,
+    "first_sentence": "In March 2025, the Arizona State women\u2019s basketball team were looking for a coach who could end a drought that had seen them go without a NCAA Tournament appearance \u2013 or even a winning season \u2013 since 2019-20.",
+    "timestamp": "2026-03-24T09:00:14Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "More sightings of the Northern Lights with stunning bright colours",
+    "link": "https://www.bbc.com/weather/articles/c4g6zj7yz2lo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.6186,
+    "vader_score": 0.6705,
+    "textblob_score": 0.5667,
+    "first_sentence": "The Northern Lights were seen in the UK again on Monday night following an increase in solar activity over the last few days.",
+    "timestamp": "2026-03-24T08:20:33Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Villagers 'proud' of overturning second home crackdown in 'David and Goliath moment'",
+    "link": "https://www.bbc.com/news/articles/cx2dxz4nejpo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4384,
+    "vader_score": 0.4767,
+    "textblob_score": 0.4,
+    "first_sentence": "A group of villagers who fought to overturn a council's crackdown on second home-ownership say they are \"proud\" of their \"David and Goliath moment\".",
+    "timestamp": "2026-03-24T06:34:44Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Regional charity struggles to rescue more than 100 cats from property",
     "link": "https://www.abc.net.au/news/2026-03-24/100-cats-rescued-from-wodonga-home/106491882",
     "mean_score": 0.5287,
