@@ -1,5 +1,45 @@
 [
   {
+    "headline": "More frequent ejaculations may boost men\u2019s fertility, research suggests",
+    "link": "https://www.theguardian.com/society/2026/mar/25/more-frequent-ejaculations-men-fertility-research",
+    "mean_score": 0.3509,
+    "vader_score": 0.4019,
+    "textblob_score": 0.3,
+    "first_sentence": "Encouraging men to have more frequent ejaculations may boost their fertility, according to researchers who found that sperm deteriorates over time as it remains in the body.",
+    "timestamp": "2026-03-25T00:01:52Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Married at First Sight expert remembered as 'amazing' and 'radiant'",
+    "link": "https://www.abc.net.au/news/2026-03-25/mel-schilling-mafs-dies-bowel-cancer-australia-deadliest-expert/106494154",
+    "mean_score": 0.5756,
+    "vader_score": 0.7845,
+    "textblob_score": 0.3667,
+    "first_sentence": "Mel Schilling emerged as one of Australia's most recognisable relationship experts on Australian television.",
+    "timestamp": "2026-03-24T23:49:05Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "How Melbourne ended up with the biggest comedy festival in the world",
+    "link": "https://www.abc.net.au/news/2026-03-25/melbourne-international-comedy-festival-40-year-anniversary/106450836",
+    "mean_score": 0.3454,
+    "vader_score": 0.6908,
+    "textblob_score": 0.0,
+    "first_sentence": "Paul McDermott doesn't remember a lot from the first Melbourne International Comedy Festival (MICF) 40 years ago, where he performed as part of the now-legendary musical comedy group, the Doug Anthony All Stars.",
+    "timestamp": "2026-03-24T23:00:57Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Like millions of others, I pull my own hair out - we need to talk about trichotillomania",
+    "link": "https://www.bbc.com/news/articles/czx9l9lwr22o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4806,
+    "vader_score": 0.3612,
+    "textblob_score": 0.6,
+    "first_sentence": "An online content creator who has a compulsive hair-pulling disorder says others with the condition \"shouldn't be ashamed\" or \"feel embarrassed\".",
+    "timestamp": "2026-03-24T22:50:06Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "\u2018I will never walk alone\u2019: Mohamed Salah to leave Liverpool on free transfer at end of season",
     "link": "https://www.theguardian.com/football/2026/mar/24/mohamed-salah-to-leave-liverpool-at-end-of-the-season",
     "mean_score": 0.4384,
