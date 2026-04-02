@@ -1,6 +1,36 @@
 {
-  "last run": "2026-04-02T18:17:34Z",
+  "last run": "2026-04-02T21:11:46Z",
   "stories": [
+    {
+      "headline": "What's so cool about the far side of the moon? A NASA Artemis II scientist explains",
+      "link": "https://www.npr.org/2026/04/02/nx-s1-5763900/whats-so-cool-about-the-far-side-of-the-moon-a-nasa-artemis-ii-scientist-explains",
+      "mean_score": 0.3027,
+      "vader_score": 0.3804,
+      "textblob_score": 0.225,
+      "first_sentence": "NPR's Scott Detrow speaks with NASA's Kelly Evans Young, the Artemis science flight operations lead, about the rigors of space and the lunar slingshot to get home.",
+      "timestamp": "2026-04-02T21:04:22Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "UConn star sophomore Sarah Strong named the AP Player of the Year in women\u2019s college basketball",
+      "link": "https://apnews.com/article/ap-player-of-year-sarah-strong-uconn-eb1a7abce07aa652bc4bbdff592b7193",
+      "mean_score": 0.472,
+      "vader_score": 0.5106,
+      "textblob_score": 0.4333,
+      "first_sentence": "PHOENIX (AP) \u2014 Sarah Strong of UConn was named The Associated Press women\u2019s basketball Player of the Year on Thursday after leading the Huskies to an undefeated season, setting the stage for a run to the Final Four.",
+      "timestamp": "2026-04-02T20:23:02Z",
+      "source": "AP News"
+    },
+    {
+      "headline": "Weekly news quiz: A lost penguin, successful NASA rocket launch and address to the nation",
+      "link": "https://www.abc.net.au/news/2026-04-03/abc-weekly-news-quiz-april-3/106525768",
+      "mean_score": 0.5556,
+      "vader_score": 0.3612,
+      "textblob_score": 0.75,
+      "first_sentence": "Take a squiz at the ABC's New Quiz topic page and see if you're a whiz at our previous quizzes.",
+      "timestamp": "2026-04-02T18:30:00Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Uganda receives first US deportation flight under third-country agreement",
       "link": "https://www.theguardian.com/us-news/2026/apr/02/uganda-receives-first-us-deportation-flight-under-third-country-agreement",
@@ -2470,36 +2500,6 @@
       "first_sentence": "The Guardian\u2019s journalism is independent.",
       "timestamp": "2026-03-25T10:00:04Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "So long, farewell: Saying goodbye to Audi's best car, the 2026 RS6 Avant",
-      "link": "https://arstechnica.com/cars/2026/03/so-long-farewell-saying-goodbye-to-audis-best-car-the-2026-rs6-avant/",
-      "mean_score": 0.5559,
-      "vader_score": 0.6369,
-      "textblob_score": 0.475,
-      "first_sentence": "With production now finished, we take one last ride in our favorite station wagon.",
-      "timestamp": "2026-03-25T10:00:01Z",
-      "source": "Ars Technica"
-    },
-    {
-      "headline": "Stocks rise and oil dips on hopes of 15-point Iran peace plan",
-      "link": "https://www.theguardian.com/business/2026/mar/25/stocks-rise-oil-dips-iran-peace-plan-market-optimism",
-      "mean_score": 0.3715,
-      "vader_score": 0.743,
-      "textblob_score": 0.0,
-      "first_sentence": "The price of oil has dipped and Asian stock markets moved higher after reports that Donald Trump has sent a 15-point framework for peace to Iran, amid hopes of a ceasefire in the Middle East.",
-      "timestamp": "2026-03-25T09:08:32Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Are you sure you know what 'gaslighting' is?",
-      "link": "https://www.npr.org/2026/03/25/nx-s1-5728191/gaslighting-origin-history-word",
-      "mean_score": 0.4091,
-      "vader_score": 0.3182,
-      "textblob_score": 0.5,
-      "first_sentence": "You're not imagining it.",
-      "timestamp": "2026-03-25T09:00:00Z",
-      "source": "NPR News"
     }
   ]
 }

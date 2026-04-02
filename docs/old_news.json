@@ -1,5 +1,35 @@
 [
   {
+    "headline": "So long, farewell: Saying goodbye to Audi's best car, the 2026 RS6 Avant",
+    "link": "https://arstechnica.com/cars/2026/03/so-long-farewell-saying-goodbye-to-audis-best-car-the-2026-rs6-avant/",
+    "mean_score": 0.5559,
+    "vader_score": 0.6369,
+    "textblob_score": 0.475,
+    "first_sentence": "With production now finished, we take one last ride in our favorite station wagon.",
+    "timestamp": "2026-03-25T10:00:01Z",
+    "source": "Ars Technica"
+  },
+  {
+    "headline": "Stocks rise and oil dips on hopes of 15-point Iran peace plan",
+    "link": "https://www.theguardian.com/business/2026/mar/25/stocks-rise-oil-dips-iran-peace-plan-market-optimism",
+    "mean_score": 0.3715,
+    "vader_score": 0.743,
+    "textblob_score": 0.0,
+    "first_sentence": "The price of oil has dipped and Asian stock markets moved higher after reports that Donald Trump has sent a 15-point framework for peace to Iran, amid hopes of a ceasefire in the Middle East.",
+    "timestamp": "2026-03-25T09:08:32Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Are you sure you know what 'gaslighting' is?",
+    "link": "https://www.npr.org/2026/03/25/nx-s1-5728191/gaslighting-origin-history-word",
+    "mean_score": 0.4091,
+    "vader_score": 0.3182,
+    "textblob_score": 0.5,
+    "first_sentence": "You're not imagining it.",
+    "timestamp": "2026-03-25T09:00:00Z",
+    "source": "NPR News"
+  },
+  {
     "headline": "Mette Frederiksen keen to remain as Denmark\u2019s PM despite losing ground in election \u2013 Europe live",
     "link": "https://www.theguardian.com/world/live/2026/mar/25/denmark-election-results-mette-frederiksen-europe-latest-news-updates",
     "mean_score": 0.353,
