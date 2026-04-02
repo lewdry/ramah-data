@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Bait review \u2013 Riz Ahmed\u2019s comedy is petty, narcissistic \u2026 and excellent",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/mar/25/bait-review-riz-ahmed-bond-comedy-prime-video",
+    "mean_score": 0.8298,
+    "vader_score": 0.6597,
+    "textblob_score": 1.0,
+    "first_sentence": "Part autobiography, part industry satire, this hilarious show boasts dazzling dialogue and ace cameos.",
+    "timestamp": "2026-03-25T05:00:02Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Bridgerton\u2019s fifth season will focus on queer love story between Francesca Bridgerton and Michaela Stirling",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/mar/25/bridgerton-fifth-season-queer-romance-francesca-michaela-stirling",
+    "mean_score": 0.5685,
+    "vader_score": 0.6369,
+    "textblob_score": 0.5,
+    "first_sentence": "Dearest gentle reader \u2026 Netflix has announced that Bridgerton\u2019s upcoming fifth season will focus on a gay lead storyline in a first for the hit romantic period drama.",
+    "timestamp": "2026-03-25T04:38:11Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "\u2018With solar and batteries so popular, will all Australians generate their own power?\u2019 - Your climate questions answered",
+    "link": "https://www.theguardian.com/australia-news/2026/mar/25/is-this-australias-moment-to-embrace-renewables-ask-adam-morton-your-questions-now",
+    "mean_score": 0.5799,
+    "vader_score": 0.5598,
+    "textblob_score": 0.6,
+    "first_sentence": "The US-Israel war on Iran has caused a surge in fossil fuel prices \u2013 again.",
+    "timestamp": "2026-03-25T02:00:00Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Australia politics live: NSW to compel oil companies to explain where extra petrol being sent; Victoria announces three hours of free power a day",
+    "link": "https://www.theguardian.com/australia-news/live/2026/mar/25/politics-federal-queensland-nsw-parliament-tony-burke-jim-chalmers-middle-east-fuel-crisis-ntwnfb",
+    "mean_score": 0.3447,
+    "vader_score": 0.5106,
+    "textblob_score": 0.1788,
+    "first_sentence": "The NSW government will compel major fuel companies to explain how they will distribute extra fuel released from federal reserves in the first use of emergency powers in the state to address shortages.",
+    "timestamp": "2026-03-25T00:08:57Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "More frequent ejaculations may boost men\u2019s fertility, research suggests",
     "link": "https://www.theguardian.com/society/2026/mar/25/more-frequent-ejaculations-men-fertility-research",
     "mean_score": 0.3509,
