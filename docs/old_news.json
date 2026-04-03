@@ -1,5 +1,55 @@
 [
   {
+    "headline": "Who wants what and why from US-Iran peace talks?",
+    "link": "https://www.bbc.com/news/articles/cm29l9r68j8o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3711,
+    "vader_score": 0.5423,
+    "textblob_score": 0.2,
+    "first_sentence": "When one side, the US, says there are ongoing, productive negotiations to end the war and the other side, Iran, says \"no, there are not\", then who to believe?.",
+    "timestamp": "2026-03-25T18:32:35Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Kyle Sandilands is rich and driven to win. But the stakes of suing ARN are high",
+    "link": "https://www.abc.net.au/news/2026-03-26/will-kyle-sandilands-sue-radio-network-arn/106495140",
+    "mean_score": 0.3533,
+    "vader_score": 0.2617,
+    "textblob_score": 0.445,
+    "first_sentence": "There's an $88 million question currently doing the rounds of legal and media circles, following the catastrophic falling out between radio shock jocks Kyle and Jackie O and their former radio network ARN.",
+    "timestamp": "2026-03-25T18:30:00Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Pretty Lethal review \u2013 Amazon\u2019s ballerina action thriller puts on a decent enough show",
+    "link": "https://www.theguardian.com/film/2026/mar/25/pretty-lethal-review-ballerina-action-thriller",
+    "mean_score": 0.3433,
+    "vader_score": 0.5574,
+    "textblob_score": 0.1292,
+    "first_sentence": "Last year\u2019s Ballerina, or as Lionsgate\u2019s marketing team would prefer us to say From the World of John Wick: Ballerina, failed as both proof that the Keanu Reeves-led franchise could support expansion and that \u201cballet action thriller\u201d could be a worthy new genre.",
+    "timestamp": "2026-03-25T18:12:46Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "I thought my cuckoo clock was amazing, but it\u2019s got nothing on my statue of Bert the cheery chef | Adrian Chiles",
+    "link": "https://www.theguardian.com/commentisfree/2026/mar/25/thought-my-cuckoo-clock-was-amazing-but-nothing-on-my-statue-of-cheery-chef",
+    "mean_score": 0.7287,
+    "vader_score": 0.8074,
+    "textblob_score": 0.65,
+    "first_sentence": "I came across something that makes me happy every day.",
+    "timestamp": "2026-03-25T17:34:36Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Dogs became man's best friend far earlier than thought, scientists find",
+    "link": "https://www.bbc.com/news/articles/cn0ky1n791go?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.5896,
+    "vader_score": 0.8126,
+    "textblob_score": 0.3667,
+    "first_sentence": "A fragment of a jawbone found deep underground in a cave in Somerset has rewritten the story of when and how dogs became our best friends.",
+    "timestamp": "2026-03-25T16:00:49Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Can Bluey save classical music? Cartoon puppy\u2019s all-encompassing soundtrack plays Bach and Beethoven to billions",
     "link": "https://www.theguardian.com/music/2026/mar/25/tom-service-can-bluey-save-classical-music",
     "mean_score": 0.3185,

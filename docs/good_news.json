@@ -1,6 +1,56 @@
 {
-  "last run": "2026-04-03T06:26:27Z",
+  "last run": "2026-04-03T09:19:18Z",
   "stories": [
+    {
+      "headline": "Culture of care: surreal celebrations of Iranian tenderness \u2013 in pictures",
+      "link": "https://www.theguardian.com/culture/gallery/2026/apr/03/sheida-soleimani-ghostwriter-iran-art-photography-nyc-gallery",
+      "mean_score": 0.4842,
+      "vader_score": 0.7184,
+      "textblob_score": 0.25,
+      "first_sentence": "As the daughter of refugees, Iranian American artist Sheida Soleimani\u2019s work reframes caring for bodies \u2013 both human and animal - as a political act.",
+      "timestamp": "2026-04-03T09:00:49Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Unhittable: are the modern era\u2019s weightlifting, analytics-fueled pitchers too good?",
+      "link": "https://www.theguardian.com/sport/2026/apr/03/unhittable-are-the-modern-eras-weightlifting-analytics-fueled-pitchers-too-good",
+      "mean_score": 0.4452,
+      "vader_score": 0.4404,
+      "textblob_score": 0.45,
+      "first_sentence": "In a 1940 publicity stunt, the Cleveland Indians\u2019 flamethrowing pitcher, Bob Feller, tested which was faster: One of his own blazing deliveries, or a motorcycle.",
+      "timestamp": "2026-04-03T09:00:48Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Lizzo\u2019s reinvention faces its greatest test yet",
+      "link": "https://www.theguardian.com/music/commentisfree/2026/apr/03/what-does-lizzo-stand-for-now",
+      "mean_score": 0.8185,
+      "vader_score": 0.6369,
+      "textblob_score": 1.0,
+      "first_sentence": "Lizzo\u2019s ascent to mainstream stardom was the type of fairytale that pop dreams are made of.",
+      "timestamp": "2026-04-03T08:00:47Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "'Trust us, you look amazing': Artemis II astronauts speak from space",
+      "link": "https://www.bbc.com/news/videos/crl10127elgo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.6982,
+      "vader_score": 0.7964,
+      "textblob_score": 0.6,
+      "first_sentence": "The Artemis II spacecraft has successfully made its way to the far side of the Moon after leaving the Earth's orbit.",
+      "timestamp": "2026-04-03T07:07:48Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "'The meaner we are, the better we get along' say Race Across the World siblings",
+      "link": "https://www.bbc.com/news/articles/cy81kxy450yo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.5,
+      "first_sentence": "When Katie's older brother Harrison told her he'd entered them into Race Across the World she wasn't filled with enthusiasm.",
+      "timestamp": "2026-04-03T06:41:45Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Helen Goh\u2019s recipe for ricotta, rum and raisin cake | The sweet spot",
       "link": "https://www.theguardian.com/food/2026/apr/03/ricotta-rum-and-raisin-cake-recipe-helen-goh",
@@ -2450,56 +2500,6 @@
       "first_sentence": "50 min: Turner concedes a free-kick on halfway.",
       "timestamp": "2026-03-25T21:06:42Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Who wants what and why from US-Iran peace talks?",
-      "link": "https://www.bbc.com/news/articles/cm29l9r68j8o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3711,
-      "vader_score": 0.5423,
-      "textblob_score": 0.2,
-      "first_sentence": "When one side, the US, says there are ongoing, productive negotiations to end the war and the other side, Iran, says \"no, there are not\", then who to believe?.",
-      "timestamp": "2026-03-25T18:32:35Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Kyle Sandilands is rich and driven to win. But the stakes of suing ARN are high",
-      "link": "https://www.abc.net.au/news/2026-03-26/will-kyle-sandilands-sue-radio-network-arn/106495140",
-      "mean_score": 0.3533,
-      "vader_score": 0.2617,
-      "textblob_score": 0.445,
-      "first_sentence": "There's an $88 million question currently doing the rounds of legal and media circles, following the catastrophic falling out between radio shock jocks Kyle and Jackie O and their former radio network ARN.",
-      "timestamp": "2026-03-25T18:30:00Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Pretty Lethal review \u2013 Amazon\u2019s ballerina action thriller puts on a decent enough show",
-      "link": "https://www.theguardian.com/film/2026/mar/25/pretty-lethal-review-ballerina-action-thriller",
-      "mean_score": 0.3433,
-      "vader_score": 0.5574,
-      "textblob_score": 0.1292,
-      "first_sentence": "Last year\u2019s Ballerina, or as Lionsgate\u2019s marketing team would prefer us to say From the World of John Wick: Ballerina, failed as both proof that the Keanu Reeves-led franchise could support expansion and that \u201cballet action thriller\u201d could be a worthy new genre.",
-      "timestamp": "2026-03-25T18:12:46Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "I thought my cuckoo clock was amazing, but it\u2019s got nothing on my statue of Bert the cheery chef | Adrian Chiles",
-      "link": "https://www.theguardian.com/commentisfree/2026/mar/25/thought-my-cuckoo-clock-was-amazing-but-nothing-on-my-statue-of-cheery-chef",
-      "mean_score": 0.7287,
-      "vader_score": 0.8074,
-      "textblob_score": 0.65,
-      "first_sentence": "I came across something that makes me happy every day.",
-      "timestamp": "2026-03-25T17:34:36Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Dogs became man's best friend far earlier than thought, scientists find",
-      "link": "https://www.bbc.com/news/articles/cn0ky1n791go?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5896,
-      "vader_score": 0.8126,
-      "textblob_score": 0.3667,
-      "first_sentence": "A fragment of a jawbone found deep underground in a cave in Somerset has rewritten the story of when and how dogs became our best friends.",
-      "timestamp": "2026-03-25T16:00:49Z",
-      "source": "BBC News"
     }
   ]
 }
