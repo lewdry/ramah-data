@@ -1,5 +1,35 @@
 [
   {
+    "headline": "\u2018It\u2019s like having a friend everywhere you travel\u2019: after 12 home exchanges, I\u2019ll never book a hotel again",
+    "link": "https://www.theguardian.com/travel/2026/mar/26/joys-savings-of-house-swapping-home-exchanges",
+    "mean_score": 0.3454,
+    "vader_score": 0.6908,
+    "textblob_score": 0.0,
+    "first_sentence": "The Guardian\u2019s journalism is independent.",
+    "timestamp": "2026-03-26T07:00:30Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "AFL braces for increase in positive tests under \u2018stronger\u2019 new illicit drugs policy",
+    "link": "https://www.theguardian.com/sport/2026/mar/26/afl-new-illicit-drugs-policy-andrew-dillon",
+    "mean_score": 0.4457,
+    "vader_score": 0.7096,
+    "textblob_score": 0.1818,
+    "first_sentence": "The AFL is preparing for an increase in players testing positive to drugs such as cocaine and MDMA due to more effective testing under a new illicit substances policy, even if the public will never find out.",
+    "timestamp": "2026-03-26T05:26:51Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Popovic wants World Cup contenders to play with freedom in final home matches",
+    "link": "https://www.abc.net.au/news/2026-03-26/socceroos-world-cup-fifa-series-cameroon-curacao/106497242",
+    "mean_score": 0.4325,
+    "vader_score": 0.765,
+    "textblob_score": 0.1,
+    "first_sentence": "The Socceroos will play two 'farewell' matches against Cameroon and Cura\u00e7ao in Sydney and Melbourne over the coming days.",
+    "timestamp": "2026-03-26T05:13:06Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "\u2018You go in bald and walk out with the best hair you\u2019ve ever had\u2019: the remarkable return of the toupee",
     "link": "https://www.theguardian.com/fashion/2026/mar/26/bald-toupee-hair-transplants-hairpieces-glued",
     "mean_score": 0.8533,
