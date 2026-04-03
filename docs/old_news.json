@@ -1,5 +1,25 @@
 [
   {
+    "headline": "The Celtics\u2019 orca-loving Joe Mazzulla is an NBA oddball. He\u2019s also a masterful coach",
+    "link": "https://www.theguardian.com/sport/2026/mar/25/joe-mazzulla-celtics-nba-coach-of-the-year",
+    "mean_score": 0.5,
+    "vader_score": 0.0,
+    "textblob_score": 1.0,
+    "first_sentence": "The Boston Celtics\u2019 head coach, Joe Mazzulla, is a very odd man.",
+    "timestamp": "2026-03-25T10:00:04Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Sali Hughes on beauty: finally, a dry skin remedy with a touch of elegance",
+    "link": "https://www.theguardian.com/fashion/2026/mar/25/sali-hughes-on-beauty-dry-skin-remedy-derma-body-lotions",
+    "mean_score": 0.3589,
+    "vader_score": 0.7845,
+    "textblob_score": -0.0667,
+    "first_sentence": "The Guardian\u2019s journalism is independent.",
+    "timestamp": "2026-03-25T10:00:04Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "So long, farewell: Saying goodbye to Audi's best car, the 2026 RS6 Avant",
     "link": "https://arstechnica.com/cars/2026/03/so-long-farewell-saying-goodbye-to-audis-best-car-the-2026-rs6-avant/",
     "mean_score": 0.5559,
