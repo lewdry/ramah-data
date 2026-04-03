@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Brisbane capitalises on 'less sexy' business events to the tune of millions",
+    "link": "https://www.abc.net.au/news/2026-03-26/brisbane-attracting-more-business-scientific-conferences/106395792",
+    "mean_score": 0.3223,
+    "vader_score": 0.4779,
+    "textblob_score": 0.1667,
+    "first_sentence": "Brisbane is pitching to attract more major business conventions and conferences in the lead up to the 2032 Olympics.",
+    "timestamp": "2026-03-25T21:59:07Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Bay the 'greatest risk and biggest asset' for beachside residents in Victoria",
+    "link": "https://www.abc.net.au/news/2026-03-26/coastal-erosion-climate-change-impacts-bellarine-coast-victoria/105184364",
+    "mean_score": 0.8404,
+    "vader_score": 0.6808,
+    "textblob_score": 1.0,
+    "first_sentence": "Two new reports have listed parts of Victoria's Bellarine Peninsula that are likely to be affected by inundation and erosion associated with climate change.",
+    "timestamp": "2026-03-25T21:10:23Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Manchester United v Bayern Munich: Women\u2019s Champion League quarter-final, first leg \u2013 live",
+    "link": "https://www.theguardian.com/football/live/2026/mar/25/manchester-united-v-bayern-munich-womens-champion-league-quarter-final-first-leg-live",
+    "mean_score": 0.4824,
+    "vader_score": 0.7717,
+    "textblob_score": 0.1932,
+    "first_sentence": "50 min: Turner concedes a free-kick on halfway.",
+    "timestamp": "2026-03-25T21:06:42Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Who wants what and why from US-Iran peace talks?",
     "link": "https://www.bbc.com/news/articles/cm29l9r68j8o?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.3711,

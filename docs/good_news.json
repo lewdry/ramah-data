@@ -1,6 +1,36 @@
 {
-  "last run": "2026-04-03T09:19:18Z",
+  "last run": "2026-04-03T12:12:58Z",
   "stories": [
+    {
+      "headline": "Cocktail of the week: Acre\u2019s fashionably late \u2013 recipe | The good mixer",
+      "link": "https://www.theguardian.com/food/2026/apr/03/fashionably-late-cocktail-recipe-acres",
+      "mean_score": 0.3202,
+      "vader_score": 0.4404,
+      "textblob_score": 0.2,
+      "first_sentence": "Our cocktail list features both classics and new ones we\u2019ve created ourselves, including this old fashioned of sorts.",
+      "timestamp": "2026-04-03T12:00:52Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Oxford Brookes\u2019 student racing team target Silverstone win",
+      "link": "https://www.theguardian.com/education/2026/apr/03/oxford-brookes-f1-formula-student-competition-fastest-race-car",
+      "mean_score": 0.6929,
+      "vader_score": 0.5859,
+      "textblob_score": 0.8,
+      "first_sentence": "At the Oxford Brookes Headington campus, more than 100 students are busy building the fastest, best designed race car possible for this year\u2019s Formula Student competition.",
+      "timestamp": "2026-04-03T11:45:01Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Easter eggs can be dyed and still eaten. Just follow these tips to make sure it\u2019s safe",
+      "link": "https://apnews.com/article/eggs-easter-food-safety-tips-4a9e3561f50876c0bdfaf1b5bb45293a",
+      "mean_score": 0.5685,
+      "vader_score": 0.6369,
+      "textblob_score": 0.5,
+      "first_sentence": "SIOUX FALLS, S.D.",
+      "timestamp": "2026-04-03T11:23:03Z",
+      "source": "AP News"
+    },
     {
       "headline": "Culture of care: surreal celebrations of Iranian tenderness \u2013 in pictures",
       "link": "https://www.theguardian.com/culture/gallery/2026/apr/03/sheida-soleimani-ghostwriter-iran-art-photography-nyc-gallery",
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.5,
       "first_sentence": "Harry Maguire was injured again and Manchester United were stuck in a loop under Ruben Amorim, offering their own take on the definition of insanity.",
       "timestamp": "2026-03-25T22:30:19Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Brisbane capitalises on 'less sexy' business events to the tune of millions",
-      "link": "https://www.abc.net.au/news/2026-03-26/brisbane-attracting-more-business-scientific-conferences/106395792",
-      "mean_score": 0.3223,
-      "vader_score": 0.4779,
-      "textblob_score": 0.1667,
-      "first_sentence": "Brisbane is pitching to attract more major business conventions and conferences in the lead up to the 2032 Olympics.",
-      "timestamp": "2026-03-25T21:59:07Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Bay the 'greatest risk and biggest asset' for beachside residents in Victoria",
-      "link": "https://www.abc.net.au/news/2026-03-26/coastal-erosion-climate-change-impacts-bellarine-coast-victoria/105184364",
-      "mean_score": 0.8404,
-      "vader_score": 0.6808,
-      "textblob_score": 1.0,
-      "first_sentence": "Two new reports have listed parts of Victoria's Bellarine Peninsula that are likely to be affected by inundation and erosion associated with climate change.",
-      "timestamp": "2026-03-25T21:10:23Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Manchester United v Bayern Munich: Women\u2019s Champion League quarter-final, first leg \u2013 live",
-      "link": "https://www.theguardian.com/football/live/2026/mar/25/manchester-united-v-bayern-munich-womens-champion-league-quarter-final-first-leg-live",
-      "mean_score": 0.4824,
-      "vader_score": 0.7717,
-      "textblob_score": 0.1932,
-      "first_sentence": "50 min: Turner concedes a free-kick on halfway.",
-      "timestamp": "2026-03-25T21:06:42Z",
       "source": "The Guardian"
     }
   ]
