@@ -1,5 +1,45 @@
 [
   {
+    "headline": "\u2018You go in bald and walk out with the best hair you\u2019ve ever had\u2019: the remarkable return of the toupee",
+    "link": "https://www.theguardian.com/fashion/2026/mar/26/bald-toupee-hair-transplants-hairpieces-glued",
+    "mean_score": 0.8533,
+    "vader_score": 0.8316,
+    "textblob_score": 0.875,
+    "first_sentence": "Hair transplants have never been more widespread or more affordable.",
+    "timestamp": "2026-03-26T05:00:28Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "What's a 'super' El Ni\u00f1o, and is Australia facing one?",
+    "link": "https://www.sbs.com.au/news/article/is-a-super-el-nino-forming-australia/sknakmybs",
+    "mean_score": 0.4664,
+    "vader_score": 0.5994,
+    "textblob_score": 0.3333,
+    "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+    "timestamp": "2026-03-26T04:31:45Z",
+    "source": "SBS News"
+  },
+  {
+    "headline": "'My left foot was in his mouth': Fisher's lucky escape from 3.5m shark",
+    "link": "https://www.abc.net.au/news/2026-03-26/shark-attack-escape-cape-jaffa-great-white/106496684",
+    "mean_score": 0.3545,
+    "vader_score": 0.5423,
+    "textblob_score": 0.1667,
+    "first_sentence": "Amateur fisher Luke Kuhn says he is lucky to have escaped an encounter with a great white shark that bit his swim fin and dragged him along the ocean floor.",
+    "timestamp": "2026-03-26T04:14:32Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "The Matildas\u2019 coach wants the side to face the world\u2019s best \u2013 so why are they playing Malawi next? | Samantha Lewis",
+    "link": "https://www.theguardian.com/football/2026/mar/26/matildas-coach-worlds-best-playing-emerging-next",
+    "mean_score": 0.5592,
+    "vader_score": 0.7184,
+    "textblob_score": 0.4,
+    "first_sentence": "Did someone forget to include Matildas head coach Joe Montemurro on the emails?.",
+    "timestamp": "2026-03-26T02:50:40Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "\u2018It\u2019s something bling\u2019: Gout Gout ready to sparkle as he enters new phase of sprint career",
     "link": "https://www.theguardian.com/sport/2026/mar/26/gout-gout-sprinter-new-phase",
     "mean_score": 0.4084,
