@@ -1,6 +1,46 @@
 {
-  "last run": "2026-04-04T18:09:02Z",
+  "last run": "2026-04-04T21:08:17Z",
   "stories": [
+    {
+      "headline": "Aerial photographer's hunt for 'Easter eggs' yields stunning images",
+      "link": "https://www.abc.net.au/news/2026-04-05/easter-egg-salt-lakes-photography-by-scott-mccook-wa-wheatbelt/106516520",
+      "mean_score": 0.4409,
+      "vader_score": 0.3818,
+      "textblob_score": 0.5,
+      "first_sentence": "Scott McCook hunts \"eggs\" from the air, but not the traditional Easter kind.",
+      "timestamp": "2026-04-04T20:06:02Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "The moment I knew: he kissed me and it felt like I was standing on the edge of a whole new life",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/apr/04/the-moment-i-knew-he-kissed-me-and-it-felt-like-i-was-standing-on-the-edge-of-a-whole-new-life",
+      "mean_score": 0.3965,
+      "vader_score": 0.6249,
+      "textblob_score": 0.1682,
+      "first_sentence": "In the summer of 2014, I was living in Adelaide with my two young children in a very hot rental house with a low ceiling and a rat problem.",
+      "timestamp": "2026-04-04T20:00:31Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Friends, with recipes: how a love of food brought my husband and I together, and helped us part",
+      "link": "https://www.theguardian.com/books/2026/apr/04/love-of-food-brought-us-together",
+      "mean_score": 0.6537,
+      "vader_score": 0.8074,
+      "textblob_score": 0.5,
+      "first_sentence": "For our first date \u2013 a picnic on the grassy banks of the Molonglo River near Canberra \u2013 the man I would marry brought the tartan blanket (tick), the wine (tick), a crusty baguette (tick), the cheese (tick), and then the ka-boom of a chicken and grape salad he\u2019d made from a recipe in a gourmet magazine.",
+      "timestamp": "2026-04-04T20:00:31Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Thom Yorke's solo tour was one of a kind. This Aussie film captured it",
+      "link": "https://www.abc.net.au/news/2026-04-05/thom-yorke-live-sydney-opera-house-solo-tour-concert-film/106418362",
+      "mean_score": 0.5634,
+      "vader_score": 0.5267,
+      "textblob_score": 0.6,
+      "first_sentence": "Our social feeds are inundated with DIY concert footage, to the degree that artists and venues have banned the use of smartphones, and we typically know what to expect from the biggest overseas touring acts before they arrive on our shores.",
+      "timestamp": "2026-04-04T18:30:00Z",
+      "source": "ABC News"
+    },
     {
       "headline": "European football: Real Mallorca hand Barcelona a gift with shock win over Real Madrid",
       "link": "https://www.theguardian.com/football/2026/apr/04/european-football-bayern-munich-real-madrid-atletico-barcelona",
@@ -2460,46 +2500,6 @@
       "first_sentence": "In 2020 he abandoned his career in finance, sold all his shares and gold and invested the money in the family farm, in the southern Indian state of Karnataka.",
       "timestamp": "2026-03-27T00:01:01Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "World Cup playoffs: Poland fight back to sink Albania, Kosovo win thriller in Slovakia",
-      "link": "https://www.theguardian.com/football/2026/mar/26/world-cup-playoffs-turkey-romania-denmark-north-macedonia-poland-albania-slovakia-kosovo",
-      "mean_score": 0.3909,
-      "vader_score": 0.3818,
-      "textblob_score": 0.4,
-      "first_sentence": "Robert Lewandowski helped Poland come from behind to scrape past Albania 2-1 after Arber Hoxha gave the visitors the lead in Warsaw.",
-      "timestamp": "2026-03-26T23:47:43Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The 'crown jewels' of the Iranian nuclear program and why the US wants them",
-      "link": "https://www.abc.net.au/news/2026-03-27/iranian-uranium-stockpile-us-and-israel-key-to-ending-war/106471006",
-      "mean_score": 0.3294,
-      "vader_score": 0.4588,
-      "textblob_score": 0.2,
-      "first_sentence": "Hidden in the mountains of Iran, there is a stockpile of canisters that could determine the future of the war.",
-      "timestamp": "2026-03-26T23:44:04Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Coco Gauff marches into Miami Open final with easy win over Karolina Muchova",
-      "link": "https://www.theguardian.com/sport/2026/mar/26/they-think-its-muchova-it-is-now-coco-gauff-miami-open-tennis",
-      "mean_score": 0.54,
-      "vader_score": 0.7717,
-      "textblob_score": 0.3083,
-      "first_sentence": "With her hopes of a monumental result at the Miami Open all but over, Karolina Muchova\u2019s desperation deep in her semi-final match against Coco Gauff brought her into the forecourt.",
-      "timestamp": "2026-03-26T23:34:34Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "A Far-flung Life by ML Stedman review \u2013 a masterful examination of loss",
-      "link": "https://www.theguardian.com/books/2026/mar/27/far-flung-life-ml-stedman-review-book-review",
-      "mean_score": 0.3409,
-      "vader_score": -0.3182,
-      "textblob_score": 1.0,
-      "first_sentence": "Moral ambiguity was the eddying undercurrent of ML Stedman\u2019s immensely popular 2012 debut, The Light Between Oceans, about a couple who discover a baby on the shores of their remote island home off the coast of Western Australia.",
-      "timestamp": "2026-03-26T23:00:49Z",
-      "source": "The Guardian"
     }
   ]
 }

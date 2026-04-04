@@ -1,5 +1,45 @@
 [
   {
+    "headline": "World Cup playoffs: Poland fight back to sink Albania, Kosovo win thriller in Slovakia",
+    "link": "https://www.theguardian.com/football/2026/mar/26/world-cup-playoffs-turkey-romania-denmark-north-macedonia-poland-albania-slovakia-kosovo",
+    "mean_score": 0.3909,
+    "vader_score": 0.3818,
+    "textblob_score": 0.4,
+    "first_sentence": "Robert Lewandowski helped Poland come from behind to scrape past Albania 2-1 after Arber Hoxha gave the visitors the lead in Warsaw.",
+    "timestamp": "2026-03-26T23:47:43Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "The 'crown jewels' of the Iranian nuclear program and why the US wants them",
+    "link": "https://www.abc.net.au/news/2026-03-27/iranian-uranium-stockpile-us-and-israel-key-to-ending-war/106471006",
+    "mean_score": 0.3294,
+    "vader_score": 0.4588,
+    "textblob_score": 0.2,
+    "first_sentence": "Hidden in the mountains of Iran, there is a stockpile of canisters that could determine the future of the war.",
+    "timestamp": "2026-03-26T23:44:04Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Coco Gauff marches into Miami Open final with easy win over Karolina Muchova",
+    "link": "https://www.theguardian.com/sport/2026/mar/26/they-think-its-muchova-it-is-now-coco-gauff-miami-open-tennis",
+    "mean_score": 0.54,
+    "vader_score": 0.7717,
+    "textblob_score": 0.3083,
+    "first_sentence": "With her hopes of a monumental result at the Miami Open all but over, Karolina Muchova\u2019s desperation deep in her semi-final match against Coco Gauff brought her into the forecourt.",
+    "timestamp": "2026-03-26T23:34:34Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "A Far-flung Life by ML Stedman review \u2013 a masterful examination of loss",
+    "link": "https://www.theguardian.com/books/2026/mar/27/far-flung-life-ml-stedman-review-book-review",
+    "mean_score": 0.3409,
+    "vader_score": -0.3182,
+    "textblob_score": 1.0,
+    "first_sentence": "Moral ambiguity was the eddying undercurrent of ML Stedman\u2019s immensely popular 2012 debut, The Light Between Oceans, about a couple who discover a baby on the shores of their remote island home off the coast of Western Australia.",
+    "timestamp": "2026-03-26T23:00:49Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Cape York stations hit by Cyclone Narelle call for army's help to clean up",
     "link": "https://www.abc.net.au/news/2026-03-27/cyclone-narelle-cape-york-stations-clean-up-support/106490402",
     "mean_score": 0.5132,
