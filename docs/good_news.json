@@ -1,6 +1,26 @@
 {
-  "last run": "2026-04-04T15:08:44Z",
+  "last run": "2026-04-04T18:09:02Z",
   "stories": [
+    {
+      "headline": "European football: Real Mallorca hand Barcelona a gift with shock win over Real Madrid",
+      "link": "https://www.theguardian.com/football/2026/apr/04/european-football-bayern-munich-real-madrid-atletico-barcelona",
+      "mean_score": 0.5537,
+      "vader_score": 0.8074,
+      "textblob_score": 0.3,
+      "first_sentence": "Real Mallorca dealt a major blow to Real Madrid\u2019s title aspirations as Vedat Muriqi struck an added-time winner to seal a shock 2-1 win for the hosts, leaving Real four points behind Barcelona before the leaders play Atl\u00e9tico Madrid later on Saturday.",
+      "timestamp": "2026-04-04T16:40:39Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "What are peptides, are they safe and is there evidence to back up the hype?",
+      "link": "https://www.theguardian.com/science/2026/apr/04/what-are-peptides-safety-wellness-products-online",
+      "mean_score": 0.3452,
+      "vader_score": 0.4404,
+      "textblob_score": 0.25,
+      "first_sentence": "From influencers to athletes, high-profile figures are hailing peptides as the route to wellness, claiming they help with injury repair, weight loss, anti-ageing and mood.",
+      "timestamp": "2026-04-04T16:00:25Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "A Fox host says \u2018many people\u2019 think women shouldn\u2019t be president. Thank goodness we\u2019ve got a man in charge | Arwa Mahdawi",
       "link": "https://www.theguardian.com/commentisfree/2026/apr/04/jesse-watters-fox-pam-bondi-darfur-lebanon-senegal",
@@ -29,6 +49,16 @@
       "textblob_score": 0.45,
       "first_sentence": "Italian football fans are being encouraged to put their national team\u2019s World Cup 2026 qualification failure behind them \u2013 by backing co-hosts Canada instead.",
       "timestamp": "2026-04-04T11:45:25Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Jared Kushner is seeking peace deals in the Middle East. He\u2019s also raising money for his own firm | Mohamad Bazzi",
+      "link": "https://www.theguardian.com/commentisfree/2026/apr/04/jared-kushner-middle-east-peace-deal",
+      "mean_score": 0.3378,
+      "vader_score": 0.5423,
+      "textblob_score": 0.1333,
+      "first_sentence": "After Donald Trump returned to the White House, his son-in-law and former senior adviser Jared Kushner declined to take a job in the new administration and instead planned to focus on running his Miami-based private equity firm.",
+      "timestamp": "2026-04-04T11:00:20Z",
       "source": "The Guardian"
     },
     {
@@ -2469,36 +2499,6 @@
       "textblob_score": 1.0,
       "first_sentence": "Moral ambiguity was the eddying undercurrent of ML Stedman\u2019s immensely popular 2012 debut, The Light Between Oceans, about a couple who discover a baby on the shores of their remote island home off the coast of Western Australia.",
       "timestamp": "2026-03-26T23:00:49Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Cape York stations hit by Cyclone Narelle call for army's help to clean up",
-      "link": "https://www.abc.net.au/news/2026-03-27/cyclone-narelle-cape-york-stations-clean-up-support/106490402",
-      "mean_score": 0.5132,
-      "vader_score": 0.6597,
-      "textblob_score": 0.3667,
-      "first_sentence": "While far north Queensland was largely spared from major damage, some property owners were smashed by Severe Tropical Cyclone Narelle.",
-      "timestamp": "2026-03-26T22:51:20Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Max Verstappen kicks Guardian F1 reporter out of Japanese Grand Prix press conference",
-      "link": "https://www.abc.net.au/news/2026-03-27/max-verstappen-boots-reporter-from-japanese-gp-media-session/106500946",
-      "mean_score": 0.3544,
-      "vader_score": 0.4588,
-      "textblob_score": 0.25,
-      "first_sentence": "Four-time world champion Max Verstappen has kicked a British journalist out of a Formula 1 press conference ahead of this weekend's Japanese Grand Prix.",
-      "timestamp": "2026-03-26T20:59:53Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Sinner continues smooth Miami progress with win over Tiafoe as rivals fall",
-      "link": "https://www.theguardian.com/sport/2026/mar/26/sinner-continues-smooth-miami-progress-with-win-over-tiafoe-as-rivals-fall",
-      "mean_score": 0.6825,
-      "vader_score": 0.765,
-      "textblob_score": 0.6,
-      "first_sentence": "The past nine days at the Miami Open have not been kind to most of the world\u2019s best male tennis players.",
-      "timestamp": "2026-03-26T19:19:19Z",
       "source": "The Guardian"
     }
   ]
