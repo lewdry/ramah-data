@@ -1,6 +1,46 @@
 {
-  "last run": "2026-04-03T21:10:47Z",
+  "last run": "2026-04-04T00:21:37Z",
   "stories": [
+    {
+      "headline": "The most beautiful coast in the world? Exploring New Zealand\u2019s overlooked Nelson Tasman by sand and sea",
+      "link": "https://www.theguardian.com/travel/2026/apr/04/new-zealand-south-island-nelson-tasman-coast",
+      "mean_score": 0.5597,
+      "vader_score": 0.624,
+      "textblob_score": 0.4955,
+      "first_sentence": "The visitor to New Zealand\u2019s South Island knows what they have to see.",
+      "timestamp": "2026-04-03T23:00:07Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Demons star praised for reaching 'another level' with career-best form",
+      "link": "https://www.abc.net.au/news/2026-04-04/afl-kysaiah-pickett-melbourne-demons-gold-coast-suns/106531202",
+      "mean_score": 0.3062,
+      "vader_score": 0.6124,
+      "textblob_score": 0.0,
+      "first_sentence": "Kysaiah Pickett has been one of Melbourne's best players during its opening three matches of the season.",
+      "timestamp": "2026-04-03T21:55:36Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "After decades of success, love and loss, outback pub changes hands",
+      "link": "https://www.abc.net.au/news/2026-04-04/queensland-award-winning-nindigully-pub-changes-hands/106525382",
+      "mean_score": 0.5825,
+      "vader_score": 0.765,
+      "textblob_score": 0.4,
+      "first_sentence": "Standing on the front deck of the watering hole he turned into an outback icon, Stephen \"Burnsie\" Burns leans on the shoulders of Tom Leggett.",
+      "timestamp": "2026-04-03T21:50:44Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Five Great Reads: When your mum is a cult leader, the OnlyFans inheritance, and 35,000 pints of stolen Guinness",
+      "link": "https://www.theguardian.com/australia-news/2026/apr/01/when-your-mum-is-a-cult-leader-the-onlyfans-inheritance-and-35000-pints-of-stolen-guinness",
+      "mean_score": 0.5131,
+      "vader_score": 0.2263,
+      "textblob_score": 0.8,
+      "first_sentence": "Dear readers, this is my final instalment of Five Great Reads, but fear not \u2013 my wonderful colleague Imogen Dewey will be back in your inboxes next week and beyond.",
+      "timestamp": "2026-04-03T21:46:33Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Poo of 'endearing' bat worth hundreds of millions, study says",
       "link": "https://www.abc.net.au/news/2026-04-04/economic-value-australian-grey-headed-flying-fox-bat-poo/106507002",
@@ -29,6 +69,26 @@
       "textblob_score": 0.1667,
       "first_sentence": "Colin Lane: Frank and I did our first MICF as The Found Objects [with Scott Casley].",
       "timestamp": "2026-04-03T19:00:01Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Harry Kane, England\u2019s Ballon d\u2019Or hopeful, is finally getting the love he deserves | Barney Ronay",
+      "link": "https://www.theguardian.com/football/2026/apr/03/harry-kane-england-ballon-dor-bayern-munich",
+      "mean_score": 0.5338,
+      "vader_score": 0.8176,
+      "textblob_score": 0.25,
+      "first_sentence": "Everyone has their favourite mental comfort food, the stuff that makes you feel good in troubled times.",
+      "timestamp": "2026-04-03T19:00:01Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Five matches, 16 days, a season to save: Slot\u2019s Liverpool vision faces a defining moment",
+      "link": "https://www.theguardian.com/football/2026/apr/03/five-matches-16-days-a-season-to-save-slots-liverpool-vision-faces-its-defining-moment",
+      "mean_score": 0.3185,
+      "vader_score": 0.6369,
+      "textblob_score": 0.0,
+      "first_sentence": "There were more important reasons for J\u00fcrgen Klopp\u2019s return to Liverpool last Saturday, but it was apposite his presence reminded Anfield of the unshakable bond and belief they once shared, the joy his football brought.",
+      "timestamp": "2026-04-03T19:00:00Z",
       "source": "The Guardian"
     },
     {
@@ -2440,66 +2500,6 @@
       "first_sentence": "The prime minister has said it is \"a little bit far-fetched\" to believe his former chief-of-staff Morgan McSweeney could have faked the theft of his phone.",
       "timestamp": "2026-03-26T13:56:07Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "British designer Christopher Kane to take over as creative director at Mulberry",
-      "link": "https://www.theguardian.com/fashion/2026/mar/26/british-designer-christopher-kane-creative-director-mulberry",
-      "mean_score": 0.3452,
-      "vader_score": 0.4404,
-      "textblob_score": 0.25,
-      "first_sentence": "British fashion designer Christopher Kane has been named as the new creative director of Mulberry.",
-      "timestamp": "2026-03-26T11:41:02Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Dodging the \u2018wrinkle wagon\u2019: why a Brazilian film about ageing is inspiring older women",
-      "link": "https://www.theguardian.com/global-development/2026/mar/26/wrinkle-wagon-dystopian-film-ageing-brazil-future-the-blue-trail",
-      "mean_score": 0.3367,
-      "vader_score": 0.34,
-      "textblob_score": 0.3333,
-      "first_sentence": "When 80-year-old Gilda Olinto was given a prize at work recently, she felt as if she was being told \u201cnothing more is expected of you\u201d.",
-      "timestamp": "2026-03-26T10:00:34Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The nerdy, authentic Oklahoma City Thunder are a breath of fresh air",
-      "link": "https://www.theguardian.com/sport/2026/mar/26/oklahoma-city-thunder-goofiness-shai-gilgeous-alexander",
-      "mean_score": 0.3366,
-      "vader_score": 0.2732,
-      "textblob_score": 0.4,
-      "first_sentence": "Winter is over, though perhaps most NBA fans feel as if it\u2019s just beginning.",
-      "timestamp": "2026-03-26T10:00:34Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Country star Ty Herndon: \u2018The drugs could be forgiven. Being gay definitely could not\u2019",
-      "link": "https://www.theguardian.com/music/2026/mar/26/ty-herndon-country-music-memoir",
-      "mean_score": 0.4964,
-      "vader_score": 0.7845,
-      "textblob_score": 0.2083,
-      "first_sentence": "On 14 June 1995, Nashville singer Ty Herndon was riding high with a No 1 single on the country charts and an album hurtling towards gold status when he was arrested on charges that could have killed his career in an instant.",
-      "timestamp": "2026-03-26T09:00:32Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Returning ospreys avoid last season's love drama",
-      "link": "https://www.bbc.com/news/articles/c78rxldlkzvo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3544,
-      "vader_score": 0.4588,
-      "textblob_score": 0.25,
-      "first_sentence": "A pair of ospreys appear to have avoided last year's love triangle drama after both returned to their nest.",
-      "timestamp": "2026-03-26T08:56:02Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Bruno Fernandes is the true custodian of Manchester United in the age of Ratcliffe | Jonathan Liew",
-      "link": "https://www.theguardian.com/football/2026/mar/26/bruno-fernandes-manchester-united-saviour-jim-ratcliffe",
-      "mean_score": 0.5154,
-      "vader_score": 0.6808,
-      "textblob_score": 0.35,
-      "first_sentence": "The video of Bruno Fernandes kicking in the door is very good, if you haven\u2019t already seen it.",
-      "timestamp": "2026-03-26T08:00:30Z",
-      "source": "The Guardian"
     }
   ]
 }
