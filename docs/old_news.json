@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Tom Brady, 48, says he explored return to NFL but league \u2018don\u2019t like that idea very much\u2019",
+    "link": "https://www.theguardian.com/sport/2026/mar/26/tom-brady-48-says-he-explored-return-to-nfl-but-league-dont-like-that-idea-very-much",
+    "mean_score": 0.3811,
+    "vader_score": 0.5023,
+    "textblob_score": 0.26,
+    "first_sentence": "Tom Brady says he explored the idea of making a return to the NFL as a player but the league \u201cdon\u2019t like that idea very much\u201d.",
+    "timestamp": "2026-03-26T15:58:11Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Paul McCartney announces 18th solo album, The Boys of Dungeon Lane, promising introspection and revelation",
+    "link": "https://www.theguardian.com/music/2026/mar/26/paul-mccartney-announces-27th-solo-album-the-boys-of-dungeon-lane-promising-introspection-and-revelation",
+    "mean_score": 0.3009,
+    "vader_score": 0.4019,
+    "textblob_score": 0.2,
+    "first_sentence": "Paul McCartney has announced his 18th solo album, The Boys of Dungeon Lane \u2013 its title a reference to the route from Liverpool to the Speke shoreline, the area where the former Beatle spent his young childhood.",
+    "timestamp": "2026-03-26T15:00:40Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Paul McCartney: Days We Left Behind review \u2013 this wistful, lovely song is as McCartney-esque as it\u2019s possible to be",
     "link": "https://www.theguardian.com/music/2026/mar/26/paul-mccartney-days-we-left-behind-review-boys-dungeon-lane",
     "mean_score": 0.3054,

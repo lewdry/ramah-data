@@ -1,6 +1,26 @@
 {
-  "last run": "2026-04-04T09:13:25Z",
+  "last run": "2026-04-04T12:09:46Z",
   "stories": [
+    {
+      "headline": "\u2018Don\u2019t wait four more years\u2019: World Cup co-hosts Canada offer Italy fans free shirt swap",
+      "link": "https://www.theguardian.com/football/2026/apr/04/world-cup-2026-canada-offer-italy-fans-free-shirt-swap",
+      "mean_score": 0.4803,
+      "vader_score": 0.5106,
+      "textblob_score": 0.45,
+      "first_sentence": "Italian football fans are being encouraged to put their national team\u2019s World Cup 2026 qualification failure behind them \u2013 by backing co-hosts Canada instead.",
+      "timestamp": "2026-04-04T11:45:25Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018The shadows, the figures playing basketball \u2026 I waited for the magic to appear \u2013 then it did\u2019: Jos\u00e9 Luis Morales Mart\u00edn\u2019s best phone picture",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/apr/04/jose-luis-morales-martin-best-phone-picture",
+      "mean_score": 0.7342,
+      "vader_score": 0.7184,
+      "textblob_score": 0.75,
+      "first_sentence": "Jos\u00e9 Luis Morales Mart\u00edn took this photo from his living room window on a hot September afternoon.",
+      "timestamp": "2026-04-04T10:00:19Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Sunday best: Thomasina Miers\u2019 recipes for aromatic chicken one-pot and salted caramel banana cake",
       "link": "https://www.theguardian.com/food/2026/apr/04/aromatic-chicken-stew-pot-au-feu-salted-caramel-banana-cake-recipe-sunday-best-thomasina-miers",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Some staff reportedly questioned how sexy ChatGPT benefits humanity.",
       "timestamp": "2026-03-26T16:21:10Z",
       "source": "Ars Technica"
-    },
-    {
-      "headline": "Tom Brady, 48, says he explored return to NFL but league \u2018don\u2019t like that idea very much\u2019",
-      "link": "https://www.theguardian.com/sport/2026/mar/26/tom-brady-48-says-he-explored-return-to-nfl-but-league-dont-like-that-idea-very-much",
-      "mean_score": 0.3811,
-      "vader_score": 0.5023,
-      "textblob_score": 0.26,
-      "first_sentence": "Tom Brady says he explored the idea of making a return to the NFL as a player but the league \u201cdon\u2019t like that idea very much\u201d.",
-      "timestamp": "2026-03-26T15:58:11Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Paul McCartney announces 18th solo album, The Boys of Dungeon Lane, promising introspection and revelation",
-      "link": "https://www.theguardian.com/music/2026/mar/26/paul-mccartney-announces-27th-solo-album-the-boys-of-dungeon-lane-promising-introspection-and-revelation",
-      "mean_score": 0.3009,
-      "vader_score": 0.4019,
-      "textblob_score": 0.2,
-      "first_sentence": "Paul McCartney has announced his 18th solo album, The Boys of Dungeon Lane \u2013 its title a reference to the route from Liverpool to the Speke shoreline, the area where the former Beatle spent his young childhood.",
-      "timestamp": "2026-03-26T15:00:40Z",
-      "source": "The Guardian"
     }
   ]
 }
