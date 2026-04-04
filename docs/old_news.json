@@ -1,5 +1,25 @@
 [
   {
+    "headline": "\u2018The internet has seen me at my best and my worst\u2019: meet Jojo, Australia\u2019s ASMR superstar",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/mar/26/jonah-singer-jojo-asmr-youtube-australia",
+    "mean_score": 0.3185,
+    "vader_score": 0.6369,
+    "textblob_score": 0.0,
+    "first_sentence": "It would be crass for Jonah Singer to reveal what he makes from being a YouTube content creator, but he will show Guardian Australia his new $100,000 mic.",
+    "timestamp": "2026-03-26T14:00:38Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Far-fetched to think top aide faked phone theft ahead of request for Mandelson texts, says PM",
+    "link": "https://www.bbc.com/news/articles/ce8j51r66rxo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3512,
+    "vader_score": 0.2023,
+    "textblob_score": 0.5,
+    "first_sentence": "The prime minister has said it is \"a little bit far-fetched\" to believe his former chief-of-staff Morgan McSweeney could have faked the theft of his phone.",
+    "timestamp": "2026-03-26T13:56:07Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "British designer Christopher Kane to take over as creative director at Mulberry",
     "link": "https://www.theguardian.com/fashion/2026/mar/26/british-designer-christopher-kane-creative-director-mulberry",
     "mean_score": 0.3452,
