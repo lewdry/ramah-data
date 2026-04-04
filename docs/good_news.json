@@ -1,6 +1,26 @@
 {
-  "last run": "2026-04-04T12:09:46Z",
+  "last run": "2026-04-04T15:08:44Z",
   "stories": [
+    {
+      "headline": "A Fox host says \u2018many people\u2019 think women shouldn\u2019t be president. Thank goodness we\u2019ve got a man in charge | Arwa Mahdawi",
+      "link": "https://www.theguardian.com/commentisfree/2026/apr/04/jesse-watters-fox-pam-bondi-darfur-lebanon-senegal",
+      "mean_score": 0.5853,
+      "vader_score": 0.6705,
+      "textblob_score": 0.5,
+      "first_sentence": "Oh dear, it looks like Jesse Watters\u2019 mother needs to give him a good talking to again.",
+      "timestamp": "2026-04-04T13:00:21Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Outspoken Iranians overseas say their loved ones are being detained back home",
+      "link": "https://apnews.com/article/iran-crackdown-dissidents-activists-opposition-war-exile-0cd818d9a5e66ada07f834c27e5f0065",
+      "mean_score": 0.323,
+      "vader_score": 0.296,
+      "textblob_score": 0.35,
+      "first_sentence": "CAIRO (AP) \u2014 Iran\u2019s government is detaining family members and threatening to seize property of Iranian opposition figures in exile, some tell The Associated Press, in the latest crackdown on dissenting voices as the war rages on.",
+      "timestamp": "2026-04-04T12:23:02Z",
+      "source": "AP News"
+    },
     {
       "headline": "\u2018Don\u2019t wait four more years\u2019: World Cup co-hosts Canada offer Italy fans free shirt swap",
       "link": "https://www.theguardian.com/football/2026/apr/04/world-cup-2026-canada-offer-italy-fans-free-shirt-swap",
@@ -40,6 +60,16 @@
       "first_sentence": "Chess Mates (Netflix, Tuesday) has an unsettling early gambit: the face of Piers Morgan, looming via archive footage.",
       "timestamp": "2026-04-04T06:00:15Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "Swans complete huge win over Eagles as Heeney stars on return",
+      "link": "https://www.abc.net.au/news/2026-04-04/swans-thump-eagles-port-down-tigers/106530538",
+      "mean_score": 0.5801,
+      "vader_score": 0.7269,
+      "textblob_score": 0.4333,
+      "first_sentence": "Sydney has thumped West Coast by 128 points, sending the Eagles crashing back to earth at Perth Stadium, thanks to a four-goal performance from returning star Isaac Heeney.",
+      "timestamp": "2026-04-04T04:48:30Z",
+      "source": "ABC News"
     },
     {
       "headline": "\u2018There\u2019s more to life than work\u2019: Bangkok\u2019s young people embrace mass outdoor aerobics sessions",
@@ -2470,36 +2500,6 @@
       "first_sentence": "The past nine days at the Miami Open have not been kind to most of the world\u2019s best male tennis players.",
       "timestamp": "2026-03-26T19:19:19Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Sarah Ferguson stripped of Freedom of City of York title",
-      "link": "https://www.bbc.com/news/articles/c3w3ez3xp92o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3185,
-      "vader_score": 0.6369,
-      "textblob_score": 0.0,
-      "first_sentence": "Sarah Ferguson has had her honorary Freedom of the City of York stripped, in a further fall from grace for the former Duchess of York.",
-      "timestamp": "2026-03-26T19:06:12Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Intel Core Ultra 270K and 250K Plus review: Conditionally great CPUs",
-      "link": "https://arstechnica.com/gadgets/2026/03/intel-core-ultra-270k-and-250k-plus-review-conditionally-great-cpus/",
-      "mean_score": 0.7125,
-      "vader_score": 0.6249,
-      "textblob_score": 0.8,
-      "first_sentence": "Great performance for the price, if you ignore the price of RAM, SSDs, and GPUs.",
-      "timestamp": "2026-03-26T16:46:20Z",
-      "source": "Ars Technica"
-    },
-    {
-      "headline": "OpenAI \u201cindefinitely\u201d shelves plans for erotic ChatGPT",
-      "link": "https://arstechnica.com/tech-policy/2026/03/chatgpt-wont-talk-dirty-any-time-soon-as-sexy-mode-turns-off-investors-report-says/",
-      "mean_score": 0.35,
-      "vader_score": 0.0,
-      "textblob_score": 0.7,
-      "first_sentence": "Some staff reportedly questioned how sexy ChatGPT benefits humanity.",
-      "timestamp": "2026-03-26T16:21:10Z",
-      "source": "Ars Technica"
     }
   ]
 }
