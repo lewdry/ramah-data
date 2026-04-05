@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Self-taught chef wins MasterChef: The Professionals",
+    "link": "https://www.bbc.com/news/articles/cq6jgg0jzvlo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4359,
+    "vader_score": 0.5719,
+    "textblob_score": 0.3,
+    "first_sentence": "Spoiler warning.",
+    "timestamp": "2026-03-27T09:03:24Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Love Lane by Patrick Gale review \u2013 a homecoming tale with echoes of Brokeback Mountain",
+    "link": "https://www.theguardian.com/books/2026/mar/27/love-lane-by-patrick-gale-review-a-homecoming-tale-with-echoes-of-brokeback-mountain",
+    "mean_score": 0.5685,
+    "vader_score": 0.6369,
+    "textblob_score": 0.5,
+    "first_sentence": "Towards the end of Love Lane, elderly protagonist Harry Cane becomes a figure of twinkly-eyed mischief.",
+    "timestamp": "2026-03-27T09:00:02Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Australia v Cameroon: Fifa Series international football friendly \u2013 live",
+    "link": "https://www.theguardian.com/football/live/2026/mar/27/australia-v-cameroon-live-match-updates-football",
+    "mean_score": 0.3322,
+    "vader_score": 0.4939,
+    "textblob_score": 0.1705,
+    "first_sentence": "5 mins: Jacob Italiano is off to a bright start as he takes his shot to claim a regular spot at right back.",
+    "timestamp": "2026-03-27T08:38:59Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Boy, 5, goes outside for first time since heart operation",
     "link": "https://www.bbc.com/news/articles/c20dez2jq8eo?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.381,
