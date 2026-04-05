@@ -1,5 +1,75 @@
 [
   {
+    "headline": "The great care home cash grab: how private equity turned vulnerable elderly people into human ATMs",
+    "link": "https://www.theguardian.com/society/2026/mar/28/the-great-care-home-cash-grab-how-private-equity-turned-vulnerable-elderly-people-into-human-atms",
+    "mean_score": 0.4128,
+    "vader_score": 0.7506,
+    "textblob_score": 0.075,
+    "first_sentence": "When did care homes come to be seen as recession-proof investments? And who pays the price?.",
+    "timestamp": "2026-03-28T12:00:26Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "\u2018The happiness on their faces pulled me back to my own childhood\u2019: Mark Linel Padecio\u2019s best phone picture",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/mar/28/mark-linel-padecios-best-phone-picture-muddy-happy-children",
+    "mean_score": 0.7033,
+    "vader_score": 0.8316,
+    "textblob_score": 0.575,
+    "first_sentence": "When Mark Linel Padecio is at home in Danao City, Cebu, in the Philippines, family life lies \u201cwithin a rhythm of schedules, studies and screens\u201d.",
+    "timestamp": "2026-03-28T11:00:26Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Does the U.S. have a chance in the World Cup? 2 important games will provide clues",
+    "link": "https://www.npr.org/2026/03/28/nx-s1-5764272/world-cup-usmnt-us-soccer-belgium-portugal",
+    "mean_score": 0.4108,
+    "vader_score": 0.4215,
+    "textblob_score": 0.4,
+    "first_sentence": "The 2026 FIFA World Cup is from June 11 to July 19, 2026.",
+    "timestamp": "2026-03-28T09:00:00Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "Pope Leo XIV visits Monaco to urge its people to use their faith and wealth for good",
+    "link": "https://apnews.com/article/pope-leo-xiv-monaco-visit-prince-albert-a1127845562357d13d5b6994444db256",
+    "mean_score": 0.768,
+    "vader_score": 0.836,
+    "textblob_score": 0.7,
+    "first_sentence": "MONACO (AP) \u2014 Pope Leo XIV visited the cosmopolitan Mediterranean principality of Monaco on Saturday to encourage its people to use their Catholic faith and wealth for good.",
+    "timestamp": "2026-03-28T08:53:01Z",
+    "source": "AP News"
+  },
+  {
+    "headline": "First Paisley Arts Festival celebrates late designer Pam Hogg",
+    "link": "https://www.bbc.com/news/articles/cq8wkl3dyypo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3797,
+    "vader_score": 0.7845,
+    "textblob_score": -0.025,
+    "first_sentence": "The first Paisley Arts Festival has launched with a celebration of late Scottish fashion designer Pam Hogg who died last November.",
+    "timestamp": "2026-03-28T08:24:21Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "The top moments from this year\u2019s CPAC conference in Texas",
+    "link": "https://apnews.com/article/cpac-republicans-top-moments-trump-9826e2fe25fe7446072be91b4f880ee3",
+    "mean_score": 0.3512,
+    "vader_score": 0.2023,
+    "textblob_score": 0.5,
+    "first_sentence": "GRAPEVINE, Texas (AP) \u2014 For the first time in nearly a decade, President Donald Trump did not attend one of the biggest annual meetings of conservatives.",
+    "timestamp": "2026-03-28T07:53:02Z",
+    "source": "AP News"
+  },
+  {
+    "headline": "Kimi Antonelli on F1 Japanese Grand Prix pole in Mercedes lockout with Russell",
+    "link": "https://www.theguardian.com/sport/2026/mar/28/formula-one-f1-japanese-grand-prix-qualifying-mercedes-kimi-antonelli-george-russell",
+    "mean_score": 0.3544,
+    "vader_score": 0.4588,
+    "textblob_score": 0.25,
+    "first_sentence": "Kimi Antonelli claimed pole position for the Japanese Grand Prix, completing another dominant display for Mercedes who have yet to be beaten to pole in the three opening races of the new Formula One season.",
+    "timestamp": "2026-03-28T07:36:56Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Free prom hire boutique set up for two schools",
     "link": "https://www.bbc.com/news/articles/c17ve1n8njgo?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.4553,

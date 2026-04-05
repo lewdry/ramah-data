@@ -1,6 +1,76 @@
 {
-  "last run": "2026-04-05T18:10:04Z",
+  "last run": "2026-04-05T21:09:11Z",
   "stories": [
+    {
+      "headline": "Fire-affected towns welcome Easter visitors",
+      "link": "https://www.abc.net.au/news/2026-04-06/fire-affected-communities-victoria-easter-tourism-boost/106473208",
+      "mean_score": 0.6294,
+      "vader_score": 0.4588,
+      "textblob_score": 0.8,
+      "first_sentence": "Holiday-makers have been welcomed back to fire-affected communities over Easter, as the long road to recovery continues.",
+      "timestamp": "2026-04-05T20:45:59Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Scattered rain, strong wind along Qld coast as forecasters watch TC Maila",
+      "link": "https://www.abc.net.au/news/2026-04-06/qld-mild-weather-east-coast-showers-cyclone-maila-intensifies/106532504",
+      "mean_score": 0.472,
+      "vader_score": 0.5106,
+      "textblob_score": 0.4333,
+      "first_sentence": "Scattered rainfall is expected across much of the Queensland east coast this week.",
+      "timestamp": "2026-04-05T20:02:41Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Thousands in Texas protest against border wall through national park: \u2018big love for Big Bend\u2019",
+      "link": "https://www.theguardian.com/us-news/2026/apr/05/texas-capitol-protest-big-bend-border-wall",
+      "mean_score": 0.3303,
+      "vader_score": 0.4939,
+      "textblob_score": 0.1667,
+      "first_sentence": "Thousands of people gathered at the steps of the Texas capitol on Saturday to protest against the construction of a border wall through Big Bend, in a show of bipartisan opposition to the White House\u2019s plans.",
+      "timestamp": "2026-04-05T19:10:57Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Leeds hold nerve to win shootout after West Ham\u2019s dramatic fightback",
+      "link": "https://www.theguardian.com/football/2026/apr/05/west-ham-leeds-fa-cup-quarter-final-match-report",
+      "mean_score": 0.3846,
+      "vader_score": 0.5859,
+      "textblob_score": 0.1833,
+      "first_sentence": "The familiar London Stadium rush for the exit has never been so misjudged.",
+      "timestamp": "2026-04-05T19:01:41Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "The cleanest air on Earth holds a powerful lesson about our climate",
+      "link": "https://www.abc.net.au/news/2026-04-06/cape-grim-50-year-record-climate-history/106520544",
+      "mean_score": 0.3608,
+      "vader_score": 0.4215,
+      "textblob_score": 0.3,
+      "first_sentence": "The 80-metre tower and small scattering of sheds perched on the cliffs of Tasmania's remote north-western edge seems fairly unassuming.",
+      "timestamp": "2026-04-05T18:46:31Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "US intelligence says Chinese satellite imagery of bases is helping Iran",
+      "link": "https://www.abc.net.au/news/2026-04-06/us-intelligence-chinese-satellite-imagery-middle-east/106508322",
+      "mean_score": 0.3243,
+      "vader_score": 0.6486,
+      "textblob_score": 0.0,
+      "first_sentence": "A Chinese company's publication of AI-enhanced satellite images of US bases in the Middle East is helping Iranian forces identify targets, US intelligence believes.",
+      "timestamp": "2026-04-05T18:42:10Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "A great gift or unexpected curse? Reflections on life as a new retiree",
+      "link": "https://www.abc.net.au/news/2026-04-06/perspective-what-life-is-like-in-retirement/106501080",
+      "mean_score": 0.4439,
+      "vader_score": 0.5423,
+      "textblob_score": 0.3455,
+      "first_sentence": "Which is understandable, but perhaps also a little strange.",
+      "timestamp": "2026-04-05T18:30:00Z",
+      "source": "ABC News"
+    },
     {
       "headline": "PSV crowned Eredivisie champions, Hearts drop points at Livingston and more \u2013 matchday live",
       "link": "https://www.theguardian.com/football/live/2026/apr/05/west-ham-v-leeds-buildup-plus-scottish-premiership-and-womens-fa-cup-matchday-live",
@@ -2429,76 +2499,6 @@
       "textblob_score": 0.1,
       "first_sentence": "Ilia Malinin claimed a third straight world figure skating championship on Saturday afternoon, completing a swift redemption a month after his shock Olympic collapse with a commanding free skate.",
       "timestamp": "2026-03-28T15:31:52Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The great care home cash grab: how private equity turned vulnerable elderly people into human ATMs",
-      "link": "https://www.theguardian.com/society/2026/mar/28/the-great-care-home-cash-grab-how-private-equity-turned-vulnerable-elderly-people-into-human-atms",
-      "mean_score": 0.4128,
-      "vader_score": 0.7506,
-      "textblob_score": 0.075,
-      "first_sentence": "When did care homes come to be seen as recession-proof investments? And who pays the price?.",
-      "timestamp": "2026-03-28T12:00:26Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018The happiness on their faces pulled me back to my own childhood\u2019: Mark Linel Padecio\u2019s best phone picture",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/mar/28/mark-linel-padecios-best-phone-picture-muddy-happy-children",
-      "mean_score": 0.7033,
-      "vader_score": 0.8316,
-      "textblob_score": 0.575,
-      "first_sentence": "When Mark Linel Padecio is at home in Danao City, Cebu, in the Philippines, family life lies \u201cwithin a rhythm of schedules, studies and screens\u201d.",
-      "timestamp": "2026-03-28T11:00:26Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Does the U.S. have a chance in the World Cup? 2 important games will provide clues",
-      "link": "https://www.npr.org/2026/03/28/nx-s1-5764272/world-cup-usmnt-us-soccer-belgium-portugal",
-      "mean_score": 0.4108,
-      "vader_score": 0.4215,
-      "textblob_score": 0.4,
-      "first_sentence": "The 2026 FIFA World Cup is from June 11 to July 19, 2026.",
-      "timestamp": "2026-03-28T09:00:00Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Pope Leo XIV visits Monaco to urge its people to use their faith and wealth for good",
-      "link": "https://apnews.com/article/pope-leo-xiv-monaco-visit-prince-albert-a1127845562357d13d5b6994444db256",
-      "mean_score": 0.768,
-      "vader_score": 0.836,
-      "textblob_score": 0.7,
-      "first_sentence": "MONACO (AP) \u2014 Pope Leo XIV visited the cosmopolitan Mediterranean principality of Monaco on Saturday to encourage its people to use their Catholic faith and wealth for good.",
-      "timestamp": "2026-03-28T08:53:01Z",
-      "source": "AP News"
-    },
-    {
-      "headline": "First Paisley Arts Festival celebrates late designer Pam Hogg",
-      "link": "https://www.bbc.com/news/articles/cq8wkl3dyypo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3797,
-      "vader_score": 0.7845,
-      "textblob_score": -0.025,
-      "first_sentence": "The first Paisley Arts Festival has launched with a celebration of late Scottish fashion designer Pam Hogg who died last November.",
-      "timestamp": "2026-03-28T08:24:21Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "The top moments from this year\u2019s CPAC conference in Texas",
-      "link": "https://apnews.com/article/cpac-republicans-top-moments-trump-9826e2fe25fe7446072be91b4f880ee3",
-      "mean_score": 0.3512,
-      "vader_score": 0.2023,
-      "textblob_score": 0.5,
-      "first_sentence": "GRAPEVINE, Texas (AP) \u2014 For the first time in nearly a decade, President Donald Trump did not attend one of the biggest annual meetings of conservatives.",
-      "timestamp": "2026-03-28T07:53:02Z",
-      "source": "AP News"
-    },
-    {
-      "headline": "Kimi Antonelli on F1 Japanese Grand Prix pole in Mercedes lockout with Russell",
-      "link": "https://www.theguardian.com/sport/2026/mar/28/formula-one-f1-japanese-grand-prix-qualifying-mercedes-kimi-antonelli-george-russell",
-      "mean_score": 0.3544,
-      "vader_score": 0.4588,
-      "textblob_score": 0.25,
-      "first_sentence": "Kimi Antonelli claimed pole position for the Japanese Grand Prix, completing another dominant display for Mercedes who have yet to be beaten to pole in the three opening races of the new Formula One season.",
-      "timestamp": "2026-03-28T07:36:56Z",
       "source": "The Guardian"
     }
   ]
