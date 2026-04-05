@@ -1,6 +1,66 @@
 {
-  "last run": "2026-04-04T21:08:17Z",
+  "last run": "2026-04-05T00:23:13Z",
   "stories": [
+    {
+      "headline": "'Amazing' breakthrough as rare bird relearns its lost 'love song'",
+      "link": "https://www.abc.net.au/news/2026-04-05/saving-the-regent-honeyeaters-love-song/106515178",
+      "mean_score": 0.6192,
+      "vader_score": 0.7717,
+      "textblob_score": 0.4667,
+      "first_sentence": "When wildlife photographer Richard Shaw spotted a rare regent honeyeater on the New South Wales Mid North Coast, he was not sure if his eyes were playing tricks on him.",
+      "timestamp": "2026-04-04T23:07:04Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Streetwear and crop tops take World Cup fashion to new heights",
+      "link": "https://www.bbc.com/news/articles/cr71vne5k70o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3235,
+      "vader_score": 0.5106,
+      "textblob_score": 0.1364,
+      "first_sentence": "Shirt launches are a hotly anticipated part of every World Cup.",
+      "timestamp": "2026-04-04T23:01:44Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Brazilian admits to 'fan-girling' during win over Gilmore at Bells Beach",
+      "link": "https://www.abc.net.au/news/2026-04-05/stephanie-gilmore-beaten-by-luana-silva-at-bells-beach/106532482",
+      "mean_score": 0.7592,
+      "vader_score": 0.7184,
+      "textblob_score": 0.8,
+      "first_sentence": "Luana Silva defeated Stephanie Gilmore in the first round at Bells Beach.",
+      "timestamp": "2026-04-04T22:55:53Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "The man who became one of India's greatest stage queens",
+      "link": "https://www.bbc.com/news/articles/cd0rl52z3dzo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.8185,
+      "vader_score": 0.6369,
+      "textblob_score": 1.0,
+      "first_sentence": "In mid-20th Century Bengal in eastern India, some of the biggest female stars on stage were actually men.",
+      "timestamp": "2026-04-04T22:20:51Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Archbishop to pray for Middle East peace in first Easter sermon",
+      "link": "https://www.bbc.com/news/articles/c93edxr57d0o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3543,
+      "vader_score": 0.7003,
+      "textblob_score": 0.0083,
+      "first_sentence": "The Archbishop of Canterbury will call for an end to \"violence and destruction\" in the Middle East during her first Easter sermon as leader of the Church of England.",
+      "timestamp": "2026-04-04T21:30:15Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Power restored to many homes after Storm Dave brings high winds",
+      "link": "https://www.bbc.com/news/articles/c0le6xg5g5eo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.335,
+      "vader_score": 0.34,
+      "textblob_score": 0.33,
+      "first_sentence": "Around 2,000 homes were left without power in Northern Ireland on Saturday after Storm Dave brought high winds.",
+      "timestamp": "2026-04-04T21:01:02Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Aerial photographer's hunt for 'Easter eggs' yields stunning images",
       "link": "https://www.abc.net.au/news/2026-04-05/easter-egg-salt-lakes-photography-by-scott-mccook-wa-wheatbelt/106516520",
@@ -150,6 +210,16 @@
       "first_sentence": "It\u2019s evening rush hour in central Bangkok, the roads are clogged with traffic and the air is heavy from the heat.",
       "timestamp": "2026-04-04T04:00:11Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "Bowen says fuel supply 'strong', tells Easter travellers not to cancel plans",
+      "link": "https://www.sbs.com.au/news/article/chris-bowen-says-fuel-supply-strong-urges-easter-travellers-not-to-cancel-plans/stbxkj0z4",
+      "mean_score": 0.5254,
+      "vader_score": 0.6174,
+      "textblob_score": 0.4333,
+      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+      "timestamp": "2026-04-04T02:04:41Z",
+      "source": "SBS News"
     },
     {
       "headline": "The most beautiful coast in the world? Exploring New Zealand\u2019s overlooked Nelson Tasman by sand and sea",
@@ -2430,76 +2500,6 @@
       "first_sentence": "5 mins: Jacob Italiano is off to a bright start as he takes his shot to claim a regular spot at right back.",
       "timestamp": "2026-03-27T08:38:59Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Boy, 5, goes outside for first time since heart operation",
-      "link": "https://www.bbc.com/news/articles/c20dez2jq8eo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.381,
-      "vader_score": 0.6369,
-      "textblob_score": 0.125,
-      "first_sentence": "A five-year-old boy who has had five heart operations has taken his first steps outside a hospital building in weeks.",
-      "timestamp": "2026-03-27T06:39:42Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Benjamina Ebuehi\u2019s recipe for lemon lamington cake | The sweet spot",
-      "link": "https://www.theguardian.com/food/2026/mar/27/lemon-lamington-cake-recipe-benjamina-ebuehi",
-      "mean_score": 0.4044,
-      "vader_score": 0.4588,
-      "textblob_score": 0.35,
-      "first_sentence": "I think lamingtons should be much more popular than they are on this side of the world.",
-      "timestamp": "2026-03-27T06:00:07Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "More than 6m vapes and pods discarded weekly in UK despite single-use ban, study finds",
-      "link": "https://www.theguardian.com/society/2026/mar/27/vapes-pods-waste-uk-recycling-disposable-single-use-ban",
-      "mean_score": 0.317,
-      "vader_score": 0.1341,
-      "textblob_score": 0.5,
-      "first_sentence": "More than 6m vapes and vape pods are still being discarded every week in the UK, with waste management companies warning the sheer volume continues to strain recycling systems despite the ban on disposable e-cigarettes.",
-      "timestamp": "2026-03-27T06:00:05Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Australia news live: One Nation wins second seat in South Australia, ABC projects; high winds and large surf expected along NSW coast",
-      "link": "https://www.theguardian.com/australia-news/live/2026/mar/27/tropical-cyclone-narelle-fuel-crisis-petrol-cost-of-living-inflation-iran-war-storm-anthony-albanese-angus-taylor-ntwnfb",
-      "mean_score": 0.3452,
-      "vader_score": 0.5719,
-      "textblob_score": 0.1184,
-      "first_sentence": "One Nation has secured a second seat in South Australia, the ABC is projecting.",
-      "timestamp": "2026-03-27T05:50:51Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Progressive Paris has many weapons to fight the far right, but the best? Spaces where you can simply hang out | Alexander Hurst",
-      "link": "https://www.theguardian.com/commentisfree/2026/mar/27/progressive-paris-far-right-french-capital-food-culture-community-extremists",
-      "mean_score": 0.4979,
-      "vader_score": 0.6187,
-      "textblob_score": 0.3771,
-      "first_sentence": "Paris\u2019s success in removing cars from its streets has been more widely praised than its progress in opening up mixed-use spaces.",
-      "timestamp": "2026-03-27T05:00:04Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "A surprise resignation could open the door for an independent to win a Montana Senate seat",
-      "link": "https://www.npr.org/2026/03/27/nx-s1-5752350/a-surprise-resignation-could-open-the-door-for-an-independent-to-win-a-montana-senate-seat",
-      "mean_score": 0.4193,
-      "vader_score": 0.5719,
-      "textblob_score": 0.2667,
-      "first_sentence": "BUTTE, Mont.",
-      "timestamp": "2026-03-27T04:01:00Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "The spiky cactus fruit giving Indian farmers a cash boost",
-      "link": "https://www.bbc.com/news/articles/c3ewyyjjzkwo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3125,
-      "vader_score": 0.6249,
-      "textblob_score": 0.0,
-      "first_sentence": "In 2020 he abandoned his career in finance, sold all his shares and gold and invested the money in the family farm, in the southern Indian state of Karnataka.",
-      "timestamp": "2026-03-27T00:01:01Z",
-      "source": "BBC News"
     }
   ]
 }
