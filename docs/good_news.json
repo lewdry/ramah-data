@@ -1,6 +1,36 @@
 {
-  "last run": "2026-04-05T04:00:02Z",
+  "last run": "2026-04-05T06:26:51Z",
   "stories": [
+    {
+      "headline": "US F-15 airman rescued in Iran after special forces operation",
+      "link": "https://www.abc.net.au/news/2026-04-05/us-airman-rescued-in-iran-after-special-forces-operation/106533008",
+      "mean_score": 0.5138,
+      "vader_score": 0.6705,
+      "textblob_score": 0.3571,
+      "first_sentence": "US President Donald Trump has confirmed an airman of a fighter plane downed over Iran has been rescued.",
+      "timestamp": "2026-04-05T05:23:01Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Is the UK falling out of love with social media?",
+      "link": "https://www.theguardian.com/news/ng-interactive/2026/apr/05/uk-social-media-apps-share",
+      "mean_score": 0.412,
+      "vader_score": 0.5574,
+      "textblob_score": 0.2667,
+      "first_sentence": "Posting significant events in your life, from birthdays to weddings and promotions, is a social media staple.",
+      "timestamp": "2026-04-05T05:00:41Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Australians find joy amid global uncertainty in Easter celebrations",
+      "link": "https://www.abc.net.au/news/2026-04-05/australia-easter-egg-hunt-christianity-national-wrap-2026/106532532",
+      "mean_score": 0.37,
+      "vader_score": 0.34,
+      "textblob_score": 0.4,
+      "first_sentence": "At Easter Sunday services across the country, worshippers have been urged to look for joy and hope, despite the \"heaviness\" of recent global events.",
+      "timestamp": "2026-04-05T04:59:06Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Huge sea turtle rescued after being discovered stranded upside down",
       "link": "https://www.abc.net.au/news/2026-04-05/lifesaving-turned-turtle-rescue-at-urunga/106531572",
@@ -2470,36 +2500,6 @@
       "first_sentence": "Ghost stories are ubiquitous in popular culture, so it takes a lot to make one feel fresh.",
       "timestamp": "2026-03-27T14:00:02Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Her dad's dementia inspired her to create a guide for family caregivers",
-      "link": "https://www.npr.org/2026/03/27/nx-s1-5732794/dementia-caregiving-alzheimers-kenya-support",
-      "mean_score": 0.3243,
-      "vader_score": 0.6486,
-      "textblob_score": 0.0,
-      "first_sentence": "When Wamb\u016bi Karanja's friends gripe about the annoying habits of their fathers, she feels out of sync.",
-      "timestamp": "2026-03-27T13:18:05Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Senate approves funding deal for most of DHS, ending shutdown \u2013 US politics live",
-      "link": "https://www.theguardian.com/us-news/live/2026/mar/27/senate-dhs-shutdown-funding-deal-trump-iran-hormuz-latest-news-updates",
-      "mean_score": 0.36,
-      "vader_score": 0.4019,
-      "textblob_score": 0.3182,
-      "first_sentence": "The Senate has ended a budget standoff that has forced thousands of airport security staff to work without pay and caused long delays at airports.",
-      "timestamp": "2026-03-27T11:48:31Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Whale swims for freedom after big German rescue effort on Baltic coast",
-      "link": "https://www.bbc.com/news/articles/c9vlmxwk2jmo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4088,
-      "vader_score": 0.8176,
-      "textblob_score": 0.0,
-      "first_sentence": "A humpback whale has freed itself from a sandbank near the German coastal city of L\u00fcbeck, after a series of rescue attempts.",
-      "timestamp": "2026-03-27T09:12:03Z",
-      "source": "BBC News"
     }
   ]
 }
