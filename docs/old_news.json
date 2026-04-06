@@ -1,5 +1,35 @@
 [
   {
+    "headline": "From puppacinos to doggy high tea - how dog friendly should we be?",
+    "link": "https://www.bbc.com/news/articles/c24ry3vevq9o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3807,
+    "vader_score": 0.4939,
+    "textblob_score": 0.2675,
+    "first_sentence": "As more people look to pets as companions, the pattering of paws has become a common backing track to grabbing a coffee with a friend.",
+    "timestamp": "2026-03-29T06:11:13Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "How Australia is supporting NASA's first Moon flight in 50 years",
+    "link": "https://www.abc.net.au/news/2026-03-29/australia-support-nasa-artemis-moon-mission/106508360",
+    "mean_score": 0.3452,
+    "vader_score": 0.4404,
+    "textblob_score": 0.25,
+    "first_sentence": "Australia will support NASA's Artemis II mission with Canberra-based communications and tracking systems, helping astronauts orbit the Moon for the first time in more than 50 years.",
+    "timestamp": "2026-03-29T05:00:34Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Live: Titans and Dragons fight for first NRL win of 2026",
+    "link": "https://www.abc.net.au/news/2026-03-29/nrl-live-updates-raiders-harks-titans-dragons/106508782",
+    "mean_score": 0.3457,
+    "vader_score": 0.296,
+    "textblob_score": 0.3955,
+    "first_sentence": "Round 4 of the NRL season concludes with St George Illawarra heading to the Gold Coast to play the Titans.",
+    "timestamp": "2026-03-29T04:38:31Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Faithful, sensitive, forgiving: overthinkers like me make the best partners | Polly Hudson",
     "link": "https://www.theguardian.com/commentisfree/2026/mar/29/overthinkers-faithful-sensitive-forgiving-lovers-",
     "mean_score": 0.73,
