@@ -1,6 +1,56 @@
 {
-  "last run": "2026-04-06T04:01:32Z",
+  "last run": "2026-04-06T06:37:49Z",
   "stories": [
+    {
+      "headline": "No Bluesfest? No worries as stars come out to wow Byron Easter crowds",
+      "link": "https://www.abc.net.au/news/2026-04-06/byron-bluesfest-cancellation-easter-crowds-bounce-back/106535198",
+      "mean_score": 0.4011,
+      "vader_score": 0.7022,
+      "textblob_score": 0.1,
+      "first_sentence": "Byron Bay's iconic Bluesfest event was cancelled with less than a month's notice, but many music lovers flocked to the area nonetheless.",
+      "timestamp": "2026-04-06T05:51:38Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Monday briefing: Can human-based space exploration still be meaningful?",
+      "link": "https://www.theguardian.com/world/2026/apr/06/monday-briefing-can-human-based-space-exploration-still-be-meaningful",
+      "mean_score": 0.497,
+      "vader_score": 0.4939,
+      "textblob_score": 0.5,
+      "first_sentence": "Good morning.",
+      "timestamp": "2026-04-06T05:46:09Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "US sprint star Sha\u2019Carri Richardson wins 2026 Stawell Gift off scratch in thrilling finish",
+      "link": "https://www.theguardian.com/sport/2026/apr/06/shacarri-richardson-wins-2026-stawell-gift-sprint",
+      "mean_score": 0.5704,
+      "vader_score": 0.8658,
+      "textblob_score": 0.275,
+      "first_sentence": "American sprint queen Sha\u2019Carri Richardson has lived up to her star status as she chased down the field off scratch to win the 2026 Stawell Gift in a thrilling finish.",
+      "timestamp": "2026-04-06T05:31:51Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Live: Eels enjoy fast start against Tigers in front of sold out crowd",
+      "link": "https://www.abc.net.au/news/2026-04-06/nrl-live-updates-parramatta-eels-wests-tigers/106535120",
+      "mean_score": 0.3697,
+      "vader_score": 0.4939,
+      "textblob_score": 0.2455,
+      "first_sentence": "Parramatta looks to bounce back after last week's mauling by the Panthers by taking on the in-form Wests Tigers on Easter Monday.",
+      "timestamp": "2026-04-06T05:08:20Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Three easy sausage dinners that don't involve mash and peas",
+      "link": "https://www.abc.net.au/news/2026-04-06/iitalian-inspired-sausage-meals/106495338",
+      "mean_score": 0.4369,
+      "vader_score": 0.4404,
+      "textblob_score": 0.4333,
+      "first_sentence": "Sausages are an easy and popular meal option but sometimes it's nice to mix things up.",
+      "timestamp": "2026-04-06T05:00:00Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Uluru's popular Field of Light installation extended for three years",
       "link": "https://www.abc.net.au/news/2026-04-06/artist-shares-origin-story-of-field-of-light/106517384",
@@ -2449,56 +2499,6 @@
       "textblob_score": 0.1667,
       "first_sentence": "Maureen Doonan tries to participate in as many faith and cultural celebrations as she can.",
       "timestamp": "2026-03-28T23:00:39Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "From confectionery to boot polish, show bags were originally free sample bags",
-      "link": "https://www.abc.net.au/news/2026-03-29/show-bags-sideshow-alley-history-australian-tradition/106405158",
-      "mean_score": 0.4553,
-      "vader_score": 0.5106,
-      "textblob_score": 0.4,
-      "first_sentence": "For many rural farmers and their families, the annual pilgrimage to the Sydney Royal Easter Show is the social event of the year.",
-      "timestamp": "2026-03-28T21:04:56Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Frosting, sprinkles and layers of fun: Giant cake picnic hits Sydney",
-      "link": "https://www.bbc.com/news/articles/c1w40dy58vwo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3303,
-      "vader_score": 0.5106,
-      "textblob_score": 0.15,
-      "first_sentence": "It's the viral event that's already sold out dates in San Francisco, New York and Los Angeles.",
-      "timestamp": "2026-03-28T21:04:30Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Public transport to be free for Victorians in April",
-      "link": "https://www.abc.net.au/news/2026-03-29/free-public-transport-april-victoria-fuel-prices-cost-of-living/106506974",
-      "mean_score": 0.3553,
-      "vader_score": 0.5106,
-      "textblob_score": 0.2,
-      "first_sentence": "Public transport will be free in Victoria across metropolitan and V/Line services in the month of April.",
-      "timestamp": "2026-03-28T20:01:05Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "The moment I knew: It felt like the end of the world \u2013 then he smiled at me on the dancefloor",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/mar/28/moment-knew-adelaide-fringe-dancefloor",
-      "mean_score": 0.6592,
-      "vader_score": 0.7184,
-      "textblob_score": 0.6,
-      "first_sentence": "I met Harley at the Adelaide Fringe festival in 2020.",
-      "timestamp": "2026-03-28T19:00:37Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Two in five Australian GPs use AI scribes to record patient notes \u2013 but do they trade care for convenience?",
-      "link": "https://www.theguardian.com/australia-news/2026/mar/29/doctors-using-ai-for-notes-australia",
-      "mean_score": 0.3243,
-      "vader_score": 0.6486,
-      "textblob_score": 0.0,
-      "first_sentence": "According to an online poll by the Royal Australian College of GPs (RACGP), use of AI scribes by doctors in Australia nearly doubled from 22% in August 2024 to 40% in November 2025.",
-      "timestamp": "2026-03-28T19:00:36Z",
       "source": "The Guardian"
     }
   ]
