@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Faithful, sensitive, forgiving: overthinkers like me make the best partners | Polly Hudson",
+    "link": "https://www.theguardian.com/commentisfree/2026/mar/29/overthinkers-faithful-sensitive-forgiving-lovers-",
+    "mean_score": 0.73,
+    "vader_score": 0.91,
+    "textblob_score": 0.55,
+    "first_sentence": "It takes a certain kind of bravery to speak out on behalf of a much-maligned group, so thank you, Mark Travers, PhD.",
+    "timestamp": "2026-03-29T04:00:46Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Labor wins blue-ribbon seat of Morphett from Liberals",
+    "link": "https://www.abc.net.au/news/2026-03-29/sa-labor-wins-morphett/106508638",
+    "mean_score": 0.4359,
+    "vader_score": 0.5719,
+    "textblob_score": 0.3,
+    "first_sentence": "The Liberal Party has held the seat of Morphett almost continuously for 46 years.",
+    "timestamp": "2026-03-29T03:09:26Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "The extraordinary story of Australia's oldest living Olympian and his remarkable debut",
+    "link": "https://www.abc.net.au/news/2026-03-29/gordon-ingate-wingnut-australias-oldest-living-olympian-100yo/106508466",
+    "mean_score": 0.5495,
+    "vader_score": 0.5574,
+    "textblob_score": 0.5417,
+    "first_sentence": "Gordon Ingate, 100 years old, is Australia's oldest living Olympian, competing at the 1972 Games in Munich.",
+    "timestamp": "2026-03-29T03:08:17Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Live: Piastri fighting for win in Japan, safety car gifts Antonelli race lead",
     "link": "https://www.abc.net.au/news/2026-03-29/f1-live-japanese-grand-prix-oscar-piastri/106009308",
     "mean_score": 0.5465,
