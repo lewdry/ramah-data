@@ -1,11 +1,61 @@
 [
   {
+    "headline": "Polygraphs have major flaws. Are there better options?",
+    "link": "https://arstechnica.com/science/2026/03/polygraphs-have-major-flaws-are-there-better-options/",
+    "mean_score": 0.3608,
+    "vader_score": 0.4404,
+    "textblob_score": 0.2812,
+    "first_sentence": "Research proceeds on alternatives, but some doubt whether true lie detection is possible.",
+    "timestamp": "2026-03-29T11:01:46Z",
+    "source": "Ars Technica"
+  },
+  {
+    "headline": "\u2018Serve, smile, procreate\u2019: Yesteryear author Caro Claire Burke on the rise of the tradwife",
+    "link": "https://www.theguardian.com/books/2026/mar/29/serve-smile-procreate-yesteryear-author-caro-claire-burke-on-the-rise-of-the-tradwife",
+    "mean_score": 0.3306,
+    "vader_score": 0.3612,
+    "textblob_score": 0.3,
+    "first_sentence": "Gingham dresses, linen aprons; toddlers smiling toothily out from their perch on a perfectly cocked hip.",
+    "timestamp": "2026-03-29T11:00:02Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "\u2018My mum bought me Hardcore Ecstasy when I was seven \u2013 it\u2019s a great compilation\u2019: Nick Grimshaw\u2019s honest playlist",
+    "link": "https://www.theguardian.com/music/2026/mar/29/nick-grimshaw-honest-playlist-bjork-dr-dre-joy-division-grace-jones",
+    "mean_score": 0.8031,
+    "vader_score": 0.9062,
+    "textblob_score": 0.7,
+    "first_sentence": "The presenter would do Common People at karaoke and avoids 6 Music during intimate moments.",
+    "timestamp": "2026-03-29T09:00:53Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Kimi Antonelli wins Japan Grand Prix to become youngest F1 championship leader",
+    "link": "https://www.theguardian.com/sport/2026/mar/29/kimi-antonelli-wins-japan-grand-prix-to-become-youngest-f1-championship-leader",
+    "mean_score": 0.6313,
+    "vader_score": 0.8625,
+    "textblob_score": 0.4,
+    "first_sentence": "Kimi Antonelli won the Japanese Grand Prix ultimately dominating the second half of the race and with it the 19-year-old has become the youngest driver to lead the Formula One world championship.",
+    "timestamp": "2026-03-29T07:08:53Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Forget birdwatching, I\u2019m into moth-watching: they\u2019re fascinating and misunderstood insects | Helen Pilcher",
     "link": "https://www.theguardian.com/commentisfree/2026/mar/29/birdwatching-mothwatching-uk-nature-cognitive-decline",
     "mean_score": 0.3758,
     "vader_score": 0.0516,
     "textblob_score": 0.7,
     "first_sentence": "Do you ever worry that your brain\u2019s slowing down and your mind is \u2026 what\u2019s the word \u2026 fogging? If you do, I have news.",
+    "timestamp": "2026-03-29T07:00:50Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "My search for the perfect Sachertorte in Vienna",
+    "link": "https://www.theguardian.com/travel/2026/mar/29/perfect-sachertorte-cake-vienna-austria",
+    "mean_score": 0.7859,
+    "vader_score": 0.5719,
+    "textblob_score": 1.0,
+    "first_sentence": "The luscious chocolate and apricot torte is the stuff of legend in the grand, old world of Viennese coffeehouses.",
     "timestamp": "2026-03-29T07:00:50Z",
     "source": "The Guardian"
   },
