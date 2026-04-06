@@ -1,6 +1,46 @@
 {
-  "last run": "2026-04-06T00:24:02Z",
+  "last run": "2026-04-06T04:01:32Z",
   "stories": [
+    {
+      "headline": "Uluru's popular Field of Light installation extended for three years",
+      "link": "https://www.abc.net.au/news/2026-04-06/artist-shares-origin-story-of-field-of-light/106517384",
+      "mean_score": 0.4607,
+      "vader_score": 0.4215,
+      "textblob_score": 0.5,
+      "first_sentence": "A blanket of stars hovers atop the midnight blue sky on a cool desert evening in Central Australia.",
+      "timestamp": "2026-04-06T03:17:07Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Sha'Carri Richardson wins Stawell Gift from scratch",
+      "link": "https://www.abc.net.au/news/2026-04-06/stawell-gift-shacarri-richardson-christian-coleman/106534680",
+      "mean_score": 0.5325,
+      "vader_score": 0.765,
+      "textblob_score": 0.3,
+      "first_sentence": "American sprint star Sha'Carri Richardson has become the third woman ever to win the famous Stawell Gift from scratch.",
+      "timestamp": "2026-04-06T03:02:04Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Cycling great avoids disqualification over train crossing to win Tour of Flanders",
+      "link": "https://www.abc.net.au/news/2026-04-06/train-splits-tour-of-flanders-as-tadej-pogacar-wins-again/106534156",
+      "mean_score": 0.801,
+      "vader_score": 0.802,
+      "textblob_score": 0.8,
+      "first_sentence": "Tadej Poga\u010dar has won the one-day Tour of Flanders for a record-equalling third time after the men's field was split by a train passing through a level crossing.",
+      "timestamp": "2026-04-06T00:41:37Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Aerial view of American sprinter Sha'Carri Richardson winning her Stawell Gift heat - video",
+      "link": "https://www.theguardian.com/sport/video/2026/apr/06/aerial-view-of-american-sprinter-shacarri-richardson-winning-her-stawell-gift-heat-video",
+      "mean_score": 0.4965,
+      "vader_score": 0.743,
+      "textblob_score": 0.25,
+      "first_sentence": "USA sprint star Sha\u2019Carri Richardson has cruised into the Stawell Gift semi-final, comfortably winning her heat on Saturday afternoon.",
+      "timestamp": "2026-04-06T00:41:24Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Pogacar holds off Van der Poel to win Tour of Flanders but faces fine for running red light",
       "link": "https://www.theguardian.com/sport/2026/apr/05/tadej-pogacar-mathieu-van-der-poel-tour-of-flanders-cycling",
@@ -2459,46 +2499,6 @@
       "textblob_score": 0.0,
       "first_sentence": "According to an online poll by the Royal Australian College of GPs (RACGP), use of AI scribes by doctors in Australia nearly doubled from 22% in August 2024 to 40% in November 2025.",
       "timestamp": "2026-03-28T19:00:36Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Obongjayar is the genre-defying Nigerian star challenging stereotypes",
-      "link": "https://www.abc.net.au/news/2026-03-29/obongjayar-paradise-now-australia-fred-again-little-simz-nigeria/106489772",
-      "mean_score": 0.3266,
-      "vader_score": 0.1531,
-      "textblob_score": 0.5,
-      "first_sentence": "Obongjayar understands the wisdom of the old saying that variety is the spice of life.",
-      "timestamp": "2026-03-28T18:30:00Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Arsenal v Tottenham: Women\u2019s Super League \u2013 live",
-      "link": "https://www.theguardian.com/football/live/2026/mar/28/arsenal-v-tottenham-womens-super-league-live",
-      "mean_score": 0.4171,
-      "vader_score": 0.5994,
-      "textblob_score": 0.2348,
-      "first_sentence": "34 min Russo runs onto a deft header from Maanum and thumps a shot that is deflected over by the stretching Toga.",
-      "timestamp": "2026-03-28T18:04:46Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Scotland v Japan: international football friendly \u2013 live",
-      "link": "https://www.theguardian.com/football/live/2026/mar/28/scotland-v-japan-international-football-friendly-live",
-      "mean_score": 0.3322,
-      "vader_score": 0.4939,
-      "textblob_score": 0.1705,
-      "first_sentence": "Scotland get the second half started.",
-      "timestamp": "2026-03-28T18:00:56Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Victorians get free public transport for a month in bid to ease surge in fuel demand",
-      "link": "https://www.theguardian.com/australia-news/2026/mar/29/victoria-free-public-transport-april-petrol-prices",
-      "mean_score": 0.4243,
-      "vader_score": 0.6486,
-      "textblob_score": 0.2,
-      "first_sentence": "Public transport will be free in Victoria for a month, in an effort to encourage people to switch from driving and alleviate the surge in demand for fuel.",
-      "timestamp": "2026-03-28T18:00:33Z",
       "source": "The Guardian"
     }
   ]
