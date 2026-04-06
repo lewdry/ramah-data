@@ -1,6 +1,26 @@
 {
-  "last run": "2026-04-06T15:16:59Z",
+  "last run": "2026-04-06T18:18:53Z",
   "stories": [
+    {
+      "headline": "Ladysmith Black Mambazo's 'wise elder' dies aged 77",
+      "link": "https://www.bbc.com/news/articles/cx2r5g7x25yo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3106,
+      "vader_score": 0.4767,
+      "textblob_score": 0.1444,
+      "first_sentence": "Albert Mazibuko, who sang in iconic South African group Ladysmith Black Mambazo for more than five decades, has died aged 77.",
+      "timestamp": "2026-04-06T17:20:16Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Over-the-counter medication abortion? These researchers say it would be safe",
+      "link": "https://www.npr.org/2026/04/06/nx-s1-5773372/medication-abortion-jama-safety-mifepristone-misoprostol",
+      "mean_score": 0.4702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.5,
+      "first_sentence": "Imagine that you're pregnant, a few weeks in, and you decide you want an abortion.",
+      "timestamp": "2026-04-06T15:42:08Z",
+      "source": "NPR News"
+    },
     {
       "headline": "Is a new weight-loss drug making people fall out of love?",
       "link": "https://www.theguardian.com/science/2026/apr/06/is-retatrutide-experimental-weight-loss-drug-making-people-fall-out-of-love",
@@ -2479,26 +2499,6 @@
       "textblob_score": 1.0,
       "first_sentence": "The luscious chocolate and apricot torte is the stuff of legend in the grand, old world of Viennese coffeehouses.",
       "timestamp": "2026-03-29T07:00:50Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Forget birdwatching, I\u2019m into moth-watching: they\u2019re fascinating and misunderstood insects | Helen Pilcher",
-      "link": "https://www.theguardian.com/commentisfree/2026/mar/29/birdwatching-mothwatching-uk-nature-cognitive-decline",
-      "mean_score": 0.3758,
-      "vader_score": 0.0516,
-      "textblob_score": 0.7,
-      "first_sentence": "Do you ever worry that your brain\u2019s slowing down and your mind is \u2026 what\u2019s the word \u2026 fogging? If you do, I have news.",
-      "timestamp": "2026-03-29T07:00:50Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Formula One 2026: Japanese Grand Prix race updates \u2013 live",
-      "link": "https://www.theguardian.com/sport/live/2026/mar/29/formula-one-japanese-gp-grand-prix-f1-race-live-updates",
-      "mean_score": 0.3355,
-      "vader_score": 0.4588,
-      "textblob_score": 0.2121,
-      "first_sentence": "Lap 40/53: Antonelli is streaking away into the clear air in front of him, now nearly ten seconds clear of second-placed Piastri.",
-      "timestamp": "2026-03-29T06:19:53Z",
       "source": "The Guardian"
     }
   ]
