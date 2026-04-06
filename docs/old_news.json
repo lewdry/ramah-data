@@ -1,5 +1,65 @@
 [
   {
+    "headline": "Live: Piastri fighting for win in Japan, safety car gifts Antonelli race lead",
+    "link": "https://www.abc.net.au/news/2026-03-29/f1-live-japanese-grand-prix-oscar-piastri/106009308",
+    "mean_score": 0.5465,
+    "vader_score": 0.6249,
+    "textblob_score": 0.4682,
+    "first_sentence": "Oscar Piastri is taking the fight to Mercedes in Japan, after overtaking Kimi Antonelli and George Russell at the start.",
+    "timestamp": "2026-03-29T02:57:12Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Vital Aboriginal records saved in the 70s by an astute WA archivist",
+    "link": "https://www.abc.net.au/news/2026-03-29/archivists-life-work-celebrated-western-australia/106504878",
+    "mean_score": 0.4687,
+    "vader_score": 0.6124,
+    "textblob_score": 0.325,
+    "first_sentence": "At her 100th birthday celebrations, staff at the state library of WA celebrated the extraordinary work of Margaret Medcalf, who ensured that some of the state's most important documents were preserved.",
+    "timestamp": "2026-03-29T01:32:02Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Live: Power and Eagles look to make it back-to-back wins",
+    "link": "https://www.abc.net.au/news/2026-03-29/afl-round-three-sunday-live-blog-port-wce-carl-melb/106504820",
+    "mean_score": 0.395,
+    "vader_score": 0.5719,
+    "textblob_score": 0.2182,
+    "first_sentence": "Josh Carr's Port Adelaide will face off against a West Coast side buoyed by its drought-breaking win as Sunday's AFL double-header kicks off.",
+    "timestamp": "2026-03-29T01:06:12Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "It's Love Island but with fruit...the AI series dividing TikTok",
+    "link": "https://www.bbc.com/news/articles/ckgr35y26q7o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4409,
+    "vader_score": 0.3818,
+    "textblob_score": 0.5,
+    "first_sentence": "A new bombshell has just entered the villa.",
+    "timestamp": "2026-03-29T00:00:05Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Alex Carey scores superb century as SA builds solid score in Sheffield Shield final, live scores",
+    "link": "https://www.abc.net.au/news/2026-03-29/sheffield-shield-final-live-scores-victoria-sa-day-four/106496594",
+    "mean_score": 0.4874,
+    "vader_score": 0.6908,
+    "textblob_score": 0.2841,
+    "first_sentence": "Alex Carey scores a superb century as South Australia fights back from early wickets on day four of the Sheffield Shield at Melbourne's Junction Oval.",
+    "timestamp": "2026-03-28T23:05:01Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Different beliefs, shared humanity: why so many Australians celebrate diverse religious festivals",
+    "link": "https://www.theguardian.com/australia-news/2026/mar/29/australians-celebrate-diverse-religious-festivals-ntwnfb",
+    "mean_score": 0.5005,
+    "vader_score": 0.8344,
+    "textblob_score": 0.1667,
+    "first_sentence": "Maureen Doonan tries to participate in as many faith and cultural celebrations as she can.",
+    "timestamp": "2026-03-28T23:00:39Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "From confectionery to boot polish, show bags were originally free sample bags",
     "link": "https://www.abc.net.au/news/2026-03-29/show-bags-sideshow-alley-history-australian-tradition/106405158",
     "mean_score": 0.4553,
