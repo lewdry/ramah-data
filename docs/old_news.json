@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Aussies cruise to ODI series win over West Indies with dominant second game",
+    "link": "https://www.abc.net.au/news/2026-03-30/australia-beat-west-indies-in-second-odi/106511512",
+    "mean_score": 0.3596,
+    "vader_score": 0.5859,
+    "textblob_score": 0.1333,
+    "first_sentence": "Australia has taken an unassailable 2-0 lead in their ODI series against West Indies with a 90-run win in the second match at St Kitts' Warner Park.",
+    "timestamp": "2026-03-30T02:40:42Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Commuters say buses 'absolutely packed' as free transport starts",
+    "link": "https://www.abc.net.au/news/2026-03-30/tas-free-public-transport-buses-ferries/106510020",
+    "mean_score": 0.426,
+    "vader_score": 0.552,
+    "textblob_score": 0.3,
+    "first_sentence": "As of today, buses and ferries in Tasmania are free to use as the Tasmanian government tries to ease the burden of fuel costs due to conflict in the Middle East.",
+    "timestamp": "2026-03-30T02:14:03Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Politics live: Angus Taylor shuts down Andrew Hastie\u2019s suggestion of a gas export tax; One Nation projected to win third South Australian seat",
+    "link": "https://www.theguardian.com/australia-news/live/2026/mar/30/australia-politics-live-national-cabinet-fuel-prices-oil-crisis-labor-anthony-albanese-chris-bowen-coalition-angus-taylor-ntwnfb",
+    "mean_score": 0.371,
+    "vader_score": 0.5859,
+    "textblob_score": 0.1562,
+    "first_sentence": "Appearing to stand in direct contrast to his colleague Andrew Hastie, Angus Taylor says shuts down the idea of implementing a gas export tax.",
+    "timestamp": "2026-03-30T00:18:32Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "The Final Four is set with UConn stunning Duke to join Illinois, Arizona and Michigan",
+    "link": "https://www.npr.org/2026/03/29/nx-s1-5765506/final-four-ncaa-2026",
+    "mean_score": 0.4179,
+    "vader_score": 0.5859,
+    "textblob_score": 0.25,
+    "first_sentence": "The Final Four is set.",
+    "timestamp": "2026-03-30T00:11:40Z",
+    "source": "NPR News"
+  },
+  {
     "headline": "South Australia wins back-to-back Shield titles with stunning win over Victoria",
     "link": "https://www.abc.net.au/news/2026-03-30/sheffield-shield-final-live-scores-victoria-sa-day-five/106496596",
     "mean_score": 0.7056,
