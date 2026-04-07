@@ -1,6 +1,26 @@
 {
-  "last run": "2026-04-06T21:12:27Z",
+  "last run": "2026-04-07T00:23:39Z",
   "stories": [
+    {
+      "headline": "Call for parents to teach online privacy like road safety",
+      "link": "https://www.bbc.com/news/articles/c070v00xzl5o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3243,
+      "vader_score": 0.6486,
+      "textblob_score": 0.0,
+      "first_sentence": "Parents should teach children online privacy as an essential life skill in the same way as stranger danger or road safety, the UK's data watchdog has said.",
+      "timestamp": "2026-04-06T23:05:52Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Wrecked boats spill styrofoam, chemicals into Great Barrier Reef for months",
+      "link": "https://www.abc.net.au/news/2026-04-07/salvage-time-of-wrecked-boats-criticised-north-qld/106530122",
+      "mean_score": 0.6787,
+      "vader_score": 0.5574,
+      "textblob_score": 0.8,
+      "first_sentence": "Boat wrecks still line parts of north Queensland's coast months after Cyclone Koji crossed between Bowen and Ayr.",
+      "timestamp": "2026-04-06T22:00:14Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Wireless Festival boss defends Kanye West booking and asks people to forgive rapper",
       "link": "https://www.bbc.com/news/articles/cwyvr08l7lzo?at_medium=RSS&at_campaign=rss",
@@ -2480,26 +2500,6 @@
       "first_sentence": "\u2018I do feel I\u2019ve wasted my life, really, living in a world of fictional characters,\u201d said Ian Rankin \u2013 multi-award-winning author (more than 35m copies of his Rebus novels sold), knighthood for services to literature and charity, a man who achieves more in one year than I have in 51 \u2013 on a recent podcast.",
       "timestamp": "2026-03-29T13:00:04Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Arizona reaches its first Final Four in 25 years with 79-64 win over Purdue",
-      "link": "https://apnews.com/article/march-madness-purdue-arizona-score-fb1d7ba88d91fc3530f2aacb4605b5ec",
-      "mean_score": 0.4812,
-      "vader_score": 0.6124,
-      "textblob_score": 0.35,
-      "first_sentence": "Lloyd and the Wildcats are back in the Final Four for the first time since Lute Olson\u2019s heyday 25 years ago as Arizona once again looks like a threat to win it all.",
-      "timestamp": "2026-03-29T11:53:02Z",
-      "source": "AP News"
-    },
-    {
-      "headline": "19-year-old Kimi Antonelli of Mercedes wins Japanese GP for second straight victory",
-      "link": "https://apnews.com/article/antonelli-hamilton-japanese-gp-russell-d9d9f55ff98bb27c6459e358b04f85e4",
-      "mean_score": 0.4029,
-      "vader_score": 0.6808,
-      "textblob_score": 0.125,
-      "first_sentence": "SUZUKA, Japan (AP) \u2014 Italian 19-year-old Kimi Antonelli of Mercedes has won his second consecutive Formula 1 race, taking Sunday\u2019s Japanese Grand Prix ahead of Oscar Piastri of McLaren.",
-      "timestamp": "2026-03-29T11:23:03Z",
-      "source": "AP News"
     }
   ]
 }

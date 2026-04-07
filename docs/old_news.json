@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Arizona reaches its first Final Four in 25 years with 79-64 win over Purdue",
+    "link": "https://apnews.com/article/march-madness-purdue-arizona-score-fb1d7ba88d91fc3530f2aacb4605b5ec",
+    "mean_score": 0.4812,
+    "vader_score": 0.6124,
+    "textblob_score": 0.35,
+    "first_sentence": "Lloyd and the Wildcats are back in the Final Four for the first time since Lute Olson\u2019s heyday 25 years ago as Arizona once again looks like a threat to win it all.",
+    "timestamp": "2026-03-29T11:53:02Z",
+    "source": "AP News"
+  },
+  {
+    "headline": "19-year-old Kimi Antonelli of Mercedes wins Japanese GP for second straight victory",
+    "link": "https://apnews.com/article/antonelli-hamilton-japanese-gp-russell-d9d9f55ff98bb27c6459e358b04f85e4",
+    "mean_score": 0.4029,
+    "vader_score": 0.6808,
+    "textblob_score": 0.125,
+    "first_sentence": "SUZUKA, Japan (AP) \u2014 Italian 19-year-old Kimi Antonelli of Mercedes has won his second consecutive Formula 1 race, taking Sunday\u2019s Japanese Grand Prix ahead of Oscar Piastri of McLaren.",
+    "timestamp": "2026-03-29T11:23:03Z",
+    "source": "AP News"
+  },
+  {
     "headline": "Polygraphs have major flaws. Are there better options?",
     "link": "https://arstechnica.com/science/2026/03/polygraphs-have-major-flaws-are-there-better-options/",
     "mean_score": 0.3608,
