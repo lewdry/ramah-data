@@ -1,5 +1,55 @@
 [
   {
+    "headline": "Australia\u2019s best photos of the month \u2013 March 2026",
+    "link": "https://www.theguardian.com/artanddesign/gallery/2026/mar/31/australia-best-photos-march-2026",
+    "mean_score": 0.8185,
+    "vader_score": 0.6369,
+    "textblob_score": 1.0,
+    "first_sentence": "Bakers\u2019 delights, a spiky surprise and a Mardi Gras marriage \u2013 Guardian Australia\u2019s pick of the month\u2019s most arresting images The Free, Gay n Happy float \u2013 in pictures Continue reading.",
+    "timestamp": "2026-03-30T14:00:11Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "AI lectures, Old West folk heroes and Mark Twain: what is Bob Dylan up to joining Patreon?",
+    "link": "https://www.theguardian.com/music/2026/mar/30/ai-lectures-old-west-folk-heroes-and-mark-twain-what-is-bob-dylan-up-to-joining-patreon",
+    "mean_score": 0.3053,
+    "vader_score": 0.5106,
+    "textblob_score": 0.1,
+    "first_sentence": "A couple of years back, the august music writer David Hepworth came up with a great line about Bob Dylan.",
+    "timestamp": "2026-03-30T13:34:29Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Soy what? 40,000lbs of spilled tofu leads to \u2018unforgettable\u2019 odor in Missouri town",
+    "link": "https://www.theguardian.com/us-news/2026/mar/30/spilled-tofu-accident-missouri-town",
+    "mean_score": 0.4,
+    "vader_score": 0.0,
+    "textblob_score": 0.8,
+    "first_sentence": "A staggering 40,000lbs of extra-firm tofu was spilled in an accident near a small town in Missouri and left in the open for weeks, creating a smell that local officials called \u201cunforgettable\u201d.",
+    "timestamp": "2026-03-30T13:03:18Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Why Kris Jenner's picture has become a good luck charm on Chinese social media",
+    "link": "https://www.bbc.com/news/articles/c0rx57zgz52o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.5335,
+    "vader_score": 0.8225,
+    "textblob_score": 0.2444,
+    "first_sentence": "Social media users in China are reportedly sharing images of US reality TV star Kris Jenner as part of a trend wishing for luck and fortune on platforms such as Weibo and RedNote.",
+    "timestamp": "2026-03-30T12:59:23Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Rukmini Iyer\u2019s quick and easy recipe for artichoke, olive and feta pithivier | Quick and easy",
+    "link": "https://www.theguardian.com/food/2026/mar/30/artichoke-olive-feta-pithivier-quick-and-easy-recipe-rukmini-iyer",
+    "mean_score": 0.5418,
+    "vader_score": 0.7003,
+    "textblob_score": 0.3833,
+    "first_sentence": "Pithiviers look absolutely beautiful at the table.",
+    "timestamp": "2026-03-30T12:00:10Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Gary Woodland wins Houston Open after brain surgery and PTSD struggles: \u2018Today was a good day\u2019",
     "link": "https://www.theguardian.com/sport/2026/mar/30/gary-woodland-wins-houston-open-after-brain-surgery-and-ptsd-struggles-today-was-a-good-day",
     "mean_score": 0.4791,

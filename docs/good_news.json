@@ -1,6 +1,56 @@
 {
-  "last run": "2026-04-07T18:19:18Z",
+  "last run": "2026-04-07T21:16:47Z",
   "stories": [
+    {
+      "headline": "Will Democratic wins affect plans for Florida redistricting?",
+      "link": "https://www.npr.org/2026/04/07/nx-s1-5773367/will-democratic-wins-affect-plans-for-florida-redistricting",
+      "mean_score": 0.4359,
+      "vader_score": 0.5719,
+      "textblob_score": 0.3,
+      "first_sentence": "After Democrats flipped two seats in surprising legislative elections, Florida political insiders weigh whether Republican should risk redistricting later this month to win more House seats.",
+      "timestamp": "2026-04-07T21:05:30Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "Live: Albanese talks energy security with China's premier",
+      "link": "https://www.abc.net.au/news/2026-04-08/federal-politics-blog-fuel-albanese-iran-taylor-canavan-npc/106538544",
+      "mean_score": 0.3393,
+      "vader_score": 0.5423,
+      "textblob_score": 0.1364,
+      "first_sentence": "Anthony Albanese and Chinese Premier Li Qiang have discussed energy security ahead of the prime minister's dash to Singapore later this week.",
+      "timestamp": "2026-04-07T21:04:44Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Real Madrid 1-2 Bayern Munich: Champions League quarter-final first leg \u2013 live reaction",
+      "link": "https://www.theguardian.com/football/live/2026/apr/07/real-madrid-v-bayern-munich-champions-league-quarter-final-first-leg-live",
+      "mean_score": 0.3611,
+      "vader_score": 0.5267,
+      "textblob_score": 0.1955,
+      "first_sentence": "double quotation mark\u201cThis is why you guys come to these games,\u201d Vincent Kompany had said, and here especially.",
+      "timestamp": "2026-04-07T21:03:32Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Women\u2019s Super League academy teams to play in third tier under new FA proposals",
+      "link": "https://www.theguardian.com/football/2026/apr/07/wsl-academy-teams-to-play-in-third-tier-fa-plans-womens-national-league",
+      "mean_score": 0.4498,
+      "vader_score": 0.743,
+      "textblob_score": 0.1566,
+      "first_sentence": "Major structural changes to the Women\u2019s National League, including four Women\u2019s Super League academy sides entering tier three of the pyramid from 2027 and the introduction of a mid-season split similar to that used in Scotland, have been proposed by the Football Association, the Guardian can reveal.",
+      "timestamp": "2026-04-07T18:06:20Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Charity cleared after false claims online over migrant welcome project",
+      "link": "https://www.theguardian.com/society/2026/apr/07/refugee-charity-schools-valentines-cards-asylum-seekers",
+      "mean_score": 0.4675,
+      "vader_score": 0.7351,
+      "textblob_score": 0.2,
+      "first_sentence": "A refugee charity subjected to vicious social media attacks over a migrant welcome project in schools has been cleared of wrongdoing after watchdogs found allegations it encouraged pupils to send Valentine\u2019s Day cards to asylum seekers were misleading and false.",
+      "timestamp": "2026-04-07T17:51:19Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Legendary Disney composer Alan Menken on winning Oscars, Razzies and his \u2018filthy\u2019 rock musical",
       "link": "https://www.theguardian.com/music/2026/apr/07/composer-alan-menken-whole-new-world-musical",
@@ -2449,56 +2499,6 @@
       "textblob_score": 0.3333,
       "first_sentence": "Victoria and Tasmania are trialling free public transport as a way to drive down demand for petrol.",
       "timestamp": "2026-03-30T14:00:13Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Australia\u2019s best photos of the month \u2013 March 2026",
-      "link": "https://www.theguardian.com/artanddesign/gallery/2026/mar/31/australia-best-photos-march-2026",
-      "mean_score": 0.8185,
-      "vader_score": 0.6369,
-      "textblob_score": 1.0,
-      "first_sentence": "Bakers\u2019 delights, a spiky surprise and a Mardi Gras marriage \u2013 Guardian Australia\u2019s pick of the month\u2019s most arresting images The Free, Gay n Happy float \u2013 in pictures Continue reading.",
-      "timestamp": "2026-03-30T14:00:11Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "AI lectures, Old West folk heroes and Mark Twain: what is Bob Dylan up to joining Patreon?",
-      "link": "https://www.theguardian.com/music/2026/mar/30/ai-lectures-old-west-folk-heroes-and-mark-twain-what-is-bob-dylan-up-to-joining-patreon",
-      "mean_score": 0.3053,
-      "vader_score": 0.5106,
-      "textblob_score": 0.1,
-      "first_sentence": "A couple of years back, the august music writer David Hepworth came up with a great line about Bob Dylan.",
-      "timestamp": "2026-03-30T13:34:29Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Soy what? 40,000lbs of spilled tofu leads to \u2018unforgettable\u2019 odor in Missouri town",
-      "link": "https://www.theguardian.com/us-news/2026/mar/30/spilled-tofu-accident-missouri-town",
-      "mean_score": 0.4,
-      "vader_score": 0.0,
-      "textblob_score": 0.8,
-      "first_sentence": "A staggering 40,000lbs of extra-firm tofu was spilled in an accident near a small town in Missouri and left in the open for weeks, creating a smell that local officials called \u201cunforgettable\u201d.",
-      "timestamp": "2026-03-30T13:03:18Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Why Kris Jenner's picture has become a good luck charm on Chinese social media",
-      "link": "https://www.bbc.com/news/articles/c0rx57zgz52o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5335,
-      "vader_score": 0.8225,
-      "textblob_score": 0.2444,
-      "first_sentence": "Social media users in China are reportedly sharing images of US reality TV star Kris Jenner as part of a trend wishing for luck and fortune on platforms such as Weibo and RedNote.",
-      "timestamp": "2026-03-30T12:59:23Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Rukmini Iyer\u2019s quick and easy recipe for artichoke, olive and feta pithivier | Quick and easy",
-      "link": "https://www.theguardian.com/food/2026/mar/30/artichoke-olive-feta-pithivier-quick-and-easy-recipe-rukmini-iyer",
-      "mean_score": 0.5418,
-      "vader_score": 0.7003,
-      "textblob_score": 0.3833,
-      "first_sentence": "Pithiviers look absolutely beautiful at the table.",
-      "timestamp": "2026-03-30T12:00:10Z",
       "source": "The Guardian"
     }
   ]
