@@ -1,6 +1,26 @@
 {
-  "last run": "2026-04-07T03:58:00Z",
+  "last run": "2026-04-07T06:31:41Z",
   "stories": [
+    {
+      "headline": "China is winning one AI race, the US another - but either might pull ahead",
+      "link": "https://www.bbc.com/news/articles/c145enxln0go?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.398,
+      "vader_score": 0.296,
+      "textblob_score": 0.5,
+      "first_sentence": "In the second half of the 20th Century, it was the race to develop nuclear arms that occupied some of the finest minds in the US and the Soviet Union.",
+      "timestamp": "2026-04-07T05:13:12Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "\u2018Italy has the best benefits\u2019: Milan takes on Dubai as home for the super-rich",
+      "link": "https://www.theguardian.com/business/2026/apr/07/milan-dubai-super-wealthy-italy-rich",
+      "mean_score": 0.8185,
+      "vader_score": 0.6369,
+      "textblob_score": 1.0,
+      "first_sentence": "Just over a month ago, Dubai was the obvious destination for wealthy Britons in search of a new home.",
+      "timestamp": "2026-04-07T04:00:39Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Cyclist clinging to reeds, plucked to safety in remote Snowy River rescue",
       "link": "https://www.abc.net.au/news/2026-04-07/cyclist-rescued-from-snowy-river-police-air-wing/106537314",
@@ -2480,26 +2500,6 @@
       "first_sentence": "The AFL has announced Kylie Minogue will headline this year's AFL grand final entertainment, marking the first time since 2021 in Perth that an Australian has headlined.",
       "timestamp": "2026-03-29T19:52:33Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Vingegaard keeps up \u2018amazing start\u2019 to season with Volta a Catalunya triumph",
-      "link": "https://www.theguardian.com/sport/2026/mar/29/jonas-vingegaard-amazing-start-season-volta-a-catalunya-cyling",
-      "mean_score": 0.5384,
-      "vader_score": 0.4767,
-      "textblob_score": 0.6,
-      "first_sentence": "Jonas Vingegaard triumphed at the Volta a Catalunya as he continued his strong start to the season, while Brady Gilmore sprinted to a surprise stage seven victory.",
-      "timestamp": "2026-03-29T16:03:08Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "First Nations children\u2019s commissioner Sue-Anne Hunter on courage, speaking truth to power and the boy she can\u2019t forget",
-      "link": "https://www.theguardian.com/australia-news/2026/mar/30/first-nations-childrens-commissioner-sue-anne-hunter-interview-ntwnfb",
-      "mean_score": 0.4037,
-      "vader_score": 0.5574,
-      "textblob_score": 0.25,
-      "first_sentence": "Sue-Anne Hunter carries the stories of thousands of children with her but one in particular is motivating her to hold Australian governments to account for their treatment of First Nations people.",
-      "timestamp": "2026-03-29T14:00:11Z",
-      "source": "The Guardian"
     }
   ]
 }
