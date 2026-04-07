@@ -1,5 +1,45 @@
 [
   {
+    "headline": "South Australia wins back-to-back Shield titles with stunning win over Victoria",
+    "link": "https://www.abc.net.au/news/2026-03-30/sheffield-shield-final-live-scores-victoria-sa-day-five/106496596",
+    "mean_score": 0.7056,
+    "vader_score": 0.8779,
+    "textblob_score": 0.5333,
+    "first_sentence": "South Australia has won back-to-back Sheffield Shield titles with a brilliant comeback victory over Victoria in the final at Melbourne's Junction Oval.",
+    "timestamp": "2026-03-29T23:05:29Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "40,000 hand-raised baby corals bring hope of restoring Great Barrier Reef",
+    "link": "https://www.abc.net.au/news/2026-03-30/thousands-of-baby-corals-transplanted-onto-great-barrier-reef/106502008",
+    "mean_score": 0.8135,
+    "vader_score": 0.8271,
+    "textblob_score": 0.8,
+    "first_sentence": "Scientists have partnered with operators in the reef industry to grow 40,000 baby corals, which were transplanted onto the Great Barrier Reef.",
+    "timestamp": "2026-03-29T21:31:09Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Kylie Minogue to perform at AFL Grand Final: \u2018as a Melburnian, I\u2019m so excited\u2019",
+    "link": "https://www.theguardian.com/australia-news/2026/mar/30/kylie-minogue-afl-grand-final",
+    "mean_score": 0.3752,
+    "vader_score": 0.4588,
+    "textblob_score": 0.2917,
+    "first_sentence": "Calls for Australian musicians to perform at the AFL grand final have been answered with pop royalty Kylie Minogue named as this year\u2019s headline act.",
+    "timestamp": "2026-03-29T20:47:20Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Kylie Minogue to lead AFL grand final entertainment, ending Aussie drought",
+    "link": "https://www.abc.net.au/news/2026-03-30/kylie-minogue-named-afl-grand-final-pre-game-entertainment/106509752",
+    "mean_score": 0.4752,
+    "vader_score": 0.7003,
+    "textblob_score": 0.25,
+    "first_sentence": "The AFL has announced Kylie Minogue will headline this year's AFL grand final entertainment, marking the first time since 2021 in Perth that an Australian has headlined.",
+    "timestamp": "2026-03-29T19:52:33Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Vingegaard keeps up \u2018amazing start\u2019 to season with Volta a Catalunya triumph",
     "link": "https://www.theguardian.com/sport/2026/mar/29/jonas-vingegaard-amazing-start-season-volta-a-catalunya-cyling",
     "mean_score": 0.5384,
