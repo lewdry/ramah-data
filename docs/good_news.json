@@ -1,6 +1,86 @@
 {
-  "last run": "2026-04-07T12:19:17Z",
+  "last run": "2026-04-07T15:30:01Z",
   "stories": [
+    {
+      "headline": "Legendary Disney composer Alan Menken on winning Oscars, Razzies and his \u2018filthy\u2019 rock musical",
+      "link": "https://www.theguardian.com/music/2026/apr/07/composer-alan-menken-whole-new-world-musical",
+      "mean_score": 0.3508,
+      "vader_score": 0.5267,
+      "textblob_score": 0.175,
+      "first_sentence": "In early 1991, the composer Alan Menken took a keyboard to St Vincent\u2019s hospital in New York to visit his friend and creative partner, the lyricist Howard Ashman.",
+      "timestamp": "2026-04-07T15:00:04Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Max Chandler-Mather says Greens can use \u2018progressive populism\u2019 to win voters deserting major parties for One Nation",
+      "link": "https://www.theguardian.com/australia-news/2026/apr/07/australian-greens-max-chandler-mather-voters-major-parties-one-nation",
+      "mean_score": 0.6045,
+      "vader_score": 0.7778,
+      "textblob_score": 0.4313,
+      "first_sentence": "Max Chandler-Mather says the Greens can use \u201cprogressive economic populism\u201d to win over Australians deserting the major parties for One Nation as the firebrand former MP accused the political class of thumbing its nose at the concerns of everyday voters.",
+      "timestamp": "2026-04-07T15:00:03Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018We\u2019ll start a creche\u2019: how the World Surf League is becoming family friendly for parents on tour | Kieran Pender",
+      "link": "https://www.theguardian.com/sport/2026/apr/08/world-surf-league-family-friendly-parents-tour",
+      "mean_score": 0.4532,
+      "vader_score": 0.4939,
+      "textblob_score": 0.4125,
+      "first_sentence": "This year\u2019s Rip Curl Pro at Bells Beach has felt different for Connor O\u2019Leary.",
+      "timestamp": "2026-04-07T15:00:00Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "3D heart to let surgeons practise baby's vital heart operation",
+      "link": "https://www.bbc.com/news/videos/cnv8eq29n33o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4955,
+      "vader_score": 0.891,
+      "textblob_score": 0.1,
+      "first_sentence": "A couple say their \"world will stop\" on the day their baby goes into an operating theatre for life-saving open heart surgery.",
+      "timestamp": "2026-04-07T14:31:43Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Who needs looksmaxxing when you\u2019ve got Catholicmaxxing? The TikTok trend making religion great again",
+      "link": "https://www.theguardian.com/world/2026/apr/07/catholicmaxxing-catholicism--church-religion-tiktok-gen-z-influencers",
+      "mean_score": 0.7125,
+      "vader_score": 0.6249,
+      "textblob_score": 0.8,
+      "first_sentence": "What\u2019s with all this maxxing business anyway? Oh, don\u2019t concern yourself too much with the nomenclature.",
+      "timestamp": "2026-04-07T14:26:40Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Women in Northern Ireland welcome introduction of miscarriage leave",
+      "link": "https://www.bbc.com/news/videos/c62je7j1yeyo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.6108,
+      "vader_score": 0.4215,
+      "textblob_score": 0.8,
+      "first_sentence": "Northern Ireland has become the first part of the UK where a woman and her partner are entitled to two weeks of paid leave if they experience a miscarriage at any stage of pregnancy.",
+      "timestamp": "2026-04-07T13:17:40Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Neighbour plan to help food bank expand",
+      "link": "https://www.bbc.com/news/articles/cvgek74l49do?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3062,
+      "vader_score": 0.6124,
+      "textblob_score": 0.0,
+      "first_sentence": "Worcester Foodbank is set to expand after securing permission to take over a neighbouring unit.",
+      "timestamp": "2026-04-07T12:51:33Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "JP Morgan reaches agreement with City airport for Canary Wharf\u2019s tallest tower",
+      "link": "https://www.theguardian.com/business/2026/apr/07/jp-morgan-clears-hurdle-canary-wharf-tallest-tower-london-city-airport",
+      "mean_score": 0.3563,
+      "vader_score": 0.7125,
+      "textblob_score": 0.0,
+      "first_sentence": "JP Morgan Chase has reached agreement with London City airport to build one of Europe\u2019s tallest office towers in the east of the capital.",
+      "timestamp": "2026-04-07T12:47:27Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "How to make better coffee \u2013 without spending a fortune",
       "link": "https://www.theguardian.com/thefilter/2026/apr/02/readers-everything-want-to-know-about-coffee",
@@ -2420,86 +2500,6 @@
       "first_sentence": "Pithiviers look absolutely beautiful at the table.",
       "timestamp": "2026-03-30T12:00:10Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Gary Woodland wins Houston Open after brain surgery and PTSD struggles: \u2018Today was a good day\u2019",
-      "link": "https://www.theguardian.com/sport/2026/mar/30/gary-woodland-wins-houston-open-after-brain-surgery-and-ptsd-struggles-today-was-a-good-day",
-      "mean_score": 0.4791,
-      "vader_score": 0.6249,
-      "textblob_score": 0.3333,
-      "first_sentence": "Gary Woodland won the Houston Open on Sunday, a moment that seemed improbable 30 months ago when he had brain surgery, and even two weeks ago when he opened up about his struggles with post-traumatic stress disorder.",
-      "timestamp": "2026-03-30T11:59:02Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018Prosthetics aren\u2019t made for people like us\u2019: the brothers creating innovative artificial limbs for Africans",
-      "link": "https://www.theguardian.com/global-development/2026/mar/30/prosthetics-brothers-creating-innovative-artificial-limbs-for-africans",
-      "mean_score": 0.3575,
-      "vader_score": 0.765,
-      "textblob_score": -0.05,
-      "first_sentence": "On a humid morning in Uyo, Nigeria, Ubokobong Amanam shows off the lifelike prosthetic where his fingers once were.",
-      "timestamp": "2026-03-30T09:00:05Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "China's AI chatbots are advanced and versatile \u2014 and begging for more users",
-      "link": "https://www.npr.org/2026/03/30/nx-s1-5760939/china-chatbot-industry-doubao-qwen-yuanbao",
-      "mean_score": 0.35,
-      "vader_score": 0.25,
-      "textblob_score": 0.45,
-      "first_sentence": "BEIJING \u2014 When it comes to AI chatbots, U.S.",
-      "timestamp": "2026-03-30T09:00:00Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Is it true that \u2026 you can never eat too much fibre?",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/mar/30/is-it-true-that-you-can-never-eat-too-much-fibre-fibremaxxing",
-      "mean_score": 0.3483,
-      "vader_score": 0.4215,
-      "textblob_score": 0.275,
-      "first_sentence": "Fibre has replaced protein as TikTok health influencers\u2019 macronutrient du jour, with \u201cfibremaxxers\u201d urging followers to pack as much roughage into their diets as possible.",
-      "timestamp": "2026-03-30T07:00:20Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The new Serial is here! Best podcasts of the week",
-      "link": "https://www.theguardian.com/tv-and-radio/2026/mar/30/the-new-serial-is-here-best-podcasts-of-the-week",
-      "mean_score": 0.6274,
-      "vader_score": 0.6696,
-      "textblob_score": 0.5852,
-      "first_sentence": "M Gessen explores the wild truth about his cousin, who keeps kidnapping his own child.",
-      "timestamp": "2026-03-30T06:00:19Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Zoning in on Marolles, Brussels: \u2018A friendly, cosmopolitan village where everyone is welcome\u2019",
-      "link": "https://www.theguardian.com/travel/2026/mar/30/marolles-brussels-cosmopolitan-village",
-      "mean_score": 0.4428,
-      "vader_score": 0.4939,
-      "textblob_score": 0.3917,
-      "first_sentence": "The Brusseleir dialect that\u2019s still spoken in much of the Marolles dates back to the middle ages, a symbol of the independence of this proudly working-class neighbourhood in central Brussels.",
-      "timestamp": "2026-03-30T06:00:19Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The first London marathon: brave and personal triumphs \u2013 archive, 1981",
-      "link": "https://www.theguardian.com/sport/2026/mar/30/first-london-marathon-brave-personal-triumphs-1981",
-      "mean_score": 0.5503,
-      "vader_score": 0.7506,
-      "textblob_score": 0.35,
-      "first_sentence": "Inge Simonsen, a 27-year-old Norwegian, \u201cofficially\u201d won the first London marathon in 2 hours 11 minutes 48 seconds yesterday, the fastest time recorded in Britain for 11 years, watched by an estimated 100,000 people.",
-      "timestamp": "2026-03-30T05:30:16Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Five easy seafood dinners for busy weeknights",
-      "link": "https://www.abc.net.au/news/2026-03-30/five-easy-seafood-dinners-for-busy-weeknights/106385708",
-      "mean_score": 0.3535,
-      "vader_score": 0.4404,
-      "textblob_score": 0.2667,
-      "first_sentence": "Looking for tasty, hassle-free seafood meals to add to your menu?.",
-      "timestamp": "2026-03-30T05:07:20Z",
-      "source": "ABC News"
     }
   ]
 }
