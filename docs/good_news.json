@@ -1,6 +1,16 @@
 {
-  "last run": "2026-04-08T00:24:40Z",
+  "last run": "2026-04-08T03:58:56Z",
   "stories": [
+    {
+      "headline": "Republican wins Georgia runoff election to replace Marjorie Taylor Greene",
+      "link": "https://www.theguardian.com/us-news/2026/apr/07/georgia-house-election-runoff",
+      "mean_score": 0.4359,
+      "vader_score": 0.5719,
+      "textblob_score": 0.3,
+      "first_sentence": "Clay Fuller supports the war in Iran.",
+      "timestamp": "2026-04-08T00:42:52Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Squid sightings spawn hope for fast species recovery in South Australia",
       "link": "https://www.abc.net.au/news/2026-04-08/squid-showing-signs-of-recovery-in-sa-restrictions-remain/106539240",
@@ -10,6 +20,16 @@
       "first_sentence": "Southern calamari has been spotted in parts of South Australia where it had vanished.",
       "timestamp": "2026-04-07T23:00:29Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "Arteta admits Arsenal had point to prove after \u2018big moment in season\u2019 with win at Sporting",
+      "link": "https://www.theguardian.com/football/2026/apr/07/mikel-arteta-arsenal-sporting-champions-league",
+      "mean_score": 0.5592,
+      "vader_score": 0.7184,
+      "textblob_score": 0.4,
+      "first_sentence": "Mikel Arteta acknowledged that Arsenal had a point to prove against Sporting after losing their last two matches and believes that Kai Havertz\u2019s late winner could prove to be a \u201cbig moment\u201d in their season.",
+      "timestamp": "2026-04-07T22:43:45Z",
+      "source": "The Guardian"
     },
     {
       "headline": "Claims wild-caught Australian seafood will soon 'only be afforded by the rich'",
@@ -50,6 +70,16 @@
       "first_sentence": "double quotation mark\u201cThis is why you guys come to these games,\u201d Vincent Kompany had said, and here especially.",
       "timestamp": "2026-04-07T21:03:32Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "Troy the parrot home safe after Dublin Airport adventure",
+      "link": "https://www.bbc.com/news/articles/ckg9y5q002ro?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5685,
+      "vader_score": 0.6369,
+      "textblob_score": 0.5,
+      "first_sentence": "A parrot discovered at Dublin Airport has been safely reunited with its owner, thanks to the efforts of airport staff and the public.",
+      "timestamp": "2026-04-07T19:04:33Z",
+      "source": "BBC News"
     },
     {
       "headline": "Women\u2019s Super League academy teams to play in third tier under new FA proposals",
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.33,
       "first_sentence": "In Thologolong, a small mark on the map in the Victorian high country, the sky is clear, the Murray River is up and Australia\u2019s longest manhunt has come to an end.",
       "timestamp": "2026-03-30T19:28:07Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "C\u00e9line Dion announces comeback shows: 'I'm so ready for this'",
-      "link": "https://www.bbc.com/news/articles/c0708dkm2lko?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3505,
-      "vader_score": 0.5009,
-      "textblob_score": 0.2,
-      "first_sentence": "C\u00e9line Dion has announced her return to the stage, four years after she was diagnosed with an incurable condition that affected her singing voice and her ability to walk.",
-      "timestamp": "2026-03-30T19:15:23Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Iran's 'safe passage' signals a new global divide",
-      "link": "https://www.abc.net.au/news/2026-03-31/strait-of-hormuz-iran-russia-india-china-oil-trade/106510800",
-      "mean_score": 0.3263,
-      "vader_score": 0.4404,
-      "textblob_score": 0.2121,
-      "first_sentence": "In early March, a Chinese-owned oil tanker moved through the Strait of Hormuz.",
-      "timestamp": "2026-03-30T18:00:00Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Avi Lewis, elected to lead Canada\u2019s New Democratic party, promises \u2018NDP comeback\u2019",
-      "link": "https://www.theguardian.com/world/2026/mar/30/canada-avi-lewis-elected-new-democratic-party",
-      "mean_score": 0.3925,
-      "vader_score": 0.6486,
-      "textblob_score": 0.1364,
-      "first_sentence": "Canada\u2019s embattled New Democratic party (NDP) has elected the former broadcaster and self-proclaimed socialist Avi Lewis as its new leader, as it looks to rebuild following a devastating federal election last year that saw it lose official party status.",
-      "timestamp": "2026-03-30T17:39:53Z",
       "source": "The Guardian"
     }
   ]

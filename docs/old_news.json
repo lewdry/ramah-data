@@ -1,5 +1,35 @@
 [
   {
+    "headline": "C\u00e9line Dion announces comeback shows: 'I'm so ready for this'",
+    "link": "https://www.bbc.com/news/articles/c0708dkm2lko?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3505,
+    "vader_score": 0.5009,
+    "textblob_score": 0.2,
+    "first_sentence": "C\u00e9line Dion has announced her return to the stage, four years after she was diagnosed with an incurable condition that affected her singing voice and her ability to walk.",
+    "timestamp": "2026-03-30T19:15:23Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Iran's 'safe passage' signals a new global divide",
+    "link": "https://www.abc.net.au/news/2026-03-31/strait-of-hormuz-iran-russia-india-china-oil-trade/106510800",
+    "mean_score": 0.3263,
+    "vader_score": 0.4404,
+    "textblob_score": 0.2121,
+    "first_sentence": "In early March, a Chinese-owned oil tanker moved through the Strait of Hormuz.",
+    "timestamp": "2026-03-30T18:00:00Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Avi Lewis, elected to lead Canada\u2019s New Democratic party, promises \u2018NDP comeback\u2019",
+    "link": "https://www.theguardian.com/world/2026/mar/30/canada-avi-lewis-elected-new-democratic-party",
+    "mean_score": 0.3925,
+    "vader_score": 0.6486,
+    "textblob_score": 0.1364,
+    "first_sentence": "Canada\u2019s embattled New Democratic party (NDP) has elected the former broadcaster and self-proclaimed socialist Avi Lewis as its new leader, as it looks to rebuild following a devastating federal election last year that saw it lose official party status.",
+    "timestamp": "2026-03-30T17:39:53Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Euphoria season three trailer: Everything we know so far",
     "link": "https://www.bbc.com/news/articles/cx23vxkj0zmo?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.3743,
