@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Australian politics live: MP celebrates end to \u2018rip off at the checkout\u2019 as RBA moves to end credit card surcharges by October",
+    "link": "https://www.theguardian.com/australia-news/live/2026/mar/31/australian-politics-live-social-media-ban-cost-of-living-fuel-crisis-excise-inflation-anthony-albanese-jim-chalmers-budget-ntwnfb",
+    "mean_score": 0.4056,
+    "vader_score": 0.743,
+    "textblob_score": 0.0682,
+    "first_sentence": "Labor MP Jerome Laxale has been leading the charge on ending surcharges for card transactions, which has now been removed by the Reserve Bank.",
+    "timestamp": "2026-03-31T00:18:00Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "New bin rules begin in England but not all councils are ready",
+    "link": "https://www.bbc.com/news/articles/cn4vwj0yj20o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3352,
+    "vader_score": 0.5023,
+    "textblob_score": 0.1682,
+    "first_sentence": "New rules requiring weekly food waste collections for all homes in England have come into force, but dozens of councils are still not ready to provide the service.",
+    "timestamp": "2026-03-30T23:41:43Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Fair Work Commission abolishes junior pay rates for young adults",
+    "link": "https://www.abc.net.au/news/2026-03-31/fair-work-comission-junior-pay-rates-retail-fast-food/106514948",
+    "mean_score": 0.3131,
+    "vader_score": 0.2263,
+    "textblob_score": 0.4,
+    "first_sentence": "Young adults working in retail, fast food and pharmacies are set to receive a pay rise, after a decision by the Fair Work Commission described as \"up there with the introduction of equal pay for women in the 1970s\".",
+    "timestamp": "2026-03-30T23:29:17Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Concerns about light and noise from $1b outback energy project resolved",
     "link": "https://www.abc.net.au/news/2026-03-31/hydrostor-energy-stargazing-tourism-business-dispute-resolved/106497838",
     "mean_score": 0.4108,
