@@ -1,6 +1,26 @@
 {
-  "last run": "2026-04-07T21:16:47Z",
+  "last run": "2026-04-08T00:24:40Z",
   "stories": [
+    {
+      "headline": "Squid sightings spawn hope for fast species recovery in South Australia",
+      "link": "https://www.abc.net.au/news/2026-04-08/squid-showing-signs-of-recovery-in-sa-restrictions-remain/106539240",
+      "mean_score": 0.3202,
+      "vader_score": 0.4404,
+      "textblob_score": 0.2,
+      "first_sentence": "Southern calamari has been spotted in parts of South Australia where it had vanished.",
+      "timestamp": "2026-04-07T23:00:29Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Claims wild-caught Australian seafood will soon 'only be afforded by the rich'",
+      "link": "https://www.abc.net.au/news/rural/2026-04-08/australian-wild-caught-seafood-price-rise-predicted/106537802",
+      "mean_score": 0.3412,
+      "vader_score": 0.5574,
+      "textblob_score": 0.125,
+      "first_sentence": "Australian seafood is set to become more expensive unless fuel supplies return to normal.",
+      "timestamp": "2026-04-07T22:02:07Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Will Democratic wins affect plans for Florida redistricting?",
       "link": "https://www.npr.org/2026/04/07/nx-s1-5773367/will-democratic-wins-affect-plans-for-florida-redistricting",
@@ -129,6 +149,16 @@
       "textblob_score": 0.0,
       "first_sentence": "JP Morgan Chase has reached agreement with London City airport to build one of Europe\u2019s tallest office towers in the east of the capital.",
       "timestamp": "2026-04-07T12:47:27Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018Even more beautiful than I imagined\u2019: the nifty Japanese printing gadget uniting artists worldwide",
+      "link": "https://www.theguardian.com/artanddesign/2026/apr/07/nifty-japanese-printing-gadget-risograph-riso-club-gabriella-marcella",
+      "mean_score": 0.617,
+      "vader_score": 0.7841,
+      "textblob_score": 0.45,
+      "first_sentence": "Gabriella Marcella felt something in her brain click when she first used a risograph printer.",
+      "timestamp": "2026-04-07T11:18:12Z",
       "source": "The Guardian"
     },
     {
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.1364,
       "first_sentence": "Canada\u2019s embattled New Democratic party (NDP) has elected the former broadcaster and self-proclaimed socialist Avi Lewis as its new leader, as it looks to rebuild following a devastating federal election last year that saw it lose official party status.",
       "timestamp": "2026-03-30T17:39:53Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Euphoria season three trailer: Everything we know so far",
-      "link": "https://www.bbc.com/news/articles/cx23vxkj0zmo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3743,
-      "vader_score": 0.6486,
-      "textblob_score": 0.1,
-      "first_sentence": "It's been more than four years since the troubled teens of East Highland High School were last on our screens and now the long-awaited show returns on 12 April for a third season.",
-      "timestamp": "2026-03-30T17:38:11Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Reforms must be fair to\u00a0vets and pet owners | Letters",
-      "link": "https://www.theguardian.com/science/2026/mar/30/reforms-must-be-fair-to-vets-and-pet-owners",
-      "mean_score": 0.5091,
-      "vader_score": 0.3182,
-      "textblob_score": 0.7,
-      "first_sentence": "The Competition and Markets Authority report on vet chains is welcome, but your editorial (24 March) does little to clarify things for struggling pet owners.",
-      "timestamp": "2026-03-30T15:40:53Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Welfare for the wealthy or an easy fix? Why free public transport might not be the answer to the fuel crisis",
-      "link": "https://www.theguardian.com/australia-news/2026/mar/31/the-arguments-for-and-against-making-public-transport-free-as-australian-fuel-costs-soar",
-      "mean_score": 0.4454,
-      "vader_score": 0.5574,
-      "textblob_score": 0.3333,
-      "first_sentence": "Victoria and Tasmania are trialling free public transport as a way to drive down demand for petrol.",
-      "timestamp": "2026-03-30T14:00:13Z",
       "source": "The Guardian"
     }
   ]
