@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Concerns about light and noise from $1b outback energy project resolved",
+    "link": "https://www.abc.net.au/news/2026-03-31/hydrostor-energy-stargazing-tourism-business-dispute-resolved/106497838",
+    "mean_score": 0.4108,
+    "vader_score": 0.4215,
+    "textblob_score": 0.4,
+    "first_sentence": "An astronomy business has resolved its dispute with Canadian company Hydrostor over its energy storage project in far-west NSW.",
+    "timestamp": "2026-03-30T21:33:03Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Australia\u2019s most high-profile manhunt ended in a sleepy high country farming community. But how did Dezi Freeman get to Thologolong?",
+    "link": "https://www.theguardian.com/australia-news/2026/mar/31/australias-most-high-profile-manhunt-ended-in-a-sleepy-high-country-farming-community-but-how-did-dezi-freeman-get-to-thologolong-ntwnfb",
+    "mean_score": 0.44,
+    "vader_score": 0.5499,
+    "textblob_score": 0.33,
+    "first_sentence": "In Thologolong, a small mark on the map in the Victorian high country, the sky is clear, the Murray River is up and Australia\u2019s longest manhunt has come to an end.",
+    "timestamp": "2026-03-30T19:28:07Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "C\u00e9line Dion announces comeback shows: 'I'm so ready for this'",
     "link": "https://www.bbc.com/news/articles/c0708dkm2lko?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.3505,
