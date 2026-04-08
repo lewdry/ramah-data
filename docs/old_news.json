@@ -1,5 +1,55 @@
 [
   {
+    "headline": "Schumer had a plan to win back the Senate. But some Democrats aren\u2019t on board",
+    "link": "https://apnews.com/article/senate-democrats-election-schumer-7bdceaee6aa547a5db98a5395cbfcdfe",
+    "mean_score": 0.37,
+    "vader_score": 0.34,
+    "textblob_score": 0.4,
+    "first_sentence": "WASHINGTON (AP) \u2014 Democrats\u2019 hopes of reclaiming the U.S.",
+    "timestamp": "2026-03-31T06:23:04Z",
+    "source": "AP News"
+  },
+  {
+    "headline": "Lomax 'no stranger' to hostile Brisbane if he makes Super Rugby debut",
+    "link": "https://www.abc.net.au/news/2026-03-31/zac-lomax-western-force-lang-park-queensland-reds/106517164",
+    "mean_score": 0.3258,
+    "vader_score": 0.3182,
+    "textblob_score": 0.3333,
+    "first_sentence": "Queensland Reds hooker Matt Faessler says rugby union convert Zac Lomax will be used to a hostile Lang Park if he makes his Super Rugby Pacific debut this weekend.",
+    "timestamp": "2026-03-31T05:17:48Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Hundreds gather to farewell 'Welcome to Country' pioneer",
+    "link": "https://www.abc.net.au/news/2026-03-31/rhoda-roberts-funeral-farewell-bundjalung/106515268",
+    "mean_score": 0.6294,
+    "vader_score": 0.4588,
+    "textblob_score": 0.8,
+    "first_sentence": "The woman who coined the term \"Welcome to Country\" has been remembered as a \"true storyteller\" and inspiration to many at a funeral on Bundjalung Country in northern New South Wales.",
+    "timestamp": "2026-03-31T05:05:09Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "More drilling in North Sea \u2018not the answer\u2019 for UK energy security, say former military leaders",
+    "link": "https://www.theguardian.com/environment/2026/mar/31/drilling-north-sea-not-the-answer-uk-energy-security",
+    "mean_score": 0.3378,
+    "vader_score": 0.5423,
+    "textblob_score": 0.1333,
+    "first_sentence": "More drilling in the North Sea would do nothing to improve the UK\u2019s energy security, former military leaders have said, as a new analysis finds no fossil fuel importer is safe from chokepoints in the global supply chain.",
+    "timestamp": "2026-03-31T05:00:32Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Viktor Orb\u00e1n has the support of both Russia and the US. Here\u2019s why that doesn\u2019t seem to be doing him any good | P\u00e9ter Krek\u00f3",
+    "link": "https://www.theguardian.com/commentisfree/2026/mar/31/viktor-orban-us-russian-support-hungary-iran-war-voters",
+    "mean_score": 0.6904,
+    "vader_score": 0.6808,
+    "textblob_score": 0.7,
+    "first_sentence": "On 3 March, Viktor Orb\u00e1n held a phone conversation with Vladimir Putin.",
+    "timestamp": "2026-03-31T04:00:31Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Sydney brick pit becomes arena in fight to save iconic frog",
     "link": "https://www.abc.net.au/news/2026-03-31/chytrid-vaccinated-bell-frogs-released-sydney-olympic-park/106511634",
     "mean_score": 0.3266,

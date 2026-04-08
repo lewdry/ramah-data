@@ -1,6 +1,56 @@
 {
-  "last run": "2026-04-08T12:19:05Z",
+  "last run": "2026-04-08T15:30:36Z",
   "stories": [
+    {
+      "headline": "New light shed on who benefits most from weight-loss jabs",
+      "link": "https://www.bbc.com/news/articles/cn5317dkqnxo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3636,
+      "vader_score": 0.3818,
+      "textblob_score": 0.3455,
+      "first_sentence": "People who carry variations in two genes linked to appetite and digestion can lose more weight when taking drugs such as Wegovy and Mounjaro to treat obesity, research suggests.",
+      "timestamp": "2026-04-08T15:07:19Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "An irresistible adventure activity for New Zealand visitors? Delivering the mail by boat",
+      "link": "https://www.theguardian.com/travel/2026/apr/08/new-zealand-queen-charlotte-sound-mail-by-boat-cruise",
+      "mean_score": 0.3541,
+      "vader_score": 0.5719,
+      "textblob_score": 0.1364,
+      "first_sentence": "For a travel destination famous for offering the adrenaline rush of extreme sports, from bungee jumping to the parachute drop, it\u2019s an unlikely tourist activity \u2013 but an irresistible one.",
+      "timestamp": "2026-04-08T15:00:46Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "What does the dark side of the moon sound like? Nasa\u2019s sonifications are helping us imagine",
+      "link": "https://www.theguardian.com/music/2026/apr/08/what-does-the-dark-side-of-the-moon-sound-like-nasas-sonifications-are-helping-us-imagine",
+      "mean_score": 0.3484,
+      "vader_score": 0.5719,
+      "textblob_score": 0.125,
+      "first_sentence": "Jaw-dropping dark-siding exploration aside, it\u2019s the mundane details of the Artemis II mission that connect us with the four astronauts slingshotting their way around the moon and back.",
+      "timestamp": "2026-04-08T13:50:46Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Carnival celebrations at a Hungarian retirement home: J\u00e1nos B\u0151dey\u2019s best photograph",
+      "link": "https://www.theguardian.com/artanddesign/2026/apr/08/hungarian-pensioners-carnival-janos-bodeys-best-photograph",
+      "mean_score": 0.8185,
+      "vader_score": 0.6369,
+      "textblob_score": 1.0,
+      "first_sentence": "When I saw these two elderly ladies dressed as bride and groom in a retirement home in P\u00e1ty, near Budapest, my first thought was to wonder why they had chosen those particular costumes.",
+      "timestamp": "2026-04-08T13:26:41Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Euphoria stars hit red carpet at premiere of third - and possibly final - season",
+      "link": "https://www.bbc.com/news/articles/c5yjdr0ljydo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3243,
+      "vader_score": 0.6486,
+      "textblob_score": 0.0,
+      "first_sentence": "TV drama Euphoria has been the launchpad for the careers of some of Hollywood's hottest stars - and they have reunited on the red carpet for the premiere of the show's third and possibly final season.",
+      "timestamp": "2026-04-08T12:24:47Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Two for two? Stella prize winner Evelyn Araluen nominated again for second poetry collection",
       "link": "https://www.theguardian.com/books/2026/apr/08/evelyn-araluen-author-poetry-nominated-stella-prize",
@@ -2450,56 +2500,6 @@
       "first_sentence": "Legal figures are warning a proposed change to New South Wales sentencing laws prohibiting 'good character' evidence goes too far.",
       "timestamp": "2026-03-31T06:36:50Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Schumer had a plan to win back the Senate. But some Democrats aren\u2019t on board",
-      "link": "https://apnews.com/article/senate-democrats-election-schumer-7bdceaee6aa547a5db98a5395cbfcdfe",
-      "mean_score": 0.37,
-      "vader_score": 0.34,
-      "textblob_score": 0.4,
-      "first_sentence": "WASHINGTON (AP) \u2014 Democrats\u2019 hopes of reclaiming the U.S.",
-      "timestamp": "2026-03-31T06:23:04Z",
-      "source": "AP News"
-    },
-    {
-      "headline": "Lomax 'no stranger' to hostile Brisbane if he makes Super Rugby debut",
-      "link": "https://www.abc.net.au/news/2026-03-31/zac-lomax-western-force-lang-park-queensland-reds/106517164",
-      "mean_score": 0.3258,
-      "vader_score": 0.3182,
-      "textblob_score": 0.3333,
-      "first_sentence": "Queensland Reds hooker Matt Faessler says rugby union convert Zac Lomax will be used to a hostile Lang Park if he makes his Super Rugby Pacific debut this weekend.",
-      "timestamp": "2026-03-31T05:17:48Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Hundreds gather to farewell 'Welcome to Country' pioneer",
-      "link": "https://www.abc.net.au/news/2026-03-31/rhoda-roberts-funeral-farewell-bundjalung/106515268",
-      "mean_score": 0.6294,
-      "vader_score": 0.4588,
-      "textblob_score": 0.8,
-      "first_sentence": "The woman who coined the term \"Welcome to Country\" has been remembered as a \"true storyteller\" and inspiration to many at a funeral on Bundjalung Country in northern New South Wales.",
-      "timestamp": "2026-03-31T05:05:09Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "More drilling in North Sea \u2018not the answer\u2019 for UK energy security, say former military leaders",
-      "link": "https://www.theguardian.com/environment/2026/mar/31/drilling-north-sea-not-the-answer-uk-energy-security",
-      "mean_score": 0.3378,
-      "vader_score": 0.5423,
-      "textblob_score": 0.1333,
-      "first_sentence": "More drilling in the North Sea would do nothing to improve the UK\u2019s energy security, former military leaders have said, as a new analysis finds no fossil fuel importer is safe from chokepoints in the global supply chain.",
-      "timestamp": "2026-03-31T05:00:32Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Viktor Orb\u00e1n has the support of both Russia and the US. Here\u2019s why that doesn\u2019t seem to be doing him any good | P\u00e9ter Krek\u00f3",
-      "link": "https://www.theguardian.com/commentisfree/2026/mar/31/viktor-orban-us-russian-support-hungary-iran-war-voters",
-      "mean_score": 0.6904,
-      "vader_score": 0.6808,
-      "textblob_score": 0.7,
-      "first_sentence": "On 3 March, Viktor Orb\u00e1n held a phone conversation with Vladimir Putin.",
-      "timestamp": "2026-03-31T04:00:31Z",
-      "source": "The Guardian"
     }
   ]
 }
