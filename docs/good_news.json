@@ -1,6 +1,36 @@
 {
-  "last run": "2026-04-08T18:26:35Z",
+  "last run": "2026-04-08T21:16:33Z",
   "stories": [
+    {
+      "headline": "Negotiators face huge task to close gaps in rival Iran peace proposals",
+      "link": "https://www.bbc.com/news/articles/cvgkv9y97n0o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5502,
+      "vader_score": 0.7003,
+      "textblob_score": 0.4,
+      "first_sentence": "With minutes before a self-imposed deadline \u2013 and an unprecedented threat to wipe out Iran's \"civilisation\" - US President Donald Trump announced that a two-week ceasefire had been agreed to halt the war.",
+      "timestamp": "2026-04-08T20:26:48Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Egg-laying hens in cages set for better living conditions under new laws",
+      "link": "https://www.abc.net.au/news/2026-04-09/victorian-poultry-standards-update-caged-egg-ban-free-range-eggs/106537458",
+      "mean_score": 0.3793,
+      "vader_score": 0.4404,
+      "textblob_score": 0.3182,
+      "first_sentence": "The Victorian government is introducing new regulations for the care and management of poultry, including changes to chicken cages.",
+      "timestamp": "2026-04-08T19:29:28Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Family still waits to know how their loved one died, one year on",
+      "link": "https://www.abc.net.au/news/2026-04-09/nt-police-urged-to-release-review-into-kumanjayi-white-death/106542476",
+      "mean_score": 0.3886,
+      "vader_score": 0.0772,
+      "textblob_score": 0.7,
+      "first_sentence": "The family of Indigenous man Kumanjayi White has criticised the secrecy around the independent review into his death, which has been handed to NT Police and the DPP but not released publicly.",
+      "timestamp": "2026-04-08T19:28:50Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Paris Saint-Germain v Liverpool: Champions League quarter-final, first leg \u2013 live",
       "link": "https://www.theguardian.com/football/live/2026/apr/08/paris-saint-germain-v-liverpool-champions-league-quarter-final-first-leg-live",
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.0,
       "first_sentence": "Schlanger\u2019s highlight of the holiday was the first night, which they celebrated as a family, allowing him to focus on his children \u2013 engaging them in the story of their ancestors\u2019 liberation from slavery in Egypt more than 3,000 years ago.",
       "timestamp": "2026-03-31T14:00:01Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Smiley Face: finally, a stoner comedy for the girls who get overstimulated at the supermarket",
-      "link": "https://www.theguardian.com/culture/2026/apr/01/smiley-face-stoner-comedy-film",
-      "mean_score": 0.3185,
-      "vader_score": 0.6369,
-      "textblob_score": 0.0,
-      "first_sentence": "It\u2019s hard not to feel a strange sense of kinship with each of the hapless heroines played by Anna Faris.",
-      "timestamp": "2026-03-31T14:00:00Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018It was an exorcism\u2019: how heartbreak, queer rebirth and finding love over Only Connect shaped Wendy Eisenberg\u2019s stunning new album",
-      "link": "https://www.theguardian.com/music/2026/mar/31/it-was-an-exorcism-how-heartbreak-queer-rebirth-and-finding-love-over-only-connect-shaped-wendy-eisenbergs-stunning-new-album",
-      "mean_score": 0.3804,
-      "vader_score": 0.4767,
-      "textblob_score": 0.2841,
-      "first_sentence": "While out on their fevered walk, Eisenberg ran into an old friend.",
-      "timestamp": "2026-03-31T13:00:56Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The Drama review \u2013 Zendaya and Robert Pattinson\u2019s controversial wedding film delivers on its promise",
-      "link": "https://www.theguardian.com/film/2026/mar/31/the-drama-review-zendaya-robert-pattinson-wedding-film",
-      "mean_score": 0.339,
-      "vader_score": 0.128,
-      "textblob_score": 0.55,
-      "first_sentence": "How much of your past should you reveal to your adorable fiance before the big day? Very tricky issues are probably best avoided in the run-up to the ceremony, but can still be recklessly raised by attractively naive young people who assume the worms surely can\u2019t be that big or plentiful \u2013 or difficult to get back into the can.",
-      "timestamp": "2026-03-31T10:00:52Z",
       "source": "The Guardian"
     }
   ]

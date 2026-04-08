@@ -1,11 +1,41 @@
 [
   {
+    "headline": "Smiley Face: finally, a stoner comedy for the girls who get overstimulated at the supermarket",
+    "link": "https://www.theguardian.com/culture/2026/apr/01/smiley-face-stoner-comedy-film",
+    "mean_score": 0.3185,
+    "vader_score": 0.6369,
+    "textblob_score": 0.0,
+    "first_sentence": "It\u2019s hard not to feel a strange sense of kinship with each of the hapless heroines played by Anna Faris.",
+    "timestamp": "2026-03-31T14:00:00Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "\u2018It was an exorcism\u2019: how heartbreak, queer rebirth and finding love over Only Connect shaped Wendy Eisenberg\u2019s stunning new album",
+    "link": "https://www.theguardian.com/music/2026/mar/31/it-was-an-exorcism-how-heartbreak-queer-rebirth-and-finding-love-over-only-connect-shaped-wendy-eisenbergs-stunning-new-album",
+    "mean_score": 0.3804,
+    "vader_score": 0.4767,
+    "textblob_score": 0.2841,
+    "first_sentence": "While out on their fevered walk, Eisenberg ran into an old friend.",
+    "timestamp": "2026-03-31T13:00:56Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Love on the Spectrum proves that we still crave wholesome reality TV",
     "link": "https://www.theguardian.com/tv-and-radio/2026/mar/31/love-on-the-spectrum-netflix",
     "mean_score": 0.5185,
     "vader_score": 0.6369,
     "textblob_score": 0.4,
     "first_sentence": "Logan is one of the new participants on Netflix\u2019s Love on the Spectrum: a series that follows a group of neurodivergent young people as they search for a romantic connection, which returns this week for its fourth season.",
+    "timestamp": "2026-03-31T10:00:52Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "The Drama review \u2013 Zendaya and Robert Pattinson\u2019s controversial wedding film delivers on its promise",
+    "link": "https://www.theguardian.com/film/2026/mar/31/the-drama-review-zendaya-robert-pattinson-wedding-film",
+    "mean_score": 0.339,
+    "vader_score": 0.128,
+    "textblob_score": 0.55,
+    "first_sentence": "How much of your past should you reveal to your adorable fiance before the big day? Very tricky issues are probably best avoided in the run-up to the ceremony, but can still be recklessly raised by attractively naive young people who assume the worms surely can\u2019t be that big or plentiful \u2013 or difficult to get back into the can.",
     "timestamp": "2026-03-31T10:00:52Z",
     "source": "The Guardian"
   },
