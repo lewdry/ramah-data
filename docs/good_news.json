@@ -1,6 +1,46 @@
 {
-  "last run": "2026-04-08T15:30:36Z",
+  "last run": "2026-04-08T18:26:35Z",
   "stories": [
+    {
+      "headline": "Paris Saint-Germain v Liverpool: Champions League quarter-final, first leg \u2013 live",
+      "link": "https://www.theguardian.com/football/live/2026/apr/08/paris-saint-germain-v-liverpool-champions-league-quarter-final-first-leg-live",
+      "mean_score": 0.3599,
+      "vader_score": 0.5267,
+      "textblob_score": 0.1932,
+      "first_sentence": "double quotation markWhile Arsenal were busy Arsenaling their way to a worthy but dull Bigger Cup quarter-final first leg win at Sporting on Tuesday, the players of Real Madrid and Bayern Munich released the collective handbrake and performed many high-speed donuts, wheel spins and Rockfords as a pleasing counterpoint to the careful mirror-signal-manoeuvring on display at Lisbon\u2019s Est\u00e1dio Jos\u00e9 Alvalade.",
+      "timestamp": "2026-04-08T18:16:35Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "British novelist Gwendoline Riley wins a $175k Windham-Campbell prize",
+      "link": "https://www.theguardian.com/books/2026/apr/08/british-novelist-gwendoline-riley-wins-windham-campbell-prize",
+      "mean_score": 0.4703,
+      "vader_score": 0.7906,
+      "textblob_score": 0.15,
+      "first_sentence": "British novelist Gwendoline Riley is among eight writers set to receive $175,000 (\u00a3130,000) each in recognition of their life\u2019s work.",
+      "timestamp": "2026-04-08T18:15:09Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Starmer says UK wants to help with opening Hormuz strait amid closure reports",
+      "link": "https://www.theguardian.com/world/2026/apr/08/keir-starmer-says-it-is-uks-job-to-help-reopen-strait-of-hormuz",
+      "mean_score": 0.3009,
+      "vader_score": 0.4019,
+      "textblob_score": 0.2,
+      "first_sentence": "The UK has a \u201cjob\u201d to help reopen the strait of Hormuz, Keir Starmer has said, as Iranian reports said the key shipping route was closed again just hours after a supposed ceasefire.",
+      "timestamp": "2026-04-08T17:58:27Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Greetings from downtown Cairo, where unpretentious caf\u00e9s are part of centuries-old charm",
+      "link": "https://www.npr.org/2026/04/08/g-s1-116552/cairo-wust-el-balad-sheesha-cafe",
+      "mean_score": 0.3352,
+      "vader_score": 0.6705,
+      "textblob_score": 0.0,
+      "first_sentence": "Far-Flung Postcards is a weekly series in which NPR's international team shares moments from their lives and work around the world.",
+      "timestamp": "2026-04-08T17:58:10Z",
+      "source": "NPR News"
+    },
     {
       "headline": "New light shed on who benefits most from weight-loss jabs",
       "link": "https://www.bbc.com/news/articles/cn5317dkqnxo?at_medium=RSS&at_campaign=rss",
@@ -2460,46 +2500,6 @@
       "first_sentence": "How much of your past should you reveal to your adorable fiance before the big day? Very tricky issues are probably best avoided in the run-up to the ceremony, but can still be recklessly raised by attractively naive young people who assume the worms surely can\u2019t be that big or plentiful \u2013 or difficult to get back into the can.",
       "timestamp": "2026-03-31T10:00:52Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Love on the Spectrum proves that we still crave wholesome reality TV",
-      "link": "https://www.theguardian.com/tv-and-radio/2026/mar/31/love-on-the-spectrum-netflix",
-      "mean_score": 0.5185,
-      "vader_score": 0.6369,
-      "textblob_score": 0.4,
-      "first_sentence": "Logan is one of the new participants on Netflix\u2019s Love on the Spectrum: a series that follows a group of neurodivergent young people as they search for a romantic connection, which returns this week for its fourth season.",
-      "timestamp": "2026-03-31T10:00:52Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Australia v Cura\u00e7ao: Fifa Series men\u2019s international football friendly \u2013 live",
-      "link": "https://www.theguardian.com/football/live/2026/mar/31/australia-v-curacao-fifa-series-mens-international-football-friendly-live",
-      "mean_score": 0.3322,
-      "vader_score": 0.4939,
-      "textblob_score": 0.1705,
-      "first_sentence": "10 mins: Juric darts forward on the left and reaches the edge of the box before he is disposseed.",
-      "timestamp": "2026-03-31T09:17:19Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Jim Chalmers claims removing card surcharges will ease cost-of-living pressures. But will you be better off?",
-      "link": "https://www.theguardian.com/australia-news/2026/mar/31/jim-chalmers-claims-removing-card-surcharges-will-ease-cost-of-living-pressures-but-will-you-be-better-off",
-      "mean_score": 0.553,
-      "vader_score": 0.6059,
-      "textblob_score": 0.5,
-      "first_sentence": "Credit card rewards are likely to fall and businesses could hike their prices when Australia ends debit and credit card surcharges in October.",
-      "timestamp": "2026-03-31T08:16:33Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Legal experts push back on removal of 'good character' evidence in NSW",
-      "link": "https://www.abc.net.au/news/2026-03-31/nsw-government-proposed-removal-good-character-evidence-justice/106517568",
-      "mean_score": 0.4133,
-      "vader_score": 0.5267,
-      "textblob_score": 0.3,
-      "first_sentence": "Legal figures are warning a proposed change to New South Wales sentencing laws prohibiting 'good character' evidence goes too far.",
-      "timestamp": "2026-03-31T06:36:50Z",
-      "source": "ABC News"
     }
   ]
 }

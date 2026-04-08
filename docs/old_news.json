@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Love on the Spectrum proves that we still crave wholesome reality TV",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/mar/31/love-on-the-spectrum-netflix",
+    "mean_score": 0.5185,
+    "vader_score": 0.6369,
+    "textblob_score": 0.4,
+    "first_sentence": "Logan is one of the new participants on Netflix\u2019s Love on the Spectrum: a series that follows a group of neurodivergent young people as they search for a romantic connection, which returns this week for its fourth season.",
+    "timestamp": "2026-03-31T10:00:52Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Australia v Cura\u00e7ao: Fifa Series men\u2019s international football friendly \u2013 live",
+    "link": "https://www.theguardian.com/football/live/2026/mar/31/australia-v-curacao-fifa-series-mens-international-football-friendly-live",
+    "mean_score": 0.3322,
+    "vader_score": 0.4939,
+    "textblob_score": 0.1705,
+    "first_sentence": "10 mins: Juric darts forward on the left and reaches the edge of the box before he is disposseed.",
+    "timestamp": "2026-03-31T09:17:19Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Jim Chalmers claims removing card surcharges will ease cost-of-living pressures. But will you be better off?",
+    "link": "https://www.theguardian.com/australia-news/2026/mar/31/jim-chalmers-claims-removing-card-surcharges-will-ease-cost-of-living-pressures-but-will-you-be-better-off",
+    "mean_score": 0.553,
+    "vader_score": 0.6059,
+    "textblob_score": 0.5,
+    "first_sentence": "Credit card rewards are likely to fall and businesses could hike their prices when Australia ends debit and credit card surcharges in October.",
+    "timestamp": "2026-03-31T08:16:33Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Legal experts push back on removal of 'good character' evidence in NSW",
+    "link": "https://www.abc.net.au/news/2026-03-31/nsw-government-proposed-removal-good-character-evidence-justice/106517568",
+    "mean_score": 0.4133,
+    "vader_score": 0.5267,
+    "textblob_score": 0.3,
+    "first_sentence": "Legal figures are warning a proposed change to New South Wales sentencing laws prohibiting 'good character' evidence goes too far.",
+    "timestamp": "2026-03-31T06:36:50Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Schumer had a plan to win back the Senate. But some Democrats aren\u2019t on board",
     "link": "https://apnews.com/article/senate-democrats-election-schumer-7bdceaee6aa547a5db98a5395cbfcdfe",
     "mean_score": 0.37,
