@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Developer fined for chopping trees plans to clear more for $10m mansion",
+    "link": "https://www.abc.net.au/news/2026-04-01/developer-amir-abu-abara-trees-cut-down-sydney-mansion/106515314",
+    "mean_score": 0.3409,
+    "vader_score": 0.3818,
+    "textblob_score": 0.3,
+    "first_sentence": "Property developer Amir Abu Abara illegally cut down hundreds of native trees to build a $3 million mansion in Sydney.",
+    "timestamp": "2026-03-31T19:08:58Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "This controversial rom-com starring Zendaya is one of the best movies of the year",
+    "link": "https://www.abc.net.au/news/2026-04-01/the-drama-review-robert-pattinson-zendaya/106512184",
+    "mean_score": 0.6508,
+    "vader_score": 0.5267,
+    "textblob_score": 0.775,
+    "first_sentence": "Despite appearances to the contrary, the wildly unpredictable new A24 film The Drama is anything but a traditional romantic comedy, even if it tangles with modern love in darkly funny ways.",
+    "timestamp": "2026-03-31T18:30:00Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "The wellness world is eager for RFK Jr.'s promised move on peptides",
+    "link": "https://www.npr.org/2026/03/31/nx-s1-5768206/peptides-rfk-fda-compounding-pharmacies",
+    "mean_score": 0.3922,
+    "vader_score": 0.7845,
+    "textblob_score": 0.0,
+    "first_sentence": "For the past month, wellness and longevity enthusiasts have eagerly waited for the federal government to loosen restrictions on some of the trendy and unapproved therapies.",
+    "timestamp": "2026-03-31T17:52:49Z",
+    "source": "NPR News"
+  },
+  {
     "headline": "Islanders snap up free bananas after shop orders 38,000 by mistake",
     "link": "https://www.bbc.com/news/articles/crm1kn33wk2o?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.3132,

@@ -1,6 +1,36 @@
 {
-  "last run": "2026-04-09T00:20:09Z",
+  "last run": "2026-04-09T03:57:19Z",
   "stories": [
+    {
+      "headline": "Hundreds more PSOs at Melbourne stations if Liberals win state election",
+      "link": "https://www.abc.net.au/news/2026-04-09/victorian-opposition-promise-200-new-psos-train-stations/106545016",
+      "mean_score": 0.6179,
+      "vader_score": 0.5859,
+      "textblob_score": 0.65,
+      "first_sentence": "The Victorian Opposition is promising to recruit hundreds more protective service officers if it wins the state election in November.",
+      "timestamp": "2026-04-09T03:50:57Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "$10m horse will never race, but owner insists she is worth every cent",
+      "link": "https://www.abc.net.au/news/2026-04-09/10-million-dollar-winx-filly-quinceanera-will-never-race/106544932",
+      "mean_score": 0.3145,
+      "vader_score": 0.3291,
+      "textblob_score": 0.3,
+      "first_sentence": "The first filly out of champion mare Winx sold at auction for a world record $10 million in 2024.",
+      "timestamp": "2026-04-09T03:07:29Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Dan Rath: Help Me Please review \u2013 you won\u2019t find another standup with more jokes a minute",
+      "link": "https://www.theguardian.com/stage/2026/apr/09/dan-rath-help-me-please-review-melbourne-comedy-festival",
+      "mean_score": 0.6213,
+      "vader_score": 0.7425,
+      "textblob_score": 0.5,
+      "first_sentence": "Don\u2019t come to Dan Rath\u2019s new show expecting something coherent.",
+      "timestamp": "2026-04-09T01:01:26Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Comedian Grace Jarvis on most bizarre encounter working in sex shop",
       "link": "https://www.abc.net.au/news/2026-04-09/melbourne-comedy-festival-grace-jarvis-interview/106538880",
@@ -2470,36 +2500,6 @@
       "first_sentence": "Full-time has been called on the Turkey v Kosovo playoff game in Kosovo, with Turkey winning 1-0.",
       "timestamp": "2026-03-31T20:45:30Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Developer fined for chopping trees plans to clear more for $10m mansion",
-      "link": "https://www.abc.net.au/news/2026-04-01/developer-amir-abu-abara-trees-cut-down-sydney-mansion/106515314",
-      "mean_score": 0.3409,
-      "vader_score": 0.3818,
-      "textblob_score": 0.3,
-      "first_sentence": "Property developer Amir Abu Abara illegally cut down hundreds of native trees to build a $3 million mansion in Sydney.",
-      "timestamp": "2026-03-31T19:08:58Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "This controversial rom-com starring Zendaya is one of the best movies of the year",
-      "link": "https://www.abc.net.au/news/2026-04-01/the-drama-review-robert-pattinson-zendaya/106512184",
-      "mean_score": 0.6508,
-      "vader_score": 0.5267,
-      "textblob_score": 0.775,
-      "first_sentence": "Despite appearances to the contrary, the wildly unpredictable new A24 film The Drama is anything but a traditional romantic comedy, even if it tangles with modern love in darkly funny ways.",
-      "timestamp": "2026-03-31T18:30:00Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "The wellness world is eager for RFK Jr.'s promised move on peptides",
-      "link": "https://www.npr.org/2026/03/31/nx-s1-5768206/peptides-rfk-fda-compounding-pharmacies",
-      "mean_score": 0.3922,
-      "vader_score": 0.7845,
-      "textblob_score": 0.0,
-      "first_sentence": "For the past month, wellness and longevity enthusiasts have eagerly waited for the federal government to loosen restrictions on some of the trendy and unapproved therapies.",
-      "timestamp": "2026-03-31T17:52:49Z",
-      "source": "NPR News"
     }
   ]
 }
