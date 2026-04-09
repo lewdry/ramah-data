@@ -1,5 +1,25 @@
 [
   {
+    "headline": "'It's phenomenal!': Excitement in Florida ahead of Artemis launch",
+    "link": "https://www.bbc.com/news/videos/c3w3d9lqg2xo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.5831,
+    "vader_score": 0.5411,
+    "textblob_score": 0.625,
+    "first_sentence": "Nasa is due to send the first crewed mission around the Moon in more than 50 years.",
+    "timestamp": "2026-04-01T06:37:23Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Amsterdam celebrates 25 years since the world\u2019s first same-sex weddings",
+    "link": "https://apnews.com/article/gay-marriage-netherlands-25-anniversary-lgbtq-d96f6f88bd9e2365322a9056017ba8fa",
+    "mean_score": 0.4109,
+    "vader_score": 0.5719,
+    "textblob_score": 0.25,
+    "first_sentence": "AMSTERDAM (AP) \u2014 The Dutch capital marked the 25th anniversary of the world\u2019s first gay marriages with three same-sex couples tying the knot at City Hall early Wednesday.",
+    "timestamp": "2026-04-01T06:23:03Z",
+    "source": "AP News"
+  },
+  {
     "headline": "Arnold carried in jubilant scenes after Iraq qualifies for World Cup",
     "link": "https://www.abc.net.au/news/2026-04-01/graham-arnold-coaches-iraq-to-fifa-world-cup/106522826",
     "mean_score": 0.3062,
