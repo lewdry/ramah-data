@@ -1,6 +1,36 @@
 {
-  "last run": "2026-04-09T15:32:48Z",
+  "last run": "2026-04-09T18:21:49Z",
   "stories": [
+    {
+      "headline": "Whole lotta love for Led Zeppelin star given plaque",
+      "link": "https://www.bbc.com/news/articles/cdxkwlke12wo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4934,
+      "vader_score": 0.6369,
+      "textblob_score": 0.35,
+      "first_sentence": "Led Zeppelin superstar Robert Plant left shoppers dazed and confused when he was spotted crate digging in the world's oldest record store.",
+      "timestamp": "2026-04-09T17:00:53Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Anna Wintour\u2019s Vogue cover is more than a cameo \u2013 it\u2019s a power play",
+      "link": "https://www.theguardian.com/fashion/2026/apr/09/anna-wintours-vogue-cover-is-more-than-a-cameo-its-a-power-play",
+      "mean_score": 0.42,
+      "vader_score": 0.34,
+      "textblob_score": 0.5,
+      "first_sentence": "In the world of magazines, when someone announces they\u2019re leaving a job, their colleagues will traditionally present them with their own personalised mock-up of the magazine\u2019s front cover.",
+      "timestamp": "2026-04-09T16:26:53Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Is space exploration worth the money and effort? | Letters",
+      "link": "https://www.theguardian.com/science/2026/apr/09/is-space-exploration-worth-the-money-and-effort",
+      "mean_score": 0.3608,
+      "vader_score": 0.4215,
+      "textblob_score": 0.3,
+      "first_sentence": "Zoe Williams speaks for many of us when she notes that the US space mission is pointless (Let\u2019s stop going into space.",
+      "timestamp": "2026-04-09T16:11:12Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "I took up the ukulele after a chance celebrity encounter. It\u2019s brought me more happiness than falling in love | Melanie Tait",
       "link": "https://www.theguardian.com/commentisfree/2026/apr/09/ukulele-chance-encounter-happiness",
@@ -2469,36 +2499,6 @@
       "textblob_score": 1.0,
       "first_sentence": "The Guardian\u2019s journalism is independent.",
       "timestamp": "2026-04-01T14:00:06Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "A feud \u2018straight out of Succession\u2019, a rental thriller and an \u2018absolute ripper\u2019: the best Australian books out in April",
-      "link": "https://www.theguardian.com/books/ng-interactive/2026/apr/01/a-feud-straight-out-of-succession-a-rental-thriller-and-an-absolute-ripper-the-best-australian-books-out-in-april",
-      "mean_score": 0.4219,
-      "vader_score": 0.4939,
-      "textblob_score": 0.35,
-      "first_sentence": "In his fourth novel, Steve Toltz \u2013 Booker-shortlisted for A Fraction Of The Whole \u2013 offers an ode to connection despite the odds.",
-      "timestamp": "2026-04-01T14:00:04Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Method Man turns his eyeball inside out: Eddie Otchere\u2019s best photograph",
-      "link": "https://www.theguardian.com/artanddesign/2026/apr/01/method-man-wu-tang-clan-eddie-otcheres-best-photograph",
-      "mean_score": 0.8185,
-      "vader_score": 0.6369,
-      "textblob_score": 1.0,
-      "first_sentence": "I got into photography when I was about 15.",
-      "timestamp": "2026-04-01T14:00:04Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Pot Noodle pizza to Dr Who Darlic bread: this year\u2019s best April fools",
-      "link": "https://www.theguardian.com/media/2026/apr/01/pot-noodle-pizza-liz-truss-nasa-april-fools-2026",
-      "mean_score": 0.625,
-      "vader_score": 0.25,
-      "textblob_score": 1.0,
-      "first_sentence": "The media ecosystem may have changed since the BBC\u2019s spaghetti harvest report in 1957 or the Guardian\u2019s 1977 travel supplement about the island of San Serriffe, but April fool stories are still with us.",
-      "timestamp": "2026-04-01T13:31:16Z",
       "source": "The Guardian"
     }
   ]

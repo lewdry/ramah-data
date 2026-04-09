@@ -1,5 +1,35 @@
 [
   {
+    "headline": "A feud \u2018straight out of Succession\u2019, a rental thriller and an \u2018absolute ripper\u2019: the best Australian books out in April",
+    "link": "https://www.theguardian.com/books/ng-interactive/2026/apr/01/a-feud-straight-out-of-succession-a-rental-thriller-and-an-absolute-ripper-the-best-australian-books-out-in-april",
+    "mean_score": 0.4219,
+    "vader_score": 0.4939,
+    "textblob_score": 0.35,
+    "first_sentence": "In his fourth novel, Steve Toltz \u2013 Booker-shortlisted for A Fraction Of The Whole \u2013 offers an ode to connection despite the odds.",
+    "timestamp": "2026-04-01T14:00:04Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Method Man turns his eyeball inside out: Eddie Otchere\u2019s best photograph",
+    "link": "https://www.theguardian.com/artanddesign/2026/apr/01/method-man-wu-tang-clan-eddie-otcheres-best-photograph",
+    "mean_score": 0.8185,
+    "vader_score": 0.6369,
+    "textblob_score": 1.0,
+    "first_sentence": "I got into photography when I was about 15.",
+    "timestamp": "2026-04-01T14:00:04Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Pot Noodle pizza to Dr Who Darlic bread: this year\u2019s best April fools",
+    "link": "https://www.theguardian.com/media/2026/apr/01/pot-noodle-pizza-liz-truss-nasa-april-fools-2026",
+    "mean_score": 0.625,
+    "vader_score": 0.25,
+    "textblob_score": 1.0,
+    "first_sentence": "The media ecosystem may have changed since the BBC\u2019s spaghetti harvest report in 1957 or the Guardian\u2019s 1977 travel supplement about the island of San Serriffe, but April fool stories are still with us.",
+    "timestamp": "2026-04-01T13:31:16Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Popular restaurant to close after rising costs",
     "link": "https://www.bbc.com/news/articles/cp86d611336o?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.5108,
