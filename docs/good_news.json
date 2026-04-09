@@ -1,6 +1,66 @@
 {
-  "last run": "2026-04-09T03:57:19Z",
+  "last run": "2026-04-09T06:33:17Z",
   "stories": [
+    {
+      "headline": "You Are the F\u00fchrer\u2019s Unrequited Love by Jean-No\u00ebl Orengo review \u2013 Hitler, Speer and beyond",
+      "link": "https://www.theguardian.com/books/2026/apr/09/you-are-the-fuhrers-unrequited-love-by-jean-noel-orengo-review-hitler-speer-and-beyond",
+      "mean_score": 0.5685,
+      "vader_score": 0.6369,
+      "textblob_score": 0.5,
+      "first_sentence": "In April 1975, Simon Wiesenthal, the Holocaust survivor whose efforts to track down Nazi war criminals had earned him the title of\u00a0\u201cNazi hunter\u201d, wrote a letter to Albert Speer, the Nazi war criminal.",
+      "timestamp": "2026-04-09T06:00:24Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Artemis crew returning to Earth with 'all the good stuff' from Moon discoveries",
+      "link": "https://www.bbc.com/news/articles/c70dr45dj1lo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.7,
+      "first_sentence": "The Artemis II crew said they have \"many more pictures\" and \"many more stories\" to share with the world as they prepare to return to Earth.",
+      "timestamp": "2026-04-09T05:57:18Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Artemis II is 'inspiring' a whole generation",
+      "link": "https://www.bbc.com/news/articles/c1mk3lke042o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3857,
+      "vader_score": 0.4215,
+      "textblob_score": 0.35,
+      "first_sentence": "Susan Charlesworth has a rather rare and unique job that involves preparing people for something very few humans have ever expierenced - travelling into space.",
+      "timestamp": "2026-04-09T05:12:44Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Tigers searching for third straight win to end eight-year streak",
+      "link": "https://www.abc.net.au/news/2026-04-09/wests-tigers-nrl-three-wins-in-a-row/106546636",
+      "mean_score": 0.5121,
+      "vader_score": 0.6908,
+      "textblob_score": 0.3333,
+      "first_sentence": "The Wests Tigers themselves might not be talking about it, but every sicko you know of a black, white and gold persuasion certainly is.",
+      "timestamp": "2026-04-09T04:09:15Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "You, Me & Tuscany review \u2013 slick romcom offers solidly charming getaway",
+      "link": "https://www.theguardian.com/film/2026/apr/09/you-me-tuscany-romcom-review",
+      "mean_score": 0.3846,
+      "vader_score": 0.5859,
+      "textblob_score": 0.1833,
+      "first_sentence": "Halle Bailey is Anna, hopelessly navigating life after the death of her mother, torn between the worlds of adult responsibility and inner child whimsy.",
+      "timestamp": "2026-04-09T04:00:23Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018My background cringes me out\u2019: Jack Whitehall on poshness, comedy and his lockdown romance",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/apr/09/my-background-cringes-me-out-jack-whitehall-on-poshness-comedy-and-his-lockdown-romance",
+      "mean_score": 0.3634,
+      "vader_score": 0.7269,
+      "textblob_score": 0.0,
+      "first_sentence": "\u2018After every tour, I hate the sound of my voice,\u2019 the actor and comedian says.",
+      "timestamp": "2026-04-09T04:00:22Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Hundreds more PSOs at Melbourne stations if Liberals win state election",
       "link": "https://www.abc.net.au/news/2026-04-09/victorian-opposition-promise-200-new-psos-train-stations/106545016",
@@ -2440,66 +2500,6 @@
       "first_sentence": "Ahead of winning the state election, Labor promised to abolish fees for public schools.",
       "timestamp": "2026-04-01T01:17:27Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Billion-plus people, three million officials, 33 questions - India begins huge census",
-      "link": "https://www.bbc.com/news/articles/c7vqnpqrgy3o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3591,
-      "vader_score": 0.3182,
-      "textblob_score": 0.4,
-      "first_sentence": "What is your main cereal? Do you have internet access - or just a basic mobile phone? And how many married couples live under your roof?.",
-      "timestamp": "2026-04-01T00:11:33Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "'It's going to be a great show': Crowds gather for countdown to Nasa\u2019s Artemis launch",
-      "link": "https://www.bbc.com/news/articles/cz0e1myvl2ko?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.7125,
-      "vader_score": 0.6249,
-      "textblob_score": 0.8,
-      "first_sentence": "\"People going up to the Moon is kind of cool,\" eight-year-old Isiah says.",
-      "timestamp": "2026-04-01T00:00:18Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "How English-only condolences undid one of Canada's top CEOs",
-      "link": "https://www.bbc.com/news/articles/cyv1q9gz39do?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3512,
-      "vader_score": 0.2023,
-      "textblob_score": 0.5,
-      "first_sentence": "A fatal collision at LaGuardia Airport last week marked the start of a difficult period for Air Canada, culminating on Monday with its CEO announcing he will soon retire.",
-      "timestamp": "2026-03-31T23:46:22Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "England 0-1 Japan: men\u2019s international football friendly \u2013 live",
-      "link": "https://www.theguardian.com/football/live/2026/mar/31/england-v-japan-mens-international-football-friendly-live",
-      "mean_score": 0.3322,
-      "vader_score": 0.4939,
-      "textblob_score": 0.1705,
-      "first_sentence": "And here\u2019s David Hytner\u2019s report from Wembley, with which I bid you farewell.",
-      "timestamp": "2026-03-31T21:05:59Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Bluey's lead composer on helping kids fall in love with music",
-      "link": "https://www.abc.net.au/news/2026-04-01/classical-music-and-new-bluey-album-with-lead-composer-joff-bush/106517772",
-      "mean_score": 0.6253,
-      "vader_score": 0.7506,
-      "textblob_score": 0.5,
-      "first_sentence": "Even if you don\u2019t have little ones in your life, there\u2019s a very good chance you can sing the theme of the hit children\u2019s series Bluey.",
-      "timestamp": "2026-03-31T21:00:00Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "USMNT v Portugal live \u2013 Updates and analysis from international friendly",
-      "link": "https://www.theguardian.com/football/live/2026/mar/31/usmnt-portugal-live-updates-analysis",
-      "mean_score": 0.3322,
-      "vader_score": 0.4939,
-      "textblob_score": 0.1705,
-      "first_sentence": "Full-time has been called on the Turkey v Kosovo playoff game in Kosovo, with Turkey winning 1-0.",
-      "timestamp": "2026-03-31T20:45:30Z",
-      "source": "The Guardian"
     }
   ]
 }

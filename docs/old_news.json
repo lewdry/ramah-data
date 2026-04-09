@@ -1,5 +1,65 @@
 [
   {
+    "headline": "Billion-plus people, three million officials, 33 questions - India begins huge census",
+    "link": "https://www.bbc.com/news/articles/c7vqnpqrgy3o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3591,
+    "vader_score": 0.3182,
+    "textblob_score": 0.4,
+    "first_sentence": "What is your main cereal? Do you have internet access - or just a basic mobile phone? And how many married couples live under your roof?.",
+    "timestamp": "2026-04-01T00:11:33Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "'It's going to be a great show': Crowds gather for countdown to Nasa\u2019s Artemis launch",
+    "link": "https://www.bbc.com/news/articles/cz0e1myvl2ko?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.7125,
+    "vader_score": 0.6249,
+    "textblob_score": 0.8,
+    "first_sentence": "\"People going up to the Moon is kind of cool,\" eight-year-old Isiah says.",
+    "timestamp": "2026-04-01T00:00:18Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "How English-only condolences undid one of Canada's top CEOs",
+    "link": "https://www.bbc.com/news/articles/cyv1q9gz39do?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3512,
+    "vader_score": 0.2023,
+    "textblob_score": 0.5,
+    "first_sentence": "A fatal collision at LaGuardia Airport last week marked the start of a difficult period for Air Canada, culminating on Monday with its CEO announcing he will soon retire.",
+    "timestamp": "2026-03-31T23:46:22Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "England 0-1 Japan: men\u2019s international football friendly \u2013 live",
+    "link": "https://www.theguardian.com/football/live/2026/mar/31/england-v-japan-mens-international-football-friendly-live",
+    "mean_score": 0.3322,
+    "vader_score": 0.4939,
+    "textblob_score": 0.1705,
+    "first_sentence": "And here\u2019s David Hytner\u2019s report from Wembley, with which I bid you farewell.",
+    "timestamp": "2026-03-31T21:05:59Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Bluey's lead composer on helping kids fall in love with music",
+    "link": "https://www.abc.net.au/news/2026-04-01/classical-music-and-new-bluey-album-with-lead-composer-joff-bush/106517772",
+    "mean_score": 0.6253,
+    "vader_score": 0.7506,
+    "textblob_score": 0.5,
+    "first_sentence": "Even if you don\u2019t have little ones in your life, there\u2019s a very good chance you can sing the theme of the hit children\u2019s series Bluey.",
+    "timestamp": "2026-03-31T21:00:00Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "USMNT v Portugal live \u2013 Updates and analysis from international friendly",
+    "link": "https://www.theguardian.com/football/live/2026/mar/31/usmnt-portugal-live-updates-analysis",
+    "mean_score": 0.3322,
+    "vader_score": 0.4939,
+    "textblob_score": 0.1705,
+    "first_sentence": "Full-time has been called on the Turkey v Kosovo playoff game in Kosovo, with Turkey winning 1-0.",
+    "timestamp": "2026-03-31T20:45:30Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Developer fined for chopping trees plans to clear more for $10m mansion",
     "link": "https://www.abc.net.au/news/2026-04-01/developer-amir-abu-abara-trees-cut-down-sydney-mansion/106515314",
     "mean_score": 0.3409,
