@@ -1,6 +1,46 @@
 {
-  "last run": "2026-04-08T21:16:33Z",
+  "last run": "2026-04-09T00:20:09Z",
   "stories": [
+    {
+      "headline": "Comedian Grace Jarvis on most bizarre encounter working in sex shop",
+      "link": "https://www.abc.net.au/news/2026-04-09/melbourne-comedy-festival-grace-jarvis-interview/106538880",
+      "mean_score": 0.4364,
+      "vader_score": 0.4228,
+      "textblob_score": 0.45,
+      "first_sentence": "But look a little closer, and you'll see why Rolling Stone last year dubbed this rising Queensland comic a must-see at the Edinburgh Fringe Festival.",
+      "timestamp": "2026-04-08T23:07:44Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Early season brilliance puts Gawn on track for record All-Australian nod",
+      "link": "https://www.abc.net.au/news/2026-04-09/rolling-afl-all-australian-team-volume-1-gawn-approaches-record/106539016",
+      "mean_score": 0.3497,
+      "vader_score": 0.5994,
+      "textblob_score": 0.1,
+      "first_sentence": "The first month of the 2026 AFL season has come and gone, and the ladder is finally beginning to take shape.",
+      "timestamp": "2026-04-08T23:07:27Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Barcelona on the brink after red card and Alvarez stunner sparks Atl\u00e9tico win",
+      "link": "https://www.theguardian.com/football/2026/apr/08/barcelona-atletico-madrid-champions-league-quarter-final-first-leg",
+      "mean_score": 0.4929,
+      "vader_score": 0.5859,
+      "textblob_score": 0.4,
+      "first_sentence": "When the final whistle went, the man in black disappeared out of sight and set off running up the tunnel.",
+      "timestamp": "2026-04-08T21:30:16Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "'It's all good': Child sex offender allowed to stay in Australia after visa reinstated",
+      "link": "https://www.abc.net.au/news/2026-04-09/uk-man-who-molested-girl-has-visa-reinstated-amid-ill-health/106541934",
+      "mean_score": 0.4013,
+      "vader_score": 0.1027,
+      "textblob_score": 0.7,
+      "first_sentence": "A British man who sexually abused a nine-year-old girl has had his Australian permanent visa reinstated by a tribunal, after it was automatically cancelled following his conviction.",
+      "timestamp": "2026-04-08T21:13:23Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Negotiators face huge task to close gaps in rival Iran peace proposals",
       "link": "https://www.bbc.com/news/articles/cvgkv9y97n0o?at_medium=RSS&at_campaign=rss",
@@ -89,6 +129,16 @@
       "textblob_score": 0.1364,
       "first_sentence": "For a travel destination famous for offering the adrenaline rush of extreme sports, from bungee jumping to the parachute drop, it\u2019s an unlikely tourist activity \u2013 but an irresistible one.",
       "timestamp": "2026-04-08T15:00:46Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Are OnlyFans models the best way to explain the climate crisis?",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/apr/08/are-onlyfans-models-the-best-way-to-explain-the-climate-crisis",
+      "mean_score": 0.5129,
+      "vader_score": 0.0258,
+      "textblob_score": 1.0,
+      "first_sentence": "Actor Megan Prescott has joined with Adam McKay in the hope that showing bite-size web videos of women undressing will persuade us to save the world.",
+      "timestamp": "2026-04-08T14:35:49Z",
       "source": "The Guardian"
     },
     {
@@ -2450,56 +2500,6 @@
       "first_sentence": "For the past month, wellness and longevity enthusiasts have eagerly waited for the federal government to loosen restrictions on some of the trendy and unapproved therapies.",
       "timestamp": "2026-03-31T17:52:49Z",
       "source": "NPR News"
-    },
-    {
-      "headline": "Islanders snap up free bananas after shop orders 38,000 by mistake",
-      "link": "https://www.bbc.com/news/articles/crm1kn33wk2o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3132,
-      "vader_score": 0.2263,
-      "textblob_score": 0.4,
-      "first_sentence": "A supermarket in Orkney has given away about 38,000 bananas - almost double the entire population of the islands - in just three days after accidentally ordering them.",
-      "timestamp": "2026-03-31T16:10:45Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "\u2018Money! Glamour! Yachts! But not for me!\u2019 Adrian Searle relives 30 glorious years as our chief art critic",
-      "link": "https://www.theguardian.com/artanddesign/2026/mar/31/money-glamour-yachts-adrian-searle-30-glorious-years-guardian-chief-art-critic",
-      "mean_score": 0.4093,
-      "vader_score": 0.8185,
-      "textblob_score": 0.0,
-      "first_sentence": "After writing about art at the Guardian for 30 years, I have been asked by my editor to reflect on what I have learned.",
-      "timestamp": "2026-03-31T15:13:06Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "What's the best cabin layout for aircraft evacuation?",
-      "link": "https://arstechnica.com/science/2026/03/whats-the-best-cabin-layout-for-aircraft-evacuation/",
-      "mean_score": 0.8185,
-      "vader_score": 0.6369,
-      "textblob_score": 1.0,
-      "first_sentence": "The key is to evenly distribute elderly passengers, who move more slowly, among the aircraft cabins.",
-      "timestamp": "2026-03-31T15:00:57Z",
-      "source": "Ars Technica"
-    },
-    {
-      "headline": "\u2018A good little hack for giant yorkies\u2019: top chefs on everything you need to make the perfect roast",
-      "link": "https://www.theguardian.com/thefilter/2026/mar/31/chefs-everything-you-need-perfect-roast",
-      "mean_score": 0.6076,
-      "vader_score": 0.8126,
-      "textblob_score": 0.4025,
-      "first_sentence": "The Guardian\u2019s journalism is independent.",
-      "timestamp": "2026-03-31T14:00:03Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "As Bondi\u2019s Jewish community celebrates Passover, freedom and fear are front of mind",
-      "link": "https://www.theguardian.com/australia-news/2026/apr/01/bondi-jewish-community-passover-freedom-fear-ntwnfb",
-      "mean_score": 0.3454,
-      "vader_score": 0.6908,
-      "textblob_score": 0.0,
-      "first_sentence": "Schlanger\u2019s highlight of the holiday was the first night, which they celebrated as a family, allowing him to focus on his children \u2013 engaging them in the story of their ancestors\u2019 liberation from slavery in Egypt more than 3,000 years ago.",
-      "timestamp": "2026-03-31T14:00:01Z",
-      "source": "The Guardian"
     }
   ]
 }

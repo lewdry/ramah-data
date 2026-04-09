@@ -1,5 +1,55 @@
 [
   {
+    "headline": "Islanders snap up free bananas after shop orders 38,000 by mistake",
+    "link": "https://www.bbc.com/news/articles/crm1kn33wk2o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3132,
+    "vader_score": 0.2263,
+    "textblob_score": 0.4,
+    "first_sentence": "A supermarket in Orkney has given away about 38,000 bananas - almost double the entire population of the islands - in just three days after accidentally ordering them.",
+    "timestamp": "2026-03-31T16:10:45Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "\u2018Money! Glamour! Yachts! But not for me!\u2019 Adrian Searle relives 30 glorious years as our chief art critic",
+    "link": "https://www.theguardian.com/artanddesign/2026/mar/31/money-glamour-yachts-adrian-searle-30-glorious-years-guardian-chief-art-critic",
+    "mean_score": 0.4093,
+    "vader_score": 0.8185,
+    "textblob_score": 0.0,
+    "first_sentence": "After writing about art at the Guardian for 30 years, I have been asked by my editor to reflect on what I have learned.",
+    "timestamp": "2026-03-31T15:13:06Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "What's the best cabin layout for aircraft evacuation?",
+    "link": "https://arstechnica.com/science/2026/03/whats-the-best-cabin-layout-for-aircraft-evacuation/",
+    "mean_score": 0.8185,
+    "vader_score": 0.6369,
+    "textblob_score": 1.0,
+    "first_sentence": "The key is to evenly distribute elderly passengers, who move more slowly, among the aircraft cabins.",
+    "timestamp": "2026-03-31T15:00:57Z",
+    "source": "Ars Technica"
+  },
+  {
+    "headline": "\u2018A good little hack for giant yorkies\u2019: top chefs on everything you need to make the perfect roast",
+    "link": "https://www.theguardian.com/thefilter/2026/mar/31/chefs-everything-you-need-perfect-roast",
+    "mean_score": 0.6076,
+    "vader_score": 0.8126,
+    "textblob_score": 0.4025,
+    "first_sentence": "The Guardian\u2019s journalism is independent.",
+    "timestamp": "2026-03-31T14:00:03Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "As Bondi\u2019s Jewish community celebrates Passover, freedom and fear are front of mind",
+    "link": "https://www.theguardian.com/australia-news/2026/apr/01/bondi-jewish-community-passover-freedom-fear-ntwnfb",
+    "mean_score": 0.3454,
+    "vader_score": 0.6908,
+    "textblob_score": 0.0,
+    "first_sentence": "Schlanger\u2019s highlight of the holiday was the first night, which they celebrated as a family, allowing him to focus on his children \u2013 engaging them in the story of their ancestors\u2019 liberation from slavery in Egypt more than 3,000 years ago.",
+    "timestamp": "2026-03-31T14:00:01Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Smiley Face: finally, a stoner comedy for the girls who get overstimulated at the supermarket",
     "link": "https://www.theguardian.com/culture/2026/apr/01/smiley-face-stoner-comedy-film",
     "mean_score": 0.3185,
