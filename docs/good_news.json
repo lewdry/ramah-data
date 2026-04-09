@@ -1,6 +1,36 @@
 {
-  "last run": "2026-04-09T18:21:49Z",
+  "last run": "2026-04-09T21:16:07Z",
   "stories": [
+    {
+      "headline": "US agency proposes rolling back rules for safe disposal of toxic coal ash",
+      "link": "https://www.theguardian.com/us-news/2026/apr/09/epa-toxic-coal-ash-rollback-trump",
+      "mean_score": 0.3452,
+      "vader_score": 0.4404,
+      "textblob_score": 0.25,
+      "first_sentence": "The Environmental Protection Agency on Thursday proposed weakened rules governing the safe disposal of ash produced by burning coal.",
+      "timestamp": "2026-04-09T20:28:28Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Super members blindsided by change in fund terms and conditions",
+      "link": "https://www.abc.net.au/news/2026-04-10/telstra-super-direct-access-product-closure-affects-customers/106402002",
+      "mean_score": 0.4664,
+      "vader_score": 0.5994,
+      "textblob_score": 0.3333,
+      "first_sentence": "TelstraSuper (which operates independently of the telecommunication provider) has closed down its Direct Access investment product without properly notifying members.",
+      "timestamp": "2026-04-09T18:46:07Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "How one of the world's best ballet dancers ended up in Australia",
+      "link": "https://www.abc.net.au/news/2026-04-10/david-hallberg-virginia-trioli-creative-types/106527122",
+      "mean_score": 0.8185,
+      "vader_score": 0.6369,
+      "textblob_score": 1.0,
+      "first_sentence": "When I asked ballet dancer David Hallberg during an interview a few years ago to name the one thing people wouldn't know about him, the man described as the 'Nureyev of his generation' gave a secret smile.",
+      "timestamp": "2026-04-09T18:30:00Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Whole lotta love for Led Zeppelin star given plaque",
       "link": "https://www.bbc.com/news/articles/cdxkwlke12wo?at_medium=RSS&at_campaign=rss",
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.1364,
       "first_sentence": "Meanwhile, French president Emmanuel Macron praised Europe\u2019s \u201cpredictability\u201d during a visit to Japan, contrasting it with countries that \u201ccould hurt you without even informing you\u201d in an apparent swipe at Donald Trump, AFP reported.",
       "timestamp": "2026-04-01T15:14:51Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Apple at 50 quiz: top sellers, turkeys and turtlenecks",
-      "link": "https://www.theguardian.com/technology/2026/apr/01/apple-at-50-quiz",
-      "mean_score": 0.3512,
-      "vader_score": 0.2023,
-      "textblob_score": 0.5,
-      "first_sentence": "How much do you know about the history of one of the most powerful computing companies on the planet?.",
-      "timestamp": "2026-04-01T14:46:30Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "A truckload of F1 KitKats, a painting of fish: what is it that makes heists so delicious? | Imogen West-Knights",
-      "link": "https://www.theguardian.com/commentisfree/2026/apr/01/kitkat-heists-paintings-art-gallery-theft",
-      "mean_score": 0.8474,
-      "vader_score": 0.6948,
-      "textblob_score": 1.0,
-      "first_sentence": "Now, let me begin by saying: stealing is bad.",
-      "timestamp": "2026-04-01T14:43:31Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "How to wear a quarter-zip jumper without looking like a finance bro (and 14 of the best)",
-      "link": "https://www.theguardian.com/thefilter/2026/apr/01/best-quarter-zip-jumper-men-uk",
-      "mean_score": 0.7374,
-      "vader_score": 0.4749,
-      "textblob_score": 1.0,
-      "first_sentence": "The Guardian\u2019s journalism is independent.",
-      "timestamp": "2026-04-01T14:00:06Z",
       "source": "The Guardian"
     }
   ]
