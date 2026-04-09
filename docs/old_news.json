@@ -1,5 +1,85 @@
 [
   {
+    "headline": "Popular restaurant to close after rising costs",
+    "link": "https://www.bbc.com/news/articles/cp86d611336o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.5108,
+    "vader_score": 0.4215,
+    "textblob_score": 0.6,
+    "first_sentence": "As the Magic Wingdom in Leamington Spa closes for the last time this Easter weekend, the co-owner says rising costs, government policy and the cost of living are behind their decision to shut the doors.",
+    "timestamp": "2026-04-01T13:29:47Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "From 14-hour shifts to lottery win for former Tata Steel workers",
+    "link": "https://www.bbc.com/news/articles/c8x7gy4l1vro?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4929,
+    "vader_score": 0.5859,
+    "textblob_score": 0.4,
+    "first_sentence": "Former Tata Steel workers in south Wales are celebrating after winning a \u00a31m lottery jackpot.",
+    "timestamp": "2026-04-01T12:53:01Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "DR Congo declares national holiday after reaching World Cup for first time in 52 years",
+    "link": "https://www.bbc.com/news/articles/cm296yv05eeo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3962,
+    "vader_score": 0.5423,
+    "textblob_score": 0.25,
+    "first_sentence": "Authorities in the Democratic Republic Congo have declared Wednesday a public holiday after the national football team qualified for their first World Cup in 52 years.",
+    "timestamp": "2026-04-01T11:46:50Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Bland or fan love letter? The Super Mario Galaxy Movie draws mixed reaction",
+    "link": "https://www.bbc.com/news/articles/cpvxky2jx79o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.5263,
+    "vader_score": 0.886,
+    "textblob_score": 0.1667,
+    "first_sentence": "The most famous plumber in the world returns to cinemas this week with a sequel to the mega-successful Super Mario Brothers Movie.",
+    "timestamp": "2026-04-01T11:43:32Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Yes, the rich must start paying their fair share of taxes | Bernie Sanders",
+    "link": "https://www.theguardian.com/commentisfree/2026/apr/01/billionaire-wealth-tax-trump",
+    "mean_score": 0.7032,
+    "vader_score": 0.8689,
+    "textblob_score": 0.5375,
+    "first_sentence": "Never before in American history have so few had so much wealth and power.",
+    "timestamp": "2026-04-01T10:00:24Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Sali Hughes on beauty: new foundation launches come with a lot of hype. Do they deserve it?",
+    "link": "https://www.theguardian.com/fashion/2026/apr/01/sali-hughes-on-beauty-new-foundation-launches",
+    "mean_score": 0.3611,
+    "vader_score": 0.5859,
+    "textblob_score": 0.1364,
+    "first_sentence": "The Guardian\u2019s journalism is independent.",
+    "timestamp": "2026-04-01T09:00:22Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Watch Carol Kirkwood's emotional goodbye and funniest moments as she leaves the BBC after 28 years",
+    "link": "https://www.bbc.com/news/videos/cp38qjvl7d5o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3185,
+    "vader_score": 0.6369,
+    "textblob_score": 0.0,
+    "first_sentence": "Weather presenter Carol Kirkwood is officially leaving the BBC as she puts in her final shift on BBC Breakfast.",
+    "timestamp": "2026-04-01T08:30:03Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Under Water by Tara Menon review \u2013 love, loss and a longing for the ocean",
+    "link": "https://www.theguardian.com/books/2026/apr/01/under-water-by-tara-menon-review-love-loss-and-a-longing-for-the-ocean",
+    "mean_score": 0.4607,
+    "vader_score": 0.4215,
+    "textblob_score": 0.5,
+    "first_sentence": "The underlying themes of this debut novel could hardly be more relevant.",
+    "timestamp": "2026-04-01T08:00:42Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "'It's phenomenal!': Excitement in Florida ahead of Artemis launch",
     "link": "https://www.bbc.com/news/videos/c3w3d9lqg2xo?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.5831,
