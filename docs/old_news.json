@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Arnold carried in jubilant scenes after Iraq qualifies for World Cup",
+    "link": "https://www.abc.net.au/news/2026-04-01/graham-arnold-coaches-iraq-to-fifa-world-cup/106522826",
+    "mean_score": 0.3062,
+    "vader_score": 0.6124,
+    "textblob_score": 0.0,
+    "first_sentence": "Iraq is the final nation to secure a spot in this year's FIFA World Cup with a 2-1 win over Bolivia.",
+    "timestamp": "2026-04-01T05:27:47Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "'Afro hair care workshops are about more than styling, they're about belonging'",
+    "link": "https://www.bbc.com/news/articles/c2lryn2xvd0o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.497,
+    "vader_score": 0.4939,
+    "textblob_score": 0.5,
+    "first_sentence": "Growing up as a teenager of mixed heritage in Wrexham in the 1990s, Natalie Edwards remembers struggling to find services or understanding of how to care for her afro hair.",
+    "timestamp": "2026-04-01T05:13:48Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "'A region rich in culture': Eurovision to launch inaugural Asia edition",
+    "link": "https://www.sbs.com.au/news/article/eurovision-launches-inaugural-asia-edition-in-bangkok/6iqvy3io3",
+    "mean_score": 0.4662,
+    "vader_score": 0.5574,
+    "textblob_score": 0.375,
+    "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+    "timestamp": "2026-04-01T01:34:24Z",
+    "source": "SBS News"
+  },
+  {
+    "headline": "SA primary school principals' association query free public school policy",
+    "link": "https://www.abc.net.au/news/2026-04-01/questions-over-free-public-school-policy-sa/106519710",
+    "mean_score": 0.3886,
+    "vader_score": 0.5106,
+    "textblob_score": 0.2667,
+    "first_sentence": "Ahead of winning the state election, Labor promised to abolish fees for public schools.",
+    "timestamp": "2026-04-01T01:17:27Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Billion-plus people, three million officials, 33 questions - India begins huge census",
     "link": "https://www.bbc.com/news/articles/c7vqnpqrgy3o?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.3591,

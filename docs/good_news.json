@@ -1,6 +1,36 @@
 {
-  "last run": "2026-04-09T06:33:17Z",
+  "last run": "2026-04-09T09:28:54Z",
   "stories": [
+    {
+      "headline": "Live: Festival of footy kicks off with Crows\u2013Blues sellout in Adelaide",
+      "link": "https://www.abc.net.au/news/2026-04-09/afl-thursday-crows-blues-blog/106542620",
+      "mean_score": 0.3151,
+      "vader_score": 0.4939,
+      "textblob_score": 0.1364,
+      "first_sentence": "The fourth edition of AFL's Gather Round gets underway with the Adelaide Crows hosting Carlton at a packed Adelaide Oval.",
+      "timestamp": "2026-04-09T08:46:40Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Big Mistakes review \u2013 Schitt\u2019s Creek creator Dan Levy excels in new cringe comedy",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/apr/09/big-mistakes-review-dan-levy-netflix",
+      "mean_score": 0.3052,
+      "vader_score": 0.5423,
+      "textblob_score": 0.0682,
+      "first_sentence": "There are, broadly speaking, two types of television shows: the ones that make stars and the ones made by stars.",
+      "timestamp": "2026-04-09T07:01:25Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Beloved Queensland pub faces demolition for resort-style development",
+      "link": "https://www.abc.net.au/news/2026-04-09/north-queensland-eimeo-hotel-facing-demolition-for-development/106546784",
+      "mean_score": 0.6053,
+      "vader_score": 0.5106,
+      "textblob_score": 0.7,
+      "first_sentence": "A historic pub in Mackay will be demolished if an application for a resort-style development on the site is approved.",
+      "timestamp": "2026-04-09T06:42:09Z",
+      "source": "ABC News"
+    },
     {
       "headline": "You Are the F\u00fchrer\u2019s Unrequited Love by Jean-No\u00ebl Orengo review \u2013 Hitler, Speer and beyond",
       "link": "https://www.theguardian.com/books/2026/apr/09/you-are-the-fuhrers-unrequited-love-by-jean-noel-orengo-review-hitler-speer-and-beyond",
@@ -19,6 +49,16 @@
       "textblob_score": 0.7,
       "first_sentence": "The Artemis II crew said they have \"many more pictures\" and \"many more stories\" to share with the world as they prepare to return to Earth.",
       "timestamp": "2026-04-09T05:57:18Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "'Growing up with deaf parents inspired my new comedy show'",
+      "link": "https://www.bbc.com/news/articles/cwyk7g904xyo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4435,
+      "vader_score": 0.7506,
+      "textblob_score": 0.1364,
+      "first_sentence": "When Ray Bradshaw was growing up, he never thought there was anything unusual about the fact he could hear while his parents were deaf.",
+      "timestamp": "2026-04-09T05:14:36Z",
       "source": "BBC News"
     },
     {
@@ -2460,46 +2500,6 @@
       "first_sentence": "AMSTERDAM (AP) \u2014 The Dutch capital marked the 25th anniversary of the world\u2019s first gay marriages with three same-sex couples tying the knot at City Hall early Wednesday.",
       "timestamp": "2026-04-01T06:23:03Z",
       "source": "AP News"
-    },
-    {
-      "headline": "Arnold carried in jubilant scenes after Iraq qualifies for World Cup",
-      "link": "https://www.abc.net.au/news/2026-04-01/graham-arnold-coaches-iraq-to-fifa-world-cup/106522826",
-      "mean_score": 0.3062,
-      "vader_score": 0.6124,
-      "textblob_score": 0.0,
-      "first_sentence": "Iraq is the final nation to secure a spot in this year's FIFA World Cup with a 2-1 win over Bolivia.",
-      "timestamp": "2026-04-01T05:27:47Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "'Afro hair care workshops are about more than styling, they're about belonging'",
-      "link": "https://www.bbc.com/news/articles/c2lryn2xvd0o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.497,
-      "vader_score": 0.4939,
-      "textblob_score": 0.5,
-      "first_sentence": "Growing up as a teenager of mixed heritage in Wrexham in the 1990s, Natalie Edwards remembers struggling to find services or understanding of how to care for her afro hair.",
-      "timestamp": "2026-04-01T05:13:48Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "'A region rich in culture': Eurovision to launch inaugural Asia edition",
-      "link": "https://www.sbs.com.au/news/article/eurovision-launches-inaugural-asia-edition-in-bangkok/6iqvy3io3",
-      "mean_score": 0.4662,
-      "vader_score": 0.5574,
-      "textblob_score": 0.375,
-      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-      "timestamp": "2026-04-01T01:34:24Z",
-      "source": "SBS News"
-    },
-    {
-      "headline": "SA primary school principals' association query free public school policy",
-      "link": "https://www.abc.net.au/news/2026-04-01/questions-over-free-public-school-policy-sa/106519710",
-      "mean_score": 0.3886,
-      "vader_score": 0.5106,
-      "textblob_score": 0.2667,
-      "first_sentence": "Ahead of winning the state election, Labor promised to abolish fees for public schools.",
-      "timestamp": "2026-04-01T01:17:27Z",
-      "source": "ABC News"
     }
   ]
 }
