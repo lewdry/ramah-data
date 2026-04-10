@@ -1,6 +1,26 @@
 {
-  "last run": "2026-04-10T18:17:20Z",
+  "last run": "2026-04-10T21:11:43Z",
   "stories": [
+    {
+      "headline": "Great at gaming? US air traffic control wants you to apply",
+      "link": "https://www.bbc.com/news/articles/ce84rvx0e6do?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5625,
+      "vader_score": 0.6249,
+      "textblob_score": 0.5,
+      "first_sentence": "People adept at video games should consider taking jobs as air traffic controllers, the US government has said, as it tries to address a shortage of workers in the sector.",
+      "timestamp": "2026-04-10T19:35:24Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Artemis II\u2019s grand moon finale is almost here with a Pacific splashdown to cap NASA\u2019s lunar comeback",
+      "link": "https://apnews.com/article/nasa-artemis-astronauts-moon-splashdown-16adc5450f0127a0743292ef30b239f1",
+      "mean_score": 0.4794,
+      "vader_score": 0.4588,
+      "textblob_score": 0.5,
+      "first_sentence": "HOUSTON (AP) \u2014 Their dramatic grand finale fast approaching, Artemis II\u2019s astronauts aimed for a splashdown in the Pacific on Friday to close out humanity\u2019s first voyage to the moon in more than a half-century.",
+      "timestamp": "2026-04-10T18:23:01Z",
+      "source": "AP News"
+    },
     {
       "headline": "Remaining in Nato is in best interests of US, says Keir Starmer",
       "link": "https://www.theguardian.com/world/2026/apr/10/remaining-in-nato-alliance-us-interests-keir-starmer",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.45,
       "first_sentence": "Moira Deeming will secure a top spot on the Victorian Liberal party\u2019s upper house ticket unopposed \u2013 less than a week after members voted to dump her \u2013 after the withdrawal of candidates from a re-run ballot.",
       "timestamp": "2026-04-02T08:34:34Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Wee collected at festivals could help with a project to grow a new forest",
-      "link": "https://www.bbc.com/news/articles/cvgk5k7lkv0o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3866,
-      "vader_score": 0.6369,
-      "textblob_score": 0.1364,
-      "first_sentence": "Scientists behind a pioneering project to turn human wee into plant fertiliser are hoping to grow their first forest.",
-      "timestamp": "2026-04-02T07:31:57Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "One Nation wins fourth seat in SA \u2013 as it happened",
-      "link": "https://www.theguardian.com/australia-news/live/2026/apr/02/anthony-albanese-fuel-crisis-angus-taylor-middle-east-labor-liberals-easter-travel-press-club-ntwnfb",
-      "mean_score": 0.3609,
-      "vader_score": 0.5719,
-      "textblob_score": 0.15,
-      "first_sentence": "One Nation has picked up its fourth lower house seat in the South Australian election.",
-      "timestamp": "2026-04-02T07:00:02Z",
       "source": "The Guardian"
     }
   ]

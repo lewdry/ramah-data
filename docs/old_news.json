@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Wee collected at festivals could help with a project to grow a new forest",
+    "link": "https://www.bbc.com/news/articles/cvgk5k7lkv0o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3866,
+    "vader_score": 0.6369,
+    "textblob_score": 0.1364,
+    "first_sentence": "Scientists behind a pioneering project to turn human wee into plant fertiliser are hoping to grow their first forest.",
+    "timestamp": "2026-04-02T07:31:57Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "One Nation wins fourth seat in SA \u2013 as it happened",
+    "link": "https://www.theguardian.com/australia-news/live/2026/apr/02/anthony-albanese-fuel-crisis-angus-taylor-middle-east-labor-liberals-easter-travel-press-club-ntwnfb",
+    "mean_score": 0.3609,
+    "vader_score": 0.5719,
+    "textblob_score": 0.15,
+    "first_sentence": "One Nation has picked up its fourth lower house seat in the South Australian election.",
+    "timestamp": "2026-04-02T07:00:02Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Tszyu ready to revive world title dream with Easter Sunday bout",
     "link": "https://www.abc.net.au/news/2026-04-02/tim-tszyu-denis-nurja-easter-sunday-boxing/106527706",
     "mean_score": 0.4548,
