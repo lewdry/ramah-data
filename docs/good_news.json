@@ -1,6 +1,46 @@
 {
-  "last run": "2026-04-10T06:37:02Z",
+  "last run": "2026-04-10T09:28:14Z",
   "stories": [
+    {
+      "headline": "Super Mario what?! The seven best obscure Mario games",
+      "link": "https://www.theguardian.com/games/2026/apr/10/super-mario-what-the-seven-best-obscure-mario-games",
+      "mean_score": 0.7818,
+      "vader_score": 0.8553,
+      "textblob_score": 0.7083,
+      "first_sentence": "As The Super Mario Galaxy Movie storms the box office, we look back at the best forgotten games inspired by Tetris, Lemmings and \u2026 vitamins?.",
+      "timestamp": "2026-04-10T09:00:14Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Overwhelmed by kid clutter? Get organized with these 7 smart tips",
+      "link": "https://www.npr.org/2026/04/10/nx-s1-5777642/organize-kid-toys-clutter",
+      "mean_score": 0.3273,
+      "vader_score": 0.4404,
+      "textblob_score": 0.2143,
+      "first_sentence": "A million magnetic tiles scattered across the living room.",
+      "timestamp": "2026-04-10T09:00:00Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "More ambulances are carrying blood for transfusions. Experts say it will save lives",
+      "link": "https://www.npr.org/2026/04/10/nx-s1-5762919/more-ambulances-are-carrying-blood-for-transfusions-experts-say-it-will-save-lives",
+      "mean_score": 0.497,
+      "vader_score": 0.4939,
+      "textblob_score": 0.5,
+      "first_sentence": "More and more ambulances carry blood when responding to trauma scenes.",
+      "timestamp": "2026-04-10T08:45:30Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "Thanks to Artemis II humanity has returned to the moon in person! Is this good? Nobody can say | First Dog on the Moon",
+      "link": "https://www.theguardian.com/commentisfree/picture/2026/apr/10/thanks-to-artemis-ii-humanity-has-returned-to-the-moon-in-person-is-this-good-nobody-can-say",
+      "mean_score": 0.5814,
+      "vader_score": 0.7627,
+      "textblob_score": 0.4,
+      "first_sentence": "It is actually a bit shit on the moon (THE MOON)Sign up here to get an email whenever First Dog cartoons are publishedGet all your needs met at the First Dog shop if what you need is First Dog merchandise and prints Continue reading.",
+      "timestamp": "2026-04-10T07:00:05Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "A rare sign of hope as mountain gorillas welcome two sets of twins in Africa",
       "link": "https://www.theguardian.com/environment/2026/apr/09/a-rare-sign-of-hope-as-mountain-gorillas-welcome-two-sets-of-twins-in-central-africa",
@@ -2460,46 +2500,6 @@
       "first_sentence": "Test yourself on topical news trivia, pop culture and general knowledge every Thursday.",
       "timestamp": "2026-04-02T05:00:17Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Endo dreams of sushi: a trip around Japan with one of the world\u2019s greatest chefs",
-      "link": "https://www.theguardian.com/news/ng-interactive/2026/apr/02/endo-kazutoshi-sushi-japan-greatest-chef",
-      "mean_score": 0.8922,
-      "vader_score": 0.7845,
-      "textblob_score": 1.0,
-      "first_sentence": "Endo Kazutoshi was on the train to Paris when he heard about the fire.",
-      "timestamp": "2026-04-02T04:00:17Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Where can I buy food and alcohol in Australia on Good Friday?",
-      "link": "https://www.theguardian.com/australia-news/2026/apr/02/good-friday-supermarket-trading-hours-alcohol-restrictions-easter",
-      "mean_score": 0.5702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.7,
-      "first_sentence": "Good Friday may be steeped in Christian tradition, but in Australia it comes with a custom of its own \u2013 the national scramble to find open food and alcohol shops.",
-      "timestamp": "2026-04-02T03:24:39Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Shark relocation offers temporary safety boost, Queensland study suggests",
-      "link": "https://www.abc.net.au/news/2026-04-02/tiger-shark-attacks-reduced-with-relocation-study-suggests/106522888",
-      "mean_score": 0.3852,
-      "vader_score": 0.6705,
-      "textblob_score": 0.1,
-      "first_sentence": "New research suggests relocating tiger sharks away from swimming beaches could temporarily reduce risk of shark bites.",
-      "timestamp": "2026-04-02T00:31:54Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Here is the key to getting through The Super Mario Galaxy Movie",
-      "link": "https://www.abc.net.au/news/2026-04-02/super-mario-galaxy-movie-plot-review-end-scene/106524926",
-      "mean_score": 0.383,
-      "vader_score": 0.5994,
-      "textblob_score": 0.1667,
-      "first_sentence": "Ask any Nintendo fan worth their salt and they'll tell you legendary video game designer and Mario Bros.",
-      "timestamp": "2026-04-02T00:27:27Z",
-      "source": "ABC News"
     }
   ]
 }
