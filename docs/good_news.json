@@ -1,5 +1,5 @@
 {
-  "last run": "2026-04-10T09:28:14Z",
+  "last run": "2026-04-10T12:16:52Z",
   "stories": [
     {
       "headline": "Super Mario what?! The seven best obscure Mario games",
@@ -30,6 +30,16 @@
       "first_sentence": "More and more ambulances carry blood when responding to trauma scenes.",
       "timestamp": "2026-04-10T08:45:30Z",
       "source": "NPR News"
+    },
+    {
+      "headline": "Live: Cowboys claim thrilling Queensland derby victory with last-minute try",
+      "link": "https://www.abc.net.au/news/2026-04-10/nrl-live-updates-dragons-vs-sea-eagles-broncos-vs-cowboys/106549958",
+      "mean_score": 0.3349,
+      "vader_score": 0.4767,
+      "textblob_score": 0.1932,
+      "first_sentence": "North Queensland Cowboys have won a thriller at Lang Park, beating the Brisbane Broncos 35-31.",
+      "timestamp": "2026-04-10T07:07:53Z",
+      "source": "ABC News"
     },
     {
       "headline": "Thanks to Artemis II humanity has returned to the moon in person! Is this good? Nobody can say | First Dog on the Moon",
@@ -2490,16 +2500,6 @@
       "first_sentence": "As Easter begins, many travellers will set out across Australia to enjoy their long weekend.",
       "timestamp": "2026-04-02T05:05:11Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Thursday news quiz: daring dogs, delinquent capybaras and far too many bananas",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/apr/02/the-guardian-thursday-quiz-general-knowledge-topical-news-trivia-241",
-      "mean_score": 0.3306,
-      "vader_score": 0.3612,
-      "textblob_score": 0.3,
-      "first_sentence": "Test yourself on topical news trivia, pop culture and general knowledge every Thursday.",
-      "timestamp": "2026-04-02T05:00:17Z",
-      "source": "The Guardian"
     }
   ]
 }
