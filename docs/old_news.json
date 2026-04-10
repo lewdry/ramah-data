@@ -1,5 +1,25 @@
 [
   {
+    "headline": "What Australia can learn from French cities that made public transport free",
+    "link": "https://www.abc.net.au/news/2026-04-02/free-public-transport-french-cities/106510914",
+    "mean_score": 0.322,
+    "vader_score": 0.5106,
+    "textblob_score": 0.1333,
+    "first_sentence": "A year after the last energy crisis shook the world, a French city made a bold move.",
+    "timestamp": "2026-04-01T19:11:01Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "I grew up the golden child before becoming the black sheep. I\u2019m much happier now",
+    "link": "https://www.sbs.com.au/news/insight/article/i-grew-up-the-golden-child-before-becoming-the-black-sheep-im-much-happier-now/zru7f4jnt",
+    "mean_score": 0.3613,
+    "vader_score": 0.5267,
+    "textblob_score": 0.1958,
+    "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+    "timestamp": "2026-04-01T18:45:56Z",
+    "source": "SBS News"
+  },
+  {
     "headline": "Good Friday is a unique and solemn day for Christians, with ancient prayers and fervent processions",
     "link": "https://apnews.com/article/easter-good-friday-cross-processions-spain-miami-1ea2448f88afbc394d6f0952c573fe63",
     "mean_score": 0.5547,

@@ -1,6 +1,26 @@
 {
-  "last run": "2026-04-10T00:23:36Z",
+  "last run": "2026-04-10T04:02:16Z",
   "stories": [
+    {
+      "headline": "Artemis II crew on inspiring the next generation and unifying humanity \u2013\u00a0video",
+      "link": "https://www.theguardian.com/science/video/2026/apr/10/artemis-ii-crew-on-inspiring-the-next-generation-and-unifying-humanity-video",
+      "mean_score": 0.3357,
+      "vader_score": 0.4215,
+      "textblob_score": 0.25,
+      "first_sentence": "As the Artemis II mission enters flight day nine, the crew spoke about inspiring the next generation and 'working on something big for the good of everyone' ahead of their return to earth.",
+      "timestamp": "2026-04-10T02:14:34Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Bronwyn Kuss: Bronwyn & Sons review \u2013 parchingly dry comedy about success in your late 30s",
+      "link": "https://www.theguardian.com/stage/2026/apr/10/bronwyn-kuss-melbourne-comedy-festival-review",
+      "mean_score": 0.3564,
+      "vader_score": 0.7351,
+      "textblob_score": -0.0222,
+      "first_sentence": "A drunk witch once told Bronwyn Kuss to have a baby.",
+      "timestamp": "2026-04-10T02:07:14Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Euphoria ushered in a new generation of A-listers. Now, it's finally back",
       "link": "https://www.abc.net.au/news/2026-04-10/euphoria-season-three-where-to-watch/106544928",
@@ -2480,26 +2500,6 @@
       "first_sentence": "In the ongoing war with the United States and Israel, Iran has been threatening to mine the vital Strait of Hormuz, with reports suggesting it may have already placed devices in the narrow shipping chokepoint.",
       "timestamp": "2026-04-01T19:54:36Z",
       "source": "NPR News"
-    },
-    {
-      "headline": "What Australia can learn from French cities that made public transport free",
-      "link": "https://www.abc.net.au/news/2026-04-02/free-public-transport-french-cities/106510914",
-      "mean_score": 0.322,
-      "vader_score": 0.5106,
-      "textblob_score": 0.1333,
-      "first_sentence": "A year after the last energy crisis shook the world, a French city made a bold move.",
-      "timestamp": "2026-04-01T19:11:01Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "I grew up the golden child before becoming the black sheep. I\u2019m much happier now",
-      "link": "https://www.sbs.com.au/news/insight/article/i-grew-up-the-golden-child-before-becoming-the-black-sheep-im-much-happier-now/zru7f4jnt",
-      "mean_score": 0.3613,
-      "vader_score": 0.5267,
-      "textblob_score": 0.1958,
-      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-      "timestamp": "2026-04-01T18:45:56Z",
-      "source": "SBS News"
     }
   ]
 }
