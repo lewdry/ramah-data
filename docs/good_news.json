@@ -1,6 +1,76 @@
 {
-  "last run": "2026-04-10T04:02:16Z",
+  "last run": "2026-04-10T06:37:02Z",
   "stories": [
+    {
+      "headline": "A rare sign of hope as mountain gorillas welcome two sets of twins in Africa",
+      "link": "https://www.theguardian.com/environment/2026/apr/09/a-rare-sign-of-hope-as-mountain-gorillas-welcome-two-sets-of-twins-in-central-africa",
+      "mean_score": 0.6298,
+      "vader_score": 0.7096,
+      "textblob_score": 0.55,
+      "first_sentence": "I will never forget the moment I first saw a mountain gorilla.",
+      "timestamp": "2026-04-10T06:00:16Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Go Gentle by Maria Semple review \u2013 a joyfully clever New York romcom",
+      "link": "https://www.theguardian.com/books/2026/apr/10/go-gentle-by-maria-semple-review-a-joyfully-clever-new-york-romcom",
+      "mean_score": 0.5116,
+      "vader_score": 0.8555,
+      "textblob_score": 0.1677,
+      "first_sentence": "What would Marcus Aurelius have made of the Kardashians? Would Seneca have been amused by mindfulness apps? These were questions I had never consciously pondered before reading Maria Semple\u2019s new novel.",
+      "timestamp": "2026-04-10T06:00:16Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Asian stocks mostly higher and oil gains ahead of planned U.S.-Iran peace talks",
+      "link": "https://apnews.com/article/stock-markets-trump-iran-ceasefire-oil-7ef6ebab1aaa731d2da6406b3cbde6dd",
+      "mean_score": 0.4173,
+      "vader_score": 0.7096,
+      "textblob_score": 0.125,
+      "first_sentence": "HONG KONG (AP) \u2014 Asian stocks were mostly up Friday tracking Wall Street gains while oil prices also rose on the fragile Iran war ceasefire and ahead of Iran-U.S.",
+      "timestamp": "2026-04-10T05:53:02Z",
+      "source": "AP News"
+    },
+    {
+      "headline": "Australia\u2019s Talia Gibson stunned by Great Britain teenager Mika Stojsavljevic in BJK Cup opener",
+      "link": "https://www.theguardian.com/sport/2026/apr/10/tennis-billie-jean-king-bjk-cup-australia-great-britain",
+      "mean_score": 0.686,
+      "vader_score": 0.5719,
+      "textblob_score": 0.8,
+      "first_sentence": "Australia\u2019s quest to win a place in the Billie Jean King Cup finals is off to the worst possible start with spearhead Talia Gibson a shock loser to British teen Mika Stojsavljevic.",
+      "timestamp": "2026-04-10T05:50:32Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Reich: The Sextets album review \u2013 Colin Currie celebrates the minimalist master\u2019s joy of six",
+      "link": "https://www.theguardian.com/music/2026/apr/10/reich-the-sextets-album-review-colin-currie-celebrates-the-minimalist-masters-joy-of-six",
+      "mean_score": 0.8088,
+      "vader_score": 0.8176,
+      "textblob_score": 0.8,
+      "first_sentence": "The Colin Currie Group formed 20 years ago to honour Steve Reich\u2019s 70th birthday with a performance of Drumming.",
+      "timestamp": "2026-04-10T05:30:10Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Benjamina Ebuehi\u2019s sweet and salty chocolate chip cookies recipe | The sweet spot",
+      "link": "https://www.theguardian.com/food/2026/apr/10/sweet-and-salty-chocolate-chip-cookies-recipe-benjamina-ebuehi",
+      "mean_score": 0.5342,
+      "vader_score": 0.7184,
+      "textblob_score": 0.35,
+      "first_sentence": "Everyone has different ideas on what makes the perfect chocolate chip cookie, with everything from thickness and chewiness to the amount of chocolate up for debate.",
+      "timestamp": "2026-04-10T05:00:10Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Snoozing seal blocks road in popular coastal spot",
+      "link": "https://www.abc.net.au/news/2026-04-10/road-blocked-sleeping-seal-mornington-peninsula-police/106550932",
+      "mean_score": 0.4132,
+      "vader_score": 0.2263,
+      "textblob_score": 0.6,
+      "first_sentence": "A sleeping seal has held up motorists making their way along the Mornington Peninsula, causing a major road to be closed in both directions in the popular coastal area after it stopped to rest on the roadway.",
+      "timestamp": "2026-04-10T04:11:15Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Artemis II crew on inspiring the next generation and unifying humanity \u2013\u00a0video",
       "link": "https://www.theguardian.com/science/video/2026/apr/10/artemis-ii-crew-on-inspiring-the-next-generation-and-unifying-humanity-video",
@@ -2430,76 +2500,6 @@
       "first_sentence": "Ask any Nintendo fan worth their salt and they'll tell you legendary video game designer and Mario Bros.",
       "timestamp": "2026-04-02T00:27:27Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Safety work means no Easter opening for iconic WA tree climb",
-      "link": "https://www.abc.net.au/news/2026-04-02/wa-gloucester-tree-reopening-delayed/106516670",
-      "mean_score": 0.3266,
-      "vader_score": 0.1531,
-      "textblob_score": 0.5,
-      "first_sentence": "Southern WA's landmark Gloucester Tree climb will not reopen in time for Easter.",
-      "timestamp": "2026-04-02T00:02:17Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "DHS boss rescinds restrictive $100,000 approval process, giving hope to FEMA relief efforts",
-      "link": "https://apnews.com/article/homeland-security-fema-mullin-moem-8b03d9240b267422d6fadf3f7d12f0eb",
-      "mean_score": 0.4442,
-      "vader_score": 0.8885,
-      "textblob_score": 0.0,
-      "first_sentence": "WASHINGTON (AP) \u2014 Homeland Security Secretary Markwayne Mullin on Wednesday rescinded a rule that DHS expenditures over $100,000 be personally approved by his office, ending a widely criticized policy implemented by his predecessor Kristi Noem that critics said put a particular burden on the Federal Emergency Management Agency \u2019s work aiding disaster response and recovery.",
-      "timestamp": "2026-04-01T23:23:01Z",
-      "source": "AP News"
-    },
-    {
-      "headline": "'We entered Race Across the World to honour dying wish'",
-      "link": "https://www.bbc.com/news/articles/c15dvelwd7qo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3753,
-      "vader_score": 0.7506,
-      "textblob_score": 0.0,
-      "first_sentence": "When Margo Oakley, now 59, was introduced to her older sister's new boyfriend her first impressions of the \"po-faced\" and \"judgey\" young man were not great.",
-      "timestamp": "2026-04-01T23:08:39Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Live: 'We have a beautiful moon rise': NASA's Artemis II crew headed for the lunar orbit",
-      "link": "https://www.abc.net.au/news/2026-04-02/artemis-ii-launch-abc-live-blog-moon-mission/106513102",
-      "mean_score": 0.5463,
-      "vader_score": 0.5994,
-      "textblob_score": 0.4932,
-      "first_sentence": "NASA's Artemis II mission lifted-off at 9:35am AEDT, with the space agency hoping to send humans around the Moon for the first time since 1972.",
-      "timestamp": "2026-04-01T20:49:33Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Guardian power rankings: France lead the way with Senegal and Japan in top 10",
-      "link": "https://www.theguardian.com/football/2026/apr/01/guardian-power-rankings-france-senegal-japan-top-10-world-cup-2026",
-      "mean_score": 0.3512,
-      "vader_score": 0.2023,
-      "textblob_score": 0.5,
-      "first_sentence": "Some countries, like Kosovo and Iraq, have only just qualified after playoffs while most have been fine-tuning in friendlies\u201cThere\u2019s more talent and potential than in 2022,\u201d Kylian Mbapp\u00e9 said ominously this week after France had beaten Brazil 2-1 despite having Dayot Upamecano sent off after 55 minutes.",
-      "timestamp": "2026-04-01T20:30:07Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The FDA approves a new obesity pill, giving patients another option",
-      "link": "https://www.npr.org/2026/04/01/nx-s1-5760899/weight-loss-pill-foundayo",
-      "mean_score": 0.3806,
-      "vader_score": 0.6249,
-      "textblob_score": 0.1364,
-      "first_sentence": "The Food and Drug Administration has approved the second GLP-1 pill to treat obesity, this time from drugmaker Eli Lilly.",
-      "timestamp": "2026-04-01T20:07:39Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Is the U.S. Navy ready to clear sea mines in the Persian Gulf?",
-      "link": "https://www.npr.org/2026/04/01/nx-s1-5766222/mines-persian-gulf-strait-navy-lcs",
-      "mean_score": 0.3875,
-      "vader_score": 0.6249,
-      "textblob_score": 0.15,
-      "first_sentence": "In the ongoing war with the United States and Israel, Iran has been threatening to mine the vital Strait of Hormuz, with reports suggesting it may have already placed devices in the narrow shipping chokepoint.",
-      "timestamp": "2026-04-01T19:54:36Z",
-      "source": "NPR News"
     }
   ]
 }

@@ -1,5 +1,75 @@
 [
   {
+    "headline": "Safety work means no Easter opening for iconic WA tree climb",
+    "link": "https://www.abc.net.au/news/2026-04-02/wa-gloucester-tree-reopening-delayed/106516670",
+    "mean_score": 0.3266,
+    "vader_score": 0.1531,
+    "textblob_score": 0.5,
+    "first_sentence": "Southern WA's landmark Gloucester Tree climb will not reopen in time for Easter.",
+    "timestamp": "2026-04-02T00:02:17Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "DHS boss rescinds restrictive $100,000 approval process, giving hope to FEMA relief efforts",
+    "link": "https://apnews.com/article/homeland-security-fema-mullin-moem-8b03d9240b267422d6fadf3f7d12f0eb",
+    "mean_score": 0.4442,
+    "vader_score": 0.8885,
+    "textblob_score": 0.0,
+    "first_sentence": "WASHINGTON (AP) \u2014 Homeland Security Secretary Markwayne Mullin on Wednesday rescinded a rule that DHS expenditures over $100,000 be personally approved by his office, ending a widely criticized policy implemented by his predecessor Kristi Noem that critics said put a particular burden on the Federal Emergency Management Agency \u2019s work aiding disaster response and recovery.",
+    "timestamp": "2026-04-01T23:23:01Z",
+    "source": "AP News"
+  },
+  {
+    "headline": "'We entered Race Across the World to honour dying wish'",
+    "link": "https://www.bbc.com/news/articles/c15dvelwd7qo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3753,
+    "vader_score": 0.7506,
+    "textblob_score": 0.0,
+    "first_sentence": "When Margo Oakley, now 59, was introduced to her older sister's new boyfriend her first impressions of the \"po-faced\" and \"judgey\" young man were not great.",
+    "timestamp": "2026-04-01T23:08:39Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Live: 'We have a beautiful moon rise': NASA's Artemis II crew headed for the lunar orbit",
+    "link": "https://www.abc.net.au/news/2026-04-02/artemis-ii-launch-abc-live-blog-moon-mission/106513102",
+    "mean_score": 0.5463,
+    "vader_score": 0.5994,
+    "textblob_score": 0.4932,
+    "first_sentence": "NASA's Artemis II mission lifted-off at 9:35am AEDT, with the space agency hoping to send humans around the Moon for the first time since 1972.",
+    "timestamp": "2026-04-01T20:49:33Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Guardian power rankings: France lead the way with Senegal and Japan in top 10",
+    "link": "https://www.theguardian.com/football/2026/apr/01/guardian-power-rankings-france-senegal-japan-top-10-world-cup-2026",
+    "mean_score": 0.3512,
+    "vader_score": 0.2023,
+    "textblob_score": 0.5,
+    "first_sentence": "Some countries, like Kosovo and Iraq, have only just qualified after playoffs while most have been fine-tuning in friendlies\u201cThere\u2019s more talent and potential than in 2022,\u201d Kylian Mbapp\u00e9 said ominously this week after France had beaten Brazil 2-1 despite having Dayot Upamecano sent off after 55 minutes.",
+    "timestamp": "2026-04-01T20:30:07Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "The FDA approves a new obesity pill, giving patients another option",
+    "link": "https://www.npr.org/2026/04/01/nx-s1-5760899/weight-loss-pill-foundayo",
+    "mean_score": 0.3806,
+    "vader_score": 0.6249,
+    "textblob_score": 0.1364,
+    "first_sentence": "The Food and Drug Administration has approved the second GLP-1 pill to treat obesity, this time from drugmaker Eli Lilly.",
+    "timestamp": "2026-04-01T20:07:39Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "Is the U.S. Navy ready to clear sea mines in the Persian Gulf?",
+    "link": "https://www.npr.org/2026/04/01/nx-s1-5766222/mines-persian-gulf-strait-navy-lcs",
+    "mean_score": 0.3875,
+    "vader_score": 0.6249,
+    "textblob_score": 0.15,
+    "first_sentence": "In the ongoing war with the United States and Israel, Iran has been threatening to mine the vital Strait of Hormuz, with reports suggesting it may have already placed devices in the narrow shipping chokepoint.",
+    "timestamp": "2026-04-01T19:54:36Z",
+    "source": "NPR News"
+  },
+  {
     "headline": "What Australia can learn from French cities that made public transport free",
     "link": "https://www.abc.net.au/news/2026-04-02/free-public-transport-french-cities/106510914",
     "mean_score": 0.322,
