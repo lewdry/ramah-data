@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Tszyu ready to revive world title dream with Easter Sunday bout",
+    "link": "https://www.abc.net.au/news/2026-04-02/tim-tszyu-denis-nurja-easter-sunday-boxing/106527706",
+    "mean_score": 0.4548,
+    "vader_score": 0.7096,
+    "textblob_score": 0.2,
+    "first_sentence": "Tim Tszyu fights undefeated Albanian Denis Nurja in Wollongong on Easter Sunday.",
+    "timestamp": "2026-04-02T06:30:56Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Families praise charity for Easter holiday support",
+    "link": "https://www.bbc.com/news/articles/cre19p478d9o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4479,
+    "vader_score": 0.8957,
+    "textblob_score": 0.0,
+    "first_sentence": "Parents have praised a charity which is helping to support families with the cost of living over the school Easter holidays.",
+    "timestamp": "2026-04-02T06:22:12Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "\u2018Walking is the best way to discover offbeat Corfu\u2019: a spring hike across the Greek island",
+    "link": "https://www.theguardian.com/travel/2026/apr/02/walking-corfu-trail-best-way-to-discover-the-greek-island",
+    "mean_score": 0.4018,
+    "vader_score": 0.6369,
+    "textblob_score": 0.1667,
+    "first_sentence": "The riverside was heaving.",
+    "timestamp": "2026-04-02T06:00:19Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Bj\u00f6rk, Rihanna and a passionate embrace: visions of love \u2013 in pictures",
     "link": "https://www.theguardian.com/culture/gallery/2026/apr/02/bjork-rihanna-and-a-passionate-embrace-visions-of-love-in-pictures-inez-and-vinoodh",
     "mean_score": 0.5604,
