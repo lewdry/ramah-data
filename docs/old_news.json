@@ -1,5 +1,85 @@
 [
   {
+    "headline": "Culture of care: surreal celebrations of Iranian tenderness \u2013 in pictures",
+    "link": "https://www.theguardian.com/culture/gallery/2026/apr/03/sheida-soleimani-ghostwriter-iran-art-photography-nyc-gallery",
+    "mean_score": 0.4842,
+    "vader_score": 0.7184,
+    "textblob_score": 0.25,
+    "first_sentence": "As the daughter of refugees, Iranian American artist Sheida Soleimani\u2019s work reframes caring for bodies \u2013 both human and animal - as a political act.",
+    "timestamp": "2026-04-03T09:00:49Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Unhittable: are the modern era\u2019s weightlifting, analytics-fueled pitchers too good?",
+    "link": "https://www.theguardian.com/sport/2026/apr/03/unhittable-are-the-modern-eras-weightlifting-analytics-fueled-pitchers-too-good",
+    "mean_score": 0.4452,
+    "vader_score": 0.4404,
+    "textblob_score": 0.45,
+    "first_sentence": "In a 1940 publicity stunt, the Cleveland Indians\u2019 flamethrowing pitcher, Bob Feller, tested which was faster: One of his own blazing deliveries, or a motorcycle.",
+    "timestamp": "2026-04-03T09:00:48Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Lizzo\u2019s reinvention faces its greatest test yet",
+    "link": "https://www.theguardian.com/music/commentisfree/2026/apr/03/what-does-lizzo-stand-for-now",
+    "mean_score": 0.8185,
+    "vader_score": 0.6369,
+    "textblob_score": 1.0,
+    "first_sentence": "Lizzo\u2019s ascent to mainstream stardom was the type of fairytale that pop dreams are made of.",
+    "timestamp": "2026-04-03T08:00:47Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "'Trust us, you look amazing': Artemis II astronauts speak from space",
+    "link": "https://www.bbc.com/news/videos/crl10127elgo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.6982,
+    "vader_score": 0.7964,
+    "textblob_score": 0.6,
+    "first_sentence": "The Artemis II spacecraft has successfully made its way to the far side of the Moon after leaving the Earth's orbit.",
+    "timestamp": "2026-04-03T07:07:48Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "'The meaner we are, the better we get along' say Race Across the World siblings",
+    "link": "https://www.bbc.com/news/articles/cy81kxy450yo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4702,
+    "vader_score": 0.4404,
+    "textblob_score": 0.5,
+    "first_sentence": "When Katie's older brother Harrison told her he'd entered them into Race Across the World she wasn't filled with enthusiasm.",
+    "timestamp": "2026-04-03T06:41:45Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Helen Goh\u2019s recipe for ricotta, rum and raisin cake | The sweet spot",
+    "link": "https://www.theguardian.com/food/2026/apr/03/ricotta-rum-and-raisin-cake-recipe-helen-goh",
+    "mean_score": 0.4044,
+    "vader_score": 0.4588,
+    "textblob_score": 0.35,
+    "first_sentence": "This is a cake for the long, ambling tail-end of an Easter lunch.",
+    "timestamp": "2026-04-03T05:00:44Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Fresh autumn produce to make the most of in April",
+    "link": "https://www.abc.net.au/news/2026-04-03/april-seasonal-fruit-and-veg/106523210",
+    "mean_score": 0.3591,
+    "vader_score": 0.3182,
+    "textblob_score": 0.4,
+    "first_sentence": "\"A lot of people have fruit trees and you can literally see the seasons changing on the street,\" says Helly Raichura.",
+    "timestamp": "2026-04-03T05:00:00Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "\u2018I lost a $3m brand deal. I was like: OK, losers!\u2019 Swedish pop provocateur Zara Larsson on fame, fun and fighting the power",
+    "link": "https://www.theguardian.com/music/2026/apr/03/zara-larsson-popstar-interview-on-fame-fun-fighting-the-power-lush-life",
+    "mean_score": 0.4097,
+    "vader_score": 0.636,
+    "textblob_score": 0.1833,
+    "first_sentence": "On a warm spring day, Brooklyn\u2019s century-old Paramount theatre has been transformed into a base camp for all things Zara Larsson.",
+    "timestamp": "2026-04-03T04:00:43Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Hungary elections: what is at stake and who is likely to win?",
     "link": "https://www.theguardian.com/world/2026/apr/03/hungary-elections-viktor-orban-who-will-win",
     "mean_score": 0.4929,
