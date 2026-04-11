@@ -1,6 +1,26 @@
 {
-  "last run": "2026-04-11T03:50:58Z",
+  "last run": "2026-04-11T06:23:00Z",
   "stories": [
+    {
+      "headline": "\u2018TikTok effect\u2019 brings sellout crowds and younger fans to Grand National meeting",
+      "link": "https://www.theguardian.com/sport/2026/apr/11/horse-racing-ladies-day-aintree-grand-national-social-media",
+      "mean_score": 0.3544,
+      "vader_score": 0.4588,
+      "textblob_score": 0.25,
+      "first_sentence": "Everywhere you looked that sentiment was being echoed and magnified by 55,000 other racegoers, most dressed in their finest suits and silks, who were basking in the first Ladies\u2019 Day sellout since 2012.",
+      "timestamp": "2026-04-11T05:00:42Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "American Classic review \u2013 I defy you not to fall in love with Kevin Kline and Laura Linney\u2019s tender comedy",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/apr/11/american-classic-review-kevin-kline-laura-linney-comedy",
+      "mean_score": 0.497,
+      "vader_score": 0.7717,
+      "textblob_score": 0.2222,
+      "first_sentence": "Ah, the roar of the greasepaint \u2013 the smell of the crowd! Who doesn\u2019t love the theatre? Or at least the idea of the theatre.",
+      "timestamp": "2026-04-11T04:00:38Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Heathers the Musical review \u2013 dark teen comedy is hammy fun, if thoroughly defanged",
       "link": "https://www.theguardian.com/stage/2026/apr/11/heathers-the-musical-review-dark-teen-comedy-is-hammy-fun-if-thoroughly-defanged",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.25,
       "first_sentence": "A flight carrying people being deported from the US has landed in Uganda, as Donald Trump\u2019s administration pushes on with its strategy of expelling migrants to countries they have no ties to.",
       "timestamp": "2026-04-02T16:37:12Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "'Unbelievable!': Backshall overjoyed at rare sighting of orcas",
-      "link": "https://www.bbc.com/news/videos/c5y80gl0rd1o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3467,
-      "vader_score": 0.6996,
-      "textblob_score": -0.0063,
-      "first_sentence": "Wildlife explorer Steve Backshall was overjoyed to have spotted two of the UK's last surviving orcas as he described them as \"international celebrities\".",
-      "timestamp": "2026-04-02T16:21:11Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "HBO to air standalone special on the making of new Harry Potter series",
-      "link": "https://www.theguardian.com/tv-and-radio/2026/apr/02/hbo-finding-harry-potter-making-of-special",
-      "mean_score": 0.3243,
-      "vader_score": 0.4019,
-      "textblob_score": 0.2468,
-      "first_sentence": "HBO has more Harry Potter magic up its sleeve \u2013 today, the company announced a standalone, behind-the-scenes special to accompany its upcoming TV adaptation of Harry Potter and the Philosopher\u2019s Stone.",
-      "timestamp": "2026-04-02T16:16:11Z",
       "source": "The Guardian"
     }
   ]

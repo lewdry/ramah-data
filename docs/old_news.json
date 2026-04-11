@@ -1,5 +1,25 @@
 [
   {
+    "headline": "'Unbelievable!': Backshall overjoyed at rare sighting of orcas",
+    "link": "https://www.bbc.com/news/videos/c5y80gl0rd1o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3467,
+    "vader_score": 0.6996,
+    "textblob_score": -0.0063,
+    "first_sentence": "Wildlife explorer Steve Backshall was overjoyed to have spotted two of the UK's last surviving orcas as he described them as \"international celebrities\".",
+    "timestamp": "2026-04-02T16:21:11Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "HBO to air standalone special on the making of new Harry Potter series",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/apr/02/hbo-finding-harry-potter-making-of-special",
+    "mean_score": 0.3243,
+    "vader_score": 0.4019,
+    "textblob_score": 0.2468,
+    "first_sentence": "HBO has more Harry Potter magic up its sleeve \u2013 today, the company announced a standalone, behind-the-scenes special to accompany its upcoming TV adaptation of Harry Potter and the Philosopher\u2019s Stone.",
+    "timestamp": "2026-04-02T16:16:11Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "William hails 'incredible' \u00a320m milestone for Bowelbabe fund",
     "link": "https://www.bbc.com/news/articles/c4gvd994x15o?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.45,
