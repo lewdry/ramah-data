@@ -1,6 +1,56 @@
 {
-  "last run": "2026-04-10T21:11:43Z",
+  "last run": "2026-04-11T00:22:54Z",
   "stories": [
+    {
+      "headline": "Rory McIlroy surges into six-shot Masters lead with stunning second-round flourish",
+      "link": "https://www.theguardian.com/sport/2026/apr/11/rory-mcilroy-six-shot-masters-lead--stunning-second-round-golf",
+      "mean_score": 0.4409,
+      "vader_score": 0.3818,
+      "textblob_score": 0.5,
+      "first_sentence": "After spending 16 years as the hunter, Rory McIlroy is relishing his position as the hunted.",
+      "timestamp": "2026-04-10T23:04:16Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Teen shuns screens to turn love of chickens into growing egg business",
+      "link": "https://www.abc.net.au/news/2026-04-11/tamworth-teenager-max-lye-egg-business-chickens/106536820",
+      "mean_score": 0.4798,
+      "vader_score": 0.7096,
+      "textblob_score": 0.25,
+      "first_sentence": "Tamworth teenager Max Lye might be the one to answer the age-old question: what came first, the chicken or the egg?.",
+      "timestamp": "2026-04-10T22:31:06Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Live: Astronauts in 'excellent shape' after a 'perfect' descent in Pacific Ocean",
+      "link": "https://www.abc.net.au/news/2026-04-11/artemis-ii-splashdown-landing-abc-live-blog-moon-mission/106551526",
+      "mean_score": 0.7624,
+      "vader_score": 0.8126,
+      "textblob_score": 0.7121,
+      "first_sentence": "The Artemis II astronauts have travelled further from Earth than any humans before, surpassing the record set by Apollo 13 in 1970.",
+      "timestamp": "2026-04-10T21:50:46Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Fresh push for Murray Basin freight rail to get more produce off trucks",
+      "link": "https://www.abc.net.au/news/2026-04-11/basin-rail-advocates-push-for-completion-of-freight-project/106545918",
+      "mean_score": 0.3591,
+      "vader_score": 0.3182,
+      "textblob_score": 0.4,
+      "first_sentence": "Farmers are demanding the completion of the Murray Basin Rail Project to get more freight on rail and off roads.",
+      "timestamp": "2026-04-10T21:30:12Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Prince Harry sued for defamation by charity he set up in Africa to honor his mother Princess Diana",
+      "link": "https://apnews.com/article/prince-harry-sued-sentabale-african-charity-defamation-26a15ecf36ea1dd16483697a3d5aac21",
+      "mean_score": 0.3592,
+      "vader_score": 0.7184,
+      "textblob_score": 0.0,
+      "first_sentence": "LONDON (AP) \u2014 A charity co-founded by Prince Harry in Africa to honor his late mother, Princess Diana, has sued him for defamation after he stepped down as a patron last year.",
+      "timestamp": "2026-04-10T21:23:02Z",
+      "source": "AP News"
+    },
     {
       "headline": "Great at gaming? US air traffic control wants you to apply",
       "link": "https://www.bbc.com/news/articles/ce84rvx0e6do?at_medium=RSS&at_campaign=rss",
@@ -2450,56 +2500,6 @@
       "first_sentence": "Scientists at a satellite earth station in Cornwall were excited to receive their first signal from Nasa's Artemis II mission to the Moon.",
       "timestamp": "2026-04-02T11:50:42Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "What spring festivals remind us about food, family and fresh starts",
-      "link": "https://www.theguardian.com/food/2026/mar/31/what-spring-festivals-remind-us-about-food-family-and-fresh-starts",
-      "mean_score": 0.4429,
-      "vader_score": 0.5859,
-      "textblob_score": 0.3,
-      "first_sentence": "Spring has a way of bringing us together.",
-      "timestamp": "2026-04-02T11:40:22Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Why thousands of New Yorkers swap gas for induction stoves in clean energy push: \u2018It makes sense\u2019",
-      "link": "https://www.theguardian.com/environment/2026/apr/02/new-york-induction-stoves-climate-energy",
-      "mean_score": 0.4187,
-      "vader_score": 0.5859,
-      "textblob_score": 0.2515,
-      "first_sentence": "Marcos Ramos hasn\u2019t been able to cook a full meal at home in nearly four years, after a gas leak resulted in a lengthy supply cut off for his New York City apartment building.",
-      "timestamp": "2026-04-02T10:00:21Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Scientists' efforts to free whale stuck in the Baltic Sea cause online firestorm",
-      "link": "https://www.npr.org/2026/04/02/nx-s1-5767061/scientists-efforts-to-free-whale-stuck-in-the-baltic-sea-cause-online-firestorm",
-      "mean_score": 0.3591,
-      "vader_score": 0.3182,
-      "textblob_score": 0.4,
-      "first_sentence": "German scientists face a social media firestorm as they try to save a humpback whale in the Baltic Sea.",
-      "timestamp": "2026-04-02T08:41:36Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "'Oh my goodness, that is spectacular':  See BBC science editor react to launch",
-      "link": "https://www.bbc.com/news/videos/c05d6pprdleo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5294,
-      "vader_score": 0.4588,
-      "textblob_score": 0.6,
-      "first_sentence": "Nasa's Artemis II spacecraft has launched and is now orbiting Earth, where it will then head on to circle the Moon as part of a 10-day mission.",
-      "timestamp": "2026-04-02T08:40:55Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Moira Deeming to secure top spot on Victorian Liberal ticket",
-      "link": "https://www.theguardian.com/australia-news/2026/apr/02/moira-deeming-top-victorian-liberal-ticket-ntwnfb",
-      "mean_score": 0.4719,
-      "vader_score": 0.4939,
-      "textblob_score": 0.45,
-      "first_sentence": "Moira Deeming will secure a top spot on the Victorian Liberal party\u2019s upper house ticket unopposed \u2013 less than a week after members voted to dump her \u2013 after the withdrawal of candidates from a re-run ballot.",
-      "timestamp": "2026-04-02T08:34:34Z",
-      "source": "The Guardian"
     }
   ]
 }
