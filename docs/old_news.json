@@ -1,5 +1,55 @@
 [
   {
+    "headline": "'You look beautiful': Artemis II crew makes contact from space \u2013 video",
+    "link": "https://www.theguardian.com/science/video/2026/apr/03/artemis-ii-crew-makes-contact-from-space-video",
+    "mean_score": 0.7247,
+    "vader_score": 0.5994,
+    "textblob_score": 0.85,
+    "first_sentence": "The four astronauts on Nasa's lunar mission have spoken about their experience of the journey so far via video.",
+    "timestamp": "2026-04-03T13:51:51Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "'Not pretending to be 20': U2 drop 'endearingly honest' second surprise EP",
+    "link": "https://www.bbc.com/news/articles/c4gx8y7zqz4o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3798,
+    "vader_score": 0.4596,
+    "textblob_score": 0.3,
+    "first_sentence": "Irish rock legends U2 have released their second surprise EP of 2026, with the six-track Easter Lily coming just over 40 days after Days of Ash.",
+    "timestamp": "2026-04-03T12:56:18Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "CalMac in 'better place' as third ferry returns after repairs",
+    "link": "https://www.bbc.com/news/articles/cvg38x7k9v7o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3452,
+    "vader_score": 0.4404,
+    "textblob_score": 0.25,
+    "first_sentence": "Scotland's ferry shortage is reaching a \"much better place\" with a third major vessel set to resume service, CalMac says.",
+    "timestamp": "2026-04-03T12:50:58Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Cocktail of the week: Acre\u2019s fashionably late \u2013 recipe | The good mixer",
+    "link": "https://www.theguardian.com/food/2026/apr/03/fashionably-late-cocktail-recipe-acres",
+    "mean_score": 0.3202,
+    "vader_score": 0.4404,
+    "textblob_score": 0.2,
+    "first_sentence": "Our cocktail list features both classics and new ones we\u2019ve created ourselves, including this old fashioned of sorts.",
+    "timestamp": "2026-04-03T12:00:52Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "\u2018Taking my clothes off is my whole life!\u2019 Bryan Cranston on the glorious gross-out return of Malcolm in the Middle",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/apr/03/bryan-cranston-malcolm-in-the-middle-return-breaking-bad",
+    "mean_score": 0.3973,
+    "vader_score": 0.6696,
+    "textblob_score": 0.125,
+    "first_sentence": "Did they? It\u2019s been 20 years since the Emmy-winning sitcom about an outrageous working-class US family with the titular child genius went off air.",
+    "timestamp": "2026-04-03T12:00:51Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Oxford Brookes\u2019 student racing team target Silverstone win",
     "link": "https://www.theguardian.com/education/2026/apr/03/oxford-brookes-f1-formula-student-competition-fastest-race-car",
     "mean_score": 0.6929,
