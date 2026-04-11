@@ -1,5 +1,55 @@
 [
   {
+    "headline": "William hails 'incredible' \u00a320m milestone for Bowelbabe fund",
+    "link": "https://www.bbc.com/news/articles/c4gvd994x15o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.45,
+    "vader_score": 0.0,
+    "textblob_score": 0.9,
+    "first_sentence": "A cancer research fund set up by Dame Deborah James has been hailed as an \"incredible milestone\" by the Prince of Wales after it hit the \u00a320m mark.",
+    "timestamp": "2026-04-02T14:54:31Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Puppy love: why asking my boyfriend to coparent Basil the greyhound was the most important proposal of all | Patrick Lenton",
+    "link": "https://www.theguardian.com/commentisfree/2026/apr/03/puppy-dog-care-relationship-milestone",
+    "mean_score": 0.6046,
+    "vader_score": 0.7425,
+    "textblob_score": 0.4667,
+    "first_sentence": "Recently I got down on one knee and presented my boyfriend with some jewellery, and asked if he would commit to caring for a very long, cute, stinky boy.",
+    "timestamp": "2026-04-02T14:00:28Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Peach PRC on stardom, synaesthesia and sexuality: \u2018There was so much joy and fun in stripping\u2019",
+    "link": "https://www.theguardian.com/music/2026/apr/03/peach-prc-shaylee-curnow-interview",
+    "mean_score": 0.6807,
+    "vader_score": 0.8115,
+    "textblob_score": 0.55,
+    "first_sentence": "Having lived much of her adult life online, Shaylee Curnow \u2013 better known as Peach PRC (or just Peach) \u2013 is now in her back-to-nature era.",
+    "timestamp": "2026-04-02T14:00:28Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "'Stay Alive,' about daily life in Nazi Berlin, shows how easy it is to just go along",
+    "link": "https://www.npr.org/2026/04/02/nx-s1-5763755/stay-alive-berlin-ian-buruma-review",
+    "mean_score": 0.4241,
+    "vader_score": 0.6705,
+    "textblob_score": 0.1778,
+    "first_sentence": "It's been 80 years since Adolf Hitler shot himself in his bunker, yet our fascination with the Nazi era seems eternal.",
+    "timestamp": "2026-04-02T13:31:57Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "Scientists excited to receive first Artemis signal",
+    "link": "https://www.bbc.com/news/articles/cy01w9jx974o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3263,
+    "vader_score": 0.34,
+    "textblob_score": 0.3125,
+    "first_sentence": "Scientists at a satellite earth station in Cornwall were excited to receive their first signal from Nasa's Artemis II mission to the Moon.",
+    "timestamp": "2026-04-02T11:50:42Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "What spring festivals remind us about food, family and fresh starts",
     "link": "https://www.theguardian.com/food/2026/mar/31/what-spring-festivals-remind-us-about-food-family-and-fresh-starts",
     "mean_score": 0.4429,
