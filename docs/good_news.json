@@ -1,6 +1,46 @@
 {
-  "last run": "2026-04-12T00:25:18Z",
+  "last run": "2026-04-12T04:02:50Z",
   "stories": [
+    {
+      "headline": "Love story: 'It's not my kidney now, it's yours. I'm just holding it for you'",
+      "link": "https://www.abc.net.au/news/2026-04-12/when-love-means-donating-kidney-to-your-brother/106387210",
+      "mean_score": 0.5685,
+      "vader_score": 0.6369,
+      "textblob_score": 0.5,
+      "first_sentence": "Despite a 10-year age gap, brothers Sajarn and Codey Stow, who share Juru, Bindal and Kaantju cultural heritage, have shared a close bond since their childhood in north Queensland.",
+      "timestamp": "2026-04-12T02:00:00Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "'Special thing to be a human': Artemis II crew welcomed home after moon mission",
+      "link": "https://www.sbs.com.au/news/article/artemis-ii-crew-welcomed-back-after-historic-moon-mission/tb4drvx5h",
+      "mean_score": 0.4017,
+      "vader_score": 0.6249,
+      "textblob_score": 0.1786,
+      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+      "timestamp": "2026-04-12T01:11:14Z",
+      "source": "SBS News"
+    },
+    {
+      "headline": "Debutant scores as Matildas kick off FIFA Series with thumping win",
+      "link": "https://www.abc.net.au/news/2026-04-12/matildas-thump-malawi-leticia-mckenna-scores-on-debut/106555802",
+      "mean_score": 0.6929,
+      "vader_score": 0.5859,
+      "textblob_score": 0.8,
+      "first_sentence": "The Matildas have cruised to a 5-0 win over Malawi to kick off their FIFA Series in Kenya.",
+      "timestamp": "2026-04-12T01:01:45Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "WA firefighter encouraging more women to join front line",
+      "link": "https://www.abc.net.au/news/2026-04-12/volunteer-firefighters-boosting-female-recruitment-south-west-wa/106511486",
+      "mean_score": 0.6032,
+      "vader_score": 0.7063,
+      "textblob_score": 0.5,
+      "first_sentence": "Volunteer firefighter Kahlia Lloyd wants to hold an annual day encouraging women to try firefighting in Western Australia's south-west.",
+      "timestamp": "2026-04-12T01:00:22Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Hungarians decide whether to end 16 years of Orb\u00e1n rule and elect rival",
       "link": "https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss",
@@ -2460,46 +2500,6 @@
       "first_sentence": "There were more important reasons for J\u00fcrgen Klopp\u2019s return to Liverpool last Saturday, but it was apposite his presence reminded Anfield of the unshakable bond and belief they once shared, the joy his football brought.",
       "timestamp": "2026-04-03T19:00:00Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Raye tops album charts with This Music May Contain Hope",
-      "link": "https://www.bbc.com/news/articles/c2k31wxvgvwo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3675,
-      "vader_score": 0.7351,
-      "textblob_score": 0.0,
-      "first_sentence": "Award-winning singer-songwriter Raye has topped the album charts for the first time with This Music May Contain Hope.",
-      "timestamp": "2026-04-03T16:48:29Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Live: US crew member rescued after fighter jet downed over Iran",
-      "link": "https://www.abc.net.au/news/2026-04-04/iran-middle-east-war-live-updates/106530628",
-      "mean_score": 0.3315,
-      "vader_score": 0.5267,
-      "textblob_score": 0.1364,
-      "first_sentence": "One US crew member has been found after an American fighter jet was shot down over Iran, a US official has confirmed.",
-      "timestamp": "2026-04-03T16:36:05Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Good Friday around the world \u2013 in pictures",
-      "link": "https://www.theguardian.com/lifeandstyle/gallery/2026/apr/03/good-friday-around-the-world-in-pictures",
-      "mean_score": 0.5702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.7,
-      "first_sentence": "Christians take part in processions and re-enactments to commemorate the crucifixion of Jesus Christ Continue reading.",
-      "timestamp": "2026-04-03T15:39:51Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "EV adoption in America: Who's winning, who's losing?",
-      "link": "https://arstechnica.com/cars/2026/04/ev-adoption-in-america-whos-winning-whos-losing/",
-      "mean_score": 0.3512,
-      "vader_score": 0.2023,
-      "textblob_score": 0.5,
-      "first_sentence": "Some OEMs saw double-digit growth in Q1, others saw double-digit declines.",
-      "timestamp": "2026-04-03T15:00:23Z",
-      "source": "Ars Technica"
     }
   ]
 }
