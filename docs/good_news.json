@@ -1,6 +1,46 @@
 {
-  "last run": "2026-04-11T21:09:21Z",
+  "last run": "2026-04-12T00:25:18Z",
   "stories": [
+    {
+      "headline": "Hungarians decide whether to end 16 years of Orb\u00e1n rule and elect rival",
+      "link": "https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4,
+      "vader_score": 0.0,
+      "textblob_score": 0.8,
+      "first_sentence": "Hungarians go to the polls on Sunday in a vote that could bring down long-serving Prime Minister Viktor Orb\u00e1n and have significant repercussions for the rest of Europe, the US and Russia.",
+      "timestamp": "2026-04-11T23:25:42Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "McIlroy knows he has to be better to win Masters after big lead disappears",
+      "link": "https://www.abc.net.au/news/2026-04-12/masters-jason-day-rory-mcilroy-cameron-young-third-round/106555660",
+      "mean_score": 0.541,
+      "vader_score": 0.6486,
+      "textblob_score": 0.4333,
+      "first_sentence": "Rory McIlroy shares the lead with Cameron Young on 11-under-par after the third round of the Masters, with Australian Jason Day just three strokes back.",
+      "timestamp": "2026-04-11T22:47:08Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Nick Xenophon-founded SA Best party comes to an end",
+      "link": "https://www.abc.net.au/news/2026-04-12/nick-xenophon-sa-best-party-comes-to-an-end/106539806",
+      "mean_score": 0.8922,
+      "vader_score": 0.7845,
+      "textblob_score": 1.0,
+      "first_sentence": "SA Best was formed by Nick Xenophon in 2017 ahead of the 2018 state election.",
+      "timestamp": "2026-04-11T21:23:13Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "'It's a special thing to be on Planet Earth': Artemis crew welcomed home in Houston",
+      "link": "https://www.bbc.com/news/videos/cd7jzj9rg1qo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.491,
+      "vader_score": 0.6249,
+      "textblob_score": 0.3571,
+      "first_sentence": "The four astronauts who flew in Nasa's Artemis II mission around the Moon have been welcomed back to Planet Earth at an event in Houston, Texas.",
+      "timestamp": "2026-04-11T21:23:07Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Brian Cox: \u2018We don\u2019t know how powerful AI is going to become \u2013 it\u2019s both exciting and potentially a problem\u2019",
       "link": "https://www.theguardian.com/science/2026/apr/11/brian-cox-physicist-interview-ai-science-paul-mccartney",
@@ -2460,46 +2500,6 @@
       "first_sentence": "Some OEMs saw double-digit growth in Q1, others saw double-digit declines.",
       "timestamp": "2026-04-03T15:00:23Z",
       "source": "Ars Technica"
-    },
-    {
-      "headline": "Artemis II\u2019s moon-bound astronauts capture Earth\u2019s brilliant blue beauty as they leave it behind",
-      "link": "https://apnews.com/article/artemis-moon-astronauts-nasa-8c66ed4f206f92b9d96c818d4dc056b4",
-      "mean_score": 0.4896,
-      "vader_score": 0.8126,
-      "textblob_score": 0.1667,
-      "first_sentence": "CAPE CANAVERAL, Fla.",
-      "timestamp": "2026-04-03T14:53:02Z",
-      "source": "AP News"
-    },
-    {
-      "headline": "Trainer 'never had a penny' on his 300-1 winning horse",
-      "link": "https://www.bbc.com/news/articles/cy71n3xpgl0o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5133,
-      "vader_score": 0.5267,
-      "textblob_score": 0.5,
-      "first_sentence": "The trainer of a horse which has equalled the UK racing record for longest-priced winner says he \"never had a penny on\" his winner.",
-      "timestamp": "2026-04-03T14:16:26Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Scrimp on moisturiser, splurge on serum: the secrets of a great skincare routine",
-      "link": "https://www.theguardian.com/thefilter/2026/apr/03/how-to-build-skincare-routine",
-      "mean_score": 0.7125,
-      "vader_score": 0.6249,
-      "textblob_score": 0.8,
-      "first_sentence": "The Guardian\u2019s journalism is independent.",
-      "timestamp": "2026-04-03T14:00:56Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "My doctor said joy can be found in unexpected places. For me it was the Adelaide 36ers | Olivia De Zilva",
-      "link": "https://www.theguardian.com/sport/2026/apr/04/my-doctor-said-joy-found-unexpected-places-basketball-nbl-adelaide-36ers",
-      "mean_score": 0.518,
-      "vader_score": 0.5859,
-      "textblob_score": 0.45,
-      "first_sentence": "I tried everything to find salvation in 2024.",
-      "timestamp": "2026-04-03T14:00:54Z",
-      "source": "The Guardian"
     }
   ]
 }
