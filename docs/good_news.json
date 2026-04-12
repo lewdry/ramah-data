@@ -1,6 +1,46 @@
 {
-  "last run": "2026-04-12T09:17:33Z",
+  "last run": "2026-04-12T12:11:46Z",
   "stories": [
+    {
+      "headline": "Remote working tribunal cases in Great Britain fall for first time since Covid",
+      "link": "https://www.theguardian.com/money/2026/apr/12/remote-working-tribunal-cases-great-britain-fall-for-first-time-since-covid-hit",
+      "mean_score": 0.4708,
+      "vader_score": 0.6249,
+      "textblob_score": 0.3167,
+      "first_sentence": "The number of workers in Great Britain taking their bosses to employment tribunals over remote working fell last year for the first time since Covid hit, with a tightening labour market making some more reluctant to leave roles despite return-to-office mandates.",
+      "timestamp": "2026-04-12T11:00:17Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Is AI the greatest art heist in history?",
+      "link": "https://www.theguardian.com/books/2026/apr/12/is-ai-the-greatest-art-heist-in-history",
+      "mean_score": 0.8185,
+      "vader_score": 0.6369,
+      "textblob_score": 1.0,
+      "first_sentence": "In 2026, its easy to see why generative AI is bad.",
+      "timestamp": "2026-04-12T11:00:17Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Hull closes national titles on her terms with 5k win after shock 1,500m fall",
+      "link": "https://www.abc.net.au/news/2026-04-12/jess-hull-5000m-win-after-1500m-shock-fall-athletics-champs/106556436",
+      "mean_score": 0.548,
+      "vader_score": 0.296,
+      "textblob_score": 0.8,
+      "first_sentence": "After a disastrous 1,500 metres final where she fell and finished last, Olympic silver medallist Jess Hull considered pulling the pin on the Australian Athletics Championships in Sydney.",
+      "timestamp": "2026-04-12T10:28:22Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "This is how we do it: \u2018I love the idea of only knowing one person intimately for the rest of my life\u2019",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/apr/12/this-is-how-we-do-it-know-one-person-intimately-for-life",
+      "mean_score": 0.4351,
+      "vader_score": 0.6369,
+      "textblob_score": 0.2333,
+      "first_sentence": "Studying on different continents is a challenge for Veronika and Fabio \u2026 Can their young love go the distance?.",
+      "timestamp": "2026-04-12T10:00:14Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Wallaroos\u2019 hopes of breakthrough win washed away by Canada in stormy conditions",
       "link": "https://www.theguardian.com/sport/2026/apr/12/canada-australia-wallaroos-womens-rugby-union-pacific-four-report",
@@ -19,6 +59,16 @@
       "textblob_score": 0.3,
       "first_sentence": "Conservationists say pine martens are \"doing well\" after being being reintroduced to parts of south-west England.",
       "timestamp": "2026-04-12T06:12:20Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Are some things better left unsaid, even if you're getting married?",
+      "link": "https://www.bbc.com/news/articles/c1mk3y2np55o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3452,
+      "vader_score": 0.4404,
+      "textblob_score": 0.25,
+      "first_sentence": "It's safe to say Zendaya and Robert Pattinson's new film The Drama has been starting a lot of conversations.",
+      "timestamp": "2026-04-12T05:35:19Z",
       "source": "BBC News"
     },
     {
@@ -2450,56 +2500,6 @@
       "first_sentence": "The visitor to New Zealand\u2019s South Island knows what they have to see.",
       "timestamp": "2026-04-03T23:00:07Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Demons star praised for reaching 'another level' with career-best form",
-      "link": "https://www.abc.net.au/news/2026-04-04/afl-kysaiah-pickett-melbourne-demons-gold-coast-suns/106531202",
-      "mean_score": 0.3062,
-      "vader_score": 0.6124,
-      "textblob_score": 0.0,
-      "first_sentence": "Kysaiah Pickett has been one of Melbourne's best players during its opening three matches of the season.",
-      "timestamp": "2026-04-03T21:55:36Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "After decades of success, love and loss, outback pub changes hands",
-      "link": "https://www.abc.net.au/news/2026-04-04/queensland-award-winning-nindigully-pub-changes-hands/106525382",
-      "mean_score": 0.5825,
-      "vader_score": 0.765,
-      "textblob_score": 0.4,
-      "first_sentence": "Standing on the front deck of the watering hole he turned into an outback icon, Stephen \"Burnsie\" Burns leans on the shoulders of Tom Leggett.",
-      "timestamp": "2026-04-03T21:50:44Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Five Great Reads: When your mum is a cult leader, the OnlyFans inheritance, and 35,000 pints of stolen Guinness",
-      "link": "https://www.theguardian.com/australia-news/2026/apr/01/when-your-mum-is-a-cult-leader-the-onlyfans-inheritance-and-35000-pints-of-stolen-guinness",
-      "mean_score": 0.5131,
-      "vader_score": 0.2263,
-      "textblob_score": 0.8,
-      "first_sentence": "Dear readers, this is my final instalment of Five Great Reads, but fear not \u2013 my wonderful colleague Imogen Dewey will be back in your inboxes next week and beyond.",
-      "timestamp": "2026-04-03T21:46:33Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Poo of 'endearing' bat worth hundreds of millions, study says",
-      "link": "https://www.abc.net.au/news/2026-04-04/economic-value-australian-grey-headed-flying-fox-bat-poo/106507002",
-      "mean_score": 0.3132,
-      "vader_score": 0.2263,
-      "textblob_score": 0.4,
-      "first_sentence": "Bats are often thought of as smelly, ugly and noisy, but a study has revealed their poo could be worth hundreds-of-millions of dollars.",
-      "timestamp": "2026-04-03T20:15:35Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Cops would not have had 'luxury' of taking Dezi Freeman alive, experts say",
-      "link": "https://www.abc.net.au/news/2026-04-04/dezi-freeman-hostage-negotiators-perspective/106521646",
-      "mean_score": 0.3743,
-      "vader_score": 0.6486,
-      "textblob_score": 0.1,
-      "first_sentence": "A former police hostage negotiator says he was sure Dezi Freeman's seven-month run from the law \"was going to end in tears\" and that the fugitive would never surrender.",
-      "timestamp": "2026-04-03T19:14:04Z",
-      "source": "ABC News"
     }
   ]
 }

@@ -1,5 +1,55 @@
 [
   {
+    "headline": "Demons star praised for reaching 'another level' with career-best form",
+    "link": "https://www.abc.net.au/news/2026-04-04/afl-kysaiah-pickett-melbourne-demons-gold-coast-suns/106531202",
+    "mean_score": 0.3062,
+    "vader_score": 0.6124,
+    "textblob_score": 0.0,
+    "first_sentence": "Kysaiah Pickett has been one of Melbourne's best players during its opening three matches of the season.",
+    "timestamp": "2026-04-03T21:55:36Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "After decades of success, love and loss, outback pub changes hands",
+    "link": "https://www.abc.net.au/news/2026-04-04/queensland-award-winning-nindigully-pub-changes-hands/106525382",
+    "mean_score": 0.5825,
+    "vader_score": 0.765,
+    "textblob_score": 0.4,
+    "first_sentence": "Standing on the front deck of the watering hole he turned into an outback icon, Stephen \"Burnsie\" Burns leans on the shoulders of Tom Leggett.",
+    "timestamp": "2026-04-03T21:50:44Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Five Great Reads: When your mum is a cult leader, the OnlyFans inheritance, and 35,000 pints of stolen Guinness",
+    "link": "https://www.theguardian.com/australia-news/2026/apr/01/when-your-mum-is-a-cult-leader-the-onlyfans-inheritance-and-35000-pints-of-stolen-guinness",
+    "mean_score": 0.5131,
+    "vader_score": 0.2263,
+    "textblob_score": 0.8,
+    "first_sentence": "Dear readers, this is my final instalment of Five Great Reads, but fear not \u2013 my wonderful colleague Imogen Dewey will be back in your inboxes next week and beyond.",
+    "timestamp": "2026-04-03T21:46:33Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Poo of 'endearing' bat worth hundreds of millions, study says",
+    "link": "https://www.abc.net.au/news/2026-04-04/economic-value-australian-grey-headed-flying-fox-bat-poo/106507002",
+    "mean_score": 0.3132,
+    "vader_score": 0.2263,
+    "textblob_score": 0.4,
+    "first_sentence": "Bats are often thought of as smelly, ugly and noisy, but a study has revealed their poo could be worth hundreds-of-millions of dollars.",
+    "timestamp": "2026-04-03T20:15:35Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Cops would not have had 'luxury' of taking Dezi Freeman alive, experts say",
+    "link": "https://www.abc.net.au/news/2026-04-04/dezi-freeman-hostage-negotiators-perspective/106521646",
+    "mean_score": 0.3743,
+    "vader_score": 0.6486,
+    "textblob_score": 0.1,
+    "first_sentence": "A former police hostage negotiator says he was sure Dezi Freeman's seven-month run from the law \"was going to end in tears\" and that the fugitive would never surrender.",
+    "timestamp": "2026-04-03T19:14:04Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "\u2018Luckily, I wasn\u2019t decapitated\u2019: 17 comedians\u2019 stories from 40 years of Melbourne international comedy festival",
     "link": "https://www.theguardian.com/stage/2026/apr/04/melbourne-comedy-festival-40-years-comedian-shows-what-to-see",
     "mean_score": 0.4287,
