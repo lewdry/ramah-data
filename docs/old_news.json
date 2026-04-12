@@ -1,5 +1,25 @@
 [
   {
+    "headline": "\u2018Luckily, I wasn\u2019t decapitated\u2019: 17 comedians\u2019 stories from 40 years of Melbourne international comedy festival",
+    "link": "https://www.theguardian.com/stage/2026/apr/04/melbourne-comedy-festival-40-years-comedian-shows-what-to-see",
+    "mean_score": 0.4287,
+    "vader_score": 0.6908,
+    "textblob_score": 0.1667,
+    "first_sentence": "Colin Lane: Frank and I did our first MICF as The Found Objects [with Scott Casley].",
+    "timestamp": "2026-04-03T19:00:01Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Harry Kane, England\u2019s Ballon d\u2019Or hopeful, is finally getting the love he deserves | Barney Ronay",
+    "link": "https://www.theguardian.com/football/2026/apr/03/harry-kane-england-ballon-dor-bayern-munich",
+    "mean_score": 0.5338,
+    "vader_score": 0.8176,
+    "textblob_score": 0.25,
+    "first_sentence": "Everyone has their favourite mental comfort food, the stuff that makes you feel good in troubled times.",
+    "timestamp": "2026-04-03T19:00:01Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Five matches, 16 days, a season to save: Slot\u2019s Liverpool vision faces a defining moment",
     "link": "https://www.theguardian.com/football/2026/apr/03/five-matches-16-days-a-season-to-save-slots-liverpool-vision-faces-its-defining-moment",
     "mean_score": 0.3185,
