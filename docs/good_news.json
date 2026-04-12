@@ -1,6 +1,16 @@
 {
-  "last run": "2026-04-12T04:02:50Z",
+  "last run": "2026-04-12T06:33:08Z",
   "stories": [
+    {
+      "headline": "Hopes more pine martens will be born in the wild",
+      "link": "https://www.bbc.com/news/articles/cn9q7vlwnxno?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3608,
+      "vader_score": 0.4215,
+      "textblob_score": 0.3,
+      "first_sentence": "Conservationists say pine martens are \"doing well\" after being being reintroduced to parts of south-west England.",
+      "timestamp": "2026-04-12T06:12:20Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Love story: 'It's not my kidney now, it's yours. I'm just holding it for you'",
       "link": "https://www.abc.net.au/news/2026-04-12/when-love-means-donating-kidney-to-your-brother/106387210",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.25,
       "first_sentence": "Everyone has their favourite mental comfort food, the stuff that makes you feel good in troubled times.",
       "timestamp": "2026-04-03T19:00:01Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Five matches, 16 days, a season to save: Slot\u2019s Liverpool vision faces a defining moment",
-      "link": "https://www.theguardian.com/football/2026/apr/03/five-matches-16-days-a-season-to-save-slots-liverpool-vision-faces-its-defining-moment",
-      "mean_score": 0.3185,
-      "vader_score": 0.6369,
-      "textblob_score": 0.0,
-      "first_sentence": "There were more important reasons for J\u00fcrgen Klopp\u2019s return to Liverpool last Saturday, but it was apposite his presence reminded Anfield of the unshakable bond and belief they once shared, the joy his football brought.",
-      "timestamp": "2026-04-03T19:00:00Z",
       "source": "The Guardian"
     }
   ]
