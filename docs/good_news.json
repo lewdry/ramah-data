@@ -1,6 +1,56 @@
 {
-  "last run": "2026-04-13T12:23:07Z",
+  "last run": "2026-04-13T15:30:30Z",
   "stories": [
+    {
+      "headline": "Hungarian election winner Magyar vows to rebuild EU relationship after stunning defeat of Viktor Orb\u00e1n - Europe live",
+      "link": "https://www.theguardian.com/world/live/2026/apr/13/hungary-peter-magyar-viktor-orban-trump-russia-ukraine-iran-eu-europe-latest-news-updates",
+      "mean_score": 0.4224,
+      "vader_score": 0.5267,
+      "textblob_score": 0.3182,
+      "first_sentence": "After some 20 minutes, Magyar is turning towards foreign policy now.",
+      "timestamp": "2026-04-13T15:06:02Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Sistren review \u2013 a profound love story between two best friends (told with memes, lip-syncs and confetti)",
+      "link": "https://www.theguardian.com/stage/2026/apr/14/sistren-review-iolanthe-janet-anderson-griffin-theatre-belvoir-sydney",
+      "mean_score": 0.7189,
+      "vader_score": 0.91,
+      "textblob_score": 0.5278,
+      "first_sentence": "It\u2019s only April, but the most profound love story on a Sydney stage this year may just be the soulmate-friendship between Isla and Violet in Sistren.",
+      "timestamp": "2026-04-13T15:00:43Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Spring flowers bloom in England after heatwave and cold snap create ideal conditions",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/apr/13/spring-flowers-bloom-england-heatwave-cold-snap-create-ideal-conditions",
+      "mean_score": 0.4103,
+      "vader_score": 0.6705,
+      "textblob_score": 0.15,
+      "first_sentence": "Colourful tulips, hyacinths, wisteria and daffodils have made a remarkable display across England after a short period of hot weather followed by a cold snap created excellent conditions for spring blooms.",
+      "timestamp": "2026-04-13T14:47:10Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Not over, but done: Lamine Yamal all smiles as he guides Barcelona to verge of title",
+      "link": "https://www.theguardian.com/football/2026/apr/13/lamine-yamal-all-smiles-as-he-guides-barcelona-to-verge-of-title-la-liga",
+      "mean_score": 0.3155,
+      "vader_score": 0.631,
+      "textblob_score": 0.0,
+      "first_sentence": "Lamine Yamal had not crossed the line yet but he was celebrating already, everyone else following him.",
+      "timestamp": "2026-04-13T14:40:03Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Bollywood classics, rave bangers and Michael Stipe duets: 10 of Asha Bhosle\u2019s greatest recordings",
+      "link": "https://www.theguardian.com/music/2026/apr/13/asha-bhosle-greatest-recordings-bollywood-rave-bangers-michael-stipe",
+      "mean_score": 0.8185,
+      "vader_score": 0.6369,
+      "textblob_score": 1.0,
+      "first_sentence": "With more than 12,000 songs to her name, Indian playback singer Asha Bhosle is one of the most recorded and well-known voices in Bollywood cinema.",
+      "timestamp": "2026-04-13T13:12:06Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Rukmini Iyer\u2019s quick and easy recipe for chilli eggs with miso beans and spinach | Quick and easy",
       "link": "https://www.theguardian.com/food/2026/apr/13/quick-easy-chilli-eggs-recipe-miso-beans-spinach-rukmini-iyer",
@@ -119,6 +169,16 @@
       "textblob_score": 1.0,
       "first_sentence": "A primary school says attendance has improved and pupils are \"more settled\" since a free breakfast club was set up.",
       "timestamp": "2026-04-13T05:10:54Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "'I should have been safe on a pavement' - woman's injuries show reality of being hit by an e-bike",
+      "link": "https://www.bbc.com/news/articles/c4glry7k2z9o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.5,
+      "first_sentence": "Sandy Peters doesn't remember anything at all about the crash itself.",
+      "timestamp": "2026-04-13T04:58:30Z",
       "source": "BBC News"
     },
     {
@@ -2439,66 +2499,6 @@
       "textblob_score": 1.0,
       "first_sentence": "If you are trying to incorporate more beans and pulses into your diet, as I am, then this robust, one-pot feast, which food writer Edite Vieira describes as \u201ca marvellous standby of the Portuguese kitchen\u201d, is one to bear in mind.",
       "timestamp": "2026-04-05T12:00:50Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018I still think it\u2019s one of the great films of all time\u2019: All the President\u2019s Men turns 50",
-      "link": "https://www.theguardian.com/us-news/2026/apr/05/all-the-presidents-men-watergate-50-anniversary",
-      "mean_score": 0.7125,
-      "vader_score": 0.6249,
-      "textblob_score": 0.8,
-      "first_sentence": "The rustle of a notepad.",
-      "timestamp": "2026-04-05T11:00:49Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "This is how we do it: \u2018The fact he\u2019s comfortable enough with his sexuality to be intimate with other men is so hot to me\u2019",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/apr/05/this-is-how-we-do-it-swinger-lifestyle-polyamory",
-      "mean_score": 0.3278,
-      "vader_score": 0.5106,
-      "textblob_score": 0.145,
-      "first_sentence": "After my first marriage ended 15 years ago, I felt as if I had a ton of catching up to do when it came to sexual experiences.",
-      "timestamp": "2026-04-05T10:00:47Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018I was getting down with a guy and he decided to put on One Love. It was creepy\u2019: Duncan James from Blue\u2019s honest playlist",
-      "link": "https://www.theguardian.com/music/2026/apr/05/duncan-james-blue-honest-playlist-geri-halliwell-elvis-tight-fit",
-      "mean_score": 0.4532,
-      "vader_score": 0.8176,
-      "textblob_score": 0.0889,
-      "first_sentence": "The Blue singer thinks Aqua deserve respect and his mum once did karaoke with a legend.",
-      "timestamp": "2026-04-05T08:00:45Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Sydney Kings break Adelaide 36ers hearts in overtime thriller to win NBL Championship",
-      "link": "https://www.theguardian.com/sport/2026/apr/05/sydney-kings-bear-adelaide-36ers-overtime-to-win-nbl-championship-finals-decider",
-      "mean_score": 0.854,
-      "vader_score": 0.9081,
-      "textblob_score": 0.8,
-      "first_sentence": "The Sydney Kings have won their sixth NBL title with a dramatic 113-101 overtime defeat of the Adelaide 36ers in the decisive fifth game of the championship series.",
-      "timestamp": "2026-04-05T07:07:38Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "An AI bot invited me to its party in Manchester. It was a pretty good night",
-      "link": "https://www.theguardian.com/technology/2026/apr/05/ai-bot-party-manchester-gaskell",
-      "mean_score": 0.6533,
-      "vader_score": 0.8316,
-      "textblob_score": 0.475,
-      "first_sentence": "Two weeks ago, an AI bot invited me to a party it was organising in Manchester.",
-      "timestamp": "2026-04-05T07:00:44Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Welcome to the MrBeastification of British politics: the latest trick up Nigel Farage's sleeve | Kirsty Major",
-      "link": "https://www.theguardian.com/commentisfree/2026/apr/05/mr-beast-british-politics-nigel-farage-reform-uk-energy-bill-giveaway",
-      "mean_score": 0.3811,
-      "vader_score": 0.4215,
-      "textblob_score": 0.3406,
-      "first_sentence": "A man stands in the middle of a suburban English street holding a wad of cash in his hands.",
-      "timestamp": "2026-04-05T07:00:44Z",
       "source": "The Guardian"
     }
   ]
