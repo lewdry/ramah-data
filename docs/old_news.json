@@ -1,5 +1,35 @@
 [
   {
+    "headline": "What are peptides, are they safe and is there evidence to back up the hype?",
+    "link": "https://www.theguardian.com/science/2026/apr/04/what-are-peptides-safety-wellness-products-online",
+    "mean_score": 0.3452,
+    "vader_score": 0.4404,
+    "textblob_score": 0.25,
+    "first_sentence": "From influencers to athletes, high-profile figures are hailing peptides as the route to wellness, claiming they help with injury repair, weight loss, anti-ageing and mood.",
+    "timestamp": "2026-04-04T16:00:25Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "A Fox host says \u2018many people\u2019 think women shouldn\u2019t be president. Thank goodness we\u2019ve got a man in charge | Arwa Mahdawi",
+    "link": "https://www.theguardian.com/commentisfree/2026/apr/04/jesse-watters-fox-pam-bondi-darfur-lebanon-senegal",
+    "mean_score": 0.5853,
+    "vader_score": 0.6705,
+    "textblob_score": 0.5,
+    "first_sentence": "Oh dear, it looks like Jesse Watters\u2019 mother needs to give him a good talking to again.",
+    "timestamp": "2026-04-04T13:00:21Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Outspoken Iranians overseas say their loved ones are being detained back home",
+    "link": "https://apnews.com/article/iran-crackdown-dissidents-activists-opposition-war-exile-0cd818d9a5e66ada07f834c27e5f0065",
+    "mean_score": 0.323,
+    "vader_score": 0.296,
+    "textblob_score": 0.35,
+    "first_sentence": "CAIRO (AP) \u2014 Iran\u2019s government is detaining family members and threatening to seize property of Iranian opposition figures in exile, some tell The Associated Press, in the latest crackdown on dissenting voices as the war rages on.",
+    "timestamp": "2026-04-04T12:23:02Z",
+    "source": "AP News"
+  },
+  {
     "headline": "\u2018Don\u2019t wait four more years\u2019: World Cup co-hosts Canada offer Italy fans free shirt swap",
     "link": "https://www.theguardian.com/football/2026/apr/04/world-cup-2026-canada-offer-italy-fans-free-shirt-swap",
     "mean_score": 0.4803,

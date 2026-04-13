@@ -1,6 +1,26 @@
 {
-  "last run": "2026-04-12T21:10:03Z",
+  "last run": "2026-04-13T00:26:10Z",
   "stories": [
+    {
+      "headline": "Children and 75yo among dozens of homeless in wealthy holiday town",
+      "link": "https://www.abc.net.au/news/2026-04-13/survey-reveals-spread-homelessness-margaret-river/106544018",
+      "mean_score": 0.5685,
+      "vader_score": 0.6369,
+      "textblob_score": 0.5,
+      "first_sentence": "More that 40 people have been found to be homeless in Margaret River, including a 75-year-old.",
+      "timestamp": "2026-04-13T00:03:00Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "The surprising reality of how teenage girls still define themselves",
+      "link": "https://www.bbc.com/news/articles/c62je1g000eo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3116,
+      "vader_score": 0.2732,
+      "textblob_score": 0.35,
+      "first_sentence": "A felt\u2011tip sign taped to the door of a private room announces \"GIRLS ONLY\", \"Boy's don't Eneter!\" [sic], and, by way of a cheeky flourish, \"don't worry boys!\".",
+      "timestamp": "2026-04-12T23:06:03Z",
+      "source": "BBC News"
+    },
     {
       "headline": "An Aussie rugby win at home is one thing but victory in NZ is another",
       "link": "https://www.abc.net.au/news/2026-04-13/super-rugby-pacific-round-nine-australia-new-zealand/106556520",
@@ -20,6 +40,16 @@
       "first_sentence": "The Tasmanian government is hosting meetings about the future of the West Coast Wilderness Railway, which is a significant employer and economic driver for Queenstown and Strahan.",
       "timestamp": "2026-04-12T19:20:13Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "Wout van Aert outduels Tadej Pogacar to win his first Paris-Roubaix title",
+      "link": "https://www.theguardian.com/sport/2026/apr/12/wout-van-aert-tadej-pogacar-mathieu-van-der-poel-paris-roubaix-cycling",
+      "mean_score": 0.5554,
+      "vader_score": 0.5859,
+      "textblob_score": 0.525,
+      "first_sentence": "Wout van Aert shattered a decade-old jinx to win Paris-Roubaix on Sunday, outduelling the world champion, Tadej Pogacar, in a brutal classic race across the cobbles, while Franziska Koch edged out Marianne Vos in the women\u2019s race.",
+      "timestamp": "2026-04-12T18:52:29Z",
+      "source": "The Guardian"
     },
     {
       "headline": "'It's a special thing to be on Planet Earth': Nasa's Artemis crew welcomed home",
@@ -2470,36 +2500,6 @@
       "first_sentence": "Real Mallorca dealt a major blow to Real Madrid\u2019s title aspirations as Vedat Muriqi struck an added-time winner to seal a shock 2-1 win for the hosts, leaving Real four points behind Barcelona before the leaders play Atl\u00e9tico Madrid later on Saturday.",
       "timestamp": "2026-04-04T16:40:39Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "What are peptides, are they safe and is there evidence to back up the hype?",
-      "link": "https://www.theguardian.com/science/2026/apr/04/what-are-peptides-safety-wellness-products-online",
-      "mean_score": 0.3452,
-      "vader_score": 0.4404,
-      "textblob_score": 0.25,
-      "first_sentence": "From influencers to athletes, high-profile figures are hailing peptides as the route to wellness, claiming they help with injury repair, weight loss, anti-ageing and mood.",
-      "timestamp": "2026-04-04T16:00:25Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "A Fox host says \u2018many people\u2019 think women shouldn\u2019t be president. Thank goodness we\u2019ve got a man in charge | Arwa Mahdawi",
-      "link": "https://www.theguardian.com/commentisfree/2026/apr/04/jesse-watters-fox-pam-bondi-darfur-lebanon-senegal",
-      "mean_score": 0.5853,
-      "vader_score": 0.6705,
-      "textblob_score": 0.5,
-      "first_sentence": "Oh dear, it looks like Jesse Watters\u2019 mother needs to give him a good talking to again.",
-      "timestamp": "2026-04-04T13:00:21Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Outspoken Iranians overseas say their loved ones are being detained back home",
-      "link": "https://apnews.com/article/iran-crackdown-dissidents-activists-opposition-war-exile-0cd818d9a5e66ada07f834c27e5f0065",
-      "mean_score": 0.323,
-      "vader_score": 0.296,
-      "textblob_score": 0.35,
-      "first_sentence": "CAIRO (AP) \u2014 Iran\u2019s government is detaining family members and threatening to seize property of Iranian opposition figures in exile, some tell The Associated Press, in the latest crackdown on dissenting voices as the war rages on.",
-      "timestamp": "2026-04-04T12:23:02Z",
-      "source": "AP News"
     }
   ]
 }
