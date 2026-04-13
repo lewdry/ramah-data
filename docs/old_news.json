@@ -1,5 +1,75 @@
 [
   {
+    "headline": "Huge sea turtle rescued after being discovered stranded upside down",
+    "link": "https://www.abc.net.au/news/2026-04-05/lifesaving-turned-turtle-rescue-at-urunga/106531572",
+    "mean_score": 0.3736,
+    "vader_score": 0.6249,
+    "textblob_score": 0.1222,
+    "first_sentence": "A large sea turtle weighing more than 50 kilograms has been rescued from a Urunga beach.",
+    "timestamp": "2026-04-05T02:56:57Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Travellers celebrate as major highway reopens after Cyclone Narelle",
+    "link": "https://www.abc.net.au/news/2026-04-05/nwch-reopens-after-cyclone-narelle-for-easter-road-trips/106532742",
+    "mean_score": 0.3172,
+    "vader_score": 0.5719,
+    "textblob_score": 0.0625,
+    "first_sentence": "Cyclone Narelle dumped heavy rain causing significant damage to the North West Coastal Highway in the Pilbara.",
+    "timestamp": "2026-04-05T02:54:49Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Cambodia unveils statue to honour famous landmine-sniffing rat",
+    "link": "https://www.bbc.com/news/articles/c0rx7xzd10xo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.5359,
+    "vader_score": 0.5719,
+    "textblob_score": 0.5,
+    "first_sentence": "A famous mine-clearing rat, who was awarded a gold medal for his heroism, has been commemorated with the world's first statue dedicated to a landmine-detecting rat.",
+    "timestamp": "2026-04-05T01:09:11Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "'Amazing' breakthrough as rare bird relearns its lost 'love song'",
+    "link": "https://www.abc.net.au/news/2026-04-05/saving-the-regent-honeyeaters-love-song/106515178",
+    "mean_score": 0.6192,
+    "vader_score": 0.7717,
+    "textblob_score": 0.4667,
+    "first_sentence": "When wildlife photographer Richard Shaw spotted a rare regent honeyeater on the New South Wales Mid North Coast, he was not sure if his eyes were playing tricks on him.",
+    "timestamp": "2026-04-04T23:07:04Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Streetwear and crop tops take World Cup fashion to new heights",
+    "link": "https://www.bbc.com/news/articles/cr71vne5k70o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3235,
+    "vader_score": 0.5106,
+    "textblob_score": 0.1364,
+    "first_sentence": "Shirt launches are a hotly anticipated part of every World Cup.",
+    "timestamp": "2026-04-04T23:01:44Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Brazilian admits to 'fan-girling' during win over Gilmore at Bells Beach",
+    "link": "https://www.abc.net.au/news/2026-04-05/stephanie-gilmore-beaten-by-luana-silva-at-bells-beach/106532482",
+    "mean_score": 0.7592,
+    "vader_score": 0.7184,
+    "textblob_score": 0.8,
+    "first_sentence": "Luana Silva defeated Stephanie Gilmore in the first round at Bells Beach.",
+    "timestamp": "2026-04-04T22:55:53Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "The man who became one of India's greatest stage queens",
+    "link": "https://www.bbc.com/news/articles/cd0rl52z3dzo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.8185,
+    "vader_score": 0.6369,
+    "textblob_score": 1.0,
+    "first_sentence": "In mid-20th Century Bengal in eastern India, some of the biggest female stars on stage were actually men.",
+    "timestamp": "2026-04-04T22:20:51Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Archbishop to pray for Middle East peace in first Easter sermon",
     "link": "https://www.bbc.com/news/articles/c93edxr57d0o?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.3543,

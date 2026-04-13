@@ -1,6 +1,56 @@
 {
-  "last run": "2026-04-13T04:07:03Z",
+  "last run": "2026-04-13T06:43:46Z",
   "stories": [
+    {
+      "headline": "Can you solve it? Are you smarter than a Navy admiral?",
+      "link": "https://www.theguardian.com/science/2026/apr/13/can-you-solve-it-are-you-smarter-than-a-navy-admiral",
+      "mean_score": 0.3775,
+      "vader_score": 0.755,
+      "textblob_score": 0.0,
+      "first_sentence": "Tanya has now written her first book, Mathematical Puzzles and Curiosities, in collaboration with two other puzzle enthusiasts, Ivo David and Yogev Shpilman.",
+      "timestamp": "2026-04-13T06:10:13Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "My search for the perfect bodega in Madrid",
+      "link": "https://www.theguardian.com/travel/2026/apr/13/search-for-perfect-bodega-bar-in-madrid",
+      "mean_score": 0.7859,
+      "vader_score": 0.5719,
+      "textblob_score": 1.0,
+      "first_sentence": "The first hurdle to overcome when searching for the Spanish capital\u2019s top bodegas is the correct interpretation of the word \u201cbodega\u201d.",
+      "timestamp": "2026-04-13T06:00:38Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Rory McIlroy wins the Masters for second year in a row",
+      "link": "https://www.npr.org/2026/04/13/g-s1-117215/rory-mcilroy-wins-the-masters",
+      "mean_score": 0.3609,
+      "vader_score": 0.5719,
+      "textblob_score": 0.15,
+      "first_sentence": "AUGUSTA, Ga.",
+      "timestamp": "2026-04-13T05:44:11Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "'School breakfast club has best toast in the world'",
+      "link": "https://www.bbc.com/news/articles/cly02z2pe35o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.8185,
+      "vader_score": 0.6369,
+      "textblob_score": 1.0,
+      "first_sentence": "A primary school says attendance has improved and pupils are \"more settled\" since a free breakfast club was set up.",
+      "timestamp": "2026-04-13T05:10:54Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Borlase leads host of Opals stars to sign new WNBA free agency deals",
+      "link": "https://www.abc.net.au/news/2026-04-13/basketball-borlase-magbegor-opals-stars-sign-new-wnba-deals/106558812",
+      "mean_score": 0.3894,
+      "vader_score": 0.5106,
+      "textblob_score": 0.2682,
+      "first_sentence": "WNBL MVP Izzy Borlase has signed a new deal with the Atlanta Dream in the WNBA free agency period.",
+      "timestamp": "2026-04-13T04:19:31Z",
+      "source": "ABC News"
+    },
     {
       "headline": "\u20ac1m Picasso painting to be won for \u20ac100 in charity raffle",
       "link": "https://www.theguardian.com/artanddesign/2026/apr/13/picasso-tete-de-femme-charity-raffle",
@@ -92,6 +142,16 @@
       "source": "ABC News"
     },
     {
+      "headline": "Hungary's Orb\u00e1n era ends in a landslide election win for opposition",
+      "link": "https://www.abc.net.au/news/2026-04-13/viktor-orban-hungary-election-peter-magyar/106557060",
+      "mean_score": 0.6929,
+      "vader_score": 0.5859,
+      "textblob_score": 0.8,
+      "first_sentence": "Centre-right Tisza Party leader P\u00e9ter Magyar is on course to become Hungary's new prime minister with a two-thirds majority.",
+      "timestamp": "2026-04-12T19:38:22Z",
+      "source": "ABC News"
+    },
+    {
       "headline": "Loved, but costly \u2014 is the end near for this heritage railway?",
       "link": "https://www.abc.net.au/news/2026-04-13/west-coast-wilderness-railway-government-tourism-talks/106552894",
       "mean_score": 0.3072,
@@ -110,6 +170,16 @@
       "first_sentence": "Wout van Aert shattered a decade-old jinx to win Paris-Roubaix on Sunday, outduelling the world champion, Tadej Pogacar, in a brutal classic race across the cobbles, while Franziska Koch edged out Marianne Vos in the women\u2019s race.",
       "timestamp": "2026-04-12T18:52:29Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "Australia's best inventor you've never heard of",
+      "link": "https://www.abc.net.au/news/2026-04-13/martin-green-role-in-solar-power-unstoppable-rise/106499018",
+      "mean_score": 0.8185,
+      "vader_score": 0.6369,
+      "textblob_score": 1.0,
+      "first_sentence": "The rise of solar power shows no sign of slowing down, with the International Energy Agency predicting it will overtake coal as the world's biggest source of electricity next year.",
+      "timestamp": "2026-04-12T18:46:38Z",
+      "source": "ABC News"
     },
     {
       "headline": "How recycling can help solve a 'huge issue' in tennis",
@@ -2430,76 +2500,6 @@
       "first_sentence": "The Sydney Kings have won their sixth NBL title with a dramatic 113-101 overtime defeat of the Adelaide 36ers in the decisive fifth game of the championship series.",
       "timestamp": "2026-04-05T03:20:49Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Huge sea turtle rescued after being discovered stranded upside down",
-      "link": "https://www.abc.net.au/news/2026-04-05/lifesaving-turned-turtle-rescue-at-urunga/106531572",
-      "mean_score": 0.3736,
-      "vader_score": 0.6249,
-      "textblob_score": 0.1222,
-      "first_sentence": "A large sea turtle weighing more than 50 kilograms has been rescued from a Urunga beach.",
-      "timestamp": "2026-04-05T02:56:57Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Travellers celebrate as major highway reopens after Cyclone Narelle",
-      "link": "https://www.abc.net.au/news/2026-04-05/nwch-reopens-after-cyclone-narelle-for-easter-road-trips/106532742",
-      "mean_score": 0.3172,
-      "vader_score": 0.5719,
-      "textblob_score": 0.0625,
-      "first_sentence": "Cyclone Narelle dumped heavy rain causing significant damage to the North West Coastal Highway in the Pilbara.",
-      "timestamp": "2026-04-05T02:54:49Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Cambodia unveils statue to honour famous landmine-sniffing rat",
-      "link": "https://www.bbc.com/news/articles/c0rx7xzd10xo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5359,
-      "vader_score": 0.5719,
-      "textblob_score": 0.5,
-      "first_sentence": "A famous mine-clearing rat, who was awarded a gold medal for his heroism, has been commemorated with the world's first statue dedicated to a landmine-detecting rat.",
-      "timestamp": "2026-04-05T01:09:11Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "'Amazing' breakthrough as rare bird relearns its lost 'love song'",
-      "link": "https://www.abc.net.au/news/2026-04-05/saving-the-regent-honeyeaters-love-song/106515178",
-      "mean_score": 0.6192,
-      "vader_score": 0.7717,
-      "textblob_score": 0.4667,
-      "first_sentence": "When wildlife photographer Richard Shaw spotted a rare regent honeyeater on the New South Wales Mid North Coast, he was not sure if his eyes were playing tricks on him.",
-      "timestamp": "2026-04-04T23:07:04Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Streetwear and crop tops take World Cup fashion to new heights",
-      "link": "https://www.bbc.com/news/articles/cr71vne5k70o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3235,
-      "vader_score": 0.5106,
-      "textblob_score": 0.1364,
-      "first_sentence": "Shirt launches are a hotly anticipated part of every World Cup.",
-      "timestamp": "2026-04-04T23:01:44Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Brazilian admits to 'fan-girling' during win over Gilmore at Bells Beach",
-      "link": "https://www.abc.net.au/news/2026-04-05/stephanie-gilmore-beaten-by-luana-silva-at-bells-beach/106532482",
-      "mean_score": 0.7592,
-      "vader_score": 0.7184,
-      "textblob_score": 0.8,
-      "first_sentence": "Luana Silva defeated Stephanie Gilmore in the first round at Bells Beach.",
-      "timestamp": "2026-04-04T22:55:53Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "The man who became one of India's greatest stage queens",
-      "link": "https://www.bbc.com/news/articles/cd0rl52z3dzo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.8185,
-      "vader_score": 0.6369,
-      "textblob_score": 1.0,
-      "first_sentence": "In mid-20th Century Bengal in eastern India, some of the biggest female stars on stage were actually men.",
-      "timestamp": "2026-04-04T22:20:51Z",
-      "source": "BBC News"
     }
   ]
 }
