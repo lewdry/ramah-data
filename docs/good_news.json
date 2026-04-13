@@ -1,6 +1,16 @@
 {
-  "last run": "2026-04-13T18:26:02Z",
+  "last run": "2026-04-13T21:16:46Z",
   "stories": [
+    {
+      "headline": "Manchester United 1-2 Leeds United: Premier League \u2013 live reaction",
+      "link": "https://www.theguardian.com/football/live/2026/apr/13/manchester-united-v-leeds-premier-league-live",
+      "mean_score": 0.4086,
+      "vader_score": 0.6808,
+      "textblob_score": 0.1364,
+      "first_sentence": "double quotation markIt\u2019s a massive result for us.",
+      "timestamp": "2026-04-13T21:08:55Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Former NFL cornerback Chris Payton-Jones dies at 30: \u2018Everyone loved him\u2019",
       "link": "https://www.theguardian.com/sport/2026/apr/13/former-nfl-cornerback-chris-payton-jones-dies-at-30-everyone-loved-him",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.8,
       "first_sentence": "An army of \u2018pregnancy prep\u2019 influencers is offering would-be parents everything from sensible advice to quackery and questionable supplements.",
       "timestamp": "2026-04-05T14:00:53Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Gladiator Jodie Ounsley looks back: \u2018There weren\u2019t many girls like me at school. I always liked bashing into people\u2019",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/apr/05/gladiator-fury-jodie-ounsley-looks-back",
-      "mean_score": 0.5076,
-      "vader_score": 0.6486,
-      "textblob_score": 0.3667,
-      "first_sentence": "Born in Dewsbury, West Yorkshire, in 2001, Jodie Ounsley is an athlete, television personality and author.",
-      "timestamp": "2026-04-05T13:00:52Z",
       "source": "The Guardian"
     }
   ]
