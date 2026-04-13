@@ -1,5 +1,75 @@
 [
   {
+    "headline": "Archbishop to pray for Middle East peace in first Easter sermon",
+    "link": "https://www.bbc.com/news/articles/c93edxr57d0o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3543,
+    "vader_score": 0.7003,
+    "textblob_score": 0.0083,
+    "first_sentence": "The Archbishop of Canterbury will call for an end to \"violence and destruction\" in the Middle East during her first Easter sermon as leader of the Church of England.",
+    "timestamp": "2026-04-04T21:30:15Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Power restored to many homes after Storm Dave brings high winds",
+    "link": "https://www.bbc.com/news/articles/c0le6xg5g5eo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.335,
+    "vader_score": 0.34,
+    "textblob_score": 0.33,
+    "first_sentence": "Around 2,000 homes were left without power in Northern Ireland on Saturday after Storm Dave brought high winds.",
+    "timestamp": "2026-04-04T21:01:02Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Aerial photographer's hunt for 'Easter eggs' yields stunning images",
+    "link": "https://www.abc.net.au/news/2026-04-05/easter-egg-salt-lakes-photography-by-scott-mccook-wa-wheatbelt/106516520",
+    "mean_score": 0.4409,
+    "vader_score": 0.3818,
+    "textblob_score": 0.5,
+    "first_sentence": "Scott McCook hunts \"eggs\" from the air, but not the traditional Easter kind.",
+    "timestamp": "2026-04-04T20:06:02Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "The moment I knew: he kissed me and it felt like I was standing on the edge of a whole new life",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/apr/04/the-moment-i-knew-he-kissed-me-and-it-felt-like-i-was-standing-on-the-edge-of-a-whole-new-life",
+    "mean_score": 0.3965,
+    "vader_score": 0.6249,
+    "textblob_score": 0.1682,
+    "first_sentence": "In the summer of 2014, I was living in Adelaide with my two young children in a very hot rental house with a low ceiling and a rat problem.",
+    "timestamp": "2026-04-04T20:00:31Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Friends, with recipes: how a love of food brought my husband and I together, and helped us part",
+    "link": "https://www.theguardian.com/books/2026/apr/04/love-of-food-brought-us-together",
+    "mean_score": 0.6537,
+    "vader_score": 0.8074,
+    "textblob_score": 0.5,
+    "first_sentence": "For our first date \u2013 a picnic on the grassy banks of the Molonglo River near Canberra \u2013 the man I would marry brought the tartan blanket (tick), the wine (tick), a crusty baguette (tick), the cheese (tick), and then the ka-boom of a chicken and grape salad he\u2019d made from a recipe in a gourmet magazine.",
+    "timestamp": "2026-04-04T20:00:31Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Thom Yorke's solo tour was one of a kind. This Aussie film captured it",
+    "link": "https://www.abc.net.au/news/2026-04-05/thom-yorke-live-sydney-opera-house-solo-tour-concert-film/106418362",
+    "mean_score": 0.5634,
+    "vader_score": 0.5267,
+    "textblob_score": 0.6,
+    "first_sentence": "Our social feeds are inundated with DIY concert footage, to the degree that artists and venues have banned the use of smartphones, and we typically know what to expect from the biggest overseas touring acts before they arrive on our shores.",
+    "timestamp": "2026-04-04T18:30:00Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "European football: Real Mallorca hand Barcelona a gift with shock win over Real Madrid",
+    "link": "https://www.theguardian.com/football/2026/apr/04/european-football-bayern-munich-real-madrid-atletico-barcelona",
+    "mean_score": 0.5537,
+    "vader_score": 0.8074,
+    "textblob_score": 0.3,
+    "first_sentence": "Real Mallorca dealt a major blow to Real Madrid\u2019s title aspirations as Vedat Muriqi struck an added-time winner to seal a shock 2-1 win for the hosts, leaving Real four points behind Barcelona before the leaders play Atl\u00e9tico Madrid later on Saturday.",
+    "timestamp": "2026-04-04T16:40:39Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "What are peptides, are they safe and is there evidence to back up the hype?",
     "link": "https://www.theguardian.com/science/2026/apr/04/what-are-peptides-safety-wellness-products-online",
     "mean_score": 0.3452,
