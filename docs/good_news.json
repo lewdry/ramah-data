@@ -1,6 +1,46 @@
 {
-  "last run": "2026-04-13T15:30:30Z",
+  "last run": "2026-04-13T18:26:02Z",
   "stories": [
+    {
+      "headline": "Former NFL cornerback Chris Payton-Jones dies at 30: \u2018Everyone loved him\u2019",
+      "link": "https://www.theguardian.com/sport/2026/apr/13/former-nfl-cornerback-chris-payton-jones-dies-at-30-everyone-loved-him",
+      "mean_score": 0.4747,
+      "vader_score": 0.5994,
+      "textblob_score": 0.35,
+      "first_sentence": "Former NFL cornerback Chris Payton-Jones died in a car accident Saturday night in Florida.",
+      "timestamp": "2026-04-13T18:13:35Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Renewed ties with EU needed to boost UK security and economy, says Starmer",
+      "link": "https://www.theguardian.com/politics/2026/apr/13/keir-starmer-defends-plan-for-closer-alignment-with-eu-rules",
+      "mean_score": 0.3125,
+      "vader_score": 0.6249,
+      "textblob_score": 0.0,
+      "first_sentence": "The economic and security benefits of a closer relationship with the EU are \u201csimply too big to ignore\u201d, Keir Starmer has told parliament as the British government prepares for more rapid alignment with European rules.",
+      "timestamp": "2026-04-13T17:33:57Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "P\u00e9ter Magyar vows to pursue those who \u2018plundered\u2019 Hungary, after election win",
+      "link": "https://www.theguardian.com/world/2026/apr/13/peter-magyar-vows-to-pursue-those-who-plundered-hungary-after-election-win",
+      "mean_score": 0.6929,
+      "vader_score": 0.5859,
+      "textblob_score": 0.8,
+      "first_sentence": "Hungary\u2019s prime minister-elect, P\u00e9ter Magyar, has pledged to pursue those who \u201cplundered, looted, betrayed, indebted and ruined\u201d his country, promising \u201ca new era\u201d after a landslide election victory over his far-right predecessor Viktor Orb\u00e1n.",
+      "timestamp": "2026-04-13T17:25:44Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Should we be using cotton buds to clean our ears?",
+      "link": "https://www.bbc.com/news/videos/cgk02p2rgggo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3843,
+      "vader_score": 0.4019,
+      "textblob_score": 0.3667,
+      "first_sentence": "Greg Foot asks whether we should be using cotton buds to clean our ears.",
+      "timestamp": "2026-04-13T15:33:39Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Hungarian election winner Magyar vows to rebuild EU relationship after stunning defeat of Viktor Orb\u00e1n - Europe live",
       "link": "https://www.theguardian.com/world/live/2026/apr/13/hungary-peter-magyar-viktor-orban-trump-russia-ukraine-iran-eu-europe-latest-news-updates",
@@ -2459,46 +2499,6 @@
       "textblob_score": 0.3667,
       "first_sentence": "Born in Dewsbury, West Yorkshire, in 2001, Jodie Ounsley is an athlete, television personality and author.",
       "timestamp": "2026-04-05T13:00:52Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018We\u2019re home\u2019: Even in a draw, Inter Miami\u2019s stadium opener was a win for David Beckham",
-      "link": "https://www.theguardian.com/football/2026/apr/05/inter-miami-lionel-messi-david-beckham-nu-stadium-opener",
-      "mean_score": 0.6929,
-      "vader_score": 0.5859,
-      "textblob_score": 0.8,
-      "first_sentence": "Lionel Messi may have scored, captained the side and had a quarter of the new building named in his honor, but this was unmistakably Inter Miami co-owner Sir David Beckham\u2019s night.",
-      "timestamp": "2026-04-05T12:52:45Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Pope Leo calls for global leaders to choose peace in his first Easter Mass",
-      "link": "https://www.bbc.com/news/articles/crk1zgjj7y1o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3337,
-      "vader_score": 0.5423,
-      "textblob_score": 0.125,
-      "first_sentence": "Thousands of worshippers flocked to St Peter's Square on Sunday to hear Pope Leo XIV deliver his first Easter Mass address as pontiff.",
-      "timestamp": "2026-04-05T12:35:36Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "New AHA guidelines on healthy eating emphasize plants, olive oil; limit saturated fat",
-      "link": "https://www.npr.org/2026/04/05/nx-s1-5770641/new-aha-guidelines-on-healthy-eating-emphasize-plants-olive-oil-limit-saturated-fat",
-      "mean_score": 0.36,
-      "vader_score": 0.4019,
-      "textblob_score": 0.3182,
-      "first_sentence": "The American Heart Association is releasing dietary guidelines on the heels of confusing guidelines announced by the federal government.",
-      "timestamp": "2026-04-05T12:07:27Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "How to make the perfect Portuguese feijoada \u2013 recipe | Felicity Cloake's How to make the perfect",
-      "link": "https://www.theguardian.com/food/2026/apr/05/how-to-make-the-perfect-portuguese-feijoada-recipe",
-      "mean_score": 0.9063,
-      "vader_score": 0.8126,
-      "textblob_score": 1.0,
-      "first_sentence": "If you are trying to incorporate more beans and pulses into your diet, as I am, then this robust, one-pot feast, which food writer Edite Vieira describes as \u201ca marvellous standby of the Portuguese kitchen\u201d, is one to bear in mind.",
-      "timestamp": "2026-04-05T12:00:50Z",
       "source": "The Guardian"
     }
   ]
