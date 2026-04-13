@@ -1,6 +1,36 @@
 {
-  "last run": "2026-04-13T09:36:34Z",
+  "last run": "2026-04-13T12:23:07Z",
   "stories": [
+    {
+      "headline": "Rukmini Iyer\u2019s quick and easy recipe for chilli eggs with miso beans and spinach | Quick and easy",
+      "link": "https://www.theguardian.com/food/2026/apr/13/quick-easy-chilli-eggs-recipe-miso-beans-spinach-rukmini-iyer",
+      "mean_score": 0.5418,
+      "vader_score": 0.7003,
+      "textblob_score": 0.3833,
+      "first_sentence": "My go-to cheat ingredient for a dash of heat is White Mausu\u2019s peanut r\u0101yu \u2013 it has a gentler flavour profile than, say, Lao Gan Ma crispy chilli in oil, and works perfectly in this dish of creamy, lemon-spiked beans and eggs.",
+      "timestamp": "2026-04-13T12:00:39Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Celebrations in McIlroy's home town at history-maker's back-to-back Masters wins",
+      "link": "https://www.bbc.com/news/articles/cp3l2nnlz0lo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4359,
+      "vader_score": 0.5719,
+      "textblob_score": 0.3,
+      "first_sentence": "Rory McIlroy knows how to put his fans through the ringer - and Sunday at Augusta National was no different.",
+      "timestamp": "2026-04-13T11:22:28Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Social media was once a great global conversation. Now it\u2019s just individuals locked into their own private worlds | Tom Whyman",
+      "link": "https://www.theguardian.com/commentisfree/2026/apr/13/social-media-uk-adults-posting-less-twitter-x",
+      "mean_score": 0.4558,
+      "vader_score": 0.6249,
+      "textblob_score": 0.2867,
+      "first_sentence": "I used to post an awful lot on Twitter.",
+      "timestamp": "2026-04-13T11:13:22Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Can red light therapy really deliver a beauty and health glow up? Here's the science",
       "link": "https://www.npr.org/2026/04/13/nx-s1-5759287/red-light-therapy-science-skin-hair",
@@ -2470,36 +2500,6 @@
       "first_sentence": "A man stands in the middle of a suburban English street holding a wad of cash in his hands.",
       "timestamp": "2026-04-05T07:00:44Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Spurs gamble on creative but combative De Zerbi conjuring up an escape plan",
-      "link": "https://www.theguardian.com/football/2026/apr/05/spurs-roberto-de-zerbi-premier-league-escape-plan",
-      "mean_score": 0.4794,
-      "vader_score": 0.4588,
-      "textblob_score": 0.5,
-      "first_sentence": "It is ironic that the man who has appointed Roberto De Zerbi to be Tottenham manager, just as the club faces its most critical seven games this century, is also partially responsible for one of the most successful managerial recruitments in Mikel Arteta, albeit for north London rivals, Arsenal.",
-      "timestamp": "2026-04-05T07:00:43Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "What we know so far about rescue of US airman in Iran",
-      "link": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.326,
-      "vader_score": 0.552,
-      "textblob_score": 0.1,
-      "first_sentence": "The US has rescued the missing crew member of the US F-15 fighter jet which was shot down on Friday over southern Iran.",
-      "timestamp": "2026-04-05T06:59:48Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "'I bought the theme park I loved growing up'",
-      "link": "https://www.bbc.com/news/articles/cn43le7y7kyo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.6904,
-      "vader_score": 0.6808,
-      "textblob_score": 0.7,
-      "first_sentence": "Owning a theme park is the stuff of dreams for some children, but for James Mellors, that dream has become a reality.",
-      "timestamp": "2026-04-05T06:08:30Z",
-      "source": "BBC News"
     }
   ]
 }

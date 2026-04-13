@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Spurs gamble on creative but combative De Zerbi conjuring up an escape plan",
+    "link": "https://www.theguardian.com/football/2026/apr/05/spurs-roberto-de-zerbi-premier-league-escape-plan",
+    "mean_score": 0.4794,
+    "vader_score": 0.4588,
+    "textblob_score": 0.5,
+    "first_sentence": "It is ironic that the man who has appointed Roberto De Zerbi to be Tottenham manager, just as the club faces its most critical seven games this century, is also partially responsible for one of the most successful managerial recruitments in Mikel Arteta, albeit for north London rivals, Arsenal.",
+    "timestamp": "2026-04-05T07:00:43Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "What we know so far about rescue of US airman in Iran",
+    "link": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.326,
+    "vader_score": 0.552,
+    "textblob_score": 0.1,
+    "first_sentence": "The US has rescued the missing crew member of the US F-15 fighter jet which was shot down on Friday over southern Iran.",
+    "timestamp": "2026-04-05T06:59:48Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "'I bought the theme park I loved growing up'",
+    "link": "https://www.bbc.com/news/articles/cn43le7y7kyo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.6904,
+    "vader_score": 0.6808,
+    "textblob_score": 0.7,
+    "first_sentence": "Owning a theme park is the stuff of dreams for some children, but for James Mellors, that dream has become a reality.",
+    "timestamp": "2026-04-05T06:08:30Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Is taking your cat for a walk good for them or just good for TikTok?",
     "link": "https://www.bbc.com/news/articles/cn8j3y2mr91o?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.7002,
