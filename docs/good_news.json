@@ -1,6 +1,56 @@
 {
-  "last run": "2026-04-14T15:27:41Z",
+  "last run": "2026-04-14T18:25:10Z",
   "stories": [
+    {
+      "headline": "Why aren\u2019t Republicans thrilled by the fall in teen pregnancies? | Arwa Mahdawi",
+      "link": "https://www.theguardian.com/commentisfree/2026/apr/14/why-arent-republicans-thrilled-by-the-fall-in-teen-pregnancies",
+      "mean_score": 0.3702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.3,
+      "first_sentence": "Teenagers these days, eh? Instead of having unprotected sex and popping out babies, they\u2019re wasting their time on TikTok, or something.",
+      "timestamp": "2026-04-14T18:03:06Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "US edges closer to popular vote deciding winner of presidential elections",
+      "link": "https://www.theguardian.com/us-news/2026/apr/14/majority-vote-for-president-us-constitution",
+      "mean_score": 0.6825,
+      "vader_score": 0.765,
+      "textblob_score": 0.6,
+      "first_sentence": "A national majority vote for president is one step closer to reality after the Virginia governor, Abigail Spanberger, signed the national popular vote bill into law, joining an interstate compact with 17 other states and the District of Columbia.",
+      "timestamp": "2026-04-14T17:12:44Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "UFOs and a Tardis - why unusual holiday stays are booming",
+      "link": "https://www.bbc.com/news/articles/c70dkv2w51po?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3009,
+      "vader_score": 0.4019,
+      "textblob_score": 0.2,
+      "first_sentence": "In a secluded corner of Pembrokeshire, a structure resembling a landed spacecraft rises unexpectedly from the landscape.",
+      "timestamp": "2026-04-14T16:54:40Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "'Welcome home': Watch joyful reunion as Orion capsule opened after splashdown",
+      "link": "https://www.bbc.com/news/videos/clyxxnz97wxo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.7923,
+      "vader_score": 0.7845,
+      "textblob_score": 0.8,
+      "first_sentence": "Newly released video shows the moment a recovery crew opens the hatch of Artemis II's Orion capsule to a joyful reunion with the four astronauts inside.",
+      "timestamp": "2026-04-14T16:12:27Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Carney says it\u2019s Canada\u2019s \u2018time to come together\u2019 after Liberals secure majority",
+      "link": "https://www.theguardian.com/world/2026/apr/14/mark-carney-canada-parliament-liberal",
+      "mean_score": 0.37,
+      "vader_score": 0.34,
+      "textblob_score": 0.4,
+      "first_sentence": "Mark Carney has said he will govern with \u201chumility, determination and a clear understanding of what this moment demands\u201d after his Liberals swept three byelections Monday evening, forging a parliamentary majority just more than a year after he took power.",
+      "timestamp": "2026-04-14T15:36:39Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Politicians and media can\u2019t imagine a fossil-fuel free world - and it\u2019s holding Australians back from huge EV savings | Adam Morton",
       "link": "https://www.theguardian.com/environment/2026/apr/15/australia-fossil-fuels-politics-electric-vehicle-savings-clean-energy",
@@ -2450,56 +2500,6 @@
       "first_sentence": "Kampalei has lived for more than 50 of his 70 years with his family and animals in Oldonyonyokie, a hamlet in southern Kenya\u2019s Kajiado county.",
       "timestamp": "2026-04-06T12:00:19Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "'Really feeling the love' - Savannah Guthrie returns to NBC as search for mother goes on",
-      "link": "https://www.bbc.com/news/articles/c04xqglg7xgo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5449,
-      "vader_score": 0.7397,
-      "textblob_score": 0.35,
-      "first_sentence": "US television presenter Savannah Guthrie has returned to NBC's Today show, telling her co-anchors it was \"good to be back\", as the search for her mother continues.",
-      "timestamp": "2026-04-06T11:48:29Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Spanish school emerges again as the superior model for Champions League success | Philipp Lahm",
-      "link": "https://www.theguardian.com/football/2026/apr/06/spain-champions-league-success-superior-model-italy-germany",
-      "mean_score": 0.6122,
-      "vader_score": 0.891,
-      "textblob_score": 0.3333,
-      "first_sentence": "In Germany, coaches used to say: \u201cFollow your opponent right into the loo!\u201d That was the call to man-mark.",
-      "timestamp": "2026-04-06T10:31:50Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The Joy of Six: moments of unbridled joy in sport",
-      "link": "https://www.theguardian.com/sport/2026/apr/06/the-joy-of-six-moments-of-unbridled-joy-in-sport",
-      "mean_score": 0.8113,
-      "vader_score": 0.8225,
-      "textblob_score": 0.8,
-      "first_sentence": "The pain of failure, both professional and personal, is one we all know well.",
-      "timestamp": "2026-04-06T09:00:16Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018The original triple threat\u2019: two exhibitions celebrate Marilyn Monroe as creative pioneer",
-      "link": "https://www.theguardian.com/film/2026/apr/06/exhibitions-celebrate-marilyn-monroe-creative-pioneer",
-      "mean_score": 0.6367,
-      "vader_score": 0.836,
-      "textblob_score": 0.4375,
-      "first_sentence": "Though often reduced to a sex symbol frozen in time, or a tragic figure at the centre of several scandals, Marilyn Monroe was something far more subversive, according to two exhibitions that will herald what has been nicknamed \u201cthe summer of Marilyn\u201d.",
-      "timestamp": "2026-04-06T09:00:15Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Chinese AI helping Iran target US forces with 'incredible precision'",
-      "link": "https://www.abc.net.au/news/2026-04-06/chinese-satellite-intelligence-helping-iran-target-us-forces/106535420",
-      "mean_score": 0.373,
-      "vader_score": 0.296,
-      "textblob_score": 0.45,
-      "first_sentence": "Analysts say images taken by a Chinese company could be helping Iran to target its opponents with extreme precision.",
-      "timestamp": "2026-04-06T08:03:34Z",
-      "source": "ABC News"
     }
   ]
 }

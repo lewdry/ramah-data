@@ -1,5 +1,55 @@
 [
   {
+    "headline": "'Really feeling the love' - Savannah Guthrie returns to NBC as search for mother goes on",
+    "link": "https://www.bbc.com/news/articles/c04xqglg7xgo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.5449,
+    "vader_score": 0.7397,
+    "textblob_score": 0.35,
+    "first_sentence": "US television presenter Savannah Guthrie has returned to NBC's Today show, telling her co-anchors it was \"good to be back\", as the search for her mother continues.",
+    "timestamp": "2026-04-06T11:48:29Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Spanish school emerges again as the superior model for Champions League success | Philipp Lahm",
+    "link": "https://www.theguardian.com/football/2026/apr/06/spain-champions-league-success-superior-model-italy-germany",
+    "mean_score": 0.6122,
+    "vader_score": 0.891,
+    "textblob_score": 0.3333,
+    "first_sentence": "In Germany, coaches used to say: \u201cFollow your opponent right into the loo!\u201d That was the call to man-mark.",
+    "timestamp": "2026-04-06T10:31:50Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "The Joy of Six: moments of unbridled joy in sport",
+    "link": "https://www.theguardian.com/sport/2026/apr/06/the-joy-of-six-moments-of-unbridled-joy-in-sport",
+    "mean_score": 0.8113,
+    "vader_score": 0.8225,
+    "textblob_score": 0.8,
+    "first_sentence": "The pain of failure, both professional and personal, is one we all know well.",
+    "timestamp": "2026-04-06T09:00:16Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "\u2018The original triple threat\u2019: two exhibitions celebrate Marilyn Monroe as creative pioneer",
+    "link": "https://www.theguardian.com/film/2026/apr/06/exhibitions-celebrate-marilyn-monroe-creative-pioneer",
+    "mean_score": 0.6367,
+    "vader_score": 0.836,
+    "textblob_score": 0.4375,
+    "first_sentence": "Though often reduced to a sex symbol frozen in time, or a tragic figure at the centre of several scandals, Marilyn Monroe was something far more subversive, according to two exhibitions that will herald what has been nicknamed \u201cthe summer of Marilyn\u201d.",
+    "timestamp": "2026-04-06T09:00:15Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Chinese AI helping Iran target US forces with 'incredible precision'",
+    "link": "https://www.abc.net.au/news/2026-04-06/chinese-satellite-intelligence-helping-iran-target-us-forces/106535420",
+    "mean_score": 0.373,
+    "vader_score": 0.296,
+    "textblob_score": 0.45,
+    "first_sentence": "Analysts say images taken by a Chinese company could be helping Iran to target its opponents with extreme precision.",
+    "timestamp": "2026-04-06T08:03:34Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Commuter thanks stranger who restarted his heart",
     "link": "https://www.bbc.com/news/articles/cx2r3jngnj5o?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.4982,
