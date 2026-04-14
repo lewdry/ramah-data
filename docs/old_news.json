@@ -1,5 +1,75 @@
 [
   {
+    "headline": "Commuter thanks stranger who restarted his heart",
+    "link": "https://www.bbc.com/news/articles/cx2r3jngnj5o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4982,
+    "vader_score": 0.7964,
+    "textblob_score": 0.2,
+    "first_sentence": "Spencer Stevenson nearly died on his way to work one morning in December, as he suddenly suffered a cardiac arrest after getting off his train.",
+    "timestamp": "2026-04-06T07:14:48Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Is it true that \u2026 more testosterone means more muscle?",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/apr/06/is-it-true-that-more-testosterone-means-more-muscle",
+    "mean_score": 0.4357,
+    "vader_score": 0.4215,
+    "textblob_score": 0.45,
+    "first_sentence": "It\u2019s an increasingly popular idea: \u201cboosting\u201d testosterone with diet tweaks \u2013 increasing foods rich in zinc and magnesium \u2013 hoping to build muscle faster.",
+    "timestamp": "2026-04-06T07:00:12Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "No Bluesfest? No worries as stars come out to wow Byron Easter crowds",
+    "link": "https://www.abc.net.au/news/2026-04-06/byron-bluesfest-cancellation-easter-crowds-bounce-back/106535198",
+    "mean_score": 0.4011,
+    "vader_score": 0.7022,
+    "textblob_score": 0.1,
+    "first_sentence": "Byron Bay's iconic Bluesfest event was cancelled with less than a month's notice, but many music lovers flocked to the area nonetheless.",
+    "timestamp": "2026-04-06T05:51:38Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Monday briefing: Can human-based space exploration still be meaningful?",
+    "link": "https://www.theguardian.com/world/2026/apr/06/monday-briefing-can-human-based-space-exploration-still-be-meaningful",
+    "mean_score": 0.497,
+    "vader_score": 0.4939,
+    "textblob_score": 0.5,
+    "first_sentence": "Good morning.",
+    "timestamp": "2026-04-06T05:46:09Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "From volcanic wilds to world-class art: 10 fun and fabulous reasons to visit France in 2026",
+    "link": "https://www.theguardian.com/travel/2026/apr/06/10-fun-and-fabulous-reasons-to-visit-france-in-2026",
+    "mean_score": 0.5609,
+    "vader_score": 0.7717,
+    "textblob_score": 0.35,
+    "first_sentence": "You don\u2019t need to venture too far into France to find its wow factor.",
+    "timestamp": "2026-04-06T05:45:11Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "US sprint star Sha\u2019Carri Richardson wins 2026 Stawell Gift off scratch in thrilling finish",
+    "link": "https://www.theguardian.com/sport/2026/apr/06/shacarri-richardson-wins-2026-stawell-gift-sprint",
+    "mean_score": 0.5704,
+    "vader_score": 0.8658,
+    "textblob_score": 0.275,
+    "first_sentence": "American sprint queen Sha\u2019Carri Richardson has lived up to her star status as she chased down the field off scratch to win the 2026 Stawell Gift in a thrilling finish.",
+    "timestamp": "2026-04-06T05:31:51Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Live: Eels enjoy fast start against Tigers in front of sold out crowd",
+    "link": "https://www.abc.net.au/news/2026-04-06/nrl-live-updates-parramatta-eels-wests-tigers/106535120",
+    "mean_score": 0.3697,
+    "vader_score": 0.4939,
+    "textblob_score": 0.2455,
+    "first_sentence": "Parramatta looks to bounce back after last week's mauling by the Panthers by taking on the in-form Wests Tigers on Easter Monday.",
+    "timestamp": "2026-04-06T05:08:20Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Three easy sausage dinners that don't involve mash and peas",
     "link": "https://www.abc.net.au/news/2026-04-06/iitalian-inspired-sausage-meals/106495338",
     "mean_score": 0.4369,
