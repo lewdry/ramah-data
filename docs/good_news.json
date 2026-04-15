@@ -1,6 +1,36 @@
 {
-  "last run": "2026-04-15T00:28:54Z",
+  "last run": "2026-04-15T04:02:02Z",
   "stories": [
+    {
+      "headline": "Developer claimed 'superior intellect' in mayor harassment case",
+      "link": "https://www.abc.net.au/news/2026-04-15/avo-battle-wingecarribee-developer-council/106564862",
+      "mean_score": 0.5794,
+      "vader_score": 0.4588,
+      "textblob_score": 0.7,
+      "first_sentence": "Wealthy NSW cattle breeder Theo Onisforou denies harassment allegations, saying the case is aimed at silencing him before a council bid.",
+      "timestamp": "2026-04-15T03:28:20Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Moana Pasifika to leave Super Rugby at end of season",
+      "link": "https://www.abc.net.au/news/2026-04-15/moana-pasifika-confirm-super-rugby-exit/106566478",
+      "mean_score": 0.4526,
+      "vader_score": 0.5719,
+      "textblob_score": 0.3333,
+      "first_sentence": "Pacific rugby fans will lose the Moana Pasifika team at the end of the Super Rugby Pacific season unless the club can find new owners.",
+      "timestamp": "2026-04-15T01:21:55Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "\u2018No longer viable\u2019: Super Rugby team Moana Pasifika to be axed at end of season",
+      "link": "https://www.theguardian.com/sport/2026/apr/15/no-longer-viable-super-rugby-team-moana-pasifika-to-be-axed-at-end-of-season",
+      "mean_score": 0.3576,
+      "vader_score": 0.3818,
+      "textblob_score": 0.3333,
+      "first_sentence": "Moana Pasifika have confirmed the Super Rugby franchise will fold at the end of the season, citing \u201cfinancial, operational, and strategic realities\u201d.",
+      "timestamp": "2026-04-15T00:38:57Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Help to Buy mostly helped high earners, IFS says",
       "link": "https://www.bbc.com/news/articles/cy511kd5lkwo?at_medium=RSS&at_campaign=rss",
@@ -32,6 +62,16 @@
       "source": "The Guardian"
     },
     {
+      "headline": "Man wins \u20ac1m Picasso painting in \u20ac100 charity raffle",
+      "link": "https://www.bbc.com/news/articles/cq8ww7d72wyo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.529,
+      "vader_score": 0.7579,
+      "textblob_score": 0.3,
+      "first_sentence": "A man has won an original Pablo Picasso painting worth more than \u20ac1m (\u00a3870,000; $1.2m) in a charity raffle.",
+      "timestamp": "2026-04-14T21:40:24Z",
+      "source": "BBC News"
+    },
+    {
       "headline": "New footage shows joy at Orion capsule hatch being opened",
       "link": "https://www.bbc.com/news/videos/cyv11je1emeo?at_medium=RSS&at_campaign=rss",
       "mean_score": 0.527,
@@ -50,6 +90,16 @@
       "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
       "timestamp": "2026-04-14T21:27:20Z",
       "source": "SBS News"
+    },
+    {
+      "headline": "Live: Chalmers admits budget won't be as planned but still 'ambitious'",
+      "link": "https://www.abc.net.au/news/2026-04-15/federal-politics-blog-albanese-fuel-iran-chalmers-taylor-imf/106565674",
+      "mean_score": 0.4444,
+      "vader_score": 0.6956,
+      "textblob_score": 0.1932,
+      "first_sentence": "Treasurer Jim Chalmers says the budget he'll hand down next month isn't what was initially planned.",
+      "timestamp": "2026-04-14T21:12:21Z",
+      "source": "ABC News"
     },
     {
       "headline": "Americans ask AI for health care. Hospitals think the answer is more chatbots.",
@@ -2450,56 +2500,6 @@
       "first_sentence": "Talia Gibson says it was an \"immediate yes\" when asked to be part of Australia's Billie Jean King Cup team against Great Britain.",
       "timestamp": "2026-04-07T07:18:25Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "The Masters is a welcome oasis in golf\u2019s fractious world, despite its stuffy foibles | Ewan Murray",
-      "link": "https://www.theguardian.com/sport/2026/apr/07/the-masters-is-a-welcome-oasis-in-golfs-fractious-world-despite-its-stuffy-foibles",
-      "mean_score": 0.6294,
-      "vader_score": 0.4588,
-      "textblob_score": 0.8,
-      "first_sentence": "It is easy to poke fun at the prissy traditions of the Masters.",
-      "timestamp": "2026-04-07T07:00:41Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "China is winning one AI race, the US another - but either might pull ahead",
-      "link": "https://www.bbc.com/news/articles/c145enxln0go?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.398,
-      "vader_score": 0.296,
-      "textblob_score": 0.5,
-      "first_sentence": "In the second half of the 20th Century, it was the race to develop nuclear arms that occupied some of the finest minds in the US and the Soviet Union.",
-      "timestamp": "2026-04-07T05:13:12Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "\u2018Italy has the best benefits\u2019: Milan takes on Dubai as home for the super-rich",
-      "link": "https://www.theguardian.com/business/2026/apr/07/milan-dubai-super-wealthy-italy-rich",
-      "mean_score": 0.8185,
-      "vader_score": 0.6369,
-      "textblob_score": 1.0,
-      "first_sentence": "Just over a month ago, Dubai was the obvious destination for wealthy Britons in search of a new home.",
-      "timestamp": "2026-04-07T04:00:39Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Cyclist clinging to reeds, plucked to safety in remote Snowy River rescue",
-      "link": "https://www.abc.net.au/news/2026-04-07/cyclist-rescued-from-snowy-river-police-air-wing/106537314",
-      "mean_score": 0.3135,
-      "vader_score": 0.7269,
-      "textblob_score": -0.1,
-      "first_sentence": "A cyclist who tried to ride across the Snowy River at Suggan Buggan in remote far-east Gippsland has been plucked to safety in a dramatic overnight rescue.",
-      "timestamp": "2026-04-07T00:37:05Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Call for parents to teach online privacy like road safety",
-      "link": "https://www.bbc.com/news/articles/c070v00xzl5o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3243,
-      "vader_score": 0.6486,
-      "textblob_score": 0.0,
-      "first_sentence": "Parents should teach children online privacy as an essential life skill in the same way as stranger danger or road safety, the UK's data watchdog has said.",
-      "timestamp": "2026-04-06T23:05:52Z",
-      "source": "BBC News"
     }
   ]
 }

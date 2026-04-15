@@ -1,5 +1,55 @@
 [
   {
+    "headline": "The Masters is a welcome oasis in golf\u2019s fractious world, despite its stuffy foibles | Ewan Murray",
+    "link": "https://www.theguardian.com/sport/2026/apr/07/the-masters-is-a-welcome-oasis-in-golfs-fractious-world-despite-its-stuffy-foibles",
+    "mean_score": 0.6294,
+    "vader_score": 0.4588,
+    "textblob_score": 0.8,
+    "first_sentence": "It is easy to poke fun at the prissy traditions of the Masters.",
+    "timestamp": "2026-04-07T07:00:41Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "China is winning one AI race, the US another - but either might pull ahead",
+    "link": "https://www.bbc.com/news/articles/c145enxln0go?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.398,
+    "vader_score": 0.296,
+    "textblob_score": 0.5,
+    "first_sentence": "In the second half of the 20th Century, it was the race to develop nuclear arms that occupied some of the finest minds in the US and the Soviet Union.",
+    "timestamp": "2026-04-07T05:13:12Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "\u2018Italy has the best benefits\u2019: Milan takes on Dubai as home for the super-rich",
+    "link": "https://www.theguardian.com/business/2026/apr/07/milan-dubai-super-wealthy-italy-rich",
+    "mean_score": 0.8185,
+    "vader_score": 0.6369,
+    "textblob_score": 1.0,
+    "first_sentence": "Just over a month ago, Dubai was the obvious destination for wealthy Britons in search of a new home.",
+    "timestamp": "2026-04-07T04:00:39Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Cyclist clinging to reeds, plucked to safety in remote Snowy River rescue",
+    "link": "https://www.abc.net.au/news/2026-04-07/cyclist-rescued-from-snowy-river-police-air-wing/106537314",
+    "mean_score": 0.3135,
+    "vader_score": 0.7269,
+    "textblob_score": -0.1,
+    "first_sentence": "A cyclist who tried to ride across the Snowy River at Suggan Buggan in remote far-east Gippsland has been plucked to safety in a dramatic overnight rescue.",
+    "timestamp": "2026-04-07T00:37:05Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Call for parents to teach online privacy like road safety",
+    "link": "https://www.bbc.com/news/articles/c070v00xzl5o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3243,
+    "vader_score": 0.6486,
+    "textblob_score": 0.0,
+    "first_sentence": "Parents should teach children online privacy as an essential life skill in the same way as stranger danger or road safety, the UK's data watchdog has said.",
+    "timestamp": "2026-04-06T23:05:52Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Wrecked boats spill styrofoam, chemicals into Great Barrier Reef for months",
     "link": "https://www.abc.net.au/news/2026-04-07/salvage-time-of-wrecked-boats-criticised-north-qld/106530122",
     "mean_score": 0.6787,
