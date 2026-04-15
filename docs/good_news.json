@@ -1,6 +1,66 @@
 {
-  "last run": "2026-04-15T04:02:02Z",
+  "last run": "2026-04-15T06:37:26Z",
   "stories": [
+    {
+      "headline": "\u2018Field of Dreams stuff\u2019: will Leeds finally get its trams after decades of promises?",
+      "link": "https://www.theguardian.com/uk-news/2026/apr/15/field-of-dreams-stuff-will-leeds-finally-get-its-trams-after-decades-of-promises",
+      "mean_score": 0.3243,
+      "vader_score": 0.6486,
+      "textblob_score": 0.0,
+      "first_sentence": "It is 1993 and a young James Lewis is going to do work experience in Leeds city council\u2019s highways department.",
+      "timestamp": "2026-04-15T06:00:02Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "From gentle strolls to zipline thrills: summer hiking in the Swiss Alps",
+      "link": "https://www.theguardian.com/travel/2026/apr/15/summer-hiking-switzerland-valais",
+      "mean_score": 0.4298,
+      "vader_score": 0.6597,
+      "textblob_score": 0.2,
+      "first_sentence": "Thick grey-green mud squidges through my toes as I step into the icy, irresistible water.",
+      "timestamp": "2026-04-15T06:00:02Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "MacBook Air M5 review: Apple\u2019s best consumer laptop speeds up",
+      "link": "https://www.theguardian.com/technology/2026/apr/15/macbook-air-m5-review-apple-best-consumer-laptop-faster-battery-life-storage",
+      "mean_score": 0.8185,
+      "vader_score": 0.6369,
+      "textblob_score": 1.0,
+      "first_sentence": "The Guardian\u2019s journalism is independent.",
+      "timestamp": "2026-04-15T06:00:01Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Legal advisers help migrants pose as gay to get asylum, undercover BBC investigation finds",
+      "link": "https://www.bbc.com/news/articles/c937wldkkw8o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4011,
+      "vader_score": 0.4939,
+      "textblob_score": 0.3083,
+      "first_sentence": "A shadow industry of law firms and advisers is charging thousands of pounds to help migrants pretend to be gay in order to stay in the UK, the BBC has found.",
+      "timestamp": "2026-04-15T04:58:25Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Angus Taylor\u2019s bid to reel in One Nation voters reeks of desperation, and tramples over Australia\u2019s fair go values | Zoe Daniel",
+      "link": "https://www.theguardian.com/commentisfree/2026/apr/15/angus-taylor-immigration-speech-tramples-australia-fair-go-values",
+      "mean_score": 0.475,
+      "vader_score": 0.25,
+      "textblob_score": 0.7,
+      "first_sentence": "Explainer: What is in Angus Taylor\u2019s new immigration plan and is it inspired by Trump\u2019s approach in the US?.",
+      "timestamp": "2026-04-15T03:58:17Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Split decision as Gina Rinehart, Wright family both claim legal wins",
+      "link": "https://www.abc.net.au/news/2026-04-15/gine-rinehart-hancock-wright-prospecting-legal-judgement/106566372",
+      "mean_score": 0.4435,
+      "vader_score": 0.6369,
+      "textblob_score": 0.25,
+      "first_sentence": "Gina Rinehart has suffered a legal blow, with a court ruling the family of her father's former business partner has the rights to royalties from her Hope Downs mine in WA's Pilbara.",
+      "timestamp": "2026-04-15T03:49:40Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Developer claimed 'superior intellect' in mayor harassment case",
       "link": "https://www.abc.net.au/news/2026-04-15/avo-battle-wingecarribee-developer-council/106564862",
@@ -2440,66 +2500,6 @@
       "first_sentence": "Gabriella Marcella felt something in her brain click when she first used a risograph printer.",
       "timestamp": "2026-04-07T11:18:12Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "How to make better coffee \u2013 without spending a fortune",
-      "link": "https://www.theguardian.com/thefilter/2026/apr/02/readers-everything-want-to-know-about-coffee",
-      "mean_score": 0.4702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.5,
-      "first_sentence": "The Guardian\u2019s journalism is independent.",
-      "timestamp": "2026-04-07T11:00:45Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Pet Shop Boys review \u2013 no hits? No problem on first night of a masterful obscurities run",
-      "link": "https://www.theguardian.com/music/2026/apr/07/pet-shop-boys-review-electric-ballroom-london",
-      "mean_score": 0.4312,
-      "vader_score": 0.2373,
-      "textblob_score": 0.625,
-      "first_sentence": "\u2018Tonight \u2026\u201d says Neil Tennant, with a suave pause, \u201cno hits!\u201d The crowd roars.",
-      "timestamp": "2026-04-07T10:13:58Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018Before I can stop her, my daughter is licking crumbs from the table\u2019: my search for the perfect kids\u2019 menu",
-      "link": "https://www.theguardian.com/food/2026/apr/07/search-perfect-kids-menu-restaurants",
-      "mean_score": 0.6806,
-      "vader_score": 0.3612,
-      "textblob_score": 1.0,
-      "first_sentence": "We\u2019re heading out for dinner.",
-      "timestamp": "2026-04-07T09:00:54Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Intel is going all-in on advanced chip packaging",
-      "link": "https://arstechnica.com/gadgets/2026/04/intel-is-going-all-in-on-advanced-chip-packaging/",
-      "mean_score": 0.325,
-      "vader_score": 0.25,
-      "textblob_score": 0.4,
-      "first_sentence": "Sixteen miles north of Albuquerque, in Rio Rancho, New Mexico, an Intel chip plant sits on more than 200 acres of land.",
-      "timestamp": "2026-04-07T09:00:03Z",
-      "source": "Ars Technica"
-    },
-    {
-      "headline": "The Stranger review \u2013 lustrously beautiful and superbly realised modern take on the Camus classic",
-      "link": "https://www.theguardian.com/film/2026/apr/07/the-stranger-review-francois-ozon-adaptation-albert-camus-l-tranger",
-      "mean_score": 0.5768,
-      "vader_score": 0.5994,
-      "textblob_score": 0.5542,
-      "first_sentence": "A heatstricken reverie of violence and mystery unfolds in this film, a numb ecstasy of the inexplicable, as experienced by a sensitive white European under the unbearable noonday sun.",
-      "timestamp": "2026-04-07T08:00:42Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Gibson jumps at chance to spearhead Australia against Great Britain",
-      "link": "https://www.abc.net.au/news/2026-04-07/talia-gibson-australia-great-britain-billie-jean-king-cup/106539416",
-      "mean_score": 0.7634,
-      "vader_score": 0.7269,
-      "textblob_score": 0.8,
-      "first_sentence": "Talia Gibson says it was an \"immediate yes\" when asked to be part of Australia's Billie Jean King Cup team against Great Britain.",
-      "timestamp": "2026-04-07T07:18:25Z",
-      "source": "ABC News"
     }
   ]
 }
