@@ -1,6 +1,46 @@
 {
-  "last run": "2026-04-15T18:25:33Z",
+  "last run": "2026-04-15T21:18:41Z",
   "stories": [
+    {
+      "headline": "Gina Rinehart 'won' the legal battle for Hope Downs, commentator says",
+      "link": "https://www.abc.net.au/news/2026-04-16/gina-rinehart-won-court-tim-treadgold/106568986",
+      "mean_score": 0.4353,
+      "vader_score": 0.6705,
+      "textblob_score": 0.2,
+      "first_sentence": "Australia's richest person, Gina Rinehart, has had a \"clear win\" in her mammoth legal battle over the ownership of lucrative iron ore mines, according to a prominent Perth resource industry commentator.",
+      "timestamp": "2026-04-15T21:17:32Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Kerr scores landmark goal as Matildas win FIFA Series",
+      "link": "https://www.abc.net.au/news/2026-04-16/matildas-defeat-kenya-2-0-in-fifa-series/106569844",
+      "mean_score": 0.7125,
+      "vader_score": 0.6249,
+      "textblob_score": 0.8,
+      "first_sentence": "Australia has completed the FIFA Series with a 2-0 win over Kenya in Nairobi.",
+      "timestamp": "2026-04-15T20:33:59Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "How you could get free electricity for doing your washing",
+      "link": "https://www.bbc.com/news/videos/c3exxe4k8wwo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4553,
+      "vader_score": 0.5106,
+      "textblob_score": 0.4,
+      "first_sentence": "You could get free or cheaper electricity from your energy company for running appliances during periods of excess supply, such as sunny weekends.",
+      "timestamp": "2026-04-15T19:48:56Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Short-stay levy overperforms, as holiday rental growth stagnates in Victoria",
+      "link": "https://www.abc.net.au/news/2026-04-16/short-stays-levy-victoria-airbnb-holiday-rental/106528248",
+      "mean_score": 0.3243,
+      "vader_score": 0.6486,
+      "textblob_score": 0.0,
+      "first_sentence": "Data shows growth in Victorian short-stay accommodation listings has slowed in the year to January 2026.",
+      "timestamp": "2026-04-15T19:17:59Z",
+      "source": "ABC News"
+    },
     {
       "headline": "NYC SantaCon charity fundraiser was more con than Claus, authorities say",
       "link": "https://www.theguardian.com/us-news/2026/apr/15/santacon-charity-new-york-fraud",
@@ -2460,46 +2500,6 @@
       "first_sentence": "Clay Fuller supports the war in Iran.",
       "timestamp": "2026-04-08T00:42:52Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Squid sightings spawn hope for fast species recovery in South Australia",
-      "link": "https://www.abc.net.au/news/2026-04-08/squid-showing-signs-of-recovery-in-sa-restrictions-remain/106539240",
-      "mean_score": 0.3202,
-      "vader_score": 0.4404,
-      "textblob_score": 0.2,
-      "first_sentence": "Southern calamari has been spotted in parts of South Australia where it had vanished.",
-      "timestamp": "2026-04-07T23:00:29Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Arteta admits Arsenal had point to prove after \u2018big moment in season\u2019 with win at Sporting",
-      "link": "https://www.theguardian.com/football/2026/apr/07/mikel-arteta-arsenal-sporting-champions-league",
-      "mean_score": 0.5592,
-      "vader_score": 0.7184,
-      "textblob_score": 0.4,
-      "first_sentence": "Mikel Arteta acknowledged that Arsenal had a point to prove against Sporting after losing their last two matches and believes that Kai Havertz\u2019s late winner could prove to be a \u201cbig moment\u201d in their season.",
-      "timestamp": "2026-04-07T22:43:45Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Claims wild-caught Australian seafood will soon 'only be afforded by the rich'",
-      "link": "https://www.abc.net.au/news/rural/2026-04-08/australian-wild-caught-seafood-price-rise-predicted/106537802",
-      "mean_score": 0.3412,
-      "vader_score": 0.5574,
-      "textblob_score": 0.125,
-      "first_sentence": "Australian seafood is set to become more expensive unless fuel supplies return to normal.",
-      "timestamp": "2026-04-07T22:02:07Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Will Democratic wins affect plans for Florida redistricting?",
-      "link": "https://www.npr.org/2026/04/07/nx-s1-5773367/will-democratic-wins-affect-plans-for-florida-redistricting",
-      "mean_score": 0.4359,
-      "vader_score": 0.5719,
-      "textblob_score": 0.3,
-      "first_sentence": "After Democrats flipped two seats in surprising legislative elections, Florida political insiders weigh whether Republican should risk redistricting later this month to win more House seats.",
-      "timestamp": "2026-04-07T21:05:30Z",
-      "source": "NPR News"
     }
   ]
 }
