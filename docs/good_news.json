@@ -1,6 +1,16 @@
 {
-  "last run": "2026-04-15T09:32:48Z",
+  "last run": "2026-04-15T12:20:52Z",
   "stories": [
+    {
+      "headline": "Commuters welcome second year of Translink fare freeze",
+      "link": "https://www.bbc.com/news/videos/c7055yjplr2o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.447,
+      "vader_score": 0.4939,
+      "textblob_score": 0.4,
+      "first_sentence": "They are among hundreds of thousands of ship plans and documents made widely accessible.",
+      "timestamp": "2026-04-15T10:11:15Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Labour claims Reform UK won\u2019t protect women, as poll suggests Farage\u2019s party heading for \u2018seismic\u2019 wins in May \u2013 UK politics live",
       "link": "https://www.theguardian.com/politics/live/2026/apr/15/labour-reform-uk-women-nigel-farage-local-elections-keir-starmer-kemi-badenoch-pmqs-iran-war-uk-politics-latest",
@@ -2490,16 +2500,6 @@
       "first_sentence": "A couple say their \"world will stop\" on the day their baby goes into an operating theatre for life-saving open heart surgery.",
       "timestamp": "2026-04-07T14:31:43Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Who needs looksmaxxing when you\u2019ve got Catholicmaxxing? The TikTok trend making religion great again",
-      "link": "https://www.theguardian.com/world/2026/apr/07/catholicmaxxing-catholicism--church-religion-tiktok-gen-z-influencers",
-      "mean_score": 0.7125,
-      "vader_score": 0.6249,
-      "textblob_score": 0.8,
-      "first_sentence": "What\u2019s with all this maxxing business anyway? Oh, don\u2019t concern yourself too much with the nomenclature.",
-      "timestamp": "2026-04-07T14:26:40Z",
-      "source": "The Guardian"
     }
   ]
 }
