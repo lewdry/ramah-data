@@ -1,6 +1,46 @@
 {
-  "last run": "2026-04-15T15:27:50Z",
+  "last run": "2026-04-15T18:25:33Z",
   "stories": [
+    {
+      "headline": "NYC SantaCon charity fundraiser was more con than Claus, authorities say",
+      "link": "https://www.theguardian.com/us-news/2026/apr/15/santacon-charity-new-york-fraud",
+      "mean_score": 0.4607,
+      "vader_score": 0.4215,
+      "textblob_score": 0.5,
+      "first_sentence": "A SantaCon charity fundraiser that floods New York City with inebriated young people in red and white Santa costumes every holiday season was true to its name: a con, federal authorities said as they arrested its organizer.",
+      "timestamp": "2026-04-15T17:32:13Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Adobe takes Creative Cloud into Claude Code-esque territory",
+      "link": "https://arstechnica.com/ai/2026/04/adobe-takes-creative-cloud-into-claude-code-esque-territory/",
+      "mean_score": 0.4702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.5,
+      "first_sentence": "Adobe has been putting task-specific AI tools and features into its creative productivity applications like Photoshop, Illustrator, and Premiere at a breakneck pace, but the latest product from the company\u2014a chat-based interface that can handle complex, multi-modal projects across several applications\u2014marks a significant shift in how users can think about its suite of tools.",
+      "timestamp": "2026-04-15T16:54:33Z",
+      "source": "Ars Technica"
+    },
+    {
+      "headline": "Sand dredging may have greater impact on Lough Neagh",
+      "link": "https://www.bbc.com/news/articles/cn9qqnwe97zo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4306,
+      "vader_score": 0.3612,
+      "textblob_score": 0.5,
+      "first_sentence": "Sand dredging in Lough Neagh \"may be having broader and more persistent impacts\" on the lake than previously thought, according to new research led by Queen's University Belfast.",
+      "timestamp": "2026-04-15T16:24:38Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Good Omens S3 trailer sets up a blessed conclusion",
+      "link": "https://arstechnica.com/culture/2026/04/good-omens-s3-trailer-sets-up-a-blessed-conclusion/",
+      "mean_score": 0.7391,
+      "vader_score": 0.7783,
+      "textblob_score": 0.7,
+      "first_sentence": "Prime Video\u2019s supernatural comedy will end with a special 90-minute final episode.",
+      "timestamp": "2026-04-15T15:45:42Z",
+      "source": "Ars Technica"
+    },
     {
       "headline": "Ukraine\u2019s Zelenskyy pursues more arms deals with allies to help check Russia\u2019s invasion",
       "link": "https://apnews.com/article/russia-ukraine-zelenskyy-drones-europe-nato-99c1e8edabe90ce907ca88ecd6becdda",
@@ -2460,46 +2500,6 @@
       "first_sentence": "After Democrats flipped two seats in surprising legislative elections, Florida political insiders weigh whether Republican should risk redistricting later this month to win more House seats.",
       "timestamp": "2026-04-07T21:05:30Z",
       "source": "NPR News"
-    },
-    {
-      "headline": "Live: Albanese talks energy security with China's premier",
-      "link": "https://www.abc.net.au/news/2026-04-08/federal-politics-blog-fuel-albanese-iran-taylor-canavan-npc/106538544",
-      "mean_score": 0.3393,
-      "vader_score": 0.5423,
-      "textblob_score": 0.1364,
-      "first_sentence": "Anthony Albanese and Chinese Premier Li Qiang have discussed energy security ahead of the prime minister's dash to Singapore later this week.",
-      "timestamp": "2026-04-07T21:04:44Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Real Madrid 1-2 Bayern Munich: Champions League quarter-final first leg \u2013 live reaction",
-      "link": "https://www.theguardian.com/football/live/2026/apr/07/real-madrid-v-bayern-munich-champions-league-quarter-final-first-leg-live",
-      "mean_score": 0.3611,
-      "vader_score": 0.5267,
-      "textblob_score": 0.1955,
-      "first_sentence": "double quotation mark\u201cThis is why you guys come to these games,\u201d Vincent Kompany had said, and here especially.",
-      "timestamp": "2026-04-07T21:03:32Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Troy the parrot home safe after Dublin Airport adventure",
-      "link": "https://www.bbc.com/news/articles/ckg9y5q002ro?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5685,
-      "vader_score": 0.6369,
-      "textblob_score": 0.5,
-      "first_sentence": "A parrot discovered at Dublin Airport has been safely reunited with its owner, thanks to the efforts of airport staff and the public.",
-      "timestamp": "2026-04-07T19:04:33Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Women\u2019s Super League academy teams to play in third tier under new FA proposals",
-      "link": "https://www.theguardian.com/football/2026/apr/07/wsl-academy-teams-to-play-in-third-tier-fa-plans-womens-national-league",
-      "mean_score": 0.4498,
-      "vader_score": 0.743,
-      "textblob_score": 0.1566,
-      "first_sentence": "Major structural changes to the Women\u2019s National League, including four Women\u2019s Super League academy sides entering tier three of the pyramid from 2027 and the introduction of a mid-season split similar to that used in Scotland, have been proposed by the Football Association, the Guardian can reveal.",
-      "timestamp": "2026-04-07T18:06:20Z",
-      "source": "The Guardian"
     }
   ]
 }
