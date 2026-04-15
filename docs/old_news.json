@@ -1,5 +1,75 @@
 [
   {
+    "headline": "Wrecked boats spill styrofoam, chemicals into Great Barrier Reef for months",
+    "link": "https://www.abc.net.au/news/2026-04-07/salvage-time-of-wrecked-boats-criticised-north-qld/106530122",
+    "mean_score": 0.6787,
+    "vader_score": 0.5574,
+    "textblob_score": 0.8,
+    "first_sentence": "Boat wrecks still line parts of north Queensland's coast months after Cyclone Koji crossed between Bowen and Ayr.",
+    "timestamp": "2026-04-06T22:00:14Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Wireless Festival boss defends Kanye West booking and asks people to forgive rapper",
+    "link": "https://www.bbc.com/news/articles/cwyvr08l7lzo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3243,
+    "vader_score": 0.6486,
+    "textblob_score": 0.0,
+    "first_sentence": "The managing director of Wireless Festival has defended the decision to choose Kanye West as a headliner, encouraging people to offer the rapper \"forgiveness\".",
+    "timestamp": "2026-04-06T20:58:20Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Wireless festival says Kayne West still due to perform despite calls for ban",
+    "link": "https://www.theguardian.com/music/2026/apr/06/wireless-festival-says-kayne-west-still-due-to-perform-despite-calls-for-ban",
+    "mean_score": 0.3019,
+    "vader_score": 0.7289,
+    "textblob_score": -0.125,
+    "first_sentence": "The promoter of Wireless festival has stood by the decision to have Kanye West perform at the event, despite an outcry over the rapper\u2019s antisemitism and calls to cancel his appearance.",
+    "timestamp": "2026-04-06T20:39:41Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "'Are you sure?': First Nations voters asked about identity at polling booths",
+    "link": "https://www.abc.net.au/news/2026-04-07/call-to-review-sa-voice-to-parliament-voter-experience/106529974",
+    "mean_score": 0.3466,
+    "vader_score": 0.3182,
+    "textblob_score": 0.375,
+    "first_sentence": "First Nations voters have told elected officials about facing discrimination at polling booths when attempting to cast their vote in the SA First Nations Voice to Parliament vote.",
+    "timestamp": "2026-04-06T19:59:11Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Hidden costs mean many comedians make 'zero profit' from festival runs",
+    "link": "https://www.abc.net.au/news/2026-04-07/melbourne-comedy-festival-cost-australian-festivals/106530094",
+    "mean_score": 0.4072,
+    "vader_score": 0.8074,
+    "textblob_score": 0.0069,
+    "first_sentence": "How much would you pay for someone to turn a projector on for you every night for a week? $100? $200 and a couple drinks?.",
+    "timestamp": "2026-04-06T18:45:48Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Live: Artemis II breaks distance record, Moon 'bright spot' named after commander's late wife",
+    "link": "https://www.abc.net.au/news/2026-04-07/artemis-ii-on-track-break-all-time-distance-record/106534158",
+    "mean_score": 0.3096,
+    "vader_score": 0.4404,
+    "textblob_score": 0.1788,
+    "first_sentence": "The Artemis II astronauts have travelled further from Earth than any humans before, surpassing the record set by Apollo 13 in 1970 at 400,171 kilometres.",
+    "timestamp": "2026-04-06T17:37:17Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Ladysmith Black Mambazo's 'wise elder' dies aged 77",
+    "link": "https://www.bbc.com/news/articles/cx2r5g7x25yo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3106,
+    "vader_score": 0.4767,
+    "textblob_score": 0.1444,
+    "first_sentence": "Albert Mazibuko, who sang in iconic South African group Ladysmith Black Mambazo for more than five decades, has died aged 77.",
+    "timestamp": "2026-04-06T17:20:16Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "The FA Cup still has an important place. This weekend was proof",
     "link": "https://www.theguardian.com/football/2026/apr/06/fa-cup-premier-league-arsenal-southampton",
     "mean_score": 0.3012,

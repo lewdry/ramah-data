@@ -1,6 +1,56 @@
 {
-  "last run": "2026-04-14T21:17:22Z",
+  "last run": "2026-04-15T00:28:54Z",
   "stories": [
+    {
+      "headline": "Help to Buy mostly helped high earners, IFS says",
+      "link": "https://www.bbc.com/news/articles/cy511kd5lkwo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3659,
+      "vader_score": 0.4019,
+      "textblob_score": 0.33,
+      "first_sentence": "A government loan scheme for first-time home buyers in England mostly helped higher earners in areas where homes are cheaper, a major think tank has said.",
+      "timestamp": "2026-04-14T23:03:25Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Higher-income households benefited most from Help to Buy, thinktank finds",
+      "link": "https://www.theguardian.com/money/2026/apr/15/higher-income-households-benefited-most-from-help-to-buy-mortgages-thinktank",
+      "mean_score": 0.4775,
+      "vader_score": 0.4549,
+      "textblob_score": 0.5,
+      "first_sentence": "Higher-income households were the biggest beneficiaries of George Osborne\u2019s Help to Buy mortgage schemes, introduced in the 2010s, according to an analysis by the Institute for Fiscal Studies (IFS) thinktank.",
+      "timestamp": "2026-04-14T23:01:52Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "New dads like me want to do fatherhood differently. Where\u2019s our support? | Zac Seidler",
+      "link": "https://www.theguardian.com/commentisfree/2026/apr/14/new-dads-fatherhood-support",
+      "mean_score": 0.3693,
+      "vader_score": 0.6705,
+      "textblob_score": 0.0682,
+      "first_sentence": "The slow, weeks-long reckoning that followed my son\u2019s birth three months ago was something no book had prepared me for.",
+      "timestamp": "2026-04-14T22:00:50Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "New footage shows joy at Orion capsule hatch being opened",
+      "link": "https://www.bbc.com/news/videos/cyv11je1emeo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.527,
+      "vader_score": 0.5859,
+      "textblob_score": 0.4682,
+      "first_sentence": "Newly released video shows the moment the hatch of Artemis II's Orion capsule is unlocked to a happy reunion with the four astronauts.",
+      "timestamp": "2026-04-14T21:36:49Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Zelenskyy says US has 'no time for Ukraine' as Iran peace focus keeps negotiators busy",
+      "link": "https://www.sbs.com.au/news/article/zelenskyy-says-us-has-no-time-for-ukraine-as-iran-peace-focus-keeps-negotiators-busy/k640p855g",
+      "mean_score": 0.3211,
+      "vader_score": 0.5423,
+      "textblob_score": 0.1,
+      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+      "timestamp": "2026-04-14T21:27:20Z",
+      "source": "SBS News"
+    },
     {
       "headline": "Americans ask AI for health care. Hospitals think the answer is more chatbots.",
       "link": "https://arstechnica.com/health/2026/04/americans-ask-ai-for-health-care-hospitals-think-the-answer-is-more-chatbots/",
@@ -92,6 +142,16 @@
       "source": "BBC News"
     },
     {
+      "headline": "In a joyful Budapest, I see the chance of an unprecedented transition | Timothy Garton Ash",
+      "link": "https://www.theguardian.com/commentisfree/2026/apr/14/budapest-populists-donald-trump-viktor-orban-hungary-europe",
+      "mean_score": 0.6548,
+      "vader_score": 0.7096,
+      "textblob_score": 0.6,
+      "first_sentence": "To be in Budapest last Sunday evening was to see history again being made on the Danube.",
+      "timestamp": "2026-04-14T16:43:24Z",
+      "source": "The Guardian"
+    },
+    {
       "headline": "'Welcome home': Watch joyful reunion as Orion capsule opened after splashdown",
       "link": "https://www.bbc.com/news/videos/clyxxnz97wxo?at_medium=RSS&at_campaign=rss",
       "mean_score": 0.7923,
@@ -109,6 +169,16 @@
       "textblob_score": 0.4,
       "first_sentence": "Mark Carney has said he will govern with \u201chumility, determination and a clear understanding of what this moment demands\u201d after his Liberals swept three byelections Monday evening, forging a parliamentary majority just more than a year after he took power.",
       "timestamp": "2026-04-14T15:36:39Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018Cheers, Timmy!\u2019 Royal Ballet and Opera head thanks Chalamet for \u2018fantastic\u2019 boost to sales",
+      "link": "https://www.theguardian.com/film/2026/apr/14/royal-ballet-and-opera-head-thanks-timothee-chalamet-boost-to-sales",
+      "mean_score": 0.5044,
+      "vader_score": 0.7088,
+      "textblob_score": 0.3,
+      "first_sentence": "The head of the UK\u2019s Royal Ballet and Opera has thanked Hollywood actor Timoth\u00e9e Chalamet for inadvertently boosting ticket sales and engagement through his high-profile critique of the art forms last month.",
+      "timestamp": "2026-04-14T15:16:12Z",
       "source": "The Guardian"
     },
     {
@@ -2429,76 +2499,6 @@
       "textblob_score": 0.0,
       "first_sentence": "Parents should teach children online privacy as an essential life skill in the same way as stranger danger or road safety, the UK's data watchdog has said.",
       "timestamp": "2026-04-06T23:05:52Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Wrecked boats spill styrofoam, chemicals into Great Barrier Reef for months",
-      "link": "https://www.abc.net.au/news/2026-04-07/salvage-time-of-wrecked-boats-criticised-north-qld/106530122",
-      "mean_score": 0.6787,
-      "vader_score": 0.5574,
-      "textblob_score": 0.8,
-      "first_sentence": "Boat wrecks still line parts of north Queensland's coast months after Cyclone Koji crossed between Bowen and Ayr.",
-      "timestamp": "2026-04-06T22:00:14Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Wireless Festival boss defends Kanye West booking and asks people to forgive rapper",
-      "link": "https://www.bbc.com/news/articles/cwyvr08l7lzo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3243,
-      "vader_score": 0.6486,
-      "textblob_score": 0.0,
-      "first_sentence": "The managing director of Wireless Festival has defended the decision to choose Kanye West as a headliner, encouraging people to offer the rapper \"forgiveness\".",
-      "timestamp": "2026-04-06T20:58:20Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Wireless festival says Kayne West still due to perform despite calls for ban",
-      "link": "https://www.theguardian.com/music/2026/apr/06/wireless-festival-says-kayne-west-still-due-to-perform-despite-calls-for-ban",
-      "mean_score": 0.3019,
-      "vader_score": 0.7289,
-      "textblob_score": -0.125,
-      "first_sentence": "The promoter of Wireless festival has stood by the decision to have Kanye West perform at the event, despite an outcry over the rapper\u2019s antisemitism and calls to cancel his appearance.",
-      "timestamp": "2026-04-06T20:39:41Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "'Are you sure?': First Nations voters asked about identity at polling booths",
-      "link": "https://www.abc.net.au/news/2026-04-07/call-to-review-sa-voice-to-parliament-voter-experience/106529974",
-      "mean_score": 0.3466,
-      "vader_score": 0.3182,
-      "textblob_score": 0.375,
-      "first_sentence": "First Nations voters have told elected officials about facing discrimination at polling booths when attempting to cast their vote in the SA First Nations Voice to Parliament vote.",
-      "timestamp": "2026-04-06T19:59:11Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Hidden costs mean many comedians make 'zero profit' from festival runs",
-      "link": "https://www.abc.net.au/news/2026-04-07/melbourne-comedy-festival-cost-australian-festivals/106530094",
-      "mean_score": 0.4072,
-      "vader_score": 0.8074,
-      "textblob_score": 0.0069,
-      "first_sentence": "How much would you pay for someone to turn a projector on for you every night for a week? $100? $200 and a couple drinks?.",
-      "timestamp": "2026-04-06T18:45:48Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Live: Artemis II breaks distance record, Moon 'bright spot' named after commander's late wife",
-      "link": "https://www.abc.net.au/news/2026-04-07/artemis-ii-on-track-break-all-time-distance-record/106534158",
-      "mean_score": 0.3096,
-      "vader_score": 0.4404,
-      "textblob_score": 0.1788,
-      "first_sentence": "The Artemis II astronauts have travelled further from Earth than any humans before, surpassing the record set by Apollo 13 in 1970 at 400,171 kilometres.",
-      "timestamp": "2026-04-06T17:37:17Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Ladysmith Black Mambazo's 'wise elder' dies aged 77",
-      "link": "https://www.bbc.com/news/articles/cx2r5g7x25yo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3106,
-      "vader_score": 0.4767,
-      "textblob_score": 0.1444,
-      "first_sentence": "Albert Mazibuko, who sang in iconic South African group Ladysmith Black Mambazo for more than five decades, has died aged 77.",
-      "timestamp": "2026-04-06T17:20:16Z",
       "source": "BBC News"
     }
   ]
