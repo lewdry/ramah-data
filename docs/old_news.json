@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Women in Northern Ireland welcome introduction of miscarriage leave",
+    "link": "https://www.bbc.com/news/videos/c62je7j1yeyo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.6108,
+    "vader_score": 0.4215,
+    "textblob_score": 0.8,
+    "first_sentence": "Northern Ireland has become the first part of the UK where a woman and her partner are entitled to two weeks of paid leave if they experience a miscarriage at any stage of pregnancy.",
+    "timestamp": "2026-04-07T13:17:40Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Neighbour plan to help food bank expand",
+    "link": "https://www.bbc.com/news/articles/cvgek74l49do?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3062,
+    "vader_score": 0.6124,
+    "textblob_score": 0.0,
+    "first_sentence": "Worcester Foodbank is set to expand after securing permission to take over a neighbouring unit.",
+    "timestamp": "2026-04-07T12:51:33Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "JP Morgan reaches agreement with City airport for Canary Wharf\u2019s tallest tower",
+    "link": "https://www.theguardian.com/business/2026/apr/07/jp-morgan-clears-hurdle-canary-wharf-tallest-tower-london-city-airport",
+    "mean_score": 0.3563,
+    "vader_score": 0.7125,
+    "textblob_score": 0.0,
+    "first_sentence": "JP Morgan Chase has reached agreement with London City airport to build one of Europe\u2019s tallest office towers in the east of the capital.",
+    "timestamp": "2026-04-07T12:47:27Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "\u2018Even more beautiful than I imagined\u2019: the nifty Japanese printing gadget uniting artists worldwide",
+    "link": "https://www.theguardian.com/artanddesign/2026/apr/07/nifty-japanese-printing-gadget-risograph-riso-club-gabriella-marcella",
+    "mean_score": 0.617,
+    "vader_score": 0.7841,
+    "textblob_score": 0.45,
+    "first_sentence": "Gabriella Marcella felt something in her brain click when she first used a risograph printer.",
+    "timestamp": "2026-04-07T11:18:12Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "How to make better coffee \u2013 without spending a fortune",
     "link": "https://www.theguardian.com/thefilter/2026/apr/02/readers-everything-want-to-know-about-coffee",
     "mean_score": 0.4702,
