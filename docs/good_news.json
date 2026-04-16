@@ -1,6 +1,66 @@
 {
-  "last run": "2026-04-16T04:04:09Z",
+  "last run": "2026-04-16T06:38:02Z",
   "stories": [
+    {
+      "headline": "Hanson wishes Coalition good luck, government focuses on fuel",
+      "link": "https://www.abc.net.au/news/2026-04-16/pauline-hanson-coalition-migration-fuel-fire-treasurer/106557502",
+      "mean_score": 0.7289,
+      "vader_score": 0.7579,
+      "textblob_score": 0.7,
+      "first_sentence": "Welcome back to your weekly federal politics update, where Courtney Gould gets you up to speed on the happenings from Parliament House.",
+      "timestamp": "2026-04-16T06:25:14Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "A dispatch from inside the Vatican bubble during a remarkable exchange between pope and president",
+      "link": "https://apnews.com/article/pope-leo-xiv-media-coverage-trump-africa-bb65bbd4d88949e549f0b0b27916d5da",
+      "mean_score": 0.6537,
+      "vader_score": 0.5574,
+      "textblob_score": 0.75,
+      "first_sentence": "ABOARD THE PAPAL PLANE (AP) \u2014 There is an odd sense of isolation when you are covering Pope Leo XIV from inside the Vatican\u2019s traveling press pool: Escorted from venue to venue with police motorcades that clear even the most congested of traffic jams, it\u2019s a membership that has many privileges.",
+      "timestamp": "2026-04-16T06:23:02Z",
+      "source": "AP News"
+    },
+    {
+      "headline": "Cool Hand Luke actress Joy Harmon dies aged 87",
+      "link": "https://www.bbc.com/news/articles/cvgkzpqnvd0o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.6009,
+      "vader_score": 0.8519,
+      "textblob_score": 0.35,
+      "first_sentence": "US actress Joy Harmon, who was best known for a provocative short scene in the classic film Cool Hand Luke, has died aged 87.",
+      "timestamp": "2026-04-16T05:52:12Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Private rents in Great Britain stop rising for first time since 2017",
+      "link": "https://www.theguardian.com/money/2026/apr/16/private-rents-great-britain-stop-rising-cut-prices-rightmove",
+      "mean_score": 0.3952,
+      "vader_score": 0.4404,
+      "textblob_score": 0.35,
+      "first_sentence": "Average private rents have stopped rising in Great Britain after almost a decade of increases, as more landlords cut their prices to secure a tenant, data shows.",
+      "timestamp": "2026-04-16T05:00:48Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Farmers 'running on empty' welcome arrival of diesel",
+      "link": "https://www.abc.net.au/news/2026-04-16/farmers-running-on-empty-welcome-arrival-of-diesel-to-newcastle/106567140",
+      "mean_score": 0.323,
+      "vader_score": 0.296,
+      "textblob_score": 0.35,
+      "first_sentence": "NSW farmers are hopeful a delivery of diesel to the Port of Newcastle can help replenish supplies and allow them to carry out crucial work on their properties.",
+      "timestamp": "2026-04-16T04:44:10Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "SA government has 'assurances' from LIV Golf as course upgrade under fresh scrutiny",
+      "link": "https://www.abc.net.au/news/2026-04-16/sa-liv-golf-future-with-north-adelaide-golf-course/106570520",
+      "mean_score": 0.4359,
+      "vader_score": 0.5719,
+      "textblob_score": 0.3,
+      "first_sentence": "The South Australian government says it has \"assurances\" from LIV Golf, despite speculation about the future of the tour.",
+      "timestamp": "2026-04-16T04:18:15Z",
+      "source": "ABC News"
+    },
     {
       "headline": "A Colorado hospital profits from resolving language barriers",
       "link": "https://www.npr.org/2026/04/16/nx-s1-5780035/rural-hospital-colorado-medical-translators",
@@ -40,6 +100,16 @@
       "first_sentence": "Motoring enthusiasts from all over Australia have made the annual pilgrimage to central Queensland for Rockynats.",
       "timestamp": "2026-04-15T22:58:54Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "Arsenal are painful to watch but maybe this is just how you win things | Barney Ronay",
+      "link": "https://www.theguardian.com/football/2026/apr/15/arsenal-are-painful-to-watch-but-maybe-this-is-just-how-you-win-things",
+      "mean_score": 0.3464,
+      "vader_score": 0.6428,
+      "textblob_score": 0.05,
+      "first_sentence": "And so I am become a meme.",
+      "timestamp": "2026-04-15T22:58:23Z",
+      "source": "The Guardian"
     },
     {
       "headline": "Caitlin Foord baffled by lost goal as Kerr lifts Matildas to Fifa Series final win over Kenya",
@@ -2429,76 +2499,6 @@
       "textblob_score": 0.15,
       "first_sentence": "British novelist Gwendoline Riley is among eight writers set to receive $175,000 (\u00a3130,000) each in recognition of their life\u2019s work.",
       "timestamp": "2026-04-08T18:15:09Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Starmer says UK wants to help with opening Hormuz strait amid closure reports",
-      "link": "https://www.theguardian.com/world/2026/apr/08/keir-starmer-says-it-is-uks-job-to-help-reopen-strait-of-hormuz",
-      "mean_score": 0.3009,
-      "vader_score": 0.4019,
-      "textblob_score": 0.2,
-      "first_sentence": "The UK has a \u201cjob\u201d to help reopen the strait of Hormuz, Keir Starmer has said, as Iranian reports said the key shipping route was closed again just hours after a supposed ceasefire.",
-      "timestamp": "2026-04-08T17:58:27Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Greetings from downtown Cairo, where unpretentious caf\u00e9s are part of centuries-old charm",
-      "link": "https://www.npr.org/2026/04/08/g-s1-116552/cairo-wust-el-balad-sheesha-cafe",
-      "mean_score": 0.3352,
-      "vader_score": 0.6705,
-      "textblob_score": 0.0,
-      "first_sentence": "Far-Flung Postcards is a weekly series in which NPR's international team shares moments from their lives and work around the world.",
-      "timestamp": "2026-04-08T17:58:10Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "New light shed on who benefits most from weight-loss jabs",
-      "link": "https://www.bbc.com/news/articles/cn5317dkqnxo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3636,
-      "vader_score": 0.3818,
-      "textblob_score": 0.3455,
-      "first_sentence": "People who carry variations in two genes linked to appetite and digestion can lose more weight when taking drugs such as Wegovy and Mounjaro to treat obesity, research suggests.",
-      "timestamp": "2026-04-08T15:07:19Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "An irresistible adventure activity for New Zealand visitors? Delivering the mail by boat",
-      "link": "https://www.theguardian.com/travel/2026/apr/08/new-zealand-queen-charlotte-sound-mail-by-boat-cruise",
-      "mean_score": 0.3541,
-      "vader_score": 0.5719,
-      "textblob_score": 0.1364,
-      "first_sentence": "For a travel destination famous for offering the adrenaline rush of extreme sports, from bungee jumping to the parachute drop, it\u2019s an unlikely tourist activity \u2013 but an irresistible one.",
-      "timestamp": "2026-04-08T15:00:46Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Are OnlyFans models the best way to explain the climate crisis?",
-      "link": "https://www.theguardian.com/tv-and-radio/2026/apr/08/are-onlyfans-models-the-best-way-to-explain-the-climate-crisis",
-      "mean_score": 0.5129,
-      "vader_score": 0.0258,
-      "textblob_score": 1.0,
-      "first_sentence": "Actor Megan Prescott has joined with Adam McKay in the hope that showing bite-size web videos of women undressing will persuade us to save the world.",
-      "timestamp": "2026-04-08T14:35:49Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "What does the dark side of the moon sound like? Nasa\u2019s sonifications are helping us imagine",
-      "link": "https://www.theguardian.com/music/2026/apr/08/what-does-the-dark-side-of-the-moon-sound-like-nasas-sonifications-are-helping-us-imagine",
-      "mean_score": 0.3484,
-      "vader_score": 0.5719,
-      "textblob_score": 0.125,
-      "first_sentence": "Jaw-dropping dark-siding exploration aside, it\u2019s the mundane details of the Artemis II mission that connect us with the four astronauts slingshotting their way around the moon and back.",
-      "timestamp": "2026-04-08T13:50:46Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Carnival celebrations at a Hungarian retirement home: J\u00e1nos B\u0151dey\u2019s best photograph",
-      "link": "https://www.theguardian.com/artanddesign/2026/apr/08/hungarian-pensioners-carnival-janos-bodeys-best-photograph",
-      "mean_score": 0.8185,
-      "vader_score": 0.6369,
-      "textblob_score": 1.0,
-      "first_sentence": "When I saw these two elderly ladies dressed as bride and groom in a retirement home in P\u00e1ty, near Budapest, my first thought was to wonder why they had chosen those particular costumes.",
-      "timestamp": "2026-04-08T13:26:41Z",
       "source": "The Guardian"
     }
   ]
