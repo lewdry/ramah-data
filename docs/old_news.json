@@ -1,5 +1,25 @@
 [
   {
+    "headline": "'Growing up with deaf parents inspired my new comedy show'",
+    "link": "https://www.bbc.com/news/articles/cwyk7g904xyo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4435,
+    "vader_score": 0.7506,
+    "textblob_score": 0.1364,
+    "first_sentence": "When Ray Bradshaw was growing up, he never thought there was anything unusual about the fact he could hear while his parents were deaf.",
+    "timestamp": "2026-04-09T05:14:36Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Artemis II is 'inspiring' a whole generation",
+    "link": "https://www.bbc.com/news/articles/c1mk3lke042o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3857,
+    "vader_score": 0.4215,
+    "textblob_score": 0.35,
+    "first_sentence": "Susan Charlesworth has a rather rare and unique job that involves preparing people for something very few humans have ever expierenced - travelling into space.",
+    "timestamp": "2026-04-09T05:12:44Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Tigers searching for third straight win to end eight-year streak",
     "link": "https://www.abc.net.au/news/2026-04-09/wests-tigers-nrl-three-wins-in-a-row/106546636",
     "mean_score": 0.5121,

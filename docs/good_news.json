@@ -1,6 +1,26 @@
 {
-  "last run": "2026-04-16T15:33:22Z",
+  "last run": "2026-04-16T18:25:47Z",
   "stories": [
+    {
+      "headline": "Andrew invited to relinquish Freedom of City",
+      "link": "https://www.bbc.com/news/articles/c239219g7l5o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3185,
+      "vader_score": 0.6369,
+      "textblob_score": 0.0,
+      "first_sentence": "Andrew Mountbatten-Windsor has been invited by councillors to relinquish his inherited Freedom of the City of London.",
+      "timestamp": "2026-04-16T17:04:09Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Word up \u2013 this is the best put-down of all  | Brief letters",
+      "link": "https://www.theguardian.com/uk-news/2026/apr/16/word-up-this-is-the-best-put-down-of-all",
+      "mean_score": 0.5685,
+      "vader_score": 0.6369,
+      "textblob_score": 0.5,
+      "first_sentence": "Have an opinion on anything you\u2019ve read in the Guardian today? Please email us your letter and it will be considered for publication in our letters section.",
+      "timestamp": "2026-04-16T15:49:14Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Beckhams have 'always tried to be best parents', Victoria says after Brooklyn row",
       "link": "https://www.bbc.com/news/articles/czex2wl2967o?at_medium=RSS&at_campaign=rss",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.7,
       "first_sentence": "The Artemis II crew said they have \"many more pictures\" and \"many more stories\" to share with the world as they prepare to return to Earth.",
       "timestamp": "2026-04-09T05:57:18Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "'Growing up with deaf parents inspired my new comedy show'",
-      "link": "https://www.bbc.com/news/articles/cwyk7g904xyo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4435,
-      "vader_score": 0.7506,
-      "textblob_score": 0.1364,
-      "first_sentence": "When Ray Bradshaw was growing up, he never thought there was anything unusual about the fact he could hear while his parents were deaf.",
-      "timestamp": "2026-04-09T05:14:36Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Artemis II is 'inspiring' a whole generation",
-      "link": "https://www.bbc.com/news/articles/c1mk3lke042o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3857,
-      "vader_score": 0.4215,
-      "textblob_score": 0.35,
-      "first_sentence": "Susan Charlesworth has a rather rare and unique job that involves preparing people for something very few humans have ever expierenced - travelling into space.",
-      "timestamp": "2026-04-09T05:12:44Z",
       "source": "BBC News"
     }
   ]
