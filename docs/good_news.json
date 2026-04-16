@@ -1,6 +1,46 @@
 {
-  "last run": "2026-04-15T21:18:41Z",
+  "last run": "2026-04-16T00:29:19Z",
   "stories": [
+    {
+      "headline": "Record entrants rev up for Rockynats festival despite fuel crisis",
+      "link": "https://www.abc.net.au/news/2026-04-16/record-entrants-for-2026-rockynats-car-and-motorcycle-festival/106537530",
+      "mean_score": 0.3787,
+      "vader_score": 0.7575,
+      "textblob_score": 0.0,
+      "first_sentence": "Motoring enthusiasts from all over Australia have made the annual pilgrimage to central Queensland for Rockynats.",
+      "timestamp": "2026-04-15T22:58:54Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Caitlin Foord baffled by lost goal as Kerr lifts Matildas to Fifa Series final win over Kenya",
+      "link": "https://www.theguardian.com/football/2026/apr/16/australia-matildas-kenya-fifa-series-final-kerr-foord-report",
+      "mean_score": 0.3806,
+      "vader_score": 0.3612,
+      "textblob_score": 0.4,
+      "first_sentence": "Sam Kerr\u2019s 75th international goal may have been her softest as she set her Matildas on the way to a surprisingly tough, controversial 2-0 victory over Kenya in the Fifa Series final.",
+      "timestamp": "2026-04-15T22:34:42Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "More big energy users to get help as support plan expanded",
+      "link": "https://www.bbc.com/news/articles/c0lee3j122go?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5134,
+      "vader_score": 0.7769,
+      "textblob_score": 0.25,
+      "first_sentence": "More businesses have been promised help with their energy bills from April next year, after the government announced it was expanding a support scheme first outlined in 2025.",
+      "timestamp": "2026-04-15T22:33:35Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Arsenal scrap through to semis, Munich win thriller over Real Madrid",
+      "link": "https://www.abc.net.au/news/2026-04-16/uefa-champions-league-arsenal-sporting-bayern-munich-real-madrid/106570008",
+      "mean_score": 0.5685,
+      "vader_score": 0.6369,
+      "textblob_score": 0.5,
+      "first_sentence": "Arsenal is through to the UEFA Champions League semifinals after securing the draw it needed against Portuguese side Sporting.",
+      "timestamp": "2026-04-15T21:49:57Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Gina Rinehart 'won' the legal battle for Hope Downs, commentator says",
       "link": "https://www.abc.net.au/news/2026-04-16/gina-rinehart-won-court-tim-treadgold/106568986",
@@ -2460,46 +2500,6 @@
       "first_sentence": "The offer of a free trip on public transport is turning some Tasmanians into \"converts\", while others use it for new experiences.",
       "timestamp": "2026-04-08T08:56:25Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "When is the best time to get your flu vaccine?",
-      "link": "https://www.abc.net.au/news/2026-04-08/when-is-the-best-time-to-get-flu-vaccine/106538808",
-      "mean_score": 0.6909,
-      "vader_score": 0.3818,
-      "textblob_score": 1.0,
-      "first_sentence": "We usually have to wait until winter approaches before we see an increase in cases of influenza, or the flu.",
-      "timestamp": "2026-04-08T06:09:54Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Books changed my life, says Queen's first reading hero",
-      "link": "https://www.bbc.com/news/articles/c2lwkwnzk7vo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4037,
-      "vader_score": 0.5574,
-      "textblob_score": 0.25,
-      "first_sentence": "Selina Brown pored over books as a child, enthralled at the wonders leaping from the pages.",
-      "timestamp": "2026-04-08T05:54:41Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Modern heroes and a ravaged Earth: reboot of 1950s space comic Dan Dare has liftoff",
-      "link": "https://www.theguardian.com/books/2026/apr/08/dan-dare-reboot-space-comic",
-      "mean_score": 0.3678,
-      "vader_score": 0.5106,
-      "textblob_score": 0.225,
-      "first_sentence": "Sufferin\u2019 satellites! The quintessential British space hero Dan Dare is back, 76 years after he first appeared in iconic comic magazine the Eagle.",
-      "timestamp": "2026-04-08T05:00:16Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Republican wins Georgia runoff election to replace Marjorie Taylor Greene",
-      "link": "https://www.theguardian.com/us-news/2026/apr/07/georgia-house-election-runoff",
-      "mean_score": 0.4359,
-      "vader_score": 0.5719,
-      "textblob_score": 0.3,
-      "first_sentence": "Clay Fuller supports the war in Iran.",
-      "timestamp": "2026-04-08T00:42:52Z",
-      "source": "The Guardian"
     }
   ]
 }

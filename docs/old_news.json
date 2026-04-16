@@ -1,5 +1,45 @@
 [
   {
+    "headline": "When is the best time to get your flu vaccine?",
+    "link": "https://www.abc.net.au/news/2026-04-08/when-is-the-best-time-to-get-flu-vaccine/106538808",
+    "mean_score": 0.6909,
+    "vader_score": 0.3818,
+    "textblob_score": 1.0,
+    "first_sentence": "We usually have to wait until winter approaches before we see an increase in cases of influenza, or the flu.",
+    "timestamp": "2026-04-08T06:09:54Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Books changed my life, says Queen's first reading hero",
+    "link": "https://www.bbc.com/news/articles/c2lwkwnzk7vo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4037,
+    "vader_score": 0.5574,
+    "textblob_score": 0.25,
+    "first_sentence": "Selina Brown pored over books as a child, enthralled at the wonders leaping from the pages.",
+    "timestamp": "2026-04-08T05:54:41Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Modern heroes and a ravaged Earth: reboot of 1950s space comic Dan Dare has liftoff",
+    "link": "https://www.theguardian.com/books/2026/apr/08/dan-dare-reboot-space-comic",
+    "mean_score": 0.3678,
+    "vader_score": 0.5106,
+    "textblob_score": 0.225,
+    "first_sentence": "Sufferin\u2019 satellites! The quintessential British space hero Dan Dare is back, 76 years after he first appeared in iconic comic magazine the Eagle.",
+    "timestamp": "2026-04-08T05:00:16Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Republican wins Georgia runoff election to replace Marjorie Taylor Greene",
+    "link": "https://www.theguardian.com/us-news/2026/apr/07/georgia-house-election-runoff",
+    "mean_score": 0.4359,
+    "vader_score": 0.5719,
+    "textblob_score": 0.3,
+    "first_sentence": "Clay Fuller supports the war in Iran.",
+    "timestamp": "2026-04-08T00:42:52Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Squid sightings spawn hope for fast species recovery in South Australia",
     "link": "https://www.abc.net.au/news/2026-04-08/squid-showing-signs-of-recovery-in-sa-restrictions-remain/106539240",
     "mean_score": 0.3202,
