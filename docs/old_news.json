@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Dan Rath: Help Me Please review \u2013 you won\u2019t find another standup with more jokes a minute",
+    "link": "https://www.theguardian.com/stage/2026/apr/09/dan-rath-help-me-please-review-melbourne-comedy-festival",
+    "mean_score": 0.6213,
+    "vader_score": 0.7425,
+    "textblob_score": 0.5,
+    "first_sentence": "Don\u2019t come to Dan Rath\u2019s new show expecting something coherent.",
+    "timestamp": "2026-04-09T01:01:26Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Comedian Grace Jarvis on most bizarre encounter working in sex shop",
+    "link": "https://www.abc.net.au/news/2026-04-09/melbourne-comedy-festival-grace-jarvis-interview/106538880",
+    "mean_score": 0.4364,
+    "vader_score": 0.4228,
+    "textblob_score": 0.45,
+    "first_sentence": "But look a little closer, and you'll see why Rolling Stone last year dubbed this rising Queensland comic a must-see at the Edinburgh Fringe Festival.",
+    "timestamp": "2026-04-08T23:07:44Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Early season brilliance puts Gawn on track for record All-Australian nod",
+    "link": "https://www.abc.net.au/news/2026-04-09/rolling-afl-all-australian-team-volume-1-gawn-approaches-record/106539016",
+    "mean_score": 0.3497,
+    "vader_score": 0.5994,
+    "textblob_score": 0.1,
+    "first_sentence": "The first month of the 2026 AFL season has come and gone, and the ladder is finally beginning to take shape.",
+    "timestamp": "2026-04-08T23:07:27Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Barcelona on the brink after red card and Alvarez stunner sparks Atl\u00e9tico win",
     "link": "https://www.theguardian.com/football/2026/apr/08/barcelona-atletico-madrid-champions-league-quarter-final-first-leg",
     "mean_score": 0.4929,

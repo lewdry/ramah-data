@@ -1,6 +1,36 @@
 {
-  "last run": "2026-04-16T09:32:27Z",
+  "last run": "2026-04-16T12:22:53Z",
   "stories": [
+    {
+      "headline": "Champions League reaction: Sid Lowe answers your questions \u2013 live",
+      "link": "https://www.theguardian.com/football/live/2026/apr/16/your-champions-league-questions-answered-sid-lowe",
+      "mean_score": 0.3679,
+      "vader_score": 0.5994,
+      "textblob_score": 0.1364,
+      "first_sentence": "CalumGilhooly asks: Do you agree that money is killing football? Teams like Forest, Celtic, Ajax, Steaua will never be able to develop a team to compete now.",
+      "timestamp": "2026-04-16T12:18:54Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Church in Wales approves blessings of same-sex marriages",
+      "link": "https://www.bbc.com/news/articles/cx291ejr30xo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3675,
+      "vader_score": 0.7351,
+      "textblob_score": 0.0,
+      "first_sentence": "The governing body of the Church in Wales has approved a bill to make a blessing of same-sex marriages permanent.",
+      "timestamp": "2026-04-16T12:01:25Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "In the footsteps of Linnaeus: scientists share their passion for species from tiny wasps to hairy plants \u2013 in pictures",
+      "link": "https://www.theguardian.com/environment/gallery/2026/apr/16/in-the-footsteps-of-linnaeus-scientists-share-their-passion-for-species-from-tiny-wasps-to-hairy-plants-in-pictures",
+      "mean_score": 0.3185,
+      "vader_score": 0.6369,
+      "textblob_score": 0.0,
+      "first_sentence": "For his project \u2018De Of\u00f6rtrutna\u2019 (The Relentless), photographer Christer Bj\u00f6rkman pictured Swedish scientists working in the spirit of Carl Linnaeus, the botanist who created the modern taxonomic system that classifies organisms based on appearance.",
+      "timestamp": "2026-04-16T11:00:56Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Live: Winning streaks go on the line in Thursday night showdown",
       "link": "https://www.abc.net.au/news/2026-04-16/nrl-live-updates-north-queensland-cowboys-manly-sea-eagles/106573478",
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.3,
       "first_sentence": "The first filly out of champion mare Winx sold at auction for a world record $10 million in 2024.",
       "timestamp": "2026-04-09T03:07:29Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Dan Rath: Help Me Please review \u2013 you won\u2019t find another standup with more jokes a minute",
-      "link": "https://www.theguardian.com/stage/2026/apr/09/dan-rath-help-me-please-review-melbourne-comedy-festival",
-      "mean_score": 0.6213,
-      "vader_score": 0.7425,
-      "textblob_score": 0.5,
-      "first_sentence": "Don\u2019t come to Dan Rath\u2019s new show expecting something coherent.",
-      "timestamp": "2026-04-09T01:01:26Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Comedian Grace Jarvis on most bizarre encounter working in sex shop",
-      "link": "https://www.abc.net.au/news/2026-04-09/melbourne-comedy-festival-grace-jarvis-interview/106538880",
-      "mean_score": 0.4364,
-      "vader_score": 0.4228,
-      "textblob_score": 0.45,
-      "first_sentence": "But look a little closer, and you'll see why Rolling Stone last year dubbed this rising Queensland comic a must-see at the Edinburgh Fringe Festival.",
-      "timestamp": "2026-04-08T23:07:44Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Early season brilliance puts Gawn on track for record All-Australian nod",
-      "link": "https://www.abc.net.au/news/2026-04-09/rolling-afl-all-australian-team-volume-1-gawn-approaches-record/106539016",
-      "mean_score": 0.3497,
-      "vader_score": 0.5994,
-      "textblob_score": 0.1,
-      "first_sentence": "The first month of the 2026 AFL season has come and gone, and the ladder is finally beginning to take shape.",
-      "timestamp": "2026-04-08T23:07:27Z",
       "source": "ABC News"
     }
   ]
