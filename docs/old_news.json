@@ -1,5 +1,65 @@
 [
   {
+    "headline": "Best-selling The Housemaid author Freida McFadden reveals true identity",
+    "link": "https://www.bbc.com/news/articles/ckgelr2pk0lo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3857,
+    "vader_score": 0.4215,
+    "textblob_score": 0.35,
+    "first_sentence": "One of the biggest mysteries in publishing has been solved, after the best-selling US author known to millions of readers as Freida McFadden revealed her true identity.",
+    "timestamp": "2026-04-09T09:35:01Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Live: Festival of footy kicks off with Crows\u2013Blues sellout in Adelaide",
+    "link": "https://www.abc.net.au/news/2026-04-09/afl-thursday-crows-blues-blog/106542620",
+    "mean_score": 0.3151,
+    "vader_score": 0.4939,
+    "textblob_score": 0.1364,
+    "first_sentence": "The fourth edition of AFL's Gather Round gets underway with the Adelaide Crows hosting Carlton at a packed Adelaide Oval.",
+    "timestamp": "2026-04-09T08:46:40Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Big Mistakes review \u2013 Schitt\u2019s Creek creator Dan Levy excels in new cringe comedy",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/apr/09/big-mistakes-review-dan-levy-netflix",
+    "mean_score": 0.3052,
+    "vader_score": 0.5423,
+    "textblob_score": 0.0682,
+    "first_sentence": "There are, broadly speaking, two types of television shows: the ones that make stars and the ones made by stars.",
+    "timestamp": "2026-04-09T07:01:25Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Beloved Queensland pub faces demolition for resort-style development",
+    "link": "https://www.abc.net.au/news/2026-04-09/north-queensland-eimeo-hotel-facing-demolition-for-development/106546784",
+    "mean_score": 0.6053,
+    "vader_score": 0.5106,
+    "textblob_score": 0.7,
+    "first_sentence": "A historic pub in Mackay will be demolished if an application for a resort-style development on the site is approved.",
+    "timestamp": "2026-04-09T06:42:09Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "You Are the F\u00fchrer\u2019s Unrequited Love by Jean-No\u00ebl Orengo review \u2013 Hitler, Speer and beyond",
+    "link": "https://www.theguardian.com/books/2026/apr/09/you-are-the-fuhrers-unrequited-love-by-jean-noel-orengo-review-hitler-speer-and-beyond",
+    "mean_score": 0.5685,
+    "vader_score": 0.6369,
+    "textblob_score": 0.5,
+    "first_sentence": "In April 1975, Simon Wiesenthal, the Holocaust survivor whose efforts to track down Nazi war criminals had earned him the title of\u00a0\u201cNazi hunter\u201d, wrote a letter to Albert Speer, the Nazi war criminal.",
+    "timestamp": "2026-04-09T06:00:24Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Artemis crew returning to Earth with 'all the good stuff' from Moon discoveries",
+    "link": "https://www.bbc.com/news/articles/c70dr45dj1lo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.5702,
+    "vader_score": 0.4404,
+    "textblob_score": 0.7,
+    "first_sentence": "The Artemis II crew said they have \"many more pictures\" and \"many more stories\" to share with the world as they prepare to return to Earth.",
+    "timestamp": "2026-04-09T05:57:18Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "'Growing up with deaf parents inspired my new comedy show'",
     "link": "https://www.bbc.com/news/articles/cwyk7g904xyo?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.4435,

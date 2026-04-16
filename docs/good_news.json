@@ -1,6 +1,46 @@
 {
-  "last run": "2026-04-16T18:25:47Z",
+  "last run": "2026-04-16T21:16:36Z",
   "stories": [
+    {
+      "headline": "End of school holidays sees sunshine in south-east Queensland, rainfall in north",
+      "link": "https://www.abc.net.au/news/2026-04-17/weather-forecast-mixed-back-for-end-of-qld-school-holidays/106571810",
+      "mean_score": 0.3502,
+      "vader_score": 0.7003,
+      "textblob_score": 0.0,
+      "first_sentence": "Parts of Queensland's central interior and north-west could see localised heavy falls today.",
+      "timestamp": "2026-04-16T19:31:01Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Rescuers to use air cushions in latest effort to save stranded whale",
+      "link": "https://www.bbc.com/news/articles/c2082pljyk1o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.497,
+      "vader_score": 0.4939,
+      "textblob_score": 0.5,
+      "first_sentence": "Rescuers plan to use air cushions in the latest attempt to free a humpback whale that has been stranded off Germany's northern coast for weeks.",
+      "timestamp": "2026-04-16T18:30:08Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Like a concrete aircraft carrier: was LA\u2019s giant new $724m gallery really worth all the carbon emissions?",
+      "link": "https://www.theguardian.com/artanddesign/2026/apr/16/lacma-david-geffen-galleries-peter-zumthor-eiffel-concrete-aircraft-carrier",
+      "mean_score": 0.3587,
+      "vader_score": 0.5709,
+      "textblob_score": 0.1466,
+      "first_sentence": "Built on tar swamps and two tortuous decades in the making, Lacma\u2019s latest addition used twice as much metal as the Eiffel Tower.",
+      "timestamp": "2026-04-16T17:32:43Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Pooh in pencil: sketches for original Winnie-the-Pooh book shared for first time",
+      "link": "https://www.theguardian.com/artanddesign/2026/apr/16/winnie-the-pooh-book-preliminary-sketches-e-h-shepard",
+      "mean_score": 0.4422,
+      "vader_score": 0.5719,
+      "textblob_score": 0.3125,
+      "first_sentence": "Previously unseen drawings of Winnie-the-Pooh that show the honey-loving bear before he was introduced to generations of readers in the 1926 book have come to light.",
+      "timestamp": "2026-04-16T17:30:06Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Andrew invited to relinquish Freedom of City",
       "link": "https://www.bbc.com/news/articles/c239219g7l5o?at_medium=RSS&at_campaign=rss",
@@ -62,6 +102,16 @@
       "source": "NPR News"
     },
     {
+      "headline": "The power of the Dunst: Kirsten\u2019s best film performances \u2013 ranked!",
+      "link": "https://www.theguardian.com/film/2026/apr/16/kirsten-dunst-films-ranked",
+      "mean_score": 0.8348,
+      "vader_score": 0.6696,
+      "textblob_score": 1.0,
+      "first_sentence": "An elegant, sun-soaked Patricia Highsmith adaptation with fine work from Viggo Mortensen as a con man and Dunst as his wife, holidaying in early 1960s Athens when they meet an American tour guide (Oscar Isaac).",
+      "timestamp": "2026-04-16T13:52:49Z",
+      "source": "The Guardian"
+    },
+    {
       "headline": "Vaccines a huge success, but public trust must be earned - key findings from Covid report",
       "link": "https://www.bbc.com/news/articles/ce3dp52l70zo?at_medium=RSS&at_campaign=rss",
       "mean_score": 0.4951,
@@ -99,6 +149,16 @@
       "textblob_score": 0.0,
       "first_sentence": "For his project \u2018De Of\u00f6rtrutna\u2019 (The Relentless), photographer Christer Bj\u00f6rkman pictured Swedish scientists working in the spirit of Carl Linnaeus, the botanist who created the modern taxonomic system that classifies organisms based on appearance.",
       "timestamp": "2026-04-16T11:00:56Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Move over matcha: how ube cocktails and coffees are hitting the UK\u2019s sweet spot",
+      "link": "https://www.theguardian.com/food/2026/apr/16/ube-cocktails-coffees-tiktok-trend-starbucks-costa-new-matcha",
+      "mean_score": 0.4044,
+      "vader_score": 0.4588,
+      "textblob_score": 0.35,
+      "first_sentence": "Bright purple coffees and cocktails made with a root vegetable called ube have hit the high street in the UK after the yam\u2019s striking hue caused a sensation on social media.",
+      "timestamp": "2026-04-16T10:15:02Z",
       "source": "The Guardian"
     },
     {
@@ -2440,66 +2500,6 @@
       "first_sentence": "It\u2019s a double 30th anniversary for Belle and Sebastian, whose first two albums, Tigermilk and If You\u2019re Feeling Sinister, both came out in 1996.",
       "timestamp": "2026-04-09T10:20:08Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Best-selling The Housemaid author Freida McFadden reveals true identity",
-      "link": "https://www.bbc.com/news/articles/ckgelr2pk0lo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3857,
-      "vader_score": 0.4215,
-      "textblob_score": 0.35,
-      "first_sentence": "One of the biggest mysteries in publishing has been solved, after the best-selling US author known to millions of readers as Freida McFadden revealed her true identity.",
-      "timestamp": "2026-04-09T09:35:01Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Live: Festival of footy kicks off with Crows\u2013Blues sellout in Adelaide",
-      "link": "https://www.abc.net.au/news/2026-04-09/afl-thursday-crows-blues-blog/106542620",
-      "mean_score": 0.3151,
-      "vader_score": 0.4939,
-      "textblob_score": 0.1364,
-      "first_sentence": "The fourth edition of AFL's Gather Round gets underway with the Adelaide Crows hosting Carlton at a packed Adelaide Oval.",
-      "timestamp": "2026-04-09T08:46:40Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Big Mistakes review \u2013 Schitt\u2019s Creek creator Dan Levy excels in new cringe comedy",
-      "link": "https://www.theguardian.com/tv-and-radio/2026/apr/09/big-mistakes-review-dan-levy-netflix",
-      "mean_score": 0.3052,
-      "vader_score": 0.5423,
-      "textblob_score": 0.0682,
-      "first_sentence": "There are, broadly speaking, two types of television shows: the ones that make stars and the ones made by stars.",
-      "timestamp": "2026-04-09T07:01:25Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Beloved Queensland pub faces demolition for resort-style development",
-      "link": "https://www.abc.net.au/news/2026-04-09/north-queensland-eimeo-hotel-facing-demolition-for-development/106546784",
-      "mean_score": 0.6053,
-      "vader_score": 0.5106,
-      "textblob_score": 0.7,
-      "first_sentence": "A historic pub in Mackay will be demolished if an application for a resort-style development on the site is approved.",
-      "timestamp": "2026-04-09T06:42:09Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "You Are the F\u00fchrer\u2019s Unrequited Love by Jean-No\u00ebl Orengo review \u2013 Hitler, Speer and beyond",
-      "link": "https://www.theguardian.com/books/2026/apr/09/you-are-the-fuhrers-unrequited-love-by-jean-noel-orengo-review-hitler-speer-and-beyond",
-      "mean_score": 0.5685,
-      "vader_score": 0.6369,
-      "textblob_score": 0.5,
-      "first_sentence": "In April 1975, Simon Wiesenthal, the Holocaust survivor whose efforts to track down Nazi war criminals had earned him the title of\u00a0\u201cNazi hunter\u201d, wrote a letter to Albert Speer, the Nazi war criminal.",
-      "timestamp": "2026-04-09T06:00:24Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Artemis crew returning to Earth with 'all the good stuff' from Moon discoveries",
-      "link": "https://www.bbc.com/news/articles/c70dr45dj1lo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.7,
-      "first_sentence": "The Artemis II crew said they have \"many more pictures\" and \"many more stories\" to share with the world as they prepare to return to Earth.",
-      "timestamp": "2026-04-09T05:57:18Z",
-      "source": "BBC News"
     }
   ]
 }
