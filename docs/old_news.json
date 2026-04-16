@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Euphoria stars hit red carpet at premiere of third - and possibly final - season",
+    "link": "https://www.bbc.com/news/articles/c5yjdr0ljydo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3243,
+    "vader_score": 0.6486,
+    "textblob_score": 0.0,
+    "first_sentence": "TV drama Euphoria has been the launchpad for the careers of some of Hollywood's hottest stars - and they have reunited on the red carpet for the premiere of the show's third and possibly final season.",
+    "timestamp": "2026-04-08T12:24:47Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Two for two? Stella prize winner Evelyn Araluen nominated again for second poetry collection",
+    "link": "https://www.theguardian.com/books/2026/apr/08/evelyn-araluen-author-poetry-nominated-stella-prize",
+    "mean_score": 0.3982,
+    "vader_score": 0.7964,
+    "textblob_score": 0.0,
+    "first_sentence": "Evelyn Araluen has been shortlisted for the Stella prize for her second poetry collection The Rot, four years after she became the first ever poet to win the prize for Australian women and non-binary writers.",
+    "timestamp": "2026-04-08T10:00:28Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Abortion clinics are closing nationwide. Could urgent care help fill the gap?",
+    "link": "https://www.npr.org/2026/04/08/nx-s1-5773333/planned-parenthood-urgent-care-medication-abortion-rural",
+    "mean_score": 0.3859,
+    "vader_score": 0.7717,
+    "textblob_score": 0.0,
+    "first_sentence": "Providing abortions was the last thing Shawn Brown thought she'd be doing when she opened an urgent care clinic in Marquette, a small port town on the remote shores of Michigan's Upper Peninsula.",
+    "timestamp": "2026-04-08T09:00:00Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "'Made it very attractive': Free rides luring thousands more onto buses",
+    "link": "https://www.abc.net.au/news/2026-04-08/public-transport-tasmania-free-rides/106541262",
+    "mean_score": 0.7049,
+    "vader_score": 0.7764,
+    "textblob_score": 0.6333,
+    "first_sentence": "The offer of a free trip on public transport is turning some Tasmanians into \"converts\", while others use it for new experiences.",
+    "timestamp": "2026-04-08T08:56:25Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "When is the best time to get your flu vaccine?",
     "link": "https://www.abc.net.au/news/2026-04-08/when-is-the-best-time-to-get-flu-vaccine/106538808",
     "mean_score": 0.6909,
