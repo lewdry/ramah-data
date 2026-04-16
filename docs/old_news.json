@@ -1,5 +1,75 @@
 [
   {
+    "headline": "Barcelona on the brink after red card and Alvarez stunner sparks Atl\u00e9tico win",
+    "link": "https://www.theguardian.com/football/2026/apr/08/barcelona-atletico-madrid-champions-league-quarter-final-first-leg",
+    "mean_score": 0.4929,
+    "vader_score": 0.5859,
+    "textblob_score": 0.4,
+    "first_sentence": "When the final whistle went, the man in black disappeared out of sight and set off running up the tunnel.",
+    "timestamp": "2026-04-08T21:30:16Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "'It's all good': Child sex offender allowed to stay in Australia after visa reinstated",
+    "link": "https://www.abc.net.au/news/2026-04-09/uk-man-who-molested-girl-has-visa-reinstated-amid-ill-health/106541934",
+    "mean_score": 0.4013,
+    "vader_score": 0.1027,
+    "textblob_score": 0.7,
+    "first_sentence": "A British man who sexually abused a nine-year-old girl has had his Australian permanent visa reinstated by a tribunal, after it was automatically cancelled following his conviction.",
+    "timestamp": "2026-04-08T21:13:23Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Negotiators face huge task to close gaps in rival Iran peace proposals",
+    "link": "https://www.bbc.com/news/articles/cvgkv9y97n0o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.5502,
+    "vader_score": 0.7003,
+    "textblob_score": 0.4,
+    "first_sentence": "With minutes before a self-imposed deadline \u2013 and an unprecedented threat to wipe out Iran's \"civilisation\" - US President Donald Trump announced that a two-week ceasefire had been agreed to halt the war.",
+    "timestamp": "2026-04-08T20:26:48Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Egg-laying hens in cages set for better living conditions under new laws",
+    "link": "https://www.abc.net.au/news/2026-04-09/victorian-poultry-standards-update-caged-egg-ban-free-range-eggs/106537458",
+    "mean_score": 0.3793,
+    "vader_score": 0.4404,
+    "textblob_score": 0.3182,
+    "first_sentence": "The Victorian government is introducing new regulations for the care and management of poultry, including changes to chicken cages.",
+    "timestamp": "2026-04-08T19:29:28Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Family still waits to know how their loved one died, one year on",
+    "link": "https://www.abc.net.au/news/2026-04-09/nt-police-urged-to-release-review-into-kumanjayi-white-death/106542476",
+    "mean_score": 0.3886,
+    "vader_score": 0.0772,
+    "textblob_score": 0.7,
+    "first_sentence": "The family of Indigenous man Kumanjayi White has criticised the secrecy around the independent review into his death, which has been handed to NT Police and the DPP but not released publicly.",
+    "timestamp": "2026-04-08T19:28:50Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Paris Saint-Germain v Liverpool: Champions League quarter-final, first leg \u2013 live",
+    "link": "https://www.theguardian.com/football/live/2026/apr/08/paris-saint-germain-v-liverpool-champions-league-quarter-final-first-leg-live",
+    "mean_score": 0.3599,
+    "vader_score": 0.5267,
+    "textblob_score": 0.1932,
+    "first_sentence": "double quotation markWhile Arsenal were busy Arsenaling their way to a worthy but dull Bigger Cup quarter-final first leg win at Sporting on Tuesday, the players of Real Madrid and Bayern Munich released the collective handbrake and performed many high-speed donuts, wheel spins and Rockfords as a pleasing counterpoint to the careful mirror-signal-manoeuvring on display at Lisbon\u2019s Est\u00e1dio Jos\u00e9 Alvalade.",
+    "timestamp": "2026-04-08T18:16:35Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "British novelist Gwendoline Riley wins a $175k Windham-Campbell prize",
+    "link": "https://www.theguardian.com/books/2026/apr/08/british-novelist-gwendoline-riley-wins-windham-campbell-prize",
+    "mean_score": 0.4703,
+    "vader_score": 0.7906,
+    "textblob_score": 0.15,
+    "first_sentence": "British novelist Gwendoline Riley is among eight writers set to receive $175,000 (\u00a3130,000) each in recognition of their life\u2019s work.",
+    "timestamp": "2026-04-08T18:15:09Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Starmer says UK wants to help with opening Hormuz strait amid closure reports",
     "link": "https://www.theguardian.com/world/2026/apr/08/keir-starmer-says-it-is-uks-job-to-help-reopen-strait-of-hormuz",
     "mean_score": 0.3009,
