@@ -1,6 +1,46 @@
 {
-  "last run": "2026-04-17T09:32:15Z",
+  "last run": "2026-04-17T12:19:43Z",
   "stories": [
+    {
+      "headline": "Why did Michelin snub St Paul in its guide to the best restaurants in the Great Lakes region?",
+      "link": "https://www.theguardian.com/us-news/2026/apr/17/michelin-guide-st-paul-minneapolis",
+      "mean_score": 0.829,
+      "vader_score": 0.7579,
+      "textblob_score": 0.9,
+      "first_sentence": "When Michelin announced that it was expanding its world-renowned restaurant guide into the Great Lakes region of the United States, including Minneapolis, one prominent city was left off the map \u2013 Saint Paul, the state capital.",
+      "timestamp": "2026-04-17T12:00:44Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "South Koreans breathe sighs of relief as escaped wolf is returned to zoo safely",
+      "link": "https://www.theguardian.com/world/2026/apr/17/south-korea-escaped-wolf-captured-returned-zoo-safely",
+      "mean_score": 0.6215,
+      "vader_score": 0.743,
+      "textblob_score": 0.5,
+      "first_sentence": "The internet in South Korea erupted in celebration as a two-year-old wolf that escaped from a zoo was captured safely after a nine-day search that had gripped the nation and made the animal a national celebrity.",
+      "timestamp": "2026-04-17T11:49:38Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Why Arsenal are still the favourites to win the Premier League",
+      "link": "https://www.theguardian.com/football/2026/apr/17/arsenal-premier-league-manchester-city-favourites-leaders",
+      "mean_score": 0.6929,
+      "vader_score": 0.5859,
+      "textblob_score": 0.8,
+      "first_sentence": "Last weekend was nightmarish for Arsenal.",
+      "timestamp": "2026-04-17T11:00:42Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Welcome to the UK\u2019s most zeitgeisty theme park: the Stephen Collins cartoon",
+      "link": "https://www.theguardian.com/lifeandstyle/picture/2026/apr/17/uk-most-zeitgeist-theme-park-stephen-collins-cartoon",
+      "mean_score": 0.5544,
+      "vader_score": 0.4588,
+      "textblob_score": 0.65,
+      "first_sentence": "Continue reading.",
+      "timestamp": "2026-04-17T09:30:26Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Logjam of U.S. immigration applications puts millions at greater risk of deportation",
       "link": "https://www.npr.org/2026/04/17/nx-s1-5777632/us-trump-immigration-delay-applications-citizenship-deportation",
@@ -22,6 +62,16 @@
       "source": "ABC News"
     },
     {
+      "headline": "Live: Cats make light work of Dogs as play resumes at the SCG",
+      "link": "https://www.abc.net.au/news/2026-04-17/afl-friday-live-cats-dogs-swans-giants/106571282",
+      "mean_score": 0.3041,
+      "vader_score": 0.34,
+      "textblob_score": 0.2682,
+      "first_sentence": "Geelong trounce the Western Bulldogs by 75 points at Kardinia Park, with the visitors' night further soured by what looks to be a serious knee injury to Sam Darcy.",
+      "timestamp": "2026-04-17T08:43:19Z",
+      "source": "ABC News"
+    },
+    {
       "headline": "Mejia wins NJ special election to replace Gov. Sherrill in Congress",
       "link": "https://www.npr.org/2026/04/17/nx-s1-5785061/mejia-wins-nj-special-election-to-replace-gov-sherrill-in-congress",
       "mean_score": 0.5396,
@@ -30,6 +80,16 @@
       "first_sentence": "Democrat Analilia Mej\u00eda won a special election Thursday to fill the House seat vacated by Democratic Gov.",
       "timestamp": "2026-04-17T08:41:58Z",
       "source": "NPR News"
+    },
+    {
+      "headline": "Live: Cleary breaks Dolphins hearts as Panthers find a way in golden point",
+      "link": "https://www.abc.net.au/news/2026-04-17/nrl-live-updates-raiders-storm-dolphins-panthers/106578186",
+      "mean_score": 0.4334,
+      "vader_score": 0.6486,
+      "textblob_score": 0.2182,
+      "first_sentence": "Penrith holds off a remarkable Dolphins fightback to triumph 23-22 in a golden point classic in Darwin.",
+      "timestamp": "2026-04-17T07:30:42Z",
+      "source": "ABC News"
     },
     {
       "headline": "Various artists: Asili ya Mama review \u2013 Tanzanian field recordings tell women\u2019s stories with an energetic trill",
@@ -2439,66 +2499,6 @@
       "textblob_score": 0.7083,
       "first_sentence": "As The Super Mario Galaxy Movie storms the box office, we look back at the best forgotten games inspired by Tetris, Lemmings and \u2026 vitamins?.",
       "timestamp": "2026-04-10T09:00:14Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Overwhelmed by kid clutter? Get organized with these 7 smart tips",
-      "link": "https://www.npr.org/2026/04/10/nx-s1-5777642/organize-kid-toys-clutter",
-      "mean_score": 0.3273,
-      "vader_score": 0.4404,
-      "textblob_score": 0.2143,
-      "first_sentence": "A million magnetic tiles scattered across the living room.",
-      "timestamp": "2026-04-10T09:00:00Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "More ambulances are carrying blood for transfusions. Experts say it will save lives",
-      "link": "https://www.npr.org/2026/04/10/nx-s1-5762919/more-ambulances-are-carrying-blood-for-transfusions-experts-say-it-will-save-lives",
-      "mean_score": 0.497,
-      "vader_score": 0.4939,
-      "textblob_score": 0.5,
-      "first_sentence": "More and more ambulances carry blood when responding to trauma scenes.",
-      "timestamp": "2026-04-10T08:45:30Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Live: Cowboys claim thrilling Queensland derby victory with last-minute try",
-      "link": "https://www.abc.net.au/news/2026-04-10/nrl-live-updates-dragons-vs-sea-eagles-broncos-vs-cowboys/106549958",
-      "mean_score": 0.3349,
-      "vader_score": 0.4767,
-      "textblob_score": 0.1932,
-      "first_sentence": "North Queensland Cowboys have won a thriller at Lang Park, beating the Brisbane Broncos 35-31.",
-      "timestamp": "2026-04-10T07:07:53Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Thanks to Artemis II humanity has returned to the moon in person! Is this good? Nobody can say | First Dog on the Moon",
-      "link": "https://www.theguardian.com/commentisfree/picture/2026/apr/10/thanks-to-artemis-ii-humanity-has-returned-to-the-moon-in-person-is-this-good-nobody-can-say",
-      "mean_score": 0.5814,
-      "vader_score": 0.7627,
-      "textblob_score": 0.4,
-      "first_sentence": "It is actually a bit shit on the moon (THE MOON)Sign up here to get an email whenever First Dog cartoons are publishedGet all your needs met at the First Dog shop if what you need is First Dog merchandise and prints Continue reading.",
-      "timestamp": "2026-04-10T07:00:05Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "A rare sign of hope as mountain gorillas welcome two sets of twins in Africa",
-      "link": "https://www.theguardian.com/environment/2026/apr/09/a-rare-sign-of-hope-as-mountain-gorillas-welcome-two-sets-of-twins-in-central-africa",
-      "mean_score": 0.6298,
-      "vader_score": 0.7096,
-      "textblob_score": 0.55,
-      "first_sentence": "I will never forget the moment I first saw a mountain gorilla.",
-      "timestamp": "2026-04-10T06:00:16Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Go Gentle by Maria Semple review \u2013 a joyfully clever New York romcom",
-      "link": "https://www.theguardian.com/books/2026/apr/10/go-gentle-by-maria-semple-review-a-joyfully-clever-new-york-romcom",
-      "mean_score": 0.5116,
-      "vader_score": 0.8555,
-      "textblob_score": 0.1677,
-      "first_sentence": "What would Marcus Aurelius have made of the Kardashians? Would Seneca have been amused by mindfulness apps? These were questions I had never consciously pondered before reading Maria Semple\u2019s new novel.",
-      "timestamp": "2026-04-10T06:00:16Z",
       "source": "The Guardian"
     }
   ]

@@ -1,5 +1,65 @@
 [
   {
+    "headline": "Overwhelmed by kid clutter? Get organized with these 7 smart tips",
+    "link": "https://www.npr.org/2026/04/10/nx-s1-5777642/organize-kid-toys-clutter",
+    "mean_score": 0.3273,
+    "vader_score": 0.4404,
+    "textblob_score": 0.2143,
+    "first_sentence": "A million magnetic tiles scattered across the living room.",
+    "timestamp": "2026-04-10T09:00:00Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "More ambulances are carrying blood for transfusions. Experts say it will save lives",
+    "link": "https://www.npr.org/2026/04/10/nx-s1-5762919/more-ambulances-are-carrying-blood-for-transfusions-experts-say-it-will-save-lives",
+    "mean_score": 0.497,
+    "vader_score": 0.4939,
+    "textblob_score": 0.5,
+    "first_sentence": "More and more ambulances carry blood when responding to trauma scenes.",
+    "timestamp": "2026-04-10T08:45:30Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "Live: Cowboys claim thrilling Queensland derby victory with last-minute try",
+    "link": "https://www.abc.net.au/news/2026-04-10/nrl-live-updates-dragons-vs-sea-eagles-broncos-vs-cowboys/106549958",
+    "mean_score": 0.3349,
+    "vader_score": 0.4767,
+    "textblob_score": 0.1932,
+    "first_sentence": "North Queensland Cowboys have won a thriller at Lang Park, beating the Brisbane Broncos 35-31.",
+    "timestamp": "2026-04-10T07:07:53Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Thanks to Artemis II humanity has returned to the moon in person! Is this good? Nobody can say | First Dog on the Moon",
+    "link": "https://www.theguardian.com/commentisfree/picture/2026/apr/10/thanks-to-artemis-ii-humanity-has-returned-to-the-moon-in-person-is-this-good-nobody-can-say",
+    "mean_score": 0.5814,
+    "vader_score": 0.7627,
+    "textblob_score": 0.4,
+    "first_sentence": "It is actually a bit shit on the moon (THE MOON)Sign up here to get an email whenever First Dog cartoons are publishedGet all your needs met at the First Dog shop if what you need is First Dog merchandise and prints Continue reading.",
+    "timestamp": "2026-04-10T07:00:05Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "A rare sign of hope as mountain gorillas welcome two sets of twins in Africa",
+    "link": "https://www.theguardian.com/environment/2026/apr/09/a-rare-sign-of-hope-as-mountain-gorillas-welcome-two-sets-of-twins-in-central-africa",
+    "mean_score": 0.6298,
+    "vader_score": 0.7096,
+    "textblob_score": 0.55,
+    "first_sentence": "I will never forget the moment I first saw a mountain gorilla.",
+    "timestamp": "2026-04-10T06:00:16Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Go Gentle by Maria Semple review \u2013 a joyfully clever New York romcom",
+    "link": "https://www.theguardian.com/books/2026/apr/10/go-gentle-by-maria-semple-review-a-joyfully-clever-new-york-romcom",
+    "mean_score": 0.5116,
+    "vader_score": 0.8555,
+    "textblob_score": 0.1677,
+    "first_sentence": "What would Marcus Aurelius have made of the Kardashians? Would Seneca have been amused by mindfulness apps? These were questions I had never consciously pondered before reading Maria Semple\u2019s new novel.",
+    "timestamp": "2026-04-10T06:00:16Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Asian stocks mostly higher and oil gains ahead of planned U.S.-Iran peace talks",
     "link": "https://apnews.com/article/stock-markets-trump-iran-ceasefire-oil-7ef6ebab1aaa731d2da6406b3cbde6dd",
     "mean_score": 0.4173,
