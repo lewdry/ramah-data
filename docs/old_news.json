@@ -1,5 +1,55 @@
 [
   {
+    "headline": "Why weight-loss jabs work better for some people than others",
+    "link": "https://www.bbc.com/news/videos/c8jkw4vjr3po?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4702,
+    "vader_score": 0.4404,
+    "textblob_score": 0.5,
+    "first_sentence": "People who carry variations in two genes linked to appetite and digestion can lose more weight when taking drugs such as Wegovy and Mounjaro to treat obesity, research suggests.",
+    "timestamp": "2026-04-10T14:47:37Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Sun shines on Grand National Ladies Day",
+    "link": "https://www.bbc.com/news/articles/cdxkw5gvgq3o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4794,
+    "vader_score": 0.4588,
+    "textblob_score": 0.5,
+    "first_sentence": "This year's annual Ladies Day at Aintree Racecourse is under way, with the biggest crowd in almost 15 years expected.",
+    "timestamp": "2026-04-10T14:42:29Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Drug dealer busted after sending picture of new 'Turkey teeth' to friend",
+    "link": "https://www.bbc.com/news/articles/cp9vkezmxy0o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3151,
+    "vader_score": 0.4939,
+    "textblob_score": 0.1364,
+    "first_sentence": "A drug dealer who was caught after sending a photo of his \"Turkey teeth\" to a friend has been jailed for four years.",
+    "timestamp": "2026-04-10T13:47:45Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Is a 'Super El Ni\u00f1o' on the way and how will it affect the UK?",
+    "link": "https://www.bbc.com/weather/articles/cj94nzj33m0o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4664,
+    "vader_score": 0.5994,
+    "textblob_score": 0.3333,
+    "first_sentence": "Climate scientists are predicting a change in weather patterns around the globe later this year due to an expected El Ni\u00f1o event.",
+    "timestamp": "2026-04-10T13:46:02Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Super Mario what?! The seven best obscure Mario games",
+    "link": "https://www.theguardian.com/games/2026/apr/10/super-mario-what-the-seven-best-obscure-mario-games",
+    "mean_score": 0.7818,
+    "vader_score": 0.8553,
+    "textblob_score": 0.7083,
+    "first_sentence": "As The Super Mario Galaxy Movie storms the box office, we look back at the best forgotten games inspired by Tetris, Lemmings and \u2026 vitamins?.",
+    "timestamp": "2026-04-10T09:00:14Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Overwhelmed by kid clutter? Get organized with these 7 smart tips",
     "link": "https://www.npr.org/2026/04/10/nx-s1-5777642/organize-kid-toys-clutter",
     "mean_score": 0.3273,

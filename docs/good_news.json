@@ -1,6 +1,46 @@
 {
-  "last run": "2026-04-17T12:19:43Z",
+  "last run": "2026-04-17T15:23:26Z",
   "stories": [
+    {
+      "headline": "Why is walking in the rain good for your mental health?",
+      "link": "https://www.bbc.com/news/videos/c78rk48lnxro?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.3,
+      "first_sentence": "Why is walking in the rain good for your mental health?.",
+      "timestamp": "2026-04-17T15:08:48Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Tom Gleeson: \u2018I might be deluded but I feel people know I\u2019m coming from a good place\u2019",
+      "link": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/apr/18/tom-gleeson-walk-with-interview",
+      "mean_score": 0.6463,
+      "vader_score": 0.5927,
+      "textblob_score": 0.7,
+      "first_sentence": "As we walk down the top end of Collins Street, past the Rolex store on one side and Gucci boutique on the other, approaching the theatre bearing massive photos of his face, Tom Gleeson is describing how out of touch he is.",
+      "timestamp": "2026-04-17T15:00:50Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "As a Catholic, I\u2019ve struggled with the church - but I applaud the pope\u2019s call for peace | Margaret Sullivan",
+      "link": "https://www.theguardian.com/commentisfree/2026/apr/17/pope-leo-trump-catholicism",
+      "mean_score": 0.4211,
+      "vader_score": 0.8422,
+      "textblob_score": 0.0,
+      "first_sentence": "On the one hand, as a \u201ccradle Catholic\u201d, I\u2019ve received the sacraments, often get to Sunday mass, and am the product of a Catholic education, right through Georgetown University, with its Jesuit history.",
+      "timestamp": "2026-04-17T14:00:46Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "The best rums: 10 tasty tipples for mojitos, sours and sipping neat \u2013 tested",
+      "link": "https://www.theguardian.com/thefilter/2026/apr/17/best-rums-tested-uk",
+      "mean_score": 0.901,
+      "vader_score": 0.802,
+      "textblob_score": 1.0,
+      "first_sentence": "The Guardian\u2019s journalism is independent.",
+      "timestamp": "2026-04-17T14:00:46Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Why did Michelin snub St Paul in its guide to the best restaurants in the Great Lakes region?",
       "link": "https://www.theguardian.com/us-news/2026/apr/17/michelin-guide-st-paul-minneapolis",
@@ -8,6 +48,16 @@
       "vader_score": 0.7579,
       "textblob_score": 0.9,
       "first_sentence": "When Michelin announced that it was expanding its world-renowned restaurant guide into the Great Lakes region of the United States, including Minneapolis, one prominent city was left off the map \u2013 Saint Paul, the state capital.",
+      "timestamp": "2026-04-17T12:00:44Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Cocktail of the week: Homeboy\u2019s fumbally \u2013 recipe | The good mixer",
+      "link": "https://www.theguardian.com/food/2026/apr/17/cocktail-of-the-week-fumbally-recipe-homeboy-irish-bar",
+      "mean_score": 0.5702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.7,
+      "first_sentence": "Named after a community-focused cafe in Dublin, this drink has a flavour profile that brings to mind berry compote and scones.",
       "timestamp": "2026-04-17T12:00:44Z",
       "source": "The Guardian"
     },
@@ -2450,56 +2500,6 @@
       "first_sentence": "Lord Peter Mandelson is set to be fined up to \u00a3300 for public urination in London, however Kensington and Chelsea council is unable to find a suitable address to send the fixed penalty notice to.",
       "timestamp": "2026-04-10T16:04:27Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Why weight-loss jabs work better for some people than others",
-      "link": "https://www.bbc.com/news/videos/c8jkw4vjr3po?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.5,
-      "first_sentence": "People who carry variations in two genes linked to appetite and digestion can lose more weight when taking drugs such as Wegovy and Mounjaro to treat obesity, research suggests.",
-      "timestamp": "2026-04-10T14:47:37Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Sun shines on Grand National Ladies Day",
-      "link": "https://www.bbc.com/news/articles/cdxkw5gvgq3o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4794,
-      "vader_score": 0.4588,
-      "textblob_score": 0.5,
-      "first_sentence": "This year's annual Ladies Day at Aintree Racecourse is under way, with the biggest crowd in almost 15 years expected.",
-      "timestamp": "2026-04-10T14:42:29Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Drug dealer busted after sending picture of new 'Turkey teeth' to friend",
-      "link": "https://www.bbc.com/news/articles/cp9vkezmxy0o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3151,
-      "vader_score": 0.4939,
-      "textblob_score": 0.1364,
-      "first_sentence": "A drug dealer who was caught after sending a photo of his \"Turkey teeth\" to a friend has been jailed for four years.",
-      "timestamp": "2026-04-10T13:47:45Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Is a 'Super El Ni\u00f1o' on the way and how will it affect the UK?",
-      "link": "https://www.bbc.com/weather/articles/cj94nzj33m0o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4664,
-      "vader_score": 0.5994,
-      "textblob_score": 0.3333,
-      "first_sentence": "Climate scientists are predicting a change in weather patterns around the globe later this year due to an expected El Ni\u00f1o event.",
-      "timestamp": "2026-04-10T13:46:02Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Super Mario what?! The seven best obscure Mario games",
-      "link": "https://www.theguardian.com/games/2026/apr/10/super-mario-what-the-seven-best-obscure-mario-games",
-      "mean_score": 0.7818,
-      "vader_score": 0.8553,
-      "textblob_score": 0.7083,
-      "first_sentence": "As The Super Mario Galaxy Movie storms the box office, we look back at the best forgotten games inspired by Tetris, Lemmings and \u2026 vitamins?.",
-      "timestamp": "2026-04-10T09:00:14Z",
-      "source": "The Guardian"
     }
   ]
 }
