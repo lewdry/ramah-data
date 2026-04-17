@@ -1,6 +1,16 @@
 {
-  "last run": "2026-04-17T15:23:26Z",
+  "last run": "2026-04-17T18:17:56Z",
   "stories": [
+    {
+      "headline": "Artemis II pilot talks about what it was really like to fly and land in Orion",
+      "link": "https://arstechnica.com/space/2026/04/artemis-ii-pilot-describes-landing-in-orion-from-intense-to-pure-elation/",
+      "mean_score": 0.46,
+      "vader_score": 0.4201,
+      "textblob_score": 0.5,
+      "first_sentence": "The crew of Artemis II spoke with the media on Thursday, six days after returning to Earth following their mission around the Moon.",
+      "timestamp": "2026-04-17T16:59:44Z",
+      "source": "Ars Technica"
+    },
     {
       "headline": "Why is walking in the rain good for your mental health?",
       "link": "https://www.bbc.com/news/videos/c78rk48lnxro?at_medium=RSS&at_campaign=rss",
@@ -19,6 +29,16 @@
       "textblob_score": 0.7,
       "first_sentence": "As we walk down the top end of Collins Street, past the Rolex store on one side and Gucci boutique on the other, approaching the theatre bearing massive photos of his face, Tom Gleeson is describing how out of touch he is.",
       "timestamp": "2026-04-17T15:00:50Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Great Barrier Thief: Dyson Daniels emerges as key to unlocking Atlanta Hawks' NBA playoff hopes",
+      "link": "https://www.theguardian.com/sport/2026/apr/18/nba-playoffs-australia-dyson-daniels-atlanta-hawks",
+      "mean_score": 0.4294,
+      "vader_score": 0.4588,
+      "textblob_score": 0.4,
+      "first_sentence": "The so-called \u201cGreat Barrier Thief\u201d will be unleashed on to one of basketball\u2019s most storied stages this weekend, as Australian Dyson Daniels storms into an NBA playoff battle against Jalen Brunson and the New York Knicks at Madison Square Garden.",
+      "timestamp": "2026-04-17T15:00:48Z",
       "source": "The Guardian"
     },
     {
@@ -2480,26 +2500,6 @@
       "first_sentence": "Keir Starmer has said it is in the best interests of the US to stay in Nato and that Europe must do more to support the alliance in light of the war in Iran.",
       "timestamp": "2026-04-10T17:53:10Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Shortlisted for an Oscar, 'Homebound' is a daring movie about two dear friends",
-      "link": "https://www.npr.org/2026/04/10/g-s1-116860/oscar-homebound-india-pandemic-hindu-dalit-muslim",
-      "mean_score": 0.401,
-      "vader_score": 0.802,
-      "textblob_score": 0.0,
-      "first_sentence": "That's because Neeraj Ghaywan, director of Homebound, didn't want to go public with his movie until it was ready.",
-      "timestamp": "2026-04-10T17:22:44Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Mandelson faces \u00a3300 fine for urinating in street",
-      "link": "https://www.bbc.com/news/articles/czd7gd5m024o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3095,
-      "vader_score": 0.2023,
-      "textblob_score": 0.4167,
-      "first_sentence": "Lord Peter Mandelson is set to be fined up to \u00a3300 for public urination in London, however Kensington and Chelsea council is unable to find a suitable address to send the fixed penalty notice to.",
-      "timestamp": "2026-04-10T16:04:27Z",
-      "source": "BBC News"
     }
   ]
 }
