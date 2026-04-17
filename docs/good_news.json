@@ -1,6 +1,96 @@
 {
-  "last run": "2026-04-17T06:37:51Z",
+  "last run": "2026-04-17T09:32:15Z",
   "stories": [
+    {
+      "headline": "Logjam of U.S. immigration applications puts millions at greater risk of deportation",
+      "link": "https://www.npr.org/2026/04/17/nx-s1-5777632/us-trump-immigration-delay-applications-citizenship-deportation",
+      "mean_score": 0.3014,
+      "vader_score": 0.1027,
+      "textblob_score": 0.5,
+      "first_sentence": "Millions of immigrants are stuck in legal limbo, waiting to change their legal status under the second Trump administration, an NPR analysis shows, leaving more of them vulnerable to deportation.",
+      "timestamp": "2026-04-17T09:00:00Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "Liberal politician thanks God after car hits cow on highway at night",
+      "link": "https://www.abc.net.au/news/2026-04-17/michael-ferguson-car-crash-midland-highway-black-cow/106578452",
+      "mean_score": 0.3229,
+      "vader_score": 0.6124,
+      "textblob_score": 0.0333,
+      "first_sentence": "Michael Ferguson, Tasmania's former deputy premier, says he was driving home along the Midland Highway on Thursday night when \"my car struck a black cow in the middle of my lane\".",
+      "timestamp": "2026-04-17T08:57:03Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Mejia wins NJ special election to replace Gov. Sherrill in Congress",
+      "link": "https://www.npr.org/2026/04/17/nx-s1-5785061/mejia-wins-nj-special-election-to-replace-gov-sherrill-in-congress",
+      "mean_score": 0.5396,
+      "vader_score": 0.7506,
+      "textblob_score": 0.3286,
+      "first_sentence": "Democrat Analilia Mej\u00eda won a special election Thursday to fill the House seat vacated by Democratic Gov.",
+      "timestamp": "2026-04-17T08:41:58Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "Various artists: Asili ya Mama review \u2013 Tanzanian field recordings tell women\u2019s stories with an energetic trill",
+      "link": "https://www.theguardian.com/music/2026/apr/17/various-artists-asili-ya-mama-review-tanzanian-field-recordings-tell-womens-stories-with-an-energetic-trill",
+      "mean_score": 0.3452,
+      "vader_score": 0.4404,
+      "textblob_score": 0.25,
+      "first_sentence": "Folk song collecting by women has an illustrious history, but also an exciting present, as this set of 10 energetic Tanzanian field recordings demonstrates.",
+      "timestamp": "2026-04-17T07:30:23Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "A Gorilla Story: Told By David Attenborough review \u2013 like one of our last meetings with an adored relative",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/apr/17/gorilla-story-told-by-david-attenborough-review-netflix",
+      "mean_score": 0.3243,
+      "vader_score": 0.6486,
+      "textblob_score": 0.0,
+      "first_sentence": "Almost half a century on, the sequence still has the power to give you goosebumps.",
+      "timestamp": "2026-04-17T07:01:23Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Inspirational success stories are great but is ADHD really a superpower for elite athletes? | Emma John",
+      "link": "https://www.theguardian.com/sport/2026/apr/17/inspirational-success-stories-are-great-but-is-adhd-really-a-superpower-for-elite-athletes",
+      "mean_score": 0.5864,
+      "vader_score": 0.7227,
+      "textblob_score": 0.45,
+      "first_sentence": "What we do have plenty of are inspirational stories.",
+      "timestamp": "2026-04-17T07:00:24Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Guardiola ready to benefit as fellow Cruyff disciple Arteta strays from path",
+      "link": "https://www.theguardian.com/football/2026/apr/17/arsenal-manchester-city-guardiola-ready-to-benefit-arteta",
+      "mean_score": 0.4353,
+      "vader_score": 0.6705,
+      "textblob_score": 0.2,
+      "first_sentence": "Zinchenko recalls that Guardiola made the same speech before they walked out at Anfield.",
+      "timestamp": "2026-04-17T07:00:24Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Chess: Sindarov wins Candidates with record total, while Vaishali takes women\u2019s event",
+      "link": "https://www.theguardian.com/sport/2026/apr/17/chess-sindarov-wins-candidates-with-record-total-while-vaishali-takes-womens-event",
+      "mean_score": 0.3609,
+      "vader_score": 0.5719,
+      "textblob_score": 0.15,
+      "first_sentence": "Javokhir Sindarov finished with a record total in the world championship Candidates in Pegeia, western Cyprus, as the 20-year-old from Uzbekistan won the competition with a record 10/14 total, 1.5 points clear of his nearest rival, Anish Giri.",
+      "timestamp": "2026-04-17T07:00:24Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "I\u2019ll make up a whopper you can\u2019t refuse! Why do we love to believe cinema\u2019s best lines were improvised?",
+      "link": "https://www.theguardian.com/film/2026/apr/17/cinema-improvised-lines-nehind-the-scenes-secrets-godfather-saltburn",
+      "mean_score": 0.7836,
+      "vader_score": 0.8172,
+      "textblob_score": 0.75,
+      "first_sentence": "From The Godfather to Saltburn, the internet is awash with claims that actors are ditching the script and making it up as they go along.",
+      "timestamp": "2026-04-17T07:00:23Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Progressive Analilia Mej\u00eda takes New Jersey US House special election, giving Democrats another win",
       "link": "https://apnews.com/article/new-jersey-special-election-house-mejia-hathaway-4e06943281e19aa35b10ddf8acec889b",
@@ -32,6 +122,16 @@
       "source": "The Guardian"
     },
     {
+      "headline": "'Tori Amos tracked me down to say she loved my art'",
+      "link": "https://www.bbc.com/news/articles/c05d2ev7mn0o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4358,
+      "vader_score": 0.5994,
+      "textblob_score": 0.2722,
+      "first_sentence": "A glass artist in Glasgow has been left stunned after singer Tori Amos bought her work while in the city - then tracked her down so they could meet in person.",
+      "timestamp": "2026-04-17T05:15:49Z",
+      "source": "BBC News"
+    },
+    {
       "headline": "Rain set to ease for the weekend as sunshine returns",
       "link": "https://www.bbc.com/weather/articles/c4gl5r32q6ko?at_medium=RSS&at_campaign=rss",
       "mean_score": 0.3454,
@@ -60,6 +160,16 @@
       "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
       "timestamp": "2026-04-17T03:41:58Z",
       "source": "SBS News"
+    },
+    {
+      "headline": "Custom thongs, hugs and selfies: Harry and Meghan's very Sydney visit",
+      "link": "https://www.abc.net.au/news/2026-04-17/prince-harry-meghan-visit-sydney-on-australian-tour/106574648",
+      "mean_score": 0.3469,
+      "vader_score": 0.4939,
+      "textblob_score": 0.2,
+      "first_sentence": "Prince Harry and Meghan began the Sydney leg of their Australian tour with a visit to a Bondi surf club.",
+      "timestamp": "2026-04-17T03:01:40Z",
+      "source": "ABC News"
     },
     {
       "headline": "Progressive Democrat Analilia Mejia wins New Jersey special election for US House",
@@ -2389,116 +2499,6 @@
       "textblob_score": 0.1677,
       "first_sentence": "What would Marcus Aurelius have made of the Kardashians? Would Seneca have been amused by mindfulness apps? These were questions I had never consciously pondered before reading Maria Semple\u2019s new novel.",
       "timestamp": "2026-04-10T06:00:16Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Asian stocks mostly higher and oil gains ahead of planned U.S.-Iran peace talks",
-      "link": "https://apnews.com/article/stock-markets-trump-iran-ceasefire-oil-7ef6ebab1aaa731d2da6406b3cbde6dd",
-      "mean_score": 0.4173,
-      "vader_score": 0.7096,
-      "textblob_score": 0.125,
-      "first_sentence": "HONG KONG (AP) \u2014 Asian stocks were mostly up Friday tracking Wall Street gains while oil prices also rose on the fragile Iran war ceasefire and ahead of Iran-U.S.",
-      "timestamp": "2026-04-10T05:53:02Z",
-      "source": "AP News"
-    },
-    {
-      "headline": "Australia\u2019s Talia Gibson stunned by Great Britain teenager Mika Stojsavljevic in BJK Cup opener",
-      "link": "https://www.theguardian.com/sport/2026/apr/10/tennis-billie-jean-king-bjk-cup-australia-great-britain",
-      "mean_score": 0.686,
-      "vader_score": 0.5719,
-      "textblob_score": 0.8,
-      "first_sentence": "Australia\u2019s quest to win a place in the Billie Jean King Cup finals is off to the worst possible start with spearhead Talia Gibson a shock loser to British teen Mika Stojsavljevic.",
-      "timestamp": "2026-04-10T05:50:32Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Reich: The Sextets album review \u2013 Colin Currie celebrates the minimalist master\u2019s joy of six",
-      "link": "https://www.theguardian.com/music/2026/apr/10/reich-the-sextets-album-review-colin-currie-celebrates-the-minimalist-masters-joy-of-six",
-      "mean_score": 0.8088,
-      "vader_score": 0.8176,
-      "textblob_score": 0.8,
-      "first_sentence": "The Colin Currie Group formed 20 years ago to honour Steve Reich\u2019s 70th birthday with a performance of Drumming.",
-      "timestamp": "2026-04-10T05:30:10Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Six-year-old who called 999 to save mum hailed a hero",
-      "link": "https://www.bbc.com/news/articles/c624vz993lro?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4135,
-      "vader_score": 0.8271,
-      "textblob_score": 0.0,
-      "first_sentence": "A six-year-old girl who called 999 and saved her mother's life when she suffered a bleed on the brain has been honoured, along with her younger sister, by London Ambulance Service (LAS).",
-      "timestamp": "2026-04-10T05:01:08Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Benjamina Ebuehi\u2019s sweet and salty chocolate chip cookies recipe | The sweet spot",
-      "link": "https://www.theguardian.com/food/2026/apr/10/sweet-and-salty-chocolate-chip-cookies-recipe-benjamina-ebuehi",
-      "mean_score": 0.5342,
-      "vader_score": 0.7184,
-      "textblob_score": 0.35,
-      "first_sentence": "Everyone has different ideas on what makes the perfect chocolate chip cookie, with everything from thickness and chewiness to the amount of chocolate up for debate.",
-      "timestamp": "2026-04-10T05:00:10Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Snoozing seal blocks road in popular coastal spot",
-      "link": "https://www.abc.net.au/news/2026-04-10/road-blocked-sleeping-seal-mornington-peninsula-police/106550932",
-      "mean_score": 0.4132,
-      "vader_score": 0.2263,
-      "textblob_score": 0.6,
-      "first_sentence": "A sleeping seal has held up motorists making their way along the Mornington Peninsula, causing a major road to be closed in both directions in the popular coastal area after it stopped to rest on the roadway.",
-      "timestamp": "2026-04-10T04:11:15Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Artemis II crew on inspiring the next generation and unifying humanity \u2013\u00a0video",
-      "link": "https://www.theguardian.com/science/video/2026/apr/10/artemis-ii-crew-on-inspiring-the-next-generation-and-unifying-humanity-video",
-      "mean_score": 0.3357,
-      "vader_score": 0.4215,
-      "textblob_score": 0.25,
-      "first_sentence": "As the Artemis II mission enters flight day nine, the crew spoke about inspiring the next generation and 'working on something big for the good of everyone' ahead of their return to earth.",
-      "timestamp": "2026-04-10T02:14:34Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Bronwyn Kuss: Bronwyn & Sons review \u2013 parchingly dry comedy about success in your late 30s",
-      "link": "https://www.theguardian.com/stage/2026/apr/10/bronwyn-kuss-melbourne-comedy-festival-review",
-      "mean_score": 0.3564,
-      "vader_score": 0.7351,
-      "textblob_score": -0.0222,
-      "first_sentence": "A drunk witch once told Bronwyn Kuss to have a baby.",
-      "timestamp": "2026-04-10T02:07:14Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Euphoria ushered in a new generation of A-listers. Now, it's finally back",
-      "link": "https://www.abc.net.au/news/2026-04-10/euphoria-season-three-where-to-watch/106544928",
-      "mean_score": 0.3584,
-      "vader_score": 0.6486,
-      "textblob_score": 0.0682,
-      "first_sentence": "Welcome to Cheat Sheet, where we give you all the intel you need about iconic shows your friends have been bugging you to watch! In honour of its long awaited return after four years, we're diving into teen (and now adult) drama, Euphoria.",
-      "timestamp": "2026-04-09T23:00:00Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Artemis II crew to return home as Nasa lays out steps for safe splashdown",
-      "link": "https://www.theguardian.com/science/2026/apr/09/artemis-crew-nasa-return",
-      "mean_score": 0.4702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.5,
-      "first_sentence": "The crew of Artemis II is set to return to earth on Friday following its historic 10-day lunar flyby mission, and Nasa leaders have described the precise logistics needed to get them home.",
-      "timestamp": "2026-04-09T22:58:28Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "US agency proposes rolling back rules for safe disposal of toxic coal ash",
-      "link": "https://www.theguardian.com/us-news/2026/apr/09/epa-toxic-coal-ash-rollback-trump",
-      "mean_score": 0.3452,
-      "vader_score": 0.4404,
-      "textblob_score": 0.25,
-      "first_sentence": "The Environmental Protection Agency on Thursday proposed weakened rules governing the safe disposal of ash produced by burning coal.",
-      "timestamp": "2026-04-09T20:28:28Z",
       "source": "The Guardian"
     }
   ]
