@@ -1,6 +1,56 @@
 {
-  "last run": "2026-04-17T04:03:03Z",
+  "last run": "2026-04-17T06:37:51Z",
   "stories": [
+    {
+      "headline": "Progressive Analilia Mej\u00eda takes New Jersey US House special election, giving Democrats another win",
+      "link": "https://apnews.com/article/new-jersey-special-election-house-mejia-hathaway-4e06943281e19aa35b10ddf8acec889b",
+      "mean_score": 0.6336,
+      "vader_score": 0.836,
+      "textblob_score": 0.4312,
+      "first_sentence": "DENVILLE, N.J.",
+      "timestamp": "2026-04-17T06:23:02Z",
+      "source": "AP News"
+    },
+    {
+      "headline": "US tech firms successfully lobbied EU to keep datacentre emissions secret",
+      "link": "https://www.theguardian.com/technology/2026/apr/17/microsoft-us-tech-firms-lobbied-eu-secrecy-rules-datacentre-emissions",
+      "mean_score": 0.3345,
+      "vader_score": 0.4939,
+      "textblob_score": 0.175,
+      "first_sentence": "Microsoft and other US tech companies successfully lobbied the EU to hide the environmental toll of their datacentres, an investigation has found, with demands to block a database of green metrics from public view written almost word for word into EU rules.",
+      "timestamp": "2026-04-17T06:00:24Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "The Plague review \u2013 water polo camp turns into tween hellscape with impressive stylistic bite",
+      "link": "https://www.theguardian.com/film/2026/apr/17/the-plague-review-charlie-polinger-debut-joel-edgerton",
+      "mean_score": 0.7553,
+      "vader_score": 0.5106,
+      "textblob_score": 1.0,
+      "first_sentence": "Set at a boy\u2019s water polo training camp in the summer of 2003, Charlie Polinger\u2019s debut feature plunges beneath the waterline to scope out concealed psychological depths.",
+      "timestamp": "2026-04-17T06:00:24Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Rain set to ease for the weekend as sunshine returns",
+      "link": "https://www.bbc.com/weather/articles/c4gl5r32q6ko?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3454,
+      "vader_score": 0.6908,
+      "textblob_score": 0.0,
+      "first_sentence": "The weather this weekend is looking much more settled than of late with the return of some sunshine for most.",
+      "timestamp": "2026-04-17T05:11:46Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "True blue: what to wear with classic straight leg jeans",
+      "link": "https://www.theguardian.com/fashion/gallery/2026/apr/17/what-to-wear-with-straight-leg-jeans",
+      "mean_score": 0.3755,
+      "vader_score": 0.5719,
+      "textblob_score": 0.1792,
+      "first_sentence": "The Guardian\u2019s journalism is independent.",
+      "timestamp": "2026-04-17T05:00:20Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Iranian footballers thank Australia for 'safe haven' but ask for privacy",
       "link": "https://www.sbs.com.au/news/article/iranian-footballers-thank-australia-for-safe-haven-and-ask-for-privacy/b29qgu1jq",
@@ -1812,6 +1862,16 @@
       "source": "BBC News"
     },
     {
+      "headline": "The moment large bird of prey is rescued at caravan site",
+      "link": "https://www.bbc.com/news/videos/c2085l67ev8o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3179,
+      "vader_score": 0.4215,
+      "textblob_score": 0.2143,
+      "first_sentence": "The footage was captured at Morfa Bychan Holiday Park in Ceredigion.",
+      "timestamp": "2026-04-11T20:31:43Z",
+      "source": "BBC News"
+    },
+    {
       "headline": "Brian Cox: \u2018We don\u2019t know how powerful AI is going to become \u2013 it\u2019s both exciting and potentially a problem\u2019",
       "link": "https://www.theguardian.com/science/2026/apr/11/brian-cox-physicist-interview-ai-science-paul-mccartney",
       "mean_score": 0.4592,
@@ -2439,66 +2499,6 @@
       "textblob_score": 0.25,
       "first_sentence": "The Environmental Protection Agency on Thursday proposed weakened rules governing the safe disposal of ash produced by burning coal.",
       "timestamp": "2026-04-09T20:28:28Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Super members blindsided by change in fund terms and conditions",
-      "link": "https://www.abc.net.au/news/2026-04-10/telstra-super-direct-access-product-closure-affects-customers/106402002",
-      "mean_score": 0.4664,
-      "vader_score": 0.5994,
-      "textblob_score": 0.3333,
-      "first_sentence": "TelstraSuper (which operates independently of the telecommunication provider) has closed down its Direct Access investment product without properly notifying members.",
-      "timestamp": "2026-04-09T18:46:07Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "How one of the world's best ballet dancers ended up in Australia",
-      "link": "https://www.abc.net.au/news/2026-04-10/david-hallberg-virginia-trioli-creative-types/106527122",
-      "mean_score": 0.8185,
-      "vader_score": 0.6369,
-      "textblob_score": 1.0,
-      "first_sentence": "When I asked ballet dancer David Hallberg during an interview a few years ago to name the one thing people wouldn't know about him, the man described as the 'Nureyev of his generation' gave a secret smile.",
-      "timestamp": "2026-04-09T18:30:00Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Whole lotta love for Led Zeppelin star given plaque",
-      "link": "https://www.bbc.com/news/articles/cdxkwlke12wo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4934,
-      "vader_score": 0.6369,
-      "textblob_score": 0.35,
-      "first_sentence": "Led Zeppelin superstar Robert Plant left shoppers dazed and confused when he was spotted crate digging in the world's oldest record store.",
-      "timestamp": "2026-04-09T17:00:53Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Anna Wintour\u2019s Vogue cover is more than a cameo \u2013 it\u2019s a power play",
-      "link": "https://www.theguardian.com/fashion/2026/apr/09/anna-wintours-vogue-cover-is-more-than-a-cameo-its-a-power-play",
-      "mean_score": 0.42,
-      "vader_score": 0.34,
-      "textblob_score": 0.5,
-      "first_sentence": "In the world of magazines, when someone announces they\u2019re leaving a job, their colleagues will traditionally present them with their own personalised mock-up of the magazine\u2019s front cover.",
-      "timestamp": "2026-04-09T16:26:53Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Is space exploration worth the money and effort? | Letters",
-      "link": "https://www.theguardian.com/science/2026/apr/09/is-space-exploration-worth-the-money-and-effort",
-      "mean_score": 0.3608,
-      "vader_score": 0.4215,
-      "textblob_score": 0.3,
-      "first_sentence": "Zoe Williams speaks for many of us when she notes that the US space mission is pointless (Let\u2019s stop going into space.",
-      "timestamp": "2026-04-09T16:11:12Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "I took up the ukulele after a chance celebrity encounter. It\u2019s brought me more happiness than falling in love | Melanie Tait",
-      "link": "https://www.theguardian.com/commentisfree/2026/apr/09/ukulele-chance-encounter-happiness",
-      "mean_score": 0.7079,
-      "vader_score": 0.8492,
-      "textblob_score": 0.5667,
-      "first_sentence": "Avowed ukulele lover George Harrison once wrote in a note to a friend \u201cEveryone I know who is into the ukulele is \u2018crackers\u2019.",
-      "timestamp": "2026-04-09T15:00:54Z",
       "source": "The Guardian"
     }
   ]
