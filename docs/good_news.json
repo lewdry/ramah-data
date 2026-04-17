@@ -1,6 +1,56 @@
 {
-  "last run": "2026-04-17T00:27:35Z",
+  "last run": "2026-04-17T04:03:03Z",
   "stories": [
+    {
+      "headline": "Iranian footballers thank Australia for 'safe haven' but ask for privacy",
+      "link": "https://www.sbs.com.au/news/article/iranian-footballers-thank-australia-for-safe-haven-and-ask-for-privacy/b29qgu1jq",
+      "mean_score": 0.4509,
+      "vader_score": 0.4019,
+      "textblob_score": 0.5,
+      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+      "timestamp": "2026-04-17T03:41:58Z",
+      "source": "SBS News"
+    },
+    {
+      "headline": "Progressive Democrat Analilia Mejia wins New Jersey special election for US House",
+      "link": "https://www.theguardian.com/us-news/2026/apr/16/progressive-democrat-analilia-mejia-wins-new-jersey-special-election-for-us-house",
+      "mean_score": 0.5076,
+      "vader_score": 0.7506,
+      "textblob_score": 0.2645,
+      "first_sentence": "Democrat Analilia Mejia won a New Jersey special election for the US House on Thursday, defeating Republican Joe Hathaway on a message of standing up to Donald Trump.",
+      "timestamp": "2026-04-17T01:21:10Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Paul Keating statement in full: Angus Taylor has chosen to walk away from the Liberals\u2019 best instincts on immigration",
+      "link": "https://www.theguardian.com/commentisfree/2026/apr/17/paul-keating-angus-taylor-liberal-party-immigration-statement-in-full-ntwnfb",
+      "mean_score": 0.656,
+      "vader_score": 0.6369,
+      "textblob_score": 0.675,
+      "first_sentence": "The Liberal party, battling an extreme version of itself \u2013 One Nation \u2013 has again fallen back to its default political policy: racism.",
+      "timestamp": "2026-04-17T01:00:42Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Chris Mason: Mandelson nightmare haunts Starmer again, as senior figure effectively sacked",
+      "link": "https://www.bbc.com/news/articles/c8dl8l5l008o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4132,
+      "vader_score": 0.2263,
+      "textblob_score": 0.6,
+      "first_sentence": "The prime minister's decision to send Lord Mandelson to Washington is like a horror film for Sir Keir Starmer, stuck on repeat.",
+      "timestamp": "2026-04-17T00:40:43Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Iranian footballers say Australia has given them 'hope' for safe future",
+      "link": "https://www.bbc.com/news/articles/c624x4xgw6xo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4752,
+      "vader_score": 0.7003,
+      "textblob_score": 0.25,
+      "first_sentence": "Two Iranian footballers who were granted asylum in Australia have said the country has given them \"hope for a future where we can live and compete in safety\".",
+      "timestamp": "2026-04-17T00:30:38Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Christine Baranski says West End debut is a 'dream come true'",
       "link": "https://www.bbc.com/news/articles/clyrr10gp2ko?at_medium=RSS&at_campaign=rss",
@@ -270,6 +320,16 @@
       "first_sentence": "US actress Joy Harmon, who was best known for a provocative short scene in the classic film Cool Hand Luke, has died aged 87.",
       "timestamp": "2026-04-16T05:52:12Z",
       "source": "BBC News"
+    },
+    {
+      "headline": "Discovery of unopened ballots prompts new count in SA seat One Nation won by just 58 votes",
+      "link": "https://www.theguardian.com/australia-news/2026/apr/16/sa-election-uncounted-ballots-votes-one-nation-seat-narungga-ntwnfb",
+      "mean_score": 0.3541,
+      "vader_score": 0.5719,
+      "textblob_score": 0.1364,
+      "first_sentence": "One Nation\u2019s claim to the seat of Narungga has hit a snag weeks after the South Australian election.",
+      "timestamp": "2026-04-16T05:19:17Z",
+      "source": "The Guardian"
     },
     {
       "headline": "Private rents in Great Britain stop rising for first time since 2017",
@@ -2439,66 +2499,6 @@
       "textblob_score": 0.5667,
       "first_sentence": "Avowed ukulele lover George Harrison once wrote in a note to a friend \u201cEveryone I know who is into the ukulele is \u2018crackers\u2019.",
       "timestamp": "2026-04-09T15:00:54Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Gout and Kennedy renew rivalry, Hull eyes history as Australian athletics puts its best on show",
-      "link": "https://www.theguardian.com/sport/2026/apr/10/australian-athletics-sydney-national-championships-gout-jessica-hull-lachlan-kennedy",
-      "mean_score": 0.5685,
-      "vader_score": 0.6369,
-      "textblob_score": 0.5,
-      "first_sentence": "An array of exotic, well-trimmed dogs will parade around Sydney Olympic Park this weekend as part of the Royal Easter Show.",
-      "timestamp": "2026-04-09T15:00:53Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Canada's Mark Carney 'so proud' of astronauts in call to Artemis II",
-      "link": "https://www.bbc.com/news/videos/cwykpw99ed2o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.6383,
-      "vader_score": 0.4767,
-      "textblob_score": 0.8,
-      "first_sentence": "Canadian Prime Minister Mark Carney told the astronauts of the Artemis II mission that Canadians 'couldn't be more proud' of them.",
-      "timestamp": "2026-04-09T14:31:57Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "The best water flossers in the UK, tested for that dentist-clean feeling",
-      "link": "https://www.theguardian.com/thefilter/2025/jun/03/best-water-flosser-uk",
-      "mean_score": 0.8454,
-      "vader_score": 0.6908,
-      "textblob_score": 1.0,
-      "first_sentence": "The Guardian\u2019s journalism is independent.",
-      "timestamp": "2026-04-09T14:00:10Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The Housemaid author Freida McFadden reveals her true identity",
-      "link": "https://www.theguardian.com/books/2026/apr/09/the-housemaid-author-freida-mcfadden-true-identity-sara-cohen",
-      "mean_score": 0.3857,
-      "vader_score": 0.4215,
-      "textblob_score": 0.35,
-      "first_sentence": "The bestselling thriller writer known as Freida McFadden has revealed her real identity, ending years of speculation about the author behind a string of hugely popular novels.",
-      "timestamp": "2026-04-09T13:09:10Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Britain's 'most beautiful coin' sold for \u00a3110,000",
-      "link": "https://www.bbc.com/news/articles/c2evpw74l4po?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.6556,
-      "vader_score": 0.6361,
-      "textblob_score": 0.675,
-      "first_sentence": "A coin considered the \"most beautiful\" ever minted in Britain has sold at auction for \u00a3110,000.",
-      "timestamp": "2026-04-09T13:03:57Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Dream-pop at its most divine: Cocteau Twins\u2019 20 greatest songs \u2013 ranked!",
-      "link": "https://www.theguardian.com/music/2026/apr/09/dream-pop-at-its-most-divine-cocteau-twins-20-greatest-songs-ranked",
-      "mean_score": 0.8025,
-      "vader_score": 0.855,
-      "textblob_score": 0.75,
-      "first_sentence": "At first, Cocteau Twins gave every impression of being a goth band: check out Wax and Wane\u2019s Banshees-esque ambience \u2013 the guitar is very John McGeoch \u2013 flanged bass and drum machine.",
-      "timestamp": "2026-04-09T13:01:46Z",
       "source": "The Guardian"
     }
   ]

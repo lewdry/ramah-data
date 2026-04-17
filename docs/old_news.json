@@ -1,5 +1,65 @@
 [
   {
+    "headline": "Gout and Kennedy renew rivalry, Hull eyes history as Australian athletics puts its best on show",
+    "link": "https://www.theguardian.com/sport/2026/apr/10/australian-athletics-sydney-national-championships-gout-jessica-hull-lachlan-kennedy",
+    "mean_score": 0.5685,
+    "vader_score": 0.6369,
+    "textblob_score": 0.5,
+    "first_sentence": "An array of exotic, well-trimmed dogs will parade around Sydney Olympic Park this weekend as part of the Royal Easter Show.",
+    "timestamp": "2026-04-09T15:00:53Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Canada's Mark Carney 'so proud' of astronauts in call to Artemis II",
+    "link": "https://www.bbc.com/news/videos/cwykpw99ed2o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.6383,
+    "vader_score": 0.4767,
+    "textblob_score": 0.8,
+    "first_sentence": "Canadian Prime Minister Mark Carney told the astronauts of the Artemis II mission that Canadians 'couldn't be more proud' of them.",
+    "timestamp": "2026-04-09T14:31:57Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "The best water flossers in the UK, tested for that dentist-clean feeling",
+    "link": "https://www.theguardian.com/thefilter/2025/jun/03/best-water-flosser-uk",
+    "mean_score": 0.8454,
+    "vader_score": 0.6908,
+    "textblob_score": 1.0,
+    "first_sentence": "The Guardian\u2019s journalism is independent.",
+    "timestamp": "2026-04-09T14:00:10Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "The Housemaid author Freida McFadden reveals her true identity",
+    "link": "https://www.theguardian.com/books/2026/apr/09/the-housemaid-author-freida-mcfadden-true-identity-sara-cohen",
+    "mean_score": 0.3857,
+    "vader_score": 0.4215,
+    "textblob_score": 0.35,
+    "first_sentence": "The bestselling thriller writer known as Freida McFadden has revealed her real identity, ending years of speculation about the author behind a string of hugely popular novels.",
+    "timestamp": "2026-04-09T13:09:10Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Britain's 'most beautiful coin' sold for \u00a3110,000",
+    "link": "https://www.bbc.com/news/articles/c2evpw74l4po?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.6556,
+    "vader_score": 0.6361,
+    "textblob_score": 0.675,
+    "first_sentence": "A coin considered the \"most beautiful\" ever minted in Britain has sold at auction for \u00a3110,000.",
+    "timestamp": "2026-04-09T13:03:57Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Dream-pop at its most divine: Cocteau Twins\u2019 20 greatest songs \u2013 ranked!",
+    "link": "https://www.theguardian.com/music/2026/apr/09/dream-pop-at-its-most-divine-cocteau-twins-20-greatest-songs-ranked",
+    "mean_score": 0.8025,
+    "vader_score": 0.855,
+    "textblob_score": 0.75,
+    "first_sentence": "At first, Cocteau Twins gave every impression of being a goth band: check out Wax and Wane\u2019s Banshees-esque ambience \u2013 the guitar is very John McGeoch \u2013 flanged bass and drum machine.",
+    "timestamp": "2026-04-09T13:01:46Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Most Hungarians want better relations with EU after years of Orb\u00e1n Brussels-bashing, poll finds",
     "link": "https://www.theguardian.com/world/2026/apr/09/majority-hungary-voters-back-continued-eu-membership-poll-finds-election-orban",
     "mean_score": 0.5389,
