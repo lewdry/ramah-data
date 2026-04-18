@@ -1,5 +1,75 @@
 [
   {
+    "headline": "I Am Maximus joins Grand National greats by regaining crown to emulate Red Rum",
+    "link": "https://www.theguardian.com/sport/2026/apr/11/i-am-maximus-joins-grand-national-greats-by-regaining-crown-to-emulate-red-rum-horse-racing",
+    "mean_score": 0.3544,
+    "vader_score": 0.4588,
+    "textblob_score": 0.25,
+    "first_sentence": "In a race where fortunes can switch in an instant, I Am Maximus and his trainer, Willie Mullins, are on a roll like few others in Grand National history.",
+    "timestamp": "2026-04-11T15:27:05Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Australia v Malawi: Fifa Series women\u2019s international football friendly \u2013 live",
+    "link": "https://www.theguardian.com/football/live/2026/apr/11/australia-vs-malawi-live-updates-fifa-series-matildas-aus-v-mwi-womens-international-football-friendly",
+    "mean_score": 0.3322,
+    "vader_score": 0.4939,
+    "textblob_score": 0.1705,
+    "first_sentence": "OK Kerr is off and Remy Siemsen is coming on.",
+    "timestamp": "2026-04-11T12:04:59Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "The Great Green Wall's one of the world's most ambitious eco-projects. Is it working?",
+    "link": "https://www.npr.org/2026/04/11/g-s1-114074/trees-africa-great-green-wall",
+    "mean_score": 0.5774,
+    "vader_score": 0.8173,
+    "textblob_score": 0.3375,
+    "first_sentence": "In an arid valley near the village of Kourtimale in southern Djibouti, a tattered chain link fence marks the boundaries of what was once Abdi Guelleh's farm.",
+    "timestamp": "2026-04-11T11:07:38Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "Welcome To Wrexham streaming series renewed for three more seasons",
+    "link": "https://www.bbc.com/news/articles/c62lw098gj5o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.5544,
+    "vader_score": 0.4588,
+    "textblob_score": 0.65,
+    "first_sentence": "Hit streaming series Welcome To Wrexham, which has been charting the revival of the city's football team, has been renewed for a further three seasons.",
+    "timestamp": "2026-04-11T10:24:11Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "World's first safari park celebrates 60 years",
+    "link": "https://www.bbc.com/news/articles/cn4vjxmn018o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4109,
+    "vader_score": 0.5719,
+    "textblob_score": 0.25,
+    "first_sentence": "A long-serving worker has shared his memories and favourite animals at a safari park he calls his \"first home\" as it celebrates 60 years of being open to the public.",
+    "timestamp": "2026-04-11T10:06:02Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "\u2018This cactus looks as if it\u2019s preaching\u2019: Joseph Cyr\u2019s best phone picture",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/apr/11/this-cactus-looks-as-if-its-preaching-joseph-cyrs-best-phone-picture",
+    "mean_score": 0.8185,
+    "vader_score": 0.6369,
+    "textblob_score": 1.0,
+    "first_sentence": "It was a school holiday, so Cyr was doing a trail run when he took this image.",
+    "timestamp": "2026-04-11T10:00:45Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Djibouti's president wins unprecedented sixth term with 97.8% of vote",
+    "link": "https://www.bbc.com/news/articles/cgj0wg423n6o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.511,
+    "vader_score": 0.5719,
+    "textblob_score": 0.45,
+    "first_sentence": "Djibouti's President Ismail Omar Guelleh has won an election with 97.8% of the vote, keeping him at the helm of the strategically-placed Horn of Africa nation for a sixth term, preliminary official results show.",
+    "timestamp": "2026-04-11T09:42:39Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Welcome to the fairytale land of national treasures \u2013 the Stephen Collins cartoon",
     "link": "https://www.theguardian.com/lifeandstyle/picture/2026/apr/11/welcome-to-fairytale-land-of-national-treasures-stephen-collins-cartoon",
     "mean_score": 0.7502,

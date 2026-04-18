@@ -1,6 +1,76 @@
 {
-  "last run": "2026-04-18T18:12:42Z",
+  "last run": "2026-04-18T21:10:43Z",
   "stories": [
+    {
+      "headline": "Rocky row: is a river 600km north of Brisbane really the best place to host an Olympic event?",
+      "link": "https://www.theguardian.com/australia-news/2026/apr/19/fitzroy-river-rockhampton-2032-brisbane-olympic-games",
+      "mean_score": 0.6341,
+      "vader_score": 0.6682,
+      "textblob_score": 0.6,
+      "first_sentence": "Labelling the likes of Drew Ginn and James Tomkins \u201celites\u201d is a curious form of criticism, Gary Merritt says.",
+      "timestamp": "2026-04-18T20:00:24Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Walking for truth: Travis Lovett\u2019s 500km journey to remind Albanese of his promise to create a First Nations truth-telling commission",
+      "link": "https://www.theguardian.com/australia-news/2026/apr/19/walking-for-truth-travis-lovetts-500km-journey-albanese-first-nations-truth-telling-commission-ntwnfb",
+      "mean_score": 0.4704,
+      "vader_score": 0.6908,
+      "textblob_score": 0.25,
+      "first_sentence": "Travis Lovett\u2019s kangaroo skin cloak bears the words, \u201cTruth is not about blame, it\u2019s about healing\u201d.",
+      "timestamp": "2026-04-18T20:00:23Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "I adored Pok\u00e9mon as a child. Now I collect critters of a different kind in a hobby I\u2019m uniquely suited to \u2013 birdwatching  | Jayce Carrano",
+      "link": "https://www.theguardian.com/commentisfree/2026/apr/19/birdwatching-hobby-pokemon-generation",
+      "mean_score": 0.5301,
+      "vader_score": 0.7351,
+      "textblob_score": 0.325,
+      "first_sentence": "The Pok\u00e9mon franchise has turned 30, which means that it\u2019s been a long time since a childhood friend and I braved Pok\u00e9mon Blue\u2019s haunted Lavender Town together \u2013 solemnly handing the Game Boy back and forth in the first (and perhaps last) documented case of two only children sharing something.",
+      "timestamp": "2026-04-18T20:00:22Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018I\u2019m extremely lucky to be here\u2019: Jelena Dokic on childhood dreams and talking tennis",
+      "link": "https://www.theguardian.com/sport/2026/apr/19/jelena-dokic-australia-tennis-player-pundit-interview",
+      "mean_score": 0.5165,
+      "vader_score": 0.6997,
+      "textblob_score": 0.3333,
+      "first_sentence": "All sports stars know that dealing with highs and lows comes with the territory, as part of the job.",
+      "timestamp": "2026-04-18T20:00:22Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "'She was us': History behind Joy, the first sex worker statue",
+      "link": "https://www.abc.net.au/news/2026-04-19/history-behind-the-worlds-first-sex-worker-statue/106570566",
+      "mean_score": 0.4013,
+      "vader_score": 0.5859,
+      "textblob_score": 0.2167,
+      "first_sentence": "Sexy, strong and dignified are just some of the words to describe Joy, who is thought to be the first statue of a mythical sex worker.",
+      "timestamp": "2026-04-18T19:31:46Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "A family mystery in Italy helped me unravel the myth of the perfect mother",
+      "link": "https://www.abc.net.au/news/2026-04-19/mother-motherhood-banham-abandoned-children-disability-forgive/106564028",
+      "mean_score": 0.7859,
+      "vader_score": 0.5719,
+      "textblob_score": 1.0,
+      "first_sentence": "I grew up believing my great-grandmother was an orphan.",
+      "timestamp": "2026-04-18T19:00:00Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "The cast of Good News Week reflect on 30 years of the comedy game show",
+      "link": "https://www.abc.net.au/news/2026-04-19/good-news-week-30-year-anniversary-paul-mcdermott-mikey-robins/106573970",
+      "mean_score": 0.4048,
+      "vader_score": 0.6597,
+      "textblob_score": 0.15,
+      "first_sentence": "\"Thank you, thank you, thank you and welcome to Witness with Paul McDermott,\" the fresh-faced comedian greeted a cheering in-studio audience at ABC's Gore Hill studio on Friday, April 19, 1996.",
+      "timestamp": "2026-04-18T18:30:00Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Madonna: I Feel So Free review \u2013 album teaser offers hypnotic glimpse of a return to her club scene roots",
       "link": "https://www.theguardian.com/music/2026/apr/18/madonna-i-feel-so-free-review-album-teaser-hypnotic-glimpse-return-club-scene-roots",
@@ -2430,76 +2500,6 @@
       "first_sentence": "The Women\u2019s Six Nations is still searching for a giantkiller, with the ever-dominant England not needing a consistent performance to overcome one of their main challengers in Ireland.",
       "timestamp": "2026-04-11T15:38:43Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "I Am Maximus joins Grand National greats by regaining crown to emulate Red Rum",
-      "link": "https://www.theguardian.com/sport/2026/apr/11/i-am-maximus-joins-grand-national-greats-by-regaining-crown-to-emulate-red-rum-horse-racing",
-      "mean_score": 0.3544,
-      "vader_score": 0.4588,
-      "textblob_score": 0.25,
-      "first_sentence": "In a race where fortunes can switch in an instant, I Am Maximus and his trainer, Willie Mullins, are on a roll like few others in Grand National history.",
-      "timestamp": "2026-04-11T15:27:05Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Australia v Malawi: Fifa Series women\u2019s international football friendly \u2013 live",
-      "link": "https://www.theguardian.com/football/live/2026/apr/11/australia-vs-malawi-live-updates-fifa-series-matildas-aus-v-mwi-womens-international-football-friendly",
-      "mean_score": 0.3322,
-      "vader_score": 0.4939,
-      "textblob_score": 0.1705,
-      "first_sentence": "OK Kerr is off and Remy Siemsen is coming on.",
-      "timestamp": "2026-04-11T12:04:59Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The Great Green Wall's one of the world's most ambitious eco-projects. Is it working?",
-      "link": "https://www.npr.org/2026/04/11/g-s1-114074/trees-africa-great-green-wall",
-      "mean_score": 0.5774,
-      "vader_score": 0.8173,
-      "textblob_score": 0.3375,
-      "first_sentence": "In an arid valley near the village of Kourtimale in southern Djibouti, a tattered chain link fence marks the boundaries of what was once Abdi Guelleh's farm.",
-      "timestamp": "2026-04-11T11:07:38Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Welcome To Wrexham streaming series renewed for three more seasons",
-      "link": "https://www.bbc.com/news/articles/c62lw098gj5o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5544,
-      "vader_score": 0.4588,
-      "textblob_score": 0.65,
-      "first_sentence": "Hit streaming series Welcome To Wrexham, which has been charting the revival of the city's football team, has been renewed for a further three seasons.",
-      "timestamp": "2026-04-11T10:24:11Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "World's first safari park celebrates 60 years",
-      "link": "https://www.bbc.com/news/articles/cn4vjxmn018o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4109,
-      "vader_score": 0.5719,
-      "textblob_score": 0.25,
-      "first_sentence": "A long-serving worker has shared his memories and favourite animals at a safari park he calls his \"first home\" as it celebrates 60 years of being open to the public.",
-      "timestamp": "2026-04-11T10:06:02Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "\u2018This cactus looks as if it\u2019s preaching\u2019: Joseph Cyr\u2019s best phone picture",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/apr/11/this-cactus-looks-as-if-its-preaching-joseph-cyrs-best-phone-picture",
-      "mean_score": 0.8185,
-      "vader_score": 0.6369,
-      "textblob_score": 1.0,
-      "first_sentence": "It was a school holiday, so Cyr was doing a trail run when he took this image.",
-      "timestamp": "2026-04-11T10:00:45Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Djibouti's president wins unprecedented sixth term with 97.8% of vote",
-      "link": "https://www.bbc.com/news/articles/cgj0wg423n6o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.511,
-      "vader_score": 0.5719,
-      "textblob_score": 0.45,
-      "first_sentence": "Djibouti's President Ismail Omar Guelleh has won an election with 97.8% of the vote, keeping him at the helm of the strategically-placed Horn of Africa nation for a sixth term, preliminary official results show.",
-      "timestamp": "2026-04-11T09:42:39Z",
-      "source": "BBC News"
     }
   ]
 }
