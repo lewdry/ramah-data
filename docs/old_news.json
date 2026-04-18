@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Heathers the Musical review \u2013 dark teen comedy is hammy fun, if thoroughly defanged",
+    "link": "https://www.theguardian.com/stage/2026/apr/11/heathers-the-musical-review-dark-teen-comedy-is-hammy-fun-if-thoroughly-defanged",
+    "mean_score": 0.3689,
+    "vader_score": 0.7003,
+    "textblob_score": 0.0375,
+    "first_sentence": "Before Mean Girls, there was Heathers.",
+    "timestamp": "2026-04-11T03:11:39Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Anisa Nandaula: No Small Talk review \u2013 chatty fun with rising star of Australian comedy",
+    "link": "https://www.theguardian.com/stage/2026/apr/11/anisa-nandaula-no-small-talk-review-chatty-fun-with-rising-star-of-australian-comedy",
+    "mean_score": 0.3495,
+    "vader_score": 0.5574,
+    "textblob_score": 0.1417,
+    "first_sentence": "If you came to Anisa Nandaula\u2019s new show, No Small Talk, expecting to be safe from audience interaction, prepare to be surprised.",
+    "timestamp": "2026-04-11T02:23:47Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Live: Swans take care of Suns at Norwood before Hawks-Bulldogs blockbuster",
+    "link": "https://www.abc.net.au/news/2026-04-11/afl-kangaroos-lions-bombers-demons-swans-suns-hawks-bulldogs/106542804",
+    "mean_score": 0.4664,
+    "vader_score": 0.7964,
+    "textblob_score": 0.1364,
+    "first_sentence": "Sydney dominates a top-four clash with Gold Coast at suburban Norwood Oval to take top spot on the ladder for now, ahead of a Hawthorn - Western Bulldogs blockbuster.",
+    "timestamp": "2026-04-11T02:03:51Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "This rich, meat-free curry is a budget-friendly way to make a massaman",
+    "link": "https://www.abc.net.au/news/2026-04-11/vegan-mushroom-massaman-curry/106452570",
+    "mean_score": 0.4662,
+    "vader_score": 0.5574,
+    "textblob_score": 0.375,
+    "first_sentence": "Hetty Lui McKinnon is a food writer and cookbook author with a passion for vegetables.",
+    "timestamp": "2026-04-11T02:00:00Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "An inappropriate joke nearly ended his career. Now he's back with more humour",
     "link": "https://www.bbc.com/news/articles/czrekvml0p6o?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.44,
