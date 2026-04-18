@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Meet the kids hoping to become European cup-stacking champions",
+    "link": "https://www.bbc.com/news/articles/c93eqg4l05no?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3675,
+    "vader_score": 0.7351,
+    "textblob_score": 0.0,
+    "first_sentence": "If the answer is \"no\" then the European Sport Stacking Championships are probably not for you.",
+    "timestamp": "2026-04-11T06:07:24Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "\u2018TikTok effect\u2019 brings sellout crowds and younger fans to Grand National meeting",
+    "link": "https://www.theguardian.com/sport/2026/apr/11/horse-racing-ladies-day-aintree-grand-national-social-media",
+    "mean_score": 0.3544,
+    "vader_score": 0.4588,
+    "textblob_score": 0.25,
+    "first_sentence": "Everywhere you looked that sentiment was being echoed and magnified by 55,000 other racegoers, most dressed in their finest suits and silks, who were basking in the first Ladies\u2019 Day sellout since 2012.",
+    "timestamp": "2026-04-11T05:00:42Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "American Classic review \u2013 I defy you not to fall in love with Kevin Kline and Laura Linney\u2019s tender comedy",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/apr/11/american-classic-review-kevin-kline-laura-linney-comedy",
+    "mean_score": 0.497,
+    "vader_score": 0.7717,
+    "textblob_score": 0.2222,
+    "first_sentence": "Ah, the roar of the greasepaint \u2013 the smell of the crowd! Who doesn\u2019t love the theatre? Or at least the idea of the theatre.",
+    "timestamp": "2026-04-11T04:00:38Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Heathers the Musical review \u2013 dark teen comedy is hammy fun, if thoroughly defanged",
     "link": "https://www.theguardian.com/stage/2026/apr/11/heathers-the-musical-review-dark-teen-comedy-is-hammy-fun-if-thoroughly-defanged",
     "mean_score": 0.3689,

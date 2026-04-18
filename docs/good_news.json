@@ -1,6 +1,26 @@
 {
-  "last run": "2026-04-18T06:26:00Z",
+  "last run": "2026-04-18T09:17:07Z",
   "stories": [
+    {
+      "headline": "Kae Tempest on creativity and his gender transition: \u2018I\u2019m just glad to be alive\u2019",
+      "link": "https://www.theguardian.com/culture/2026/apr/18/kae-tempest-on-creativity-and-his-gender-transition-im-just-glad-to-be-alive",
+      "mean_score": 0.4904,
+      "vader_score": 0.6808,
+      "textblob_score": 0.3,
+      "first_sentence": "Kae Tempest sidles into a pub near his\u00a0house on a weekday afternoon and orders\u00a0a pint of mineral water.",
+      "timestamp": "2026-04-18T08:01:07Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Father of man who inspired Super Mario was also named Luigi, researcher finds",
+      "link": "https://www.theguardian.com/games/2026/apr/18/super-mario-nintendo-luigi-inspiration",
+      "mean_score": 0.5649,
+      "vader_score": 0.7964,
+      "textblob_score": 0.3333,
+      "first_sentence": "The Washington state businessman who inspired Nintendo to give the name Mario to its mustachioed, superhero plumber did not have a brother named Luigi like the fictional video game star famously does.",
+      "timestamp": "2026-04-18T07:00:07Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Campaigners hope to save rare rainforest habitat",
       "link": "https://www.bbc.com/news/articles/c4gvvzelnveo?at_medium=RSS&at_campaign=rss",
@@ -680,6 +700,16 @@
       "first_sentence": "Bright purple coffees and cocktails made with a root vegetable called ube have hit the high street in the UK after the yam\u2019s striking hue caused a sensation on social media.",
       "timestamp": "2026-04-16T10:15:02Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "'My sister loved to party and turned her life around' - the nun on the way to sainthood",
+      "link": "https://www.bbc.com/news/articles/c5yjjzjgvm6o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.7325,
+      "vader_score": 0.765,
+      "textblob_score": 0.7,
+      "first_sentence": "She was a self-confessed wild child who ultimately swapped partying for prayer.",
+      "timestamp": "2026-04-16T09:10:32Z",
+      "source": "BBC News"
     },
     {
       "headline": "Live: Winning streaks go on the line in Thursday night showdown",
@@ -2470,36 +2500,6 @@
       "first_sentence": "Claudia Hollingsworth has been reinstated as the women's 1,500m winner at the Australian Athletics Championships in Sydney.",
       "timestamp": "2026-04-11T06:25:26Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Meet the kids hoping to become European cup-stacking champions",
-      "link": "https://www.bbc.com/news/articles/c93eqg4l05no?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3675,
-      "vader_score": 0.7351,
-      "textblob_score": 0.0,
-      "first_sentence": "If the answer is \"no\" then the European Sport Stacking Championships are probably not for you.",
-      "timestamp": "2026-04-11T06:07:24Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "\u2018TikTok effect\u2019 brings sellout crowds and younger fans to Grand National meeting",
-      "link": "https://www.theguardian.com/sport/2026/apr/11/horse-racing-ladies-day-aintree-grand-national-social-media",
-      "mean_score": 0.3544,
-      "vader_score": 0.4588,
-      "textblob_score": 0.25,
-      "first_sentence": "Everywhere you looked that sentiment was being echoed and magnified by 55,000 other racegoers, most dressed in their finest suits and silks, who were basking in the first Ladies\u2019 Day sellout since 2012.",
-      "timestamp": "2026-04-11T05:00:42Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "American Classic review \u2013 I defy you not to fall in love with Kevin Kline and Laura Linney\u2019s tender comedy",
-      "link": "https://www.theguardian.com/tv-and-radio/2026/apr/11/american-classic-review-kevin-kline-laura-linney-comedy",
-      "mean_score": 0.497,
-      "vader_score": 0.7717,
-      "textblob_score": 0.2222,
-      "first_sentence": "Ah, the roar of the greasepaint \u2013 the smell of the crowd! Who doesn\u2019t love the theatre? Or at least the idea of the theatre.",
-      "timestamp": "2026-04-11T04:00:38Z",
-      "source": "The Guardian"
     }
   ]
 }
