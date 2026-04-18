@@ -1,6 +1,56 @@
 {
-  "last run": "2026-04-18T09:17:07Z",
+  "last run": "2026-04-18T12:11:48Z",
   "stories": [
+    {
+      "headline": "Great white sharks are overheating",
+      "link": "https://arstechnica.com/science/2026/04/great-white-sharks-are-overheating/",
+      "mean_score": 0.5125,
+      "vader_score": 0.6249,
+      "textblob_score": 0.4,
+      "first_sentence": "The sharks might also be the most physiologically vulnerable to warming waters.",
+      "timestamp": "2026-04-18T11:07:59Z",
+      "source": "Ars Technica"
+    },
+    {
+      "headline": "Norwegian politicians hope Epstein files inquiry will restore faith in democracy",
+      "link": "https://www.theguardian.com/world/2026/apr/18/jeffrey-epstein-files-shaken-norway-faith-in-democracy-oversight-committee",
+      "mean_score": 0.3922,
+      "vader_score": 0.7845,
+      "textblob_score": 0.0,
+      "first_sentence": "The Epstein files have shaken Norway\u2019s faith in democracy, the head of the Norwegian parliament\u2019s oversight committee has said, as a sprawling investigation into the connections between its foreign office and the late sex offender gets under way.",
+      "timestamp": "2026-04-18T10:48:52Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018I want people to see nature as a wondrous work of art\u2019: Jon McCormack\u2019s best phone picture",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/apr/18/nature-as-art-jon-mccormack-best-phone-picture",
+      "mean_score": 0.8353,
+      "vader_score": 0.6705,
+      "textblob_score": 1.0,
+      "first_sentence": "Around 10,000 years ago, Kangaroo Island separated from mainland Australia.",
+      "timestamp": "2026-04-18T10:00:11Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Opera bosses credit pop star Rosal\u00eda for artform's 'surge of support'",
+      "link": "https://www.bbc.com/news/articles/cj40zpy18zxo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3243,
+      "vader_score": 0.6486,
+      "textblob_score": 0.0,
+      "first_sentence": "Timoth\u00e9e Chalamet might have called opera an art form that \"no one cares about\" - but the bosses of the Welsh National Opera (WNO) say the art form has never been \"more culturally relevant\".",
+      "timestamp": "2026-04-18T08:59:03Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Otter mayhem after 'challenging beast' sneaks into garden centre",
+      "link": "https://www.bbc.com/news/articles/c30ry3y9g92o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3266,
+      "vader_score": 0.1531,
+      "textblob_score": 0.5,
+      "first_sentence": "Vets had to be called out to help capture an otter after it staged a daring daylight \"break-in\" at a garden centre in the south of Scotland.",
+      "timestamp": "2026-04-18T08:28:20Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Kae Tempest on creativity and his gender transition: \u2018I\u2019m just glad to be alive\u2019",
       "link": "https://www.theguardian.com/culture/2026/apr/18/kae-tempest-on-creativity-and-his-gender-transition-im-just-glad-to-be-alive",
@@ -2450,56 +2500,6 @@
       "first_sentence": "The four astronauts who flew in Nasa's Artemis II mission around the Moon have splashed down safely in the Pacific Ocean after a flawless return.",
       "timestamp": "2026-04-11T07:53:46Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "How NASA and the Artemis II crew completed the 'perfect' splashdown",
-      "link": "https://www.abc.net.au/news/2026-04-11/artemis-nasa-landing-moon/106545514",
-      "mean_score": 0.7859,
-      "vader_score": 0.5719,
-      "textblob_score": 1.0,
-      "first_sentence": "Nine days, one hour, 32 minutes and 15 seconds.",
-      "timestamp": "2026-04-11T07:51:43Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "The hill I will die on: Yes, money can buy you happiness \u2013 if you spend it right | Eleanor Margolis",
-      "link": "https://www.theguardian.com/commentisfree/2026/apr/11/hill-i-will-die-on-many-can-buy-you-happiness",
-      "mean_score": 0.4164,
-      "vader_score": 0.34,
-      "textblob_score": 0.4929,
-      "first_sentence": "When wages have stalled for nearly 20 years and I recently came face to face with a tube of toothpaste that was nearly \u00a37 in my local Sainsbury\u2019s, the idea that money can\u2019t buy happiness seems almost offensive.",
-      "timestamp": "2026-04-11T07:00:41Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Tyson Fury\u2019s latest return unlikely to save heavyweight era reaching its end",
-      "link": "https://www.theguardian.com/sport/2026/apr/11/tyson-fury-heavyweight-era-endgame-boxing-arslanbek-makhmudov",
-      "mean_score": 0.3062,
-      "vader_score": 0.6124,
-      "textblob_score": 0.0,
-      "first_sentence": "So here we are, back watching Fury prepare to climb through the ropes to fight Arslanbek Makhmudov, the giant Russian from Dagestan, at the Tottenham Hotspur Stadium on Saturday night.",
-      "timestamp": "2026-04-11T07:00:41Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Live: US and Iranian delegations set for crucial peace talks",
-      "link": "https://www.abc.net.au/news/2026-04-11/iran-war-live-updates-pakistan-peace-talks-trump-vance/106554508",
-      "mean_score": 0.3052,
-      "vader_score": 0.5423,
-      "textblob_score": 0.0682,
-      "first_sentence": "US Vice-President JD Vance and the US delegation has arrived in Islamabad, Pakistan to enter into peace talks with Iran.",
-      "timestamp": "2026-04-11T06:26:16Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Hollingsworth sensationally reinstated as national champion after initial DQ",
-      "link": "https://www.abc.net.au/news/2026-04-11/claudia-hollingsworth-jess-hull-australian-athletics-champs-1500/106554698",
-      "mean_score": 0.4664,
-      "vader_score": 0.5994,
-      "textblob_score": 0.3333,
-      "first_sentence": "Claudia Hollingsworth has been reinstated as the women's 1,500m winner at the Australian Athletics Championships in Sydney.",
-      "timestamp": "2026-04-11T06:25:26Z",
-      "source": "ABC News"
     }
   ]
 }

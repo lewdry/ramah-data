@@ -1,5 +1,55 @@
 [
   {
+    "headline": "How NASA and the Artemis II crew completed the 'perfect' splashdown",
+    "link": "https://www.abc.net.au/news/2026-04-11/artemis-nasa-landing-moon/106545514",
+    "mean_score": 0.7859,
+    "vader_score": 0.5719,
+    "textblob_score": 1.0,
+    "first_sentence": "Nine days, one hour, 32 minutes and 15 seconds.",
+    "timestamp": "2026-04-11T07:51:43Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "The hill I will die on: Yes, money can buy you happiness \u2013 if you spend it right | Eleanor Margolis",
+    "link": "https://www.theguardian.com/commentisfree/2026/apr/11/hill-i-will-die-on-many-can-buy-you-happiness",
+    "mean_score": 0.4164,
+    "vader_score": 0.34,
+    "textblob_score": 0.4929,
+    "first_sentence": "When wages have stalled for nearly 20 years and I recently came face to face with a tube of toothpaste that was nearly \u00a37 in my local Sainsbury\u2019s, the idea that money can\u2019t buy happiness seems almost offensive.",
+    "timestamp": "2026-04-11T07:00:41Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Tyson Fury\u2019s latest return unlikely to save heavyweight era reaching its end",
+    "link": "https://www.theguardian.com/sport/2026/apr/11/tyson-fury-heavyweight-era-endgame-boxing-arslanbek-makhmudov",
+    "mean_score": 0.3062,
+    "vader_score": 0.6124,
+    "textblob_score": 0.0,
+    "first_sentence": "So here we are, back watching Fury prepare to climb through the ropes to fight Arslanbek Makhmudov, the giant Russian from Dagestan, at the Tottenham Hotspur Stadium on Saturday night.",
+    "timestamp": "2026-04-11T07:00:41Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Live: US and Iranian delegations set for crucial peace talks",
+    "link": "https://www.abc.net.au/news/2026-04-11/iran-war-live-updates-pakistan-peace-talks-trump-vance/106554508",
+    "mean_score": 0.3052,
+    "vader_score": 0.5423,
+    "textblob_score": 0.0682,
+    "first_sentence": "US Vice-President JD Vance and the US delegation has arrived in Islamabad, Pakistan to enter into peace talks with Iran.",
+    "timestamp": "2026-04-11T06:26:16Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Hollingsworth sensationally reinstated as national champion after initial DQ",
+    "link": "https://www.abc.net.au/news/2026-04-11/claudia-hollingsworth-jess-hull-australian-athletics-champs-1500/106554698",
+    "mean_score": 0.4664,
+    "vader_score": 0.5994,
+    "textblob_score": 0.3333,
+    "first_sentence": "Claudia Hollingsworth has been reinstated as the women's 1,500m winner at the Australian Athletics Championships in Sydney.",
+    "timestamp": "2026-04-11T06:25:26Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Meet the kids hoping to become European cup-stacking champions",
     "link": "https://www.bbc.com/news/articles/c93eqg4l05no?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.3675,
