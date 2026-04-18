@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Welcome to the fairytale land of national treasures \u2013 the Stephen Collins cartoon",
+    "link": "https://www.theguardian.com/lifeandstyle/picture/2026/apr/11/welcome-to-fairytale-land-of-national-treasures-stephen-collins-cartoon",
+    "mean_score": 0.7502,
+    "vader_score": 0.7003,
+    "textblob_score": 0.8,
+    "first_sentence": "Continue reading.",
+    "timestamp": "2026-04-11T09:30:44Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "How AI is getting better at finding security holes",
+    "link": "https://www.npr.org/2026/04/11/nx-s1-5778508/anthropic-project-glasswing-ai-cybersecurity-mythos-preview",
+    "mean_score": 0.5743,
+    "vader_score": 0.6486,
+    "textblob_score": 0.5,
+    "first_sentence": "In the past few months, AI models have gone from producing hallucinations to becoming effective at finding security flaws in software, according to developers who maintain widely used cyber infrastructure.",
+    "timestamp": "2026-04-11T09:00:00Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "Artemis crew home safely after completing historic mission to the Moon",
+    "link": "https://www.bbc.com/news/articles/cr51z54d5rpo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.372,
+    "vader_score": 0.4939,
+    "textblob_score": 0.25,
+    "first_sentence": "The four astronauts who flew in Nasa's Artemis II mission around the Moon have splashed down safely in the Pacific Ocean after a flawless return.",
+    "timestamp": "2026-04-11T07:53:46Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "How NASA and the Artemis II crew completed the 'perfect' splashdown",
     "link": "https://www.abc.net.au/news/2026-04-11/artemis-nasa-landing-moon/106545514",
     "mean_score": 0.7859,

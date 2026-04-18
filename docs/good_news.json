@@ -1,6 +1,26 @@
 {
-  "last run": "2026-04-18T12:11:48Z",
+  "last run": "2026-04-18T15:14:25Z",
   "stories": [
+    {
+      "headline": "Madonna: I Feel So Free review \u2013 album teaser offers hypnotic glimpse of a return to her club scene roots",
+      "link": "https://www.theguardian.com/music/2026/apr/18/madonna-i-feel-so-free-review-album-teaser-hypnotic-glimpse-return-club-scene-roots",
+      "mean_score": 0.3755,
+      "vader_score": 0.5009,
+      "textblob_score": 0.25,
+      "first_sentence": "Recent years have not been particularly kind to Madonna.",
+      "timestamp": "2026-04-18T14:11:18Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Leno\u2019s superb late save ensures 0-0 draw as Fulham hit Brentford\u2019s European hopes",
+      "link": "https://www.theguardian.com/football/2026/apr/18/brentford-fulham-premier-league-match-report",
+      "mean_score": 0.5556,
+      "vader_score": 0.8779,
+      "textblob_score": 0.2333,
+      "first_sentence": "The grind to Europe continues for Brentford.",
+      "timestamp": "2026-04-18T13:35:49Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Great white sharks are overheating",
       "link": "https://arstechnica.com/science/2026/04/great-white-sharks-are-overheating/",
@@ -109,6 +129,16 @@
       "textblob_score": 0.4667,
       "first_sentence": "Eighteen-year-old sprint star Gout Gout has coasted to another 100m junior national title, waving goodbye to his opponents as he won in 10.21 seconds.",
       "timestamp": "2026-04-18T04:56:01Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Haas expected to miss several weeks as Broncos count cost of brave win",
+      "link": "https://www.abc.net.au/news/2026-04-18/nrl-live-warriors-titans-rabbitohs-dragons-tigers-broncos/106576324",
+      "mean_score": 0.57,
+      "vader_score": 0.765,
+      "textblob_score": 0.375,
+      "first_sentence": "Brisbane's horror injury toll appears to have worsened after the reigning NRL premiers produced a brave performance to snap Wests Tigers' three-match winning streak.",
+      "timestamp": "2026-04-18T04:21:05Z",
       "source": "ABC News"
     },
     {
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.45,
       "first_sentence": "Djibouti's President Ismail Omar Guelleh has won an election with 97.8% of the vote, keeping him at the helm of the strategically-placed Horn of Africa nation for a sixth term, preliminary official results show.",
       "timestamp": "2026-04-11T09:42:39Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Welcome to the fairytale land of national treasures \u2013 the Stephen Collins cartoon",
-      "link": "https://www.theguardian.com/lifeandstyle/picture/2026/apr/11/welcome-to-fairytale-land-of-national-treasures-stephen-collins-cartoon",
-      "mean_score": 0.7502,
-      "vader_score": 0.7003,
-      "textblob_score": 0.8,
-      "first_sentence": "Continue reading.",
-      "timestamp": "2026-04-11T09:30:44Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "How AI is getting better at finding security holes",
-      "link": "https://www.npr.org/2026/04/11/nx-s1-5778508/anthropic-project-glasswing-ai-cybersecurity-mythos-preview",
-      "mean_score": 0.5743,
-      "vader_score": 0.6486,
-      "textblob_score": 0.5,
-      "first_sentence": "In the past few months, AI models have gone from producing hallucinations to becoming effective at finding security flaws in software, according to developers who maintain widely used cyber infrastructure.",
-      "timestamp": "2026-04-11T09:00:00Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Artemis crew home safely after completing historic mission to the Moon",
-      "link": "https://www.bbc.com/news/articles/cr51z54d5rpo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.372,
-      "vader_score": 0.4939,
-      "textblob_score": 0.25,
-      "first_sentence": "The four astronauts who flew in Nasa's Artemis II mission around the Moon have splashed down safely in the Pacific Ocean after a flawless return.",
-      "timestamp": "2026-04-11T07:53:46Z",
       "source": "BBC News"
     }
   ]
