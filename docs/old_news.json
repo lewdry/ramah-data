@@ -1,5 +1,35 @@
 [
   {
+    "headline": "An inappropriate joke nearly ended his career. Now he's back with more humour",
+    "link": "https://www.bbc.com/news/articles/czrekvml0p6o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.44,
+    "vader_score": 0.6801,
+    "textblob_score": 0.2,
+    "first_sentence": "In an Indian city, an unassuming, slightly rumpled comedian walks into the spotlight for the first time in months.",
+    "timestamp": "2026-04-11T01:45:41Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Artemis II astronauts emerge from capsule after safely returning to Earth",
+    "link": "https://www.sbs.com.au/news/article/artemis-ii-prepares-for-splash-down-after-historic-10-day-moon-mission/29hm110gw",
+    "mean_score": 0.497,
+    "vader_score": 0.4939,
+    "textblob_score": 0.5,
+    "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+    "timestamp": "2026-04-10T23:50:45Z",
+    "source": "SBS News"
+  },
+  {
+    "headline": "McIlroy's 'just keep swinging' approach takes him to huge Masters lead",
+    "link": "https://www.abc.net.au/news/2026-04-11/jason-day-rory-mcilroy-masters-second-round/106554068",
+    "mean_score": 0.3591,
+    "vader_score": 0.3182,
+    "textblob_score": 0.4,
+    "first_sentence": "A stunning conclusion to the second round has Rory McIlroy well clear at the Masters, with Jason Day slipping on the final hole.",
+    "timestamp": "2026-04-10T23:09:12Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Rory McIlroy surges into six-shot Masters lead with stunning second-round flourish",
     "link": "https://www.theguardian.com/sport/2026/apr/11/rory-mcilroy-six-shot-masters-lead--stunning-second-round-golf",
     "mean_score": 0.4409,
