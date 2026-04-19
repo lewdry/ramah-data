@@ -1,11 +1,51 @@
 [
   {
+    "headline": "Saturday Night Live: Colman Domingo makes for season\u2019s best host to date",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/apr/12/saturday-night-live-colman-domingo-host",
+    "mean_score": 0.6025,
+    "vader_score": 0.6369,
+    "textblob_score": 0.5682,
+    "first_sentence": "Moving on to more pressing business, Trump rings up Tiger Woods (Kenan Thompson), currently in rehab in Switzerland after flipping his car and getting a DUI but hangs up on him when informed there\u2019s no golf course on site.",
+    "timestamp": "2026-04-12T13:23:59Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "\u2018It feels as if I\u2019ve made a new best friend\u2019: my experiment with AI journalling",
+    "link": "https://www.theguardian.com/technology/2026/apr/12/experiment-with-ai-journalling",
+    "mean_score": 0.6025,
+    "vader_score": 0.6369,
+    "textblob_score": 0.5682,
+    "first_sentence": "Ever since I was a teenager, I have kept some form of diary.",
+    "timestamp": "2026-04-12T13:00:18Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Charlotte Riley: \u2018The girl in the photo would be thrilled I\u2019m an actor\u2019",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/apr/12/charlotte-riley-the-girl-in-the-photo-would-be-thrilled-im-an-actor",
+    "mean_score": 0.5202,
+    "vader_score": 0.4404,
+    "textblob_score": 0.6,
+    "first_sentence": "Born in Grindon, County\u00a0Durham, in 1981, Charlotte Riley is an actor and writer.",
+    "timestamp": "2026-04-12T13:00:18Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Is AI the greatest art heist in history?",
     "link": "https://www.theguardian.com/books/2026/apr/12/is-ai-the-greatest-art-heist-in-history",
     "mean_score": 0.8185,
     "vader_score": 0.6369,
     "textblob_score": 1.0,
     "first_sentence": "In 2026, its easy to see why generative AI is bad.",
+    "timestamp": "2026-04-12T11:00:17Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Remote working tribunal cases in Great Britain fall for first time since Covid",
+    "link": "https://www.theguardian.com/money/2026/apr/12/remote-working-tribunal-cases-great-britain-fall-for-first-time-since-covid-hit",
+    "mean_score": 0.4708,
+    "vader_score": 0.6249,
+    "textblob_score": 0.3167,
+    "first_sentence": "The number of workers in Great Britain taking their bosses to employment tribunals over remote working fell last year for the first time since Covid hit, with a tightening labour market making some more reluctant to leave roles despite return-to-office mandates.",
     "timestamp": "2026-04-12T11:00:17Z",
     "source": "The Guardian"
   },
