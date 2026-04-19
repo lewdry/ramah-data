@@ -1,6 +1,26 @@
 {
-  "last run": "2026-04-19T00:26:36Z",
+  "last run": "2026-04-19T04:03:48Z",
   "stories": [
+    {
+      "headline": "Sincere dialogue needed to ease Cuba\u2019s \u2018grave humanitarian crisis\u2019, say Mexico, Spain and Brazil",
+      "link": "https://www.theguardian.com/world/2026/apr/19/sincere-dialogue-needed-to-ease-cubas-grave-humanitarian-crisis-say-mexico-spain-and-brazil",
+      "mean_score": 0.5685,
+      "vader_score": 0.6369,
+      "textblob_score": 0.5,
+      "first_sentence": "Mexico, Spain and Brazil have voiced concern about the \u201cdramatic situation\u201d in Cuba, which has faced months of pressure from US president Donald Trump, with the trio urging \u201csincere and respectful dialogue\u201d.",
+      "timestamp": "2026-04-19T02:26:17Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "We already loved each other, but just didn't realise it",
+      "link": "https://www.abc.net.au/news/2026-04-19/falling-in-love-with-my-daughters-father/106388284",
+      "mean_score": 0.3191,
+      "vader_score": 0.3506,
+      "textblob_score": 0.2875,
+      "first_sentence": "When a casual fling led to a surprise pregnancy, Tessa Dijkgraaf told father-to-be Jordan not to \"come in and out\" and break their daughter's heart.",
+      "timestamp": "2026-04-19T02:00:00Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Scammers are becoming ever more sophisticated - this is what the fightback looks like",
       "link": "https://www.bbc.com/news/articles/cj60pl5g4z4o?at_medium=RSS&at_campaign=rss",
@@ -2480,26 +2500,6 @@
       "first_sentence": "The four astronauts who flew in Nasa's Artemis II mission around the Moon have been welcomed back to Planet Earth at an event in Houston, Texas.",
       "timestamp": "2026-04-11T21:23:07Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "The moment large bird of prey is rescued at caravan site",
-      "link": "https://www.bbc.com/news/videos/c2085l67ev8o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3179,
-      "vader_score": 0.4215,
-      "textblob_score": 0.2143,
-      "first_sentence": "The footage was captured at Morfa Bychan Holiday Park in Ceredigion.",
-      "timestamp": "2026-04-11T20:31:43Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Brian Cox: \u2018We don\u2019t know how powerful AI is going to become \u2013 it\u2019s both exciting and potentially a problem\u2019",
-      "link": "https://www.theguardian.com/science/2026/apr/11/brian-cox-physicist-interview-ai-science-paul-mccartney",
-      "mean_score": 0.4592,
-      "vader_score": 0.7184,
-      "textblob_score": 0.2,
-      "first_sentence": "What is the inspiration behind your latest live show, Emergence?.",
-      "timestamp": "2026-04-11T20:00:05Z",
-      "source": "The Guardian"
     }
   ]
 }
