@@ -1,5 +1,55 @@
 [
   {
+    "headline": "This is how we do it: \u2018I love the idea of only knowing one person intimately for the rest of my life\u2019",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/apr/12/this-is-how-we-do-it-know-one-person-intimately-for-life",
+    "mean_score": 0.4351,
+    "vader_score": 0.6369,
+    "textblob_score": 0.2333,
+    "first_sentence": "Studying on different continents is a challenge for Veronika and Fabio \u2026 Can their young love go the distance?.",
+    "timestamp": "2026-04-12T10:00:14Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Wallaroos\u2019 hopes of breakthrough win washed away by Canada in stormy conditions",
+    "link": "https://www.theguardian.com/sport/2026/apr/12/canada-australia-wallaroos-womens-rugby-union-pacific-four-report",
+    "mean_score": 0.7825,
+    "vader_score": 0.765,
+    "textblob_score": 0.8,
+    "first_sentence": "The Wallaroos have fallen short in their quest for a breakthrough victory over Canada, but can take heart from a 24-0 defeat in their opening match of the Pacific Four rugby series.",
+    "timestamp": "2026-04-12T06:39:59Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Hopes more pine martens will be born in the wild",
+    "link": "https://www.bbc.com/news/articles/cn9q7vlwnxno?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3608,
+    "vader_score": 0.4215,
+    "textblob_score": 0.3,
+    "first_sentence": "Conservationists say pine martens are \"doing well\" after being being reintroduced to parts of south-west England.",
+    "timestamp": "2026-04-12T06:12:20Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Are some things better left unsaid, even if you're getting married?",
+    "link": "https://www.bbc.com/news/articles/c1mk3y2np55o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3452,
+    "vader_score": 0.4404,
+    "textblob_score": 0.25,
+    "first_sentence": "It's safe to say Zendaya and Robert Pattinson's new film The Drama has been starting a lot of conversations.",
+    "timestamp": "2026-04-12T05:35:19Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Hiker found 'safe and well' after spending 24 hours lost in Victoria's north-west",
+    "link": "https://www.abc.net.au/news/2026-04-12/police-search-for-hiker-murray-sunset-national-park/106555970",
+    "mean_score": 0.4509,
+    "vader_score": 0.4019,
+    "textblob_score": 0.5,
+    "first_sentence": "Andy, 25, went missing after separating from his group to do a solo hike in the Murray-Sunset National Park on Saturday morning.",
+    "timestamp": "2026-04-12T03:05:08Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Love story: 'It's not my kidney now, it's yours. I'm just holding it for you'",
     "link": "https://www.abc.net.au/news/2026-04-12/when-love-means-donating-kidney-to-your-brother/106387210",
     "mean_score": 0.5685,

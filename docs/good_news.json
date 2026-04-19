@@ -1,6 +1,46 @@
 {
-  "last run": "2026-04-19T12:11:29Z",
+  "last run": "2026-04-19T15:14:31Z",
   "stories": [
+    {
+      "headline": "\u2018Drinks and a burger\u2019 fuel Mark Allen\u2019s Crucible comeback win over Zhang",
+      "link": "https://www.theguardian.com/sport/2026/apr/19/world-snooker-championship-mark-allen-john-higgins-mark-williams",
+      "mean_score": 0.6929,
+      "vader_score": 0.5859,
+      "textblob_score": 0.8,
+      "first_sentence": "Mark Allen revealed how \u201cbad food\u201d and a few drinks fuelled his surge into the second round of the World Snooker Championship after he swallowed up a two-frame overnight deficit to crush Zhang Anda 10-6 at the Crucible.",
+      "timestamp": "2026-04-19T14:32:54Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Italian lawyers could win \u2018wild west-style bounties\u2019 if immigration clients go home",
+      "link": "https://www.theguardian.com/world/2026/apr/19/italian-lawyers-giorgia-meloni-wild-west-bounties-immigration",
+      "mean_score": 0.4429,
+      "vader_score": 0.5859,
+      "textblob_score": 0.3,
+      "first_sentence": "Italian lawyers will be paid bonuses if they successfully convince their immigrant clients to return home under a government plan that has been compared to a \u201cwild west-style bounty\u201d.",
+      "timestamp": "2026-04-19T13:23:12Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Twenty goals and a burning yellow card - the best bits from Sidemen charity match",
+      "link": "https://www.bbc.com/news/articles/ckgedvmzv2mo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.6453,
+      "vader_score": 0.7906,
+      "textblob_score": 0.5,
+      "first_sentence": "A sold-out Wembley Stadium watched the Sidemen FC charity match on Saturday, which raised \u00a36.2 million \u2013 and provided plenty of memorable moments.",
+      "timestamp": "2026-04-19T12:57:56Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Bulgarians head to the polls to elect a parliament for the eighth time in 5 years",
+      "link": "https://apnews.com/article/bulgaria-election-radev-borissov-corruption-3e20cf8eef356337f724fd967efb72cf",
+      "mean_score": 0.4,
+      "vader_score": 0.0,
+      "textblob_score": 0.8,
+      "first_sentence": "SOFIA, Bulgaria (AP) \u2014 Bulgarians are heading to the polls on Sunday for the eighth time in five years, hoping to finally elect a parliament able to resolve the longtime political impasse that has gripped this Balkan country.",
+      "timestamp": "2026-04-19T12:53:02Z",
+      "source": "AP News"
+    },
     {
       "headline": "I\u2019ve fired one of America\u2019s most powerful lasers\u2014here\u2019s what a shot day looks\u00a0like",
       "link": "https://arstechnica.com/science/2026/04/ive-fired-one-of-americas-most-powerful-lasers-heres-what-a-shot-day-looks-like/",
@@ -30,6 +70,16 @@
       "first_sentence": "Vodafone incentivised its security staff to increase \u201cclawbacks\u201d levied on its own franchisees, as part of a programme that led to the telecoms group fining its own shopkeepers millions of pounds for seemingly small administrative errors.",
       "timestamp": "2026-04-19T10:00:39Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "'Working for Ariana Grande shows dreams can come true'",
+      "link": "https://www.bbc.com/news/articles/c17vwepdkvko?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5102,
+      "vader_score": 0.6705,
+      "textblob_score": 0.35,
+      "first_sentence": "A celebrity hairdresser has said \"dreams can come true no matter where you are from\" after working with the likes of the Pussycat Dolls, Ariana Grande and Love Island USA.",
+      "timestamp": "2026-04-19T09:16:59Z",
+      "source": "BBC News"
     },
     {
       "headline": "\u2018I became a New Order groupie\u2019: Tim Burgess\u2019s honest playlist",
@@ -2449,56 +2499,6 @@
       "textblob_score": 0.8,
       "first_sentence": "After a disastrous 1,500 metres final where she fell and finished last, Olympic silver medallist Jess Hull considered pulling the pin on the Australian Athletics Championships in Sydney.",
       "timestamp": "2026-04-12T10:28:22Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "This is how we do it: \u2018I love the idea of only knowing one person intimately for the rest of my life\u2019",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/apr/12/this-is-how-we-do-it-know-one-person-intimately-for-life",
-      "mean_score": 0.4351,
-      "vader_score": 0.6369,
-      "textblob_score": 0.2333,
-      "first_sentence": "Studying on different continents is a challenge for Veronika and Fabio \u2026 Can their young love go the distance?.",
-      "timestamp": "2026-04-12T10:00:14Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Wallaroos\u2019 hopes of breakthrough win washed away by Canada in stormy conditions",
-      "link": "https://www.theguardian.com/sport/2026/apr/12/canada-australia-wallaroos-womens-rugby-union-pacific-four-report",
-      "mean_score": 0.7825,
-      "vader_score": 0.765,
-      "textblob_score": 0.8,
-      "first_sentence": "The Wallaroos have fallen short in their quest for a breakthrough victory over Canada, but can take heart from a 24-0 defeat in their opening match of the Pacific Four rugby series.",
-      "timestamp": "2026-04-12T06:39:59Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Hopes more pine martens will be born in the wild",
-      "link": "https://www.bbc.com/news/articles/cn9q7vlwnxno?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3608,
-      "vader_score": 0.4215,
-      "textblob_score": 0.3,
-      "first_sentence": "Conservationists say pine martens are \"doing well\" after being being reintroduced to parts of south-west England.",
-      "timestamp": "2026-04-12T06:12:20Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Are some things better left unsaid, even if you're getting married?",
-      "link": "https://www.bbc.com/news/articles/c1mk3y2np55o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3452,
-      "vader_score": 0.4404,
-      "textblob_score": 0.25,
-      "first_sentence": "It's safe to say Zendaya and Robert Pattinson's new film The Drama has been starting a lot of conversations.",
-      "timestamp": "2026-04-12T05:35:19Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Hiker found 'safe and well' after spending 24 hours lost in Victoria's north-west",
-      "link": "https://www.abc.net.au/news/2026-04-12/police-search-for-hiker-murray-sunset-national-park/106555970",
-      "mean_score": 0.4509,
-      "vader_score": 0.4019,
-      "textblob_score": 0.5,
-      "first_sentence": "Andy, 25, went missing after separating from his group to do a solo hike in the Murray-Sunset National Park on Saturday morning.",
-      "timestamp": "2026-04-12T03:05:08Z",
       "source": "ABC News"
     }
   ]
