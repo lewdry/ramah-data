@@ -1,5 +1,45 @@
 [
   {
+    "headline": "WA firefighter encouraging more women to join front line",
+    "link": "https://www.abc.net.au/news/2026-04-12/volunteer-firefighters-boosting-female-recruitment-south-west-wa/106511486",
+    "mean_score": 0.6032,
+    "vader_score": 0.7063,
+    "textblob_score": 0.5,
+    "first_sentence": "Volunteer firefighter Kahlia Lloyd wants to hold an annual day encouraging women to try firefighting in Western Australia's south-west.",
+    "timestamp": "2026-04-12T01:00:22Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Hungarians decide whether to end 16 years of Orb\u00e1n rule and elect rival",
+    "link": "https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4,
+    "vader_score": 0.0,
+    "textblob_score": 0.8,
+    "first_sentence": "Hungarians go to the polls on Sunday in a vote that could bring down long-serving Prime Minister Viktor Orb\u00e1n and have significant repercussions for the rest of Europe, the US and Russia.",
+    "timestamp": "2026-04-11T23:25:42Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Excitement, tears and relief: How it felt to follow Nasa's historic mission to the Moon",
+    "link": "https://www.bbc.com/news/articles/clyrdkxvmmpo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3298,
+    "vader_score": 0.6597,
+    "textblob_score": 0.0,
+    "first_sentence": "For the last 10 days, four astronauts have been making history, travelling further into space than humans have been before as they voyaged to the Moon and back.",
+    "timestamp": "2026-04-11T23:17:07Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "McIlroy knows he has to be better to win Masters after big lead disappears",
+    "link": "https://www.abc.net.au/news/2026-04-12/masters-jason-day-rory-mcilroy-cameron-young-third-round/106555660",
+    "mean_score": 0.541,
+    "vader_score": 0.6486,
+    "textblob_score": 0.4333,
+    "first_sentence": "Rory McIlroy shares the lead with Cameron Young on 11-under-par after the third round of the Masters, with Australian Jason Day just three strokes back.",
+    "timestamp": "2026-04-11T22:47:08Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Nick Xenophon-founded SA Best party comes to an end",
     "link": "https://www.abc.net.au/news/2026-04-12/nick-xenophon-sa-best-party-comes-to-an-end/106539806",
     "mean_score": 0.8922,

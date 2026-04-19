@@ -1,6 +1,36 @@
 {
-  "last run": "2026-04-19T06:35:08Z",
+  "last run": "2026-04-19T09:17:05Z",
   "stories": [
+    {
+      "headline": "\u2018I became a New Order groupie\u2019: Tim Burgess\u2019s honest playlist",
+      "link": "https://www.theguardian.com/music/2026/apr/19/tim-burgess-honest-playlist-madonna-kate-bush-carole-king-jimmy-osmond",
+      "mean_score": 0.4394,
+      "vader_score": 0.5106,
+      "textblob_score": 0.3682,
+      "first_sentence": "The Charlatans frontman plays Kate Bush deep cuts in his car and loves a bit of Abba, but which scary industrial noiseniks soundtrack his sexy time?.",
+      "timestamp": "2026-04-19T08:00:36Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Schools deemed safe after WA's biggest lithium-ion battery fire",
+      "link": "https://www.abc.net.au/news/2026-04-19/schools-deemed-safe-after-wa-biggest-lithium-ion-battery-fire/106560438",
+      "mean_score": 0.314,
+      "vader_score": 0.128,
+      "textblob_score": 0.5,
+      "first_sentence": "The WA premier has assured parents they can safely send their children to schools in Perth's south-east following WA's biggest lithium-ion battery fire in Maddington last Sunday.",
+      "timestamp": "2026-04-19T07:51:39Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "'It would break my heart' - wind farm plans leave people divided",
+      "link": "https://www.bbc.com/news/articles/cx2663lxw00o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3062,
+      "vader_score": 0.6124,
+      "textblob_score": 0.0,
+      "first_sentence": "From a hillside above Abercarn in Caerphilly county, Grace Lloyd points across the moorland she can see from her home.",
+      "timestamp": "2026-04-19T06:44:50Z",
+      "source": "BBC News"
+    },
     {
       "headline": "10 of the best scenic stays in the Highlands and Islands of Scotland",
       "link": "https://www.theguardian.com/travel/2026/apr/19/best-places-stay-highlands-islands-scotland-hotels-inns-bothy",
@@ -10,6 +40,16 @@
       "first_sentence": "From a beachside bothy to a Highland bunkhouse and lochside inn, here are some of Scotland\u2019s bonniest boltholesWith its cheery, cherry-red tin roof, you can\u2019t miss the sturdy stone bothy on the Ben Damph estate.",
       "timestamp": "2026-04-19T06:00:34Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "Live: Demons cling on for epic win over Lions, Freo on top in Western Derby",
+      "link": "https://www.abc.net.au/news/2026-04-19/afl-sunday-round-six-live-blog-nm-rich-melb-bris-wce-freo/106580978",
+      "mean_score": 0.494,
+      "vader_score": 0.6808,
+      "textblob_score": 0.3073,
+      "first_sentence": "Melbourne clings on to record a thrilling two-point victory over Brisbane, after an epic tussle that featured ten lead changes.",
+      "timestamp": "2026-04-19T02:50:31Z",
+      "source": "ABC News"
     },
     {
       "headline": "Sincere dialogue needed to ease Cuba\u2019s \u2018grave humanitarian crisis\u2019, say Mexico, Spain and Brazil",
@@ -2459,46 +2499,6 @@
       "textblob_score": 0.8,
       "first_sentence": "The Matildas have cruised to a 5-0 win over Malawi to kick off their FIFA Series in Kenya.",
       "timestamp": "2026-04-12T01:01:45Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "WA firefighter encouraging more women to join front line",
-      "link": "https://www.abc.net.au/news/2026-04-12/volunteer-firefighters-boosting-female-recruitment-south-west-wa/106511486",
-      "mean_score": 0.6032,
-      "vader_score": 0.7063,
-      "textblob_score": 0.5,
-      "first_sentence": "Volunteer firefighter Kahlia Lloyd wants to hold an annual day encouraging women to try firefighting in Western Australia's south-west.",
-      "timestamp": "2026-04-12T01:00:22Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Hungarians decide whether to end 16 years of Orb\u00e1n rule and elect rival",
-      "link": "https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4,
-      "vader_score": 0.0,
-      "textblob_score": 0.8,
-      "first_sentence": "Hungarians go to the polls on Sunday in a vote that could bring down long-serving Prime Minister Viktor Orb\u00e1n and have significant repercussions for the rest of Europe, the US and Russia.",
-      "timestamp": "2026-04-11T23:25:42Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Excitement, tears and relief: How it felt to follow Nasa's historic mission to the Moon",
-      "link": "https://www.bbc.com/news/articles/clyrdkxvmmpo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3298,
-      "vader_score": 0.6597,
-      "textblob_score": 0.0,
-      "first_sentence": "For the last 10 days, four astronauts have been making history, travelling further into space than humans have been before as they voyaged to the Moon and back.",
-      "timestamp": "2026-04-11T23:17:07Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "McIlroy knows he has to be better to win Masters after big lead disappears",
-      "link": "https://www.abc.net.au/news/2026-04-12/masters-jason-day-rory-mcilroy-cameron-young-third-round/106555660",
-      "mean_score": 0.541,
-      "vader_score": 0.6486,
-      "textblob_score": 0.4333,
-      "first_sentence": "Rory McIlroy shares the lead with Cameron Young on 11-under-par after the third round of the Masters, with Australian Jason Day just three strokes back.",
-      "timestamp": "2026-04-11T22:47:08Z",
       "source": "ABC News"
     }
   ]
