@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Nick Xenophon-founded SA Best party comes to an end",
+    "link": "https://www.abc.net.au/news/2026-04-12/nick-xenophon-sa-best-party-comes-to-an-end/106539806",
+    "mean_score": 0.8922,
+    "vader_score": 0.7845,
+    "textblob_score": 1.0,
+    "first_sentence": "SA Best was formed by Nick Xenophon in 2017 ahead of the 2018 state election.",
+    "timestamp": "2026-04-11T21:23:13Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "'It's a special thing to be on Planet Earth': Artemis crew welcomed home in Houston",
+    "link": "https://www.bbc.com/news/videos/cd7jzj9rg1qo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.491,
+    "vader_score": 0.6249,
+    "textblob_score": 0.3571,
+    "first_sentence": "The four astronauts who flew in Nasa's Artemis II mission around the Moon have been welcomed back to Planet Earth at an event in Houston, Texas.",
+    "timestamp": "2026-04-11T21:23:07Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "The moment large bird of prey is rescued at caravan site",
     "link": "https://www.bbc.com/news/videos/c2085l67ev8o?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.3179,
