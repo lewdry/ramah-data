@@ -1,6 +1,26 @@
 {
-  "last run": "2026-04-19T15:14:31Z",
+  "last run": "2026-04-19T18:13:08Z",
   "stories": [
+    {
+      "headline": "Ministers urged to share Mandelson vetting files with intelligence committee",
+      "link": "https://www.theguardian.com/politics/2026/apr/19/ministers-urged-to-share-mandelson-vetting-files-with-intelligence-committee",
+      "mean_score": 0.3243,
+      "vader_score": 0.6486,
+      "textblob_score": 0.0,
+      "first_sentence": "Ministers are under growing pressure to share the documents from Peter Mandelson\u2019s vetting process with the parliamentary committee tasked with deciding if they should be made public.",
+      "timestamp": "2026-04-19T17:23:43Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Virgil van Dijk earns late Liverpool win in first derby at Everton\u2019s new home",
+      "link": "https://www.theguardian.com/football/2026/apr/19/everton-liverpool-premier-league-match-report",
+      "mean_score": 0.4037,
+      "vader_score": 0.5859,
+      "textblob_score": 0.2216,
+      "first_sentence": "A new \u00a3800m setting for the \u00adMerseyside derby contained an old and familiar script.",
+      "timestamp": "2026-04-19T15:24:06Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "\u2018Drinks and a burger\u2019 fuel Mark Allen\u2019s Crucible comeback win over Zhang",
       "link": "https://www.theguardian.com/sport/2026/apr/19/world-snooker-championship-mark-allen-john-higgins-mark-williams",
@@ -2480,26 +2500,6 @@
       "first_sentence": "The number of workers in Great Britain taking their bosses to employment tribunals over remote working fell last year for the first time since Covid hit, with a tightening labour market making some more reluctant to leave roles despite return-to-office mandates.",
       "timestamp": "2026-04-12T11:00:17Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Is AI the greatest art heist in history?",
-      "link": "https://www.theguardian.com/books/2026/apr/12/is-ai-the-greatest-art-heist-in-history",
-      "mean_score": 0.8185,
-      "vader_score": 0.6369,
-      "textblob_score": 1.0,
-      "first_sentence": "In 2026, its easy to see why generative AI is bad.",
-      "timestamp": "2026-04-12T11:00:17Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Hull closes national titles on her terms with 5k win after shock 1,500m fall",
-      "link": "https://www.abc.net.au/news/2026-04-12/jess-hull-5000m-win-after-1500m-shock-fall-athletics-champs/106556436",
-      "mean_score": 0.548,
-      "vader_score": 0.296,
-      "textblob_score": 0.8,
-      "first_sentence": "After a disastrous 1,500 metres final where she fell and finished last, Olympic silver medallist Jess Hull considered pulling the pin on the Australian Athletics Championships in Sydney.",
-      "timestamp": "2026-04-12T10:28:22Z",
-      "source": "ABC News"
     }
   ]
 }

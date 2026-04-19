@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Is AI the greatest art heist in history?",
+    "link": "https://www.theguardian.com/books/2026/apr/12/is-ai-the-greatest-art-heist-in-history",
+    "mean_score": 0.8185,
+    "vader_score": 0.6369,
+    "textblob_score": 1.0,
+    "first_sentence": "In 2026, its easy to see why generative AI is bad.",
+    "timestamp": "2026-04-12T11:00:17Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Hull closes national titles on her terms with 5k win after shock 1,500m fall",
+    "link": "https://www.abc.net.au/news/2026-04-12/jess-hull-5000m-win-after-1500m-shock-fall-athletics-champs/106556436",
+    "mean_score": 0.548,
+    "vader_score": 0.296,
+    "textblob_score": 0.8,
+    "first_sentence": "After a disastrous 1,500 metres final where she fell and finished last, Olympic silver medallist Jess Hull considered pulling the pin on the Australian Athletics Championships in Sydney.",
+    "timestamp": "2026-04-12T10:28:22Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "This is how we do it: \u2018I love the idea of only knowing one person intimately for the rest of my life\u2019",
     "link": "https://www.theguardian.com/lifeandstyle/2026/apr/12/this-is-how-we-do-it-know-one-person-intimately-for-life",
     "mean_score": 0.4351,
