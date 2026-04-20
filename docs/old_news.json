@@ -1,5 +1,25 @@
 [
   {
+    "headline": "European leaders celebrate P\u00e9ter Magyar\u2019s victory in a stunning Hungarian election",
+    "link": "https://apnews.com/article/magyar-eu-brussels-orban-election-ukraine-ea81cfcc269eea44b6645e35a87bf3c2",
+    "mean_score": 0.4965,
+    "vader_score": 0.743,
+    "textblob_score": 0.25,
+    "first_sentence": "Hungarian voters have ousted long-serving Prime Minister Viktor Orb\u00e1n after 16 years in power, rejecting the authoritarian policies and global far-right movement that he embodied in favor of a pro-European challenger in a bombshell election result with global repercussions.",
+    "timestamp": "2026-04-13T07:23:02Z",
+    "source": "AP News"
+  },
+  {
+    "headline": "Can you solve it? Are you smarter than a Navy admiral?",
+    "link": "https://www.theguardian.com/science/2026/apr/13/can-you-solve-it-are-you-smarter-than-a-navy-admiral",
+    "mean_score": 0.3775,
+    "vader_score": 0.755,
+    "textblob_score": 0.0,
+    "first_sentence": "Tanya has now written her first book, Mathematical Puzzles and Curiosities, in collaboration with two other puzzle enthusiasts, Ivo David and Yogev Shpilman.",
+    "timestamp": "2026-04-13T06:10:13Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "My search for the perfect bodega in Madrid",
     "link": "https://www.theguardian.com/travel/2026/apr/13/search-for-perfect-bodega-bar-in-madrid",
     "mean_score": 0.7859,
