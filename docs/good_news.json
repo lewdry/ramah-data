@@ -1,6 +1,16 @@
 {
-  "last run": "2026-04-20T00:26:45Z",
+  "last run": "2026-04-20T04:06:47Z",
   "stories": [
+    {
+      "headline": "Gold Coast man remembered for 'huge heart' as Qld road toll climbs to 95",
+      "link": "https://www.abc.net.au/news/2026-04-20/qld-easter-road-deaths/106574534",
+      "mean_score": 0.579,
+      "vader_score": 0.7579,
+      "textblob_score": 0.4,
+      "first_sentence": "Leroy Cane's family has remembered him as an adventurous, fearless, 23-year-old with a huge heart after he died in a motorbike accident this month.",
+      "timestamp": "2026-04-20T01:21:39Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Bulgaria\u2019s former president claims \u2018victory\u2019 after projections show him winning parliamentary elections",
       "link": "https://www.theguardian.com/world/2026/apr/19/bulgaria-election-rumen-radev-boyko-borissov",
@@ -2490,16 +2500,6 @@
       "first_sentence": "A new recycling initiative in Melbourne is turning used tennis balls into footwear.",
       "timestamp": "2026-04-12T18:30:00Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "'It's a special thing to be on Planet Earth': Nasa's Artemis crew welcomed home",
-      "link": "https://www.bbc.com/news/videos/c1mkj5xp85xo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.491,
-      "vader_score": 0.6249,
-      "textblob_score": 0.3571,
-      "first_sentence": "The four astronauts who flew in Nasa's Artemis II mission around the moon have been welcomed home.",
-      "timestamp": "2026-04-12T17:50:20Z",
-      "source": "BBC News"
     }
   ]
 }
