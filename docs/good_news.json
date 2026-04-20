@@ -1,6 +1,26 @@
 {
-  "last run": "2026-04-19T21:11:00Z",
+  "last run": "2026-04-20T00:26:45Z",
   "stories": [
+    {
+      "headline": "Bulgaria\u2019s former president claims \u2018victory\u2019 after projections show him winning parliamentary elections",
+      "link": "https://www.theguardian.com/world/2026/apr/19/bulgaria-election-rumen-radev-boyko-borissov",
+      "mean_score": 0.3883,
+      "vader_score": 0.5267,
+      "textblob_score": 0.25,
+      "first_sentence": "Bulgarian ex-president Rumen Radev \u2013 an EU critic who has called for renewing ties with Russia \u2013 on Sunday hailed a \u201cvictory of hope\u201d after his formation topped the eighth parliamentary elections in five years.",
+      "timestamp": "2026-04-19T23:49:42Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Rumen Radev looks set to win Bulgarian Parliamentary election",
+      "link": "https://www.bbc.com/news/articles/cm2kgm1zpgro?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.6929,
+      "vader_score": 0.5859,
+      "textblob_score": 0.8,
+      "first_sentence": "Rumen Radev's Progressive Bulgaria party looks set to win Sunday's Bulgarian Parliamentary election - the eighth general election in five years.",
+      "timestamp": "2026-04-19T22:06:39Z",
+      "source": "BBC News"
+    },
     {
       "headline": "European football: Bayern Munich win 35th league title by surging past Stuttgart",
       "link": "https://www.theguardian.com/football/2026/apr/19/european-football-bayern-munich-win-35th-league-title-by-surging-past-stuttgart",
@@ -2480,26 +2500,6 @@
       "first_sentence": "The four astronauts who flew in Nasa's Artemis II mission around the moon have been welcomed home.",
       "timestamp": "2026-04-12T17:50:20Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Artemis II crew speak out at welcome home event: \u2018Earth was this lifeboat hanging in the universe\u2019",
-      "link": "https://www.theguardian.com/science/2026/apr/12/artemis-ii-crew-speak-out",
-      "mean_score": 0.6294,
-      "vader_score": 0.4588,
-      "textblob_score": 0.8,
-      "first_sentence": "Still marveling over their moon mission, the Artemis II astronauts received a thunderous welcome home on Saturday from the hundreds of colleagues who took part in setting a record for deep space travel during the US space agency Nasa\u2019s lunar comeback.",
-      "timestamp": "2026-04-12T15:54:22Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Socialising, work, exercise: what makes a good day and is there a \u2018formula\u2019 for making it better?",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/apr/13/socialising-work-exercise-what-makes-a-good-day-and-is-there-a-formula-for-making-it-better",
-      "mean_score": 0.6502,
-      "vader_score": 0.7003,
-      "textblob_score": 0.6,
-      "first_sentence": "What edges a day over the threshold from being humdrum to something better? Something good?.",
-      "timestamp": "2026-04-12T15:00:21Z",
-      "source": "The Guardian"
     }
   ]
 }
