@@ -1,6 +1,66 @@
 {
-  "last run": "2026-04-20T04:06:47Z",
+  "last run": "2026-04-20T06:44:49Z",
   "stories": [
+    {
+      "headline": "Breaking: Fair Work Commission makes 'historic' fuel order for truck drivers",
+      "link": "https://www.abc.net.au/news/2026-04-20/fair-work-commission-order-on-subcontractors-deal-/106584968",
+      "mean_score": 0.3341,
+      "vader_score": 0.3182,
+      "textblob_score": 0.35,
+      "first_sentence": "Companies like Coles, Woolworths and Amazon have been ordered to hold twice-monthly reviews of fuel prices with their outsourced truck drivers and transport companies, in a Fair Work Commission order being described as \"historic\".",
+      "timestamp": "2026-04-20T06:32:12Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Reform pledges to review all asylum claims since 2021 if it wins power",
+      "link": "https://www.bbc.com/news/articles/c0rxd5wpyqwo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4359,
+      "vader_score": 0.5719,
+      "textblob_score": 0.3,
+      "first_sentence": "Reform UK has pledged an immediate review of all asylum claims from the last five years should the party win the next general election.",
+      "timestamp": "2026-04-20T06:25:41Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Sonos Play review: a great jack-of-all-trades portable speaker for home or away",
+      "link": "https://www.theguardian.com/technology/2026/apr/20/sonos-play-review-portable-speaker",
+      "mean_score": 0.779,
+      "vader_score": 0.7579,
+      "textblob_score": 0.8,
+      "first_sentence": "The Guardian\u2019s journalism is independent.",
+      "timestamp": "2026-04-20T06:00:04Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Mint review \u2013 the most outrageously beautiful TV show since Twin Peaks",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/apr/19/mint-review-the-most-outrageously-beautiful-tv-show-since-twin-peaks",
+      "mean_score": 0.537,
+      "vader_score": 0.399,
+      "textblob_score": 0.675,
+      "first_sentence": "Shannon is 22.",
+      "timestamp": "2026-04-20T05:00:03Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "How free is netball's new TV deal?",
+      "link": "https://www.abc.net.au/news/2026-04-20/2026-super-netball-round-up-round6/106583424",
+      "mean_score": 0.3894,
+      "vader_score": 0.5106,
+      "textblob_score": 0.2682,
+      "first_sentence": "Although both the Adelaide Thunderbirds and Melbourne Vixens have remained undefeated and tied for points at the top of the ladder to start the season, the Thunderbirds have been in front that entire time thanks to a better goal percentage.",
+      "timestamp": "2026-04-20T04:27:49Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "'Boy are we glad to see you': Diver describes rescue after 20 hours lost at sea",
+      "link": "https://www.abc.net.au/news/2026-04-20/qld-divers-lost-at-sea-rescued-stradbroke-island/106582686",
+      "mean_score": 0.5562,
+      "vader_score": 0.6124,
+      "textblob_score": 0.5,
+      "first_sentence": "Stu Fillman and his dive instructor were swept away from their dive boat off the coast of Stradbroke Island on Saturday.",
+      "timestamp": "2026-04-20T03:21:25Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Gold Coast man remembered for 'huge heart' as Qld road toll climbs to 95",
       "link": "https://www.abc.net.au/news/2026-04-20/qld-easter-road-deaths/106574534",
@@ -2440,66 +2500,6 @@
       "first_sentence": "A felt\u2011tip sign taped to the door of a private room announces \"GIRLS ONLY\", \"Boy's don't Eneter!\" [sic], and, by way of a cheeky flourish, \"don't worry boys!\".",
       "timestamp": "2026-04-12T23:06:03Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "An Aussie rugby win at home is one thing but victory in NZ is another",
-      "link": "https://www.abc.net.au/news/2026-04-13/super-rugby-pacific-round-nine-australia-new-zealand/106556520",
-      "mean_score": 0.57,
-      "vader_score": 0.34,
-      "textblob_score": 0.8,
-      "first_sentence": "The Reds' 31-26 win over the Crusaders was not pretty, but substance is more important than style when you beat the defending Super Rugby Pacific champions.",
-      "timestamp": "2026-04-12T20:09:26Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Hungary's Orb\u00e1n era ends in a landslide election win for opposition",
-      "link": "https://www.abc.net.au/news/2026-04-13/viktor-orban-hungary-election-peter-magyar/106557060",
-      "mean_score": 0.6929,
-      "vader_score": 0.5859,
-      "textblob_score": 0.8,
-      "first_sentence": "Centre-right Tisza Party leader P\u00e9ter Magyar is on course to become Hungary's new prime minister with a two-thirds majority.",
-      "timestamp": "2026-04-12T19:38:22Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Loved, but costly \u2014 is the end near for this heritage railway?",
-      "link": "https://www.abc.net.au/news/2026-04-13/west-coast-wilderness-railway-government-tourism-talks/106552894",
-      "mean_score": 0.3072,
-      "vader_score": 0.2144,
-      "textblob_score": 0.4,
-      "first_sentence": "The Tasmanian government is hosting meetings about the future of the West Coast Wilderness Railway, which is a significant employer and economic driver for Queenstown and Strahan.",
-      "timestamp": "2026-04-12T19:20:13Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Wout van Aert outduels Tadej Pogacar to win his first Paris-Roubaix title",
-      "link": "https://www.theguardian.com/sport/2026/apr/12/wout-van-aert-tadej-pogacar-mathieu-van-der-poel-paris-roubaix-cycling",
-      "mean_score": 0.5554,
-      "vader_score": 0.5859,
-      "textblob_score": 0.525,
-      "first_sentence": "Wout van Aert shattered a decade-old jinx to win Paris-Roubaix on Sunday, outduelling the world champion, Tadej Pogacar, in a brutal classic race across the cobbles, while Franziska Koch edged out Marianne Vos in the women\u2019s race.",
-      "timestamp": "2026-04-12T18:52:29Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Australia's best inventor you've never heard of",
-      "link": "https://www.abc.net.au/news/2026-04-13/martin-green-role-in-solar-power-unstoppable-rise/106499018",
-      "mean_score": 0.8185,
-      "vader_score": 0.6369,
-      "textblob_score": 1.0,
-      "first_sentence": "The rise of solar power shows no sign of slowing down, with the International Energy Agency predicting it will overtake coal as the world's biggest source of electricity next year.",
-      "timestamp": "2026-04-12T18:46:38Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "How recycling can help solve a 'huge issue' in tennis",
-      "link": "https://www.abc.net.au/news/2026-04-13/used-tennis-balls-recycled-shoe-soles/106544162",
-      "mean_score": 0.5502,
-      "vader_score": 0.7003,
-      "textblob_score": 0.4,
-      "first_sentence": "A new recycling initiative in Melbourne is turning used tennis balls into footwear.",
-      "timestamp": "2026-04-12T18:30:00Z",
-      "source": "ABC News"
     }
   ]
 }

@@ -1,5 +1,65 @@
 [
   {
+    "headline": "An Aussie rugby win at home is one thing but victory in NZ is another",
+    "link": "https://www.abc.net.au/news/2026-04-13/super-rugby-pacific-round-nine-australia-new-zealand/106556520",
+    "mean_score": 0.57,
+    "vader_score": 0.34,
+    "textblob_score": 0.8,
+    "first_sentence": "The Reds' 31-26 win over the Crusaders was not pretty, but substance is more important than style when you beat the defending Super Rugby Pacific champions.",
+    "timestamp": "2026-04-12T20:09:26Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Hungary's Orb\u00e1n era ends in a landslide election win for opposition",
+    "link": "https://www.abc.net.au/news/2026-04-13/viktor-orban-hungary-election-peter-magyar/106557060",
+    "mean_score": 0.6929,
+    "vader_score": 0.5859,
+    "textblob_score": 0.8,
+    "first_sentence": "Centre-right Tisza Party leader P\u00e9ter Magyar is on course to become Hungary's new prime minister with a two-thirds majority.",
+    "timestamp": "2026-04-12T19:38:22Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Loved, but costly \u2014 is the end near for this heritage railway?",
+    "link": "https://www.abc.net.au/news/2026-04-13/west-coast-wilderness-railway-government-tourism-talks/106552894",
+    "mean_score": 0.3072,
+    "vader_score": 0.2144,
+    "textblob_score": 0.4,
+    "first_sentence": "The Tasmanian government is hosting meetings about the future of the West Coast Wilderness Railway, which is a significant employer and economic driver for Queenstown and Strahan.",
+    "timestamp": "2026-04-12T19:20:13Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Wout van Aert outduels Tadej Pogacar to win his first Paris-Roubaix title",
+    "link": "https://www.theguardian.com/sport/2026/apr/12/wout-van-aert-tadej-pogacar-mathieu-van-der-poel-paris-roubaix-cycling",
+    "mean_score": 0.5554,
+    "vader_score": 0.5859,
+    "textblob_score": 0.525,
+    "first_sentence": "Wout van Aert shattered a decade-old jinx to win Paris-Roubaix on Sunday, outduelling the world champion, Tadej Pogacar, in a brutal classic race across the cobbles, while Franziska Koch edged out Marianne Vos in the women\u2019s race.",
+    "timestamp": "2026-04-12T18:52:29Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Australia's best inventor you've never heard of",
+    "link": "https://www.abc.net.au/news/2026-04-13/martin-green-role-in-solar-power-unstoppable-rise/106499018",
+    "mean_score": 0.8185,
+    "vader_score": 0.6369,
+    "textblob_score": 1.0,
+    "first_sentence": "The rise of solar power shows no sign of slowing down, with the International Energy Agency predicting it will overtake coal as the world's biggest source of electricity next year.",
+    "timestamp": "2026-04-12T18:46:38Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "How recycling can help solve a 'huge issue' in tennis",
+    "link": "https://www.abc.net.au/news/2026-04-13/used-tennis-balls-recycled-shoe-soles/106544162",
+    "mean_score": 0.5502,
+    "vader_score": 0.7003,
+    "textblob_score": 0.4,
+    "first_sentence": "A new recycling initiative in Melbourne is turning used tennis balls into footwear.",
+    "timestamp": "2026-04-12T18:30:00Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "'It's a special thing to be on Planet Earth': Nasa's Artemis crew welcomed home",
     "link": "https://www.bbc.com/news/videos/c1mkj5xp85xo?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.491,
