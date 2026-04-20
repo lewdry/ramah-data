@@ -1,6 +1,36 @@
 {
-  "last run": "2026-04-20T09:36:18Z",
+  "last run": "2026-04-20T12:24:52Z",
   "stories": [
+    {
+      "headline": "Georgina Hayden\u2019s quick and easy recipe for smoky prawn, new potato and spinach stew | Quick and easy",
+      "link": "https://www.theguardian.com/food/2026/apr/20/quick-easy-smoky-prawn-new-potato-spinach-stew-recipe-georgina-hayden",
+      "mean_score": 0.5171,
+      "vader_score": 0.7003,
+      "textblob_score": 0.3339,
+      "first_sentence": "This Spanish-inspired stew is a great weeknight dinner, particularly if you are having a few friends over, because it feels a bit special while actually being effortless and easy.",
+      "timestamp": "2026-04-20T12:00:55Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "From Manifesto to Mr Loverman: Bernardine Evaristo\u2019s best books \u2013 ranked!",
+      "link": "https://www.theguardian.com/books/2026/apr/20/bernardine-evaristos-books-ranked",
+      "mean_score": 0.8348,
+      "vader_score": 0.6696,
+      "textblob_score": 1.0,
+      "first_sentence": "Even by Evaristo\u2019s experimental standards, this book is a highly ambitious mash-up of forms and stories.",
+      "timestamp": "2026-04-20T11:00:54Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "A mine despoiled the beauty of the rainforest. This Goldman Prize winner took action",
+      "link": "https://www.npr.org/2026/04/20/g-s1-117830/goldman-environmental-prize-papua-new-guinea-mining",
+      "mean_score": 0.499,
+      "vader_score": 0.8979,
+      "textblob_score": 0.1,
+      "first_sentence": "Theonila Roka Matbob was born in what should have been a lush rainforest.",
+      "timestamp": "2026-04-20T10:58:26Z",
+      "source": "NPR News"
+    },
     {
       "headline": "The emotional security secret: how to get healthier, happier and have stronger relationships",
       "link": "https://www.theguardian.com/lifeandstyle/2026/apr/20/the-emotional-security-secret-how-to-get-healthier-happier-and-have-stronger-relationships",
@@ -2470,36 +2500,6 @@
       "first_sentence": "A raffle in France is offering the chance to win a portrait by Pablo Picasso for the price of a \u20ac100 (\u00a387) ticket, with proceeds going to Alzheimer\u2019s research.",
       "timestamp": "2026-04-13T04:00:36Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Sit, stay, slay: Anton the poodle named best in show at Sydney\u2019s Royal Easter Show",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/apr/13/best-in-show-dogs-anton-poodle-sydney-royal-easter-show-2026",
-      "mean_score": 0.8185,
-      "vader_score": 0.6369,
-      "textblob_score": 1.0,
-      "first_sentence": "Anton knew he\u2019d won, jumping up and down as though he\u2019d crossed a finish line first, celebrating as though someone had left a gate open.",
-      "timestamp": "2026-04-13T03:12:13Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018Hungary has chosen Europe\u2019: EU leaders jubilant after P\u00e9ter Magyar\u2019s victory over Orb\u00e1n",
-      "link": "https://www.theguardian.com/world/2026/apr/13/hungary-election-results-eu-europe-leaders-react-peter-magyar-viktor-orban",
-      "mean_score": 0.3062,
-      "vader_score": 0.6124,
-      "textblob_score": 0.0,
-      "first_sentence": "EU leaders heaped praise on P\u00e9ter Magyar after his decisive election victory in Hungary against the long-serving prime minister Viktor Orb\u00e1n, who many saw as a direct threat to Europe\u2019s peace and prosperity.",
-      "timestamp": "2026-04-13T03:00:34Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Loved ones fight for change after melanoma takes another young life",
-      "link": "https://www.abc.net.au/news/2026-04-13/melanoma-cancer-march-young-woman-29/106556374",
-      "mean_score": 0.3591,
-      "vader_score": 0.3182,
-      "textblob_score": 0.4,
-      "first_sentence": "Emily Robertson-Miller, 29, died from melanoma, after the skin cancer metastasised and spread to her brain.",
-      "timestamp": "2026-04-13T02:43:03Z",
-      "source": "ABC News"
     }
   ]
 }
