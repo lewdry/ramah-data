@@ -1,6 +1,66 @@
 {
-  "last run": "2026-04-20T12:24:52Z",
+  "last run": "2026-04-20T15:30:24Z",
   "stories": [
+    {
+      "headline": "'Huge relief' as students given loans in error get repayment reprieve",
+      "link": "https://www.bbc.com/news/articles/c0e7jjwzn7eo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.401,
+      "vader_score": 0.4019,
+      "textblob_score": 0.4,
+      "first_sentence": "Around 22,000 university students who were told they would have to urgently repay maintenance loans and childcare grants that were given to them in error have been given a reprieve.",
+      "timestamp": "2026-04-20T15:16:13Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "The Clean \u2013 10 of the best",
+      "link": "https://www.theguardian.com/music/2026/apr/20/clean-rock-band-new-zealand-10-best-songs",
+      "mean_score": 0.7339,
+      "vader_score": 0.7845,
+      "textblob_score": 0.6833,
+      "first_sentence": "Formed in Dunedin, New Zealand in 1978 by brothers Hamish and David Kilgour and Peter Gutteridge, the Clean pioneered a lo-fi DIY spirit steeped in the sound of west coast psychedelia, Velvet Underground and post-punk.",
+      "timestamp": "2026-04-20T15:01:00Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Long waits make for sicker patients. Sicker patients need more time in hospital. Our health system needs urgent care | Ranjana Srivastava",
+      "link": "https://www.theguardian.com/commentisfree/2026/apr/21/hospitals-doctors-waiting-times-patients-health",
+      "mean_score": 0.4187,
+      "vader_score": 0.6124,
+      "textblob_score": 0.225,
+      "first_sentence": "Visiting the magnificent Angkor Wat temple in Cambodia, my elderly dad resolutely navigated the steep stairs as I held my breath.",
+      "timestamp": "2026-04-20T15:00:59Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Marcel Hug wins 9th Boston Marathon wheelchair title, Eden Rainbow-Cooper is women\u2019s champ",
+      "link": "https://apnews.com/article/boston-marathon-5a1c7ad49573bf15475f3544490f79a9",
+      "mean_score": 0.586,
+      "vader_score": 0.872,
+      "textblob_score": 0.3,
+      "first_sentence": "BOSTON (AP) \u2014 Marcel Hug of Switzerland won his ninth Boston Marathon wheelchair title on Monday, riding a tailwind to finish in an unofficial time of 1 hour, 16 minutes, 6 seconds.",
+      "timestamp": "2026-04-20T14:53:03Z",
+      "source": "AP News"
+    },
+    {
+      "headline": "Nigerian wins global prize for trying to save bats in a country that shuns them",
+      "link": "https://www.bbc.com/news/articles/c0krm128mgyo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5153,
+      "vader_score": 0.8807,
+      "textblob_score": 0.15,
+      "first_sentence": "A Nigerian scientist's \"personal experience\" with a wildfire, its threat to endangered bats she discovered just days before, and her campaign to protect them, has won her the global Goldman Environmental Prize.",
+      "timestamp": "2026-04-20T13:10:38Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Carney says Canada\u2019s strong economic ties to US are \u2018weakness\u2019 to be corrected",
+      "link": "https://www.theguardian.com/world/2026/apr/20/mark-carney-canada-us-economy-trade",
+      "mean_score": 0.4136,
+      "vader_score": 0.5106,
+      "textblob_score": 0.3167,
+      "first_sentence": "In a 10-minute video address, Mark Carney spoke about his government\u2019s efforts to strengthen the Canadian economy by attracting new investments and signing trade deals with other countries.",
+      "timestamp": "2026-04-20T12:35:39Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Georgina Hayden\u2019s quick and easy recipe for smoky prawn, new potato and spinach stew | Quick and easy",
       "link": "https://www.theguardian.com/food/2026/apr/20/quick-easy-smoky-prawn-new-potato-spinach-stew-recipe-georgina-hayden",
@@ -2439,66 +2499,6 @@
       "textblob_score": 0.0,
       "first_sentence": "Tanya has now written her first book, Mathematical Puzzles and Curiosities, in collaboration with two other puzzle enthusiasts, Ivo David and Yogev Shpilman.",
       "timestamp": "2026-04-13T06:10:13Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "My search for the perfect bodega in Madrid",
-      "link": "https://www.theguardian.com/travel/2026/apr/13/search-for-perfect-bodega-bar-in-madrid",
-      "mean_score": 0.7859,
-      "vader_score": 0.5719,
-      "textblob_score": 1.0,
-      "first_sentence": "The first hurdle to overcome when searching for the Spanish capital\u2019s top bodegas is the correct interpretation of the word \u201cbodega\u201d.",
-      "timestamp": "2026-04-13T06:00:38Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Rory McIlroy wins the Masters for second year in a row",
-      "link": "https://www.npr.org/2026/04/13/g-s1-117215/rory-mcilroy-wins-the-masters",
-      "mean_score": 0.3609,
-      "vader_score": 0.5719,
-      "textblob_score": 0.15,
-      "first_sentence": "AUGUSTA, Ga.",
-      "timestamp": "2026-04-13T05:44:11Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "'School breakfast club has best toast in the world'",
-      "link": "https://www.bbc.com/news/articles/cly02z2pe35o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.8185,
-      "vader_score": 0.6369,
-      "textblob_score": 1.0,
-      "first_sentence": "A primary school says attendance has improved and pupils are \"more settled\" since a free breakfast club was set up.",
-      "timestamp": "2026-04-13T05:10:54Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "'I should have been safe on a pavement' - woman's injuries show reality of being hit by an e-bike",
-      "link": "https://www.bbc.com/news/articles/c4glry7k2z9o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.5,
-      "first_sentence": "Sandy Peters doesn't remember anything at all about the crash itself.",
-      "timestamp": "2026-04-13T04:58:30Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Borlase leads host of Opals stars to sign new WNBA free agency deals",
-      "link": "https://www.abc.net.au/news/2026-04-13/basketball-borlase-magbegor-opals-stars-sign-new-wnba-deals/106558812",
-      "mean_score": 0.3894,
-      "vader_score": 0.5106,
-      "textblob_score": 0.2682,
-      "first_sentence": "WNBL MVP Izzy Borlase has signed a new deal with the Atlanta Dream in the WNBA free agency period.",
-      "timestamp": "2026-04-13T04:19:31Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "\u20ac1m Picasso painting to be won for \u20ac100 in charity raffle",
-      "link": "https://www.theguardian.com/artanddesign/2026/apr/13/picasso-tete-de-femme-charity-raffle",
-      "mean_score": 0.379,
-      "vader_score": 0.7579,
-      "textblob_score": 0.0,
-      "first_sentence": "A raffle in France is offering the chance to win a portrait by Pablo Picasso for the price of a \u20ac100 (\u00a387) ticket, with proceeds going to Alzheimer\u2019s research.",
-      "timestamp": "2026-04-13T04:00:36Z",
       "source": "The Guardian"
     }
   ]
