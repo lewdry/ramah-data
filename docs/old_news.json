@@ -1,5 +1,85 @@
 [
   {
+    "headline": "Bollywood classics, rave bangers and Michael Stipe duets: 10 of Asha Bhosle\u2019s greatest recordings",
+    "link": "https://www.theguardian.com/music/2026/apr/13/asha-bhosle-greatest-recordings-bollywood-rave-bangers-michael-stipe",
+    "mean_score": 0.8185,
+    "vader_score": 0.6369,
+    "textblob_score": 1.0,
+    "first_sentence": "With more than 12,000 songs to her name, Indian playback singer Asha Bhosle is one of the most recorded and well-known voices in Bollywood cinema.",
+    "timestamp": "2026-04-13T13:12:06Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Rukmini Iyer\u2019s quick and easy recipe for chilli eggs with miso beans and spinach | Quick and easy",
+    "link": "https://www.theguardian.com/food/2026/apr/13/quick-easy-chilli-eggs-recipe-miso-beans-spinach-rukmini-iyer",
+    "mean_score": 0.5418,
+    "vader_score": 0.7003,
+    "textblob_score": 0.3833,
+    "first_sentence": "My go-to cheat ingredient for a dash of heat is White Mausu\u2019s peanut r\u0101yu \u2013 it has a gentler flavour profile than, say, Lao Gan Ma crispy chilli in oil, and works perfectly in this dish of creamy, lemon-spiked beans and eggs.",
+    "timestamp": "2026-04-13T12:00:39Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Celebrations in McIlroy's home town at history-maker's back-to-back Masters wins",
+    "link": "https://www.bbc.com/news/articles/cp3l2nnlz0lo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4359,
+    "vader_score": 0.5719,
+    "textblob_score": 0.3,
+    "first_sentence": "Rory McIlroy knows how to put his fans through the ringer - and Sunday at Augusta National was no different.",
+    "timestamp": "2026-04-13T11:22:28Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Social media was once a great global conversation. Now it\u2019s just individuals locked into their own private worlds | Tom Whyman",
+    "link": "https://www.theguardian.com/commentisfree/2026/apr/13/social-media-uk-adults-posting-less-twitter-x",
+    "mean_score": 0.4558,
+    "vader_score": 0.6249,
+    "textblob_score": 0.2867,
+    "first_sentence": "I used to post an awful lot on Twitter.",
+    "timestamp": "2026-04-13T11:13:22Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Can red light therapy really deliver a beauty and health glow up? Here's the science",
+    "link": "https://www.npr.org/2026/04/13/nx-s1-5759287/red-light-therapy-science-skin-hair",
+    "mean_score": 0.4102,
+    "vader_score": 0.6204,
+    "textblob_score": 0.2,
+    "first_sentence": "Red light therapy has become the latest ray of hope in the wellness industry.",
+    "timestamp": "2026-04-13T09:00:00Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "New report suggests Democrats have better odds in some upcoming Senate races",
+    "link": "https://www.npr.org/2026/04/13/nx-s1-5782594/new-report-suggests-democrats-have-better-odds-in-some-upcoming-senate-races",
+    "mean_score": 0.3793,
+    "vader_score": 0.4404,
+    "textblob_score": 0.3182,
+    "first_sentence": "NPR's A Martinez asks Jessica Taylor of the Cook Political Report about a new report on the midterm outlook for U.S.",
+    "timestamp": "2026-04-13T08:44:48Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "Weather tracker: Super Typhoon Sinlaku threatens Mariana Islands",
+    "link": "https://www.theguardian.com/environment/2026/apr/13/weather-tracker-super-typhoon-sinlaku-threatens-mariana-islands",
+    "mean_score": 0.3258,
+    "vader_score": 0.3182,
+    "textblob_score": 0.3333,
+    "first_sentence": "The Mariana Islands archipelago in the western Pacific, home to the US territories of Guam and the Northern Mariana Islands, are bracing for extreme weather early this week as Super Typhoon Sinlaku approaches.",
+    "timestamp": "2026-04-13T08:44:14Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "\u2018So beautiful\u2019: Rachel Zegler hails accessibility of Evita\u2019s free balcony scene",
+    "link": "https://www.theguardian.com/stage/2026/apr/13/rachel-zegler-evita-free-balcony-scene-olivier-award",
+    "mean_score": 0.5678,
+    "vader_score": 0.5106,
+    "textblob_score": 0.625,
+    "first_sentence": "It was the most talked about theatre scene of the year: Rachel Zegler performing Don\u2019t Cry for Me Argentina from the balcony at the London Palladium to crowds gathered on the street below.",
+    "timestamp": "2026-04-13T08:35:37Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "European leaders celebrate P\u00e9ter Magyar\u2019s victory in a stunning Hungarian election",
     "link": "https://apnews.com/article/magyar-eu-brussels-orban-election-ukraine-ea81cfcc269eea44b6645e35a87bf3c2",
     "mean_score": 0.4965,
