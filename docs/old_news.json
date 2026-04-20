@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Day rues missed opportunities after golden chance at the Masters",
+    "link": "https://www.abc.net.au/news/2026-04-13/the-masters-golf-jason-day-rues-missed-opportunities/106557874",
+    "mean_score": 0.32,
+    "vader_score": 0.34,
+    "textblob_score": 0.3,
+    "first_sentence": "Australia's Jason Day finished tied for 12th at The Masters after being fifth heading into the final round.",
+    "timestamp": "2026-04-13T01:05:36Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "'A truly historic moment': Hungarian opposition wins election landslide",
+    "link": "https://www.bbc.com/news/videos/c2lwrjwg29lo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4575,
+    "vader_score": 0.765,
+    "textblob_score": 0.15,
+    "first_sentence": "Prime Minister Viktor Orb\u00e1n has conceded defeat in the Hungarian election after 16 years in power, with the opposition securing a landslide election win.",
+    "timestamp": "2026-04-13T00:52:46Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Children and 75yo among dozens of homeless in wealthy holiday town",
+    "link": "https://www.abc.net.au/news/2026-04-13/survey-reveals-spread-homelessness-margaret-river/106544018",
+    "mean_score": 0.5685,
+    "vader_score": 0.6369,
+    "textblob_score": 0.5,
+    "first_sentence": "More that 40 people have been found to be homeless in Margaret River, including a 75-year-old.",
+    "timestamp": "2026-04-13T00:03:00Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "The surprising reality of how teenage girls still define themselves",
+    "link": "https://www.bbc.com/news/articles/c62je1g000eo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3116,
+    "vader_score": 0.2732,
+    "textblob_score": 0.35,
+    "first_sentence": "A felt\u2011tip sign taped to the door of a private room announces \"GIRLS ONLY\", \"Boy's don't Eneter!\" [sic], and, by way of a cheeky flourish, \"don't worry boys!\".",
+    "timestamp": "2026-04-12T23:06:03Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "An Aussie rugby win at home is one thing but victory in NZ is another",
     "link": "https://www.abc.net.au/news/2026-04-13/super-rugby-pacific-round-nine-australia-new-zealand/106556520",
     "mean_score": 0.57,
