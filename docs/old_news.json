@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Did you solve it? Are you smarter than a Navy admiral?",
+    "link": "https://www.theguardian.com/science/2026/apr/13/did-you-solve-it-are-you-as-smarter-than-a-navy-admiral",
+    "mean_score": 0.3775,
+    "vader_score": 0.755,
+    "textblob_score": 0.0,
+    "first_sentence": "Earlier today I asked you these three puzzles.",
+    "timestamp": "2026-04-13T16:01:26Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Should we be using cotton buds to clean our ears?",
+    "link": "https://www.bbc.com/news/videos/cgk02p2rgggo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3843,
+    "vader_score": 0.4019,
+    "textblob_score": 0.3667,
+    "first_sentence": "Greg Foot asks whether we should be using cotton buds to clean our ears.",
+    "timestamp": "2026-04-13T15:33:39Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Hungarian election winner Magyar vows to rebuild EU relationship after stunning defeat of Viktor Orb\u00e1n - Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/apr/13/hungary-peter-magyar-viktor-orban-trump-russia-ukraine-iran-eu-europe-latest-news-updates",
+    "mean_score": 0.4224,
+    "vader_score": 0.5267,
+    "textblob_score": 0.3182,
+    "first_sentence": "After some 20 minutes, Magyar is turning towards foreign policy now.",
+    "timestamp": "2026-04-13T15:06:02Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Sistren review \u2013 a profound love story between two best friends (told with memes, lip-syncs and confetti)",
     "link": "https://www.theguardian.com/stage/2026/apr/14/sistren-review-iolanthe-janet-anderson-griffin-theatre-belvoir-sydney",
     "mean_score": 0.7189,
