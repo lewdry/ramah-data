@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Retro Rewind re-creates the glorious drudgery of working a '90s video store",
+    "link": "https://arstechnica.com/gaming/2026/04/retro-rewind-re-creates-the-glorious-drudgery-of-working-a-90s-video-store/",
+    "mean_score": 0.3185,
+    "vader_score": 0.6369,
+    "textblob_score": 0.0,
+    "first_sentence": "What the nostalgic throwback lacks in complexity it makes up for in repetitive charm.",
+    "timestamp": "2026-04-13T21:58:41Z",
+    "source": "Ars Technica"
+  },
+  {
+    "headline": "Manchester United 1-2 Leeds United: Premier League \u2013 live reaction",
+    "link": "https://www.theguardian.com/football/live/2026/apr/13/manchester-united-v-leeds-premier-league-live",
+    "mean_score": 0.4086,
+    "vader_score": 0.6808,
+    "textblob_score": 0.1364,
+    "first_sentence": "double quotation markIt\u2019s a massive result for us.",
+    "timestamp": "2026-04-13T21:08:55Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Arne Slot backs Liverpool to produce \u2018great performance\u2019 to beat PSG",
+    "link": "https://www.theguardian.com/football/2026/apr/13/arne-slot-backs-liverpool-to-produce-great-performance-to-beat-psg",
+    "mean_score": 0.3742,
+    "vader_score": -0.0516,
+    "textblob_score": 0.8,
+    "first_sentence": "Arne Slot has said Liverpool do not face an impossible task against Paris Saint-Germain but must produce the perfect performance to overcome the European champions in the quarter-finals of the Champions League.",
+    "timestamp": "2026-04-13T18:36:47Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Former NFL cornerback Chris Payton-Jones dies at 30: \u2018Everyone loved him\u2019",
     "link": "https://www.theguardian.com/sport/2026/apr/13/former-nfl-cornerback-chris-payton-jones-dies-at-30-everyone-loved-him",
     "mean_score": 0.4747,

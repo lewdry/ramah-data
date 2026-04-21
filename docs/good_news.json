@@ -1,6 +1,36 @@
 {
-  "last run": "2026-04-21T06:38:09Z",
+  "last run": "2026-04-21T09:33:30Z",
   "stories": [
+    {
+      "headline": "The surprising origin of 4 features that superglue kids \u2014 and adults \u2014 to screens",
+      "link": "https://www.npr.org/2026/04/21/nx-s1-5776665/surprising-origin-features-superglue-kids-adults-to-screens",
+      "mean_score": 0.4866,
+      "vader_score": 0.2732,
+      "textblob_score": 0.7,
+      "first_sentence": "In two landmark cases, social media companies have been found liable for endangering and harming children.",
+      "timestamp": "2026-04-21T09:00:00Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "Legal action considered after Dezi Freeman property entry",
+      "link": "https://www.abc.net.au/news/2026-04-21/dezi-freeman-property-owner-legal-action/106588894",
+      "mean_score": 0.322,
+      "vader_score": 0.4939,
+      "textblob_score": 0.15,
+      "first_sentence": "YouTubers have entered the property where Dezi Freeman was shot dead and published video filmed inside the shipping container.",
+      "timestamp": "2026-04-21T06:35:57Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Funding cuts turning beautiful Loch Lomond into 'rubbish dump'",
+      "link": "https://www.bbc.com/news/articles/cd7jlpy7yqpo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4379,
+      "vader_score": 0.0258,
+      "textblob_score": 0.85,
+      "first_sentence": "Loch Lomond is a must-see for tourists visiting the west of Scotland, but locals fear its reputation is being rubbished by funding cuts and increased fly-tipping.",
+      "timestamp": "2026-04-21T05:20:44Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Maternity boss 'confident' as unit reopens",
       "link": "https://www.bbc.com/news/articles/c74vd1y7q04o?at_medium=RSS&at_campaign=rss",
@@ -2470,36 +2500,6 @@
       "first_sentence": "Gout Gout's extraordinary Australian 200 metre record in Sydney did more than rewrite the record books.",
       "timestamp": "2026-04-13T22:29:44Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Retro Rewind re-creates the glorious drudgery of working a '90s video store",
-      "link": "https://arstechnica.com/gaming/2026/04/retro-rewind-re-creates-the-glorious-drudgery-of-working-a-90s-video-store/",
-      "mean_score": 0.3185,
-      "vader_score": 0.6369,
-      "textblob_score": 0.0,
-      "first_sentence": "What the nostalgic throwback lacks in complexity it makes up for in repetitive charm.",
-      "timestamp": "2026-04-13T21:58:41Z",
-      "source": "Ars Technica"
-    },
-    {
-      "headline": "Manchester United 1-2 Leeds United: Premier League \u2013 live reaction",
-      "link": "https://www.theguardian.com/football/live/2026/apr/13/manchester-united-v-leeds-premier-league-live",
-      "mean_score": 0.4086,
-      "vader_score": 0.6808,
-      "textblob_score": 0.1364,
-      "first_sentence": "double quotation markIt\u2019s a massive result for us.",
-      "timestamp": "2026-04-13T21:08:55Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Arne Slot backs Liverpool to produce \u2018great performance\u2019 to beat PSG",
-      "link": "https://www.theguardian.com/football/2026/apr/13/arne-slot-backs-liverpool-to-produce-great-performance-to-beat-psg",
-      "mean_score": 0.3742,
-      "vader_score": -0.0516,
-      "textblob_score": 0.8,
-      "first_sentence": "Arne Slot has said Liverpool do not face an impossible task against Paris Saint-Germain but must produce the perfect performance to overcome the European champions in the quarter-finals of the Champions League.",
-      "timestamp": "2026-04-13T18:36:47Z",
-      "source": "The Guardian"
     }
   ]
 }
