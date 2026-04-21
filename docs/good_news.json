@@ -1,6 +1,36 @@
 {
-  "last run": "2026-04-21T09:33:30Z",
+  "last run": "2026-04-21T12:22:05Z",
   "stories": [
+    {
+      "headline": "Key takeaways from sacked official at heart of Mandelson vetting row",
+      "link": "https://www.bbc.com/news/articles/cdxk5e570qxo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3185,
+      "vader_score": 0.6369,
+      "textblob_score": 0.0,
+      "first_sentence": "Sir Olly Robbins, the former top civil servant at the Foreign Office, has been giving evidence to MPs on the foreign affairs committee about his role in vetting Lord Mandelson to be the UK's ambassador to the US.",
+      "timestamp": "2026-04-21T10:52:44Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "How can you make a student happy? Drop them at university \u2013 and make a lightning-quick exit | Zoe Williams",
+      "link": "https://www.theguardian.com/commentisfree/2026/apr/21/how-make-student-happy-drop-at-university-lightning-quick-exit",
+      "mean_score": 0.5909,
+      "vader_score": 0.3818,
+      "textblob_score": 0.8,
+      "first_sentence": "I was driving my niece to university, and my son asked what time I\u2019d be back, which was itself inherently sad.",
+      "timestamp": "2026-04-21T10:00:46Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "US \u2018restricts intelligence sharing with South Korea\u2019 after minister identified suspected nuclear site",
+      "link": "https://www.theguardian.com/world/2026/apr/21/us-reportedly-restricts-south-korea-intelligence-sharing-after-minister-identified-suspected-nuclear-site",
+      "mean_score": 0.3062,
+      "vader_score": 0.6124,
+      "textblob_score": 0.0,
+      "first_sentence": "The US has partly restricted intelligence sharing with South Korea after the country\u2019s unification minister publicly identified a suspected North Korean nuclear site, according to reports in South Korean media.",
+      "timestamp": "2026-04-21T09:26:00Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "The surprising origin of 4 features that superglue kids \u2014 and adults \u2014 to screens",
       "link": "https://www.npr.org/2026/04/21/nx-s1-5776665/surprising-origin-features-superglue-kids-adults-to-screens",
@@ -2470,36 +2500,6 @@
       "first_sentence": "That was how one hospital boss recalled hearing news of a walkout by resident doctors in England last December.",
       "timestamp": "2026-04-13T23:06:45Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "NSW promises more fast chargers and electric trucks in revamped EV policy",
-      "link": "https://www.theguardian.com/australia-news/2026/apr/14/minns-promises-more-fast-chargers-and-electric-trucks-in-revamped-ev-policy",
-      "mean_score": 0.3659,
-      "vader_score": 0.3818,
-      "textblob_score": 0.35,
-      "first_sentence": "Electric truck development and building more stations to charge them will be core pillars of a state\u2019s revamped electric vehicle strategy designed to ease the pressure of rising fuel costs.",
-      "timestamp": "2026-04-13T22:59:46Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Ukulele club's 600 members may be strumming their way to better brain health",
-      "link": "https://www.abc.net.au/news/2026-04-14/sunshine-coast-ukulele-club-goes-from-park-bench-to-600-members/106486566",
-      "mean_score": 0.4702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.5,
-      "first_sentence": "It's mid-week and mid-morning at this Queensland RSL club \u2014 but it might as well be a Saturday night.",
-      "timestamp": "2026-04-13T22:32:41Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Why Gout's incredible run deserves equal measures of praise and patience",
-      "link": "https://www.abc.net.au/news/2026-04-14/analysis-gout-gouts-200m-run-shows-a-maturing-athlete/106561332",
-      "mean_score": 0.5037,
-      "vader_score": 0.5574,
-      "textblob_score": 0.45,
-      "first_sentence": "Gout Gout's extraordinary Australian 200 metre record in Sydney did more than rewrite the record books.",
-      "timestamp": "2026-04-13T22:29:44Z",
-      "source": "ABC News"
     }
   ]
 }

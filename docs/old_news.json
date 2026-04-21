@@ -1,5 +1,35 @@
 [
   {
+    "headline": "NSW promises more fast chargers and electric trucks in revamped EV policy",
+    "link": "https://www.theguardian.com/australia-news/2026/apr/14/minns-promises-more-fast-chargers-and-electric-trucks-in-revamped-ev-policy",
+    "mean_score": 0.3659,
+    "vader_score": 0.3818,
+    "textblob_score": 0.35,
+    "first_sentence": "Electric truck development and building more stations to charge them will be core pillars of a state\u2019s revamped electric vehicle strategy designed to ease the pressure of rising fuel costs.",
+    "timestamp": "2026-04-13T22:59:46Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Ukulele club's 600 members may be strumming their way to better brain health",
+    "link": "https://www.abc.net.au/news/2026-04-14/sunshine-coast-ukulele-club-goes-from-park-bench-to-600-members/106486566",
+    "mean_score": 0.4702,
+    "vader_score": 0.4404,
+    "textblob_score": 0.5,
+    "first_sentence": "It's mid-week and mid-morning at this Queensland RSL club \u2014 but it might as well be a Saturday night.",
+    "timestamp": "2026-04-13T22:32:41Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Why Gout's incredible run deserves equal measures of praise and patience",
+    "link": "https://www.abc.net.au/news/2026-04-14/analysis-gout-gouts-200m-run-shows-a-maturing-athlete/106561332",
+    "mean_score": 0.5037,
+    "vader_score": 0.5574,
+    "textblob_score": 0.45,
+    "first_sentence": "Gout Gout's extraordinary Australian 200 metre record in Sydney did more than rewrite the record books.",
+    "timestamp": "2026-04-13T22:29:44Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Retro Rewind re-creates the glorious drudgery of working a '90s video store",
     "link": "https://arstechnica.com/gaming/2026/04/retro-rewind-re-creates-the-glorious-drudgery-of-working-a-90s-video-store/",
     "mean_score": 0.3185,
