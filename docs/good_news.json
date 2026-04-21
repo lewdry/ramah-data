@@ -1,6 +1,66 @@
 {
-  "last run": "2026-04-21T12:22:05Z",
+  "last run": "2026-04-21T15:29:37Z",
   "stories": [
+    {
+      "headline": "Ketamine, psychedelics, GHB: is the US falling out of love with cocaine?",
+      "link": "https://www.theguardian.com/us-news/2026/apr/21/cocaine-ketamine-psychedelics-ghb",
+      "mean_score": 0.5287,
+      "vader_score": 0.5574,
+      "textblob_score": 0.5,
+      "first_sentence": "Ever since cocaine first emerged as a popular party drug via the shores of Miami in the early 1970s, use of the stimulant has been inextricably entwined with the very essence of capitalist excess and what it is to be American: brash, bombastic and brazen.",
+      "timestamp": "2026-04-21T15:00:52Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Rebel Wilson\u2019s The Deb is great fun but it tanked. Is this the fate of the Australian movie musical?",
+      "link": "https://www.theguardian.com/film/2026/apr/22/rebel-wilson-deb-review-australian-movie-musical",
+      "mean_score": 0.4008,
+      "vader_score": 0.5267,
+      "textblob_score": 0.275,
+      "first_sentence": "Few cinemagoers have turned up for Rebel Wilson\u2019s directorial debut, The Deb, which opened with the kind of dismal box office return a local lemonade stand might rival.",
+      "timestamp": "2026-04-21T15:00:52Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "What's the deal with spacesuits for the Moon? Will they be ready in time?",
+      "link": "https://arstechnica.com/space/2026/04/whats-the-deal-with-spacesuits-for-the-moon-will-they-be-ready-in-time/",
+      "mean_score": 0.3165,
+      "vader_score": 0.4329,
+      "textblob_score": 0.2,
+      "first_sentence": "NASA is down to a single provider for a critical link in its lunar architecture.",
+      "timestamp": "2026-04-21T14:24:09Z",
+      "source": "Ars Technica"
+    },
+    {
+      "headline": "Contrary to popular superstition, AES 128 is just fine in a post-quantum world",
+      "link": "https://arstechnica.com/security/2026/04/contrary-to-popular-superstition-aes-128-is-just-fine-in-a-post-quantum-world/",
+      "mean_score": 0.5329,
+      "vader_score": 0.5574,
+      "textblob_score": 0.5083,
+      "first_sentence": "A stubborn misconception is hampering the already hard work of quantum readiness.",
+      "timestamp": "2026-04-21T12:35:20Z",
+      "source": "Ars Technica"
+    },
+    {
+      "headline": "Unprecedented ruling finds Hungary's anti-LGBTQ laws in breach of EU values",
+      "link": "https://www.bbc.com/news/articles/cddqvyr0yjro?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.501,
+      "vader_score": 0.4019,
+      "textblob_score": 0.6,
+      "first_sentence": "The European Union's top court has ruled that Hungarian anti-LGBTQ laws violate EU rules and infringe its values of equality and minority rights.",
+      "timestamp": "2026-04-21T12:28:31Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Ultras review \u2013 love letter to football\u2019s most dedicated supporters",
+      "link": "https://www.theguardian.com/film/2026/apr/21/ultras-review-love-letter-to-footballs-most-dedicated-supporters",
+      "mean_score": 0.6964,
+      "vader_score": 0.8927,
+      "textblob_score": 0.5,
+      "first_sentence": "Here is a visually epic and surprisingly positive documentary about a maligned subculture: football ultras.",
+      "timestamp": "2026-04-21T12:00:50Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Key takeaways from sacked official at heart of Mandelson vetting row",
       "link": "https://www.bbc.com/news/articles/cdxk5e570qxo?at_medium=RSS&at_campaign=rss",
@@ -2440,66 +2500,6 @@
       "first_sentence": "A whale stranded on a sandbar in Wallis Lake on the NSW mid north coast has been refloated by marine animal rescue teams.",
       "timestamp": "2026-04-14T07:47:03Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Asian stocks gain and oil falls on hopes of renewed US-Iran talks",
-      "link": "https://apnews.com/article/oil-prices-stock-markets-trump-iran-ceasefire-9690717f561076a0909f7a5e820f02d6",
-      "mean_score": 0.3675,
-      "vader_score": 0.7351,
-      "textblob_score": 0.0,
-      "first_sentence": "HONG KONG (AP) \u2014 Asian stocks were trading higher, tracking Wall Street gains, and oil fell on Tuesday as expectations rose over a possible second round of talks between the U.S.",
-      "timestamp": "2026-04-14T07:23:01Z",
-      "source": "AP News"
-    },
-    {
-      "headline": "Carney secures Liberal majority after special election wins",
-      "link": "https://www.bbc.com/news/articles/cp9vmepn010o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5778,
-      "vader_score": 0.8271,
-      "textblob_score": 0.3286,
-      "first_sentence": "Canadian Prime Minister Mark Carney's Liberal Party has secured a slim majority in the House of Commons, solidifying its hold on power after being projected by Canadian media to win at least two seats in by-elections on Monday.",
-      "timestamp": "2026-04-14T02:58:20Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Mark Carney secures majority government in Canada after special election win",
-      "link": "https://www.theguardian.com/world/2026/apr/14/canada-special-election-results-pm-mark-carney-majority-government",
-      "mean_score": 0.7051,
-      "vader_score": 0.8316,
-      "textblob_score": 0.5786,
-      "first_sentence": "Canadian prime minister Mark Carney has secured a parliamentary majority for his Liberal government, CBC News reported.",
-      "timestamp": "2026-04-14T02:42:41Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Quantum computing: A tech race Europe could win?",
-      "link": "https://www.bbc.com/news/articles/c20q4nv89yzo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.6929,
-      "vader_score": 0.5859,
-      "textblob_score": 0.8,
-      "first_sentence": "In a lab on the western edge of Paris, where the River Seine flows wide and trams slide past glass-fronted buildings and blossoming cherry trees, a technician called R\u00e9mi makes some adjustments with a spanner.",
-      "timestamp": "2026-04-13T23:35:56Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Lebanon seeks peace, but Hezbollah needs to be convinced first",
-      "link": "https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4752,
-      "vader_score": 0.7003,
-      "textblob_score": 0.25,
-      "first_sentence": "With Lebanon, again, engulfed by war, I remember a meeting I had with President Joseph Aoun at the Baabda Palace, a modernist building at the top of a hill overlooking Beirut last August.",
-      "timestamp": "2026-04-13T23:26:46Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Doctors' strikes can have surprising benefits - but are they sustainable?",
-      "link": "https://www.bbc.com/news/articles/cp3l2pygnlyo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4265,
-      "vader_score": 0.1531,
-      "textblob_score": 0.7,
-      "first_sentence": "That was how one hospital boss recalled hearing news of a walkout by resident doctors in England last December.",
-      "timestamp": "2026-04-13T23:06:45Z",
-      "source": "BBC News"
     }
   ]
 }

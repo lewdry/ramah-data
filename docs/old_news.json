@@ -1,5 +1,65 @@
 [
   {
+    "headline": "Asian stocks gain and oil falls on hopes of renewed US-Iran talks",
+    "link": "https://apnews.com/article/oil-prices-stock-markets-trump-iran-ceasefire-9690717f561076a0909f7a5e820f02d6",
+    "mean_score": 0.3675,
+    "vader_score": 0.7351,
+    "textblob_score": 0.0,
+    "first_sentence": "HONG KONG (AP) \u2014 Asian stocks were trading higher, tracking Wall Street gains, and oil fell on Tuesday as expectations rose over a possible second round of talks between the U.S.",
+    "timestamp": "2026-04-14T07:23:01Z",
+    "source": "AP News"
+  },
+  {
+    "headline": "Carney secures Liberal majority after special election wins",
+    "link": "https://www.bbc.com/news/articles/cp9vmepn010o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.5778,
+    "vader_score": 0.8271,
+    "textblob_score": 0.3286,
+    "first_sentence": "Canadian Prime Minister Mark Carney's Liberal Party has secured a slim majority in the House of Commons, solidifying its hold on power after being projected by Canadian media to win at least two seats in by-elections on Monday.",
+    "timestamp": "2026-04-14T02:58:20Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Mark Carney secures majority government in Canada after special election win",
+    "link": "https://www.theguardian.com/world/2026/apr/14/canada-special-election-results-pm-mark-carney-majority-government",
+    "mean_score": 0.7051,
+    "vader_score": 0.8316,
+    "textblob_score": 0.5786,
+    "first_sentence": "Canadian prime minister Mark Carney has secured a parliamentary majority for his Liberal government, CBC News reported.",
+    "timestamp": "2026-04-14T02:42:41Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Quantum computing: A tech race Europe could win?",
+    "link": "https://www.bbc.com/news/articles/c20q4nv89yzo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.6929,
+    "vader_score": 0.5859,
+    "textblob_score": 0.8,
+    "first_sentence": "In a lab on the western edge of Paris, where the River Seine flows wide and trams slide past glass-fronted buildings and blossoming cherry trees, a technician called R\u00e9mi makes some adjustments with a spanner.",
+    "timestamp": "2026-04-13T23:35:56Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Lebanon seeks peace, but Hezbollah needs to be convinced first",
+    "link": "https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4752,
+    "vader_score": 0.7003,
+    "textblob_score": 0.25,
+    "first_sentence": "With Lebanon, again, engulfed by war, I remember a meeting I had with President Joseph Aoun at the Baabda Palace, a modernist building at the top of a hill overlooking Beirut last August.",
+    "timestamp": "2026-04-13T23:26:46Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Doctors' strikes can have surprising benefits - but are they sustainable?",
+    "link": "https://www.bbc.com/news/articles/cp3l2pygnlyo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4265,
+    "vader_score": 0.1531,
+    "textblob_score": 0.7,
+    "first_sentence": "That was how one hospital boss recalled hearing news of a walkout by resident doctors in England last December.",
+    "timestamp": "2026-04-13T23:06:45Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "NSW promises more fast chargers and electric trucks in revamped EV policy",
     "link": "https://www.theguardian.com/australia-news/2026/apr/14/minns-promises-more-fast-chargers-and-electric-trucks-in-revamped-ev-policy",
     "mean_score": 0.3659,
