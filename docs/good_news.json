@@ -1,6 +1,46 @@
 {
-  "last run": "2026-04-21T18:23:08Z",
+  "last run": "2026-04-21T21:16:55Z",
   "stories": [
+    {
+      "headline": "As Pakistan seeks to broker U.S.\u2013Iran peace, citizens watch for gains at home",
+      "link": "https://www.npr.org/2026/04/21/nx-s1-5791760/as-pakistan-seeks-to-broker-u-s-iran-peace-citizens-watch-for-gains-at-home",
+      "mean_score": 0.3548,
+      "vader_score": 0.7096,
+      "textblob_score": 0.0,
+      "first_sentence": "As Pakistan works to broker peace between the U.S.",
+      "timestamp": "2026-04-21T20:10:44Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "Head\u2019s up: 12 main-course cauliflower recipes from easy to ambitious",
+      "link": "https://www.theguardian.com/food/2026/apr/21/main-course-cauliflower-recipes",
+      "mean_score": 0.53,
+      "vader_score": 0.7184,
+      "textblob_score": 0.3417,
+      "first_sentence": "Cauliflower looks like the ghost of broccoli, or a human brain that has been drained of blood.",
+      "timestamp": "2026-04-21T20:00:02Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Women's shelter funding welcomed, as most turned away",
+      "link": "https://www.abc.net.au/news/2026-04-22/hobart-womens-shelter-funding-boost-welcomed/106586674",
+      "mean_score": 0.42,
+      "vader_score": 0.34,
+      "textblob_score": 0.5,
+      "first_sentence": "Hobart Women's Shelter has upgraded its communal spaces and locked in funding to almost double its capacity for women and children in need of safe housing.",
+      "timestamp": "2026-04-21T19:58:21Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Junior clubs and brain experts welcome NRL training changes",
+      "link": "https://www.abc.net.au/news/2026-04-22/nrl-contact-training-changes-junior-sport-neuroscience/106587700",
+      "mean_score": 0.6294,
+      "vader_score": 0.4588,
+      "textblob_score": 0.8,
+      "first_sentence": "The NRL has moved to implement landmark safety guidelines for training, which for the first time limit contact in training.",
+      "timestamp": "2026-04-21T19:33:03Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Ketamine, psychedelics, GHB: is the US falling out of love with cocaine?",
       "link": "https://www.theguardian.com/us-news/2026/apr/21/cocaine-ketamine-psychedelics-ghb",
@@ -2460,46 +2500,6 @@
       "first_sentence": "Andrew Durbin, author and editor-in-chief of Frieze Magazine, spent almost five years writing The Wonderful World That Almost Was.",
       "timestamp": "2026-04-14T09:00:06Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Take heart, Keir Starmer \u2013 Australia\u2019s PM faced similarly dim prospects, and he triumphed | Tim Soutphommasane",
-      "link": "https://www.theguardian.com/commentisfree/2026/apr/14/keir-starmer-anthony-albanese-australia-labour-party-reform-uk",
-      "mean_score": 0.4813,
-      "vader_score": 0.8625,
-      "textblob_score": 0.1,
-      "first_sentence": "It has never been worse for Labour, at least according to the polls.",
-      "timestamp": "2026-04-14T09:00:05Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Ben Stokes plays down talk of McCullum disagreement but plans \u2018different\u2019 path to success",
-      "link": "https://www.theguardian.com/sport/2026/apr/14/ben-stokes-brendon-mccullum-disagreement-cricket-england",
-      "mean_score": 0.3742,
-      "vader_score": 0.7003,
-      "textblob_score": 0.0481,
-      "first_sentence": "Ben Stokes has moved to play down suggestions of a disagreement between himself and Brendon McCullum, insisting he and the England head coach remain aligned despite an Ashes defeat that, at times, suggested otherwise.",
-      "timestamp": "2026-04-14T09:00:05Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Ukraine hopes for more cooperation after Hungary elects new prime minister",
-      "link": "https://www.npr.org/2026/04/14/nx-s1-5783682/ukraine-hopes-for-more-cooperation-after-hungary-elects-new-prime-minister",
-      "mean_score": 0.3698,
-      "vader_score": 0.4215,
-      "textblob_score": 0.3182,
-      "first_sentence": "The incoming prime minister of Hungary is no fan of Ukraine, but he says he wants to work with the European Union, raising hopes he'll lift a Hungarian veto on a $100 billion EU loan to Kyiv.",
-      "timestamp": "2026-04-14T08:42:37Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Rescuers free young whale after 24-hour stranding ordeal",
-      "link": "https://www.abc.net.au/news/2026-04-14/whale-freed-24-hours-after-stranding-on-nsw-mid-north-coast/106563384",
-      "mean_score": 0.3803,
-      "vader_score": 0.5106,
-      "textblob_score": 0.25,
-      "first_sentence": "A whale stranded on a sandbar in Wallis Lake on the NSW mid north coast has been refloated by marine animal rescue teams.",
-      "timestamp": "2026-04-14T07:47:03Z",
-      "source": "ABC News"
     }
   ]
 }

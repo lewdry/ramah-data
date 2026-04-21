@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Take heart, Keir Starmer \u2013 Australia\u2019s PM faced similarly dim prospects, and he triumphed | Tim Soutphommasane",
+    "link": "https://www.theguardian.com/commentisfree/2026/apr/14/keir-starmer-anthony-albanese-australia-labour-party-reform-uk",
+    "mean_score": 0.4813,
+    "vader_score": 0.8625,
+    "textblob_score": 0.1,
+    "first_sentence": "It has never been worse for Labour, at least according to the polls.",
+    "timestamp": "2026-04-14T09:00:05Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Ben Stokes plays down talk of McCullum disagreement but plans \u2018different\u2019 path to success",
+    "link": "https://www.theguardian.com/sport/2026/apr/14/ben-stokes-brendon-mccullum-disagreement-cricket-england",
+    "mean_score": 0.3742,
+    "vader_score": 0.7003,
+    "textblob_score": 0.0481,
+    "first_sentence": "Ben Stokes has moved to play down suggestions of a disagreement between himself and Brendon McCullum, insisting he and the England head coach remain aligned despite an Ashes defeat that, at times, suggested otherwise.",
+    "timestamp": "2026-04-14T09:00:05Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Ukraine hopes for more cooperation after Hungary elects new prime minister",
+    "link": "https://www.npr.org/2026/04/14/nx-s1-5783682/ukraine-hopes-for-more-cooperation-after-hungary-elects-new-prime-minister",
+    "mean_score": 0.3698,
+    "vader_score": 0.4215,
+    "textblob_score": 0.3182,
+    "first_sentence": "The incoming prime minister of Hungary is no fan of Ukraine, but he says he wants to work with the European Union, raising hopes he'll lift a Hungarian veto on a $100 billion EU loan to Kyiv.",
+    "timestamp": "2026-04-14T08:42:37Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "Rescuers free young whale after 24-hour stranding ordeal",
+    "link": "https://www.abc.net.au/news/2026-04-14/whale-freed-24-hours-after-stranding-on-nsw-mid-north-coast/106563384",
+    "mean_score": 0.3803,
+    "vader_score": 0.5106,
+    "textblob_score": 0.25,
+    "first_sentence": "A whale stranded on a sandbar in Wallis Lake on the NSW mid north coast has been refloated by marine animal rescue teams.",
+    "timestamp": "2026-04-14T07:47:03Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Asian stocks gain and oil falls on hopes of renewed US-Iran talks",
     "link": "https://apnews.com/article/oil-prices-stock-markets-trump-iran-ceasefire-9690717f561076a0909f7a5e820f02d6",
     "mean_score": 0.3675,
