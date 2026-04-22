@@ -1,6 +1,46 @@
 {
-  "last run": "2026-04-22T00:24:46Z",
+  "last run": "2026-04-22T04:01:57Z",
   "stories": [
+    {
+      "headline": "Virginia approves redistricting, giving Democrats edge in midterms",
+      "link": "https://www.bbc.com/news/articles/c895j8zgqe4o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3125,
+      "vader_score": 0.6249,
+      "textblob_score": 0.0,
+      "first_sentence": "Virginia voters have approved a redistricting measure that could hand Democrats control of the thinly-divided US House of Representatives in the midterm elections later this year.",
+      "timestamp": "2026-04-22T02:24:41Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Democrats celebrate as Virginia voters approve new congressional maps that could flip House seats in their favor \u2013 as it happened",
+      "link": "https://www.theguardian.com/us-news/live/2026/apr/21/us-politics-latest-news-kevin-warsh-federal-reserve-donald-trump",
+      "mean_score": 0.4435,
+      "vader_score": 0.7506,
+      "textblob_score": 0.1364,
+      "first_sentence": "Barack Obama has praised Virginia voters for backing the redrawn congressional maps that could give Democrats a significant boost in the midterm elections.",
+      "timestamp": "2026-04-22T02:03:03Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Woman's life 'changed for the better' after GPs in SA trained to diagnose ADHD",
+      "link": "https://www.abc.net.au/news/2026-04-22/more-sa-gps-are-qualified-to-diagnose-adhd/106587936",
+      "mean_score": 0.4702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.5,
+      "first_sentence": "About 100 South Australian GPs are now qualified to diagnose, treat and prescribe medication for ADHD in adults and children eight years old and above.",
+      "timestamp": "2026-04-22T00:51:55Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Virginia voters OK a Democratic effort to redraw the state's congressional map",
+      "link": "https://www.npr.org/2026/04/21/nx-s1-5793878/virginia-redistricting-results-trump",
+      "mean_score": 0.4733,
+      "vader_score": 0.4466,
+      "textblob_score": 0.5,
+      "first_sentence": "Virginia voters have delivered a significant win to Democrats, as the state is poised to redraw its congressional districts ahead of this year's midterm election.",
+      "timestamp": "2026-04-22T00:50:52Z",
+      "source": "NPR News"
+    },
     {
       "headline": "Ideal conditions to see peak of Lyrid meteor shower in UK",
       "link": "https://www.bbc.com/weather/articles/cede7gpjn85o?at_medium=RSS&at_campaign=rss",
@@ -2460,46 +2500,6 @@
       "first_sentence": "The Scottish Greens have called for free bus travel, thousands of extra teachers and doctors and a universal basic income among hundreds of uncosted manifesto pledges.",
       "timestamp": "2026-04-14T14:13:25Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Super Typhoon Sinlaku pounds remote US islands in the Pacific Ocean with ferocious winds",
-      "link": "https://apnews.com/article/super-typhoon-sinlaku-pacific-northern-mariana-islands-edbd6db03456ee26a15c4d996db531b7",
-      "mean_score": 0.3295,
-      "vader_score": 0.5423,
-      "textblob_score": 0.1167,
-      "first_sentence": "A super typhoon is taking aim at several remote U.S.",
-      "timestamp": "2026-04-14T13:53:02Z",
-      "source": "AP News"
-    },
-    {
-      "headline": "Millions of people are pretending to be AI chatbots \u2014 for fun",
-      "link": "https://www.npr.org/2026/04/14/nx-s1-5776842/ai-chatbot-comedy-ben-palmer-chatgpt",
-      "mean_score": 0.4359,
-      "vader_score": 0.5719,
-      "textblob_score": 0.3,
-      "first_sentence": "The website Your AI Slop Bores Me takes its name from a meme people on social media use to criticize AI-generated content.",
-      "timestamp": "2026-04-14T13:30:19Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Virginia joins a national effort to ensure only popular vote winners become president",
-      "link": "https://www.npr.org/2026/04/14/nx-s1-5742595/virginia-popular-vote-compact",
-      "mean_score": 0.5588,
-      "vader_score": 0.8176,
-      "textblob_score": 0.3,
-      "first_sentence": "A national effort to circumvent the Electoral College has gained another state.",
-      "timestamp": "2026-04-14T12:34:57Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Households could get free electricity for doing washing on sunny weekends",
-      "link": "https://www.bbc.com/news/articles/c9d44ld97dyo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5635,
-      "vader_score": 0.7269,
-      "textblob_score": 0.4,
-      "first_sentence": "Households and businesses could get free or cheaper electricity from their energy company for running appliances during periods of excess supply, such as sunny  weekends.",
-      "timestamp": "2026-04-14T11:42:05Z",
-      "source": "BBC News"
     }
   ]
 }

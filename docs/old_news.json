@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Super Typhoon Sinlaku pounds remote US islands in the Pacific Ocean with ferocious winds",
+    "link": "https://apnews.com/article/super-typhoon-sinlaku-pacific-northern-mariana-islands-edbd6db03456ee26a15c4d996db531b7",
+    "mean_score": 0.3295,
+    "vader_score": 0.5423,
+    "textblob_score": 0.1167,
+    "first_sentence": "A super typhoon is taking aim at several remote U.S.",
+    "timestamp": "2026-04-14T13:53:02Z",
+    "source": "AP News"
+  },
+  {
+    "headline": "Millions of people are pretending to be AI chatbots \u2014 for fun",
+    "link": "https://www.npr.org/2026/04/14/nx-s1-5776842/ai-chatbot-comedy-ben-palmer-chatgpt",
+    "mean_score": 0.4359,
+    "vader_score": 0.5719,
+    "textblob_score": 0.3,
+    "first_sentence": "The website Your AI Slop Bores Me takes its name from a meme people on social media use to criticize AI-generated content.",
+    "timestamp": "2026-04-14T13:30:19Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "Virginia joins a national effort to ensure only popular vote winners become president",
+    "link": "https://www.npr.org/2026/04/14/nx-s1-5742595/virginia-popular-vote-compact",
+    "mean_score": 0.5588,
+    "vader_score": 0.8176,
+    "textblob_score": 0.3,
+    "first_sentence": "A national effort to circumvent the Electoral College has gained another state.",
+    "timestamp": "2026-04-14T12:34:57Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "Households could get free electricity for doing washing on sunny weekends",
+    "link": "https://www.bbc.com/news/articles/c9d44ld97dyo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.5635,
+    "vader_score": 0.7269,
+    "textblob_score": 0.4,
+    "first_sentence": "Households and businesses could get free or cheaper electricity from their energy company for running appliances during periods of excess supply, such as sunny  weekends.",
+    "timestamp": "2026-04-14T11:42:05Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Chalamet thanked by Royal Ballet and Opera boss for boosting ticket sales",
     "link": "https://www.bbc.com/news/articles/c20qqwwwx73o?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.3243,
