@@ -1,6 +1,56 @@
 {
-  "last run": "2026-04-22T06:38:09Z",
+  "last run": "2026-04-22T09:32:53Z",
   "stories": [
+    {
+      "headline": "Starmer to face MPs as loyalist minister declines to say that sacking Olly Robbins was fair \u2013 UK politics live",
+      "link": "https://www.theguardian.com/politics/live/2026/apr/22/keir-starmer-kemi-badenoch-pmqs-olly-robbins-peter-mandelson-uk-politics-latest-news-updates",
+      "mean_score": 0.502,
+      "vader_score": 0.5859,
+      "textblob_score": 0.4182,
+      "first_sentence": "In an interview with Times Radio, Pat McFadden repeatedly declined to say that he thought the sacking of Olly Robbins was fair.",
+      "timestamp": "2026-04-22T09:03:54Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "The best hair straighteners in the UK for foolproof styling, tried and tested by our expert",
+      "link": "https://www.theguardian.com/thefilter/2025/mar/18/best-hair-straighteners",
+      "mean_score": 0.8891,
+      "vader_score": 0.7783,
+      "textblob_score": 1.0,
+      "first_sentence": "The Guardian\u2019s journalism is independent.",
+      "timestamp": "2026-04-22T09:00:14Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "'We can do better,' FAA head says of work to update U.S. analog air traffic system",
+      "link": "https://www.npr.org/2026/04/22/nx-s1-5791744/faa-dot-air-traffic-control-system-revamp",
+      "mean_score": 0.4702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.5,
+      "first_sentence": "WASHINGTON \u2014 The days of bonfires guiding airplanes across the United States are long gone \u2014 but those fires' analog descendants are preventing the national aviation system from reaping the benefits of today's digital technology, FAA Administrator Bryan Bedford said on Tuesday.",
+      "timestamp": "2026-04-22T09:00:00Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "The Wonderful World that Almost Was by Andrew Durbin review \u2013 naked ambition",
+      "link": "https://www.theguardian.com/books/2026/apr/22/the-wonderful-world-that-almost-was-by-andrew-durbin-review-naked-ambition",
+      "mean_score": 0.5359,
+      "vader_score": 0.5719,
+      "textblob_score": 0.5,
+      "first_sentence": "Andy Warhol sent Paul a Brillo box.",
+      "timestamp": "2026-04-22T08:00:16Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Are Aussies being fleeced over gas profits?! Yes! What should we be doing instead? | First Dog on the Moon",
+      "link": "https://www.theguardian.com/commentisfree/picture/2026/apr/22/are-aussies-being-fleeced-over-gas-profits-yes-what-should-we-be-doing-instead",
+      "mean_score": 0.5055,
+      "vader_score": 0.7611,
+      "textblob_score": 0.25,
+      "first_sentence": "Even considering our usual slavish enthusiasm for giving all our shit to billionaires for free this is badSign up here to get an email whenever First Dog cartoons are publishedGet all your needs met at the First Dog shop if what you need is First Dog merchandise and prints Continue reading.",
+      "timestamp": "2026-04-22T06:53:17Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Australia news live: independent candidate for Farrer says Coalition preferencing One Nation \u2018not for the good of our community\u2019",
       "link": "https://www.theguardian.com/australia-news/live/2026/apr/22/australia-news-live-ndis-savings-cuts-mark-butler-aged-care-cost-of-living-budget-jim-chalmers-labor-coalition-ntwnfb",
@@ -9,6 +59,16 @@
       "textblob_score": 0.2788,
       "first_sentence": "The independent candidate for Farrer, Michelle Milthorpe, has responded to news that the Liberals and Nationals will preference One Nation above her in next month\u2019s federal byelection.",
       "timestamp": "2026-04-22T06:04:48Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Winnie-the-Pooh\u2019s 100th birthday is a great excuse to explore the Sussex forest that inspired the books",
+      "link": "https://www.theguardian.com/travel/2026/apr/22/winnie-the-pooh-100th-birthday-ashdown-forest-sussex",
+      "mean_score": 0.5988,
+      "vader_score": 0.8225,
+      "textblob_score": 0.375,
+      "first_sentence": "The Guardian\u2019s journalism is independent.",
+      "timestamp": "2026-04-22T06:00:11Z",
       "source": "The Guardian"
     },
     {
@@ -149,6 +209,16 @@
       "textblob_score": 0.8,
       "first_sentence": "The NRL has moved to implement landmark safety guidelines for training, which for the first time limit contact in training.",
       "timestamp": "2026-04-21T19:33:03Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Live: Iran says peace talks will resume when US lifts Strait of Hormuz blockade",
+      "link": "https://www.abc.net.au/news/2026-04-22/iran-war-live-updates-trump-us-extends-ceasefire-iran/106588912",
+      "mean_score": 0.3393,
+      "vader_score": 0.5423,
+      "textblob_score": 0.1364,
+      "first_sentence": "Iran has said peace talks will resume in Pakistan \"as soon as\" the US lifts its blockade on the Strait of Hormuz.",
+      "timestamp": "2026-04-21T18:08:34Z",
       "source": "ABC News"
     },
     {
@@ -2429,76 +2499,6 @@
       "textblob_score": 0.65,
       "first_sentence": "Javokhir Sindarov will challenge for Gukesh Dommaraju\u2019s world chess championship this fall after clinching the Candidates tournament with a game to spare on Tuesday afternoon in Cyprus.",
       "timestamp": "2026-04-14T18:03:51Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Why aren\u2019t Republicans thrilled by the fall in teen pregnancies? | Arwa Mahdawi",
-      "link": "https://www.theguardian.com/commentisfree/2026/apr/14/why-arent-republicans-thrilled-by-the-fall-in-teen-pregnancies",
-      "mean_score": 0.3702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.3,
-      "first_sentence": "Teenagers these days, eh? Instead of having unprotected sex and popping out babies, they\u2019re wasting their time on TikTok, or something.",
-      "timestamp": "2026-04-14T18:03:06Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "US edges closer to popular vote deciding winner of presidential elections",
-      "link": "https://www.theguardian.com/us-news/2026/apr/14/majority-vote-for-president-us-constitution",
-      "mean_score": 0.6825,
-      "vader_score": 0.765,
-      "textblob_score": 0.6,
-      "first_sentence": "A national majority vote for president is one step closer to reality after the Virginia governor, Abigail Spanberger, signed the national popular vote bill into law, joining an interstate compact with 17 other states and the District of Columbia.",
-      "timestamp": "2026-04-14T17:12:44Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "UFOs and a Tardis - why unusual holiday stays are booming",
-      "link": "https://www.bbc.com/news/articles/c70dkv2w51po?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3009,
-      "vader_score": 0.4019,
-      "textblob_score": 0.2,
-      "first_sentence": "In a secluded corner of Pembrokeshire, a structure resembling a landed spacecraft rises unexpectedly from the landscape.",
-      "timestamp": "2026-04-14T16:54:40Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "In a joyful Budapest, I see the chance of an unprecedented transition | Timothy Garton Ash",
-      "link": "https://www.theguardian.com/commentisfree/2026/apr/14/budapest-populists-donald-trump-viktor-orban-hungary-europe",
-      "mean_score": 0.6548,
-      "vader_score": 0.7096,
-      "textblob_score": 0.6,
-      "first_sentence": "To be in Budapest last Sunday evening was to see history again being made on the Danube.",
-      "timestamp": "2026-04-14T16:43:24Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "'Welcome home': Watch joyful reunion as Orion capsule opened after splashdown",
-      "link": "https://www.bbc.com/news/videos/clyxxnz97wxo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.7923,
-      "vader_score": 0.7845,
-      "textblob_score": 0.8,
-      "first_sentence": "Newly released video shows the moment a recovery crew opens the hatch of Artemis II's Orion capsule to a joyful reunion with the four astronauts inside.",
-      "timestamp": "2026-04-14T16:12:27Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Carney says it\u2019s Canada\u2019s \u2018time to come together\u2019 after Liberals secure majority",
-      "link": "https://www.theguardian.com/world/2026/apr/14/mark-carney-canada-parliament-liberal",
-      "mean_score": 0.37,
-      "vader_score": 0.34,
-      "textblob_score": 0.4,
-      "first_sentence": "Mark Carney has said he will govern with \u201chumility, determination and a clear understanding of what this moment demands\u201d after his Liberals swept three byelections Monday evening, forging a parliamentary majority just more than a year after he took power.",
-      "timestamp": "2026-04-14T15:36:39Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018Cheers, Timmy!\u2019 Royal Ballet and Opera head thanks Chalamet for \u2018fantastic\u2019 boost to sales",
-      "link": "https://www.theguardian.com/film/2026/apr/14/royal-ballet-and-opera-head-thanks-timothee-chalamet-boost-to-sales",
-      "mean_score": 0.5044,
-      "vader_score": 0.7088,
-      "textblob_score": 0.3,
-      "first_sentence": "The head of the UK\u2019s Royal Ballet and Opera has thanked Hollywood actor Timoth\u00e9e Chalamet for inadvertently boosting ticket sales and engagement through his high-profile critique of the art forms last month.",
-      "timestamp": "2026-04-14T15:16:12Z",
       "source": "The Guardian"
     }
   ]
