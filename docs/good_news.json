@@ -1,6 +1,76 @@
 {
-  "last run": "2026-04-22T18:23:24Z",
+  "last run": "2026-04-22T21:18:15Z",
   "stories": [
+    {
+      "headline": "Stump that created 'craic' in footpath becomes neighbourhood attraction",
+      "link": "https://www.abc.net.au/news/2026-04-23/stump-decorated-as-its-remains-rot-on-adelaide-street/106557174",
+      "mean_score": 0.3062,
+      "vader_score": 0.6124,
+      "textblob_score": 0.0,
+      "first_sentence": "The City of Unley council has left a tree stump and then the hole it created damaging a footpath for seven months.",
+      "timestamp": "2026-04-22T20:14:53Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "RFK Jr. won't back CDC director on vaccines as agency scraps positive data",
+      "link": "https://arstechnica.com/health/2026/04/rfk-jr-doubles-down-on-vaccine-meddling-as-cdc-junks-scientific-study/",
+      "mean_score": 0.3355,
+      "vader_score": 0.5574,
+      "textblob_score": 0.1136,
+      "first_sentence": "Kennedy\u2019s tesimony sets up another clash over vaccines with next CDC director.",
+      "timestamp": "2026-04-22T20:06:49Z",
+      "source": "Ars Technica"
+    },
+    {
+      "headline": "Super foamy sneakers are everywhere. How do they stack up?",
+      "link": "https://www.theguardian.com/fashion/2026/apr/22/super-foamy-sneakers-everywhere-are-they-good",
+      "mean_score": 0.4664,
+      "vader_score": 0.5994,
+      "textblob_score": 0.3333,
+      "first_sentence": "Floaty foam-based footwear has been spotted on celebrities for years, from Aubrey Plaza in Hokas and Harry Styles in New Balance to Zendaya\u2019s ongoing deal with On running shoes.",
+      "timestamp": "2026-04-22T20:00:35Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Liberty jobs secure for now, but what happens when the money runs out?",
+      "link": "https://www.abc.net.au/news/2026-04-23/analysis-liberty-bell-bay-wages-rescue-package/106586958",
+      "mean_score": 0.4202,
+      "vader_score": 0.4404,
+      "textblob_score": 0.4,
+      "first_sentence": "Three extra weeks of pay were not exactly the life raft employees at Liberty Bell Bay were hoping for.",
+      "timestamp": "2026-04-22T19:38:24Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "'It's like someone waved a magic wand': Girl, 6, has sight restored by gene therapy",
+      "link": "https://www.bbc.com/news/articles/ce35x8759zzo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5497,
+      "vader_score": 0.5994,
+      "textblob_score": 0.5,
+      "first_sentence": "The mother of a six-year-old girl who had life-changing eye gene therapy says it is \"like someone waved a magic wand and restored her sight in the dark\".",
+      "timestamp": "2026-04-22T19:31:35Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "More than a third of Australians are seeking food relief for the first time",
+      "link": "https://www.abc.net.au/news/2026-04-23/more-than-a-third-are-seeking-food-relief-for-the-first-time/106592284",
+      "mean_score": 0.3634,
+      "vader_score": 0.4767,
+      "textblob_score": 0.25,
+      "first_sentence": "Oz Harvest's annual Frontline Report surveyed about 875 food charities in every jurisdiction in Australia, except for the Northern Territory.",
+      "timestamp": "2026-04-22T18:50:48Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "The Guardian view on the Vatican v the White House: Pope Leo is carrying on Francis\u2019s good work | Editorial",
+      "link": "https://www.theguardian.com/commentisfree/2026/apr/22/the-guardian-view-on-the-vatican-vs-white-house-pope-leo-is-carrying-on-franciss-good-work",
+      "mean_score": 0.3952,
+      "vader_score": 0.4404,
+      "textblob_score": 0.35,
+      "first_sentence": "One year after the death of Pope Francis, the Vatican this week hosted the premiere of a documentary tribute by Martin Scorsese.",
+      "timestamp": "2026-04-22T17:51:33Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Your pint could come with a surprising health benefit",
       "link": "https://www.bbc.com/news/articles/cvglqw709k1o?at_medium=RSS&at_campaign=rss",
@@ -162,6 +232,16 @@
       "source": "The Guardian"
     },
     {
+      "headline": "NASA hopes its new telescope will help it chart an 'atlas of the universe'",
+      "link": "https://www.sbs.com.au/news/article/nasa-hopes-its-new-telescope-will-help-it-chart-an-atlas-of-the-universe/4a9ofbq80",
+      "mean_score": 0.4034,
+      "vader_score": 0.6705,
+      "textblob_score": 0.1364,
+      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+      "timestamp": "2026-04-22T09:04:26Z",
+      "source": "SBS News"
+    },
+    {
       "headline": "Starmer to face MPs as loyalist minister declines to say that sacking Olly Robbins was fair \u2013 UK politics live",
       "link": "https://www.theguardian.com/politics/live/2026/apr/22/keir-starmer-kemi-badenoch-pmqs-olly-robbins-peter-mandelson-uk-politics-latest-news-updates",
       "mean_score": 0.502,
@@ -270,6 +350,16 @@
       "first_sentence": "An environmental charity has offered to match all public donations made to an appeal to protect the River Teme between 22 and 29 April.",
       "timestamp": "2026-04-22T05:15:26Z",
       "source": "BBC News"
+    },
+    {
+      "headline": "'We're the mugs here': Is Japan getting Australian gas for free?",
+      "link": "https://www.sbs.com.au/news/article/is-japan-getting-australian-gas-for-free/rbvl35n6x",
+      "mean_score": 0.3553,
+      "vader_score": 0.5106,
+      "textblob_score": 0.2,
+      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+      "timestamp": "2026-04-22T05:12:16Z",
+      "source": "SBS News"
     },
     {
       "headline": "Virginia approves redistricting, giving Democrats edge in midterms",
@@ -2410,96 +2500,6 @@
       "first_sentence": "They are among hundreds of thousands of ship plans and documents made widely accessible.",
       "timestamp": "2026-04-15T10:11:15Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Labour claims Reform UK won\u2019t protect women, as poll suggests Farage\u2019s party heading for \u2018seismic\u2019 wins in May \u2013 UK politics live",
-      "link": "https://www.theguardian.com/politics/live/2026/apr/15/labour-reform-uk-women-nigel-farage-local-elections-keir-starmer-kemi-badenoch-pmqs-iran-war-uk-politics-latest",
-      "mean_score": 0.5292,
-      "vader_score": 0.8402,
-      "textblob_score": 0.2182,
-      "first_sentence": "Good morning.",
-      "timestamp": "2026-04-15T09:19:10Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Raffle winner thrilled to claim a $1 million Picasso with a $117 ticket",
-      "link": "https://www.npr.org/2026/04/15/g-s1-117480/raffle-winner-picasso",
-      "mean_score": 0.6859,
-      "vader_score": 0.7717,
-      "textblob_score": 0.6,
-      "first_sentence": "PARIS \u2014 A Parisian art enthusiast could not believe his luck when he found out Tuesday he'd won a Pablo Picasso painting worth $1 million with a $117 raffle ticket.",
-      "timestamp": "2026-04-15T08:20:44Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Super Typhoon Sinlaku pounds remote U.S. islands in the Pacific Ocean",
-      "link": "https://www.npr.org/2026/04/15/g-s1-117475/super-typhoon-sinlaku",
-      "mean_score": 0.358,
-      "vader_score": 0.5994,
-      "textblob_score": 0.1167,
-      "first_sentence": "A super typhoon steadily battered a pair of remote U.S.",
-      "timestamp": "2026-04-15T07:43:09Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Paris art enthusiast wins \u20ac1m Picasso painting in \u20ac100 charity raffle",
-      "link": "https://www.theguardian.com/world/2026/apr/15/picasso-painting-winner-charity-raffle",
-      "mean_score": 0.5701,
-      "vader_score": 0.8402,
-      "textblob_score": 0.3,
-      "first_sentence": "A Parisian art enthusiast could not believe his luck when he found out on Tuesday he had won a Pablo Picasso painting worth more than \u20ac1m with a \u20ac100 raffle ticket.",
-      "timestamp": "2026-04-15T07:41:35Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018Field of Dreams stuff\u2019: will Leeds finally get its trams after decades of promises?",
-      "link": "https://www.theguardian.com/uk-news/2026/apr/15/field-of-dreams-stuff-will-leeds-finally-get-its-trams-after-decades-of-promises",
-      "mean_score": 0.3243,
-      "vader_score": 0.6486,
-      "textblob_score": 0.0,
-      "first_sentence": "It is 1993 and a young James Lewis is going to do work experience in Leeds city council\u2019s highways department.",
-      "timestamp": "2026-04-15T06:00:02Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "From gentle strolls to zipline thrills: summer hiking in the Swiss Alps",
-      "link": "https://www.theguardian.com/travel/2026/apr/15/summer-hiking-switzerland-valais",
-      "mean_score": 0.4298,
-      "vader_score": 0.6597,
-      "textblob_score": 0.2,
-      "first_sentence": "Thick grey-green mud squidges through my toes as I step into the icy, irresistible water.",
-      "timestamp": "2026-04-15T06:00:02Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "MacBook Air M5 review: Apple\u2019s best consumer laptop speeds up",
-      "link": "https://www.theguardian.com/technology/2026/apr/15/macbook-air-m5-review-apple-best-consumer-laptop-faster-battery-life-storage",
-      "mean_score": 0.8185,
-      "vader_score": 0.6369,
-      "textblob_score": 1.0,
-      "first_sentence": "The Guardian\u2019s journalism is independent.",
-      "timestamp": "2026-04-15T06:00:01Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Legal advisers help migrants pose as gay to get asylum, undercover BBC investigation finds",
-      "link": "https://www.bbc.com/news/articles/c937wldkkw8o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4011,
-      "vader_score": 0.4939,
-      "textblob_score": 0.3083,
-      "first_sentence": "A shadow industry of law firms and advisers is charging thousands of pounds to help migrants pretend to be gay in order to stay in the UK, the BBC has found.",
-      "timestamp": "2026-04-15T04:58:25Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Angus Taylor\u2019s bid to reel in One Nation voters reeks of desperation, and tramples over Australia\u2019s fair go values | Zoe Daniel",
-      "link": "https://www.theguardian.com/commentisfree/2026/apr/15/angus-taylor-immigration-speech-tramples-australia-fair-go-values",
-      "mean_score": 0.475,
-      "vader_score": 0.25,
-      "textblob_score": 0.7,
-      "first_sentence": "Explainer: What is in Angus Taylor\u2019s new immigration plan and is it inspired by Trump\u2019s approach in the US?.",
-      "timestamp": "2026-04-15T03:58:17Z",
-      "source": "The Guardian"
     }
   ]
 }
