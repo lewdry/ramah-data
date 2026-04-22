@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Split decision as Gina Rinehart, Wright family both claim legal wins",
+    "link": "https://www.abc.net.au/news/2026-04-15/gine-rinehart-hancock-wright-prospecting-legal-judgement/106566372",
+    "mean_score": 0.4435,
+    "vader_score": 0.6369,
+    "textblob_score": 0.25,
+    "first_sentence": "Gina Rinehart has suffered a legal blow, with a court ruling the family of her father's former business partner has the rights to royalties from her Hope Downs mine in WA's Pilbara.",
+    "timestamp": "2026-04-15T03:49:40Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Developer claimed 'superior intellect' in mayor harassment case",
+    "link": "https://www.abc.net.au/news/2026-04-15/avo-battle-wingecarribee-developer-council/106564862",
+    "mean_score": 0.5794,
+    "vader_score": 0.4588,
+    "textblob_score": 0.7,
+    "first_sentence": "Wealthy NSW cattle breeder Theo Onisforou denies harassment allegations, saying the case is aimed at silencing him before a council bid.",
+    "timestamp": "2026-04-15T03:28:20Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Moana Pasifika to leave Super Rugby at end of season",
+    "link": "https://www.abc.net.au/news/2026-04-15/moana-pasifika-confirm-super-rugby-exit/106566478",
+    "mean_score": 0.4526,
+    "vader_score": 0.5719,
+    "textblob_score": 0.3333,
+    "first_sentence": "Pacific rugby fans will lose the Moana Pasifika team at the end of the Super Rugby Pacific season unless the club can find new owners.",
+    "timestamp": "2026-04-15T01:21:55Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "\u2018No longer viable\u2019: Super Rugby team Moana Pasifika to be axed at end of season",
+    "link": "https://www.theguardian.com/sport/2026/apr/15/no-longer-viable-super-rugby-team-moana-pasifika-to-be-axed-at-end-of-season",
+    "mean_score": 0.3576,
+    "vader_score": 0.3818,
+    "textblob_score": 0.3333,
+    "first_sentence": "Moana Pasifika have confirmed the Super Rugby franchise will fold at the end of the season, citing \u201cfinancial, operational, and strategic realities\u201d.",
+    "timestamp": "2026-04-15T00:38:57Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Help to Buy mostly helped high earners, IFS says",
     "link": "https://www.bbc.com/news/articles/cy511kd5lkwo?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.3659,

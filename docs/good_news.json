@@ -1,6 +1,36 @@
 {
-  "last run": "2026-04-22T15:29:02Z",
+  "last run": "2026-04-22T18:23:24Z",
   "stories": [
+    {
+      "headline": "Your pint could come with a surprising health benefit",
+      "link": "https://www.bbc.com/news/articles/cvglqw709k1o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.6624,
+      "vader_score": 0.6249,
+      "textblob_score": 0.7,
+      "first_sentence": "Drinking the odd pint of beer can provide \"substantial levels\" of an essential brain-boosting vitamin in your diet, according to new research in a respected journal.",
+      "timestamp": "2026-04-22T17:08:36Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Towering tulips and contemplative cows \u2013 readers\u2019 best photographs",
+      "link": "https://www.theguardian.com/community/gallery/2026/apr/22/towering-tulips-and-contemplative-cows-readers-best-photographs",
+      "mean_score": 0.8185,
+      "vader_score": 0.6369,
+      "textblob_score": 1.0,
+      "first_sentence": "Click here to submit a picture for publication in these online galleries and/or on the Guardian letters page Continue reading.",
+      "timestamp": "2026-04-22T16:10:41Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Strait of Hormuz is hosting gunboat diplomacy as US and Iran vie for most effective blockade",
+      "link": "https://www.theguardian.com/world/2026/apr/22/strait-of-hormuz-gunboat-diplomacy-us-iran-blockade",
+      "mean_score": 0.5378,
+      "vader_score": 0.5256,
+      "textblob_score": 0.55,
+      "first_sentence": "Donald Trump\u2019s indefinite shelving of the plan to bomb Iran\u2019s bridges and power stations on Tuesday night is being widely described as leaving the conflict in limbo, but that is anything but the truth.",
+      "timestamp": "2026-04-22T15:48:13Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "People once cited romcoms to describe the love they hoped for. Now the doomscroll has replaced the meet-cute | Lisa Portolan",
       "link": "https://www.theguardian.com/commentisfree/2026/apr/23/relationships-finding-love-doomscrolling-replaced-romcoms",
@@ -110,6 +140,16 @@
       "first_sentence": "KYIV, Ukraine (AP) \u2014 Ukraine is pushing for face-to-face talks between President Volodymyr Zelenskyy and Russian President Vladimir Putin, Kyiv\u2019s top diplomat said, presenting a potential summit as a way of injecting new momentum into U.S.-led efforts to end Russia\u2019s more than four-year invasion of its neighbor.",
       "timestamp": "2026-04-22T10:53:01Z",
       "source": "AP News"
+    },
+    {
+      "headline": "Hakeem Jeffries says Virginia redistricting assures a 'free and fair midterm'",
+      "link": "https://www.npr.org/2026/04/22/nx-s1-5794699/hakeem-jeffries-virginia-redistricting-election-midterms",
+      "mean_score": 0.6673,
+      "vader_score": 0.7845,
+      "textblob_score": 0.55,
+      "first_sentence": "Rep.",
+      "timestamp": "2026-04-22T10:42:15Z",
+      "source": "NPR News"
     },
     {
       "headline": "\u2018Get back to work\u2019: Amazon faces fresh scrutiny over workplace safety record",
@@ -2459,46 +2499,6 @@
       "textblob_score": 0.7,
       "first_sentence": "Explainer: What is in Angus Taylor\u2019s new immigration plan and is it inspired by Trump\u2019s approach in the US?.",
       "timestamp": "2026-04-15T03:58:17Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Split decision as Gina Rinehart, Wright family both claim legal wins",
-      "link": "https://www.abc.net.au/news/2026-04-15/gine-rinehart-hancock-wright-prospecting-legal-judgement/106566372",
-      "mean_score": 0.4435,
-      "vader_score": 0.6369,
-      "textblob_score": 0.25,
-      "first_sentence": "Gina Rinehart has suffered a legal blow, with a court ruling the family of her father's former business partner has the rights to royalties from her Hope Downs mine in WA's Pilbara.",
-      "timestamp": "2026-04-15T03:49:40Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Developer claimed 'superior intellect' in mayor harassment case",
-      "link": "https://www.abc.net.au/news/2026-04-15/avo-battle-wingecarribee-developer-council/106564862",
-      "mean_score": 0.5794,
-      "vader_score": 0.4588,
-      "textblob_score": 0.7,
-      "first_sentence": "Wealthy NSW cattle breeder Theo Onisforou denies harassment allegations, saying the case is aimed at silencing him before a council bid.",
-      "timestamp": "2026-04-15T03:28:20Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Moana Pasifika to leave Super Rugby at end of season",
-      "link": "https://www.abc.net.au/news/2026-04-15/moana-pasifika-confirm-super-rugby-exit/106566478",
-      "mean_score": 0.4526,
-      "vader_score": 0.5719,
-      "textblob_score": 0.3333,
-      "first_sentence": "Pacific rugby fans will lose the Moana Pasifika team at the end of the Super Rugby Pacific season unless the club can find new owners.",
-      "timestamp": "2026-04-15T01:21:55Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "\u2018No longer viable\u2019: Super Rugby team Moana Pasifika to be axed at end of season",
-      "link": "https://www.theguardian.com/sport/2026/apr/15/no-longer-viable-super-rugby-team-moana-pasifika-to-be-axed-at-end-of-season",
-      "mean_score": 0.3576,
-      "vader_score": 0.3818,
-      "textblob_score": 0.3333,
-      "first_sentence": "Moana Pasifika have confirmed the Super Rugby franchise will fold at the end of the season, citing \u201cfinancial, operational, and strategic realities\u201d.",
-      "timestamp": "2026-04-15T00:38:57Z",
       "source": "The Guardian"
     }
   ]
