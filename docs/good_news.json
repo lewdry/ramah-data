@@ -1,6 +1,46 @@
 {
-  "last run": "2026-04-22T04:01:57Z",
+  "last run": "2026-04-22T06:38:09Z",
   "stories": [
+    {
+      "headline": "Australia news live: independent candidate for Farrer says Coalition preferencing One Nation \u2018not for the good of our community\u2019",
+      "link": "https://www.theguardian.com/australia-news/live/2026/apr/22/australia-news-live-ndis-savings-cuts-mark-butler-aged-care-cost-of-living-budget-jim-chalmers-labor-coalition-ntwnfb",
+      "mean_score": 0.3596,
+      "vader_score": 0.4404,
+      "textblob_score": 0.2788,
+      "first_sentence": "The independent candidate for Farrer, Michelle Milthorpe, has responded to news that the Liberals and Nationals will preference One Nation above her in next month\u2019s federal byelection.",
+      "timestamp": "2026-04-22T06:04:48Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "It\u2019s time to reset the NDIS to ensure it is there for those that need it the most | Martin Laverty",
+      "link": "https://www.theguardian.com/commentisfree/2026/apr/22/ndis-disability-scheme-reset",
+      "mean_score": 0.4409,
+      "vader_score": 0.3818,
+      "textblob_score": 0.5,
+      "first_sentence": "The federal health minister, Mark Butler, outlined a plan to the National Press Club today that will reset the NDIS to its original intent and save it for those who need it the most.",
+      "timestamp": "2026-04-22T05:27:49Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "'Performing together on Saturday Night Live is amazing'",
+      "link": "https://www.bbc.com/news/articles/c2lw8k0rl9no?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.477,
+      "vader_score": 0.5859,
+      "textblob_score": 0.3682,
+      "first_sentence": "\"I've never known fear like when I was stepping out on to the studio floor for that first ever one, knowing that we were going to be live in five minutes,\" says comedian George Fouracres, one of the 11-strong cast of Saturday Night Live UK.",
+      "timestamp": "2026-04-22T05:19:11Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Charity offers to boost river conservation funds",
+      "link": "https://www.bbc.com/news/articles/cqj8k4e15l1o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3852,
+      "vader_score": 0.6705,
+      "textblob_score": 0.1,
+      "first_sentence": "An environmental charity has offered to match all public donations made to an appeal to protect the River Teme between 22 and 29 April.",
+      "timestamp": "2026-04-22T05:15:26Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Virginia approves redistricting, giving Democrats edge in midterms",
       "link": "https://www.bbc.com/news/articles/c895j8zgqe4o?at_medium=RSS&at_campaign=rss",
@@ -2459,46 +2499,6 @@
       "textblob_score": 0.3,
       "first_sentence": "The head of the UK\u2019s Royal Ballet and Opera has thanked Hollywood actor Timoth\u00e9e Chalamet for inadvertently boosting ticket sales and engagement through his high-profile critique of the art forms last month.",
       "timestamp": "2026-04-14T15:16:12Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Politicians and media can\u2019t imagine a fossil-fuel free world - and it\u2019s holding Australians back from huge EV savings | Adam Morton",
-      "link": "https://www.theguardian.com/environment/2026/apr/15/australia-fossil-fuels-politics-electric-vehicle-savings-clean-energy",
-      "mean_score": 0.4737,
-      "vader_score": 0.6808,
-      "textblob_score": 0.2667,
-      "first_sentence": "It is tempting to think about what could have been.",
-      "timestamp": "2026-04-14T15:00:41Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Zelenskyy hails Magyar\u2019s win over Orb\u00e1n as \u2018the victory of light over darkness\u2019 in Hungary \u2013 as it happened",
-      "link": "https://www.theguardian.com/world/live/2026/apr/14/hungary-peter-magyar-viktor-orban-eu-ukraine-russia-europe-live-news-updates",
-      "mean_score": 0.593,
-      "vader_score": 0.5859,
-      "textblob_score": 0.6,
-      "first_sentence": "Ukraine\u2019s president Volodymyr Zelenskyy has hailed the opposition win in Hungary as \u201cthe victory of light over darkness,\u201d as he called for \u201cpragmatic, friendly\u201d relations with the new administration.",
-      "timestamp": "2026-04-14T14:57:46Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Carney wins majority government as Canadian by-elections boost Liberals",
-      "link": "https://www.abc.net.au/news/2026-04-15/mark-carney-secures-majority-government-in-canada/106565296",
-      "mean_score": 0.5253,
-      "vader_score": 0.7506,
-      "textblob_score": 0.3,
-      "first_sentence": "Canadian Prime Minister Mark Carney has secured a majority government after winning three by-elections on Monday.",
-      "timestamp": "2026-04-14T14:21:47Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Scottish Greens pledge free bus travel and basic income in election manifesto",
-      "link": "https://www.theguardian.com/uk-news/2026/apr/14/scottish-greens-pledge-free-bus-travel-and-basic-income-in-election-manifesto",
-      "mean_score": 0.3553,
-      "vader_score": 0.5106,
-      "textblob_score": 0.2,
-      "first_sentence": "The Scottish Greens have called for free bus travel, thousands of extra teachers and doctors and a universal basic income among hundreds of uncosted manifesto pledges.",
-      "timestamp": "2026-04-14T14:13:25Z",
       "source": "The Guardian"
     }
   ]

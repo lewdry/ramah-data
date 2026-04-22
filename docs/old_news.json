@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Politicians and media can\u2019t imagine a fossil-fuel free world - and it\u2019s holding Australians back from huge EV savings | Adam Morton",
+    "link": "https://www.theguardian.com/environment/2026/apr/15/australia-fossil-fuels-politics-electric-vehicle-savings-clean-energy",
+    "mean_score": 0.4737,
+    "vader_score": 0.6808,
+    "textblob_score": 0.2667,
+    "first_sentence": "It is tempting to think about what could have been.",
+    "timestamp": "2026-04-14T15:00:41Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Zelenskyy hails Magyar\u2019s win over Orb\u00e1n as \u2018the victory of light over darkness\u2019 in Hungary \u2013 as it happened",
+    "link": "https://www.theguardian.com/world/live/2026/apr/14/hungary-peter-magyar-viktor-orban-eu-ukraine-russia-europe-live-news-updates",
+    "mean_score": 0.593,
+    "vader_score": 0.5859,
+    "textblob_score": 0.6,
+    "first_sentence": "Ukraine\u2019s president Volodymyr Zelenskyy has hailed the opposition win in Hungary as \u201cthe victory of light over darkness,\u201d as he called for \u201cpragmatic, friendly\u201d relations with the new administration.",
+    "timestamp": "2026-04-14T14:57:46Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Carney wins majority government as Canadian by-elections boost Liberals",
+    "link": "https://www.abc.net.au/news/2026-04-15/mark-carney-secures-majority-government-in-canada/106565296",
+    "mean_score": 0.5253,
+    "vader_score": 0.7506,
+    "textblob_score": 0.3,
+    "first_sentence": "Canadian Prime Minister Mark Carney has secured a majority government after winning three by-elections on Monday.",
+    "timestamp": "2026-04-14T14:21:47Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Scottish Greens pledge free bus travel and basic income in election manifesto",
+    "link": "https://www.theguardian.com/uk-news/2026/apr/14/scottish-greens-pledge-free-bus-travel-and-basic-income-in-election-manifesto",
+    "mean_score": 0.3553,
+    "vader_score": 0.5106,
+    "textblob_score": 0.2,
+    "first_sentence": "The Scottish Greens have called for free bus travel, thousands of extra teachers and doctors and a universal basic income among hundreds of uncosted manifesto pledges.",
+    "timestamp": "2026-04-14T14:13:25Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Super Typhoon Sinlaku pounds remote US islands in the Pacific Ocean with ferocious winds",
     "link": "https://apnews.com/article/super-typhoon-sinlaku-pacific-northern-mariana-islands-edbd6db03456ee26a15c4d996db531b7",
     "mean_score": 0.3295,
