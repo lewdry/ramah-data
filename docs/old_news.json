@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Chalamet thanked by Royal Ballet and Opera boss for boosting ticket sales",
+    "link": "https://www.bbc.com/news/articles/c20qqwwwx73o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3243,
+    "vader_score": 0.6486,
+    "textblob_score": 0.0,
+    "first_sentence": "The head of the Royal Ballet and Opera (RBO) has thanked Hollywood star Timoth\u00e9e Chalamet for boosting the London institution's ticket sales following the actor's controversial remarks about the art forms.",
+    "timestamp": "2026-04-14T09:34:42Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "\u2018It was life-changing\u2019: the celebrated art historian who spent 46 years sitting for Frank Auerbach",
+    "link": "https://www.theguardian.com/culture/2026/apr/14/it-was-life-changing-the-celebrated-art-historian-who-spent-46-years-sitting-for-frank-auerbach",
+    "mean_score": 0.3484,
+    "vader_score": 0.5719,
+    "textblob_score": 0.125,
+    "first_sentence": "Last November, a work titled Potiphar\u2019s Wife by British painter Euan Uglow appeared in a private sale by Christie\u2019s in London.",
+    "timestamp": "2026-04-14T09:18:38Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "\u2018They accomplished so much, even as they were dying\u2019: the groundbreaking gay art of Peter Hujar and Paul Thek",
+    "link": "https://www.theguardian.com/artanddesign/2026/apr/14/peter-hujar-paul-thek-artists-book",
+    "mean_score": 0.3563,
+    "vader_score": 0.4404,
+    "textblob_score": 0.2722,
+    "first_sentence": "Andrew Durbin, author and editor-in-chief of Frieze Magazine, spent almost five years writing The Wonderful World That Almost Was.",
+    "timestamp": "2026-04-14T09:00:06Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Take heart, Keir Starmer \u2013 Australia\u2019s PM faced similarly dim prospects, and he triumphed | Tim Soutphommasane",
     "link": "https://www.theguardian.com/commentisfree/2026/apr/14/keir-starmer-anthony-albanese-australia-labour-party-reform-uk",
     "mean_score": 0.4813,
