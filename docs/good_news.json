@@ -1,6 +1,66 @@
 {
-  "last run": "2026-04-22T09:32:53Z",
+  "last run": "2026-04-22T12:21:41Z",
   "stories": [
+    {
+      "headline": "Researchers have spent decades breeding better potatoes for chips, and their work isn\u2019t done",
+      "link": "https://apnews.com/article/potato-chips-michigan-varieties-breeding-114043b882cf51d056254ddae29944c2",
+      "mean_score": 0.3202,
+      "vader_score": 0.4404,
+      "textblob_score": 0.2,
+      "first_sentence": "EAST LANSING, Mich.",
+      "timestamp": "2026-04-22T11:53:01Z",
+      "source": "AP News"
+    },
+    {
+      "headline": "England's adaptive cheerleading champions chasing gold in Florida",
+      "link": "https://www.bbc.com/news/articles/cx29zx8nrz2o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3404,
+      "vader_score": 0.6808,
+      "textblob_score": 0.0,
+      "first_sentence": "Every year, teams from across the globe head to Florida to compete in the ICU World Cheerleading Championships.",
+      "timestamp": "2026-04-22T11:16:07Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Our favorite gear at Sea Otter Classic wasn't the bikes\u2014it was the accessories",
+      "link": "https://arstechnica.com/cars/2026/04/our-favorite-gear-at-sea-otter-classic-wasnt-the-bikes-it-was-the-accessories/",
+      "mean_score": 0.3961,
+      "vader_score": 0.4588,
+      "textblob_score": 0.3333,
+      "first_sentence": "A Bluetooth suction-cup rack and a palm-sized tow rope were among our most practical finds.",
+      "timestamp": "2026-04-22T11:15:49Z",
+      "source": "Ars Technica"
+    },
+    {
+      "headline": "\u2018Take in the moments or they just pass you by\u2018: Aden Durde, the first British coach to win a Super Bowl",
+      "link": "https://www.theguardian.com/sport/no-helmets-required/2026/apr/22/aden-durde-british-coach-win-super-bowl-seattle-seahawks-nfl-draft-london",
+      "mean_score": 0.5865,
+      "vader_score": 0.8271,
+      "textblob_score": 0.3458,
+      "first_sentence": "A middle-aged man pulls down his baseball cap, walks across Leicester Square and heads to Greggs for lunch before taking the Piccadilly Line home to Southgate.",
+      "timestamp": "2026-04-22T11:05:23Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Ukraine wants a Zelenskyy-Putin summit to jolt stalled US-led peace efforts",
+      "link": "https://apnews.com/article/russia-ukraine-war-summit-drone-attack-dcd076caeda4cf67f5592274beed6364",
+      "mean_score": 0.3009,
+      "vader_score": 0.4019,
+      "textblob_score": 0.2,
+      "first_sentence": "KYIV, Ukraine (AP) \u2014 Ukraine is pushing for face-to-face talks between President Volodymyr Zelenskyy and Russian President Vladimir Putin, Kyiv\u2019s top diplomat said, presenting a potential summit as a way of injecting new momentum into U.S.-led efforts to end Russia\u2019s more than four-year invasion of its neighbor.",
+      "timestamp": "2026-04-22T10:53:01Z",
+      "source": "AP News"
+    },
+    {
+      "headline": "\u2018Get back to work\u2019: Amazon faces fresh scrutiny over workplace safety record",
+      "link": "https://www.theguardian.com/technology/2026/apr/22/amazon-workplace-safety-record",
+      "mean_score": 0.4252,
+      "vader_score": 0.7003,
+      "textblob_score": 0.15,
+      "first_sentence": "Amazon, one of the world\u2019s largest employers, has for years faced scrutiny over its safety record.",
+      "timestamp": "2026-04-22T10:00:25Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Starmer to face MPs as loyalist minister declines to say that sacking Olly Robbins was fair \u2013 UK politics live",
       "link": "https://www.theguardian.com/politics/live/2026/apr/22/keir-starmer-kemi-badenoch-pmqs-olly-robbins-peter-mandelson-uk-politics-latest-news-updates",
@@ -30,6 +90,16 @@
       "first_sentence": "WASHINGTON \u2014 The days of bonfires guiding airplanes across the United States are long gone \u2014 but those fires' analog descendants are preventing the national aviation system from reaping the benefits of today's digital technology, FAA Administrator Bryan Bedford said on Tuesday.",
       "timestamp": "2026-04-22T09:00:00Z",
       "source": "NPR News"
+    },
+    {
+      "headline": "Housing plan aims to attract more students to international 'gateway' city",
+      "link": "https://www.abc.net.au/news/2026-04-22/cdu-new-rental-darwin-casuarina-university-student-accommodation/106593324",
+      "mean_score": 0.3056,
+      "vader_score": 0.3612,
+      "textblob_score": 0.25,
+      "first_sentence": "Charles Darwin University (CDU) has secured a $70 million loan for new student accommodation, adding hundreds of beds to the CBD's rental pool.",
+      "timestamp": "2026-04-22T08:09:45Z",
+      "source": "ABC News"
     },
     {
       "headline": "The Wonderful World that Almost Was by Andrew Durbin review \u2013 naked ambition",
@@ -2430,76 +2500,6 @@
       "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
       "timestamp": "2026-04-14T21:27:20Z",
       "source": "SBS News"
-    },
-    {
-      "headline": "Live: Chalmers admits budget won't be as planned but still 'ambitious'",
-      "link": "https://www.abc.net.au/news/2026-04-15/federal-politics-blog-albanese-fuel-iran-chalmers-taylor-imf/106565674",
-      "mean_score": 0.4444,
-      "vader_score": 0.6956,
-      "textblob_score": 0.1932,
-      "first_sentence": "Treasurer Jim Chalmers says the budget he'll hand down next month isn't what was initially planned.",
-      "timestamp": "2026-04-14T21:12:21Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Americans ask AI for health care. Hospitals think the answer is more chatbots.",
-      "link": "https://arstechnica.com/health/2026/04/americans-ask-ai-for-health-care-hospitals-think-the-answer-is-more-chatbots/",
-      "mean_score": 0.497,
-      "vader_score": 0.4939,
-      "textblob_score": 0.5,
-      "first_sentence": "Do you trust AI chatbots for health advice? What about one in your patient portal?.",
-      "timestamp": "2026-04-14T20:30:20Z",
-      "source": "Ars Technica"
-    },
-    {
-      "headline": "Can red light therapy really deliver a beauty and health glow-up? Here's the science",
-      "link": "https://www.npr.org/2026/04/14/nx-s1-5759287-e1/can-red-light-therapy-really-deliver-a-beauty-and-health-glow-up-heres-the-science",
-      "mean_score": 0.4102,
-      "vader_score": 0.6204,
-      "textblob_score": 0.2,
-      "first_sentence": "Social media influencers claim red light therapy can deliver everything from younger-looking skin to more hair growth, better sleep and even boost longevity.",
-      "timestamp": "2026-04-14T20:01:40Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "What a 'super El Ni\u00f1o' would mean for Australia's weather in 2026",
-      "link": "https://www.abc.net.au/news/2026-04-15/what-super-el-nino-means-for-australian-weather-in-2026/106564610",
-      "mean_score": 0.3049,
-      "vader_score": 0.5994,
-      "textblob_score": 0.0104,
-      "first_sentence": "Australia's weather in 2026 is likely to shift rapidly from widespread flooding to drought, extreme heat and bushfires.",
-      "timestamp": "2026-04-14T19:57:05Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Can we afford to keep the UK safe?",
-      "link": "https://www.bbc.co.uk/sounds/play/p0nd40v8?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.5,
-      "first_sentence": "Today, a former Nato chief has said that the UK's security and safety is \"in peril\" and Sir Keir Starmer's government has shown \"corrosive complacency\" towards defence.\n\nIn a directly political intervention, Lord Robertson - who is now a key government adviser - says \"We cannot defend Britain with an ever-expanding welfare budget.\"\n \n It comes on the day the IMF has warned the energy shock from the Iran war will hit the UK the hardest of the world's advanced economies.",
-      "timestamp": "2026-04-14T19:31:00Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "The best house shoes might be fuzzy Crocs. Yes, really",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/mar/11/baya-fuzzy-crocs",
-      "mean_score": 0.6923,
-      "vader_score": 0.7845,
-      "textblob_score": 0.6,
-      "first_sentence": "The Guardian\u2019s journalism is independent.",
-      "timestamp": "2026-04-14T18:15:09Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Javokhir Sindarov earns world chess title shot with stunning Candidates win",
-      "link": "https://www.theguardian.com/sport/2026/apr/14/javokhir-sindarov-gukesh-world-chess-championship-candidates",
-      "mean_score": 0.7003,
-      "vader_score": 0.7506,
-      "textblob_score": 0.65,
-      "first_sentence": "Javokhir Sindarov will challenge for Gukesh Dommaraju\u2019s world chess championship this fall after clinching the Candidates tournament with a game to spare on Tuesday afternoon in Cyprus.",
-      "timestamp": "2026-04-14T18:03:51Z",
-      "source": "The Guardian"
     }
   ]
 }

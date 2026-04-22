@@ -1,5 +1,65 @@
 [
   {
+    "headline": "Live: Chalmers admits budget won't be as planned but still 'ambitious'",
+    "link": "https://www.abc.net.au/news/2026-04-15/federal-politics-blog-albanese-fuel-iran-chalmers-taylor-imf/106565674",
+    "mean_score": 0.4444,
+    "vader_score": 0.6956,
+    "textblob_score": 0.1932,
+    "first_sentence": "Treasurer Jim Chalmers says the budget he'll hand down next month isn't what was initially planned.",
+    "timestamp": "2026-04-14T21:12:21Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Americans ask AI for health care. Hospitals think the answer is more chatbots.",
+    "link": "https://arstechnica.com/health/2026/04/americans-ask-ai-for-health-care-hospitals-think-the-answer-is-more-chatbots/",
+    "mean_score": 0.497,
+    "vader_score": 0.4939,
+    "textblob_score": 0.5,
+    "first_sentence": "Do you trust AI chatbots for health advice? What about one in your patient portal?.",
+    "timestamp": "2026-04-14T20:30:20Z",
+    "source": "Ars Technica"
+  },
+  {
+    "headline": "Can red light therapy really deliver a beauty and health glow-up? Here's the science",
+    "link": "https://www.npr.org/2026/04/14/nx-s1-5759287-e1/can-red-light-therapy-really-deliver-a-beauty-and-health-glow-up-heres-the-science",
+    "mean_score": 0.4102,
+    "vader_score": 0.6204,
+    "textblob_score": 0.2,
+    "first_sentence": "Social media influencers claim red light therapy can deliver everything from younger-looking skin to more hair growth, better sleep and even boost longevity.",
+    "timestamp": "2026-04-14T20:01:40Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "What a 'super El Ni\u00f1o' would mean for Australia's weather in 2026",
+    "link": "https://www.abc.net.au/news/2026-04-15/what-super-el-nino-means-for-australian-weather-in-2026/106564610",
+    "mean_score": 0.3049,
+    "vader_score": 0.5994,
+    "textblob_score": 0.0104,
+    "first_sentence": "Australia's weather in 2026 is likely to shift rapidly from widespread flooding to drought, extreme heat and bushfires.",
+    "timestamp": "2026-04-14T19:57:05Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Can we afford to keep the UK safe?",
+    "link": "https://www.bbc.co.uk/sounds/play/p0nd40v8?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4702,
+    "vader_score": 0.4404,
+    "textblob_score": 0.5,
+    "first_sentence": "Today, a former Nato chief has said that the UK's security and safety is \"in peril\" and Sir Keir Starmer's government has shown \"corrosive complacency\" towards defence.\n\nIn a directly political intervention, Lord Robertson - who is now a key government adviser - says \"We cannot defend Britain with an ever-expanding welfare budget.\"\n \n It comes on the day the IMF has warned the energy shock from the Iran war will hit the UK the hardest of the world's advanced economies.",
+    "timestamp": "2026-04-14T19:31:00Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Javokhir Sindarov earns world chess title shot with stunning Candidates win",
+    "link": "https://www.theguardian.com/sport/2026/apr/14/javokhir-sindarov-gukesh-world-chess-championship-candidates",
+    "mean_score": 0.7003,
+    "vader_score": 0.7506,
+    "textblob_score": 0.65,
+    "first_sentence": "Javokhir Sindarov will challenge for Gukesh Dommaraju\u2019s world chess championship this fall after clinching the Candidates tournament with a game to spare on Tuesday afternoon in Cyprus.",
+    "timestamp": "2026-04-14T18:03:51Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Why aren\u2019t Republicans thrilled by the fall in teen pregnancies? | Arwa Mahdawi",
     "link": "https://www.theguardian.com/commentisfree/2026/apr/14/why-arent-republicans-thrilled-by-the-fall-in-teen-pregnancies",
     "mean_score": 0.3702,
