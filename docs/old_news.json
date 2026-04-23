@@ -1,5 +1,35 @@
 [
   {
+    "headline": "The power of the Dunst: Kirsten\u2019s best film performances \u2013 ranked!",
+    "link": "https://www.theguardian.com/film/2026/apr/16/kirsten-dunst-films-ranked",
+    "mean_score": 0.8348,
+    "vader_score": 0.6696,
+    "textblob_score": 1.0,
+    "first_sentence": "An elegant, sun-soaked Patricia Highsmith adaptation with fine work from Viggo Mortensen as a con man and Dunst as his wife, holidaying in early 1960s Athens when they meet an American tour guide (Oscar Isaac).",
+    "timestamp": "2026-04-16T13:52:49Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Vaccines a huge success, but public trust must be earned - key findings from Covid report",
+    "link": "https://www.bbc.com/news/articles/ce3dp52l70zo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4951,
+    "vader_score": 0.8151,
+    "textblob_score": 0.175,
+    "first_sentence": "The rollout of Covid vaccines \u2013 the largest immunisation programme in UK history -  was an \"extraordinary feat\" which saved hundreds of thousands of lives, the Covid inquiry says.",
+    "timestamp": "2026-04-16T13:02:12Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Champions League reaction: Sid Lowe answers your questions \u2013 live",
+    "link": "https://www.theguardian.com/football/live/2026/apr/16/your-champions-league-questions-answered-sid-lowe",
+    "mean_score": 0.3679,
+    "vader_score": 0.5994,
+    "textblob_score": 0.1364,
+    "first_sentence": "CalumGilhooly asks: Do you agree that money is killing football? Teams like Forest, Celtic, Ajax, Steaua will never be able to develop a team to compete now.",
+    "timestamp": "2026-04-16T12:18:54Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Church in Wales approves blessings of same-sex marriages",
     "link": "https://www.bbc.com/news/articles/cx291ejr30xo?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.3675,

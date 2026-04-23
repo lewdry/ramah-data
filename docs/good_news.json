@@ -1,6 +1,16 @@
 {
-  "last run": "2026-04-23T18:24:20Z",
+  "last run": "2026-04-23T21:17:24Z",
   "stories": [
+    {
+      "headline": "SNP's McAllan supports more 'evidence-led' drilling in North Sea",
+      "link": "https://www.bbc.com/news/articles/c2d8610rny4o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4306,
+      "vader_score": 0.3612,
+      "textblob_score": 0.5,
+      "first_sentence": "SNP minister Mairi McAllan has said there should be more drilling in the North Sea, providing it is compatible with energy targets and required for energy security.",
+      "timestamp": "2026-04-23T20:45:52Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Viva boss tells Kohler more refineries needed for secure fuel supply",
       "link": "https://www.abc.net.au/news/2026-04-24/viva-energy-boss-tell-alan-kohler-need-more-oil-refineries-fuel/106596864",
@@ -52,6 +62,16 @@
       "source": "The Guardian"
     },
     {
+      "headline": "Cannes did camera: how the film festival loves to watch itself",
+      "link": "https://www.theguardian.com/film/2026/apr/23/cannes-did-camera-how-the-film-festival-loves-to-watch-itself",
+      "mean_score": 0.3922,
+      "vader_score": 0.7845,
+      "textblob_score": 0.0,
+      "first_sentence": "From An Almost Perfect Affair to Mr Bean\u2019s Holiday, there\u2019s nothing the festival enjoys more than seeing itself on screen.",
+      "timestamp": "2026-04-23T15:00:15Z",
+      "source": "The Guardian"
+    },
+    {
       "headline": "Nine in 10 UK voters across parties support right to abortion, poll finds",
       "link": "https://www.theguardian.com/society/2026/apr/23/uk-voters-abortion-rights-women-health-poll",
       "mean_score": 0.4727,
@@ -59,6 +79,16 @@
       "textblob_score": 0.2857,
       "first_sentence": "New polling has found that whatever their party political leanings, an overwhelming majority of people support the right to access an abortion \u2013 although young people, in particular, fear reproductive rights may be reduced.",
       "timestamp": "2026-04-23T15:00:13Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Timothy Ridout: Alto Appassionato album review \u2013 engaging and smartly curated viola and piano programme",
+      "link": "https://www.theguardian.com/music/2026/apr/23/timothy-ridout-alto-appassionato-album-review-jonathan-ware",
+      "mean_score": 0.4533,
+      "vader_score": 0.5994,
+      "textblob_score": 0.3071,
+      "first_sentence": "Friends and colleagues working side by side in the musical melting pot of fin-de-siecle Paris form the connective tissue in this attractive and smartly curated programme by violist Timothy Ridout and pianist Jonathan Ware.",
+      "timestamp": "2026-04-23T14:00:15Z",
       "source": "The Guardian"
     },
     {
@@ -2470,36 +2500,6 @@
       "first_sentence": "NPR has received two of the largest gifts in the public media network's existence, totalling $113 million.",
       "timestamp": "2026-04-16T14:18:37Z",
       "source": "NPR News"
-    },
-    {
-      "headline": "The power of the Dunst: Kirsten\u2019s best film performances \u2013 ranked!",
-      "link": "https://www.theguardian.com/film/2026/apr/16/kirsten-dunst-films-ranked",
-      "mean_score": 0.8348,
-      "vader_score": 0.6696,
-      "textblob_score": 1.0,
-      "first_sentence": "An elegant, sun-soaked Patricia Highsmith adaptation with fine work from Viggo Mortensen as a con man and Dunst as his wife, holidaying in early 1960s Athens when they meet an American tour guide (Oscar Isaac).",
-      "timestamp": "2026-04-16T13:52:49Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Vaccines a huge success, but public trust must be earned - key findings from Covid report",
-      "link": "https://www.bbc.com/news/articles/ce3dp52l70zo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4951,
-      "vader_score": 0.8151,
-      "textblob_score": 0.175,
-      "first_sentence": "The rollout of Covid vaccines \u2013 the largest immunisation programme in UK history -  was an \"extraordinary feat\" which saved hundreds of thousands of lives, the Covid inquiry says.",
-      "timestamp": "2026-04-16T13:02:12Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Champions League reaction: Sid Lowe answers your questions \u2013 live",
-      "link": "https://www.theguardian.com/football/live/2026/apr/16/your-champions-league-questions-answered-sid-lowe",
-      "mean_score": 0.3679,
-      "vader_score": 0.5994,
-      "textblob_score": 0.1364,
-      "first_sentence": "CalumGilhooly asks: Do you agree that money is killing football? Teams like Forest, Celtic, Ajax, Steaua will never be able to develop a team to compete now.",
-      "timestamp": "2026-04-16T12:18:54Z",
-      "source": "The Guardian"
     }
   ]
 }
