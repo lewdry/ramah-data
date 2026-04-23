@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Church in Wales approves blessings of same-sex marriages",
+    "link": "https://www.bbc.com/news/articles/cx291ejr30xo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3675,
+    "vader_score": 0.7351,
+    "textblob_score": 0.0,
+    "first_sentence": "The governing body of the Church in Wales has approved a bill to make a blessing of same-sex marriages permanent.",
+    "timestamp": "2026-04-16T12:01:25Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "In the footsteps of Linnaeus: scientists share their passion for species from tiny wasps to hairy plants \u2013 in pictures",
+    "link": "https://www.theguardian.com/environment/gallery/2026/apr/16/in-the-footsteps-of-linnaeus-scientists-share-their-passion-for-species-from-tiny-wasps-to-hairy-plants-in-pictures",
+    "mean_score": 0.3185,
+    "vader_score": 0.6369,
+    "textblob_score": 0.0,
+    "first_sentence": "For his project \u2018De Of\u00f6rtrutna\u2019 (The Relentless), photographer Christer Bj\u00f6rkman pictured Swedish scientists working in the spirit of Carl Linnaeus, the botanist who created the modern taxonomic system that classifies organisms based on appearance.",
+    "timestamp": "2026-04-16T11:00:56Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Move over matcha: how ube cocktails and coffees are hitting the UK\u2019s sweet spot",
+    "link": "https://www.theguardian.com/food/2026/apr/16/ube-cocktails-coffees-tiktok-trend-starbucks-costa-new-matcha",
+    "mean_score": 0.4044,
+    "vader_score": 0.4588,
+    "textblob_score": 0.35,
+    "first_sentence": "Bright purple coffees and cocktails made with a root vegetable called ube have hit the high street in the UK after the yam\u2019s striking hue caused a sensation on social media.",
+    "timestamp": "2026-04-16T10:15:02Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "'My sister loved to party and turned her life around' - the nun on the way to sainthood",
+    "link": "https://www.bbc.com/news/articles/c5yjjzjgvm6o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.7325,
+    "vader_score": 0.765,
+    "textblob_score": 0.7,
+    "first_sentence": "She was a self-confessed wild child who ultimately swapped partying for prayer.",
+    "timestamp": "2026-04-16T09:10:32Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Live: Winning streaks go on the line in Thursday night showdown",
     "link": "https://www.abc.net.au/news/2026-04-16/nrl-live-updates-north-queensland-cowboys-manly-sea-eagles/106573478",
     "mean_score": 0.4224,
