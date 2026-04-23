@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Caitlin Foord baffled by lost goal as Kerr lifts Matildas to Fifa Series final win over Kenya",
+    "link": "https://www.theguardian.com/football/2026/apr/16/australia-matildas-kenya-fifa-series-final-kerr-foord-report",
+    "mean_score": 0.3806,
+    "vader_score": 0.3612,
+    "textblob_score": 0.4,
+    "first_sentence": "Sam Kerr\u2019s 75th international goal may have been her softest as she set her Matildas on the way to a surprisingly tough, controversial 2-0 victory over Kenya in the Fifa Series final.",
+    "timestamp": "2026-04-15T22:34:42Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "More big energy users to get help as support plan expanded",
+    "link": "https://www.bbc.com/news/articles/c0lee3j122go?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.5134,
+    "vader_score": 0.7769,
+    "textblob_score": 0.25,
+    "first_sentence": "More businesses have been promised help with their energy bills from April next year, after the government announced it was expanding a support scheme first outlined in 2025.",
+    "timestamp": "2026-04-15T22:33:35Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Arsenal scrap through to semis, Munich win thriller over Real Madrid",
+    "link": "https://www.abc.net.au/news/2026-04-16/uefa-champions-league-arsenal-sporting-bayern-munich-real-madrid/106570008",
+    "mean_score": 0.5685,
+    "vader_score": 0.6369,
+    "textblob_score": 0.5,
+    "first_sentence": "Arsenal is through to the UEFA Champions League semifinals after securing the draw it needed against Portuguese side Sporting.",
+    "timestamp": "2026-04-15T21:49:57Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Gina Rinehart 'won' the legal battle for Hope Downs, commentator says",
+    "link": "https://www.abc.net.au/news/2026-04-16/gina-rinehart-won-court-tim-treadgold/106568986",
+    "mean_score": 0.4353,
+    "vader_score": 0.6705,
+    "textblob_score": 0.2,
+    "first_sentence": "Australia's richest person, Gina Rinehart, has had a \"clear win\" in her mammoth legal battle over the ownership of lucrative iron ore mines, according to a prominent Perth resource industry commentator.",
+    "timestamp": "2026-04-15T21:17:32Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Live: Marles says $53b defence plan strengthens 'self-reliance'",
     "link": "https://www.abc.net.au/news/2026-04-16/federal-politics-blog-bowen-oil-refinery-fire/106566214",
     "mean_score": 0.3315,
