@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Why cheap power could matter more than clean power in the push for net zero",
+    "link": "https://www.bbc.com/news/articles/c86ey5n9vx9o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3947,
+    "vader_score": 0.4728,
+    "textblob_score": 0.3167,
+    "first_sentence": "\"I'm an early adopter of new technology,\" says Gavin Tait, a 69-year-old from Glasgow, with a hint of pride.",
+    "timestamp": "2026-04-15T23:20:22Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Rebel Wilson's The Deb is a delight despite the ongoing legal drama",
+    "link": "https://www.abc.net.au/news/2026-04-16/what-to-watch-in-cinemas-april/106566118",
+    "mean_score": 0.323,
+    "vader_score": 0.446,
+    "textblob_score": 0.2,
+    "first_sentence": "After a long-running legal battle between Rebel Wilson and producers, the Australian actor's directorial debut The Deb finally makes it to local cinemas this month.",
+    "timestamp": "2026-04-15T23:12:01Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Record entrants rev up for Rockynats festival despite fuel crisis",
+    "link": "https://www.abc.net.au/news/2026-04-16/record-entrants-for-2026-rockynats-car-and-motorcycle-festival/106537530",
+    "mean_score": 0.3787,
+    "vader_score": 0.7575,
+    "textblob_score": 0.0,
+    "first_sentence": "Motoring enthusiasts from all over Australia have made the annual pilgrimage to central Queensland for Rockynats.",
+    "timestamp": "2026-04-15T22:58:54Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Arsenal are painful to watch but maybe this is just how you win things | Barney Ronay",
+    "link": "https://www.theguardian.com/football/2026/apr/15/arsenal-are-painful-to-watch-but-maybe-this-is-just-how-you-win-things",
+    "mean_score": 0.3464,
+    "vader_score": 0.6428,
+    "textblob_score": 0.05,
+    "first_sentence": "And so I am become a meme.",
+    "timestamp": "2026-04-15T22:58:23Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Caitlin Foord baffled by lost goal as Kerr lifts Matildas to Fifa Series final win over Kenya",
     "link": "https://www.theguardian.com/football/2026/apr/16/australia-matildas-kenya-fifa-series-final-kerr-foord-report",
     "mean_score": 0.3806,
