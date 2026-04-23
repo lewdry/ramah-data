@@ -1,6 +1,56 @@
 {
-  "last run": "2026-04-23T12:21:54Z",
+  "last run": "2026-04-23T15:35:26Z",
   "stories": [
+    {
+      "headline": "David Squires on \u2026 the youthful Newcastle Jets\u2019 astonishing A-League comeback",
+      "link": "https://www.theguardian.com/football/picture/2026/apr/23/david-squires-on-the-youthful-newcastle-jets-astonishing-a-league-comeback",
+      "mean_score": 0.4091,
+      "vader_score": 0.3182,
+      "textblob_score": 0.5,
+      "first_sentence": "Our cartoonist reflects on how ebikes and seagulls helped Mark Milligan\u2019s team go from rock bottom to in line for a historic treble  Continue reading.",
+      "timestamp": "2026-04-23T15:00:15Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Nine in 10 UK voters across parties support right to abortion, poll finds",
+      "link": "https://www.theguardian.com/society/2026/apr/23/uk-voters-abortion-rights-women-health-poll",
+      "mean_score": 0.4727,
+      "vader_score": 0.6597,
+      "textblob_score": 0.2857,
+      "first_sentence": "New polling has found that whatever their party political leanings, an overwhelming majority of people support the right to access an abortion \u2013 although young people, in particular, fear reproductive rights may be reduced.",
+      "timestamp": "2026-04-23T15:00:13Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "What\u2019s missing? Everything But the Girl\u2019s 20 greatest songs \u2013 ranked!",
+      "link": "https://www.theguardian.com/music/2026/apr/23/whats-missing-everything-but-the-girls-20-greatest-songs-ranked",
+      "mean_score": 0.5787,
+      "vader_score": 0.7574,
+      "textblob_score": 0.4,
+      "first_sentence": "Releasing a version of the Cole Porter standard \u2013 previously recorded by Billie Holiday, Frank Sinatra and Ella Fitzgerald \u2013 as a debut single should have been an act of hubris.",
+      "timestamp": "2026-04-23T12:43:15Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "After bonfires, bulbs and a dog called Win, will Arteta get Arsenal going again?",
+      "link": "https://www.theguardian.com/football/2026/apr/23/arsenal-mikel-arteta-premier-league",
+      "mean_score": 0.6929,
+      "vader_score": 0.5859,
+      "textblob_score": 0.8,
+      "first_sentence": "Arteta has tried pretty much everything since, days after his appointment in December 2019, he planted a 150-year-old olive tree outside his office to symbolise the history of the club and the responsibility \u201cto look after the roots every single day\u201d.",
+      "timestamp": "2026-04-23T12:36:19Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "'Very special' - Michael Sheen and Callum Scott Howells lead West End show",
+      "link": "https://www.bbc.com/news/articles/c2ev9318eywo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4609,
+      "vader_score": 0.4576,
+      "textblob_score": 0.4643,
+      "first_sentence": "Michael Sheen and It's a Sin star Callum Scott Howells will lead a major West End run - the first for a Welsh national theatre company.",
+      "timestamp": "2026-04-23T12:31:53Z",
+      "source": "BBC News"
+    },
     {
       "headline": "EU approves \u20ac90bn loan for Ukraine and fresh Russia sanctions \u2013 Europe live",
       "link": "https://www.theguardian.com/world/live/2026/apr/23/eu-ukraine-loan-russia-sanctions-zelenskyy-cyprus-latest-news-updates",
@@ -60,6 +110,16 @@
       "first_sentence": "Spain\u2019s opposition conservatives are rekindling their regional pacts with the far-right Vox party by adopting the latter\u2019s hard line on immigration.",
       "timestamp": "2026-04-23T10:25:39Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "Mythical shapes and the impact of oil: The nominees for the art world's most prestigious prize",
+      "link": "https://www.bbc.com/news/articles/c80mzk88l0eo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5271,
+      "vader_score": 0.5542,
+      "textblob_score": 0.5,
+      "first_sentence": "A spoken-word performance about life in the industrial north and sculptures which examine the political history of oil are among the shortlisted artworks for this year's Turner Prize.",
+      "timestamp": "2026-04-23T09:41:48Z",
+      "source": "BBC News"
     },
     {
       "headline": "The Welsh church claimed by spiders and ivy: what do Britain\u2019s derelict churches say about our health and happiness?",
@@ -2440,66 +2500,6 @@
       "first_sentence": "She was a self-confessed wild child who ultimately swapped partying for prayer.",
       "timestamp": "2026-04-16T09:10:32Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Live: Winning streaks go on the line in Thursday night showdown",
-      "link": "https://www.abc.net.au/news/2026-04-16/nrl-live-updates-north-queensland-cowboys-manly-sea-eagles/106573478",
-      "mean_score": 0.4224,
-      "vader_score": 0.5267,
-      "textblob_score": 0.3182,
-      "first_sentence": "Round 7 of the NRL season kicks off on Thursday night with two unexpected winning streaks going on the line in Townsville.",
-      "timestamp": "2026-04-16T09:06:32Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Wildings in Newport, Wales: the grand department store that became an illicit cannabis farm",
-      "link": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/apr/16/wilding-newport-wales-grand-department-store-became-illicit-cannabis-farm",
-      "mean_score": 0.4794,
-      "vader_score": 0.4588,
-      "textblob_score": 0.5,
-      "first_sentence": "For decades, Wildings was the poshest shop in town.",
-      "timestamp": "2026-04-16T09:00:54Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "2 Republicans have a plan to end the DHS shutdown, but there are hurdles to clear",
-      "link": "https://www.npr.org/2026/04/16/nx-s1-5785101/2-republicans-have-a-plan-to-end-the-dhs-shutdown-but-there-are-hurdles-to-clear",
-      "mean_score": 0.3133,
-      "vader_score": 0.5267,
-      "textblob_score": 0.1,
-      "first_sentence": "Top Republicans in Congress have a plan to end the Department of Homeland Security shutdown.",
-      "timestamp": "2026-04-16T08:44:58Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Live: Nick Daicos celebrates 100th match with Pies and Blues desperate for a win",
-      "link": "https://www.abc.net.au/news/2026-04-16/afl-round-6-carlton-blues-collingwood-magpies-mcg-live-blog/106573626",
-      "mean_score": 0.4236,
-      "vader_score": 0.7351,
-      "textblob_score": 0.1121,
-      "first_sentence": "Nick Daicos runs out for his 100th career match as Carlton and Collingwood meet at the MCG, with both desperately seeking a win.",
-      "timestamp": "2026-04-16T08:30:53Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "How to get the best view of the Lyrid meteor shower in Australian skies",
-      "link": "https://www.sbs.com.au/news/article/the-lyrid-meteor-shower-makes-it-annual-return-to-the-night-sky/vg23r9txm",
-      "mean_score": 0.5685,
-      "vader_score": 0.6369,
-      "textblob_score": 0.5,
-      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-      "timestamp": "2026-04-16T08:27:27Z",
-      "source": "SBS News"
-    },
-    {
-      "headline": "Hanson wishes Coalition good luck, government focuses on fuel",
-      "link": "https://www.abc.net.au/news/2026-04-16/pauline-hanson-coalition-migration-fuel-fire-treasurer/106557502",
-      "mean_score": 0.7289,
-      "vader_score": 0.7579,
-      "textblob_score": 0.7,
-      "first_sentence": "Welcome back to your weekly federal politics update, where Courtney Gould gets you up to speed on the happenings from Parliament House.",
-      "timestamp": "2026-04-16T06:25:14Z",
-      "source": "ABC News"
     }
   ]
 }

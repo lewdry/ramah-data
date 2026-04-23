@@ -1,5 +1,65 @@
 [
   {
+    "headline": "Live: Winning streaks go on the line in Thursday night showdown",
+    "link": "https://www.abc.net.au/news/2026-04-16/nrl-live-updates-north-queensland-cowboys-manly-sea-eagles/106573478",
+    "mean_score": 0.4224,
+    "vader_score": 0.5267,
+    "textblob_score": 0.3182,
+    "first_sentence": "Round 7 of the NRL season kicks off on Thursday night with two unexpected winning streaks going on the line in Townsville.",
+    "timestamp": "2026-04-16T09:06:32Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Wildings in Newport, Wales: the grand department store that became an illicit cannabis farm",
+    "link": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/apr/16/wilding-newport-wales-grand-department-store-became-illicit-cannabis-farm",
+    "mean_score": 0.4794,
+    "vader_score": 0.4588,
+    "textblob_score": 0.5,
+    "first_sentence": "For decades, Wildings was the poshest shop in town.",
+    "timestamp": "2026-04-16T09:00:54Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "2 Republicans have a plan to end the DHS shutdown, but there are hurdles to clear",
+    "link": "https://www.npr.org/2026/04/16/nx-s1-5785101/2-republicans-have-a-plan-to-end-the-dhs-shutdown-but-there-are-hurdles-to-clear",
+    "mean_score": 0.3133,
+    "vader_score": 0.5267,
+    "textblob_score": 0.1,
+    "first_sentence": "Top Republicans in Congress have a plan to end the Department of Homeland Security shutdown.",
+    "timestamp": "2026-04-16T08:44:58Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "Live: Nick Daicos celebrates 100th match with Pies and Blues desperate for a win",
+    "link": "https://www.abc.net.au/news/2026-04-16/afl-round-6-carlton-blues-collingwood-magpies-mcg-live-blog/106573626",
+    "mean_score": 0.4236,
+    "vader_score": 0.7351,
+    "textblob_score": 0.1121,
+    "first_sentence": "Nick Daicos runs out for his 100th career match as Carlton and Collingwood meet at the MCG, with both desperately seeking a win.",
+    "timestamp": "2026-04-16T08:30:53Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "How to get the best view of the Lyrid meteor shower in Australian skies",
+    "link": "https://www.sbs.com.au/news/article/the-lyrid-meteor-shower-makes-it-annual-return-to-the-night-sky/vg23r9txm",
+    "mean_score": 0.5685,
+    "vader_score": 0.6369,
+    "textblob_score": 0.5,
+    "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+    "timestamp": "2026-04-16T08:27:27Z",
+    "source": "SBS News"
+  },
+  {
+    "headline": "Hanson wishes Coalition good luck, government focuses on fuel",
+    "link": "https://www.abc.net.au/news/2026-04-16/pauline-hanson-coalition-migration-fuel-fire-treasurer/106557502",
+    "mean_score": 0.7289,
+    "vader_score": 0.7579,
+    "textblob_score": 0.7,
+    "first_sentence": "Welcome back to your weekly federal politics update, where Courtney Gould gets you up to speed on the happenings from Parliament House.",
+    "timestamp": "2026-04-16T06:25:14Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "A dispatch from inside the Vatican bubble during a remarkable exchange between pope and president",
     "link": "https://apnews.com/article/pope-leo-xiv-media-coverage-trump-africa-bb65bbd4d88949e549f0b0b27916d5da",
     "mean_score": 0.6537,
