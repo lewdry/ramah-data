@@ -1,5 +1,135 @@
 [
   {
+    "headline": "Kerr scores landmark goal as Matildas win FIFA Series",
+    "link": "https://www.abc.net.au/news/2026-04-16/matildas-defeat-kenya-2-0-in-fifa-series/106569844",
+    "mean_score": 0.7125,
+    "vader_score": 0.6249,
+    "textblob_score": 0.8,
+    "first_sentence": "Australia has completed the FIFA Series with a 2-0 win over Kenya in Nairobi.",
+    "timestamp": "2026-04-15T20:33:59Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "How you could get free electricity for doing your washing",
+    "link": "https://www.bbc.com/news/videos/c3exxe4k8wwo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4553,
+    "vader_score": 0.5106,
+    "textblob_score": 0.4,
+    "first_sentence": "You could get free or cheaper electricity from your energy company for running appliances during periods of excess supply, such as sunny weekends.",
+    "timestamp": "2026-04-15T19:48:56Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Short-stay levy overperforms, as holiday rental growth stagnates in Victoria",
+    "link": "https://www.abc.net.au/news/2026-04-16/short-stays-levy-victoria-airbnb-holiday-rental/106528248",
+    "mean_score": 0.3243,
+    "vader_score": 0.6486,
+    "textblob_score": 0.0,
+    "first_sentence": "Data shows growth in Victorian short-stay accommodation listings has slowed in the year to January 2026.",
+    "timestamp": "2026-04-15T19:17:59Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "NYC SantaCon charity fundraiser was more con than Claus, authorities say",
+    "link": "https://www.theguardian.com/us-news/2026/apr/15/santacon-charity-new-york-fraud",
+    "mean_score": 0.4607,
+    "vader_score": 0.4215,
+    "textblob_score": 0.5,
+    "first_sentence": "A SantaCon charity fundraiser that floods New York City with inebriated young people in red and white Santa costumes every holiday season was true to its name: a con, federal authorities said as they arrested its organizer.",
+    "timestamp": "2026-04-15T17:32:13Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Adobe takes Creative Cloud into Claude Code-esque territory",
+    "link": "https://arstechnica.com/ai/2026/04/adobe-takes-creative-cloud-into-claude-code-esque-territory/",
+    "mean_score": 0.4702,
+    "vader_score": 0.4404,
+    "textblob_score": 0.5,
+    "first_sentence": "Adobe has been putting task-specific AI tools and features into its creative productivity applications like Photoshop, Illustrator, and Premiere at a breakneck pace, but the latest product from the company\u2014a chat-based interface that can handle complex, multi-modal projects across several applications\u2014marks a significant shift in how users can think about its suite of tools.",
+    "timestamp": "2026-04-15T16:54:33Z",
+    "source": "Ars Technica"
+  },
+  {
+    "headline": "Sand dredging may have greater impact on Lough Neagh",
+    "link": "https://www.bbc.com/news/articles/cn9qqnwe97zo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4306,
+    "vader_score": 0.3612,
+    "textblob_score": 0.5,
+    "first_sentence": "Sand dredging in Lough Neagh \"may be having broader and more persistent impacts\" on the lake than previously thought, according to new research led by Queen's University Belfast.",
+    "timestamp": "2026-04-15T16:24:38Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Good Omens S3 trailer sets up a blessed conclusion",
+    "link": "https://arstechnica.com/culture/2026/04/good-omens-s3-trailer-sets-up-a-blessed-conclusion/",
+    "mean_score": 0.7391,
+    "vader_score": 0.7783,
+    "textblob_score": 0.7,
+    "first_sentence": "Prime Video\u2019s supernatural comedy will end with a special 90-minute final episode.",
+    "timestamp": "2026-04-15T15:45:42Z",
+    "source": "Ars Technica"
+  },
+  {
+    "headline": "Ukraine\u2019s Zelenskyy pursues more arms deals with allies to help check Russia\u2019s invasion",
+    "link": "https://apnews.com/article/russia-ukraine-zelenskyy-drones-europe-nato-99c1e8edabe90ce907ca88ecd6becdda",
+    "mean_score": 0.4509,
+    "vader_score": 0.4019,
+    "textblob_score": 0.5,
+    "first_sentence": "KYIV, Ukraine (AP) \u2014 Ukraine\u2019s top diplomatic priority is securing its allies\u2019 help to buy and build more air defense systems, President Volodymyr Zelenskyy said Wednesday between meetings with European leaders, as Russia kept up its deadly attacks on civilians and public infrastructure.",
+    "timestamp": "2026-04-15T15:23:02Z",
+    "source": "AP News"
+  },
+  {
+    "headline": "FDA to weigh easing limits on unproven peptides favored by RFK Jr. and other MAHA figures",
+    "link": "https://apnews.com/article/peptides-fda-kennedy-injection-bpc157-37bf2f94f0e8a57da76e67a03b58ff0f",
+    "mean_score": 0.4617,
+    "vader_score": 0.5859,
+    "textblob_score": 0.3375,
+    "first_sentence": "WASHINGTON (AP) \u2014 The Food and Drug Administration will hold a meeting this summer to consider easing restrictions on more than a half dozen peptide injections, a group of unapproved therapies that have become popular among wellness influencers, fitness gurus and celebrities.",
+    "timestamp": "2026-04-15T15:23:02Z",
+    "source": "AP News"
+  },
+  {
+    "headline": "Nonnamaxxing: do Italian grandmothers hold the secret to a long and happy life?",
+    "link": "https://www.theguardian.com/society/2026/apr/15/nonnamaxxing-italian-grandmothers-gen-z",
+    "mean_score": 0.3297,
+    "vader_score": 0.5719,
+    "textblob_score": 0.0875,
+    "first_sentence": "Gen Z are turning to nonnas for inspiration on how to live to be 100.",
+    "timestamp": "2026-04-15T14:47:04Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "A ruined building, five Ghanaians and an elegant horse: Ron Timehin\u2019s best photograph",
+    "link": "https://www.theguardian.com/artanddesign/2026/apr/15/ghanaians-elegant-horse-ron-timehins-best-photograph-accra",
+    "mean_score": 0.6935,
+    "vader_score": 0.6369,
+    "textblob_score": 0.75,
+    "first_sentence": "This was taken at Labadi, a popular tourist resort in Accra, the capital of Ghana.",
+    "timestamp": "2026-04-15T13:47:20Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Hungary\u2019s voters shunned Orb\u00e1n \u2013 but it may be too early to celebrate end of Europe\u2019s far right",
+    "link": "https://www.theguardian.com/world/2026/apr/15/hungary-election-voters-orban-europe-far-right-peter-magyar",
+    "mean_score": 0.4423,
+    "vader_score": 0.7227,
+    "textblob_score": 0.1619,
+    "first_sentence": "For Poland\u2019s Donald Tusk, the crushing defeat of Hungary\u2019s illiberal prime minister, Viktor Orb\u00e1n, after 16 years in office was evidence that the world was no longer \u201ccondemned to authoritarian and corrupt governments\u201d.",
+    "timestamp": "2026-04-15T12:46:29Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Commuters welcome second year of Translink fare freeze",
+    "link": "https://www.bbc.com/news/videos/c7055yjplr2o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.447,
+    "vader_score": 0.4939,
+    "textblob_score": 0.4,
+    "first_sentence": "They are among hundreds of thousands of ship plans and documents made widely accessible.",
+    "timestamp": "2026-04-15T10:11:15Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Labour claims Reform UK won\u2019t protect women, as poll suggests Farage\u2019s party heading for \u2018seismic\u2019 wins in May \u2013 UK politics live",
     "link": "https://www.theguardian.com/politics/live/2026/apr/15/labour-reform-uk-women-nigel-farage-local-elections-keir-starmer-kemi-badenoch-pmqs-iran-war-uk-politics-latest",
     "mean_score": 0.5292,
