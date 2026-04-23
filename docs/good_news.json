@@ -1,5 +1,5 @@
 {
-  "last run": "2026-04-23T00:30:16Z",
+  "last run": "2026-04-23T04:03:31Z",
   "stories": [
     {
       "headline": "Farmers say an easy solution to the mouse plague has been rejected",
@@ -209,6 +209,16 @@
       "textblob_score": 1.0,
       "first_sentence": "Click here to submit a picture for publication in these online galleries and/or on the Guardian letters page Continue reading.",
       "timestamp": "2026-04-22T16:10:41Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018Two are stronger than one\u2019: Boston Marathon duo praised for helping struggling runner cross finish line",
+      "link": "https://www.theguardian.com/sport/2026/apr/22/boston-marathon-struggling-runner-ajay-haridasse-aaron-beggs-robson-de-oliveira",
+      "mean_score": 0.3185,
+      "vader_score": 0.6369,
+      "textblob_score": 0.0,
+      "first_sentence": "A pair of Boston Marathon runners who teamed up to help a fellow athlete across the race\u2019s finish line have been praised for their \u201cbeautiful moment\u201d of sportsmanship.",
+      "timestamp": "2026-04-22T16:07:43Z",
       "source": "The Guardian"
     },
     {
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.2,
       "first_sentence": "Australia's richest person, Gina Rinehart, has had a \"clear win\" in her mammoth legal battle over the ownership of lucrative iron ore mines, according to a prominent Perth resource industry commentator.",
       "timestamp": "2026-04-15T21:17:32Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Live: Marles says $53b defence plan strengthens 'self-reliance'",
-      "link": "https://www.abc.net.au/news/2026-04-16/federal-politics-blog-bowen-oil-refinery-fire/106566214",
-      "mean_score": 0.3315,
-      "vader_score": 0.5267,
-      "textblob_score": 0.1364,
-      "first_sentence": "Defence Minister Richard Marles has unveiled a plan to lift defence spending by $53 billion in the next decade.",
-      "timestamp": "2026-04-15T21:06:07Z",
       "source": "ABC News"
     }
   ]
