@@ -1,6 +1,66 @@
 {
-  "last run": "2026-04-23T21:17:24Z",
+  "last run": "2026-04-24T00:29:46Z",
   "stories": [
+    {
+      "headline": "Tradwives, gangsters and one very special dog: April's 10 best books",
+      "link": "https://www.abc.net.au/news/2026-04-24/what-to-read-best-new-books-yesteryear-london-falling/106557528",
+      "mean_score": 0.7669,
+      "vader_score": 0.8016,
+      "textblob_score": 0.7321,
+      "first_sentence": "Welcome to the ABC Arts wrap of the best new books out in April.",
+      "timestamp": "2026-04-23T23:03:53Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Is it ever OK to use someone else's toothbrush?",
+      "link": "https://www.abc.net.au/news/2026-04-24/is-it-ever-ok-to-use-someone-else-s-toothbrush-/106561752",
+      "mean_score": 0.4733,
+      "vader_score": 0.4466,
+      "textblob_score": 0.5,
+      "first_sentence": "Much to my partner's horror, on the odd occasion I have accidentally used his toothbrush.",
+      "timestamp": "2026-04-23T23:03:13Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Mantle by Romy Ash review \u2013 an exquisitely wild and exhilarating vision of the near future",
+      "link": "https://www.theguardian.com/books/2026/apr/24/mantle-book-novel-review-author-romy-ash",
+      "mean_score": 0.3984,
+      "vader_score": 0.5719,
+      "textblob_score": 0.225,
+      "first_sentence": "Romy Ash\u2019s debut novel, Floundering, has sat on my bookshelf since the Sydney Morning Herald, where I worked as literary editor, named her as one of the best young Australian novelists in 2013 \u2013 the year she was shortlisted for the Miles Franklin literary award among others.",
+      "timestamp": "2026-04-23T22:00:22Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Australia's most successful Winter Olympics team in history honoured",
+      "link": "https://www.abc.net.au/news/2026-04-24/australias-winter-olympic-stars-honoured-snow-australia-awards/106595798",
+      "mean_score": 0.716,
+      "vader_score": 0.807,
+      "textblob_score": 0.625,
+      "first_sentence": "Australia's trio of 2026 Winter Olympic champions claimed top gongs at the Snow Australia awards, as the winter sport community celebrated the nation's most successful ever Winter Games.",
+      "timestamp": "2026-04-23T21:22:47Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Live: Gas giants get resource for free? That's 'tosh', says King",
+      "link": "https://www.abc.net.au/news/2026-04-24/federal-politics-live-blog-fuel-defence-gas-tax-ndis/106598842",
+      "mean_score": 0.3894,
+      "vader_score": 0.5106,
+      "textblob_score": 0.2682,
+      "first_sentence": "Resources Minister\u00a0Madeleine King has taken aim at those who claim gas giants are getting the commodity for free, saying she's \"mystified as to how they get away with such tosh\".",
+      "timestamp": "2026-04-23T21:06:31Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "We still don't have a more precise value for \"Big G\"",
+      "link": "https://arstechnica.com/science/2026/04/we-still-dont-have-a-more-precise-value-for-big-g/",
+      "mean_score": 0.3488,
+      "vader_score": 0.3976,
+      "textblob_score": 0.3,
+      "first_sentence": "The gravitational constant, affectionally known as \u201cBig G,\u201d is one of the most fundamental constants of our universe.",
+      "timestamp": "2026-04-23T20:57:35Z",
+      "source": "Ars Technica"
+    },
     {
       "headline": "SNP's McAllan supports more 'evidence-led' drilling in North Sea",
       "link": "https://www.bbc.com/news/articles/c2d8610rny4o?at_medium=RSS&at_campaign=rss",
@@ -2440,66 +2500,6 @@
       "first_sentence": "Previously unseen drawings of Winnie-the-Pooh that show the honey-loving bear before he was introduced to generations of readers in the 1926 book have come to light.",
       "timestamp": "2026-04-16T17:30:06Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Andrew invited to relinquish Freedom of City",
-      "link": "https://www.bbc.com/news/articles/c239219g7l5o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3185,
-      "vader_score": 0.6369,
-      "textblob_score": 0.0,
-      "first_sentence": "Andrew Mountbatten-Windsor has been invited by councillors to relinquish his inherited Freedom of the City of London.",
-      "timestamp": "2026-04-16T17:04:09Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Word up \u2013 this is the best put-down of all  | Brief letters",
-      "link": "https://www.theguardian.com/uk-news/2026/apr/16/word-up-this-is-the-best-put-down-of-all",
-      "mean_score": 0.5685,
-      "vader_score": 0.6369,
-      "textblob_score": 0.5,
-      "first_sentence": "Have an opinion on anything you\u2019ve read in the Guardian today? Please email us your letter and it will be considered for publication in our letters section.",
-      "timestamp": "2026-04-16T15:49:14Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Beckhams have 'always tried to be best parents', Victoria says after Brooklyn row",
-      "link": "https://www.bbc.com/news/articles/czex2wl2967o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.8185,
-      "vader_score": 0.6369,
-      "textblob_score": 1.0,
-      "first_sentence": "Victoria Beckham has said she and husband Sir David have \"always tried to be the best parents that we can be\", in her first public response after their eldest son Brooklyn exposed a rift in the family.",
-      "timestamp": "2026-04-16T14:57:15Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Cheaper Doritos and Lays helps PepsiCo win back struggling snackers",
-      "link": "https://www.bbc.com/news/articles/c625dqzpm7qo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4787,
-      "vader_score": 0.5574,
-      "textblob_score": 0.4,
-      "first_sentence": "Cutting the cost of Doritos and Lays crisps helped PepsiCo win back snackers after a backlash over rising prices.",
-      "timestamp": "2026-04-16T14:32:05Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Red hair gene favoured by natural selection over last 10,000 years, study finds",
-      "link": "https://www.theguardian.com/science/2026/apr/16/red-hair-gene-favoured-natural-selection-study",
-      "mean_score": 0.341,
-      "vader_score": 0.6486,
-      "textblob_score": 0.0333,
-      "first_sentence": "People with red hair who have put up with teasing or \u201cfiery\u201d stereotypes may be pleased to learn that they appear to be winners from an evolutionary perspective.",
-      "timestamp": "2026-04-16T14:21:09Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "NPR receives $113 million in charitable gifts",
-      "link": "https://www.npr.org/2026/04/16/nx-s1-5787634/npr-113-million-charitable-gifts-connie-ballmer",
-      "mean_score": 0.501,
-      "vader_score": 0.4019,
-      "textblob_score": 0.6,
-      "first_sentence": "NPR has received two of the largest gifts in the public media network's existence, totalling $113 million.",
-      "timestamp": "2026-04-16T14:18:37Z",
-      "source": "NPR News"
     }
   ]
 }

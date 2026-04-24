@@ -1,5 +1,65 @@
 [
   {
+    "headline": "Andrew invited to relinquish Freedom of City",
+    "link": "https://www.bbc.com/news/articles/c239219g7l5o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3185,
+    "vader_score": 0.6369,
+    "textblob_score": 0.0,
+    "first_sentence": "Andrew Mountbatten-Windsor has been invited by councillors to relinquish his inherited Freedom of the City of London.",
+    "timestamp": "2026-04-16T17:04:09Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Word up \u2013 this is the best put-down of all  | Brief letters",
+    "link": "https://www.theguardian.com/uk-news/2026/apr/16/word-up-this-is-the-best-put-down-of-all",
+    "mean_score": 0.5685,
+    "vader_score": 0.6369,
+    "textblob_score": 0.5,
+    "first_sentence": "Have an opinion on anything you\u2019ve read in the Guardian today? Please email us your letter and it will be considered for publication in our letters section.",
+    "timestamp": "2026-04-16T15:49:14Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Beckhams have 'always tried to be best parents', Victoria says after Brooklyn row",
+    "link": "https://www.bbc.com/news/articles/czex2wl2967o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.8185,
+    "vader_score": 0.6369,
+    "textblob_score": 1.0,
+    "first_sentence": "Victoria Beckham has said she and husband Sir David have \"always tried to be the best parents that we can be\", in her first public response after their eldest son Brooklyn exposed a rift in the family.",
+    "timestamp": "2026-04-16T14:57:15Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Cheaper Doritos and Lays helps PepsiCo win back struggling snackers",
+    "link": "https://www.bbc.com/news/articles/c625dqzpm7qo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4787,
+    "vader_score": 0.5574,
+    "textblob_score": 0.4,
+    "first_sentence": "Cutting the cost of Doritos and Lays crisps helped PepsiCo win back snackers after a backlash over rising prices.",
+    "timestamp": "2026-04-16T14:32:05Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Red hair gene favoured by natural selection over last 10,000 years, study finds",
+    "link": "https://www.theguardian.com/science/2026/apr/16/red-hair-gene-favoured-natural-selection-study",
+    "mean_score": 0.341,
+    "vader_score": 0.6486,
+    "textblob_score": 0.0333,
+    "first_sentence": "People with red hair who have put up with teasing or \u201cfiery\u201d stereotypes may be pleased to learn that they appear to be winners from an evolutionary perspective.",
+    "timestamp": "2026-04-16T14:21:09Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "NPR receives $113 million in charitable gifts",
+    "link": "https://www.npr.org/2026/04/16/nx-s1-5787634/npr-113-million-charitable-gifts-connie-ballmer",
+    "mean_score": 0.501,
+    "vader_score": 0.4019,
+    "textblob_score": 0.6,
+    "first_sentence": "NPR has received two of the largest gifts in the public media network's existence, totalling $113 million.",
+    "timestamp": "2026-04-16T14:18:37Z",
+    "source": "NPR News"
+  },
+  {
     "headline": "The power of the Dunst: Kirsten\u2019s best film performances \u2013 ranked!",
     "link": "https://www.theguardian.com/film/2026/apr/16/kirsten-dunst-films-ranked",
     "mean_score": 0.8348,
