@@ -1,5 +1,5 @@
 {
-  "last run": "2026-04-24T18:15:06Z",
+  "last run": "2026-04-24T21:17:26Z",
   "stories": [
     {
       "headline": "The supersonic strike navigator who discovered the surprising truth about his heritage",
@@ -100,6 +100,16 @@
       "first_sentence": "There are currently 687,958 people waiting for any type of NHS treatment in Wales.",
       "timestamp": "2026-04-24T09:13:24Z",
       "source": "BBC News"
+    },
+    {
+      "headline": "Pickett takes mark of the year contender in Demon's stunning outing",
+      "link": "https://www.abc.net.au/news/2026-04-24/afl-round-seven-friday-richmond-melbourne-live-blog/106604112",
+      "mean_score": 0.4884,
+      "vader_score": 0.4767,
+      "textblob_score": 0.5,
+      "first_sentence": "Melbourne has eased to a 54-point over Richmond in the traditional Anzac Day Eve clash at the MCG, as the hapless Tigers remain the competition's only side without a win in 2026.",
+      "timestamp": "2026-04-24T08:44:00Z",
+      "source": "ABC News"
     },
     {
       "headline": "Live: Broncos score two try of the year contenders in stunning win over Bulldogs",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.25,
       "first_sentence": "Folk song collecting by women has an illustrious history, but also an exciting present, as this set of 10 energetic Tanzanian field recordings demonstrates.",
       "timestamp": "2026-04-17T07:30:23Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "A Gorilla Story: Told By David Attenborough review \u2013 like one of our last meetings with an adored relative",
-      "link": "https://www.theguardian.com/tv-and-radio/2026/apr/17/gorilla-story-told-by-david-attenborough-review-netflix",
-      "mean_score": 0.3243,
-      "vader_score": 0.6486,
-      "textblob_score": 0.0,
-      "first_sentence": "Almost half a century on, the sequence still has the power to give you goosebumps.",
-      "timestamp": "2026-04-17T07:01:23Z",
       "source": "The Guardian"
     }
   ]
