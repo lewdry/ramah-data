@@ -1,11 +1,71 @@
 [
   {
+    "headline": "Inspirational success stories are great but is ADHD really a superpower for elite athletes? | Emma John",
+    "link": "https://www.theguardian.com/sport/2026/apr/17/inspirational-success-stories-are-great-but-is-adhd-really-a-superpower-for-elite-athletes",
+    "mean_score": 0.5864,
+    "vader_score": 0.7227,
+    "textblob_score": 0.45,
+    "first_sentence": "What we do have plenty of are inspirational stories.",
+    "timestamp": "2026-04-17T07:00:24Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Guardiola ready to benefit as fellow Cruyff disciple Arteta strays from path",
+    "link": "https://www.theguardian.com/football/2026/apr/17/arsenal-manchester-city-guardiola-ready-to-benefit-arteta",
+    "mean_score": 0.4353,
+    "vader_score": 0.6705,
+    "textblob_score": 0.2,
+    "first_sentence": "Zinchenko recalls that Guardiola made the same speech before they walked out at Anfield.",
+    "timestamp": "2026-04-17T07:00:24Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Chess: Sindarov wins Candidates with record total, while Vaishali takes women\u2019s event",
+    "link": "https://www.theguardian.com/sport/2026/apr/17/chess-sindarov-wins-candidates-with-record-total-while-vaishali-takes-womens-event",
+    "mean_score": 0.3609,
+    "vader_score": 0.5719,
+    "textblob_score": 0.15,
+    "first_sentence": "Javokhir Sindarov finished with a record total in the world championship Candidates in Pegeia, western Cyprus, as the 20-year-old from Uzbekistan won the competition with a record 10/14 total, 1.5 points clear of his nearest rival, Anish Giri.",
+    "timestamp": "2026-04-17T07:00:24Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "I\u2019ll make up a whopper you can\u2019t refuse! Why do we love to believe cinema\u2019s best lines were improvised?",
+    "link": "https://www.theguardian.com/film/2026/apr/17/cinema-improvised-lines-nehind-the-scenes-secrets-godfather-saltburn",
+    "mean_score": 0.7836,
+    "vader_score": 0.8172,
+    "textblob_score": 0.75,
+    "first_sentence": "From The Godfather to Saltburn, the internet is awash with claims that actors are ditching the script and making it up as they go along.",
+    "timestamp": "2026-04-17T07:00:23Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Progressive Analilia Mej\u00eda takes New Jersey US House special election, giving Democrats another win",
+    "link": "https://apnews.com/article/new-jersey-special-election-house-mejia-hathaway-4e06943281e19aa35b10ddf8acec889b",
+    "mean_score": 0.6336,
+    "vader_score": 0.836,
+    "textblob_score": 0.4312,
+    "first_sentence": "DENVILLE, N.J.",
+    "timestamp": "2026-04-17T06:23:02Z",
+    "source": "AP News"
+  },
+  {
     "headline": "The Plague review \u2013 water polo camp turns into tween hellscape with impressive stylistic bite",
     "link": "https://www.theguardian.com/film/2026/apr/17/the-plague-review-charlie-polinger-debut-joel-edgerton",
     "mean_score": 0.7553,
     "vader_score": 0.5106,
     "textblob_score": 1.0,
     "first_sentence": "Set at a boy\u2019s water polo training camp in the summer of 2003, Charlie Polinger\u2019s debut feature plunges beneath the waterline to scope out concealed psychological depths.",
+    "timestamp": "2026-04-17T06:00:24Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "US tech firms successfully lobbied EU to keep datacentre emissions secret",
+    "link": "https://www.theguardian.com/technology/2026/apr/17/microsoft-us-tech-firms-lobbied-eu-secrecy-rules-datacentre-emissions",
+    "mean_score": 0.3345,
+    "vader_score": 0.4939,
+    "textblob_score": 0.175,
+    "first_sentence": "Microsoft and other US tech companies successfully lobbied the EU to hide the environmental toll of their datacentres, an investigation has found, with demands to block a database of green metrics from public view written almost word for word into EU rules.",
     "timestamp": "2026-04-17T06:00:24Z",
     "source": "The Guardian"
   },

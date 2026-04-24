@@ -1,6 +1,56 @@
 {
-  "last run": "2026-04-24T12:21:26Z",
+  "last run": "2026-04-24T15:27:35Z",
   "stories": [
+    {
+      "headline": "The supersonic strike navigator who discovered the surprising truth about his heritage",
+      "link": "https://www.theguardian.com/australia-news/2026/apr/25/supersonic-strike-navigator-indigenous-ancestry",
+      "mean_score": 0.5702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.7,
+      "first_sentence": "Relaxing in his civvies at the cafe in the Australian War Memorial\u2019s newly opened Anzac Hall, retired Group Captain Lyle Holt looks less like a man who spent years as a supersonic strike navigator and more like a man bridging two worlds.",
+      "timestamp": "2026-04-24T15:00:20Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Lisa Wilkinson: \u2018Evelyn was my safe place. She was my refuge\u2019",
+      "link": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/apr/25/lisa-wilkinson-interview-defamation-evelyn-titanic-survivor-ntwnfb",
+      "mean_score": 0.4702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.5,
+      "first_sentence": "Lisa Wilkinson pauses just inside the entrance to Sydney\u2019s Waverley Cemetery and rummages in her handbag.",
+      "timestamp": "2026-04-24T15:00:19Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Decades-old, newly restored Smithsonian carousel reopens -- to children's delight",
+      "link": "https://www.npr.org/2026/04/24/nx-s1-5770103/smithsonian-carousel-reopens-national-mall-dc",
+      "mean_score": 0.4397,
+      "vader_score": 0.743,
+      "textblob_score": 0.1364,
+      "first_sentence": "The Smithsonian Institution's carousel is back open for business Friday after being closed for nearly three years for restoration and refurbishments.",
+      "timestamp": "2026-04-24T14:58:50Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "Behold the riches to riches tale of Lauren S\u00e1nchez \u2013 the girlboss Cinderella who bought the ball | Marina Hyde",
+      "link": "https://www.theguardian.com/commentisfree/2026/apr/24/jeff-bezos-lauren-sanchez-paris-venice-new-york-met-gala",
+      "mean_score": 0.3891,
+      "vader_score": 0.7783,
+      "textblob_score": 0.0,
+      "first_sentence": "We live in an age when the most successful revolutionaries are not the peasants but the Silicon Valley billionaires.",
+      "timestamp": "2026-04-24T14:39:14Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "What is a passkey, how does it work and why is it better than a password?",
+      "link": "https://www.theguardian.com/technology/2026/apr/24/what-is-a-passkey-how-does-it-work-and-why-is-it-better-than-a-password",
+      "mean_score": 0.4702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.5,
+      "first_sentence": "The UK\u2019s National Cyber Security Centre has called time on the password \u2013 from now on, you should use a passkey.",
+      "timestamp": "2026-04-24T14:00:18Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Cocktail of the week: Julie\u2019s jasmine blossom \u2013 recipe | The good mixer",
       "link": "https://www.theguardian.com/food/2026/apr/24/cocktail-of-the-week-julies-jasmine-blossom-recipe",
@@ -9,6 +59,16 @@
       "textblob_score": 0.7,
       "first_sentence": "A delicate, elegant and aromatic sour with notes of floral jasmine tea balanced by bright citrus, making it fresh and perfect for spring.",
       "timestamp": "2026-04-24T12:00:22Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018I hope it got disinfected!\u2019 Matthew Rhys on bravery, banter and wearing a prosthetic penis",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/apr/24/i-hope-it-got-disinfected-matthew-rhys-on-bravery-banter-and-wearing-a-prosthetic-penis",
+      "mean_score": 0.375,
+      "vader_score": 0.75,
+      "textblob_score": 0.0,
+      "first_sentence": "Now 51, the Cardiff-born Rhys is all smiles despite the \u201cCeltic lid\u201d over his eyes which he once said lends him a naturally downcast look.",
+      "timestamp": "2026-04-24T12:00:17Z",
       "source": "The Guardian"
     },
     {
@@ -2439,66 +2499,6 @@
       "textblob_score": 0.0,
       "first_sentence": "Almost half a century on, the sequence still has the power to give you goosebumps.",
       "timestamp": "2026-04-17T07:01:23Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Inspirational success stories are great but is ADHD really a superpower for elite athletes? | Emma John",
-      "link": "https://www.theguardian.com/sport/2026/apr/17/inspirational-success-stories-are-great-but-is-adhd-really-a-superpower-for-elite-athletes",
-      "mean_score": 0.5864,
-      "vader_score": 0.7227,
-      "textblob_score": 0.45,
-      "first_sentence": "What we do have plenty of are inspirational stories.",
-      "timestamp": "2026-04-17T07:00:24Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Guardiola ready to benefit as fellow Cruyff disciple Arteta strays from path",
-      "link": "https://www.theguardian.com/football/2026/apr/17/arsenal-manchester-city-guardiola-ready-to-benefit-arteta",
-      "mean_score": 0.4353,
-      "vader_score": 0.6705,
-      "textblob_score": 0.2,
-      "first_sentence": "Zinchenko recalls that Guardiola made the same speech before they walked out at Anfield.",
-      "timestamp": "2026-04-17T07:00:24Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Chess: Sindarov wins Candidates with record total, while Vaishali takes women\u2019s event",
-      "link": "https://www.theguardian.com/sport/2026/apr/17/chess-sindarov-wins-candidates-with-record-total-while-vaishali-takes-womens-event",
-      "mean_score": 0.3609,
-      "vader_score": 0.5719,
-      "textblob_score": 0.15,
-      "first_sentence": "Javokhir Sindarov finished with a record total in the world championship Candidates in Pegeia, western Cyprus, as the 20-year-old from Uzbekistan won the competition with a record 10/14 total, 1.5 points clear of his nearest rival, Anish Giri.",
-      "timestamp": "2026-04-17T07:00:24Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "I\u2019ll make up a whopper you can\u2019t refuse! Why do we love to believe cinema\u2019s best lines were improvised?",
-      "link": "https://www.theguardian.com/film/2026/apr/17/cinema-improvised-lines-nehind-the-scenes-secrets-godfather-saltburn",
-      "mean_score": 0.7836,
-      "vader_score": 0.8172,
-      "textblob_score": 0.75,
-      "first_sentence": "From The Godfather to Saltburn, the internet is awash with claims that actors are ditching the script and making it up as they go along.",
-      "timestamp": "2026-04-17T07:00:23Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Progressive Analilia Mej\u00eda takes New Jersey US House special election, giving Democrats another win",
-      "link": "https://apnews.com/article/new-jersey-special-election-house-mejia-hathaway-4e06943281e19aa35b10ddf8acec889b",
-      "mean_score": 0.6336,
-      "vader_score": 0.836,
-      "textblob_score": 0.4312,
-      "first_sentence": "DENVILLE, N.J.",
-      "timestamp": "2026-04-17T06:23:02Z",
-      "source": "AP News"
-    },
-    {
-      "headline": "US tech firms successfully lobbied EU to keep datacentre emissions secret",
-      "link": "https://www.theguardian.com/technology/2026/apr/17/microsoft-us-tech-firms-lobbied-eu-secrecy-rules-datacentre-emissions",
-      "mean_score": 0.3345,
-      "vader_score": 0.4939,
-      "textblob_score": 0.175,
-      "first_sentence": "Microsoft and other US tech companies successfully lobbied the EU to hide the environmental toll of their datacentres, an investigation has found, with demands to block a database of green metrics from public view written almost word for word into EU rules.",
-      "timestamp": "2026-04-17T06:00:24Z",
       "source": "The Guardian"
     }
   ]
