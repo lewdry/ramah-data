@@ -1,6 +1,36 @@
 {
-  "last run": "2026-04-24T09:33:59Z",
+  "last run": "2026-04-24T12:21:26Z",
   "stories": [
+    {
+      "headline": "Cocktail of the week: Julie\u2019s jasmine blossom \u2013 recipe | The good mixer",
+      "link": "https://www.theguardian.com/food/2026/apr/24/cocktail-of-the-week-julies-jasmine-blossom-recipe",
+      "mean_score": 0.5702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.7,
+      "first_sentence": "A delicate, elegant and aromatic sour with notes of floral jasmine tea balanced by bright citrus, making it fresh and perfect for spring.",
+      "timestamp": "2026-04-24T12:00:22Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Tokyo workers encouraged to wear shorts to cut energy costs and keep cool",
+      "link": "https://www.theguardian.com/world/2026/apr/24/tokyo-workers-asked-to-swap-suits-for-shorts-to-combat-energy-costs-and-heat",
+      "mean_score": 0.4679,
+      "vader_score": 0.5859,
+      "textblob_score": 0.35,
+      "first_sentence": "Public servants working for the Tokyo metropolitan government are being encouraged to swap their suits for shorts this summer to combat sweltering heat and rising energy costs caused by the US-Israel war on Iran.",
+      "timestamp": "2026-04-24T11:13:08Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Watch: Powerful tornadoes barrel through northern Oklahoma",
+      "link": "https://www.bbc.com/news/videos/c30re0j9q7jo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3608,
+      "vader_score": 0.4215,
+      "textblob_score": 0.3,
+      "first_sentence": "At least 10 people were injured as tornadoes struck parts of northern Oklahoma, according to local reports.",
+      "timestamp": "2026-04-24T09:49:40Z",
+      "source": "BBC News"
+    },
     {
       "headline": "What NHS challenges does the election winner face?",
       "link": "https://www.bbc.com/news/videos/cly70zgjxpno?at_medium=RSS&at_campaign=rss",
@@ -10,6 +40,16 @@
       "first_sentence": "There are currently 687,958 people waiting for any type of NHS treatment in Wales.",
       "timestamp": "2026-04-24T09:13:24Z",
       "source": "BBC News"
+    },
+    {
+      "headline": "Live: Broncos score two try of the year contenders in stunning win over Bulldogs",
+      "link": "https://www.abc.net.au/news/2026-04-24/nrl-live-updates-cowboys-sharks-broncos-bulldogs/106591508",
+      "mean_score": 0.6147,
+      "vader_score": 0.7506,
+      "textblob_score": 0.4788,
+      "first_sentence": "The Brisbane Broncos have produced two contenders for try of the NRL season, with Deine Mariner and Ezra Mam both completing spectacular groundings against the Canterbury-Bankstown Bulldogs.",
+      "timestamp": "2026-04-24T06:55:54Z",
+      "source": "ABC News"
     },
     {
       "headline": "Nuclear power! Have we finally found a useful use for it? Let\u2019s ask a wolf | First Dog on the Moon",
@@ -50,6 +90,16 @@
       "first_sentence": "Iran\u2019s footballers will be welcome at this year\u2019s World Cup, secretary of state Marco Rubio said Thursday, distancing the United States government from a proposal that Italy could take their place in the tournament.",
       "timestamp": "2026-04-24T05:53:40Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "'Can we see the cows?' - dad and daughter bike ride videos melt hearts online",
+      "link": "https://www.bbc.com/news/articles/c8dl8r1rv7qo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3243,
+      "vader_score": 0.6486,
+      "textblob_score": 0.0,
+      "first_sentence": "A father and daughter duo have captured the hearts of millions after sharing their bike rides with the world.",
+      "timestamp": "2026-04-24T05:52:21Z",
+      "source": "BBC News"
     },
     {
       "headline": "EU approves a $106 billion loan package to help Ukraine after Hungary lifts its veto",
@@ -2450,56 +2500,6 @@
       "first_sentence": "Microsoft and other US tech companies successfully lobbied the EU to hide the environmental toll of their datacentres, an investigation has found, with demands to block a database of green metrics from public view written almost word for word into EU rules.",
       "timestamp": "2026-04-17T06:00:24Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "The Plague review \u2013 water polo camp turns into tween hellscape with impressive stylistic bite",
-      "link": "https://www.theguardian.com/film/2026/apr/17/the-plague-review-charlie-polinger-debut-joel-edgerton",
-      "mean_score": 0.7553,
-      "vader_score": 0.5106,
-      "textblob_score": 1.0,
-      "first_sentence": "Set at a boy\u2019s water polo training camp in the summer of 2003, Charlie Polinger\u2019s debut feature plunges beneath the waterline to scope out concealed psychological depths.",
-      "timestamp": "2026-04-17T06:00:24Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "'Tori Amos tracked me down to say she loved my art'",
-      "link": "https://www.bbc.com/news/articles/c05d2ev7mn0o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4358,
-      "vader_score": 0.5994,
-      "textblob_score": 0.2722,
-      "first_sentence": "A glass artist in Glasgow has been left stunned after singer Tori Amos bought her work while in the city - then tracked her down so they could meet in person.",
-      "timestamp": "2026-04-17T05:15:49Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Rain set to ease for the weekend as sunshine returns",
-      "link": "https://www.bbc.com/weather/articles/c4gl5r32q6ko?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3454,
-      "vader_score": 0.6908,
-      "textblob_score": 0.0,
-      "first_sentence": "The weather this weekend is looking much more settled than of late with the return of some sunshine for most.",
-      "timestamp": "2026-04-17T05:11:46Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "True blue: what to wear with classic straight leg jeans",
-      "link": "https://www.theguardian.com/fashion/gallery/2026/apr/17/what-to-wear-with-straight-leg-jeans",
-      "mean_score": 0.3755,
-      "vader_score": 0.5719,
-      "textblob_score": 0.1792,
-      "first_sentence": "The Guardian\u2019s journalism is independent.",
-      "timestamp": "2026-04-17T05:00:20Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Iranian footballers thank Australia for 'safe haven' but ask for privacy",
-      "link": "https://www.sbs.com.au/news/article/iranian-footballers-thank-australia-for-safe-haven-and-ask-for-privacy/b29qgu1jq",
-      "mean_score": 0.4509,
-      "vader_score": 0.4019,
-      "textblob_score": 0.5,
-      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-      "timestamp": "2026-04-17T03:41:58Z",
-      "source": "SBS News"
     }
   ]
 }
