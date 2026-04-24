@@ -1,6 +1,66 @@
 {
-  "last run": "2026-04-24T04:05:43Z",
+  "last run": "2026-04-24T06:39:30Z",
   "stories": [
+    {
+      "headline": "Homes for sale in England with smart storage \u2013 in pictures",
+      "link": "https://www.theguardian.com/money/gallery/2026/apr/24/homes-for-sale-england-smart-storage",
+      "mean_score": 0.3081,
+      "vader_score": 0.4019,
+      "textblob_score": 0.2143,
+      "first_sentence": "From a country cottage with double-height bookshelves to a new-build flat in London with \u2018period\u2019 panelling hiding tech Continue reading.",
+      "timestamp": "2026-04-24T06:00:31Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "US says Iran players welcome at 2026 World Cup amid call for Italy to take their place",
+      "link": "https://www.theguardian.com/football/2026/apr/24/iran-welcome-at-us-world-cup-2026-italy",
+      "mean_score": 0.6294,
+      "vader_score": 0.4588,
+      "textblob_score": 0.8,
+      "first_sentence": "Iran\u2019s footballers will be welcome at this year\u2019s World Cup, secretary of state Marco Rubio said Thursday, distancing the United States government from a proposal that Italy could take their place in the tournament.",
+      "timestamp": "2026-04-24T05:53:40Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "EU approves a $106 billion loan package to help Ukraine after Hungary lifts its veto",
+      "link": "https://www.npr.org/2026/04/24/nx-s1-5798455/eu-approves-a-106-billion-loan-package-to-help-ukraine-after-hungary-lifts-its-veto",
+      "mean_score": 0.3298,
+      "vader_score": 0.6597,
+      "textblob_score": 0.0,
+      "first_sentence": "The roots of Russia's invasion of Ukraine go back decades and run deep.",
+      "timestamp": "2026-04-24T05:08:10Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "Signal praises Apple over security fix in new iPhone update",
+      "link": "https://www.abc.net.au/news/2026-04-24/apple-ios-update-26-4-2-security-fix-signal-/106601332",
+      "mean_score": 0.4183,
+      "vader_score": 0.7003,
+      "textblob_score": 0.1364,
+      "first_sentence": "Encrypted communication app Signal has praised Apple for releasing a new iPhone security update it says will prevent notifications from being \"inadvertently-preserved\".",
+      "timestamp": "2026-04-24T04:58:47Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Resigning mayor makes plea for 'kindness', 'respect' from councillors",
+      "link": "https://www.abc.net.au/news/2026-04-24/paula-wriedt-resigns-as-greater-hobart-kingborough-mayor/106601632",
+      "mean_score": 0.3185,
+      "vader_score": 0.6369,
+      "textblob_score": 0.0,
+      "first_sentence": "Paula Wriedt will resign as the mayor of Kingborough, saying she no longer wanted to be in a workplace with \"toxic behaviour\", or where councillors were targeted with \"nasty\" social media comments from the public.",
+      "timestamp": "2026-04-24T04:56:27Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "David Malouf will always be one of the world\u2019s great writers. I will always be grateful to him | Christos Tsiolkas",
+      "link": "https://www.theguardian.com/books/2026/apr/24/david-malouf-world-great-writer-grateful-christos-tsiolkas",
+      "mean_score": 0.7982,
+      "vader_score": 0.7964,
+      "textblob_score": 0.8,
+      "first_sentence": "Preparing for bed on Thursday night, I glanced at my phone.",
+      "timestamp": "2026-04-24T04:38:47Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Horse trainer's mission to spotlight 'amazing' animal companions used in WWI",
       "link": "https://www.abc.net.au/news/2026-04-24/nt-janette-wilson-leads-anzac-day-march-with-iconic-waler-horse/106590568",
@@ -2439,66 +2499,6 @@
       "textblob_score": 0.6,
       "first_sentence": "The prime minister's decision to send Lord Mandelson to Washington is like a horror film for Sir Keir Starmer, stuck on repeat.",
       "timestamp": "2026-04-17T00:40:43Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Iranian footballers say Australia has given them 'hope' for safe future",
-      "link": "https://www.bbc.com/news/articles/c624x4xgw6xo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4752,
-      "vader_score": 0.7003,
-      "textblob_score": 0.25,
-      "first_sentence": "Two Iranian footballers who were granted asylum in Australia have said the country has given them \"hope for a future where we can live and compete in safety\".",
-      "timestamp": "2026-04-17T00:30:38Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Christine Baranski says West End debut is a 'dream come true'",
-      "link": "https://www.bbc.com/news/articles/clyrr10gp2ko?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4679,
-      "vader_score": 0.5859,
-      "textblob_score": 0.35,
-      "first_sentence": "US actress Christine Baranski has said it will be a \"dream come true\" to make her West End debut later this year, in a new production of Noel Coward's comedy Hay Fever.",
-      "timestamp": "2026-04-16T23:55:31Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Top five takeaways from Homeland Security budget hearings",
-      "link": "https://www.npr.org/2026/04/16/g-s1-117703/trump-immigration-homeland-security-hearings",
-      "mean_score": 0.497,
-      "vader_score": 0.4939,
-      "textblob_score": 0.5,
-      "first_sentence": "Top officials from the Department of Homeland Security talked to House lawmakers about what the agency needs for next fiscal year \u2014 even as it's in the midst of a record-breaking shutdown.",
-      "timestamp": "2026-04-16T22:07:55Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Artemis II crew: 'We left as friends - we came back as best friends'",
-      "link": "https://www.bbc.com/news/articles/ce8jpz9rx2yo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.6097,
-      "vader_score": 0.886,
-      "textblob_score": 0.3333,
-      "first_sentence": "The four astronauts of Artemis II say their mission gave the world a sense of hope and unity at a time when both feel in short supply.",
-      "timestamp": "2026-04-16T21:49:38Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "End of school holidays sees sunshine in south-east Queensland, rainfall in north",
-      "link": "https://www.abc.net.au/news/2026-04-17/weather-forecast-mixed-back-for-end-of-qld-school-holidays/106571810",
-      "mean_score": 0.3502,
-      "vader_score": 0.7003,
-      "textblob_score": 0.0,
-      "first_sentence": "Parts of Queensland's central interior and north-west could see localised heavy falls today.",
-      "timestamp": "2026-04-16T19:31:01Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Rescuers to use air cushions in latest effort to save stranded whale",
-      "link": "https://www.bbc.com/news/articles/c2082pljyk1o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.497,
-      "vader_score": 0.4939,
-      "textblob_score": 0.5,
-      "first_sentence": "Rescuers plan to use air cushions in the latest attempt to free a humpback whale that has been stranded off Germany's northern coast for weeks.",
-      "timestamp": "2026-04-16T18:30:08Z",
       "source": "BBC News"
     }
   ]

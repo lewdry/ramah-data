@@ -1,5 +1,65 @@
 [
   {
+    "headline": "Iranian footballers say Australia has given them 'hope' for safe future",
+    "link": "https://www.bbc.com/news/articles/c624x4xgw6xo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4752,
+    "vader_score": 0.7003,
+    "textblob_score": 0.25,
+    "first_sentence": "Two Iranian footballers who were granted asylum in Australia have said the country has given them \"hope for a future where we can live and compete in safety\".",
+    "timestamp": "2026-04-17T00:30:38Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Christine Baranski says West End debut is a 'dream come true'",
+    "link": "https://www.bbc.com/news/articles/clyrr10gp2ko?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4679,
+    "vader_score": 0.5859,
+    "textblob_score": 0.35,
+    "first_sentence": "US actress Christine Baranski has said it will be a \"dream come true\" to make her West End debut later this year, in a new production of Noel Coward's comedy Hay Fever.",
+    "timestamp": "2026-04-16T23:55:31Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Top five takeaways from Homeland Security budget hearings",
+    "link": "https://www.npr.org/2026/04/16/g-s1-117703/trump-immigration-homeland-security-hearings",
+    "mean_score": 0.497,
+    "vader_score": 0.4939,
+    "textblob_score": 0.5,
+    "first_sentence": "Top officials from the Department of Homeland Security talked to House lawmakers about what the agency needs for next fiscal year \u2014 even as it's in the midst of a record-breaking shutdown.",
+    "timestamp": "2026-04-16T22:07:55Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "Artemis II crew: 'We left as friends - we came back as best friends'",
+    "link": "https://www.bbc.com/news/articles/ce8jpz9rx2yo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.6097,
+    "vader_score": 0.886,
+    "textblob_score": 0.3333,
+    "first_sentence": "The four astronauts of Artemis II say their mission gave the world a sense of hope and unity at a time when both feel in short supply.",
+    "timestamp": "2026-04-16T21:49:38Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "End of school holidays sees sunshine in south-east Queensland, rainfall in north",
+    "link": "https://www.abc.net.au/news/2026-04-17/weather-forecast-mixed-back-for-end-of-qld-school-holidays/106571810",
+    "mean_score": 0.3502,
+    "vader_score": 0.7003,
+    "textblob_score": 0.0,
+    "first_sentence": "Parts of Queensland's central interior and north-west could see localised heavy falls today.",
+    "timestamp": "2026-04-16T19:31:01Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Rescuers to use air cushions in latest effort to save stranded whale",
+    "link": "https://www.bbc.com/news/articles/c2082pljyk1o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.497,
+    "vader_score": 0.4939,
+    "textblob_score": 0.5,
+    "first_sentence": "Rescuers plan to use air cushions in the latest attempt to free a humpback whale that has been stranded off Germany's northern coast for weeks.",
+    "timestamp": "2026-04-16T18:30:08Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Like a concrete aircraft carrier: was LA\u2019s giant new $724m gallery really worth all the carbon emissions?",
     "link": "https://www.theguardian.com/artanddesign/2026/apr/16/lacma-david-geffen-galleries-peter-zumthor-eiffel-concrete-aircraft-carrier",
     "mean_score": 0.3587,
