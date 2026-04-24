@@ -1,6 +1,36 @@
 {
-  "last run": "2026-04-24T06:39:30Z",
+  "last run": "2026-04-24T09:33:59Z",
   "stories": [
+    {
+      "headline": "What NHS challenges does the election winner face?",
+      "link": "https://www.bbc.com/news/videos/cly70zgjxpno?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3125,
+      "vader_score": 0.6249,
+      "textblob_score": 0.0,
+      "first_sentence": "There are currently 687,958 people waiting for any type of NHS treatment in Wales.",
+      "timestamp": "2026-04-24T09:13:24Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Nuclear power! Have we finally found a useful use for it? Let\u2019s ask a wolf | First Dog on the Moon",
+      "link": "https://www.theguardian.com/commentisfree/picture/2026/apr/24/nuclear-power-have-we-finally-found-a-useful-use-for-it-lets-ask-a-wolf",
+      "mean_score": 0.338,
+      "vader_score": 0.4926,
+      "textblob_score": 0.1833,
+      "first_sentence": "The huge area around Chernobyl has become an enormous wildlife reserve! And many creatures are thrivingSign up here to get an email whenever First Dog cartoons are publishedGet all your needs met at the First Dog shop if what you need is First Dog merchandise and prints Continue reading.",
+      "timestamp": "2026-04-24T06:38:13Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "'Just do it': Why the gas tax momentum is building for Australia's good",
+      "link": "https://www.abc.net.au/news/2026-04-24/gas-resources-tax-for-federal-budget-resources-verrender-column/106602096",
+      "mean_score": 0.5702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.7,
+      "first_sentence": "Appearing before a Senate inquiry this week into gas resources taxes, the former Treasury Secretary and one-time National Australia Bank chairman returned to long familiar territory, urging Australia's elected leaders to stop selling the country short.",
+      "timestamp": "2026-04-24T06:00:53Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Homes for sale in England with smart storage \u2013 in pictures",
       "link": "https://www.theguardian.com/money/gallery/2026/apr/24/homes-for-sale-england-smart-storage",
@@ -30,6 +60,16 @@
       "first_sentence": "The roots of Russia's invasion of Ukraine go back decades and run deep.",
       "timestamp": "2026-04-24T05:08:10Z",
       "source": "NPR News"
+    },
+    {
+      "headline": "Lost 1968 Morecambe and Wise episode to be broadcast",
+      "link": "https://www.bbc.com/news/articles/c3v6q1gdlneo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4511,
+      "vader_score": 0.2023,
+      "textblob_score": 0.7,
+      "first_sentence": "A lost TV episode from one of the UK's most famous comic duos is to be broadcast after being found in a private collection.",
+      "timestamp": "2026-04-24T05:01:07Z",
+      "source": "BBC News"
     },
     {
       "headline": "Signal praises Apple over security fix in new iPhone update",
@@ -2460,46 +2500,6 @@
       "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
       "timestamp": "2026-04-17T03:41:58Z",
       "source": "SBS News"
-    },
-    {
-      "headline": "Custom thongs, hugs and selfies: Harry and Meghan's very Sydney visit",
-      "link": "https://www.abc.net.au/news/2026-04-17/prince-harry-meghan-visit-sydney-on-australian-tour/106574648",
-      "mean_score": 0.3469,
-      "vader_score": 0.4939,
-      "textblob_score": 0.2,
-      "first_sentence": "Prince Harry and Meghan began the Sydney leg of their Australian tour with a visit to a Bondi surf club.",
-      "timestamp": "2026-04-17T03:01:40Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Progressive Democrat Analilia Mejia wins New Jersey special election for US House",
-      "link": "https://www.theguardian.com/us-news/2026/apr/16/progressive-democrat-analilia-mejia-wins-new-jersey-special-election-for-us-house",
-      "mean_score": 0.5076,
-      "vader_score": 0.7506,
-      "textblob_score": 0.2645,
-      "first_sentence": "Democrat Analilia Mejia won a New Jersey special election for the US House on Thursday, defeating Republican Joe Hathaway on a message of standing up to Donald Trump.",
-      "timestamp": "2026-04-17T01:21:10Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Paul Keating statement in full: Angus Taylor has chosen to walk away from the Liberals\u2019 best instincts on immigration",
-      "link": "https://www.theguardian.com/commentisfree/2026/apr/17/paul-keating-angus-taylor-liberal-party-immigration-statement-in-full-ntwnfb",
-      "mean_score": 0.656,
-      "vader_score": 0.6369,
-      "textblob_score": 0.675,
-      "first_sentence": "The Liberal party, battling an extreme version of itself \u2013 One Nation \u2013 has again fallen back to its default political policy: racism.",
-      "timestamp": "2026-04-17T01:00:42Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Chris Mason: Mandelson nightmare haunts Starmer again, as senior figure effectively sacked",
-      "link": "https://www.bbc.com/news/articles/c8dl8l5l008o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4132,
-      "vader_score": 0.2263,
-      "textblob_score": 0.6,
-      "first_sentence": "The prime minister's decision to send Lord Mandelson to Washington is like a horror film for Sir Keir Starmer, stuck on repeat.",
-      "timestamp": "2026-04-17T00:40:43Z",
-      "source": "BBC News"
     }
   ]
 }

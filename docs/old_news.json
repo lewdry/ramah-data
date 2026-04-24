@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Custom thongs, hugs and selfies: Harry and Meghan's very Sydney visit",
+    "link": "https://www.abc.net.au/news/2026-04-17/prince-harry-meghan-visit-sydney-on-australian-tour/106574648",
+    "mean_score": 0.3469,
+    "vader_score": 0.4939,
+    "textblob_score": 0.2,
+    "first_sentence": "Prince Harry and Meghan began the Sydney leg of their Australian tour with a visit to a Bondi surf club.",
+    "timestamp": "2026-04-17T03:01:40Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Progressive Democrat Analilia Mejia wins New Jersey special election for US House",
+    "link": "https://www.theguardian.com/us-news/2026/apr/16/progressive-democrat-analilia-mejia-wins-new-jersey-special-election-for-us-house",
+    "mean_score": 0.5076,
+    "vader_score": 0.7506,
+    "textblob_score": 0.2645,
+    "first_sentence": "Democrat Analilia Mejia won a New Jersey special election for the US House on Thursday, defeating Republican Joe Hathaway on a message of standing up to Donald Trump.",
+    "timestamp": "2026-04-17T01:21:10Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Paul Keating statement in full: Angus Taylor has chosen to walk away from the Liberals\u2019 best instincts on immigration",
+    "link": "https://www.theguardian.com/commentisfree/2026/apr/17/paul-keating-angus-taylor-liberal-party-immigration-statement-in-full-ntwnfb",
+    "mean_score": 0.656,
+    "vader_score": 0.6369,
+    "textblob_score": 0.675,
+    "first_sentence": "The Liberal party, battling an extreme version of itself \u2013 One Nation \u2013 has again fallen back to its default political policy: racism.",
+    "timestamp": "2026-04-17T01:00:42Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Chris Mason: Mandelson nightmare haunts Starmer again, as senior figure effectively sacked",
+    "link": "https://www.bbc.com/news/articles/c8dl8l5l008o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4132,
+    "vader_score": 0.2263,
+    "textblob_score": 0.6,
+    "first_sentence": "The prime minister's decision to send Lord Mandelson to Washington is like a horror film for Sir Keir Starmer, stuck on repeat.",
+    "timestamp": "2026-04-17T00:40:43Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Iranian footballers say Australia has given them 'hope' for safe future",
     "link": "https://www.bbc.com/news/articles/c624x4xgw6xo?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.4752,
