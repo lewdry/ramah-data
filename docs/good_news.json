@@ -1,6 +1,36 @@
 {
-  "last run": "2026-04-25T12:13:39Z",
+  "last run": "2026-04-25T15:15:20Z",
   "stories": [
+    {
+      "headline": "'Truly exceptional person': Australian Olympian Gordon Ingate dies aged 100",
+      "link": "https://www.abc.net.au/news/2026-04-26/australian-olympian-gordon-ingate-dies-aged-100/106606892",
+      "mean_score": 0.3146,
+      "vader_score": 0.4404,
+      "textblob_score": 0.1889,
+      "first_sentence": "The Olympian competed in sailing at the 1972 Munich Olympic Games in the Tempest class, at the age of 46.",
+      "timestamp": "2026-04-25T14:06:27Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Ifrah F Ahmed\u2019s debut cookbook is a love letter to Somali cuisine, history and people",
+      "link": "https://www.theguardian.com/food/2026/apr/25/ifrah-f-ahmed-soomaaliya-cookbook-somali-cuisine",
+      "mean_score": 0.5685,
+      "vader_score": 0.6369,
+      "textblob_score": 0.5,
+      "first_sentence": "On a video call from Brooklyn, between stops on her book tour, Ifrah F Ahmed is drinking ginger-root tea.",
+      "timestamp": "2026-04-25T14:00:47Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Artemis II broke Fred Haise's distance record, but he is happy to pass it on",
+      "link": "https://arstechnica.com/science/2026/04/artemis-ii-broke-fred-haises-distance-record-but-he-is-happy-to-pass-it-on/",
+      "mean_score": 0.7155,
+      "vader_score": 0.631,
+      "textblob_score": 0.8,
+      "first_sentence": "With the circumlunar flight of Artemis II, and the prospect of landing astronauts on the lunar surface within a few years, humanity is preempting an era where the imprint of visiting the Moon would be erased from living memory.",
+      "timestamp": "2026-04-25T11:40:58Z",
+      "source": "Ars Technica"
+    },
     {
       "headline": "\u2018It\u2019s a huge, futuristic space with massive skylights\u2019: Ali Zolghadri\u2019s best phone picture",
       "link": "https://www.theguardian.com/lifeandstyle/2026/apr/25/ali-zolghadri-best-phone-picture",
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.1667,
       "first_sentence": "Super League could move back to a winter competition to allow year-round global broadcasting of rugby league if the NRL agrees a deal to take control of the British game.",
       "timestamp": "2026-04-17T12:34:43Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Why did Michelin snub St Paul in its guide to the best restaurants in the Great Lakes region?",
-      "link": "https://www.theguardian.com/us-news/2026/apr/17/michelin-guide-st-paul-minneapolis",
-      "mean_score": 0.829,
-      "vader_score": 0.7579,
-      "textblob_score": 0.9,
-      "first_sentence": "When Michelin announced that it was expanding its world-renowned restaurant guide into the Great Lakes region of the United States, including Minneapolis, one prominent city was left off the map \u2013 Saint Paul, the state capital.",
-      "timestamp": "2026-04-17T12:00:44Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Cocktail of the week: Homeboy\u2019s fumbally \u2013 recipe | The good mixer",
-      "link": "https://www.theguardian.com/food/2026/apr/17/cocktail-of-the-week-fumbally-recipe-homeboy-irish-bar",
-      "mean_score": 0.5702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.7,
-      "first_sentence": "Named after a community-focused cafe in Dublin, this drink has a flavour profile that brings to mind berry compote and scones.",
-      "timestamp": "2026-04-17T12:00:44Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "South Koreans breathe sighs of relief as escaped wolf is returned to zoo safely",
-      "link": "https://www.theguardian.com/world/2026/apr/17/south-korea-escaped-wolf-captured-returned-zoo-safely",
-      "mean_score": 0.6215,
-      "vader_score": 0.743,
-      "textblob_score": 0.5,
-      "first_sentence": "The internet in South Korea erupted in celebration as a two-year-old wolf that escaped from a zoo was captured safely after a nine-day search that had gripped the nation and made the animal a national celebrity.",
-      "timestamp": "2026-04-17T11:49:38Z",
       "source": "The Guardian"
     }
   ]
