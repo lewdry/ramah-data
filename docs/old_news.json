@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Mejia wins NJ special election to replace Gov. Sherrill in Congress",
+    "link": "https://www.npr.org/2026/04/17/nx-s1-5785061/mejia-wins-nj-special-election-to-replace-gov-sherrill-in-congress",
+    "mean_score": 0.5396,
+    "vader_score": 0.7506,
+    "textblob_score": 0.3286,
+    "first_sentence": "Democrat Analilia Mej\u00eda won a special election Thursday to fill the House seat vacated by Democratic Gov.",
+    "timestamp": "2026-04-17T08:41:58Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "Live: Cleary breaks Dolphins hearts as Panthers find a way in golden point",
+    "link": "https://www.abc.net.au/news/2026-04-17/nrl-live-updates-raiders-storm-dolphins-panthers/106578186",
+    "mean_score": 0.4334,
+    "vader_score": 0.6486,
+    "textblob_score": 0.2182,
+    "first_sentence": "Penrith holds off a remarkable Dolphins fightback to triumph 23-22 in a golden point classic in Darwin.",
+    "timestamp": "2026-04-17T07:30:42Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Various artists: Asili ya Mama review \u2013 Tanzanian field recordings tell women\u2019s stories with an energetic trill",
     "link": "https://www.theguardian.com/music/2026/apr/17/various-artists-asili-ya-mama-review-tanzanian-field-recordings-tell-womens-stories-with-an-energetic-trill",
     "mean_score": 0.3452,

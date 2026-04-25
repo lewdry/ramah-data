@@ -1,6 +1,26 @@
 {
-  "last run": "2026-04-25T00:26:19Z",
+  "last run": "2026-04-25T03:58:48Z",
   "stories": [
+    {
+      "headline": "Live: Hawks get the jump over Suns before Anzac Day blockbuster at the MCG",
+      "link": "https://www.abc.net.au/news/2026-04-25/afl-round-seven-live-blog-haw-gc-ess-coll-pa-gee-freo-carl/106604198",
+      "mean_score": 0.3679,
+      "vader_score": 0.5994,
+      "textblob_score": 0.1364,
+      "first_sentence": "Hawthorn and Gold Coast meet for a battle of premiership contenders in Launceston, before the traditional MCG Anzac Day blockbuster between Essendon and Collingwood.",
+      "timestamp": "2026-04-25T02:12:35Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "This easy 'hug in a bowl' chicken stew is perfect for midweek dinners",
+      "link": "https://www.abc.net.au/news/2026-04-25/easy-creamy-midweek-chicken-stew-elizabeth-hewson/106591796",
+      "mean_score": 0.5718,
+      "vader_score": 0.8658,
+      "textblob_score": 0.2778,
+      "first_sentence": "Elizabeth Hewson is a cookbook author and food columnist who lives on Gadigal Land in Sydney.",
+      "timestamp": "2026-04-25T02:00:00Z",
+      "source": "ABC News"
+    },
     {
       "headline": "'Fear and hope' of foster care journey inspires teen artist",
       "link": "https://www.abc.net.au/news/2026-04-25/keira-graham-indigenous-artist-experience-in-foster-care/106191792",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.2682,
       "first_sentence": "Geelong trounce the Western Bulldogs by 75 points at Kardinia Park, with the visitors' night further soured by what looks to be a serious knee injury to Sam Darcy.",
       "timestamp": "2026-04-17T08:43:19Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Mejia wins NJ special election to replace Gov. Sherrill in Congress",
-      "link": "https://www.npr.org/2026/04/17/nx-s1-5785061/mejia-wins-nj-special-election-to-replace-gov-sherrill-in-congress",
-      "mean_score": 0.5396,
-      "vader_score": 0.7506,
-      "textblob_score": 0.3286,
-      "first_sentence": "Democrat Analilia Mej\u00eda won a special election Thursday to fill the House seat vacated by Democratic Gov.",
-      "timestamp": "2026-04-17T08:41:58Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Live: Cleary breaks Dolphins hearts as Panthers find a way in golden point",
-      "link": "https://www.abc.net.au/news/2026-04-17/nrl-live-updates-raiders-storm-dolphins-panthers/106578186",
-      "mean_score": 0.4334,
-      "vader_score": 0.6486,
-      "textblob_score": 0.2182,
-      "first_sentence": "Penrith holds off a remarkable Dolphins fightback to triumph 23-22 in a golden point classic in Darwin.",
-      "timestamp": "2026-04-17T07:30:42Z",
       "source": "ABC News"
     }
   ]
