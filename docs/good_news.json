@@ -1,6 +1,16 @@
 {
-  "last run": "2026-04-24T21:17:26Z",
+  "last run": "2026-04-25T00:26:19Z",
   "stories": [
+    {
+      "headline": "'Fear and hope' of foster care journey inspires teen artist",
+      "link": "https://www.abc.net.au/news/2026-04-25/keira-graham-indigenous-artist-experience-in-foster-care/106191792",
+      "mean_score": 0.3502,
+      "vader_score": 0.7003,
+      "textblob_score": 0.0,
+      "first_sentence": "Indigenous artist Keira Graham is using her work to explore her Anmatjere and Arrernte culture and experiences in the foster care system.",
+      "timestamp": "2026-04-24T21:30:00Z",
+      "source": "ABC News"
+    },
     {
       "headline": "The supersonic strike navigator who discovered the surprising truth about his heritage",
       "link": "https://www.theguardian.com/australia-news/2026/apr/25/supersonic-strike-navigator-indigenous-ancestry",
@@ -2490,16 +2500,6 @@
       "first_sentence": "Penrith holds off a remarkable Dolphins fightback to triumph 23-22 in a golden point classic in Darwin.",
       "timestamp": "2026-04-17T07:30:42Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Various artists: Asili ya Mama review \u2013 Tanzanian field recordings tell women\u2019s stories with an energetic trill",
-      "link": "https://www.theguardian.com/music/2026/apr/17/various-artists-asili-ya-mama-review-tanzanian-field-recordings-tell-womens-stories-with-an-energetic-trill",
-      "mean_score": 0.3452,
-      "vader_score": 0.4404,
-      "textblob_score": 0.25,
-      "first_sentence": "Folk song collecting by women has an illustrious history, but also an exciting present, as this set of 10 energetic Tanzanian field recordings demonstrates.",
-      "timestamp": "2026-04-17T07:30:23Z",
-      "source": "The Guardian"
     }
   ]
 }
