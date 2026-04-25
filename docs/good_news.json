@@ -1,6 +1,36 @@
 {
-  "last run": "2026-04-25T18:13:59Z",
+  "last run": "2026-04-25T21:12:12Z",
   "stories": [
+    {
+      "headline": "\u2018He needed intensive care and a team of specialists. He got me instead\u2019: an outback doctor on treating patients a long way from help",
+      "link": "https://www.theguardian.com/books/2026/apr/26/outback-doctor-northern-territory-australia",
+      "mean_score": 0.3298,
+      "vader_score": 0.7096,
+      "textblob_score": -0.05,
+      "first_sentence": "\u201cIt can be harder than aid work,\u201d a colleague cautioned me when I first applied to work in the remote Northern Territory.",
+      "timestamp": "2026-04-25T20:00:55Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "'Prince Harry is not speaking for the UK': The surprising comments made ahead of King Charles's US trip",
+      "link": "https://www.abc.net.au/news/2026-04-26/prince-harry-and-meghan-australia-trip-king-charles-us/106596286",
+      "mean_score": 0.4866,
+      "vader_score": 0.2732,
+      "textblob_score": 0.7,
+      "first_sentence": "Little more than a week after Meghan and Harry's 'quasi royal' tour in Australia, King Charles will be conducting the real thing in America, with much higher stakes.",
+      "timestamp": "2026-04-25T18:51:46Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Manchester City pull off comeback win against Southampton to reach FA Cup final",
+      "link": "https://www.theguardian.com/football/2026/apr/25/manchester-city-southampton-fa-cup-semi-final-match-report",
+      "mean_score": 0.4997,
+      "vader_score": 0.5994,
+      "textblob_score": 0.4,
+      "first_sentence": "What a barnstorming finish to this FA Cup semi-final, which featured three goals in eight minutes and ended with Nico Gonz\u00e1lez as the hero who swept Manchester City to a historic fourth consecutive final.",
+      "timestamp": "2026-04-25T18:35:35Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "'Truly exceptional person': Australian Olympian Gordon Ingate dies aged 100",
       "link": "https://www.abc.net.au/news/2026-04-26/australian-olympian-gordon-ingate-dies-aged-100/106606892",
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.4,
       "first_sentence": "The so-called \u201cGreat Barrier Thief\u201d will be unleashed on to one of basketball\u2019s most storied stages this weekend, as Australian Dyson Daniels storms into an NBA playoff battle against Jalen Brunson and the New York Knicks at Madison Square Garden.",
       "timestamp": "2026-04-17T15:00:48Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "As a Catholic, I\u2019ve struggled with the church - but I applaud the pope\u2019s call for peace | Margaret Sullivan",
-      "link": "https://www.theguardian.com/commentisfree/2026/apr/17/pope-leo-trump-catholicism",
-      "mean_score": 0.4211,
-      "vader_score": 0.8422,
-      "textblob_score": 0.0,
-      "first_sentence": "On the one hand, as a \u201ccradle Catholic\u201d, I\u2019ve received the sacraments, often get to Sunday mass, and am the product of a Catholic education, right through Georgetown University, with its Jesuit history.",
-      "timestamp": "2026-04-17T14:00:46Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The best rums: 10 tasty tipples for mojitos, sours and sipping neat \u2013 tested",
-      "link": "https://www.theguardian.com/thefilter/2026/apr/17/best-rums-tested-uk",
-      "mean_score": 0.901,
-      "vader_score": 0.802,
-      "textblob_score": 1.0,
-      "first_sentence": "The Guardian\u2019s journalism is independent.",
-      "timestamp": "2026-04-17T14:00:46Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Winter is coming \u2026 back? Super League could revamp schedule as part of NRL takeover",
-      "link": "https://www.theguardian.com/sport/2026/apr/17/super-league-could-revamp-schedule-winter-nrl-takeover-plans-rugby-league",
-      "mean_score": 0.383,
-      "vader_score": 0.5994,
-      "textblob_score": 0.1667,
-      "first_sentence": "Super League could move back to a winter competition to allow year-round global broadcasting of rugby league if the NRL agrees a deal to take control of the British game.",
-      "timestamp": "2026-04-17T12:34:43Z",
       "source": "The Guardian"
     }
   ]
