@@ -1,6 +1,16 @@
 {
-  "last run": "2026-04-25T03:58:48Z",
+  "last run": "2026-04-25T06:31:09Z",
   "stories": [
+    {
+      "headline": "'Very funny' statue of Monty Python's Terry Jones to be unveiled",
+      "link": "https://www.bbc.com/news/articles/cpvxe049zwpo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4089,
+      "vader_score": 0.4927,
+      "textblob_score": 0.325,
+      "first_sentence": "A statue commemorating the actor and writer Terry Jones will be unveiled in his birthplace this weekend.",
+      "timestamp": "2026-04-25T06:02:08Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Live: Hawks get the jump over Suns before Anzac Day blockbuster at the MCG",
       "link": "https://www.abc.net.au/news/2026-04-25/afl-round-seven-live-blog-haw-gc-ess-coll-pa-gee-freo-carl/106604198",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.0333,
       "first_sentence": "Michael Ferguson, Tasmania's former deputy premier, says he was driving home along the Midland Highway on Thursday night when \"my car struck a black cow in the middle of my lane\".",
       "timestamp": "2026-04-17T08:57:03Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Live: Cats make light work of Dogs as play resumes at the SCG",
-      "link": "https://www.abc.net.au/news/2026-04-17/afl-friday-live-cats-dogs-swans-giants/106571282",
-      "mean_score": 0.3041,
-      "vader_score": 0.34,
-      "textblob_score": 0.2682,
-      "first_sentence": "Geelong trounce the Western Bulldogs by 75 points at Kardinia Park, with the visitors' night further soured by what looks to be a serious knee injury to Sam Darcy.",
-      "timestamp": "2026-04-17T08:43:19Z",
       "source": "ABC News"
     }
   ]
