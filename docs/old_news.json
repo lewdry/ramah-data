@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Welcome to the UK\u2019s most zeitgeisty theme park: the Stephen Collins cartoon",
+    "link": "https://www.theguardian.com/lifeandstyle/picture/2026/apr/17/uk-most-zeitgeist-theme-park-stephen-collins-cartoon",
+    "mean_score": 0.5544,
+    "vader_score": 0.4588,
+    "textblob_score": 0.65,
+    "first_sentence": "Continue reading.",
+    "timestamp": "2026-04-17T09:30:26Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Logjam of U.S. immigration applications puts millions at greater risk of deportation",
+    "link": "https://www.npr.org/2026/04/17/nx-s1-5777632/us-trump-immigration-delay-applications-citizenship-deportation",
+    "mean_score": 0.3014,
+    "vader_score": 0.1027,
+    "textblob_score": 0.5,
+    "first_sentence": "Millions of immigrants are stuck in legal limbo, waiting to change their legal status under the second Trump administration, an NPR analysis shows, leaving more of them vulnerable to deportation.",
+    "timestamp": "2026-04-17T09:00:00Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "Liberal politician thanks God after car hits cow on highway at night",
+    "link": "https://www.abc.net.au/news/2026-04-17/michael-ferguson-car-crash-midland-highway-black-cow/106578452",
+    "mean_score": 0.3229,
+    "vader_score": 0.6124,
+    "textblob_score": 0.0333,
+    "first_sentence": "Michael Ferguson, Tasmania's former deputy premier, says he was driving home along the Midland Highway on Thursday night when \"my car struck a black cow in the middle of my lane\".",
+    "timestamp": "2026-04-17T08:57:03Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "Live: Cats make light work of Dogs as play resumes at the SCG",
     "link": "https://www.abc.net.au/news/2026-04-17/afl-friday-live-cats-dogs-swans-giants/106571282",
     "mean_score": 0.3041,

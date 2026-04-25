@@ -1,6 +1,16 @@
 {
-  "last run": "2026-04-25T06:31:09Z",
+  "last run": "2026-04-25T09:18:48Z",
   "stories": [
+    {
+      "headline": "Disco hit: Penne alla vodka, popular in New York 80s clubs, is now a menu staple",
+      "link": "https://www.theguardian.com/food/2026/apr/25/penne-alla-vodka-popular-new-york-80s-resurgence",
+      "mean_score": 0.3948,
+      "vader_score": 0.4215,
+      "textblob_score": 0.3682,
+      "first_sentence": "Despite most traditional Italians considering it sacrilegious, penne alla vodka is quickly becoming one of the most in-demand Italian dishes.",
+      "timestamp": "2026-04-25T08:00:40Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "'Very funny' statue of Monty Python's Terry Jones to be unveiled",
       "link": "https://www.bbc.com/news/articles/cpvxe049zwpo?at_medium=RSS&at_campaign=rss",
@@ -912,6 +922,16 @@
       "source": "NPR News"
     },
     {
+      "headline": "'My choir used my whale sound recordings to make a song celebrating the ocean'",
+      "link": "https://www.bbc.com/news/articles/ce9me55xe0xo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4859,
+      "vader_score": 0.5719,
+      "textblob_score": 0.4,
+      "first_sentence": "A choir has turned recordings of whale sounds from one of their members into a song celebrating the ocean.",
+      "timestamp": "2026-04-22T13:21:50Z",
+      "source": "BBC News"
+    },
+    {
       "headline": "Bike shop rescues The 1975 bassist's charity ride",
       "link": "https://www.bbc.com/news/articles/cgqkdd9g9ddo?at_medium=RSS&at_campaign=rss",
       "mean_score": 0.3125,
@@ -1280,6 +1300,16 @@
       "first_sentence": "NASA is down to a single provider for a critical link in its lunar architecture.",
       "timestamp": "2026-04-21T14:24:09Z",
       "source": "Ars Technica"
+    },
+    {
+      "headline": "Grandfather says Britain's Got Talent duet with grandson was 'greatest moment'",
+      "link": "https://www.bbc.com/news/articles/cge041qrx4go?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.8953,
+      "vader_score": 0.7906,
+      "textblob_score": 1.0,
+      "first_sentence": "A grandfather says performing on a talent show with his 10-year-old grandson is a moment he will always remember.",
+      "timestamp": "2026-04-21T13:15:22Z",
+      "source": "BBC News"
     },
     {
       "headline": "Contrary to popular superstition, AES 128 is just fine in a post-quantum world",
@@ -2470,36 +2500,6 @@
       "first_sentence": "Last weekend was nightmarish for Arsenal.",
       "timestamp": "2026-04-17T11:00:42Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Welcome to the UK\u2019s most zeitgeisty theme park: the Stephen Collins cartoon",
-      "link": "https://www.theguardian.com/lifeandstyle/picture/2026/apr/17/uk-most-zeitgeist-theme-park-stephen-collins-cartoon",
-      "mean_score": 0.5544,
-      "vader_score": 0.4588,
-      "textblob_score": 0.65,
-      "first_sentence": "Continue reading.",
-      "timestamp": "2026-04-17T09:30:26Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Logjam of U.S. immigration applications puts millions at greater risk of deportation",
-      "link": "https://www.npr.org/2026/04/17/nx-s1-5777632/us-trump-immigration-delay-applications-citizenship-deportation",
-      "mean_score": 0.3014,
-      "vader_score": 0.1027,
-      "textblob_score": 0.5,
-      "first_sentence": "Millions of immigrants are stuck in legal limbo, waiting to change their legal status under the second Trump administration, an NPR analysis shows, leaving more of them vulnerable to deportation.",
-      "timestamp": "2026-04-17T09:00:00Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Liberal politician thanks God after car hits cow on highway at night",
-      "link": "https://www.abc.net.au/news/2026-04-17/michael-ferguson-car-crash-midland-highway-black-cow/106578452",
-      "mean_score": 0.3229,
-      "vader_score": 0.6124,
-      "textblob_score": 0.0333,
-      "first_sentence": "Michael Ferguson, Tasmania's former deputy premier, says he was driving home along the Midland Highway on Thursday night when \"my car struck a black cow in the middle of my lane\".",
-      "timestamp": "2026-04-17T08:57:03Z",
-      "source": "ABC News"
     }
   ]
 }
