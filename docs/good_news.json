@@ -1,6 +1,16 @@
 {
-  "last run": "2026-04-26T06:38:28Z",
+  "last run": "2026-04-26T09:20:27Z",
   "stories": [
+    {
+      "headline": "\u2018I don\u2019t believe in song shaming!\u2019: Jon Batiste\u2019s honest playlist",
+      "link": "https://www.theguardian.com/music/2026/apr/26/jon-batiste-honest-playlist-amyl-sniffers-clarence-carter-steely-dan",
+      "mean_score": 0.5781,
+      "vader_score": 0.5562,
+      "textblob_score": 0.6,
+      "first_sentence": "The acclaimed musician and former late night bandleader loves everything from Amyl and the Sniffers to Erykah Badu.",
+      "timestamp": "2026-04-26T08:01:08Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Aussie stuns Brazil's fab four for first World Surf League title",
       "link": "https://www.abc.net.au/news/2026-04-26/george-pittar-wins-margaret-river-pro-first-wsl-title/106608282",
@@ -2489,16 +2499,6 @@
       "textblob_score": 0.4667,
       "first_sentence": "Eighteen-year-old sprint star Gout Gout has coasted to another 100m junior national title, waving goodbye to his opponents as he won in 10.21 seconds.",
       "timestamp": "2026-04-18T04:56:01Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Haas expected to miss several weeks as Broncos count cost of brave win",
-      "link": "https://www.abc.net.au/news/2026-04-18/nrl-live-warriors-titans-rabbitohs-dragons-tigers-broncos/106576324",
-      "mean_score": 0.57,
-      "vader_score": 0.765,
-      "textblob_score": 0.375,
-      "first_sentence": "Brisbane's horror injury toll appears to have worsened after the reigning NRL premiers produced a brave performance to snap Wests Tigers' three-match winning streak.",
-      "timestamp": "2026-04-18T04:21:05Z",
       "source": "ABC News"
     }
   ]
