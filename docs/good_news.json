@@ -1,6 +1,46 @@
 {
-  "last run": "2026-04-26T00:28:34Z",
+  "last run": "2026-04-26T04:09:54Z",
   "stories": [
+    {
+      "headline": "Teenagers are calling time on the handshake. I salute them, from a safe distance | Polly Hudson",
+      "link": "https://www.theguardian.com/commentisfree/2026/apr/26/teenagers-are-calling-time-on-the-handshake-i-salute-them-from-a-safe-distance",
+      "mean_score": 0.4702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.5,
+      "first_sentence": "Sometimes you don\u2019t know what you\u2019ve got till it\u2019s gone.",
+      "timestamp": "2026-04-26T04:00:04Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Live: Focused Saints creating headaches for Eagles",
+      "link": "https://www.abc.net.au/news/2026-04-26/afl-live-blog-saints-eagles-lions-crows-giants-kangaroos/106607930",
+      "mean_score": 0.3611,
+      "vader_score": 0.5859,
+      "textblob_score": 0.1364,
+      "first_sentence": "West Coast travels to Melbourne to place St Kilda as it looks to halt a three-match losing streak.",
+      "timestamp": "2026-04-26T02:57:15Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Love story: Bonding with my daughter was amazing, but it took time",
+      "link": "https://www.abc.net.au/news/2026-04-26/falling-in-love-with-your-baby-later-than-expected/106362192",
+      "mean_score": 0.5812,
+      "vader_score": 0.6124,
+      "textblob_score": 0.55,
+      "first_sentence": "Molly, who was in the depths of perinatal depression and anxiety, didn't feel a bond with her baby at first.",
+      "timestamp": "2026-04-26T02:00:00Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "New CEO Steve O'Donnell vows to unite NASCAR and return the fun",
+      "link": "https://www.npr.org/2026/04/25/nx-s1-5799530/new-ceo-steve-odonnell-nascar",
+      "mean_score": 0.3644,
+      "vader_score": 0.5106,
+      "textblob_score": 0.2182,
+      "first_sentence": "O'Donnell was introduced as the sanctioning body's chief executive officer at Talladega Superspeedway on Saturday and vowed to \"make some moves\" that will return the storied racing series to its roots.",
+      "timestamp": "2026-04-26T00:32:28Z",
+      "source": "NPR News"
+    },
     {
       "headline": "In my apartment block\u2019s \u2018Room of Unlimited Magical Recycling Possibilities\u2019 I found not just freebies, but friends",
       "link": "https://www.theguardian.com/lifeandstyle/2026/apr/26/apartment-block-reuse-secondhand-share-recycling-room",
@@ -60,6 +100,16 @@
       "first_sentence": "Little more than a week after Meghan and Harry's 'quasi royal' tour in Australia, King Charles will be conducting the real thing in America, with much higher stakes.",
       "timestamp": "2026-04-25T18:51:46Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "De Zerbi demands mentality shift at injury-hit Spurs: \u2018We need to stay strong in the head\u2019",
+      "link": "https://www.theguardian.com/football/2026/apr/25/roberto-de-zerbi-tottenham-wolves",
+      "mean_score": 0.472,
+      "vader_score": 0.5106,
+      "textblob_score": 0.4333,
+      "first_sentence": "Robert De Zerbi is waiting on the fitness of two more players, after Dominic Solanke and Xavi Simons were forced off injured at Molineux on Saturday, but he is optimistic that Tottenham\u2019s 1-0 victory at Wolves \u201ccan change something in our mentality\u201d.",
+      "timestamp": "2026-04-25T18:43:47Z",
+      "source": "The Guardian"
     },
     {
       "headline": "Manchester City pull off comeback win against Southampton to reach FA Cup final",
@@ -2450,56 +2500,6 @@
       "first_sentence": "The Iliad is a dark and claustrophobic tale; a story of battles and a besieged city, male bravado and violence, written in a propulsive dactylic hexameter that, when spoken in its original Greek, often sounds like the beating of war drums.",
       "timestamp": "2026-04-18T01:48:26Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "'I'm the lucky one' - more than one in three young men now live with their parents",
-      "link": "https://www.bbc.com/news/articles/ce3578g32d0o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3445,
-      "vader_score": 0.4215,
-      "textblob_score": 0.2674,
-      "first_sentence": "More than one in three young men in the UK were living with their parents in 2025, up from 26% in 2000, according to data from the Office for National Statistics (ONS).",
-      "timestamp": "2026-04-17T23:16:33Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Coachella campers are turning tents fancy - and not all Brits are happy",
-      "link": "https://www.bbc.com/news/articles/c2032x399w1o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.686,
-      "vader_score": 0.5719,
-      "textblob_score": 0.8,
-      "first_sentence": "For anyone who has experienced the chaos of a British festival campsite, videos coming from Coachella could certainly raise eyebrows.",
-      "timestamp": "2026-04-17T23:05:09Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Five Great Reads: a month in tradwife land, Francesa Albanese\u2019s \u2018rollercoaster\u2019 life, and the problem with six-second hugs",
-      "link": "https://www.theguardian.com/australia-news/2026/apr/17/a-month-in-tradwife-land-francesa-albaneses-rollercoaster-life-and-the-problem-with-six-second-hugs",
-      "mean_score": 0.7404,
-      "vader_score": 0.6808,
-      "textblob_score": 0.8,
-      "first_sentence": "Good morning.",
-      "timestamp": "2026-04-17T22:41:02Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Animal activists celebrate their first global 'Sanctuary Day'",
-      "link": "https://www.npr.org/2026/04/17/nx-s1-5775921/animal-activists-are-celebrating-their-first-global-sanctuary-day",
-      "mean_score": 0.3484,
-      "vader_score": 0.5719,
-      "textblob_score": 0.125,
-      "first_sentence": "It's been 40 years since animal advocates founded a sanctuary for farm animals in New York and California, and they say April 17 is their first global sanctuary day.",
-      "timestamp": "2026-04-17T22:26:45Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "TV stars renovating Welsh chapel into dream home 'here for good'",
-      "link": "https://www.bbc.com/news/articles/c62jdzj305eo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.6497,
-      "vader_score": 0.5994,
-      "textblob_score": 0.7,
-      "first_sentence": "The Great Pottery Throw Down judge Keith Brymer Jones and actor Marj Hogarth are on a quest to transform a 163-year-old chapel in north Wales.",
-      "timestamp": "2026-04-17T22:00:08Z",
-      "source": "BBC News"
     }
   ]
 }
