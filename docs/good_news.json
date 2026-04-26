@@ -1,6 +1,46 @@
 {
-  "last run": "2026-04-25T21:12:12Z",
+  "last run": "2026-04-26T00:28:34Z",
   "stories": [
+    {
+      "headline": "In my apartment block\u2019s \u2018Room of Unlimited Magical Recycling Possibilities\u2019 I found not just freebies, but friends",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/apr/26/apartment-block-reuse-secondhand-share-recycling-room",
+      "mean_score": 0.52,
+      "vader_score": 0.5399,
+      "textblob_score": 0.5,
+      "first_sentence": "When I lived in inner Sydney, my apartment building had a dedicated reuse room for secondhand items.",
+      "timestamp": "2026-04-26T00:00:00Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "'Self-belief, respect': Indigenous boxers building strength with David Pocock",
+      "link": "https://www.abc.net.au/news/2026-04-26/act-first-nations-youth-development-cultural-camp-cuz-boxing/106597544",
+      "mean_score": 0.3715,
+      "vader_score": 0.743,
+      "textblob_score": 0.0,
+      "first_sentence": "In a basement gym below a church in Canberra, a congregation of athletes has come together for worship of another kind.",
+      "timestamp": "2026-04-25T22:11:25Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "You can holiday for free at this remote island, but there's a catch",
+      "link": "https://www.abc.net.au/news/2026-04-26/campground-hosting-on-qld-national-park-islands/106563278",
+      "mean_score": 0.3044,
+      "vader_score": 0.4588,
+      "textblob_score": 0.15,
+      "first_sentence": "Once a year, Brett and Lisa George leave their home on the mid north coast of New South Wales destined for a remote coral cay island in the southern Great Barrier Reef.",
+      "timestamp": "2026-04-25T22:00:21Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Australia's oldest surviving European cemetery kept alive by volunteers",
+      "link": "https://www.abc.net.au/news/2026-04-26/volunteers-keep-aus-oldest-european-cemetery-alive-parramatta/106585656",
+      "mean_score": 0.318,
+      "vader_score": 0.5859,
+      "textblob_score": 0.05,
+      "first_sentence": "With a pair of gardening gloves in hand and a massive grin on her face, historian Judith Dunn gestures to an old burial vault surrounded by tall native grasses.",
+      "timestamp": "2026-04-25T21:21:03Z",
+      "source": "ABC News"
+    },
     {
       "headline": "\u2018He needed intensive care and a team of specialists. He got me instead\u2019: an outback doctor on treating patients a long way from help",
       "link": "https://www.theguardian.com/books/2026/apr/26/outback-doctor-northern-territory-australia",
@@ -29,6 +69,26 @@
       "textblob_score": 0.4,
       "first_sentence": "What a barnstorming finish to this FA Cup semi-final, which featured three goals in eight minutes and ended with Nico Gonz\u00e1lez as the hero who swept Manchester City to a historic fourth consecutive final.",
       "timestamp": "2026-04-25T18:35:35Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Jo\u00e3o Palhinha keeps Spurs\u2019 survival hopes alive with late winner at Wolves",
+      "link": "https://www.theguardian.com/football/2026/apr/25/wolves-tottenham-premier-league-match-report",
+      "mean_score": 0.374,
+      "vader_score": 0.8481,
+      "textblob_score": -0.1,
+      "first_sentence": "Roberto De Zerbi had said he wanted no crying in his camp, after Brighton scored their late equaliser last week.",
+      "timestamp": "2026-04-25T16:22:27Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "West Ham stay clear of drop zone after Wilson\u2019s vital late winner against Everton",
+      "link": "https://www.theguardian.com/football/2026/apr/25/west-ham-everton-premier-league-match-report",
+      "mean_score": 0.3623,
+      "vader_score": 0.7579,
+      "textblob_score": -0.0333,
+      "first_sentence": "Earlier in the season there would have been no coming back from such a crushing blow.",
+      "timestamp": "2026-04-25T16:09:46Z",
       "source": "The Guardian"
     },
     {
@@ -2440,66 +2500,6 @@
       "first_sentence": "The Great Pottery Throw Down judge Keith Brymer Jones and actor Marj Hogarth are on a quest to transform a 163-year-old chapel in north Wales.",
       "timestamp": "2026-04-17T22:00:08Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "\u2018I\u2019ve got no plans to move\u2019: Cole Palmer on being happy at Chelsea and his World Cup ambitions",
-      "link": "https://www.theguardian.com/football/2026/apr/17/cole-palmer-chelsea-premier-league-transfer-speculation-england-world-cup",
-      "mean_score": 0.5806,
-      "vader_score": 0.3612,
-      "textblob_score": 0.8,
-      "first_sentence": "There are two sides to Cole Palmer.",
-      "timestamp": "2026-04-17T19:00:52Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Roommates review \u2013 Netflix broken friendship comedy is a sweet and salty treat",
-      "link": "https://www.theguardian.com/film/2026/apr/17/roommates-review-netflix",
-      "mean_score": 0.3828,
-      "vader_score": 0.7906,
-      "textblob_score": -0.025,
-      "first_sentence": "The initial fruits borne from Adam Sandler\u2019s early days deal with Netflix were largely rotten; empty-brained and dated comedies like The Ridiculous 6, The Do-Over and Sandy Wexler.",
-      "timestamp": "2026-04-17T18:46:51Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Artemis II pilot talks about what it was really like to fly and land in Orion",
-      "link": "https://arstechnica.com/space/2026/04/artemis-ii-pilot-describes-landing-in-orion-from-intense-to-pure-elation/",
-      "mean_score": 0.46,
-      "vader_score": 0.4201,
-      "textblob_score": 0.5,
-      "first_sentence": "The crew of Artemis II spoke with the media on Thursday, six days after returning to Earth following their mission around the Moon.",
-      "timestamp": "2026-04-17T16:59:44Z",
-      "source": "Ars Technica"
-    },
-    {
-      "headline": "Why is walking in the rain good for your mental health?",
-      "link": "https://www.bbc.com/news/videos/c78rk48lnxro?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.3,
-      "first_sentence": "Why is walking in the rain good for your mental health?.",
-      "timestamp": "2026-04-17T15:08:48Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Tom Gleeson: \u2018I might be deluded but I feel people know I\u2019m coming from a good place\u2019",
-      "link": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/apr/18/tom-gleeson-walk-with-interview",
-      "mean_score": 0.6463,
-      "vader_score": 0.5927,
-      "textblob_score": 0.7,
-      "first_sentence": "As we walk down the top end of Collins Street, past the Rolex store on one side and Gucci boutique on the other, approaching the theatre bearing massive photos of his face, Tom Gleeson is describing how out of touch he is.",
-      "timestamp": "2026-04-17T15:00:50Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Great Barrier Thief: Dyson Daniels emerges as key to unlocking Atlanta Hawks' NBA playoff hopes",
-      "link": "https://www.theguardian.com/sport/2026/apr/18/nba-playoffs-australia-dyson-daniels-atlanta-hawks",
-      "mean_score": 0.4294,
-      "vader_score": 0.4588,
-      "textblob_score": 0.4,
-      "first_sentence": "The so-called \u201cGreat Barrier Thief\u201d will be unleashed on to one of basketball\u2019s most storied stages this weekend, as Australian Dyson Daniels storms into an NBA playoff battle against Jalen Brunson and the New York Knicks at Madison Square Garden.",
-      "timestamp": "2026-04-17T15:00:48Z",
-      "source": "The Guardian"
     }
   ]
 }

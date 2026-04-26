@@ -1,5 +1,65 @@
 [
   {
+    "headline": "\u2018I\u2019ve got no plans to move\u2019: Cole Palmer on being happy at Chelsea and his World Cup ambitions",
+    "link": "https://www.theguardian.com/football/2026/apr/17/cole-palmer-chelsea-premier-league-transfer-speculation-england-world-cup",
+    "mean_score": 0.5806,
+    "vader_score": 0.3612,
+    "textblob_score": 0.8,
+    "first_sentence": "There are two sides to Cole Palmer.",
+    "timestamp": "2026-04-17T19:00:52Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Roommates review \u2013 Netflix broken friendship comedy is a sweet and salty treat",
+    "link": "https://www.theguardian.com/film/2026/apr/17/roommates-review-netflix",
+    "mean_score": 0.3828,
+    "vader_score": 0.7906,
+    "textblob_score": -0.025,
+    "first_sentence": "The initial fruits borne from Adam Sandler\u2019s early days deal with Netflix were largely rotten; empty-brained and dated comedies like The Ridiculous 6, The Do-Over and Sandy Wexler.",
+    "timestamp": "2026-04-17T18:46:51Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Artemis II pilot talks about what it was really like to fly and land in Orion",
+    "link": "https://arstechnica.com/space/2026/04/artemis-ii-pilot-describes-landing-in-orion-from-intense-to-pure-elation/",
+    "mean_score": 0.46,
+    "vader_score": 0.4201,
+    "textblob_score": 0.5,
+    "first_sentence": "The crew of Artemis II spoke with the media on Thursday, six days after returning to Earth following their mission around the Moon.",
+    "timestamp": "2026-04-17T16:59:44Z",
+    "source": "Ars Technica"
+  },
+  {
+    "headline": "Why is walking in the rain good for your mental health?",
+    "link": "https://www.bbc.com/news/videos/c78rk48lnxro?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3702,
+    "vader_score": 0.4404,
+    "textblob_score": 0.3,
+    "first_sentence": "Why is walking in the rain good for your mental health?.",
+    "timestamp": "2026-04-17T15:08:48Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Tom Gleeson: \u2018I might be deluded but I feel people know I\u2019m coming from a good place\u2019",
+    "link": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/apr/18/tom-gleeson-walk-with-interview",
+    "mean_score": 0.6463,
+    "vader_score": 0.5927,
+    "textblob_score": 0.7,
+    "first_sentence": "As we walk down the top end of Collins Street, past the Rolex store on one side and Gucci boutique on the other, approaching the theatre bearing massive photos of his face, Tom Gleeson is describing how out of touch he is.",
+    "timestamp": "2026-04-17T15:00:50Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Great Barrier Thief: Dyson Daniels emerges as key to unlocking Atlanta Hawks' NBA playoff hopes",
+    "link": "https://www.theguardian.com/sport/2026/apr/18/nba-playoffs-australia-dyson-daniels-atlanta-hawks",
+    "mean_score": 0.4294,
+    "vader_score": 0.4588,
+    "textblob_score": 0.4,
+    "first_sentence": "The so-called \u201cGreat Barrier Thief\u201d will be unleashed on to one of basketball\u2019s most storied stages this weekend, as Australian Dyson Daniels storms into an NBA playoff battle against Jalen Brunson and the New York Knicks at Madison Square Garden.",
+    "timestamp": "2026-04-17T15:00:48Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "As a Catholic, I\u2019ve struggled with the church - but I applaud the pope\u2019s call for peace | Margaret Sullivan",
     "link": "https://www.theguardian.com/commentisfree/2026/apr/17/pope-leo-trump-catholicism",
     "mean_score": 0.4211,
