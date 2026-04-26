@@ -1,6 +1,36 @@
 {
-  "last run": "2026-04-26T09:20:27Z",
+  "last run": "2026-04-26T12:14:53Z",
   "stories": [
+    {
+      "headline": "Fifa agrees to increase World Cup prize money after countries raise concerns over costs",
+      "link": "https://www.theguardian.com/football/2026/apr/26/fifa-agrees-to-increase-world-cup-prize-money-after-countries-raise-concerns-over-costs",
+      "mean_score": 0.3753,
+      "vader_score": 0.7506,
+      "textblob_score": 0.0,
+      "first_sentence": "Fifa has agreed in principle to increase World Cup 2026 prize money and participation fees, with details of the enhanced funding to be approved at a meeting of the Fifa Council in Vancouver this week.",
+      "timestamp": "2026-04-26T12:00:14Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "How to make the perfect custard creams \u2013 recipe | Felicity Cloake's How to make the perfect \u2026",
+      "link": "https://www.theguardian.com/food/2026/apr/26/how-to-make-the-perfect-custard-creams-recipe-felicity-cloake",
+      "mean_score": 0.9063,
+      "vader_score": 0.8126,
+      "textblob_score": 1.0,
+      "first_sentence": "They may be pennies a packet, but the ubiquitous custard cream can be a revelation if you make them at home.",
+      "timestamp": "2026-04-26T12:00:14Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Kenya's Sabastian Sawe is first person to run sub-2-hour marathon to win in London",
+      "link": "https://www.npr.org/2026/04/26/nx-s1-5800057/kenya-sabastian-sawe-first-person-2-hour-marathon-london",
+      "mean_score": 0.5554,
+      "vader_score": 0.5859,
+      "textblob_score": 0.525,
+      "first_sentence": "LONDON \u2014 Sabastian Sawe of Kenya has become the first person to break the fabled 2-hour barrier in the marathon.",
+      "timestamp": "2026-04-26T11:34:47Z",
+      "source": "NPR News"
+    },
     {
       "headline": "\u2018I don\u2019t believe in song shaming!\u2019: Jon Batiste\u2019s honest playlist",
       "link": "https://www.theguardian.com/music/2026/apr/26/jon-batiste-honest-playlist-amyl-sniffers-clarence-carter-steely-dan",
@@ -2470,36 +2500,6 @@
       "first_sentence": "Volunteers are hoping to raise funding to continue restoring a rare temperate rainforest habitat which has shrunk across the country.",
       "timestamp": "2026-04-18T06:23:57Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Six great reads: Iran\u2019s social media memes, an abandoned department store and a 1,200-year-old record of cherry blossoms",
-      "link": "https://www.theguardian.com/news/2026/apr/18/six-great-reads-iran-social-media-memes-abandoned-department-store-cherry-blossoms",
-      "mean_score": 0.3449,
-      "vader_score": 0.2732,
-      "textblob_score": 0.4167,
-      "first_sentence": "Patrick Wintour looked at how Iran has been winning the propaganda battle against the US with a barrage of memes, AI-generated comedy videos and Lego-style animations ridiculing the Trump administration.",
-      "timestamp": "2026-04-18T05:00:06Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Meera Sodha\u2019s vegan recipe for sweetheart cabbage and caramelised onion spaghetti | The new veganMeera Sodha recipes",
-      "link": "https://www.theguardian.com/food/2026/apr/18/sweetheart-cabbage-caramelised-onion-spaghetti-vegan-recipe-meera-sodha",
-      "mean_score": 0.3925,
-      "vader_score": 0.6486,
-      "textblob_score": 0.1364,
-      "first_sentence": "Last year, the comedian Nish Kumar accused me of being in the pocket of \u201cbig cabbage\u201d, because I was waxing lyrical about it.",
-      "timestamp": "2026-04-18T05:00:04Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Gout celebrates early to win another title, says magic mark 'coming soon'",
-      "link": "https://www.abc.net.au/news/2026-04-18/gout-gout-wins-100m-under-20-at-junior-athletics-championships/106579712",
-      "mean_score": 0.6421,
-      "vader_score": 0.8176,
-      "textblob_score": 0.4667,
-      "first_sentence": "Eighteen-year-old sprint star Gout Gout has coasted to another 100m junior national title, waving goodbye to his opponents as he won in 10.21 seconds.",
-      "timestamp": "2026-04-18T04:56:01Z",
-      "source": "ABC News"
     }
   ]
 }
