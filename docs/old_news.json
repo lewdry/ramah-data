@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Cassie Workman: You Are Here review \u2013 a remarkable standup on a crumbling world",
+    "link": "https://www.theguardian.com/stage/2026/apr/18/cassie-workman-you-are-here-review-a-remarkable-standup-on-a-crumbling-world",
+    "mean_score": 0.6537,
+    "vader_score": 0.5574,
+    "textblob_score": 0.75,
+    "first_sentence": "Cassie Workman has spent the past two years living and working in the US.",
+    "timestamp": "2026-04-18T02:29:23Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Grilled halloumi wraps are a delicious dinner in 15 minutes",
+    "link": "https://www.abc.net.au/news/2026-04-18/lina-jebeile-grilled-halloumi-wraps/106479240",
+    "mean_score": 0.7859,
+    "vader_score": 0.5719,
+    "textblob_score": 1.0,
+    "first_sentence": "Lina Jebeile is a food photographer and content creator.",
+    "timestamp": "2026-04-18T02:00:00Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "An Iliad review \u2013 David Wenham is a great match for contemporary twist on Homer\u2019s epic",
+    "link": "https://www.theguardian.com/stage/2026/apr/18/an-iliad-review-david-wenham-is-a-great-match-for-contemporary-twist-on-homers-epic",
+    "mean_score": 0.4902,
+    "vader_score": 0.6249,
+    "textblob_score": 0.3556,
+    "first_sentence": "The Iliad is a dark and claustrophobic tale; a story of battles and a besieged city, male bravado and violence, written in a propulsive dactylic hexameter that, when spoken in its original Greek, often sounds like the beating of war drums.",
+    "timestamp": "2026-04-18T01:48:26Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "'I'm the lucky one' - more than one in three young men now live with their parents",
     "link": "https://www.bbc.com/news/articles/ce3578g32d0o?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.3445,

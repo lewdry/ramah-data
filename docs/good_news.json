@@ -1,6 +1,36 @@
 {
-  "last run": "2026-04-26T04:09:54Z",
+  "last run": "2026-04-26T06:38:28Z",
   "stories": [
+    {
+      "headline": "Aussie stuns Brazil's fab four for first World Surf League title",
+      "link": "https://www.abc.net.au/news/2026-04-26/george-pittar-wins-margaret-river-pro-first-wsl-title/106608282",
+      "mean_score": 0.3634,
+      "vader_score": 0.4767,
+      "textblob_score": 0.25,
+      "first_sentence": "Australian surfer George Pittar claimed a maiden World Surf League (WSL) title with victory in the Margaret River Pro.",
+      "timestamp": "2026-04-26T06:00:47Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Forget Florence: six of the best towns in Tuscany to escape overtourism",
+      "link": "https://www.theguardian.com/travel/2026/apr/26/six-best-towns-escape-overtourism-tuscany-monteriggioni-pienza-arezzo-volterra-livorno-porto-ercole",
+      "mean_score": 0.8062,
+      "vader_score": 0.6124,
+      "textblob_score": 1.0,
+      "first_sentence": "First, it was Barcelona, Venice and Dubrovnik.",
+      "timestamp": "2026-04-26T06:00:06Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018I\u2019m frothing\u2019: George Pittar breaks eight-year surfing duck with Margaret Pro win",
+      "link": "https://www.theguardian.com/sport/2026/apr/26/surfing-george-pittar-margaret-river-pro-victory-australia",
+      "mean_score": 0.6929,
+      "vader_score": 0.5859,
+      "textblob_score": 0.8,
+      "first_sentence": "The last time George Pittar competed at the Margaret River Pro, a mainstay stop of the World Surf League, it was a very different story.",
+      "timestamp": "2026-04-26T05:42:15Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Teenagers are calling time on the handshake. I salute them, from a safe distance | Polly Hudson",
       "link": "https://www.theguardian.com/commentisfree/2026/apr/26/teenagers-are-calling-time-on-the-handshake-i-salute-them-from-a-safe-distance",
@@ -2470,36 +2500,6 @@
       "first_sentence": "Brisbane's horror injury toll appears to have worsened after the reigning NRL premiers produced a brave performance to snap Wests Tigers' three-match winning streak.",
       "timestamp": "2026-04-18T04:21:05Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Cassie Workman: You Are Here review \u2013 a remarkable standup on a crumbling world",
-      "link": "https://www.theguardian.com/stage/2026/apr/18/cassie-workman-you-are-here-review-a-remarkable-standup-on-a-crumbling-world",
-      "mean_score": 0.6537,
-      "vader_score": 0.5574,
-      "textblob_score": 0.75,
-      "first_sentence": "Cassie Workman has spent the past two years living and working in the US.",
-      "timestamp": "2026-04-18T02:29:23Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Grilled halloumi wraps are a delicious dinner in 15 minutes",
-      "link": "https://www.abc.net.au/news/2026-04-18/lina-jebeile-grilled-halloumi-wraps/106479240",
-      "mean_score": 0.7859,
-      "vader_score": 0.5719,
-      "textblob_score": 1.0,
-      "first_sentence": "Lina Jebeile is a food photographer and content creator.",
-      "timestamp": "2026-04-18T02:00:00Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "An Iliad review \u2013 David Wenham is a great match for contemporary twist on Homer\u2019s epic",
-      "link": "https://www.theguardian.com/stage/2026/apr/18/an-iliad-review-david-wenham-is-a-great-match-for-contemporary-twist-on-homers-epic",
-      "mean_score": 0.4902,
-      "vader_score": 0.6249,
-      "textblob_score": 0.3556,
-      "first_sentence": "The Iliad is a dark and claustrophobic tale; a story of battles and a besieged city, male bravado and violence, written in a propulsive dactylic hexameter that, when spoken in its original Greek, often sounds like the beating of war drums.",
-      "timestamp": "2026-04-18T01:48:26Z",
-      "source": "The Guardian"
     }
   ]
 }
