@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Kae Tempest on creativity and his gender transition: \u2018I\u2019m just glad to be alive\u2019",
+    "link": "https://www.theguardian.com/culture/2026/apr/18/kae-tempest-on-creativity-and-his-gender-transition-im-just-glad-to-be-alive",
+    "mean_score": 0.4904,
+    "vader_score": 0.6808,
+    "textblob_score": 0.3,
+    "first_sentence": "Kae Tempest sidles into a pub near his\u00a0house on a weekday afternoon and orders\u00a0a pint of mineral water.",
+    "timestamp": "2026-04-18T08:01:07Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Father of man who inspired Super Mario was also named Luigi, researcher finds",
+    "link": "https://www.theguardian.com/games/2026/apr/18/super-mario-nintendo-luigi-inspiration",
+    "mean_score": 0.5649,
+    "vader_score": 0.7964,
+    "textblob_score": 0.3333,
+    "first_sentence": "The Washington state businessman who inspired Nintendo to give the name Mario to its mustachioed, superhero plumber did not have a brother named Luigi like the fictional video game star famously does.",
+    "timestamp": "2026-04-18T07:00:07Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Campaigners hope to save rare rainforest habitat",
+    "link": "https://www.bbc.com/news/articles/c4gvvzelnveo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.5134,
+    "vader_score": 0.7269,
+    "textblob_score": 0.3,
+    "first_sentence": "Volunteers are hoping to raise funding to continue restoring a rare temperate rainforest habitat which has shrunk across the country.",
+    "timestamp": "2026-04-18T06:23:57Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Six great reads: Iran\u2019s social media memes, an abandoned department store and a 1,200-year-old record of cherry blossoms",
     "link": "https://www.theguardian.com/news/2026/apr/18/six-great-reads-iran-social-media-memes-abandoned-department-store-cherry-blossoms",
     "mean_score": 0.3449,
