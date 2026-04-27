@@ -1,6 +1,66 @@
 {
-  "last run": "2026-04-27T18:27:58Z",
+  "last run": "2026-04-27T21:23:31Z",
   "stories": [
+    {
+      "headline": "Australia news live: RSL to review welcome to country policy; Angus Taylor vows to double fuel reserve",
+      "link": "https://www.theguardian.com/australia-news/live/2026/apr/28/australia-news-live-rsl-welcome-to-country-anzac-day-angus-taylor-fuel-reserve-crisis-budget-jim-chalmers-anthony-albanese-ntwnfb",
+      "mean_score": 0.3855,
+      "vader_score": 0.4588,
+      "textblob_score": 0.3121,
+      "first_sentence": "The RSL has announced it will review its guidance on welcome to country addresses at Anzac Day services after Indigenous leaders were booed at three dawn services on Saturday.",
+      "timestamp": "2026-04-27T21:19:37Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Manchester United see off Brentford to close in on Champions League return",
+      "link": "https://www.theguardian.com/football/2026/apr/27/manchester-united-brentford-premier-league-match-report",
+      "mean_score": 0.3675,
+      "vader_score": 0.7351,
+      "textblob_score": 0.0,
+      "first_sentence": "This swashbuckling Manchester United victory moves them to within two points of Champions League qualification and is prima facie evidence of the job Michael Carrick has executed since his appointment as interim manager.",
+      "timestamp": "2026-04-27T21:05:48Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "'The world's game should belong to the world': Free World Cup fan sites for New York",
+      "link": "https://www.abc.net.au/news/2026-04-28/new-york-announces-five-free-fifa-world-cup-fan-zones/106614404",
+      "mean_score": 0.3631,
+      "vader_score": 0.6808,
+      "textblob_score": 0.0455,
+      "first_sentence": "New York Mayor Zohran Mamdani announced five free World Cup fan zones will be set up to help counter mounting costs for fans.",
+      "timestamp": "2026-04-27T20:29:10Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "The King Arrives In The US, But Can He Mend The Special Relationship?",
+      "link": "https://www.bbc.co.uk/sounds/play/p0ngxnlq?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4535,
+      "vader_score": 0.5499,
+      "textblob_score": 0.3571,
+      "first_sentence": "Today, the King has arrived to meet President Trump for the US state visit.",
+      "timestamp": "2026-04-27T19:57:00Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "\u2018Chonkers\u2019 the large sea lion charms the San Francisco Bay area",
+      "link": "https://www.theguardian.com/us-news/2026/apr/27/chonkers-sea-lion-san-francisco-bay-area",
+      "mean_score": 0.3273,
+      "vader_score": 0.4404,
+      "textblob_score": 0.2143,
+      "first_sentence": "A gigantic 2,000lb Steller sea lion nicknamed \u201cChonkers\u201d has become an unexpected local celebrity after taking up residence in the San Francisco Bay.",
+      "timestamp": "2026-04-27T18:54:04Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "The best ways to prevent common credit and debit card fraud",
+      "link": "https://www.abc.net.au/news/2026-04-28/card-fraud-how-avoid-it-happening/106588224",
+      "mean_score": 0.4133,
+      "vader_score": 0.4767,
+      "textblob_score": 0.35,
+      "first_sentence": "Last year, more than 2 million Australians lost a combined total of $2.2 billion to card fraud, according to the Australian Bureau of Statistics.",
+      "timestamp": "2026-04-27T18:30:00Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Shelley\u2019s hair to Schindler\u2019s list: the most fascinating objects in the State Library of NSW \u2013 in pictures",
       "link": "https://www.theguardian.com/books/gallery/2026/apr/27/most-fascinating-objects-state-library-of-nsw",
@@ -160,6 +220,16 @@
       "first_sentence": "RSL Australia national president Peter Tinley said the veterans league would review its guidance about Welcome to Country addresses on Anzac Day.",
       "timestamp": "2026-04-27T07:40:38Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "Indigenous leaders condemn Anzac Day jeering as debate over Welcome to Country reignites",
+      "link": "https://www.sbs.com.au/news/article/indigenous-leaders-condemn-anzac-day-jeering-as-debate-over-welcome-to-country-reignites/czm88j9cj",
+      "mean_score": 0.4514,
+      "vader_score": 0.1027,
+      "textblob_score": 0.8,
+      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+      "timestamp": "2026-04-27T06:31:55Z",
+      "source": "SBS News"
     },
     {
       "headline": "The Things We Never Say by Elizabeth Strout review \u2013 readers will delight in these new characters",
@@ -2429,76 +2499,6 @@
       "textblob_score": 0.25,
       "first_sentence": "Bulgarian ex-president Rumen Radev \u2013 an EU critic who has called for renewing ties with Russia \u2013 on Sunday hailed a \u201cvictory of hope\u201d after his formation topped the eighth parliamentary elections in five years.",
       "timestamp": "2026-04-19T23:49:42Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Rumen Radev looks set to win Bulgarian Parliamentary election",
-      "link": "https://www.bbc.com/news/articles/cm2kgm1zpgro?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.6929,
-      "vader_score": 0.5859,
-      "textblob_score": 0.8,
-      "first_sentence": "Rumen Radev's Progressive Bulgaria party looks set to win Sunday's Bulgarian Parliamentary election - the eighth general election in five years.",
-      "timestamp": "2026-04-19T22:06:39Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "European football: Bayern Munich win 35th league title by surging past Stuttgart",
-      "link": "https://www.theguardian.com/football/2026/apr/19/european-football-bayern-munich-win-35th-league-title-by-surging-past-stuttgart",
-      "mean_score": 0.3846,
-      "vader_score": 0.5859,
-      "textblob_score": 0.1833,
-      "first_sentence": "Bayern Munich secured their 35th German league title by beating Stuttgart 4-2 to open up an unassailable lead with four games to play.",
-      "timestamp": "2026-04-19T20:41:41Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Two divers rescued off the Gold Coast after more than 20 hours at sea",
-      "link": "https://www.abc.net.au/news/2026-04-20/gold-coast-divers-rescued-after-20-ours/106582232",
-      "mean_score": 0.4607,
-      "vader_score": 0.4215,
-      "textblob_score": 0.5,
-      "first_sentence": "Two divers have been rescued after spending more than 20 hours lost at sea off the south-east Queensland coast.",
-      "timestamp": "2026-04-19T20:10:55Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "\u2018Big, big compliment\u2019: Arne Slot hails Liverpool\u2019s mentality in win at Everton",
-      "link": "https://www.theguardian.com/football/2026/apr/19/arne-slot-liverpool-everton-derby",
-      "mean_score": 0.4263,
-      "vader_score": 0.5859,
-      "textblob_score": 0.2667,
-      "first_sentence": "Arne Slot claimed Liverpool provided the perfect answer to questions over their mentality and character as Virgil van Dijk\u2019s 100th-minute header clinched victory in the first Merseyside derby at Hill Dickinson Stadium.",
-      "timestamp": "2026-04-19T17:28:24Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Ministers urged to share Mandelson vetting files with intelligence committee",
-      "link": "https://www.theguardian.com/politics/2026/apr/19/ministers-urged-to-share-mandelson-vetting-files-with-intelligence-committee",
-      "mean_score": 0.3243,
-      "vader_score": 0.6486,
-      "textblob_score": 0.0,
-      "first_sentence": "Ministers are under growing pressure to share the documents from Peter Mandelson\u2019s vetting process with the parliamentary committee tasked with deciding if they should be made public.",
-      "timestamp": "2026-04-19T17:23:43Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Virgil van Dijk earns late Liverpool win in first derby at Everton\u2019s new home",
-      "link": "https://www.theguardian.com/football/2026/apr/19/everton-liverpool-premier-league-match-report",
-      "mean_score": 0.4037,
-      "vader_score": 0.5859,
-      "textblob_score": 0.2216,
-      "first_sentence": "A new \u00a3800m setting for the \u00adMerseyside derby contained an old and familiar script.",
-      "timestamp": "2026-04-19T15:24:06Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018Drinks and a burger\u2019 fuel Mark Allen\u2019s Crucible comeback win over Zhang",
-      "link": "https://www.theguardian.com/sport/2026/apr/19/world-snooker-championship-mark-allen-john-higgins-mark-williams",
-      "mean_score": 0.6929,
-      "vader_score": 0.5859,
-      "textblob_score": 0.8,
-      "first_sentence": "Mark Allen revealed how \u201cbad food\u201d and a few drinks fuelled his surge into the second round of the World Snooker Championship after he swallowed up a two-frame overnight deficit to crush Zhang Anda 10-6 at the Crucible.",
-      "timestamp": "2026-04-19T14:32:54Z",
       "source": "The Guardian"
     }
   ]

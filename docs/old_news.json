@@ -1,5 +1,75 @@
 [
   {
+    "headline": "Rumen Radev looks set to win Bulgarian Parliamentary election",
+    "link": "https://www.bbc.com/news/articles/cm2kgm1zpgro?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.6929,
+    "vader_score": 0.5859,
+    "textblob_score": 0.8,
+    "first_sentence": "Rumen Radev's Progressive Bulgaria party looks set to win Sunday's Bulgarian Parliamentary election - the eighth general election in five years.",
+    "timestamp": "2026-04-19T22:06:39Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "European football: Bayern Munich win 35th league title by surging past Stuttgart",
+    "link": "https://www.theguardian.com/football/2026/apr/19/european-football-bayern-munich-win-35th-league-title-by-surging-past-stuttgart",
+    "mean_score": 0.3846,
+    "vader_score": 0.5859,
+    "textblob_score": 0.1833,
+    "first_sentence": "Bayern Munich secured their 35th German league title by beating Stuttgart 4-2 to open up an unassailable lead with four games to play.",
+    "timestamp": "2026-04-19T20:41:41Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Two divers rescued off the Gold Coast after more than 20 hours at sea",
+    "link": "https://www.abc.net.au/news/2026-04-20/gold-coast-divers-rescued-after-20-ours/106582232",
+    "mean_score": 0.4607,
+    "vader_score": 0.4215,
+    "textblob_score": 0.5,
+    "first_sentence": "Two divers have been rescued after spending more than 20 hours lost at sea off the south-east Queensland coast.",
+    "timestamp": "2026-04-19T20:10:55Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "\u2018Big, big compliment\u2019: Arne Slot hails Liverpool\u2019s mentality in win at Everton",
+    "link": "https://www.theguardian.com/football/2026/apr/19/arne-slot-liverpool-everton-derby",
+    "mean_score": 0.4263,
+    "vader_score": 0.5859,
+    "textblob_score": 0.2667,
+    "first_sentence": "Arne Slot claimed Liverpool provided the perfect answer to questions over their mentality and character as Virgil van Dijk\u2019s 100th-minute header clinched victory in the first Merseyside derby at Hill Dickinson Stadium.",
+    "timestamp": "2026-04-19T17:28:24Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Ministers urged to share Mandelson vetting files with intelligence committee",
+    "link": "https://www.theguardian.com/politics/2026/apr/19/ministers-urged-to-share-mandelson-vetting-files-with-intelligence-committee",
+    "mean_score": 0.3243,
+    "vader_score": 0.6486,
+    "textblob_score": 0.0,
+    "first_sentence": "Ministers are under growing pressure to share the documents from Peter Mandelson\u2019s vetting process with the parliamentary committee tasked with deciding if they should be made public.",
+    "timestamp": "2026-04-19T17:23:43Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Virgil van Dijk earns late Liverpool win in first derby at Everton\u2019s new home",
+    "link": "https://www.theguardian.com/football/2026/apr/19/everton-liverpool-premier-league-match-report",
+    "mean_score": 0.4037,
+    "vader_score": 0.5859,
+    "textblob_score": 0.2216,
+    "first_sentence": "A new \u00a3800m setting for the \u00adMerseyside derby contained an old and familiar script.",
+    "timestamp": "2026-04-19T15:24:06Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "\u2018Drinks and a burger\u2019 fuel Mark Allen\u2019s Crucible comeback win over Zhang",
+    "link": "https://www.theguardian.com/sport/2026/apr/19/world-snooker-championship-mark-allen-john-higgins-mark-williams",
+    "mean_score": 0.6929,
+    "vader_score": 0.5859,
+    "textblob_score": 0.8,
+    "first_sentence": "Mark Allen revealed how \u201cbad food\u201d and a few drinks fuelled his surge into the second round of the World Snooker Championship after he swallowed up a two-frame overnight deficit to crush Zhang Anda 10-6 at the Crucible.",
+    "timestamp": "2026-04-19T14:32:54Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Italian lawyers could win \u2018wild west-style bounties\u2019 if immigration clients go home",
     "link": "https://www.theguardian.com/world/2026/apr/19/italian-lawyers-giorgia-meloni-wild-west-bounties-immigration",
     "mean_score": 0.4429,
