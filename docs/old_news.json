@@ -1,5 +1,65 @@
 [
   {
+    "headline": "A birthday gift for a partner with dementia brings unexpected joy",
+    "link": "https://www.npr.org/2026/04/19/nx-s1-5789011/dementia-wife-husband-gift-birthday",
+    "mean_score": 0.6109,
+    "vader_score": 0.7717,
+    "textblob_score": 0.45,
+    "first_sentence": "The reason I asked that question is that my wife has dementia.",
+    "timestamp": "2026-04-19T10:00:00Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "'Working for Ariana Grande shows dreams can come true'",
+    "link": "https://www.bbc.com/news/articles/c17vwepdkvko?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.5102,
+    "vader_score": 0.6705,
+    "textblob_score": 0.35,
+    "first_sentence": "A celebrity hairdresser has said \"dreams can come true no matter where you are from\" after working with the likes of the Pussycat Dolls, Ariana Grande and Love Island USA.",
+    "timestamp": "2026-04-19T09:16:59Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "\u2018I became a New Order groupie\u2019: Tim Burgess\u2019s honest playlist",
+    "link": "https://www.theguardian.com/music/2026/apr/19/tim-burgess-honest-playlist-madonna-kate-bush-carole-king-jimmy-osmond",
+    "mean_score": 0.4394,
+    "vader_score": 0.5106,
+    "textblob_score": 0.3682,
+    "first_sentence": "The Charlatans frontman plays Kate Bush deep cuts in his car and loves a bit of Abba, but which scary industrial noiseniks soundtrack his sexy time?.",
+    "timestamp": "2026-04-19T08:00:36Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Schools deemed safe after WA's biggest lithium-ion battery fire",
+    "link": "https://www.abc.net.au/news/2026-04-19/schools-deemed-safe-after-wa-biggest-lithium-ion-battery-fire/106560438",
+    "mean_score": 0.314,
+    "vader_score": 0.128,
+    "textblob_score": 0.5,
+    "first_sentence": "The WA premier has assured parents they can safely send their children to schools in Perth's south-east following WA's biggest lithium-ion battery fire in Maddington last Sunday.",
+    "timestamp": "2026-04-19T07:51:39Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "'It would break my heart' - wind farm plans leave people divided",
+    "link": "https://www.bbc.com/news/articles/cx2663lxw00o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3062,
+    "vader_score": 0.6124,
+    "textblob_score": 0.0,
+    "first_sentence": "From a hillside above Abercarn in Caerphilly county, Grace Lloyd points across the moorland she can see from her home.",
+    "timestamp": "2026-04-19T06:44:50Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Over 60 per cent of popular Cheaper Home Batteries Program installations 'substandard'",
+    "link": "https://www.sbs.com.au/news/article/over-60-per-cent-of-popular-cheaper-home-batteries-program-installations-substandard/mrmw0evty",
+    "mean_score": 0.5108,
+    "vader_score": 0.4215,
+    "textblob_score": 0.6,
+    "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+    "timestamp": "2026-04-19T06:24:29Z",
+    "source": "SBS News"
+  },
+  {
     "headline": "10 of the best scenic stays in the Highlands and Islands of Scotland",
     "link": "https://www.theguardian.com/travel/2026/apr/19/best-places-stay-highlands-islands-scotland-hotels-inns-bothy",
     "mean_score": 0.8185,

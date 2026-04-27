@@ -1,6 +1,66 @@
 {
-  "last run": "2026-04-27T09:46:33Z",
+  "last run": "2026-04-27T12:32:02Z",
   "stories": [
+    {
+      "headline": "Lake Superior\u2019s wolves thriving as packs prey on moose, researchers say",
+      "link": "https://www.theguardian.com/us-news/2026/apr/27/lake-superior-wolf-moose-populations",
+      "mean_score": 0.35,
+      "vader_score": 0.0,
+      "textblob_score": 0.7,
+      "first_sentence": "Wolves on a remote island in Lake Superior appear to be thriving, but they\u2019re making deep dents in the moose population that they rely on as a leading food source, according to a report released Monday.",
+      "timestamp": "2026-04-27T12:02:10Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Rukmini Iyer\u2019s quick and easy recipe for green chilli eggs with coriander and coconut | Quick and easy",
+      "link": "https://www.theguardian.com/food/2026/apr/27/quick-easy-green-chilli-eggs-recipe-coriander-coconut-rukmini-iyer",
+      "mean_score": 0.4835,
+      "vader_score": 0.7003,
+      "textblob_score": 0.2667,
+      "first_sentence": "This might look like a shakshuka, but with lemongrass, ginger and lime, you couldn\u2019t really get away with calling it one \u2013 particularly because the noodles make this an easy, flavour-packed one-pan dinner.",
+      "timestamp": "2026-04-27T12:00:10Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Badenoch says parliament \u2018right place to hold Keir Starmer to account\u2019 in bid to win support from Labour MP for inquiry \u2013 UK politics live",
+      "link": "https://www.theguardian.com/politics/live/2026/apr/27/keir-starmer-peter-mandelson-inquiry-speaker-shoplifting-latest-news-updates",
+      "mean_score": 0.5826,
+      "vader_score": 0.7579,
+      "textblob_score": 0.4074,
+      "first_sentence": "Kemi Badenoch has revived her call for a privileges committee inquiry into Keir Starmer.",
+      "timestamp": "2026-04-27T11:49:34Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Clean energy switch must not be excuse to plunder Indigenous lands, say leaders",
+      "link": "https://www.theguardian.com/world/2026/apr/27/clean-energy-switch-must-not-be-excuse-to-plunder-indigenous-lands-say-leaders",
+      "mean_score": 0.3562,
+      "vader_score": 0.5541,
+      "textblob_score": 0.1583,
+      "first_sentence": "The energy transition must not be used as a fresh excuse to plunder Indigenous territories, delegates at a groundbreaking global conference on phasing out fossil fuels were warned.",
+      "timestamp": "2026-04-27T11:00:09Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "There are two kinds of people: those who enjoyed school PE lessons and the rest of us | Emma Beddington",
+      "link": "https://www.theguardian.com/commentisfree/2026/apr/27/there-are-two-kinds-of-people-those-who-enjoyed-school-pe-lessons-and-the-rest-of-us",
+      "mean_score": 0.5053,
+      "vader_score": 0.5106,
+      "textblob_score": 0.5,
+      "first_sentence": "Surprising news: three in 10 50- to 65-year-olds in a recent Age UK survey said school sports memories had put them off exercise \u201cfor life\u201d.",
+      "timestamp": "2026-04-27T10:00:08Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "The Eukrainian review \u2013 heroic portrait of the diplomat trying to haul Ukraine into Europe",
+      "link": "https://www.theguardian.com/film/2026/apr/27/the-eukrainian-review-heroic-portrait-of-the-diplomat-trying-to-haul-ukraine-into-europe",
+      "mean_score": 0.6287,
+      "vader_score": 0.5574,
+      "textblob_score": 0.7,
+      "first_sentence": "After the Russian invasion in February 2022, Ukrainian deputy minister Olha Stefanishyna embarked on the herculean challenge of steering her country\u2019s pathway into the European Union.",
+      "timestamp": "2026-04-27T10:00:07Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Nedra Talley Ross helped make the Ronettes the platonic ideal of a girl group",
       "link": "https://www.theguardian.com/music/2026/apr/27/nedra-talley-ross-helped-make-the-ronettes-the-platonic-ideal-of-a-girl-group",
@@ -2440,66 +2500,6 @@
       "first_sentence": "Vodafone incentivised its security staff to increase \u201cclawbacks\u201d levied on its own franchisees, as part of a programme that led to the telecoms group fining its own shopkeepers millions of pounds for seemingly small administrative errors.",
       "timestamp": "2026-04-19T10:00:39Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "A birthday gift for a partner with dementia brings unexpected joy",
-      "link": "https://www.npr.org/2026/04/19/nx-s1-5789011/dementia-wife-husband-gift-birthday",
-      "mean_score": 0.6109,
-      "vader_score": 0.7717,
-      "textblob_score": 0.45,
-      "first_sentence": "The reason I asked that question is that my wife has dementia.",
-      "timestamp": "2026-04-19T10:00:00Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "'Working for Ariana Grande shows dreams can come true'",
-      "link": "https://www.bbc.com/news/articles/c17vwepdkvko?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5102,
-      "vader_score": 0.6705,
-      "textblob_score": 0.35,
-      "first_sentence": "A celebrity hairdresser has said \"dreams can come true no matter where you are from\" after working with the likes of the Pussycat Dolls, Ariana Grande and Love Island USA.",
-      "timestamp": "2026-04-19T09:16:59Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "\u2018I became a New Order groupie\u2019: Tim Burgess\u2019s honest playlist",
-      "link": "https://www.theguardian.com/music/2026/apr/19/tim-burgess-honest-playlist-madonna-kate-bush-carole-king-jimmy-osmond",
-      "mean_score": 0.4394,
-      "vader_score": 0.5106,
-      "textblob_score": 0.3682,
-      "first_sentence": "The Charlatans frontman plays Kate Bush deep cuts in his car and loves a bit of Abba, but which scary industrial noiseniks soundtrack his sexy time?.",
-      "timestamp": "2026-04-19T08:00:36Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Schools deemed safe after WA's biggest lithium-ion battery fire",
-      "link": "https://www.abc.net.au/news/2026-04-19/schools-deemed-safe-after-wa-biggest-lithium-ion-battery-fire/106560438",
-      "mean_score": 0.314,
-      "vader_score": 0.128,
-      "textblob_score": 0.5,
-      "first_sentence": "The WA premier has assured parents they can safely send their children to schools in Perth's south-east following WA's biggest lithium-ion battery fire in Maddington last Sunday.",
-      "timestamp": "2026-04-19T07:51:39Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "'It would break my heart' - wind farm plans leave people divided",
-      "link": "https://www.bbc.com/news/articles/cx2663lxw00o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3062,
-      "vader_score": 0.6124,
-      "textblob_score": 0.0,
-      "first_sentence": "From a hillside above Abercarn in Caerphilly county, Grace Lloyd points across the moorland she can see from her home.",
-      "timestamp": "2026-04-19T06:44:50Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Over 60 per cent of popular Cheaper Home Batteries Program installations 'substandard'",
-      "link": "https://www.sbs.com.au/news/article/over-60-per-cent-of-popular-cheaper-home-batteries-program-installations-substandard/mrmw0evty",
-      "mean_score": 0.5108,
-      "vader_score": 0.4215,
-      "textblob_score": 0.6,
-      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-      "timestamp": "2026-04-19T06:24:29Z",
-      "source": "SBS News"
     }
   ]
 }
