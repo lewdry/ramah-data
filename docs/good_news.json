@@ -1,6 +1,46 @@
 {
-  "last run": "2026-04-27T04:14:15Z",
+  "last run": "2026-04-27T06:53:06Z",
   "stories": [
+    {
+      "headline": "Six of the best natural and free beaches in Italy",
+      "link": "https://www.theguardian.com/travel/2026/apr/27/six-best-natural-and-free-beaches-in-italy",
+      "mean_score": 0.6875,
+      "vader_score": 0.875,
+      "textblob_score": 0.5,
+      "first_sentence": "As an Australian living in Italy, I grew up within an hour of some of the most pristine coastline in the world, so the Italian penchant for private beach clubs is something I\u2019ll never quite grow accustomed to.",
+      "timestamp": "2026-04-27T06:00:36Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Monte Coleman, who won 3 Super Bowls as a Washington linebacker, dies at age 68",
+      "link": "https://www.npr.org/2026/04/27/g-s1-118848/monte-coleman-washington-linebacker-dies",
+      "mean_score": 0.5779,
+      "vader_score": 0.8225,
+      "textblob_score": 0.3333,
+      "first_sentence": "PINE BLUFF, Ark.",
+      "timestamp": "2026-04-27T05:07:11Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "Four easy egg recipes to add to your regular rotation",
+      "link": "https://www.abc.net.au/news/2026-04-27/egg-recipes-midweek-meals/106595948",
+      "mean_score": 0.3285,
+      "vader_score": 0.4404,
+      "textblob_score": 0.2167,
+      "first_sentence": "It's packed full of nutrients, relatively cheap and oh so versatile.",
+      "timestamp": "2026-04-27T05:03:15Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Healthy life expectancy gap between rich and poor has widened, study finds",
+      "link": "https://www.bbc.com/news/articles/c20q07w3gl9o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3261,
+      "vader_score": 0.4939,
+      "textblob_score": 0.1583,
+      "first_sentence": "People in the wealthiest areas can have 20 more years of good health than those in the poorest, according to a new report.",
+      "timestamp": "2026-04-27T04:55:50Z",
+      "source": "BBC News"
+    },
     {
       "headline": "People in UK spend fewer years in good health than a decade ago, study finds",
       "link": "https://www.theguardian.com/society/2026/apr/27/people-in-uk-spend-fewer-years-in-good-health-than-a-decade-ago-study-finds",
@@ -19,6 +59,16 @@
       "textblob_score": 0.45,
       "first_sentence": "The obesity crisis, the record 2.8 million working-age Britons too sick to do so and the rising prevalence of mental illness are sobering reminders that the UK population\u2019s health is not good.",
       "timestamp": "2026-04-27T04:00:33Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "McDonald\u2019s to open on Melbourne street once dubbed \u2018world\u2019s coolest\u2019 after winning legal challenge",
+      "link": "https://www.theguardian.com/australia-news/2026/apr/27/mcdonalds-melbourne-high-street-worlds-coolest-legal-win",
+      "mean_score": 0.4351,
+      "vader_score": 0.6369,
+      "textblob_score": 0.2333,
+      "first_sentence": "McDonald\u2019s is poised to open a 24/7 takeaway outlet on a Melbourne street once dubbed the \u201cworld\u2019s coolest\u201d after the fast food giant won its legal challenge against the local council\u2019s attempt to block the new restaurant.",
+      "timestamp": "2026-04-27T03:52:27Z",
       "source": "The Guardian"
     },
     {
@@ -2450,56 +2500,6 @@
       "first_sentence": "In 2024, Kirsty, a woman in her 40s living in North Yorkshire, met a man on a dating website who said he was an English businessman working in Turkey.",
       "timestamp": "2026-04-18T23:02:48Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "'Feel it when I breathe': Canberra's first dedicated vaping support program opens",
-      "link": "https://www.abc.net.au/news/2026-04-19/act-young-people-vaping-quit-support-program-initiative/106577618",
-      "mean_score": 0.4704,
-      "vader_score": 0.6908,
-      "textblob_score": 0.25,
-      "first_sentence": "Cameron Owens-Gale first picked up vaping almost 10 years ago in California, before they became popular in Australia.",
-      "timestamp": "2026-04-18T22:16:32Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Manchester United hold on after Cunha\u2019s cool finish to hand Chelsea latest loss",
-      "link": "https://www.theguardian.com/football/2026/apr/18/chelsea-manchester-united-premier-league-match-report",
-      "mean_score": 0.5717,
-      "vader_score": 0.7184,
-      "textblob_score": 0.425,
-      "first_sentence": "A makeshift Manchester United defence did not even have to resort to hair pulls to keep out a goalshy Chelsea.",
-      "timestamp": "2026-04-18T21:13:05Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Top national park in NSW revealed as state hits record number of visits",
-      "link": "https://www.abc.net.au/news/2026-04-19/rise-in-numbers-young-people-going-to-nsw-national-parks/106579956",
-      "mean_score": 0.3866,
-      "vader_score": 0.2732,
-      "textblob_score": 0.5,
-      "first_sentence": "The number of people going to national parks across NSW has hit a record high, with 65.5 million visits recorded.",
-      "timestamp": "2026-04-18T21:00:39Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "'We're not teaching them to order baguettes' - languages enjoy a renaissance in schools",
-      "link": "https://www.bbc.com/news/articles/c75ex7e6w53o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.447,
-      "vader_score": 0.4939,
-      "textblob_score": 0.4,
-      "first_sentence": "When Hugo signed up for a project to help him decide if he wanted to study French at GCSE, he had no idea it would lead him to learn Mandarin.",
-      "timestamp": "2026-04-18T20:50:31Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "\u2018It\u2019s not finished yet\u2019: De Zerbi determined to stay positive despite Brighton body blow",
-      "link": "https://www.theguardian.com/football/2026/apr/18/roberto-de-zerbi-tottenham-brighton",
-      "mean_score": 0.4728,
-      "vader_score": 0.7184,
-      "textblob_score": 0.2273,
-      "first_sentence": "Roberto De Zerbi has warned he has \u201cno time to see negative people\u201d among his Tottenham players after they were denied the chance to climb out of the relegation zone by an injury-time equaliser from his former club Brighton.",
-      "timestamp": "2026-04-18T20:22:43Z",
-      "source": "The Guardian"
     }
   ]
 }

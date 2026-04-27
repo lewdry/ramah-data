@@ -111683,3 +111683,59 @@
 2026-04-27 04:14:15,770 - INFO - Saved 250 stories to docs/good_news.json.
 2026-04-27 04:14:15,848 - INFO - Archived 4 new stories to docs/old_news.json.
 2026-04-27 04:14:15,857 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 833 processed, 22 accepted | Cache: 15 hits, 7 misses | Duration: 11.54s
+2026-04-27 06:52:55,067 - INFO - Starting Ramah News Fetcher
+2026-04-27 06:52:55,081 - INFO - Checking feed: http://feeds.bbci.co.uk/news/rss.xml
+2026-04-27 06:52:55,352 - INFO - Found good news: Healthy life expectancy gap between rich and poor has widened, study finds (Mean Score: 0.3261, VADER: 0.4939, TextBlob: 0.1583)
+2026-04-27 06:52:55,546 - INFO - Checking feed: http://feeds.bbci.co.uk/news/world/rss.xml
+2026-04-27 06:52:55,698 - INFO - Checking feed: http://feeds.bbci.co.uk/news/uk/rss.xml
+2026-04-27 06:52:56,122 - INFO - Checking feed: http://feeds.bbci.co.uk/news/business/rss.xml
+2026-04-27 06:52:56,255 - INFO - Found good news: Quantum computing: A tech race Europe could win? (Mean Score: 0.6929, VADER: 0.5859, TextBlob: 0.8000)
+2026-04-27 06:52:56,257 - INFO - Checking feed: http://feeds.bbci.co.uk/news/technology/rss.xml
+2026-04-27 06:52:56,520 - INFO - Checking feed: http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+2026-04-27 06:52:56,813 - INFO - Found good news: Artemis II crew: 'We left as friends - we came back as best friends' (Mean Score: 0.6097, VADER: 0.8860, TextBlob: 0.3333)
+2026-04-27 06:52:56,814 - INFO - Found good news: Artemis crew home safely after completing historic mission to the Moon (Mean Score: 0.3720, VADER: 0.4939, TextBlob: 0.2500)
+2026-04-27 06:52:56,819 - INFO - Found good news: Why cheap power could matter more than clean power in the push for net zero (Mean Score: 0.3947, VADER: 0.4728, TextBlob: 0.3167)
+2026-04-27 06:52:56,820 - INFO - Checking feed: http://feeds.bbci.co.uk/news/health/rss.xml
+2026-04-27 06:52:57,268 - INFO - Found good news: 'I'm the lucky one' - more than one in three young men now live with their parents (Mean Score: 0.3445, VADER: 0.4215, TextBlob: 0.2674)
+2026-04-27 06:52:57,273 - INFO - Found good news: Vaccines a huge success, but public trust must be earned - key findings from Covid report (Mean Score: 0.4951, VADER: 0.8151, TextBlob: 0.1750)
+2026-04-27 06:52:57,274 - INFO - Found good news: Doctors' strikes can have surprising benefits - but are they sustainable? (Mean Score: 0.4265, VADER: 0.1531, TextBlob: 0.7000)
+2026-04-27 06:52:57,276 - INFO - Checking feed: http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+2026-04-27 06:52:57,763 - INFO - Checking feed: https://www.abc.net.au/news/feed/45910/rss.xml
+2026-04-27 06:52:58,147 - INFO - Found good news: Four easy egg recipes to add to your regular rotation (Mean Score: 0.3285, VADER: 0.4404, TextBlob: 0.2167)
+2026-04-27 06:52:58,716 - INFO - Checking feed: https://www.abc.net.au/news/feed/51120/rss.xml
+2026-04-27 06:52:59,023 - INFO - Checking feed: https://www.theguardian.com/world/rss
+2026-04-27 06:52:59,243 - INFO - Found good news: McDonald’s to open on Melbourne street once dubbed ‘world’s coolest’ after winning legal challenge (Mean Score: 0.4351, VADER: 0.6369, TextBlob: 0.2333)
+2026-04-27 06:52:59,810 - INFO - Checking feed: https://www.theguardian.com/au/rss
+2026-04-27 06:53:00,229 - INFO - Checking feed: https://www.theguardian.com/environment/rss
+2026-04-27 06:53:00,553 - INFO - Found good news: In the footsteps of Linnaeus: scientists share their passion for species from tiny wasps to hairy plants – in pictures (Mean Score: 0.3185, VADER: 0.6369, TextBlob: 0.0000)
+2026-04-27 06:53:00,980 - INFO - Checking feed: https://www.theguardian.com/science/rss
+2026-04-27 06:53:01,230 - INFO - Found good news: Did you solve it? Are you smarter than a Navy admiral? (Mean Score: 0.3775, VADER: 0.7550, TextBlob: 0.0000)
+2026-04-27 06:53:01,231 - INFO - Found good news: Can you solve it? Are you smarter than a Navy admiral? (Mean Score: 0.3775, VADER: 0.7550, TextBlob: 0.0000)
+2026-04-27 06:53:01,232 - INFO - Found good news: Artemis II crew on inspiring the next generation and unifying humanity – video (Mean Score: 0.3357, VADER: 0.4215, TextBlob: 0.2500)
+2026-04-27 06:53:01,772 - INFO - Checking feed: https://www.theguardian.com/uk/technology/rss
+2026-04-27 06:53:02,020 - INFO - Found good news: MacBook Air M5 review: Apple’s best consumer laptop speeds up (Mean Score: 0.8185, VADER: 0.6369, TextBlob: 1.0000)
+2026-04-27 06:53:02,021 - INFO - Found good news: Logitech MX Master 4 review: the best work mouse you can buy (Mean Score: 0.8185, VADER: 0.6369, TextBlob: 1.0000)
+2026-04-27 06:53:02,023 - INFO - Checking feed: https://www.theguardian.com/lifeandstyle/rss
+2026-04-27 06:53:02,500 - INFO - Found good news: Six of the best natural and free beaches in Italy (Mean Score: 0.6875, VADER: 0.8750, TextBlob: 0.5000)
+2026-04-27 06:53:02,821 - INFO - Found good news: Good Friday around the world – in pictures (Mean Score: 0.5702, VADER: 0.4404, TextBlob: 0.7000)
+2026-04-27 06:53:03,499 - INFO - Checking feed: https://www.sbs.com.au/news/feed
+2026-04-27 06:53:04,094 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/index
+2026-04-27 06:53:04,261 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/science
+2026-04-27 06:53:04,561 - INFO - Found good news: Great white sharks are overheating (Mean Score: 0.5125, VADER: 0.6249, TextBlob: 0.4000)
+2026-04-27 06:53:04,561 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/tech-policy
+2026-04-27 06:53:04,677 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/gaming
+2026-04-27 06:53:04,769 - INFO - Found good news: Retro Rewind re-creates the glorious drudgery of working a '90s video store (Mean Score: 0.3185, VADER: 0.6369, TextBlob: 0.0000)
+2026-04-27 06:53:04,771 - INFO - Found good news: Playing Wolfenstein 3D with one hand in 2026 (Mean Score: 0.3062, VADER: 0.6124, TextBlob: 0.0000)
+2026-04-27 06:53:04,772 - INFO - Found good news: Switch 2's new "Handheld Mode Boost" can run original Switch games at 1080p (Mean Score: 0.4340, VADER: 0.6124, TextBlob: 0.2557)
+2026-04-27 06:53:04,773 - INFO - Checking feed: https://feedx.net/rss/ap.xml
+2026-04-27 06:53:05,329 - INFO - Checking feed: https://feeds.npr.org/1001/rss.xml
+2026-04-27 06:53:05,453 - INFO - Found good news: Monte Coleman, who won 3 Super Bowls as a Washington linebacker, dies at age 68 (Mean Score: 0.5779, VADER: 0.8225, TextBlob: 0.3333)
+2026-04-27 06:53:05,692 - INFO - Checking feed: https://feeds.npr.org/1004/rss.xml
+2026-04-27 06:53:05,747 - INFO - Checking feed: https://feeds.npr.org/1014/rss.xml
+2026-04-27 06:53:05,845 - INFO - Checking feed: https://feeds.npr.org/1019/rss.xml
+2026-04-27 06:53:05,894 - INFO - Checking feed: https://feeds.npr.org/1017/rss.xml
+2026-04-27 06:53:06,061 - INFO - Checking feed: https://feeds.npr.org/1007/rss.xml
+2026-04-27 06:53:06,141 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
+2026-04-27 06:53:06,202 - INFO - Saved 250 stories to docs/good_news.json.
+2026-04-27 06:53:06,277 - INFO - Archived 5 new stories to docs/old_news.json.
+2026-04-27 06:53:06,285 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 837 processed, 23 accepted | Cache: 15 hits, 8 misses | Duration: 11.21s

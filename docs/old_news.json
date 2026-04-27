@@ -1,5 +1,55 @@
 [
   {
+    "headline": "'Feel it when I breathe': Canberra's first dedicated vaping support program opens",
+    "link": "https://www.abc.net.au/news/2026-04-19/act-young-people-vaping-quit-support-program-initiative/106577618",
+    "mean_score": 0.4704,
+    "vader_score": 0.6908,
+    "textblob_score": 0.25,
+    "first_sentence": "Cameron Owens-Gale first picked up vaping almost 10 years ago in California, before they became popular in Australia.",
+    "timestamp": "2026-04-18T22:16:32Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Manchester United hold on after Cunha\u2019s cool finish to hand Chelsea latest loss",
+    "link": "https://www.theguardian.com/football/2026/apr/18/chelsea-manchester-united-premier-league-match-report",
+    "mean_score": 0.5717,
+    "vader_score": 0.7184,
+    "textblob_score": 0.425,
+    "first_sentence": "A makeshift Manchester United defence did not even have to resort to hair pulls to keep out a goalshy Chelsea.",
+    "timestamp": "2026-04-18T21:13:05Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Top national park in NSW revealed as state hits record number of visits",
+    "link": "https://www.abc.net.au/news/2026-04-19/rise-in-numbers-young-people-going-to-nsw-national-parks/106579956",
+    "mean_score": 0.3866,
+    "vader_score": 0.2732,
+    "textblob_score": 0.5,
+    "first_sentence": "The number of people going to national parks across NSW has hit a record high, with 65.5 million visits recorded.",
+    "timestamp": "2026-04-18T21:00:39Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "'We're not teaching them to order baguettes' - languages enjoy a renaissance in schools",
+    "link": "https://www.bbc.com/news/articles/c75ex7e6w53o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.447,
+    "vader_score": 0.4939,
+    "textblob_score": 0.4,
+    "first_sentence": "When Hugo signed up for a project to help him decide if he wanted to study French at GCSE, he had no idea it would lead him to learn Mandarin.",
+    "timestamp": "2026-04-18T20:50:31Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "\u2018It\u2019s not finished yet\u2019: De Zerbi determined to stay positive despite Brighton body blow",
+    "link": "https://www.theguardian.com/football/2026/apr/18/roberto-de-zerbi-tottenham-brighton",
+    "mean_score": 0.4728,
+    "vader_score": 0.7184,
+    "textblob_score": 0.2273,
+    "first_sentence": "Roberto De Zerbi has warned he has \u201cno time to see negative people\u201d among his Tottenham players after they were denied the chance to climb out of the relegation zone by an injury-time equaliser from his former club Brighton.",
+    "timestamp": "2026-04-18T20:22:43Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Rocky row: is a river 600km north of Brisbane really the best place to host an Olympic event?",
     "link": "https://www.theguardian.com/australia-news/2026/apr/19/fitzroy-river-rockhampton-2032-brisbane-olympic-games",
     "mean_score": 0.6341,
