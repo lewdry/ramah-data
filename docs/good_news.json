@@ -1,6 +1,56 @@
 {
-  "last run": "2026-04-26T21:12:04Z",
+  "last run": "2026-04-27T00:29:02Z",
   "stories": [
+    {
+      "headline": "Canada's Carney has enjoyed a long political honeymoon. Now comes the test",
+      "link": "https://www.bbc.com/news/articles/c70d249rd0go?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3303,
+      "vader_score": 0.5106,
+      "textblob_score": 0.15,
+      "first_sentence": "Mark Carney arrived on Canada's political scene last year as an Ivy League and Oxford educated economist and a former central banker for two countries.",
+      "timestamp": "2026-04-26T23:04:19Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Renewable energy will boost national security and protect UK from sabotage, minister says",
+      "link": "https://www.theguardian.com/environment/2026/apr/27/renewable-energy-will-boost-national-security-and-protect-uk-from-sabotage-minister-says",
+      "mean_score": 0.3298,
+      "vader_score": 0.6597,
+      "textblob_score": 0.0,
+      "first_sentence": "Renewable energy will boost the UK\u2019s national security and make the country more resilient against potential aggression or sabotage, the government\u2019s energy minister has said.",
+      "timestamp": "2026-04-26T23:01:26Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Egypt's Grand Museum opens after many delays",
+      "link": "https://www.npr.org/2026/04/26/nx-s1-5708771/egypts-grand-museum-opens-after-many-delays",
+      "mean_score": 0.4794,
+      "vader_score": 0.4588,
+      "textblob_score": 0.5,
+      "first_sentence": "We visit the new Grand Egyptian Museum, a spacious museum outside Cairo dedicated to displaying artifacts from ancient Egypt.",
+      "timestamp": "2026-04-26T22:04:13Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "A free diver visited the Strait of Hormuz. Here's what he saw",
+      "link": "https://www.npr.org/2026/04/26/nx-s1-5795819/a-free-diver-visited-the-strait-of-hormuz-heres-what-he-saw",
+      "mean_score": 0.4553,
+      "vader_score": 0.5106,
+      "textblob_score": 0.4,
+      "first_sentence": "The Strait of Hormuz is being blockaded.",
+      "timestamp": "2026-04-26T22:03:56Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "Green on form as Knight Riders win IPL thriller",
+      "link": "https://www.abc.net.au/news/2026-04-27/cam-green-ipl-kolkata-knight-riders-lucknow-super-giants/106610004",
+      "mean_score": 0.4685,
+      "vader_score": 0.6369,
+      "textblob_score": 0.3,
+      "first_sentence": "Cameron Green scored 34 off 21 balls as Kolkata Knight Riders earned a super over win against Lucknow Super Giants.",
+      "timestamp": "2026-04-26T21:52:52Z",
+      "source": "ABC News"
+    },
     {
       "headline": "London Marathon hails \u2018greatest day\u2019 as Sawe breaks two hours and records tumble",
       "link": "https://www.theguardian.com/sport/2026/apr/26/london-marathon-hails-greatest-day-as-sawe-breaks-two-hours-and-records-tumble",
@@ -2449,56 +2499,6 @@
       "textblob_score": 0.3333,
       "first_sentence": "All sports stars know that dealing with highs and lows comes with the territory, as part of the job.",
       "timestamp": "2026-04-18T20:00:22Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "'She was us': History behind Joy, the first sex worker statue",
-      "link": "https://www.abc.net.au/news/2026-04-19/history-behind-the-worlds-first-sex-worker-statue/106570566",
-      "mean_score": 0.4013,
-      "vader_score": 0.5859,
-      "textblob_score": 0.2167,
-      "first_sentence": "Sexy, strong and dignified are just some of the words to describe Joy, who is thought to be the first statue of a mythical sex worker.",
-      "timestamp": "2026-04-18T19:31:46Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "A family mystery in Italy helped me unravel the myth of the perfect mother",
-      "link": "https://www.abc.net.au/news/2026-04-19/mother-motherhood-banham-abandoned-children-disability-forgive/106564028",
-      "mean_score": 0.7859,
-      "vader_score": 0.5719,
-      "textblob_score": 1.0,
-      "first_sentence": "I grew up believing my great-grandmother was an orphan.",
-      "timestamp": "2026-04-18T19:00:00Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "The cast of Good News Week reflect on 30 years of the comedy game show",
-      "link": "https://www.abc.net.au/news/2026-04-19/good-news-week-30-year-anniversary-paul-mcdermott-mikey-robins/106573970",
-      "mean_score": 0.4048,
-      "vader_score": 0.6597,
-      "textblob_score": 0.15,
-      "first_sentence": "\"Thank you, thank you, thank you and welcome to Witness with Paul McDermott,\" the fresh-faced comedian greeted a cheering in-studio audience at ABC's Gore Hill studio on Friday, April 19, 1996.",
-      "timestamp": "2026-04-18T18:30:00Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Madonna: I Feel So Free review \u2013 album teaser offers hypnotic glimpse of a return to her club scene roots",
-      "link": "https://www.theguardian.com/music/2026/apr/18/madonna-i-feel-so-free-review-album-teaser-hypnotic-glimpse-return-club-scene-roots",
-      "mean_score": 0.3755,
-      "vader_score": 0.5009,
-      "textblob_score": 0.25,
-      "first_sentence": "Recent years have not been particularly kind to Madonna.",
-      "timestamp": "2026-04-18T14:11:18Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Leno\u2019s superb late save ensures 0-0 draw as Fulham hit Brentford\u2019s European hopes",
-      "link": "https://www.theguardian.com/football/2026/apr/18/brentford-fulham-premier-league-match-report",
-      "mean_score": 0.5556,
-      "vader_score": 0.8779,
-      "textblob_score": 0.2333,
-      "first_sentence": "The grind to Europe continues for Brentford.",
-      "timestamp": "2026-04-18T13:35:49Z",
       "source": "The Guardian"
     }
   ]
