@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Rocky row: is a river 600km north of Brisbane really the best place to host an Olympic event?",
+    "link": "https://www.theguardian.com/australia-news/2026/apr/19/fitzroy-river-rockhampton-2032-brisbane-olympic-games",
+    "mean_score": 0.6341,
+    "vader_score": 0.6682,
+    "textblob_score": 0.6,
+    "first_sentence": "Labelling the likes of Drew Ginn and James Tomkins \u201celites\u201d is a curious form of criticism, Gary Merritt says.",
+    "timestamp": "2026-04-18T20:00:24Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Walking for truth: Travis Lovett\u2019s 500km journey to remind Albanese of his promise to create a First Nations truth-telling commission",
+    "link": "https://www.theguardian.com/australia-news/2026/apr/19/walking-for-truth-travis-lovetts-500km-journey-albanese-first-nations-truth-telling-commission-ntwnfb",
+    "mean_score": 0.4704,
+    "vader_score": 0.6908,
+    "textblob_score": 0.25,
+    "first_sentence": "Travis Lovett\u2019s kangaroo skin cloak bears the words, \u201cTruth is not about blame, it\u2019s about healing\u201d.",
+    "timestamp": "2026-04-18T20:00:23Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "I adored Pok\u00e9mon as a child. Now I collect critters of a different kind in a hobby I\u2019m uniquely suited to \u2013 birdwatching  | Jayce Carrano",
+    "link": "https://www.theguardian.com/commentisfree/2026/apr/19/birdwatching-hobby-pokemon-generation",
+    "mean_score": 0.5301,
+    "vader_score": 0.7351,
+    "textblob_score": 0.325,
+    "first_sentence": "The Pok\u00e9mon franchise has turned 30, which means that it\u2019s been a long time since a childhood friend and I braved Pok\u00e9mon Blue\u2019s haunted Lavender Town together \u2013 solemnly handing the Game Boy back and forth in the first (and perhaps last) documented case of two only children sharing something.",
+    "timestamp": "2026-04-18T20:00:22Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "\u2018I\u2019m extremely lucky to be here\u2019: Jelena Dokic on childhood dreams and talking tennis",
+    "link": "https://www.theguardian.com/sport/2026/apr/19/jelena-dokic-australia-tennis-player-pundit-interview",
+    "mean_score": 0.5165,
+    "vader_score": 0.6997,
+    "textblob_score": 0.3333,
+    "first_sentence": "All sports stars know that dealing with highs and lows comes with the territory, as part of the job.",
+    "timestamp": "2026-04-18T20:00:22Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "'She was us': History behind Joy, the first sex worker statue",
     "link": "https://www.abc.net.au/news/2026-04-19/history-behind-the-worlds-first-sex-worker-statue/106570566",
     "mean_score": 0.4013,
