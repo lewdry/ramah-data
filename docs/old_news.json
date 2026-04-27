@@ -1,5 +1,55 @@
 [
   {
+    "headline": "10 of the best scenic stays in the Highlands and Islands of Scotland",
+    "link": "https://www.theguardian.com/travel/2026/apr/19/best-places-stay-highlands-islands-scotland-hotels-inns-bothy",
+    "mean_score": 0.8185,
+    "vader_score": 0.6369,
+    "textblob_score": 1.0,
+    "first_sentence": "From a beachside bothy to a Highland bunkhouse and lochside inn, here are some of Scotland\u2019s bonniest boltholesWith its cheery, cherry-red tin roof, you can\u2019t miss the sturdy stone bothy on the Ben Damph estate.",
+    "timestamp": "2026-04-19T06:00:34Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Live: Demons cling on for epic win over Lions, Freo on top in Western Derby",
+    "link": "https://www.abc.net.au/news/2026-04-19/afl-sunday-round-six-live-blog-nm-rich-melb-bris-wce-freo/106580978",
+    "mean_score": 0.494,
+    "vader_score": 0.6808,
+    "textblob_score": 0.3073,
+    "first_sentence": "Melbourne clings on to record a thrilling two-point victory over Brisbane, after an epic tussle that featured ten lead changes.",
+    "timestamp": "2026-04-19T02:50:31Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Sincere dialogue needed to ease Cuba\u2019s \u2018grave humanitarian crisis\u2019, say Mexico, Spain and Brazil",
+    "link": "https://www.theguardian.com/world/2026/apr/19/sincere-dialogue-needed-to-ease-cubas-grave-humanitarian-crisis-say-mexico-spain-and-brazil",
+    "mean_score": 0.5685,
+    "vader_score": 0.6369,
+    "textblob_score": 0.5,
+    "first_sentence": "Mexico, Spain and Brazil have voiced concern about the \u201cdramatic situation\u201d in Cuba, which has faced months of pressure from US president Donald Trump, with the trio urging \u201csincere and respectful dialogue\u201d.",
+    "timestamp": "2026-04-19T02:26:17Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "We already loved each other, but just didn't realise it",
+    "link": "https://www.abc.net.au/news/2026-04-19/falling-in-love-with-my-daughters-father/106388284",
+    "mean_score": 0.3191,
+    "vader_score": 0.3506,
+    "textblob_score": 0.2875,
+    "first_sentence": "When a casual fling led to a surprise pregnancy, Tessa Dijkgraaf told father-to-be Jordan not to \"come in and out\" and break their daughter's heart.",
+    "timestamp": "2026-04-19T02:00:00Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Scammers are becoming ever more sophisticated - this is what the fightback looks like",
+    "link": "https://www.bbc.com/news/articles/cj60pl5g4z4o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.6167,
+    "vader_score": 0.7501,
+    "textblob_score": 0.4833,
+    "first_sentence": "In 2024, Kirsty, a woman in her 40s living in North Yorkshire, met a man on a dating website who said he was an English businessman working in Turkey.",
+    "timestamp": "2026-04-18T23:02:48Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "'Feel it when I breathe': Canberra's first dedicated vaping support program opens",
     "link": "https://www.abc.net.au/news/2026-04-19/act-young-people-vaping-quit-support-program-initiative/106577618",
     "mean_score": 0.4704,
