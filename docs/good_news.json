@@ -1,6 +1,26 @@
 {
-  "last run": "2026-04-28T04:16:32Z",
+  "last run": "2026-04-28T06:54:43Z",
   "stories": [
+    {
+      "headline": "'I'm proud to have come last at the London Marathon'",
+      "link": "https://www.bbc.com/news/articles/clyryxynd0yo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4384,
+      "vader_score": 0.4767,
+      "textblob_score": 0.4,
+      "first_sentence": "The runner who finished last at the London Marathon said it was a \"huge privilege\" to raise money for a charity that she says saved her life during a \"very dark\" time.",
+      "timestamp": "2026-04-28T05:33:16Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "NRL's greatest ever try-scorer hints at imminent PNG switch",
+      "link": "https://www.abc.net.au/news/2026-04-28/alex-johnston-hints-at-imminent-png-switch/106617140",
+      "mean_score": 0.8185,
+      "vader_score": 0.6369,
+      "textblob_score": 1.0,
+      "first_sentence": "South Sydney try-scoring freak Alex Johnston is set to become the first player to sign for the Papua New Guinea Chiefs.",
+      "timestamp": "2026-04-28T05:17:04Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Nedra Talley Ross of the Ronettes, who sang Baby I Love You, dies",
       "link": "https://www.abc.net.au/news/2026-04-28/nedra-talley-ross-of-the-ronettes-dies-aged-80/106615604",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Reform UK has pledged an immediate review of all asylum claims from the last five years should the party win the next general election.",
       "timestamp": "2026-04-20T06:25:41Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Sonos Play review: a great jack-of-all-trades portable speaker for home or away",
-      "link": "https://www.theguardian.com/technology/2026/apr/20/sonos-play-review-portable-speaker",
-      "mean_score": 0.779,
-      "vader_score": 0.7579,
-      "textblob_score": 0.8,
-      "first_sentence": "The Guardian\u2019s journalism is independent.",
-      "timestamp": "2026-04-20T06:00:04Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Mint review \u2013 the most outrageously beautiful TV show since Twin Peaks",
-      "link": "https://www.theguardian.com/tv-and-radio/2026/apr/19/mint-review-the-most-outrageously-beautiful-tv-show-since-twin-peaks",
-      "mean_score": 0.537,
-      "vader_score": 0.399,
-      "textblob_score": 0.675,
-      "first_sentence": "Shannon is 22.",
-      "timestamp": "2026-04-20T05:00:03Z",
-      "source": "The Guardian"
     }
   ]
 }

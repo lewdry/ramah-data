@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Sonos Play review: a great jack-of-all-trades portable speaker for home or away",
+    "link": "https://www.theguardian.com/technology/2026/apr/20/sonos-play-review-portable-speaker",
+    "mean_score": 0.779,
+    "vader_score": 0.7579,
+    "textblob_score": 0.8,
+    "first_sentence": "The Guardian\u2019s journalism is independent.",
+    "timestamp": "2026-04-20T06:00:04Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Mint review \u2013 the most outrageously beautiful TV show since Twin Peaks",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/apr/19/mint-review-the-most-outrageously-beautiful-tv-show-since-twin-peaks",
+    "mean_score": 0.537,
+    "vader_score": 0.399,
+    "textblob_score": 0.675,
+    "first_sentence": "Shannon is 22.",
+    "timestamp": "2026-04-20T05:00:03Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "How free is netball's new TV deal?",
     "link": "https://www.abc.net.au/news/2026-04-20/2026-super-netball-round-up-round6/106583424",
     "mean_score": 0.3894,
