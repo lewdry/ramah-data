@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Long waits make for sicker patients. Sicker patients need more time in hospital. Our health system needs urgent care | Ranjana Srivastava",
+    "link": "https://www.theguardian.com/commentisfree/2026/apr/21/hospitals-doctors-waiting-times-patients-health",
+    "mean_score": 0.4187,
+    "vader_score": 0.6124,
+    "textblob_score": 0.225,
+    "first_sentence": "Visiting the magnificent Angkor Wat temple in Cambodia, my elderly dad resolutely navigated the steep stairs as I held my breath.",
+    "timestamp": "2026-04-20T15:00:59Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Marcel Hug wins 9th Boston Marathon wheelchair title, Eden Rainbow-Cooper is women\u2019s champ",
+    "link": "https://apnews.com/article/boston-marathon-5a1c7ad49573bf15475f3544490f79a9",
+    "mean_score": 0.586,
+    "vader_score": 0.872,
+    "textblob_score": 0.3,
+    "first_sentence": "BOSTON (AP) \u2014 Marcel Hug of Switzerland won his ninth Boston Marathon wheelchair title on Monday, riding a tailwind to finish in an unofficial time of 1 hour, 16 minutes, 6 seconds.",
+    "timestamp": "2026-04-20T14:53:03Z",
+    "source": "AP News"
+  },
+  {
+    "headline": "Is Sacha Baron Cohen and Rosamund Pike\u2019s new gender swap comedy inspired by The Two Ronnies?",
+    "link": "https://www.theguardian.com/film/2026/apr/20/sacha-baron-cohen-rosamund-pike-gender-swap-comedy-two-ronnies-the-worm-that-turned-ladies-first",
+    "mean_score": 0.4136,
+    "vader_score": 0.6908,
+    "textblob_score": 0.1364,
+    "first_sentence": "At the end of last week, a trailer dropped for a new Netflix movie entitled Ladies First.",
+    "timestamp": "2026-04-20T13:54:08Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Nigerian wins global prize for trying to save bats in a country that shuns them",
     "link": "https://www.bbc.com/news/articles/c0krm128mgyo?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.5153,

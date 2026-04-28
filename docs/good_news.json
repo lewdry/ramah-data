@@ -1,6 +1,26 @@
 {
-  "last run": "2026-04-28T15:48:47Z",
+  "last run": "2026-04-28T18:32:24Z",
   "stories": [
+    {
+      "headline": "Paris Saint-Germain v Bayern Munich: Champions League semi-final, first leg \u2013 live",
+      "link": "https://www.theguardian.com/football/live/2026/apr/28/paris-saint-germain-v-bayern-munich-champions-league-semi-final-first-leg-live",
+      "mean_score": 0.3599,
+      "vader_score": 0.5267,
+      "textblob_score": 0.1932,
+      "first_sentence": "Good news for Paris Saint-Germain: Vitinha starts.",
+      "timestamp": "2026-04-28T18:19:41Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "How do I respond to my friends when they criticize their own weight and looks?",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/apr/28/friends-criticize-weight-looks-advice",
+      "mean_score": 0.364,
+      "vader_score": 0.128,
+      "textblob_score": 0.6,
+      "first_sentence": "How do I respond to my friends when they criticize their bodies, faces, skin?.",
+      "timestamp": "2026-04-28T16:00:29Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Guardian Essential poll: more Australians approve of Hanson\u2019s party leadership than Albanese or Taylor\u2019s",
       "link": "https://www.theguardian.com/australia-news/2026/apr/28/pauline-hanson-one-nation-leadership-guardian-essential-poll-ntwnfb",
@@ -50,6 +70,16 @@
       "first_sentence": "The hands-free, eyes-on driver assist only works on geofenced highways.",
       "timestamp": "2026-04-28T14:00:26Z",
       "source": "Ars Technica"
+    },
+    {
+      "headline": "Super fly: can an electric aircraft spark a quiet revolution in New York travel?",
+      "link": "https://www.theguardian.com/us-news/2026/apr/28/electric-aircraft-new-york-air-travel",
+      "mean_score": 0.5089,
+      "vader_score": 0.7003,
+      "textblob_score": 0.3174,
+      "first_sentence": "It\u2019s neither a bird nor a plane, and it is vehemently not a helicopter, but instead this week some New Yorkers witnessed an \u201celectric vertical takeoff and landing\u201d aircraft buzzing around the city, which developers say could revolutionize travel in New York.",
+      "timestamp": "2026-04-28T12:00:10Z",
+      "source": "The Guardian"
     },
     {
       "headline": "The perfect birthday cake: tips for the best blow-out",
@@ -2469,36 +2499,6 @@
       "textblob_score": 0.6833,
       "first_sentence": "Formed in Dunedin, New Zealand in 1978 by brothers Hamish and David Kilgour and Peter Gutteridge, the Clean pioneered a lo-fi DIY spirit steeped in the sound of west coast psychedelia, Velvet Underground and post-punk.",
       "timestamp": "2026-04-20T15:01:00Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Long waits make for sicker patients. Sicker patients need more time in hospital. Our health system needs urgent care | Ranjana Srivastava",
-      "link": "https://www.theguardian.com/commentisfree/2026/apr/21/hospitals-doctors-waiting-times-patients-health",
-      "mean_score": 0.4187,
-      "vader_score": 0.6124,
-      "textblob_score": 0.225,
-      "first_sentence": "Visiting the magnificent Angkor Wat temple in Cambodia, my elderly dad resolutely navigated the steep stairs as I held my breath.",
-      "timestamp": "2026-04-20T15:00:59Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Marcel Hug wins 9th Boston Marathon wheelchair title, Eden Rainbow-Cooper is women\u2019s champ",
-      "link": "https://apnews.com/article/boston-marathon-5a1c7ad49573bf15475f3544490f79a9",
-      "mean_score": 0.586,
-      "vader_score": 0.872,
-      "textblob_score": 0.3,
-      "first_sentence": "BOSTON (AP) \u2014 Marcel Hug of Switzerland won his ninth Boston Marathon wheelchair title on Monday, riding a tailwind to finish in an unofficial time of 1 hour, 16 minutes, 6 seconds.",
-      "timestamp": "2026-04-20T14:53:03Z",
-      "source": "AP News"
-    },
-    {
-      "headline": "Is Sacha Baron Cohen and Rosamund Pike\u2019s new gender swap comedy inspired by The Two Ronnies?",
-      "link": "https://www.theguardian.com/film/2026/apr/20/sacha-baron-cohen-rosamund-pike-gender-swap-comedy-two-ronnies-the-worm-that-turned-ladies-first",
-      "mean_score": 0.4136,
-      "vader_score": 0.6908,
-      "textblob_score": 0.1364,
-      "first_sentence": "At the end of last week, a trailer dropped for a new Netflix movie entitled Ladies First.",
-      "timestamp": "2026-04-20T13:54:08Z",
       "source": "The Guardian"
     }
   ]
