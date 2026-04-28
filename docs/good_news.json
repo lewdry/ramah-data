@@ -1,6 +1,26 @@
 {
-  "last run": "2026-04-28T06:54:43Z",
+  "last run": "2026-04-28T09:47:37Z",
   "stories": [
+    {
+      "headline": "Houseplant hacks: is activated charcoal good for pot plants?",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/apr/28/houseplant-hacks-is-activated-charcoal-good-for-pot-plants",
+      "mean_score": 0.5702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.7,
+      "first_sentence": "It promises to filter toxins, absorb odours, prevent mould and keep roots healthy, but does it deliver?.",
+      "timestamp": "2026-04-28T09:00:46Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Mexican special forces arrest top commander of powerful cartel",
+      "link": "https://www.theguardian.com/world/2026/apr/28/mexican-special-forces-arrest-top-commander-audias-flores-el-jardinero-of-powerful-cartel",
+      "mean_score": 0.4104,
+      "vader_score": 0.5994,
+      "textblob_score": 0.2214,
+      "first_sentence": "Mexican special forces have arrested one of the top commanders of the powerful Jalisco New Generation Cartel in the western state of Nayarit.",
+      "timestamp": "2026-04-28T08:35:18Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "'I'm proud to have come last at the London Marathon'",
       "link": "https://www.bbc.com/news/articles/clyryxynd0yo?at_medium=RSS&at_campaign=rss",
@@ -2480,26 +2500,6 @@
       "first_sentence": "State of Origin coaches Billy Slater and Laurie Daley have backed the NRL\u2019s pursuit of a stake in the Super League, arguing a strong northern hemisphere game is key to the future of rugby league.",
       "timestamp": "2026-04-20T07:17:57Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Breaking: Fair Work Commission makes 'historic' fuel order for truck drivers",
-      "link": "https://www.abc.net.au/news/2026-04-20/fair-work-commission-order-on-subcontractors-deal-/106584968",
-      "mean_score": 0.3341,
-      "vader_score": 0.3182,
-      "textblob_score": 0.35,
-      "first_sentence": "Companies like Coles, Woolworths and Amazon have been ordered to hold twice-monthly reviews of fuel prices with their outsourced truck drivers and transport companies, in a Fair Work Commission order being described as \"historic\".",
-      "timestamp": "2026-04-20T06:32:12Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Reform pledges to review all asylum claims since 2021 if it wins power",
-      "link": "https://www.bbc.com/news/articles/c0rxd5wpyqwo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4359,
-      "vader_score": 0.5719,
-      "textblob_score": 0.3,
-      "first_sentence": "Reform UK has pledged an immediate review of all asylum claims from the last five years should the party win the next general election.",
-      "timestamp": "2026-04-20T06:25:41Z",
-      "source": "BBC News"
     }
   ]
 }

@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Breaking: Fair Work Commission makes 'historic' fuel order for truck drivers",
+    "link": "https://www.abc.net.au/news/2026-04-20/fair-work-commission-order-on-subcontractors-deal-/106584968",
+    "mean_score": 0.3341,
+    "vader_score": 0.3182,
+    "textblob_score": 0.35,
+    "first_sentence": "Companies like Coles, Woolworths and Amazon have been ordered to hold twice-monthly reviews of fuel prices with their outsourced truck drivers and transport companies, in a Fair Work Commission order being described as \"historic\".",
+    "timestamp": "2026-04-20T06:32:12Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Reform pledges to review all asylum claims since 2021 if it wins power",
+    "link": "https://www.bbc.com/news/articles/c0rxd5wpyqwo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4359,
+    "vader_score": 0.5719,
+    "textblob_score": 0.3,
+    "first_sentence": "Reform UK has pledged an immediate review of all asylum claims from the last five years should the party win the next general election.",
+    "timestamp": "2026-04-20T06:25:41Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Sonos Play review: a great jack-of-all-trades portable speaker for home or away",
     "link": "https://www.theguardian.com/technology/2026/apr/20/sonos-play-review-portable-speaker",
     "mean_score": 0.779,
