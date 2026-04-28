@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Gold Coast man remembered for 'huge heart' as Qld road toll climbs to 95",
+    "link": "https://www.abc.net.au/news/2026-04-20/qld-easter-road-deaths/106574534",
+    "mean_score": 0.579,
+    "vader_score": 0.7579,
+    "textblob_score": 0.4,
+    "first_sentence": "Leroy Cane's family has remembered him as an adventurous, fearless, 23-year-old with a huge heart after he died in a motorbike accident this month.",
+    "timestamp": "2026-04-20T01:21:39Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Bulgaria\u2019s former president claims \u2018victory\u2019 after projections show him winning parliamentary elections",
+    "link": "https://www.theguardian.com/world/2026/apr/19/bulgaria-election-rumen-radev-boyko-borissov",
+    "mean_score": 0.3883,
+    "vader_score": 0.5267,
+    "textblob_score": 0.25,
+    "first_sentence": "Bulgarian ex-president Rumen Radev \u2013 an EU critic who has called for renewing ties with Russia \u2013 on Sunday hailed a \u201cvictory of hope\u201d after his formation topped the eighth parliamentary elections in five years.",
+    "timestamp": "2026-04-19T23:49:42Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Rumen Radev looks set to win Bulgarian Parliamentary election",
     "link": "https://www.bbc.com/news/articles/cm2kgm1zpgro?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.6929,

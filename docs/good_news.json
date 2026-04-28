@@ -1,6 +1,26 @@
 {
-  "last run": "2026-04-27T21:23:31Z",
+  "last run": "2026-04-28T00:32:16Z",
   "stories": [
+    {
+      "headline": "Free sign language classes to be offered for deaf children in UK first",
+      "link": "https://www.bbc.com/news/articles/cyv1vz5g3yno?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4178,
+      "vader_score": 0.5106,
+      "textblob_score": 0.325,
+      "first_sentence": "Northern Ireland will become the first part of the UK to provide free sign language classes to all deaf children and their families, through a new sign language law being passed on Tuesday.",
+      "timestamp": "2026-04-27T23:02:51Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "UK has wealthy Europe\u2019s \u2018third-highest\u2019 rate of young adults not in work or study",
+      "link": "https://www.theguardian.com/money/2026/apr/28/uk-has-wealthy-europes-third-highest-rate-of-18-to-24-year-olds-not-in-work-or-study",
+      "mean_score": 0.3306,
+      "vader_score": 0.3612,
+      "textblob_score": 0.3,
+      "first_sentence": "Britain has the third-highest rate of young people not in work or education among Europe\u2019s richest countries because of rising ill-health and a failing system of benefits and job support, a report has warned.",
+      "timestamp": "2026-04-27T23:01:33Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Australia news live: RSL to review welcome to country policy; Angus Taylor vows to double fuel reserve",
       "link": "https://www.theguardian.com/australia-news/live/2026/apr/28/australia-news-live-rsl-welcome-to-country-anzac-day-angus-taylor-fuel-reserve-crisis-budget-jim-chalmers-anthony-albanese-ntwnfb",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Stu Fillman and his dive instructor were swept away from their dive boat off the coast of Stradbroke Island on Saturday.",
       "timestamp": "2026-04-20T03:21:25Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Gold Coast man remembered for 'huge heart' as Qld road toll climbs to 95",
-      "link": "https://www.abc.net.au/news/2026-04-20/qld-easter-road-deaths/106574534",
-      "mean_score": 0.579,
-      "vader_score": 0.7579,
-      "textblob_score": 0.4,
-      "first_sentence": "Leroy Cane's family has remembered him as an adventurous, fearless, 23-year-old with a huge heart after he died in a motorbike accident this month.",
-      "timestamp": "2026-04-20T01:21:39Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Bulgaria\u2019s former president claims \u2018victory\u2019 after projections show him winning parliamentary elections",
-      "link": "https://www.theguardian.com/world/2026/apr/19/bulgaria-election-rumen-radev-boyko-borissov",
-      "mean_score": 0.3883,
-      "vader_score": 0.5267,
-      "textblob_score": 0.25,
-      "first_sentence": "Bulgarian ex-president Rumen Radev \u2013 an EU critic who has called for renewing ties with Russia \u2013 on Sunday hailed a \u201cvictory of hope\u201d after his formation topped the eighth parliamentary elections in five years.",
-      "timestamp": "2026-04-19T23:49:42Z",
-      "source": "The Guardian"
     }
   ]
 }
