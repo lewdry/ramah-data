@@ -112071,3 +112071,56 @@
 2026-04-28 00:32:16,246 - INFO - Saved 250 stories to docs/good_news.json.
 2026-04-28 00:32:16,337 - INFO - Archived 2 new stories to docs/old_news.json.
 2026-04-28 00:32:16,345 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 844 processed, 20 accepted | Cache: 16 hits, 4 misses | Duration: 9.14s
+2026-04-28 04:16:25,612 - INFO - Starting Ramah News Fetcher
+2026-04-28 04:16:25,626 - INFO - Checking feed: http://feeds.bbci.co.uk/news/rss.xml
+2026-04-28 04:16:26,057 - INFO - Checking feed: http://feeds.bbci.co.uk/news/world/rss.xml
+2026-04-28 04:16:26,273 - INFO - Checking feed: http://feeds.bbci.co.uk/news/uk/rss.xml
+2026-04-28 04:16:26,558 - INFO - Checking feed: http://feeds.bbci.co.uk/news/business/rss.xml
+2026-04-28 04:16:26,664 - INFO - Found good news: Quantum computing: A tech race Europe could win? (Mean Score: 0.6929, VADER: 0.5859, TextBlob: 0.8000)
+2026-04-28 04:16:26,667 - INFO - Found good news: Scammers are becoming ever more sophisticated - this is what the fightback looks like (Mean Score: 0.6167, VADER: 0.7501, TextBlob: 0.4833)
+2026-04-28 04:16:26,668 - INFO - Checking feed: http://feeds.bbci.co.uk/news/technology/rss.xml
+2026-04-28 04:16:26,854 - INFO - Checking feed: http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+2026-04-28 04:16:26,961 - INFO - Found good news: Artemis II crew: 'We left as friends - we came back as best friends' (Mean Score: 0.6097, VADER: 0.8860, TextBlob: 0.3333)
+2026-04-28 04:16:26,962 - INFO - Found good news: Artemis crew home safely after completing historic mission to the Moon (Mean Score: 0.3720, VADER: 0.4939, TextBlob: 0.2500)
+2026-04-28 04:16:26,967 - INFO - Found good news: Why cheap power could matter more than clean power in the push for net zero (Mean Score: 0.3947, VADER: 0.4728, TextBlob: 0.3167)
+2026-04-28 04:16:26,968 - INFO - Checking feed: http://feeds.bbci.co.uk/news/health/rss.xml
+2026-04-28 04:16:27,309 - INFO - Found good news: 'I'm the lucky one' - more than one in three young men now live with their parents (Mean Score: 0.3445, VADER: 0.4215, TextBlob: 0.2674)
+2026-04-28 04:16:27,314 - INFO - Found good news: Vaccines a huge success, but public trust must be earned - key findings from Covid report (Mean Score: 0.4951, VADER: 0.8151, TextBlob: 0.1750)
+2026-04-28 04:16:27,315 - INFO - Found good news: Doctors' strikes can have surprising benefits - but are they sustainable? (Mean Score: 0.4265, VADER: 0.1531, TextBlob: 0.7000)
+2026-04-28 04:16:27,317 - INFO - Checking feed: http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+2026-04-28 04:16:27,471 - INFO - Checking feed: https://www.abc.net.au/news/feed/45910/rss.xml
+2026-04-28 04:16:27,881 - INFO - Found good news: The soy sauce fish is a perfect design — except on one important point (Mean Score: 0.6852, VADER: 0.6705, TextBlob: 0.7000)
+2026-04-28 04:16:28,265 - INFO - Checking feed: https://www.abc.net.au/news/feed/51120/rss.xml
+2026-04-28 04:16:28,619 - INFO - Found good news: Nedra Talley Ross of the Ronettes, who sang Baby I Love You, dies (Mean Score: 0.5685, VADER: 0.6369, TextBlob: 0.5000)
+2026-04-28 04:16:29,118 - INFO - Checking feed: https://www.theguardian.com/world/rss
+2026-04-28 04:16:29,395 - INFO - Checking feed: https://www.theguardian.com/au/rss
+2026-04-28 04:16:29,653 - INFO - Checking feed: https://www.theguardian.com/environment/rss
+2026-04-28 04:16:29,808 - INFO - Checking feed: https://www.theguardian.com/science/rss
+2026-04-28 04:16:29,911 - INFO - Found good news: Did you solve it? Are you smarter than a Navy admiral? (Mean Score: 0.3775, VADER: 0.7550, TextBlob: 0.0000)
+2026-04-28 04:16:29,912 - INFO - Found good news: Can you solve it? Are you smarter than a Navy admiral? (Mean Score: 0.3775, VADER: 0.7550, TextBlob: 0.0000)
+2026-04-28 04:16:29,913 - INFO - Found good news: Artemis II crew on inspiring the next generation and unifying humanity – video (Mean Score: 0.3357, VADER: 0.4215, TextBlob: 0.2500)
+2026-04-28 04:16:30,082 - INFO - Checking feed: https://www.theguardian.com/uk/technology/rss
+2026-04-28 04:16:30,263 - INFO - Found good news: MacBook Air M5 review: Apple’s best consumer laptop speeds up (Mean Score: 0.8185, VADER: 0.6369, TextBlob: 1.0000)
+2026-04-28 04:16:30,263 - INFO - Found good news: Logitech MX Master 4 review: the best work mouse you can buy (Mean Score: 0.8185, VADER: 0.6369, TextBlob: 1.0000)
+2026-04-28 04:16:30,265 - INFO - Checking feed: https://www.theguardian.com/lifeandstyle/rss
+2026-04-28 04:16:30,438 - INFO - Found good news: Good Friday around the world – in pictures (Mean Score: 0.5702, VADER: 0.4404, TextBlob: 0.7000)
+2026-04-28 04:16:30,726 - INFO - Checking feed: https://www.sbs.com.au/news/feed
+2026-04-28 04:16:31,368 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/index
+2026-04-28 04:16:31,537 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/science
+2026-04-28 04:16:31,607 - INFO - Found good news: I’ve fired one of America’s most powerful lasers—here’s what a shot day looks like (Mean Score: 0.3242, VADER: 0.2484, TextBlob: 0.4000)
+2026-04-28 04:16:31,608 - INFO - Found good news: Great white sharks are overheating (Mean Score: 0.5125, VADER: 0.6249, TextBlob: 0.4000)
+2026-04-28 04:16:31,608 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/tech-policy
+2026-04-28 04:16:31,703 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/gaming
+2026-04-28 04:16:31,920 - INFO - Found good news: Retro Rewind re-creates the glorious drudgery of working a '90s video store (Mean Score: 0.3185, VADER: 0.6369, TextBlob: 0.0000)
+2026-04-28 04:16:31,921 - INFO - Found good news: Playing Wolfenstein 3D with one hand in 2026 (Mean Score: 0.3062, VADER: 0.6124, TextBlob: 0.0000)
+2026-04-28 04:16:31,923 - INFO - Checking feed: https://feedx.net/rss/ap.xml
+2026-04-28 04:16:32,314 - INFO - Checking feed: https://feeds.npr.org/1001/rss.xml
+2026-04-28 04:16:32,502 - INFO - Checking feed: https://feeds.npr.org/1004/rss.xml
+2026-04-28 04:16:32,571 - INFO - Checking feed: https://feeds.npr.org/1014/rss.xml
+2026-04-28 04:16:32,646 - INFO - Checking feed: https://feeds.npr.org/1019/rss.xml
+2026-04-28 04:16:32,718 - INFO - Checking feed: https://feeds.npr.org/1017/rss.xml
+2026-04-28 04:16:32,783 - INFO - Checking feed: https://feeds.npr.org/1007/rss.xml
+2026-04-28 04:16:32,847 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
+2026-04-28 04:16:32,909 - INFO - Saved 250 stories to docs/good_news.json.
+2026-04-28 04:16:32,980 - INFO - Archived 2 new stories to docs/old_news.json.
+2026-04-28 04:16:32,989 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 847 processed, 20 accepted | Cache: 16 hits, 4 misses | Duration: 7.37s

@@ -1,6 +1,26 @@
 {
-  "last run": "2026-04-28T00:32:16Z",
+  "last run": "2026-04-28T04:16:32Z",
   "stories": [
+    {
+      "headline": "Nedra Talley Ross of the Ronettes, who sang Baby I Love You, dies",
+      "link": "https://www.abc.net.au/news/2026-04-28/nedra-talley-ross-of-the-ronettes-dies-aged-80/106615604",
+      "mean_score": 0.5685,
+      "vader_score": 0.6369,
+      "textblob_score": 0.5,
+      "first_sentence": "Nedra Talley Ross of the 1960s pop band the Ronettes has died at the age of 80.",
+      "timestamp": "2026-04-28T03:00:03Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "The soy sauce fish is a perfect design \u2014 except on one important point",
+      "link": "https://www.abc.net.au/news/2026-04-28/sustainable-alternative-shoyu-tai-sushi-plastic-soy-sauce-fish/106596352",
+      "mean_score": 0.6852,
+      "vader_score": 0.6705,
+      "textblob_score": 0.7,
+      "first_sentence": "Designer Angus Ware was working in Sydney when he came across a problem.",
+      "timestamp": "2026-04-28T02:26:08Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Free sign language classes to be offered for deaf children in UK first",
       "link": "https://www.bbc.com/news/articles/cyv1vz5g3yno?at_medium=RSS&at_campaign=rss",
@@ -2480,26 +2500,6 @@
       "first_sentence": "Shannon is 22.",
       "timestamp": "2026-04-20T05:00:03Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "How free is netball's new TV deal?",
-      "link": "https://www.abc.net.au/news/2026-04-20/2026-super-netball-round-up-round6/106583424",
-      "mean_score": 0.3894,
-      "vader_score": 0.5106,
-      "textblob_score": 0.2682,
-      "first_sentence": "Although both the Adelaide Thunderbirds and Melbourne Vixens have remained undefeated and tied for points at the top of the ladder to start the season, the Thunderbirds have been in front that entire time thanks to a better goal percentage.",
-      "timestamp": "2026-04-20T04:27:49Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "'Boy are we glad to see you': Diver describes rescue after 20 hours lost at sea",
-      "link": "https://www.abc.net.au/news/2026-04-20/qld-divers-lost-at-sea-rescued-stradbroke-island/106582686",
-      "mean_score": 0.5562,
-      "vader_score": 0.6124,
-      "textblob_score": 0.5,
-      "first_sentence": "Stu Fillman and his dive instructor were swept away from their dive boat off the coast of Stradbroke Island on Saturday.",
-      "timestamp": "2026-04-20T03:21:25Z",
-      "source": "ABC News"
     }
   ]
 }
