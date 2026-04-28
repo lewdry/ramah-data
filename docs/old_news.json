@@ -1,5 +1,25 @@
 [
   {
+    "headline": "'Huge relief' as students given loans in error get repayment reprieve",
+    "link": "https://www.bbc.com/news/articles/c0e7jjwzn7eo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.401,
+    "vader_score": 0.4019,
+    "textblob_score": 0.4,
+    "first_sentence": "Around 22,000 university students who were told they would have to urgently repay maintenance loans and childcare grants that were given to them in error have been given a reprieve.",
+    "timestamp": "2026-04-20T15:16:13Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "The Clean \u2013 10 of the best",
+    "link": "https://www.theguardian.com/music/2026/apr/20/clean-rock-band-new-zealand-10-best-songs",
+    "mean_score": 0.7339,
+    "vader_score": 0.7845,
+    "textblob_score": 0.6833,
+    "first_sentence": "Formed in Dunedin, New Zealand in 1978 by brothers Hamish and David Kilgour and Peter Gutteridge, the Clean pioneered a lo-fi DIY spirit steeped in the sound of west coast psychedelia, Velvet Underground and post-punk.",
+    "timestamp": "2026-04-20T15:01:00Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Long waits make for sicker patients. Sicker patients need more time in hospital. Our health system needs urgent care | Ranjana Srivastava",
     "link": "https://www.theguardian.com/commentisfree/2026/apr/21/hospitals-doctors-waiting-times-patients-health",
     "mean_score": 0.4187,

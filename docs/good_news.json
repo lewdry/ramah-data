@@ -1,6 +1,26 @@
 {
-  "last run": "2026-04-28T18:32:24Z",
+  "last run": "2026-04-28T21:24:29Z",
   "stories": [
+    {
+      "headline": "News live: King Charles praises \u2018ambitious\u2019 Aukus and expresses pride in Australia in speech to US Congress",
+      "link": "https://www.theguardian.com/australia-news/live/2026/apr/29/australia-news-live-aukus-king-charles-one-nation-budget-cost-of-living-inflation-consumer-price-index-jim-chalmers-anthony-albanese-angus-taylor-ntwnfb",
+      "mean_score": 0.4467,
+      "vader_score": 0.7003,
+      "textblob_score": 0.1932,
+      "first_sentence": "King Charles\u2019s address to the US Congress has been covered over in our US politics blog (check it out here).",
+      "timestamp": "2026-04-28T21:16:45Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Does the gas industry pay its fair share of tax?",
+      "link": "https://www.abc.net.au/news/2026-04-29/does-australias-gas-industry-pay-enough-tax/106602004",
+      "mean_score": 0.5883,
+      "vader_score": 0.4767,
+      "textblob_score": 0.7,
+      "first_sentence": "There is a question dominating Australians' social media feeds: Is the gas industry paying its fair share of tax?.",
+      "timestamp": "2026-04-28T19:33:38Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Paris Saint-Germain v Bayern Munich: Champions League semi-final, first leg \u2013 live",
       "link": "https://www.theguardian.com/football/live/2026/apr/28/paris-saint-germain-v-bayern-munich-champions-league-semi-final-first-leg-live",
@@ -2479,26 +2499,6 @@
       "textblob_score": 0.5,
       "first_sentence": "Eight original handwritten letters from the Romantic poet John Keats to his muse and \u201cone passion\u201d, Fanny Brawne, were returned to the family of John Hay \u201cJock\u201d Whitney, the former US ambassador to the UK, on Monday after being stolen from Whitney\u2019s home in the 1980s.",
       "timestamp": "2026-04-20T16:22:49Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "'Huge relief' as students given loans in error get repayment reprieve",
-      "link": "https://www.bbc.com/news/articles/c0e7jjwzn7eo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.401,
-      "vader_score": 0.4019,
-      "textblob_score": 0.4,
-      "first_sentence": "Around 22,000 university students who were told they would have to urgently repay maintenance loans and childcare grants that were given to them in error have been given a reprieve.",
-      "timestamp": "2026-04-20T15:16:13Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "The Clean \u2013 10 of the best",
-      "link": "https://www.theguardian.com/music/2026/apr/20/clean-rock-band-new-zealand-10-best-songs",
-      "mean_score": 0.7339,
-      "vader_score": 0.7845,
-      "textblob_score": 0.6833,
-      "first_sentence": "Formed in Dunedin, New Zealand in 1978 by brothers Hamish and David Kilgour and Peter Gutteridge, the Clean pioneered a lo-fi DIY spirit steeped in the sound of west coast psychedelia, Velvet Underground and post-punk.",
-      "timestamp": "2026-04-20T15:01:00Z",
       "source": "The Guardian"
     }
   ]
