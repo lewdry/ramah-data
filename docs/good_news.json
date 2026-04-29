@@ -1,6 +1,56 @@
 {
-  "last run": "2026-04-29T06:49:59Z",
+  "last run": "2026-04-29T09:42:38Z",
   "stories": [
+    {
+      "headline": "Sali Hughes on beauty: get your skin ready for summer with the best new exfoliants",
+      "link": "https://www.theguardian.com/fashion/2026/apr/29/sali-hughes-on-beauty-best-new-exfoliants",
+      "mean_score": 0.667,
+      "vader_score": 0.8885,
+      "textblob_score": 0.4455,
+      "first_sentence": "The Guardian\u2019s journalism is independent.",
+      "timestamp": "2026-04-29T09:00:50Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "'A great West Australian': Bill Grayden dies aged 105",
+      "link": "https://www.abc.net.au/news/2026-04-29/bill-grayden-war-veteran-wa-parliamentarian-dies-aged-105/106620348",
+      "mean_score": 0.4291,
+      "vader_score": 0.6249,
+      "textblob_score": 0.2333,
+      "first_sentence": "Decorated World War II veteran Bill Grayden, who was also Western Australia's longest-serving MP, has died at the age of 105.",
+      "timestamp": "2026-04-29T08:47:02Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "What If Reform Wins? by Peter Chappell review \u2013 a massive wake-up call",
+      "link": "https://www.theguardian.com/books/2026/apr/29/what-if-reform-wins-by-peter-chappell-review-a-massive-wake-up-call",
+      "mean_score": 0.3609,
+      "vader_score": 0.5719,
+      "textblob_score": 0.15,
+      "first_sentence": "For some years now, mainstream British politics has revolved increasingly obsessively around\u00a0the question of how to stop\u00a0Nigel Farage.",
+      "timestamp": "2026-04-29T08:00:50Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018I will love it. Love it\u2019: 30 years on from Kevin Keegan\u2019s infamous rant",
+      "link": "https://www.theguardian.com/football/2026/apr/29/i-will-love-it-love-it-30-years-on-from-kevin-keegans-infamous-rant",
+      "mean_score": 0.4786,
+      "vader_score": 0.7906,
+      "textblob_score": 0.1667,
+      "first_sentence": "Premier League history is littered with red letter days and Monday 29 April 1996 will for ever rank among the most memorable.",
+      "timestamp": "2026-04-29T07:00:49Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Palantir has released its terrifyingly honest (and pompous) plans for world domination | First Dog on the Moon",
+      "link": "https://www.theguardian.com/commentisfree/picture/2026/apr/29/palantir-has-released-its-terrifyingly-honest-and-pompous-plans-for-world-domination",
+      "mean_score": 0.4508,
+      "vader_score": 0.4767,
+      "textblob_score": 0.425,
+      "first_sentence": "It\u2019s all a bit too antichristy for my likingSign up here to get an email whenever First Dog cartoons are publishedGet all your needs met at the First Dog shop if what you need is First Dog merchandise and prints Continue reading.",
+      "timestamp": "2026-04-29T06:53:55Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "New course helps teens navigate unique outback driving hazards",
       "link": "https://www.abc.net.au/news/2026-04-29/goldfields-defensive-driving-course-begins/106601304",
@@ -10,6 +60,16 @@
       "first_sentence": "A new defensive driving course being offered in Kalgoorlie aims to equip young motorists with the skills to cope with the unique challenges of outback driving.",
       "timestamp": "2026-04-29T06:33:52Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "The House of the Spirits review \u2013 this twee adaptation of Isabel Allende\u2019s novel isn\u2019t good enough",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/apr/29/the-house-of-the-spirits-review-isabel-allendes-novel-amazon-prime-video",
+      "mean_score": 0.4934,
+      "vader_score": 0.6369,
+      "textblob_score": 0.35,
+      "first_sentence": "Clara del Valle is a delightful little girl, all smiles and plaits and cheeky interruptions during boring sermons at Mass.",
+      "timestamp": "2026-04-29T06:00:47Z",
+      "source": "The Guardian"
     },
     {
       "headline": "Is Sanae Takaichi the most powerful woman in the world? - podcast",
@@ -2440,66 +2500,6 @@
       "first_sentence": "Loch Lomond is a must-see for tourists visiting the west of Scotland, but locals fear its reputation is being rubbished by funding cuts and increased fly-tipping.",
       "timestamp": "2026-04-21T05:20:44Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "Maternity boss 'confident' as unit reopens",
-      "link": "https://www.bbc.com/news/articles/c74vd1y7q04o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.497,
-      "vader_score": 0.4939,
-      "textblob_score": 0.5,
-      "first_sentence": "The head of a maternity ward says she has full confidence that patients will be safe as it reopens.",
-      "timestamp": "2026-04-21T05:18:38Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "\u2018I\u2019m not the boss\u2019: Lando Norris is articulate, open and intelligent \u2013 when he\u2019s allowed to be",
-      "link": "https://www.theguardian.com/sport/2026/apr/21/lando-norris-interview-f1-mclaren",
-      "mean_score": 0.4294,
-      "vader_score": 0.4588,
-      "textblob_score": 0.4,
-      "first_sentence": "There are always complications and difficulties in Formula One, as there are in life and even in this interview.",
-      "timestamp": "2026-04-21T05:01:15Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Labour\u2019s great green energy plan could be a legacy as vital as the NHS | Polly Toynbee",
-      "link": "https://www.theguardian.com/commentisfree/2026/apr/21/labours-green-energy-plan-legacy-nhs-ed-miliband",
-      "mean_score": 0.523,
-      "vader_score": 0.8126,
-      "textblob_score": 0.2333,
-      "first_sentence": "It looks unlikely that Labour will emerge as the largest party at the next general election (though it\u2019s by no means impossible).",
-      "timestamp": "2026-04-21T05:00:16Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "More than $1m worth of fines from AI seatbelt cameras withdrawn in WA",
-      "link": "https://www.abc.net.au/news/2026-04-21/fines-withdrawn-as-ai-road-safety-camera-controversy-continues/106587938",
-      "mean_score": 0.3439,
-      "vader_score": 0.2878,
-      "textblob_score": 0.4,
-      "first_sentence": "Fines valued at $1.1 million, issued since AI-assisted road safety cameras were rolled out in WA six months ago, have now been withdrawn.",
-      "timestamp": "2026-04-21T03:26:03Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "If Plaid win in Wales, that won't mean independence - at least not yet",
-      "link": "https://www.bbc.com/news/articles/c9958227r38o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3242,
-      "vader_score": 0.5859,
-      "textblob_score": 0.0625,
-      "first_sentence": "In a further education college in the Pembrokeshire town of Haverfordwest, a studio audience had gathered to hear leaders of Wales' political parties make their pitch at a BBC Wales Ask the Leaders debate.",
-      "timestamp": "2026-04-21T02:25:57Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "New Zealand prime minister survives confidence vote",
-      "link": "https://www.abc.net.au/news/2026-04-21/christopher-luxon-survives-confidence-vote/106587716",
-      "mean_score": 0.3235,
-      "vader_score": 0.5106,
-      "textblob_score": 0.1364,
-      "first_sentence": "New Zealand Prime Minister Christopher Luxon has survived a confidence vote in his leadership.",
-      "timestamp": "2026-04-21T01:26:49Z",
-      "source": "ABC News"
     }
   ]
 }

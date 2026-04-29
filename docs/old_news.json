@@ -1,5 +1,65 @@
 [
   {
+    "headline": "Maternity boss 'confident' as unit reopens",
+    "link": "https://www.bbc.com/news/articles/c74vd1y7q04o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.497,
+    "vader_score": 0.4939,
+    "textblob_score": 0.5,
+    "first_sentence": "The head of a maternity ward says she has full confidence that patients will be safe as it reopens.",
+    "timestamp": "2026-04-21T05:18:38Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "\u2018I\u2019m not the boss\u2019: Lando Norris is articulate, open and intelligent \u2013 when he\u2019s allowed to be",
+    "link": "https://www.theguardian.com/sport/2026/apr/21/lando-norris-interview-f1-mclaren",
+    "mean_score": 0.4294,
+    "vader_score": 0.4588,
+    "textblob_score": 0.4,
+    "first_sentence": "There are always complications and difficulties in Formula One, as there are in life and even in this interview.",
+    "timestamp": "2026-04-21T05:01:15Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Labour\u2019s great green energy plan could be a legacy as vital as the NHS | Polly Toynbee",
+    "link": "https://www.theguardian.com/commentisfree/2026/apr/21/labours-green-energy-plan-legacy-nhs-ed-miliband",
+    "mean_score": 0.523,
+    "vader_score": 0.8126,
+    "textblob_score": 0.2333,
+    "first_sentence": "It looks unlikely that Labour will emerge as the largest party at the next general election (though it\u2019s by no means impossible).",
+    "timestamp": "2026-04-21T05:00:16Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "More than $1m worth of fines from AI seatbelt cameras withdrawn in WA",
+    "link": "https://www.abc.net.au/news/2026-04-21/fines-withdrawn-as-ai-road-safety-camera-controversy-continues/106587938",
+    "mean_score": 0.3439,
+    "vader_score": 0.2878,
+    "textblob_score": 0.4,
+    "first_sentence": "Fines valued at $1.1 million, issued since AI-assisted road safety cameras were rolled out in WA six months ago, have now been withdrawn.",
+    "timestamp": "2026-04-21T03:26:03Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "If Plaid win in Wales, that won't mean independence - at least not yet",
+    "link": "https://www.bbc.com/news/articles/c9958227r38o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3242,
+    "vader_score": 0.5859,
+    "textblob_score": 0.0625,
+    "first_sentence": "In a further education college in the Pembrokeshire town of Haverfordwest, a studio audience had gathered to hear leaders of Wales' political parties make their pitch at a BBC Wales Ask the Leaders debate.",
+    "timestamp": "2026-04-21T02:25:57Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "New Zealand prime minister survives confidence vote",
+    "link": "https://www.abc.net.au/news/2026-04-21/christopher-luxon-survives-confidence-vote/106587716",
+    "mean_score": 0.3235,
+    "vader_score": 0.5106,
+    "textblob_score": 0.1364,
+    "first_sentence": "New Zealand Prime Minister Christopher Luxon has survived a confidence vote in his leadership.",
+    "timestamp": "2026-04-21T01:26:49Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "US officials press Cuba for reforms in 'respectful' meeting in Havana",
     "link": "https://www.abc.net.au/news/2026-04-21/us-officials-meet-with-cuba-april/106587262",
     "mean_score": 0.4794,
