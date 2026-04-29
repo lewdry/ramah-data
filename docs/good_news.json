@@ -1,6 +1,26 @@
 {
-  "last run": "2026-04-29T04:13:52Z",
+  "last run": "2026-04-29T06:49:59Z",
   "stories": [
+    {
+      "headline": "New course helps teens navigate unique outback driving hazards",
+      "link": "https://www.abc.net.au/news/2026-04-29/goldfields-defensive-driving-course-begins/106601304",
+      "mean_score": 0.3187,
+      "vader_score": 0.3818,
+      "textblob_score": 0.2557,
+      "first_sentence": "A new defensive driving course being offered in Kalgoorlie aims to equip young motorists with the skills to cope with the unique challenges of outback driving.",
+      "timestamp": "2026-04-29T06:33:52Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Is Sanae Takaichi the most powerful woman in the world? - podcast",
+      "link": "https://www.theguardian.com/australia-news/audio/2026/apr/29/sanae-takaichi-japan-prime-minister-full-story-podcast",
+      "mean_score": 0.4377,
+      "vader_score": 0.4754,
+      "textblob_score": 0.4,
+      "first_sentence": "Justin McCurry on Japan\u2019s heavy metal-loving prime minister and her plan to amend the country\u2019s pacifist constitution Continue reading.",
+      "timestamp": "2026-04-29T04:09:36Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "\u2018It\u2019ll be in my Guardian obituary\u2019: David Balfe on inspiring Blur\u2019s Country House and tripping on Top of the Pops",
       "link": "https://www.theguardian.com/music/2026/apr/29/dave-balfe-inspiring-blur-country-house-tripping-top-of-the-pops",
@@ -50,6 +70,16 @@
       "first_sentence": "After Yomif Kejelcha crossed the finish line at the London Marathon on Sunday, he was shocked by what he'd accomplished.",
       "timestamp": "2026-04-28T23:23:52Z",
       "source": "NPR News"
+    },
+    {
+      "headline": "\u2018The best match I have coached\u2019: Luis Enrique thrilled by PSG\u2019s 5-4 win over Bayern Munich",
+      "link": "https://www.theguardian.com/football/2026/apr/29/champions-league-paris-saint-germain-bayern-munich-luis-enrique-vincent-kompany",
+      "mean_score": 0.849,
+      "vader_score": 0.8979,
+      "textblob_score": 0.8,
+      "first_sentence": "Luis Enrique called it \u201cthe best match I have ever coached\u201d.",
+      "timestamp": "2026-04-28T23:08:49Z",
+      "source": "The Guardian"
     },
     {
       "headline": "NI homes to get smart meters from 2028",
@@ -2470,36 +2500,6 @@
       "first_sentence": "New Zealand Prime Minister Christopher Luxon has survived a confidence vote in his leadership.",
       "timestamp": "2026-04-21T01:26:49Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "US officials press Cuba for reforms in 'respectful' meeting in Havana",
-      "link": "https://www.abc.net.au/news/2026-04-21/us-officials-meet-with-cuba-april/106587262",
-      "mean_score": 0.4794,
-      "vader_score": 0.4588,
-      "textblob_score": 0.5,
-      "first_sentence": "The United States has given demands to Cuba in a meeting held on the Caribbean island earlier this month, officials from both countries confirmed.",
-      "timestamp": "2026-04-21T00:19:47Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Morning Mail: Vance prepares for peace talks, gangs \u2018rorting\u2019 NDIS, how many bins is too many?",
-      "link": "https://www.theguardian.com/australia-news/2026/apr/21/morning-mail-tuesday-ntwnfb",
-      "mean_score": 0.5212,
-      "vader_score": 0.5423,
-      "textblob_score": 0.5,
-      "first_sentence": "Morning everyone.",
-      "timestamp": "2026-04-20T20:51:44Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Tim Cook to step down as CEO of Apple: \u2018the greatest privilege of my life\u2019",
-      "link": "https://www.theguardian.com/technology/2026/apr/20/tim-cook-apple-ceo-replacement",
-      "mean_score": 0.597,
-      "vader_score": 0.7717,
-      "textblob_score": 0.4222,
-      "first_sentence": "Apple announced on Monday that it had named a replacement for Tim Cook as CEO, with head of hardware engineering John Ternus to succeed him.",
-      "timestamp": "2026-04-20T20:48:15Z",
-      "source": "The Guardian"
     }
   ]
 }
