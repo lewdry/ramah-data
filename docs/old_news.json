@@ -1,5 +1,45 @@
 [
   {
+    "headline": "How to keep your dog happy living in an apartment",
+    "link": "https://www.abc.net.au/news/2026-04-21/how-to-keep-your-dog-happy-living-in-an-apartment/106524494",
+    "mean_score": 0.686,
+    "vader_score": 0.5719,
+    "textblob_score": 0.8,
+    "first_sentence": "Apartment living is on the rise and many of us might be wondering if the comfort of our pooch will be compromised without a backyard.",
+    "timestamp": "2026-04-20T18:30:00Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "How safe is Starmer\u2019s premiership after his Mandelson vetting statement to MPs?",
+    "link": "https://www.theguardian.com/politics/2026/apr/20/how-safe-is-starmers-premiership-after-his-mandelson-vetting-statement-to-mps",
+    "mean_score": 0.4702,
+    "vader_score": 0.4404,
+    "textblob_score": 0.5,
+    "first_sentence": "Labour MPs frustrated with the lack of a clear mission from Keir Starmer\u2019s No 10 have often urged the prime minister to be more forceful in his arguments, to prosecute his values, to find an enemy to define himself against.",
+    "timestamp": "2026-04-20T18:15:18Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "More than 200 rescued from IS-linked group in DR Congo",
+    "link": "https://www.bbc.com/news/articles/cy7144jr68lo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4851,
+    "vader_score": 0.4703,
+    "textblob_score": 0.5,
+    "first_sentence": "More than 200 civilians held captive in the east of the Democratic Republic of Congo by an armed group linked to the Islamic State have been rescued in an army operation, the military in neighbouring Uganda has said.",
+    "timestamp": "2026-04-20T16:25:12Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "John Keats\u2019s love letters returned to owner after being stolen in the 1980s",
+    "link": "https://www.theguardian.com/books/2026/apr/20/john-keats-love-letters-returned",
+    "mean_score": 0.375,
+    "vader_score": 0.25,
+    "textblob_score": 0.5,
+    "first_sentence": "Eight original handwritten letters from the Romantic poet John Keats to his muse and \u201cone passion\u201d, Fanny Brawne, were returned to the family of John Hay \u201cJock\u201d Whitney, the former US ambassador to the UK, on Monday after being stolen from Whitney\u2019s home in the 1980s.",
+    "timestamp": "2026-04-20T16:22:49Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "'Huge relief' as students given loans in error get repayment reprieve",
     "link": "https://www.bbc.com/news/articles/c0e7jjwzn7eo?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.401,
