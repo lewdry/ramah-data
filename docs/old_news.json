@@ -1,5 +1,35 @@
 [
   {
+    "headline": "The surprising origin of 4 features that superglue kids \u2014 and adults \u2014 to screens",
+    "link": "https://www.npr.org/2026/04/21/nx-s1-5776665/surprising-origin-features-superglue-kids-adults-to-screens",
+    "mean_score": 0.4866,
+    "vader_score": 0.2732,
+    "textblob_score": 0.7,
+    "first_sentence": "In two landmark cases, social media companies have been found liable for endangering and harming children.",
+    "timestamp": "2026-04-21T09:00:00Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "Legal action considered after Dezi Freeman property entry",
+    "link": "https://www.abc.net.au/news/2026-04-21/dezi-freeman-property-owner-legal-action/106588894",
+    "mean_score": 0.322,
+    "vader_score": 0.4939,
+    "textblob_score": 0.15,
+    "first_sentence": "YouTubers have entered the property where Dezi Freeman was shot dead and published video filmed inside the shipping container.",
+    "timestamp": "2026-04-21T06:35:57Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Funding cuts turning beautiful Loch Lomond into 'rubbish dump'",
+    "link": "https://www.bbc.com/news/articles/cd7jlpy7yqpo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4379,
+    "vader_score": 0.0258,
+    "textblob_score": 0.85,
+    "first_sentence": "Loch Lomond is a must-see for tourists visiting the west of Scotland, but locals fear its reputation is being rubbished by funding cuts and increased fly-tipping.",
+    "timestamp": "2026-04-21T05:20:44Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Maternity boss 'confident' as unit reopens",
     "link": "https://www.bbc.com/news/articles/c74vd1y7q04o?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.497,

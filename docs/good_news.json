@@ -1,6 +1,26 @@
 {
-  "last run": "2026-04-29T09:42:38Z",
+  "last run": "2026-04-29T12:32:23Z",
   "stories": [
+    {
+      "headline": "Wembanyama\u2019s \u2018extremely difficult\u2019 defense helps Spurs to first playoff series win since 2017",
+      "link": "https://www.theguardian.com/sport/2026/apr/29/wembanyamas-extremely-difficult-defense-helps-spurs-to-first-playoff-series-win-since-2017",
+      "mean_score": 0.4839,
+      "vader_score": 0.7845,
+      "textblob_score": 0.1833,
+      "first_sentence": "Victor Wembanyama had 17 points, 14 rebounds and six blocks as the San Antonio Spurs eliminated the Portland Trail Blazers and won a playoff series for the first time since 2017.",
+      "timestamp": "2026-04-29T12:04:18Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "University wins record freedom of speech fine challenge",
+      "link": "https://www.bbc.com/news/articles/cp8pnwyy0zjo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.6167,
+      "vader_score": 0.875,
+      "textblob_score": 0.3583,
+      "first_sentence": "The University of Sussex has won its legal challenge of a record \u00a3585,000 fine over freedom of speech.",
+      "timestamp": "2026-04-29T12:02:38Z",
+      "source": "BBC News"
+    },
     {
       "headline": "Sali Hughes on beauty: get your skin ready for summer with the best new exfoliants",
       "link": "https://www.theguardian.com/fashion/2026/apr/29/sali-hughes-on-beauty-best-new-exfoliants",
@@ -10,6 +30,16 @@
       "first_sentence": "The Guardian\u2019s journalism is independent.",
       "timestamp": "2026-04-29T09:00:50Z",
       "source": "The Guardian"
+    },
+    {
+      "headline": "RFK Jr. talked about 'reparenting' kids on wellness farms. We visit one that inspired him",
+      "link": "https://www.npr.org/2026/04/29/nx-s1-5798733/rfk-jr-addiction-treatment-centers",
+      "mean_score": 0.3634,
+      "vader_score": 0.7269,
+      "textblob_score": 0.0,
+      "first_sentence": "Alsobrooks was referring to one of Kennedy's signature ideas to remake U.S.",
+      "timestamp": "2026-04-29T09:00:00Z",
+      "source": "NPR News"
     },
     {
       "headline": "'A great West Australian': Bill Grayden dies aged 105",
@@ -2470,36 +2500,6 @@
       "first_sentence": "The US has partly restricted intelligence sharing with South Korea after the country\u2019s unification minister publicly identified a suspected North Korean nuclear site, according to reports in South Korean media.",
       "timestamp": "2026-04-21T09:26:00Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "The surprising origin of 4 features that superglue kids \u2014 and adults \u2014 to screens",
-      "link": "https://www.npr.org/2026/04/21/nx-s1-5776665/surprising-origin-features-superglue-kids-adults-to-screens",
-      "mean_score": 0.4866,
-      "vader_score": 0.2732,
-      "textblob_score": 0.7,
-      "first_sentence": "In two landmark cases, social media companies have been found liable for endangering and harming children.",
-      "timestamp": "2026-04-21T09:00:00Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Legal action considered after Dezi Freeman property entry",
-      "link": "https://www.abc.net.au/news/2026-04-21/dezi-freeman-property-owner-legal-action/106588894",
-      "mean_score": 0.322,
-      "vader_score": 0.4939,
-      "textblob_score": 0.15,
-      "first_sentence": "YouTubers have entered the property where Dezi Freeman was shot dead and published video filmed inside the shipping container.",
-      "timestamp": "2026-04-21T06:35:57Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Funding cuts turning beautiful Loch Lomond into 'rubbish dump'",
-      "link": "https://www.bbc.com/news/articles/cd7jlpy7yqpo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4379,
-      "vader_score": 0.0258,
-      "textblob_score": 0.85,
-      "first_sentence": "Loch Lomond is a must-see for tourists visiting the west of Scotland, but locals fear its reputation is being rubbished by funding cuts and increased fly-tipping.",
-      "timestamp": "2026-04-21T05:20:44Z",
-      "source": "BBC News"
     }
   ]
 }
