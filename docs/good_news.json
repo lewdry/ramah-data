@@ -1,6 +1,166 @@
 {
-  "last run": "2026-04-29T12:32:23Z",
+  "last run": "2026-04-30T00:37:23Z",
   "stories": [
+    {
+      "headline": "Breaking: Royal commission recommends national firearms agreement, buyback scheme",
+      "link": "https://www.abc.net.au/news/2026-04-30/bondi-antisemitism-social-cohesion-royal-commission-report/106622306",
+      "mean_score": 0.3125,
+      "vader_score": 0.6249,
+      "textblob_score": 0.0,
+      "first_sentence": "All levels of government should prioritise efforts to implement nationally consistent firearms legislation, a royal commission into antisemitism in Australia has found.",
+      "timestamp": "2026-04-30T00:27:32Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "'I did not expect it': Kenya's Sabastian Sawe welcomed home with jubilant celebrations",
+      "link": "https://www.bbc.com/news/articles/cddp4y0rzjdo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3753,
+      "vader_score": 0.7506,
+      "textblob_score": 0.0,
+      "first_sentence": "Kenya's Sebastian Sawe has returned home to joyous scenes after becoming the first man to run a marathon in under two hours in competitive race conditions.",
+      "timestamp": "2026-04-29T23:54:44Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Florida approves US House map meant to boost Republicans in midterms",
+      "link": "https://www.theguardian.com/us-news/2026/apr/29/florida-legislature-congressional-map",
+      "mean_score": 0.3298,
+      "vader_score": 0.6597,
+      "textblob_score": 0.0,
+      "first_sentence": "The Florida legislature approved a new congressional map intended to maximize Republicans\u2019 advantage in the state as part of the national redistricting battle that Donald Trump launched before this year\u2019s midterms.",
+      "timestamp": "2026-04-29T23:38:45Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Travis Head makes stunning return to form in IPL",
+      "link": "https://www.abc.net.au/news/2026-04-30/ipl-cricket-travis-head-pat-cummins-sunrisers-indians/106623746",
+      "mean_score": 0.4409,
+      "vader_score": 0.3818,
+      "textblob_score": 0.5,
+      "first_sentence": "Travis Head made 76 from 30 balls opening the batting for Sunrisers Hyderabad against Mumbai Indians.",
+      "timestamp": "2026-04-29T21:48:28Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Comey's seashell post got him indicted. But experts are sceptical the government can win",
+      "link": "https://www.bbc.com/news/articles/clyp70l1egeo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.6633,
+      "vader_score": 0.5267,
+      "textblob_score": 0.8,
+      "first_sentence": "Observers experienced a tingle of d\u00e9j\u00e0 vu this week as they watched the Department of Justice indict James Comey on charges that he threatened his political rival, President Donald Trump.",
+      "timestamp": "2026-04-29T20:18:28Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Has the world\u2019s most powerful cartel met its end?",
+      "link": "https://www.abc.net.au/news/2026-04-30/uae-walks-from-opec-leaving-saudis-in-the-lurch/106620498",
+      "mean_score": 0.4377,
+      "vader_score": 0.4754,
+      "textblob_score": 0.4,
+      "first_sentence": "In the fractious world of Middle East politics, alliances can be fleeting affairs.",
+      "timestamp": "2026-04-29T19:33:12Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Coalition helps clear the way for One Nation in Farrer",
+      "link": "https://www.abc.net.au/news/2026-04-30/coalition-one-nation-farrer-byelection-liberals-nationals/106612436",
+      "mean_score": 0.3684,
+      "vader_score": 0.6369,
+      "textblob_score": 0.1,
+      "first_sentence": "Pauline Hanson is now set to tour more regional Coalition-held seats in her \"sexy\" new private plane, and the Liberal and National parties are helping to clear the runway.",
+      "timestamp": "2026-04-29T19:00:00Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Hedgehog rescued from drain pipe ordeal with the help of oil and pliers",
+      "link": "https://www.bbc.com/news/articles/cm2pn5p4zm7o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3352,
+      "vader_score": 0.6705,
+      "textblob_score": 0.0,
+      "first_sentence": "A hedgehog that spent at least four days stuck in a rusty underground drain pipe in Fife has been rescued with the help of some cooking oil and a large pair of pliers.",
+      "timestamp": "2026-04-29T17:30:21Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Farage\u2019s attempt to get ahead of \u00a35m gift story only raises more questions",
+      "link": "https://www.theguardian.com/politics/2026/apr/29/nigel-farage-christopher-harborne-gift-story-raises-more-questions",
+      "mean_score": 0.3452,
+      "vader_score": 0.4404,
+      "textblob_score": 0.25,
+      "first_sentence": "Reform leader went public after approach from Guardian, but does his claim stack up that money was for his security?.",
+      "timestamp": "2026-04-29T16:03:15Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "A bathroom for every passenger! Welcome to future of air travel \u2013 if you\u2019ve got \u00a313,000 to spare",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/apr/29/a-bathroom-for-every-passenger-welcome-to-future-of-air-travel-if-youve-got-13000-to-spare",
+      "mean_score": 0.4546,
+      "vader_score": 0.5093,
+      "textblob_score": 0.4,
+      "first_sentence": "There\u2019s no en suite in my little sixth floor flat.",
+      "timestamp": "2026-04-29T15:51:02Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "It\u2019s years late and millions over budget, now one of Australia\u2019s most beautiful pools is close to reopening",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/apr/29/its-years-late-and-millions-over-budget-now-one-of-australias-most-beautiful-pools-is-close-to-reopening",
+      "mean_score": 0.493,
+      "vader_score": 0.6361,
+      "textblob_score": 0.35,
+      "first_sentence": "A host of former Olympic swimmers have been treated to a first look at the refurbished North Sydney pool, soon to reopen after years of delays.",
+      "timestamp": "2026-04-29T15:00:53Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Australia\u2019s best photos of the month \u2013 April 2026",
+      "link": "https://www.theguardian.com/sport/gallery/2026/apr/30/australia-best-photos-images-pictures-april-2026",
+      "mean_score": 0.8185,
+      "vader_score": 0.6369,
+      "textblob_score": 1.0,
+      "first_sentence": "Sprint sensation Gout Gout continues to thrill and break records, the country marks Anzac Day, and the spotlight remains firmly on one of Australia\u2019s most decorated soldiers who is currently out on bail after being charged with five counts of the war crime of murder\u2022 Shelley\u2019s hair to Schindler\u2019s list: the most fascinating objects in the State Library of NSW \u2013 in pictures Continue reading.",
+      "timestamp": "2026-04-29T15:00:53Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Friendly AI chatbots more likely to support conspiracy theories, study finds",
+      "link": "https://www.theguardian.com/technology/2026/apr/29/making-ai-chatbots-more-friendly-mistakes-support-false-beliefs-conspiracy-theories-study",
+      "mean_score": 0.353,
+      "vader_score": 0.4144,
+      "textblob_score": 0.2917,
+      "first_sentence": "The rush to make AI chatbots more friendly has a troubling downside, researchers say.",
+      "timestamp": "2026-04-29T15:00:52Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Why friendly AI chatbots might be less trustworthy",
+      "link": "https://www.bbc.com/news/articles/cd9pdjgvxj8o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4313,
+      "vader_score": 0.7584,
+      "textblob_score": 0.1042,
+      "first_sentence": "AI chatbots trained to be warm and friendly when interacting with users may also be more prone to inaccuracies, new research suggests.",
+      "timestamp": "2026-04-29T15:00:06Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "PM defends record as Badenoch says he squandered election win",
+      "link": "https://www.bbc.com/news/articles/cx2182v12e4o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.6929,
+      "vader_score": 0.5859,
+      "textblob_score": 0.8,
+      "first_sentence": "Sir Keir Starmer has defended his record in government after Kemi Badenoch accused him of having \"squandered his political capital\" in the last Prime Minister's Questions before elections next week.",
+      "timestamp": "2026-04-29T14:04:43Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "What makes good \u2018game feel\u2019? These three titles have pinned it down perfectly",
+      "link": "https://www.theguardian.com/games/2026/apr/29/pushing-buttons-what-made-good-game-feel-pragmata-saros-vampire-crawler",
+      "mean_score": 0.5413,
+      "vader_score": 0.7964,
+      "textblob_score": 0.2861,
+      "first_sentence": "Game feel is one of the most elusive concepts in the glossary of interactive entertainment, at once perfectly clear and difficult to define.",
+      "timestamp": "2026-04-29T14:00:50Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Wembanyama\u2019s \u2018extremely difficult\u2019 defense helps Spurs to first playoff series win since 2017",
       "link": "https://www.theguardian.com/sport/2026/apr/29/wembanyamas-extremely-difficult-defense-helps-spurs-to-first-playoff-series-win-since-2017",
@@ -19,6 +179,16 @@
       "textblob_score": 0.3583,
       "first_sentence": "The University of Sussex has won its legal challenge of a record \u00a3585,000 fine over freedom of speech.",
       "timestamp": "2026-04-29T12:02:38Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Life after winning Race Across the World",
+      "link": "https://www.bbc.com/news/videos/ce8p056m08mo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5133,
+      "vader_score": 0.5267,
+      "textblob_score": 0.5,
+      "first_sentence": "Alfie Watts' next goal involves one of the country's favourite shows.",
+      "timestamp": "2026-04-29T10:09:34Z",
       "source": "BBC News"
     },
     {
@@ -99,6 +269,16 @@
       "textblob_score": 0.35,
       "first_sentence": "Clara del Valle is a delightful little girl, all smiles and plaits and cheeky interruptions during boring sermons at Mass.",
       "timestamp": "2026-04-29T06:00:47Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Classic Football Shirts: inside the vault home to their most valuable vintage gear \u2013 video",
+      "link": "https://www.theguardian.com/football/video/2026/apr/29/classic-football-shirts-inside-the-vault-home-to-their-most-valuable-vintage-gear-video",
+      "mean_score": 0.4295,
+      "vader_score": 0.5256,
+      "textblob_score": 0.3333,
+      "first_sentence": "Classic Football Shirts have been in business for 20 years, selling over one million shirts (so far) and keeping the most iconic match-worn pieces in their temperature-controlled vault.",
+      "timestamp": "2026-04-29T05:34:20Z",
       "source": "The Guardian"
     },
     {
@@ -2320,186 +2500,6 @@
       "first_sentence": "Virginia voters have delivered a significant win to Democrats, as the state is poised to redraw its congressional districts ahead of this year's midterm election.",
       "timestamp": "2026-04-22T00:50:52Z",
       "source": "NPR News"
-    },
-    {
-      "headline": "Ideal conditions to see peak of Lyrid meteor shower in UK",
-      "link": "https://www.bbc.com/weather/articles/cede7gpjn85o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.7133,
-      "vader_score": 0.5267,
-      "textblob_score": 0.9,
-      "first_sentence": "With lots of clear skies over the coming nights there is a good chance of seeing the Lyrid meteor shower.",
-      "timestamp": "2026-04-21T23:04:07Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "One of UK's rarest flies returns to Cairngorms thanks to jam jars",
-      "link": "https://www.bbc.com/news/articles/c248jqzvqp1o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3202,
-      "vader_score": 0.4404,
-      "textblob_score": 0.2,
-      "first_sentence": "A rare fly that faced extinction could now outnumber the human population of the Cairngorms National Park - the last place in the UK where the insect survives, say conservationists.",
-      "timestamp": "2026-04-21T21:46:48Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "AI hacking tools like Mythos can be 'net positive' says top cyber official",
-      "link": "https://www.bbc.com/news/articles/cy41zejp9pko?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5135,
-      "vader_score": 0.7845,
-      "textblob_score": 0.2424,
-      "first_sentence": "AI tools have the opportunity to be a major boost for cyber-security defences if they are secured, according to the UK's top cyber official.",
-      "timestamp": "2026-04-21T21:43:48Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "As Pakistan seeks to broker U.S.\u2013Iran peace, citizens watch for gains at home",
-      "link": "https://www.npr.org/2026/04/21/nx-s1-5791760/as-pakistan-seeks-to-broker-u-s-iran-peace-citizens-watch-for-gains-at-home",
-      "mean_score": 0.3548,
-      "vader_score": 0.7096,
-      "textblob_score": 0.0,
-      "first_sentence": "As Pakistan works to broker peace between the U.S.",
-      "timestamp": "2026-04-21T20:10:44Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Head\u2019s up: 12 main-course cauliflower recipes from easy to ambitious",
-      "link": "https://www.theguardian.com/food/2026/apr/21/main-course-cauliflower-recipes",
-      "mean_score": 0.53,
-      "vader_score": 0.7184,
-      "textblob_score": 0.3417,
-      "first_sentence": "Cauliflower looks like the ghost of broccoli, or a human brain that has been drained of blood.",
-      "timestamp": "2026-04-21T20:00:02Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Women's shelter funding welcomed, as most turned away",
-      "link": "https://www.abc.net.au/news/2026-04-22/hobart-womens-shelter-funding-boost-welcomed/106586674",
-      "mean_score": 0.42,
-      "vader_score": 0.34,
-      "textblob_score": 0.5,
-      "first_sentence": "Hobart Women's Shelter has upgraded its communal spaces and locked in funding to almost double its capacity for women and children in need of safe housing.",
-      "timestamp": "2026-04-21T19:58:21Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Junior clubs and brain experts welcome NRL training changes",
-      "link": "https://www.abc.net.au/news/2026-04-22/nrl-contact-training-changes-junior-sport-neuroscience/106587700",
-      "mean_score": 0.6294,
-      "vader_score": 0.4588,
-      "textblob_score": 0.8,
-      "first_sentence": "The NRL has moved to implement landmark safety guidelines for training, which for the first time limit contact in training.",
-      "timestamp": "2026-04-21T19:33:03Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Live: Iran says peace talks will resume when US lifts Strait of Hormuz blockade",
-      "link": "https://www.abc.net.au/news/2026-04-22/iran-war-live-updates-trump-us-extends-ceasefire-iran/106588912",
-      "mean_score": 0.3393,
-      "vader_score": 0.5423,
-      "textblob_score": 0.1364,
-      "first_sentence": "Iran has said peace talks will resume in Pakistan \"as soon as\" the US lifts its blockade on the Strait of Hormuz.",
-      "timestamp": "2026-04-21T18:08:34Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Ketamine, psychedelics, GHB: is the US falling out of love with cocaine?",
-      "link": "https://www.theguardian.com/us-news/2026/apr/21/cocaine-ketamine-psychedelics-ghb",
-      "mean_score": 0.5287,
-      "vader_score": 0.5574,
-      "textblob_score": 0.5,
-      "first_sentence": "Ever since cocaine first emerged as a popular party drug via the shores of Miami in the early 1970s, use of the stimulant has been inextricably entwined with the very essence of capitalist excess and what it is to be American: brash, bombastic and brazen.",
-      "timestamp": "2026-04-21T15:00:52Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Rebel Wilson\u2019s The Deb is great fun but it tanked. Is this the fate of the Australian movie musical?",
-      "link": "https://www.theguardian.com/film/2026/apr/22/rebel-wilson-deb-review-australian-movie-musical",
-      "mean_score": 0.4008,
-      "vader_score": 0.5267,
-      "textblob_score": 0.275,
-      "first_sentence": "Few cinemagoers have turned up for Rebel Wilson\u2019s directorial debut, The Deb, which opened with the kind of dismal box office return a local lemonade stand might rival.",
-      "timestamp": "2026-04-21T15:00:52Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "What's the deal with spacesuits for the Moon? Will they be ready in time?",
-      "link": "https://arstechnica.com/space/2026/04/whats-the-deal-with-spacesuits-for-the-moon-will-they-be-ready-in-time/",
-      "mean_score": 0.3165,
-      "vader_score": 0.4329,
-      "textblob_score": 0.2,
-      "first_sentence": "NASA is down to a single provider for a critical link in its lunar architecture.",
-      "timestamp": "2026-04-21T14:24:09Z",
-      "source": "Ars Technica"
-    },
-    {
-      "headline": "Grandfather says Britain's Got Talent duet with grandson was 'greatest moment'",
-      "link": "https://www.bbc.com/news/articles/cge041qrx4go?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.8953,
-      "vader_score": 0.7906,
-      "textblob_score": 1.0,
-      "first_sentence": "A grandfather says performing on a talent show with his 10-year-old grandson is a moment he will always remember.",
-      "timestamp": "2026-04-21T13:15:22Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Contrary to popular superstition, AES 128 is just fine in a post-quantum world",
-      "link": "https://arstechnica.com/security/2026/04/contrary-to-popular-superstition-aes-128-is-just-fine-in-a-post-quantum-world/",
-      "mean_score": 0.5329,
-      "vader_score": 0.5574,
-      "textblob_score": 0.5083,
-      "first_sentence": "A stubborn misconception is hampering the already hard work of quantum readiness.",
-      "timestamp": "2026-04-21T12:35:20Z",
-      "source": "Ars Technica"
-    },
-    {
-      "headline": "Unprecedented ruling finds Hungary's anti-LGBTQ laws in breach of EU values",
-      "link": "https://www.bbc.com/news/articles/cddqvyr0yjro?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.501,
-      "vader_score": 0.4019,
-      "textblob_score": 0.6,
-      "first_sentence": "The European Union's top court has ruled that Hungarian anti-LGBTQ laws violate EU rules and infringe its values of equality and minority rights.",
-      "timestamp": "2026-04-21T12:28:31Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Ultras review \u2013 love letter to football\u2019s most dedicated supporters",
-      "link": "https://www.theguardian.com/film/2026/apr/21/ultras-review-love-letter-to-footballs-most-dedicated-supporters",
-      "mean_score": 0.6964,
-      "vader_score": 0.8927,
-      "textblob_score": 0.5,
-      "first_sentence": "Here is a visually epic and surprisingly positive documentary about a maligned subculture: football ultras.",
-      "timestamp": "2026-04-21T12:00:50Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Key takeaways from sacked official at heart of Mandelson vetting row",
-      "link": "https://www.bbc.com/news/articles/cdxk5e570qxo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3185,
-      "vader_score": 0.6369,
-      "textblob_score": 0.0,
-      "first_sentence": "Sir Olly Robbins, the former top civil servant at the Foreign Office, has been giving evidence to MPs on the foreign affairs committee about his role in vetting Lord Mandelson to be the UK's ambassador to the US.",
-      "timestamp": "2026-04-21T10:52:44Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "How can you make a student happy? Drop them at university \u2013 and make a lightning-quick exit | Zoe Williams",
-      "link": "https://www.theguardian.com/commentisfree/2026/apr/21/how-make-student-happy-drop-at-university-lightning-quick-exit",
-      "mean_score": 0.5909,
-      "vader_score": 0.3818,
-      "textblob_score": 0.8,
-      "first_sentence": "I was driving my niece to university, and my son asked what time I\u2019d be back, which was itself inherently sad.",
-      "timestamp": "2026-04-21T10:00:46Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "US \u2018restricts intelligence sharing with South Korea\u2019 after minister identified suspected nuclear site",
-      "link": "https://www.theguardian.com/world/2026/apr/21/us-reportedly-restricts-south-korea-intelligence-sharing-after-minister-identified-suspected-nuclear-site",
-      "mean_score": 0.3062,
-      "vader_score": 0.6124,
-      "textblob_score": 0.0,
-      "first_sentence": "The US has partly restricted intelligence sharing with South Korea after the country\u2019s unification minister publicly identified a suspected North Korean nuclear site, according to reports in South Korean media.",
-      "timestamp": "2026-04-21T09:26:00Z",
-      "source": "The Guardian"
     }
   ]
 }
