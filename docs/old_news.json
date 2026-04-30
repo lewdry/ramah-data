@@ -1,5 +1,225 @@
 [
   {
+    "headline": "This Is a Gardening Show review \u2013 Zach Galifianakis\u2019 charming new series feels like perfect TV",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/apr/22/this-is-a-gardening-show-review-zach-galifianakis-netflix",
+    "mean_score": 0.7436,
+    "vader_score": 0.875,
+    "textblob_score": 0.6121,
+    "first_sentence": "This might sound like heresy to some, but I can comfortably assert that the reason I am not a skilled horticulturist is Gardeners\u2019 World.",
+    "timestamp": "2026-04-22T11:06:04Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "\u2018Take in the moments or they just pass you by\u2018: Aden Durde, the first British coach to win a Super Bowl",
+    "link": "https://www.theguardian.com/sport/no-helmets-required/2026/apr/22/aden-durde-british-coach-win-super-bowl-seattle-seahawks-nfl-draft-london",
+    "mean_score": 0.5865,
+    "vader_score": 0.8271,
+    "textblob_score": 0.3458,
+    "first_sentence": "A middle-aged man pulls down his baseball cap, walks across Leicester Square and heads to Greggs for lunch before taking the Piccadilly Line home to Southgate.",
+    "timestamp": "2026-04-22T11:05:23Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Ukraine wants a Zelenskyy-Putin summit to jolt stalled US-led peace efforts",
+    "link": "https://apnews.com/article/russia-ukraine-war-summit-drone-attack-dcd076caeda4cf67f5592274beed6364",
+    "mean_score": 0.3009,
+    "vader_score": 0.4019,
+    "textblob_score": 0.2,
+    "first_sentence": "KYIV, Ukraine (AP) \u2014 Ukraine is pushing for face-to-face talks between President Volodymyr Zelenskyy and Russian President Vladimir Putin, Kyiv\u2019s top diplomat said, presenting a potential summit as a way of injecting new momentum into U.S.-led efforts to end Russia\u2019s more than four-year invasion of its neighbor.",
+    "timestamp": "2026-04-22T10:53:01Z",
+    "source": "AP News"
+  },
+  {
+    "headline": "Hakeem Jeffries says Virginia redistricting assures a 'free and fair midterm'",
+    "link": "https://www.npr.org/2026/04/22/nx-s1-5794699/hakeem-jeffries-virginia-redistricting-election-midterms",
+    "mean_score": 0.6673,
+    "vader_score": 0.7845,
+    "textblob_score": 0.55,
+    "first_sentence": "Rep.",
+    "timestamp": "2026-04-22T10:42:15Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "\u2018Get back to work\u2019: Amazon faces fresh scrutiny over workplace safety record",
+    "link": "https://www.theguardian.com/technology/2026/apr/22/amazon-workplace-safety-record",
+    "mean_score": 0.4252,
+    "vader_score": 0.7003,
+    "textblob_score": 0.15,
+    "first_sentence": "Amazon, one of the world\u2019s largest employers, has for years faced scrutiny over its safety record.",
+    "timestamp": "2026-04-22T10:00:25Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "NASA hopes its new telescope will help it chart an 'atlas of the universe'",
+    "link": "https://www.sbs.com.au/news/article/nasa-hopes-its-new-telescope-will-help-it-chart-an-atlas-of-the-universe/4a9ofbq80",
+    "mean_score": 0.4034,
+    "vader_score": 0.6705,
+    "textblob_score": 0.1364,
+    "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+    "timestamp": "2026-04-22T09:04:26Z",
+    "source": "SBS News"
+  },
+  {
+    "headline": "Starmer to face MPs as loyalist minister declines to say that sacking Olly Robbins was fair \u2013 UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/apr/22/keir-starmer-kemi-badenoch-pmqs-olly-robbins-peter-mandelson-uk-politics-latest-news-updates",
+    "mean_score": 0.502,
+    "vader_score": 0.5859,
+    "textblob_score": 0.4182,
+    "first_sentence": "In an interview with Times Radio, Pat McFadden repeatedly declined to say that he thought the sacking of Olly Robbins was fair.",
+    "timestamp": "2026-04-22T09:03:54Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "The best hair straighteners in the UK for foolproof styling, tried and tested by our expert",
+    "link": "https://www.theguardian.com/thefilter/2025/mar/18/best-hair-straighteners",
+    "mean_score": 0.8891,
+    "vader_score": 0.7783,
+    "textblob_score": 1.0,
+    "first_sentence": "The Guardian\u2019s journalism is independent.",
+    "timestamp": "2026-04-22T09:00:14Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "'We can do better,' FAA head says of work to update U.S. analog air traffic system",
+    "link": "https://www.npr.org/2026/04/22/nx-s1-5791744/faa-dot-air-traffic-control-system-revamp",
+    "mean_score": 0.4702,
+    "vader_score": 0.4404,
+    "textblob_score": 0.5,
+    "first_sentence": "WASHINGTON \u2014 The days of bonfires guiding airplanes across the United States are long gone \u2014 but those fires' analog descendants are preventing the national aviation system from reaping the benefits of today's digital technology, FAA Administrator Bryan Bedford said on Tuesday.",
+    "timestamp": "2026-04-22T09:00:00Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "Housing plan aims to attract more students to international 'gateway' city",
+    "link": "https://www.abc.net.au/news/2026-04-22/cdu-new-rental-darwin-casuarina-university-student-accommodation/106593324",
+    "mean_score": 0.3056,
+    "vader_score": 0.3612,
+    "textblob_score": 0.25,
+    "first_sentence": "Charles Darwin University (CDU) has secured a $70 million loan for new student accommodation, adding hundreds of beds to the CBD's rental pool.",
+    "timestamp": "2026-04-22T08:09:45Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "The Wonderful World that Almost Was by Andrew Durbin review \u2013 naked ambition",
+    "link": "https://www.theguardian.com/books/2026/apr/22/the-wonderful-world-that-almost-was-by-andrew-durbin-review-naked-ambition",
+    "mean_score": 0.5359,
+    "vader_score": 0.5719,
+    "textblob_score": 0.5,
+    "first_sentence": "Andy Warhol sent Paul a Brillo box.",
+    "timestamp": "2026-04-22T08:00:16Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Are Aussies being fleeced over gas profits?! Yes! What should we be doing instead? | First Dog on the Moon",
+    "link": "https://www.theguardian.com/commentisfree/picture/2026/apr/22/are-aussies-being-fleeced-over-gas-profits-yes-what-should-we-be-doing-instead",
+    "mean_score": 0.5055,
+    "vader_score": 0.7611,
+    "textblob_score": 0.25,
+    "first_sentence": "Even considering our usual slavish enthusiasm for giving all our shit to billionaires for free this is badSign up here to get an email whenever First Dog cartoons are publishedGet all your needs met at the First Dog shop if what you need is First Dog merchandise and prints Continue reading.",
+    "timestamp": "2026-04-22T06:53:17Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Australia news live: independent candidate for Farrer says Coalition preferencing One Nation \u2018not for the good of our community\u2019",
+    "link": "https://www.theguardian.com/australia-news/live/2026/apr/22/australia-news-live-ndis-savings-cuts-mark-butler-aged-care-cost-of-living-budget-jim-chalmers-labor-coalition-ntwnfb",
+    "mean_score": 0.3596,
+    "vader_score": 0.4404,
+    "textblob_score": 0.2788,
+    "first_sentence": "The independent candidate for Farrer, Michelle Milthorpe, has responded to news that the Liberals and Nationals will preference One Nation above her in next month\u2019s federal byelection.",
+    "timestamp": "2026-04-22T06:04:48Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Winnie-the-Pooh\u2019s 100th birthday is a great excuse to explore the Sussex forest that inspired the books",
+    "link": "https://www.theguardian.com/travel/2026/apr/22/winnie-the-pooh-100th-birthday-ashdown-forest-sussex",
+    "mean_score": 0.5988,
+    "vader_score": 0.8225,
+    "textblob_score": 0.375,
+    "first_sentence": "The Guardian\u2019s journalism is independent.",
+    "timestamp": "2026-04-22T06:00:11Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "It\u2019s time to reset the NDIS to ensure it is there for those that need it the most | Martin Laverty",
+    "link": "https://www.theguardian.com/commentisfree/2026/apr/22/ndis-disability-scheme-reset",
+    "mean_score": 0.4409,
+    "vader_score": 0.3818,
+    "textblob_score": 0.5,
+    "first_sentence": "The federal health minister, Mark Butler, outlined a plan to the National Press Club today that will reset the NDIS to its original intent and save it for those who need it the most.",
+    "timestamp": "2026-04-22T05:27:49Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "'Performing together on Saturday Night Live is amazing'",
+    "link": "https://www.bbc.com/news/articles/c2lw8k0rl9no?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.477,
+    "vader_score": 0.5859,
+    "textblob_score": 0.3682,
+    "first_sentence": "\"I've never known fear like when I was stepping out on to the studio floor for that first ever one, knowing that we were going to be live in five minutes,\" says comedian George Fouracres, one of the 11-strong cast of Saturday Night Live UK.",
+    "timestamp": "2026-04-22T05:19:11Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Charity offers to boost river conservation funds",
+    "link": "https://www.bbc.com/news/articles/cqj8k4e15l1o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3852,
+    "vader_score": 0.6705,
+    "textblob_score": 0.1,
+    "first_sentence": "An environmental charity has offered to match all public donations made to an appeal to protect the River Teme between 22 and 29 April.",
+    "timestamp": "2026-04-22T05:15:26Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "'We're the mugs here': Is Japan getting Australian gas for free?",
+    "link": "https://www.sbs.com.au/news/article/is-japan-getting-australian-gas-for-free/rbvl35n6x",
+    "mean_score": 0.3553,
+    "vader_score": 0.5106,
+    "textblob_score": 0.2,
+    "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+    "timestamp": "2026-04-22T05:12:16Z",
+    "source": "SBS News"
+  },
+  {
+    "headline": "Virginia approves redistricting, giving Democrats edge in midterms",
+    "link": "https://www.bbc.com/news/articles/c895j8zgqe4o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3125,
+    "vader_score": 0.6249,
+    "textblob_score": 0.0,
+    "first_sentence": "Virginia voters have approved a redistricting measure that could hand Democrats control of the thinly-divided US House of Representatives in the midterm elections later this year.",
+    "timestamp": "2026-04-22T02:24:41Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Democrats celebrate as Virginia voters approve new congressional maps that could flip House seats in their favor \u2013 as it happened",
+    "link": "https://www.theguardian.com/us-news/live/2026/apr/21/us-politics-latest-news-kevin-warsh-federal-reserve-donald-trump",
+    "mean_score": 0.4435,
+    "vader_score": 0.7506,
+    "textblob_score": 0.1364,
+    "first_sentence": "Barack Obama has praised Virginia voters for backing the redrawn congressional maps that could give Democrats a significant boost in the midterm elections.",
+    "timestamp": "2026-04-22T02:03:03Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Woman's life 'changed for the better' after GPs in SA trained to diagnose ADHD",
+    "link": "https://www.abc.net.au/news/2026-04-22/more-sa-gps-are-qualified-to-diagnose-adhd/106587936",
+    "mean_score": 0.4702,
+    "vader_score": 0.4404,
+    "textblob_score": 0.5,
+    "first_sentence": "About 100 South Australian GPs are now qualified to diagnose, treat and prescribe medication for ADHD in adults and children eight years old and above.",
+    "timestamp": "2026-04-22T00:51:55Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Virginia voters OK a Democratic effort to redraw the state's congressional map",
+    "link": "https://www.npr.org/2026/04/21/nx-s1-5793878/virginia-redistricting-results-trump",
+    "mean_score": 0.4733,
+    "vader_score": 0.4466,
+    "textblob_score": 0.5,
+    "first_sentence": "Virginia voters have delivered a significant win to Democrats, as the state is poised to redraw its congressional districts ahead of this year's midterm election.",
+    "timestamp": "2026-04-22T00:50:52Z",
+    "source": "NPR News"
+  },
+  {
     "headline": "Ideal conditions to see peak of Lyrid meteor shower in UK",
     "link": "https://www.bbc.com/weather/articles/cede7gpjn85o?at_medium=RSS&at_campaign=rss",
     "mean_score": 0.7133,
