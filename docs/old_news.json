@@ -1,5 +1,175 @@
 [
   {
+    "headline": "James Valentine, talented musician who elevated the art of talk on ABC Sydney radio \u2013 obituary",
+    "link": "https://www.theguardian.com/media/2026/apr/23/james-valentine-talented-musician-who-elevated-the-art-of-talk-on-abc-sydney-radio-obituary",
+    "mean_score": 0.6053,
+    "vader_score": 0.5106,
+    "textblob_score": 0.7,
+    "first_sentence": "James Valentine was a hugely popular talkback radio star on ABC Sydney, but adjectives often associated with that role did not fit him.",
+    "timestamp": "2026-04-22T22:35:27Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "James Valentine, beloved ABC talkback radio star, dies aged 64",
+    "link": "https://www.abc.net.au/news/2026-04-23/702-abc-sydney-presenter-james-valentine-dies-cancer-/106591720",
+    "mean_score": 0.4053,
+    "vader_score": 0.5106,
+    "textblob_score": 0.3,
+    "first_sentence": "Former longtime 702 ABC Sydney radio announcer James Valentine has died.",
+    "timestamp": "2026-04-22T22:18:14Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "James Valentine swapped microphones \u2014 and found a new audience who loved him",
+    "link": "https://www.abc.net.au/news/2026-04-23/james-valentine-abc-radio-obituary/106592314",
+    "mean_score": 0.5088,
+    "vader_score": 0.5994,
+    "textblob_score": 0.4182,
+    "first_sentence": "When the exhaustion of life as a travelling musician took its toll in the late 1980s, James Valentine looked for an alternative career.",
+    "timestamp": "2026-04-22T22:18:14Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Pentagon says Navy Secretary John Phelan is leaving, in latest departure of a top defense leader",
+    "link": "https://apnews.com/article/pentagon-navy-secretary-phelan-cao-3a871b87f1a31c1c7168f69e8fe4f7b5",
+    "mean_score": 0.4091,
+    "vader_score": 0.3182,
+    "textblob_score": 0.5,
+    "first_sentence": "WASHINGTON (AP) \u2014 Navy Secretary John Phelan is leaving his job, the Pentagon abruptly announced Wednesday, the first head of a military service to depart during President Donald Trump\u2019s second term but just the latest top defense leader to step down or be ousted.",
+    "timestamp": "2026-04-22T21:53:02Z",
+    "source": "AP News"
+  },
+  {
+    "headline": "Chelsea sack Rosenior as Manchester City move top of Premier League",
+    "link": "https://www.abc.net.au/news/2026-04-23/chelsea-sack-rosenior-manchester-city-go-top/106595430",
+    "mean_score": 0.3512,
+    "vader_score": 0.2023,
+    "textblob_score": 0.5,
+    "first_sentence": "Liam Rosenior has been sacked as coach of Chelsea after just 23 games in charge following a desperate run of five-straight defeats.",
+    "timestamp": "2026-04-22T21:46:09Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Democrats win in Virginia but it won\u2019t be the final say in a national redistricting competition",
+    "link": "https://apnews.com/article/redistricting-trump-congress-virginia-florida-eda7c012c3a6e57a78b6dff3b67c87c2",
+    "mean_score": 0.37,
+    "vader_score": 0.34,
+    "textblob_score": 0.4,
+    "first_sentence": "Democrats on Wednesday celebrated an election win in Virginia that could put them slightly ahead in the national redistricting competition that President Donald Trump triggered in an attempt to preserve his party\u2019s House majority in this year\u2019s midterms, but it will not be the final round.",
+    "timestamp": "2026-04-22T21:23:02Z",
+    "source": "AP News"
+  },
+  {
+    "headline": "Stump that created 'craic' in footpath becomes neighbourhood attraction",
+    "link": "https://www.abc.net.au/news/2026-04-23/stump-decorated-as-its-remains-rot-on-adelaide-street/106557174",
+    "mean_score": 0.3062,
+    "vader_score": 0.6124,
+    "textblob_score": 0.0,
+    "first_sentence": "The City of Unley council has left a tree stump and then the hole it created damaging a footpath for seven months.",
+    "timestamp": "2026-04-22T20:14:53Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Lando Norris backs Max Verstappen to stay in F1 after drivers win rule changes",
+    "link": "https://www.theguardian.com/sport/2026/apr/22/world-champion-lando-norris-max-verstappen-f1-rule-changes",
+    "mean_score": 0.6787,
+    "vader_score": 0.5574,
+    "textblob_score": 0.8,
+    "first_sentence": "Lando Norris has said he believes Max Verstappen will continue to race in Formula One but that it would be \u201ca miss\u201d for the sport if the four-time world champion did decide to leave owing to his dissatisfaction with the way this season\u2019s new regulations have affected how drivers race.",
+    "timestamp": "2026-04-22T20:07:12Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "RFK Jr. won't back CDC director on vaccines as agency scraps positive data",
+    "link": "https://arstechnica.com/health/2026/04/rfk-jr-doubles-down-on-vaccine-meddling-as-cdc-junks-scientific-study/",
+    "mean_score": 0.3355,
+    "vader_score": 0.5574,
+    "textblob_score": 0.1136,
+    "first_sentence": "Kennedy\u2019s tesimony sets up another clash over vaccines with next CDC director.",
+    "timestamp": "2026-04-22T20:06:49Z",
+    "source": "Ars Technica"
+  },
+  {
+    "headline": "Super foamy sneakers are everywhere. How do they stack up?",
+    "link": "https://www.theguardian.com/fashion/2026/apr/22/super-foamy-sneakers-everywhere-are-they-good",
+    "mean_score": 0.4664,
+    "vader_score": 0.5994,
+    "textblob_score": 0.3333,
+    "first_sentence": "Floaty foam-based footwear has been spotted on celebrities for years, from Aubrey Plaza in Hokas and Harry Styles in New Balance to Zendaya\u2019s ongoing deal with On running shoes.",
+    "timestamp": "2026-04-22T20:00:35Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Liberty jobs secure for now, but what happens when the money runs out?",
+    "link": "https://www.abc.net.au/news/2026-04-23/analysis-liberty-bell-bay-wages-rescue-package/106586958",
+    "mean_score": 0.4202,
+    "vader_score": 0.4404,
+    "textblob_score": 0.4,
+    "first_sentence": "Three extra weeks of pay were not exactly the life raft employees at Liberty Bell Bay were hoping for.",
+    "timestamp": "2026-04-22T19:38:24Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "'It's like someone waved a magic wand': Girl, 6, has sight restored by gene therapy",
+    "link": "https://www.bbc.com/news/articles/ce35x8759zzo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.5497,
+    "vader_score": 0.5994,
+    "textblob_score": 0.5,
+    "first_sentence": "The mother of a six-year-old girl who had life-changing eye gene therapy says it is \"like someone waved a magic wand and restored her sight in the dark\".",
+    "timestamp": "2026-04-22T19:31:35Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "More than a third of Australians are seeking food relief for the first time",
+    "link": "https://www.abc.net.au/news/2026-04-23/more-than-a-third-are-seeking-food-relief-for-the-first-time/106592284",
+    "mean_score": 0.3634,
+    "vader_score": 0.4767,
+    "textblob_score": 0.25,
+    "first_sentence": "Oz Harvest's annual Frontline Report surveyed about 875 food charities in every jurisdiction in Australia, except for the Northern Territory.",
+    "timestamp": "2026-04-22T18:50:48Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "The Guardian view on the Vatican v the White House: Pope Leo is carrying on Francis\u2019s good work | Editorial",
+    "link": "https://www.theguardian.com/commentisfree/2026/apr/22/the-guardian-view-on-the-vatican-vs-white-house-pope-leo-is-carrying-on-franciss-good-work",
+    "mean_score": 0.3952,
+    "vader_score": 0.4404,
+    "textblob_score": 0.35,
+    "first_sentence": "One year after the death of Pope Francis, the Vatican this week hosted the premiere of a documentary tribute by Martin Scorsese.",
+    "timestamp": "2026-04-22T17:51:33Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Your pint could come with a surprising health benefit",
+    "link": "https://www.bbc.com/news/articles/cvglqw709k1o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.6624,
+    "vader_score": 0.6249,
+    "textblob_score": 0.7,
+    "first_sentence": "Drinking the odd pint of beer can provide \"substantial levels\" of an essential brain-boosting vitamin in your diet, according to new research in a respected journal.",
+    "timestamp": "2026-04-22T17:08:36Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Towering tulips and contemplative cows \u2013 readers\u2019 best photographs",
+    "link": "https://www.theguardian.com/community/gallery/2026/apr/22/towering-tulips-and-contemplative-cows-readers-best-photographs",
+    "mean_score": 0.8185,
+    "vader_score": 0.6369,
+    "textblob_score": 1.0,
+    "first_sentence": "Click here to submit a picture for publication in these online galleries and/or on the Guardian letters page Continue reading.",
+    "timestamp": "2026-04-22T16:10:41Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "\u2018Two are stronger than one\u2019: Boston Marathon duo praised for helping struggling runner cross finish line",
+    "link": "https://www.theguardian.com/sport/2026/apr/22/boston-marathon-struggling-runner-ajay-haridasse-aaron-beggs-robson-de-oliveira",
+    "mean_score": 0.3185,
+    "vader_score": 0.6369,
+    "textblob_score": 0.0,
+    "first_sentence": "A pair of Boston Marathon runners who teamed up to help a fellow athlete across the race\u2019s finish line have been praised for their \u201cbeautiful moment\u201d of sportsmanship.",
+    "timestamp": "2026-04-22T16:07:43Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Strait of Hormuz is hosting gunboat diplomacy as US and Iran vie for most effective blockade",
     "link": "https://www.theguardian.com/world/2026/apr/22/strait-of-hormuz-gunboat-diplomacy-us-iran-blockade",
     "mean_score": 0.5378,
