@@ -1,6 +1,116 @@
 {
-  "last run": "2026-04-30T12:34:24Z",
+  "last run": "2026-05-01T00:40:05Z",
   "stories": [
+    {
+      "headline": "Martha\u2019s rule may have saved more than 500 lives in England since 2024",
+      "link": "https://www.theguardian.com/society/2026/may/01/marthas-rule-may-have-saved-more-than-500-lives-in-england-since-2024",
+      "mean_score": 0.4607,
+      "vader_score": 0.4215,
+      "textblob_score": 0.5,
+      "first_sentence": "More than 500 people have received potentially life-saving care thanks to Martha\u2019s rule, which gives hospital patients the right to seek a second opinion about their health.",
+      "timestamp": "2026-04-30T23:00:31Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "US falls below Ukraine in press freedom as global autocracy takes hold",
+      "link": "https://arstechnica.com/tech-policy/2026/04/us-falls-below-ukraine-in-press-freedom-as-global-autocracy-takes-hold/",
+      "mean_score": 0.3185,
+      "vader_score": 0.6369,
+      "textblob_score": 0.0,
+      "first_sentence": "From watching too much Nordic noir, I have learned the key lessons to Scandinavian safety: Stay out of the deep woods, avoid all \u201crustic villagers,\u201d flee every solstice or equinox ritual, and run screaming from any creature (human or otherwise) wearing antlers in the wrong anatomical location.",
+      "timestamp": "2026-04-30T21:53:48Z",
+      "source": "Ars Technica"
+    },
+    {
+      "headline": "Hazlewood smashed for 24 off one over as Indian great fires in IPL",
+      "link": "https://www.abc.net.au/news/2026-05-01/ipl-josh-hazlewood-taken-to-task-by-shubman-gill/106629070",
+      "mean_score": 0.7125,
+      "vader_score": 0.6249,
+      "textblob_score": 0.8,
+      "first_sentence": "Josh Hazlewood was smashed for 24 off one over as Shubman Gill powered Gujarat to victory in the IPL.",
+      "timestamp": "2026-04-30T21:51:16Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Giving coffee a jolt could help assess its quality",
+      "link": "https://www.npr.org/2026/04/30/nx-s1-5798780/giving-coffee-a-jolt-could-help-assess-its-quality",
+      "mean_score": 0.3125,
+      "vader_score": 0.6249,
+      "textblob_score": 0.0,
+      "first_sentence": "NPR's science podcast Short Wave looks at the secrets behind scorpions' weapons, using electricity to measure the quality of a cup of coffee, and what shapes the content of dreams.",
+      "timestamp": "2026-04-30T21:22:02Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "'Gentle parenting' under fire from this alternative school's supporters",
+      "link": "https://www.abc.net.au/news/2026-05-01/fitzroy-community-school-abuse-allegations-revealed/106524582",
+      "mean_score": 0.3633,
+      "vader_score": 0.5267,
+      "textblob_score": 0.2,
+      "first_sentence": "For 50 years, this inner-city primary school has promised a better way of teaching, built around community, firm boundaries and a personal touch.",
+      "timestamp": "2026-04-30T20:10:34Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Is the new Foo Fighters the best album of April?",
+      "link": "https://www.abc.net.au/news/2026-05-01/foo-fighters-angine-de-poitrine-nine-inch-noize-best-albums/106610746",
+      "mean_score": 0.5903,
+      "vader_score": 0.6124,
+      "textblob_score": 0.5682,
+      "first_sentence": "Yes, Dave Grohl and his rocking band of Australia-bound merry men, the Foo Fighters, have a new album out.",
+      "timestamp": "2026-04-30T20:00:00Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Blue Origin certainly has ambitious launch targets for New Glenn",
+      "link": "https://arstechnica.com/space/2026/04/blue-origin-certainly-has-ambitious-launch-targets-for-new-glenn/",
+      "mean_score": 0.4103,
+      "vader_score": 0.6705,
+      "textblob_score": 0.1502,
+      "first_sentence": "If Blue Origin wants to launch New Glenn 100 times a year, we\u2019re here for it.",
+      "timestamp": "2026-04-30T19:12:26Z",
+      "source": "Ars Technica"
+    },
+    {
+      "headline": "In real-world test, an AI model did better than ER doctors at diagnosing patients",
+      "link": "https://www.npr.org/2026/04/30/nx-s1-5804474/ai-doctors-openai-patient-care-diagnosis",
+      "mean_score": 0.4702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.5,
+      "first_sentence": "A patient shows up at the hospital with a pulmonary embolism \u2014 a blood clot that has traveled to the lungs.",
+      "timestamp": "2026-04-30T18:00:35Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "If you\u2019re a fan of laughing, you should invest in Australian comedy \u2013 take my (and Nick Offerman\u2019s) word for it | Rebecca Shaw",
+      "link": "https://www.theguardian.com/commentisfree/2026/apr/30/rebecca-shaw-australian-tv-comedy",
+      "mean_score": 0.3953,
+      "vader_score": 0.7906,
+      "textblob_score": 0.0,
+      "first_sentence": "Last week, Parks and Recreation star, and most importantly Megan Mullally\u2019s husband, Nick Offerman, was asked on Amy Poehler\u2019s podcast what he\u2019s been laughing at recently.",
+      "timestamp": "2026-04-30T15:00:23Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Has Gina Rinehart \u2018bought\u2019 One Nation? Pauline Hanson has the billionaire\u2019s backing \u2013 and she\u2019s super happy",
+      "link": "https://www.theguardian.com/australia-news/ng-interactive/2026/apr/30/gina-rinehart-one-nation-pauline-hanson-donations-ntwnfb",
+      "mean_score": 0.6969,
+      "vader_score": 0.8271,
+      "textblob_score": 0.5667,
+      "first_sentence": "From luxury flights and Kidman-branded country attire to a steak dinner and meat pies, the rapidly expanding party is reaping the bounty of Australia\u2019s richest person.",
+      "timestamp": "2026-04-30T15:00:20Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Why we care so much about preserving family recipes",
+      "link": "https://www.theguardian.com/food/2026/apr/29/why-do-we-care-so-much-about-preserving-family-recipes",
+      "mean_score": 0.3469,
+      "vader_score": 0.4939,
+      "textblob_score": 0.2,
+      "first_sentence": "\u201cChicken, leek, flour, a few more ingredients.\u201d That was it: my grandma\u2019s WhatsApp response to me earnestly asking if she\u2019d mind sharing her time-honoured chicken pie recipe.",
+      "timestamp": "2026-04-30T12:15:17Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Sexy vibes to vampire doctors! All the wildest fan theories about The Pitt",
       "link": "https://www.theguardian.com/tv-and-radio/2026/apr/30/the-pitt-hbo-max-wildest-fan-theories-vampire-doctors-ghosts",
@@ -2390,116 +2500,6 @@
       "first_sentence": "A pair of Boston Marathon runners who teamed up to help a fellow athlete across the race\u2019s finish line have been praised for their \u201cbeautiful moment\u201d of sportsmanship.",
       "timestamp": "2026-04-22T16:07:43Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "Strait of Hormuz is hosting gunboat diplomacy as US and Iran vie for most effective blockade",
-      "link": "https://www.theguardian.com/world/2026/apr/22/strait-of-hormuz-gunboat-diplomacy-us-iran-blockade",
-      "mean_score": 0.5378,
-      "vader_score": 0.5256,
-      "textblob_score": 0.55,
-      "first_sentence": "Donald Trump\u2019s indefinite shelving of the plan to bomb Iran\u2019s bridges and power stations on Tuesday night is being widely described as leaving the conflict in limbo, but that is anything but the truth.",
-      "timestamp": "2026-04-22T15:48:13Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "People once cited romcoms to describe the love they hoped for. Now the doomscroll has replaced the meet-cute | Lisa Portolan",
-      "link": "https://www.theguardian.com/commentisfree/2026/apr/23/relationships-finding-love-doomscrolling-replaced-romcoms",
-      "mean_score": 0.6391,
-      "vader_score": 0.7783,
-      "textblob_score": 0.5,
-      "first_sentence": "When I first researched dating apps and intimacy almost a decade ago, participants would regularly reach for romantic comedies to describe the kind of love they were hoping for.",
-      "timestamp": "2026-04-22T15:00:31Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Going bald? There\u2019s a subreddit for that \u2013 and it\u2019s weirdly wonderful",
-      "link": "https://www.theguardian.com/wellness/2026/apr/22/reddit-bald-community",
-      "mean_score": 0.6806,
-      "vader_score": 0.3612,
-      "textblob_score": 1.0,
-      "first_sentence": "I was sitting in a cafe a few weeks ago when I overheard a rare bit of sunny talk about advances in medicine and technology when a woman said: \u201cNobody will be bald in the future.\u201d The way she said it made me think of people in the 1950s imagining the 21st century as a world with flying cars, sassy robot maids and no wars; a world where everybody has hair on their heads is possible.",
-      "timestamp": "2026-04-22T14:00:26Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Emma the joke-telling robot cracks up the care home: Paula Hornickel\u2019s best photograph",
-      "link": "https://www.theguardian.com/artanddesign/2026/apr/22/emma-robot-care-home-paula-hornickel-best-photograph",
-      "mean_score": 0.9063,
-      "vader_score": 0.8126,
-      "textblob_score": 1.0,
-      "first_sentence": "One morning in July 2025, I arrived in the small, quiet town of Albershausen in south-west Germany.",
-      "timestamp": "2026-04-22T13:49:48Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "As EV batteries improve, ChargePoint debuts 600 kW fast charger",
-      "link": "https://arstechnica.com/cars/2026/04/as-ev-batteries-improve-chargepoint-debuts-600-kw-fast-charger/",
-      "mean_score": 0.3202,
-      "vader_score": 0.4404,
-      "textblob_score": 0.2,
-      "first_sentence": "The new design is cheaper and will even fit in convenience store parking lots.",
-      "timestamp": "2026-04-22T13:49:09Z",
-      "source": "Ars Technica"
-    },
-    {
-      "headline": "Greetings from an Islamabad park, a peaceful vantage point in an uncertain world",
-      "link": "https://www.npr.org/2026/04/22/g-s1-117423/pakistan-islamabad-park",
-      "mean_score": 0.4179,
-      "vader_score": 0.5859,
-      "textblob_score": 0.25,
-      "first_sentence": "Far-Flung Postcards is a weekly series in which NPR's international team shares moments from their lives and work around the world.",
-      "timestamp": "2026-04-22T13:46:42Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "'My choir used my whale sound recordings to make a song celebrating the ocean'",
-      "link": "https://www.bbc.com/news/articles/ce9me55xe0xo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4859,
-      "vader_score": 0.5719,
-      "textblob_score": 0.4,
-      "first_sentence": "A choir has turned recordings of whale sounds from one of their members into a song celebrating the ocean.",
-      "timestamp": "2026-04-22T13:21:50Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Bike shop rescues The 1975 bassist's charity ride",
-      "link": "https://www.bbc.com/news/articles/cgqkdd9g9ddo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3125,
-      "vader_score": 0.6249,
-      "textblob_score": 0.0,
-      "first_sentence": "A bike shop unknowingly came to the rescue of the bassist from The 1975 during a charity cycle.",
-      "timestamp": "2026-04-22T12:21:03Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Researchers have spent decades breeding better potatoes for chips, and their work isn\u2019t done",
-      "link": "https://apnews.com/article/potato-chips-michigan-varieties-breeding-114043b882cf51d056254ddae29944c2",
-      "mean_score": 0.3202,
-      "vader_score": 0.4404,
-      "textblob_score": 0.2,
-      "first_sentence": "EAST LANSING, Mich.",
-      "timestamp": "2026-04-22T11:53:01Z",
-      "source": "AP News"
-    },
-    {
-      "headline": "England's adaptive cheerleading champions chasing gold in Florida",
-      "link": "https://www.bbc.com/news/articles/cx29zx8nrz2o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3404,
-      "vader_score": 0.6808,
-      "textblob_score": 0.0,
-      "first_sentence": "Every year, teams from across the globe head to Florida to compete in the ICU World Cheerleading Championships.",
-      "timestamp": "2026-04-22T11:16:07Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Our favorite gear at Sea Otter Classic wasn't the bikes\u2014it was the accessories",
-      "link": "https://arstechnica.com/cars/2026/04/our-favorite-gear-at-sea-otter-classic-wasnt-the-bikes-it-was-the-accessories/",
-      "mean_score": 0.3961,
-      "vader_score": 0.4588,
-      "textblob_score": 0.3333,
-      "first_sentence": "A Bluetooth suction-cup rack and a palm-sized tow rope were among our most practical finds.",
-      "timestamp": "2026-04-22T11:15:49Z",
-      "source": "Ars Technica"
     }
   ]
 }

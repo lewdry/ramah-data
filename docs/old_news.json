@@ -1,5 +1,115 @@
 [
   {
+    "headline": "Strait of Hormuz is hosting gunboat diplomacy as US and Iran vie for most effective blockade",
+    "link": "https://www.theguardian.com/world/2026/apr/22/strait-of-hormuz-gunboat-diplomacy-us-iran-blockade",
+    "mean_score": 0.5378,
+    "vader_score": 0.5256,
+    "textblob_score": 0.55,
+    "first_sentence": "Donald Trump\u2019s indefinite shelving of the plan to bomb Iran\u2019s bridges and power stations on Tuesday night is being widely described as leaving the conflict in limbo, but that is anything but the truth.",
+    "timestamp": "2026-04-22T15:48:13Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "People once cited romcoms to describe the love they hoped for. Now the doomscroll has replaced the meet-cute | Lisa Portolan",
+    "link": "https://www.theguardian.com/commentisfree/2026/apr/23/relationships-finding-love-doomscrolling-replaced-romcoms",
+    "mean_score": 0.6391,
+    "vader_score": 0.7783,
+    "textblob_score": 0.5,
+    "first_sentence": "When I first researched dating apps and intimacy almost a decade ago, participants would regularly reach for romantic comedies to describe the kind of love they were hoping for.",
+    "timestamp": "2026-04-22T15:00:31Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Going bald? There\u2019s a subreddit for that \u2013 and it\u2019s weirdly wonderful",
+    "link": "https://www.theguardian.com/wellness/2026/apr/22/reddit-bald-community",
+    "mean_score": 0.6806,
+    "vader_score": 0.3612,
+    "textblob_score": 1.0,
+    "first_sentence": "I was sitting in a cafe a few weeks ago when I overheard a rare bit of sunny talk about advances in medicine and technology when a woman said: \u201cNobody will be bald in the future.\u201d The way she said it made me think of people in the 1950s imagining the 21st century as a world with flying cars, sassy robot maids and no wars; a world where everybody has hair on their heads is possible.",
+    "timestamp": "2026-04-22T14:00:26Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Emma the joke-telling robot cracks up the care home: Paula Hornickel\u2019s best photograph",
+    "link": "https://www.theguardian.com/artanddesign/2026/apr/22/emma-robot-care-home-paula-hornickel-best-photograph",
+    "mean_score": 0.9063,
+    "vader_score": 0.8126,
+    "textblob_score": 1.0,
+    "first_sentence": "One morning in July 2025, I arrived in the small, quiet town of Albershausen in south-west Germany.",
+    "timestamp": "2026-04-22T13:49:48Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "As EV batteries improve, ChargePoint debuts 600 kW fast charger",
+    "link": "https://arstechnica.com/cars/2026/04/as-ev-batteries-improve-chargepoint-debuts-600-kw-fast-charger/",
+    "mean_score": 0.3202,
+    "vader_score": 0.4404,
+    "textblob_score": 0.2,
+    "first_sentence": "The new design is cheaper and will even fit in convenience store parking lots.",
+    "timestamp": "2026-04-22T13:49:09Z",
+    "source": "Ars Technica"
+  },
+  {
+    "headline": "Greetings from an Islamabad park, a peaceful vantage point in an uncertain world",
+    "link": "https://www.npr.org/2026/04/22/g-s1-117423/pakistan-islamabad-park",
+    "mean_score": 0.4179,
+    "vader_score": 0.5859,
+    "textblob_score": 0.25,
+    "first_sentence": "Far-Flung Postcards is a weekly series in which NPR's international team shares moments from their lives and work around the world.",
+    "timestamp": "2026-04-22T13:46:42Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "'My choir used my whale sound recordings to make a song celebrating the ocean'",
+    "link": "https://www.bbc.com/news/articles/ce9me55xe0xo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4859,
+    "vader_score": 0.5719,
+    "textblob_score": 0.4,
+    "first_sentence": "A choir has turned recordings of whale sounds from one of their members into a song celebrating the ocean.",
+    "timestamp": "2026-04-22T13:21:50Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Bike shop rescues The 1975 bassist's charity ride",
+    "link": "https://www.bbc.com/news/articles/cgqkdd9g9ddo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3125,
+    "vader_score": 0.6249,
+    "textblob_score": 0.0,
+    "first_sentence": "A bike shop unknowingly came to the rescue of the bassist from The 1975 during a charity cycle.",
+    "timestamp": "2026-04-22T12:21:03Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Researchers have spent decades breeding better potatoes for chips, and their work isn\u2019t done",
+    "link": "https://apnews.com/article/potato-chips-michigan-varieties-breeding-114043b882cf51d056254ddae29944c2",
+    "mean_score": 0.3202,
+    "vader_score": 0.4404,
+    "textblob_score": 0.2,
+    "first_sentence": "EAST LANSING, Mich.",
+    "timestamp": "2026-04-22T11:53:01Z",
+    "source": "AP News"
+  },
+  {
+    "headline": "England's adaptive cheerleading champions chasing gold in Florida",
+    "link": "https://www.bbc.com/news/articles/cx29zx8nrz2o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3404,
+    "vader_score": 0.6808,
+    "textblob_score": 0.0,
+    "first_sentence": "Every year, teams from across the globe head to Florida to compete in the ICU World Cheerleading Championships.",
+    "timestamp": "2026-04-22T11:16:07Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Our favorite gear at Sea Otter Classic wasn't the bikes\u2014it was the accessories",
+    "link": "https://arstechnica.com/cars/2026/04/our-favorite-gear-at-sea-otter-classic-wasnt-the-bikes-it-was-the-accessories/",
+    "mean_score": 0.3961,
+    "vader_score": 0.4588,
+    "textblob_score": 0.3333,
+    "first_sentence": "A Bluetooth suction-cup rack and a palm-sized tow rope were among our most practical finds.",
+    "timestamp": "2026-04-22T11:15:49Z",
+    "source": "Ars Technica"
+  },
+  {
     "headline": "This Is a Gardening Show review \u2013 Zach Galifianakis\u2019 charming new series feels like perfect TV",
     "link": "https://www.theguardian.com/tv-and-radio/2026/apr/22/this-is-a-gardening-show-review-zach-galifianakis-netflix",
     "mean_score": 0.7436,
