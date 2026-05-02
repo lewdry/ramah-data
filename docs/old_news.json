@@ -1,5 +1,55 @@
 [
   {
+    "headline": "The Welsh church claimed by spiders and ivy: what do Britain\u2019s derelict churches say about our health and happiness?",
+    "link": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/apr/23/the-welsh-church-claimed-by-spiders-and-ivy-what-do-britains-derelict-churches-say-about-our-health-and-happiness",
+    "mean_score": 0.6287,
+    "vader_score": 0.5574,
+    "textblob_score": 0.7,
+    "first_sentence": "Half of the most important buildings in the UK are churches and, even when congregations fall away, they are vital community hubs.",
+    "timestamp": "2026-04-23T09:00:07Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Bonobos enjoy pretend tea parties and chimps think rationally: why apes are more like us than we ever thought",
+    "link": "https://www.theguardian.com/environment/2026/apr/23/apes-behaviour-bonobo-chimpanzee-humans-science-aoe",
+    "mean_score": 0.6285,
+    "vader_score": 0.807,
+    "textblob_score": 0.45,
+    "first_sentence": "Clear plastic cups and pitchers adorned the wooden table in Des Moines, Iowa.",
+    "timestamp": "2026-04-23T09:00:06Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Democrats dominate midterm fundraising, but Republicans have a huge cash advantage",
+    "link": "https://www.npr.org/2026/04/23/nx-s1-5795841/democrats-senate-fundraising-republican-maga-cash-on-hand-campaign-finance",
+    "mean_score": 0.5185,
+    "vader_score": 0.6369,
+    "textblob_score": 0.4,
+    "first_sentence": "In their quest to regain control of both chambers of Congress, Democratic candidates are outraising Republicans in key contests that will decide the House and Senate majorities even as the national party faces record low approval ratings from voters.",
+    "timestamp": "2026-04-23T09:00:00Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "Documents reveal fresh details about Roberts-Smith\u2019s overseas moving plans",
+    "link": "https://www.abc.net.au/news/2026-04-23/nsw-ben-roberts-smith-overseas-move-fears/106598776",
+    "mean_score": 0.3091,
+    "vader_score": 0.3182,
+    "textblob_score": 0.3,
+    "first_sentence": "Ben Roberts-Smith was set to fly overseas just four days after he was arrested at Sydney Airport over war crime allegations.",
+    "timestamp": "2026-04-23T08:27:57Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Sheraz was treated like an 'infidel' in Afghanistan, now he's being honoured",
+    "link": "https://www.abc.net.au/news/2026-04-23/sheraz-ahmadi-afghan-translator-australia-troops-anzac-day/106585112",
+    "mean_score": 0.3454,
+    "vader_score": 0.6908,
+    "textblob_score": 0.0,
+    "first_sentence": "In the quiet moments, the memories of Afghanistan come flooding back to Melbourne roof plumber Sheraz Ahmadi.",
+    "timestamp": "2026-04-23T06:00:55Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "The Asset Class by Hettie O\u2019Brien review \u2013 the hidden hand of private equity",
     "link": "https://www.theguardian.com/books/2026/apr/23/the-asset-class-by-hettie-obrien-review-private-equity-is-coming-for-us-all",
     "mean_score": 0.3037,
