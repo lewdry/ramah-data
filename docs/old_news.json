@@ -1,5 +1,105 @@
 [
   {
+    "headline": "The Asset Class by Hettie O\u2019Brien review \u2013 the hidden hand of private equity",
+    "link": "https://www.theguardian.com/books/2026/apr/23/the-asset-class-by-hettie-obrien-review-private-equity-is-coming-for-us-all",
+    "mean_score": 0.3037,
+    "vader_score": 0.6908,
+    "textblob_score": -0.0833,
+    "first_sentence": "This is a dark tale.",
+    "timestamp": "2026-04-23T06:00:47Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Shakespeare play becomes queer Brummie love story",
+    "link": "https://www.bbc.com/news/articles/cj3745y2em0o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.6325,
+    "vader_score": 0.765,
+    "textblob_score": 0.5,
+    "first_sentence": "Changing the gender of characters in a new production of one of Shakespeare's most famous plays is \"a massive celebration of fluidity\", a theatre's artistic director has said.",
+    "timestamp": "2026-04-23T05:16:08Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "'Be honest with people': Politicians across the country react to NDIS cuts",
+    "link": "https://www.abc.net.au/news/2026-04-23/australian-states-territories-react-to-federal-ndis-reforms/106596444",
+    "mean_score": 0.4366,
+    "vader_score": 0.2732,
+    "textblob_score": 0.6,
+    "first_sentence": "At least 160,000 people will be removed from the National Disability Insurance Scheme as part of cost-saving measures to the program.",
+    "timestamp": "2026-04-23T04:34:49Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "How to find a career you love \u2013 for gen Z and everyone else: \u2018You don\u2019t want your life\u2019s compass to be dread\u2019",
+    "link": "https://www.theguardian.com/us-news/2026/apr/23/jodi-kantor-interview-how-to-start-gen-z-careers-jobs",
+    "mean_score": 0.5853,
+    "vader_score": 0.6705,
+    "textblob_score": 0.5,
+    "first_sentence": "In her new book, New York Times investigative journalist Jodi Kantor has set her mind to helping young people find their life\u2019s work.",
+    "timestamp": "2026-04-23T04:00:45Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Muons, massive waves and restored sight: the winners at the \u2018Oscars of science\u2019 \u2013 podcast",
+    "link": "https://www.theguardian.com/science/audio/2026/apr/23/muons-massive-waves-and-restored-sight-the-winners-at-the-oscars-of-science-podcast",
+    "mean_score": 0.3352,
+    "vader_score": 0.6705,
+    "textblob_score": 0.0,
+    "first_sentence": "Madeleine Finlay sits down with science editor Ian Sample to hear about some of the winners of the Breakthrough Prize, which held its ceremony in LA last weekend.",
+    "timestamp": "2026-04-23T04:00:45Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Farmers say an easy solution to the mouse plague has been rejected",
+    "link": "https://www.abc.net.au/news/2026-04-23/mouse-bait-debate-pits-csiro-bait-research-against-authority/106594084",
+    "mean_score": 0.3298,
+    "vader_score": 0.2263,
+    "textblob_score": 0.4333,
+    "first_sentence": "Farmers and industry groups battling record mice numbers are calling for an emergency permit to be approved to allow mouse bait to be made with double the standard rate of poison.",
+    "timestamp": "2026-04-23T00:16:21Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "US Navy chief leaving post 'effective immediately', Pentagon says",
+    "link": "https://www.bbc.com/news/articles/ce9ml02g5k7o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.5383,
+    "vader_score": 0.4767,
+    "textblob_score": 0.6,
+    "first_sentence": "US Navy Secretary John Phelan is leaving the Trump administration, the Pentagon announced on Wednesday.",
+    "timestamp": "2026-04-22T23:59:32Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Pentagon says Navy secretary is leaving, the latest departure of a top defense leader",
+    "link": "https://www.npr.org/2026/04/22/g-s1-118406/navy-secretary-john-phelan-leaving-undersecretary-hung-cao",
+    "mean_score": 0.4091,
+    "vader_score": 0.3182,
+    "textblob_score": 0.5,
+    "first_sentence": "WASHINGTON \u2014 Navy Secretary John Phelan is leaving his job, the Pentagon abruptly announced Wednesday, the first head of a military service to depart during President Trump's second term but just the latest top defense leader to step down or be ousted.",
+    "timestamp": "2026-04-22T23:30:41Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "Pentagon says navy secretary is leaving, marking another top leader\u2019s departure",
+    "link": "https://www.theguardian.com/us-news/2026/apr/22/navy-secretary-john-phelan-leaving-post",
+    "mean_score": 0.3512,
+    "vader_score": 0.2023,
+    "textblob_score": 0.5,
+    "first_sentence": "The Pentagon announced on Wednesday that the navy\u2019s top civilian official, John Phelan, the secretary of the navy, is leaving his job.",
+    "timestamp": "2026-04-22T23:27:50Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "How a pivot to hair accessories led to business success",
+    "link": "https://www.bbc.com/news/articles/c23992zv9rko?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4359,
+    "vader_score": 0.5719,
+    "textblob_score": 0.3,
+    "first_sentence": "\"I tell people, 'I make food-themed accessories' and boom \u2013 they get it,\" says Jenny Lennick.",
+    "timestamp": "2026-04-22T23:04:39Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "James Valentine, talented musician who elevated the art of talk on ABC Sydney radio \u2013 obituary",
     "link": "https://www.theguardian.com/media/2026/apr/23/james-valentine-talented-musician-who-elevated-the-art-of-talk-on-abc-sydney-radio-obituary",
     "mean_score": 0.6053,
