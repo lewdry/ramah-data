@@ -113075,3 +113075,63 @@
 2026-05-02 12:20:20,888 - INFO - Saved 250 stories to docs/good_news.json.
 2026-05-02 12:20:20,965 - INFO - Archived 5 new stories to docs/old_news.json.
 2026-05-02 12:20:20,974 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 814 processed, 22 accepted | Cache: 15 hits, 7 misses | Duration: 9.15s
+2026-05-03 00:37:05,470 - INFO - Starting Ramah News Fetcher
+2026-05-03 00:37:05,486 - INFO - Checking feed: http://feeds.bbci.co.uk/news/rss.xml
+2026-05-03 00:37:05,824 - INFO - Checking feed: http://feeds.bbci.co.uk/news/world/rss.xml
+2026-05-03 00:37:05,987 - INFO - Checking feed: http://feeds.bbci.co.uk/news/uk/rss.xml
+2026-05-03 00:37:06,252 - INFO - Checking feed: http://feeds.bbci.co.uk/news/business/rss.xml
+2026-05-03 00:37:06,325 - INFO - Found good news: How a pivot to hair accessories led to business success (Mean Score: 0.4359, VADER: 0.5719, TextBlob: 0.3000)
+2026-05-03 00:37:06,326 - INFO - Found good news: Scammers are becoming ever more sophisticated - this is what the fightback looks like (Mean Score: 0.6167, VADER: 0.7501, TextBlob: 0.4833)
+2026-05-03 00:37:06,328 - INFO - Checking feed: http://feeds.bbci.co.uk/news/technology/rss.xml
+2026-05-03 00:37:06,389 - INFO - Checking feed: http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+2026-05-03 00:37:06,566 - INFO - Found good news: Artemis II crew: 'We left as friends - we came back as best friends' (Mean Score: 0.6097, VADER: 0.8860, TextBlob: 0.3333)
+2026-05-03 00:37:06,573 - INFO - Found good news: Why cheap power could matter more than clean power in the push for net zero (Mean Score: 0.3947, VADER: 0.4728, TextBlob: 0.3167)
+2026-05-03 00:37:06,574 - INFO - Checking feed: http://feeds.bbci.co.uk/news/health/rss.xml
+2026-05-03 00:37:06,741 - INFO - Found good news: Your pint could come with a surprising health benefit (Mean Score: 0.6624, VADER: 0.6249, TextBlob: 0.7000)
+2026-05-03 00:37:06,746 - INFO - Found good news: Vaccines a huge success, but public trust must be earned - key findings from Covid report (Mean Score: 0.4951, VADER: 0.8151, TextBlob: 0.1750)
+2026-05-03 00:37:06,747 - INFO - Found good news: Doctors' strikes can have surprising benefits - but are they sustainable? (Mean Score: 0.4265, VADER: 0.1531, TextBlob: 0.7000)
+2026-05-03 00:37:06,751 - INFO - Checking feed: http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+2026-05-03 00:37:06,815 - INFO - Checking feed: https://www.abc.net.au/news/feed/45910/rss.xml
+2026-05-03 00:37:07,098 - INFO - Found good news: 'Can't my last days be happy?' How James Valentine faced the end (Mean Score: 0.4859, VADER: 0.5719, TextBlob: 0.4000)
+2026-05-03 00:37:07,648 - INFO - Found good news: Liberals focus on 'lessons' for Victorian election after decisive Nepean win (Mean Score: 0.7454, VADER: 0.6908, TextBlob: 0.8000)
+2026-05-03 00:37:07,988 - INFO - Found good news: A 17-year-old Go-Betweens song inspired Robert Forster's debut novel (Mean Score: 0.3352, VADER: 0.6705, TextBlob: 0.0000)
+2026-05-03 00:37:08,551 - INFO - Checking feed: https://www.abc.net.au/news/feed/51120/rss.xml
+2026-05-03 00:37:08,619 - INFO - Found good news: Strong lead for Jo Palmer, close race in Huon in Upper House elections (Mean Score: 0.3636, VADER: 0.5106, TextBlob: 0.2167)
+2026-05-03 00:37:09,188 - INFO - Checking feed: https://www.theguardian.com/world/rss
+2026-05-03 00:37:09,410 - INFO - Found good news: Top Republicans express concern over withdrawal of US troops from Germany – as it happened (Mean Score: 0.3631, VADER: 0.2263, TextBlob: 0.5000)
+2026-05-03 00:37:09,768 - INFO - Checking feed: https://www.theguardian.com/au/rss
+2026-05-03 00:37:10,108 - INFO - Found good news: ‘The happiest time of life is as you get older’: can positive thinking help you age better? (Mean Score: 0.6113, VADER: 0.9246, TextBlob: 0.2980)
+2026-05-03 00:37:10,389 - INFO - Found good news: Sydney is awash with shared ebikes. Is Australia finally falling in love with Lime? (Mean Score: 0.4842, VADER: 0.7184, TextBlob: 0.2500)
+2026-05-03 00:37:10,561 - INFO - Found good news: The Coalition is nailing its own coffin shut in Farrer. It should have had the courage to put One Nation last (Mean Score: 0.3970, VADER: 0.4939, TextBlob: 0.3000)
+2026-05-03 00:37:10,786 - INFO - Checking feed: https://www.theguardian.com/environment/rss
+2026-05-03 00:37:11,079 - INFO - Checking feed: https://www.theguardian.com/science/rss
+2026-05-03 00:37:11,232 - INFO - Found good news: Muons, massive waves and restored sight: the winners at the ‘Oscars of science’ – podcast (Mean Score: 0.3352, VADER: 0.6705, TextBlob: 0.0000)
+2026-05-03 00:37:11,234 - INFO - Found good news: Did you solve it? Are you smarter than a Navy admiral? (Mean Score: 0.3775, VADER: 0.7550, TextBlob: 0.0000)
+2026-05-03 00:37:11,235 - INFO - Found good news: Can you solve it? Are you smarter than a Navy admiral? (Mean Score: 0.3775, VADER: 0.7550, TextBlob: 0.0000)
+2026-05-03 00:37:11,236 - INFO - Found good news: Artemis II crew on inspiring the next generation and unifying humanity – video (Mean Score: 0.3357, VADER: 0.4215, TextBlob: 0.2500)
+2026-05-03 00:37:11,481 - INFO - Checking feed: https://www.theguardian.com/uk/technology/rss
+2026-05-03 00:37:11,667 - INFO - Found good news: Sonos Play review: a great jack-of-all-trades portable speaker for home or away (Mean Score: 0.7790, VADER: 0.7579, TextBlob: 0.8000)
+2026-05-03 00:37:11,667 - INFO - Found good news: MacBook Air M5 review: Apple’s best consumer laptop speeds up (Mean Score: 0.8185, VADER: 0.6369, TextBlob: 1.0000)
+2026-05-03 00:37:11,669 - INFO - Checking feed: https://www.theguardian.com/lifeandstyle/rss
+2026-05-03 00:37:12,040 - INFO - Found good news: Going bald? There’s a subreddit for that – and it’s weirdly wonderful (Mean Score: 0.6806, VADER: 0.3612, TextBlob: 1.0000)
+2026-05-03 00:37:12,049 - INFO - Found good news: Good Friday around the world – in pictures (Mean Score: 0.5702, VADER: 0.4404, TextBlob: 0.7000)
+2026-05-03 00:37:12,260 - INFO - Checking feed: https://www.sbs.com.au/news/feed
+2026-05-03 00:37:12,730 - INFO - Found good news: NATO, top Republicans question move as US announces troop withdrawal from Germany (Mean Score: 0.3631, VADER: 0.2263, TextBlob: 0.5000)
+2026-05-03 00:37:12,823 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/index
+2026-05-03 00:37:12,942 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/science
+2026-05-03 00:37:13,111 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/tech-policy
+2026-05-03 00:37:13,297 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/gaming
+2026-05-03 00:37:13,383 - INFO - Found good news: Retro Rewind re-creates the glorious drudgery of working a '90s video store (Mean Score: 0.3185, VADER: 0.6369, TextBlob: 0.0000)
+2026-05-03 00:37:13,385 - INFO - Found good news: Playing Wolfenstein 3D with one hand in 2026 (Mean Score: 0.3062, VADER: 0.6124, TextBlob: 0.0000)
+2026-05-03 00:37:13,386 - INFO - Checking feed: https://feedx.net/rss/ap.xml
+2026-05-03 00:37:13,644 - INFO - Checking feed: https://feeds.npr.org/1001/rss.xml
+2026-05-03 00:37:13,950 - INFO - Found good news: Golden Tempo takes the Kentucky Derby as Cherie DeVaux becomes the 1st woman to train its winner (Mean Score: 0.4429, VADER: 0.5859, TextBlob: 0.3000)
+2026-05-03 00:37:15,071 - INFO - Checking feed: https://feeds.npr.org/1004/rss.xml
+2026-05-03 00:37:15,117 - INFO - Checking feed: https://feeds.npr.org/1014/rss.xml
+2026-05-03 00:37:15,165 - INFO - Checking feed: https://feeds.npr.org/1019/rss.xml
+2026-05-03 00:37:15,216 - INFO - Checking feed: https://feeds.npr.org/1017/rss.xml
+2026-05-03 00:37:15,269 - INFO - Checking feed: https://feeds.npr.org/1007/rss.xml
+2026-05-03 00:37:15,332 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
+2026-05-03 00:37:15,392 - INFO - Saved 250 stories to docs/good_news.json.
+2026-05-03 00:37:15,477 - INFO - Archived 10 new stories to docs/old_news.json.
+2026-05-03 00:37:15,487 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 829 processed, 27 accepted | Cache: 15 hits, 12 misses | Duration: 10.01s
