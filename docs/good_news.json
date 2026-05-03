@@ -1,6 +1,116 @@
 {
-  "last run": "2026-05-03T00:37:15Z",
+  "last run": "2026-05-03T12:19:02Z",
   "stories": [
+    {
+      "headline": "SNP's free childcare plans branded a 'gimmick' in education debate",
+      "link": "https://www.bbc.com/news/articles/cz02r3e3v5do?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4553,
+      "vader_score": 0.5106,
+      "textblob_score": 0.4,
+      "first_sentence": "The SNP's plans to expand free childcare have been criticised by Scottish Labour and the Scottish Conservatives as a \"gimmick\" and lacking in detail.",
+      "timestamp": "2026-05-03T12:11:16Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Hibernian v Celtic, Manchester United v Liverpool build-up and more \u2013 football live",
+      "link": "https://www.theguardian.com/football/live/2026/may/03/premier-league-latest-scottish-title-race-heating-up-and-more-football-live",
+      "mean_score": 0.3698,
+      "vader_score": 0.4215,
+      "textblob_score": 0.3182,
+      "first_sentence": "Hibernian 1-1 Celtic: Celtic swing in a corner but it\u2019s only cleared as far as Callum McGregor.",
+      "timestamp": "2026-05-03T12:10:15Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "How to make the perfect Spanish broad bean stew \u2013 recipe | Felicity Cloake's How to make the perfect \u2026",
+      "link": "https://www.theguardian.com/food/2026/may/03/perfect-spanish-broad-bean-stew-recipe-felicity-cloake",
+      "mean_score": 0.6641,
+      "vader_score": 0.8126,
+      "textblob_score": 0.5156,
+      "first_sentence": "The Guardian\u2019s journalism is independent.",
+      "timestamp": "2026-05-03T12:00:01Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Belfast Marathon champ wins race by a second",
+      "link": "https://www.bbc.com/news/articles/cn8pg5zvxd8o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4642,
+      "vader_score": 0.7783,
+      "textblob_score": 0.15,
+      "first_sentence": "There was a nail-biting sprint finish to the 2026 Belfast City Marathon, with the winner pipping his nearest rival to the post by one second.",
+      "timestamp": "2026-05-03T11:33:39Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "\u2018Our rivalry with Take That was always tongue in cheek\u2019: Tony Mortimer\u2019s honest playlist",
+      "link": "https://www.theguardian.com/music/2026/may/03/honest-playlist-tony-mortimer-east-17-madness-take-that-adele",
+      "mean_score": 0.5553,
+      "vader_score": 0.5106,
+      "textblob_score": 0.6,
+      "first_sentence": "The East 17 man knows his 90s bangers but once inadvertently cleared a dancefloor.",
+      "timestamp": "2026-05-03T08:00:48Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Huge crowd attends free Shakira Copacabana beach concert",
+      "link": "https://www.bbc.com/news/videos/c8r8j50zxnno?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5404,
+      "vader_score": 0.6808,
+      "textblob_score": 0.4,
+      "first_sentence": "Shakira performed her greatest hits to a vast crowd at a free concert on Copacabana beach in Rio de Janeiro on Saturday night.",
+      "timestamp": "2026-05-03T07:56:47Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Sister of deceased rock climber Angela Ha says the best way to honour her is to 'live life to the fullest'",
+      "link": "https://www.abc.net.au/news/2026-05-03/angela-ha-rock-climber-fall-arapiles-organ-pipes/106636386",
+      "mean_score": 0.7258,
+      "vader_score": 0.8834,
+      "textblob_score": 0.5682,
+      "first_sentence": "The rock climber who died in hospital after a fall at Arapiles in western Victoria last Monday has been identified.",
+      "timestamp": "2026-05-03T07:35:46Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Stopping to admire wisteria and taking pride in your laundry? Join me in the land of grownups | Polly Hudson",
+      "link": "https://www.theguardian.com/commentisfree/2026/may/03/stopping-to-admire-wisteria-and-taking-pride-in-your-laundry-join-me-in-the-land-of-grownups",
+      "mean_score": 0.3634,
+      "vader_score": 0.7269,
+      "textblob_score": 0.0,
+      "first_sentence": "I nearly drove into a wall the other day, because I couldn\u2019t take my eyes off some spectacular wisteria.",
+      "timestamp": "2026-05-03T06:48:50Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018We\u2019re hot\u2019: three Australian records set on stunning day at World Athletics Relays",
+      "link": "https://www.theguardian.com/sport/2026/may/03/australian-records-set-at-world-athletics-relays-lachie-kennedy",
+      "mean_score": 0.3159,
+      "vader_score": 0.3818,
+      "textblob_score": 0.25,
+      "first_sentence": "An Australian team including sub 10-second man Lachlan Kennedy have equalled the national 4x100m record on a big day one for the green and gold contingent at the World Athletics Relays in Botswana.",
+      "timestamp": "2026-05-03T04:31:53Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Dancing queens return to Trundle ABBA Festival to celebrate pop icons",
+      "link": "https://www.abc.net.au/news/2026-05-03/trundle-abba-festival-returns/106615014",
+      "mean_score": 0.3922,
+      "vader_score": 0.7845,
+      "textblob_score": 0.0,
+      "first_sentence": "The Trundle ABBA Festival turned the tiny central west town into a sea of sequins and song.",
+      "timestamp": "2026-05-03T02:17:21Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Love story: An accident changed their lives but strengthened their bond",
+      "link": "https://www.abc.net.au/news/2026-05-03/love-story-beau-lucy-vernon/106587492",
+      "mean_score": 0.5714,
+      "vader_score": 0.6428,
+      "textblob_score": 0.5,
+      "first_sentence": "Beau and Lucy Vernon were young, athletic and had big plans for the future.",
+      "timestamp": "2026-05-03T02:00:00Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Strong lead for Jo Palmer, close race in Huon in Upper House elections",
       "link": "https://www.abc.net.au/news/2026-05-03/legislative-council-elections-rosevears-huon/106631922",
@@ -250,6 +360,16 @@
       "first_sentence": "It's a strange moment for growing old.",
       "timestamp": "2026-05-01T13:59:51Z",
       "source": "NPR News"
+    },
+    {
+      "headline": "The Artist review \u2013 this flamboyant period comedy is like nothing else on TV",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/may/01/the-artist-review-thomas-edison-mgmplus",
+      "mean_score": 0.3062,
+      "vader_score": 0.6124,
+      "textblob_score": 0.0,
+      "first_sentence": "Details about how a TV series was commissioned or why it ended up on a particular streamer are normally tedious and superfluous: once a piece of art has been made, it stands alone and our assessment of it needn\u2019t be influenced by industry logistics.",
+      "timestamp": "2026-05-01T12:57:33Z",
+      "source": "The Guardian"
     },
     {
       "headline": "Cocktail of the week: Vivien\u2019s mid-spring moment\u2013 recipe | The good mixer",
@@ -2379,126 +2499,6 @@
       "textblob_score": 0.225,
       "first_sentence": "Romy Ash\u2019s debut novel, Floundering, has sat on my bookshelf since the Sydney Morning Herald, where I worked as literary editor, named her as one of the best young Australian novelists in 2013 \u2013 the year she was shortlisted for the Miles Franklin literary award among others.",
       "timestamp": "2026-04-23T22:00:22Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Australia's most successful Winter Olympics team in history honoured",
-      "link": "https://www.abc.net.au/news/2026-04-24/australias-winter-olympic-stars-honoured-snow-australia-awards/106595798",
-      "mean_score": 0.716,
-      "vader_score": 0.807,
-      "textblob_score": 0.625,
-      "first_sentence": "Australia's trio of 2026 Winter Olympic champions claimed top gongs at the Snow Australia awards, as the winter sport community celebrated the nation's most successful ever Winter Games.",
-      "timestamp": "2026-04-23T21:22:47Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Live: Gas giants get resource for free? That's 'tosh', says King",
-      "link": "https://www.abc.net.au/news/2026-04-24/federal-politics-live-blog-fuel-defence-gas-tax-ndis/106598842",
-      "mean_score": 0.3894,
-      "vader_score": 0.5106,
-      "textblob_score": 0.2682,
-      "first_sentence": "Resources Minister\u00a0Madeleine King has taken aim at those who claim gas giants are getting the commodity for free, saying she's \"mystified as to how they get away with such tosh\".",
-      "timestamp": "2026-04-23T21:06:31Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "We still don't have a more precise value for \"Big G\"",
-      "link": "https://arstechnica.com/science/2026/04/we-still-dont-have-a-more-precise-value-for-big-g/",
-      "mean_score": 0.3488,
-      "vader_score": 0.3976,
-      "textblob_score": 0.3,
-      "first_sentence": "The gravitational constant, affectionally known as \u201cBig G,\u201d is one of the most fundamental constants of our universe.",
-      "timestamp": "2026-04-23T20:57:35Z",
-      "source": "Ars Technica"
-    },
-    {
-      "headline": "SNP's McAllan supports more 'evidence-led' drilling in North Sea",
-      "link": "https://www.bbc.com/news/articles/c2d8610rny4o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4306,
-      "vader_score": 0.3612,
-      "textblob_score": 0.5,
-      "first_sentence": "SNP minister Mairi McAllan has said there should be more drilling in the North Sea, providing it is compatible with energy targets and required for energy security.",
-      "timestamp": "2026-04-23T20:45:52Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Viva boss tells Kohler more refineries needed for secure fuel supply",
-      "link": "https://www.abc.net.au/news/2026-04-24/viva-energy-boss-tell-alan-kohler-need-more-oil-refineries-fuel/106596864",
-      "mean_score": 0.395,
-      "vader_score": 0.34,
-      "textblob_score": 0.45,
-      "first_sentence": "Viva Energy boss Scott Wyatt recalls he was on the phone with the fuel refinery's general manager when disaster struck late at night last Wednesday.",
-      "timestamp": "2026-04-23T18:03:05Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "The surprising health benefit that could be in your pint",
-      "link": "https://www.bbc.com/news/videos/cjw8eyj2jxvo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.6624,
-      "vader_score": 0.6249,
-      "textblob_score": 0.7,
-      "first_sentence": "Drinking the odd pint of beer can provide \"substantial levels\" of an essential brain-boosting vitamin in your diet, according to new research in a respected journal.",
-      "timestamp": "2026-04-23T17:38:28Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Maresca is top candidate if Guardiola does quit Manchester City this year",
-      "link": "https://www.theguardian.com/football/2026/apr/23/maresca-is-top-candidate-if-guardiola-does-quit-manchester-city-this-year",
-      "mean_score": 0.3512,
-      "vader_score": 0.2023,
-      "textblob_score": 0.5,
-      "first_sentence": "Enzo Maresca is the leading candidate to take over at Manchester City as they prepare for the growing possibility of Pep Guardiola leaving at the end of the season.",
-      "timestamp": "2026-04-23T17:00:16Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Olivia Dean review \u2013 soul-pop superstar shimmies into a classy and commanding first arena tour",
-      "link": "https://www.theguardian.com/music/2026/apr/23/olivia-dean-review-ovo-hydro-glasgow",
-      "mean_score": 0.3077,
-      "vader_score": 0.4404,
-      "textblob_score": 0.175,
-      "first_sentence": "When the stage\u2019s cream curtains pull back, Olivia Dean and band are already in full flow.",
-      "timestamp": "2026-04-23T15:16:55Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "David Squires on \u2026 the youthful Newcastle Jets\u2019 astonishing A-League comeback",
-      "link": "https://www.theguardian.com/football/picture/2026/apr/23/david-squires-on-the-youthful-newcastle-jets-astonishing-a-league-comeback",
-      "mean_score": 0.4091,
-      "vader_score": 0.3182,
-      "textblob_score": 0.5,
-      "first_sentence": "Our cartoonist reflects on how ebikes and seagulls helped Mark Milligan\u2019s team go from rock bottom to in line for a historic treble  Continue reading.",
-      "timestamp": "2026-04-23T15:00:15Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Cannes did camera: how the film festival loves to watch itself",
-      "link": "https://www.theguardian.com/film/2026/apr/23/cannes-did-camera-how-the-film-festival-loves-to-watch-itself",
-      "mean_score": 0.3922,
-      "vader_score": 0.7845,
-      "textblob_score": 0.0,
-      "first_sentence": "From An Almost Perfect Affair to Mr Bean\u2019s Holiday, there\u2019s nothing the festival enjoys more than seeing itself on screen.",
-      "timestamp": "2026-04-23T15:00:15Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Nine in 10 UK voters across parties support right to abortion, poll finds",
-      "link": "https://www.theguardian.com/society/2026/apr/23/uk-voters-abortion-rights-women-health-poll",
-      "mean_score": 0.4727,
-      "vader_score": 0.6597,
-      "textblob_score": 0.2857,
-      "first_sentence": "New polling has found that whatever their party political leanings, an overwhelming majority of people support the right to access an abortion \u2013 although young people, in particular, fear reproductive rights may be reduced.",
-      "timestamp": "2026-04-23T15:00:13Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Timothy Ridout: Alto Appassionato album review \u2013 engaging and smartly curated viola and piano programme",
-      "link": "https://www.theguardian.com/music/2026/apr/23/timothy-ridout-alto-appassionato-album-review-jonathan-ware",
-      "mean_score": 0.4533,
-      "vader_score": 0.5994,
-      "textblob_score": 0.3071,
-      "first_sentence": "Friends and colleagues working side by side in the musical melting pot of fin-de-siecle Paris form the connective tissue in this attractive and smartly curated programme by violist Timothy Ridout and pianist Jonathan Ware.",
-      "timestamp": "2026-04-23T14:00:15Z",
       "source": "The Guardian"
     }
   ]
