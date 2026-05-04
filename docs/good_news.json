@@ -1,6 +1,116 @@
 {
-  "last run": "2026-05-04T00:36:56Z",
+  "last run": "2026-05-04T12:36:00Z",
   "stories": [
+    {
+      "headline": "UK joining Ukraine loan scheme would be good for EU ties, Starmer says",
+      "link": "https://www.bbc.com/news/articles/c1420e1p1l0o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.7,
+      "first_sentence": "Sir Keir Starmer has said joining a \u00a378bn (\u20ac90bn) European Union loan scheme to support Ukraine against Russia will be \"very good\" for relations with the bloc and create jobs in the UK.",
+      "timestamp": "2026-05-04T12:17:18Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Georgina Hayden\u2019s quick and easy recipe for spanakopita orzo | Quick and easy",
+      "link": "https://www.theguardian.com/food/2026/may/04/quick-easy-spanakopita-orzo-recipe-georgina-hayden",
+      "mean_score": 0.5418,
+      "vader_score": 0.7003,
+      "textblob_score": 0.3833,
+      "first_sentence": "For me, it isn\u2019t really spring until the first May bank holiday; the days are longer, the flowers are out, and an abundance of green graces our shelves.",
+      "timestamp": "2026-05-04T12:00:22Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "WSL and WCL talking points: City have a Knaak and is Dumornay the world\u2019s best?",
+      "link": "https://www.theguardian.com/football/2026/may/04/wsl-wcl-talking-points-manchester-city-rebecca-knaak-melchie-dumornay-ol-lyonnes",
+      "mean_score": 0.8185,
+      "vader_score": 0.6369,
+      "textblob_score": 1.0,
+      "first_sentence": "OL Lyonnes ended Arsenal\u2019s Champions League hopes while Rebecca Knaak puts Man City on the brink of WSL title gloryWho is the best player in the world right now? Melchie Dumornay continues to make a strong claim for that accolade after her starring role in OL Lyonnes\u2019 comeback to beat Arsenal in the Champions League semi-finals.",
+      "timestamp": "2026-05-04T11:25:21Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018We\u2019re a perfect example of being lied to\u2019: Democrats vie to flip Ohio in a battle for trust",
+      "link": "https://www.theguardian.com/us-news/2026/may/04/ohio-senate-race-sherrod-brown-jon-husted",
+      "mean_score": 0.7107,
+      "vader_score": 0.4215,
+      "textblob_score": 1.0,
+      "first_sentence": "It\u2019s tough to beat the prices at Golden Dawn, an Italian restaurant that first opened its doors in 1932 on the north side of Youngstown, Ohio, and where a hamburger and fries today goes for $7 and a domestic beer just $2 at happy hour.",
+      "timestamp": "2026-05-04T10:00:21Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "The treasurer's reality check on Anthony Albanese's bold childcare plan",
+      "link": "https://www.abc.net.au/news/2026-05-04/jim-chalmers-lowers-albanese-childcare-reform-expectations/106640188",
+      "mean_score": 0.3576,
+      "vader_score": 0.3818,
+      "textblob_score": 0.3333,
+      "first_sentence": "The treasurer says \"it will take time to get to a [childcare] system which is more universal\" as he highlights cost concerns.",
+      "timestamp": "2026-05-04T08:37:30Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Steph Gilmore sparks bedlam on Gold Coast as surf great rolls back years with WSL win",
+      "link": "https://www.theguardian.com/sport/blog/2026/may/04/steph-gilmore-wins-world-surf-league-gold-coast-surfing-championship",
+      "mean_score": 0.6847,
+      "vader_score": 0.836,
+      "textblob_score": 0.5333,
+      "first_sentence": "When Australian Stephanie Gilmore decided to return to competitive surfing this year following a two year hiatus from the World Surf League, more than a few eyebrows were raised.",
+      "timestamp": "2026-05-04T07:42:47Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Is it true that \u2026 your lungs regenerate when you quit smoking?",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/may/04/is-it-true-that-your-lungs-regenerate-when-you-quit-smoking",
+      "mean_score": 0.3857,
+      "vader_score": 0.4215,
+      "textblob_score": 0.35,
+      "first_sentence": "Smoking is in effect damaging your\u00a0lungs, Dean says, and the lungs have a\u00a0substantial capacity to heal themselves.",
+      "timestamp": "2026-05-04T07:00:17Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Lasers, hawks and even guns haven\u2019t solved the UK\u2019s pigeon problem. There is a better way | Sydney Lobe",
+      "link": "https://www.theguardian.com/commentisfree/2026/may/04/uk-pigeon-problem-humane-solution-councils",
+      "mean_score": 0.4091,
+      "vader_score": 0.3182,
+      "textblob_score": 0.5,
+      "first_sentence": "Councils spend heavily on grisly yet ineffective methods.",
+      "timestamp": "2026-05-04T07:00:17Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "A new start after 60: I embarked on a colourful, glamorous, life-changing new career at 72",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/may/04/a-new-start-after-60-colour-analyst-life-changing-career-at-72",
+      "mean_score": 0.3235,
+      "vader_score": 0.5106,
+      "textblob_score": 0.1364,
+      "first_sentence": "Earlier this year, Walker trained in colour analysis, learning how to determine a person\u2019s season and, therefore, which of 16 sub-season palettes best suits them.",
+      "timestamp": "2026-05-04T06:00:15Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Jim Chalmers rules out fuel excise extension and downplays hopes for tax relief in \u2018most responsible\u2019 budget yet",
+      "link": "https://www.theguardian.com/australia-news/2026/may/04/jim-chalmers-rules-out-fuel-excise-extension-and-downplays-hopes-for-tax-relief-in-most-responsible-budget-yet",
+      "mean_score": 0.5298,
+      "vader_score": 0.7096,
+      "textblob_score": 0.35,
+      "first_sentence": "Jim Chalmers has warned there will be little room for more cost-of-living support in his fifth and \u201cmost responsible\u201d budget yet, as he ruled out an immediate extension of the 26-cent cut to the fuel excise and downplayed hopes for additional tax relief for workers.",
+      "timestamp": "2026-05-04T04:34:06Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "49 ways to have fun right now! Skydive in a wind tunnel, count dogs and run like a three-year-old",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/may/04/49-ways-to-have-fun-right-now-skydive-in-a-wind-tunnel-count-dogs-and-run-like-a-three-year-old",
+      "mean_score": 0.5274,
+      "vader_score": 0.7263,
+      "textblob_score": 0.3286,
+      "first_sentence": "The world often feels dominated by sadness and doomscrolling.",
+      "timestamp": "2026-05-04T04:00:14Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Aussie rugby sevens star joins NRLW Titans in 'huge coup'",
       "link": "https://www.abc.net.au/news/2026-05-04/nrlw-teagan-levi-joins-gold-coast-titans-rugby-sevens/106637830",
@@ -69,6 +179,16 @@
       "textblob_score": 0.8,
       "first_sentence": "The margins were fine but ultimately it was a champion\u2019s composure that won the day for Kimi Antonelli at the Miami Grand Prix.",
       "timestamp": "2026-05-03T19:09:18Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Kobbie Mainoo taking last lessons off Casemiro but ready to make position his own | Andy Hunter",
+      "link": "https://www.theguardian.com/football/2026/may/03/kobbie-mainoo-taking-last-lessons-off-casemiro-but-ready-to-make-position-his-own",
+      "mean_score": 0.3845,
+      "vader_score": 0.5023,
+      "textblob_score": 0.2667,
+      "first_sentence": "\u2018You need someone like this.\u201d So said Benjamin Sesko of Casemiro after the veteran\u2019s commanding display against Brentford last Monday.",
+      "timestamp": "2026-05-03T18:27:21Z",
       "source": "The Guardian"
     },
     {
@@ -2379,126 +2499,6 @@
       "textblob_score": 0.7,
       "first_sentence": "Relaxing in his civvies at the cafe in the Australian War Memorial\u2019s newly opened Anzac Hall, retired Group Captain Lyle Holt looks less like a man who spent years as a supersonic strike navigator and more like a man bridging two worlds.",
       "timestamp": "2026-04-24T15:00:20Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Lisa Wilkinson: \u2018Evelyn was my safe place. She was my refuge\u2019",
-      "link": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/apr/25/lisa-wilkinson-interview-defamation-evelyn-titanic-survivor-ntwnfb",
-      "mean_score": 0.4702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.5,
-      "first_sentence": "Lisa Wilkinson pauses just inside the entrance to Sydney\u2019s Waverley Cemetery and rummages in her handbag.",
-      "timestamp": "2026-04-24T15:00:19Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Decades-old, newly restored Smithsonian carousel reopens -- to children's delight",
-      "link": "https://www.npr.org/2026/04/24/nx-s1-5770103/smithsonian-carousel-reopens-national-mall-dc",
-      "mean_score": 0.4397,
-      "vader_score": 0.743,
-      "textblob_score": 0.1364,
-      "first_sentence": "The Smithsonian Institution's carousel is back open for business Friday after being closed for nearly three years for restoration and refurbishments.",
-      "timestamp": "2026-04-24T14:58:50Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Behold the riches to riches tale of Lauren S\u00e1nchez \u2013 the girlboss Cinderella who bought the ball | Marina Hyde",
-      "link": "https://www.theguardian.com/commentisfree/2026/apr/24/jeff-bezos-lauren-sanchez-paris-venice-new-york-met-gala",
-      "mean_score": 0.3891,
-      "vader_score": 0.7783,
-      "textblob_score": 0.0,
-      "first_sentence": "We live in an age when the most successful revolutionaries are not the peasants but the Silicon Valley billionaires.",
-      "timestamp": "2026-04-24T14:39:14Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "What is a passkey, how does it work and why is it better than a password?",
-      "link": "https://www.theguardian.com/technology/2026/apr/24/what-is-a-passkey-how-does-it-work-and-why-is-it-better-than-a-password",
-      "mean_score": 0.4702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.5,
-      "first_sentence": "The UK\u2019s National Cyber Security Centre has called time on the password \u2013 from now on, you should use a passkey.",
-      "timestamp": "2026-04-24T14:00:18Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Cocktail of the week: Julie\u2019s jasmine blossom \u2013 recipe | The good mixer",
-      "link": "https://www.theguardian.com/food/2026/apr/24/cocktail-of-the-week-julies-jasmine-blossom-recipe",
-      "mean_score": 0.5702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.7,
-      "first_sentence": "A delicate, elegant and aromatic sour with notes of floral jasmine tea balanced by bright citrus, making it fresh and perfect for spring.",
-      "timestamp": "2026-04-24T12:00:22Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018I hope it got disinfected!\u2019 Matthew Rhys on bravery, banter and wearing a prosthetic penis",
-      "link": "https://www.theguardian.com/tv-and-radio/2026/apr/24/i-hope-it-got-disinfected-matthew-rhys-on-bravery-banter-and-wearing-a-prosthetic-penis",
-      "mean_score": 0.375,
-      "vader_score": 0.75,
-      "textblob_score": 0.0,
-      "first_sentence": "Now 51, the Cardiff-born Rhys is all smiles despite the \u201cCeltic lid\u201d over his eyes which he once said lends him a naturally downcast look.",
-      "timestamp": "2026-04-24T12:00:17Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Tokyo workers encouraged to wear shorts to cut energy costs and keep cool",
-      "link": "https://www.theguardian.com/world/2026/apr/24/tokyo-workers-asked-to-swap-suits-for-shorts-to-combat-energy-costs-and-heat",
-      "mean_score": 0.4679,
-      "vader_score": 0.5859,
-      "textblob_score": 0.35,
-      "first_sentence": "Public servants working for the Tokyo metropolitan government are being encouraged to swap their suits for shorts this summer to combat sweltering heat and rising energy costs caused by the US-Israel war on Iran.",
-      "timestamp": "2026-04-24T11:13:08Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Watch: Powerful tornadoes barrel through northern Oklahoma",
-      "link": "https://www.bbc.com/news/videos/c30re0j9q7jo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3608,
-      "vader_score": 0.4215,
-      "textblob_score": 0.3,
-      "first_sentence": "At least 10 people were injured as tornadoes struck parts of northern Oklahoma, according to local reports.",
-      "timestamp": "2026-04-24T09:49:40Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "What NHS challenges does the election winner face?",
-      "link": "https://www.bbc.com/news/videos/cly70zgjxpno?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3125,
-      "vader_score": 0.6249,
-      "textblob_score": 0.0,
-      "first_sentence": "There are currently 687,958 people waiting for any type of NHS treatment in Wales.",
-      "timestamp": "2026-04-24T09:13:24Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Pickett takes mark of the year contender in Demon's stunning outing",
-      "link": "https://www.abc.net.au/news/2026-04-24/afl-round-seven-friday-richmond-melbourne-live-blog/106604112",
-      "mean_score": 0.4884,
-      "vader_score": 0.4767,
-      "textblob_score": 0.5,
-      "first_sentence": "Melbourne has eased to a 54-point over Richmond in the traditional Anzac Day Eve clash at the MCG, as the hapless Tigers remain the competition's only side without a win in 2026.",
-      "timestamp": "2026-04-24T08:44:00Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Live: Broncos score two try of the year contenders in stunning win over Bulldogs",
-      "link": "https://www.abc.net.au/news/2026-04-24/nrl-live-updates-cowboys-sharks-broncos-bulldogs/106591508",
-      "mean_score": 0.6147,
-      "vader_score": 0.7506,
-      "textblob_score": 0.4788,
-      "first_sentence": "The Brisbane Broncos have produced two contenders for try of the NRL season, with Deine Mariner and Ezra Mam both completing spectacular groundings against the Canterbury-Bankstown Bulldogs.",
-      "timestamp": "2026-04-24T06:55:54Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Nuclear power! Have we finally found a useful use for it? Let\u2019s ask a wolf | First Dog on the Moon",
-      "link": "https://www.theguardian.com/commentisfree/picture/2026/apr/24/nuclear-power-have-we-finally-found-a-useful-use-for-it-lets-ask-a-wolf",
-      "mean_score": 0.338,
-      "vader_score": 0.4926,
-      "textblob_score": 0.1833,
-      "first_sentence": "The huge area around Chernobyl has become an enormous wildlife reserve! And many creatures are thrivingSign up here to get an email whenever First Dog cartoons are publishedGet all your needs met at the First Dog shop if what you need is First Dog merchandise and prints Continue reading.",
-      "timestamp": "2026-04-24T06:38:13Z",
       "source": "The Guardian"
     }
   ]
