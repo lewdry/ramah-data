@@ -1,5 +1,145 @@
 [
   {
+    "headline": "'Just do it': Why the gas tax momentum is building for Australia's good",
+    "link": "https://www.abc.net.au/news/2026-04-24/gas-resources-tax-for-federal-budget-resources-verrender-column/106602096",
+    "mean_score": 0.5702,
+    "vader_score": 0.4404,
+    "textblob_score": 0.7,
+    "first_sentence": "Appearing before a Senate inquiry this week into gas resources taxes, the former Treasury Secretary and one-time National Australia Bank chairman returned to long familiar territory, urging Australia's elected leaders to stop selling the country short.",
+    "timestamp": "2026-04-24T06:00:53Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Homes for sale in England with smart storage \u2013 in pictures",
+    "link": "https://www.theguardian.com/money/gallery/2026/apr/24/homes-for-sale-england-smart-storage",
+    "mean_score": 0.3081,
+    "vader_score": 0.4019,
+    "textblob_score": 0.2143,
+    "first_sentence": "From a country cottage with double-height bookshelves to a new-build flat in London with \u2018period\u2019 panelling hiding tech Continue reading.",
+    "timestamp": "2026-04-24T06:00:31Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "US says Iran players welcome at 2026 World Cup amid call for Italy to take their place",
+    "link": "https://www.theguardian.com/football/2026/apr/24/iran-welcome-at-us-world-cup-2026-italy",
+    "mean_score": 0.6294,
+    "vader_score": 0.4588,
+    "textblob_score": 0.8,
+    "first_sentence": "Iran\u2019s footballers will be welcome at this year\u2019s World Cup, secretary of state Marco Rubio said Thursday, distancing the United States government from a proposal that Italy could take their place in the tournament.",
+    "timestamp": "2026-04-24T05:53:40Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "'Can we see the cows?' - dad and daughter bike ride videos melt hearts online",
+    "link": "https://www.bbc.com/news/articles/c8dl8r1rv7qo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3243,
+    "vader_score": 0.6486,
+    "textblob_score": 0.0,
+    "first_sentence": "A father and daughter duo have captured the hearts of millions after sharing their bike rides with the world.",
+    "timestamp": "2026-04-24T05:52:21Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "EU approves a $106 billion loan package to help Ukraine after Hungary lifts its veto",
+    "link": "https://www.npr.org/2026/04/24/nx-s1-5798455/eu-approves-a-106-billion-loan-package-to-help-ukraine-after-hungary-lifts-its-veto",
+    "mean_score": 0.3298,
+    "vader_score": 0.6597,
+    "textblob_score": 0.0,
+    "first_sentence": "The roots of Russia's invasion of Ukraine go back decades and run deep.",
+    "timestamp": "2026-04-24T05:08:10Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "Lost 1968 Morecambe and Wise episode to be broadcast",
+    "link": "https://www.bbc.com/news/articles/c3v6q1gdlneo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4511,
+    "vader_score": 0.2023,
+    "textblob_score": 0.7,
+    "first_sentence": "A lost TV episode from one of the UK's most famous comic duos is to be broadcast after being found in a private collection.",
+    "timestamp": "2026-04-24T05:01:07Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Signal praises Apple over security fix in new iPhone update",
+    "link": "https://www.abc.net.au/news/2026-04-24/apple-ios-update-26-4-2-security-fix-signal-/106601332",
+    "mean_score": 0.4183,
+    "vader_score": 0.7003,
+    "textblob_score": 0.1364,
+    "first_sentence": "Encrypted communication app Signal has praised Apple for releasing a new iPhone security update it says will prevent notifications from being \"inadvertently-preserved\".",
+    "timestamp": "2026-04-24T04:58:47Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Resigning mayor makes plea for 'kindness', 'respect' from councillors",
+    "link": "https://www.abc.net.au/news/2026-04-24/paula-wriedt-resigns-as-greater-hobart-kingborough-mayor/106601632",
+    "mean_score": 0.3185,
+    "vader_score": 0.6369,
+    "textblob_score": 0.0,
+    "first_sentence": "Paula Wriedt will resign as the mayor of Kingborough, saying she no longer wanted to be in a workplace with \"toxic behaviour\", or where councillors were targeted with \"nasty\" social media comments from the public.",
+    "timestamp": "2026-04-24T04:56:27Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "David Malouf will always be one of the world\u2019s great writers. I will always be grateful to him | Christos Tsiolkas",
+    "link": "https://www.theguardian.com/books/2026/apr/24/david-malouf-world-great-writer-grateful-christos-tsiolkas",
+    "mean_score": 0.7982,
+    "vader_score": 0.7964,
+    "textblob_score": 0.8,
+    "first_sentence": "Preparing for bed on Thursday night, I glanced at my phone.",
+    "timestamp": "2026-04-24T04:38:47Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Horse trainer's mission to spotlight 'amazing' animal companions used in WWI",
+    "link": "https://www.abc.net.au/news/2026-04-24/nt-janette-wilson-leads-anzac-day-march-with-iconic-waler-horse/106590568",
+    "mean_score": 0.593,
+    "vader_score": 0.5859,
+    "textblob_score": 0.6,
+    "first_sentence": "Janette Wilson refuses to sleep the evening of April 24, just in case her pre-dawn alarm doesn't work and she misses the local Anzac Day commemorations.",
+    "timestamp": "2026-04-24T02:35:43Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "James Valentine showed us what public broadcasting could be at its very best. It\u2019s a legacy I hope to live up to | Jess McGuire",
+    "link": "https://www.theguardian.com/commentisfree/2026/apr/24/james-valentine-abc-radio-public-broadcasting-excellence",
+    "mean_score": 0.5955,
+    "vader_score": 0.8122,
+    "textblob_score": 0.3788,
+    "first_sentence": "Like so many of you, my experience of James Valentine was almost entirely through radio.",
+    "timestamp": "2026-04-24T00:45:59Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Tradwives, gangsters and one very special dog: April's 10 best books",
+    "link": "https://www.abc.net.au/news/2026-04-24/what-to-read-best-new-books-yesteryear-london-falling/106557528",
+    "mean_score": 0.7669,
+    "vader_score": 0.8016,
+    "textblob_score": 0.7321,
+    "first_sentence": "Welcome to the ABC Arts wrap of the best new books out in April.",
+    "timestamp": "2026-04-23T23:03:53Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Is it ever OK to use someone else's toothbrush?",
+    "link": "https://www.abc.net.au/news/2026-04-24/is-it-ever-ok-to-use-someone-else-s-toothbrush-/106561752",
+    "mean_score": 0.4733,
+    "vader_score": 0.4466,
+    "textblob_score": 0.5,
+    "first_sentence": "Much to my partner's horror, on the odd occasion I have accidentally used his toothbrush.",
+    "timestamp": "2026-04-23T23:03:13Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Mantle by Romy Ash review \u2013 an exquisitely wild and exhilarating vision of the near future",
+    "link": "https://www.theguardian.com/books/2026/apr/24/mantle-book-novel-review-author-romy-ash",
+    "mean_score": 0.3984,
+    "vader_score": 0.5719,
+    "textblob_score": 0.225,
+    "first_sentence": "Romy Ash\u2019s debut novel, Floundering, has sat on my bookshelf since the Sydney Morning Herald, where I worked as literary editor, named her as one of the best young Australian novelists in 2013 \u2013 the year she was shortlisted for the Miles Franklin literary award among others.",
+    "timestamp": "2026-04-23T22:00:22Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Australia's most successful Winter Olympics team in history honoured",
     "link": "https://www.abc.net.au/news/2026-04-24/australias-winter-olympic-stars-honoured-snow-australia-awards/106595798",
     "mean_score": 0.716,
