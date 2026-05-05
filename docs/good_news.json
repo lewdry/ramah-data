@@ -1,6 +1,156 @@
 {
-  "last run": "2026-05-05T00:35:55Z",
+  "last run": "2026-05-05T12:27:56Z",
   "stories": [
+    {
+      "headline": "A new kind of van life: $180 to camp for seven months \u2013 and a real taste of freedom",
+      "link": "https://www.theguardian.com/us-news/2026/may/05/van-life-quartzsite-arizona",
+      "mean_score": 0.4745,
+      "vader_score": 0.6369,
+      "textblob_score": 0.3121,
+      "first_sentence": "This story was produced in partnership with Re:Public Lands Media, an independent, non-profit news organization.",
+      "timestamp": "2026-05-05T11:00:27Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018It\u2019s a special tree\u2019: campaign to save mother of beloved bramley apple for nation",
+      "link": "https://www.theguardian.com/culture/2026/may/05/campaigners-hope-to-save-mother-tree-of-bramley-apple-nottinghamshire",
+      "mean_score": 0.6883,
+      "vader_score": 0.8481,
+      "textblob_score": 0.5286,
+      "first_sentence": "Campaigners have launched an appeal to try to save for the nation the mother tree of perhaps the most popular cooking apple in the world.",
+      "timestamp": "2026-05-05T10:51:48Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Can Indiana lawmakers win after defying the president\u2019s vote?",
+      "link": "https://www.theguardian.com/us-news/2026/may/05/indiana-republicans-donald-trump",
+      "mean_score": 0.6929,
+      "vader_score": 0.5859,
+      "textblob_score": 0.8,
+      "first_sentence": "Indiana voters go to the polls today in a test of the Republican party\u2019s staying power after the party\u2019s state lawmakers resisted Donald Trump\u2019s bruising campaign to pressure them into redrawing the congressional districts.",
+      "timestamp": "2026-05-05T10:00:26Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "An AI version of Milton\u2019s Paradise Lost is fundamentally unworthy of one of the great works of art",
+      "link": "https://www.theguardian.com/film/2026/may/05/ai-paradise-lost-fundamentally-unworthy-roger-avary",
+      "mean_score": 0.7062,
+      "vader_score": 0.6124,
+      "textblob_score": 0.8,
+      "first_sentence": "The thing about unfilmable works of literature is that most of them eventually turn out to be quite filmable after all.",
+      "timestamp": "2026-05-05T09:25:15Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Menopause is tough. But it\u2019s fantastic being a woman in her 60s",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/may/05/menopause-is-tough-but-fantastic-being-a-woman-in-her-60s",
+      "mean_score": 0.3457,
+      "vader_score": 0.6858,
+      "textblob_score": 0.0056,
+      "first_sentence": "I met my boyfriend when he was playing Bach in the park.",
+      "timestamp": "2026-05-05T09:00:34Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Alabama holding special session to redraw congressional maps",
+      "link": "https://www.npr.org/2026/05/05/nx-s1-5810931/alabama-holding-special-session-to-redraw-congressional-maps",
+      "mean_score": 0.3795,
+      "vader_score": 0.4019,
+      "textblob_score": 0.3571,
+      "first_sentence": "The Alabama Legislature is holding a special session this week to change the state's congressional map.",
+      "timestamp": "2026-05-05T08:42:55Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "Vietnam veteran receives Medal for Gallantry after leading bayonet charge",
+      "link": "https://www.abc.net.au/news/2026-05-05/vietnam-veteran-john-ohalloran-given-medal-gallantry-in-perth/106643418",
+      "mean_score": 0.3859,
+      "vader_score": 0.7717,
+      "textblob_score": 0.0,
+      "first_sentence": "Vietnam veteran John O'Halloran has received his Medal for Gallantry at a ceremony at Government House in Perth.",
+      "timestamp": "2026-05-05T08:32:13Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "A 'fun' superstar stuns rivals and reshapes politics in an Indian state",
+      "link": "https://www.bbc.com/news/articles/c8xwjx54zggo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4133,
+      "vader_score": 0.5267,
+      "textblob_score": 0.3,
+      "first_sentence": "Film star-turned-politician C Joseph Vijay is on the cusp of history in Tamil Nadu state.",
+      "timestamp": "2026-05-05T07:32:52Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Five things you can do to save money now that interest rates have gone up",
+      "link": "https://www.abc.net.au/news/2026-05-05/interest-rates-explainer-emily-stewart/106627224",
+      "mean_score": 0.3675,
+      "vader_score": 0.7351,
+      "textblob_score": 0.0,
+      "first_sentence": "Hi, I'm business journalist Emily Stewart.",
+      "timestamp": "2026-05-05T07:05:43Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "A game-changer for good health? Scientists believe \u2018we are when we eat\u2019 | Devi Sridhar",
+      "link": "https://www.theguardian.com/commentisfree/2026/may/05/game-changer-good-health-scientists-we-are-when-we-eat",
+      "mean_score": 0.5702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.7,
+      "first_sentence": "Reduce your calories.",
+      "timestamp": "2026-05-05T07:00:46Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Surfers Paradise ditches cars for pedestrians as esplanade closed for good",
+      "link": "https://www.abc.net.au/news/2026-05-05/surfers-paradise-esplanade-closed-gold-coast-council-vote/106638184",
+      "mean_score": 0.5482,
+      "vader_score": 0.7964,
+      "textblob_score": 0.3,
+      "first_sentence": "The Esplanade in Surfers Paradise will be converted into a permanent pedestrian walkway after an extended trial.",
+      "timestamp": "2026-05-05T06:44:38Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Do viruses spread more easily on cruise ships?",
+      "link": "https://www.bbc.com/news/videos/cdxpn5r2nlgo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4336,
+      "vader_score": 0.4005,
+      "textblob_score": 0.4667,
+      "first_sentence": "Three people have died from a suspected hantavirus outbreak during a cruise in the Atlantic.",
+      "timestamp": "2026-05-05T06:38:26Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Nicky Winmar's barrister claims AFL great was defending himself",
+      "link": "https://www.abc.net.au/news/2026-05-05/barrister-says-nicky-winmar-defending-himself-court/106644106",
+      "mean_score": 0.7125,
+      "vader_score": 0.6249,
+      "textblob_score": 0.8,
+      "first_sentence": "The barrister for former AFL great Nicky Winmar has told a Victorian court he was defending himself on the night he allegedly assaulted a woman.",
+      "timestamp": "2026-05-05T06:03:42Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "'Having multiple partners isn't all about sex - it's honesty, logistics and a good calendar'",
+      "link": "https://www.bbc.com/news/articles/cx2w19xpjw2o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5384,
+      "vader_score": 0.7269,
+      "textblob_score": 0.35,
+      "first_sentence": "When people discover that people like Naomi Allsworth have multiple partners, she says their minds invariably turn to sex.",
+      "timestamp": "2026-05-05T05:32:58Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Does the RBA really have to raise interest rates? | Fiona Katauskas",
+      "link": "https://www.theguardian.com/commentisfree/picture/2026/may/05/does-the-rba-really-have-to-raise-interest-rates",
+      "mean_score": 0.3294,
+      "vader_score": 0.4588,
+      "textblob_score": 0.2,
+      "first_sentence": "It depends who you askSee more of Fiona Katauskas\u2019s cartoons here Continue reading.",
+      "timestamp": "2026-05-05T04:31:55Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Wu Yize beats Shaun Murphy in thrilling final frame to win World Snooker Championship",
       "link": "https://www.theguardian.com/sport/2026/may/04/wu-yize-shaun-murphy-world-snooker-championship",
@@ -80,6 +230,16 @@
       "first_sentence": "Fixed Rate Link being added now; Display Stream Compression coming soon.",
       "timestamp": "2026-05-04T16:26:49Z",
       "source": "Ars Technica"
+    },
+    {
+      "headline": "Democrats boost eight more \u2018top-tier candidates\u2019 in bid to win back House",
+      "link": "https://www.theguardian.com/us-news/2026/may/04/democrats-house-majority-midterm-elections",
+      "mean_score": 0.5956,
+      "vader_score": 0.7579,
+      "textblob_score": 0.4333,
+      "first_sentence": "Democratic officials added eight new candidates to their slate of top contenders vying to reclaim a Democratic House majority during midterm elections this fall.",
+      "timestamp": "2026-05-04T15:50:42Z",
+      "source": "The Guardian"
     },
     {
       "headline": "One in four humanities students in Australia to take more than 25 years to pay off student loans, Treasury finds",
@@ -2340,166 +2500,6 @@
       "first_sentence": "First, it was Barcelona, Venice and Dubrovnik.",
       "timestamp": "2026-04-26T06:00:06Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018I\u2019m frothing\u2019: George Pittar breaks eight-year surfing duck with Margaret Pro win",
-      "link": "https://www.theguardian.com/sport/2026/apr/26/surfing-george-pittar-margaret-river-pro-victory-australia",
-      "mean_score": 0.6929,
-      "vader_score": 0.5859,
-      "textblob_score": 0.8,
-      "first_sentence": "The last time George Pittar competed at the Margaret River Pro, a mainstay stop of the World Surf League, it was a very different story.",
-      "timestamp": "2026-04-26T05:42:15Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Teenagers are calling time on the handshake. I salute them, from a safe distance | Polly Hudson",
-      "link": "https://www.theguardian.com/commentisfree/2026/apr/26/teenagers-are-calling-time-on-the-handshake-i-salute-them-from-a-safe-distance",
-      "mean_score": 0.4702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.5,
-      "first_sentence": "Sometimes you don\u2019t know what you\u2019ve got till it\u2019s gone.",
-      "timestamp": "2026-04-26T04:00:04Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Live: Focused Saints creating headaches for Eagles",
-      "link": "https://www.abc.net.au/news/2026-04-26/afl-live-blog-saints-eagles-lions-crows-giants-kangaroos/106607930",
-      "mean_score": 0.3611,
-      "vader_score": 0.5859,
-      "textblob_score": 0.1364,
-      "first_sentence": "West Coast travels to Melbourne to place St Kilda as it looks to halt a three-match losing streak.",
-      "timestamp": "2026-04-26T02:57:15Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Love story: Bonding with my daughter was amazing, but it took time",
-      "link": "https://www.abc.net.au/news/2026-04-26/falling-in-love-with-your-baby-later-than-expected/106362192",
-      "mean_score": 0.5812,
-      "vader_score": 0.6124,
-      "textblob_score": 0.55,
-      "first_sentence": "Molly, who was in the depths of perinatal depression and anxiety, didn't feel a bond with her baby at first.",
-      "timestamp": "2026-04-26T02:00:00Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "New CEO Steve O'Donnell vows to unite NASCAR and return the fun",
-      "link": "https://www.npr.org/2026/04/25/nx-s1-5799530/new-ceo-steve-odonnell-nascar",
-      "mean_score": 0.3644,
-      "vader_score": 0.5106,
-      "textblob_score": 0.2182,
-      "first_sentence": "O'Donnell was introduced as the sanctioning body's chief executive officer at Talladega Superspeedway on Saturday and vowed to \"make some moves\" that will return the storied racing series to its roots.",
-      "timestamp": "2026-04-26T00:32:28Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "In my apartment block\u2019s \u2018Room of Unlimited Magical Recycling Possibilities\u2019 I found not just freebies, but friends",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/apr/26/apartment-block-reuse-secondhand-share-recycling-room",
-      "mean_score": 0.52,
-      "vader_score": 0.5399,
-      "textblob_score": 0.5,
-      "first_sentence": "When I lived in inner Sydney, my apartment building had a dedicated reuse room for secondhand items.",
-      "timestamp": "2026-04-26T00:00:00Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "'Self-belief, respect': Indigenous boxers building strength with David Pocock",
-      "link": "https://www.abc.net.au/news/2026-04-26/act-first-nations-youth-development-cultural-camp-cuz-boxing/106597544",
-      "mean_score": 0.3715,
-      "vader_score": 0.743,
-      "textblob_score": 0.0,
-      "first_sentence": "In a basement gym below a church in Canberra, a congregation of athletes has come together for worship of another kind.",
-      "timestamp": "2026-04-25T22:11:25Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "You can holiday for free at this remote island, but there's a catch",
-      "link": "https://www.abc.net.au/news/2026-04-26/campground-hosting-on-qld-national-park-islands/106563278",
-      "mean_score": 0.3044,
-      "vader_score": 0.4588,
-      "textblob_score": 0.15,
-      "first_sentence": "Once a year, Brett and Lisa George leave their home on the mid north coast of New South Wales destined for a remote coral cay island in the southern Great Barrier Reef.",
-      "timestamp": "2026-04-25T22:00:21Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Australia's oldest surviving European cemetery kept alive by volunteers",
-      "link": "https://www.abc.net.au/news/2026-04-26/volunteers-keep-aus-oldest-european-cemetery-alive-parramatta/106585656",
-      "mean_score": 0.318,
-      "vader_score": 0.5859,
-      "textblob_score": 0.05,
-      "first_sentence": "With a pair of gardening gloves in hand and a massive grin on her face, historian Judith Dunn gestures to an old burial vault surrounded by tall native grasses.",
-      "timestamp": "2026-04-25T21:21:03Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "\u2018He needed intensive care and a team of specialists. He got me instead\u2019: an outback doctor on treating patients a long way from help",
-      "link": "https://www.theguardian.com/books/2026/apr/26/outback-doctor-northern-territory-australia",
-      "mean_score": 0.3298,
-      "vader_score": 0.7096,
-      "textblob_score": -0.05,
-      "first_sentence": "\u201cIt can be harder than aid work,\u201d a colleague cautioned me when I first applied to work in the remote Northern Territory.",
-      "timestamp": "2026-04-25T20:00:55Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "'Prince Harry is not speaking for the UK': The surprising comments made ahead of King Charles's US trip",
-      "link": "https://www.abc.net.au/news/2026-04-26/prince-harry-and-meghan-australia-trip-king-charles-us/106596286",
-      "mean_score": 0.4866,
-      "vader_score": 0.2732,
-      "textblob_score": 0.7,
-      "first_sentence": "Little more than a week after Meghan and Harry's 'quasi royal' tour in Australia, King Charles will be conducting the real thing in America, with much higher stakes.",
-      "timestamp": "2026-04-25T18:51:46Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "De Zerbi demands mentality shift at injury-hit Spurs: \u2018We need to stay strong in the head\u2019",
-      "link": "https://www.theguardian.com/football/2026/apr/25/roberto-de-zerbi-tottenham-wolves",
-      "mean_score": 0.472,
-      "vader_score": 0.5106,
-      "textblob_score": 0.4333,
-      "first_sentence": "Robert De Zerbi is waiting on the fitness of two more players, after Dominic Solanke and Xavi Simons were forced off injured at Molineux on Saturday, but he is optimistic that Tottenham\u2019s 1-0 victory at Wolves \u201ccan change something in our mentality\u201d.",
-      "timestamp": "2026-04-25T18:43:47Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Manchester City pull off comeback win against Southampton to reach FA Cup final",
-      "link": "https://www.theguardian.com/football/2026/apr/25/manchester-city-southampton-fa-cup-semi-final-match-report",
-      "mean_score": 0.4997,
-      "vader_score": 0.5994,
-      "textblob_score": 0.4,
-      "first_sentence": "What a barnstorming finish to this FA Cup semi-final, which featured three goals in eight minutes and ended with Nico Gonz\u00e1lez as the hero who swept Manchester City to a historic fourth consecutive final.",
-      "timestamp": "2026-04-25T18:35:35Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Jo\u00e3o Palhinha keeps Spurs\u2019 survival hopes alive with late winner at Wolves",
-      "link": "https://www.theguardian.com/football/2026/apr/25/wolves-tottenham-premier-league-match-report",
-      "mean_score": 0.374,
-      "vader_score": 0.8481,
-      "textblob_score": -0.1,
-      "first_sentence": "Roberto De Zerbi had said he wanted no crying in his camp, after Brighton scored their late equaliser last week.",
-      "timestamp": "2026-04-25T16:22:27Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "West Ham stay clear of drop zone after Wilson\u2019s vital late winner against Everton",
-      "link": "https://www.theguardian.com/football/2026/apr/25/west-ham-everton-premier-league-match-report",
-      "mean_score": 0.3623,
-      "vader_score": 0.7579,
-      "textblob_score": -0.0333,
-      "first_sentence": "Earlier in the season there would have been no coming back from such a crushing blow.",
-      "timestamp": "2026-04-25T16:09:46Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "'Truly exceptional person': Australian Olympian Gordon Ingate dies aged 100",
-      "link": "https://www.abc.net.au/news/2026-04-26/australian-olympian-gordon-ingate-dies-aged-100/106606892",
-      "mean_score": 0.3146,
-      "vader_score": 0.4404,
-      "textblob_score": 0.1889,
-      "first_sentence": "The Olympian competed in sailing at the 1972 Munich Olympic Games in the Tempest class, at the age of 46.",
-      "timestamp": "2026-04-25T14:06:27Z",
-      "source": "ABC News"
     }
   ]
 }
