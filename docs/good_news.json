@@ -1,6 +1,96 @@
 {
-  "last run": "2026-05-04T12:36:00Z",
+  "last run": "2026-05-05T00:35:55Z",
   "stories": [
+    {
+      "headline": "Wu Yize beats Shaun Murphy in thrilling final frame to win World Snooker Championship",
+      "link": "https://www.theguardian.com/sport/2026/may/04/wu-yize-shaun-murphy-world-snooker-championship",
+      "mean_score": 0.6095,
+      "vader_score": 0.8689,
+      "textblob_score": 0.35,
+      "first_sentence": "As the ticker tape rained down on Wu Yize and the Chinese flag was draped over the shoulders of snooker\u2019s newest superstar as he clutched the game\u2019s most famous prize, it was hard not to imagine that this sport was changing in front of our eyes for ever.",
+      "timestamp": "2026-05-04T21:57:19Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\"Notepad++ for Mac\" release is disavowed by the creator of the original",
+      "link": "https://arstechnica.com/gadgets/2026/05/unofficial-vibe-coded-notepad-for-mac-draws-objections-from-original-author/",
+      "mean_score": 0.3466,
+      "vader_score": 0.3182,
+      "textblob_score": 0.375,
+      "first_sentence": "As its name implies, the venerable Notepad++ text editor began as a more capable version of the classic Windows Notepad, with features such as line numbering and syntax highlighting.",
+      "timestamp": "2026-05-04T21:38:37Z",
+      "source": "Ars Technica"
+    },
+    {
+      "headline": "Met Gala 2026 red carpet: the best looks in pictures",
+      "link": "https://www.theguardian.com/fashion/gallery/2026/may/05/met-gala-2026-red-carpet",
+      "mean_score": 0.5685,
+      "vader_score": 0.6369,
+      "textblob_score": 0.5,
+      "first_sentence": "Event chairs Nicole Kidman, Beyonc\u00e9, Venus Williams and Anna Wintour had guests dress to the theme \u2018fashion is art\u2019, at the event controversially funded by new honorary chairs Jeff Bezos and Lauren S\u00e1nchez Bezos  Continue reading.",
+      "timestamp": "2026-05-04T21:23:26Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Gilmore's epic Gold Coast win shows young surfing stars how it's done",
+      "link": "https://www.abc.net.au/news/2026-05-05/steph-gilmore-gold-coast-pro-victory/106641468",
+      "mean_score": 0.4596,
+      "vader_score": 0.5859,
+      "textblob_score": 0.3333,
+      "first_sentence": "Making no promises about a ninth world title, surfing great Stephanie Gilmore says she has more in the tank after reclaiming her Gold Coast crown in her return to the world tour.",
+      "timestamp": "2026-05-04T21:04:25Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Here are the 2026 Pulitzer Prize winners",
+      "link": "https://www.npr.org/2026/05/04/nx-s1-5803483/pulitzer-prize-winners-2026",
+      "mean_score": 0.3753,
+      "vader_score": 0.7506,
+      "textblob_score": 0.0,
+      "first_sentence": "The 2026 Pulitzer Prizes were announced Monday afternoon, celebrating two dozen winners across journalism and the arts.",
+      "timestamp": "2026-05-04T20:00:16Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "Mikel Arteta promises fired-up Arsenal will play \u2018like beasts\u2019 in Atl\u00e9tico second leg",
+      "link": "https://www.theguardian.com/football/2026/may/04/mikel-arteta-arsenal-atletico-madrid-second-leg",
+      "mean_score": 0.3062,
+      "vader_score": 0.6124,
+      "textblob_score": 0.0,
+      "first_sentence": "Mikel Arteta promised that Arsenal\u2019s players will turn into \u201cbeasts\u201d as they attempt to reach the Champions League final for the first time since 2006.",
+      "timestamp": "2026-05-04T19:03:53Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Narendra Modi\u2019s BJP wins election in West Bengal for the first time",
+      "link": "https://www.theguardian.com/world/2026/may/04/modis-bjp-party-win-election-west-bengal-first-time",
+      "mean_score": 0.4234,
+      "vader_score": 0.5719,
+      "textblob_score": 0.275,
+      "first_sentence": "Narendra Modi\u2019s party has won a resounding election victory in West Bengal, a state which had been a rare opposition stronghold, expanding his unrivalled consolidation of power across the country.",
+      "timestamp": "2026-05-04T17:34:24Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "AMD is adding HDMI 2.1 support for Linux. That's good news for the Steam Machine.",
+      "link": "https://arstechnica.com/gaming/2026/05/amd-is-adding-hdmi-2-1-support-for-linux-thats-good-news-for-the-steam-machine/",
+      "mean_score": 0.6904,
+      "vader_score": 0.6808,
+      "textblob_score": 0.7,
+      "first_sentence": "Fixed Rate Link being added now; Display Stream Compression coming soon.",
+      "timestamp": "2026-05-04T16:26:49Z",
+      "source": "Ars Technica"
+    },
+    {
+      "headline": "One in four humanities students in Australia to take more than 25 years to pay off student loans, Treasury finds",
+      "link": "https://www.theguardian.com/australia-news/2026/may/04/hecs-student-loan-humanities-students-australia-25-years",
+      "mean_score": 0.3014,
+      "vader_score": 0.1027,
+      "textblob_score": 0.5,
+      "first_sentence": "One in four humanities students will take more than 25 years to fully repay their student loans because of Morrison government changes to university fees, newly public Treasury modelling reveals.",
+      "timestamp": "2026-05-04T15:00:26Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "UK joining Ukraine loan scheme would be good for EU ties, Starmer says",
       "link": "https://www.bbc.com/news/articles/c1420e1p1l0o?at_medium=RSS&at_campaign=rss",
@@ -2410,96 +2500,6 @@
       "first_sentence": "The Olympian competed in sailing at the 1972 Munich Olympic Games in the Tempest class, at the age of 46.",
       "timestamp": "2026-04-25T14:06:27Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "Ifrah F Ahmed\u2019s debut cookbook is a love letter to Somali cuisine, history and people",
-      "link": "https://www.theguardian.com/food/2026/apr/25/ifrah-f-ahmed-soomaaliya-cookbook-somali-cuisine",
-      "mean_score": 0.5685,
-      "vader_score": 0.6369,
-      "textblob_score": 0.5,
-      "first_sentence": "On a video call from Brooklyn, between stops on her book tour, Ifrah F Ahmed is drinking ginger-root tea.",
-      "timestamp": "2026-04-25T14:00:47Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Artemis II broke Fred Haise's distance record, but he is happy to pass it on",
-      "link": "https://arstechnica.com/science/2026/04/artemis-ii-broke-fred-haises-distance-record-but-he-is-happy-to-pass-it-on/",
-      "mean_score": 0.7155,
-      "vader_score": 0.631,
-      "textblob_score": 0.8,
-      "first_sentence": "With the circumlunar flight of Artemis II, and the prospect of landing astronauts on the lunar surface within a few years, humanity is preempting an era where the imprint of visiting the Moon would be erased from living memory.",
-      "timestamp": "2026-04-25T11:40:58Z",
-      "source": "Ars Technica"
-    },
-    {
-      "headline": "\u2018It\u2019s a huge, futuristic space with massive skylights\u2019: Ali Zolghadri\u2019s best phone picture",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/apr/25/ali-zolghadri-best-phone-picture",
-      "mean_score": 0.6123,
-      "vader_score": 0.7579,
-      "textblob_score": 0.4667,
-      "first_sentence": "The Iran Mall in Tehran is the largest shopping mall in the world.",
-      "timestamp": "2026-04-25T10:00:42Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Disco hit: Penne alla vodka, popular in New York 80s clubs, is now a menu staple",
-      "link": "https://www.theguardian.com/food/2026/apr/25/penne-alla-vodka-popular-new-york-80s-resurgence",
-      "mean_score": 0.3948,
-      "vader_score": 0.4215,
-      "textblob_score": 0.3682,
-      "first_sentence": "Despite most traditional Italians considering it sacrilegious, penne alla vodka is quickly becoming one of the most in-demand Italian dishes.",
-      "timestamp": "2026-04-25T08:00:40Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "'Very funny' statue of Monty Python's Terry Jones to be unveiled",
-      "link": "https://www.bbc.com/news/articles/cpvxe049zwpo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4089,
-      "vader_score": 0.4927,
-      "textblob_score": 0.325,
-      "first_sentence": "A statue commemorating the actor and writer Terry Jones will be unveiled in his birthplace this weekend.",
-      "timestamp": "2026-04-25T06:02:08Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Live: Hawks get the jump over Suns before Anzac Day blockbuster at the MCG",
-      "link": "https://www.abc.net.au/news/2026-04-25/afl-round-seven-live-blog-haw-gc-ess-coll-pa-gee-freo-carl/106604198",
-      "mean_score": 0.3679,
-      "vader_score": 0.5994,
-      "textblob_score": 0.1364,
-      "first_sentence": "Hawthorn and Gold Coast meet for a battle of premiership contenders in Launceston, before the traditional MCG Anzac Day blockbuster between Essendon and Collingwood.",
-      "timestamp": "2026-04-25T02:12:35Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "This easy 'hug in a bowl' chicken stew is perfect for midweek dinners",
-      "link": "https://www.abc.net.au/news/2026-04-25/easy-creamy-midweek-chicken-stew-elizabeth-hewson/106591796",
-      "mean_score": 0.5718,
-      "vader_score": 0.8658,
-      "textblob_score": 0.2778,
-      "first_sentence": "Elizabeth Hewson is a cookbook author and food columnist who lives on Gadigal Land in Sydney.",
-      "timestamp": "2026-04-25T02:00:00Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "'Fear and hope' of foster care journey inspires teen artist",
-      "link": "https://www.abc.net.au/news/2026-04-25/keira-graham-indigenous-artist-experience-in-foster-care/106191792",
-      "mean_score": 0.3502,
-      "vader_score": 0.7003,
-      "textblob_score": 0.0,
-      "first_sentence": "Indigenous artist Keira Graham is using her work to explore her Anmatjere and Arrernte culture and experiences in the foster care system.",
-      "timestamp": "2026-04-24T21:30:00Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "The supersonic strike navigator who discovered the surprising truth about his heritage",
-      "link": "https://www.theguardian.com/australia-news/2026/apr/25/supersonic-strike-navigator-indigenous-ancestry",
-      "mean_score": 0.5702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.7,
-      "first_sentence": "Relaxing in his civvies at the cafe in the Australian War Memorial\u2019s newly opened Anzac Hall, retired Group Captain Lyle Holt looks less like a man who spent years as a supersonic strike navigator and more like a man bridging two worlds.",
-      "timestamp": "2026-04-24T15:00:20Z",
-      "source": "The Guardian"
     }
   ]
 }

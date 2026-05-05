@@ -1,5 +1,95 @@
 [
   {
+    "headline": "Ifrah F Ahmed\u2019s debut cookbook is a love letter to Somali cuisine, history and people",
+    "link": "https://www.theguardian.com/food/2026/apr/25/ifrah-f-ahmed-soomaaliya-cookbook-somali-cuisine",
+    "mean_score": 0.5685,
+    "vader_score": 0.6369,
+    "textblob_score": 0.5,
+    "first_sentence": "On a video call from Brooklyn, between stops on her book tour, Ifrah F Ahmed is drinking ginger-root tea.",
+    "timestamp": "2026-04-25T14:00:47Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Artemis II broke Fred Haise's distance record, but he is happy to pass it on",
+    "link": "https://arstechnica.com/science/2026/04/artemis-ii-broke-fred-haises-distance-record-but-he-is-happy-to-pass-it-on/",
+    "mean_score": 0.7155,
+    "vader_score": 0.631,
+    "textblob_score": 0.8,
+    "first_sentence": "With the circumlunar flight of Artemis II, and the prospect of landing astronauts on the lunar surface within a few years, humanity is preempting an era where the imprint of visiting the Moon would be erased from living memory.",
+    "timestamp": "2026-04-25T11:40:58Z",
+    "source": "Ars Technica"
+  },
+  {
+    "headline": "\u2018It\u2019s a huge, futuristic space with massive skylights\u2019: Ali Zolghadri\u2019s best phone picture",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/apr/25/ali-zolghadri-best-phone-picture",
+    "mean_score": 0.6123,
+    "vader_score": 0.7579,
+    "textblob_score": 0.4667,
+    "first_sentence": "The Iran Mall in Tehran is the largest shopping mall in the world.",
+    "timestamp": "2026-04-25T10:00:42Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Disco hit: Penne alla vodka, popular in New York 80s clubs, is now a menu staple",
+    "link": "https://www.theguardian.com/food/2026/apr/25/penne-alla-vodka-popular-new-york-80s-resurgence",
+    "mean_score": 0.3948,
+    "vader_score": 0.4215,
+    "textblob_score": 0.3682,
+    "first_sentence": "Despite most traditional Italians considering it sacrilegious, penne alla vodka is quickly becoming one of the most in-demand Italian dishes.",
+    "timestamp": "2026-04-25T08:00:40Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "'Very funny' statue of Monty Python's Terry Jones to be unveiled",
+    "link": "https://www.bbc.com/news/articles/cpvxe049zwpo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4089,
+    "vader_score": 0.4927,
+    "textblob_score": 0.325,
+    "first_sentence": "A statue commemorating the actor and writer Terry Jones will be unveiled in his birthplace this weekend.",
+    "timestamp": "2026-04-25T06:02:08Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Live: Hawks get the jump over Suns before Anzac Day blockbuster at the MCG",
+    "link": "https://www.abc.net.au/news/2026-04-25/afl-round-seven-live-blog-haw-gc-ess-coll-pa-gee-freo-carl/106604198",
+    "mean_score": 0.3679,
+    "vader_score": 0.5994,
+    "textblob_score": 0.1364,
+    "first_sentence": "Hawthorn and Gold Coast meet for a battle of premiership contenders in Launceston, before the traditional MCG Anzac Day blockbuster between Essendon and Collingwood.",
+    "timestamp": "2026-04-25T02:12:35Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "This easy 'hug in a bowl' chicken stew is perfect for midweek dinners",
+    "link": "https://www.abc.net.au/news/2026-04-25/easy-creamy-midweek-chicken-stew-elizabeth-hewson/106591796",
+    "mean_score": 0.5718,
+    "vader_score": 0.8658,
+    "textblob_score": 0.2778,
+    "first_sentence": "Elizabeth Hewson is a cookbook author and food columnist who lives on Gadigal Land in Sydney.",
+    "timestamp": "2026-04-25T02:00:00Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "'Fear and hope' of foster care journey inspires teen artist",
+    "link": "https://www.abc.net.au/news/2026-04-25/keira-graham-indigenous-artist-experience-in-foster-care/106191792",
+    "mean_score": 0.3502,
+    "vader_score": 0.7003,
+    "textblob_score": 0.0,
+    "first_sentence": "Indigenous artist Keira Graham is using her work to explore her Anmatjere and Arrernte culture and experiences in the foster care system.",
+    "timestamp": "2026-04-24T21:30:00Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "The supersonic strike navigator who discovered the surprising truth about his heritage",
+    "link": "https://www.theguardian.com/australia-news/2026/apr/25/supersonic-strike-navigator-indigenous-ancestry",
+    "mean_score": 0.5702,
+    "vader_score": 0.4404,
+    "textblob_score": 0.7,
+    "first_sentence": "Relaxing in his civvies at the cafe in the Australian War Memorial\u2019s newly opened Anzac Hall, retired Group Captain Lyle Holt looks less like a man who spent years as a supersonic strike navigator and more like a man bridging two worlds.",
+    "timestamp": "2026-04-24T15:00:20Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Lisa Wilkinson: \u2018Evelyn was my safe place. She was my refuge\u2019",
     "link": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/apr/25/lisa-wilkinson-interview-defamation-evelyn-titanic-survivor-ntwnfb",
     "mean_score": 0.4702,
