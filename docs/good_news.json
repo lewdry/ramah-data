@@ -1,6 +1,96 @@
 {
-  "last run": "2026-05-05T12:27:56Z",
+  "last run": "2026-05-06T00:35:00Z",
   "stories": [
+    {
+      "headline": "Arsenal close in on historic double by reaching Champions League final",
+      "link": "https://www.abc.net.au/news/2026-05-06/arsenal-through-to-champions-league-final-atletico-madrid/106646246",
+      "mean_score": 0.3185,
+      "vader_score": 0.6369,
+      "textblob_score": 0.0,
+      "first_sentence": "Arsenal reached the Champions League final for the second time in their history with a 1-0 home win over Atletico Madrid, sealing a 2-1 aggregate victory in the semifinal.",
+      "timestamp": "2026-05-05T21:51:20Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "FDA blocked studies finding Covid and shingles vaccines safe, HHS official says",
+      "link": "https://www.theguardian.com/us-news/2026/may/05/covid-shingles-vaccines-studies-fda",
+      "mean_score": 0.3512,
+      "vader_score": 0.2023,
+      "textblob_score": 0.5,
+      "first_sentence": "The US Food and Drug Administration has blocked the publication of several studies that found Covid-19 and shingles vaccines to be safe, according to a spokesperson from the Department of Health and Human Services.",
+      "timestamp": "2026-05-05T21:46:10Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Gibson shrugs off bagel to win through in Rome",
+      "link": "https://www.abc.net.au/news/2026-05-06/talia-gibson-martina-trevisan-win-in-rome/106646184",
+      "mean_score": 0.6929,
+      "vader_score": 0.5859,
+      "textblob_score": 0.8,
+      "first_sentence": "Talia Gibson has recovered from a bagel set to move into the second round of the Italian Open in Rome.",
+      "timestamp": "2026-05-05T21:08:22Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Midwives saved his mom's life -- and inspired him to pursue the profession",
+      "link": "https://www.npr.org/2026/05/05/g-s1-119984/midwife-midwives-childbirth",
+      "mean_score": 0.3592,
+      "vader_score": 0.7184,
+      "textblob_score": 0.0,
+      "first_sentence": "Dawit Tamiru knew he wanted to be a midwife when he was just about 10 years old.",
+      "timestamp": "2026-05-05T19:13:17Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "More than 8 million Australians now receive income support",
+      "link": "https://www.abc.net.au/news/2026-05-06/income-support-grows-mental-health-work/106626692",
+      "mean_score": 0.4509,
+      "vader_score": 0.4019,
+      "textblob_score": 0.5,
+      "first_sentence": "New data has found the number of Australians accessing some form of income support is growing, with 2 million more now than 10 years ago.",
+      "timestamp": "2026-05-05T18:42:10Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Lidl's new loyalty scheme less generous, shoppers say",
+      "link": "https://www.bbc.com/news/articles/ckgp7y5jg59o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3716,
+      "vader_score": 0.7584,
+      "textblob_score": -0.0152,
+      "first_sentence": "Upset Lidl shoppers have complained on social media the supermarket chain's updated loyalty scheme is less generous than before.",
+      "timestamp": "2026-05-05T16:30:30Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Charlize Theron is a bewitching Circe in Odyssey trailer",
+      "link": "https://arstechnica.com/culture/2026/05/nolans-the-odyssey-gets-a-new-trailer-and-were-here-for-it/",
+      "mean_score": 0.35,
+      "vader_score": 0.0,
+      "textblob_score": 0.7,
+      "first_sentence": "Over the last year, Christopher Nolan and Universal Pictures have been trickling out sneak peeks and teasers for Nolan\u2019s forthcoming film version of The Odyssey, adapting Homer\u2019s classic poem.",
+      "timestamp": "2026-05-05T15:20:24Z",
+      "source": "Ars Technica"
+    },
+    {
+      "headline": "Best TV and movies streaming in Australia on Netflix, HBO Max, Disney, Prime, ABC and more",
+      "link": "https://www.theguardian.com/tv-and-radio/ng-interactive/2026/may/05/best-tv-movies-streaming-australia-may-2026",
+      "mean_score": 0.6935,
+      "vader_score": 0.6369,
+      "textblob_score": 0.75,
+      "first_sentence": "It\u2019s tough to single out a best performance from Jesse Plemons \u2013 a superb character actor who brings a low-voltage calm to unsettling roles, with a knack for holding things at a disquieting simmer.",
+      "timestamp": "2026-05-05T15:00:44Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Sabalenka believes players will boycott grand slams to \u2018fight for our rights\u2019",
+      "link": "https://www.theguardian.com/sport/2026/may/05/aryna-sabalenka-tennis-grand-slam-boycott-prize-money",
+      "mean_score": 0.3389,
+      "vader_score": 0.1779,
+      "textblob_score": 0.5,
+      "first_sentence": "Aryna Sabalenka believes the top tennis players will boycott grand slam tournaments in an attempt to resolve their dispute with the four events, which they argue should provide players with a greater share of their growing revenues.",
+      "timestamp": "2026-05-05T13:32:02Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "A new kind of van life: $180 to camp for seven months \u2013 and a real taste of freedom",
       "link": "https://www.theguardian.com/us-news/2026/may/05/van-life-quartzsite-arizona",
@@ -199,6 +289,16 @@
       "textblob_score": 0.0,
       "first_sentence": "The 2026 Pulitzer Prizes were announced Monday afternoon, celebrating two dozen winners across journalism and the arts.",
       "timestamp": "2026-05-04T20:00:16Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "Anti-poverty program is effective even in one of the world's toughest settings",
+      "link": "https://www.npr.org/2026/05/04/nx-s1-5803146/anti-poverty-effective-worlds-toughest-settings-displaced-people",
+      "mean_score": 0.5108,
+      "vader_score": 0.4215,
+      "textblob_score": 0.6,
+      "first_sentence": "Fadumo Abdi Sheikh and her children lost everything about a decade ago when famine and drought forced them to leave their village in Somalia and flee to the city of Baidoa.",
+      "timestamp": "2026-05-04T19:56:47Z",
       "source": "NPR News"
     },
     {
@@ -2399,106 +2499,6 @@
       "textblob_score": 0.7,
       "first_sentence": "The week in football was characterised in many ways by the absence of competence.",
       "timestamp": "2026-04-26T15:00:18Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Kindness of strangers: I was so pregnant I couldn\u2019t see my feet when a woman offered to tie my shoelace",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/apr/27/kindness-strangers-pregnant-woman-shoelace",
-      "mean_score": 0.3961,
-      "vader_score": 0.4588,
-      "textblob_score": 0.3333,
-      "first_sentence": "It was my first pregnancy and I\u2019d been sick for more than seven months with hyperemesis gravidarum.",
-      "timestamp": "2026-04-26T15:00:17Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Bosses don\u2019t like the sound of a \u2018four-day workweek\u2019. Maybe it\u2019s time to rebrand it",
-      "link": "https://www.theguardian.com/business/2026/apr/26/four-day-workweek-employment",
-      "mean_score": 0.3806,
-      "vader_score": 0.3612,
-      "textblob_score": 0.4,
-      "first_sentence": "We keep hearing that the four-day workweek is the future.",
-      "timestamp": "2026-04-26T14:00:16Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The surprising boom in blouge wine: \u2018It\u2019s for 5pm, in the sun\u2019",
-      "link": "https://www.theguardian.com/food/2026/apr/26/blouge-natural-wine-trend",
-      "mean_score": 0.4866,
-      "vader_score": 0.2732,
-      "textblob_score": 0.7,
-      "first_sentence": "Literally a mix of white (blanc) and red (rouge) grapes, the light, fresh tipple is popping up in bars around the world.",
-      "timestamp": "2026-04-26T13:00:16Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The Missouri tofu spill was \u2018unforgettable\u2019 \u2013 but what are history\u2019s greatest bad smells?",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/apr/26/the-missouri-tofu-spill-was-unforgettable-but-what-are-historys-greatest-bad-smells",
-      "mean_score": 0.3142,
-      "vader_score": 0.2617,
-      "textblob_score": 0.3667,
-      "first_sentence": "This week\u2019s replies: Donald Trump is not the messiah.",
-      "timestamp": "2026-04-26T13:00:15Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Fifa agrees to increase World Cup prize money after countries raise concerns over costs",
-      "link": "https://www.theguardian.com/football/2026/apr/26/fifa-agrees-to-increase-world-cup-prize-money-after-countries-raise-concerns-over-costs",
-      "mean_score": 0.3753,
-      "vader_score": 0.7506,
-      "textblob_score": 0.0,
-      "first_sentence": "Fifa has agreed in principle to increase World Cup 2026 prize money and participation fees, with details of the enhanced funding to be approved at a meeting of the Fifa Council in Vancouver this week.",
-      "timestamp": "2026-04-26T12:00:14Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "How to make the perfect custard creams \u2013 recipe | Felicity Cloake's How to make the perfect \u2026",
-      "link": "https://www.theguardian.com/food/2026/apr/26/how-to-make-the-perfect-custard-creams-recipe-felicity-cloake",
-      "mean_score": 0.9063,
-      "vader_score": 0.8126,
-      "textblob_score": 1.0,
-      "first_sentence": "They may be pennies a packet, but the ubiquitous custard cream can be a revelation if you make them at home.",
-      "timestamp": "2026-04-26T12:00:14Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Kenya's Sabastian Sawe is first person to run sub-2-hour marathon to win in London",
-      "link": "https://www.npr.org/2026/04/26/nx-s1-5800057/kenya-sabastian-sawe-first-person-2-hour-marathon-london",
-      "mean_score": 0.5554,
-      "vader_score": 0.5859,
-      "textblob_score": 0.525,
-      "first_sentence": "LONDON \u2014 Sabastian Sawe of Kenya has become the first person to break the fabled 2-hour barrier in the marathon.",
-      "timestamp": "2026-04-26T11:34:47Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "\u2018I don\u2019t believe in song shaming!\u2019: Jon Batiste\u2019s honest playlist",
-      "link": "https://www.theguardian.com/music/2026/apr/26/jon-batiste-honest-playlist-amyl-sniffers-clarence-carter-steely-dan",
-      "mean_score": 0.5781,
-      "vader_score": 0.5562,
-      "textblob_score": 0.6,
-      "first_sentence": "The acclaimed musician and former late night bandleader loves everything from Amyl and the Sniffers to Erykah Badu.",
-      "timestamp": "2026-04-26T08:01:08Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Aussie stuns Brazil's fab four for first World Surf League title",
-      "link": "https://www.abc.net.au/news/2026-04-26/george-pittar-wins-margaret-river-pro-first-wsl-title/106608282",
-      "mean_score": 0.3634,
-      "vader_score": 0.4767,
-      "textblob_score": 0.25,
-      "first_sentence": "Australian surfer George Pittar claimed a maiden World Surf League (WSL) title with victory in the Margaret River Pro.",
-      "timestamp": "2026-04-26T06:00:47Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Forget Florence: six of the best towns in Tuscany to escape overtourism",
-      "link": "https://www.theguardian.com/travel/2026/apr/26/six-best-towns-escape-overtourism-tuscany-monteriggioni-pienza-arezzo-volterra-livorno-porto-ercole",
-      "mean_score": 0.8062,
-      "vader_score": 0.6124,
-      "textblob_score": 1.0,
-      "first_sentence": "First, it was Barcelona, Venice and Dubrovnik.",
-      "timestamp": "2026-04-26T06:00:06Z",
       "source": "The Guardian"
     }
   ]
