@@ -1,6 +1,156 @@
 {
-  "last run": "2026-05-06T00:35:00Z",
+  "last run": "2026-05-06T12:39:32Z",
   "stories": [
+    {
+      "headline": "Democrats gain midterm edge, NPR poll shows. And, U.S. pauses 'Project Freedom'",
+      "link": "https://www.npr.org/2026/05/06/g-s1-120384/up-first-newsletter-economy-democrats-poll-advantage-indiana-primary-project-freedom-paused",
+      "mean_score": 0.4113,
+      "vader_score": 0.8225,
+      "textblob_score": 0.0,
+      "first_sentence": "Good morning.",
+      "timestamp": "2026-05-06T11:32:52Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "\u2018Everything can happen\u2019: Trossard confident of Arsenal\u2019s chances in final",
+      "link": "https://www.theguardian.com/football/2026/may/06/leandro-trossard-arsenal-champions-league-final-budapest-psg-bayern",
+      "mean_score": 0.4312,
+      "vader_score": 0.6124,
+      "textblob_score": 0.25,
+      "first_sentence": "Arsenal will travel to Budapest for the Champions League final against Paris Saint-Germain or Bayern Munich with no trace of an inferiority complex, according to Leandro Trossard, who knows that anything is possible in a one-off game.",
+      "timestamp": "2026-05-06T11:14:06Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Vivek Ramaswamy wins Republican nomination for Ohio governor",
+      "link": "https://www.bbc.com/news/articles/c4g0xe4qlzxo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4359,
+      "vader_score": 0.5719,
+      "textblob_score": 0.3,
+      "first_sentence": "Vivek Ramaswamy will run for the position of Ohio governor in November, after the staunch ally of US President Donald Trump emerged victorious in one of a series of primary contests held in the US Midwest.",
+      "timestamp": "2026-05-06T11:04:06Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "\u2018I\u2019m getting my mama a new house\u2019: what happens when a huge pay boost changes WNBA players\u2019 lives?",
+      "link": "https://www.theguardian.com/sport/2026/may/06/wnba-new-cba-salary-increases-season",
+      "mean_score": 0.4128,
+      "vader_score": 0.5574,
+      "textblob_score": 0.2682,
+      "first_sentence": "The WNBA is entering its 30th season, a milestone worthy of as big of a celebration as its players could muster \u2013 and this year, they mustered up a lot.",
+      "timestamp": "2026-05-06T10:00:06Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Mexico nightclub\u2019s $300 cover charge for US citizens captures popular mood",
+      "link": "https://www.theguardian.com/world/2026/may/06/mexico-nightclub-cover-charge-us-citizens",
+      "mean_score": 0.5108,
+      "vader_score": 0.4215,
+      "textblob_score": 0.6,
+      "first_sentence": "A Mexico City nightclub has gone viral for charging Americans a nearly $300 cover charge, while citizens from any other country pay just $20 for access, and Mexicans and other Latin Americans pay only $14.",
+      "timestamp": "2026-05-06T10:00:05Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Viral volleyball star Jordan Lucas: \u2018I\u2019m celebrating like NFL players, just in a more feminine way\u2019",
+      "link": "https://www.theguardian.com/sport/2026/may/06/jordan-lucas-volleyball-celebrations",
+      "mean_score": 0.6176,
+      "vader_score": 0.7351,
+      "textblob_score": 0.5,
+      "first_sentence": "\u201cI think people are really enamored with me because you don\u2019t often see someone like me \u2013 animated, flamboyant \u2013 but still able to back it up on the volleyball court,\u201d says Jordan Lucas, the outside hitter for Cal State Northridge\u2019s men\u2019s team.",
+      "timestamp": "2026-05-06T09:00:05Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Sali Hughes on beauty: the best tinted sunscreens deliver SPF, moisture and a spring glow all in one",
+      "link": "https://www.theguardian.com/fashion/2026/may/06/sali-hughes-on-beauty-the-best-tinted-sunscreens-deliver-spf-moisture-and-a-spring-glow-all-in-one",
+      "mean_score": 0.9201,
+      "vader_score": 0.8402,
+      "textblob_score": 1.0,
+      "first_sentence": "The Guardian\u2019s journalism is independent.",
+      "timestamp": "2026-05-06T09:00:04Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "What Am I, a Deer? by Polly Barton review \u2013 shyness, obsession and the joy of karaoke",
+      "link": "https://www.theguardian.com/books/2026/may/06/what-am-i-a-deer-by-polly-barton-review-shyness-obsession-and-the-joy-of-karaoke",
+      "mean_score": 0.4129,
+      "vader_score": 0.0258,
+      "textblob_score": 0.8,
+      "first_sentence": "Without meaning any disrespect to the now defunct noughties R&B trio Mis-Teeq, one would be hard pressed to think of many novels that open with an epigraph from their oeuvre.",
+      "timestamp": "2026-05-06T08:01:03Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Iron Maiden: Burning Ambition review \u2013 on-brand fan pleaser is a metal hymn of praise",
+      "link": "https://www.theguardian.com/film/2026/may/06/iron-maiden-burning-ambition-review",
+      "mean_score": 0.4113,
+      "vader_score": 0.8225,
+      "textblob_score": 0.0,
+      "first_sentence": "Sounding a power chord of defiance against the milksop trends of pop is this good-natured documentary about metal superheroes Iron Maiden.",
+      "timestamp": "2026-05-06T08:00:03Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Finnish defence giant has tech 'Australia might be interested in'",
+      "link": "https://www.abc.net.au/news/2026-05-06/finland-australia-defence-ties-growing-amid-ukraine-iran-us-wars/106637946",
+      "mean_score": 0.3009,
+      "vader_score": 0.4767,
+      "textblob_score": 0.125,
+      "first_sentence": "The company that provides much of Australia's satellite surveillance for real-time disaster management may also soon be sharing its defence technology, as Finland becomes the latest European country to seek closer ties on security.",
+      "timestamp": "2026-05-06T05:37:38Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Greg James's Comic Relief bike sells for \u00a311k",
+      "link": "https://www.bbc.com/news/articles/cq8pkek3kyvo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3634,
+      "vader_score": 0.4767,
+      "textblob_score": 0.25,
+      "first_sentence": "The tandem bike ridden 1,000km (630 miles) by BBC Radio 1's Greg James for Comic Relief has been bought by an anonymous bidder at auction for \u00a311,000.",
+      "timestamp": "2026-05-06T05:14:24Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Sydney film festival 2026: nine of the best movies and one free event",
+      "link": "https://www.theguardian.com/film/2026/may/06/sydney-film-festival-2026-movies-highlights",
+      "mean_score": 0.7967,
+      "vader_score": 0.8934,
+      "textblob_score": 0.7,
+      "first_sentence": "The Sydney film festival is almost upon us! It\u2019s time to play the music, it\u2019s time to light the lights, it\u2019s time to meet the \u2013 no, wait, wrong event.",
+      "timestamp": "2026-05-06T03:33:53Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Matthew Perry\u2019s belongings to be auctioned as Friends memorabilia and original Banksy up for sale",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/may/06/matthew-perry-estate-auction-friends-memorabilia-banksy-batman",
+      "mean_score": 0.5173,
+      "vader_score": 0.6597,
+      "textblob_score": 0.375,
+      "first_sentence": "Signed Friends scripts, a custom Batman ping-pong table and a replica of the peephole on Monica and Rachel\u2019s apartment are among several valuables from the estate of Matthew Perry up for sale at a charity auction.",
+      "timestamp": "2026-05-06T01:43:32Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Thank you, David Attenborough, for 100 incredible years of life on Earth | Jess Harwood",
+      "link": "https://www.theguardian.com/commentisfree/picture/2026/may/06/thank-you-david-attenborough-for-100-incredible-years-of-life-on-earth",
+      "mean_score": 0.6306,
+      "vader_score": 0.3612,
+      "textblob_score": 0.9,
+      "first_sentence": "As a kid I would do his voice, put on my dad\u2019s work shirt and host my own nature documentaries in the backyardSee more of Jess Harwood\u2019s cartoons here Continue reading.",
+      "timestamp": "2026-05-06T01:28:33Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "The ideal age to start swimming lessons for your child",
+      "link": "https://www.abc.net.au/news/2026-05-06/what-age-should-a-child-start-swimming-lessons/106586836",
+      "mean_score": 0.7133,
+      "vader_score": 0.5267,
+      "textblob_score": 0.9,
+      "first_sentence": "Swimming ability is declining in Australia, with almost half of year 6 students unable to swim 50 metres and tread water for 2 minutes \u2014 the minimum water safety requirements for their age.",
+      "timestamp": "2026-05-05T23:06:01Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Arsenal close in on historic double by reaching Champions League final",
       "link": "https://www.abc.net.au/news/2026-05-06/arsenal-through-to-champions-league-final-atletico-madrid/106646246",
@@ -30,6 +180,16 @@
       "first_sentence": "Talia Gibson has recovered from a bagel set to move into the second round of the Italian Open in Rome.",
       "timestamp": "2026-05-05T21:08:22Z",
       "source": "ABC News"
+    },
+    {
+      "headline": "Tax breaks, super changes to kick in on 1 July as Chalmers flags more to come in budget",
+      "link": "https://www.sbs.com.au/news/article/tax-breaks-to-kick-in-as-chalmers-flags-more-changes-in-upcoming-budget/df0dwa9jm",
+      "mean_score": 0.508,
+      "vader_score": 0.5994,
+      "textblob_score": 0.4167,
+      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+      "timestamp": "2026-05-05T19:32:11Z",
+      "source": "SBS News"
     },
     {
       "headline": "Midwives saved his mom's life -- and inspired him to pursue the profession",
@@ -2340,166 +2500,6 @@
       "first_sentence": "PINE BLUFF, Ark.",
       "timestamp": "2026-04-27T05:07:11Z",
       "source": "NPR News"
-    },
-    {
-      "headline": "Four easy egg recipes to add to your regular rotation",
-      "link": "https://www.abc.net.au/news/2026-04-27/egg-recipes-midweek-meals/106595948",
-      "mean_score": 0.3285,
-      "vader_score": 0.4404,
-      "textblob_score": 0.2167,
-      "first_sentence": "It's packed full of nutrients, relatively cheap and oh so versatile.",
-      "timestamp": "2026-04-27T05:03:15Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Healthy life expectancy gap between rich and poor has widened, study finds",
-      "link": "https://www.bbc.com/news/articles/c20q07w3gl9o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3261,
-      "vader_score": 0.4939,
-      "textblob_score": 0.1583,
-      "first_sentence": "People in the wealthiest areas can have 20 more years of good health than those in the poorest, according to a new report.",
-      "timestamp": "2026-04-27T04:55:50Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "People in UK spend fewer years in good health than a decade ago, study finds",
-      "link": "https://www.theguardian.com/society/2026/apr/27/people-in-uk-spend-fewer-years-in-good-health-than-a-decade-ago-study-finds",
-      "mean_score": 0.5702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.7,
-      "first_sentence": "People in the UK are spending fewer years in good health than a decade ago, prompting concern that the population\u2019s health is \u201cgoing backwards\u201d.",
-      "timestamp": "2026-04-27T04:00:34Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Findings on healthy life expectancy in UK shed light on its deteriorating health",
-      "link": "https://www.theguardian.com/uk-news/2026/apr/27/findings-healthy-life-expectancy-uk-shed-light-deteriorating-health",
-      "mean_score": 0.4259,
-      "vader_score": 0.4019,
-      "textblob_score": 0.45,
-      "first_sentence": "The obesity crisis, the record 2.8 million working-age Britons too sick to do so and the rising prevalence of mental illness are sobering reminders that the UK population\u2019s health is not good.",
-      "timestamp": "2026-04-27T04:00:33Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "McDonald\u2019s to open on Melbourne street once dubbed \u2018world\u2019s coolest\u2019 after winning legal challenge",
-      "link": "https://www.theguardian.com/australia-news/2026/apr/27/mcdonalds-melbourne-high-street-worlds-coolest-legal-win",
-      "mean_score": 0.4351,
-      "vader_score": 0.6369,
-      "textblob_score": 0.2333,
-      "first_sentence": "McDonald\u2019s is poised to open a 24/7 takeaway outlet on a Melbourne street once dubbed the \u201cworld\u2019s coolest\u201d after the fast food giant won its legal challenge against the local council\u2019s attempt to block the new restaurant.",
-      "timestamp": "2026-04-27T03:52:27Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Poga\u010dar looks unbeatable, but Seixas could be France's next new hope",
-      "link": "https://www.abc.net.au/news/2026-04-27/tadej-pogacar-liege-bastogne-liege-paul-seixas-tour-de-france/106610816",
-      "mean_score": 0.3304,
-      "vader_score": 0.5927,
-      "textblob_score": 0.0682,
-      "first_sentence": "Tadej Poga\u010dar has long looked unstoppable in cycling's biggest races.",
-      "timestamp": "2026-04-27T03:35:52Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "'She's like Will Ferrell': Why Kitty Flanagan said yes to Anne Edmonds",
-      "link": "https://www.abc.net.au/news/2026-04-27/bad-company-anne-edmonds-kitty-flanagan-comedy-theatre-arts/106596092",
-      "mean_score": 0.3185,
-      "vader_score": 0.6369,
-      "textblob_score": 0.0,
-      "first_sentence": "Anne Edmonds was performing a show with the Melbourne Theatre Company when she was struck with the idea for her latest comedy series Bad Company \u2014 an unfettered satire of the arts world.",
-      "timestamp": "2026-04-26T23:15:01Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Canada's Carney has enjoyed a long political honeymoon. Now comes the test",
-      "link": "https://www.bbc.com/news/articles/c70d249rd0go?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3303,
-      "vader_score": 0.5106,
-      "textblob_score": 0.15,
-      "first_sentence": "Mark Carney arrived on Canada's political scene last year as an Ivy League and Oxford educated economist and a former central banker for two countries.",
-      "timestamp": "2026-04-26T23:04:19Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Renewable energy will boost national security and protect UK from sabotage, minister says",
-      "link": "https://www.theguardian.com/environment/2026/apr/27/renewable-energy-will-boost-national-security-and-protect-uk-from-sabotage-minister-says",
-      "mean_score": 0.3298,
-      "vader_score": 0.6597,
-      "textblob_score": 0.0,
-      "first_sentence": "Renewable energy will boost the UK\u2019s national security and make the country more resilient against potential aggression or sabotage, the government\u2019s energy minister has said.",
-      "timestamp": "2026-04-26T23:01:26Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Egypt's Grand Museum opens after many delays",
-      "link": "https://www.npr.org/2026/04/26/nx-s1-5708771/egypts-grand-museum-opens-after-many-delays",
-      "mean_score": 0.4794,
-      "vader_score": 0.4588,
-      "textblob_score": 0.5,
-      "first_sentence": "We visit the new Grand Egyptian Museum, a spacious museum outside Cairo dedicated to displaying artifacts from ancient Egypt.",
-      "timestamp": "2026-04-26T22:04:13Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "A free diver visited the Strait of Hormuz. Here's what he saw",
-      "link": "https://www.npr.org/2026/04/26/nx-s1-5795819/a-free-diver-visited-the-strait-of-hormuz-heres-what-he-saw",
-      "mean_score": 0.4553,
-      "vader_score": 0.5106,
-      "textblob_score": 0.4,
-      "first_sentence": "The Strait of Hormuz is being blockaded.",
-      "timestamp": "2026-04-26T22:03:56Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Green on form as Knight Riders win IPL thriller",
-      "link": "https://www.abc.net.au/news/2026-04-27/cam-green-ipl-kolkata-knight-riders-lucknow-super-giants/106610004",
-      "mean_score": 0.4685,
-      "vader_score": 0.6369,
-      "textblob_score": 0.3,
-      "first_sentence": "Cameron Green scored 34 off 21 balls as Kolkata Knight Riders earned a super over win against Lucknow Super Giants.",
-      "timestamp": "2026-04-26T21:52:52Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "London Marathon hails \u2018greatest day\u2019 as Sawe breaks two hours and records tumble",
-      "link": "https://www.theguardian.com/sport/2026/apr/26/london-marathon-hails-greatest-day-as-sawe-breaks-two-hours-and-records-tumble",
-      "mean_score": 0.5,
-      "vader_score": 0.0,
-      "textblob_score": 1.0,
-      "first_sentence": "The London Marathon\u2019s organisers have hailed the \u201cgreatest day\u201d in the event\u2019s 45-year history after huge crowds watched Sabastian Sawe become the first man to shatter the two-hour barrier in an official race, and a world record tally of more than 60,000 runners started the event.",
-      "timestamp": "2026-04-26T20:48:30Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Street artist Peter Drew on why his 'Aussie' posters are still important",
-      "link": "https://www.abc.net.au/news/2026-04-27/street-artist-peter-drew-aussie-posters/106602092",
-      "mean_score": 0.3012,
-      "vader_score": 0.2023,
-      "textblob_score": 0.4,
-      "first_sentence": "Australian street artist Peter Drew has reflected on why he has relaunched his 'Aussie' poster series.",
-      "timestamp": "2026-04-26T19:14:17Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Sixteen-year-old wins main event at Maldon Mud Race",
-      "link": "https://www.bbc.com/news/articles/c74v2lgn0pko?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4026,
-      "vader_score": 0.5719,
-      "textblob_score": 0.2333,
-      "first_sentence": "A 16-year-old managed to fight off competition from hundreds of plucky competitors to win an annual race through a boggy riverbed.",
-      "timestamp": "2026-04-26T17:11:40Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Masterclass on Anzac Day encapsulates why unflappable Scott Pendlebury is so good",
-      "link": "https://www.theguardian.com/sport/blog/2026/apr/27/scott-pendlebury-collingwood-essendon-anzac-day-afl-masterclass",
-      "mean_score": 0.6388,
-      "vader_score": 0.5777,
-      "textblob_score": 0.7,
-      "first_sentence": "The week in football was characterised in many ways by the absence of competence.",
-      "timestamp": "2026-04-26T15:00:18Z",
-      "source": "The Guardian"
     }
   ]
 }

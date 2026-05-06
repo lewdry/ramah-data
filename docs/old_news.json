@@ -1,5 +1,165 @@
 [
   {
+    "headline": "Four easy egg recipes to add to your regular rotation",
+    "link": "https://www.abc.net.au/news/2026-04-27/egg-recipes-midweek-meals/106595948",
+    "mean_score": 0.3285,
+    "vader_score": 0.4404,
+    "textblob_score": 0.2167,
+    "first_sentence": "It's packed full of nutrients, relatively cheap and oh so versatile.",
+    "timestamp": "2026-04-27T05:03:15Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Healthy life expectancy gap between rich and poor has widened, study finds",
+    "link": "https://www.bbc.com/news/articles/c20q07w3gl9o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3261,
+    "vader_score": 0.4939,
+    "textblob_score": 0.1583,
+    "first_sentence": "People in the wealthiest areas can have 20 more years of good health than those in the poorest, according to a new report.",
+    "timestamp": "2026-04-27T04:55:50Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "People in UK spend fewer years in good health than a decade ago, study finds",
+    "link": "https://www.theguardian.com/society/2026/apr/27/people-in-uk-spend-fewer-years-in-good-health-than-a-decade-ago-study-finds",
+    "mean_score": 0.5702,
+    "vader_score": 0.4404,
+    "textblob_score": 0.7,
+    "first_sentence": "People in the UK are spending fewer years in good health than a decade ago, prompting concern that the population\u2019s health is \u201cgoing backwards\u201d.",
+    "timestamp": "2026-04-27T04:00:34Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Findings on healthy life expectancy in UK shed light on its deteriorating health",
+    "link": "https://www.theguardian.com/uk-news/2026/apr/27/findings-healthy-life-expectancy-uk-shed-light-deteriorating-health",
+    "mean_score": 0.4259,
+    "vader_score": 0.4019,
+    "textblob_score": 0.45,
+    "first_sentence": "The obesity crisis, the record 2.8 million working-age Britons too sick to do so and the rising prevalence of mental illness are sobering reminders that the UK population\u2019s health is not good.",
+    "timestamp": "2026-04-27T04:00:33Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "McDonald\u2019s to open on Melbourne street once dubbed \u2018world\u2019s coolest\u2019 after winning legal challenge",
+    "link": "https://www.theguardian.com/australia-news/2026/apr/27/mcdonalds-melbourne-high-street-worlds-coolest-legal-win",
+    "mean_score": 0.4351,
+    "vader_score": 0.6369,
+    "textblob_score": 0.2333,
+    "first_sentence": "McDonald\u2019s is poised to open a 24/7 takeaway outlet on a Melbourne street once dubbed the \u201cworld\u2019s coolest\u201d after the fast food giant won its legal challenge against the local council\u2019s attempt to block the new restaurant.",
+    "timestamp": "2026-04-27T03:52:27Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Poga\u010dar looks unbeatable, but Seixas could be France's next new hope",
+    "link": "https://www.abc.net.au/news/2026-04-27/tadej-pogacar-liege-bastogne-liege-paul-seixas-tour-de-france/106610816",
+    "mean_score": 0.3304,
+    "vader_score": 0.5927,
+    "textblob_score": 0.0682,
+    "first_sentence": "Tadej Poga\u010dar has long looked unstoppable in cycling's biggest races.",
+    "timestamp": "2026-04-27T03:35:52Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "'She's like Will Ferrell': Why Kitty Flanagan said yes to Anne Edmonds",
+    "link": "https://www.abc.net.au/news/2026-04-27/bad-company-anne-edmonds-kitty-flanagan-comedy-theatre-arts/106596092",
+    "mean_score": 0.3185,
+    "vader_score": 0.6369,
+    "textblob_score": 0.0,
+    "first_sentence": "Anne Edmonds was performing a show with the Melbourne Theatre Company when she was struck with the idea for her latest comedy series Bad Company \u2014 an unfettered satire of the arts world.",
+    "timestamp": "2026-04-26T23:15:01Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Canada's Carney has enjoyed a long political honeymoon. Now comes the test",
+    "link": "https://www.bbc.com/news/articles/c70d249rd0go?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3303,
+    "vader_score": 0.5106,
+    "textblob_score": 0.15,
+    "first_sentence": "Mark Carney arrived on Canada's political scene last year as an Ivy League and Oxford educated economist and a former central banker for two countries.",
+    "timestamp": "2026-04-26T23:04:19Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Renewable energy will boost national security and protect UK from sabotage, minister says",
+    "link": "https://www.theguardian.com/environment/2026/apr/27/renewable-energy-will-boost-national-security-and-protect-uk-from-sabotage-minister-says",
+    "mean_score": 0.3298,
+    "vader_score": 0.6597,
+    "textblob_score": 0.0,
+    "first_sentence": "Renewable energy will boost the UK\u2019s national security and make the country more resilient against potential aggression or sabotage, the government\u2019s energy minister has said.",
+    "timestamp": "2026-04-26T23:01:26Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Egypt's Grand Museum opens after many delays",
+    "link": "https://www.npr.org/2026/04/26/nx-s1-5708771/egypts-grand-museum-opens-after-many-delays",
+    "mean_score": 0.4794,
+    "vader_score": 0.4588,
+    "textblob_score": 0.5,
+    "first_sentence": "We visit the new Grand Egyptian Museum, a spacious museum outside Cairo dedicated to displaying artifacts from ancient Egypt.",
+    "timestamp": "2026-04-26T22:04:13Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "A free diver visited the Strait of Hormuz. Here's what he saw",
+    "link": "https://www.npr.org/2026/04/26/nx-s1-5795819/a-free-diver-visited-the-strait-of-hormuz-heres-what-he-saw",
+    "mean_score": 0.4553,
+    "vader_score": 0.5106,
+    "textblob_score": 0.4,
+    "first_sentence": "The Strait of Hormuz is being blockaded.",
+    "timestamp": "2026-04-26T22:03:56Z",
+    "source": "NPR News"
+  },
+  {
+    "headline": "Green on form as Knight Riders win IPL thriller",
+    "link": "https://www.abc.net.au/news/2026-04-27/cam-green-ipl-kolkata-knight-riders-lucknow-super-giants/106610004",
+    "mean_score": 0.4685,
+    "vader_score": 0.6369,
+    "textblob_score": 0.3,
+    "first_sentence": "Cameron Green scored 34 off 21 balls as Kolkata Knight Riders earned a super over win against Lucknow Super Giants.",
+    "timestamp": "2026-04-26T21:52:52Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "London Marathon hails \u2018greatest day\u2019 as Sawe breaks two hours and records tumble",
+    "link": "https://www.theguardian.com/sport/2026/apr/26/london-marathon-hails-greatest-day-as-sawe-breaks-two-hours-and-records-tumble",
+    "mean_score": 0.5,
+    "vader_score": 0.0,
+    "textblob_score": 1.0,
+    "first_sentence": "The London Marathon\u2019s organisers have hailed the \u201cgreatest day\u201d in the event\u2019s 45-year history after huge crowds watched Sabastian Sawe become the first man to shatter the two-hour barrier in an official race, and a world record tally of more than 60,000 runners started the event.",
+    "timestamp": "2026-04-26T20:48:30Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Street artist Peter Drew on why his 'Aussie' posters are still important",
+    "link": "https://www.abc.net.au/news/2026-04-27/street-artist-peter-drew-aussie-posters/106602092",
+    "mean_score": 0.3012,
+    "vader_score": 0.2023,
+    "textblob_score": 0.4,
+    "first_sentence": "Australian street artist Peter Drew has reflected on why he has relaunched his 'Aussie' poster series.",
+    "timestamp": "2026-04-26T19:14:17Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Sixteen-year-old wins main event at Maldon Mud Race",
+    "link": "https://www.bbc.com/news/articles/c74v2lgn0pko?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4026,
+    "vader_score": 0.5719,
+    "textblob_score": 0.2333,
+    "first_sentence": "A 16-year-old managed to fight off competition from hundreds of plucky competitors to win an annual race through a boggy riverbed.",
+    "timestamp": "2026-04-26T17:11:40Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Masterclass on Anzac Day encapsulates why unflappable Scott Pendlebury is so good",
+    "link": "https://www.theguardian.com/sport/blog/2026/apr/27/scott-pendlebury-collingwood-essendon-anzac-day-afl-masterclass",
+    "mean_score": 0.6388,
+    "vader_score": 0.5777,
+    "textblob_score": 0.7,
+    "first_sentence": "The week in football was characterised in many ways by the absence of competence.",
+    "timestamp": "2026-04-26T15:00:18Z",
+    "source": "The Guardian"
+  },
+  {
     "headline": "Kindness of strangers: I was so pregnant I couldn\u2019t see my feet when a woman offered to tie my shoelace",
     "link": "https://www.theguardian.com/lifeandstyle/2026/apr/27/kindness-strangers-pregnant-woman-shoelace",
     "mean_score": 0.3961,
