@@ -1,6 +1,106 @@
 {
-  "last run": "2026-05-07T00:37:03Z",
+  "last run": "2026-05-07T12:39:57Z",
   "stories": [
+    {
+      "headline": "\u2018A daring flash of pubic hair\u2019: the extraordinary, monumental nudes of Sylvia Sleigh",
+      "link": "https://www.theguardian.com/artanddesign/2026/may/07/sylvia-sleigh-nude-portraits-sleeping-venus-malarkey",
+      "mean_score": 0.3473,
+      "vader_score": 0.3612,
+      "textblob_score": 0.3333,
+      "first_sentence": "It was surely part of the appeal of Johanna Lawrenson, the elegant brunette with enviably long legs who posed for the 1963 painting The Bridge.",
+      "timestamp": "2026-05-07T11:06:01Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018It\u2019s a tiny bit of joy!\u2019 How trinket swapping is making the world a happier place, one china sheep at a time",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/may/07/how-trinketcore-is-bringing-joy-in-turbulent-times",
+      "mean_score": 0.5353,
+      "vader_score": 0.5707,
+      "textblob_score": 0.5,
+      "first_sentence": "I\u2019m standing, holding a thumbnail-sized glass owl, in front of a pink box filled with a boggling kaleidoscope of colours, shapes and textures.",
+      "timestamp": "2026-05-07T11:00:46Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "The new 14-team Super League is working. Why not add London too?",
+      "link": "https://www.theguardian.com/sport/no-helmets-required/2026/may/07/new-14-team-super-league-rugby-bradford-bulls-york-knights-toulouse-london",
+      "mean_score": 0.4171,
+      "vader_score": 0.5994,
+      "textblob_score": 0.2348,
+      "first_sentence": "With the Rugby Football League\u2019s next round of talks with the NRL due on 15 May, the decision whether Super League will remain at 14 clubs or expand again to add London Broncos is imminent.",
+      "timestamp": "2026-05-07T10:27:49Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "My daughter donated her hand to a stranger \u2013 holding it again has given me comfort",
+      "link": "https://www.bbc.com/news/articles/c9wej9jkvlyo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3454,
+      "vader_score": 0.6908,
+      "textblob_score": 0.0,
+      "first_sentence": "Holding your daughter's hand is something most mothers would take for granted.",
+      "timestamp": "2026-05-07T05:10:40Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Endangered eel population boost hopes",
+      "link": "https://www.bbc.com/news/articles/c5yr49zy1zxo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3352,
+      "vader_score": 0.6705,
+      "textblob_score": 0.0,
+      "first_sentence": "Endangered European eel numbers in a former industrial river will be boosted thanks to a new project.",
+      "timestamp": "2026-05-07T05:10:07Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Thursday news quiz: Stranded whales, stricken ships and very cute sea otters",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/may/07/the-guardian-thursday-quiz-general-knowledge-topical-news-trivia-246",
+      "mean_score": 0.3241,
+      "vader_score": -0.0018,
+      "textblob_score": 0.65,
+      "first_sentence": "Test yourself on topical news trivia, pop culture and general knowledge every Thursday.",
+      "timestamp": "2026-05-07T05:00:39Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "UAE\u2019s ruling royal family benefits from more than \u20ac71m in EU farming subsidies",
+      "link": "https://www.theguardian.com/world/2026/may/07/uae-ruling-royal-family-eu-farming-subsidies",
+      "mean_score": 0.4409,
+      "vader_score": 0.3818,
+      "textblob_score": 0.5,
+      "first_sentence": "The United Arab Emirates\u2019 ruling royal family is benefiting from tens of millions in EU subsidies to grow crops destined for the Gulf, it can be revealed.",
+      "timestamp": "2026-05-07T04:00:40Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "'Incredible': IS-linked family speaks from plane as cohort set to soon arrive in Australia",
+      "link": "https://www.sbs.com.au/news/article/is-group-linked-women-children-return-australia/gz4nb1908",
+      "mean_score": 0.45,
+      "vader_score": 0.0,
+      "textblob_score": 0.9,
+      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+      "timestamp": "2026-05-07T02:55:35Z",
+      "source": "SBS News"
+    },
+    {
+      "headline": "Why this firebrand leader's defeat is hailed as a win for democracy in India",
+      "link": "https://www.abc.net.au/news/2026-05-07/india-modi-bjp-wins-landslide-in-bengal-state-election/106642702",
+      "mean_score": 0.6009,
+      "vader_score": 0.4019,
+      "textblob_score": 0.8,
+      "first_sentence": "Just two years ago, India's Prime Minister Narendra Modi was gifted a win that many said looked like a defeat.",
+      "timestamp": "2026-05-07T02:19:21Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "If Bikram Lama were alive today, we still couldn\u2019t guarantee him a way out of homelessness | Erin Longbottom",
+      "link": "https://www.theguardian.com/commentisfree/2026/may/07/bikram-lama-birdman-st-james-death-sydney-homelessness-ntwnfb",
+      "mean_score": 0.3287,
+      "vader_score": 0.5574,
+      "textblob_score": 0.1,
+      "first_sentence": "double quotation markThe reality is that, even if I met Bikram right now, I still couldn\u2019t guarantee him a way off the street.",
+      "timestamp": "2026-05-07T01:48:15Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Fowler's Manchester City wins WSL title ahead of Matildas teammates",
       "link": "https://www.abc.net.au/news/2026-05-07/mary-fowlers-manchester-city-wins-wsl-title/106651466",
@@ -80,6 +180,16 @@
       "first_sentence": "Nature clearly benefits human health.",
       "timestamp": "2026-05-06T18:05:59Z",
       "source": "NPR News"
+    },
+    {
+      "headline": "TikTok\u2019s algorithm favored Republican content in 2024 US elections, study finds",
+      "link": "https://www.theguardian.com/technology/2026/may/06/tiktok-pro-republican-algorithm-2024-election",
+      "mean_score": 0.6108,
+      "vader_score": 0.4215,
+      "textblob_score": 0.8,
+      "first_sentence": "A study published Wednesday in the journal Nature finds that TikTok\u2019s algorithm systematically prioritized pro-Republican content in three states leading up to the 2024 US elections.",
+      "timestamp": "2026-05-06T15:24:35Z",
+      "source": "The Guardian"
     },
     {
       "headline": "The best filing system? The one where every piece of paper goes in the bin | Adrian Chiles",
@@ -2390,116 +2500,6 @@
       "first_sentence": "Nedra Talley Ross of the 1960s pop band the Ronettes has died at the age of 80.",
       "timestamp": "2026-04-28T03:00:03Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "The soy sauce fish is a perfect design \u2014 except on one important point",
-      "link": "https://www.abc.net.au/news/2026-04-28/sustainable-alternative-shoyu-tai-sushi-plastic-soy-sauce-fish/106596352",
-      "mean_score": 0.6852,
-      "vader_score": 0.6705,
-      "textblob_score": 0.7,
-      "first_sentence": "Designer Angus Ware was working in Sydney when he came across a problem.",
-      "timestamp": "2026-04-28T02:26:08Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Free sign language classes to be offered for deaf children in UK first",
-      "link": "https://www.bbc.com/news/articles/cyv1vz5g3yno?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4178,
-      "vader_score": 0.5106,
-      "textblob_score": 0.325,
-      "first_sentence": "Northern Ireland will become the first part of the UK to provide free sign language classes to all deaf children and their families, through a new sign language law being passed on Tuesday.",
-      "timestamp": "2026-04-27T23:02:51Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "UK has wealthy Europe\u2019s \u2018third-highest\u2019 rate of young adults not in work or study",
-      "link": "https://www.theguardian.com/money/2026/apr/28/uk-has-wealthy-europes-third-highest-rate-of-18-to-24-year-olds-not-in-work-or-study",
-      "mean_score": 0.3306,
-      "vader_score": 0.3612,
-      "textblob_score": 0.3,
-      "first_sentence": "Britain has the third-highest rate of young people not in work or education among Europe\u2019s richest countries because of rising ill-health and a failing system of benefits and job support, a report has warned.",
-      "timestamp": "2026-04-27T23:01:33Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Australia news live: RSL to review welcome to country policy; Angus Taylor vows to double fuel reserve",
-      "link": "https://www.theguardian.com/australia-news/live/2026/apr/28/australia-news-live-rsl-welcome-to-country-anzac-day-angus-taylor-fuel-reserve-crisis-budget-jim-chalmers-anthony-albanese-ntwnfb",
-      "mean_score": 0.3855,
-      "vader_score": 0.4588,
-      "textblob_score": 0.3121,
-      "first_sentence": "The RSL has announced it will review its guidance on welcome to country addresses at Anzac Day services after Indigenous leaders were booed at three dawn services on Saturday.",
-      "timestamp": "2026-04-27T21:19:37Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Manchester United see off Brentford to close in on Champions League return",
-      "link": "https://www.theguardian.com/football/2026/apr/27/manchester-united-brentford-premier-league-match-report",
-      "mean_score": 0.3675,
-      "vader_score": 0.7351,
-      "textblob_score": 0.0,
-      "first_sentence": "This swashbuckling Manchester United victory moves them to within two points of Champions League qualification and is prima facie evidence of the job Michael Carrick has executed since his appointment as interim manager.",
-      "timestamp": "2026-04-27T21:05:48Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "'The world's game should belong to the world': Free World Cup fan sites for New York",
-      "link": "https://www.abc.net.au/news/2026-04-28/new-york-announces-five-free-fifa-world-cup-fan-zones/106614404",
-      "mean_score": 0.3631,
-      "vader_score": 0.6808,
-      "textblob_score": 0.0455,
-      "first_sentence": "New York Mayor Zohran Mamdani announced five free World Cup fan zones will be set up to help counter mounting costs for fans.",
-      "timestamp": "2026-04-27T20:29:10Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "The King Arrives In The US, But Can He Mend The Special Relationship?",
-      "link": "https://www.bbc.co.uk/sounds/play/p0ngxnlq?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4535,
-      "vader_score": 0.5499,
-      "textblob_score": 0.3571,
-      "first_sentence": "Today, the King has arrived to meet President Trump for the US state visit.",
-      "timestamp": "2026-04-27T19:57:00Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "\u2018Chonkers\u2019 the large sea lion charms the San Francisco Bay area",
-      "link": "https://www.theguardian.com/us-news/2026/apr/27/chonkers-sea-lion-san-francisco-bay-area",
-      "mean_score": 0.3273,
-      "vader_score": 0.4404,
-      "textblob_score": 0.2143,
-      "first_sentence": "A gigantic 2,000lb Steller sea lion nicknamed \u201cChonkers\u201d has become an unexpected local celebrity after taking up residence in the San Francisco Bay.",
-      "timestamp": "2026-04-27T18:54:04Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The best ways to prevent common credit and debit card fraud",
-      "link": "https://www.abc.net.au/news/2026-04-28/card-fraud-how-avoid-it-happening/106588224",
-      "mean_score": 0.4133,
-      "vader_score": 0.4767,
-      "textblob_score": 0.35,
-      "first_sentence": "Last year, more than 2 million Australians lost a combined total of $2.2 billion to card fraud, according to the Australian Bureau of Statistics.",
-      "timestamp": "2026-04-27T18:30:00Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Shelley\u2019s hair to Schindler\u2019s list: the most fascinating objects in the State Library of NSW \u2013 in pictures",
-      "link": "https://www.theguardian.com/books/gallery/2026/apr/27/most-fascinating-objects-state-library-of-nsw",
-      "mean_score": 0.5924,
-      "vader_score": 0.5849,
-      "textblob_score": 0.6,
-      "first_sentence": "As the library turns 200, lead curator Elise Edmonds and her team have picked out 200 objects from the 6m in its collection for a new exhibition Continue reading.",
-      "timestamp": "2026-04-27T15:00:25Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "My beloved grandfather is dying. I\u2019m so grateful for the intergenerational joy we\u2019ve shared | Hannah Bambra",
-      "link": "https://www.theguardian.com/commentisfree/2026/apr/27/my-beloved-grandfather-is-dying-i-am-so-grateful-for-the-intergenerational-joy-weve-shared",
-      "mean_score": 0.8371,
-      "vader_score": 0.9241,
-      "textblob_score": 0.75,
-      "first_sentence": "My grandfather, who I have always called Pa, is dying.",
-      "timestamp": "2026-04-27T15:00:24Z",
-      "source": "The Guardian"
     }
   ]
 }
