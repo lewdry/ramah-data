@@ -1,6 +1,226 @@
 {
-  "last run": "2026-05-08T00:37:31Z",
+  "last run": "2026-05-08T12:30:46Z",
   "stories": [
+    {
+      "headline": "Paul Simon review \u2013 at 84, back on stage after hearing loss, his resolute artistry is inspiring",
+      "link": "https://www.theguardian.com/music/2026/may/08/paul-simon-tour-review-ms-bank-arena-liverpool",
+      "mean_score": 0.3159,
+      "vader_score": 0.3818,
+      "textblob_score": 0.25,
+      "first_sentence": "In 2018, Paul Simon\u2019s triumphant Homeward Bound: The Farewell Tour was intended as his goodbye to decades of full-scale touring.",
+      "timestamp": "2026-05-08T11:29:22Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Airline emissions in Europe top pre-Covid levels despite pledge to decarbonise",
+      "link": "https://www.theguardian.com/environment/2026/may/08/airline-emissions-in-europe-top-pre-covid-levels-despite-pledge-to-decarbonise",
+      "mean_score": 0.3512,
+      "vader_score": 0.2023,
+      "textblob_score": 0.5,
+      "first_sentence": "Emissions from flying in Europe have now passed pre-pandemic levels, with Ryanair\u2019s carbon footprint 50% higher than in 2019, research has shown.",
+      "timestamp": "2026-05-08T10:30:25Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "When women choose non-monogamy: \u2018It\u2019s an opportunity for more integration\u2019",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/may/08/women-polyamory-open-marriage",
+      "mean_score": 0.4607,
+      "vader_score": 0.4215,
+      "textblob_score": 0.5,
+      "first_sentence": "It\u2019s late afternoon, and Lucy texts her husband\u2019s girlfriend.",
+      "timestamp": "2026-05-08T10:00:24Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018I told his family he was HIV positive\u2019: Keith Haring\u2019s best friend on life with the artist as unseen works go on show",
+      "link": "https://www.theguardian.com/artanddesign/2026/may/08/keith-haring-sothebys-kermit-oswald-interview",
+      "mean_score": 0.7131,
+      "vader_score": 0.8126,
+      "textblob_score": 0.6136,
+      "first_sentence": "Haring is famed as an enduring, globally recognized celebrant of Aids activism, nightlife and the New York Bohemian scene of the 1980s.",
+      "timestamp": "2026-05-08T09:00:41Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Democrats want to raise taxes on the wealthy. A look at the math",
+      "link": "https://www.npr.org/2026/05/08/nx-s1-5810519/democrats-want-to-raise-taxes-on-the-wealthy-a-look-at-the-math",
+      "mean_score": 0.4607,
+      "vader_score": 0.4215,
+      "textblob_score": 0.5,
+      "first_sentence": "Democrats want to tax the rich to cut\u00a0taxes on worker incomes.",
+      "timestamp": "2026-05-08T08:44:31Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "\u2018Nurse, the joypad!\u2019: the eight greatest medical video games",
+      "link": "https://www.theguardian.com/games/2026/may/08/the-pitt-greatest-medical-video-games",
+      "mean_score": 0.5848,
+      "vader_score": 0.6696,
+      "textblob_score": 0.5,
+      "first_sentence": "Like the rest of the western world, our household is currently binging medical drama The Pitt, revelling in its visceral depiction of life in a modern emergency department.",
+      "timestamp": "2026-05-08T08:30:08Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Post your questions for Better Call Saul star Bob Odenkirk",
+      "link": "https://www.theguardian.com/film/2026/may/08/bob-odenkirk-better-call-saul-normal-ben-wheatley-post-your-questions",
+      "mean_score": 0.4702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.5,
+      "first_sentence": "Bob Odenkirk has achieved one of the more improbable small-to-big screen transitions in recent years.",
+      "timestamp": "2026-05-08T08:00:41Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Live: Eels claim golden-point triumph after stunning fightback in Townsville",
+      "link": "https://www.abc.net.au/news/2026-05-08/nrl-live-blog-roosters-titans-cowboys-eels/106660080",
+      "mean_score": 0.5045,
+      "vader_score": 0.6908,
+      "textblob_score": 0.3182,
+      "first_sentence": "A Mitchell Moses field goal has earned the Parramatta Eels a spectacular 33-30 golden-point victory over North Queensland.",
+      "timestamp": "2026-05-08T07:13:20Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Remarkably Bright Creatures review \u2013 Sally Field bonds with octopus in gentle Netflix charmer",
+      "link": "https://www.theguardian.com/film/2026/may/08/remarkably-bright-creatures-review-sally-field-netflix",
+      "mean_score": 0.645,
+      "vader_score": 0.8399,
+      "textblob_score": 0.45,
+      "first_sentence": "Every now and then, a strange forgotten chapter of life during Covid will interrupt my thoughts.",
+      "timestamp": "2026-05-08T07:01:38Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Chess: Magnus Carlsen enjoys narrow win in Malm\u00f6 during rare classical outing",
+      "link": "https://www.theguardian.com/sport/2026/may/08/chess-magnus-carlsen-enjoys-narrow-win-in-malmo-during-rare-classical-outing",
+      "mean_score": 0.5107,
+      "vader_score": 0.7964,
+      "textblob_score": 0.225,
+      "first_sentence": "The world No 1, Magnus Carlsen, made a rare return to classical chess this week at the annual TePe Sigeman tournament in Malm\u00f6, Sweden, squeezing through to a blitz playoff in Thursday\u2019s final round after Turkey\u2019s 14-year-old talent Yagiz Kaan Erdogmus blundered fatally in the late stages after reaching a drawn position.",
+      "timestamp": "2026-05-08T07:00:39Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Week in wildlife: a chonky sea lion, amorous toads and an adorable gosling",
+      "link": "https://www.theguardian.com/environment/gallery/2026/may/08/week-in-wildlife-a-chonky-sea-lion-amorous-toads-and-an-adorable-gosling",
+      "mean_score": 0.6092,
+      "vader_score": 0.7184,
+      "textblob_score": 0.5,
+      "first_sentence": "This week\u2019s best wildlife photographs from around the world Continue reading.",
+      "timestamp": "2026-05-08T07:00:38Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Woman's joy at rare quintuplets after 12 years trying for a baby",
+      "link": "https://www.bbc.com/news/articles/c893y34zlv0o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5679,
+      "vader_score": 0.5859,
+      "textblob_score": 0.55,
+      "first_sentence": "A woman has given birth to rare quintuplets in Ethiopia's Harari Regional state after 12 years of trying for a baby.",
+      "timestamp": "2026-05-08T06:48:20Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Is joy off the table? Have we lost the ancient knowledge of how to have a jolly time? | First Dog on the Moon",
+      "link": "https://www.theguardian.com/commentisfree/picture/2026/may/08/is-joy-off-the-table-have-we-lost-the-ancient-knowledge-of-how-to-have-a-jolly-time",
+      "mean_score": 0.6284,
+      "vader_score": 0.7319,
+      "textblob_score": 0.525,
+      "first_sentence": "Some folk suggest \u2018having fun\u2019 in the face of global doom hurtling can be an act of rebellion, and while this is not actually true it can be funSign up here to get an email whenever First Dog cartoons are publishedGet all your needs met at the First Dog shop if what you need is First Dog merchandise and prints Continue reading.",
+      "timestamp": "2026-05-08T06:32:38Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Helen Charlston: A Poet\u2019s Love album review \u2013 original and absorbing",
+      "link": "https://www.theguardian.com/music/2026/may/08/helen-charlston-a-poets-love-album-review-sholto-kynoch-robert-schumann-dichterliebe",
+      "mean_score": 0.5581,
+      "vader_score": 0.7579,
+      "textblob_score": 0.3583,
+      "first_sentence": "Helen Charlston is a strikingly original talent on stage, so it should come as no surprise that her latest recital on disc pushes into unexpected territory.",
+      "timestamp": "2026-05-08T06:00:38Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018No reservations, no waiter, just great sea views, food and drink\u2019: readers\u2019 favourite beach bars in Europe",
+      "link": "https://www.theguardian.com/travel/2026/may/08/readers-tips-favourite-beach-bars-uk-and-europe",
+      "mean_score": 0.6202,
+      "vader_score": 0.4404,
+      "textblob_score": 0.8,
+      "first_sentence": "You share your favourite spots for sand, seafood and sundowners from the Kent coast to the Greek islands\u2022 Tell us about your favourite railway trip in Europe \u2013 the best tip wins a \u00a3200 holiday voucherDungeness is a place of wild beauty, a stretch of coast that knows fierce winds.",
+      "timestamp": "2026-05-08T06:00:37Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Benjamina Ebuehi\u2019s recipe for Mexican-style vanilla bean flan | The sweet spot",
+      "link": "https://www.theguardian.com/food/2026/may/08/mexican-vanilla-bean-flan-reipe-benjamina-ebuehi",
+      "mean_score": 0.4044,
+      "vader_score": 0.4588,
+      "textblob_score": 0.35,
+      "first_sentence": "I started the year in one of my favourite places: Mexico City.",
+      "timestamp": "2026-05-08T05:00:37Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Experience: I am the best lightsaber fighter in Europe",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/may/08/experience-i-am-the-best-lightsaber-fighter-in-europe",
+      "mean_score": 0.8501,
+      "vader_score": 0.7003,
+      "textblob_score": 1.0,
+      "first_sentence": "I grew up in the suburbs around Paris and started fencing when I was five.",
+      "timestamp": "2026-05-08T04:00:37Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Happy centenary, David! Attenborough\u2019s 100 most spectacular TV moments",
+      "link": "https://www.theguardian.com/tv-and-radio/ng-interactive/2026/may/08/david-attenborough-100-most-spectacular-screen-moments",
+      "mean_score": 0.6557,
+      "vader_score": 0.6114,
+      "textblob_score": 0.7,
+      "first_sentence": "Today, David Attenborough turns 100.",
+      "timestamp": "2026-05-08T04:00:35Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Pitjantjatjara Elder's gaze meets the viewer in Archibald winning piece",
+      "link": "https://www.sbs.com.au/nitv/article/pitjantjatjara-elders-gaze-meets-the-viewer-in-archibald-winning-piece/vceeavslh",
+      "mean_score": 0.5133,
+      "vader_score": 0.5267,
+      "textblob_score": 0.5,
+      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+      "timestamp": "2026-05-08T03:52:26Z",
+      "source": "SBS News"
+    },
+    {
+      "headline": "Portrait of elder and artist wins Archibald prize in unanimous vote",
+      "link": "https://www.abc.net.au/news/2026-05-08/archibald-prize-winner-2026-richard-lewer-iluwanti-ken/106616630",
+      "mean_score": 0.5453,
+      "vader_score": 0.7906,
+      "textblob_score": 0.3,
+      "first_sentence": "Richard Lewer has won the $100,000 Archibald Prize for his portrait of fellow artist, Pitjantjatjara elder and ngangkari (traditional healer) Iluwanti Ken.",
+      "timestamp": "2026-05-08T02:24:00Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Archibald prize 2026: Richard Lewer\u2019s portrait of artist Iluwanti Ken wins $100,000",
+      "link": "https://www.theguardian.com/artanddesign/2026/may/08/archibald-prize-2026-richard-lewer-portrait-of-artist-iluwanti-ken-wins-100000",
+      "mean_score": 0.5453,
+      "vader_score": 0.7906,
+      "textblob_score": 0.3,
+      "first_sentence": "Richard Lewer has been awarded the 2026 Archibald prize for his portrait of Pitjantjatjara elder, traditional healer and senior artist Iluwanti Ken.",
+      "timestamp": "2026-05-08T02:21:14Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Beyonce's hip-hop film debut walked so that Hamilton could fly",
+      "link": "https://www.abc.net.au/news/2026-05-08/beyonce-makes-acting-debut-25-years-ago-in-carmen-a-hip-hopera/106602038",
+      "mean_score": 0.4,
+      "vader_score": 0.0,
+      "textblob_score": 0.8,
+      "first_sentence": "This was before the September 11 terrorist attacks, which happened later that year when al-Qaeda terrorists attacked the Twin Towers in New York City and other targets in the United States, killing 2,977 people and reshaping global security.",
+      "timestamp": "2026-05-08T00:48:24Z",
+      "source": "ABC News"
+    },
     {
       "headline": "How sunburn inspired a new way to store energy",
       "link": "https://www.bbc.com/news/articles/c62l9gnx775o?at_medium=RSS&at_campaign=rss",
@@ -2280,226 +2500,6 @@
       "first_sentence": "Alfie Watts' next goal involves one of the country's favourite shows.",
       "timestamp": "2026-04-29T10:09:34Z",
       "source": "BBC News"
-    },
-    {
-      "headline": "'Slap in the face to the regime': Exiled female footballers finally have reason to celebrate",
-      "link": "https://www.sbs.com.au/news/article/afghan-womens-football-team-permitted-to-represent-country-in-fifa/aucmxt2us",
-      "mean_score": 0.3243,
-      "vader_score": 0.6486,
-      "textblob_score": 0.0,
-      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-      "timestamp": "2026-04-29T09:05:07Z",
-      "source": "SBS News"
-    },
-    {
-      "headline": "Sali Hughes on beauty: get your skin ready for summer with the best new exfoliants",
-      "link": "https://www.theguardian.com/fashion/2026/apr/29/sali-hughes-on-beauty-best-new-exfoliants",
-      "mean_score": 0.667,
-      "vader_score": 0.8885,
-      "textblob_score": 0.4455,
-      "first_sentence": "The Guardian\u2019s journalism is independent.",
-      "timestamp": "2026-04-29T09:00:50Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "RFK Jr. talked about 'reparenting' kids on wellness farms. We visit one that inspired him",
-      "link": "https://www.npr.org/2026/04/29/nx-s1-5798733/rfk-jr-addiction-treatment-centers",
-      "mean_score": 0.3634,
-      "vader_score": 0.7269,
-      "textblob_score": 0.0,
-      "first_sentence": "Alsobrooks was referring to one of Kennedy's signature ideas to remake U.S.",
-      "timestamp": "2026-04-29T09:00:00Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "'A great West Australian': Bill Grayden dies aged 105",
-      "link": "https://www.abc.net.au/news/2026-04-29/bill-grayden-war-veteran-wa-parliamentarian-dies-aged-105/106620348",
-      "mean_score": 0.4291,
-      "vader_score": 0.6249,
-      "textblob_score": 0.2333,
-      "first_sentence": "Decorated World War II veteran Bill Grayden, who was also Western Australia's longest-serving MP, has died at the age of 105.",
-      "timestamp": "2026-04-29T08:47:02Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "What If Reform Wins? by Peter Chappell review \u2013 a massive wake-up call",
-      "link": "https://www.theguardian.com/books/2026/apr/29/what-if-reform-wins-by-peter-chappell-review-a-massive-wake-up-call",
-      "mean_score": 0.3609,
-      "vader_score": 0.5719,
-      "textblob_score": 0.15,
-      "first_sentence": "For some years now, mainstream British politics has revolved increasingly obsessively around\u00a0the question of how to stop\u00a0Nigel Farage.",
-      "timestamp": "2026-04-29T08:00:50Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018I will love it. Love it\u2019: 30 years on from Kevin Keegan\u2019s infamous rant",
-      "link": "https://www.theguardian.com/football/2026/apr/29/i-will-love-it-love-it-30-years-on-from-kevin-keegans-infamous-rant",
-      "mean_score": 0.4786,
-      "vader_score": 0.7906,
-      "textblob_score": 0.1667,
-      "first_sentence": "Premier League history is littered with red letter days and Monday 29 April 1996 will for ever rank among the most memorable.",
-      "timestamp": "2026-04-29T07:00:49Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Palantir has released its terrifyingly honest (and pompous) plans for world domination | First Dog on the Moon",
-      "link": "https://www.theguardian.com/commentisfree/picture/2026/apr/29/palantir-has-released-its-terrifyingly-honest-and-pompous-plans-for-world-domination",
-      "mean_score": 0.4508,
-      "vader_score": 0.4767,
-      "textblob_score": 0.425,
-      "first_sentence": "It\u2019s all a bit too antichristy for my likingSign up here to get an email whenever First Dog cartoons are publishedGet all your needs met at the First Dog shop if what you need is First Dog merchandise and prints Continue reading.",
-      "timestamp": "2026-04-29T06:53:55Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "New course helps teens navigate unique outback driving hazards",
-      "link": "https://www.abc.net.au/news/2026-04-29/goldfields-defensive-driving-course-begins/106601304",
-      "mean_score": 0.3187,
-      "vader_score": 0.3818,
-      "textblob_score": 0.2557,
-      "first_sentence": "A new defensive driving course being offered in Kalgoorlie aims to equip young motorists with the skills to cope with the unique challenges of outback driving.",
-      "timestamp": "2026-04-29T06:33:52Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "The House of the Spirits review \u2013 this twee adaptation of Isabel Allende\u2019s novel isn\u2019t good enough",
-      "link": "https://www.theguardian.com/tv-and-radio/2026/apr/29/the-house-of-the-spirits-review-isabel-allendes-novel-amazon-prime-video",
-      "mean_score": 0.4934,
-      "vader_score": 0.6369,
-      "textblob_score": 0.35,
-      "first_sentence": "Clara del Valle is a delightful little girl, all smiles and plaits and cheeky interruptions during boring sermons at Mass.",
-      "timestamp": "2026-04-29T06:00:47Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Classic Football Shirts: inside the vault home to their most valuable vintage gear \u2013 video",
-      "link": "https://www.theguardian.com/football/video/2026/apr/29/classic-football-shirts-inside-the-vault-home-to-their-most-valuable-vintage-gear-video",
-      "mean_score": 0.4295,
-      "vader_score": 0.5256,
-      "textblob_score": 0.3333,
-      "first_sentence": "Classic Football Shirts have been in business for 20 years, selling over one million shirts (so far) and keeping the most iconic match-worn pieces in their temperature-controlled vault.",
-      "timestamp": "2026-04-29T05:34:20Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Is Sanae Takaichi the most powerful woman in the world? - podcast",
-      "link": "https://www.theguardian.com/australia-news/audio/2026/apr/29/sanae-takaichi-japan-prime-minister-full-story-podcast",
-      "mean_score": 0.4377,
-      "vader_score": 0.4754,
-      "textblob_score": 0.4,
-      "first_sentence": "Justin McCurry on Japan\u2019s heavy metal-loving prime minister and her plan to amend the country\u2019s pacifist constitution Continue reading.",
-      "timestamp": "2026-04-29T04:09:36Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018It\u2019ll be in my Guardian obituary\u2019: David Balfe on inspiring Blur\u2019s Country House and tripping on Top of the Pops",
-      "link": "https://www.theguardian.com/music/2026/apr/29/dave-balfe-inspiring-blur-country-house-tripping-top-of-the-pops",
-      "mean_score": 0.5287,
-      "vader_score": 0.5574,
-      "textblob_score": 0.5,
-      "first_sentence": "The Guardian\u2019s journalism is independent.",
-      "timestamp": "2026-04-29T04:00:46Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Pauline Hanson celebrates 'sexy' $1m plane gifted by Gina Rinehart",
-      "link": "https://www.abc.net.au/news/2026-04-29/gine-rinehart-gifts-plane-to-pauline-hanson-one-nation/106620808",
-      "mean_score": 0.6482,
-      "vader_score": 0.7964,
-      "textblob_score": 0.5,
-      "first_sentence": "Australia's richest person, Gina Rinehart, has gifted a $1 million plane to One Nation.",
-      "timestamp": "2026-04-29T03:57:13Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "\u2018Coming home\u2019: kiwi enter parliament for first time as New Zealand marks conservation win",
-      "link": "https://www.theguardian.com/world/2026/apr/29/kiwi-bird-nz-new-zealand-parliament",
-      "mean_score": 0.4907,
-      "vader_score": 0.5859,
-      "textblob_score": 0.3955,
-      "first_sentence": "When five kiwi were presented to a crowd of 300 people gathered inside the banquet hall of New Zealand\u2019s parliament, there was an awe-struck intake of breath.",
-      "timestamp": "2026-04-29T00:49:25Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Early care scheme could prevent thousands of miscarriages a year",
-      "link": "https://www.bbc.com/news/articles/c62r8lzgnk2o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3053,
-      "vader_score": 0.5106,
-      "textblob_score": 0.1,
-      "first_sentence": "After going through two devastating miscarriages, Lisa Varey could not believe what she was thinking.",
-      "timestamp": "2026-04-28T23:47:41Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Yomif Kejelcha broke the 2-hour marathon but got 2nd place. He's still happy",
-      "link": "https://www.npr.org/2026/04/28/nx-s1-5803016/marathon-world-record-yomif-kejelcha",
-      "mean_score": 0.5155,
-      "vader_score": 0.631,
-      "textblob_score": 0.4,
-      "first_sentence": "After Yomif Kejelcha crossed the finish line at the London Marathon on Sunday, he was shocked by what he'd accomplished.",
-      "timestamp": "2026-04-28T23:23:52Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "\u2018The best match I have coached\u2019: Luis Enrique thrilled by PSG\u2019s 5-4 win over Bayern Munich",
-      "link": "https://www.theguardian.com/football/2026/apr/29/champions-league-paris-saint-germain-bayern-munich-luis-enrique-vincent-kompany",
-      "mean_score": 0.849,
-      "vader_score": 0.8979,
-      "textblob_score": 0.8,
-      "first_sentence": "Luis Enrique called it \u201cthe best match I have ever coached\u201d.",
-      "timestamp": "2026-04-28T23:08:49Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "NI homes to get smart meters from 2028",
-      "link": "https://www.bbc.com/news/articles/c4g8dvqp34qo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3081,
-      "vader_score": 0.4019,
-      "textblob_score": 0.2143,
-      "first_sentence": "Smart electricity meters will be rolled out in Northern Ireland from 2028, according to the Department for the Economy.",
-      "timestamp": "2026-04-28T23:04:16Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "News live: King Charles praises \u2018ambitious\u2019 Aukus and expresses pride in Australia in speech to US Congress",
-      "link": "https://www.theguardian.com/australia-news/live/2026/apr/29/australia-news-live-aukus-king-charles-one-nation-budget-cost-of-living-inflation-consumer-price-index-jim-chalmers-anthony-albanese-angus-taylor-ntwnfb",
-      "mean_score": 0.4467,
-      "vader_score": 0.7003,
-      "textblob_score": 0.1932,
-      "first_sentence": "King Charles\u2019s address to the US Congress has been covered over in our US politics blog (check it out here).",
-      "timestamp": "2026-04-28T21:16:45Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "UAE leaves OPEC: Why this is a blow to the oil producing group but may benefit consumers",
-      "link": "https://www.sbs.com.au/news/article/uae-leaves-opec-wwhy-this-is-a-blow-to-the-group-but-may-benefit-consumers/wpgh5wyts",
-      "mean_score": 0.3062,
-      "vader_score": 0.6124,
-      "textblob_score": 0.0,
-      "first_sentence": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
-      "timestamp": "2026-04-28T20:53:16Z",
-      "source": "SBS News"
-    },
-    {
-      "headline": "Does the gas industry pay its fair share of tax?",
-      "link": "https://www.abc.net.au/news/2026-04-29/does-australias-gas-industry-pay-enough-tax/106602004",
-      "mean_score": 0.5883,
-      "vader_score": 0.4767,
-      "textblob_score": 0.7,
-      "first_sentence": "There is a question dominating Australians' social media feeds: Is the gas industry paying its fair share of tax?.",
-      "timestamp": "2026-04-28T19:33:38Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Grand jury indicts former FBI director James Comey for a second time",
-      "link": "https://www.npr.org/2026/04/28/nx-s1-5803167/james-comey-indictment",
-      "mean_score": 0.3127,
-      "vader_score": 0.4588,
-      "textblob_score": 0.1667,
-      "first_sentence": "The Justice Department has secured a two-count indictment against former FBI Director James Comey for threatening President Trump by posting a photo on social media.",
-      "timestamp": "2026-04-28T19:31:31Z",
-      "source": "NPR News"
     }
   ]
 }

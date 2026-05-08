@@ -113794,3 +113794,78 @@
 2026-05-08 00:37:31,125 - INFO - Saved 250 stories to docs/good_news.json.
 2026-05-08 00:37:31,206 - INFO - Archived 17 new stories to docs/old_news.json.
 2026-05-08 00:37:31,216 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 844 processed, 37 accepted | Cache: 15 hits, 22 misses | Duration: 11.07s
+2026-05-08 12:30:34,009 - INFO - Starting Ramah News Fetcher
+2026-05-08 12:30:34,024 - INFO - Checking feed: http://feeds.bbci.co.uk/news/rss.xml
+2026-05-08 12:30:34,298 - INFO - Found good news: Woman's joy at rare quintuplets after 12 years trying for a baby (Mean Score: 0.5679, VADER: 0.5859, TextBlob: 0.5500)
+2026-05-08 12:30:34,453 - INFO - Found good news: Fast-paced, witty and smart coming-of-age comedy (Mean Score: 0.4970, VADER: 0.6369, TextBlob: 0.3571)
+2026-05-08 12:30:34,758 - INFO - Checking feed: http://feeds.bbci.co.uk/news/world/rss.xml
+2026-05-08 12:30:34,828 - INFO - Checking feed: http://feeds.bbci.co.uk/news/uk/rss.xml
+2026-05-08 12:30:35,061 - INFO - Checking feed: http://feeds.bbci.co.uk/news/business/rss.xml
+2026-05-08 12:30:35,134 - INFO - Found good news: How a pivot to hair accessories led to business success (Mean Score: 0.4359, VADER: 0.5719, TextBlob: 0.3000)
+2026-05-08 12:30:35,136 - INFO - Found good news: Scammers are becoming ever more sophisticated - this is what the fightback looks like (Mean Score: 0.6167, VADER: 0.7501, TextBlob: 0.4833)
+2026-05-08 12:30:35,137 - INFO - Checking feed: http://feeds.bbci.co.uk/news/technology/rss.xml
+2026-05-08 12:30:35,352 - INFO - Checking feed: http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+2026-05-08 12:30:35,604 - INFO - Found good news: Artemis II crew: 'We left as friends - we came back as best friends' (Mean Score: 0.6097, VADER: 0.8860, TextBlob: 0.3333)
+2026-05-08 12:30:35,609 - INFO - Found good news: Why cheap power could matter more than clean power in the push for net zero (Mean Score: 0.3947, VADER: 0.4728, TextBlob: 0.3167)
+2026-05-08 12:30:35,610 - INFO - Checking feed: http://feeds.bbci.co.uk/news/health/rss.xml
+2026-05-08 12:30:35,896 - INFO - Found good news: Vaccines a huge success, but public trust must be earned - key findings from Covid report (Mean Score: 0.4951, VADER: 0.8151, TextBlob: 0.1750)
+2026-05-08 12:30:35,897 - INFO - Found good news: Doctors' strikes can have surprising benefits - but are they sustainable? (Mean Score: 0.4265, VADER: 0.1531, TextBlob: 0.7000)
+2026-05-08 12:30:35,899 - INFO - Checking feed: http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+2026-05-08 12:30:36,352 - INFO - Checking feed: https://www.abc.net.au/news/feed/45910/rss.xml
+2026-05-08 12:30:36,627 - INFO - Found good news: Live: Eels claim golden-point triumph after stunning fightback in Townsville (Mean Score: 0.5045, VADER: 0.6908, TextBlob: 0.3182)
+2026-05-08 12:30:37,448 - INFO - Found good news: Portrait of elder and artist wins Archibald prize in unanimous vote (Mean Score: 0.5453, VADER: 0.7906, TextBlob: 0.3000)
+2026-05-08 12:30:37,787 - INFO - Found good news: Beyonce's hip-hop film debut walked so that Hamilton could fly (Mean Score: 0.4000, VADER: 0.0000, TextBlob: 0.8000)
+2026-05-08 12:30:38,283 - INFO - Checking feed: https://www.abc.net.au/news/feed/51120/rss.xml
+2026-05-08 12:30:38,387 - INFO - Checking feed: https://www.theguardian.com/world/rss
+2026-05-08 12:30:38,516 - INFO - Found good news: Airline emissions in Europe top pre-Covid levels despite pledge to decarbonise (Mean Score: 0.3512, VADER: 0.2023, TextBlob: 0.5000)
+2026-05-08 12:30:38,631 - INFO - Checking feed: https://www.theguardian.com/au/rss
+2026-05-08 12:30:39,031 - INFO - Found good news: Is joy off the table? Have we lost the ancient knowledge of how to have a jolly time? | First Dog on the Moon (Mean Score: 0.6284, VADER: 0.7319, TextBlob: 0.5250)
+2026-05-08 12:30:39,276 - INFO - Found good news: Archibald prize 2026: Richard Lewer’s portrait of artist Iluwanti Ken wins $100,000 (Mean Score: 0.5453, VADER: 0.7906, TextBlob: 0.3000)
+2026-05-08 12:30:39,551 - INFO - Found good news: Happy centenary, David! Attenborough’s 100 most spectacular TV moments (Mean Score: 0.6557, VADER: 0.6114, TextBlob: 0.7000)
+2026-05-08 12:30:39,724 - INFO - Found good news: Paul Simon review – at 84, back on stage after hearing loss, his resolute artistry is inspiring (Mean Score: 0.3159, VADER: 0.3818, TextBlob: 0.2500)
+2026-05-08 12:30:40,023 - INFO - Found good news: When women choose non-monogamy: ‘It’s an opportunity for more integration’ (Mean Score: 0.4607, VADER: 0.4215, TextBlob: 0.5000)
+2026-05-08 12:30:40,579 - INFO - Found good news: ‘I told his family he was HIV positive’: Keith Haring’s best friend on life with the artist as unseen works go on show (Mean Score: 0.7131, VADER: 0.8126, TextBlob: 0.6136)
+2026-05-08 12:30:40,699 - INFO - Found good news: Chess: Magnus Carlsen enjoys narrow win in Malmö during rare classical outing (Mean Score: 0.5107, VADER: 0.7964, TextBlob: 0.2250)
+2026-05-08 12:30:40,932 - INFO - Found good news: Post your questions for Better Call Saul star Bob Odenkirk (Mean Score: 0.4702, VADER: 0.4404, TextBlob: 0.5000)
+2026-05-08 12:30:41,158 - INFO - Found good news: Remarkably Bright Creatures review – Sally Field bonds with octopus in gentle Netflix charmer (Mean Score: 0.6450, VADER: 0.8399, TextBlob: 0.4500)
+2026-05-08 12:30:41,398 - INFO - Found good news: Helen Charlston: A Poet’s Love album review – original and absorbing (Mean Score: 0.5581, VADER: 0.7579, TextBlob: 0.3583)
+2026-05-08 12:30:41,697 - INFO - Found good news: ‘Nurse, the joypad!’: the eight greatest medical video games (Mean Score: 0.5848, VADER: 0.6696, TextBlob: 0.5000)
+2026-05-08 12:30:41,814 - INFO - Found good news: Experience: I am the best lightsaber fighter in Europe (Mean Score: 0.8501, VADER: 0.7003, TextBlob: 1.0000)
+2026-05-08 12:30:42,046 - INFO - Found good news: Benjamina Ebuehi’s recipe for Mexican-style vanilla bean flan | The sweet spot (Mean Score: 0.4044, VADER: 0.4588, TextBlob: 0.3500)
+2026-05-08 12:30:42,277 - INFO - Found good news: ‘No reservations, no waiter, just great sea views, food and drink’: readers’ favourite beach bars in Europe (Mean Score: 0.6202, VADER: 0.4404, TextBlob: 0.8000)
+2026-05-08 12:30:42,396 - INFO - Found good news: Week in wildlife: a chonky sea lion, amorous toads and an adorable gosling (Mean Score: 0.6092, VADER: 0.7184, TextBlob: 0.5000)
+2026-05-08 12:30:42,533 - INFO - Checking feed: https://www.theguardian.com/environment/rss
+2026-05-08 12:30:42,837 - INFO - Checking feed: https://www.theguardian.com/science/rss
+2026-05-08 12:30:43,070 - INFO - Found good news: Muons, massive waves and restored sight: the winners at the ‘Oscars of science’ – podcast (Mean Score: 0.3352, VADER: 0.6705, TextBlob: 0.0000)
+2026-05-08 12:30:43,072 - INFO - Found good news: Did you solve it? Are you smarter than a Navy admiral? (Mean Score: 0.3775, VADER: 0.7550, TextBlob: 0.0000)
+2026-05-08 12:30:43,072 - INFO - Found good news: Can you solve it? Are you smarter than a Navy admiral? (Mean Score: 0.3775, VADER: 0.7550, TextBlob: 0.0000)
+2026-05-08 12:30:43,073 - INFO - Found good news: Artemis II crew on inspiring the next generation and unifying humanity – video (Mean Score: 0.3357, VADER: 0.4215, TextBlob: 0.2500)
+2026-05-08 12:30:43,362 - INFO - Checking feed: https://www.theguardian.com/uk/technology/rss
+2026-05-08 12:30:43,475 - INFO - Found good news: Sonos Play review: a great jack-of-all-trades portable speaker for home or away (Mean Score: 0.7790, VADER: 0.7579, TextBlob: 0.8000)
+2026-05-08 12:30:43,476 - INFO - Found good news: MacBook Air M5 review: Apple’s best consumer laptop speeds up (Mean Score: 0.8185, VADER: 0.6369, TextBlob: 1.0000)
+2026-05-08 12:30:43,477 - INFO - Checking feed: https://www.theguardian.com/lifeandstyle/rss
+2026-05-08 12:30:44,103 - INFO - Found good news: How do I respond to my friends when they criticize their own weight and looks? (Mean Score: 0.3640, VADER: 0.1280, TextBlob: 0.6000)
+2026-05-08 12:30:44,112 - INFO - Found good news: Homes for sale in England with smart storage – in pictures (Mean Score: 0.3081, VADER: 0.4019, TextBlob: 0.2143)
+2026-05-08 12:30:44,338 - INFO - Found good news: Good Friday around the world – in pictures (Mean Score: 0.5702, VADER: 0.4404, TextBlob: 0.7000)
+2026-05-08 12:30:44,699 - INFO - Checking feed: https://www.sbs.com.au/news/feed
+2026-05-08 12:30:45,104 - INFO - Found good news: Pitjantjatjara Elder's gaze meets the viewer in Archibald winning piece (Mean Score: 0.5133, VADER: 0.5267, TextBlob: 0.5000)
+2026-05-08 12:30:45,386 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/index
+2026-05-08 12:30:45,472 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/science
+2026-05-08 12:30:45,549 - INFO - Found good news: Electrical current might be the key to a better cup of coffee (Mean Score: 0.3035, VADER: 0.4404, TextBlob: 0.1667)
+2026-05-08 12:30:45,551 - INFO - Found good news: Artemis II broke Fred Haise's distance record, but he is happy to pass it on (Mean Score: 0.7155, VADER: 0.6310, TextBlob: 0.8000)
+2026-05-08 12:30:45,551 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/tech-policy
+2026-05-08 12:30:45,661 - INFO - Checking feed: https://feeds.arstechnica.com/arstechnica/gaming
+2026-05-08 12:30:45,750 - INFO - Found good news: Retro Rewind re-creates the glorious drudgery of working a '90s video store (Mean Score: 0.3185, VADER: 0.6369, TextBlob: 0.0000)
+2026-05-08 12:30:45,752 - INFO - Found good news: Playing Wolfenstein 3D with one hand in 2026 (Mean Score: 0.3062, VADER: 0.6124, TextBlob: 0.0000)
+2026-05-08 12:30:45,752 - INFO - Checking feed: https://feedx.net/rss/ap.xml
+2026-05-08 12:30:46,080 - INFO - Checking feed: https://feeds.npr.org/1001/rss.xml
+2026-05-08 12:30:46,175 - INFO - Checking feed: https://feeds.npr.org/1004/rss.xml
+2026-05-08 12:30:46,225 - INFO - Checking feed: https://feeds.npr.org/1014/rss.xml
+2026-05-08 12:30:46,274 - INFO - Checking feed: https://feeds.npr.org/1019/rss.xml
+2026-05-08 12:30:46,335 - INFO - Checking feed: https://feeds.npr.org/1017/rss.xml
+2026-05-08 12:30:46,386 - INFO - Found good news: Democrats want to raise taxes on the wealthy. A look at the math (Mean Score: 0.4607, VADER: 0.4215, TextBlob: 0.5000)
+2026-05-08 12:30:46,542 - INFO - Checking feed: https://feeds.npr.org/1007/rss.xml
+2026-05-08 12:30:46,710 - INFO - Checking feed: https://feeds.npr.org/1128/rss.xml
+2026-05-08 12:30:46,767 - INFO - Saved 250 stories to docs/good_news.json.
+2026-05-08 12:30:46,854 - INFO - Archived 23 new stories to docs/old_news.json.
+2026-05-08 12:30:46,864 - INFO - Run metrics - Feeds: 29 checked, 0 failed | Entries: 837 processed, 42 accepted | Cache: 16 hits, 26 misses | Duration: 12.85s
