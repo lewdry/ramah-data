@@ -1,6 +1,166 @@
 {
-  "last run": "2026-05-07T12:39:57Z",
+  "last run": "2026-05-08T00:37:31Z",
   "stories": [
+    {
+      "headline": "How sunburn inspired a new way to store energy",
+      "link": "https://www.bbc.com/news/articles/c62l9gnx775o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3925,
+      "vader_score": 0.6486,
+      "textblob_score": 0.1364,
+      "first_sentence": "The sun does shine, sometimes, in Boston \u2013 but not like this.",
+      "timestamp": "2026-05-07T23:03:04Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Live: Nationals leader concedes it will be an 'uphill battle' to win Farrer by-election",
+      "link": "https://www.abc.net.au/news/2026-05-08/federal-politics-live-blog-farrer-gas-reservation/106654964",
+      "mean_score": 0.3821,
+      "vader_score": 0.296,
+      "textblob_score": 0.4682,
+      "first_sentence": "Voters in the federal seat of Farrer will head to the polls tomorrow to chose a replacement for former opposition leader Sussan Ley but Matt Canavan says it will be an uphill battle for the Nationals to win back.",
+      "timestamp": "2026-05-07T21:12:48Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Crowds cheer China's new snooker star on return from championship win",
+      "link": "https://www.bbc.com/news/articles/c62ex9ykl53o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.6716,
+      "vader_score": 0.875,
+      "textblob_score": 0.4682,
+      "first_sentence": "Wu Yize entered the TNT billiards club to a welcome worthy of a rock star.",
+      "timestamp": "2026-05-07T20:59:43Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Goodbye, My Love by Yumna Kassab review \u2013 biting reflections on the dissolution of a marriage",
+      "link": "https://www.theguardian.com/books/2026/may/07/goodbye-my-love-yumna-kassab-review",
+      "mean_score": 0.5685,
+      "vader_score": 0.6369,
+      "textblob_score": 0.5,
+      "first_sentence": "Goodbye, My Love begins with a departure.",
+      "timestamp": "2026-05-07T20:00:25Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Urzila Carlson thinks your mum is funny, and you should too",
+      "link": "https://www.abc.net.au/news/2026-05-08/urzila-carlson-comedian-abc-tv-urzila/106639146",
+      "mean_score": 0.3452,
+      "vader_score": 0.4404,
+      "textblob_score": 0.25,
+      "first_sentence": "She's bawdy, cheeky and funny enough to score her own special, but Urzila Carlson still gets nervous before a performance.",
+      "timestamp": "2026-05-07T18:30:00Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Gas-fired power still looks a safe bet for Centrica in the renewables era",
+      "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/may/07/gas-fired-power-still-looks-a-safe-bet-for-centrica-in-the-renewables-era",
+      "mean_score": 0.4702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.5,
+      "first_sentence": "The eye-catching non-Hormuz news in energy-land last month was that Great Britain is set for a record-breaking summer for wind and solar power generation.",
+      "timestamp": "2026-05-07T18:15:35Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Hantavirus outbreak \u2018not start of pandemic\u2019 says WHO, as Canaries secure concessions over cruise docking plans - as it happened",
+      "link": "https://www.theguardian.com/world/live/2026/may/07/ukraine-russia-drones-latvia-hungary-bulgaria-latest-news-updates",
+      "mean_score": 0.37,
+      "vader_score": 0.34,
+      "textblob_score": 0.4,
+      "first_sentence": "Back to the virus-hit cruise, Fernando Clavijo, the regional president of the Canaries, has said he persuaded the central government not to allow the MV Hondius to dock in Tenerife.",
+      "timestamp": "2026-05-07T17:53:32Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Top-tier fun can be had on the buses | Brief letters",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/may/07/top-tier-fun-can-be-had-on-the-buses",
+      "mean_score": 0.3303,
+      "vader_score": 0.5106,
+      "textblob_score": 0.15,
+      "first_sentence": "Have an opinion on anything you\u2019ve read in the Guardian today? Please email us your letter and it will be considered for publication in our letters section.",
+      "timestamp": "2026-05-07T16:31:12Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "David Squires on \u2026 El Boomer Juan Mata\u2019s superb season in Australia",
+      "link": "https://www.theguardian.com/football/picture/2026/may/08/david-squires-juan-mata-australia-a-league-semi-finals-2026",
+      "mean_score": 0.8125,
+      "vader_score": 0.6249,
+      "textblob_score": 1.0,
+      "first_sentence": "Our cartoonist wonders what the veteran Spanish maestro\u2019s left foot cannot do after an impressive campaign with Melbourne Victory Continue reading.",
+      "timestamp": "2026-05-07T15:00:20Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Champions League review: a punch for Arteta and are PSG and Arsenal really that different?",
+      "link": "https://www.theguardian.com/football/2026/may/07/champions-league-review-arsenal-psg-bayern-munich-atletico-madrid",
+      "mean_score": 0.3133,
+      "vader_score": 0.5267,
+      "textblob_score": 0.1,
+      "first_sentence": "Destination Budapest, where Paris Saint-Germain will attempt to be the first club apart from Real Madrid to win two consecutive European Cups since Milan in 1990.",
+      "timestamp": "2026-05-07T14:12:36Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Jonas Vingegaard targets Grand Tour slam as Giro d\u2019Italia begins in Bulgaria",
+      "link": "https://www.theguardian.com/sport/2026/may/07/jonas-vingegaard-targets-grand-tour-slam-as-giro-ditalia-begins-in-bulgaria-cycling",
+      "mean_score": 0.3014,
+      "vader_score": 0.1027,
+      "textblob_score": 0.5,
+      "first_sentence": "Jonas Vingegaard\u2019s bid to complete a rare Grand Tour grand slam by winning the 2026 Giro d\u2019Italia begins in Bulgaria on Friday when the double Tour de France winner makes his debut in the Italian race.",
+      "timestamp": "2026-05-07T14:00:51Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Flutes, freestyles and infectious fun: Lizzo\u2019s greatest songs \u2013 ranked!",
+      "link": "https://www.theguardian.com/music/2026/may/07/flutes-freestyles-infectious-fun-lizzo-greatest-songs-ranked",
+      "mean_score": 0.747,
+      "vader_score": 0.8439,
+      "textblob_score": 0.65,
+      "first_sentence": "Lizzo\u2019s contribution to the Barbie soundtrack fitted the film\u2019s opening scene perfectly: fluffy, wilfully lightweight disco-pop, with lyrics that split the difference between being knowingly daft and offering a self-empowerment message.",
+      "timestamp": "2026-05-07T14:00:50Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018The aim was to give Kevin Costner\u2019s version a good kicking\u2019: director John Irvin on his anti-Thatcher Robin Hood",
+      "link": "https://www.theguardian.com/film/2026/may/07/the-aim-was-to-giving-kevin-costners-version-a-good-kicking-director-john-irvin-on-his-anti-thatcher-robin-hood",
+      "mean_score": 0.5702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.7,
+      "first_sentence": "Thirty-five years ago, two films about the legend of Robin Hood \u2013 stealer from the rich, giver to the poor \u2013 met and duelled in cinemas; we all know who won, Kevin Costner\u2019s big-budget blockbuster, Robin Hood: Prince of Thieves.",
+      "timestamp": "2026-05-07T13:45:18Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "\u2018People should be talking about it\u2019: moves to curtail vaccine information obscures important science, doctors say",
+      "link": "https://www.theguardian.com/us-news/2026/may/07/health-agencies-vaccine-science-censorship",
+      "mean_score": 0.3012,
+      "vader_score": 0.2023,
+      "textblob_score": 0.4,
+      "first_sentence": "A series of high-profile and under-the-radar decisions by US health agencies have scientists and doctors questioning the extent of the agencies\u2019 control over public communications \u2013 and they say the debate is obscuring the most important part, which is informing the public about key updates in science and medicine.",
+      "timestamp": "2026-05-07T13:00:50Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Mixtape review \u2013 tongues, trolleys and classic 90s tracks celebrate teenage misadventure",
+      "link": "https://www.theguardian.com/games/2026/may/07/mixtape-review",
+      "mean_score": 0.3276,
+      "vader_score": 0.5719,
+      "textblob_score": 0.0833,
+      "first_sentence": "The older we get, the more we tend to romanticise our teenage years.",
+      "timestamp": "2026-05-07T13:00:49Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Rachel Entrekin becomes first woman to win Cocodona 250 ultramarathon \u2013 and pets dogs along the way",
+      "link": "https://www.theguardian.com/sport/2026/may/07/rachel-entrekin-cocodona-250-ultramarathon",
+      "mean_score": 0.5554,
+      "vader_score": 0.5859,
+      "textblob_score": 0.525,
+      "first_sentence": "Rachel Entrekin has made history by beating a field of elite men and women to win the Cocodona 250 ultramarathon.",
+      "timestamp": "2026-05-07T12:53:27Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "\u2018A daring flash of pubic hair\u2019: the extraordinary, monumental nudes of Sylvia Sleigh",
       "link": "https://www.theguardian.com/artanddesign/2026/may/07/sylvia-sleigh-nude-portraits-sleeping-venus-malarkey",
@@ -29,6 +189,16 @@
       "textblob_score": 0.2348,
       "first_sentence": "With the Rugby Football League\u2019s next round of talks with the NRL due on 15 May, the decision whether Super League will remain at 14 clubs or expand again to add London Broncos is imminent.",
       "timestamp": "2026-05-07T10:27:49Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Bev Priestman: \u2018You become very isolated so I\u2019ve loved getting back on the pitch\u2019",
+      "link": "https://www.theguardian.com/football/2026/may/07/bev-priestman-wellington-phoenix-canada-olympics-spy-scandal",
+      "mean_score": 0.3394,
+      "vader_score": 0.3788,
+      "textblob_score": 0.3,
+      "first_sentence": "Football is not the kind of profession that lends itself to time off for birthdays and the like.",
+      "timestamp": "2026-05-07T09:20:44Z",
       "source": "The Guardian"
     },
     {
@@ -2330,176 +2500,6 @@
       "first_sentence": "The Justice Department has secured a two-count indictment against former FBI Director James Comey for threatening President Trump by posting a photo on social media.",
       "timestamp": "2026-04-28T19:31:31Z",
       "source": "NPR News"
-    },
-    {
-      "headline": "Paris Saint-Germain v Bayern Munich: Champions League semi-final, first leg \u2013 live",
-      "link": "https://www.theguardian.com/football/live/2026/apr/28/paris-saint-germain-v-bayern-munich-champions-league-semi-final-first-leg-live",
-      "mean_score": 0.3599,
-      "vader_score": 0.5267,
-      "textblob_score": 0.1932,
-      "first_sentence": "Good news for Paris Saint-Germain: Vitinha starts.",
-      "timestamp": "2026-04-28T18:19:41Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "How do I respond to my friends when they criticize their own weight and looks?",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/apr/28/friends-criticize-weight-looks-advice",
-      "mean_score": 0.364,
-      "vader_score": 0.128,
-      "textblob_score": 0.6,
-      "first_sentence": "How do I respond to my friends when they criticize their bodies, faces, skin?.",
-      "timestamp": "2026-04-28T16:00:29Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Guardian Essential poll: more Australians approve of Hanson\u2019s party leadership than Albanese or Taylor\u2019s",
-      "link": "https://www.theguardian.com/australia-news/2026/apr/28/pauline-hanson-one-nation-leadership-guardian-essential-poll-ntwnfb",
-      "mean_score": 0.3259,
-      "vader_score": 0.4019,
-      "textblob_score": 0.25,
-      "first_sentence": "A majority of surveyed Australians approve of Pauline Hanson\u2019s leadership of One Nation, giving her a higher job approval rating than Anthony Albanese and Angus Taylor, as the Guardian Essential poll finds the rightwing populist party is outperforming the Coalition for the first time.",
-      "timestamp": "2026-04-28T15:00:13Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Boom! A melodrama fit for Elizabeth Taylor and Richard Burton\u2019s doomed love affair",
-      "link": "https://www.theguardian.com/culture/2026/apr/28/boom-a-melodrama-fit-for-elizabeth-taylor-and-richard-burtons-doomed-love-affair",
-      "mean_score": 0.31,
-      "vader_score": 0.4199,
-      "textblob_score": 0.2,
-      "first_sentence": "\u201cMy very first memory is of pain.\u201d More than a touch dramatic, the words could easily be lifted from the script of Boom! Instead, they are a real-life confession by its leading lady, Elizabeth Taylor.",
-      "timestamp": "2026-04-28T15:00:13Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Electrical current might be the key to a better cup of coffee",
-      "link": "https://arstechnica.com/science/2026/04/electrical-current-might-be-the-key-to-a-better-cup-of-coffee/",
-      "mean_score": 0.3035,
-      "vader_score": 0.4404,
-      "textblob_score": 0.1667,
-      "first_sentence": "University of Oregon chemist Christopher Hendon loves his coffee\u2014so much so that studying all the factors that go into creating the perfect cuppa constitutes a significant area of research for him.",
-      "timestamp": "2026-04-28T15:00:11Z",
-      "source": "Ars Technica"
-    },
-    {
-      "headline": "The great American data center divide",
-      "link": "https://arstechnica.com/ai/2026/04/rural-america-is-resisting-the-surge-in-data-center-construction/",
-      "mean_score": 0.4291,
-      "vader_score": 0.6249,
-      "textblob_score": 0.2333,
-      "first_sentence": "Many rural communities are viscerally opposed to AI infrastructure.",
-      "timestamp": "2026-04-28T14:15:11Z",
-      "source": "Ars Technica"
-    },
-    {
-      "headline": "A billion miles in less than a decade: GM's Super Cruise reaches a milestone",
-      "link": "https://arstechnica.com/cars/2026/04/gms-super-cruise-passes-a-billion-driven-miles-since-2017/",
-      "mean_score": 0.3541,
-      "vader_score": 0.6249,
-      "textblob_score": 0.0833,
-      "first_sentence": "The hands-free, eyes-on driver assist only works on geofenced highways.",
-      "timestamp": "2026-04-28T14:00:26Z",
-      "source": "Ars Technica"
-    },
-    {
-      "headline": "Super fly: can an electric aircraft spark a quiet revolution in New York travel?",
-      "link": "https://www.theguardian.com/us-news/2026/apr/28/electric-aircraft-new-york-air-travel",
-      "mean_score": 0.5089,
-      "vader_score": 0.7003,
-      "textblob_score": 0.3174,
-      "first_sentence": "It\u2019s neither a bird nor a plane, and it is vehemently not a helicopter, but instead this week some New Yorkers witnessed an \u201celectric vertical takeoff and landing\u201d aircraft buzzing around the city, which developers say could revolutionize travel in New York.",
-      "timestamp": "2026-04-28T12:00:10Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "The perfect birthday cake: tips for the best blow-out",
-      "link": "https://www.theguardian.com/food/2026/apr/28/perfect-birthday-cake-tips-kitchen-aide",
-      "mean_score": 0.918,
-      "vader_score": 0.836,
-      "textblob_score": 1.0,
-      "first_sentence": "Of course, some cakes are a safer choice than others.",
-      "timestamp": "2026-04-28T12:00:09Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Netball's powerful statement on Anzac Day",
-      "link": "https://www.abc.net.au/news/2026-04-28/2026-super-netball-round-up-round7/106617878",
-      "mean_score": 0.3608,
-      "vader_score": 0.4215,
-      "textblob_score": 0.3,
-      "first_sentence": "We're officially halfway through the Super Netball season and teams are desperately trying to up the ante in the race for finals spots.",
-      "timestamp": "2026-04-28T10:13:14Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Hot Chocolate founder and You Sexy Thing co-writer Tony Wilson dies",
-      "link": "https://www.bbc.com/news/articles/czx26yvgw64o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4508,
-      "vader_score": 0.5267,
-      "textblob_score": 0.375,
-      "first_sentence": "Tony Wilson, the bassist, songwriter and co-founder of the soul band Hot Chocolate, has died at the age of 89.",
-      "timestamp": "2026-04-28T09:58:36Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Houseplant hacks: is activated charcoal good for pot plants?",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/apr/28/houseplant-hacks-is-activated-charcoal-good-for-pot-plants",
-      "mean_score": 0.5702,
-      "vader_score": 0.4404,
-      "textblob_score": 0.7,
-      "first_sentence": "It promises to filter toxins, absorb odours, prevent mould and keep roots healthy, but does it deliver?.",
-      "timestamp": "2026-04-28T09:00:46Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Mexican special forces arrest top commander of powerful cartel",
-      "link": "https://www.theguardian.com/world/2026/apr/28/mexican-special-forces-arrest-top-commander-audias-flores-el-jardinero-of-powerful-cartel",
-      "mean_score": 0.4104,
-      "vader_score": 0.5994,
-      "textblob_score": 0.2214,
-      "first_sentence": "Mexican special forces have arrested one of the top commanders of the powerful Jalisco New Generation Cartel in the western state of Nayarit.",
-      "timestamp": "2026-04-28T08:35:18Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "'I'm proud to have come last at the London Marathon'",
-      "link": "https://www.bbc.com/news/articles/clyryxynd0yo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4384,
-      "vader_score": 0.4767,
-      "textblob_score": 0.4,
-      "first_sentence": "The runner who finished last at the London Marathon said it was a \"huge privilege\" to raise money for a charity that she says saved her life during a \"very dark\" time.",
-      "timestamp": "2026-04-28T05:33:16Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "NRL's greatest ever try-scorer hints at imminent PNG switch",
-      "link": "https://www.abc.net.au/news/2026-04-28/alex-johnston-hints-at-imminent-png-switch/106617140",
-      "mean_score": 0.8185,
-      "vader_score": 0.6369,
-      "textblob_score": 1.0,
-      "first_sentence": "South Sydney try-scoring freak Alex Johnston is set to become the first player to sign for the Papua New Guinea Chiefs.",
-      "timestamp": "2026-04-28T05:17:04Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "BBC's Beyond Paradise leans into South West myths",
-      "link": "https://www.bbc.com/news/articles/c8jkjkx7dw9o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3185,
-      "vader_score": 0.6369,
-      "textblob_score": 0.0,
-      "first_sentence": "The latest series of BBC TV comedy-drama Beyond Paradise is leaning into the myths and legends of the South West.",
-      "timestamp": "2026-04-28T05:03:37Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Nedra Talley Ross of the Ronettes, who sang Baby I Love You, dies",
-      "link": "https://www.abc.net.au/news/2026-04-28/nedra-talley-ross-of-the-ronettes-dies-aged-80/106615604",
-      "mean_score": 0.5685,
-      "vader_score": 0.6369,
-      "textblob_score": 0.5,
-      "first_sentence": "Nedra Talley Ross of the 1960s pop band the Ronettes has died at the age of 80.",
-      "timestamp": "2026-04-28T03:00:03Z",
-      "source": "ABC News"
     }
   ]
 }

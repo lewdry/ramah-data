@@ -1,5 +1,175 @@
 [
   {
+    "headline": "Paris Saint-Germain v Bayern Munich: Champions League semi-final, first leg \u2013 live",
+    "link": "https://www.theguardian.com/football/live/2026/apr/28/paris-saint-germain-v-bayern-munich-champions-league-semi-final-first-leg-live",
+    "mean_score": 0.3599,
+    "vader_score": 0.5267,
+    "textblob_score": 0.1932,
+    "first_sentence": "Good news for Paris Saint-Germain: Vitinha starts.",
+    "timestamp": "2026-04-28T18:19:41Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "How do I respond to my friends when they criticize their own weight and looks?",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/apr/28/friends-criticize-weight-looks-advice",
+    "mean_score": 0.364,
+    "vader_score": 0.128,
+    "textblob_score": 0.6,
+    "first_sentence": "How do I respond to my friends when they criticize their bodies, faces, skin?.",
+    "timestamp": "2026-04-28T16:00:29Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Guardian Essential poll: more Australians approve of Hanson\u2019s party leadership than Albanese or Taylor\u2019s",
+    "link": "https://www.theguardian.com/australia-news/2026/apr/28/pauline-hanson-one-nation-leadership-guardian-essential-poll-ntwnfb",
+    "mean_score": 0.3259,
+    "vader_score": 0.4019,
+    "textblob_score": 0.25,
+    "first_sentence": "A majority of surveyed Australians approve of Pauline Hanson\u2019s leadership of One Nation, giving her a higher job approval rating than Anthony Albanese and Angus Taylor, as the Guardian Essential poll finds the rightwing populist party is outperforming the Coalition for the first time.",
+    "timestamp": "2026-04-28T15:00:13Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Boom! A melodrama fit for Elizabeth Taylor and Richard Burton\u2019s doomed love affair",
+    "link": "https://www.theguardian.com/culture/2026/apr/28/boom-a-melodrama-fit-for-elizabeth-taylor-and-richard-burtons-doomed-love-affair",
+    "mean_score": 0.31,
+    "vader_score": 0.4199,
+    "textblob_score": 0.2,
+    "first_sentence": "\u201cMy very first memory is of pain.\u201d More than a touch dramatic, the words could easily be lifted from the script of Boom! Instead, they are a real-life confession by its leading lady, Elizabeth Taylor.",
+    "timestamp": "2026-04-28T15:00:13Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Electrical current might be the key to a better cup of coffee",
+    "link": "https://arstechnica.com/science/2026/04/electrical-current-might-be-the-key-to-a-better-cup-of-coffee/",
+    "mean_score": 0.3035,
+    "vader_score": 0.4404,
+    "textblob_score": 0.1667,
+    "first_sentence": "University of Oregon chemist Christopher Hendon loves his coffee\u2014so much so that studying all the factors that go into creating the perfect cuppa constitutes a significant area of research for him.",
+    "timestamp": "2026-04-28T15:00:11Z",
+    "source": "Ars Technica"
+  },
+  {
+    "headline": "The great American data center divide",
+    "link": "https://arstechnica.com/ai/2026/04/rural-america-is-resisting-the-surge-in-data-center-construction/",
+    "mean_score": 0.4291,
+    "vader_score": 0.6249,
+    "textblob_score": 0.2333,
+    "first_sentence": "Many rural communities are viscerally opposed to AI infrastructure.",
+    "timestamp": "2026-04-28T14:15:11Z",
+    "source": "Ars Technica"
+  },
+  {
+    "headline": "A billion miles in less than a decade: GM's Super Cruise reaches a milestone",
+    "link": "https://arstechnica.com/cars/2026/04/gms-super-cruise-passes-a-billion-driven-miles-since-2017/",
+    "mean_score": 0.3541,
+    "vader_score": 0.6249,
+    "textblob_score": 0.0833,
+    "first_sentence": "The hands-free, eyes-on driver assist only works on geofenced highways.",
+    "timestamp": "2026-04-28T14:00:26Z",
+    "source": "Ars Technica"
+  },
+  {
+    "headline": "Super fly: can an electric aircraft spark a quiet revolution in New York travel?",
+    "link": "https://www.theguardian.com/us-news/2026/apr/28/electric-aircraft-new-york-air-travel",
+    "mean_score": 0.5089,
+    "vader_score": 0.7003,
+    "textblob_score": 0.3174,
+    "first_sentence": "It\u2019s neither a bird nor a plane, and it is vehemently not a helicopter, but instead this week some New Yorkers witnessed an \u201celectric vertical takeoff and landing\u201d aircraft buzzing around the city, which developers say could revolutionize travel in New York.",
+    "timestamp": "2026-04-28T12:00:10Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "The perfect birthday cake: tips for the best blow-out",
+    "link": "https://www.theguardian.com/food/2026/apr/28/perfect-birthday-cake-tips-kitchen-aide",
+    "mean_score": 0.918,
+    "vader_score": 0.836,
+    "textblob_score": 1.0,
+    "first_sentence": "Of course, some cakes are a safer choice than others.",
+    "timestamp": "2026-04-28T12:00:09Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Netball's powerful statement on Anzac Day",
+    "link": "https://www.abc.net.au/news/2026-04-28/2026-super-netball-round-up-round7/106617878",
+    "mean_score": 0.3608,
+    "vader_score": 0.4215,
+    "textblob_score": 0.3,
+    "first_sentence": "We're officially halfway through the Super Netball season and teams are desperately trying to up the ante in the race for finals spots.",
+    "timestamp": "2026-04-28T10:13:14Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Hot Chocolate founder and You Sexy Thing co-writer Tony Wilson dies",
+    "link": "https://www.bbc.com/news/articles/czx26yvgw64o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4508,
+    "vader_score": 0.5267,
+    "textblob_score": 0.375,
+    "first_sentence": "Tony Wilson, the bassist, songwriter and co-founder of the soul band Hot Chocolate, has died at the age of 89.",
+    "timestamp": "2026-04-28T09:58:36Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Houseplant hacks: is activated charcoal good for pot plants?",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/apr/28/houseplant-hacks-is-activated-charcoal-good-for-pot-plants",
+    "mean_score": 0.5702,
+    "vader_score": 0.4404,
+    "textblob_score": 0.7,
+    "first_sentence": "It promises to filter toxins, absorb odours, prevent mould and keep roots healthy, but does it deliver?.",
+    "timestamp": "2026-04-28T09:00:46Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Mexican special forces arrest top commander of powerful cartel",
+    "link": "https://www.theguardian.com/world/2026/apr/28/mexican-special-forces-arrest-top-commander-audias-flores-el-jardinero-of-powerful-cartel",
+    "mean_score": 0.4104,
+    "vader_score": 0.5994,
+    "textblob_score": 0.2214,
+    "first_sentence": "Mexican special forces have arrested one of the top commanders of the powerful Jalisco New Generation Cartel in the western state of Nayarit.",
+    "timestamp": "2026-04-28T08:35:18Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "'I'm proud to have come last at the London Marathon'",
+    "link": "https://www.bbc.com/news/articles/clyryxynd0yo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4384,
+    "vader_score": 0.4767,
+    "textblob_score": 0.4,
+    "first_sentence": "The runner who finished last at the London Marathon said it was a \"huge privilege\" to raise money for a charity that she says saved her life during a \"very dark\" time.",
+    "timestamp": "2026-04-28T05:33:16Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "NRL's greatest ever try-scorer hints at imminent PNG switch",
+    "link": "https://www.abc.net.au/news/2026-04-28/alex-johnston-hints-at-imminent-png-switch/106617140",
+    "mean_score": 0.8185,
+    "vader_score": 0.6369,
+    "textblob_score": 1.0,
+    "first_sentence": "South Sydney try-scoring freak Alex Johnston is set to become the first player to sign for the Papua New Guinea Chiefs.",
+    "timestamp": "2026-04-28T05:17:04Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "BBC's Beyond Paradise leans into South West myths",
+    "link": "https://www.bbc.com/news/articles/c8jkjkx7dw9o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3185,
+    "vader_score": 0.6369,
+    "textblob_score": 0.0,
+    "first_sentence": "The latest series of BBC TV comedy-drama Beyond Paradise is leaning into the myths and legends of the South West.",
+    "timestamp": "2026-04-28T05:03:37Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Nedra Talley Ross of the Ronettes, who sang Baby I Love You, dies",
+    "link": "https://www.abc.net.au/news/2026-04-28/nedra-talley-ross-of-the-ronettes-dies-aged-80/106615604",
+    "mean_score": 0.5685,
+    "vader_score": 0.6369,
+    "textblob_score": 0.5,
+    "first_sentence": "Nedra Talley Ross of the 1960s pop band the Ronettes has died at the age of 80.",
+    "timestamp": "2026-04-28T03:00:03Z",
+    "source": "ABC News"
+  },
+  {
     "headline": "The soy sauce fish is a perfect design \u2014 except on one important point",
     "link": "https://www.abc.net.au/news/2026-04-28/sustainable-alternative-shoyu-tai-sushi-plastic-soy-sauce-fish/106596352",
     "mean_score": 0.6852,
