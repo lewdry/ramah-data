@@ -1,6 +1,126 @@
 {
-  "last run": "2026-05-09T00:38:25Z",
+  "last run": "2026-05-09T12:21:08Z",
   "stories": [
+    {
+      "headline": "We welcome scrutiny, Reform UK says after major election gains",
+      "link": "https://www.bbc.com/news/articles/cz62d2482x1o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.56,
+      "vader_score": 0.6887,
+      "textblob_score": 0.4313,
+      "first_sentence": "Reform UK has said it will \"welcome scrutiny\" of its elected representatives, after the party made major gains in polls across England, Scotland and Wales.",
+      "timestamp": "2026-05-09T11:22:03Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Why saying hello to strangers can be good for you",
+      "link": "https://www.npr.org/2026/05/09/g-s1-119761/hello-greeting-strangers-benefit-social-ties",
+      "mean_score": 0.5702,
+      "vader_score": 0.4404,
+      "textblob_score": 0.7,
+      "first_sentence": "That's a good thing to say, as we reported in a story we published three years ago: Why a stranger's hello can do more than just brighten your day.",
+      "timestamp": "2026-05-09T11:20:44Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "\u2018We\u2019re coming after those other seats\u2019: Pauline Hanson jubilant as One Nation wins Farrer byelection",
+      "link": "https://www.theguardian.com/australia-news/2026/may/09/farrer-byelection-results-one-nation-michelle-milthorpe-coalition",
+      "mean_score": 0.4573,
+      "vader_score": 0.8271,
+      "textblob_score": 0.0875,
+      "first_sentence": "Pauline Hanson says One Nation is coming after Coalition and Labor seats around Australia, declaring her supporters want to \u201ctake the country back\u201d after winning an emphatic victory in Saturday\u2019s Farrer byelection.",
+      "timestamp": "2026-05-09T11:17:50Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Liberal vote plummets as One Nation scores historic win in Farrer",
+      "link": "https://www.abc.net.au/news/2026-05-09/farrer-sat-night-results/106656856",
+      "mean_score": 0.4929,
+      "vader_score": 0.5859,
+      "textblob_score": 0.4,
+      "first_sentence": "One Nation has scored a thumping win in the Farrer by-election, marking the first time the party has won a Lower House seat in federal parliament.",
+      "timestamp": "2026-05-09T10:13:48Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "\u2018I waited half an hour for one of Hong Kong\u2019s iconic red taxis to pass by\u2019: William Shum\u2019s best phone picture",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/may/09/william-shum-best-phone-picture-hong-kong-red-taxi",
+      "mean_score": 0.4851,
+      "vader_score": 0.6369,
+      "textblob_score": 0.3333,
+      "first_sentence": "The contrast between the dense, layered building and the clean lines of the cab make for a winning imageWilliam Shum describes Yau Ma Tei, the Hong Kong district in which he took this photo, as \u201cone of the region\u2019s older and most characterful districts.",
+      "timestamp": "2026-05-09T10:00:54Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Tuppence Middleton: \u2018My guiltiest pleasure? Watching Naked Attraction when my partner is out\u2019",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/may/09/tuppence-middleton-actor-interview-ocd-slow-horses",
+      "mean_score": 0.3062,
+      "vader_score": 0.6124,
+      "textblob_score": 0.0,
+      "first_sentence": "Born in Bristol, Tuppence Middleton, 39, trained at ArtsEd\u00a0in London before appearing in films The Imitation Game and\u00a0Mank.",
+      "timestamp": "2026-05-09T09:00:53Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Melbourne City surges into ALW grand final after young gun's stunning strike",
+      "link": "https://www.abc.net.au/news/2026-05-09/melbourne-city-book-alw-final-spot-with-mcmahon-stunner/106662066",
+      "mean_score": 0.45,
+      "vader_score": 0.6249,
+      "textblob_score": 0.275,
+      "first_sentence": "Melbourne City progressed to the A-League Women's grand final with a 2-0 aggregate win over cross-town rivals Victory.",
+      "timestamp": "2026-05-09T08:31:35Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Longmuir confident Dockers can handle expectations after eight wins",
+      "link": "https://www.abc.net.au/news/2026-05-09/justin-longmuir-is-having-fun-as-dockers-sit-at-the-top/106661854",
+      "mean_score": 0.5922,
+      "vader_score": 0.7845,
+      "textblob_score": 0.4,
+      "first_sentence": "Fremantle coach Justin Longmuir says he is having fun coaching the high-flying Dockers, after guiding them to eight-straight wins and into the AFL's top two.",
+      "timestamp": "2026-05-09T08:28:17Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Historic win for SNP but change and challenges ahead at Holyrood",
+      "link": "https://www.bbc.com/news/articles/c9364lvpz2lo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.4155,
+      "vader_score": 0.431,
+      "textblob_score": 0.4,
+      "first_sentence": "Devolution was designed by Labour and delivered by Labour but the political era it ushered in has been dominated by the Scottish National Party.",
+      "timestamp": "2026-05-09T07:41:40Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Cocktails, sunsets and freshly caught seafood: 27 of the best beach bars and cafes in Europe",
+      "link": "https://www.theguardian.com/travel/2026/may/09/27-of-the-best-beach-bars-in-europe-cocktails-seafood",
+      "mean_score": 0.6435,
+      "vader_score": 0.6369,
+      "textblob_score": 0.65,
+      "first_sentence": "On Menorca\u2019s north-east coast, Es Grau is a low-key village with a crescent of dark sand in a fan-shaped bay, behind which is the s\u2019Albufera des Grau nature reserve.",
+      "timestamp": "2026-05-09T06:00:49Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "'Powerful' symbol faces removal from the heart of Chinese community",
+      "link": "https://www.abc.net.au/news/2026-05-09/chinese-community-concerns-future-of-golden-water-mouth/106657632",
+      "mean_score": 0.4703,
+      "vader_score": 0.7906,
+      "textblob_score": 0.15,
+      "first_sentence": "Sydney's Chinese community are concerned an iconic artwork at Chinatown's unofficial entry will be removed and not replaced.",
+      "timestamp": "2026-05-09T01:30:52Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Zoo owner's free land offer ignored as promised vet centre yet to be built",
+      "link": "https://www.abc.net.au/news/2026-05-09/victorian-government-wildlife-care-vet-centre-halls-gap/106649278",
+      "mean_score": 0.4712,
+      "vader_score": 0.5423,
+      "textblob_score": 0.4,
+      "first_sentence": "The Victorian government has not delivered on a 2022 state election promise to build a wildlife veterinary clinic in south-west Victoria.",
+      "timestamp": "2026-05-09T01:00:13Z",
+      "source": "ABC News"
+    },
     {
       "headline": "Spying controversy hits richest prize in world football",
       "link": "https://www.abc.net.au/news/2026-05-09/spying-drama-championship-playoffs-middlesbrough-southampton/106661446",
@@ -169,6 +289,16 @@
       "textblob_score": 0.5,
       "first_sentence": "It\u2019s late afternoon, and Lucy texts her husband\u2019s girlfriend.",
       "timestamp": "2026-05-08T10:00:24Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "The seven games that will decide whether Arsenal or City win the title",
+      "link": "https://www.theguardian.com/football/who-scored-blog/2026/may/08/premier-league-title-race-seven-games-arsenal-manchester-city",
+      "mean_score": 0.6929,
+      "vader_score": 0.5859,
+      "textblob_score": 0.8,
+      "first_sentence": "Arsenal have the advantage in the Premier League title race but will they hold off Manchester City\u2019s challenge?.",
+      "timestamp": "2026-05-08T09:24:26Z",
       "source": "The Guardian"
     },
     {
@@ -2370,136 +2500,6 @@
       "first_sentence": "Against an impenetrable black ground, the crucified figure looms pale and shining.",
       "timestamp": "2026-04-30T04:00:08Z",
       "source": "The Guardian"
-    },
-    {
-      "headline": "The Rendlesham Forest mystery: \u2018It\u2019s the perfect storm of a UFO case\u2019",
-      "link": "https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case",
-      "mean_score": 0.7859,
-      "vader_score": 0.5719,
-      "textblob_score": 1.0,
-      "first_sentence": "In 1980, two US airmen reported an extraordinary encounter near a military base in the east of England.",
-      "timestamp": "2026-04-30T04:00:08Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Joy as record-breaking runner Sawe returns home",
-      "link": "https://www.bbc.com/news/videos/cglpkexdye1o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.6929,
-      "vader_score": 0.5859,
-      "textblob_score": 0.8,
-      "first_sentence": "Sabastian Sawe, the first man to run a marathon in under two hours, has returned home to Kenya.",
-      "timestamp": "2026-04-30T02:03:17Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Artist who taught himself to paint after seeing Roy and HG portrait wins prize",
-      "link": "https://www.abc.net.au/news/2026-04-30/archibald-packing-room-prize-2026-sean-layh-jacob-collins/106616628",
-      "mean_score": 0.5453,
-      "vader_score": 0.7906,
-      "textblob_score": 0.3,
-      "first_sentence": "Sean Layh has won the $3,000 Archibald Packing Room Prize for his portrait of British Australian actor Jacob Collins, The tragicall historie of Hamlet, Prince of Denmarke.",
-      "timestamp": "2026-04-30T01:28:53Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Archibald prize 2026: Jacob Collins portrait wins the Packing Room prize as finalists revealed",
-      "link": "https://www.theguardian.com/artanddesign/2026/apr/30/archibald-prize-2026-finalists-packing-room-winner",
-      "mean_score": 0.5917,
-      "vader_score": 0.8834,
-      "textblob_score": 0.3,
-      "first_sentence": "A portrait of actor Jacob Collins by Sean Layh has won the favour of Art Gallery of NSW staff, who awarded it the Packing Room prize on Thursday, ahead of the Archibald prize\u2019s main announcement on 8 May.",
-      "timestamp": "2026-04-30T01:21:14Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Are we being told the truth about a gas profits tax? | Fiona Katauskas",
-      "link": "https://www.theguardian.com/commentisfree/picture/2026/apr/30/are-we-being-told-the-truth-about-gas-exports",
-      "mean_score": 0.3185,
-      "vader_score": 0.6369,
-      "textblob_score": 0.0,
-      "first_sentence": "Or is it the gaslight on the hill?See more of Fiona Katauskas\u2019s cartoons here Continue reading.",
-      "timestamp": "2026-04-30T01:00:25Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Archibald prize 2026 finalists: Virginia Trioli, Jan Fran, Ahmed al-Ahmed and more \u2013 in pictures",
-      "link": "https://www.theguardian.com/artanddesign/gallery/2026/apr/30/archibald-prize-2026-finalists-in-pictures",
-      "mean_score": 0.5053,
-      "vader_score": 0.5106,
-      "textblob_score": 0.5,
-      "first_sentence": "More than 1,000 portraits have been whittled down to 59 finalists for the Archibald, which opens at the Art Gallery of NSW on 9 May \u2013 the day after the winner is announced.",
-      "timestamp": "2026-04-30T01:00:03Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Meta shares slide as plan to spend billions more on AI spooks investors",
-      "link": "https://www.bbc.com/news/articles/crkpd4r2y7eo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.398,
-      "vader_score": 0.296,
-      "textblob_score": 0.5,
-      "first_sentence": "Meta took the brunt of investor concerns on Wednesday over how the biggest US tech firms are spending massive sums on artificial intelligence (AI).",
-      "timestamp": "2026-04-30T00:48:47Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Breaking: Royal commission recommends national firearms agreement, buyback scheme",
-      "link": "https://www.abc.net.au/news/2026-04-30/bondi-antisemitism-social-cohesion-royal-commission-report/106622306",
-      "mean_score": 0.3125,
-      "vader_score": 0.6249,
-      "textblob_score": 0.0,
-      "first_sentence": "All levels of government should prioritise efforts to implement nationally consistent firearms legislation, a royal commission into antisemitism in Australia has found.",
-      "timestamp": "2026-04-30T00:27:32Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "'I did not expect it': Kenya's Sabastian Sawe welcomed home with jubilant celebrations",
-      "link": "https://www.bbc.com/news/articles/cddp4y0rzjdo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3753,
-      "vader_score": 0.7506,
-      "textblob_score": 0.0,
-      "first_sentence": "Kenya's Sebastian Sawe has returned home to joyous scenes after becoming the first man to run a marathon in under two hours in competitive race conditions.",
-      "timestamp": "2026-04-29T23:54:44Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Florida approves US House map meant to boost Republicans in midterms",
-      "link": "https://www.theguardian.com/us-news/2026/apr/29/florida-legislature-congressional-map",
-      "mean_score": 0.3298,
-      "vader_score": 0.6597,
-      "textblob_score": 0.0,
-      "first_sentence": "The Florida legislature approved a new congressional map intended to maximize Republicans\u2019 advantage in the state as part of the national redistricting battle that Donald Trump launched before this year\u2019s midterms.",
-      "timestamp": "2026-04-29T23:38:45Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "'Incredibly blessed': The 86-year-old dancer on the secret to a long career",
-      "link": "https://www.bbc.com/news/articles/c5yr3yee4gno?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3931,
-      "vader_score": 0.6361,
-      "textblob_score": 0.15,
-      "first_sentence": "Dancer Joanna Banks first stepped on stage in Northern Ireland in 1958 as a teenager with the Royal Ballet, now 86 years old she is back on the boards.",
-      "timestamp": "2026-04-29T23:03:28Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Travis Head makes stunning return to form in IPL",
-      "link": "https://www.abc.net.au/news/2026-04-30/ipl-cricket-travis-head-pat-cummins-sunrisers-indians/106623746",
-      "mean_score": 0.4409,
-      "vader_score": 0.3818,
-      "textblob_score": 0.5,
-      "first_sentence": "Travis Head made 76 from 30 balls opening the batting for Sunrisers Hyderabad against Mumbai Indians.",
-      "timestamp": "2026-04-29T21:48:28Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Comey's seashell post got him indicted. But experts are sceptical the government can win",
-      "link": "https://www.bbc.com/news/articles/clyp70l1egeo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.6633,
-      "vader_score": 0.5267,
-      "textblob_score": 0.8,
-      "first_sentence": "Observers experienced a tingle of d\u00e9j\u00e0 vu this week as they watched the Department of Justice indict James Comey on charges that he threatened his political rival, President Donald Trump.",
-      "timestamp": "2026-04-29T20:18:28Z",
-      "source": "BBC News"
     }
   ]
 }

@@ -1,5 +1,135 @@
 [
   {
+    "headline": "The Rendlesham Forest mystery: \u2018It\u2019s the perfect storm of a UFO case\u2019",
+    "link": "https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case",
+    "mean_score": 0.7859,
+    "vader_score": 0.5719,
+    "textblob_score": 1.0,
+    "first_sentence": "In 1980, two US airmen reported an extraordinary encounter near a military base in the east of England.",
+    "timestamp": "2026-04-30T04:00:08Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Joy as record-breaking runner Sawe returns home",
+    "link": "https://www.bbc.com/news/videos/cglpkexdye1o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.6929,
+    "vader_score": 0.5859,
+    "textblob_score": 0.8,
+    "first_sentence": "Sabastian Sawe, the first man to run a marathon in under two hours, has returned home to Kenya.",
+    "timestamp": "2026-04-30T02:03:17Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Artist who taught himself to paint after seeing Roy and HG portrait wins prize",
+    "link": "https://www.abc.net.au/news/2026-04-30/archibald-packing-room-prize-2026-sean-layh-jacob-collins/106616628",
+    "mean_score": 0.5453,
+    "vader_score": 0.7906,
+    "textblob_score": 0.3,
+    "first_sentence": "Sean Layh has won the $3,000 Archibald Packing Room Prize for his portrait of British Australian actor Jacob Collins, The tragicall historie of Hamlet, Prince of Denmarke.",
+    "timestamp": "2026-04-30T01:28:53Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Archibald prize 2026: Jacob Collins portrait wins the Packing Room prize as finalists revealed",
+    "link": "https://www.theguardian.com/artanddesign/2026/apr/30/archibald-prize-2026-finalists-packing-room-winner",
+    "mean_score": 0.5917,
+    "vader_score": 0.8834,
+    "textblob_score": 0.3,
+    "first_sentence": "A portrait of actor Jacob Collins by Sean Layh has won the favour of Art Gallery of NSW staff, who awarded it the Packing Room prize on Thursday, ahead of the Archibald prize\u2019s main announcement on 8 May.",
+    "timestamp": "2026-04-30T01:21:14Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Are we being told the truth about a gas profits tax? | Fiona Katauskas",
+    "link": "https://www.theguardian.com/commentisfree/picture/2026/apr/30/are-we-being-told-the-truth-about-gas-exports",
+    "mean_score": 0.3185,
+    "vader_score": 0.6369,
+    "textblob_score": 0.0,
+    "first_sentence": "Or is it the gaslight on the hill?See more of Fiona Katauskas\u2019s cartoons here Continue reading.",
+    "timestamp": "2026-04-30T01:00:25Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Archibald prize 2026 finalists: Virginia Trioli, Jan Fran, Ahmed al-Ahmed and more \u2013 in pictures",
+    "link": "https://www.theguardian.com/artanddesign/gallery/2026/apr/30/archibald-prize-2026-finalists-in-pictures",
+    "mean_score": 0.5053,
+    "vader_score": 0.5106,
+    "textblob_score": 0.5,
+    "first_sentence": "More than 1,000 portraits have been whittled down to 59 finalists for the Archibald, which opens at the Art Gallery of NSW on 9 May \u2013 the day after the winner is announced.",
+    "timestamp": "2026-04-30T01:00:03Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Meta shares slide as plan to spend billions more on AI spooks investors",
+    "link": "https://www.bbc.com/news/articles/crkpd4r2y7eo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.398,
+    "vader_score": 0.296,
+    "textblob_score": 0.5,
+    "first_sentence": "Meta took the brunt of investor concerns on Wednesday over how the biggest US tech firms are spending massive sums on artificial intelligence (AI).",
+    "timestamp": "2026-04-30T00:48:47Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Breaking: Royal commission recommends national firearms agreement, buyback scheme",
+    "link": "https://www.abc.net.au/news/2026-04-30/bondi-antisemitism-social-cohesion-royal-commission-report/106622306",
+    "mean_score": 0.3125,
+    "vader_score": 0.6249,
+    "textblob_score": 0.0,
+    "first_sentence": "All levels of government should prioritise efforts to implement nationally consistent firearms legislation, a royal commission into antisemitism in Australia has found.",
+    "timestamp": "2026-04-30T00:27:32Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "'I did not expect it': Kenya's Sabastian Sawe welcomed home with jubilant celebrations",
+    "link": "https://www.bbc.com/news/articles/cddp4y0rzjdo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3753,
+    "vader_score": 0.7506,
+    "textblob_score": 0.0,
+    "first_sentence": "Kenya's Sebastian Sawe has returned home to joyous scenes after becoming the first man to run a marathon in under two hours in competitive race conditions.",
+    "timestamp": "2026-04-29T23:54:44Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Florida approves US House map meant to boost Republicans in midterms",
+    "link": "https://www.theguardian.com/us-news/2026/apr/29/florida-legislature-congressional-map",
+    "mean_score": 0.3298,
+    "vader_score": 0.6597,
+    "textblob_score": 0.0,
+    "first_sentence": "The Florida legislature approved a new congressional map intended to maximize Republicans\u2019 advantage in the state as part of the national redistricting battle that Donald Trump launched before this year\u2019s midterms.",
+    "timestamp": "2026-04-29T23:38:45Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "'Incredibly blessed': The 86-year-old dancer on the secret to a long career",
+    "link": "https://www.bbc.com/news/articles/c5yr3yee4gno?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3931,
+    "vader_score": 0.6361,
+    "textblob_score": 0.15,
+    "first_sentence": "Dancer Joanna Banks first stepped on stage in Northern Ireland in 1958 as a teenager with the Royal Ballet, now 86 years old she is back on the boards.",
+    "timestamp": "2026-04-29T23:03:28Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Travis Head makes stunning return to form in IPL",
+    "link": "https://www.abc.net.au/news/2026-04-30/ipl-cricket-travis-head-pat-cummins-sunrisers-indians/106623746",
+    "mean_score": 0.4409,
+    "vader_score": 0.3818,
+    "textblob_score": 0.5,
+    "first_sentence": "Travis Head made 76 from 30 balls opening the batting for Sunrisers Hyderabad against Mumbai Indians.",
+    "timestamp": "2026-04-29T21:48:28Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Comey's seashell post got him indicted. But experts are sceptical the government can win",
+    "link": "https://www.bbc.com/news/articles/clyp70l1egeo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.6633,
+    "vader_score": 0.5267,
+    "textblob_score": 0.8,
+    "first_sentence": "Observers experienced a tingle of d\u00e9j\u00e0 vu this week as they watched the Department of Justice indict James Comey on charges that he threatened his political rival, President Donald Trump.",
+    "timestamp": "2026-04-29T20:18:28Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "Has the world\u2019s most powerful cartel met its end?",
     "link": "https://www.abc.net.au/news/2026-04-30/uae-walks-from-opec-leaving-saudis-in-the-lurch/106620498",
     "mean_score": 0.4377,
