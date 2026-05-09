@@ -1,5 +1,145 @@
 [
   {
+    "headline": "Has the world\u2019s most powerful cartel met its end?",
+    "link": "https://www.abc.net.au/news/2026-04-30/uae-walks-from-opec-leaving-saudis-in-the-lurch/106620498",
+    "mean_score": 0.4377,
+    "vader_score": 0.4754,
+    "textblob_score": 0.4,
+    "first_sentence": "In the fractious world of Middle East politics, alliances can be fleeting affairs.",
+    "timestamp": "2026-04-29T19:33:12Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Coalition helps clear the way for One Nation in Farrer",
+    "link": "https://www.abc.net.au/news/2026-04-30/coalition-one-nation-farrer-byelection-liberals-nationals/106612436",
+    "mean_score": 0.3684,
+    "vader_score": 0.6369,
+    "textblob_score": 0.1,
+    "first_sentence": "Pauline Hanson is now set to tour more regional Coalition-held seats in her \"sexy\" new private plane, and the Liberal and National parties are helping to clear the runway.",
+    "timestamp": "2026-04-29T19:00:00Z",
+    "source": "ABC News"
+  },
+  {
+    "headline": "Hedgehog rescued from drain pipe ordeal with the help of oil and pliers",
+    "link": "https://www.bbc.com/news/articles/cm2pn5p4zm7o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.3352,
+    "vader_score": 0.6705,
+    "textblob_score": 0.0,
+    "first_sentence": "A hedgehog that spent at least four days stuck in a rusty underground drain pipe in Fife has been rescued with the help of some cooking oil and a large pair of pliers.",
+    "timestamp": "2026-04-29T17:30:21Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Farage\u2019s attempt to get ahead of \u00a35m gift story only raises more questions",
+    "link": "https://www.theguardian.com/politics/2026/apr/29/nigel-farage-christopher-harborne-gift-story-raises-more-questions",
+    "mean_score": 0.3452,
+    "vader_score": 0.4404,
+    "textblob_score": 0.25,
+    "first_sentence": "Reform leader went public after approach from Guardian, but does his claim stack up that money was for his security?.",
+    "timestamp": "2026-04-29T16:03:15Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "A bathroom for every passenger! Welcome to future of air travel \u2013 if you\u2019ve got \u00a313,000 to spare",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/apr/29/a-bathroom-for-every-passenger-welcome-to-future-of-air-travel-if-youve-got-13000-to-spare",
+    "mean_score": 0.4546,
+    "vader_score": 0.5093,
+    "textblob_score": 0.4,
+    "first_sentence": "There\u2019s no en suite in my little sixth floor flat.",
+    "timestamp": "2026-04-29T15:51:02Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "It\u2019s years late and millions over budget, now one of Australia\u2019s most beautiful pools is close to reopening",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/apr/29/its-years-late-and-millions-over-budget-now-one-of-australias-most-beautiful-pools-is-close-to-reopening",
+    "mean_score": 0.493,
+    "vader_score": 0.6361,
+    "textblob_score": 0.35,
+    "first_sentence": "A host of former Olympic swimmers have been treated to a first look at the refurbished North Sydney pool, soon to reopen after years of delays.",
+    "timestamp": "2026-04-29T15:00:53Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Australia\u2019s best photos of the month \u2013 April 2026",
+    "link": "https://www.theguardian.com/sport/gallery/2026/apr/30/australia-best-photos-images-pictures-april-2026",
+    "mean_score": 0.8185,
+    "vader_score": 0.6369,
+    "textblob_score": 1.0,
+    "first_sentence": "Sprint sensation Gout Gout continues to thrill and break records, the country marks Anzac Day, and the spotlight remains firmly on one of Australia\u2019s most decorated soldiers who is currently out on bail after being charged with five counts of the war crime of murder\u2022 Shelley\u2019s hair to Schindler\u2019s list: the most fascinating objects in the State Library of NSW \u2013 in pictures Continue reading.",
+    "timestamp": "2026-04-29T15:00:53Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Friendly AI chatbots more likely to support conspiracy theories, study finds",
+    "link": "https://www.theguardian.com/technology/2026/apr/29/making-ai-chatbots-more-friendly-mistakes-support-false-beliefs-conspiracy-theories-study",
+    "mean_score": 0.353,
+    "vader_score": 0.4144,
+    "textblob_score": 0.2917,
+    "first_sentence": "The rush to make AI chatbots more friendly has a troubling downside, researchers say.",
+    "timestamp": "2026-04-29T15:00:52Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Why friendly AI chatbots might be less trustworthy",
+    "link": "https://www.bbc.com/news/articles/cd9pdjgvxj8o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.4313,
+    "vader_score": 0.7584,
+    "textblob_score": 0.1042,
+    "first_sentence": "AI chatbots trained to be warm and friendly when interacting with users may also be more prone to inaccuracies, new research suggests.",
+    "timestamp": "2026-04-29T15:00:06Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "PM defends record as Badenoch says he squandered election win",
+    "link": "https://www.bbc.com/news/articles/cx2182v12e4o?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.6929,
+    "vader_score": 0.5859,
+    "textblob_score": 0.8,
+    "first_sentence": "Sir Keir Starmer has defended his record in government after Kemi Badenoch accused him of having \"squandered his political capital\" in the last Prime Minister's Questions before elections next week.",
+    "timestamp": "2026-04-29T14:04:43Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "What makes good \u2018game feel\u2019? These three titles have pinned it down perfectly",
+    "link": "https://www.theguardian.com/games/2026/apr/29/pushing-buttons-what-made-good-game-feel-pragmata-saros-vampire-crawler",
+    "mean_score": 0.5413,
+    "vader_score": 0.7964,
+    "textblob_score": 0.2861,
+    "first_sentence": "Game feel is one of the most elusive concepts in the glossary of interactive entertainment, at once perfectly clear and difficult to define.",
+    "timestamp": "2026-04-29T14:00:50Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "Wembanyama\u2019s \u2018extremely difficult\u2019 defense helps Spurs to first playoff series win since 2017",
+    "link": "https://www.theguardian.com/sport/2026/apr/29/wembanyamas-extremely-difficult-defense-helps-spurs-to-first-playoff-series-win-since-2017",
+    "mean_score": 0.4839,
+    "vader_score": 0.7845,
+    "textblob_score": 0.1833,
+    "first_sentence": "Victor Wembanyama had 17 points, 14 rebounds and six blocks as the San Antonio Spurs eliminated the Portland Trail Blazers and won a playoff series for the first time since 2017.",
+    "timestamp": "2026-04-29T12:04:18Z",
+    "source": "The Guardian"
+  },
+  {
+    "headline": "University wins record freedom of speech fine challenge",
+    "link": "https://www.bbc.com/news/articles/cp8pnwyy0zjo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.6167,
+    "vader_score": 0.875,
+    "textblob_score": 0.3583,
+    "first_sentence": "The University of Sussex has won its legal challenge of a record \u00a3585,000 fine over freedom of speech.",
+    "timestamp": "2026-04-29T12:02:38Z",
+    "source": "BBC News"
+  },
+  {
+    "headline": "Life after winning Race Across the World",
+    "link": "https://www.bbc.com/news/videos/ce8p056m08mo?at_medium=RSS&at_campaign=rss",
+    "mean_score": 0.5133,
+    "vader_score": 0.5267,
+    "textblob_score": 0.5,
+    "first_sentence": "Alfie Watts' next goal involves one of the country's favourite shows.",
+    "timestamp": "2026-04-29T10:09:34Z",
+    "source": "BBC News"
+  },
+  {
     "headline": "'Slap in the face to the regime': Exiled female footballers finally have reason to celebrate",
     "link": "https://www.sbs.com.au/news/article/afghan-womens-football-team-permitted-to-represent-country-in-fifa/aucmxt2us",
     "mean_score": 0.3243,

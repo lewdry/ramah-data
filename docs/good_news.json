@@ -1,6 +1,146 @@
 {
-  "last run": "2026-05-08T12:30:46Z",
+  "last run": "2026-05-09T00:38:25Z",
   "stories": [
+    {
+      "headline": "Spying controversy hits richest prize in world football",
+      "link": "https://www.abc.net.au/news/2026-05-09/spying-drama-championship-playoffs-middlesbrough-southampton/106661446",
+      "mean_score": 0.3859,
+      "vader_score": 0.7717,
+      "textblob_score": 0.0,
+      "first_sentence": "The English Football League has charged Southampton with spying on Middlesbrough ahead of their play-off clash.",
+      "timestamp": "2026-05-08T23:42:53Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "'My heart nearly stopped': Rare new bug spotted three times since discovery",
+      "link": "https://www.abc.net.au/news/2026-05-09/nt-new-bug-species-found-darwin-larrakia-feather-legged-assassin/106652182",
+      "mean_score": 0.3447,
+      "vader_score": 0.5106,
+      "textblob_score": 0.1788,
+      "first_sentence": "A new species of insect, named the Larrakia feather-legged assassin bug, has been discovered by chance just outside of Darwin.",
+      "timestamp": "2026-05-08T22:50:46Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "William hails Sir David Attenborough's 'remarkable milestone' at 100th birthday concert",
+      "link": "https://www.bbc.com/news/articles/cq5pwz743j9o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.6537,
+      "vader_score": 0.5574,
+      "textblob_score": 0.75,
+      "first_sentence": "Prince William has congratulated Sir David Attenborough on reaching a \"remarkable milestone\", as the broadcaster and environmentalist celebrated his 100th birthday.",
+      "timestamp": "2026-05-08T21:54:27Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Plaid Cymru ready to run Wales, leader says, after party wins Senedd vote",
+      "link": "https://www.bbc.com/news/articles/cdrpxvz61vko?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.543,
+      "vader_score": 0.836,
+      "textblob_score": 0.25,
+      "first_sentence": "Plaid Cymru's leader Rhun ap Iorwerth says he is ready to run the Welsh government after a stunning Senedd election victory left his party the largest group in Wales' parliament.",
+      "timestamp": "2026-05-08T21:24:20Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "King Charles sends Attenborough a birthday message with help from 'friends'",
+      "link": "https://www.bbc.com/news/videos/ce3pqvdl1zlo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3502,
+      "vader_score": 0.7003,
+      "textblob_score": 0.0,
+      "first_sentence": "Animals help King Charles deliver a birthday card to Sir David Attenborough for his 100th birthday celebration.",
+      "timestamp": "2026-05-08T20:07:21Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "The loophole that means employers don't need to pay these workers super",
+      "link": "https://www.abc.net.au/news/2026-05-09/super-law-denies-some-domestic-workers-retirement-contributions/106606612",
+      "mean_score": 0.4849,
+      "vader_score": 0.6365,
+      "textblob_score": 0.3333,
+      "first_sentence": "Domestic workers in private homes, including nannies, are not entitled to employer superannuation contributions if they work less than 30 hours a week.",
+      "timestamp": "2026-05-08T19:18:45Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Military parades and promises of peace ring hollower than ever",
+      "link": "https://www.abc.net.au/news/2026-05-09/iran-us-israel-russia-ukraine-war-military-parade-ceasefires/106657116",
+      "mean_score": 0.3135,
+      "vader_score": 0.7269,
+      "textblob_score": -0.1,
+      "first_sentence": "Images of mass military parades across vast parade grounds in Moscow, Beijing and other homes of regimes on the \"other side\" of the Cold War were a regular part of nightly television viewing, for those of us of a certain age.",
+      "timestamp": "2026-05-08T19:00:00Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "The biofuel industry is ready to expand. Here's what it says is holding it back",
+      "link": "https://www.abc.net.au/news/2026-05-09/biofuel-investment-needs-policy-certainty-super-industry-says/106606048",
+      "mean_score": 0.3429,
+      "vader_score": 0.5859,
+      "textblob_score": 0.1,
+      "first_sentence": "Biofuels could extend or replace some of Australia's crude oil consumption, using organic matter to create fuel with lower emissions.",
+      "timestamp": "2026-05-08T18:56:43Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Man pleads not guilty to threatening Andrew Mountbatten-Windsor",
+      "link": "https://www.theguardian.com/uk-news/2026/may/08/man-pleads-not-guily-to-threatening-andrew-mountbatten-windsor",
+      "mean_score": 0.438,
+      "vader_score": 0.6259,
+      "textblob_score": 0.25,
+      "first_sentence": "A man has denied threatening Andrew Mountbatten-Windsor after reports the former prince was accosted near his Sandringham home earlier this week.",
+      "timestamp": "2026-05-08T17:02:24Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Man pleads not guilty to threatening Andrew Mountbatten-Windsor",
+      "link": "https://www.bbc.com/news/articles/cwy20jdknezo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.438,
+      "vader_score": 0.6259,
+      "textblob_score": 0.25,
+      "first_sentence": "A man has denied threatening Andrew Mountbatten-Windsor during an alleged incident near his home on the Sandringham Estate in Norfolk.",
+      "timestamp": "2026-05-08T15:04:49Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Greenlandic woman wins case against Danish authorities who removed her two-hour-old child",
+      "link": "https://www.theguardian.com/world/2026/may/08/greenland-woman-wins-danish-authorities-keira-alexandra-kronvold-child",
+      "mean_score": 0.4359,
+      "vader_score": 0.5719,
+      "textblob_score": 0.3,
+      "first_sentence": "A Greenlandic woman whose newborn baby was forcibly removed by Danish authorities as a result of controversial parenting competency tests has won a landmark case in the high court ruling that their actions were illegal.",
+      "timestamp": "2026-05-08T14:45:31Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Ten of Attenborough's best documentaries and where to watch them",
+      "link": "https://www.bbc.com/news/articles/cevevg98125o?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.5685,
+      "vader_score": 0.6369,
+      "textblob_score": 0.5,
+      "first_sentence": "Sir David Attenborough's landmark natural history programmes have educated and inspired us for more than seven decades.",
+      "timestamp": "2026-05-08T14:38:10Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Huge plumes of ash rise as Indonesia's Mount Dukono erupts",
+      "link": "https://www.bbc.com/news/videos/c5y7gmmp8pdo?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.3591,
+      "vader_score": 0.3182,
+      "textblob_score": 0.4,
+      "first_sentence": "Three hikers - including two foreigners and a local resident - have died after Indonesia's Mount Dukono volcano erupted on Friday.",
+      "timestamp": "2026-05-08T13:15:14Z",
+      "source": "BBC News"
+    },
+    {
+      "headline": "Charli xcx: Rock Music review \u2013 is she really pivoting from pop? Don\u2019t be so sure \u2026",
+      "link": "https://www.theguardian.com/music/2026/may/08/charli-xcx-rock-music-review-is-she-really-pivoting-from-pop-dont-be-so-sure",
+      "mean_score": 0.4036,
+      "vader_score": 0.4572,
+      "textblob_score": 0.35,
+      "first_sentence": "She also played the interviewer a track that contained both \u201cheavily processed guitars\u201d and the lyrics \u201cI think the dancefloor is dead, so now we\u2019re making rock music\u201d: Vogue duly ran with the idea, trumpeting Charli xcx\u2019s \u201crock reinvention\u201d in both the headline and on its cover and other news outlets picked up on the story \u2013 \u201cCHARLI XCX CONFIRMS ROCK ALBUM\u201d.",
+      "timestamp": "2026-05-08T13:06:39Z",
+      "source": "The Guardian"
+    },
     {
       "headline": "Paul Simon review \u2013 at 84, back on stage after hearing loss, his resolute artistry is inspiring",
       "link": "https://www.theguardian.com/music/2026/may/08/paul-simon-tour-review-ms-bank-arena-liverpool",
@@ -2359,146 +2499,6 @@
       "textblob_score": 0.8,
       "first_sentence": "Observers experienced a tingle of d\u00e9j\u00e0 vu this week as they watched the Department of Justice indict James Comey on charges that he threatened his political rival, President Donald Trump.",
       "timestamp": "2026-04-29T20:18:28Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Has the world\u2019s most powerful cartel met its end?",
-      "link": "https://www.abc.net.au/news/2026-04-30/uae-walks-from-opec-leaving-saudis-in-the-lurch/106620498",
-      "mean_score": 0.4377,
-      "vader_score": 0.4754,
-      "textblob_score": 0.4,
-      "first_sentence": "In the fractious world of Middle East politics, alliances can be fleeting affairs.",
-      "timestamp": "2026-04-29T19:33:12Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Coalition helps clear the way for One Nation in Farrer",
-      "link": "https://www.abc.net.au/news/2026-04-30/coalition-one-nation-farrer-byelection-liberals-nationals/106612436",
-      "mean_score": 0.3684,
-      "vader_score": 0.6369,
-      "textblob_score": 0.1,
-      "first_sentence": "Pauline Hanson is now set to tour more regional Coalition-held seats in her \"sexy\" new private plane, and the Liberal and National parties are helping to clear the runway.",
-      "timestamp": "2026-04-29T19:00:00Z",
-      "source": "ABC News"
-    },
-    {
-      "headline": "Hedgehog rescued from drain pipe ordeal with the help of oil and pliers",
-      "link": "https://www.bbc.com/news/articles/cm2pn5p4zm7o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3352,
-      "vader_score": 0.6705,
-      "textblob_score": 0.0,
-      "first_sentence": "A hedgehog that spent at least four days stuck in a rusty underground drain pipe in Fife has been rescued with the help of some cooking oil and a large pair of pliers.",
-      "timestamp": "2026-04-29T17:30:21Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Farage\u2019s attempt to get ahead of \u00a35m gift story only raises more questions",
-      "link": "https://www.theguardian.com/politics/2026/apr/29/nigel-farage-christopher-harborne-gift-story-raises-more-questions",
-      "mean_score": 0.3452,
-      "vader_score": 0.4404,
-      "textblob_score": 0.25,
-      "first_sentence": "Reform leader went public after approach from Guardian, but does his claim stack up that money was for his security?.",
-      "timestamp": "2026-04-29T16:03:15Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "A bathroom for every passenger! Welcome to future of air travel \u2013 if you\u2019ve got \u00a313,000 to spare",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/apr/29/a-bathroom-for-every-passenger-welcome-to-future-of-air-travel-if-youve-got-13000-to-spare",
-      "mean_score": 0.4546,
-      "vader_score": 0.5093,
-      "textblob_score": 0.4,
-      "first_sentence": "There\u2019s no en suite in my little sixth floor flat.",
-      "timestamp": "2026-04-29T15:51:02Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "It\u2019s years late and millions over budget, now one of Australia\u2019s most beautiful pools is close to reopening",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/apr/29/its-years-late-and-millions-over-budget-now-one-of-australias-most-beautiful-pools-is-close-to-reopening",
-      "mean_score": 0.493,
-      "vader_score": 0.6361,
-      "textblob_score": 0.35,
-      "first_sentence": "A host of former Olympic swimmers have been treated to a first look at the refurbished North Sydney pool, soon to reopen after years of delays.",
-      "timestamp": "2026-04-29T15:00:53Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Australia\u2019s best photos of the month \u2013 April 2026",
-      "link": "https://www.theguardian.com/sport/gallery/2026/apr/30/australia-best-photos-images-pictures-april-2026",
-      "mean_score": 0.8185,
-      "vader_score": 0.6369,
-      "textblob_score": 1.0,
-      "first_sentence": "Sprint sensation Gout Gout continues to thrill and break records, the country marks Anzac Day, and the spotlight remains firmly on one of Australia\u2019s most decorated soldiers who is currently out on bail after being charged with five counts of the war crime of murder\u2022 Shelley\u2019s hair to Schindler\u2019s list: the most fascinating objects in the State Library of NSW \u2013 in pictures Continue reading.",
-      "timestamp": "2026-04-29T15:00:53Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Friendly AI chatbots more likely to support conspiracy theories, study finds",
-      "link": "https://www.theguardian.com/technology/2026/apr/29/making-ai-chatbots-more-friendly-mistakes-support-false-beliefs-conspiracy-theories-study",
-      "mean_score": 0.353,
-      "vader_score": 0.4144,
-      "textblob_score": 0.2917,
-      "first_sentence": "The rush to make AI chatbots more friendly has a troubling downside, researchers say.",
-      "timestamp": "2026-04-29T15:00:52Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Why friendly AI chatbots might be less trustworthy",
-      "link": "https://www.bbc.com/news/articles/cd9pdjgvxj8o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4313,
-      "vader_score": 0.7584,
-      "textblob_score": 0.1042,
-      "first_sentence": "AI chatbots trained to be warm and friendly when interacting with users may also be more prone to inaccuracies, new research suggests.",
-      "timestamp": "2026-04-29T15:00:06Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "PM defends record as Badenoch says he squandered election win",
-      "link": "https://www.bbc.com/news/articles/cx2182v12e4o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.6929,
-      "vader_score": 0.5859,
-      "textblob_score": 0.8,
-      "first_sentence": "Sir Keir Starmer has defended his record in government after Kemi Badenoch accused him of having \"squandered his political capital\" in the last Prime Minister's Questions before elections next week.",
-      "timestamp": "2026-04-29T14:04:43Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "What makes good \u2018game feel\u2019? These three titles have pinned it down perfectly",
-      "link": "https://www.theguardian.com/games/2026/apr/29/pushing-buttons-what-made-good-game-feel-pragmata-saros-vampire-crawler",
-      "mean_score": 0.5413,
-      "vader_score": 0.7964,
-      "textblob_score": 0.2861,
-      "first_sentence": "Game feel is one of the most elusive concepts in the glossary of interactive entertainment, at once perfectly clear and difficult to define.",
-      "timestamp": "2026-04-29T14:00:50Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Wembanyama\u2019s \u2018extremely difficult\u2019 defense helps Spurs to first playoff series win since 2017",
-      "link": "https://www.theguardian.com/sport/2026/apr/29/wembanyamas-extremely-difficult-defense-helps-spurs-to-first-playoff-series-win-since-2017",
-      "mean_score": 0.4839,
-      "vader_score": 0.7845,
-      "textblob_score": 0.1833,
-      "first_sentence": "Victor Wembanyama had 17 points, 14 rebounds and six blocks as the San Antonio Spurs eliminated the Portland Trail Blazers and won a playoff series for the first time since 2017.",
-      "timestamp": "2026-04-29T12:04:18Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "University wins record freedom of speech fine challenge",
-      "link": "https://www.bbc.com/news/articles/cp8pnwyy0zjo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.6167,
-      "vader_score": 0.875,
-      "textblob_score": 0.3583,
-      "first_sentence": "The University of Sussex has won its legal challenge of a record \u00a3585,000 fine over freedom of speech.",
-      "timestamp": "2026-04-29T12:02:38Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Life after winning Race Across the World",
-      "link": "https://www.bbc.com/news/videos/ce8p056m08mo?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.5133,
-      "vader_score": 0.5267,
-      "textblob_score": 0.5,
-      "first_sentence": "Alfie Watts' next goal involves one of the country's favourite shows.",
-      "timestamp": "2026-04-29T10:09:34Z",
       "source": "BBC News"
     }
   ]
