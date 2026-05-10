@@ -1,3 +1,11 @@
+## The End
+
+Rama Data feed disabled 2026-05-10. A fun & mostly functional PoC, with the occasional jaw-dropping false 'positive' headlines that slipped through the filter.
+
+That's sentiment analysis for you.
+
+---
+
 # Ramah-Data: News Aggregator
 
 This repository fetches, filters and publishes curated 'good news' as static JSON, intended for consumption by frontend clients.
