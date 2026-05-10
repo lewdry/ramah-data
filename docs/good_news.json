@@ -1,6 +1,86 @@
 {
-  "last run": "2026-05-09T12:21:08Z",
+  "last run": "2026-05-10T00:38:44Z",
   "stories": [
+    {
+      "headline": "Australia news live: triumphant Hanson blasts \u2018arrogant\u2019 major parties; Ley says \u2018voters never get it wrong\u2019",
+      "link": "https://www.theguardian.com/australia-news/live/2026/may/10/politics-updates-farrer-byelection-one-nation-win-liberal-coalition-loss-reactions-pauline-hanson-angus-taylor-tim-wilson-insiders-anthony-albanese-labor-ntwnfb",
+      "mean_score": 0.3249,
+      "vader_score": 0.7501,
+      "textblob_score": -0.1004,
+      "first_sentence": "A triumphant Pauline Hanson has accused the major parties of \u201cdisregarding and disrespecting voters\u201d for too long after One Nation\u2019s win in the Farrer byelection.",
+      "timestamp": "2026-05-10T00:28:09Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Cider mill makes sweet comeback after 100 years",
+      "link": "https://www.abc.net.au/news/2026-05-10/century-old-cider-mill-restored/106651600",
+      "mean_score": 0.4044,
+      "vader_score": 0.4588,
+      "textblob_score": 0.35,
+      "first_sentence": "An old cider mill originally built in Somerset and stationed at a cider factory near Braidwood has been brought back to working order.",
+      "timestamp": "2026-05-09T22:27:30Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Leah Purcell's The Drover's Wife becomes a powerful new opera",
+      "link": "https://www.abc.net.au/news/2026-05-10/new-australian-opera-the-drovers-wife-leah-purcell/106647650",
+      "mean_score": 0.3198,
+      "vader_score": 0.4215,
+      "textblob_score": 0.2182,
+      "first_sentence": "The Drover's Wife, Leah Purcell's retelling of Henry Lawson's 1892 short story, is getting the operatic treatment.",
+      "timestamp": "2026-05-09T21:00:00Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Rove McManus: \u2018My most memorable interaction with a fan? I was asked to sign a baby\u2019",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/may/10/rove-mcmanus-interview-10-chaotic-questions",
+      "mean_score": 0.4091,
+      "vader_score": 0.3182,
+      "textblob_score": 0.5,
+      "first_sentence": "I don\u2019t know if this is controversial but I don\u2019t like Gogglebox.",
+      "timestamp": "2026-05-09T20:00:08Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "'Easy to get influenced': What cheaper weight-loss drugs means for millions",
+      "link": "https://www.abc.net.au/news/2026-05-10/india-embraces-weight-loss-drugs-but-doctors-are-concerned/106544560",
+      "mean_score": 0.4369,
+      "vader_score": 0.4404,
+      "textblob_score": 0.4333,
+      "first_sentence": "Several pharmaceutical companies have begun selling cheaper, generic brands of semaglutide weight loss drugs in India after the patent expired in March.",
+      "timestamp": "2026-05-09T19:16:03Z",
+      "source": "ABC News"
+    },
+    {
+      "headline": "Bobby Cox, Hall of Fame manager of Atlanta Braves, dies at age 84",
+      "link": "https://www.npr.org/2026/05/09/g-s1-121311/bobby-cox-atlanta-braves-dies",
+      "mean_score": 0.3502,
+      "vader_score": 0.7003,
+      "textblob_score": 0.0,
+      "first_sentence": "ATLANTA \u2014 Bobby Cox, the folksy manager of the Atlanta Braves whose teams ruled the National League during the 1990s and gave the city its first major title as well as World Series trips that fell short, has died.",
+      "timestamp": "2026-05-09T18:41:07Z",
+      "source": "NPR News"
+    },
+    {
+      "headline": "\u2018I\u2019ll talk to work on Monday\u2019: what happens when a \u2018paper candidate\u2019 actually wins?",
+      "link": "https://www.theguardian.com/politics/2026/may/09/tyrone-scott-hackney-council-greens-paper-candidate",
+      "mean_score": 0.4359,
+      "vader_score": 0.5719,
+      "textblob_score": 0.3,
+      "first_sentence": "You would expect most political candidates who pull off a shock win to celebrate their victory, maybe with a glass of bubbly and excitement for the challenges of elected office ahead.",
+      "timestamp": "2026-05-09T16:38:07Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "Australia's right-wing One Nation party scores historic parliamentary win",
+      "link": "https://www.bbc.com/news/articles/cwy2e4z4npro?at_medium=RSS&at_campaign=rss",
+      "mean_score": 0.579,
+      "vader_score": 0.7579,
+      "textblob_score": 0.4,
+      "first_sentence": "Australia's One Nation party has won its first-ever lower-house seat in what is being seen as an important test for the right-wing populist party.",
+      "timestamp": "2026-05-09T14:36:21Z",
+      "source": "BBC News"
+    },
     {
       "headline": "We welcome scrutiny, Reform UK says after major election gains",
       "link": "https://www.bbc.com/news/articles/cz62d2482x1o?at_medium=RSS&at_campaign=rss",
@@ -29,6 +109,16 @@
       "textblob_score": 0.0875,
       "first_sentence": "Pauline Hanson says One Nation is coming after Coalition and Labor seats around Australia, declaring her supporters want to \u201ctake the country back\u201d after winning an emphatic victory in Saturday\u2019s Farrer byelection.",
       "timestamp": "2026-05-09T11:17:50Z",
+      "source": "The Guardian"
+    },
+    {
+      "headline": "The US could soon make it easier to execute people with intellectual disabilities",
+      "link": "https://www.theguardian.com/commentisfree/2026/may/09/supreme-court-death-penalty-execution-disabilities",
+      "mean_score": 0.5134,
+      "vader_score": 0.7269,
+      "textblob_score": 0.3,
+      "first_sentence": "The supreme court will soon rule on Hamm v Smith, an Alabama death penalty case that could significantly increase the number of people with intellectual disability who are executed.",
+      "timestamp": "2026-05-09T11:00:55Z",
       "source": "The Guardian"
     },
     {
@@ -2410,96 +2500,6 @@
       "first_sentence": "WA's Regional Development Assessment Panel has approved Synergy's proposed 20-turbine wind farm in the state's South West.",
       "timestamp": "2026-04-30T09:19:29Z",
       "source": "ABC News"
-    },
-    {
-      "headline": "After lackluster tour turnout, Turning Point wraps things up with excited crowd in Idaho",
-      "link": "https://www.npr.org/2026/04/30/nx-s1-5803865/turning-point-idaho-college-campus-tour-kirk",
-      "mean_score": 0.3575,
-      "vader_score": 0.34,
-      "textblob_score": 0.375,
-      "first_sentence": "Chloe Moes and Marissa Aten drove more than 500 miles to see conservative commentators Matt Walsh and Michael Knowles live at the University of Idaho.",
-      "timestamp": "2026-04-30T09:00:00Z",
-      "source": "NPR News"
-    },
-    {
-      "headline": "Meta in row after sacking workers who say they saw smart glasses users having sex",
-      "link": "https://www.bbc.com/news/articles/c5y7yvgy0w6o?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.3081,
-      "vader_score": 0.4019,
-      "textblob_score": 0.2143,
-      "first_sentence": "Meta is under pressure to explain why it cancelled a major contract with a company it was using to train AI, shortly after some of its Kenya-based workers alleged they had to view graphic content captured by Meta smart glasses.",
-      "timestamp": "2026-04-30T08:59:35Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Masterpieces by Klimt, Matisse and Freud set for London\u2019s most valuable auction",
-      "link": "https://www.theguardian.com/artanddesign/2026/apr/30/masterpieces-by-klimt-matisse-and-freud-set-for-londons-most-valuable-auction",
-      "mean_score": 0.6421,
-      "vader_score": 0.7841,
-      "textblob_score": 0.5,
-      "first_sentence": "A major group of masterpieces by some of modern art\u2019s biggest names is to be auctioned by Sotheby\u2019s in what is expected to be the most valuable collection ever offered in London.",
-      "timestamp": "2026-04-30T08:30:13Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "'Watershed' moment as communities gain new rights to buy important local buildings",
-      "link": "https://www.bbc.com/news/articles/clypwyzk71po?at_medium=RSS&at_campaign=rss",
-      "mean_score": 0.4078,
-      "vader_score": 0.6369,
-      "textblob_score": 0.1788,
-      "first_sentence": "Her domestic abuse service has been trying in vain to buy the derelict Ram's Head pub in Newton-le-Willows, Merseyside for nearly three years.",
-      "timestamp": "2026-04-30T08:00:41Z",
-      "source": "BBC News"
-    },
-    {
-      "headline": "Hey, Good Morning, How Are You? by Martina Hefter review \u2013 a hit in Germany that falls flat in English",
-      "link": "https://www.theguardian.com/books/2026/apr/30/hey-good-morning-how-are-you-by-martina-hefter-review-a-hit-in-germany-that-falls-flat-in-english",
-      "mean_score": 0.3327,
-      "vader_score": 0.4404,
-      "textblob_score": 0.225,
-      "first_sentence": "Martina Hefter\u2019s Hey, Good Morning, How Are You? has caused much argument in German literary circles.",
-      "timestamp": "2026-04-30T08:00:17Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "\u2018Sensitive, sexy and surreal\u2019: Japan\u2019s Kyotographie festival",
-      "link": "https://www.theguardian.com/artanddesign/2026/apr/30/kyotographie-festival-photography-japan",
-      "mean_score": 0.5242,
-      "vader_score": 0.765,
-      "textblob_score": 0.2833,
-      "first_sentence": "Kyotographie is Japan\u2019s foremost festival of international photography.",
-      "timestamp": "2026-04-30T08:00:12Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Sounds of hope in Kent as more nightingales join dawn chorus",
-      "link": "https://www.theguardian.com/environment/2026/apr/30/rspb-cautiously-welcomes-slight-increase-in-uk-nightingale-population",
-      "mean_score": 0.5786,
-      "vader_score": 0.6573,
-      "textblob_score": 0.5,
-      "first_sentence": "The dawn chorus at RSPB Northward Hill in Kent is a riot of sound: the melodic robin, the two-tone cuckoo, the whitethroat\u2019s scratchy warble.",
-      "timestamp": "2026-04-30T06:53:26Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "10 of the best UK nature festivals for late spring and summer",
-      "link": "https://www.theguardian.com/travel/2026/apr/30/10-best-uk-nature-festivals-late-spring-summer",
-      "mean_score": 0.5609,
-      "vader_score": 0.7717,
-      "textblob_score": 0.35,
-      "first_sentence": "The natural world is the headliner at these joyous gatherings, while the support acts include live music, immersive art and fire ceremoniesWinner of the UK\u2019s best micro-festival in 2025, Between the Trees returns to Candleston Woods in the spectacular Merthyr Mawr national nature reserve (between Cardiff and Swansea) this year.",
-      "timestamp": "2026-04-30T06:00:10Z",
-      "source": "The Guardian"
-    },
-    {
-      "headline": "Simply divine: the extraordinary supernatural visions of Francisco de Zurbar\u00e1n",
-      "link": "https://www.theguardian.com/artanddesign/2026/apr/30/simply-divine-the-extraordinary-supernatural-visions-of-francisco-de-zurbaran",
-      "mean_score": 0.4186,
-      "vader_score": 0.6705,
-      "textblob_score": 0.1667,
-      "first_sentence": "Against an impenetrable black ground, the crucified figure looms pale and shining.",
-      "timestamp": "2026-04-30T04:00:08Z",
-      "source": "The Guardian"
     }
   ]
 }
